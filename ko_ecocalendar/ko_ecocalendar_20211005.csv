@@ -1,0 +1,48 @@
+NZD_ANZCommodityPrice;20211005;00:00;ANZ Commodity Price;New Zealand;NZD;1
+JPY_JibunBankServicesPMI;20211005;00:30;Jibun Bank Services PMI;Japan;JPY;1
+AUD_ANZJobAdvertisements;20211005;00:30;ANZ Job Advertisements;Australia;AUD;1
+AUD_TradeBalance;20211005;00:30;Trade Balance (MoM);Australia;AUD;3
+AUD_Imports;20211005;00:30;Imports (MoM);Australia;AUD;2
+AUD_Exports;20211005;00:30;Exports (MoM);Australia;AUD;2
+AUD_RBAInterestRateDecision;20211005;03:30;RBA Interest Rate Decision;Australia;AUD;3
+AUD_RBARateStatement;20211005;03:30;RBA Rate Statement;Australia;AUD;3
+JPY_Auction;20211005;03:35;10-y Bond Auction;Japan;JPY;1
+RUB_S&PGlobalServicesPMI;20211005;06:00;S&P Global Services PMI;Russia;RUB;1
+EUR_FraIndustrialOutput;20211005;06:45;Industrial Output (MoM);France;EUR;1
+EUR_EurEcoFinMeeting;20211005;07:00;EcoFin Meeting;European Monetary Union;EUR;2
+EUR_ItaHCOBServicesPMI;20211005;07:45;HCOB Services PMI;Italy;EUR;2
+EUR_FraHCOBServicesPMI;20211005;07:50;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20211005;07:50;HCOB Composite PMI;France;EUR;1
+EUR_GerHCOBServicesPMI;20211005;07:55;HCOB Services PMI;Germany;EUR;1
+EUR_GerHCOBCompositePMI;20211005;07:55;HCOB Composite PMI;Germany;EUR;2
+CZK_UnemploymentRate;20211005;08:00;Unemployment Rate;Czech Republic;CZK;1
+EUR_ItaPublicDeficitGDP;20211005;08:00;Public Deficit/GDP;Italy;EUR;1
+EUR_EurHCOBServicesPMI;20211005;08:00;HCOB Services PMI;European Monetary Union;EUR;1
+EUR_EurHCOBCompositePMI;20211005;08:00;HCOB Composite PMI;European Monetary Union;EUR;2
+GBP_S&PGlobalCIPSCompositePMI;20211005;08:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSServicesPMI;20211005;08:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;1
+EUR_EurProducerPriceIndex;20211005;09:00;Producer Price Index (MoM);European Monetary Union;EUR;1
+ILS_IndustrialProduction;20211005;10:00;Industrial Production (MoM);Israel;ILS;1
+BRL_IndustrialOutput;20211005;12:00;Industrial Output (MoM);Brazil;BRL;1
+RON_Interestratedecision;20211005;12:00;Interest rate decision;Romania;RON;1
+USD_GoodsandServicesTradeBalance;20211005;12:30;Goods and Services Trade Balance;United States;USD;2
+USD_GoodsTradeBalance;20211005;12:30;Goods Trade Balance;United States;USD;1
+CAD_InternationalMerchandiseTrade;20211005;12:30;International Merchandise Trade;Canada;CAD;2
+CAD_Imports;20211005;12:30;Imports;Canada;CAD;1
+CAD_Exports;20211005;12:30;Exports;Canada;CAD;1
+USD_RedbookIndex;20211005;12:55;Redbook Index (YoY);United States;USD;1
+USD_S&PGlobalServicesPMI;20211005;13:45;S&P Global Services PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20211005;13:45;S&P Global Composite PMI;United States;USD;2
+USD_ISMServicesEmploymentIndex;20211005;14:00;ISM Services Employment Index;United States;USD;2
+USD_ISMServicesPMI;20211005;14:00;ISM Services PMI;United States;USD;3
+USD_ISMServicesNewOrdersIndex;20211005;14:00;ISM Services New Orders Index;United States;USD;2
+USD_ISMServicesPricesPaid;20211005;14:00;ISM Services Prices Paid;United States;USD;2
+USD_IBDTIPPEconomicOptimism;20211005;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+EUR_EurCentralBankSpeech;20211005;15:00;ECB President Lagarde speech;European Monetary Union;EUR;3
+NZD_GDTPriceIndex;20211005;15:00;GDT Price Index;New Zealand;NZD;1
+USD_Auction;20211005;15:30;52-Week Bill Auction;United States;USD;1
+CNY_NationalDay;20211005;16:00;National Day;China;CNY;0
+USD_CentralBankSpeech;20211005;17:15;Fed Quarles speech;United States;USD;2
+USD_APIWeeklyCrudeOilStock;20211005;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_FXReserves;20211005;21:00;FX Reserves;South Korea;KRW;1
+KRW_ConsumerPriceIndex;20211005;23:30;Consumer Price Index Growth (YoY);South Korea;KRW;1

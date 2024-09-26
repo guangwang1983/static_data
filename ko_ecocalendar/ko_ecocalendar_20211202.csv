@@ -1,0 +1,28 @@
+AUD_HomeLoans;20211202;00:30;Home Loans;Australia;AUD;1
+AUD_InvestmentLendingforHomes;20211202;00:30;Investment Lending for Homes;Australia;AUD;1
+AUD_TradeBalance;20211202;00:30;Trade Balance (MoM);Australia;AUD;3
+AUD_Exports;20211202;00:30;Exports (MoM);Australia;AUD;2
+AUD_Imports;20211202;00:30;Imports (MoM);Australia;AUD;2
+JPY_Auction;20211202;03:35;10-y Bond Auction;Japan;JPY;1
+JPY_ConsumerConfidenceIndex;20211202;05:00;Consumer Confidence Index;Japan;JPY;1
+CHF_RetailSales;20211202;07:30;Real Retail Sales (YoY);Switzerland;CHF;2
+BRL_FipeIPCInflation;20211202;08:00;Fipe IPC Inflation;Brazil;BRL;1
+HUF_TradeBalance;20211202;08:00;Trade Balance;Hungary;HUF;1
+TRY_Exports;20211202;08:40;Exports;Turkey;TRY;1
+EUR_ItaUnemployment;20211202;09:00;Unemployment;Italy;EUR;2
+USD_OPECMeeting;20211202;09:00;OPEC Meeting;United States;USD;2
+EUR_EurUnemploymentRate;20211202;10:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_FraAuction;20211202;10:00;10-y Bond Auction;France;EUR;1
+EUR_EurProducerPriceIndex;20211202;10:00;Producer Price Index (MoM);European Monetary Union;EUR;1
+BRL_GrossDomesticProduct;20211202;12:00;Gross Domestic Product (QoQ);Brazil;BRL;1
+USD_ChallengerJobCuts;20211202;12:30;Challenger Job Cuts;United States;USD;1
+RUB_CentralBankReserves;20211202;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_JoblessClaims;20211202;13:30;Continuing Jobless Claims;United States;USD;1
+EUR_EurCentralBankSpeech;20211202;14:00;ECB Panetta speech;European Monetary Union;EUR;2
+USD_EIANaturalGasStorageChange;20211202;15:30;EIA Natural Gas Storage Change;United States;USD;1
+DKK_CurrencyReserves;20211202;16:00;Currency Reserves;Denmark;DKK;1
+USD_Auction;20211202;16:30;4-Week Bill Auction;United States;USD;1
+KRW_FXReserves;20211202;21:00;FX Reserves;South Korea;KRW;1
+AUD_AiGPerformanceofConstructionIndex;20211202;21:30;AiG Performance of Construction Index;Australia;AUD;2
+AUD_S&PGlobalServicesPMI;20211202;22:00;S&P Global Services PMI;Australia;AUD;2
+AUD_S&PGlobalCompositePMI;20211202;22:00;S&P Global Composite PMI;Australia;AUD;1

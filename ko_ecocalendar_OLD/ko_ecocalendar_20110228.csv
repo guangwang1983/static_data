@@ -1,0 +1,33 @@
+JPY_UnemploymentRate;20110228;23:30;Unemployment Rate;Japan;JPY;2
+JPY_OverallHouseholdSpending;20110228;23:30;Overall Household Spending (YoY);Japan;JPY;2
+AUD_AiGPerformanceofMfgIndex;20110228;22:30;AiG Performance of Mfg Index;Australia;AUD;1
+USD_PendingHomeSales;20110228;15:00;Pending Home Sales (MoM);United States;USD;2
+USD_ChicagoPurchasingManagers'Index;20110228;14:45;Chicago Purchasing Managers' Index;United States;USD;1
+USD_CorePersonalConsumptionExpenditurePriceIndex;20110228;13:30;Core Personal Consumption Expenditure - Price Index (MoM);United States;USD;2
+USD_PersonalConsumptionExpendituresPriceIndex;20110228;13:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;3
+USD_PersonalIncome;20110228;13:30;Personal Income (MoM);United States;USD;1
+CAD_GrossDomesticProduct;20110228;13:30;Gross Domestic Product Annualized (QoQ);Canada;CAD;3
+CAD_CurrentAccount;20110228;13:30;Current Account;Canada;CAD;2
+USD_CentralBankSpeech;20110228;13:30;Fed Dudley speech;United States;USD;1
+ZAR_TradeBalance;20110228;12:00;Trade Balance (in Rands);South Africa;ZAR;2
+EUR_EurConsumerPriceIndex;20110228;10:00;Consumer Price Index (YoY);European Monetary Union;EUR;2
+CZK_M2MoneySupply;20110228;09:00;M2 Money Supply (YoY);Czech Republic;CZK;2
+NOK_CreditIndicator;20110228;09:00;Credit Indicator;Norway;NOK;1
+SEK_RetailSales;20110228;08:30;Retail Sales (YoY);Sweden;SEK;2
+DKK_GrossDomesticProduct;20110228;08:30;Gross Domestic Product - Revised (YoY);Denmark;DKK;3
+SEK_ProducerPriceIndex;20110228;08:30;Producer Price Index (YoY);Sweden;SEK;2
+SEK_TradeBalance;20110228;08:30;Trade Balance (MoM);Sweden;SEK;1
+HUF_UnemploymentRate;20110228;08:00;Unemployment Rate (3M);Hungary;HUF;1
+EUR_SloEUNormInflation;20110228;08:00;EU Norm Inflation (MoM);Slovakia;EUR;2
+ZAR_M3MoneySupply;20110228;07:00;M3 Money Supply (YoY);South Africa;ZAR;1
+ZAR_PrivateSectorCredit;20110228;06:00;Private Sector Credit;South Africa;ZAR;1
+INR_GrossDomesticProduct;20110228;05:30;Gross Domestic Product Quarterly (YoY);India;INR;1
+JPY_AnnualizedHousingStarts;20110228;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_HousingStarts;20110228;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_ConstructionOrders;20110228;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_VehicleProduction;20110228;04:00;Vehicle Production (YoY);Japan;JPY;1
+NZD_TermsofTradeIndex;20110228;03:00;Terms of Trade Index;New Zealand;NZD;2
+NZD_ANZBusinessConfidence;20110228;02:00;ANZ Business Confidence;New Zealand;NZD;2
+AUD_PrivateSectorCredit;20110228;00:30;Private Sector Credit (YoY);Australia;AUD;1
+AUD_CompanyGrossOperatingProfits;20110228;00:30;Company Gross Operating Profits (QoQ);Australia;AUD;1
+AUD_TDSecuritiesInflation;20110228;00:30;TD Securities Inflation (MoM);Australia;AUD;1

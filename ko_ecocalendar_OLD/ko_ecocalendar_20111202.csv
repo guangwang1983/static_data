@@ -1,0 +1,20 @@
+KRW_FXReserves;20111202;21:00;FX Reserves;South Korea;KRW;1
+DKK_CurrencyReserves;20111202;15:00;Currency Reserves;Denmark;DKK;1
+MXN_CentralBankInterestRate;20111202;15:00;Central Bank Interest Rate;Mexico;MXN;1
+USD_AverageHourlyEarnings;20111202;13:30;Average Hourly Earnings (MoM);United States;USD;2
+USD_NonfarmPayrolls;20111202;13:30;Nonfarm Payrolls;United States;USD;3
+USD_UnemploymentRate;20111202;13:30;Unemployment Rate;United States;USD;3
+USD_AverageWeeklyHours;20111202;13:30;Average Weekly Hours;United States;USD;1
+CAD_NetChangeinEmployment;20111202;12:00;Net Change in Employment;Canada;CAD;3
+CAD_UnemploymentRate;20111202;12:00;Unemployment Rate;Canada;CAD;3
+BRL_IndustrialOutput;20111202;11:00;Industrial Output (YoY);Brazil;BRL;1
+INR_BankLoanGrowth;20111202;10:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20111202;10:30;FX Reserves, USD;India;INR;1
+EUR_EurProducerPriceIndex;20111202;10:00;Producer Price Index (MoM);European Monetary Union;EUR;2
+BRL_FipeIPCInflation;20111202;10:00;Fipe IPC Inflation;Brazil;BRL;1
+GBP_MarkitConstructionPMI;20111202;09:30;Markit Construction PMI;United Kingdom;GBP;2
+ZAR_TotalNewVehicleSales;20111202;09:00;Total New Vehicle Sales;South Africa;ZAR;0
+CHF_RetailSales;20111202;08:15;Real Retail Sales (YoY);Switzerland;CHF;2
+NOK_RegisteredUnemployment;20111202;08:00;Registered Unemployment n.s.a;Norway;NOK;1
+HUF_TradeBalance;20111202;08:00;Trade Balance;Hungary;HUF;1
+EUR_SpaUnemploymentChange;20111202;07:00;Unemployment Change;Spain;EUR;1

@@ -1,0 +1,41 @@
+AUD_CFTCAUDNCNetPositions;20200124;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20200124;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+USD_CFTCUSDNCNetPositions;20200124;20:30;CFTC USD NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20200124;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20200124;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20200124;20:30;CFTC Oil NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20200124;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_BakerHughesUSOilRigCount;20200124;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+IDR_ChineseNewYear;20200124;17:00;Chinese New Year;Indonesia;IDR;0
+HKD_LunarNewYear;20200124;16:00;Lunar New Year;Hong Kong SAR;HKD;0
+CNY_ChineseNewYear;20200124;16:00;Chinese New Year;China;CNY;0
+SGD_ChineseNewYear;20200124;16:00;Chinese New Year;Singapore;SGD;0
+KRW_KoreanNewYear;20200124;15:00;Korean New Year ;South Korea;KRW;0
+USD_MarkitManufacturingPMI;20200124;14:45;Markit Manufacturing PMI;United States;USD;2
+USD_MarkitServicesPMI;20200124;14:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20200124;14:45;Markit PMI Composite;United States;USD;2
+EUR_BelLeadingIndicator;20200124;14:00;Leading Indicator;Belgium;EUR;1
+CAD_RetailSales;20200124;13:30;Retail Sales ex Autos (MoM);Canada;CAD;2
+RUB_ProducerPriceIndex;20200124;13:00;Producer Price Index (MoM);Russia;RUB;1
+INR_FXReservesUSD;20200124;11:30;FX Reserves, USD;India;INR;1
+EUR_EurCentralBankSpeech;20200124;10:30;ECB President Lagarde speech;European Monetary Union;EUR;3
+GBP_MarkitManufacturingPMI;20200124;09:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+GBP_MarkitServicesPMI;20200124;09:30;Markit Services PMI;United Kingdom;GBP;3
+EUR_ItaTradeBalancenonEU;20200124;09:00;Trade Balance non-EU;Italy;EUR;1
+EUR_EurMarkitPMIComposite;20200124;09:00;Markit PMI Composite;European Monetary Union;EUR;3
+EUR_EurMarkitServicesPMI;20200124;09:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_EurMarkitManufacturingPMI;20200124;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_GerMarkitPMIComposite;20200124;08:30;Markit PMI Composite;Germany;EUR;3
+EUR_GerMarkitManufacturingPMI;20200124;08:30;Markit Manufacturing PMI;Germany;EUR;3
+EUR_GerMarkitServicesPMI;20200124;08:30;Markit Services PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20200124;08:15;Markit Manufacturing PMI;France;EUR;1
+EUR_FraMarkitServicesPMI;20200124;08:15;Markit Services PMI;France;EUR;1
+EUR_FraMarkitPMIComposite;20200124;08:15;Markit PMI Composite;France;EUR;2
+EUR_AusIndustrialProduction;20200124;08:00;Industrial Production (YoY);Austria;EUR;1
+EUR_FinProducerPriceIndex;20200124;06:00;Producer Price Index (YoY);Finland;EUR;1
+EUR_FinUnemploymentRate;20200124;06:00;Unemployment Rate;Finland;EUR;1
+EUR_FinImportPrices;20200124;06:00;Import Prices (YoY);Finland;EUR;1
+EUR_FinExportPrices;20200124;06:00;Export Prices (YoY);Finland;EUR;1
+SGD_IndustrialProduction;20200124;05:00;Industrial Production (YoY);Singapore;SGD;1
+NZD_CreditCardSpending;20200124;02:00;Credit Card Spending (YoY);New Zealand;NZD;1
+JPY_JibunBankManufacturingPMI;20200124;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1

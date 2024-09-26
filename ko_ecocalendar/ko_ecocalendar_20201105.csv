@@ -1,0 +1,51 @@
+NZD_ANZActivityOutlook;20201105;00:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20201105;00:00;ANZ Business Confidence;New Zealand;NZD;1
+JPY_JibunBankServicesPMI;20201105;00:30;Jibun Bank Services PMI;Japan;JPY;1
+AUD_TradeBalance;20201105;00:30;Trade Balance (MoM);Australia;AUD;3
+AUD_Imports;20201105;00:30;Imports (MoM);Australia;AUD;2
+AUD_Exports;20201105;00:30;Exports (MoM);Australia;AUD;2
+IDR_GrossDomesticProduct;20201105;04:00;Gross Domestic Product (YoY);Indonesia;IDR;1
+RUB_S&PGlobalServicesPMI;20201105;06:00;S&P Global Services PMI;Russia;RUB;1
+CHF_SECOConsumerClimate;20201105;06:45;SECO Consumer Climate (3m);Switzerland;CHF;1
+GBP_BoEInterestRateDecision;20201105;07:00;BoE Interest Rate Decision;United Kingdom;GBP;3
+GBP_BoEAssetPurchaseFacility;20201105;07:00;BoE Asset Purchase Facility;United Kingdom;GBP;3
+GBP_MonetaryPolicySummary;20201105;07:00;Monetary Policy Summary;United Kingdom;GBP;3
+GBP_BankofEnglandMonetaryPolicyReport;20201105;07:00;Bank of England Monetary Policy Report;United Kingdom;GBP;3
+GBP_BoEMPCVoteRateUnchanged;20201105;07:00;BoE MPC Vote Rate Unchanged;United Kingdom;GBP;3
+GBP_BoEMPCVoteRateCut;20201105;07:00;BoE MPC Vote Rate Cut;United Kingdom;GBP;3
+GBP_BankofEnglandMinutes;20201105;07:00;Bank of England Minutes;United Kingdom;GBP;3
+GBP_BoEMPCVoteRateHike;20201105;07:00;BoE MPC Vote Rate Hike;United Kingdom;GBP;3
+EUR_GerFactoryOrders;20201105;07:00;Factory Orders s.a. (MoM);Germany;EUR;2
+EUR_FraIndividualInvestment;20201105;07:45;Individual Investment (Current Year);France;EUR;1
+CZK_RetailSales;20201105;08:00;Retail Sales (YoY);Czech Republic;CZK;1
+HUF_RetailSales;20201105;08:00;Retail Sales (YoY);Hungary;HUF;1
+NOK_NorgesBankInterestRateDecision;20201105;08:00;Norges Bank Interest Rate Decision;Norway;NOK;1
+SEK_IndustrialProductionValue;20201105;08:30;Industrial Production Value (YoY);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20201105;08:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+GBP_CentralBankSpeech;20201105;09:15;BoE Governor Bailey speech;United Kingdom;GBP;3
+GBP_S&PGlobalConstructionPMI;20201105;09:30;S&P Global Construction PMI;United Kingdom;GBP;1
+ILS_BudgetBalanceILS;20201105;09:50;Budget Balance - ILS;Israel;ILS;1
+EUR_FraAuction;20201105;09:50;10-y Bond Auction;France;EUR;1
+EUR_EurEuropeanCommissionreleasesEconomicGrowthForecasts;20201105;10:00;European Commission releases Economic Growth Forecasts;European Monetary Union;EUR;2
+EUR_EurRetailSales;20201105;10:00;Retail Sales (MoM);European Monetary Union;EUR;2
+ILS_FXReserves;20201105;11:00;FX Reserves;Israel;ILS;1
+MXN_ConsumerConfidence;20201105;12:00;Consumer Confidence;Mexico;MXN;1
+USD_ChallengerJobCuts;20201105;12:30;Challenger Job Cuts;United States;USD;1
+RUB_CentralBankReserves;20201105;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_JoblessClaims;20201105;13:30;Continuing Jobless Claims;United States;USD;2
+USD_UnitLaborCosts;20201105;13:30;Unit Labor Costs;United States;USD;2
+USD_NonfarmProductivity;20201105;13:30;Nonfarm Productivity;United States;USD;2
+CZK_CNBInterestRateDecision;20201105;13:30;CNB Interest Rate Decision;Czech Republic;CZK;1
+CHF_CentralBankSpeech;20201105;15:00;SNB Maechler speech;Switzerland;CHF;2
+EUR_GerCentralBankSpeech;20201105;15:00;German Buba President Weidmann speech;Germany;EUR;2
+EUR_EurCentralBankSpeech;20201105;15:10;ECB Schnabel speech;European Monetary Union;EUR;2
+USD_EIANaturalGasStorageChange;20201105;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20201105;16:30;4-Week Bill Auction;United States;USD;1
+USD_FedMonetaryPolicyStatement;20201105;19:00;Fed Monetary Policy Statement;United States;USD;3
+USD_FedInterestRateDecision;20201105;19:00;Fed Interest Rate Decision;United States;USD;3
+USD_FOMCPressConference;20201105;19:30;FOMC Press Conference;United States;USD;3
+AUD_AiGPerformanceofServicesIndex;20201105;21:30;AiG Performance of Services Index;Australia;AUD;1
+JPY_LaborCashEarnings;20201105;23:30;Labor Cash Earnings (YoY);Japan;JPY;1
+JPY_OverallHouseholdSpending;20201105;23:30;Overall Household Spending (YoY);Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20201105;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20201105;23:50;Foreign Bond Investment;Japan;JPY;1

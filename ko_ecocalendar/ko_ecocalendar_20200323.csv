@@ -1,0 +1,17 @@
+TRY_ConsumerConfidence;20200323;07:00;Consumer Confidence;Turkey;TRY;1
+DKK_ConsumerConfidence;20200323;07:00;Consumer Confidence;Denmark;DKK;1
+HUF_CurrentAccount;20200323;07:30;Current Account Balance (QoQ);Hungary;HUF;1
+ILS_IndustrialProduction;20200323;07:34;Industrial Production (MoM);Israel;ILS;1
+TRY_ForeignArrivals;20200323;08:00;Foreign Arrivals;Turkey;TRY;1
+CZK_ForeignDebt;20200323;09:00;Foreign Debt;Czech Republic;CZK;1
+EUR_GerGermanBubaMonthlyReport;20200323;11:00;German Buba Monthly Report;Germany;EUR;1
+EUR_EurG20Meeting;20200323;11:00;G20 Meeting;European Monetary Union;EUR;2
+USD_ChicagoFedNationalActivityIndex;20200323;12:30;Chicago Fed National Activity Index ;United States;USD;2
+CAD_WholesaleSales;20200323;12:30;Wholesale Sales (MoM);Canada;CAD;1
+PLN_M3MoneySupply;20200323;13:00;M3 Money Supply (YoY);Poland;PLN;1
+EUR_EurConsumerConfidence;20200323;15:00;Consumer Confidence;European Monetary Union;EUR;1
+USD_Auction;20200323;15:30;3-Month Bill Auction;United States;USD;1
+USD_SenatevotesonCoronavirusBill;20200323;16:00;Senate votes on Coronavirus Bill;United States;USD;3
+AUD_S&PGlobalCompositePMI;20200323;22:00;S&P Global Composite PMI;Australia;AUD;1
+AUD_S&PGlobalServicesPMI;20200323;22:00;S&P Global Services PMI;Australia;AUD;1
+AUD_S&PGlobalManufacturingPMI;20200323;22:00;S&P Global Manufacturing PMI;Australia;AUD;2

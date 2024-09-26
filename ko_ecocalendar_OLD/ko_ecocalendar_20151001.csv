@@ -1,0 +1,59 @@
+JPY_MonetaryBase;20151001;23:50;Monetary Base (YoY);Japan;JPY;1
+JPY_UnemploymentRate;20151001;23:30;Unemployment Rate;Japan;JPY;2
+JPY_JobsApplicantsRatio;20151001;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+JPY_OverallHouseholdSpending;20151001;23:30;Overall Household Spending (YoY);Japan;JPY;2
+KRW_CurrentAccount;20151001;23:00;Current Account Balance;South Korea;KRW;1
+KRW_ConsumerPriceIndex;20151001;23:00;Consumer Price Index Growth (MoM);South Korea;KRW;1
+ARS_TaxRevenue;20151001;21:00;Tax Revenue (MoM);Argentina;ARS;1
+BRL_TradeBalance;20151001;18:00;Trade Balance;Brazil;BRL;1
+USD_TotalVehicleSales;20151001;17:30;Total Vehicle Sales;United States;USD;1
+USD_CentralBankSpeech;20151001;16:00;Fed Chair Yellen speech;United States;USD;2
+USD_EIANaturalGasStorageChange;20151001;14:30;EIA Natural Gas Storage Change;United States;USD;1
+ISK_CBIInterestRateDecision;20151001;14:00;CBI Interest Rate Decision;Iceland;ISK;1
+USD_ISMManufacturingPMI;20151001;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMPricesPaid;20151001;14:00;ISM Prices Paid;United States;USD;3
+USD_ConstructionSpending;20151001;14:00;Construction Spending (MoM);United States;USD;2
+USD_MarkitManufacturingPMI;20151001;13:45;Markit Manufacturing PMI;United States;USD;2
+CAD_MarkitManufacturingPMI;20151001;13:30;Markit Manufacturing PMI;Canada;CAD;2
+BRL_HSBCPMIManufacturing;20151001;13:00;HSBC PMI Manufacturing;Brazil;BRL;1
+USD_JoblessClaims;20151001;12:30;Initial Jobless Claims;United States;USD;1
+SGD_PurchasingManagersIndex;20151001;12:00;Purchasing Managers Index;Singapore;SGD;1
+CZK_BudgetBalance;20151001;12:00;Budget Balance;Czech Republic;CZK;1
+USD_ChallengerJobCuts;20151001;11:30;Challenger Job Cuts;United States;USD;1
+EUR_IreConsumerConfidence;20151001;11:01;Consumer Confidence;Ireland;EUR;1
+RUB_CentralBankReserves;20151001;11:00;Central Bank Reserves $;Russia;RUB;1
+EUR_SpaAuction;20151001;10:51;5-y Bond Auction;Spain;EUR;1
+EUR_FraAuction;20151001;10:47;10-y Bond Auction;France;EUR;1
+ZAR_TotalNewVehicleSales;20151001;09:00;Total New Vehicle Sales;South Africa;ZAR;1
+GBP_MarkitManufacturingPMI;20151001;08:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+TRY_Exports;20151001;08:00;Exports;Turkey;TRY;1
+EUR_ItaPublicDeficitGDP;20151001;08:00;Public Deficit/GDP;Italy;EUR;1
+EUR_GreMarkitManufacturingPMI;20151001;08:00;Markit Manufacturing PMI;Greece;EUR;1
+EUR_EurMarkitManufacturingPMI;20151001;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_GerMarkitManufacturingPMI;20151001;07:55;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20151001;07:50;Markit Manufacturing PMI;France;EUR;1
+EUR_ItaMarkitManufacturingPMI;20151001;07:45;Markit Manufacturing PMI;Italy;EUR;1
+CHF_SVMEPurchasingManagers'Index;20151001;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_MarkitPMI;20151001;07:30;Markit PMI;Czech Republic;CZK;1
+SEK_PurchasingManagersIndexManufacturing;20151001;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;2
+EUR_SpaMarkitManufacturingPMI;20151001;07:15;Markit Manufacturing PMI;Spain;EUR;1
+CHF_RetailSales;20151001;07:15;Real Retail Sales (YoY);Switzerland;CHF;3
+AUD_RBACommodityIndexSDR;20151001;07:05;RBA Commodity Index SDR (YoY);Australia;AUD;1
+EUR_AusUnemployment;20151001;07:00;Unemployment;Austria;EUR;2
+EUR_AusUnemploymentRate;20151001;07:00;Unemployment Rate;Austria;EUR;2
+HUF_PurchasingManagerIndex;20151001;07:00;Purchasing Manager Index;Hungary;HUF;1
+PEN_Inflation;20151001;07:00;Inflation;Peru;PEN;1
+PLN_PurchasingManagerIndex;20151001;07:00;Purchasing Manager Index;Poland;PLN;2
+RUB_HSBCManufacturingPMI;20151001;06:00;HSBC Manufacturing PMI	;Russia;RUB;1
+JPY_VehicleSales;20151001;05:00;Vehicle Sales (YoY);Japan;JPY;1
+EUR_IrePurchasingManagerIndexManufacturing;20151001;05:00;Purchasing Manager Index Manufacturing;Ireland;EUR;1
+IDR_Inflation;20151001;04:00;Inflation (YoY);Indonesia;IDR;1
+IDR_CoreInflation;20151001;04:00;Core Inflation (YoY);Indonesia;IDR;1
+CNY_CaixinServicesPMI;20151001;01:45;Caixin Services PMI;China;CNY;2
+CNY_CaixinManufacturingPMI;20151001;01:45;Caixin Manufacturing PMI;China;CNY;2
+JPY_NikkeiManufacturingPMI;20151001;01:35;Nikkei Manufacturing PMI;Japan;JPY;1
+CNY_NBSManufacturingPMI;20151001;01:00;NBS Manufacturing PMI;China;CNY;2
+CNY_NonManufacturingPMI;20151001;01:00;Non-Manufacturing PMI;China;CNY;2
+JPY_CentralBankSpeech;20151001;01:00;BoJ Governor Kuroda speech;Japan;JPY;3
+HKD_NationalDay;20151001;00:00;National Day;Hong Kong SAR;HKD;0
+CNY_NationalDay;20151001;00:00;National Day;China;CNY;0

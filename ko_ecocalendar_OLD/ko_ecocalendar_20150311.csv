@@ -1,0 +1,34 @@
+JPY_TertiaryIndustryIndex;20150311;23:50;Tertiary Industry Index (MoM);Japan;JPY;2
+JPY_BSILargeManufacturingConditionsIndex;20150311;23:50;BSI Large Manufacturing Conditions Index (QoQ);Japan;JPY;2
+JPY_ForeignBondInvestment;20150311;23:50;Foreign Bond Investment;Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20150311;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+NZD_FoodPriceIndex;20150311;21:45;Food Price Index (MoM);New Zealand;NZD;1
+USD_BankStressTestInfo;20150311;20:30;Bank Stress Test Info;United States;USD;3
+NZD_RBNZInterestRateDecision;20150311;20:00;RBNZ Interest Rate Decision;New Zealand;NZD;3
+NZD_MonetaryPolicyStatement;20150311;20:00;Monetary Policy Statement ;New Zealand;NZD;3
+USD_Auction;20150311;17:00;10-Year Note Auction;United States;USD;1
+GBP_CentralBankSpeech;20150311;15:00;BoE Weale speech;United Kingdom;GBP;1
+GBP_NIESRGDPEstimate;20150311;15:00;NIESR GDP Estimate (3M);United Kingdom;GBP;2
+USD_EIACrudeOilStocksChange;20150311;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_MBAMortgageApplications;20150311;11:00;MBA Mortgage Applications;United States;USD;2
+EUR_PorConsumerPriceIndex;20150311;11:00;Consumer Price Index (MoM);Portugal;EUR;1
+GBP_ManufacturingProduction;20150311;09:30;Manufacturing Production (MoM);United Kingdom;GBP;1
+GBP_IndustrialProduction;20150311;09:30;Industrial Production (YoY);United Kingdom;GBP;2
+EUR_GerAuction;20150311;09:00;2-year Notes Auction;Germany;EUR;1
+SEK_ConsumerPriceIndex;20150311;08:30;Consumer Price Index (MoM);Sweden;SEK;1
+EUR_SloForeignTradeBalance;20150311;08:00;Foreign Trade Balance;Slovakia;EUR;1
+EUR_EurCentralBankSpeech;20150311;08:00;ECB President Draghi speech;European Monetary Union;EUR;3
+RON_IndustrialProduction;20150311;08:00;Industrial Production (MoM);Romania;RON;1
+TRY_CurrentAccount;20150311;08:00;Current Account Balance;Turkey;TRY;1
+DKK_TradeBalance;20150311;08:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20150311;08:00;Current Account;Denmark;DKK;1
+EUR_AusTradeBalance;20150311;08:00;Trade Balance;Austria;EUR;1
+HUF_TradeBalance;20150311;08:00;Trade Balance;Hungary;HUF;1
+EUR_FraCurrentAccount;20150311;07:45;Current Account;France;EUR;1
+EUR_FraNonfarmPayrolls;20150311;06:30;Nonfarm Payrolls (QoQ);France;EUR;1
+CNY_RetailSales;20150311;05:30;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20150311;05:30;Industrial Production (YoY);China;CNY;2
+CNY_FixedAssetInvestment;20150311;05:30;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+KRW_MoneySupplyGrowth;20150311;03:00;Money Supply Growth;South Korea;KRW;1
+AUD_InvestmentLendingforHomes;20150311;00:30;Investment Lending for Homes;Australia;AUD;2
+AUD_HomeLoans;20150311;00:30;Home Loans;Australia;AUD;2

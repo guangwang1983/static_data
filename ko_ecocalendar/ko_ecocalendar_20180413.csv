@@ -1,0 +1,26 @@
+IDR_IsraMiraj;20180413;00:00;Isra Miraj;Indonesia;IDR;0
+AUD_FinancialStabilityReview;20180413;01:30;Financial Stability Review;Australia;AUD;1
+CNY_TradeBalanceCNY;20180413;02:11;Trade Balance CNY;China;CNY;2
+CNY_Imports;20180413;03:14;Imports (YoY);China;CNY;2
+CNY_Exports;20180413;03:14;Exports (YoY);China;CNY;2
+CNY_TradeBalanceUSD;20180413;03:15;Trade Balance USD;China;CNY;2
+EUR_GerConsumerPriceIndex;20180413;06:00;Consumer Price Index (YoY);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20180413;06:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+PLN_ConsumerPriceIndex;20180413;08:00;Consumer Price Index (MoM);Poland;PLN;1
+CZK_CurrentAccount;20180413;08:00;Current Account (MoM);Czech Republic;CZK;1
+EUR_EurTradeBalance;20180413;09:00;Trade Balance s.a.;European Monetary Union;EUR;1
+INR_BankLoanGrowth;20180413;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20180413;11:30;FX Reserves, USD;India;INR;1
+RUB_BudgetFulfilment;20180413;12:00;Budget Fulfilment;Russia;RUB;1
+PLN_CurrentAccount;20180413;12:00;Current Account;Poland;PLN;1
+USD_CentralBankSpeech;20180413;13:00;Fed Bullard speech;United States;USD;2
+USD_JOLTSJobOpenings;20180413;14:00;JOLTS Job Openings;United States;USD;1
+USD_MichiganConsumerSentimentIndex;20180413;14:00;Michigan Consumer Sentiment Index;United States;USD;2
+USD_BakerHughesUSOilRigCount;20180413;17:00;Baker Hughes US Oil Rig Count;United States;USD;2
+EUR_EurCFTCEURNCNetPositions;20180413;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20180413;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCS&P500NCNetPositions;20180413;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20180413;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20180413;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20180413;19:30;CFTC Gold NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20180413;19:30;CFTC JPY NC Net Positions;Japan;JPY;1

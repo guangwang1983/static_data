@@ -1,0 +1,60 @@
+RON_NationalDay;20151201;00:00;National Day;Romania;RON;0
+KRW_TradeBalance;20151201;00:00;Trade Balance;South Korea;KRW;1
+AUD_CurrentAccount;20151201;00:30;Current Account Balance;Australia;AUD;1
+AUD_BuildingPermits;20151201;00:30;Building Permits (YoY);Australia;AUD;1
+CNY_NonManufacturingPMI;20151201;01:00;Non-Manufacturing PMI;China;CNY;2
+CNY_NBSManufacturingPMI;20151201;01:00;NBS Manufacturing PMI;China;CNY;2
+JPY_JibunBankManufacturingPMI;20151201;01:35;Jibun Bank Manufacturing PMI;Japan;JPY;1
+CNY_CaixinManufacturingPMI;20151201;01:45;Caixin Manufacturing PMI;China;CNY;2
+AUD_RBARateStatement;20151201;03:30;RBA Rate Statement;Australia;AUD;3
+AUD_RBAInterestRateDecision;20151201;03:30;RBA Interest Rate Decision;Australia;AUD;3
+IDR_CoreInflation;20151201;04:00;Core Inflation (YoY);Indonesia;IDR;1
+IDR_Inflation;20151201;04:00;Inflation (YoY);Indonesia;IDR;1
+JPY_VehicleSales;20151201;05:00;Vehicle Sales (YoY);Japan;JPY;1
+KRW_S&PGlobalManufacturingPMI;20151201;05:00;S&P Global Manufacturing PMI;South Korea;KRW;1
+INR_CashReserveRatio;20151201;05:30;Cash Reserve Ratio;India;INR;1
+INR_ReverseRepoRate;20151201;05:30;Reverse Repo Rate;India;INR;1
+AUD_RBACommodityIndexSDR;20151201;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+INR_RBIInterestRateDecision;20151201;05:30;RBI Interest Rate Decision (Repo Rate);India;INR;1
+RUB_S&PGlobalManufacturingPMI;20151201;06:00;S&P Global Manufacturing PMI;Russia;RUB;1
+CHF_GrossDomesticProduct;20151201;06:45;Gross Domestic Product (YoY);Switzerland;CHF;2
+GBP_BankStressTestResults;20151201;07:00;Bank Stress Test Results;United Kingdom;GBP;2
+GBP_FinancialStabilityReport;20151201;07:00;Financial Stability Report;United Kingdom;GBP;2
+SEK_PurchasingManagersIndexManufacturing;20151201;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;2
+HUF_PurchasingManagerIndex;20151201;08:00;Purchasing Manager Index;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20151201;08:00;Purchasing Manager Index;Poland;PLN;2
+CHF_RetailSales;20151201;08:15;Real Retail Sales (YoY);Switzerland;CHF;2
+GBP_FPCStatement;20151201;08:30;FPC Statement;United Kingdom;GBP;1
+CHF_SVMEPurchasingManagers'Index;20151201;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_S&PGlobalPMI;20151201;08:30;S&P Global PMI;Czech Republic;CZK;1
+EUR_ItaHCOBManufacturingPMI;20151201;08:45;HCOB Manufacturing PMI;Italy;EUR;1
+EUR_FraHCOBManufacturingPMI;20151201;08:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerUnemploymentRate;20151201;08:55;Unemployment Rate s.a.;Germany;EUR;3
+EUR_GerUnemploymentChange;20151201;08:55;Unemployment Change;Germany;EUR;3
+EUR_GerHCOBManufacturingPMI;20151201;08:55;HCOB Manufacturing PMI;Germany;EUR;2
+TRY_Exports;20151201;09:00;Exports;Turkey;TRY;1
+GBP_CentralBankSpeech;20151201;09:00;BoE Governor Carney speech;United Kingdom;GBP;3
+EUR_ItaUnemployment;20151201;09:00;Unemployment;Italy;EUR;2
+EUR_EurHCOBManufacturingPMI;20151201;09:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+GBP_S&PGlobalCIPSManufacturingPMI;20151201;09:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+EUR_EurUnemploymentRate;20151201;10:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_ItaGrossDomesticProduct;20151201;10:00;Gross Domestic Product (QoQ);Italy;EUR;1
+BRL_GrossDomesticProduct;20151201;11:00;Gross Domestic Product (QoQ);Brazil;BRL;1
+BRL_S&PGlobalManufacturingPMI;20151201;12:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+ZAR_TotalNewVehicleSales;20151201;12:08;Total New Vehicle Sales;South Africa;ZAR;1
+CZK_BudgetBalance;20151201;13:00;Budget Balance;Czech Republic;CZK;1
+CAD_GrossDomesticProduct;20151201;13:30;Gross Domestic Product Annualized;Canada;CAD;3
+USD_RedbookIndex;20151201;13:55;Redbook Index (YoY);United States;USD;1
+CAD_S&PGlobalManufacturingPMI;20151201;14:30;S&P Global Manufacturing PMI;Canada;CAD;2
+NZD_GDTPriceIndex;20151201;14:34;GDT Price Index;New Zealand;NZD;1
+USD_S&PGlobalManufacturingPMI;20151201;14:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_ISMManufacturingPMI;20151201;15:00;ISM Manufacturing PMI;United States;USD;2
+USD_ISMManufacturingPricesPaid;20151201;15:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ConstructionSpending;20151201;15:00;Construction Spending (MoM);United States;USD;2
+USD_Auction;20151201;16:30;4-Week Bill Auction;United States;USD;1
+BRL_TradeBalance;20151201;17:00;Trade Balance;Brazil;BRL;1
+USD_CentralBankSpeech;20151201;18:00;Fed Brainard speech;United States;USD;1
+USD_TotalVehicleSales;20151201;21:00;Total Vehicle Sales;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20151201;21:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_CurrentAccount;20151201;23:00;Current Account Balance;South Korea;KRW;1
+JPY_MonetaryBase;20151201;23:50;Monetary Base (YoY);Japan;JPY;1

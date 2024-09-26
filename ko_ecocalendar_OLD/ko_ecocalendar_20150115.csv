@@ -1,0 +1,43 @@
+JPY_TertiaryIndustryIndex;20150115;23:50;Tertiary Industry Index (MoM);Japan;JPY;2
+JPY_ForeignBondInvestment;20150115;23:50;Foreign Bond Investment;Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20150115;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+CLP_BCCHInterestRate;20150115;21:00;BCCH Interest Rate;Chile;CLP;1
+EUR_GerCentralBankSpeech;20150115;16:15;German Buba President Weidmann speech;Germany;EUR;2
+PEN_GrossDomesticProduct;20150115;16:00;Gross Domestic Product;Peru;PEN;1
+USD_EIANaturalGasStorageChange;20150115;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_PhiladelphiaFedManufacturingSurvey;20150115;15:00;Philadelphia Fed Manufacturing Survey;United States;USD;2
+USD_NYEmpireStateManufacturingIndex;20150115;13:30;NY Empire State Manufacturing Index;United States;USD;1
+USD_ProducerPriceIndex;20150115;13:30;Producer Price Index ex Food & Energy (YoY);United States;USD;1
+USD_JoblessClaims;20150115;13:30;Initial Jobless Claims;United States;USD;2
+PLN_ConsumerPriceIndex;20150115;13:00;Consumer Price Index (MoM);Poland;PLN;1
+CHF_CentralBankSpeech;20150115;12:15;SNB Chairman Jordan speech;Switzerland;CHF;3
+RUB_CentralBankReserves;20150115;12:00;Central Bank Reserves $;Russia;RUB;1
+IDR_BankIndonesiaRate;20150115;11:20;Bank Indonesia Rate;Indonesia;IDR;1
+EUR_IreHICP;20150115;11:00;HICP (YoY);Ireland;EUR;1
+EUR_IreConsumerPriceIndex;20150115;11:00;Consumer Price Index (YoY);Ireland;EUR;1
+EUR_EurTradeBalance;20150115;10:00;Trade Balance n.s.a.;European Monetary Union;EUR;1
+EUR_SpaAuction;20150115;09:55;5-y Bond Auction;Spain;EUR;1
+CHF_SNBInterestRateDecision;20150115;09:30;SNB Interest Rate Decision;Switzerland;CHF;3
+NOK_TradeBalance;20150115;09:00;Trade Balance;Norway;NOK;1
+TRY_BudgetBalance;20150115;09:00;Budget Balance;Turkey;TRY;1
+EUR_GerRealGDPGrowth;20150115;09:00;Real GDP Growth;Germany;EUR;1
+EUR_SpaHICP;20150115;08:00;HICP (YoY);Spain;EUR;1
+TRY_3mthquarterlyjoblessaverage;20150115;08:00;3mth quarterly jobless average;Turkey;TRY;1
+EUR_SpaConsumerPriceIndex;20150115;08:00;Consumer Price Index (MoM);Spain;EUR;1
+EUR_FinGrossDomesticProduct;20150115;07:00;Gross Domestic Product (YoY);Finland;EUR;1
+EUR_FinCurrentAccount;20150115;07:00;Current Account;Finland;EUR;1
+INR_RBIInterestRateDecision;20150115;05:30;RBI Interest Rate Decision (Repo Rate);India;INR;1
+INR_ReverseRepoRate;20150115;05:30;Reverse Repo Rate;India;INR;1
+SGD_RetailSales;20150115;05:00;Retail Sales (MoM);Singapore;SGD;1
+NZD_REINZHousePriceIndex;20150115;02:43;REINZ House Price Index (MoM);New Zealand;NZD;2
+CNY_M2MoneySupply;20150115;02:00;M2 Money Supply (YoY);China;CNY;1
+CNY_NewLoans;20150115;02:00;New Loans;China;CNY;3
+CNY_FDIForeignDirectInvestment;20150115;02:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+KRW_BoKInterestRateDecision;20150115;01:01;BoK Interest Rate Decision;South Korea;KRW;1
+AUD_RBAForeignExchangeTransaction;20150115;00:30;RBA Foreign Exchange Transaction;Australia;AUD;1
+AUD_PartTimeEmployment;20150115;00:30;Part-Time Employment;Australia;AUD;1
+AUD_UnemploymentRate;20150115;00:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_FulltimeEmployment;20150115;00:30;Fulltime Employment;Australia;AUD;2
+AUD_EmploymentChange;20150115;00:30;Employment Change s.a.;Australia;AUD;3
+AUD_ParticipationRate;20150115;00:30;Participation Rate;Australia;AUD;1
+GBP_RICSHousingPriceBalance;20150115;00:01;RICS Housing Price Balance;United Kingdom;GBP;1

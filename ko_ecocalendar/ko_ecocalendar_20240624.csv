@@ -1,0 +1,28 @@
+NZD_CreditCardSpending;20240624;03:00;Credit Card Spending (YoY);New Zealand;NZD;1
+TRY_CapacityUtilization;20240624;07:00;Capacity Utilization;Turkey;TRY;1
+TRY_ManufacturingConfidence;20240624;07:00;Manufacturing Confidence;Turkey;TRY;1
+EUR_EurEurogroupMeeting;20240624;07:00;Eurogroup Meeting;Eurozone;EUR;2
+EUR_GerIFO–Expectations;20240624;08:00;IFO – Expectations;Germany;EUR;2
+EUR_GerIFO–BusinessClimate;20240624;08:00;IFO – Business Climate;Germany;EUR;2
+EUR_GerIFO–CurrentAssessment;20240624;08:00;IFO – Current Assessment;Germany;EUR;2
+PLN_RetailSales;20240624;08:00;Retail Sales (YoY);Poland;PLN;1
+EUR_GerCentralBankSpeech;20240624;10:10;German Buba President Nagel speech;Germany;EUR;2
+PLN_M3MoneySupply;20240624;12:00;M3 Money Supply (YoY);Poland;PLN;1
+MXN_1sthalfmonthCoreInflation;20240624;12:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20240624;12:00;1st half-month Inflation;Mexico;MXN;1
+USD_ChicagoFedNationalActivityIndex;20240624;12:30;Chicago Fed National Activity Index ;United States;USD;1
+BRL_CurrentAccount;20240624;12:30;Current Account;Brazil;BRL;1
+USD_DallasFedManufacturingBusinessIndex;20240624;14:30;Dallas Fed Manufacturing Business Index;United States;USD;1
+USD_Auction;20240624;15:30;6-Month Bill Auction;United States;USD;1
+EUR_EurCentralBankSpeech;20240624;15:30;ECB Schnabel speech;Eurozone;EUR;2
+CAD_CentralBankSpeech;20240624;17:00;BoC Governor Macklem speech;Canada;CAD;3
+USD_CentralBankSpeech;20240624;18:00;Fed Daly speech;United States;USD;2
+USD_CFTCS&P500NCNetPositions;20240624;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20240624;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20240624;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20240624;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20240624;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20240624;19:30;CFTC EUR NC Net Positions;Eurozone;EUR;1
+AUD_CFTCAUDNCNetPositions;20240624;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+KRW_ConsumerSentimentIndex;20240624;21:00;Consumer Sentiment Index;South Korea;KRW;1
+JPY_CorporateServicePriceIndex;20240624;23:50;Corporate Service Price Index (YoY);Japan;JPY;1

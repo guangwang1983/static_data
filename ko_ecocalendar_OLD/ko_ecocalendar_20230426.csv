@@ -1,0 +1,23 @@
+AUD_ConsumerPriceIndex;20230426;01:30;Monthly Consumer Price Index (YoY);Australia;AUD;3
+AUD_RBATrimmedMeanCPI;20230426;01:30;RBA Trimmed Mean CPI (YoY);Australia;AUD;1
+NZD_CreditCardSpending;20230426;03:00;Credit Card Spending (YoY);New Zealand;NZD;1
+SEK_UnemploymentRate;20230426;06:00;Unemployment Rate;Sweden;SEK;1
+SEK_TradeBalance;20230426;06:00;Trade Balance (MoM);Sweden;SEK;1
+HUF_GrossWages;20230426;06:30;Gross Wages (YoY);Hungary;HUF;1
+SEK_RiksbankInterestRateDecision;20230426;07:30;Riksbank Interest Rate Decision;Sweden;SEK;1
+PLN_Unemployment;20230426;08:00;Unemployment (MoM);Poland;PLN;1
+CHF_ZEWSurvey–Expectations;20230426;08:00;ZEW Survey – Expectations;Switzerland;CHF;2
+ZAR_ProducerPriceIndex;20230426;09:30;Producer Price Index (YoY);South Africa;ZAR;1
+USD_MBAMortgageApplications;20230426;11:00;MBA Mortgage Applications;United States;USD;1
+BRL_MidmonthInflation;20230426;12:00;Mid-month Inflation;Brazil;BRL;1
+USD_WholesaleInventories;20230426;12:30;Wholesale Inventories;United States;USD;1
+USD_GoodsTradeBalance;20230426;12:30;Goods Trade Balance;United States;USD;1
+USD_DurableGoodsOrders;20230426;12:30;Durable Goods Orders;United States;USD;3
+USD_NondefenseCapitalGoodsOrdersexAircraft;20230426;12:30;Nondefense Capital Goods Orders ex Aircraft;United States;USD;3
+USD_EIACrudeOilStocksChange;20230426;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+RUB_IndustrialOutput;20230426;16:00;Industrial Output;Russia;RUB;1
+USD_Auction;20230426;17:00;5-Year Note Auction;United States;USD;1
+KRW_BOKManufacturingBSI;20230426;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+ZAR_FreedomDay;20230426;22:00;Freedom Day;South Africa;ZAR;0
+JPY_ForeignBondInvestment;20230426;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20230426;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1

@@ -1,0 +1,41 @@
+JPY_JibunBankManufacturingPMI;20200521;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+AUD_CentralBankSpeech;20200521;02:30;RBA Governor Lowe speech;Australia;AUD;3
+NZD_CreditCardSpending;20200521;03:00;Credit Card Spending (YoY);New Zealand;NZD;1
+CLP_NavyDay;20200521;04:00;Navy Day ;Chile;CLP;0
+EUR_FraHCOBServicesPMI;20200521;07:15;HCOB Services PMI;France;EUR;2
+EUR_FraHCOBManufacturingPMI;20200521;07:15;HCOB Manufacturing PMI;France;EUR;2
+EUR_FraHCOBCompositePMI;20200521;07:15;HCOB Composite PMI;France;EUR;2
+EUR_GerHCOBManufacturingPMI;20200521;07:30;HCOB Manufacturing PMI;Germany;EUR;3
+EUR_GerHCOBServicesPMI;20200521;07:30;HCOB Services PMI;Germany;EUR;2
+EUR_GerHCOBCompositePMI;20200521;07:30;HCOB Composite PMI;Germany;EUR;3
+PLN_IndustrialOutput;20200521;08:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20200521;08:00;Producer Price Index (YoY);Poland;PLN;1
+EUR_EurHCOBServicesPMI;20200521;08:00;HCOB Services PMI;European Monetary Union;EUR;2
+EUR_EurHCOBManufacturingPMI;20200521;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurHCOBCompositePMI;20200521;08:00;HCOB Composite PMI;European Monetary Union;EUR;3
+GBP_S&PGlobalCIPSManufacturingPMI;20200521;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSServicesPMI;20200521;08:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;3
+GBP_S&PGlobalCIPSCompositePMI;20200521;08:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;2
+GBP_CBIIndustrialTrendsSurvey–Orders;20200521;10:00;CBI Industrial Trends Survey – Orders (MoM);United Kingdom;GBP;1
+TRY_CBRTInterestRateDecision;20200521;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+USD_JoblessClaims;20200521;12:30;Initial Jobless Claims 4-week average;United States;USD;2
+CAD_ADPEmploymentChange;20200521;12:30;ADP Employment Change;Canada;CAD;1
+USD_PhiladelphiaFedManufacturingSurvey;20200521;12:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+CAD_NewHousingPriceIndex;20200521;12:33;New Housing Price Index (MoM);Canada;CAD;1
+RUB_CentralBankReserves;20200521;13:00;Central Bank Reserves $;Russia;RUB;1
+RUB_IndustrialOutput;20200521;13:00;Industrial Output;Russia;RUB;1
+ZAR_SARBInterestRateDecision;20200521;13:09;SARB Interest Rate Decision;South Africa;ZAR;1
+USD_S&PGlobalCompositePMI;20200521;13:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalManufacturingPMI;20200521;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20200521;13:45;S&P Global Services PMI;United States;USD;2
+USD_ExistingHomeSales;20200521;14:00;Existing Home Sales (MoM);United States;USD;2
+USD_ExistingHomeSalesChange;20200521;14:00;Existing Home Sales Change (MoM);United States;USD;1
+USD_EIANaturalGasStorageChange;20200521;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20200521;17:00;10-year TIPS Auction;United States;USD;1
+IDR_CutiBersama;20200521;17:00;Cuti Bersama;Indonesia;IDR;0
+USD_CentralBankSpeech;20200521;18:30;Fed Chair Powell speech;United States;USD;3
+NZD_RetailSales;20200521;22:45;Retail Sales ex Autos (QoQ);New Zealand;NZD;1
+GBP_GfKConsumerConfidence;20200521;23:01;GfK Consumer Confidence;United Kingdom;GBP;2
+JPY_NationalCPIexFoodEnergy;20200521;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20200521;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20200521;23:30;National Consumer Price Index (YoY);Japan;JPY;2

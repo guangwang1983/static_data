@@ -1,0 +1,23 @@
+AUD_HousePriceIndex;20170620;01:30;House Price Index (QoQ);Australia;AUD;2
+AUD_RBAMeetingMinutes;20170620;01:30;RBA Meeting Minutes;Australia;AUD;3
+CHF_SECOEconomicForecasts;20170620;05:45;SECO Economic Forecasts;Switzerland;CHF;2
+EUR_GerProducerPriceIndex;20170620;06:00;Producer Price Index (MoM);Germany;EUR;2
+GBP_CentralBankSpeech;20170620;07:30;BoE Governor Carney speech;United Kingdom;GBP;3
+SEK_UnemploymentRate;20170620;07:30;Unemployment Rate;Sweden;SEK;1
+EUR_EurCurrentAccount;20170620;08:00;Current Account n.s.a;European Monetary Union;EUR;1
+CHF_CentralBankSpeech;20170620;08:45;SNB Chairman Jordan speech;Switzerland;CHF;2
+PLN_RetailSales;20170620;12:00;Retail Sales (YoY);Poland;PLN;1
+PLN_IndustrialOutput;20170620;12:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20170620;12:00;Producer Price Index (YoY);Poland;PLN;1
+USD_CurrentAccount;20170620;12:30;Current Account;United States;USD;1
+HUF_MNBInterestRateDecision;20170620;12:30;MNB Interest Rate Decision;Hungary;HUF;1
+CAD_WholesaleSales;20170620;12:30;Wholesale Sales (MoM);Canada;CAD;1
+USD_RedbookIndex;20170620;12:55;Redbook Index (YoY);United States;USD;1
+MXN_PrivateSpending;20170620;13:00;Private Spending (YoY);Mexico;MXN;1
+RUB_UnemploymentRate;20170620;13:00;Unemployment Rate;Russia;RUB;1
+NZD_GDTPriceIndex;20170620;14:00;GDT Price Index;New Zealand;NZD;1
+COP_TradeBalance;20170620;15:00;Trade Balance;Colombia;COP;1
+USD_Auction;20170620;15:30;52-Week Bill Auction;United States;USD;1
+USD_CentralBankSpeech;20170620;19:00;Fed Kaplan speech;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20170620;20:30;API Weekly Crude Oil Stock;United States;USD;1
+JPY_BoJMonetaryPolicyMeetingMinutes;20170620;23:50;BoJ Monetary Policy Meeting Minutes;Japan;JPY;3

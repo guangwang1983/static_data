@@ -1,0 +1,41 @@
+PEN_Tradebalance;20141010;15:00;Trade balance;Peru;PEN;1
+CAD_BankofCanadaBusinessOutlookSurvey;20141010;14:30;Bank of Canada Business Outlook Survey;Canada;CAD;2
+USD_CentralBankSpeech;20141010;13:00;Philadelphia Fed Plosser speech;United States;USD;1
+MXN_IndustrialOutput;20141010;13:00;Industrial Output (YoY);Mexico;MXN;1
+USD_ImportPriceIndex;20141010;12:30;Import Price Index (MoM);United States;USD;1
+USD_ExportPriceIndex;20141010;12:30;Export Price Index (YoY);United States;USD;1
+CAD_ParticipationRate;20141010;12:30;Participation Rate;Canada;CAD;1
+CAD_NetChangeinEmployment;20141010;12:30;Net Change in Employment;Canada;CAD;3
+CAD_UnemploymentRate;20141010;12:30;Unemployment Rate;Canada;CAD;3
+INR_ManufacturingOutput;20141010;12:00;Manufacturing Output;India;INR;1
+INR_IndustrialOutput;20141010;12:00;Industrial Output;India;INR;1
+INR_CumulativeIndustrialOutput;20141010;12:00;Cumulative Industrial Output;India;INR;1
+INR_FXReservesUSD;20141010;11:30;FX Reserves, USD;India;INR;1
+EUR_PorGlobalTradeBalance;20141010;10:04;Global Trade Balance;Portugal;EUR;1
+EUR_PorConsumerPriceIndex;20141010;10:04;Consumer Price Index (MoM);Portugal;EUR;1
+RUB_ForeignTrade;20141010;10:00;Foreign Trade;Russia;RUB;1
+EUR_GreIndustrialProduction;20141010;09:00;Industrial Production (YoY);Greece;EUR;1
+HUF_ConsumerPriceIndex;20141010;09:00;Core Consumer Price Index (YoY);Hungary;HUF;1
+EUR_NetManufacturingOutput;20141010;08:30;Manufacturing Output (MoM);Netherlands, The;EUR;1
+GBP_GoodsTradeBalance;20141010;08:30;Goods Trade Balance;United Kingdom;GBP;2
+GBP_TotalTradeBalance;20141010;08:30;Total Trade Balance;United Kingdom;GBP;2
+GBP_TradeBalancenonEU;20141010;08:30;Trade Balance non-EU;United Kingdom;GBP;2
+NOK_CoreInflation;20141010;08:00;Core Inflation (MoM);Norway;NOK;1
+NOK_ConsumerPriceIndex;20141010;08:00;Consumer Price Index (YoY);Norway;NOK;1
+EUR_ItaIndustrialOutput;20141010;08:00;Industrial Output w.d.a (YoY);Italy;EUR;1
+NOK_ProducerPriceIndex;20141010;08:00;Producer Price Index (YoY);Norway;NOK;1
+EUR_SloIndustrialOutput;20141010;07:00;Industrial Output (YoY);Slovakia;EUR;1
+RON_TradeBalance;20141010;07:00;Trade Balance;Romania;RON;1
+DKK_Inflation;20141010;07:00;Inflation (HICP) (YoY);Denmark;DKK;1
+DKK_ConsumerPriceIndex;20141010;07:00;Consumer Price Index (YoY);Denmark;DKK;1
+RON_IndustrialProduction;20141010;07:00;Industrial Production (MoM);Romania;RON;1
+TRY_IndustrialProduction;20141010;07:00;Industrial Production (YoY);Turkey;TRY;1
+RON_ConsumerPriceIndex;20141010;07:00;Consumer Price Index;Romania;RON;1
+DKK_IndustrialProduction;20141010;07:00;Industrial Production (MoM);Denmark;DKK;1
+EUR_FraIndustrialOutput;20141010;06:45;Industrial Output (MoM);France;EUR;1
+JPY_ConsumerConfidenceIndex;20141010;05:00;Consumer Confidence Index;Japan;JPY;2
+AUD_CentralBankSpeech;20141010;01:45;RBA Edey speech;Australia;AUD;2
+AUD_HomeLoans;20141010;00:30;Home Loans;Australia;AUD;2
+AUD_InvestmentLendingforHomes;20141010;00:30;Investment Lending for Homes;Australia;AUD;2
+EUR_EurIMFMeeting;20141010;00:00;IMF Meeting;European Monetary Union;EUR;2
+EUR_EurG20Meeting;20141010;00:00;G20 Meeting;European Monetary Union;EUR;2

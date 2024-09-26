@@ -1,0 +1,37 @@
+JPY_ForeignInvestmentinJapanStocks;20130926;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20130926;23:50;Foreign Bond Investment;Japan;JPY;2
+JPY_TokyoCPIexFreshFood;20130926;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;1
+JPY_ConsumerPriceIndex;20130926;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;1
+JPY_TokyoCPIexFoodEnergy;20130926;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;1
+JPY_NationalCPIexFoodEnergy;20130926;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;3
+JPY_NationalCPIexFreshFood;20130926;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;3
+GBP_GfKConsumerConfidence;20130926;23:05;GfK Consumer Confidence;United Kingdom;GBP;2
+KRW_CurrentAccount;20130926;23:00;Current Account Balance;South Korea;KRW;1
+USD_Auction;20130926;17:00;7-Year Note Auction;United States;USD;1
+USD_CentralBankSpeech;20130926;16:15;Fed Minneapolis Kocherlakota speech;United States;USD;1
+USD_KansasFedManufacturingActivity;20130926;15:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_EIANaturalGasStorageChange;20130926;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_PendingHomeSales;20130926;14:00;Pending Home Sales (YoY);United States;USD;2
+CHF_SNBQuarterlyBulletin;20130926;13:00;SNB Quarterly Bulletin;Switzerland;CHF;2
+MXN_TradeBalance;20130926;13:00;Trade Balance, $;Mexico;MXN;1
+MXN_TradeBalancesa;20130926;13:00;Trade Balance s/a, $;Mexico;MXN;1
+RUB_CentralBankReserves;20130926;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_JoblessClaims;20130926;12:30;Initial Jobless Claims;United States;USD;2
+USD_GrossDomesticProduct;20130926;12:30;Gross Domestic Product Annualized;United States;USD;2
+USD_CorePersonalConsumptionExpenditures;20130926;12:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+USD_PersonalConsumptionExpendituresPrices;20130926;12:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+BRL_UnemploymentRate;20130926;12:00;Unemployment Rate;Brazil;BRL;1
+CZK_CNBInterestRateDecision;20130926;11:00;CNB Interest Rate Decision;Czech Republic;CZK;1
+ZAR_ProducerPriceIndex;20130926;09:30;Producer Price Index (MoM);South Africa;ZAR;1
+ISK_ConsumerPriceIndex;20130926;09:00;Consumer Price Index (YoY);Iceland;ISK;1
+GBP_GrossDomesticProduct;20130926;08:30;Gross Domestic Product (YoY);United Kingdom;GBP;3
+GBP_TotalBusinessInvestment;20130926;08:30;Total Business Investment (QoQ);United Kingdom;GBP;1
+GBP_CurrentAccount;20130926;08:30;Current Account;United Kingdom;GBP;1
+EUR_ItaRetailSales;20130926;08:00;Retail Sales n.s.a (YoY);Italy;EUR;1
+EUR_EurM3MoneySupply;20130926;08:00;M3 Money Supply (YoY);European Monetary Union;EUR;1
+EUR_EurPrivateLoans;20130926;08:00;Private Loans (YoY);European Monetary Union;EUR;1
+SEK_ProducerPriceIndex;20130926;07:30;Producer Price Index (YoY);Sweden;SEK;1
+SEK_TradeBalance;20130926;07:30;Trade Balance (MoM);Sweden;SEK;1
+DKK_UnemploymentRate;20130926;07:00;Unemployment Rate;Denmark;DKK;1
+EUR_FraConsumerConfidence;20130926;06:45;Consumer Confidence;France;EUR;1
+SGD_IndustrialProduction;20130926;05:00;Industrial Production (YoY);Singapore;SGD;1

@@ -1,0 +1,34 @@
+JPY_ForeignBondInvestment;20130214;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20130214;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+CLP_BCCHInterestRate;20130214;23:00;BCCH Interest Rate;Chile;CLP;1
+NZD_RetailSales;20130214;21:45;Retail Sales (QoQ);New Zealand;NZD;2
+USD_Auction;20130214;18:00;30-Year Bond Auction;United States;USD;1
+USD_CentralBankSpeech;20130214;17:50;Fed Bullard speech;United States;USD;2
+USD_EIANaturalGasStorageChange;20130214;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_JoblessClaims;20130214;13:30;Initial Jobless Claims;United States;USD;2
+RUB_CentralBankReserves;20130214;13:00;Central Bank Reserves $;Russia;RUB;1
+PLN_M3MoneySupply;20130214;13:00;M3 Money Supply (YoY);Poland;PLN;1
+EUR_EurGrossDomesticProduct;20130214;10:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+EUR_PorGrossDomesticProduct;20130214;10:00;Gross Domestic Product (YoY);Portugal;EUR;1
+EUR_GreUnemploymentRate;20130214;10:00;Unemployment Rate (MoM);Greece;EUR;1
+EUR_ItaGrossDomesticProduct;20130214;09:00;Gross Domestic Product (QoQ);Italy;EUR;1
+EUR_EurECBMonthlyReport;20130214;09:00;ECB Monthly Report;European Monetary Union;EUR;3
+EUR_GreGrossDomesticProduct;20130214;09:00;Gross Domestic Product s.a (YoY);Greece;EUR;1
+EUR_NetGrossDomesticProduct;20130214;08:30;Gross Domestic Product n.s.a (YoY);Netherlands, The;EUR;1
+EUR_AusGrossDomesticProduct;20130214;08:00;Gross Domestic Product (QoQ);Austria;EUR;1
+RON_GrossDomesticProduct;20130214;08:00;Gross Domestic Product;Romania;RON;1
+HUF_ConsumerPriceIndex;20130214;08:00;Consumer Price Index (YoY);Hungary;HUF;1
+CZK_GrossDomesticProduct;20130214;08:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+HUF_GrossDomesticProduct;20130214;08:00;Gross Domestic Product (YoY);Hungary;HUF;1
+EUR_SloGrossDomesticProduct;20130214;08:00;Gross Domestic Product Prelim (YoY);Slovakia;EUR;1
+EUR_FraNonfarmPayrolls;20130214;07:45;Nonfarm Payrolls (QoQ);France;EUR;1
+EUR_FinGrossDomesticProduct;20130214;07:00;Gross Domestic Product (YoY);Finland;EUR;1
+EUR_GerGrossDomesticProduct;20130214;07:00;Gross Domestic Product (YoY);Germany;EUR;3
+EUR_FraGrossDomesticProduct;20130214;06:30;Gross Domestic Product (QoQ);France;EUR;1
+INR_WPIInflation;20130214;06:30;WPI Inflation;India;INR;1
+JPY_BoJMonetaryPolicyStatement;20130214;03:00;BoJ Monetary Policy Statement ;Japan;JPY;3
+JPY_BoJInterestRateDecision;20130214;03:00;BoJ Interest Rate Decision;Japan;JPY;3
+KRW_BoKInterestRateDecision;20130214;01:00;BoK Interest Rate Decision;South Korea;KRW;1
+CNY_ChineseNewYear;20130214;00:00;Chinese New Year;China;CNY;0
+AUD_ConsumerInflationExpectations;20130214;00:00;Consumer Inflation Expectations;Australia;AUD;1
+EUR_EurG20Meeting;20130214;00:00;G20 Meeting;European Monetary Union;EUR;2

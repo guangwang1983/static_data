@@ -1,0 +1,11 @@
+#PS1="\e[01;31m[\u@US-PROD \`pwd\` \$ "
+#PS1="\e[01;31m\u@US-PROD \`pwd\` \$ \e[m"
+PS1="\[\e[01;31m\]\u@US-PROD \`pwd\` \[\e[m\]\$ "
+
+export PATH=/export/home/scratch/matterhorn/productionScripts:$PATH
+export PYTHONPATH=/export/home/scratch/matterhorn/scripts/python:$PYTHONPATH
+
+source /dat/wqsys/public/Hydra-20210715/centos7/mdapi_run_dir/setenv.mdapi
+
+export STATICDATAPATH=/export/home/scratch/matterhorn/static_data
+

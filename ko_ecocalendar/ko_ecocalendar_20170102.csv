@@ -1,0 +1,22 @@
+RUB_Bankholiday;20170102;00:00;Bank holiday;Russia;RUB;0
+MXN_Newyearholiday;20170102;00:00;New year holiday;Mexico;MXN;0
+ZAR_Publicholiday;20170102;00:00;Public holiday;South Africa;ZAR;0
+NZD_DayafterNewYearDay;20170102;00:00;Day after New Year Day ;New Zealand;NZD;0
+EUR_FraNewYearDay;20170102;00:00;New Year Day (Observed);France;EUR;0
+AUD_NewYearholiday;20170102;00:00;New Year holiday;Australia;AUD;0
+USD_NewYearDay;20170102;00:00;New Year Day (Observed);United States;USD;0
+RON_DayafterNewYearDay;20170102;00:00;Day after New Year Day;Romania;RON;0
+IDR_CutiBersama;20170102;00:00;Cuti Bersama;Indonesia;IDR;0
+GBP_NewYearDay;20170102;00:00;New Year Day (Observed);United Kingdom;GBP;0
+KRW_S&PGlobalManufacturingPMI;20170102;00:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+SEK_PurchasingManagersIndexManufacturing;20170102;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;2
+PLN_PurchasingManagerIndex;20170102;08:00;Purchasing Manager Index;Poland;PLN;2
+HUF_PurchasingManagerIndex;20170102;08:30;Purchasing Manager Index;Hungary;HUF;1
+CZK_S&PGlobalPMI;20170102;08:30;S&P Global PMI;Czech Republic;CZK;1
+EUR_ItaHCOBManufacturingPMI;20170102;08:45;HCOB Manufacturing PMI;Italy;EUR;1
+EUR_FraHCOBManufacturingPMI;20170102;08:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerHCOBManufacturingPMI;20170102;08:55;HCOB Manufacturing PMI;Germany;EUR;2
+EUR_EurHCOBManufacturingPMI;20170102;09:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+BRL_S&PGlobalManufacturingPMI;20170102;12:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+BRL_TradeBalance;20170102;17:00;Trade Balance;Brazil;BRL;1
+AUD_AiGPerformanceofMfgIndex;20170102;22:30;AiG Performance of Mfg Index;Australia;AUD;2

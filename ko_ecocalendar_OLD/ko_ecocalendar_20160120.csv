@@ -1,0 +1,31 @@
+JPY_ForeignBondInvestment;20160120;23:50;Foreign Bond Investment;Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20160120;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+USD_APIWeeklyCrudeOilStock;20160120;21:35;API Weekly Crude Oil Stock;United States;USD;2
+NZD_BusinessNZPMI;20160120;21:30;Business NZ PMI;New Zealand;NZD;2
+BRL_InterestRateDecision;20160120;21:00;Interest Rate Decision;Brazil;BRL;1
+USD_Auction;20160120;16:30;4-Week Bill Auction;United States;USD;1
+CAD_BoCPressConference;20160120;16:15;BoC Press Conference;Canada;CAD;3
+CAD_BankofCanadaMonetaryPolicyReport;20160120;15:00;Bank of Canada Monetary Policy Report;Canada;CAD;3
+CAD_BoCInterestRateDecision;20160120;15:00;BoC Interest Rate Decision;Canada;CAD;3
+CAD_BoCRateStatement;20160120;15:00;BoC Rate Statement;Canada;CAD;3
+USD_RedbookIndex;20160120;13:55;Redbook Index (MoM);United States;USD;1
+USD_HousingStarts;20160120;13:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermitsChange;20160120;13:30;Building Permits Change;United States;USD;1
+USD_BuildingPermits;20160120;13:30;Building Permits (MoM);United States;USD;2
+CAD_ManufacturingShipments;20160120;13:30;Manufacturing Shipments (MoM);Canada;CAD;1
+USD_ConsumerPriceIndex;20160120;13:30;Consumer Price Index n.s.a (MoM);United States;USD;2
+CAD_WholesaleSales;20160120;13:30;Wholesale Sales (MoM);Canada;CAD;1
+PLN_CorporateSectorWages;20160120;13:00;Corporate Sector Wages;Poland;PLN;1
+USD_MBAMortgageApplications;20160120;12:00;MBA Mortgage Applications;United States;USD;1
+INR_M3MoneySupply;20160120;11:30;M3 Money Supply;India;INR;1
+ZAR_RetailSales;20160120;11:00;Retail Sales (YoY);South Africa;ZAR;1
+CHF_ZEWSurveyExpectations;20160120;10:00;ZEW Survey - Expectations;Switzerland;CHF;2
+EUR_GreCurrentAccount;20160120;10:00;Current Account (YoY);Greece;EUR;1
+GBP_AverageEarningsExcludingBonus;20160120;09:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;1
+GBP_AverageEarningsIncludingBonus;20160120;09:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;1
+GBP_ClaimantCountChange;20160120;09:30;Claimant Count Change;United Kingdom;GBP;1
+GBP_ClaimantCountRate;20160120;09:30;Claimant Count Rate;United Kingdom;GBP;1
+GBP_ILOUnemploymentRate;20160120;09:30;ILO Unemployment Rate (3M);United Kingdom;GBP;1
+ZAR_ConsumerPriceIndex;20160120;08:00;Consumer Price Index (YoY);South Africa;ZAR;1
+EUR_GerProducerPriceIndex;20160120;07:00;Producer Price Index (MoM);Germany;EUR;2
+CHF_WorldEconomicForumDavos;20160120;00:00;World Economic Forum - Davos;Switzerland;CHF;2

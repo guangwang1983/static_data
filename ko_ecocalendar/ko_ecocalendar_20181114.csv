@@ -1,0 +1,40 @@
+AUD_WagePriceIndex;20181114;00:30;Wage Price Index (YoY);Australia;AUD;1
+CNY_RetailSales;20181114;02:00;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20181114;02:00;Industrial Production (YoY);China;CNY;2
+CNY_FixedAssetInvestment;20181114;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+JPY_TertiaryIndustryIndex;20181114;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+JPY_IndustrialProduction;20181114;04:30;Industrial Production (MoM);Japan;JPY;1
+JPY_CapacityUtilization;20181114;04:30;Capacity Utilization;Japan;JPY;1
+INR_WPIInflation;20181114;06:30;WPI Inflation;India;INR;1
+RON_GrossDomesticProduct;20181114;07:00;Gross Domestic Product;Romania;RON;1
+EUR_GerGrossDomesticProduct;20181114;07:00;Gross Domestic Product w.d.a (YoY);Germany;EUR;2
+EUR_FraConsumerPriceIndex;20181114;07:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraInflationextobacco;20181114;07:45;Inflation ex-tobacco (MoM);France;EUR;1
+CZK_GrossDomesticProduct;20181114;08:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+HUF_GrossDomesticProduct;20181114;08:00;Gross Domestic Product (YoY);Hungary;HUF;1
+CNY_FDIForeignDirectInvestment;20181114;08:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+SEK_ConsumerPriceIndex;20181114;08:30;Consumer Price Index (YoY);Sweden;SEK;1
+SEK_CapacityUtilization;20181114;08:30;Capacity Utilization;Sweden;SEK;1
+PLN_ConsumerPriceIndex;20181114;09:00;Consumer Price Index (YoY);Poland;PLN;1
+PLN_GrossDomesticProduct;20181114;09:00;Gross Domestic Product Qtr (YoY);Poland;PLN;1
+EUR_GerAuction;20181114;09:14;30-y Bond Auction;Germany;EUR;1
+GBP_RetailPriceIndex;20181114;09:30;Retail Price Index (YoY);United Kingdom;GBP;2
+GBP_DCLGHousePriceIndex;20181114;09:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ProducerPriceIndex;20181114;09:30;Producer Price Index - Input (MoM) n.s.a;United Kingdom;GBP;1
+GBP_PPICoreOutput;20181114;09:30;PPI Core Output (MoM) n.s.a;United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20181114;09:30;Consumer Price Index (YoY);United Kingdom;GBP;3
+EUR_EurGrossDomesticProduct;20181114;10:00;Gross Domestic Product s.a. (QoQ);European Monetary Union;EUR;3
+EUR_EurIndustrialProduction;20181114;10:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;1
+EUR_EurEmploymentChange;20181114;10:00;Employment Change (QoQ);European Monetary Union;EUR;1
+ZAR_RetailSales;20181114;11:00;Retail Sales (YoY);South Africa;ZAR;1
+USD_MBAMortgageApplications;20181114;12:00;MBA Mortgage Applications;United States;USD;1
+USD_ConsumerPriceIndex;20181114;13:30;Consumer Price Index Core s.a;United States;USD;2
+USD_RedbookIndex;20181114;13:55;Redbook Index (YoY);United States;USD;1
+GBP_UKCabinetMeetingtodiscussBrexitDeal;20181114;14:00;UK Cabinet Meeting to discuss Brexit Deal;United Kingdom;GBP;3
+COP_RetailSales;20181114;15:00;Retail Sales (YoY);Colombia;COP;1
+COP_TradeBalance;20181114;15:00;Trade Balance;Colombia;COP;1
+COP_Industrialoutput;20181114;15:00;Industrial output (YoY);Colombia;COP;1
+USD_APIWeeklyCrudeOilStock;20181114;21:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_CentralBankSpeech;20181114;23:00;Fed Chair Powell speech;United States;USD;3
+JPY_ForeignInvestmentinJapanStocks;20181114;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20181114;23:50;Foreign Bond Investment;Japan;JPY;1

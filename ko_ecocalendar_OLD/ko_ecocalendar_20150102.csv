@@ -1,0 +1,35 @@
+USD_ISMManufacturingPMI;20150102;15:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMPricesPaid;20150102;15:00;ISM Prices Paid;United States;USD;2
+USD_ConstructionSpending;20150102;15:00;Construction Spending (MoM);United States;USD;2
+USD_MarkitManufacturingPMI;20150102;14:45;Markit Manufacturing PMI;United States;USD;2
+CAD_MarkitManufacturingPMI;20150102;14:30;Markit Manufacturing PMI;Canada;CAD;2
+BRL_HSBCPMIManufacturing;20150102;12:00;HSBC PMI Manufacturing;Brazil;BRL;1
+INR_FXReservesUSD;20150102;11:30;FX Reserves, USD;India;INR;1
+GBP_NetLendingtoIndividuals;20150102;09:30;Net Lending to Individuals (MoM);United Kingdom;GBP;2
+GBP_MarkitManufacturingPMI;20150102;09:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+GBP_ConsumerCredit;20150102;09:30;Consumer Credit;United Kingdom;GBP;2
+GBP_MortgageApprovals;20150102;09:30;Mortgage Approvals;United Kingdom;GBP;2
+GBP_M4MoneySupply;20150102;09:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+EUR_AusUnemploymentRate;20150102;09:00;Unemployment Rate;Austria;EUR;1
+EUR_AusUnemployment;20150102;09:00;Unemployment;Austria;EUR;1
+EUR_GreMarkitManufacturingPMI;20150102;09:00;Markit Manufacturing PMI;Greece;EUR;1
+EUR_EurMarkitManufacturingPMI;20150102;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_GerMarkitManufacturingPMI;20150102;08:55;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20150102;08:50;Markit Manufacturing PMI;France;EUR;1
+EUR_ItaMarkitManufacturingPMI;20150102;08:45;Markit Manufacturing PMI;Italy;EUR;1
+CZK_MarkitPMI;20150102;08:30;Markit PMI;Czech Republic;CZK;1
+EUR_SpaMarkitManufacturingPMI;20150102;08:15;Markit Manufacturing PMI;Spain;EUR;1
+SEK_PurchasingManagersIndexManufacturing;20150102;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+EUR_IrePurchasingManagerIndexManufacturing;20150102;06:00;Purchasing Manager Index Manufacturing;Ireland;EUR;1
+AUD_RBACommodityIndexSDR;20150102;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+IDR_TradeBalance;20150102;04:15;Trade Balance;Indonesia;IDR;1
+IDR_Exports;20150102;04:15;Exports;Indonesia;IDR;1
+IDR_Imports;20150102;04:15;Imports;Indonesia;IDR;1
+IDR_Inflation;20150102;04:00;Inflation (YoY);Indonesia;IDR;1
+IDR_CoreInflation;20150102;02:00;Core Inflation (YoY);Indonesia;IDR;1
+RUB_Bankholiday;20150102;00:00;Bank holiday;Russia;RUB;0
+CNY_NewYearsHoliday;20150102;00:00;New Years Holiday;China;CNY;0
+NZD_DayafterNewYearDay;20150102;00:00;Day after New Year Day ;New Zealand;NZD;0
+KRW_NikkeiMarkitManufacturingPMI;20150102;00:00;Nikkei Markit Manufacturing PMI;South Korea;KRW;1
+JPY_BankHoliday;20150102;00:00;Bank Holiday;Japan;JPY;0
+RON_DayafterNewYearDay;20150102;00:00;Day after New Year Day;Romania;RON;0

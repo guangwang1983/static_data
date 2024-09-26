@@ -1,0 +1,50 @@
+AUD_PrivateCapitalExpenditure;20150528;01:30;Private Capital Expenditure;Australia;AUD;1
+EUR_GerImportPriceIndex;20150528;06:00;Import Price Index (MoM);Germany;EUR;1
+CHF_Imports;20150528;06:00;Imports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20150528;06:00;Trade Balance;Switzerland;CHF;1
+CHF_Exports;20150528;06:00;Exports (MoM);Switzerland;CHF;1
+DKK_IndustrialOutlook;20150528;07:00;Industrial Outlook;Denmark;DKK;1
+HUF_UnemploymentRate;20150528;07:00;Unemployment Rate (3M);Hungary;HUF;1
+CHF_IndustrialProduction;20150528;07:15;Industrial Production (YoY);Switzerland;CHF;2
+EUR_ItaConsumerConfidence;20150528;08:00;Consumer Confidence;Italy;EUR;1
+EUR_ItaBusinessConfidence;20150528;08:00;Business Confidence;Italy;EUR;1
+NOK_LabourForceSurvey;20150528;08:00;Labour Force Survey;Norway;NOK;1
+GBP_BBAMortgageApprovals;20150528;08:30;BBA Mortgage Approvals;United Kingdom;GBP;1
+GBP_GrossDomesticProduct;20150528;08:30;Gross Domestic Product (QoQ);United Kingdom;GBP;2
+GBP_TotalBusinessInvestment;20150528;08:30;Total Business Investment (YoY);United Kingdom;GBP;1
+GBP_IndexofServices;20150528;08:30;Index of Services (3M/3M);United Kingdom;GBP;1
+EUR_EurServicesSentiment;20150528;09:00;Services Sentiment;European Monetary Union;EUR;2
+EUR_EurConsumerConfidence;20150528;09:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurEconomicSentimentIndicator;20150528;09:00;Economic Sentiment Indicator;European Monetary Union;EUR;2
+EUR_EurIndustrialConfidence;20150528;09:00;Industrial Confidence;European Monetary Union;EUR;2
+EUR_EurBusinessClimate;20150528;09:00;Business Climate;European Monetary Union;EUR;2
+ZAR_ProducerPriceIndex;20150528;09:30;Producer Price Index (MoM);South Africa;ZAR;1
+EUR_EurEUFinancialStabilityReview;20150528;10:00;EU Financial Stability Review;European Monetary Union;EUR;2
+EUR_ItaAuction;20150528;10:22;5-y Bond Auction;Italy;EUR;1
+BRL_InflationIndexIGPM;20150528;11:00;Inflation Index/IGP-M;Brazil;BRL;1
+RUB_CentralBankReserves;20150528;11:00;Central Bank Reserves $;Russia;RUB;1
+CAD_RawMaterialPriceIndex;20150528;12:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20150528;12:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_CurrentAccount;20150528;12:30;Current Account;Canada;CAD;1
+USD_JoblessClaims;20150528;12:30;Continuing Jobless Claims;United States;USD;1
+MXN_JoblessRate;20150528;14:00;Jobless Rate;Mexico;MXN;1
+USD_PendingHomeSales;20150528;14:00;Pending Home Sales (MoM);United States;USD;2
+USD_EIANaturalGasStorageChange;20150528;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_EIACrudeOilStocksChange;20150528;15:00;EIA Crude Oil Stocks Change;United States;USD;1
+USD_Auction;20150528;17:00;7-Year Note Auction;United States;USD;1
+USD_CentralBankSpeech;20150528;18:45;Fed Minneapolis Kocherlakota speech;United States;USD;1
+KRW_BOKManufacturingBSI;20150528;22:00;BOK Manufacturing BSI;South Korea;KRW;1
+NZD_BuildingPermits;20150528;22:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+KRW_IndustrialOutput;20150528;23:00;Industrial Output (YoY);South Korea;KRW;1
+KRW_ServiceSectorOutput;20150528;23:00;Service Sector Output;South Korea;KRW;1
+KRW_IndustrialOutputGrowth;20150528;23:00;Industrial Output Growth;South Korea;KRW;1
+GBP_GfKConsumerConfidence;20150528;23:01;GfK Consumer Confidence;United Kingdom;GBP;2
+JPY_TokyoCPIexFreshFood;20150528;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;1
+JPY_ConsumerPriceIndex;20150528;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;1
+JPY_TokyoCPIexFoodEnergy;20150528;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;1
+JPY_NationalCPIexFreshFood;20150528;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_NationalCPIexFoodEnergy;20150528;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_JobsApplicantsRatio;20150528;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+JPY_UnemploymentRate;20150528;23:30;Unemployment Rate;Japan;JPY;2
+JPY_OverallHouseholdSpending;20150528;23:30;Overall Household Spending (YoY);Japan;JPY;2
+JPY_IndustrialProduction;20150528;23:50;Industrial Production (MoM);Japan;JPY;1

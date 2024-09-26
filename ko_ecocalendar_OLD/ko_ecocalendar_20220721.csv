@@ -1,0 +1,33 @@
+AUD_NationalAustraliaBankBusinessConfidence;20220721;01:30;National Australia Bank Business Confidence (QoQ);Australia;AUD;2
+NZD_CreditCardSpending;20220721;02:00;Credit Card Spending (YoY);New Zealand;NZD;1
+JPY_BoJMonetaryPolicyStatement;20220721;03:00;BoJ Monetary Policy Statement ;Japan;JPY;3
+JPY_BoJInterestRateDecision;20220721;03:00;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_BoJOutlookReport;20220721;03:00;BoJ Outlook Report;Japan;JPY;2
+AUD_HIANewHomeSales;20220721;04:00;HIA New Home Sales (MoM);Australia;AUD;2
+GBP_PublicSectorNetBorrowing;20220721;06:00;Public Sector Net Borrowing;United Kingdom;GBP;1
+JPY_BoJPressConference;20220721;06:00;BoJ Press Conference;Japan;JPY;3
+PLN_RetailSales;20220721;08:00;Retail Sales (YoY);Poland;PLN;1
+ILS_IndustrialProduction;20220721;10:00;Industrial Production (MoM);Israel;ILS;1
+TRY_CBRTInterestRateDecision;20220721;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+MXN_RetailSales;20220721;11:00;Retail Sales (MoM);Mexico;MXN;1
+EUR_EurECBInterestRateDecision;20220721;12:15;ECB Interest Rate Decision;European Monetary Union;EUR;3
+EUR_EurECBDepositRateDecision;20220721;12:15;ECB Deposit Rate Decision;European Monetary Union;EUR;3
+EUR_EurECBMonetaryPolicyDecisionStatement;20220721;12:15;ECB Monetary Policy Decision Statement;European Monetary Union;EUR;3
+USD_JoblessClaims;20220721;12:30;Continuing Jobless Claims;United States;USD;1
+USD_PhiladelphiaFedManufacturingSurvey;20220721;12:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+CAD_EmploymentInsuranceBeneficiariesChange;20220721;12:30;Employment Insurance Beneficiaries Change (MoM);Canada;CAD;1
+CAD_NewHousingPriceIndex;20220721;12:30;New Housing Price Index (MoM);Canada;CAD;1
+EUR_EurECBPressConference;20220721;12:45;ECB Press Conference;European Monetary Union;EUR;3
+ZAR_SARBInterestRateDecision;20220721;13:00;SARB Interest Rate Decision;South Africa;ZAR;1
+RUB_CentralBankReserves;20220721;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_EIANaturalGasStorageChange;20220721;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20220721;15:30;4-Week Bill Auction;United States;USD;1
+AUD_S&PGlobalCompositePMI;20220721;22:00;S&P Global Composite PMI;Australia;AUD;1
+AUD_S&PGlobalServicesPMI;20220721;22:00;S&P Global Services PMI;Australia;AUD;2
+AUD_S&PGlobalManufacturingPMI;20220721;23:00;S&P Global Manufacturing PMI;Australia;AUD;2
+GBP_GfKConsumerConfidence;20220721;23:01;GfK Consumer Confidence;United Kingdom;GBP;2
+JPY_ConsumerPriceIndex;20220721;23:30;National Consumer Price Index (YoY);Japan;JPY;2
+JPY_NationalCPIexFoodEnergy;20220721;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20220721;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20220721;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20220721;23:50;Foreign Bond Investment;Japan;JPY;1

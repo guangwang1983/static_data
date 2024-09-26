@@ -1,0 +1,32 @@
+AUD_NationalAustraliaBankBusinessConfidence;20181113;00:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20181113;00:30;National Australia Bank Business Conditions;Australia;AUD;1
+KRW_MoneySupplyGrowth;20181113;03:00;Money Supply Growth;South Korea;KRW;1
+NOK_GrossDomesticProduct;20181113;07:00;Gross Domestic Product Growth Mainland;Norway;NOK;1
+EUR_GerHarmonizedIndexofConsumerPrices;20181113;07:00;Harmonized Index of Consumer Prices (MoM);Germany;EUR;1
+EUR_GerConsumerPriceIndex;20181113;07:00;Consumer Price Index (MoM);Germany;EUR;1
+EUR_FraNonfarmPayrolls;20181113;07:45;Nonfarm Payrolls (QoQ);France;EUR;1
+HUF_IndustrialOutput;20181113;08:00;Industrial Output (YoY);Hungary;HUF;1
+EUR_EurCentralBankSpeech;20181113;08:00;ECB Praet speech;European Monetary Union;EUR;2
+CHF_ProducerandImportPrices;20181113;08:15;Producer and Import Prices (MoM);Switzerland;CHF;1
+CHF_SNBInterestRateDecision;20181113;08:30;SNB Interest Rate Decision;Switzerland;CHF;3
+CNY_M2MoneySupply;20181113;08:50;M2 Money Supply (YoY);China;CNY;1
+CNY_NewLoans;20181113;08:50;New Loans;China;CNY;1
+CZK_CurrentAccount;20181113;09:00;Current Account (MoM);Czech Republic;CZK;1
+GBP_ILOUnemploymentRate;20181113;09:30;ILO Unemployment Rate (3M);United Kingdom;GBP;2
+GBP_AverageEarningsExcludingBonus;20181113;09:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;3
+GBP_AverageEarningsIncludingBonus;20181113;09:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;3
+GBP_ClaimantCountRate;20181113;09:30;Claimant Count Rate;United Kingdom;GBP;1
+GBP_ClaimantCountChange;20181113;09:30;Claimant Count Change;United Kingdom;GBP;2
+EUR_GerZEWSurvey–CurrentSituation;20181113;10:00;ZEW Survey – Current Situation;Germany;EUR;2
+EUR_EurZEWSurvey–EconomicSentiment;20181113;10:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;1
+EUR_GerZEWSurvey–EconomicSentiment;20181113;10:00;ZEW Survey – Economic Sentiment;Germany;EUR;2
+USD_NFIBBusinessOptimismIndex;20181113;11:00;NFIB Business Optimism Index;United States;USD;1
+BRL_RetailSales;20181113;11:00;Retail Sales (MoM);Brazil;BRL;1
+PLN_CurrentAccount;20181113;13:00;Current Account;Poland;PLN;1
+RUB_BudgetFulfilment;20181113;15:35;Budget Fulfilment;Russia;RUB;1
+USD_Auction;20181113;16:30;4-Week Bill Auction;United States;USD;1
+USD_MonthlyBudgetStatement;20181113;19:00;Monthly Budget Statement;United States;USD;2
+USD_CentralBankSpeech;20181113;22:00;Fed Daly speech;United States;USD;2
+KRW_UnemploymentRate;20181113;23:00;Unemployment Rate;South Korea;KRW;1
+AUD_WestpacConsumerConfidence;20181113;23:30;Westpac Consumer Confidence;Australia;AUD;2
+JPY_GrossDomesticProduct;20181113;23:50;Gross Domestic Product (QoQ);Japan;JPY;1

@@ -1,0 +1,16 @@
+JPY_MonetaryBase;20090401;23:50;Monetary Base (YoY);Japan;JPY;1
+USD_PendingHomeSales;20090401;14:00;Pending Home Sales (MoM);United States;USD;2
+USD_ISMManufacturingPMI;20090401;14:00;ISM Manufacturing PMI;United States;USD;2
+USD_ConstructionSpending;20090401;14:00;Construction Spending (MoM);United States;USD;1
+USD_ADPEmploymentChange;20090401;12:15;ADP Employment Change;United States;USD;2
+USD_MBAMortgageApplications;20090401;11:00;MBA Mortgage Applications;United States;USD;1
+EUR_EurUnemploymentRate;20090401;09:00;Unemployment Rate;European Monetary Union;EUR;2
+GBP_MarkitManufacturingPMI;20090401;08:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+EUR_EurMarkitManufacturingPMI;20090401;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;1
+EUR_GerMarkitManufacturingPMI;20090401;07:55;Markit Manufacturing PMI;Germany;EUR;2
+CHF_SVMEPurchasingManagers'Index;20090401;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;2
+EUR_GerRetailSales;20090401;06:00;Retail Sales (YoY);Germany;EUR;1
+AUD_RBACommodityIndexSDR;20090401;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+JPY_VehicleSales;20090401;05:00;Vehicle Sales (YoY);Japan;JPY;1
+AUD_RetailSales;20090401;00:30;Retail Sales s.a. (MoM);Australia;AUD;2
+AUD_BuildingPermits;20090401;00:30;Building Permits (MoM);Australia;AUD;0

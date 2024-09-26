@@ -1,0 +1,30 @@
+NZD_CreditCardSpending;20191121;02:00;Credit Card Spending (YoY);New Zealand;NZD;1
+JPY_AllIndustryActivityIndex;20191121;04:30;All Industry Activity Index (MoM);Japan;JPY;2
+TRY_ConsumerConfidence;20191121;07:00;Consumer Confidence;Turkey;TRY;1
+DKK_ConsumerConfidence;20191121;07:00;Consumer Confidence;Denmark;DKK;1
+CHF_IndustrialProduction;20191121;07:30;Industrial Production (YoY);Switzerland;CHF;2
+IDR_BankIndonesiaRate;20191121;07:30;Bank Indonesia Rate;Indonesia;IDR;1
+EUR_FraBusinessClimateinManufacturing;20191121;07:45;Business Climate in Manufacturing;France;EUR;1
+PLN_CorporateSectorWages;20191121;09:00;Corporate Sector Wages;Poland;PLN;1
+GBP_PublicSectorNetBorrowing;20191121;09:30;Public Sector Net Borrowing;United Kingdom;GBP;2
+EUR_EurECBMonetaryPolicyMeetingAccounts;20191121;12:30;ECB Monetary Policy Meeting Accounts;European Monetary Union;EUR;3
+RUB_CentralBankReserves;20191121;13:00;Central Bank Reserves $;Russia;RUB;1
+ZAR_SARBInterestRateDecision;20191121;13:00;SARB Interest Rate Decision;South Africa;ZAR;1
+USD_JoblessClaims;20191121;13:30;Initial Jobless Claims 4-week average;United States;USD;2
+CAD_ADPEmploymentChange;20191121;13:30;ADP Employment Change;Canada;CAD;1
+USD_PhiladelphiaFedManufacturingSurvey;20191121;13:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+CAD_CentralBankSpeech;20191121;13:40;BoC Governor Poloz speech;Canada;CAD;3
+USD_ExistingHomeSales;20191121;15:00;Existing Home Sales (MoM);United States;USD;2
+USD_ExistingHomeSalesChange;20191121;15:00;Existing Home Sales Change (MoM);United States;USD;1
+EUR_EurConsumerConfidence;20191121;15:00;Consumer Confidence;European Monetary Union;EUR;1
+USD_CentralBankSpeech;20191121;15:10;Fed Kashkari speech;United States;USD;2
+USD_EIANaturalGasStorageChange;20191121;15:30;EIA Natural Gas Storage Change;United States;USD;1
+CAD_FinancialSystemReview;20191121;15:30;Financial System Review;Canada;CAD;1
+USD_Auction;20191121;18:00;10-year TIPS Auction;United States;USD;1
+EUR_EurCentralBankSpeech;20191121;18:30;ECB De Guindos speech;European Monetary Union;EUR;2
+AUD_S&PGlobalCompositePMI;20191121;22:00;S&P Global Composite PMI;Australia;AUD;1
+AUD_S&PGlobalManufacturingPMI;20191121;22:00;S&P Global Manufacturing PMI;Australia;AUD;2
+AUD_S&PGlobalServicesPMI;20191121;22:00;S&P Global Services PMI;Australia;AUD;1
+JPY_NationalCPIexFoodEnergy;20191121;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20191121;23:30;National Consumer Price Index (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20191121;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2

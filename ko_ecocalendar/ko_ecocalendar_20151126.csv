@@ -1,0 +1,19 @@
+USD_ThanksgivingDay;20151126;00:00;Thanksgiving Day;United States;USD;0
+AUD_PrivateCapitalExpenditure;20151126;00:30;Private Capital Expenditure;Australia;AUD;1
+CHF_IndustrialProduction;20151126;08:15;Industrial Production (YoY);Switzerland;CHF;2
+SEK_TradeBalance;20151126;08:30;Trade Balance (MoM);Sweden;SEK;1
+EUR_EurM3MoneySupply;20151126;09:00;M3 Money Supply (YoY);European Monetary Union;EUR;1
+EUR_EurPrivateLoans;20151126;09:00;Private Loans (YoY);European Monetary Union;EUR;1
+ZAR_ProducerPriceIndex;20151126;09:30;Producer Price Index (YoY);South Africa;ZAR;1
+RUB_CentralBankReserves;20151126;12:05;Central Bank Reserves $;Russia;RUB;1
+BRL_CurrentAccount;20151126;12:30;Current Account;Brazil;BRL;1
+JPY_TokyoCPIexFreshFood;20151126;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;1
+JPY_ConsumerPriceIndex;20151126;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;1
+JPY_TokyoCPIexFoodEnergy;20151126;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;1
+JPY_NationalCPIexFreshFood;20151126;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_NationalCPIexFoodEnergy;20151126;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_JobsApplicantsRatio;20151126;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+JPY_UnemploymentRate;20151126;23:30;Unemployment Rate;Japan;JPY;2
+JPY_OverallHouseholdSpending;20151126;23:30;Overall Household Spending (YoY);Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20151126;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20151126;23:50;Foreign Bond Investment;Japan;JPY;2

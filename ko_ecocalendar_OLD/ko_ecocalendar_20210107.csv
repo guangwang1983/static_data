@@ -1,0 +1,50 @@
+JPY_JPForeignReserves;20210107;23:50;JP Foreign Reserves;Japan;JPY;1
+JPY_OverallHouseholdSpending;20210107;23:30;Overall Household Spending (YoY);Japan;JPY;2
+KRW_CurrentAccount;20210107;23:00;Current Account Balance;South Korea;KRW;1
+ARS_IndustrialOutput;20210107;20:00;Industrial Output n.s.a (YoY);Argentina;ARS;1
+USD_CentralBankSpeech;20210107;18:00;Fed Evans speech;United States;USD;1
+USD_EIANaturalGasStorageChange;20210107;17:00;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20210107;16:30;4-Week Bill Auction;United States;USD;1
+USD_ISMServicesEmploymentIndex;20210107;15:00;ISM Services Employment Index;United States;USD;2
+USD_ISMServicesPricesPaid;20210107;15:00;ISM Services Prices Paid;United States;USD;2
+USD_ISMServicesPMI;20210107;15:00;ISM Services PMI;United States;USD;3
+USD_ISMServicesNewOrdersIndex;20210107;15:00;ISM Services New Orders Index;United States;USD;2
+CAD_IveyPurchasingManagersIndex;20210107;15:00;Ivey Purchasing Managers Index s.a;Canada;CAD;2
+USD_TradeBalance;20210107;13:30;Trade Balance;United States;USD;2
+USD_JoblessClaims;20210107;13:30;Continuing Jobless Claims;United States;USD;2
+USD_GoodsTradeBalance;20210107;13:30;Goods Trade Balance;United States;USD;1
+CAD_InternationalMerchandiseTrade;20210107;13:30;International Merchandise Trade;Canada;CAD;1
+CAD_Exports;20210107;13:30;Exports;Canada;CAD;1
+CAD_Imports;20210107;13:30;Imports;Canada;CAD;1
+PLN_CentralBankFXReserves;20210107;13:00;Central Bank FX Reserves;Poland;PLN;1
+USD_ChallengerJobCuts;20210107;12:30;Challenger Job Cuts;United States;USD;1
+MXN_CoreInflation;20210107;12:00;Core Inflation;Mexico;MXN;1
+MXN_12MonthInflation;20210107;12:00;12-Month Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20210107;12:00;Headline Inflation;Mexico;MXN;1
+CLP_TradeBalance;20210107;11:30;Trade Balance;Chile;CLP;1
+ILS_FXReserves;20210107;11:00;FX Reserves;Israel;ILS;1
+EUR_FraAuction;20210107;10:00;10-y Bond Auction;France;EUR;1
+EUR_EurConsumerPriceIndex;20210107;10:00;Consumer Price Index (YoY);European Monetary Union;EUR;3
+EUR_ItaConsumerPriceIndex;20210107;10:00;Consumer Price Index (YoY);Italy;EUR;1
+EUR_EurEconomicSentimentIndicator;20210107;10:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+EUR_EurBusinessClimate;20210107;10:00;Business Climate;European Monetary Union;EUR;2
+EUR_EurIndustrialConfidence;20210107;10:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_EurConsumerConfidence;20210107;10:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurServicesSentiment;20210107;10:00;Services Sentiment;European Monetary Union;EUR;1
+EUR_EurRetailSales;20210107;10:00;Retail Sales (YoY);European Monetary Union;EUR;3
+EUR_SpaAuction;20210107;09:40;10-y Obligaciones Auction;Spain;EUR;1
+GBP_MarkitConstructionPMI;20210107;09:30;Markit Construction PMI;United Kingdom;GBP;1
+PLN_ConsumerPriceIndex;20210107;09:00;Consumer Price Index (YoY);Poland;PLN;1
+SGD_ForeignReserves;20210107;09:00;Foreign Reserves (MoM);Singapore;SGD;1
+CZK_FXReserves;20210107;09:00;FX Reserves;Czech Republic;CZK;1
+EUR_EurEconomicBulletin;20210107;09:00;Economic Bulletin;European Monetary Union;EUR;2
+EUR_AusWholesalePrices;20210107;08:00;Wholesale Prices n.s.a (YoY);Austria;EUR;1
+HUF_RetailSales;20210107;08:00;Retail Sales (YoY);Hungary;HUF;1
+BRL_FipeIPCInflation;20210107;08:00;Fipe IPC Inflation;Brazil;BRL;1
+CNY_ForeignExchangeReserves;20210107;08:00;Foreign Exchange Reserves (MoM);China;CNY;1
+CHF_RetailSales;20210107;07:30;Real Retail Sales (YoY);Switzerland;CHF;2
+EUR_GerFactoryOrders;20210107;07:00;Factory Orders s.a. (MoM);Germany;EUR;2
+AUD_BuildingPermits;20210107;00:30;Building Permits (YoY);Australia;AUD;1
+AUD_Exports;20210107;00:30;Exports (MoM);Australia;AUD;2
+AUD_Imports;20210107;00:30;Imports (MoM);Australia;AUD;2
+AUD_TradeBalance;20210107;00:30;Trade Balance (MoM);Australia;AUD;3

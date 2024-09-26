@@ -1,0 +1,17 @@
+JPY_MonetaryBase;20090601;23:50;Monetary Base (YoY);Japan;JPY;1
+USD_ISMManufacturingPMI;20090601;14:00;ISM Manufacturing PMI;United States;USD;2
+USD_ConstructionSpending;20090601;14:00;Construction Spending (MoM);United States;USD;1
+USD_PersonalConsumptionExpendituresPriceIndex;20090601;12:30;Personal Consumption Expenditures - Price Index (YoY);United States;USD;2
+USD_PersonalIncome;20090601;12:30;Personal Income (MoM);United States;USD;1
+USD_CorePersonalConsumptionExpenditurePriceIndex;20090601;12:30;Core Personal Consumption Expenditure - Price Index (MoM);United States;USD;3
+CAD_IndustrialProductPrice;20090601;12:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_GrossDomesticProduct;20090601;12:30;Gross Domestic Product (MoM);Canada;CAD;2
+GBP_MarkitManufacturingPMI;20090601;08:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+EUR_EurMarkitManufacturingPMI;20090601;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;1
+EUR_GerMarkitManufacturingPMI;20090601;07:55;Markit Manufacturing PMI;Germany;EUR;2
+AUD_RBACommodityIndexSDR;20090601;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+JPY_VehicleSales;20090601;05:00;Vehicle Sales (YoY);Japan;JPY;1
+JPY_LaborCashEarnings;20090601;01:30;Labor Cash Earnings (YoY);Japan;JPY;1
+AUD_CompanyGrossOperatingProfits;20090601;01:30;Company Gross Operating Profits (QoQ);Australia;AUD;1
+AUD_RetailSales;20090601;01:30;Retail Sales s.a. (MoM);Australia;AUD;2
+AUD_HIANewHomeSales;20090601;01:21;HIA New Home Sales (MoM);Australia;AUD;2

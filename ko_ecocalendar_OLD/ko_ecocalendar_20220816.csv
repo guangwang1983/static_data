@@ -1,0 +1,31 @@
+AUD_RBAMeetingMinutes;20220816;01:30;RBA Meeting Minutes;Australia;AUD;3
+JPY_TertiaryIndustryIndex;20220816;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+GBP_AverageEarningsExcludingBonus;20220816;06:00;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountRate;20220816;06:00;Claimant Count Rate;United Kingdom;GBP;2
+GBP_ClaimantCountChange;20220816;06:00;Claimant Count Change;United Kingdom;GBP;3
+GBP_AverageEarningsIncludingBonus;20220816;06:00;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20220816;06:00;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+CZK_ProducerPriceIndex;20220816;07:00;Producer Price Index (MoM);Czech Republic;CZK;1
+EUR_EurTradeBalance;20220816;09:00;Trade Balance s.a.;European Monetary Union;EUR;1
+EUR_EurZEWSurvey–EconomicSentiment;20220816;09:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;2
+ILS_GrossDomesticProduct;20220816;10:00;Gross Domestic Product (QoQ);Israel;ILS;1
+PLN_NetInflation;20220816;12:00;Net Inflation;Poland;PLN;1
+CAD_HousingStarts;20220816;12:15;Housing Starts s.a (YoY);Canada;CAD;1
+USD_BuildingPermitsChange;20220816;12:30;Building Permits Change;United States;USD;1
+USD_HousingStartsChange;20220816;12:30;Housing Starts Change;United States;USD;1
+USD_HousingStarts;20220816;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20220816;12:30;Building Permits (MoM);United States;USD;2
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20220816;12:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20220816;12:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_ConsumerPriceIndex;20220816;12:30;Consumer Price Index (MoM);Canada;CAD;2
+USD_RedbookIndex;20220816;12:55;Redbook Index (YoY);United States;USD;1
+USD_IndustrialProduction;20220816;13:15;Industrial Production (MoM);United States;USD;1
+USD_CapacityUtilization;20220816;13:15;Capacity Utilization;United States;USD;1
+NZD_GDTPriceIndex;20220816;15:00;GDT Price Index;New Zealand;NZD;1
+USD_APIWeeklyCrudeOilStock;20220816;20:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_ProducerPriceIndex;20220816;22:45;Producer Price Index - Input (QoQ);New Zealand;NZD;1
+JPY_Exports;20220816;23:50;Exports (YoY);Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20220816;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_Imports;20220816;23:50;Imports (YoY);Japan;JPY;2
+JPY_MerchandiseTradeBalanceTotal;20220816;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_MachineryOrders;20220816;23:50;Machinery Orders (MoM);Japan;JPY;1

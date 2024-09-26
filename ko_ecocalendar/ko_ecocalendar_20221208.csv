@@ -1,0 +1,30 @@
+GBP_RICSHousingPriceBalance;20221208;00:01;RICS Housing Price Balance;United Kingdom;GBP;1
+AUD_RBABulletin;20221208;00:30;RBA Bulletin;Australia;AUD;1
+AUD_TradeBalance;20221208;00:30;Trade Balance (MoM);Australia;AUD;3
+AUD_Imports;20221208;00:30;Imports (MoM);Australia;AUD;2
+AUD_Exports;20221208;00:30;Exports (MoM);Australia;AUD;2
+CLP_ImmaculateConception;20221208;04:00;Immaculate Conception;Chile;CLP;0
+JPY_EcoWatchersSurvey:Outlook;20221208;05:00;Eco Watchers Survey: Outlook;Japan;JPY;1
+JPY_EcoWatchersSurvey:Current;20221208;05:00;Eco Watchers Survey: Current;Japan;JPY;1
+COP_ImmaculateConception;20221208;05:00;Immaculate Conception;Colombia;COP;0
+DKK_IndustrialProduction;20221208;07:00;Industrial Production (MoM);Denmark;DKK;1
+CZK_UnemploymentRate;20221208;08:00;Unemployment Rate;Czech Republic;CZK;1
+HUF_ConsumerPriceIndex;20221208;08:00;Consumer Price Index (YoY);Hungary;HUF;1
+HUF_TradeBalance;20221208;08:00;Trade Balance;Hungary;HUF;1
+HUF_BudgetBalance;20221208;10:00;Budget Balance;Hungary;HUF;1
+ILS_BudgetBalanceILS;20221208;11:00;Budget Balance - ILS;Israel;ILS;1
+ZAR_ManufacturingProductionIndex;20221208;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+MXN_HeadlineInflation;20221208;12:00;Headline Inflation;Mexico;MXN;1
+MXN_CoreInflation;20221208;12:00;Core Inflation;Mexico;MXN;1
+MXN_12MonthInflation;20221208;12:00;12-Month Inflation;Mexico;MXN;1
+EUR_EurCentralBankSpeech;20221208;12:00;ECB President Lagarde speech;European Monetary Union;EUR;3
+BRL_RetailSales;20221208;12:00;Retail Sales (MoM);Brazil;BRL;1
+RUB_CentralBankReserves;20221208;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_JoblessClaims;20221208;13:30;Continuing Jobless Claims;United States;USD;1
+USD_EIANaturalGasStorageChange;20221208;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20221208;16:30;4-Week Bill Auction;United States;USD;1
+BRL_InterestRateDecision;20221208;21:00;Interest Rate Decision;Brazil;BRL;1
+NZD_ManufacturingSales;20221208;21:45;Manufacturing Sales;New Zealand;NZD;1
+NZD_RetailSales;20221208;21:45;Electronic Card Retail Sales (YoY);New Zealand;NZD;1
+KRW_CurrentAccount;20221208;23:00;Current Account Balance;South Korea;KRW;1
+JPY_MoneySupplyM2+CD;20221208;23:50;Money Supply M2+CD (YoY);Japan;JPY;1

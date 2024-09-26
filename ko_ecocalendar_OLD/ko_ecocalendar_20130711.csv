@@ -1,0 +1,37 @@
+CLP_BCCHInterestRate;20130711;22:00;BCCH Interest Rate;Chile;CLP;1
+USD_MonthlyBudgetStatement;20130711;18:00;Monthly Budget Statement;United States;USD;1
+USD_Auction;20130711;17:00;30-Year Bond Auction;United States;USD;1
+USD_CentralBankSpeech;20130711;15:00;Fed Tarullo speech;United States;USD;1
+USD_EIANaturalGasStorageChange;20130711;14:30;EIA Natural Gas Storage Change;United States;USD;1
+RUB_CentralBankReserves;20130711;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_JoblessClaims;20130711;12:30;Initial Jobless Claims;United States;USD;1
+USD_ImportPriceIndex;20130711;12:30;Import Price Index (MoM);United States;USD;1
+USD_ExportPriceIndex;20130711;12:30;Export Price Index (MoM);United States;USD;1
+CAD_NewHousingPriceIndex;20130711;12:30;New Housing Price Index (YoY);Canada;CAD;2
+BRL_RetailSales;20130711;12:00;Retail Sales (MoM);Brazil;BRL;1
+EUR_IreConsumerConfidence;20130711;11:00;Consumer Confidence;Ireland;EUR;1
+ZAR_ManufacturingProductionIndex;20130711;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+GBP_Auction;20130711;10:19;30-y Bond Auction;United Kingdom;GBP;1
+EUR_IreConsumerPriceIndex;20130711;10:00;Consumer Price Index (YoY);Ireland;EUR;1
+RUB_ForeignTrade;20130711;10:00;Foreign Trade;Russia;RUB;1
+EUR_ItaAuction;20130711;09:36;3-y Bond Auction;Italy;EUR;1
+EUR_GreUnemploymentRate;20130711;09:00;Unemployment Rate (MoM);Greece;EUR;1
+GBP_CentralBankSpeech;20130711;08:30;BoE Miles speech;United Kingdom;GBP;2
+EUR_GerCentralBankSpeech;20130711;08:00;German Buba President Weidmann speech;Germany;EUR;2
+EUR_EurECBMonthlyReport;20130711;08:00;ECB Monthly Report;European Monetary Union;EUR;3
+RUB_BudgetFulfilment;20130711;07:30;Budget Fulfilment;Russia;RUB;1
+SEK_ConsumerPriceIndex;20130711;07:30;Consumer Price Index (YoY);Sweden;SEK;1
+IDR_BankIndonesiaRate;20130711;07:17;Bank Indonesia Rate;Indonesia;IDR;1
+TRY_CurrentAccount;20130711;07:00;Current Account Balance;Turkey;TRY;1
+HUF_ConsumerPriceIndex;20130711;07:00;Consumer Price Index (YoY);Hungary;HUF;1
+EUR_FraConsumerPriceIndex;20130711;06:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraInflationextobacco;20130711;06:45;Inflation ex-tobacco (MoM);France;EUR;1
+JPY_CentralBankSpeech;20130711;06:30;BoJ Governor Kuroda speech;Japan;JPY;2
+EUR_GerWholesalePriceIndex;20130711;06:00;Wholesale Price Index (MoM);Germany;EUR;1
+JPY_BoJMonetaryPolicyStatement;20130711;03:00;BoJ Monetary Policy Statement ;Japan;JPY;3
+JPY_BoJInterestRateDecision;20130711;03:00;BoJ Interest Rate Decision;Japan;JPY;3
+AUD_PartTimeEmployment;20130711;01:30;Part-Time Employment;Australia;AUD;1
+AUD_UnemploymentRate;20130711;01:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_EmploymentChange;20130711;01:30;Employment Change s.a.;Australia;AUD;3
+AUD_FulltimeEmployment;20130711;01:30;Fulltime Employment;Australia;AUD;2
+AUD_ConsumerInflationExpectations;20130711;01:00;Consumer Inflation Expectations;Australia;AUD;2

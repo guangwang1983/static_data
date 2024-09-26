@@ -1,0 +1,37 @@
+KRW_ProducerPriceIndex;20160218;21:00;Producer Price Index Growth (YoY);South Korea;KRW;1
+ARS_TradeBalance;20160218;19:00;Trade Balance (MoM);Argentina;ARS;1
+USD_EIACrudeOilStocksChange;20160218;16:00;EIA Crude Oil Stocks Change;United States;USD;2
+USD_EIANaturalGasStorageChange;20160218;15:30;EIA Natural Gas Storage Change;United States;USD;1
+EUR_PorCurrentAccount;20160218;13:32;Current Account Balance;Portugal;EUR;1
+USD_JoblessClaims;20160218;13:30;Initial Jobless Claims;United States;USD;2
+CAD_WholesaleSales;20160218;13:30;Wholesale Sales (MoM);Canada;CAD;1
+USD_PhiladelphiaFedManufacturingSurvey;20160218;13:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+RUB_CentralBankReserves;20160218;13:00;Central Bank Reserves $;Russia;RUB;1
+RUB_UnemploymentRate;20160218;13:00;Unemployment Rate;Russia;RUB;1
+EUR_EurECBMonetaryPolicyMeetingAccounts;20160218;12:30;ECB Monetary Policy Meeting Accounts;European Monetary Union;EUR;3
+EUR_EurEuropeanCouncilMeeting;20160218;12:00;European Council Meeting;European Monetary Union;EUR;2
+EUR_IreHICP;20160218;11:00;HICP (YoY);Ireland;EUR;1
+EUR_IreConsumerPriceIndex;20160218;11:00;Consumer Price Index (YoY);Ireland;EUR;1
+EUR_SpaAuction;20160218;10:19;5-y Bond Auction;Spain;EUR;1
+EUR_EurCurrentAccount;20160218;09:00;Current Account n.s.a;European Monetary Union;EUR;1
+EUR_SpaTradeBalance;20160218;09:00;Trade Balance;Spain;EUR;1
+GBP_CentralBankSpeech;20160218;08:55;BoE Cunliffe speech;United Kingdom;GBP;1
+SEK_ConsumerPriceIndex;20160218;08:30;Consumer Price Index (YoY);Sweden;SEK;1
+EUR_FraConsumerPriceIndex;20160218;07:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraInflationextobacco;20160218;07:45;Inflation ex-tobacco (MoM);France;EUR;1
+CHF_Exports;20160218;07:00;Exports (MoM);Switzerland;CHF;1
+CHF_Imports;20160218;07:00;Imports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20160218;07:00;Trade Balance;Switzerland;CHF;1
+EUR_NetUnemploymentRate;20160218;06:30;Unemployment Rate s.a (3M);Netherlands, The;EUR;1
+JPY_CentralBankSpeech;20160218;01:30;BoJ Ishida speech;Japan;JPY;1
+CNY_ConsumerPriceIndex;20160218;01:30;Consumer Price Index (YoY);China;CNY;2
+CNY_ProducerPriceIndex;20160218;01:30;Producer Price Index (YoY);China;CNY;2
+AUD_CentralBankSpeech;20160218;01:00;RBA Edey speech;Australia;AUD;2
+AUD_RBAForeignExchangeTransaction;20160218;00:30;RBA Foreign Exchange Transaction;Australia;AUD;1
+AUD_PartTimeEmployment;20160218;00:30;Part-Time Employment;Australia;AUD;1
+AUD_UnemploymentRate;20160218;00:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_EmploymentChange;20160218;00:30;Employment Change s.a.;Australia;AUD;3
+AUD_FulltimeEmployment;20160218;00:30;Fulltime Employment;Australia;AUD;2
+AUD_ParticipationRate;20160218;00:30;Participation Rate;Australia;AUD;1
+USD_CentralBankSpeech;20160218;00:30;Fed Bullard speech;United States;USD;1
+IDR_BankIndonesiaRate;20160218;00:00;Bank Indonesia Rate;Indonesia;IDR;1

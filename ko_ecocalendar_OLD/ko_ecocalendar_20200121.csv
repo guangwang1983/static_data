@@ -1,0 +1,26 @@
+AUD_WestpacConsumerConfidence;20200121;23:30;Westpac Consumer Confidence;Australia;AUD;2
+KRW_GrossDomesticProduct;20200121;23:00;Gross Domestic Product Growth (QoQ) ;South Korea;KRW;1
+CHF_WorldEconomicForumDavos;20200121;23:00;World Economic Forum - Davos;Switzerland;CHF;2
+USD_Auction;20200121;16:30;3-Month Bill Auction;United States;USD;1
+NZD_GDTPriceIndex;20200121;15:20;GDT Price Index;New Zealand;NZD;2
+EUR_BelConsumerConfidenceIndex;20200121;14:00;Consumer Confidence Index;Belgium;EUR;1
+USD_RedbookIndex;20200121;13:55;Redbook Index (YoY);United States;USD;1
+CAD_ManufacturingSales;20200121;13:30;Manufacturing Sales (MoM);Canada;CAD;1
+MXN_JoblessRate;20200121;12:00;Jobless Rate;Mexico;MXN;1
+EUR_PorCurrentAccount;20200121;11:00;Current Account Balance;Portugal;EUR;1
+EUR_GerZEWSurveyEconomicSentiment;20200121;10:00;ZEW Survey - Economic Sentiment;Germany;EUR;3
+EUR_EurZEWSurveyEconomicSentiment;20200121;10:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurveyCurrentSituation;20200121;10:00;ZEW Survey - Current Situation;Germany;EUR;2
+EUR_SpaAuction;20200121;09:40;9-Month Letras Auction;Spain;EUR;1
+GBP_AverageEarningsExcludingBonus;20200121;09:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_AverageEarningsIncludingBonus;20200121;09:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20200121;09:30;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_ClaimantCountRate;20200121;09:30;Claimant Count Rate;United Kingdom;GBP;1
+GBP_ClaimantCountChange;20200121;09:30;Claimant Count Change;United Kingdom;GBP;2
+PLN_CorporateSectorWages;20200121;09:00;Corporate Sector Wages;Poland;PLN;1
+HKD_ConsumerPriceIndex;20200121;08:30;Consumer Price Index;Hong Kong SAR;HKD;1
+JPY_BoJPressConference;20200121;06:00;BoJ Press Conference;Japan;JPY;3
+JPY_BoJMonetaryPolicyStatement;20200121;03:00;BoJ Monetary Policy Statement ;Japan;JPY;3
+JPY_BoJInterestRateDecision;20200121;03:00;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_BoJOutlookReport;20200121;03:00;BoJ Outlook Report;Japan;JPY;2
+EUR_EurEcoFinMeeting;20200121;00:00;EcoFin Meeting;European Monetary Union;EUR;2

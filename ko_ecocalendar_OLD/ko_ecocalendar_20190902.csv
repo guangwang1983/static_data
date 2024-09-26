@@ -1,0 +1,44 @@
+JPY_CapitalSpending;20190902;23:50;Capital Spending;Japan;JPY;1
+JPY_JPForeignReserves;20190902;23:50;JP Foreign Reserves;Japan;JPY;1
+JPY_MonetaryBase;20190902;23:50;Monetary Base (YoY);Japan;JPY;1
+GBP_RetailSales;20190902;23:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+KRW_GrossDomesticProduct;20190902;23:00;Gross Domestic Product Growth (QoQ) ;South Korea;KRW;1
+KRW_ConsumerPriceIndex;20190902;23:00;Consumer Price Index Growth (MoM);South Korea;KRW;1
+ARS_TaxRevenue;20190902;20:00;Tax Revenue (MoM);Argentina;ARS;1
+BRL_TradeBalance;20190902;19:00;Trade Balance;Brazil;BRL;1
+BRL_HSBCPMIManufacturing;20190902;13:00;HSBC PMI Manufacturing;Brazil;BRL;1
+ZAR_TotalNewVehicleSales;20190902;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+INR_InfrastructureOutput;20190902;12:00;Infrastructure Output (YoY);India;INR;1
+CZK_BudgetBalance;20190902;12:00;Budget Balance;Czech Republic;CZK;1
+ILS_BudgetBalanceILS;20190902;10:00;Budget Balance - ILS;Israel;ILS;1
+ZAR_BusinessConfidenceIndex;20190902;09:30;Business Confidence Index;South Africa;ZAR;1
+GBP_MarkitManufacturingPMI;20190902;08:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+EUR_GreMarkitManufacturingPMI;20190902;08:00;Markit Manufacturing PMI;Greece;EUR;1
+EUR_EurMarkitManufacturingPMI;20190902;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;1
+EUR_GerMarkitManufacturingPMI;20190902;07:55;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20190902;07:50;Markit Manufacturing PMI;France;EUR;1
+EUR_ItaMarkitManufacturingPMI;20190902;07:45;Markit Manufacturing PMI;Italy;EUR;1
+EUR_AusUnemploymentRate;20190902;07:30;Unemployment Rate;Austria;EUR;1
+EUR_AusUnemployment;20190902;07:30;Unemployment;Austria;EUR;1
+CHF_RetailSales;20190902;07:30;Real Retail Sales (YoY);Switzerland;CHF;2
+CHF_SVMEPurchasingManagers'Index;20190902;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_MarkitPMI;20190902;07:30;Markit PMI;Czech Republic;CZK;1
+EUR_SpaMarkitManufacturingPMI;20190902;07:15;Markit Manufacturing PMI;Spain;EUR;1
+TRY_GrossDomesticProduct;20190902;07:00;Quarterly Gross Domestic Product;Turkey;TRY;1
+HUF_PurchasingManagerIndex;20190902;07:00;Purchasing Manager Index;Hungary;HUF;1
+HUF_ProducerPriceIndex;20190902;07:00;Producer Price Index (YoY);Hungary;HUF;1
+PLN_PurchasingManagerIndex;20190902;07:00;Purchasing Manager Index;Poland;PLN;1
+AUD_RBACommodityIndexSDR;20190902;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+SEK_PurchasingManagersIndexManufacturing;20190902;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+RUB_HSBCManufacturingPMI;20190902;06:00;HSBC Manufacturing PMI	;Russia;RUB;1
+IDR_Inflation;20190902;04:00;Inflation (MoM);Indonesia;IDR;1
+IDR_CoreInflation;20190902;04:00;Core Inflation (YoY);Indonesia;IDR;1
+CNY_CaixinManufacturingPMI;20190902;01:45;Caixin Manufacturing PMI;China;CNY;3
+AUD_CompanyGrossOperatingProfits;20190902;01:30;Company Gross Operating Profits (QoQ);Australia;AUD;1
+AUD_ANZJobAdvertisements;20190902;01:30;ANZ Job Advertisements;Australia;AUD;1
+AUD_TDSecuritiesInflation;20190902;01:00;TD Securities Inflation (MoM);Australia;AUD;1
+KRW_NikkeiMarkitManufacturingPMI;20190902;00:30;Nikkei Markit Manufacturing PMI;South Korea;KRW;1
+JPY_NikkeiManufacturingPMI;20190902;00:30;Nikkei Manufacturing PMI;Japan;JPY;1
+EUR_IrePurchasingManagerIndexManufacturing;20190902;00:01;Purchasing Manager Index Manufacturing;Ireland;EUR;1
+CAD_LabourDay;20190902;00:00;Labour Day;Canada;CAD;0
+USD_LaborDay;20190902;00:00;Labor Day;United States;USD;0

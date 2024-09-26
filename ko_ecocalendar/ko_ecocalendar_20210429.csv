@@ -1,0 +1,50 @@
+NZD_ANZActivityOutlook;20210429;01:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20210429;01:00;ANZ Business Confidence;New Zealand;NZD;1
+AUD_ExportPriceIndex;20210429;01:30;Export Price Index (QoQ);Australia;AUD;1
+AUD_ImportPriceIndex;20210429;01:30;Import Price Index (QoQ);Australia;AUD;1
+EUR_GerImportPriceIndex;20210429;06:00;Import Price Index (MoM);Germany;EUR;1
+DKK_UnemploymentRate;20210429;06:00;Unemployment Rate;Denmark;DKK;1
+HUF_GrossWages;20210429;07:00;Gross Wages (YoY);Hungary;HUF;1
+SEK_ConsumerConfidence;20210429;07:00;Consumer Confidence (MoM);Sweden;SEK;1
+TRY_EconomicConfidenceIndex;20210429;07:00;Economic Confidence Index;Turkey;TRY;1
+HUF_TradeBalance;20210429;07:00;Trade Balance;Hungary;HUF;1
+EUR_EurCentralBankSpeech;20210429;07:30;ECB De Guindos speech;European Monetary Union;EUR;2
+EUR_GerUnemploymentChange;20210429;07:55;Unemployment Change;Germany;EUR;2
+EUR_GerUnemploymentRate;20210429;07:55;Unemployment Rate s.a.;Germany;EUR;2
+EUR_EurPrivateLoans;20210429;08:00;Private Loans (YoY);European Monetary Union;EUR;1
+EUR_EurM3MoneySupply;20210429;08:00;M3 Money Supply (3m);European Monetary Union;EUR;1
+EUR_ItaProducerPriceIndex;20210429;09:00;Producer Price Index (MoM);Italy;EUR;1
+EUR_EurServicesSentiment;20210429;09:00;Services Sentiment;European Monetary Union;EUR;1
+EUR_EurConsumerConfidence;20210429;09:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurIndustrialConfidence;20210429;09:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_EurBusinessClimate;20210429;09:00;Business Climate;European Monetary Union;EUR;2
+EUR_EurEconomicSentimentIndicator;20210429;09:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+ZAR_ProducerPriceIndex;20210429;09:30;Producer Price Index (YoY);South Africa;ZAR;1
+EUR_ItaAuction;20210429;10:40;5-y Bond Auction;Italy;EUR;1
+BRL_InflationIndexIGPM;20210429;11:00;Inflation Index/IGP-M;Brazil;BRL;1
+EUR_GerCentralBankSpeech;20210429;11:30;German Buba President Weidmann speech;Germany;EUR;2
+EUR_GerConsumerPriceIndex;20210429;12:00;Consumer Price Index (MoM);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20210429;12:00;Harmonized Index of Consumer Prices (MoM);Germany;EUR;1
+USD_JoblessClaims;20210429;12:30;Initial Jobless Claims;United States;USD;2
+USD_GrossDomesticProduct;20210429;12:30;Gross Domestic Product Price Index;United States;USD;2
+USD_PersonalConsumptionExpendituresPrices;20210429;12:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+USD_CorePersonalConsumptionExpenditures;20210429;12:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+RUB_CentralBankReserves;20210429;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_PendingHomeSales;20210429;14:00;Pending Home Sales (YoY);United States;USD;1
+USD_EIANaturalGasStorageChange;20210429;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20210429;15:30;4-Week Bill Auction;United States;USD;1
+USD_CentralBankSpeech;20210429;18:00;Fed Williams speech;United States;USD;2
+RON_OrthodoxGoodFriday;20210429;21:00;Orthodox Good Friday;Romania;RON;0
+DKK_GeneralPrayerDay;20210429;22:00;General Prayer Day ;Denmark;DKK;0
+NZD_ANZ–RoyMorganConsumerConfidence;20210429;22:00;ANZ – Roy Morgan Consumer Confidence;New Zealand;NZD;2
+KRW_IndustrialOutput;20210429;23:00;Industrial Output (YoY);South Korea;KRW;1
+KRW_ServiceSectorOutput;20210429;23:00;Service Sector Output;South Korea;KRW;1
+KRW_IndustrialOutputGrowth;20210429;23:00;Industrial Output Growth;South Korea;KRW;1
+JPY_ConsumerPriceIndex;20210429;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;2
+JPY_TokyoCPIexFoodEnergy;20210429;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_TokyoCPIexFreshFood;20210429;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;2
+JPY_JobsApplicantsRatio;20210429;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+JPY_UnemploymentRate;20210429;23:30;Unemployment Rate;Japan;JPY;2
+JPY_IndustrialProduction;20210429;23:50;Industrial Production (MoM);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20210429;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20210429;23:50;Foreign Bond Investment;Japan;JPY;1

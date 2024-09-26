@@ -1,0 +1,24 @@
+CNY_HousePriceIndex;20180717;01:30;House Price Index ;China;CNY;1
+AUD_RBAMeetingMinutes;20180717;01:30;RBA Meeting Minutes;Australia;AUD;3
+TRY_IndustrialProduction;20180717;07:00;Industrial Production (YoY);Turkey;TRY;1
+GBP_CentralBankSpeech;20180717;08:00;BoE Governor Carney speech;United Kingdom;GBP;3
+PLN_CorporateSectorWages;20180717;08:00;Corporate Sector Wages;Poland;PLN;1
+EUR_ItaIndustrialSales;20180717;08:00;Industrial Sales n.s.a. (YoY);Italy;EUR;1
+EUR_ItaIndustrialOrders;20180717;08:00;Industrial Orders n.s.a (YoY);Italy;EUR;1
+GBP_ClaimantCountRate;20180717;08:30;Claimant Count Rate;United Kingdom;GBP;1
+GBP_ClaimantCountChange;20180717;08:30;Claimant Count Change;United Kingdom;GBP;2
+GBP_AverageEarningsExcludingBonus;20180717;08:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;3
+GBP_ILOUnemploymentRate;20180717;08:30;ILO Unemployment Rate (3M);United Kingdom;GBP;2
+GBP_AverageEarningsIncludingBonus;20180717;08:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;3
+EUR_ItaConsumerPriceIndex;20180717;09:00;Consumer Price Index (EU Norm) (MoM);Italy;EUR;1
+CAD_ManufacturingSales;20180717;12:30;Manufacturing Sales (MoM);Canada;CAD;1
+USD_RedbookIndex;20180717;12:55;Redbook Index (YoY);United States;USD;1
+USD_IndustrialProduction;20180717;13:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20180717;13:15;Capacity Utilization;United States;USD;2
+USD_CentralBankSpeech;20180717;14:00;Fed Chair Powell speech;United States;USD;3
+USD_NAHBHousingMarketIndex;20180717;14:00;NAHB Housing Market Index;United States;USD;1
+NZD_GDTPriceIndex;20180717;14:31;GDT Price Index;New Zealand;NZD;2
+USD_Auction;20180717;15:30;52-Week Bill Auction;United States;USD;1
+USD_TotalNetTICFlows;20180717;20:00;Total Net TIC Flows;United States;USD;1
+USD_NetLongTermTICFlows;20180717;20:00;Net Long-Term TIC Flows;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20180717;20:30;API Weekly Crude Oil Stock;United States;USD;1

@@ -1,0 +1,30 @@
+CLP_BCCHInterestRate;20120417;21:00;BCCH Interest Rate;Chile;CLP;1
+USD_IndustrialProduction;20120417;13:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20120417;13:15;Capacity Utilization;United States;USD;1
+CAD_BoCInterestRateDecision;20120417;13:00;BoC Interest Rate Decision;Canada;CAD;3
+CAD_BoCRateStatement;20120417;13:00;BoC Rate Statement;Canada;CAD;3
+CAD_NewMotorVehicleSales;20120417;12:30;New Motor Vehicle Sales (MoM);Canada;CAD;1
+USD_HousingStarts;20120417;12:30;Housing Starts (MoM);United States;USD;1
+USD_BuildingPermits;20120417;12:30;Building Permits (MoM);United States;USD;1
+EUR_EurCentralBankSpeech;20120417;12:30;ECB President Draghi speech;European Monetary Union;EUR;3
+CAD_ManufacturingShipments;20120417;12:30;Manufacturing Shipments (MoM);Canada;CAD;1
+RUB_ProducerPriceIndex;20120417;12:20;Producer Price Index (YoY);Russia;RUB;1
+EUR_ItaQuarterlyeconomicbulletin;20120417;11:00;Quarterly economic bulletin;Italy;EUR;1
+EUR_SpaAuction;20120417;09:30;12-Month Letras Auction;Spain;EUR;1
+EUR_EurConsumerPriceIndex;20120417;09:00;Consumer Price Index (YoY);European Monetary Union;EUR;3
+EUR_EurZEWSurveyEconomicSentiment;20120417;09:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurveyEconomicSentiment;20120417;09:00;ZEW Survey - Economic Sentiment;Germany;EUR;2
+EUR_GerZEWSurveyCurrentSituation;20120417;09:00;ZEW Survey - Current Situation;Germany;EUR;2
+GBP_RetailPriceIndex;20120417;08:30;Retail Price Index (MoM);United Kingdom;GBP;1
+GBP_DCLGHousePriceIndex;20120417;08:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20120417;08:30;Core Consumer Price Index (YoY);United Kingdom;GBP;2
+EUR_AusHICP;20120417;08:00;HICP (YoY);Austria;EUR;1
+EUR_SloEUNormInflation;20120417;07:00;EU Norm Inflation (MoM);Slovakia;EUR;1
+INR_CashReserveRatio;20120417;05:30;Cash Reserve Ratio;India;INR;1
+INR_ReverseRepoRate;20120417;05:30;Reverse Repo Rate;India;INR;1
+INR_RBIInterestRateDecision;20120417;05:30;RBI Interest Rate Decision (Repo Rate);India;INR;1
+JPY_ConsumerConfidenceIndex;20120417;05:00;Consumer Confidence Index;Japan;JPY;2
+JPY_IndustrialProduction;20120417;04:30;Industrial Production (MoM);Japan;JPY;1
+JPY_CapacityUtilization;20120417;04:30;Capacity Utilization;Japan;JPY;1
+CNY_FDIForeignDirectInvestment;20120417;02:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+AUD_NewMotorVehicleSales;20120417;01:30;New Motor Vehicle Sales (MoM);Australia;AUD;1

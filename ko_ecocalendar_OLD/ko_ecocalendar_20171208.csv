@@ -1,0 +1,58 @@
+JPY_CFTCJPYNCNetPositions;20171208;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+AUD_CFTCAUDNCNetPositions;20171208;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCGoldNCNetPositions;20171208;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCUSDNCNetPositions;20171208;20:30;CFTC USD NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20171208;20:30;CFTC Oil NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20171208;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+GBP_CFTCGBPNCNetPositions;20171208;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_BakerHughesUSOilRigCount;20171208;18:00;Baker Hughes US Oil Rig Count;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20171208;15:00;Michigan Consumer Sentiment Index;United States;USD;1
+USD_UnemploymentRate;20171208;13:30;Unemployment Rate;United States;USD;3
+USD_AverageHourlyEarnings;20171208;13:30;Average Hourly Earnings (MoM);United States;USD;1
+USD_NonfarmPayrolls;20171208;13:30;Nonfarm Payrolls;United States;USD;3
+USD_LaborForceParticipationRate;20171208;13:30;Labor Force Participation Rate;United States;USD;2
+USD_AverageWeeklyHours;20171208;13:30;Average Weekly Hours;United States;USD;2
+CAD_CapacityUtilization;20171208;13:30;Capacity Utilization;Canada;CAD;1
+CAD_HousingStarts;20171208;13:15;Housing Starts s.a (YoY);Canada;CAD;2
+GBP_NIESRGDPEstimate;20171208;13:00;NIESR GDP Estimate (3M);United Kingdom;GBP;2
+INR_BankLoanGrowth;20171208;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20171208;11:30;FX Reserves, USD;India;INR;1
+BRL_IPCAInflation;20171208;11:00;IPCA Inflation;Brazil;BRL;1
+EUR_GreConsumerPriceIndex;20171208;10:05;Consumer Price Index (YoY);Greece;EUR;1
+GBP_ConsumerInflationExpectations;20171208;09:30;Consumer Inflation Expectations;United Kingdom;GBP;1
+GBP_ManufacturingProduction;20171208;09:30;Manufacturing Production (MoM);United Kingdom;GBP;2
+GBP_IndustrialProduction;20171208;09:30;Industrial Production (YoY);United Kingdom;GBP;2
+GBP_GoodsTradeBalance;20171208;09:30;Goods Trade Balance;United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20171208;09:30;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20171208;09:30;Total Trade Balance;United Kingdom;GBP;1
+ISK_GrossDomesticProduct;20171208;09:00;Gross Domestic Product (QoQ);Iceland;ISK;1
+EUR_SloForeignTradeBalance;20171208;08:00;Foreign Trade Balance;Slovakia;EUR;1
+CZK_UnemploymentRate;20171208;08:00;Unemployment Rate;Czech Republic;CZK;1
+HUF_ConsumerPriceIndex;20171208;08:00;Consumer Price Index (YoY);Hungary;HUF;1
+HUF_TradeBalance;20171208;08:00;Trade Balance;Hungary;HUF;1
+EUR_FraIndustrialOutput;20171208;07:45;Industrial Output (MoM);France;EUR;1
+EUR_FraBudget;20171208;07:45;Budget;France;EUR;1
+EUR_FinIndustrialOutput;20171208;07:00;Industrial Output (MoM);Finland;EUR;1
+TRY_IndustrialProduction;20171208;07:00;Industrial Production (YoY);Turkey;TRY;1
+EUR_FinTradeBalance;20171208;07:00;Trade Balance;Finland;EUR;1
+EUR_GerCurrentAccount;20171208;07:00;Current Account n.s.a.;Germany;EUR;2
+EUR_GerTradeBalance;20171208;07:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerExports;20171208;07:00;Exports (MoM);Germany;EUR;2
+EUR_GerImports;20171208;07:00;Imports (MoM);Germany;EUR;2
+EUR_NetManufacturingOutput;20171208;05:30;Manufacturing Output (MoM);Netherlands, The;EUR;1
+JPY_EcoWatchersSurvey:Outlook;20171208;05:00;Eco Watchers Survey: Outlook;Japan;JPY;2
+JPY_EcoWatchersSurvey:Current;20171208;05:00;Eco Watchers Survey: Current;Japan;JPY;2
+CNY_Exports;20171208;02:00;Exports (YoY) CNY;China;CNY;2
+CNY_Imports;20171208;02:00;Imports (YoY) CNY;China;CNY;2
+CNY_TradeBalanceCNY;20171208;02:00;Trade Balance CNY;China;CNY;2
+CNY_TradeBalanceUSD;20171208;02:00;Trade Balance USD;China;CNY;2
+AUD_InvestmentLendingforHomes;20171208;00:30;Investment Lending for Homes;Australia;AUD;2
+AUD_HomeLoans;20171208;00:30;Home Loans;Australia;AUD;2
+EUR_IreConsumerConfidence;20171208;00:01;Consumer Confidence;Ireland;EUR;1
+EUR_ItaImmaculateConceptionDay;20171208;00:00;Immaculate Conception Day;Italy;EUR;0
+JPY_LaborCashEarnings;20171208;00:00;Labor Cash Earnings (YoY);Japan;JPY;1
+ARS_ImmaculateConception;20171208;00:00;Immaculate Conception;Argentina;ARS;0
+COP_ImmaculateConception;20171208;00:00;Immaculate Conception;Colombia;COP;0
+EUR_PorImmaculateConceptionDay;20171208;00:00;Immaculate Conception Day;Portugal;EUR;0
+CLP_ImmaculateConception;20171208;00:00;Immaculate Conception;Chile;CLP;0
+EUR_AusImmaculateConception;20171208;00:00;Immaculate Conception ;Austria;EUR;0

@@ -1,0 +1,52 @@
+AUD_ConsumerInflationExpectations;20230615;01:00;Consumer Inflation Expectations;Australia;AUD;2
+CNY_HousePriceIndex;20230615;01:30;House Price Index ;China;CNY;1
+AUD_EmploymentChange;20230615;01:30;Employment Change s.a.;Australia;AUD;3
+AUD_PartTimeEmployment;20230615;01:30;Part-Time Employment;Australia;AUD;1
+AUD_FullTimeEmployment;20230615;01:30;Full-Time Employment;Australia;AUD;2
+AUD_ParticipationRate;20230615;01:30;Participation Rate;Australia;AUD;1
+AUD_UnemploymentRate;20230615;01:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_RBABulletin;20230615;01:30;RBA Bulletin;Australia;AUD;1
+CNY_RetailSales;20230615;02:00;Retail Sales (YoY);China;CNY;3
+CNY_IndustrialProduction;20230615;02:00;Industrial Production (YoY);China;CNY;2
+CNY_FixedAssetInvestment;20230615;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+KRW_TradeBalance;20230615;02:00;Trade Balance;South Korea;KRW;1
+IDR_Imports;20230615;04:00;Imports;Indonesia;IDR;1
+IDR_Exports;20230615;04:00;Exports;Indonesia;IDR;1
+IDR_TradeBalance;20230615;04:00;Trade Balance;Indonesia;IDR;1
+JPY_TertiaryIndustryIndex;20230615;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+NOK_TradeBalance;20230615;06:00;Trade Balance;Norway;NOK;1
+CHF_ProducerandImportPrices;20230615;06:30;Producer and Import Prices (MoM);Switzerland;CHF;1
+EUR_EurEurogroupMeeting;20230615;07:00;Eurogroup Meeting;European Monetary Union;EUR;2
+CHF_SECOEconomicForecasts;20230615;07:00;SECO Economic Forecasts;Switzerland;CHF;1
+TRY_BudgetBalance;20230615;08:00;Budget Balance;Turkey;TRY;1
+PLN_ConsumerPriceIndex;20230615;08:00;Consumer Price Index (YoY);Poland;PLN;1
+HUF_BudgetBalance;20230615;09:00;Budget Balance;Hungary;HUF;1
+EUR_EurTradeBalance;20230615;09:00;Trade Balance n.s.a.;European Monetary Union;EUR;1
+INR_M3MoneySupply;20230615;11:30;M3 Money Supply;India;INR;1
+INR_TradeDeficitGovernment;20230615;11:30;Trade Deficit Government;India;INR;1
+EUR_EurECBRateOnDepositFacility;20230615;12:15;ECB Rate On Deposit Facility;European Monetary Union;EUR;3
+EUR_EurECBRateOnMainRefinancingOperations;20230615;12:15;ECB Rate On Main Refinancing Operations;European Monetary Union;EUR;3
+EUR_EurECBMonetaryPolicyDecisionStatement;20230615;12:15;ECB Monetary Policy Decision Statement;European Monetary Union;EUR;3
+CAD_HousingStarts;20230615;12:15;Housing Starts s.a (YoY);Canada;CAD;1
+USD_NYEmpireStateManufacturingIndex;20230615;12:30;NY Empire State Manufacturing Index;United States;USD;1
+USD_RetailSales;20230615;12:30;Retail Sales ex Autos (MoM);United States;USD;2
+USD_JoblessClaims;20230615;12:30;Initial Jobless Claims 4-week average;United States;USD;2
+USD_ImportPriceIndex;20230615;12:30;Import Price Index (MoM);United States;USD;1
+USD_ExportPriceIndex;20230615;12:30;Export Price Index (MoM);United States;USD;1
+USD_PhiladelphiaFedManufacturingSurvey;20230615;12:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+CAD_ManufacturingSales;20230615;12:30;Manufacturing Sales (MoM);Canada;CAD;1
+EUR_EurECBPressConference;20230615;12:45;ECB Press Conference;European Monetary Union;EUR;3
+RUB_CentralBankReserves;20230615;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_IndustrialProduction;20230615;13:15;Industrial Production (MoM);United States;USD;1
+USD_CapacityUtilization;20230615;13:15;Capacity Utilization;United States;USD;1
+USD_BusinessInventories;20230615;14:00;Business Inventories;United States;USD;1
+USD_EIANaturalGasStorageChange;20230615;14:30;EIA Natural Gas Storage Change;United States;USD;1
+COP_RetailSales;20230615;15:00;Retail Sales (YoY);Colombia;COP;1
+COP_Industrialoutput;20230615;15:00;Industrial output (YoY);Colombia;COP;1
+USD_Auction;20230615;15:30;4-Week Bill Auction;United States;USD;1
+ILS_ConsumerPriceIndex;20230615;15:30;Consumer Price Index (YoY);Israel;ILS;1
+GBP_CentralBankSpeech;20230615;15:35;BoE Cunliffe speech;United Kingdom;GBP;2
+USD_TotalNetTICFlows;20230615;20:00;Total Net TIC Flows;United States;USD;1
+USD_NetLongTermTICFlows;20230615;20:00;Net Long-Term TIC Flows;United States;USD;1
+ZAR_YouthDay;20230615;22:00;Youth Day;South Africa;ZAR;0
+NZD_BusinessNZPMI;20230615;22:30;Business NZ PMI;New Zealand;NZD;2

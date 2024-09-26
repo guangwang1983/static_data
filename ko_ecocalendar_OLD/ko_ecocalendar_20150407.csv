@@ -1,0 +1,41 @@
+JPY_CurrentAccount;20150407;23:50;Current Account n.s.a.;Japan;JPY;1
+JPY_TradeBalanceBOPBasis;20150407;23:50;Trade Balance - BOP Basis;Japan;JPY;2
+GBP_BRCShopPriceIndex;20150407;23:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1
+USD_ConsumerCreditChange;20150407;19:00;Consumer Credit Change;United States;USD;2
+USD_Auction;20150407;17:00;3-Year Note Auction;United States;USD;1
+TRY_TreasuryCashBalance;20150407;14:30;Treasury Cash Balance;Turkey;TRY;1
+USD_JOLTSJobOpenings;20150407;14:00;JOLTS Job Openings;United States;USD;1
+DKK_CurrencyReserves;20150407;14:00;Currency Reserves;Denmark;DKK;1
+USD_IBDTIPPEconomicOptimism;20150407;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+USD_RedbookIndex;20150407;12:55;Redbook Index (MoM);United States;USD;1
+USD_CentralBankSpeech;20150407;12:50;Fed Minneapolis Kocherlakota speech;United States;USD;1
+CLP_TradeBalance;20150407;12:30;Trade Balance;Chile;CLP;1
+PLN_CentralBankFXReserves;20150407;12:00;Central Bank FX Reserves;Poland;PLN;1
+EUR_EurProducerPriceIndex;20150407;09:00;Producer Price Index (MoM);European Monetary Union;EUR;1
+SGD_ForeignReserves;20150407;09:00;Foreign Reserves (MoM);Singapore;SGD;1
+EUR_SpaAuction;20150407;08:50;12-Month Letras Auction;Spain;EUR;1
+EUR_EurSentixInvestorConfidence;20150407;08:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+GBP_MarkitServicesPMI;20150407;08:30;Markit Services PMI;United Kingdom;GBP;2
+EUR_EurMarkitPMIComposite;20150407;08:00;Markit PMI Composite;European Monetary Union;EUR;1
+EUR_EurMarkitServicesPMI;20150407;08:00;Markit Services PMI;European Monetary Union;EUR;1
+EUR_GerMarkitPMIComposite;20150407;07:55;Markit PMI Composite;Germany;EUR;1
+EUR_GerMarkitServicesPMI;20150407;07:55;Markit Services PMI;Germany;EUR;1
+EUR_FraMarkitPMIComposite;20150407;07:50;Markit PMI Composite;France;EUR;1
+EUR_FraMarkitServicesPMI;20150407;07:50;Markit Services PMI;France;EUR;1
+EUR_ItaMarkitServicesPMI;20150407;07:45;Markit Services PMI;Italy;EUR;1
+SEK_IndustrialProduction;20150407;07:30;Industrial Production (YoY);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20150407;07:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+ZAR_PurchasingManagerIndex;20150407;07:15;Purchasing Manager Index;South Africa;ZAR;1
+EUR_SpaMarkitServicesPMI;20150407;07:15;Markit Services PMI;Spain;EUR;1
+EUR_AusWholesalePrices;20150407;07:00;Wholesale Prices n.s.a (MoM);Austria;EUR;1
+CHF_ForeignCurrencyReserves;20150407;07:00;Foreign Currency Reserves;Switzerland;CHF;1
+EUR_FinTradeBalance;20150407;06:00;Trade Balance;Finland;EUR;1
+INR_CashReserveRatio;20150407;05:30;Cash Reserve Ratio;India;INR;1
+INR_ReverseRepoRate;20150407;05:30;Reverse Repo Rate;India;INR;1
+INR_RBIInterestRateDecision;20150407;05:30;RBI Interest Rate Decision (Repo Rate);India;INR;1
+EUR_IrePurchasingManagerIndexServices;20150407;05:00;Purchasing Manager Index Services;Ireland;EUR;1
+AUD_RBARateStatement;20150407;04:30;RBA Rate Statement;Australia;AUD;3
+AUD_RBAInterestRateDecision;20150407;04:30;RBA Interest Rate Decision;Australia;AUD;3
+AUD_ANZJobAdvertisements;20150407;01:30;ANZ Job Advertisements;Australia;AUD;1
+AUD_RetailSales;20150407;01:30;Retail Sales s.a. (MoM);Australia;AUD;2
+HKD_ThedayfollowingEasterMonday;20150407;00:00;The day following Easter Monday;Hong Kong SAR;HKD;0

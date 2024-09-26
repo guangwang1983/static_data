@@ -1,0 +1,46 @@
+COP_SaintPeterandSaintPaul;20170703;00:00;Saint Peter and Saint Paul;Colombia;COP;0
+CAD_CanadaDay;20170703;00:00;Canada Day (observed);Canada;CAD;0
+KRW_S&PGlobalManufacturingPMI;20170703;00:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+JPY_JibunBankManufacturingPMI;20170703;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+AUD_TDSecuritiesInflation;20170703;01:00;TD Securities Inflation (MoM);Australia;AUD;2
+AUD_ANZJobAdvertisements;20170703;01:30;ANZ Job Advertisements;Australia;AUD;1
+AUD_BuildingPermits;20170703;01:30;Building Permits (YoY);Australia;AUD;1
+CNY_CaixinManufacturingPMI;20170703;01:45;Caixin Manufacturing PMI;China;CNY;2
+IDR_Inflation;20170703;04:00;Inflation (MoM);Indonesia;IDR;1
+IDR_CoreInflation;20170703;04:00;Core Inflation (YoY);Indonesia;IDR;1
+JPY_VehicleSales;20170703;05:00;Vehicle Sales (YoY);Japan;JPY;1
+JPY_ConsumerConfidenceIndex;20170703;05:00;Consumer Confidence Index;Japan;JPY;1
+RUB_S&PGlobalManufacturingPMI;20170703;06:00;S&P Global Manufacturing PMI;Russia;RUB;1
+AUD_RBACommodityIndexSDR;20170703;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+SEK_PurchasingManagersIndexManufacturing;20170703;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;2
+TRY_ProducerPriceIndex;20170703;07:00;Producer Price Index (MoM);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20170703;07:00;Consumer Price Index (MoM);Turkey;TRY;1
+HUF_PurchasingManagerIndex;20170703;07:00;Purchasing Manager Index;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20170703;07:00;Purchasing Manager Index;Poland;PLN;2
+CHF_RetailSales;20170703;07:15;Real Retail Sales (YoY);Switzerland;CHF;2
+CHF_SVMEPurchasingManagers'Index;20170703;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_S&PGlobalPMI;20170703;07:30;S&P Global PMI;Czech Republic;CZK;1
+EUR_ItaHCOBManufacturingPMI;20170703;07:45;HCOB Manufacturing PMI;Italy;EUR;1
+EUR_FraHCOBManufacturingPMI;20170703;07:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerHCOBManufacturingPMI;20170703;07:55;HCOB Manufacturing PMI;Germany;EUR;2
+EUR_ItaUnemployment;20170703;08:00;Unemployment;Italy;EUR;1
+EUR_EurHCOBManufacturingPMI;20170703;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+USD_CentralBankSpeech;20170703;08:30;Fed Bullard speech;United States;USD;1
+GBP_S&PGlobalCIPSManufacturingPMI;20170703;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+TRY_Exports;20170703;09:00;Exports;Turkey;TRY;1
+EUR_EurUnemploymentRate;20170703;09:00;Unemployment Rate;European Monetary Union;EUR;2
+RON_Interestratedecision;20170703;12:00;Interest rate decision;Romania;RON;1
+CZK_BudgetBalance;20170703;12:00;Budget Balance;Czech Republic;CZK;1
+ZAR_TotalNewVehicleSales;20170703;13:00;Total New Vehicle Sales;South Africa;ZAR;1
+BRL_S&PGlobalManufacturingPMI;20170703;13:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+USD_S&PGlobalManufacturingPMI;20170703;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_ISMManufacturingPMI;20170703;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20170703;14:00;ISM Manufacturing Prices Paid;United States;USD;3
+USD_ConstructionSpending;20170703;14:00;Construction Spending (MoM);United States;USD;2
+USD_Auction;20170703;17:00;4-Week Bill Auction;United States;USD;1
+GBP_CentralBankSpeech;20170703;17:30;BoE Haldane speech;United Kingdom;GBP;1
+BRL_TradeBalance;20170703;18:00;Trade Balance;Brazil;BRL;1
+USD_TotalVehicleSales;20170703;19:30;Total Vehicle Sales;United States;USD;1
+NZD_NZIERBusinessConfidence;20170703;22:00;NZIER Business Confidence (QoQ);New Zealand;NZD;2
+KRW_ConsumerPriceIndex;20170703;23:00;Consumer Price Index Growth (YoY);South Korea;KRW;1
+JPY_MonetaryBase;20170703;23:50;Monetary Base (YoY);Japan;JPY;1

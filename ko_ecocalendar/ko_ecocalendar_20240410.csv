@@ -1,0 +1,34 @@
+NZD_RBNZInterestRateDecision;20240410;02:00;RBNZ Interest Rate Decision;New Zealand;NZD;3
+NZD_RBNZMonetaryPolicyStatement;20240410;02:00;RBNZ Monetary Policy Statement;New Zealand;NZD;3
+DKK_ConsumerPriceIndex;20240410;06:00;Consumer Price Index (YoY);Denmark;DKK;1
+DKK_Inflation;20240410;06:00;Inflation (HICP) (YoY);Denmark;DKK;1
+NOK_ConsumerPriceIndex;20240410;06:00;Consumer Price Index (YoY);Norway;NOK;1
+NOK_CoreInflation;20240410;06:00;Core Inflation (MoM);Norway;NOK;1
+NOK_ProducerPriceIndex;20240410;06:00;Producer Price Index (YoY);Norway;NOK;1
+SEK_IndustrialProductionValue;20240410;06:00;Industrial Production Value (MoM);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20240410;06:00;New Orders Manufacturing (YoY);Sweden;SEK;1
+CZK_ConsumerPriceIndex;20240410;07:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+EUR_ItaRetailSales;20240410;08:00;Retail Sales s.a. (MoM);Italy;EUR;1
+CNY_FDIForeignDirectInvestment;20240410;09:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;1
+CNY_M2MoneySupply;20240410;10:00;M2 Money Supply (YoY);China;CNY;1
+CNY_NewLoans;20240410;10:00;New Loans;China;CNY;1
+USD_MBAMortgageApplications;20240410;11:00;MBA Mortgage Applications;United States;USD;1
+BRL_IPCAInflation;20240410;12:00;IPCA Inflation;Brazil;BRL;1
+USD_ConsumerPriceIndex;20240410;12:30;Consumer Price Index n.s.a (MoM);United States;USD;1
+CAD_BuildingPermits;20240410;12:30;Building Permits (MoM);Canada;CAD;1
+CAD_BoCMonetaryPolicyStatement;20240410;13:45;BoC Monetary Policy Statement;Canada;CAD;3
+CAD_BoCInterestRateDecision;20240410;13:45;BoC Interest Rate Decision;Canada;CAD;3
+USD_WholesaleInventories;20240410;14:00;Wholesale Inventories;United States;USD;1
+CAD_BoCMonetaryPolicyReport;20240410;14:00;BoC Monetary Policy Report;Canada;CAD;3
+USD_RealClearMarketsTIPPEconomicOptimism;20240410;14:05;RealClearMarkets/TIPP Economic Optimism (MoM);United States;USD;1
+USD_EIACrudeOilStocksChange;20240410;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+CAD_BoCPressConference;20240410;14:30;BoC Press Conference;Canada;CAD;3
+RUB_ConsumerPriceIndex;20240410;16:00;Consumer Price Index (MoM);Russia;RUB;1
+USD_CentralBankSpeech;20240410;16:45;Fed Goolsbee speech;United States;USD;2
+USD_Auction;20240410;17:00;10-Year Note Auction;United States;USD;1
+USD_MonthlyBudgetStatement;20240410;18:00;Monthly Budget Statement;United States;USD;2
+USD_FOMCMinutes;20240410;18:00;FOMC Minutes;United States;USD;3
+GBP_RICSHousingPriceBalance;20240410;23:01;RICS Housing Price Balance;United Kingdom;GBP;1
+JPY_MoneySupplyM2+CD;20240410;23:50;Money Supply M2+CD (YoY);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20240410;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20240410;23:50;Foreign Bond Investment;Japan;JPY;1

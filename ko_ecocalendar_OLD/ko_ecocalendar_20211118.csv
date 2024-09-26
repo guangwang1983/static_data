@@ -1,0 +1,24 @@
+NZD_RBNZInflationExpectations;20211118;02:00;RBNZ Inflation Expectations (QoQ);New Zealand;NZD;2
+AUD_CentralBankSpeech;20211118;04:00;RBA Ellis speech;Australia;AUD;2
+CHF_Exports;20211118;07:00;Exports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20211118;07:00;Trade Balance;Switzerland;CHF;1
+CHF_Imports;20211118;07:00;Imports (MoM);Switzerland;CHF;1
+CHF_IndustrialProduction;20211118;07:30;Industrial Production (YoY);Switzerland;CHF;2
+SEK_UnemploymentRate;20211118;08:30;Unemployment Rate;Sweden;SEK;1
+TRY_CBRTInterestRateDecision;20211118;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+ZAR_SARBInterestRateDecision;20211118;13:00;SARB Interest Rate Decision;South Africa;ZAR;1
+RUB_CentralBankReserves;20211118;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_JoblessClaims;20211118;13:30;Initial Jobless Claims 4-week average;United States;USD;2
+USD_PhiladelphiaFedManufacturingSurvey;20211118;13:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+CAD_ADPEmploymentChange;20211118;13:30;ADP Employment Change;Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20211118;13:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20211118;13:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_EmploymentInsuranceBeneficiariesChange;20211118;13:30;Employment Insurance Beneficiaries Change (MoM);Canada;CAD;1
+EUR_EurCentralBankSpeech;20211118;14:30;ECB Lane speech;European Monetary Union;EUR;2
+USD_EIANaturalGasStorageChange;20211118;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_KansasFedManufacturingActivity;20211118;16:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_Auction;20211118;16:30;4-Week Bill Auction;United States;USD;1
+USD_CentralBankSpeech;20211118;19:00;Fed Evans speech;United States;USD;2
+JPY_ConsumerPriceIndex;20211118;23:30;National Consumer Price Index (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20211118;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_NationalCPIexFoodEnergy;20211118;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2

@@ -1,0 +1,33 @@
+EUR_PorRepublicDay;20191004;23:00;Republic Day;Portugal;EUR;0
+USD_CentralBankSpeech;20191004;19:45;Fed George speech;United States;USD;1
+AUD_CFTCAUDNCNetPositions;20191004;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20191004;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+USD_CFTCOilNCNetPositions;20191004;19:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20191004;19:30;CFTC Gold NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20191004;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20191004;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCUSDNCNetPositions;20191004;19:30;CFTC USD NC Net Positions;United States;USD;1
+USD_BakerHughesUSOilRigCount;20191004;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+CAD_IveyPurchasingManagersIndex;20191004;14:00;Ivey Purchasing Managers Index s.a;Canada;CAD;2
+RUB_ConsumerPriceIndex;20191004;13:00;Consumer Price Index (MoM);Russia;RUB;1
+USD_AverageWeeklyHours;20191004;12:30;Average Weekly Hours;United States;USD;1
+USD_AverageHourlyEarnings;20191004;12:30;Average Hourly Earnings (YoY);United States;USD;3
+USD_NonfarmPayrolls;20191004;12:30;Nonfarm Payrolls;United States;USD;3
+USD_UnemploymentRate;20191004;12:30;Unemployment Rate;United States;USD;2
+USD_LaborForceParticipationRate;20191004;12:30;Labor Force Participation Rate;United States;USD;2
+USD_TradeBalance;20191004;12:30;Trade Balance;United States;USD;2
+CAD_InternationalMerchandiseTrade;20191004;12:30;International Merchandise Trade;Canada;CAD;2
+CAD_Exports;20191004;12:30;Exports;Canada;CAD;1
+CAD_Imports;20191004;12:30;Imports;Canada;CAD;1
+INR_FXReservesUSD;20191004;11:30;FX Reserves, USD;India;INR;1
+EUR_ItaPublicDeficitGDP;20191004;08:00;Public Deficit/GDP;Italy;EUR;1
+EUR_AusTradeBalance;20191004;07:30;Trade Balance;Austria;EUR;1
+EUR_FraBudget;20191004;06:45;Budget;France;EUR;1
+INR_CashReserveRatio;20191004;06:15;Cash Reserve Ratio;India;INR;1
+INR_ReverseRepoRate;20191004;06:15;Reverse Repo Rate;India;INR;1
+INR_RBIInterestRateDecision;20191004;06:15;RBI Interest Rate Decision (Repo Rate);India;INR;1
+AUD_CentralBankSpeech;20191004;03:20;RBA Ellis speech;Australia;AUD;2
+AUD_RetailSales;20191004;01:30;Retail Sales s.a. (MoM);Australia;AUD;2
+AUD_HIANewHomeSales;20191004;01:00;HIA New Home Sales (MoM);Australia;AUD;2
+HKD_NikkeiManufacturingPMI;20191004;00:30;Nikkei Manufacturing PMI;Hong Kong SAR;HKD;1
+CNY_NationalDay;20191004;00:00;National Day;China;CNY;0

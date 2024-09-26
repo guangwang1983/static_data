@@ -1,0 +1,32 @@
+COP_Interestrate;20200327;21:00;Interest rate;Colombia;COP;1
+EUR_EurCFTCEURNCNetPositions;20200327;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20200327;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCUSDNCNetPositions;20200327;20:30;CFTC USD NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20200327;20:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20200327;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20200327;20:30;CFTC Gold NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20200327;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_BakerHughesUSOilRigCount;20200327;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_MichiganConsumerSentimentIndex;20200327;15:00;Michigan Consumer Sentiment Index;United States;USD;2
+INR_FXReservesUSD;20200327;13:00;FX Reserves, USD;India;INR;1
+USD_PersonalIncome;20200327;12:30;Personal Income (MoM);United States;USD;2
+USD_CorePersonalConsumptionExpenditurePriceIndex;20200327;12:30;Core Personal Consumption Expenditure - Price Index (MoM);United States;USD;2
+USD_PersonalConsumptionExpendituresPriceIndex;20200327;12:30;Personal Consumption Expenditures - Price Index (YoY);United States;USD;1
+USD_PersonalSpending;20200327;12:30;Personal Spending;United States;USD;2
+GBP_BoEQuarterlyBulletin;20200327;12:00;BoE Quarterly Bulletin;United Kingdom;GBP;1
+MXN_TradeBalancesa;20200327;12:00;Trade Balance s/a, $;Mexico;MXN;1
+MXN_TradeBalance;20200327;12:00;Trade Balance, $;Mexico;MXN;1
+INR_BankLoanGrowth;20200327;11:30;Bank Loan Growth;India;INR;1
+EUR_IreRetailSales;20200327;11:00;Retail Sales (YoY);Ireland;EUR;1
+ISK_ConsumerPriceIndex;20200327;09:30;Consumer Price Index (MoM);Iceland;ISK;1
+EUR_ItaBusinessConfidence;20200327;09:00;Business Confidence;Italy;EUR;1
+EUR_ItaConsumerConfidence;20200327;09:00;Consumer Confidence;Italy;EUR;1
+SEK_RetailSales;20200327;08:30;Retail Sales (MoM);Sweden;SEK;1
+HUF_UnemploymentRate;20200327;08:00;Unemployment Rate (3M);Hungary;HUF;1
+EUR_AusPurchasingManagerIndex;20200327;08:00;Purchasing Manager Index;Austria;EUR;1
+EUR_FraConsumerConfidence;20200327;07:45;Consumer Confidence;France;EUR;1
+GBP_NationwideHousingPrices;20200327;07:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;1
+TRY_EconomicConfidenceIndex;20200327;07:00;Economic Confidence Index;Turkey;TRY;1
+NOK_RetailSales;20200327;07:00;Retail Sales ;Norway;NOK;1
+EUR_FinIndustrialConfidence;20200327;06:00;Industrial Confidence;Finland;EUR;1
+EUR_FinConsumerConfidence;20200327;06:00;Consumer Confidence;Finland;EUR;1

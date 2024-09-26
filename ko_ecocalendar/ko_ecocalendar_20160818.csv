@@ -1,0 +1,26 @@
+CNY_HousePriceIndex;20160818;01:30;House Price Index ;China;CNY;1
+AUD_RBAForeignExchangeTransaction;20160818;01:30;RBA Foreign Exchange Transaction;Australia;AUD;1
+AUD_PartTimeEmployment;20160818;01:30;Part-Time Employment;Australia;AUD;1
+AUD_FullTimeEmployment;20160818;01:30;Full-Time Employment;Australia;AUD;2
+AUD_ParticipationRate;20160818;01:30;Participation Rate;Australia;AUD;2
+AUD_UnemploymentRate;20160818;01:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_EmploymentChange;20160818;01:30;Employment Change s.a.;Australia;AUD;3
+EUR_FraILOUnemployment;20160818;05:30;ILO Unemployment;France;EUR;1
+EUR_EurCurrentAccount;20160818;08:00;Current Account s.a;European Monetary Union;EUR;1
+GBP_RetailSales;20160818;08:30;Retail Sales ex-Fuel (MoM);United Kingdom;GBP;2
+EUR_EurHarmonizedIndexofConsumerPrices;20160818;09:00;Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20160818;09:00;Core Harmonized Index of Consumer Prices (MoM);European Monetary Union;EUR;3
+RUB_CentralBankReserves;20160818;11:00;Central Bank Reserves $;Russia;RUB;1
+CLP_GrossDomesticProduct;20160818;11:30;Gross Domestic Product (YoY);Chile;CLP;1
+EUR_EurECBMonetaryPolicyMeetingAccounts;20160818;11:30;ECB Monetary Policy Meeting Accounts;European Monetary Union;EUR;3
+PLN_RetailSales;20160818;12:00;Retail Sales (YoY);Poland;PLN;1
+PLN_IndustrialOutput;20160818;12:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20160818;12:00;Producer Price Index (YoY);Poland;PLN;1
+USD_JoblessClaims;20160818;12:30;Initial Jobless Claims;United States;USD;2
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20160818;12:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20160818;12:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+USD_PhiladelphiaFedManufacturingSurvey;20160818;12:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+USD_EIANaturalGasStorageChange;20160818;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_CentralBankSpeech;20160818;20:00;Fed Williams speech;United States;USD;1
+KRW_ProducerPriceIndex;20160818;21:00;Producer Price Index Growth (MoM);South Korea;KRW;1
+NZD_VisitorArrivals;20160818;22:45;Visitor Arrivals (YoY);New Zealand;NZD;1

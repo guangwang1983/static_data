@@ -1,0 +1,3 @@
+EUR_EurECBInterestRateDecision 0
+CHF_SNBInterestRateDecision 0
+USD_NonfarmPayrolls 0

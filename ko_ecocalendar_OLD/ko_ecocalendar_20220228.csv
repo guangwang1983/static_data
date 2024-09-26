@@ -1,0 +1,37 @@
+NZD_ANZActivityOutlook;20220228;00:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20220228;00:00;ANZ Business Confidence;New Zealand;NZD;1
+AUD_TDSecuritiesInflation;20220228;00:00;TD Securities Inflation (MoM);Australia;AUD;2
+AUD_PrivateSectorCredit;20220228;00:30;Private Sector Credit (MoM);Australia;AUD;1
+AUD_CompanyGrossOperatingProfits;20220228;00:30;Company Gross Operating Profits (QoQ);Australia;AUD;1
+AUD_RetailSales;20220228;00:30;Retail Sales s.a. (MoM);Australia;AUD;3
+JPY_AnnualizedHousingStarts;20220228;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_HousingStarts;20220228;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_ConstructionOrders;20220228;05:00;Construction Orders (YoY);Japan;JPY;1
+ZAR_PrivateSectorCredit;20220228;06:00;Private Sector Credit;South Africa;ZAR;1
+ZAR_M3MoneySupply;20220228;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+TRY_TradeBalance;20220228;07:00;Trade Balance;Turkey;TRY;1
+TRY_GrossDomesticProduct;20220228;07:00;Quarterly Gross Domestic Product;Turkey;TRY;1
+DKK_GrossDomesticProduct;20220228;07:00;Gross Domestic Product (YoY);Denmark;DKK;1
+NOK_RetailSales;20220228;07:00;Retail Sales ;Norway;NOK;1
+NOK_CreditIndicator;20220228;07:00;Credit Indicator;Norway;NOK;1
+SEK_RetailSales;20220228;07:00;Retail Sales (MoM);Sweden;SEK;1
+SEK_GrossDomesticProduct;20220228;07:00;Gross Domestic Product (YoY);Sweden;SEK;1
+SEK_TradeBalance;20220228;07:00;Trade Balance (MoM);Sweden;SEK;1
+CHF_RetailSales;20220228;07:30;Real Retail Sales (YoY);Switzerland;CHF;2
+CHF_KOFLeadingIndicator;20220228;08:00;KOF Leading Indicator;Switzerland;CHF;2
+CHF_GrossDomesticProduct;20220228;08:00;Gross Domestic Product s.a. (QoQ);Switzerland;CHF;3
+PLN_GrossDomesticProduct;20220228;09:00;Gross Domestic Product Qtr (YoY);Poland;PLN;1
+ILS_IndustrialProduction;20220228;11:00;Industrial Production (MoM);Israel;ILS;1
+MXN_JoblessRate;20220228;12:00;Jobless Rate s.a;Mexico;MXN;1
+ZAR_TradeBalance;20220228;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+USD_WholesaleInventories;20220228;13:30;Wholesale Inventories;United States;USD;1
+USD_GoodsTradeBalance;20220228;13:30;Goods Trade Balance;United States;USD;1
+CAD_RawMaterialPriceIndex;20220228;13:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20220228;13:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_CurrentAccount;20220228;13:30;Current Account;Canada;CAD;2
+USD_ChicagoPurchasingManagers'Index;20220228;14:45;Chicago Purchasing Managers' Index;United States;USD;2
+USD_DallasFedManufacturingBusinessIndex;20220228;15:30;Dallas Fed Manufacturing Business Index;United States;USD;1
+EUR_EurCentralBankSpeech;20220228;15:50;ECB President Lagarde speech;European Monetary Union;EUR;3
+USD_Auction;20220228;16:30;6-Month Bill Auction;United States;USD;1
+AUD_AiGPerformanceofMfgIndex;20220228;21:30;AiG Performance of Mfg Index;Australia;AUD;2
+AUD_CommonwealthBankManufacturingPMI;20220228;22:00;Commonwealth Bank Manufacturing PMI;Australia;AUD;1

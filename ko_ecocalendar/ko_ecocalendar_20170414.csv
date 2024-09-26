@@ -1,0 +1,36 @@
+EUR_GerGoodFriday;20170414;00:00;Good Friday;Germany;EUR;0
+AUD_GoodFriday;20170414;00:00;Good Friday;Australia;AUD;0
+BRL_GoodFriday;20170414;00:00;Good Friday ;Brazil;BRL;0
+CHF_GoodFriday;20170414;00:00;Good Friday;Switzerland;CHF;0
+DKK_GoodFriday;20170414;00:00;Good Friday ;Denmark;DKK;0
+MXN_GoodFriday;20170414;00:00;Good Friday ;Mexico;MXN;0
+NZD_GoodFriday;20170414;00:00;Good Friday;New Zealand;NZD;0
+IDR_GoodFriday;20170414;00:00;Good Friday;Indonesia;IDR;0
+COP_Goodfriday;20170414;00:00;Good friday;Colombia;COP;0
+SEK_GoodFriday;20170414;00:00;Good Friday;Sweden;SEK;0
+ZAR_GoodFriday;20170414;00:00;Good Friday;South Africa;ZAR;0
+CLP_GoodFriday;20170414;00:00;Good Friday;Chile;CLP;0
+CAD_GoodFriday;20170414;00:00;Good Friday;Canada;CAD;0
+KRW_TradeBalance;20170414;00:00;Trade Balance;South Korea;KRW;1
+INR_GoodFriday;20170414;00:00;Good Friday ;India;INR;0
+GBP_GoodFriday;20170414;00:00;Good Friday;United Kingdom;GBP;0
+CNY_FDIForeignDirectInvestment;20170414;02:50;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+JPY_IndustrialProduction;20170414;04:30;Industrial Production (YoY);Japan;JPY;2
+JPY_CapacityUtilization;20170414;04:30;Capacity Utilization;Japan;JPY;1
+RUB_BudgetFulfilment;20170414;05:00;Budget Fulfilment;Russia;RUB;1
+CNY_M2MoneySupply;20170414;07:02;M2 Money Supply (YoY);China;CNY;1
+CNY_FixedAssetInvestment;20170414;07:02;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+CNY_NewLoans;20170414;07:02;New Loans;China;CNY;1
+TRY_BudgetBalance;20170414;08:00;Budget Balance;Turkey;TRY;1
+INR_BankLoanGrowth;20170414;11:30;Bank Loan Growth;India;INR;1
+PLN_M3MoneySupply;20170414;12:00;M3 Money Supply (YoY);Poland;PLN;1
+USD_RetailSales;20170414;12:30;Retail Sales ex Autos (MoM);United States;USD;2
+USD_ConsumerPriceIndex;20170414;12:30;Consumer Price Index n.s.a (MoM);United States;USD;1
+USD_BusinessInventories;20170414;14:00;Business Inventories;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20170414;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20170414;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20170414;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20170414;19:30;CFTC Oil NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20170414;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+AUD_CFTCAUDNCNetPositions;20170414;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20170414;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1

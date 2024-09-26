@@ -1,0 +1,29 @@
+NZD_ANZCommodityPrice;20150303;00:00;ANZ Commodity Price;New Zealand;NZD;1
+AUD_CurrentAccount;20150303;00:30;Current Account Balance;Australia;AUD;1
+AUD_BuildingPermits;20150303;00:30;Building Permits (YoY);Australia;AUD;1
+JPY_LaborCashEarnings;20150303;01:30;Labor Cash Earnings (YoY);Japan;JPY;2
+AUD_RBAInterestRateDecision;20150303;03:30;RBA Interest Rate Decision;Australia;AUD;3
+AUD_RBARateStatement;20150303;03:30;RBA Rate Statement;Australia;AUD;3
+INR_RBIInterestRateDecision;20150303;04:00;RBI Interest Rate Decision (Repo Rate);India;INR;1
+USD_CentralBankSpeech;20150303;05:30;Fed Mester speech;United States;USD;1
+CHF_GrossDomesticProduct;20150303;06:45;Gross Domestic Product s.a. (QoQ);Switzerland;CHF;1
+EUR_GerRetailSales;20150303;07:00;Retail Sales (YoY);Germany;EUR;2
+TRY_ProducerPriceIndex;20150303;08:00;Producer Price Index (MoM);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20150303;08:00;Consumer Price Index (YoY);Turkey;TRY;1
+SEK_CurrentAccount;20150303;08:30;Current Account (QoQ);Sweden;SEK;1
+GBP_S&PGlobalConstructionPMI;20150303;09:30;S&P Global Construction PMI;United Kingdom;GBP;2
+ZAR_BusinessConfidenceIndex;20150303;09:30;Business Confidence Index;South Africa;ZAR;1
+DKK_UnemploymentRate;20150303;10:00;Unemployment Rate;Denmark;DKK;1
+EUR_EurProducerPriceIndex;20150303;10:00;Producer Price Index (MoM);European Monetary Union;EUR;1
+CAD_IndustrialProductPrice;20150303;13:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_RawMaterialPriceIndex;20150303;13:30;Raw Material Price Index;Canada;CAD;1
+CAD_GrossDomesticProduct;20150303;13:30;Gross Domestic Product Annualized;Canada;CAD;3
+USD_RedbookIndex;20150303;13:55;Redbook Index (MoM);United States;USD;1
+USD_ISMNYBusinessConditionsIndex;20150303;14:45;ISM-NY Business Conditions Index;United States;USD;1
+USD_IBDTIPPEconomicOptimism;20150303;15:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+DKK_CurrencyReserves;20150303;15:00;Currency Reserves;Denmark;DKK;1
+NZD_GDTPriceIndex;20150303;15:00;GDT Price Index;New Zealand;NZD;1
+USD_Auction;20150303;16:30;52-Week Bill Auction;United States;USD;1
+USD_TotalVehicleSales;20150303;20:52;Total Vehicle Sales;United States;USD;1
+KRW_FXReserves;20150303;21:00;FX Reserves;South Korea;KRW;1
+AUD_AiGPerformanceofServicesIndex;20150303;22:30;AiG Performance of Services Index;Australia;AUD;2

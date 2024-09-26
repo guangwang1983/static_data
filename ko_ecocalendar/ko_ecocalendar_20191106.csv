@@ -1,0 +1,34 @@
+COP_ConsumerPriceIndex;20191106;00:00;Consumer Price Index (MoM);Colombia;COP;1
+JPY_JibunBankServicesPMI;20191106;00:30;Jibun Bank Services PMI;Japan;JPY;1
+IDR_RetailSales;20191106;03:00;Retail Sales (YoY);Indonesia;IDR;1
+JPY_Auction;20191106;03:35;10-y Bond Auction;Japan;JPY;1
+RUB_S&PGlobalServicesPMI;20191106;06:00;S&P Global Services PMI;Russia;RUB;1
+EUR_GerFactoryOrders;20191106;07:00;Factory Orders n.s.a. (YoY);Germany;EUR;1
+GBP_AutumnForecastStatement;20191106;07:30;Autumn Forecast Statement;United Kingdom;GBP;2
+CZK_IndustrialProduction;20191106;08:00;Industrial Production (YoY);Czech Republic;CZK;1
+HUF_RetailSales;20191106;08:00;Retail Sales (YoY);Hungary;HUF;1
+CZK_Constructionoutput;20191106;08:00;Construction output (YoY);Czech Republic;CZK;1
+CZK_ForeignTradeBalance;20191106;08:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+EUR_ItaHCOBServicesPMI;20191106;08:45;HCOB Services PMI;Italy;EUR;1
+EUR_FraHCOBCompositePMI;20191106;08:50;HCOB Composite PMI;France;EUR;1
+EUR_FraHCOBServicesPMI;20191106;08:50;HCOB Services PMI;France;EUR;1
+EUR_GerHCOBCompositePMI;20191106;08:55;HCOB Composite PMI;Germany;EUR;2
+EUR_GerHCOBServicesPMI;20191106;08:55;HCOB Services PMI;Germany;EUR;1
+EUR_EurHCOBServicesPMI;20191106;09:00;HCOB Services PMI;European Monetary Union;EUR;1
+EUR_EurHCOBCompositePMI;20191106;09:00;HCOB Composite PMI;European Monetary Union;EUR;2
+EUR_EurCentralBankSpeech;20191106;09:30;ECB Mersch speech;European Monetary Union;EUR;2
+EUR_EurRetailSales;20191106;10:00;Retail Sales (YoY);European Monetary Union;EUR;2
+ILS_BudgetBalanceILS;20191106;11:00;Budget Balance - ILS;Israel;ILS;1
+RON_Interestratedecision;20191106;11:00;Interest rate decision;Romania;RON;1
+INR_M3MoneySupply;20191106;11:30;M3 Money Supply;India;INR;1
+MXN_ConsumerConfidence;20191106;12:00;Consumer Confidence s.a;Mexico;MXN;1
+USD_MBAMortgageApplications;20191106;12:00;MBA Mortgage Applications;United States;USD;1
+RUB_ConsumerPriceIndex;20191106;13:00;Consumer Price Index (MoM);Russia;RUB;1
+PLN_NBPBaserate;20191106;13:00;NBP Base rate;Poland;PLN;1
+USD_NonfarmProductivity;20191106;13:30;Nonfarm Productivity;United States;USD;2
+USD_UnitLaborCosts;20191106;13:30;Unit Labor Costs;United States;USD;2
+USD_CentralBankSpeech;20191106;14:30;Fed Williams speech;United States;USD;2
+CAD_IveyPurchasingManagersIndex;20191106;15:00;Ivey Purchasing Managers Index s.a;Canada;CAD;2
+USD_EIACrudeOilStocksChange;20191106;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_Auction;20191106;18:00;10-Year Note Auction;United States;USD;1
+AUD_AiGPerformanceofConstructionIndex;20191106;22:30;AiG Performance of Construction Index;Australia;AUD;2

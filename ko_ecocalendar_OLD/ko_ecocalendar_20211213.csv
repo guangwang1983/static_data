@@ -1,0 +1,12 @@
+TRY_IndustrialProduction;20211213;07:00;Industrial Production (YoY);Turkey;TRY;1
+TRY_CurrentAccount;20211213;07:00;Current Account Balance;Turkey;TRY;1
+RON_IndustrialProduction;20211213;07:00;Industrial Production (MoM);Romania;RON;1
+RON_ConsumerPriceIndex;20211213;07:00;Consumer Price Index;Romania;RON;1
+CAD_BoCMonetaryPolicyFramework;20211213;15:00;BoC Monetary Policy Framework;Canada;CAD;3
+CAD_CentralBankSpeech;20211213;15:30;BoC Governor Macklem speech;Canada;CAD;3
+USD_Auction;20211213;16:30;3-Month Bill Auction;United States;USD;1
+GBP_FPCStatement;20211213;17:00;FPC Statement;United Kingdom;GBP;1
+GBP_FinancialStabilityReport;20211213;17:00;Financial Stability Report;United Kingdom;GBP;2
+GBP_FPCMeetingMinutes;20211213;17:00;FPC Meeting Minutes;United Kingdom;GBP;1
+NZD_REINZHousePriceIndex;20211213;20:00;REINZ House Price Index (MoM);New Zealand;NZD;2
+NZD_FoodPriceIndex;20211213;21:45;Food Price Index (MoM);New Zealand;NZD;1

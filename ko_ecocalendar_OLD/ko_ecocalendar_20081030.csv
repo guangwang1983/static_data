@@ -1,0 +1,19 @@
+JPY_TokyoCPIexFreshFood;20081030;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;2
+JPY_TokyoCPIexFoodEnergy;20081030;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20081030;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20081030;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_NationalCPIexFoodEnergy;20081030;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_UnemploymentRate;20081030;23:30;Unemployment Rate;Japan;JPY;2
+JPY_OverallHouseholdSpending;20081030;23:30;Overall Household Spending (YoY);Japan;JPY;1
+CAD_IndustrialProductPrice;20081030;12:30;Industrial Product Price (MoM);Canada;CAD;2
+USD_JoblessClaims;20081030;12:30;Initial Jobless Claims;United States;USD;1
+USD_GrossDomesticProduct;20081030;12:30;Gross Domestic Product Annualized;United States;USD;3
+USD_CorePersonalConsumptionExpenditures;20081030;12:30;Core Personal Consumption Expenditures (QoQ);United States;USD;3
+EUR_EurIndustrialConfidence;20081030;10:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_EurEconomicSentimentIndicator;20081030;10:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+EUR_EurConsumerConfidence;20081030;10:00;Consumer Confidence;European Monetary Union;EUR;1
+EUR_GerUnemploymentRate;20081030;08:55;Unemployment Rate s.a.;Germany;EUR;2
+EUR_GerUnemploymentChange;20081030;08:55;Unemployment Change;Germany;EUR;1
+GBP_NationwideHousingPrices;20081030;07:01;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;2
+NZD_ANZBusinessConfidence;20081030;02:00;ANZ Business Confidence;New Zealand;NZD;1
+EUR_SpaInternationalTradersConference;20081030;00:00;International Traders Conference (ITC);Spain;EUR;0

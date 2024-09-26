@@ -1,0 +1,21 @@
+RON_IndustrialProduction;20211112;07:00;Industrial Production (MoM);Romania;RON;1
+TRY_IndustrialProduction;20211112;07:00;Industrial Production (YoY);Turkey;TRY;1
+RUB_ForeignTrade;20211112;07:00;Foreign Trade;Russia;RUB;1
+EUR_EurEcoFinMeeting;20211112;07:00;EcoFin Meeting;European Monetary Union;EUR;2
+EUR_GerWholesalePriceIndex;20211112;07:00;Wholesale Price Index (YoY);Germany;EUR;1
+CHF_ProducerandImportPrices;20211112;07:30;Producer and Import Prices (YoY);Switzerland;CHF;1
+HUF_IndustrialOutput;20211112;08:00;Industrial Output (YoY);Hungary;HUF;1
+PLN_GrossDomesticProduct;20211112;09:00;Gross Domestic Product Qtr (YoY);Poland;PLN;1
+EUR_EurIndustrialProduction;20211112;10:00;Industrial Production s.a. (MoM);European Monetary Union;EUR;2
+INR_ConsumerPriceIndex;20211112;12:00;Consumer Price Index (YoY);India;INR;1
+INR_CumulativeIndustrialOutput;20211112;12:00;Cumulative Industrial Output;India;INR;1
+INR_IndustrialOutput;20211112;12:00;Industrial Output;India;INR;1
+INR_ManufacturingOutput;20211112;12:00;Manufacturing Output;India;INR;1
+INR_FXReservesUSD;20211112;12:00;FX Reserves, USD;India;INR;1
+EUR_EurCentralBankSpeech;20211112;13:50;ECB Lane speech;European Monetary Union;EUR;2
+GBP_CentralBankSpeech;20211112;14:00;BoE Haskel speech;United Kingdom;GBP;2
+USD_JOLTSJobOpenings;20211112;15:00;JOLTS Job Openings;United States;USD;1
+USD_UoM5yearConsumerInflationExpectation;20211112;15:00;UoM 5-year Consumer Inflation Expectation;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20211112;15:00;Michigan Consumer Sentiment Index;United States;USD;3
+USD_BakerHughesUSOilRigCount;20211112;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CentralBankSpeech;20211112;17:10;Fed Williams speech;United States;USD;2

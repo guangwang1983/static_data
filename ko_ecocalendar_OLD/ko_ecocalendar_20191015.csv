@@ -1,0 +1,44 @@
+AUD_WestpacLeadingIndex;20191015;23:30;Westpac Leading Index (MoM);Australia;AUD;2
+KRW_UnemploymentRate;20191015;23:00;Unemployment Rate;South Korea;KRW;1
+NZD_ConsumerPriceIndex;20191015;21:45;Consumer Price Index (QoQ);New Zealand;NZD;2
+KRW_ExportPriceGrowth;20191015;21:00;Export Price Growth (YoY);South Korea;KRW;1
+KRW_ImportPriceGrowth;20191015;21:00;Import Price Growth (YoY);South Korea;KRW;1
+USD_Auction;20191015;15:30;3-Month Bill Auction;United States;USD;1
+COP_RetailSales;20191015;15:00;Retail Sales (YoY);Colombia;COP;1
+COP_Industrialoutput;20191015;15:00;Industrial output (YoY);Colombia;COP;1
+NZD_GDTPriceIndex;20191015;14:30;GDT Price Index;New Zealand;NZD;2
+USD_RedbookIndex;20191015;12:55;Redbook Index (MoM);United States;USD;1
+GBP_CentralBankSpeech;20191015;12:30;BoE Vlieghe speech;United Kingdom;GBP;2
+USD_NYEmpireStateManufacturingIndex;20191015;12:30;NY Empire State Manufacturing Index;United States;USD;1
+ILS_ConsumerPriceIndex;20191015;11:00;Consumer Price Index (YoY);Israel;ILS;1
+ILS_GrossDomesticProduct;20191015;10:00;Gross Domestic Product (QoQ);Israel;ILS;1
+GBP_Auction;20191015;09:45;10-y Bond Auction;United Kingdom;GBP;1
+EUR_GerZEWSurveyEconomicSentiment;20191015;09:00;ZEW Survey - Economic Sentiment;Germany;EUR;3
+EUR_EurZEWSurveyEconomicSentiment;20191015;09:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurveyCurrentSituation;20191015;09:00;ZEW Survey - Current Situation;Germany;EUR;2
+EUR_SpaAuction;20191015;08:40;3-Month Letras Auction;Spain;EUR;1
+GBP_ClaimantCountRate;20191015;08:30;Claimant Count Rate;United Kingdom;GBP;1
+GBP_AverageEarningsIncludingBonus;20191015;08:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20191015;08:30;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_ClaimantCountChange;20191015;08:30;Claimant Count Change;United Kingdom;GBP;2
+GBP_AverageEarningsExcludingBonus;20191015;08:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;3
+TRY_BudgetBalance;20191015;08:00;Budget Balance;Turkey;TRY;1
+TRY_3mthquarterlyjoblessaverage;20191015;07:00;3mth quarterly jobless average;Turkey;TRY;1
+EUR_FraConsumerPriceIndex;20191015;06:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraInflationextobacco;20191015;06:45;Inflation ex-tobacco (MoM);France;EUR;1
+CHF_ProducerandImportPrices;20191015;06:30;Producer and Import Prices (MoM);Switzerland;CHF;1
+NOK_TradeBalance;20191015;06:00;Trade Balance;Norway;NOK;1
+EUR_FinGrossDomesticProduct;20191015;05:00;Gross Domestic Product (YoY);Finland;EUR;1
+EUR_FinCurrentAccount;20191015;05:00;Current Account;Finland;EUR;1
+JPY_TertiaryIndustryIndex;20191015;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+JPY_IndustrialProduction;20191015;04:30;Industrial Production (MoM);Japan;JPY;1
+EUR_NetRetailSales;20191015;04:30;Retail Sales (YoY);Netherlands, The;EUR;1
+JPY_CapacityUtilization;20191015;04:30;Capacity Utilization;Japan;JPY;1
+IDR_TradeBalance;20191015;04:00;Trade Balance;Indonesia;IDR;1
+IDR_Exports;20191015;04:00;Exports;Indonesia;IDR;1
+IDR_Imports;20191015;04:00;Imports;Indonesia;IDR;1
+KRW_MoneySupplyGrowth;20191015;03:00;Money Supply Growth;South Korea;KRW;1
+KRW_TradeBalance;20191015;02:00;Trade Balance;South Korea;KRW;1
+CNY_ConsumerPriceIndex;20191015;01:30;Consumer Price Index (MoM);China;CNY;2
+CNY_ProducerPriceIndex;20191015;01:30;Producer Price Index (YoY);China;CNY;2
+AUD_RBAMeetingMinutes;20191015;00:30;RBA Meeting Minutes;Australia;AUD;3

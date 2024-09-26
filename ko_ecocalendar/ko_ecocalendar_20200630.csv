@@ -1,0 +1,68 @@
+CNY_NonManufacturingPMI;20200630;01:00;Non-Manufacturing PMI;China;CNY;2
+CNY_NBSManufacturingPMI;20200630;01:00;NBS Manufacturing PMI;China;CNY;2
+NZD_ANZActivityOutlook;20200630;01:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20200630;01:00;ANZ Business Confidence;New Zealand;NZD;1
+AUD_PrivateSectorCredit;20200630;01:30;Private Sector Credit (MoM);Australia;AUD;1
+AUD_CentralBankSpeech;20200630;02:30;RBA Debelle speech;Australia;AUD;2
+JPY_AnnualizedHousingStarts;20200630;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_ConstructionOrders;20200630;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_HousingStarts;20200630;05:00;Housing Starts (YoY);Japan;JPY;1
+GBP_GrossDomesticProduct;20200630;06:00;Gross Domestic Product (YoY);United Kingdom;GBP;2
+DKK_UnemploymentRate;20200630;06:00;Unemployment Rate;Denmark;DKK;1
+GBP_TotalBusinessInvestment;20200630;06:00;Total Business Investment (YoY);United Kingdom;GBP;1
+DKK_GrossDomesticProduct;20200630;06:00;Gross Domestic Product (YoY);Denmark;DKK;1
+NOK_CreditIndicator;20200630;06:00;Credit Indicator;Norway;NOK;1
+ZAR_M3MoneySupply;20200630;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+ZAR_PrivateSectorCredit;20200630;06:00;Private Sector Credit;South Africa;ZAR;1
+GBP_CurrentAccount;20200630;06:00;Current Account;United Kingdom;GBP;1
+CHF_RetailSales;20200630;06:30;Real Retail Sales (YoY);Switzerland;CHF;2
+EUR_FraProducerPrices;20200630;06:45;Producer Prices (MoM);France;EUR;1
+EUR_FraConsumerPriceIndex;20200630;06:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraConsumerSpending;20200630;06:45;Consumer Spending (MoM);France;EUR;1
+HUF_GrossWages;20200630;07:00;Gross Wages (YoY);Hungary;HUF;1
+CHF_KOFLeadingIndicator;20200630;07:00;KOF Leading Indicator;Switzerland;CHF;2
+TRY_TradeBalance;20200630;07:00;Trade Balance;Turkey;TRY;1
+HUF_ProducerPriceIndex;20200630;07:00;Producer Price Index (YoY);Hungary;HUF;1
+CZK_GrossDomesticProduct;20200630;07:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+PLN_ConsumerPriceIndex;20200630;08:00;Consumer Price Index (MoM);Poland;PLN;1
+EUR_EurHarmonizedIndexofConsumerPrices;20200630;09:00;Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20200630;09:00;Core Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_ItaConsumerPriceIndex;20200630;09:00;Consumer Price Index (YoY);Italy;EUR;1
+ZAR_GrossDomesticProduct;20200630;09:30;Gross Domestic Product (YoY);South Africa;ZAR;1
+EUR_ItaAuction;20200630;09:45;10-y Bond Auction;Italy;EUR;1
+EUR_ItaProducerPriceIndex;20200630;10:00;Producer Price Index (YoY);Italy;EUR;1
+GBP_CentralBankSpeech;20200630;10:00;BoE Haldane speech;United Kingdom;GBP;2
+INR_FederalFiscalDeficitINR;20200630;10:00;Federal Fiscal Deficit, INR;India;INR;1
+INR_TradeDeficit–RBI;20200630;11:30;Trade Deficit – RBI;India;INR;1
+INR_BalancePayment;20200630;11:30;Balance Payment $;India;INR;1
+INR_CurrentAccount;20200630;11:30;Current Account Balance $;India;INR;1
+BRL_UnemploymentRate;20200630;12:00;Unemployment Rate;Brazil;BRL;1
+ZAR_TradeBalance;20200630;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+INR_InfrastructureOutput;20200630;12:00;Infrastructure Output (YoY);India;INR;1
+BRL_NominalBudgetBalance;20200630;12:30;Nominal Budget Balance;Brazil;BRL;1
+BRL_PrimaryBudgetSurplus;20200630;12:30;Primary Budget Surplus;Brazil;BRL;1
+CAD_GrossDomesticProduct;20200630;12:30;Gross Domestic Product (MoM);Canada;CAD;2
+USD_RedbookIndex;20200630;12:55;Redbook Index (YoY);United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20200630;13:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;2
+CLP_IndustrialProduction;20200630;13:00;Industrial Production (YoY);Chile;CLP;1
+CLP_Unemploymentrate;20200630;13:00;Unemployment rate;Chile;CLP;1
+USD_ChicagoPurchasingManagers'Index;20200630;13:45;Chicago Purchasing Managers' Index;United States;USD;2
+USD_FedIndexofCommonInflationExpectations;20200630;14:00;Fed Index of Common Inflation Expectations;United States;USD;2
+USD_ConsumerConfidence;20200630;14:00;Consumer Confidence;United States;USD;2
+EUR_EurCentralBankSpeech;20200630;15:00;ECB De Guindos speech;European Monetary Union;EUR;2
+USD_CentralBankSpeech;20200630;15:05;Fed Brainard speech;United States;USD;2
+COP_NationalJoblessRate;20200630;16:00;National Jobless Rate;Colombia;COP;1
+USD_GrainStockReport;20200630;16:00;Grain Stock Report;United States;USD;1
+USD_FedChairPowelltestifies;20200630;16:30;Fed Chair Powell testifies;United States;USD;3
+USD_APIWeeklyCrudeOilStock;20200630;20:30;API Weekly Crude Oil Stock;United States;USD;1
+COP_Interestrate;20200630;21:00;Interest rate;Colombia;COP;1
+MXN_FiscalBalancepesos;20200630;21:00;Fiscal Balance, pesos;Mexico;MXN;1
+AUD_AiGPerformanceofMfgIndex;20200630;22:30;AiG Performance of Mfg Index;Australia;AUD;2
+NZD_BuildingPermits;20200630;22:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+AUD_S&PGlobalManufacturingPMI;20200630;23:00;S&P Global Manufacturing PMI;Australia;AUD;2
+GBP_BRCShopPriceIndex;20200630;23:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1
+JPY_TankanLargeManufacturingIndex;20200630;23:50;Tankan Large Manufacturing Index;Japan;JPY;2
+JPY_TankanNonManufacturingOutlook;20200630;23:50;Tankan Non - Manufacturing Outlook;Japan;JPY;1
+JPY_TankanLargeManufacturingOutlook;20200630;23:50;Tankan Large Manufacturing Outlook;Japan;JPY;2
+JPY_TankanNonManufacturingIndex;20200630;23:50;Tankan Non - Manufacturing Index;Japan;JPY;1
+JPY_TankanLargeAllIndustryCapex;20200630;23:50;Tankan Large All Industry Capex;Japan;JPY;2

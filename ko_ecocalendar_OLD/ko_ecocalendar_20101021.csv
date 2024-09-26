@@ -1,0 +1,20 @@
+EUR_EurConsumerConfidence;20101021;14:00;Consumer Confidence;European Monetary Union;EUR;2
+USD_PhiladelphiaFedManufacturingSurvey;20101021;14:00;Philadelphia Fed Manufacturing Survey;United States;USD;2
+USD_JoblessClaims;20101021;12:30;Continuing Jobless Claims;United States;USD;1
+CAD_LeadingIndicators;20101021;12:30;Leading Indicators (MoM);Canada;CAD;2
+CHF_ZEWSurveyExpectations;20101021;09:00;ZEW Survey - Expectations;Switzerland;CHF;2
+GBP_RetailSales;20101021;08:30;Retail Sales (YoY);United Kingdom;GBP;2
+GBP_MortgageApprovals;20101021;08:30;Mortgage Approvals;United Kingdom;GBP;1
+EUR_EurMarkitManufacturingPMI;20101021;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20101021;08:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_GerMarkitManufacturingPMI;20101021;07:30;Markit Manufacturing PMI;Germany;EUR;2
+EUR_GerMarkitServicesPMI;20101021;07:30;Markit Services PMI;Germany;EUR;2
+CHF_TradeBalance;20101021;06:15;Trade Balance;Switzerland;CHF;2
+JPY_AllIndustryActivityIndex;20101021;04:30;All Industry Activity Index (MoM);Japan;JPY;2
+CNY_RetailSales;20101021;02:00;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20101021;02:00;Industrial Production (YoY);China;CNY;2
+CNY_FixedAssetInvestment;20101021;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;2
+CNY_ConsumerPriceIndex;20101021;02:00;Consumer Price Index (YoY);China;CNY;2
+CNY_ProducerPriceIndex;20101021;02:00;Producer Price Index (YoY);China;CNY;1
+CNY_GrossDomesticProduct;20101021;02:00;Gross Domestic Product (YoY);China;CNY;1
+AUD_RBAForeignExchangeTransaction;20101021;00:30;RBA Foreign Exchange Transaction;Australia;AUD;1

@@ -1,0 +1,56 @@
+JPY_ForeignBondInvestment;20150415;23:50;Foreign Bond Investment;Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20150415;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+GBP_RICSHousingPriceBalance;20150415;23:01;RICS Housing Price Balance;United Kingdom;GBP;1
+NZD_BusinessNZPMI;20150415;22:30;Business NZ PMI;New Zealand;NZD;2
+USD_NetLongTermTICFlows;20150415;20:00;Net Long-Term TIC Flows;United States;USD;2
+USD_TotalNetTICFlows;20150415;20:00;Total Net TIC Flows;United States;USD;1
+USD_FedBeigeBook;20150415;18:00;Fed Beige Book;United States;USD;2
+CAD_BoCPressConference;20150415;15:15;BoC Press Conference;Canada;CAD;3
+PEN_GrossDomesticProduct;20150415;15:00;Gross Domestic Product;Peru;PEN;1
+USD_EIACrudeOilStocksChange;20150415;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+NZD_GDTPriceIndex;20150415;14:14;GDT Price Index;New Zealand;NZD;1
+CAD_BankofCanadaMonetaryPolicyReport;20150415;14:00;Bank of Canada Monetary Policy Report;Canada;CAD;3
+CAD_BoCInterestRateDecision;20150415;14:00;BoC Interest Rate Decision;Canada;CAD;3
+CAD_BoCRateStatement;20150415;14:00;BoC Rate Statement;Canada;CAD;3
+USD_NAHBHousingMarketIndex;20150415;14:00;NAHB Housing Market Index;United States;USD;2
+USD_IndustrialProduction;20150415;13:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20150415;13:15;Capacity Utilization;United States;USD;2
+USD_CentralBankSpeech;20150415;13:00;Fed Bullard speech;United States;USD;1
+RUB_IndustrialOutput;20150415;13:00;Industrial Output;Russia;RUB;1
+USD_NYEmpireStateManufacturingIndex;20150415;12:30;NY Empire State Manufacturing Index;United States;USD;1
+CAD_ManufacturingShipments;20150415;12:30;Manufacturing Shipments (MoM);Canada;CAD;1
+EUR_EurECBMonetaryPolicyStatementandPressConference;20150415;12:30;ECB Monetary Policy Statement and Press Conference;European Monetary Union;EUR;3
+PLN_ConsumerPriceIndex;20150415;12:00;Consumer Price Index (MoM);Poland;PLN;1
+EUR_EurECBDepositRateDecision;20150415;11:45;ECB Deposit Rate Decision;European Monetary Union;EUR;2
+EUR_EurECBInterestRateDecision;20150415;11:45;ECB Interest Rate Decision;European Monetary Union;EUR;3
+INR_M3MoneySupply;20150415;11:30;M3 Money Supply;India;INR;1
+USD_MBAMortgageApplications;20150415;11:00;MBA Mortgage Applications;United States;USD;2
+ZAR_RetailSales;20150415;11:00;Retail Sales (YoY);South Africa;ZAR;1
+PLN_NBPBaserate;20150415;10:43;NBP Base rate;Poland;PLN;1
+EUR_GerAuction;20150415;10:06;10-y Bond Auction;Germany;EUR;2
+EUR_EurTradeBalance;20150415;09:00;Trade Balance n.s.a.;European Monetary Union;EUR;1
+NOK_TradeBalance;20150415;08:00;Trade Balance;Norway;NOK;1
+TRY_3mthquarterlyjoblessaverage;20150415;08:00;3mth quarterly jobless average;Turkey;TRY;1
+TRY_BudgetBalance;20150415;08:00;Budget Balance;Turkey;TRY;1
+EUR_FinCurrentAccount;20150415;07:00;Current Account;Finland;EUR;1
+EUR_FraConsumerPriceIndex;20150415;06:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraInflationextobacco;20150415;06:45;Inflation ex-tobacco (MoM);France;EUR;2
+INR_WPIInflation;20150415;06:30;WPI Inflation;India;INR;1
+JPY_CentralBankSpeech;20150415;06:15;BoJ Governor Kuroda speech;Japan;JPY;2
+EUR_FinGrossDomesticProduct;20150415;06:00;Gross Domestic Product (YoY);Finland;EUR;1
+EUR_GerConsumerPriceIndex;20150415;06:00;Consumer Price Index (MoM);Germany;EUR;2
+EUR_GerHarmonizedIndexofConsumerPrices;20150415;06:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;2
+SGD_RetailSales;20150415;05:00;Retail Sales (MoM);Singapore;SGD;1
+JPY_IndustrialProduction;20150415;04:30;Industrial Production (MoM);Japan;JPY;1
+JPY_CapacityUtilization;20150415;04:30;Capacity Utilization;Japan;JPY;1
+IDR_TradeBalance;20150415;04:00;Trade Balance;Indonesia;IDR;1
+IDR_Exports;20150415;04:00;Exports;Indonesia;IDR;1
+IDR_Imports;20150415;04:00;Imports;Indonesia;IDR;1
+CNY_RetailSales;20150415;02:00;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20150415;02:00;Industrial Production (YoY);China;CNY;2
+CNY_NBSPressConference;20150415;02:00;NBS Press Conference;China;CNY;2
+CNY_FixedAssetInvestment;20150415;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+CNY_GrossDomesticProduct;20150415;02:00;Gross Domestic Product (YoY);China;CNY;3
+AUD_WestpacConsumerConfidenceIndex;20150415;00:30;Westpac Consumer Confidence Index;Australia;AUD;1
+NZD_CentralBankSpeech;20150415;00:30;RBNZ Governor Spencer speech;New Zealand;NZD;3
+AUD_WestpacConsumerConfidence;20150415;00:30;Westpac Consumer Confidence;Australia;AUD;1

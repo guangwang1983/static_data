@@ -1,0 +1,37 @@
+JPY_LaborCashEarnings;20190905;23:30;Labor Cash Earnings (YoY);Japan;JPY;1
+JPY_OverallHouseholdSpending;20190905;23:30;Overall Household Spending (YoY);Japan;JPY;2
+AUD_AiGPerformanceofConstructionIndex;20190905;22:30;AiG Performance of Construction Index;Australia;AUD;2
+ARS_IndustrialOutput;20190905;19:00;Industrial Output (12M);Argentina;ARS;1
+CAD_CentralBankSpeech;20190905;15:45;BoC Schembri speech;Canada;CAD;2
+USD_Auction;20190905;15:30;4-Week Bill Auction;United States;USD;1
+USD_EIACrudeOilStocksChange;20190905;15:00;EIA Crude Oil Stocks Change;United States;USD;1
+USD_EIANaturalGasStorageChange;20190905;14:30;EIA Natural Gas Storage Change;United States;USD;1
+GBP_CentralBankSpeech;20190905;14:30;BoE Tenreyro speech;United Kingdom;GBP;2
+USD_ISMNonManufacturingPMI;20190905;14:00;ISM Non-Manufacturing PMI;United States;USD;3
+USD_FactoryOrders;20190905;14:00;Factory Orders (MoM);United States;USD;2
+USD_MarkitServicesPMI;20190905;13:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20190905;13:45;Markit PMI Composite;United States;USD;2
+RUB_ConsumerPriceIndex;20190905;13:00;Consumer Price Index (MoM);Russia;RUB;1
+RUB_CentralBankReserves;20190905;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_ChallengerJobCuts;20190905;12:30;Challenger Job Cuts;United States;USD;1
+USD_JoblessClaims;20190905;12:30;Initial Jobless Claims;United States;USD;2
+USD_NonfarmProductivity;20190905;12:30;Nonfarm Productivity;United States;USD;2
+USD_UnitLaborCosts;20190905;12:30;Unit Labor Costs;United States;USD;2
+USD_ADPEmploymentChange;20190905;12:15;ADP Employment Change;United States;USD;2
+CLP_IMACEC;20190905;11:30;IMACEC;Chile;CLP;1
+ILS_FXReserves;20190905;11:00;FX Reserves;Israel;ILS;1
+MXN_ConsumerConfidence;20190905;11:00;Consumer Confidence s.a;Mexico;MXN;1
+EUR_FraAuction;20190905;09:00;10-y Bond Auction;France;EUR;1
+EUR_GreUnemploymentRate;20190905;09:00;Unemployment Rate (MoM);Greece;EUR;1
+EUR_SpaAuction;20190905;08:40;10-y Obligaciones Auction;Spain;EUR;1
+SEK_IndustrialProduction;20190905;07:30;Industrial Production (YoY);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20190905;07:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+SEK_RiksbankInterestRateDecision;20190905;07:30;Riksbank Interest Rate Decision;Sweden;SEK;1
+CZK_RetailSales;20190905;07:00;Retail Sales (YoY);Czech Republic;CZK;1
+GBP_UKcourthearingonforcingnodealBrexit;20190905;07:00;UK court  hearing on forcing no-deal Brexit;United Kingdom;GBP;2
+EUR_GerFactoryOrders;20190905;06:00;Factory Orders n.s.a. (YoY);Germany;EUR;1
+CHF_GrossDomesticProduct;20190905;05:45;Gross Domestic Product s.a. (QoQ);Switzerland;CHF;2
+EUR_NetConsumerPriceIndex;20190905;04:30;Consumer Price Index n.s.a (YoY);Netherlands, The;EUR;1
+AUD_Exports;20190905;01:30;Exports;Australia;AUD;2
+AUD_Imports;20190905;01:30;Imports;Australia;AUD;2
+AUD_TradeBalance;20190905;01:30;Trade Balance;Australia;AUD;2

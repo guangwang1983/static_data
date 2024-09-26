@@ -1,0 +1,14 @@
+CNY_RetailSales;20170814;02:00;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20170814;02:00;Industrial Production (YoY);China;CNY;2
+CNY_FixedAssetInvestment;20170814;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+INR_WPIInflation;20170814;06:30;WPI Inflation;India;INR;1
+CZK_CurrentAccount;20170814;08:00;Current Account (MoM);Czech Republic;CZK;1
+EUR_EurIndustrialProduction;20170814;09:00;Industrial Production s.a. (MoM);European Monetary Union;EUR;2
+TRY_CBRTInterestRateDecision;20170814;11:00;CBRT Interest Rate Decision;Turkey;TRY;0
+INR_TradeDeficitGovernment;20170814;11:00;Trade Deficit Government;India;INR;1
+PLN_NetInflation;20170814;12:00;Net Inflation;Poland;PLN;1
+RUB_BudgetFulfilment;20170814;12:00;Budget Fulfilment;Russia;RUB;1
+COP_TradeBalance;20170814;15:00;Trade Balance;Colombia;COP;1
+USD_Auction;20170814;15:30;3-Month Bill Auction;United States;USD;1
+COP_RetailSales;20170814;19:00;Retail Sales (YoY);Colombia;COP;1
+COP_Industrialoutput;20170814;19:30;Industrial output (YoY);Colombia;COP;1

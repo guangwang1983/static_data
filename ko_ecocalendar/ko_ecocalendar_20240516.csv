@@ -1,0 +1,33 @@
+AUD_ParticipationRate;20240516;01:30;Participation Rate;Australia;AUD;2
+AUD_UnemploymentRate;20240516;01:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_EmploymentChange;20240516;01:30;Employment Change s.a.;Australia;AUD;3
+AUD_PartTimeEmployment;20240516;01:30;Part-Time Employment;Australia;AUD;2
+AUD_FullTimeEmployment;20240516;01:30;Full-Time Employment;Australia;AUD;2
+KRW_MoneySupplyGrowth;20240516;03:00;Money Supply Growth;South Korea;KRW;1
+JPY_IndustrialProduction;20240516;04:30;Industrial Production (YoY);Japan;JPY;1
+JPY_CapacityUtilization;20240516;04:30;Capacity Utilization;Japan;JPY;1
+NOK_GrossDomesticProduct;20240516;06:00;Gross Domestic Product Growth Mainland;Norway;NOK;1
+EUR_ItaConsumerPriceIndex;20240516;08:00;Consumer Price Index (YoY);Italy;EUR;2
+EUR_ItaGlobalTradeBalance;20240516;09:00;Global Trade Balance;Italy;EUR;1
+EUR_ItaTradeBalanceEU;20240516;09:00;Trade Balance EU;Italy;EUR;1
+ILS_GrossDomesticProduct;20240516;10:00;Gross Domestic Product (QoQ);Israel;ILS;1
+GBP_CentralBankSpeech;20240516;11:00;BoE Greene speech;United Kingdom;GBP;2
+EUR_GerCentralBankSpeech;20240516;11:30;German Buba President Nagel speech;Germany;EUR;2
+PLN_NetInflation;20240516;12:00;Net Inflation;Poland;PLN;1
+USD_HousingStarts;20240516;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20240516;12:30;Building Permits (MoM);United States;USD;2
+USD_HousingStartsChange;20240516;12:30;Housing Starts Change;United States;USD;1
+USD_BuildingPermitsChange;20240516;12:30;Building Permits Change;United States;USD;1
+USD_JoblessClaims;20240516;12:30;Initial Jobless Claims;United States;USD;2
+USD_ImportPriceIndex;20240516;12:30;Import Price Index (MoM);United States;USD;1
+USD_ExportPriceIndex;20240516;12:30;Export Price Index (MoM);United States;USD;1
+USD_PhiladelphiaFedManufacturingSurvey;20240516;12:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+RUB_CentralBankReserves;20240516;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_IndustrialProduction;20240516;13:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20240516;13:15;Capacity Utilization;United States;USD;1
+USD_EIANaturalGasStorageChange;20240516;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20240516;15:30;4-Week Bill Auction;United States;USD;1
+USD_CentralBankSpeech;20240516;19:50;Fed Bostic speech;United States;USD;2
+NOK_ConstitutionDay;20240516;22:00;Constitution Day;Norway;NOK;0
+NZD_ProducerPriceIndex;20240516;22:45;Producer Price Index - Output (QoQ);New Zealand;NZD;2
+KRW_UnemploymentRate;20240516;23:00;Unemployment Rate;South Korea;KRW;1

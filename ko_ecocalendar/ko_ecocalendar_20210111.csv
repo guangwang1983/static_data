@@ -1,0 +1,27 @@
+AUD_TDSecuritiesInflation;20210111;00:00;TD Securities Inflation (MoM);Australia;AUD;2
+AUD_RetailSales;20210111;00:30;Retail Sales s.a. (MoM);Australia;AUD;3
+CNY_ProducerPriceIndex;20210111;01:30;Producer Price Index (YoY);China;CNY;2
+CNY_ConsumerPriceIndex;20210111;01:30;Consumer Price Index (MoM);China;CNY;2
+NOK_ConsumerPriceIndex;20210111;07:00;Consumer Price Index (MoM);Norway;NOK;1
+NOK_CoreInflation;20210111;07:00;Core Inflation (MoM);Norway;NOK;1
+TRY_UnemploymentRate;20210111;07:00;Unemployment Rate;Turkey;TRY;1
+RON_TradeBalance;20210111;07:00;Trade Balance;Romania;RON;1
+DKK_Inflation;20210111;07:00;Inflation (HICP) (YoY);Denmark;DKK;1
+DKK_ConsumerPriceIndex;20210111;07:00;Consumer Price Index (YoY);Denmark;DKK;1
+TRY_CurrentAccount;20210111;07:00;Current Account Balance;Turkey;TRY;1
+DKK_TradeBalance;20210111;07:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20210111;07:00;Current Account;Denmark;DKK;1
+NOK_ProducerPriceIndex;20210111;07:00;Producer Price Index (YoY);Norway;NOK;1
+HUF_TradeBalance;20210111;08:00;Trade Balance;Hungary;HUF;1
+EUR_EurSentixInvestorConfidence;20210111;09:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+HUF_BudgetBalance;20210111;10:00;Budget Balance;Hungary;HUF;1
+ILS_BudgetBalanceILS;20210111;11:00;Budget Balance - ILS;Israel;ILS;1
+MXN_IndustrialOutput;20210111;12:00;Industrial Output (YoY);Mexico;MXN;1
+EUR_EurCentralBankSpeech;20210111;14:40;ECB President Lagarde speech;European Monetary Union;EUR;3
+GBP_CentralBankSpeech;20210111;15:00;BoE Governor Bailey speech;United Kingdom;GBP;3
+CAD_BankofCanadaBusinessOutlookSurvey;20210111;15:30;Bank of Canada Business Outlook Survey;Canada;CAD;2
+USD_Auction;20210111;18:00;3-Year Note Auction;United States;USD;1
+USD_CentralBankSpeech;20210111;23:00;Fed Kaplan speech;United States;USD;2
+JPY_BankLending;20210111;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_TradeBalanceBOPBasis;20210111;23:50;Trade Balance - BOP Basis;Japan;JPY;1
+JPY_CurrentAccount;20210111;23:50;Current Account n.s.a.;Japan;JPY;2

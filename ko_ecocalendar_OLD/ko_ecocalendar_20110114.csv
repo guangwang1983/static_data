@@ -1,0 +1,22 @@
+ARS_ConsumerInflation;20110114;19:00;Consumer Inflation (YoY);Argentina;ARS;1
+USD_BusinessInventories;20110114;15:00;Business Inventories;United States;USD;1
+USD_MichiganConsumerSentimentIndex;20110114;14:55;Michigan Consumer Sentiment Index;United States;USD;2
+USD_IndustrialProduction;20110114;14:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20110114;14:15;Capacity Utilization;United States;USD;1
+CAD_NewMotorVehicleSales;20110114;13:30;New Motor Vehicle Sales (MoM);Canada;CAD;1
+USD_RetailSales;20110114;13:30;Retail Sales ex Autos (MoM);United States;USD;2
+USD_ConsumerPriceIndex;20110114;13:30;Consumer Price Index ex Food & Energy (MoM);United States;USD;2
+INR_M3MoneySupply;20110114;12:30;M3 Money Supply;India;INR;2
+INR_BankLoanGrowth;20110114;12:30;Bank Loan Growth;India;INR;1
+RUB_ForeignTrade;20110114;11:25;Foreign Trade;Russia;RUB;2
+EUR_EurConsumerPriceIndex;20110114;10:10;Consumer Price Index - Core (YoY);European Monetary Union;EUR;1
+EUR_EurTradeBalance;20110114;10:00;Trade Balance n.s.a.;European Monetary Union;EUR;2
+GBP_ProducerPriceIndex;20110114;09:30;Producer Price Index - Output (YoY) n.s.a;United Kingdom;GBP;2
+EUR_SloEUNormInflation;20110114;09:00;EU Norm Inflation (MoM);Slovakia;EUR;2
+CHF_ProducerandImportPrices;20110114;08:15;Producer and Import Prices (MoM);Switzerland;CHF;1
+CZK_ExportPrices;20110114;08:00;Export Prices (YoY);Czech Republic;CZK;1
+EUR_FinCurrentAccount;20110114;08:00;Current Account;Finland;EUR;0
+HUF_ConsumerPriceIndex;20110114;08:00;Consumer Price Index (YoY);Hungary;HUF;1
+CZK_ImportPrices;20110114;08:00;Import Prices (YoY);Czech Republic;CZK;1
+EUR_GerConsumerPriceIndex;20110114;07:00;Consumer Price Index (MoM);Germany;EUR;2
+INR_WPIInflation;20110114;06:30;WPI Inflation;India;INR;1

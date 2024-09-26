@@ -1,0 +1,23 @@
+EUR_AusTradeBalance;20120103;23:00;Trade Balance;Austria;EUR;1
+USD_FOMCMinutes;20120103;19:00;FOMC Minutes;United States;USD;3
+DKK_CurrencyReserves;20120103;15:00;Currency Reserves;Denmark;DKK;1
+USD_ISMManufacturingPMI;20120103;15:00;ISM Manufacturing PMI;United States;USD;2
+USD_ISMPricesPaid;20120103;15:00;ISM Prices Paid;United States;USD;2
+USD_ConstructionSpending;20120103;15:00;Construction Spending (MoM);United States;USD;2
+CZK_BudgetBalance;20120103;13:00;Budget Balance;Czech Republic;CZK;1
+KRW_NikkeiMarkitManufacturingPMI;20120103;12:02;Nikkei Markit Manufacturing PMI;South Korea;KRW;1
+KRW_ImportPriceGrowth;20120103;11:58;Import Price Growth (YoY);South Korea;KRW;1
+EUR_IrePurchasingManagerIndexManufacturing;20120103;10:12;Purchasing Manager Index Manufacturing;Ireland;EUR;1
+GBP_MarkitManufacturingPMI;20120103;09:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+EUR_GerUnemploymentChange;20120103;08:55;Unemployment Change;Germany;EUR;3
+EUR_GerUnemploymentRate;20120103;08:55;Unemployment Rate s.a.;Germany;EUR;2
+CHF_SVMEPurchasingManagers'Index;20120103;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;2
+TRY_ProducerPriceIndex;20120103;08:00;Producer Price Index (YoY);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20120103;08:00;Consumer Price Index (MoM);Turkey;TRY;1
+EUR_SpaUnemploymentChange;20120103;07:00;Unemployment Change;Spain;EUR;1
+AUD_RBACommodityIndexSDR;20120103;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+RUB_Bankholiday;20120103;00:00;Bank holiday;Russia;RUB;0
+CNY_NewYearDay;20120103;00:00;New Year Day;China;CNY;0
+NZD_NewYearDay;20120103;00:00;New Year Day ;New Zealand;NZD;0
+JPY_BankHoliday;20120103;00:00;Bank Holiday;Japan;JPY;0
+CNY_NonManufacturingPMI;20120103;00:00;Non-Manufacturing PMI;China;CNY;1

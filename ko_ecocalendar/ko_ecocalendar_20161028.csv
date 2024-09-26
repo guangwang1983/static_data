@@ -1,0 +1,42 @@
+AUD_HIANewHomeSales;20161028;00:00;HIA New Home Sales (MoM);Australia;AUD;2
+CZK_FoundationoftheindependentCzechoslovakState;20161028;00:00;Foundation of the independent Czechoslovak State ;Czech Republic;CZK;0
+AUD_ProducerPriceIndex;20161028;00:30;Producer Price Index (YoY);Australia;AUD;1
+EUR_FraGrossDomesticProduct;20161028;05:30;Gross Domestic Product (YoY);France;EUR;2
+NOK_RetailSales;20161028;06:00;Retail Sales ;Norway;NOK;1
+EUR_FraProducerPrices;20161028;06:45;Producer Prices (MoM);France;EUR;1
+EUR_FraConsumerPriceIndex;20161028;06:45;Consumer Price Index (EU norm) (YoY);France;EUR;1
+EUR_FraConsumerSpending;20161028;06:45;Consumer Spending (MoM);France;EUR;1
+CHF_KOFLeadingIndicator;20161028;07:00;KOF Leading Indicator;Switzerland;CHF;2
+SEK_RetailSales;20161028;07:30;Retail Sales (MoM);Sweden;SEK;1
+HUF_ProducerPriceIndex;20161028;08:00;Producer Price Index (YoY);Hungary;HUF;1
+NOK_RegisteredUnemployment;20161028;08:00;Registered Unemployment s.a;Norway;NOK;1
+HUF_TradeBalance;20161028;08:00;Trade Balance;Hungary;HUF;1
+EUR_EurConsumerConfidence;20161028;09:00;Consumer Confidence;European Monetary Union;EUR;1
+EUR_EurServicesSentiment;20161028;09:00;Services Sentiment;European Monetary Union;EUR;1
+EUR_EurIndustrialConfidence;20161028;09:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_EurBusinessClimate;20161028;09:00;Business Climate;European Monetary Union;EUR;1
+EUR_EurEconomicSentimentIndicator;20161028;09:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+BRL_InflationIndexIGPM;20161028;10:00;Inflation Index/IGP-M;Brazil;BRL;1
+EUR_ItaAuction;20161028;10:03;5-y Bond Auction;Italy;EUR;1
+RUB_Interestratedecision;20161028;10:30;Interest rate decision;Russia;RUB;2
+INR_BankLoanGrowth;20161028;11:00;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20161028;11:30;FX Reserves, USD;India;INR;1
+CLP_Unemploymentrate;20161028;12:00;Unemployment rate;Chile;CLP;1
+EUR_GerConsumerPriceIndex;20161028;12:00;Consumer Price Index (YoY);Germany;EUR;2
+EUR_GerHarmonizedIndexofConsumerPrices;20161028;12:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;2
+CLP_IndustrialProduction;20161028;12:00;Industrial Production (YoY);Chile;CLP;1
+USD_GrossDomesticProduct;20161028;12:30;Gross Domestic Product Annualized;United States;USD;3
+USD_EmploymentCostIndex;20161028;12:30;Employment Cost Index;United States;USD;1
+USD_PersonalConsumptionExpendituresPrices;20161028;12:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+USD_CorePersonalConsumptionExpenditures;20161028;12:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+USD_MichiganConsumerSentimentIndex;20161028;14:00;Michigan Consumer Sentiment Index;United States;USD;1
+USD_BakerHughesUSOilRigCount;20161028;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+AUD_CFTCAUDNCNetPositions;20161028;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20161028;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+USD_CFTCS&P500NCNetPositions;20161028;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20161028;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCOilNCNetPositions;20161028;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20161028;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20161028;19:30;CFTC Gold NC Net Positions;United States;USD;1
+MXN_FiscalBalancepesos;20161028;19:30;Fiscal Balance, pesos;Mexico;MXN;1
+COP_Interestrate;20161028;22:00;Interest rate;Colombia;COP;1

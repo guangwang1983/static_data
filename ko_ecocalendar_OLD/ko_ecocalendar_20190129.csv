@@ -1,0 +1,22 @@
+JPY_RetailTrade;20190129;23:50;Retail Trade (YoY);Japan;JPY;2
+JPY_LargeRetailers'Sales;20190129;23:50;Large Retailers' Sales;Japan;JPY;2
+USD_APIWeeklyCrudeOilStock;20190129;21:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_BOKManufacturingBSI;20190129;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+GBP_UKParliamentaryVoteonBrexit;20190129;19:00;UK Parliamentary Vote on Brexit;United Kingdom;GBP;3
+USD_Auction;20190129;16:30;52-Week Bill Auction;United States;USD;1
+USD_ConsumerConfidence;20190129;15:00;Consumer Confidence;United States;USD;2
+USD_S&PCaseShillerHomePriceIndices;20190129;14:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;2
+USD_RedbookIndex;20190129;13:55;Redbook Index (MoM);United States;USD;1
+EUR_SloCurrentAccount;20190129;13:30;Current Account Balance EUR;Slovakia;EUR;1
+HUF_MNBInterestRateDecision;20190129;13:00;MNB Interest Rate Decision;Hungary;HUF;1
+GBP_CentralBankSpeech;20190129;12:40;UK Prime Minister Theresa May speech;United Kingdom;GBP;2
+EUR_ItaProducerPriceIndex;20190129;09:00;Producer Price Index (MoM);Italy;EUR;1
+ISK_ConsumerPriceIndex;20190129;09:00;Consumer Price Index (MoM);Iceland;ISK;1
+EUR_AusPurchasingManagerIndex;20190129;09:00;Purchasing Manager Index;Austria;EUR;1
+EUR_SpaUnemploymentSurvey;20190129;08:00;Unemployment Survey;Spain;EUR;1
+EUR_FraConsumerConfidence;20190129;07:45;Consumer Confidence;France;EUR;1
+CHF_TradeBalance;20190129;07:00;Trade Balance;Switzerland;CHF;1
+CHF_Exports;20190129;07:00;Exports (MoM);Switzerland;CHF;1
+CHF_Imports;20190129;07:00;Imports (MoM);Switzerland;CHF;1
+AUD_NationalAustraliaBankBusinessConfidence;20190129;00:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20190129;00:30;National Australia Bank Business Conditions;Australia;AUD;1

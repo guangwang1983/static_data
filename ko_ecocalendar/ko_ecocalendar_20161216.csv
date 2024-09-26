@@ -1,0 +1,32 @@
+ZAR_DayofReconciliation;20161216;00:00;Day of Reconciliation;South Africa;ZAR;0
+EUR_FraBusinessClimateinManufacturing;20161216;07:45;Business Climate in Manufacturing;France;EUR;1
+CZK_ProducerPriceIndex;20161216;08:00;Producer Price Index (YoY);Czech Republic;CZK;1
+EUR_ItaGlobalTradeBalance;20161216;09:00;Global Trade Balance;Italy;EUR;1
+EUR_ItaTradeBalanceEU;20161216;09:00;Trade Balance EU;Italy;EUR;1
+EUR_EurTradeBalance;20161216;10:00;Trade Balance n.s.a.;European Monetary Union;EUR;2
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20161216;10:00;Core Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_EurHarmonizedIndexofConsumerPrices;20161216;10:00;Harmonized Index of Consumer Prices (MoM);European Monetary Union;EUR;2
+RUB_Interestratedecision;20161216;10:30;Interest rate decision;Russia;RUB;2
+GBP_CBIIndustrialTrendsSurvey–Orders;20161216;11:00;CBI Industrial Trends Survey – Orders (MoM);United Kingdom;GBP;1
+INR_FXReservesUSD;20161216;11:30;FX Reserves, USD;India;INR;1
+GBP_BoEQuarterlyBulletin;20161216;12:00;BoE Quarterly Bulletin;United Kingdom;GBP;1
+RUB_GrossDomesticProduct;20161216;12:00;Gross Domestic Product Monthly (YoY);Russia;RUB;1
+PLN_CorporateSectorWages;20161216;13:00;Corporate Sector Wages;Poland;PLN;1
+USD_BuildingPermitsChange;20161216;13:30;Building Permits Change;United States;USD;1
+USD_HousingStartsChange;20161216;13:30;Housing Starts Change;United States;USD;1
+USD_HousingStarts;20161216;13:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20161216;13:30;Building Permits (MoM);United States;USD;2
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20161216;13:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20161216;13:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+USD_CentralBankSpeech;20161216;17:30;Fed Lacker speech;United States;USD;1
+USD_BakerHughesUSOilRigCount;20161216;18:00;Baker Hughes US Oil Rig Count;United States;USD;2
+COP_RetailSales;20161216;20:00;Retail Sales (YoY);Colombia;COP;1
+COP_Industrialoutput;20161216;20:00;Industrial output (YoY);Colombia;COP;1
+EUR_EurCFTCEURNCNetPositions;20161216;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20161216;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+JPY_CFTCJPYNCNetPositions;20161216;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCOilNCNetPositions;20161216;20:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20161216;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20161216;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20161216;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+COP_Interestrate;20161216;22:00;Interest rate;Colombia;COP;1

@@ -1,0 +1,39 @@
+AUD_WestpacConsumerConfidence;20230510;00:30;Westpac Consumer Confidence;Australia;AUD;2
+JPY_CoincidentIndex;20230510;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20230510;05:00;Leading Economic Index;Japan;JPY;1
+DKK_ConsumerPriceIndex;20230510;06:00;Consumer Price Index (YoY);Denmark;DKK;1
+DKK_Inflation;20230510;06:00;Inflation (HICP) (YoY);Denmark;DKK;1
+RON_TradeBalance;20230510;06:00;Trade Balance;Romania;RON;1
+NOK_CoreInflation;20230510;06:00;Core Inflation (MoM);Norway;NOK;1
+NOK_ConsumerPriceIndex;20230510;06:00;Consumer Price Index (YoY);Norway;NOK;1
+NOK_ProducerPriceIndex;20230510;06:00;Producer Price Index (YoY);Norway;NOK;1
+SEK_IndustrialProductionValue;20230510;06:00;Industrial Production Value (MoM);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20230510;06:00;New Orders Manufacturing (YoY);Sweden;SEK;1
+HUF_ConsumerPriceIndex;20230510;06:30;Consumer Price Index (YoY);Hungary;HUF;1
+CNY_M2MoneySupply;20230510;07:00;M2 Money Supply (YoY);China;CNY;1
+CNY_NewLoans;20230510;07:00;New Loans;China;CNY;1
+CNY_FDIForeignDirectInvestment;20230510;07:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+TRY_UnemploymentRate;20230510;07:00;Unemployment Rate;Turkey;TRY;1
+TRY_IndustrialProduction;20230510;07:00;Industrial Production (YoY);Turkey;TRY;1
+CZK_UnemploymentRate;20230510;07:00;Unemployment Rate;Czech Republic;CZK;1
+CZK_FXReserves;20230510;08:00;FX Reserves;Czech Republic;CZK;1
+ZAR_BusinessConfidenceIndex;20230510;09:30;Business Confidence Index;South Africa;ZAR;1
+GBP_Auction;20230510;09:30;10-y Bond Auction;United Kingdom;GBP;1
+USD_MBAMortgageApplications;20230510;11:00;MBA Mortgage Applications;United States;USD;1
+BRL_IndustrialOutput;20230510;12:00;Industrial Output (MoM);Brazil;BRL;1
+PLN_NBPBaserate;20230510;12:00;NBP Base rate;Poland;PLN;1
+RON_Interestratedecision;20230510;12:00;Interest rate decision;Romania;RON;1
+USD_ConsumerPriceIndex;20230510;12:30;Consumer Price Index n.s.a (MoM);United States;USD;1
+CAD_BuildingPermits;20230510;12:30;Building Permits (MoM);Canada;CAD;1
+USD_RedbookIndex;20230510;12:55;Redbook Index (YoY);United States;USD;1
+USD_EIACrudeOilStocksChange;20230510;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_Auction;20230510;17:00;10-Year Note Auction;United States;USD;1
+USD_MonthlyBudgetStatement;20230510;18:00;Monthly Budget Statement;United States;USD;2
+NZD_FoodPriceIndex;20230510;22:45;Food Price Index (MoM);New Zealand;NZD;1
+GBP_RICSHousingPriceBalance;20230510;23:01;RICS Housing Price Balance;United Kingdom;GBP;1
+JPY_BankLending;20230510;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_BoJSummaryofOpinions;20230510;23:50;BoJ Summary of Opinions;Japan;JPY;1
+JPY_ForeignBondInvestment;20230510;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20230510;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_CurrentAccount;20230510;23:50;Current Account n.s.a.;Japan;JPY;2
+JPY_TradeBalanceBOPBasis;20230510;23:50;Trade Balance - BOP Basis;Japan;JPY;1

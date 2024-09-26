@@ -1,0 +1,33 @@
+AUD_ConsumerInflationExpectations;20231116;00:00;Consumer Inflation Expectations;Australia;AUD;2
+AUD_UnemploymentRate;20231116;00:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_ParticipationRate;20231116;00:30;Participation Rate;Australia;AUD;2
+AUD_FullTimeEmployment;20231116;00:30;Full-Time Employment;Australia;AUD;2
+AUD_PartTimeEmployment;20231116;00:30;Part-Time Employment;Australia;AUD;2
+AUD_EmploymentChange;20231116;00:30;Employment Change s.a.;Australia;AUD;3
+CNY_HousePriceIndex;20231116;01:30;House Price Index ;China;CNY;1
+JPY_TertiaryIndustryIndex;20231116;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+CZK_ProducerPriceIndex;20231116;08:00;Producer Price Index (MoM);Czech Republic;CZK;1
+EUR_ItaTradeBalanceEU;20231116;09:00;Trade Balance EU;Italy;EUR;1
+ILS_GrossDomesticProduct;20231116;11:00;Gross Domestic Product (QoQ);Israel;ILS;1
+PLN_NetInflation;20231116;13:00;Net Inflation;Poland;PLN;1
+RUB_CentralBankReserves;20231116;13:00;Central Bank Reserves $;Russia;RUB;1
+CAD_HousingStarts;20231116;13:15;Housing Starts s.a (YoY);Canada;CAD;1
+USD_JoblessClaims;20231116;13:30;Initial Jobless Claims;United States;USD;2
+USD_ImportPriceIndex;20231116;13:30;Import Price Index (MoM);United States;USD;1
+USD_ExportPriceIndex;20231116;13:30;Export Price Index (MoM);United States;USD;1
+USD_PhiladelphiaFedManufacturingSurvey;20231116;13:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+CAD_EmploymentInsuranceBeneficiariesChange;20231116;13:30;Employment Insurance Beneficiaries Change (MoM);Canada;CAD;1
+USD_IndustrialProduction;20231116;14:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20231116;14:15;Capacity Utilization;United States;USD;1
+EUR_EurCentralBankSpeech;20231116;14:15;ECB De Guindos speech;Eurozone;EUR;2
+USD_NAHBHousingMarketIndex;20231116;15:00;NAHB Housing Market Index;United States;USD;1
+COP_TradeBalance;20231116;15:00;Trade Balance;Colombia;COP;1
+USD_EIANaturalGasStorageChange;20231116;15:30;EIA Natural Gas Storage Change;United States;USD;1
+GBP_CentralBankSpeech;20231116;15:45;BoE Ramsden speech;United Kingdom;GBP;2
+USD_KansasFedManufacturingActivity;20231116;16:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_Auction;20231116;16:30;4-Week Bill Auction;United States;USD;1
+USD_CentralBankSpeech;20231116;17:00;Fed Cook speech;United States;USD;2
+USD_NetLongTermTICFlows;20231116;21:00;Net Long-Term TIC Flows;United States;USD;1
+USD_TotalNetTICFlows;20231116;21:00;Total Net TIC Flows;United States;USD;1
+NZD_ProducerPriceIndex;20231116;21:45;Producer Price Index - Input (QoQ);New Zealand;NZD;1
+CZK_StruggleforFreedomandDemocracyDay;20231116;22:00;Struggle for Freedom and Democracy Day ;Czech Republic;CZK;0

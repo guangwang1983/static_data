@@ -1,0 +1,39 @@
+ZAR_WorkersDay;20170501;00:00;Workers Day;South Africa;ZAR;0
+EUR_GerLabourDay;20170501;00:00;Labour Day;Germany;EUR;0
+EUR_FraLabourDay;20170501;00:00;Labour Day ;France;EUR;0
+HUF_Labourday;20170501;00:00;Labour day;Hungary;HUF;0
+CZK_LabourDay;20170501;00:00;Labour Day;Czech Republic;CZK;0
+NOK_LabourDay;20170501;00:00;Labour Day;Norway;NOK;0
+PLN_LabourDay;20170501;00:00;Labour Day ;Poland;PLN;0
+GBP_EarlyMay;20170501;00:00;Early May;United Kingdom;GBP;0
+RUB_LabourDay;20170501;00:00;Labour Day;Russia;RUB;0
+EUR_ItaLabourDay;20170501;00:00;Labour Day ;Italy;EUR;0
+KRW_LabourDay;20170501;00:00;Labour Day ;South Korea;KRW;0
+SEK_LabourDay;20170501;00:00;Labour Day;Sweden;SEK;0
+COP_LabourDay;20170501;00:00;Labour Day;Colombia;COP;0
+RON_LaborDay;20170501;00:00;Labor Day;Romania;RON;0
+CNY_LabourDay;20170501;00:00;Labour Day;China;CNY;0
+BRL_LabourDay;20170501;00:00;Labour Day;Brazil;BRL;0
+CLP_LabourDay;20170501;00:00;Labour Day;Chile;CLP;0
+KRW_TradeBalance;20170501;00:00;Trade Balance;South Korea;KRW;1
+TRY_LabourDay;20170501;00:00;Labour Day;Turkey;TRY;0
+MXN_LabourDay;20170501;00:00;Labour Day ;Mexico;MXN;0
+JPY_JibunBankManufacturingPMI;20170501;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+AUD_TDSecuritiesInflation;20170501;01:00;TD Securities Inflation (MoM);Australia;AUD;2
+JPY_VehicleSales;20170501;05:00;Vehicle Sales (YoY);Japan;JPY;1
+AUD_RBACommodityIndexSDR;20170501;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+CHF_RetailSales;20170501;07:15;Real Retail Sales (YoY);Switzerland;CHF;2
+USD_PersonalConsumptionExpendituresPriceIndex;20170501;12:30;Personal Consumption Expenditures - Price Index (YoY);United States;USD;2
+USD_CorePersonalConsumptionExpendituresPriceIndex;20170501;12:30;Core Personal Consumption Expenditures - Price Index (MoM);United States;USD;2
+USD_PersonalIncome;20170501;12:30;Personal Income (MoM);United States;USD;2
+USD_PersonalSpending;20170501;12:30;Personal Spending;United States;USD;2
+CAD_S&PGlobalManufacturingPMI;20170501;13:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20170501;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_ISMManufacturingPMI;20170501;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20170501;14:00;ISM Manufacturing Prices Paid;United States;USD;3
+USD_ConstructionSpending;20170501;14:00;Construction Spending (MoM);United States;USD;2
+USD_CentralBankSpeech;20170501;14:45;Treasury Sec Mnuchin speech;United States;USD;3
+USD_Auction;20170501;15:30;3-Month Bill Auction;United States;USD;1
+KRW_ConsumerPriceIndex;20170501;23:00;Consumer Price Index Growth (MoM);South Korea;KRW;1
+JPY_MonetaryBase;20170501;23:50;Monetary Base (YoY);Japan;JPY;1
+JPY_BoJMonetaryPolicyMeetingMinutes;20170501;23:50;BoJ Monetary Policy Meeting Minutes;Japan;JPY;3

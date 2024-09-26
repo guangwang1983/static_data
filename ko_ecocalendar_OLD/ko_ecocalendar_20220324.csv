@@ -1,0 +1,38 @@
+JPY_JibunBankServicesPMI;20220324;00:30;Jibun Bank Services PMI;Japan;JPY;1
+JPY_JibunBankManufacturingPMI;20220324;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+CHF_SNBInterestRateDecision;20220324;08:30;SNB Interest Rate Decision;Switzerland;CHF;3
+CHF_SNBMonetaryPolicyAssessment;20220324;08:30;SNB Monetary Policy Assessment;Switzerland;CHF;3
+EUR_EurEconomicBulletin;20220324;09:00;Economic Bulletin;European Monetary Union;EUR;2
+EUR_EurMarkitPMIComposite;20220324;09:00;Markit PMI Composite;European Monetary Union;EUR;3
+EUR_EurMarkitManufacturingPMI;20220324;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20220324;09:00;Markit Services PMI;European Monetary Union;EUR;2
+NOK_NorgesBankInterestRateDecision;20220324;09:00;Norges Bank Interest Rate Decision;Norway;NOK;1
+GBP_MarkitServicesPMI;20220324;09:30;Markit Services PMI;United Kingdom;GBP;3
+GBP_MarkitManufacturingPMI;20220324;09:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+GBP_FPCStatement;20220324;10:30;FPC Statement;United Kingdom;GBP;1
+GBP_FPCMeetingMinutes;20220324;10:30;FPC Meeting Minutes;United Kingdom;GBP;1
+MXN_RetailSales;20220324;12:00;Retail Sales (MoM);Mexico;MXN;1
+MXN_1sthalfmonthInflation;20220324;12:00;1st half-month Inflation;Mexico;MXN;1
+MXN_1sthalfmonthCoreInflation;20220324;12:00;1st half-month Core Inflation;Mexico;MXN;1
+USD_CurrentAccount;20220324;12:30;Current Account;United States;USD;1
+USD_JoblessClaims;20220324;12:30;Initial Jobless Claims;United States;USD;2
+USD_DurableGoodsOrders;20220324;12:30;Durable Goods Orders ex Defense;United States;USD;2
+USD_NondefenseCapitalGoodsOrdersexAircraft;20220324;12:30;Nondefense Capital Goods Orders ex Aircraft;United States;USD;3
+CAD_EmploymentInsuranceBeneficiariesChange;20220324;12:30;Employment Insurance Beneficiaries Change (MoM);Canada;CAD;1
+ZAR_SARBInterestRateDecision;20220324;13:00;SARB Interest Rate Decision;South Africa;ZAR;1
+EUR_EurCentralBankSpeech;20220324;13:00;ECB Elderson speech;European Monetary Union;EUR;2
+RUB_CentralBankReserves;20220324;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_MarkitPMIComposite;20220324;13:45;Markit PMI Composite;United States;USD;2
+USD_MarkitServicesPMI;20220324;13:45;Markit Services PMI;United States;USD;2
+USD_MarkitManufacturingPMI;20220324;13:45;Markit Manufacturing PMI;United States;USD;2
+USD_EIANaturalGasStorageChange;20220324;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_CentralBankSpeech;20220324;15:00;Fed Bostic speech;United States;USD;2
+USD_KansasFedManufacturingActivity;20220324;15:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_Auction;20220324;15:30;4-Week Bill Auction;United States;USD;1
+MXN_CentralBankInterestRate;20220324;19:00;Central Bank Interest Rate;Mexico;MXN;1
+JPY_TokyoCPIexFreshFood;20220324;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;2
+JPY_TokyoCPIexFoodEnergy;20220324;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20220324;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;2
+JPY_CorporateServicePriceIndex;20220324;23:50;Corporate Service Price Index (YoY);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20220324;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20220324;23:50;Foreign Bond Investment;Japan;JPY;1

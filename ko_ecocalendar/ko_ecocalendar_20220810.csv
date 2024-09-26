@@ -1,0 +1,30 @@
+CNY_ConsumerPriceIndex;20220810;01:30;Consumer Price Index (MoM);China;CNY;2
+CNY_ProducerPriceIndex;20220810;01:30;Producer Price Index (YoY);China;CNY;2
+NOK_CoreInflation;20220810;06:00;Core Inflation (MoM);Norway;NOK;1
+NOK_ConsumerPriceIndex;20220810;06:00;Consumer Price Index (MoM);Norway;NOK;1
+DKK_Inflation;20220810;06:00;Inflation (HICP) (YoY);Denmark;DKK;1
+DKK_ConsumerPriceIndex;20220810;06:00;Consumer Price Index (YoY);Denmark;DKK;1
+SEK_IndustrialProductionValue;20220810;06:00;Industrial Production Value (MoM);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20220810;06:00;New Orders Manufacturing (YoY);Sweden;SEK;1
+EUR_GerConsumerPriceIndex;20220810;06:00;Consumer Price Index (YoY);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20220810;06:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+NOK_ProducerPriceIndex;20220810;06:00;Producer Price Index (YoY);Norway;NOK;1
+CZK_ConsumerPriceIndex;20220810;07:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+TRY_UnemploymentRate;20220810;07:00;Unemployment Rate;Turkey;TRY;1
+EUR_ItaConsumerPriceIndex;20220810;08:00;Consumer Price Index (EU Norm) (MoM);Italy;EUR;1
+ZAR_BusinessConfidenceIndex;20220810;09:30;Business Confidence Index;South Africa;ZAR;1
+EUR_GerAuction;20220810;09:30;30-y Bond Auction;Germany;EUR;1
+USD_MBAMortgageApplications;20220810;11:00;MBA Mortgage Applications;United States;USD;1
+INR_M3MoneySupply;20220810;11:30;M3 Money Supply;India;INR;1
+BRL_RetailSales;20220810;12:00;Retail Sales (MoM);Brazil;BRL;1
+USD_ConsumerPriceIndex;20220810;12:30;Consumer Price Index ex Food & Energy (MoM);United States;USD;3
+USD_WholesaleInventories;20220810;14:00;Wholesale Inventories;United States;USD;1
+USD_EIACrudeOilStocksChange;20220810;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+JPY_MountainDay;20220810;15:00;Mountain Day;Japan;JPY;0
+RUB_ConsumerPriceIndex;20220810;16:00;Consumer Price Index (MoM);Russia;RUB;1
+GBP_CentralBankSpeech;20220810;17:00;BoE Pill speech;United Kingdom;GBP;2
+USD_Auction;20220810;17:00;10-Year Note Auction;United States;USD;1
+USD_MonthlyBudgetStatement;20220810;18:00;Monthly Budget Statement;United States;USD;2
+NZD_REINZHousePriceIndex;20220810;22:05;REINZ House Price Index (MoM);New Zealand;NZD;2
+NZD_VisitorArrivals;20220810;22:45;Visitor Arrivals (YoY);New Zealand;NZD;1
+GBP_RICSHousingPriceBalance;20220810;23:01;RICS Housing Price Balance;United Kingdom;GBP;1

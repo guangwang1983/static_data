@@ -1,0 +1,32 @@
+PLN_IndependenceDay;20151111;00:00;Independence Day ;Poland;PLN;0
+EUR_FraArmisticeDay;20151111;00:00;Armistice Day;France;EUR;0
+CAD_RemembranceDay;20151111;00:00;Remembrance Day;Canada;CAD;0
+USD_VeteransDay;20151111;00:00;Veterans Day;United States;USD;0
+CNY_FDIForeignDirectInvestment;20151111;02:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+KRW_MoneySupplyGrowth;20151111;03:00;Money Supply Growth;South Korea;KRW;1
+CNY_RetailSales;20151111;05:30;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20151111;05:30;Industrial Production (YoY);China;CNY;2
+CNY_FixedAssetInvestment;20151111;05:30;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+JPY_MachineToolOrders;20151111;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+EUR_GerWholesalePriceIndex;20151111;07:00;Wholesale Price Index (MoM);Germany;EUR;1
+RON_ConsumerPriceIndex;20151111;07:00;Consumer Price Index;Romania;RON;1
+TRY_CurrentAccount;20151111;08:00;Current Account Balance;Turkey;TRY;1
+GBP_ClaimantCountChange;20151111;09:30;Claimant Count Change;United Kingdom;GBP;2
+GBP_ClaimantCountRate;20151111;09:30;Claimant Count Rate;United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20151111;09:30;ILO Unemployment Rate (3M);United Kingdom;GBP;2
+GBP_AverageEarningsExcludingBonus;20151111;09:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_AverageEarningsIncludingBonus;20151111;09:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_CentralBankSpeech;20151111;10:30;BoE Governor Carney speech;United Kingdom;GBP;3
+RUB_ForeignTrade;20151111;11:00;Foreign Trade;Russia;RUB;1
+USD_MBAMortgageApplications;20151111;12:00;MBA Mortgage Applications;United States;USD;1
+INR_M3MoneySupply;20151111;12:30;M3 Money Supply;India;INR;1
+EUR_EurCentralBankSpeech;20151111;13:15;ECB President Draghi speech;European Monetary Union;EUR;3
+RUB_GrossDomesticProduct;20151111;14:00;Gross Domestic Product Monthly (YoY);Russia;RUB;1
+MXN_IndustrialOutput;20151111;14:00;Industrial Output (MoM);Mexico;MXN;1
+NZD_BusinessNZPMI;20151111;21:30;Business NZ PMI;New Zealand;NZD;2
+NZD_FoodPriceIndex;20151111;21:45;Food Price Index (MoM);New Zealand;NZD;1
+KRW_BoKInterestRateDecision;20151111;23:00;BoK Interest Rate Decision;South Korea;KRW;1
+JPY_ProducerPriceIndex;20151111;23:50;Producer Price Index (MoM);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20151111;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20151111;23:50;Foreign Bond Investment;Japan;JPY;2
+JPY_MachineryOrders;20151111;23:50;Machinery Orders (YoY);Japan;JPY;1

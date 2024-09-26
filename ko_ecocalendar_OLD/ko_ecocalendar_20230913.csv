@@ -1,0 +1,31 @@
+KRW_MoneySupplyGrowth;20230913;03:00;Money Supply Growth;South Korea;KRW;1
+GBP_IndustrialProduction;20230913;06:00;Industrial Production (MoM);United Kingdom;GBP;2
+GBP_ManufacturingProduction;20230913;06:00;Manufacturing Production (MoM);United Kingdom;GBP;2
+GBP_IndexofServices;20230913;06:00;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20230913;06:00;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20230913;06:00;Goods Trade Balance;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20230913;06:00;Total Trade Balance;United Kingdom;GBP;1
+GBP_GrossDomesticProduct;20230913;06:00;Gross Domestic Product (MoM);United Kingdom;GBP;2
+RON_IndustrialProduction;20230913;06:00;Industrial Production (MoM);Romania;RON;1
+CNY_FDIForeignDirectInvestment;20230913;07:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;1
+HUF_IndustrialOutput;20230913;07:00;Industrial Output (YoY);Hungary;HUF;1
+CZK_CurrentAccount;20230913;07:00;Current Account (MoM);Czech Republic;CZK;1
+EUR_EurIndustrialProduction;20230913;09:00;Industrial Production s.a. (MoM);European Monetary Union;EUR;2
+EUR_GerAuction;20230913;09:30;30-y Bond Auction;Germany;EUR;1
+ZAR_BusinessConfidenceIndex;20230913;09:30;Business Confidence Index;South Africa;ZAR;1
+GBP_Auction;20230913;09:30;10-y Bond Auction;United Kingdom;GBP;1
+ILS_TradeBalance;20230913;10:00;Trade Balance;Israel;ILS;1
+ILS_Imports;20230913;10:00;Imports;Israel;ILS;1
+ILS_Exports;20230913;10:00;Exports;Israel;ILS;1
+USD_MBAMortgageApplications;20230913;11:00;MBA Mortgage Applications;United States;USD;1
+ZAR_RetailSales;20230913;11:00;Retail Sales (YoY);South Africa;ZAR;1
+GBP_NIESRGDPEstimate;20230913;11:00;NIESR GDP Estimate (3M);United Kingdom;GBP;1
+PLN_CurrentAccount;20230913;12:00;Current Account;Poland;PLN;1
+USD_ConsumerPriceIndex;20230913;12:30;Consumer Price Index n.s.a (MoM);United States;USD;1
+USD_EIACrudeOilStocksChange;20230913;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_Auction;20230913;17:00;30-Year Bond Auction;United States;USD;1
+USD_MonthlyBudgetStatement;20230913;18:00;Monthly Budget Statement;United States;USD;2
+GBP_RICSHousingPriceBalance;20230913;23:01;RICS Housing Price Balance;United Kingdom;GBP;1
+JPY_ForeignInvestmentinJapanStocks;20230913;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20230913;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_MachineryOrders;20230913;23:50;Machinery Orders (MoM);Japan;JPY;1

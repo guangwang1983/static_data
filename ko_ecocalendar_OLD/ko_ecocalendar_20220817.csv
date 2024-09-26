@@ -1,0 +1,28 @@
+AUD_WestpacLeadingIndex;20220817;00:30;Westpac Leading Index (MoM);Australia;AUD;1
+AUD_WagePriceIndex;20220817;01:30;Wage Price Index (QoQ);Australia;AUD;2
+NZD_RBNZRateStatement;20220817;02:00;RBNZ Rate Statement;New Zealand;NZD;3
+NZD_RBNZInterestRateDecision;20220817;02:00;RBNZ Interest Rate Decision;New Zealand;NZD;3
+NZD_MonetaryPolicyStatement;20220817;02:00;Monetary Policy Statement ;New Zealand;NZD;3
+NZD_RBNZPressConference;20220817;03:00;RBNZ Press Conference;New Zealand;NZD;3
+GBP_RetailPriceIndex;20220817;06:00;Retail Price Index (MoM);United Kingdom;GBP;2
+GBP_PPICoreOutput;20220817;06:00;PPI Core Output (YoY) n.s.a ;United Kingdom;GBP;2
+GBP_ProducerPriceIndex;20220817;06:00;Producer Price Index - Input (MoM) n.s.a;United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20220817;06:00;Core Consumer Price Index (YoY);United Kingdom;GBP;2
+RON_GrossDomesticProduct;20220817;06:00;Gross Domestic Product;Romania;RON;1
+CNY_FDIForeignDirectInvestment;20220817;07:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+HUF_GrossDomesticProduct;20220817;07:00;Gross Domestic Product (YoY);Hungary;HUF;1
+PLN_GrossDomesticProduct;20220817;08:00;Gross Domestic Product Qtr (YoY);Poland;PLN;1
+GBP_DCLGHousePriceIndex;20220817;08:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+EUR_EurGrossDomesticProduct;20220817;09:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+EUR_EurEmploymentChange;20220817;09:00;Employment Change (YoY);European Monetary Union;EUR;1
+USD_MBAMortgageApplications;20220817;11:00;MBA Mortgage Applications;United States;USD;1
+ZAR_RetailSales;20220817;11:00;Retail Sales (YoY);South Africa;ZAR;1
+USD_RetailSales;20220817;12:30;Retail Sales ex Autos (MoM);United States;USD;2
+USD_BusinessInventories;20220817;14:00;Business Inventories;United States;USD;1
+USD_EIACrudeOilStocksChange;20220817;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+RUB_ProducerPriceIndex;20220817;16:00;Producer Price Index (YoY);Russia;RUB;1
+USD_Auction;20220817;17:00;20-Year Bond Auction;United States;USD;1
+USD_FOMCMinutes;20220817;18:00;FOMC Minutes;United States;USD;3
+USD_CentralBankSpeech;20220817;18:20;Fed Bowman speech;United States;USD;2
+JPY_ForeignBondInvestment;20220817;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20220817;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1

@@ -1,0 +1,23 @@
+AUD_RBATrimmedMeanCPI;20210428;01:30;RBA Trimmed Mean CPI (QoQ);Australia;AUD;3
+AUD_ConsumerPriceIndex;20210428;01:30;Consumer Price Index (YoY);Australia;AUD;2
+DKK_IndustrialOutlook;20210428;06:00;Industrial Outlook;Denmark;DKK;1
+EUR_GerGfkConsumerConfidenceSurvey;20210428;06:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+NOK_RetailSales;20210428;06:00;Retail Sales ;Norway;NOK;1
+EUR_FraConsumerConfidence;20210428;06:45;Consumer Confidence;France;EUR;1
+HUF_UnemploymentRate;20210428;07:00;Unemployment Rate (3M);Hungary;HUF;1
+SEK_RetailSales;20210428;07:30;Retail Sales (YoY);Sweden;SEK;1
+CHF_ZEWSurvey–Expectations;20210428;08:00;ZEW Survey – Expectations;Switzerland;CHF;2
+USD_MBAMortgageApplications;20210428;11:00;MBA Mortgage Applications;United States;USD;1
+USD_WholesaleInventories;20210428;12:30;Wholesale Inventories;United States;USD;1
+USD_GoodsTradeBalance;20210428;12:30;Goods Trade Balance;United States;USD;1
+CAD_RetailSales;20210428;12:30;Retail Sales ex Autos (MoM);Canada;CAD;2
+EUR_EurCentralBankSpeech;20210428;14:00;ECB President Lagarde speech;European Monetary Union;EUR;3
+USD_EIACrudeOilStocksChange;20210428;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+JPY_ShowaDay;20210428;15:00;Showa Day;Japan;JPY;0
+USD_FedMonetaryPolicyStatement;20210428;18:00;Fed Monetary Policy Statement;United States;USD;3
+USD_FedInterestRateDecision;20210428;18:00;Fed Interest Rate Decision;United States;USD;3
+USD_FOMCPressConference;20210428;18:30;FOMC Press Conference;United States;USD;3
+KRW_BOKManufacturingBSI;20210428;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+NZD_TradeBalanceNZD;20210428;22:45;Trade Balance NZD (YoY);New Zealand;NZD;2
+NZD_Exports;20210428;22:45;Exports;New Zealand;NZD;2
+NZD_Imports;20210428;22:45;Imports;New Zealand;NZD;2

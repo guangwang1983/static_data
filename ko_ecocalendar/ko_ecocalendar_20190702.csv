@@ -1,0 +1,28 @@
+AUD_HIANewHomeSales;20190702;01:00;HIA New Home Sales (MoM);Australia;AUD;2
+JPY_Auction;20190702;03:45;10-y Bond Auction;Japan;JPY;1
+AUD_RBAInterestRateDecision;20190702;04:30;RBA Interest Rate Decision;Australia;AUD;3
+AUD_RBARateStatement;20190702;04:30;RBA Rate Statement;Australia;AUD;3
+GBP_NationwideHousingPrices;20190702;06:00;Nationwide Housing Prices s.a (MoM);United Kingdom;GBP;1
+EUR_GerRetailSales;20190702;06:00;Retail Sales (YoY);Germany;EUR;1
+EUR_FraBudgetBalance;20190702;06:45;Budget Balance;France;EUR;1
+HUF_TradeBalance;20190702;07:00;Trade Balance;Hungary;HUF;1
+TRY_Exports;20190702;08:00;Exports;Turkey;TRY;1
+GBP_S&PGlobalConstructionPMI;20190702;08:30;S&P Global Construction PMI;United Kingdom;GBP;1
+EUR_EurProducerPriceIndex;20190702;09:00;Producer Price Index (MoM);European Monetary Union;EUR;1
+AUD_CentralBankSpeech;20190702;09:30;RBA Governor Lowe speech;Australia;AUD;3
+BRL_IndustrialOutput;20190702;12:00;Industrial Output (MoM);Brazil;BRL;1
+USD_RedbookIndex;20190702;12:55;Redbook Index (YoY);United States;USD;1
+CAD_S&PGlobalManufacturingPMI;20190702;13:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_ISMNYBusinessConditionsIndex;20190702;13:45;ISM-NY Business Conditions Index;United States;USD;1
+USD_IBDTIPPEconomicOptimism;20190702;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+GBP_CentralBankSpeech;20190702;14:05;BoE Governor Carney speech;United Kingdom;GBP;3
+NZD_GDTPriceIndex;20190702;14:28;GDT Price Index;New Zealand;NZD;2
+DKK_CurrencyReserves;20190702;15:00;Currency Reserves;Denmark;DKK;1
+USD_CentralBankSpeech;20190702;15:00;Fed Mester speech;United States;USD;2
+USD_TotalVehicleSales;20190702;19:30;Total Vehicle Sales;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20190702;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_FXReserves;20190702;21:00;FX Reserves;South Korea;KRW;1
+AUD_AiGPerformanceofServicesIndex;20190702;22:30;AiG Performance of Services Index;Australia;AUD;1
+GBP_BRCShopPriceIndex;20190702;23:00;BRC Shop Price Index (YoY);United Kingdom;GBP;1
+AUD_S&PGlobalServicesPMI;20190702;23:00;S&P Global Services PMI;Australia;AUD;1
+AUD_S&PGlobalCompositePMI;20190702;23:00;S&P Global Composite PMI;Australia;AUD;1

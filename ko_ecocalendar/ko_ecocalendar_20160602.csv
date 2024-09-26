@@ -1,0 +1,27 @@
+EUR_ItaRepublicDay;20160602;00:00;Republic Day;Italy;EUR;0
+USD_OPECMeeting;20160602;00:00;OPEC Meeting;United States;USD;1
+AUD_RetailSales;20160602;01:30;Retail Sales s.a. (MoM);Australia;AUD;2
+AUD_TradeBalance;20160602;01:30;Trade Balance (MoM);Australia;AUD;2
+AUD_Imports;20160602;01:30;Imports (MoM);Australia;AUD;2
+AUD_Exports;20160602;01:30;Exports (MoM);Australia;AUD;2
+JPY_VehicleSales;20160602;05:00;Vehicle Sales (YoY);Japan;JPY;1
+JPY_ConsumerConfidenceIndex;20160602;05:00;Consumer Confidence Index;Japan;JPY;1
+HUF_TradeBalance;20160602;07:00;Trade Balance;Hungary;HUF;1
+SEK_CurrentAccount;20160602;07:30;Current Account (QoQ);Sweden;SEK;1
+GBP_S&PGlobalConstructionPMI;20160602;08:30;S&P Global Construction PMI;United Kingdom;GBP;2
+EUR_EurProducerPriceIndex;20160602;09:00;Producer Price Index (MoM);European Monetary Union;EUR;1
+EUR_FraAuction;20160602;09:04;10-y Bond Auction;France;EUR;1
+USD_ChallengerJobCuts;20160602;11:30;Challenger Job Cuts;United States;USD;1
+EUR_EurECBRateOnMainRefinancingOperations;20160602;11:45;ECB Rate On Main Refinancing Operations;European Monetary Union;EUR;3
+EUR_EurECBRateOnDepositFacility;20160602;11:45;ECB Rate On Deposit Facility;European Monetary Union;EUR;3
+BRL_IndustrialOutput;20160602;12:00;Industrial Output (YoY);Brazil;BRL;1
+USD_ADPEmploymentChange;20160602;12:15;ADP Employment Change;United States;USD;2
+USD_JoblessClaims;20160602;12:30;Initial Jobless Claims;United States;USD;2
+EUR_EurECBPressConference;20160602;12:30;ECB Press Conference;European Monetary Union;EUR;3
+USD_CentralBankSpeech;20160602;12:35;FOMC Member Powell speech (don't use);United States;USD;1
+GBP_CentralBankSpeech;20160602;13:00;BoE Governor Carney speech;United Kingdom;GBP;3
+USD_ISMNYBusinessConditionsIndex;20160602;13:45;ISM-NY Business Conditions Index;United States;USD;1
+DKK_CurrencyReserves;20160602;14:00;Currency Reserves;Denmark;DKK;1
+USD_EIANaturalGasStorageChange;20160602;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_EIACrudeOilStocksChange;20160602;15:00;EIA Crude Oil Stocks Change;United States;USD;1
+AUD_AiGPerformanceofServicesIndex;20160602;23:30;AiG Performance of Services Index;Australia;AUD;1

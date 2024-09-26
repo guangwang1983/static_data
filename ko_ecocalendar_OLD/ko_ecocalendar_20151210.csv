@@ -1,0 +1,65 @@
+PEN_Interestratedecision;20151210;23:00;Interest rate decision;Peru;PEN;1
+NZD_FoodPriceIndex;20151210;21:45;Food Price Index (MoM);New Zealand;NZD;1
+NZD_BusinessNZPMI;20151210;21:35;Business NZ PMI;New Zealand;NZD;2
+KRW_ImportPriceGrowth;20151210;21:00;Import Price Growth (YoY);South Korea;KRW;1
+KRW_ExportPriceGrowth;20151210;21:00;Export Price Growth (YoY);South Korea;KRW;1
+USD_MonthlyBudgetStatement;20151210;19:00;Monthly Budget Statement;United States;USD;2
+GBP_CentralBankSpeech;20151210;18:30;BoE Governor Carney speech;United Kingdom;GBP;3
+USD_Auction;20151210;18:00;30-Year Bond Auction;United States;USD;1
+EUR_GerCentralBankSpeech;20151210;18:00;German Buba President Weidmann speech;Germany;EUR;2
+USD_EIANaturalGasStorageChange;20151210;15:30;EIA Natural Gas Storage Change;United States;USD;1
+COP_GrossDomesticProduct;20151210;14:00;Gross Domestic Product (YoY);Colombia;COP;1
+USD_JoblessClaims;20151210;13:30;Initial Jobless Claims;United States;USD;2
+USD_ImportPriceIndex;20151210;13:30;Import Price Index (MoM);United States;USD;1
+USD_ExportPriceIndex;20151210;13:30;Export Price Index (MoM);United States;USD;1
+CAD_CapacityUtilization;20151210;13:30;Capacity Utilization;Canada;CAD;1
+CAD_NewHousingPriceIndex;20151210;13:30;New Housing Price Index (YoY);Canada;CAD;1
+RUB_GrossDomesticProduct;20151210;13:00;Gross Domestic Product Quarterly (YoY);Russia;RUB;1
+GBP_BoEAssetPurchaseFacility;20151210;12:00;BoE Asset Purchase Facility;United Kingdom;GBP;3
+GBP_BoEInterestRateDecision;20151210;12:00;BoE Interest Rate Decision;United Kingdom;GBP;3
+GBP_MonetaryPolicySummary;20151210;12:00;Monetary Policy Summary;United Kingdom;GBP;3
+GBP_BoEMPCVoteCut;20151210;12:00;BoE MPC Vote Cut;United Kingdom;GBP;3
+GBP_BoEMPCVoteUnchanged;20151210;12:00;BoE MPC Vote Unchanged;United Kingdom;GBP;3
+GBP_BankofEnglandMinutes;20151210;12:00;Bank of England Minutes;United Kingdom;GBP;2
+GBP_BoEMPCVoteHike;20151210;12:00;BoE MPC Vote Hike;United Kingdom;GBP;3
+EUR_IreHICP;20151210;11:00;HICP (YoY);Ireland;EUR;1
+EUR_IreConsumerPriceIndex;20151210;11:00;Consumer Price Index (YoY);Ireland;EUR;1
+RUB_CentralBankReserves;20151210;11:00;Central Bank Reserves $;Russia;RUB;1
+EUR_GreIndustrialProduction;20151210;10:00;Industrial Production (YoY);Greece;EUR;1
+EUR_PorGlobalTradeBalance;20151210;10:00;Global Trade Balance;Portugal;EUR;1
+EUR_GreConsumerPriceIndex;20151210;10:00;Consumer Price Index (YoY);Greece;EUR;1
+EUR_GreUnemploymentRate;20151210;10:00;Unemployment Rate (MoM);Greece;EUR;1
+GBP_GoodsTradeBalance;20151210;09:30;Goods Trade Balance;United Kingdom;GBP;2
+GBP_TradeBalancenonEU;20151210;09:30;Trade Balance non-EU;United Kingdom;GBP;2
+GBP_TotalTradeBalance;20151210;09:30;Total Trade Balance;United Kingdom;GBP;2
+NOK_ConsumerPriceIndex;20151210;09:00;Consumer Price Index (YoY);Norway;NOK;1
+NOK_CoreInflation;20151210;09:00;Core Inflation (MoM);Norway;NOK;1
+NOK_ProducerPriceIndex;20151210;09:00;Producer Price Index (YoY);Norway;NOK;1
+CHF_SNBInterestRateDecision;20151210;08:30;SNB Interest Rate Decision;Switzerland;CHF;3
+CHF_SNBPressConference;20151210;08:30;SNB Press Conference;Switzerland;CHF;3
+SEK_ConsumerPriceIndex;20151210;08:30;Consumer Price Index (YoY);Sweden;SEK;1
+EUR_NetManufacturingOutput;20151210;08:30;Manufacturing Output (MoM);Netherlands, The;EUR;1
+EUR_NetConsumerPriceIndex;20151210;08:30;Consumer Price Index n.s.a (YoY);Netherlands, The;EUR;1
+EUR_SloIndustrialOutput;20151210;08:00;Industrial Output (YoY);Slovakia;EUR;1
+DKK_ConsumerPriceIndex;20151210;08:00;Consumer Price Index (YoY);Denmark;DKK;1
+DKK_Inflation;20151210;08:00;Inflation (HICP) (YoY);Denmark;DKK;1
+TRY_GrossDomesticProduct;20151210;08:00;Quarterly Gross Domestic Product;Turkey;TRY;1
+EUR_IreGrossDomesticProduct;20151210;08:00;Gross Domestic Product (QoQ);Ireland;EUR;1
+TRY_CurrentAccount;20151210;08:00;Current Account Balance;Turkey;TRY;1
+HUF_TradeBalance;20151210;08:00;Trade Balance;Hungary;HUF;1
+EUR_FraConsumerPriceIndex;20151210;07:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraIndustrialOutput;20151210;07:45;Industrial Output (MoM);France;EUR;1
+EUR_FraInflationextobacco;20151210;07:45;Inflation ex-tobacco (MoM);France;EUR;1
+RON_TradeBalance;20151210;07:00;Trade Balance;Romania;RON;1
+EUR_FinIndustrialOutput;20151210;07:00;Industrial Output (MoM);Finland;EUR;1
+EUR_FraNonfarmPayrolls;20151210;06:30;Nonfarm Payrolls (QoQ);France;EUR;1
+KRW_BoKInterestRateDecision;20151210;01:50;BoK Interest Rate Decision;South Korea;KRW;1
+AUD_PartTimeEmployment;20151210;00:30;Part-Time Employment;Australia;AUD;1
+AUD_UnemploymentRate;20151210;00:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_FulltimeEmployment;20151210;00:30;Fulltime Employment;Australia;AUD;2
+AUD_EmploymentChange;20151210;00:30;Employment Change s.a.;Australia;AUD;3
+AUD_ParticipationRate;20151210;00:30;Participation Rate;Australia;AUD;3
+NZD_CentralBankSpeech;20151210;00:10;RBNZ Governor Wheeler Speech;New Zealand;NZD;2
+GBP_RICSHousingPriceBalance;20151210;00:01;RICS Housing Price Balance;United Kingdom;GBP;2
+AUD_CentralBankSpeech;20151210;00:00;RBA Governor Stevens speech;Australia;AUD;3
+AUD_ConsumerInflationExpectations;20151210;00:00;Consumer Inflation Expectations;Australia;AUD;2

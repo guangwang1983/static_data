@@ -1,0 +1,40 @@
+HUF_RepublicDay;20180316;00:00;Republic Day ;Hungary;HUF;0
+CNY_FDIForeignDirectInvestment;20180316;02:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+JPY_IndustrialProduction;20180316;04:30;Industrial Production (YoY);Japan;JPY;1
+JPY_CapacityUtilization;20180316;04:30;Capacity Utilization;Japan;JPY;1
+NOK_TradeBalance;20180316;07:00;Trade Balance;Norway;NOK;1
+TRY_IndustrialProduction;20180316;07:00;Industrial Production (YoY);Turkey;TRY;1
+EUR_GerWholesalePriceIndex;20180316;07:00;Wholesale Price Index (MoM);Germany;EUR;1
+CZK_ProducerPriceIndex;20180316;08:00;Producer Price Index (YoY);Czech Republic;CZK;1
+EUR_ItaConsumerPriceIndex;20180316;09:00;Consumer Price Index (YoY);Italy;EUR;1
+PLN_CorporateSectorWages;20180316;09:00;Corporate Sector Wages;Poland;PLN;1
+CZK_CurrentAccount;20180316;09:00;Current Account (MoM);Czech Republic;CZK;1
+EUR_EurLaborCost;20180316;10:00;Labor Cost;European Monetary Union;EUR;2
+EUR_EurHarmonizedIndexofConsumerPrices;20180316;10:00;Harmonized Index of Consumer Prices (MoM);European Monetary Union;EUR;2
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20180316;10:00;Core Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+INR_TradeDeficit–RBI;20180316;11:30;Trade Deficit – RBI;India;INR;1
+INR_BalancePayment;20180316;11:30;Balance Payment $;India;INR;1
+INR_BankLoanGrowth;20180316;11:30;Bank Loan Growth;India;INR;1
+INR_CurrentAccount;20180316;11:30;Current Account Balance $;India;INR;1
+INR_FXReservesUSD;20180316;11:30;FX Reserves, USD;India;INR;1
+USD_BuildingPermitsChange;20180316;12:30;Building Permits Change;United States;USD;1
+USD_HousingStarts;20180316;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20180316;12:30;Building Permits (MoM);United States;USD;2
+USD_HousingStartsChange;20180316;12:30;Housing Starts Change;United States;USD;1
+CAD_ManufacturingSales;20180316;12:30;Manufacturing Sales (MoM);Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20180316;12:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20180316;12:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+PLN_NetInflation;20180316;13:00;Net Inflation;Poland;PLN;1
+PLN_CurrentAccount;20180316;13:00;Current Account;Poland;PLN;1
+USD_IndustrialProduction;20180316;13:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20180316;13:15;Capacity Utilization;United States;USD;2
+USD_JOLTSJobOpenings;20180316;14:00;JOLTS Job Openings;United States;USD;1
+USD_MichiganConsumerSentimentIndex;20180316;14:00;Michigan Consumer Sentiment Index;United States;USD;2
+USD_BakerHughesUSOilRigCount;20180316;17:00;Baker Hughes US Oil Rig Count;United States;USD;2
+EUR_EurCFTCEURNCNetPositions;20180316;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20180316;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+GBP_CFTCGBPNCNetPositions;20180316;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20180316;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20180316;19:30;CFTC Oil NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20180316;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCS&P500NCNetPositions;20180316;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1

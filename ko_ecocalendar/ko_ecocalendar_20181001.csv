@@ -1,0 +1,53 @@
+AUD_LabourDay;20181001;00:00;Labour Day;Australia;AUD;0
+AUD_QueenBirthday;20181001;00:00;Queen Birthday;Australia;AUD;0
+EUR_EurEurogroupMeeting;20181001;00:00;Eurogroup Meeting;European Monetary Union;EUR;2
+KRW_TradeBalance;20181001;00:00;Trade Balance;South Korea;KRW;1
+CNY_NationalDay;20181001;00:00;National Day;China;CNY;0
+KRW_S&PGlobalManufacturingPMI;20181001;00:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+JPY_JibunBankManufacturingPMI;20181001;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+AUD_TDSecuritiesInflation;20181001;01:00;TD Securities Inflation (MoM);Australia;AUD;2
+IDR_CoreInflation;20181001;04:00;Core Inflation (YoY);Indonesia;IDR;1
+IDR_Inflation;20181001;04:00;Inflation (YoY);Indonesia;IDR;1
+JPY_VehicleSales;20181001;05:00;Vehicle Sales (YoY);Japan;JPY;1
+RUB_S&PGlobalManufacturingPMI;20181001;06:00;S&P Global Manufacturing PMI;Russia;RUB;1
+EUR_GerRetailSales;20181001;06:00;Retail Sales (MoM);Germany;EUR;2
+SEK_PurchasingManagersIndexManufacturing;20181001;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+HUF_PurchasingManagerIndex;20181001;07:00;Purchasing Manager Index;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20181001;07:00;Purchasing Manager Index;Poland;PLN;2
+CHF_RetailSales;20181001;07:15;Real Retail Sales (YoY);Switzerland;CHF;2
+CHF_SVMEPurchasingManagers'Index;20181001;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_S&PGlobalPMI;20181001;07:30;S&P Global PMI;Czech Republic;CZK;1
+EUR_ItaHCOBManufacturingPMI;20181001;07:45;HCOB Manufacturing PMI;Italy;EUR;1
+EUR_FraHCOBManufacturingPMI;20181001;07:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerHCOBManufacturingPMI;20181001;07:55;HCOB Manufacturing PMI;Germany;EUR;2
+PLN_ConsumerPriceIndex;20181001;08:00;Consumer Price Index (YoY);Poland;PLN;1
+TRY_Exports;20181001;08:00;Exports;Turkey;TRY;1
+EUR_ItaUnemployment;20181001;08:00;Unemployment;Italy;EUR;1
+EUR_EurHCOBManufacturingPMI;20181001;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+GBP_NetLendingtoIndividuals;20181001;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20181001;08:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20181001;08:30;Mortgage Approvals;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSManufacturingPMI;20181001;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+GBP_M4MoneySupply;20181001;08:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+EUR_EurUnemploymentRate;20181001;09:00;Unemployment Rate;European Monetary Union;EUR;2
+INR_InfrastructureOutput;20181001;11:30;Infrastructure Output (YoY);India;INR;1
+ZAR_TotalNewVehicleSales;20181001;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+CZK_BudgetBalance;20181001;12:00;Budget Balance;Czech Republic;CZK;1
+BRL_S&PGlobalManufacturingPMI;20181001;13:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+CAD_S&PGlobalManufacturingPMI;20181001;13:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20181001;13:45;S&P Global Manufacturing PMI;United States;USD;1
+USD_ISMManufacturingEmploymentIndex;20181001;14:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ISMManufacturingNewOrdersIndex;20181001;14:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ISMManufacturingPMI;20181001;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20181001;14:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ConstructionSpending;20181001;14:00;Construction Spending (MoM);United States;USD;1
+USD_Auction;20181001;15:30;6-Month Bill Auction;United States;USD;1
+USD_CentralBankSpeech;20181001;16:15;Fed Rosengren speech;United States;USD;2
+CAD_CentralBankSpeech;20181001;17:00;BoC Lane speech;Canada;CAD;2
+BRL_TradeBalance;20181001;19:00;Trade Balance;Brazil;BRL;1
+NZD_NZIERBusinessConfidence;20181001;21:00;NZIER Business Confidence (QoQ);New Zealand;NZD;2
+KRW_BOKManufacturingBSI;20181001;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+KRW_IndustrialOutputGrowth;20181001;23:00;Industrial Output Growth;South Korea;KRW;1
+KRW_IndustrialOutput;20181001;23:00;Industrial Output (YoY);South Korea;KRW;1
+KRW_ServiceSectorOutput;20181001;23:00;Service Sector Output;South Korea;KRW;1
+JPY_MonetaryBase;20181001;23:50;Monetary Base (YoY);Japan;JPY;1

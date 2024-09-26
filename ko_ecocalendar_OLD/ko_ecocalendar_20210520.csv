@@ -1,0 +1,38 @@
+JPY_NationalCPIexFoodEnergy;20210520;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20210520;23:30;National Consumer Price Index (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20210520;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+GBP_GfKConsumerConfidence;20210520;23:01;GfK Consumer Confidence;United Kingdom;GBP;2
+AUD_CommonwealthBankCompositePMI;20210520;23:00;Commonwealth Bank Composite PMI;Australia;AUD;1
+AUD_CommonwealthBankServicesPMI;20210520;23:00;Commonwealth Bank Services PMI;Australia;AUD;2
+AUD_CommonwealthBankManufacturingPMI;20210520;23:00;Commonwealth Bank Manufacturing PMI;Australia;AUD;2
+KRW_ProducerPriceIndex;20210520;21:00;Producer Price Index Growth (MoM);South Korea;KRW;1
+USD_Auction;20210520;15:30;4-Week Bill Auction;United States;USD;1
+USD_EIANaturalGasStorageChange;20210520;14:30;EIA Natural Gas Storage Change;United States;USD;1
+CAD_FinancialSystemReview;20210520;14:00;Financial System Review;Canada;CAD;1
+RUB_CentralBankReserves;20210520;13:00;Central Bank Reserves $;Russia;RUB;1
+ZAR_SARBInterestRateDecision;20210520;13:00;SARB Interest Rate Decision;South Africa;ZAR;1
+USD_JoblessClaims;20210520;12:30;Continuing Jobless Claims;United States;USD;1
+CAD_ADPEmploymentChange;20210520;12:30;ADP Employment Change;Canada;CAD;1
+CAD_EmploymentInsuranceBeneficiariesChange;20210520;12:30;Employment Insurance Beneficiaries Change (MoM);Canada;CAD;1
+CAD_NewHousingPriceIndex;20210520;12:30;New Housing Price Index (YoY);Canada;CAD;1
+USD_PhiladelphiaFedManufacturingSurvey;20210520;12:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+EUR_EurCentralBankSpeech;20210520;12:00;ECB President Lagarde speech;European Monetary Union;EUR;3
+GBP_CentralBankSpeech;20210520;09:05;BoE Cunliffe speech;United Kingdom;GBP;2
+EUR_EurConstructionOutput;20210520;09:00;Construction Output w.d.a (YoY);European Monetary Union;EUR;1
+EUR_SpaAuction;20210520;08:40;10-y Obligaciones Auction;Spain;EUR;1
+HKD_Unemploymentrate;20210520;08:30;Unemployment rate;Hong Kong SAR;HKD;1
+EUR_EurCurrentAccount;20210520;08:00;Current Account n.s.a;European Monetary Union;EUR;1
+PLN_CorporateSectorWages;20210520;08:00;Corporate Sector Wages;Poland;PLN;1
+EUR_GerProducerPriceIndex;20210520;06:00;Producer Price Index (MoM);Germany;EUR;2
+EUR_NetUnemploymentRate;20210520;04:30;Unemployment Rate s.a (3M);Netherlands, The;EUR;1
+IDR_TradeBalance;20210520;04:00;Trade Balance;Indonesia;IDR;1
+IDR_Exports;20210520;04:00;Exports;Indonesia;IDR;1
+IDR_Imports;20210520;04:00;Imports;Indonesia;IDR;1
+NZD_BudgetRelease;20210520;02:00;Budget Release;New Zealand;NZD;3
+CNY_PBoCInterestRateDecision;20210520;01:30;PBoC Interest Rate Decision;China;CNY;3
+AUD_EmploymentChange;20210520;01:30;Employment Change s.a.;Australia;AUD;3
+AUD_PartTimeEmployment;20210520;01:30;Part-Time Employment;Australia;AUD;1
+AUD_FulltimeEmployment;20210520;01:30;Fulltime Employment;Australia;AUD;2
+AUD_UnemploymentRate;20210520;01:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_ParticipationRate;20210520;01:30;Participation Rate;Australia;AUD;1
+AUD_ConsumerInflationExpectations;20210520;01:00;Consumer Inflation Expectations;Australia;AUD;2

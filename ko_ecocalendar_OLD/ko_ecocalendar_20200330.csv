@@ -1,0 +1,40 @@
+JPY_IndustrialProduction;20200330;23:50;Industrial Production (MoM);Japan;JPY;1
+JPY_RetailTrade;20200330;23:50;Retail Trade (YoY);Japan;JPY;2
+JPY_LargeRetailers'Sales;20200330;23:50;Large Retailers' Sales;Japan;JPY;2
+JPY_JobsApplicantsRatio;20200330;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+JPY_UnemploymentRate;20200330;23:30;Unemployment Rate;Japan;JPY;2
+GBP_GfKConsumerConfidence;20200330;23:01;GfK Consumer Confidence;United Kingdom;GBP;2
+KRW_IndustrialOutputGrowth;20200330;23:00;Industrial Output Growth;South Korea;KRW;1
+KRW_IndustrialOutput;20200330;23:00;Industrial Output (YoY);South Korea;KRW;1
+KRW_ServiceSectorOutput;20200330;23:00;Service Sector Output;South Korea;KRW;1
+NZD_BuildingPermits;20200330;21:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+KRW_BOKManufacturingBSI;20200330;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+MXN_FiscalBalancepesos;20200330;21:00;Fiscal Balance, pesos;Mexico;MXN;1
+USD_Auction;20200330;15:30;3-Month Bill Auction;United States;USD;1
+USD_DallasFedManufacturingBusinessIndex;20200330;14:30;Dallas Fed Manufacturing Business Index;United States;USD;2
+USD_PendingHomeSales;20200330;14:00;Pending Home Sales (YoY);United States;USD;1
+EUR_GerConsumerPriceIndex;20200330;12:00;Consumer Price Index (YoY);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20200330;12:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+BRL_InflationIndexIGPM;20200330;11:00;Inflation Index/IGP-M;Brazil;BRL;1
+EUR_BelConsumerPriceIndex;20200330;10:30;Consumer Price Index (MoM);Belgium;EUR;1
+EUR_GreProducerPriceIndex;20200330;10:00;Producer Price Index (YoY);Greece;EUR;1
+EUR_EurIndustrialConfidence;20200330;09:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_EurEconomicSentimentIndicator;20200330;09:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+EUR_EurBusinessClimate;20200330;09:00;Business Climate;European Monetary Union;EUR;2
+EUR_EurServicesSentiment;20200330;09:00;Services Sentiment;European Monetary Union;EUR;1
+EUR_EurConsumerConfidence;20200330;09:00;Consumer Confidence;European Monetary Union;EUR;1
+EUR_PorConsumerConfidence;20200330;08:30;Consumer Confidence;Portugal;EUR;1
+EUR_PorBusinessConfidence;20200330;08:30;Business Confidence;Portugal;EUR;1
+GBP_NetLendingtoIndividuals;20200330;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20200330;08:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20200330;08:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_M4MoneySupply;20200330;08:30;M4 Money Supply (MoM);United Kingdom;GBP;1
+EUR_AusProducerPriceIndex;20200330;08:00;Producer Price Index (MoM);Austria;EUR;1
+CHF_KOFLeadingIndicator;20200330;07:00;KOF Leading Indicator;Switzerland;CHF;2
+EUR_SpaHICP;20200330;07:00;HICP (MoM);Spain;EUR;1
+EUR_SpaConsumerPriceIndex;20200330;07:00;Consumer Price Index (YoY);Spain;EUR;1
+EUR_SpaRetailSales;20200330;07:00;Retail Sales (YoY);Spain;EUR;1
+DKK_IndustrialOutlook;20200330;06:00;Industrial Outlook;Denmark;DKK;1
+GBP_NationwideHousingPrices;20200330;06:00;Nationwide Housing Prices s.a (MoM);United Kingdom;GBP;1
+ZAR_M3MoneySupply;20200330;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+ZAR_PrivateSectorCredit;20200330;06:00;Private Sector Credit;South Africa;ZAR;1

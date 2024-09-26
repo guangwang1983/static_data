@@ -1,0 +1,62 @@
+KRW_TradeBalance;20200901;00:00;Trade Balance;South Korea;KRW;1
+KRW_S&PGlobalManufacturingPMI;20200901;00:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+JPY_JibunBankManufacturingPMI;20200901;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+AUD_CurrentAccount;20200901;01:30;Current Account Balance;Australia;AUD;1
+AUD_BuildingPermits;20200901;01:30;Building Permits (YoY);Australia;AUD;1
+CNY_CaixinManufacturingPMI;20200901;01:45;Caixin Manufacturing PMI;China;CNY;2
+JPY_Auction;20200901;03:35;10-y Bond Auction;Japan;JPY;1
+IDR_CoreInflation;20200901;04:00;Core Inflation (YoY);Indonesia;IDR;1
+IDR_Inflation;20200901;04:00;Inflation (YoY);Indonesia;IDR;1
+AUD_RBARateStatement;20200901;04:30;RBA Rate Statement;Australia;AUD;3
+AUD_RBAInterestRateDecision;20200901;04:30;RBA Interest Rate Decision;Australia;AUD;3
+RUB_S&PGlobalManufacturingPMI;20200901;06:00;S&P Global Manufacturing PMI;Russia;RUB;1
+AUD_RBACommodityIndexSDR;20200901;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+SEK_PurchasingManagersIndexManufacturing;20200901;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+HUF_PurchasingManagerIndex;20200901;07:00;Purchasing Manager Index;Hungary;HUF;1
+CZK_GrossDomesticProduct;20200901;07:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+HUF_TradeBalance;20200901;07:00;Trade Balance;Hungary;HUF;1
+HUF_GrossDomesticProduct;20200901;07:00;Gross Domestic Product (YoY);Hungary;HUF;1
+PLN_PurchasingManagerIndex;20200901;07:00;Purchasing Manager Index;Poland;PLN;2
+CHF_SVMEPurchasingManagers'Index;20200901;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_S&PGlobalPMI;20200901;07:30;S&P Global PMI;Czech Republic;CZK;1
+EUR_ItaHCOBManufacturingPMI;20200901;07:45;HCOB Manufacturing PMI;Italy;EUR;2
+EUR_FraHCOBManufacturingPMI;20200901;07:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerUnemploymentChange;20200901;07:55;Unemployment Change;Germany;EUR;2
+EUR_GerUnemploymentRate;20200901;07:55;Unemployment Rate s.a.;Germany;EUR;2
+EUR_GerHCOBManufacturingPMI;20200901;07:55;HCOB Manufacturing PMI;Germany;EUR;2
+PLN_ConsumerPriceIndex;20200901;08:00;Consumer Price Index (YoY);Poland;PLN;1
+EUR_ItaUnemployment;20200901;08:00;Unemployment;Italy;EUR;1
+EUR_EurHCOBManufacturingPMI;20200901;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;1
+GBP_NetLendingtoIndividuals;20200901;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20200901;08:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20200901;08:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_S&PGlobalCIPSManufacturingPMI;20200901;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+GBP_M4MoneySupply;20200901;08:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+EUR_EurUnemploymentRate;20200901;09:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20200901;09:00;Core Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_EurHarmonizedIndexofConsumerPrices;20200901;09:00;Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+DKK_ManufacturingPMI;20200901;09:00;Manufacturing PMI;Denmark;DKK;1
+BRL_TradeBalance;20200901;10:00;Trade Balance;Brazil;BRL;1
+CLP_IMACEC;20200901;10:30;IMACEC;Chile;CLP;1
+ZAR_TotalNewVehicleSales;20200901;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+BRL_GrossDomesticProduct;20200901;12:00;Gross Domestic Product (QoQ);Brazil;BRL;1
+CZK_BudgetBalance;20200901;12:00;Budget Balance;Czech Republic;CZK;1
+USD_RedbookIndex;20200901;12:55;Redbook Index (YoY);United States;USD;1
+BRL_S&PGlobalManufacturingPMI;20200901;13:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+CAD_S&PGlobalManufacturingPMI;20200901;13:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20200901;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_ISMManufacturingEmploymentIndex;20200901;14:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ISMManufacturingNewOrdersIndex;20200901;14:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ISMManufacturingPMI;20200901;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20200901;14:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ConstructionSpending;20200901;14:00;Construction Spending (MoM);United States;USD;1
+NZD_GDTPriceIndex;20200901;15:00;GDT Price Index;New Zealand;NZD;2
+EUR_EurCentralBankSpeech;20200901;16:00;ECB Lane speech;European Monetary Union;EUR;2
+USD_CentralBankSpeech;20200901;17:00;Fed Brainard speech;United States;USD;2
+USD_TotalVehicleSales;20200901;19:30;Total Vehicle Sales;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20200901;20:30;API Weekly Crude Oil Stock;United States;USD;1
+CLP_BCCHInterestRate;20200901;21:00;BCCH Interest Rate;Chile;CLP;1
+NZD_TermsofTradeIndex;20200901;22:45;Terms of Trade Index;New Zealand;NZD;1
+KRW_ConsumerPriceIndex;20200901;23:00;Consumer Price Index Growth (MoM);South Korea;KRW;1
+GBP_BRCShopPriceIndex;20200901;23:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1
+JPY_MonetaryBase;20200901;23:50;Monetary Base (YoY);Japan;JPY;1

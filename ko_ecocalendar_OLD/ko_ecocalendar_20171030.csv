@@ -1,0 +1,47 @@
+JPY_IndustrialProduction;20171030;23:50;Industrial Production (MoM);Japan;JPY;1
+JPY_UnemploymentRate;20171030;23:30;Unemployment Rate;Japan;JPY;2
+JPY_JobsApplicantsRatio;20171030;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+JPY_OverallHouseholdSpending;20171030;23:30;Overall Household Spending (YoY);Japan;JPY;2
+KRW_IndustrialOutputGrowth;20171030;23:00;Industrial Output Growth;South Korea;KRW;1
+KRW_IndustrialOutput;20171030;23:00;Industrial Output (YoY);South Korea;KRW;1
+KRW_ServiceSectorOutput;20171030;23:00;Service Sector Output;South Korea;KRW;1
+NZD_BuildingPermits;20171030;21:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+KRW_BOKManufacturingBSI;20171030;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+MXN_FiscalBalancepesos;20171030;21:00;Fiscal Balance, pesos;Mexico;MXN;1
+USD_Auction;20171030;15:30;6-Month Bill Auction;United States;USD;1
+USD_DallasFedManufacturingBusinessIndex;20171030;14:30;Dallas Fed Manufacturing Business Index;United States;USD;2
+EUR_BelGrossDomesticProduct;20171030;13:00;Gross Domestic Product (QoQ);Belgium;EUR;1
+EUR_GerConsumerPriceIndex;20171030;13:00;Consumer Price Index (MoM);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20171030;13:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;1
+USD_PersonalConsumptionExpendituresPriceIndex;20171030;12:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;2
+USD_PersonalSpending;20171030;12:30;Personal Spending;United States;USD;2
+USD_CorePersonalConsumptionExpenditurePriceIndex;20171030;12:30;Core Personal Consumption Expenditure - Price Index (YoY);United States;USD;3
+USD_PersonalIncome;20171030;12:30;Personal Income (MoM);United States;USD;2
+CLP_IndustrialProduction;20171030;12:00;Industrial Production (YoY);Chile;CLP;1
+BRL_InflationIndexIGPM;20171030;11:00;Inflation Index/IGP-M;Brazil;BRL;1
+EUR_BelConsumerPriceIndex;20171030;11:00;Consumer Price Index (YoY);Belgium;EUR;1
+EUR_ItaAuction;20171030;10:45;10-y Bond Auction;Italy;EUR;1
+EUR_EurBusinessClimate;20171030;10:00;Business Climate;European Monetary Union;EUR;2
+EUR_EurConsumerConfidence;20171030;10:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurEconomicSentimentIndicator;20171030;10:00;Economic Sentiment Indicator;European Monetary Union;EUR;2
+EUR_EurIndustrialConfidence;20171030;10:00;Industrial Confidence;European Monetary Union;EUR;2
+EUR_EurServicesSentiment;20171030;10:00;Services Sentiment;European Monetary Union;EUR;2
+EUR_GreProducerPriceIndex;20171030;10:00;Producer Price Index (YoY);Greece;EUR;1
+EUR_PorBusinessConfidence;20171030;09:30;Business Confidence;Portugal;EUR;1
+EUR_PorConsumerConfidence;20171030;09:30;Consumer Confidence;Portugal;EUR;1
+GBP_NetLendingtoIndividuals;20171030;09:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20171030;09:30;Consumer Credit;United Kingdom;GBP;2
+GBP_MortgageApprovals;20171030;09:30;Mortgage Approvals;United Kingdom;GBP;2
+GBP_M4MoneySupply;20171030;09:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+EUR_AusPurchasingManagerIndex;20171030;09:00;Purchasing Manager Index;Austria;EUR;1
+CHF_KOFLeadingIndicator;20171030;08:00;KOF Leading Indicator;Switzerland;CHF;2
+EUR_SpaHICP;20171030;08:00;HICP (YoY);Spain;EUR;1
+DKK_IndustrialOutlook;20171030;08:00;Industrial Outlook;Denmark;DKK;1
+EUR_SpaGrossDomesticProduct;20171030;08:00;Gross Domestic Product - Estimated (YoY);Spain;EUR;1
+EUR_GerRetailSales;20171030;07:00;Retail Sales (YoY);Germany;EUR;2
+TRY_Economicconfidenceindex;20171030;07:00;Economic confidence index;Turkey;TRY;1
+NOK_RetailSales;20171030;07:00;Retail Sales ;Norway;NOK;1
+EUR_AusProducerPriceIndex;20171030;07:00;Producer Price Index (MoM);Austria;EUR;1
+ZAR_PrivateSectorCredit;20171030;06:00;Private Sector Credit;South Africa;ZAR;1
+ZAR_M3MoneySupply;20171030;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+EUR_IreOctoberHoliday;20171030;00:00;October Holiday (Halloween) ;Ireland;EUR;0

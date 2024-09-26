@@ -1,0 +1,52 @@
+AUD_HousePriceIndex;20210615;01:30;House Price Index (QoQ);Australia;AUD;2
+AUD_RBAMeetingMinutes;20210615;01:30;RBA Meeting Minutes;Australia;AUD;3
+KRW_TradeBalance;20210615;02:00;Trade Balance;South Korea;KRW;1
+KRW_MoneySupplyGrowth;20210615;03:00;Money Supply Growth;South Korea;KRW;1
+IDR_Exports;20210615;04:00;Exports;Indonesia;IDR;1
+IDR_TradeBalance;20210615;04:00;Trade Balance;Indonesia;IDR;1
+IDR_Imports;20210615;04:00;Imports;Indonesia;IDR;1
+JPY_TertiaryIndustryIndex;20210615;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+NOK_TradeBalance;20210615;06:00;Trade Balance;Norway;NOK;1
+GBP_ClaimantCountRate;20210615;06:00;Claimant Count Rate;United Kingdom;GBP;2
+GBP_AverageEarningsExcludingBonus;20210615;06:00;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountChange;20210615;06:00;Claimant Count Change;United Kingdom;GBP;3
+GBP_AverageEarningsIncludingBonus;20210615;06:00;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20210615;06:00;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+EUR_GerConsumerPriceIndex;20210615;06:00;Consumer Price Index (MoM);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20210615;06:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+EUR_FraConsumerPriceIndex;20210615;06:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraInflationextobacco;20210615;06:45;Inflation ex-tobacco (MoM);France;EUR;1
+ILS_M1MoneySupply;20210615;07:00;M1 Money Supply (MoM);Israel;ILS;1
+CHF_SECOEconomicForecasts;20210615;07:00;SECO Economic Forecasts;Switzerland;CHF;1
+PLN_ConsumerPriceIndex;20210615;08:00;Consumer Price Index (MoM);Poland;PLN;1
+TRY_BudgetBalance;20210615;08:00;Budget Balance;Turkey;TRY;1
+EUR_ItaConsumerPriceIndex;20210615;08:00;Consumer Price Index (MoM);Italy;EUR;1
+EUR_EurTradeBalance;20210615;09:00;Trade Balance s.a.;European Monetary Union;EUR;1
+GBP_Auction;20210615;10:40;30-y Bond Auction;United Kingdom;GBP;1
+INR_TradeDeficitGovernment;20210615;11:30;Trade Deficit Government;India;INR;1
+CAD_HousingStarts;20210615;12:15;Housing Starts s.a (YoY);Canada;CAD;1
+GBP_CentralBankSpeech;20210615;12:15;BoE Governor Bailey speech;United Kingdom;GBP;3
+USD_NYEmpireStateManufacturingIndex;20210615;12:30;NY Empire State Manufacturing Index;United States;USD;1
+USD_RetailSales;20210615;12:30;Retail Sales ex Autos (MoM);United States;USD;2
+USD_ProducerPriceIndex;20210615;12:30;Producer Price Index (MoM);United States;USD;1
+USD_RedbookIndex;20210615;12:55;Redbook Index (YoY);United States;USD;1
+USD_IndustrialProduction;20210615;13:15;Industrial Production (MoM);United States;USD;1
+USD_CapacityUtilization;20210615;13:15;Capacity Utilization;United States;USD;1
+EUR_EurCentralBankSpeech;20210615;13:50;ECB Panetta speech;European Monetary Union;EUR;2
+USD_BusinessInventories;20210615;14:00;Business Inventories;United States;USD;1
+USD_NAHBHousingMarketIndex;20210615;14:00;NAHB Housing Market Index;United States;USD;1
+NZD_GDTPriceIndex;20210615;14:35;GDT Price Index;New Zealand;NZD;1
+ILS_ConsumerPriceIndex;20210615;15:30;Consumer Price Index (YoY);Israel;ILS;1
+COP_RetailSales;20210615;16:00;Retail Sales (YoY);Colombia;COP;1
+COP_Industrialoutput;20210615;16:00;Industrial output (YoY);Colombia;COP;1
+USD_Auction;20210615;17:00;20-Year Bond Auction;United States;USD;1
+USD_TotalNetTICFlows;20210615;20:00;Total Net TIC Flows;United States;USD;1
+USD_NetLongTermTICFlows;20210615;20:00;Net Long-Term TIC Flows;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20210615;20:30;API Weekly Crude Oil Stock;United States;USD;1
+ZAR_YouthDay;20210615;22:00;Youth Day;South Africa;ZAR;0
+NZD_CurrentAccount;20210615;22:45;Current Account - GDP Ratio;New Zealand;NZD;1
+JPY_MerchandiseTradeBalanceTotal;20210615;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20210615;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_Exports;20210615;23:50;Exports (YoY);Japan;JPY;2
+JPY_Imports;20210615;23:50;Imports (YoY);Japan;JPY;2
+JPY_MachineryOrders;20210615;23:50;Machinery Orders (YoY);Japan;JPY;1

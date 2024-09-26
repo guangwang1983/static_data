@@ -1,0 +1,26 @@
+JPY_ForeignBondInvestment;20161026;23:50;Foreign Bond Investment;Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20161026;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+NZD_TradeBalance;20161026;21:45;Trade Balance (YoY);New Zealand;NZD;2
+NZD_Imports;20161026;21:45;Imports;New Zealand;NZD;2
+NZD_Exports;20161026;21:45;Exports;New Zealand;NZD;2
+USD_Auction;20161026;17:00;5-Year Note Auction;United States;USD;1
+USD_EIACrudeOilStocksChange;20161026;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_NewHomeSales;20161026;14:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20161026;14:00;New Home Sales Change (MoM);United States;USD;2
+USD_MarkitServicesPMI;20161026;13:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20161026;13:45;Markit PMI Composite;United States;USD;2
+MXN_TradeBalance;20161026;13:00;Trade Balance, $;Mexico;MXN;1
+MXN_TradeBalancesa;20161026;13:00;Trade Balance s/a, $;Mexico;MXN;1
+USD_WholesaleInventories;20161026;12:30;Wholesale Inventories;United States;USD;1
+USD_GoodsTradeBalance;20161026;12:30;Goods Trade Balance;United States;USD;2
+INR_M3MoneySupply;20161026;11:30;M3 Money Supply;India;INR;1
+USD_MBAMortgageApplications;20161026;11:00;MBA Mortgage Applications;United States;USD;1
+GBP_BBAMortgageApprovals;20161026;08:30;BBA Mortgage Approvals;United Kingdom;GBP;1
+EUR_ItaRetailSales;20161026;08:00;Retail Sales s.a. (MoM);Italy;EUR;1
+SEK_TradeBalance;20161026;07:30;Trade Balance (MoM);Sweden;SEK;1
+EUR_FraConsumerConfidence;20161026;06:45;Consumer Confidence;France;EUR;1
+EUR_GerImportPriceIndex;20161026;06:00;Import Price Index (MoM);Germany;EUR;1
+EUR_GerGfkConsumerConfidenceSurvey;20161026;06:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+AUD_RBATrimmedMeanCPI;20161026;00:30;RBA Trimmed Mean CPI (YoY);Australia;AUD;3
+AUD_ConsumerPriceIndex;20161026;00:30;Consumer Price Index (QoQ);Australia;AUD;3
+EUR_AusNationalDay;20161026;00:00;National Day ;Austria;EUR;0

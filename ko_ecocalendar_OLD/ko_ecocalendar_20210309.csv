@@ -1,0 +1,35 @@
+AUD_WestpacConsumerConfidence;20210309;23:30;Westpac Consumer Confidence;Australia;AUD;2
+AUD_CentralBankSpeech;20210309;22:00;RBA Governor Lowe speech;Australia;AUD;3
+NZD_RetailSales;20210309;21:45;Electronic Card Retail Sales  (MoM);New Zealand;NZD;1
+USD_APIWeeklyCrudeOilStock;20210309;21:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_Auction;20210309;18:00;3-Year Note Auction;United States;USD;1
+USD_USDAWASDEReport;20210309;17:00;USDA WASDE Report;United States;USD;1
+USD_RedbookIndex;20210309;13:55;Redbook Index (YoY);United States;USD;1
+MXN_HeadlineInflation;20210309;12:00;Headline Inflation;Mexico;MXN;1
+MXN_12MonthInflation;20210309;12:00;12-Month Inflation;Mexico;MXN;1
+MXN_CoreInflation;20210309;12:00;Core Inflation;Mexico;MXN;1
+USD_NFIBBusinessOptimismIndex;20210309;11:00;NFIB Business Optimism Index;United States;USD;1
+EUR_EurGrossDomesticProduct;20210309;10:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+EUR_EurEmploymentChange;20210309;10:00;Employment Change (YoY);European Monetary Union;EUR;1
+EUR_SpaAuction;20210309;09:40;9-Month Letras Auction;Spain;EUR;1
+ZAR_GrossDomesticProduct;20210309;09:30;Gross Domestic Product (QoQ);South Africa;ZAR;1
+EUR_ItaIndustrialOutput;20210309;09:00;Industrial Output s.a. (MoM);Italy;EUR;1
+CZK_FXReserves;20210309;09:00;FX Reserves;Czech Republic;CZK;1
+SEK_IndustrialProductionValue;20210309;08:30;Industrial Production Value (YoY);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20210309;08:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+HUF_ConsumerPriceIndex;20210309;08:00;Core Consumer Price Index (YoY);Hungary;HUF;1
+CZK_ForeignTradeBalance;20210309;08:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+RON_GrossDomesticProduct;20210309;07:00;Gross Domestic Product;Romania;RON;1
+EUR_GerExports;20210309;07:00;Exports (MoM);Germany;EUR;1
+EUR_GerTradeBalance;20210309;07:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerCurrentAccount;20210309;07:00;Current Account n.s.a.;Germany;EUR;1
+EUR_GerImports;20210309;07:00;Imports (MoM);Germany;EUR;1
+EUR_FraNonfarmPayrolls;20210309;06:30;Nonfarm Payrolls (QoQ);France;EUR;1
+JPY_MachineToolOrders;20210309;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+IDR_RetailSales;20210309;04:00;Retail Sales (YoY);Indonesia;IDR;1
+AUD_NationalAustraliaBankBusinessConditions;20210309;00:30;National Australia Bank Business Conditions;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConfidence;20210309;00:30;National Australia Bank Business Confidence;Australia;AUD;1
+GBP_RetailSales;20210309;00:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+AUD_HIANewHomeSales;20210309;00:00;HIA New Home Sales (MoM);Australia;AUD;2
+NZD_ANZActivityOutlook;20210309;00:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20210309;00:00;ANZ Business Confidence;New Zealand;NZD;1

@@ -1,0 +1,17 @@
+JPY_TokyoCPIexFreshFood;20080228;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;1
+JPY_TokyoCPIexFoodEnergy;20080228;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;1
+JPY_ConsumerPriceIndex;20080228;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;1
+JPY_NationalCPIexFreshFood;20080228;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_NationalCPIexFoodEnergy;20080228;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;1
+JPY_UnemploymentRate;20080228;23:30;Unemployment Rate;Japan;JPY;1
+JPY_OverallHouseholdSpending;20080228;23:30;Overall Household Spending (YoY);Japan;JPY;1
+JPY_NikkeiManufacturingPMI;20080228;23:15;Nikkei Manufacturing PMI;Japan;JPY;1
+NZD_TradeBalance;20080228;21:45;Trade Balance (MoM);New Zealand;NZD;2
+USD_CentralBankSpeech;20080228;15:00;Former Fed Chair Bernanke speech;United States;USD;2
+EUR_EurCentralBankSpeech;20080228;14:15;ECB President Trichet speech;European Monetary Union;EUR;2
+USD_JoblessClaims;20080228;13:30;Initial Jobless Claims;United States;USD;1
+USD_GrossDomesticProduct;20080228;13:30;Gross Domestic Product Annualized;United States;USD;3
+EUR_GerUnemploymentRate;20080228;08:55;Unemployment Rate s.a.;Germany;EUR;2
+EUR_GerUnemploymentChange;20080228;08:55;Unemployment Change;Germany;EUR;2
+CHF_EmploymentLevel;20080228;08:15;Employment Level (QoQ);Switzerland;CHF;1
+AUD_PrivateCapitalExpenditure;20080228;00:30;Private Capital Expenditure;Australia;AUD;1

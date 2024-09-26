@@ -1,0 +1,28 @@
+USD_BakerHughesUSOilRigCount;20150724;19:00;Baker Hughes US Oil Rig Count;United States;USD;2
+ARS_MonthlyEconActivity;20150724;19:00;Monthly Econ Activity (MoM);Argentina;ARS;1
+USD_NewHomeSales;20150724;14:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20150724;14:00;New Home Sales Change (MoM);United States;USD;2
+USD_MarkitManufacturingPMI;20150724;13:45;Markit Manufacturing PMI;United States;USD;2
+MXN_JoblessRate;20150724;13:00;Jobless Rate s.a;Mexico;MXN;1
+EUR_BelLeadingIndicator;20150724;13:00;Leading Indicator;Belgium;EUR;1
+INR_FXReservesUSD;20150724;11:30;FX Reserves, USD;India;INR;1
+INR_BankLoanGrowth;20150724;11:30;Bank Loan Growth;India;INR;1
+EUR_SpaProducerPriceIndex;20150724;09:00;Producer Price Index (YoY);Spain;EUR;1
+GBP_BBAMortgageApprovals;20150724;08:30;BBA Mortgage Approvals;United Kingdom;GBP;1
+EUR_ItaWageInflation;20150724;08:00;Wage Inflation (MoM);Italy;EUR;1
+EUR_EurMarkitPMIComposite;20150724;08:00;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitManufacturingPMI;20150724;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20150724;08:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_GerMarkitPMIComposite;20150724;07:30;Markit PMI Composite;Germany;EUR;2
+EUR_GerMarkitServicesPMI;20150724;07:30;Markit Services PMI;Germany;EUR;1
+EUR_GerMarkitManufacturingPMI;20150724;07:30;Markit Manufacturing PMI;Germany;EUR;2
+SEK_TradeBalance;20150724;07:30;Trade Balance (MoM);Sweden;SEK;1
+EUR_FraMarkitManufacturingPMI;20150724;07:00;Markit Manufacturing PMI;France;EUR;1
+EUR_FraMarkitPMIComposite;20150724;07:00;Markit PMI Composite;France;EUR;1
+EUR_FraMarkitServicesPMI;20150724;07:00;Markit Services PMI;France;EUR;1
+EUR_AusIndustrialProduction;20150724;07:00;Industrial Production (YoY);Austria;EUR;1
+EUR_FinProducerPriceIndex;20150724;06:00;Producer Price Index (YoY);Finland;EUR;1
+EUR_FinImportPrices;20150724;06:00;Import Prices (YoY);Finland;EUR;1
+EUR_FinExportPrices;20150724;06:00;Export Prices (YoY);Finland;EUR;1
+CNY_CaixinManufacturingPMI;20150724;01:45;Caixin Manufacturing PMI;China;CNY;2
+JPY_NikkeiManufacturingPMI;20150724;01:35;Nikkei Manufacturing PMI;Japan;JPY;1

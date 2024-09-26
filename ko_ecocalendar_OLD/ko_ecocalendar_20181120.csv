@@ -1,0 +1,35 @@
+AUD_WestpacLeadingIndex;20181120;23:30;Westpac Leading Index (MoM);Australia;AUD;1
+CAD_CentralBankSpeech;20181120;22:00;BoC Lane Speech;Canada;CAD;2
+USD_APIWeeklyCrudeOilStock;20181120;21:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_Auction;20181120;16:30;4-Week Bill Auction;United States;USD;1
+EUR_GerCentralBankSpeech;20181120;15:00;German Buba President Weidmann speech;Germany;EUR;2
+NZD_GDTPriceIndex;20181120;14:45;GDT Price Index;New Zealand;NZD;2
+EUR_BelConsumerConfidenceIndex;20181120;14:00;Consumer Confidence Index;Belgium;EUR;1
+USD_RedbookIndex;20181120;13:55;Redbook Index (YoY);United States;USD;1
+USD_HousingStarts;20181120;13:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermitsChange;20181120;13:30;Building Permits Change;United States;USD;1
+USD_HousingStartsChange;20181120;13:30;Housing Starts Change;United States;USD;1
+USD_BuildingPermits;20181120;13:30;Building Permits (MoM);United States;USD;2
+RUB_ProducerPriceIndex;20181120;13:00;Producer Price Index (YoY);Russia;RUB;1
+RUB_UnemploymentRate;20181120;13:00;Unemployment Rate;Russia;RUB;1
+HUF_MNBInterestRateDecision;20181120;13:00;MNB Interest Rate Decision;Hungary;HUF;1
+EUR_SpaAuction;20181120;11:02;9-Month Letras Auction;Spain;EUR;1
+GBP_CBIIndustrialTrendsSurveyOrders;20181120;11:00;CBI Industrial Trends Survey - Orders (MoM);United Kingdom;GBP;1
+GBP_CentralBankSpeech;20181120;10:00;BoE Governor Carney speech;United Kingdom;GBP;3
+GBP_InflationReportHearings;20181120;10:00;Inflation Report Hearings;United Kingdom;GBP;3
+EUR_GreCurrentAccount;20181120;09:30;Current Account (YoY);Greece;EUR;1
+PLN_IndustrialOutput;20181120;09:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20181120;09:00;Producer Price Index (YoY);Poland;PLN;1
+USD_OPECMeeting;20181120;09:00;OPEC Meeting;United States;USD;2
+HKD_ConsumerPriceIndex;20181120;08:30;Consumer Price Index;Hong Kong SAR;HKD;1
+AUD_CentralBankSpeech;20181120;08:20;RBA Governor Lowe speech;Australia;AUD;3
+CHF_Imports;20181120;07:00;Imports (MoM);Switzerland;CHF;1
+CHF_Exports;20181120;07:00;Exports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20181120;07:00;Trade Balance;Switzerland;CHF;1
+EUR_FinUnemploymentRate;20181120;07:00;Unemployment Rate;Finland;EUR;1
+EUR_GerProducerPriceIndex;20181120;07:00;Producer Price Index (YoY);Germany;EUR;1
+EUR_FraILOUnemployment;20181120;06:30;ILO Unemployment;France;EUR;1
+AUD_RBAMeetingMinutes;20181120;00:30;RBA Meeting Minutes;Australia;AUD;3
+BRL_ZumbidosPalmares;20181120;00:00;Zumbi dos Palmares ;Brazil;BRL;0
+IDR_MaulidurRasul;20181120;00:00;Maulidur Rasul;Indonesia;IDR;0
+EUR_EurEcoFinMeeting;20181120;00:00;EcoFin Meeting;European Monetary Union;EUR;2

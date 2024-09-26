@@ -1,0 +1,12 @@
+USD_ConsumerConfidence;20080527;14:00;Consumer Confidence;United States;USD;2
+USD_NewHomeSalesChange;20080527;14:00;New Home Sales Change (MoM);United States;USD;2
+USD_NewHomeSales;20080527;14:00;New Home Sales (MoM);United States;USD;2
+USD_RichmondFedManufacturingIndex;20080527;14:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20080527;13:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;1
+GBP_NetLendingtoIndividuals;20080527;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_BBAMortgageApprovals;20080527;08:30;BBA Mortgage Approvals;United Kingdom;GBP;2
+CHF_UBSConsumptionIndicator;20080527;08:00;UBS Consumption Indicator;Switzerland;CHF;1
+CHF_TradeBalance;20080527;06:15;Trade Balance;Switzerland;CHF;1
+EUR_GerGfkConsumerConfidenceSurvey;20080527;06:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+EUR_GerGrossDomesticProduct;20080527;06:00;Gross Domestic Product (YoY);Germany;EUR;1
+NZD_ANZBusinessConfidence;20080527;01:00;ANZ Business Confidence;New Zealand;NZD;1

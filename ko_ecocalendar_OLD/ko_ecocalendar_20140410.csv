@@ -1,0 +1,51 @@
+JPY_DomesticCorporateGoodsPriceIndex;20140410;23:50;Domestic Corporate Goods Price Index (YoY);Japan;JPY;1
+JPY_MoneySupplyM2+CD;20140410;23:50;Money Supply M2+CD (YoY);Japan;JPY;1
+JPY_BoJMonetaryPolicyMeetingMinutes;20140410;23:50;BoJ Monetary Policy Meeting Minutes;Japan;JPY;3
+NZD_FoodPriceIndex;20140410;22:45;Food Price Index (MoM);New Zealand;NZD;1
+NZD_REINZHousePriceIndex;20140410;20:00;REINZ House Price Index (MoM);New Zealand;NZD;2
+USD_MonthlyBudgetStatement;20140410;18:00;Monthly Budget Statement;United States;USD;2
+USD_Auction;20140410;17:00;30-Year Bond Auction;United States;USD;1
+USD_EIANaturalGasStorageChange;20140410;14:30;EIA Natural Gas Storage Change;United States;USD;1
+EUR_EurG20Meeting;20140410;13:00;G20 Meeting;European Monetary Union;EUR;2
+USD_JoblessClaims;20140410;12:30;Continuing Jobless Claims;United States;USD;2
+USD_ImportPriceIndex;20140410;12:30;Import Price Index (MoM);United States;USD;1
+USD_ExportPriceIndex;20140410;12:30;Export Price Index (MoM);United States;USD;1
+CAD_NewHousingPriceIndex;20140410;12:30;New Housing Price Index (YoY);Canada;CAD;2
+GBP_BoEAssetPurchaseFacility;20140410;11:00;BoE Asset Purchase Facility;United Kingdom;GBP;3
+GBP_BoEInterestRateDecision;20140410;11:00;BoE Interest Rate Decision;United Kingdom;GBP;3
+RUB_CentralBankReserves;20140410;11:00;Central Bank Reserves $;Russia;RUB;1
+ZAR_ManufacturingProductionIndex;20140410;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+EUR_IreHICP;20140410;10:00;HICP (YoY);Ireland;EUR;1
+EUR_IreConsumerPriceIndex;20140410;10:00;Consumer Price Index (YoY);Ireland;EUR;1
+EUR_PorConsumerPriceIndex;20140410;10:00;Consumer Price Index (MoM);Portugal;EUR;1
+EUR_SpaAuction;20140410;09:36;12-Month Letras Auction;Spain;EUR;1
+EUR_GreConsumerPriceIndex;20140410;09:00;Consumer Price Index (YoY);Greece;EUR;1
+EUR_GreUnemploymentRate;20140410;09:00;Unemployment Rate (MoM);Greece;EUR;1
+NOK_ConsumerPriceIndex;20140410;08:00;Consumer Price Index (YoY);Norway;NOK;1
+NOK_CoreInflation;20140410;08:00;Core Inflation (MoM);Norway;NOK;1
+EUR_ItaIndustrialOutput;20140410;08:00;Industrial Output w.d.a (YoY);Italy;EUR;1
+EUR_EurECBMonthlyReport;20140410;08:00;ECB Monthly Report;European Monetary Union;EUR;2
+NOK_ProducerPriceIndex;20140410;08:00;Producer Price Index (YoY);Norway;NOK;1
+SEK_ConsumerPriceIndex;20140410;07:30;Consumer Price Index (MoM);Sweden;SEK;1
+EUR_NetConsumerPriceIndex;20140410;07:30;Consumer Price Index n.s.a (YoY);Netherlands, The;EUR;1
+EUR_SloIndustrialOutput;20140410;07:00;Industrial Output (YoY);Slovakia;EUR;1
+DKK_ConsumerPriceIndex;20140410;07:00;Consumer Price Index (YoY);Denmark;DKK;1
+DKK_Inflation;20140410;07:00;Inflation (HICP) (YoY);Denmark;DKK;1
+RON_IndustrialProduction;20140410;07:00;Industrial Production (MoM);Romania;RON;1
+RON_ConsumerPriceIndex;20140410;07:00;Consumer Price Index;Romania;RON;1
+EUR_FraConsumerPriceIndex;20140410;06:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraIndustrialOutput;20140410;06:45;Industrial Output (MoM);France;EUR;1
+EUR_FraInflationextobacco;20140410;06:45;Inflation ex-tobacco (MoM);France;EUR;1
+EUR_FinIndustrialOutput;20140410;06:00;Industrial Output (MoM);Finland;EUR;1
+JPY_MachineToolOrders;20140410;06:00;Machine Tool Orders (YoY);Japan;JPY;2
+CNY_Imports;20140410;02:00;Imports (YoY);China;CNY;1
+CNY_TradeBalanceUSD;20140410;02:00;Trade Balance USD;China;CNY;2
+CNY_Exports;20140410;02:00;Exports (YoY);China;CNY;1
+AUD_PartTimeEmployment;20140410;01:30;Part-Time Employment;Australia;AUD;1
+AUD_UnemploymentRate;20140410;01:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_FulltimeEmployment;20140410;01:30;Fulltime Employment;Australia;AUD;2
+AUD_EmploymentChange;20140410;01:30;Employment Change s.a.;Australia;AUD;3
+AUD_ConsumerInflationExpectations;20140410;01:00;Consumer Inflation Expectations;Australia;AUD;2
+KRW_BoKInterestRateDecision;20140410;01:00;BoK Interest Rate Decision;South Korea;KRW;1
+AUD_ParticipationRate;20140410;00:30;Participation Rate;Australia;AUD;2
+PEN_Interestratedecision;20140410;00:00;Interest rate decision;Peru;PEN;1

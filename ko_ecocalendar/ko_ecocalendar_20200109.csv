@@ -1,0 +1,44 @@
+NZD_ANZCommodityPrice;20200109;00:00;ANZ Commodity Price;New Zealand;NZD;1
+GBP_RetailSales;20200109;00:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+AUD_Imports;20200109;00:30;Imports (MoM);Australia;AUD;2
+AUD_Exports;20200109;00:30;Exports (MoM);Australia;AUD;2
+AUD_TradeBalance;20200109;00:30;Trade Balance (MoM);Australia;AUD;2
+CNY_ConsumerPriceIndex;20200109;01:30;Consumer Price Index (YoY);China;CNY;3
+CNY_ProducerPriceIndex;20200109;01:30;Producer Price Index (YoY);China;CNY;2
+RON_TradeBalance;20200109;07:00;Trade Balance;Romania;RON;1
+EUR_GerIndustrialProduction;20200109;07:00;Industrial Production s.a. (MoM);Germany;EUR;2
+DKK_TradeBalance;20200109;07:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20200109;07:00;Current Account;Denmark;DKK;1
+EUR_GerTradeBalance;20200109;07:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerExports;20200109;07:00;Exports (MoM);Germany;EUR;1
+EUR_GerCurrentAccount;20200109;07:00;Current Account n.s.a.;Germany;EUR;1
+EUR_GerImports;20200109;07:00;Imports (MoM);Germany;EUR;1
+CHF_RetailSales;20200109;07:30;Real Retail Sales (YoY);Switzerland;CHF;2
+CZK_UnemploymentRate;20200109;08:00;Unemployment Rate;Czech Republic;CZK;1
+CHF_ForeignCurrencyReserves;20200109;08:00;Foreign Currency Reserves;Switzerland;CHF;1
+CZK_ForeignTradeBalance;20200109;08:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+EUR_ItaUnemployment;20200109;09:00;Unemployment;Italy;EUR;1
+ZAR_BusinessConfidenceIndex;20200109;09:30;Business Confidence Index;South Africa;ZAR;1
+GBP_CentralBankSpeech;20200109;09:30;BoE Governor Carney speech;United Kingdom;GBP;3
+EUR_EurUnemploymentRate;20200109;10:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_FraAuction;20200109;10:00;10-y Bond Auction;France;EUR;1
+HUF_BudgetBalance;20200109;10:00;Budget Balance;Hungary;HUF;1
+ZAR_ManufacturingProductionIndex;20200109;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+MXN_CoreInflation;20200109;12:00;Core Inflation;Mexico;MXN;1
+MXN_12MonthInflation;20200109;12:00;12-Month Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20200109;12:00;Headline Inflation;Mexico;MXN;1
+BRL_IndustrialOutput;20200109;12:00;Industrial Output (MoM);Brazil;BRL;1
+CAD_HousingStarts;20200109;13:15;Housing Starts s.a (YoY);Canada;CAD;1
+USD_JoblessClaims;20200109;13:30;Initial Jobless Claims 4-week average;United States;USD;2
+CAD_BuildingPermits;20200109;13:30;Building Permits (MoM);Canada;CAD;1
+ILS_BoIInterestRateDecision;20200109;14:00;BoI Interest Rate Decision;Israel;ILS;1
+USD_EIANaturalGasStorageChange;20200109;15:30;EIA Natural Gas Storage Change;United States;USD;1
+EUR_EurCentralBankSpeech;20200109;15:45;ECB Lane speech;European Monetary Union;EUR;2
+USD_Auction;20200109;18:00;30-Year Bond Auction;United States;USD;1
+CAD_CentralBankSpeech;20200109;19:00;BoC Governor Poloz speech;Canada;CAD;3
+EUR_GerCentralBankSpeech;20200109;19:10;German Buba President Weidmann speech;Germany;EUR;2
+USD_CentralBankSpeech;20200109;19:20;Fed Evans speech;United States;USD;1
+AUD_AiGPerformanceofServicesIndex;20200109;21:30;AiG Performance of Services Index;Australia;AUD;1
+NZD_TotalFilledJobs;20200109;21:45;Total Filled Jobs;New Zealand;NZD;2
+JPY_OverallHouseholdSpending;20200109;23:30;Overall Household Spending (YoY);Japan;JPY;2
+JPY_JPForeignReserves;20200109;23:50;JP Foreign Reserves;Japan;JPY;1

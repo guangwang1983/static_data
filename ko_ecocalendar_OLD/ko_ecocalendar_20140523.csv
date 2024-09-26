@@ -1,0 +1,23 @@
+COP_TradeBalance;20140523;22:00;Trade Balance;Colombia;COP;1
+ARS_IndustrialOutput;20140523;19:00;Industrial Output n.s.a (YoY);Argentina;ARS;1
+MXN_CurrentAccount;20140523;14:00;Accumulated Current Account/GDP;Mexico;MXN;1
+USD_NewHomeSales;20140523;14:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20140523;14:00;New Home Sales Change (MoM);United States;USD;2
+BRL_CurrentAccount;20140523;13:30;Current Account;Brazil;BRL;1
+MXN_GrossDomesticProduct;20140523;13:00;Gross Domestic Product (YoY);Mexico;MXN;1
+EUR_BelLeadingIndicator;20140523;13:00;Leading Indicator;Belgium;EUR;1
+CAD_ConsumerPriceIndex;20140523;12:30;Consumer Price Index (MoM);Canada;CAD;3
+TRY_ManufacturingConfidence;20140523;11:30;Manufacturing Confidence;Turkey;TRY;1
+TRY_CapacityUtilization;20140523;11:30;Capacity Utilization;Turkey;TRY;1
+INR_FXReservesUSD;20140523;11:30;FX Reserves, USD;India;INR;1
+EUR_ItaTradeBalancenonEU;20140523;10:00;Trade Balance non-EU;Italy;EUR;1
+EUR_ItaWageInflation;20140523;09:00;Wage Inflation (MoM);Italy;EUR;1
+EUR_ItaRetailSales;20140523;08:00;Retail Sales n.s.a (YoY);Italy;EUR;1
+EUR_GerIFOCurrentAssessment;20140523;08:00;IFO - Current Assessment;Germany;EUR;2
+EUR_GerIFOBusinessClimate;20140523;08:00;IFO - Business Climate;Germany;EUR;2
+EUR_GerIFOExpectations;20140523;08:00;IFO - Expectations;Germany;EUR;2
+SEK_ConsumerConfidence;20140523;07:00;Consumer Confidence (MoM);Sweden;SEK;1
+EUR_AusIndustrialProduction;20140523;07:00;Industrial Production (YoY);Austria;EUR;1
+EUR_GerGrossDomesticProduct;20140523;06:00;Gross Domestic Product (QoQ);Germany;EUR;2
+SGD_ConsumerPriceIndex;20140523;05:00;Consumer Price Index (YoY);Singapore;SGD;1
+EUR_EurEuropeanParliamentElection;20140523;00:00;European Parliament Election;European Monetary Union;EUR;2

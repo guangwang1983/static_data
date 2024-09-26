@@ -1,0 +1,36 @@
+AUD_CFTCAUDNCNetPositions;20170421;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+JPY_CFTCJPYNCNetPositions;20170421;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCGoldNCNetPositions;20170421;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCUSDNCNetPositions;20170421;19:30;CFTC USD NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20170421;19:30;CFTC Oil NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20170421;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+GBP_CFTCGBPNCNetPositions;20170421;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_BakerHughesUSOilRigCount;20170421;17:00;Baker Hughes US Oil Rig Count;United States;USD;2
+USD_ExistingHomeSalesChange;20170421;14:00;Existing Home Sales Change (MoM);United States;USD;1
+USD_ExistingHomeSales;20170421;14:00;Existing Home Sales (MoM);United States;USD;1
+USD_MarkitManufacturingPMI;20170421;13:45;Markit Manufacturing PMI;United States;USD;2
+USD_MarkitServicesPMI;20170421;13:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20170421;13:45;Markit PMI Composite;United States;USD;2
+USD_CentralBankSpeech;20170421;13:30;Fed Kashkari speech;United States;USD;2
+MXN_JoblessRate;20170421;13:00;Jobless Rate s.a;Mexico;MXN;1
+CAD_ConsumerPriceIndex;20170421;12:30;Consumer Price Index (MoM);Canada;CAD;2
+GBP_RetailSales;20170421;08:30;Retail Sales (YoY);United Kingdom;GBP;1
+HKD_Unemploymentrate;20170421;08:30;Unemployment rate;Hong Kong SAR;HKD;1
+HKD_ConsumerPriceIndex;20170421;08:30;Consumer Price Index;Hong Kong SAR;HKD;1
+EUR_EurCurrentAccount;20170421;08:00;Current Account n.s.a;European Monetary Union;EUR;1
+EUR_ItaIndustrialOrders;20170421;08:00;Industrial Orders n.s.a (YoY);Italy;EUR;1
+EUR_ItaIndustrialSales;20170421;08:00;Industrial Sales s.a. (MoM);Italy;EUR;1
+EUR_EurMarkitPMIComposite;20170421;08:00;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitManufacturingPMI;20170421;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20170421;08:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_GerMarkitPMIComposite;20170421;07:30;Markit PMI Composite;Germany;EUR;2
+EUR_GerMarkitManufacturingPMI;20170421;07:30;Markit Manufacturing PMI;Germany;EUR;2
+EUR_GerMarkitServicesPMI;20170421;07:30;Markit Services PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20170421;07:00;Markit Manufacturing PMI;France;EUR;1
+EUR_FraMarkitPMIComposite;20170421;07:00;Markit PMI Composite;France;EUR;1
+EUR_FraMarkitServicesPMI;20170421;07:00;Markit Services PMI;France;EUR;1
+NOK_TradeBalance;20170421;06:00;Trade Balance;Norway;NOK;1
+JPY_TertiaryIndustryIndex;20170421;04:30;Tertiary Industry Index (MoM);Japan;JPY;2
+JPY_NikkeiManufacturingPMI;20170421;00:30;Nikkei Manufacturing PMI;Japan;JPY;1
+EUR_EurIMFMeeting;20170421;00:00;IMF Meeting;European Monetary Union;EUR;2
+BRL_TiradentesDay;20170421;00:00;Tiradentes Day;Brazil;BRL;0

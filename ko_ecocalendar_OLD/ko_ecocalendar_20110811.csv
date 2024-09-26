@@ -1,0 +1,23 @@
+KRW_ImportPriceGrowth;20110811;21:00;Import Price Growth (YoY);South Korea;KRW;1
+KRW_ExportPriceGrowth;20110811;21:00;Export Price Growth (YoY);South Korea;KRW;1
+MXN_IndustrialOutput;20110811;13:00;Industrial Output (MoM);Mexico;MXN;1
+USD_TradeBalance;20110811;12:30;Trade Balance;United States;USD;2
+USD_JoblessClaims;20110811;12:30;Initial Jobless Claims;United States;USD;2
+CAD_InternationalMerchandiseTrade;20110811;12:30;International Merchandise Trade;Canada;CAD;2
+CAD_NewHousingPriceIndex;20110811;12:30;New Housing Price Index (MoM);Canada;CAD;1
+PLN_CurrentAccount;20110811;12:00;Current Account;Poland;PLN;1
+BRL_RetailSales;20110811;12:00;Retail Sales (MoM);Brazil;BRL;1
+ZAR_ManufacturingProductionIndex;20110811;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+EUR_IreHICP;20110811;10:00;HICP (YoY);Ireland;EUR;1
+EUR_IreConsumerPriceIndex;20110811;10:00;Consumer Price Index (YoY);Ireland;EUR;1
+EUR_GreUnemploymentRate;20110811;09:00;Unemployment Rate (MoM);Greece;EUR;1
+EUR_EurECBMonthlyReport;20110811;08:00;ECB Monthly Report;European Monetary Union;EUR;3
+CZK_CurrentAccount;20110811;08:00;Current Account (MoM);Czech Republic;CZK;1
+SEK_ConsumerPriceIndex;20110811;07:30;Consumer Price Index (MoM);Sweden;SEK;1
+TRY_CurrentAccount;20110811;07:00;Current Account Balance;Turkey;TRY;1
+HUF_ConsumerPriceIndex;20110811;07:00;Consumer Price Index (YoY);Hungary;HUF;1
+EUR_GerWholesalePriceIndex;20110811;06:00;Wholesale Price Index (MoM);Germany;EUR;1
+AUD_EmploymentChange;20110811;01:30;Employment Change s.a.;Australia;AUD;3
+AUD_UnemploymentRate;20110811;01:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_ConsumerInflationExpectations;20110811;01:30;Consumer Inflation Expectations;Australia;AUD;1
+KRW_BoKInterestRateDecision;20110811;01:00;BoK Interest Rate Decision;South Korea;KRW;1

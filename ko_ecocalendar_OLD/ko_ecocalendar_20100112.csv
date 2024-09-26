@@ -1,0 +1,13 @@
+USD_TradeBalance;20100112;13:30;Trade Balance;United States;USD;3
+CAD_DONOTINCLUDENewHousingPriceIndex;20100112;13:30;DO NOT INCLUDE - New Housing Price Index (YoY);Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20100112;13:30;International Merchandise Trade;Canada;CAD;2
+CAD_NewHousingPriceIndex;20100112;13:30;New Housing Price Index (MoM);Canada;CAD;2
+GBP_DCLGHousePriceIndex;20100112;09:30;DCLG House Price Index (YoY);United Kingdom;GBP;2
+GBP_GoodsTradeBalance;20100112;09:30;Goods Trade Balance;United Kingdom;GBP;2
+GBP_TradeBalancenonEU;20100112;09:30;Trade Balance non-EU;United Kingdom;GBP;2
+JPY_EcoWatchersSurvey:Outlook;20100112;05:00;Eco Watchers Survey: Outlook;Japan;JPY;1
+JPY_EcoWatchersSurvey:Current;20100112;05:00;Eco Watchers Survey: Current;Japan;JPY;1
+AUD_InvestmentLendingforHomes;20100112;00:30;Investment Lending for Homes;Australia;AUD;1
+AUD_HomeLoans;20100112;00:30;Home Loans;Australia;AUD;2
+GBP_RICSHousingPriceBalance;20100112;00:01;RICS Housing Price Balance;United Kingdom;GBP;2
+GBP_RetailSales;20100112;00:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2

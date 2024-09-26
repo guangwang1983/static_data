@@ -1,0 +1,43 @@
+COP_Interestrate;20210326;20:00;Interest rate;Colombia;COP;1
+AUD_CFTCAUDNCNetPositions;20210326;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20210326;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+USD_CFTCS&P500NCNetPositions;20210326;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20210326;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20210326;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20210326;19:30;CFTC Gold NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20210326;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+ARS_TradeBalance;20210326;19:00;Trade Balance (MoM);Argentina;ARS;1
+USD_BakerHughesUSOilRigCount;20210326;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_MichiganConsumerSentimentIndex;20210326;14:00;Michigan Consumer Sentiment Index;United States;USD;2
+BRL_CurrentAccount;20210326;12:30;Current Account;Brazil;BRL;1
+USD_PersonalIncome;20210326;12:30;Personal Income (MoM);United States;USD;2
+USD_CorePersonalConsumptionExpenditurePriceIndex;20210326;12:30;Core Personal Consumption Expenditure - Price Index (MoM);United States;USD;2
+USD_PersonalConsumptionExpendituresPriceIndex;20210326;12:30;Personal Consumption Expenditures - Price Index (YoY);United States;USD;1
+USD_PersonalSpending;20210326;12:30;Personal Spending;United States;USD;2
+USD_WholesaleInventories;20210326;12:30;Wholesale Inventories;United States;USD;1
+USD_GoodsTradeBalance;20210326;12:30;Goods Trade Balance;United States;USD;1
+MXN_TradeBalance;20210326;12:00;Trade Balance, $;Mexico;MXN;1
+MXN_TradeBalancesa;20210326;12:00;Trade Balance s/a, $;Mexico;MXN;1
+INR_BankLoanGrowth;20210326;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20210326;11:30;FX Reserves, USD;India;INR;1
+EUR_PorGrossDomesticProduct;20210326;10:00;Gross Domestic Product (QoQ);Portugal;EUR;1
+GBP_FPCStatement;20210326;09:30;FPC Statement;United Kingdom;GBP;1
+GBP_FPCMeetingMinutes;20210326;09:30;FPC Meeting Minutes;United Kingdom;GBP;1
+EUR_ItaBusinessConfidence;20210326;09:00;Business Confidence;Italy;EUR;1
+EUR_ItaConsumerConfidence;20210326;09:00;Consumer Confidence;Italy;EUR;1
+EUR_GerIFO–BusinessClimate;20210326;09:00;IFO – Business Climate;Germany;EUR;2
+EUR_GerIFO–CurrentAssessment;20210326;09:00;IFO – Current Assessment;Germany;EUR;2
+EUR_GerIFO–Expectations;20210326;09:00;IFO – Expectations;Germany;EUR;2
+NOK_RegisteredUnemployment;20210326;09:00;Registered Unemployment s.a;Norway;NOK;1
+SEK_RetailSales;20210326;08:30;Retail Sales (MoM);Sweden;SEK;1
+SEK_TradeBalance;20210326;08:30;Trade Balance (MoM);Sweden;SEK;1
+GBP_RetailSales;20210326;07:00;Retail Sales ex-Fuel (MoM);United Kingdom;GBP;2
+TRY_ManufacturingConfidence;20210326;07:00;Manufacturing Confidence;Turkey;TRY;1
+TRY_CapacityUtilization;20210326;07:00;Capacity Utilization;Turkey;TRY;1
+DKK_RetailSales;20210326;07:00;Retail Sales (YoY);Denmark;DKK;1
+EUR_SpaGrossDomesticProduct;20210326;07:00;Gross Domestic Product (YoY);Spain;EUR;1
+NOK_CreditIndicator;20210326;07:00;Credit Indicator;Norway;NOK;1
+EUR_NetGrossDomesticProduct;20210326;05:30;Gross Domestic Product n.s.a (YoY);Netherlands, The;EUR;1
+SGD_IndustrialProduction;20210326;05:00;Industrial Production (MoM);Singapore;SGD;1
+EUR_IreConsumerConfidence;20210326;05:00;Consumer Confidence;Ireland;EUR;1
+EUR_EurEuropeanCouncilMeeting;20210326;00:00;European Council Meeting;European Monetary Union;EUR;3

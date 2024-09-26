@@ -1,0 +1,33 @@
+JPY_CurrentAccount;20120207;23:50;Current Account n.s.a.;Japan;JPY;1
+JPY_TradeBalanceBOPBasis;20120207;23:50;Trade Balance - BOP Basis;Japan;JPY;2
+USD_ConsumerCreditChange;20120207;20:00;Consumer Credit Change;United States;USD;2
+USD_FedChairBernanketestifies;20120207;15:00;Fed Chair Bernanke testifies;United States;USD;3
+USD_IBDTIPPEconomicOptimism;20120207;15:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+HUF_BudgetBalance;20120207;15:00;Budget Balance;Hungary;HUF;1
+CAD_BuildingPermits;20120207;13:30;Building Permits (MoM);Canada;CAD;1
+PLN_CentralBankFXReserves;20120207;13:00;Central Bank FX Reserves;Poland;PLN;1
+CLP_TradeBalance;20120207;11:30;Trade Balance;Chile;CLP;1
+EUR_GerIndustrialProduction;20120207;11:00;Industrial Production s.a. (MoM);Germany;EUR;1
+ZAR_UnemploymentTotal;20120207;09:30;Unemployment Total ;South Africa;ZAR;1
+NOK_ManufacturingOutput;20120207;09:00;Manufacturing Output;Norway;NOK;2
+CZK_FXReserves;20120207;09:00;FX Reserves;Czech Republic;CZK;1
+EUR_AusWholesalePrices;20120207;08:30;Wholesale Prices n.s.a (MoM);Austria;EUR;1
+EUR_NetManufacturingOutput;20120207;08:30;Manufacturing Output (MoM);Netherlands, The;EUR;1
+EUR_AusTradeBalance;20120207;08:20;Trade Balance;Austria;EUR;1
+HUF_IndustrialOutput;20120207;08:00;Industrial Output (YoY);Hungary;HUF;1
+DKK_IndustrialProduction;20120207;08:00;Industrial Production (MoM);Denmark;DKK;1
+CZK_ForeignTradeBalance;20120207;08:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+EUR_FraTradeBalanceEUR;20120207;07:45;Trade Balance EUR;France;EUR;1
+EUR_FraImportsEUR;20120207;07:45;Imports, EUR;France;EUR;1
+EUR_FraExportsEUR;20120207;07:45;Exports, EUR;France;EUR;1
+ZAR_UnemploymentRate;20120207;07:30;Unemployment Rate (%);South Africa;ZAR;1
+EUR_FinGrossDomesticProduct;20120207;07:00;Gross Domestic Product (YoY);Finland;EUR;1
+CHF_ForeignCurrencyReserves;20120207;07:00;Foreign Currency Reserves;Switzerland;CHF;1
+EUR_FinTradeBalance;20120207;07:00;Trade Balance;Finland;EUR;1
+ZAR_Net$Gold&ForexReserve;20120207;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+ZAR_Gross$Gold&ForexReserve;20120207;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+JPY_CoincidentIndex;20120207;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20120207;05:00;Leading Economic Index;Japan;JPY;2
+AUD_RBARateStatement;20120207;03:30;RBA Rate Statement;Australia;AUD;2
+AUD_RBAInterestRateDecision;20120207;03:30;RBA Interest Rate Decision;Australia;AUD;3
+GBP_RetailSales;20120207;00:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;1

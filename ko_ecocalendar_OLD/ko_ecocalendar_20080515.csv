@@ -1,0 +1,23 @@
+JPY_GrossDomesticProduct;20080515;23:50;Gross Domestic Product Annualized;Japan;JPY;2
+NZD_ProducerPriceIndex;20080515;22:45;Producer Price Index - Input (QoQ);New Zealand;NZD;1
+USD_NAHBHousingMarketIndex;20080515;17:00;NAHB Housing Market Index;United States;USD;2
+USD_PhiladelphiaFedManufacturingSurvey;20080515;14:00;Philadelphia Fed Manufacturing Survey;United States;USD;2
+USD_CentralBankSpeech;20080515;13:30;Former Fed Chair Bernanke speech;United States;USD;2
+USD_IndustrialProduction;20080515;13:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20080515;13:15;Capacity Utilization;United States;USD;2
+USD_TotalNetTICFlows;20080515;13:00;Total Net TIC Flows;United States;USD;2
+USD_NetLongTermTICFlows;20080515;13:00;Net Long-Term TIC Flows;United States;USD;2
+USD_NYEmpireStateManufacturingIndex;20080515;12:30;NY Empire State Manufacturing Index;United States;USD;2
+USD_JoblessClaims;20080515;12:30;Initial Jobless Claims;United States;USD;1
+CAD_ManufacturingShipments;20080515;12:30;Manufacturing Shipments (MoM);Canada;CAD;2
+EUR_EurCentralBankSpeech;20080515;11:40;ECB President Trichet speech;European Monetary Union;EUR;2
+EUR_EurGrossDomesticProduct;20080515;09:00;Gross Domestic Product s.a. (QoQ);European Monetary Union;EUR;2
+EUR_EurConsumerPriceIndex;20080515;09:00;Consumer Price Index (YoY);European Monetary Union;EUR;2
+EUR_EurECBMonthlyReport;20080515;08:00;ECB Monthly Report;European Monetary Union;EUR;2
+EUR_GerConsumerPriceIndex;20080515;06:00;Consumer Price Index (YoY);Germany;EUR;2
+EUR_GerGrossDomesticProduct;20080515;06:00;Gross Domestic Product (YoY);Germany;EUR;1
+CHF_SECOConsumerClimate;20080515;05:45;SECO Consumer Climate (3m);Switzerland;CHF;2
+JPY_ConsumerConfidenceIndex;20080515;05:00;Consumer Confidence Index;Japan;JPY;1
+JPY_TokyoCondominiumSales;20080515;04:00;Tokyo Condominium Sales (YoY);Japan;JPY;1
+AUD_RBAForeignExchangeTransaction;20080515;01:30;RBA Foreign Exchange Transaction;Australia;AUD;1
+NZD_BusinessNZPMI;20080515;00:00;Business NZ PMI;New Zealand;NZD;1

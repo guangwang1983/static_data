@@ -1,0 +1,17 @@
+AUD_NationalAustraliaBankBusinessConfidence;20220125;00:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20220125;00:30;National Australia Bank Business Conditions;Australia;AUD;1
+AUD_ConsumerPriceIndex;20220125;00:30;Consumer Price Index (YoY);Australia;AUD;2
+AUD_RBATrimmedMeanCPI;20220125;00:30;RBA Trimmed Mean CPI (YoY);Australia;AUD;1
+TRY_ManufacturingConfidence;20220125;07:00;Manufacturing Confidence;Turkey;TRY;1
+TRY_CapacityUtilization;20220125;07:00;Capacity Utilization;Turkey;TRY;1
+GBP_PublicSectorNetBorrowing;20220125;07:00;Public Sector Net Borrowing;United Kingdom;GBP;1
+USD_RedbookIndex;20220125;13:55;Redbook Index (YoY);United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20220125;14:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;2
+USD_HousingPriceIndex;20220125;14:00;Housing Price Index (MoM);United States;USD;2
+AUD_AustraliaDay;20220125;14:00;Australia Day;Australia;AUD;0
+USD_ConsumerConfidence;20220125;15:00;Consumer Confidence;United States;USD;2
+USD_RichmondFedManufacturingIndex;20220125;15:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_Auction;20220125;18:00;5-Year Note Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20220125;21:30;API Weekly Crude Oil Stock;United States;USD;1
+JPY_CorporateServicePriceIndex;20220125;23:50;Corporate Service Price Index (YoY);Japan;JPY;1
+JPY_BoJSummaryofOpinions;20220125;23:50;BoJ Summary of Opinions;Japan;JPY;1

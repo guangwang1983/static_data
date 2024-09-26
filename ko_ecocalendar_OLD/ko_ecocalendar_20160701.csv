@@ -1,0 +1,54 @@
+JPY_CFTCJPYNCNetPositions;20160701;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+AUD_CFTCAUDNCNetPositions;20160701;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCGoldNCNetPositions;20160701;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCUSDNCNetPositions;20160701;19:30;CFTC USD NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20160701;19:30;CFTC Oil NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20160701;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+GBP_CFTCGBPNCNetPositions;20160701;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+BRL_TradeBalance;20160701;18:00;Trade Balance;Brazil;BRL;1
+USD_BakerHughesUSOilRigCount;20160701;17:00;Baker Hughes US Oil Rig Count;United States;USD;2
+USD_TotalVehicleSales;20160701;17:00;Total Vehicle Sales;United States;USD;1
+USD_ISMManufacturingPMI;20160701;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMPricesPaid;20160701;14:00;ISM Prices Paid;United States;USD;2
+USD_ConstructionSpending;20160701;14:00;Construction Spending (MoM);United States;USD;2
+USD_MarkitManufacturingPMI;20160701;13:45;Markit Manufacturing PMI;United States;USD;2
+BRL_HSBCPMIManufacturing;20160701;13:00;HSBC PMI Manufacturing;Brazil;BRL;1
+RUB_GrossDomesticProduct;20160701;13:00;Gross Domestic Product Quarterly (YoY);Russia;RUB;1
+BRL_IndustrialOutput;20160701;12:00;Industrial Output (YoY);Brazil;BRL;1
+CZK_BudgetBalance;20160701;12:00;Budget Balance;Czech Republic;CZK;1
+EUR_EurUnemploymentRate;20160701;09:00;Unemployment Rate;European Monetary Union;EUR;2
+GBP_MarkitManufacturingPMI;20160701;08:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+TRY_Exports;20160701;08:00;Exports;Turkey;TRY;1
+EUR_ItaUnemployment;20160701;08:00;Unemployment;Italy;EUR;2
+EUR_GreMarkitManufacturingPMI;20160701;08:00;Markit Manufacturing PMI;Greece;EUR;1
+NOK_RegisteredUnemployment;20160701;08:00;Registered Unemployment n.s.a;Norway;NOK;1
+EUR_EurMarkitManufacturingPMI;20160701;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_GerMarkitManufacturingPMI;20160701;07:55;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20160701;07:50;Markit Manufacturing PMI;France;EUR;1
+EUR_ItaMarkitManufacturingPMI;20160701;07:45;Markit Manufacturing PMI;Italy;EUR;1
+CHF_SVMEPurchasingManagers'Index;20160701;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_MarkitPMI;20160701;07:30;Markit PMI;Czech Republic;CZK;1
+EUR_SpaMarkitManufacturingPMI;20160701;07:15;Markit Manufacturing PMI;Spain;EUR;1
+CHF_RetailSales;20160701;07:15;Real Retail Sales (YoY);Switzerland;CHF;2
+EUR_AusUnemployment;20160701;07:00;Unemployment;Austria;EUR;1
+EUR_AusUnemploymentRate;20160701;07:00;Unemployment Rate;Austria;EUR;1
+DKK_GrossDomesticProduct;20160701;07:00;Gross Domestic Product - Revised (YoY);Denmark;DKK;1
+HUF_PurchasingManagerIndex;20160701;07:00;Purchasing Manager Index;Hungary;HUF;1
+EUR_IrePurchasingManagerIndexManufacturing;20160701;07:00;Purchasing Manager Index Manufacturing;Ireland;EUR;1
+PLN_PurchasingManagerIndex;20160701;07:00;Purchasing Manager Index;Poland;PLN;2
+RUB_HSBCManufacturingPMI;20160701;06:46;HSBC Manufacturing PMI	;Russia;RUB;1
+AUD_RBACommodityIndexSDR;20160701;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+SEK_PurchasingManagersIndexManufacturing;20160701;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;2
+PEN_Inflation;20160701;06:00;Inflation;Peru;PEN;1
+JPY_VehicleSales;20160701;05:00;Vehicle Sales (YoY);Japan;JPY;1
+JPY_ConsumerConfidenceIndex;20160701;05:00;Consumer Confidence Index;Japan;JPY;1
+IDR_CoreInflation;20160701;04:00;Core Inflation (YoY);Indonesia;IDR;1
+JPY_NikkeiManufacturingPMI;20160701;02:00;Nikkei Manufacturing PMI;Japan;JPY;1
+IDR_Inflation;20160701;02:00;Inflation (YoY);Indonesia;IDR;1
+CNY_CaixinManufacturingPMI;20160701;01:45;Caixin Manufacturing PMI;China;CNY;2
+KRW_NikkeiMarkitManufacturingPMI;20160701;01:30;Nikkei Markit Manufacturing PMI;South Korea;KRW;1
+CNY_NBSManufacturingPMI;20160701;01:00;NBS Manufacturing PMI;China;CNY;2
+CNY_NonManufacturingPMI;20160701;01:00;Non-Manufacturing PMI;China;CNY;2
+KRW_TradeBalance;20160701;00:00;Trade Balance;South Korea;KRW;1
+HKD_HongKongSpecialAdministrativeRegionEstablishmentDay;20160701;00:00;Hong Kong Special Administrative Region Establishment Day;Hong Kong SAR;HKD;0
+CAD_CanadaDay;20160701;00:00;Canada Day;Canada;CAD;0

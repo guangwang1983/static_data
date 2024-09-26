@@ -1,0 +1,37 @@
+JPY_MachineryOrders;20190813;23:50;Machinery Orders (YoY);Japan;JPY;2
+EUR_IreConsumerConfidence;20190813;23:01;Consumer Confidence;Ireland;EUR;1
+KRW_UnemploymentRate;20190813;23:00;Unemployment Rate;South Korea;KRW;1
+KRW_ExportPriceGrowth;20190813;21:00;Export Price Growth (YoY);South Korea;KRW;1
+KRW_ImportPriceGrowth;20190813;21:00;Import Price Growth (YoY);South Korea;KRW;1
+USD_APIWeeklyCrudeOilStock;20190813;20:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_Auction;20190813;15:30;52-Week Bill Auction;United States;USD;1
+USD_RedbookIndex;20190813;12:55;Redbook Index (YoY);United States;USD;1
+USD_ConsumerPriceIndex;20190813;12:30;Consumer Price Index Core s.a;United States;USD;2
+USD_NFIBBusinessOptimismIndex;20190813;10:00;NFIB Business Optimism Index;United States;USD;1
+ILS_Imports;20190813;10:00;Imports;Israel;ILS;1
+ILS_Exports;20190813;10:00;Exports;Israel;ILS;1
+ILS_TradeBalance;20190813;10:00;Trade Balance;Israel;ILS;1
+EUR_GerZEWSurveyEconomicSentiment;20190813;09:00;ZEW Survey - Economic Sentiment;Germany;EUR;3
+EUR_GerZEWSurveyCurrentSituation;20190813;09:00;ZEW Survey - Current Situation;Germany;EUR;2
+EUR_EurZEWSurveyEconomicSentiment;20190813;09:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;2
+EUR_SpaAuction;20190813;08:40;12-Month Letras Auction;Spain;EUR;1
+GBP_ILOUnemploymentRate;20190813;08:30;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_ClaimantCountChange;20190813;08:30;Claimant Count Change;United Kingdom;GBP;2
+GBP_ClaimantCountRate;20190813;08:30;Claimant Count Rate;United Kingdom;GBP;1
+GBP_AverageEarningsIncludingBonus;20190813;08:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_AverageEarningsExcludingBonus;20190813;08:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;3
+CZK_CurrentAccount;20190813;08:00;Current Account (MoM);Czech Republic;CZK;1
+EUR_SpaHICP;20190813;07:00;HICP (YoY);Spain;EUR;1
+EUR_SloHeadlineInflation;20190813;07:00;Headline Inflation (MoM);Slovakia;EUR;1
+EUR_SloCoreInflation;20190813;07:00;Core Inflation (MoM);Slovakia;EUR;1
+HUF_IndustrialOutput;20190813;07:00;Industrial Output (YoY);Hungary;HUF;1
+EUR_SpaConsumerPriceIndex;20190813;07:00;Consumer Price Index (MoM);Spain;EUR;1
+EUR_GerWholesalePriceIndex;20190813;06:00;Wholesale Price Index (MoM);Germany;EUR;1
+EUR_GerConsumerPriceIndex;20190813;06:00;Consumer Price Index (MoM);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20190813;06:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+JPY_MachineToolOrders;20190813;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+JPY_TertiaryIndustryIndex;20190813;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+KRW_MoneySupplyGrowth;20190813;03:00;Money Supply Growth;South Korea;KRW;1
+AUD_NationalAustraliaBankBusinessConditions;20190813;01:30;National Australia Bank Business Conditions;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConfidence;20190813;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+SGD_GrossDomesticProduct;20190813;00:00;Gross Domestic Product (QoQ);Singapore;SGD;1

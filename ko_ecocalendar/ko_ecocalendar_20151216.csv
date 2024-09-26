@@ -1,0 +1,48 @@
+ZAR_DayofReconciliation;20151216;00:00;Day of Reconciliation;South Africa;ZAR;0
+JPY_JibunBankManufacturingPMI;20151216;01:35;Jibun Bank Manufacturing PMI;Japan;JPY;1
+CZK_ProducerPriceIndex;20151216;08:00;Producer Price Index (YoY);Czech Republic;CZK;1
+EUR_FraHCOBManufacturingPMI;20151216;08:00;HCOB Manufacturing PMI;France;EUR;1
+EUR_FraHCOBServicesPMI;20151216;08:00;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20151216;08:00;HCOB Composite PMI;France;EUR;1
+EUR_EurNonMonetaryPolicyECBMeeting;20151216;08:00;Non-Monetary Policy ECB Meeting;European Monetary Union;EUR;3
+EUR_GerHCOBCompositePMI;20151216;08:30;HCOB Composite PMI;Germany;EUR;2
+EUR_GerHCOBManufacturingPMI;20151216;08:30;HCOB Manufacturing PMI;Germany;EUR;2
+EUR_GerHCOBServicesPMI;20151216;08:30;HCOB Services PMI;Germany;EUR;2
+EUR_EurHCOBManufacturingPMI;20151216;09:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurHCOBServicesPMI;20151216;09:00;HCOB Services PMI;European Monetary Union;EUR;2
+EUR_EurHCOBCompositePMI;20151216;09:00;HCOB Composite PMI;European Monetary Union;EUR;2
+GBP_AverageEarningsExcludingBonus;20151216;09:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20151216;09:30;ILO Unemployment Rate (3M);United Kingdom;GBP;2
+GBP_AverageEarningsIncludingBonus;20151216;09:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountChange;20151216;09:30;Claimant Count Change;United Kingdom;GBP;2
+GBP_ClaimantCountRate;20151216;09:30;Claimant Count Rate;United Kingdom;GBP;2
+EUR_EurTradeBalance;20151216;10:00;Trade Balance n.s.a.;European Monetary Union;EUR;2
+CHF_ZEWSurvey–Expectations;20151216;10:00;ZEW Survey – Expectations;Switzerland;CHF;2
+EUR_EurHarmonizedIndexofConsumerPrices;20151216;10:00;Harmonized Index of Consumer Prices (MoM);European Monetary Union;EUR;3
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20151216;10:00;Core Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+BRL_RetailSales;20151216;11:00;Retail Sales (MoM);Brazil;BRL;1
+CZK_CNBInterestRateDecision;20151216;12:00;CNB Interest Rate Decision;Czech Republic;CZK;1
+USD_MBAMortgageApplications;20151216;12:00;MBA Mortgage Applications;United States;USD;1
+PLN_NetInflation;20151216;13:00;Net Inflation;Poland;PLN;1
+PLN_CorporateSectorWages;20151216;13:00;Corporate Sector Wages;Poland;PLN;1
+USD_HousingStarts;20151216;13:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20151216;13:30;Building Permits (MoM);United States;USD;2
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20151216;13:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20151216;13:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CHF_SNBQuarterlyBulletin;20151216;14:00;SNB Quarterly Bulletin;Switzerland;CHF;2
+USD_IndustrialProduction;20151216;14:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20151216;14:15;Capacity Utilization;United States;USD;2
+USD_S&PGlobalManufacturingPMI;20151216;14:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_EIACrudeOilStocksChange;20151216;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_FOMCEconomicProjections;20151216;19:00;FOMC Economic Projections;United States;USD;2
+USD_FedInterestRateDecision;20151216;19:00;Fed Interest Rate Decision;United States;USD;3
+USD_FedMonetaryPolicyStatementandPressConference;20151216;19:30;Fed Monetary Policy Statement and Press Conference;United States;USD;3
+COP_RetailSales;20151216;21:36;Retail Sales (YoY);Colombia;COP;1
+NZD_GrossDomesticProduct;20151216;21:45;Gross Domestic Product (YoY);New Zealand;NZD;2
+COP_Industrialoutput;20151216;22:00;Industrial output (YoY);Colombia;COP;1
+JPY_MerchandiseTradeBalanceTotal;20151216;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Imports;20151216;23:50;Imports (YoY);Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20151216;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;2
+JPY_Exports;20151216;23:50;Exports (YoY);Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20151216;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20151216;23:50;Foreign Bond Investment;Japan;JPY;2

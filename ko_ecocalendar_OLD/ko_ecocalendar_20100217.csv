@@ -1,0 +1,18 @@
+USD_MonthlyBudgetStatement;20100217;19:19;Monthly Budget Statement;United States;USD;1
+USD_FOMCMinutes;20100217;19:00;FOMC Minutes;United States;USD;3
+USD_IndustrialProduction;20100217;14:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20100217;14:15;Capacity Utilization;United States;USD;1
+USD_HousingStarts;20100217;13:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20100217;13:30;Building Permits (MoM);United States;USD;1
+USD_ImportPriceIndex;20100217;13:30;Import Price Index (MoM);United States;USD;1
+CAD_WholesaleSales;20100217;13:30;Wholesale Sales (MoM);Canada;CAD;1
+USD_MBAMortgageApplications;20100217;12:00;MBA Mortgage Applications;United States;USD;1
+EUR_EurTradeBalance;20100217;10:00;Trade Balance n.s.a.;European Monetary Union;EUR;1
+EUR_EurConstructionOutput;20100217;10:00;Construction Output  s.a (MoM);European Monetary Union;EUR;2
+GBP_BankofEnglandMinutes;20100217;09:30;Bank of England Minutes;United Kingdom;GBP;3
+GBP_AverageEarningsExcludingBonus;20100217;09:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;1
+GBP_AverageEarningsIncludingBonus;20100217;09:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;1
+GBP_ClaimantCountChange;20100217;09:30;Claimant Count Change;United Kingdom;GBP;3
+GBP_ClaimantCountRate;20100217;09:30;Claimant Count Rate;United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20100217;09:30;ILO Unemployment Rate (3M);United Kingdom;GBP;2
+JPY_MachineToolOrders;20100217;06:00;Machine Tool Orders (YoY);Japan;JPY;1

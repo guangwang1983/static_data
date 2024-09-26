@@ -1,0 +1,53 @@
+KRW_TradeBalance;20220901;00:00;Trade Balance;South Korea;KRW;1
+KRW_S&PGlobalManufacturingPMI;20220901;00:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+JPY_JibunBankManufacturingPMI;20220901;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+AUD_InvestmentLendingforHomes;20220901;01:30;Investment Lending for Homes;Australia;AUD;1
+AUD_HomeLoans;20220901;01:30;Home Loans;Australia;AUD;1
+AUD_PrivateCapitalExpenditure;20220901;01:30;Private Capital Expenditure;Australia;AUD;1
+CNY_CaixinManufacturingPMI;20220901;01:45;Caixin Manufacturing PMI;China;CNY;2
+JPY_Auction;20220901;03:35;10-y Bond Auction;Japan;JPY;1
+IDR_CoreInflation;20220901;04:00;Core Inflation (YoY);Indonesia;IDR;1
+IDR_Inflation;20220901;04:00;Inflation (YoY);Indonesia;IDR;1
+GBP_NationwideHousingPrices;20220901;06:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;1
+RUB_S&PGlobalManufacturingPMI;20220901;06:00;S&P Global Manufacturing PMI;Russia;RUB;1
+SEK_CurrentAccount;20220901;06:00;Current Account (QoQ);Sweden;SEK;1
+CHF_RetailSales;20220901;06:30;Real Retail Sales (YoY);Switzerland;CHF;2
+CHF_ConsumerPriceIndex;20220901;06:30;Consumer Price Index (YoY);Switzerland;CHF;1
+AUD_RBACommodityIndexSDR;20220901;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+SEK_PurchasingManagersIndexManufacturing;20220901;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+PLN_PurchasingManagerIndex;20220901;07:00;Purchasing Manager Index;Poland;PLN;2
+HUF_PurchasingManagerIndex;20220901;07:00;Purchasing Manager Index;Hungary;HUF;1
+HUF_TradeBalance;20220901;07:00;Trade Balance;Hungary;HUF;1
+HUF_GrossDomesticProduct;20220901;07:00;Gross Domestic Product (YoY);Hungary;HUF;1
+CZK_S&PGlobalPMI;20220901;07:30;S&P Global PMI;Czech Republic;CZK;1
+CHF_SVMEPurchasingManagers'Index;20220901;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+TRY_Exports;20220901;08:00;Exports;Turkey;TRY;1
+EUR_EurS&PGlobalManufacturingPMI;20220901;08:00;S&P Global Manufacturing PMI;European Monetary Union;EUR;1
+GBP_S&PGlobalCIPSManufacturingPMI;20220901;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+DKK_ManufacturingPMI;20220901;09:00;Manufacturing PMI;Denmark;DKK;1
+EUR_EurUnemploymentRate;20220901;09:00;Unemployment Rate;European Monetary Union;EUR;2
+USD_ChallengerJobCuts;20220901;11:30;Challenger Job Cuts;United States;USD;1
+BRL_GrossDomesticProduct;20220901;12:00;Gross Domestic Product (QoQ);Brazil;BRL;1
+ZAR_TotalNewVehicleSales;20220901;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+CZK_BudgetBalance;20220901;12:00;Budget Balance;Czech Republic;CZK;1
+USD_JoblessClaims;20220901;12:30;Continuing Jobless Claims;United States;USD;1
+USD_UnitLaborCosts;20220901;12:30;Unit Labor Costs;United States;USD;2
+USD_NonfarmProductivity;20220901;12:30;Nonfarm Productivity;United States;USD;2
+CLP_IMACEC;20220901;12:30;IMACEC;Chile;CLP;1
+CAD_BuildingPermits;20220901;12:30;Building Permits (MoM);Canada;CAD;1
+BRL_S&PGlobalManufacturingPMI;20220901;13:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+RUB_CentralBankReserves;20220901;13:00;Central Bank Reserves $;Russia;RUB;1
+CAD_S&PGlobalManufacturingPMI;20220901;13:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20220901;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_ISMManufacturingEmploymentIndex;20220901;14:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ISMManufacturingNewOrdersIndex;20220901;14:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ISMManufacturingPMI;20220901;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20220901;14:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ConstructionSpending;20220901;14:00;Construction Spending (MoM);United States;USD;1
+USD_EIANaturalGasStorageChange;20220901;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20220901;15:30;4-Week Bill Auction;United States;USD;1
+BRL_TradeBalance;20220901;18:00;Trade Balance;Brazil;BRL;1
+USD_TotalVehicleSales;20220901;19:30;Total Vehicle Sales;United States;USD;1
+NZD_TermsofTradeIndex;20220901;22:45;Terms of Trade Index;New Zealand;NZD;1
+KRW_ConsumerPriceIndex;20220901;23:00;Consumer Price Index Growth (MoM);South Korea;KRW;1
+JPY_MonetaryBase;20220901;23:50;Monetary Base (YoY);Japan;JPY;1

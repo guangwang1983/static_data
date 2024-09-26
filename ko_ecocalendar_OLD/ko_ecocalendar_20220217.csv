@@ -1,0 +1,28 @@
+AUD_EmploymentChange;20220217;00:30;Employment Change s.a.;Australia;AUD;3
+AUD_FulltimeEmployment;20220217;00:30;Fulltime Employment;Australia;AUD;2
+AUD_PartTimeEmployment;20220217;00:30;Part-Time Employment;Australia;AUD;1
+AUD_UnemploymentRate;20220217;00:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_ParticipationRate;20220217;00:30;Participation Rate;Australia;AUD;1
+CHF_Exports;20220217;07:00;Exports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20220217;07:00;Trade Balance;Switzerland;CHF;1
+CHF_Imports;20220217;07:00;Imports (MoM);Switzerland;CHF;1
+EUR_EurEconomicBulletin;20220217;09:00;Economic Bulletin;European Monetary Union;EUR;2
+TRY_CBRTInterestRateDecision;20220217;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+RUB_CentralBankReserves;20220217;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_HousingStarts;20220217;13:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20220217;13:30;Building Permits (MoM);United States;USD;2
+USD_HousingStartsChange;20220217;13:30;Housing Starts Change;United States;USD;1
+USD_BuildingPermitsChange;20220217;13:30;Building Permits Change;United States;USD;1
+USD_JoblessClaims;20220217;13:30;Initial Jobless Claims;United States;USD;2
+USD_PhiladelphiaFedManufacturingSurvey;20220217;13:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20220217;13:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20220217;13:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_EmploymentInsuranceBeneficiariesChange;20220217;13:30;Employment Insurance Beneficiaries Change (MoM);Canada;CAD;1
+EUR_EurCentralBankSpeech;20220217;14:00;ECB Lane speech;European Monetary Union;EUR;2
+USD_EIANaturalGasStorageChange;20220217;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20220217;16:30;4-Week Bill Auction;United States;USD;1
+NZD_ProducerPriceIndex;20220217;21:45;Producer Price Index - Input (QoQ);New Zealand;NZD;1
+USD_CentralBankSpeech;20220217;22:00;Fed Mester speech;United States;USD;2
+JPY_NationalCPIexFoodEnergy;20220217;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20220217;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20220217;23:30;National Consumer Price Index (YoY);Japan;JPY;2

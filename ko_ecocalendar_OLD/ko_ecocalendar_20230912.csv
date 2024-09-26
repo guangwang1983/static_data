@@ -1,0 +1,33 @@
+AUD_WestpacConsumerConfidence;20230912;00:30;Westpac Consumer Confidence;Australia;AUD;2
+AUD_NationalAustraliaBankBusinessConditions;20230912;01:30;National Australia Bank Business Conditions;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConfidence;20230912;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+GBP_EmploymentChange;20230912;06:00;Employment Change;United Kingdom;GBP;3
+GBP_ILOUnemploymentRate;20230912;06:00;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_AverageEarningsIncludingBonus;20230912;06:00;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_AverageEarningsExcludingBonus;20230912;06:00;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountRate;20230912;06:00;Claimant Count Rate;United Kingdom;GBP;2
+GBP_ClaimantCountChange;20230912;06:00;Claimant Count Change;United Kingdom;GBP;3
+RON_ConsumerPriceIndex;20230912;06:00;Consumer Price Index;Romania;RON;1
+CNY_M2MoneySupply;20230912;07:00;M2 Money Supply (YoY);China;CNY;1
+CNY_NewLoans;20230912;07:00;New Loans;China;CNY;1
+CNY_FDIForeignDirectInvestment;20230912;07:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;1
+EUR_GerZEWSurvey–EconomicSentiment;20230912;09:00;ZEW Survey – Economic Sentiment;Germany;EUR;2
+EUR_GerZEWSurvey–CurrentSituation;20230912;09:00;ZEW Survey – Current Situation;Germany;EUR;2
+EUR_EurZEWSurvey–EconomicSentiment;20230912;09:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;2
+USD_NFIBBusinessOptimismIndex;20230912;10:00;NFIB Business Optimism Index;United States;USD;1
+BRL_IPCAInflation;20230912;12:00;IPCA Inflation;Brazil;BRL;1
+INR_ConsumerPriceIndex;20230912;12:00;Consumer Price Index (YoY);India;INR;1
+INR_ManufacturingOutput;20230912;12:00;Manufacturing Output;India;INR;1
+INR_IndustrialOutput;20230912;12:00;Industrial Output;India;INR;1
+INR_CumulativeIndustrialOutput;20230912;12:00;Cumulative Industrial Output;India;INR;1
+EUR_GerCurrentAccount;20230912;12:45;Current Account n.s.a.;Germany;EUR;1
+USD_RedbookIndex;20230912;12:55;Redbook Index (YoY);United States;USD;1
+USD_USDAWASDEReport;20230912;16:00;USDA WASDE Report;United States;USD;1
+USD_Auction;20230912;17:00;10-Year Note Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20230912;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_ExportPriceGrowth;20230912;21:00;Export Price Growth (YoY);South Korea;KRW;1
+KRW_ImportPriceGrowth;20230912;21:00;Import Price Growth (YoY);South Korea;KRW;1
+NZD_FoodPriceIndex;20230912;22:45;Food Price Index (MoM);New Zealand;NZD;1
+KRW_UnemploymentRate;20230912;23:00;Unemployment Rate;South Korea;KRW;1
+JPY_ProducerPriceIndex;20230912;23:50;Producer Price Index (YoY);Japan;JPY;1
+JPY_BSILargeManufacturingConditionsIndex;20230912;23:50;BSI Large Manufacturing Conditions Index (QoQ);Japan;JPY;1

@@ -1,0 +1,51 @@
+JPY_BankLending;20110908;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_GrossDomesticProduct;20110908;23:50;Gross Domestic Product (QoQ);Japan;JPY;2
+JPY_MoneySupplyM2+CD;20110908;23:50;Money Supply M2+CD (YoY);Japan;JPY;1
+USD_BarackObamaPressConference;20110908;23:00;Barack Obama Press Conference;United States;USD;2
+KRW_ProducerPriceIndex;20110908;21:00;Producer Price Index Growth (YoY);South Korea;KRW;1
+USD_ConsumerCreditChange;20110908;19:00;Consumer Credit Change;United States;USD;2
+USD_CentralBankSpeech;20110908;17:00;Former Fed Chair Bernanke speech;United States;USD;1
+USD_EIACrudeOilStocksChange;20110908;15:00;EIA Crude Oil Stocks Change;United States;USD;1
+MXN_12MonthInflation;20110908;13:00;12-Month Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20110908;13:00;Headline Inflation;Mexico;MXN;1
+MXN_CoreInflation;20110908;13:00;Core Inflation;Mexico;MXN;1
+USD_TradeBalance;20110908;12:30;Trade Balance;United States;USD;2
+USD_JoblessClaims;20110908;12:30;Continuing Jobless Claims;United States;USD;1
+CAD_BuildingPermits;20110908;12:30;Building Permits (MoM);Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20110908;12:30;International Merchandise Trade;Canada;CAD;1
+CAD_NewHousingPriceIndex;20110908;12:30;New Housing Price Index (MoM);Canada;CAD;1
+EUR_EurCentralBankSpeech;20110908;12:30;ECB President Trichet speech;European Monetary Union;EUR;3
+EUR_EurECBInterestRateDecision;20110908;11:45;ECB Interest Rate Decision;European Monetary Union;EUR;3
+GBP_BoEAssetPurchaseFacility;20110908;11:00;BoE Asset Purchase Facility;United Kingdom;GBP;0
+GBP_BoEInterestRateDecision;20110908;11:00;BoE Interest Rate Decision;United Kingdom;GBP;3
+ZAR_ManufacturingProductionIndex;20110908;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+EUR_IreHICP;20110908;10:00;HICP (YoY);Ireland;EUR;1
+EUR_IreConsumerPriceIndex;20110908;10:00;Consumer Price Index (YoY);Ireland;EUR;1
+EUR_PorGrossDomesticProduct;20110908;10:00;Gross Domestic Product (YoY);Portugal;EUR;1
+ZAR_BusinessConfidenceIndex;20110908;09:30;Business Confidence Index;South Africa;ZAR;1
+ZAR_ReutersEconometer;20110908;09:30;Reuters Econometer;South Africa;ZAR;1
+ISK_GrossDomesticProduct;20110908;09:00;Gross Domestic Product (QoQ);Iceland;ISK;1
+ISK_TradeBalance;20110908;09:00;Trade Balance;Iceland;ISK;1
+RUB_CentralBankReserves;20110908;08:16;Central Bank Reserves $;Russia;RUB;1
+EUR_NetConsumerPriceIndex;20110908;07:30;Consumer Price Index n.s.a (YoY);Netherlands, The;EUR;1
+EUR_SloForeignTradeBalance;20110908;07:00;Foreign Trade Balance;Slovakia;EUR;1
+EUR_SloIndustrialOutput;20110908;07:00;Industrial Output (YoY);Slovakia;EUR;1
+CZK_UnemploymentRate;20110908;07:00;Unemployment Rate;Czech Republic;CZK;1
+RON_IndustrialProduction;20110908;07:00;Industrial Production (MoM);Romania;RON;1
+EUR_SpaIndustrialOutputCalAdjusted;20110908;07:00;Industrial Output Cal Adjusted (YoY);Spain;EUR;1
+DKK_TradeBalance;20110908;07:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20110908;07:00;Current Account;Denmark;DKK;1
+CZK_GrossDomesticProduct;20110908;07:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+HUF_GrossDomesticProduct;20110908;07:00;Gross Domestic Product (YoY);Hungary;HUF;1
+EUR_FraImportsEUR;20110908;06:45;Imports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20110908;06:45;Trade Balance EUR;France;EUR;1
+EUR_FraExportsEUR;20110908;06:45;Exports, EUR;France;EUR;1
+EUR_FraNonfarmPayrolls;20110908;06:45;Nonfarm Payrolls (QoQ);France;EUR;1
+EUR_GerCurrentAccount;20110908;06:00;Current Account n.s.a.;Germany;EUR;1
+EUR_GerTradeBalance;20110908;06:00;Trade Balance s.a.;Germany;EUR;2
+CHF_UnemploymentRate;20110908;05:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+JPY_EcoWatchersSurvey:Outlook;20110908;05:00;Eco Watchers Survey: Outlook;Japan;JPY;1
+JPY_EcoWatchersSurvey:Current;20110908;05:00;Eco Watchers Survey: Current;Japan;JPY;0
+JPY_BoJMonthlyEconomicSurvey;20110908;05:00;BoJ Monthly Economic Survey;Japan;JPY;0
+AUD_EmploymentChange;20110908;01:30;Employment Change s.a.;Australia;AUD;3
+AUD_UnemploymentRate;20110908;01:30;Unemployment Rate s.a.;Australia;AUD;3

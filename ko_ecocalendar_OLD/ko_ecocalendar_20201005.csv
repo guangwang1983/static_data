@@ -1,0 +1,39 @@
+GBP_RetailSales;20201005;23:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+KRW_ConsumerPriceIndex;20201005;23:00;Consumer Price Index Growth (MoM);South Korea;KRW;1
+AUD_AiGPerformanceofConstructionIndex;20201005;21:30;AiG Performance of Construction Index;Australia;AUD;2
+NZD_NZIERBusinessConfidence;20201005;21:00;NZIER Business Confidence (QoQ);New Zealand;NZD;2
+CNY_NationalDay;20201005;16:00;National Day;China;CNY;0
+USD_Auction;20201005;15:30;3-Month Bill Auction;United States;USD;1
+USD_ISMServicesPMI;20201005;14:00;ISM Services PMI;United States;USD;3
+USD_ISMServicesNewOrdersIndex;20201005;14:00;ISM Services New Orders Index;United States;USD;2
+USD_ISMServicesEmploymentIndex;20201005;14:00;ISM Services Employment Index;United States;USD;2
+USD_ISMServicesPricesPaid;20201005;14:00;ISM Services Prices Paid;United States;USD;2
+USD_MarkitServicesPMI;20201005;13:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20201005;13:45;Markit PMI Composite;United States;USD;2
+RON_Interestratedecision;20201005;12:00;Interest rate decision;Romania;RON;1
+MXN_ConsumerConfidence;20201005;11:00;Consumer Confidence;Mexico;MXN;1
+EUR_EurRetailSales;20201005;09:00;Retail Sales (MoM);European Monetary Union;EUR;2
+EUR_EurSentixInvestorConfidence;20201005;08:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+GBP_MarkitServicesPMI;20201005;08:30;Markit Services PMI;United Kingdom;GBP;1
+GBP_CentralBankSpeech;20201005;08:30;BoE Haldane speech;United Kingdom;GBP;2
+EUR_EurMarkitServicesPMI;20201005;08:00;Markit Services PMI;European Monetary Union;EUR;1
+EUR_EurMarkitPMIComposite;20201005;08:00;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_GerMarkitPMIComposite;20201005;07:55;Markit PMI Composite;Germany;EUR;2
+EUR_GerMarkitServicesPMI;20201005;07:55;Markit Services PMI;Germany;EUR;1
+EUR_FraMarkitServicesPMI;20201005;07:50;Markit Services PMI;France;EUR;1
+EUR_FraMarkitPMIComposite;20201005;07:50;Markit PMI Composite;France;EUR;1
+EUR_ItaMarkitServicesPMI;20201005;07:45;Markit Services PMI;Italy;EUR;2
+EUR_SpaMarkitServicesPMI;20201005;07:15;Markit Services PMI;Spain;EUR;2
+TRY_ProducerPriceIndex;20201005;07:00;Producer Price Index (YoY);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20201005;07:00;Consumer Price Index (MoM);Turkey;TRY;1
+HUF_RetailSales;20201005;07:00;Retail Sales (YoY);Hungary;HUF;1
+INR_ReverseRepoRate;20201005;06:15;Reverse Repo Rate;India;INR;1
+INR_RBIInterestRateDecision;20201005;06:15;RBI Interest Rate Decision (Repo Rate);India;INR;1
+RUB_PurchasingManagerIndexServices;20201005;06:00;Purchasing Manager Index Services;Russia;RUB;1
+SGD_RetailSales;20201005;05:00;Retail Sales (MoM);Singapore;SGD;1
+JPY_JibunBankServicesPMI;20201005;00:30;Jibun Bank Services PMI;Japan;JPY;1
+KRW_NikkeiMarkitManufacturingPMI;20201005;00:30;Nikkei Markit Manufacturing PMI;South Korea;KRW;1
+EUR_IrePurchasingManagerIndexServices;20201005;00:01;Purchasing Manager Index Services;Ireland;EUR;1
+EUR_EurEurogroupMeeting;20201005;00:00;Eurogroup Meeting;European Monetary Union;EUR;2
+NZD_ANZCommodityPrice;20201005;00:00;ANZ Commodity Price;New Zealand;NZD;1
+AUD_TDSecuritiesInflation;20201005;00:00;TD Securities Inflation (MoM);Australia;AUD;2

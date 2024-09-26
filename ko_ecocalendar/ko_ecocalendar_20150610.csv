@@ -1,0 +1,37 @@
+AUD_WestpacConsumerConfidence;20150610;00:30;Westpac Consumer Confidence;Australia;AUD;2
+AUD_CentralBankSpeech;20150610;02:50;RBA Governor Stevens speech;Australia;AUD;3
+KRW_MoneySupplyGrowth;20150610;03:00;Money Supply Growth;South Korea;KRW;1
+EUR_FraIndustrialOutput;20150610;06:45;Industrial Output (MoM);France;EUR;1
+EUR_FraCurrentAccount;20150610;06:45;Current Account;France;EUR;1
+RON_TradeBalance;20150610;07:00;Trade Balance;Romania;RON;1
+DKK_Inflation;20150610;07:00;Inflation (HICP) (YoY);Denmark;DKK;1
+DKK_ConsumerPriceIndex;20150610;07:00;Consumer Price Index (YoY);Denmark;DKK;1
+TRY_GrossDomesticProduct;20150610;07:00;Quarterly Gross Domestic Product;Turkey;TRY;1
+SEK_IndustrialProductionValue;20150610;07:30;Industrial Production Value (YoY);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20150610;07:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+NOK_ConsumerPriceIndex;20150610;08:00;Consumer Price Index (YoY);Norway;NOK;1
+NOK_CoreInflation;20150610;08:00;Core Inflation (MoM);Norway;NOK;1
+EUR_ItaIndustrialOutput;20150610;08:00;Industrial Output w.d.a (YoY);Italy;EUR;1
+NOK_ProducerPriceIndex;20150610;08:00;Producer Price Index (YoY);Norway;NOK;1
+GBP_IndustrialProduction;20150610;08:30;Industrial Production (YoY);United Kingdom;GBP;2
+GBP_ManufacturingProduction;20150610;08:30;Manufacturing Production (MoM);United Kingdom;GBP;2
+EUR_GerAuction;20150610;09:00;2-year Notes Auction;Germany;EUR;1
+USD_MBAMortgageApplications;20150610;11:00;MBA Mortgage Applications;United States;USD;1
+INR_TradeDeficit–RBI;20150610;11:30;Trade Deficit – RBI;India;INR;1
+INR_M3MoneySupply;20150610;11:30;M3 Money Supply;India;INR;1
+INR_BalancePayment;20150610;11:30;Balance Payment $;India;INR;1
+INR_CurrentAccount;20150610;11:30;Current Account Balance $;India;INR;1
+BRL_IPCAInflation;20150610;12:00;IPCA Inflation;Brazil;BRL;1
+GBP_NIESRGDPEstimate;20150610;14:00;NIESR GDP Estimate (3M);United Kingdom;GBP;3
+USD_EIACrudeOilStocksChange;20150610;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_Auction;20150610;17:00;10-Year Note Auction;United States;USD;2
+USD_MonthlyBudgetStatement;20150610;18:00;Monthly Budget Statement;United States;USD;2
+GBP_CentralBankSpeech;20150610;20:00;BoE Governor Carney speech;United Kingdom;GBP;3
+NZD_RBNZInterestRateDecision;20150610;21:00;RBNZ Interest Rate Decision;New Zealand;NZD;3
+NZD_MonetaryPolicyStatement;20150610;21:00;Monetary Policy Statement ;New Zealand;NZD;3
+NZD_RBNZPressConference;20150610;21:00;RBNZ Press Conference;New Zealand;NZD;3
+GBP_RICSHousingPriceBalance;20150610;23:01;RICS Housing Price Balance;United Kingdom;GBP;2
+NZD_REINZHousePriceIndex;20150610;23:33;REINZ House Price Index (MoM);New Zealand;NZD;2
+JPY_BSILargeManufacturingConditionsIndex;20150610;23:50;BSI Large Manufacturing Conditions Index (QoQ);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20150610;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20150610;23:50;Foreign Bond Investment;Japan;JPY;2

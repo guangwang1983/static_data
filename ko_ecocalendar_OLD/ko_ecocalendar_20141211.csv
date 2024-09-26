@@ -1,0 +1,46 @@
+NZD_BusinessNZPMI;20141211;21:30;Business NZ PMI;New Zealand;NZD;2
+CLP_BCCHInterestRate;20141211;21:00;BCCH Interest Rate;Chile;CLP;1
+USD_Auction;20141211;18:00;30-Year Bond Auction;United States;USD;1
+USD_EIANaturalGasStorageChange;20141211;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_BusinessInventories;20141211;15:00;Business Inventories;United States;USD;2
+USD_RetailSales;20141211;13:30;Retail Sales (MoM);United States;USD;3
+USD_JoblessClaims;20141211;13:30;Continuing Jobless Claims;United States;USD;2
+USD_ImportPriceIndex;20141211;13:30;Import Price Index (MoM);United States;USD;1
+USD_ExportPriceIndex;20141211;13:30;Export Price Index (YoY);United States;USD;1
+CAD_CapacityUtilization;20141211;13:30;Capacity Utilization;Canada;CAD;1
+CAD_NewHousingPriceIndex;20141211;13:30;New Housing Price Index (YoY);Canada;CAD;1
+CAD_CentralBankSpeech;20141211;13:00;BoC Governor Poloz speech;Canada;CAD;3
+RUB_Interestratedecision;20141211;13:00;Interest rate decision;Russia;RUB;0
+EUR_PorConsumerPriceIndex;20141211;11:04;Consumer Price Index (MoM);Portugal;EUR;1
+EUR_IreHICP;20141211;11:00;HICP (YoY);Ireland;EUR;1
+EUR_IreConsumerPriceIndex;20141211;11:00;Consumer Price Index (YoY);Ireland;EUR;1
+EUR_IreGrossDomesticProduct;20141211;11:00;Gross Domestic Product (QoQ);Ireland;EUR;1
+RUB_CentralBankReserves;20141211;11:00;Central Bank Reserves $;Russia;RUB;1
+EUR_EurTargetedLTRO;20141211;10:25;Targeted LTRO;European Monetary Union;EUR;3
+EUR_GreUnemploymentRate;20141211;10:00;Unemployment Rate (MoM);Greece;EUR;1
+EUR_ItaIndustrialOutput;20141211;09:00;Industrial Output w.d.a (YoY);Italy;EUR;1
+EUR_EurECBMonthlyReport;20141211;09:00;ECB Monthly Report;European Monetary Union;EUR;2
+NOK_NorgesBankInterestRateDecision;20141211;09:00;Norges Bank Interest Rate Decision;Norway;NOK;1
+CHF_SNBInterestRateDecision;20141211;08:30;SNB Interest Rate Decision;Switzerland;CHF;3
+SEK_UnemploymentRate;20141211;08:30;Unemployment Rate;Sweden;SEK;1
+CHF_SNBPressConference;20141211;08:30;SNB Press Conference;Switzerland;CHF;3
+SEK_ConsumerPriceIndex;20141211;08:30;Consumer Price Index (YoY);Sweden;SEK;1
+RON_ConsumerPriceIndex;20141211;08:00;Consumer Price Index;Romania;RON;1
+TRY_CurrentAccount;20141211;08:00;Current Account Balance;Turkey;TRY;1
+HUF_ConsumerPriceIndex;20141211;08:00;Consumer Price Index (YoY);Hungary;HUF;1
+EUR_FraConsumerPriceIndex;20141211;07:45;Consumer Price Index (EU norm) (YoY);France;EUR;1
+EUR_FraInflationextobacco;20141211;07:45;Inflation ex-tobacco (MoM);France;EUR;2
+EUR_GerConsumerPriceIndex;20141211;07:00;Consumer Price Index (MoM);Germany;EUR;2
+EUR_GerHarmonizedIndexofConsumerPrices;20141211;07:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;2
+IDR_BankIndonesiaRate;20141211;07:00;Bank Indonesia Rate;Indonesia;IDR;1
+RUB_GrossDomesticProduct;20141211;06:00;Gross Domestic Product Quarterly (YoY);Russia;RUB;1
+KRW_BoKInterestRateDecision;20141211;01:00;BoK Interest Rate Decision;South Korea;KRW;1
+AUD_PartTimeEmployment;20141211;00:30;Part-Time Employment;Australia;AUD;1
+AUD_EmploymentChange;20141211;00:30;Employment Change s.a.;Australia;AUD;3
+AUD_FulltimeEmployment;20141211;00:30;Fulltime Employment;Australia;AUD;2
+AUD_ParticipationRate;20141211;00:30;Participation Rate;Australia;AUD;1
+AUD_UnemploymentRate;20141211;00:30;Unemployment Rate s.a.;Australia;AUD;3
+NZD_CentralBankSpeech;20141211;00:10;RBNZ Governor Wheeler Speech;New Zealand;NZD;3
+GBP_RICSHousingPriceBalance;20141211;00:01;RICS Housing Price Balance;United Kingdom;GBP;1
+PEN_Interestratedecision;20141211;00:00;Interest rate decision;Peru;PEN;1
+AUD_ConsumerInflationExpectations;20141211;00:00;Consumer Inflation Expectations;Australia;AUD;2

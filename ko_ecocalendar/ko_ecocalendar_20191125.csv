@@ -1,0 +1,22 @@
+JPY_CoincidentIndex;20191125;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20191125;05:00;Leading Economic Index;Japan;JPY;2
+TRY_CapacityUtilization;20191125;07:00;Capacity Utilization;Turkey;TRY;1
+TRY_ManufacturingConfidence;20191125;07:00;Manufacturing Confidence;Turkey;TRY;1
+PLN_RetailSales;20191125;09:00;Retail Sales (YoY);Poland;PLN;1
+EUR_GerIFO–BusinessClimate;20191125;09:00;IFO – Business Climate;Germany;EUR;2
+EUR_GerIFO–CurrentAssessment;20191125;09:00;IFO – Current Assessment;Germany;EUR;2
+EUR_GerIFO–Expectations;20191125;09:00;IFO – Expectations;Germany;EUR;2
+GBP_CBIDistributiveTradesSurvey–Realized;20191125;11:00;CBI Distributive Trades Survey – Realized (MoM);United Kingdom;GBP;1
+ILS_IndustrialProduction;20191125;11:00;Industrial Production (MoM);Israel;ILS;1
+MXN_GrossDomesticProduct;20191125;12:00;Gross Domestic Product (QoQ);Mexico;MXN;1
+BRL_CurrentAccount;20191125;12:30;Current Account;Brazil;BRL;1
+CAD_WholesaleSales;20191125;13:30;Wholesale Sales (MoM);Canada;CAD;1
+USD_ChicagoFedNationalActivityIndex;20191125;13:32;Chicago Fed National Activity Index ;United States;USD;2
+ILS_BoIInterestRateDecision;20191125;14:00;BoI Interest Rate Decision;Israel;ILS;1
+MXN_CurrentAccount;20191125;15:00;Accumulated Current Account/GDP;Mexico;MXN;1
+USD_DallasFedManufacturingBusinessIndex;20191125;15:30;Dallas Fed Manufacturing Business Index;United States;USD;1
+EUR_EurCentralBankSpeech;20191125;18:00;ECB Mersch speech;European Monetary Union;EUR;2
+USD_Auction;20191125;18:00;2-Year Note Auction;United States;USD;1
+NZD_RetailSales;20191125;21:45;Retail Sales ex Autos (QoQ);New Zealand;NZD;1
+JPY_CorporateServicePriceIndex;20191125;23:50;Corporate Service Price Index (YoY);Japan;JPY;1
+AUD_CentralBankSpeech;20191125;23:50;RBA Debelle speech;Australia;AUD;2

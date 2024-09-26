@@ -1,0 +1,47 @@
+CNY_NonManufacturingPMI;20200831;01:00;Non-Manufacturing PMI;China;CNY;3
+CNY_NBSManufacturingPMI;20200831;01:00;NBS Manufacturing PMI;China;CNY;3
+AUD_TDSecuritiesInflation;20200831;01:00;TD Securities Inflation (MoM);Australia;AUD;2
+NZD_ANZActivityOutlook;20200831;01:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20200831;01:00;ANZ Business Confidence;New Zealand;NZD;1
+AUD_PrivateSectorCredit;20200831;01:30;Private Sector Credit (MoM);Australia;AUD;1
+AUD_CompanyGrossOperatingProfits;20200831;01:30;Company Gross Operating Profits (QoQ);Australia;AUD;1
+JPY_AnnualizedHousingStarts;20200831;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_HousingStarts;20200831;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_ConstructionOrders;20200831;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_ConsumerConfidenceIndex;20200831;05:00;Consumer Confidence Index;Japan;JPY;1
+DKK_UnemploymentRate;20200831;06:00;Unemployment Rate;Denmark;DKK;1
+DKK_GrossDomesticProduct;20200831;06:00;Gross Domestic Product (YoY);Denmark;DKK;1
+NOK_CreditIndicator;20200831;06:00;Credit Indicator;Norway;NOK;1
+ZAR_M3MoneySupply;20200831;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+ZAR_PrivateSectorCredit;20200831;06:00;Private Sector Credit;South Africa;ZAR;1
+CHF_RetailSales;20200831;06:30;Real Retail Sales (YoY);Switzerland;CHF;2
+HUF_GrossWages;20200831;07:00;Gross Wages (YoY);Hungary;HUF;1
+TRY_TradeBalance;20200831;07:00;Trade Balance;Turkey;TRY;1
+TRY_GrossDomesticProduct;20200831;07:00;Quarterly Gross Domestic Product;Turkey;TRY;1
+EUR_ItaGrossDomesticProduct;20200831;08:00;Gross Domestic Product (YoY);Italy;EUR;2
+PLN_GrossDomesticProduct;20200831;08:00;Gross Domestic Product Qtr (YoY);Poland;PLN;1
+EUR_ItaConsumerPriceIndex;20200831;09:00;Consumer Price Index (YoY);Italy;EUR;1
+INR_FederalFiscalDeficitINR;20200831;10:00;Federal Fiscal Deficit, INR;India;INR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20200831;12:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+EUR_GerConsumerPriceIndex;20200831;12:00;Consumer Price Index (MoM);Germany;EUR;1
+INR_GrossDomesticProduct;20200831;12:00;Gross Domestic Product Quarterly (YoY);India;INR;1
+ZAR_TradeBalance;20200831;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+INR_InfrastructureOutput;20200831;12:00;Infrastructure Output (YoY);India;INR;1
+CAD_IndustrialProductPrice;20200831;12:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_RawMaterialPriceIndex;20200831;12:30;Raw Material Price Index;Canada;CAD;1
+CAD_BuildingPermits;20200831;12:30;Building Permits (MoM);Canada;CAD;1
+BRL_NominalBudgetBalance;20200831;12:30;Nominal Budget Balance;Brazil;BRL;1
+BRL_PrimaryBudgetSurplus;20200831;12:30;Primary Budget Surplus;Brazil;BRL;1
+CLP_IndustrialProduction;20200831;13:00;Industrial Production (YoY);Chile;CLP;1
+USD_CentralBankSpeech;20200831;13:00;Fed Clarida speech;United States;USD;2
+USD_DallasFedManufacturingBusinessIndex;20200831;14:30;Dallas Fed Manufacturing Business Index;United States;USD;1
+USD_Auction;20200831;15:30;3-Month Bill Auction;United States;USD;1
+COP_NationalJoblessRate;20200831;16:00;National Jobless Rate;Colombia;COP;1
+COP_Interestrate;20200831;20:00;Interest rate;Colombia;COP;1
+AUD_AiGPerformanceofMfgIndex;20200831;22:30;AiG Performance of Mfg Index;Australia;AUD;2
+NZD_BuildingPermits;20200831;22:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+KRW_GrossDomesticProduct;20200831;23:00;Gross Domestic Product Growth (QoQ) ;South Korea;KRW;1
+AUD_S&PGlobalManufacturingPMI;20200831;23:00;S&P Global Manufacturing PMI;Australia;AUD;2
+JPY_JobsApplicantsRatio;20200831;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+JPY_UnemploymentRate;20200831;23:30;Unemployment Rate;Japan;JPY;2
+JPY_CapitalSpending;20200831;23:50;Capital Spending;Japan;JPY;1

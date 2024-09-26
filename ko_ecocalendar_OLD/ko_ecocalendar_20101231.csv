@@ -1,0 +1,15 @@
+INR_ExternalDebt;20101231;11:30;External Debt;India;INR;1
+INR_TradeDeficitRBI;20101231;11:30;Trade Deficit - RBI;India;INR;1
+INR_BalancePayment;20101231;11:30;Balance Payment $;India;INR;1
+INR_CurrentAccount;20101231;11:30;Current Account Balance $;India;INR;1
+ZAR_TradeBalance;20101231;11:00;Trade Balance (in Rands);South Africa;ZAR;1
+CZK_M2MoneySupply;20101231;10:00;M2 Money Supply (YoY);Czech Republic;CZK;1
+CZK_ForeignDebt;20101231;09:00;Foreign Debt;Czech Republic;CZK;1
+INR_FederalFiscalDeficitINR;20101231;08:15;Federal Fiscal Deficit, INR;India;INR;1
+ZAR_M3MoneySupply;20101231;07:00;M3 Money Supply (YoY);South Africa;ZAR;2
+GBP_NationwideHousingPrices;20101231;07:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;2
+ZAR_PrivateSectorCredit;20101231;07:00;Private Sector Credit;South Africa;ZAR;2
+AUD_PrivateSectorCredit;20101231;00:30;Private Sector Credit (YoY);Australia;AUD;2
+CHF_BankHoliday;20101231;00:00;Bank Holiday;Switzerland;CHF;0
+EUR_GerNewYearEve;20101231;00:00;New Year Eve;Germany;EUR;0
+JPY_BankHoliday;20101231;00:00;Bank Holiday;Japan;JPY;0

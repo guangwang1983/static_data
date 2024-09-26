@@ -1,0 +1,30 @@
+AUD_PartTimeEmployment;20230518;01:30;Part-Time Employment;Australia;AUD;1
+AUD_FullTimeEmployment;20230518;01:30;Full-Time Employment;Australia;AUD;2
+AUD_EmploymentChange;20230518;01:30;Employment Change s.a.;Australia;AUD;3
+AUD_ParticipationRate;20230518;01:30;Participation Rate;Australia;AUD;1
+AUD_UnemploymentRate;20230518;01:30;Unemployment Rate s.a.;Australia;AUD;3
+NZD_BudgetRelease;20230518;02:00;Budget Release;New Zealand;NZD;3
+CZK_ProducerPriceIndex;20230518;07:00;Producer Price Index (MoM);Czech Republic;CZK;1
+EUR_EurCentralBankSpeech;20230518;09:00;ECB President Lagarde speech;European Monetary Union;EUR;3
+GBP_BoEMonetaryPolicyReportHearings;20230518;09:15;BoE Monetary Policy Report Hearings;United Kingdom;GBP;3
+CLP_GrossDomesticProduct;20230518;12:30;Gross Domestic Product (YoY);Chile;CLP;1
+USD_JoblessClaims;20230518;12:30;Initial Jobless Claims;United States;USD;2
+CAD_EmploymentInsuranceBeneficiariesChange;20230518;12:30;Employment Insurance Beneficiaries Change (MoM);Canada;CAD;1
+CAD_NewHousingPriceIndex;20230518;12:30;New Housing Price Index (YoY);Canada;CAD;1
+USD_PhiladelphiaFedManufacturingSurvey;20230518;12:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+RUB_CentralBankReserves;20230518;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_CentralBankSpeech;20230518;13:05;Fed Jefferson speech;United States;USD;2
+USD_ExistingHomeSales;20230518;14:00;Existing Home Sales (MoM);United States;USD;1
+USD_ExistingHomeSalesChange;20230518;14:00;Existing Home Sales Change (MoM);United States;USD;1
+CAD_FinancialSystemReview;20230518;14:00;Financial System Review;Canada;CAD;1
+USD_EIANaturalGasStorageChange;20230518;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20230518;17:00;10-year TIPS Auction;United States;USD;1
+MXN_CentralBankInterestRate;20230518;19:00;Central Bank Interest Rate;Mexico;MXN;1
+NZD_Imports;20230518;22:45;Imports;New Zealand;NZD;2
+NZD_TradeBalanceNZD;20230518;22:45;Trade Balance NZD (YoY);New Zealand;NZD;2
+NZD_Exports;20230518;22:45;Exports;New Zealand;NZD;2
+TRY_CommemorationofAtaturkYouthandSportsDay;20230518;23:00;Commemoration of Ataturk, Youth and Sports Day;Turkey;TRY;0
+GBP_GfKConsumerConfidence;20230518;23:01;GfK Consumer Confidence;United Kingdom;GBP;2
+JPY_NationalCPIexFoodEnergy;20230518;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20230518;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20230518;23:30;National Consumer Price Index (YoY);Japan;JPY;2

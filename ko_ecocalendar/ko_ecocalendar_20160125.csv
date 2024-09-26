@@ -1,0 +1,23 @@
+AUD_NationalAustraliaBankBusinessConfidence;20160125;00:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20160125;00:30;National Australia Bank Business Conditions;Australia;AUD;1
+JPY_CoincidentIndex;20160125;05:00;Coincident Index;Japan;JPY;2
+JPY_LeadingEconomicIndex;20160125;05:00;Leading Economic Index;Japan;JPY;2
+EUR_GerIFO–BusinessClimate;20160125;09:00;IFO – Business Climate;Germany;EUR;1
+EUR_GerIFO–CurrentAssessment;20160125;09:00;IFO – Current Assessment;Germany;EUR;1
+EUR_GerIFO–Expectations;20160125;09:00;IFO – Expectations;Germany;EUR;1
+EUR_ItaIndustrialOrders;20160125;09:00;Industrial Orders s.a (MoM);Italy;EUR;1
+EUR_ItaIndustrialSales;20160125;09:00;Industrial Sales s.a. (MoM);Italy;EUR;1
+EUR_ItaRetailSales;20160125;10:00;Retail Sales n.s.a (YoY);Italy;EUR;1
+EUR_ItaTradeBalancenonEU;20160125;11:00;Trade Balance non-EU;Italy;EUR;1
+EUR_GerGermanBubaMonthlyReport;20160125;11:00;German Buba Monthly Report;Germany;EUR;1
+GBP_CBIIndustrialTrendsSurvey–Orders;20160125;11:00;CBI Industrial Trends Survey – Orders (MoM);United Kingdom;GBP;1
+RUB_IndustrialOutput;20160125;12:00;Industrial Output;Russia;RUB;1
+TRY_CapacityUtilization;20160125;12:30;Capacity Utilization;Turkey;TRY;1
+TRY_ManufacturingConfidence;20160125;12:30;Manufacturing Confidence;Turkey;TRY;1
+RUB_UnemploymentRate;20160125;13:00;Unemployment Rate;Russia;RUB;1
+MXN_JoblessRate;20160125;14:00;Jobless Rate s.a;Mexico;MXN;1
+USD_DallasFedManufacturingBusinessIndex;20160125;15:30;Dallas Fed Manufacturing Business Index;United States;USD;2
+USD_Auction;20160125;16:30;3-Month Bill Auction;United States;USD;1
+EUR_EurCentralBankSpeech;20160125;18:00;ECB President Draghi speech;European Monetary Union;EUR;3
+KRW_GrossDomesticProduct;20160125;23:00;Gross Domestic Product Growth (QoQ) ;South Korea;KRW;1
+JPY_CorporateServicePriceIndex;20160125;23:50;Corporate Service Price Index (YoY);Japan;JPY;1

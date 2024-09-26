@@ -1,0 +1,46 @@
+COP_TradeBalance;20150521;22:00;Trade Balance;Colombia;COP;1
+EUR_EurCentralBankSpeech;20150521;17:30;ECB President Draghi speech;European Monetary Union;EUR;3
+USD_CentralBankSpeech;20150521;17:30;Fed Stanley Fischer speech;United States;USD;2
+USD_KansasFedManufacturingActivity;20150521;15:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_EIANaturalGasStorageChange;20150521;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_ExistingHomeSalesChange;20150521;14:00;Existing Home Sales Change (MoM);United States;USD;1
+USD_ExistingHomeSales;20150521;14:00;Existing Home Sales (MoM);United States;USD;1
+EUR_EurConsumerConfidence;20150521;14:00;Consumer Confidence;European Monetary Union;EUR;1
+USD_PhiladelphiaFedManufacturingSurvey;20150521;14:00;Philadelphia Fed Manufacturing Survey;United States;USD;2
+RUB_CentralBankReserves;20150521;13:47;Central Bank Reserves $;Russia;RUB;1
+USD_MarkitManufacturingPMI;20150521;13:45;Markit Manufacturing PMI;United States;USD;2
+MXN_GrossDomesticProduct;20150521;13:00;Gross Domestic Product (YoY);Mexico;MXN;1
+ZAR_SARBInterestRateDecision;20150521;13:00;SARB Interest Rate Decision;South Africa;ZAR;1
+BRL_UnemploymentRate;20150521;12:30;Unemployment Rate;Brazil;BRL;1
+USD_ChicagoFedNationalActivityIndex;20150521;12:30;Chicago Fed National Activity Index ;United States;USD;2
+USD_JoblessClaims;20150521;12:30;Initial Jobless Claims;United States;USD;1
+RUB_ProducerPriceIndex;20150521;12:00;Producer Price Index (MoM);Russia;RUB;1
+EUR_EurECBMonetaryPolicyMeetingAccounts;20150521;11:30;ECB Monetary Policy Meeting Accounts;European Monetary Union;EUR;3
+EUR_PorCurrentAccount;20150521;11:19;Current Account Balance;Portugal;EUR;1
+GBP_CBIIndustrialTrendsSurveyOrders;20150521;10:00;CBI Industrial Trends Survey - Orders (MoM);United Kingdom;GBP;1
+EUR_SpaAuction;20150521;09:00;3-y Bond Auction;Spain;EUR;1
+GBP_RetailSales;20150521;08:30;Retail Sales (YoY);United Kingdom;GBP;2
+HKD_ConsumerPriceIndex;20150521;08:30;Consumer Price Index;Hong Kong SAR;HKD;1
+EUR_EurCurrentAccount;20150521;08:00;Current Account n.s.a;European Monetary Union;EUR;1
+EUR_ItaWageInflation;20150521;08:00;Wage Inflation (YoY);Italy;EUR;1
+EUR_EurMarkitPMIComposite;20150521;08:00;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitManufacturingPMI;20150521;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20150521;08:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_NetUnemploymentRate;20150521;07:30;Unemployment Rate s.a (3M);Netherlands, The;EUR;1
+EUR_GerMarkitPMIComposite;20150521;07:30;Markit PMI Composite;Germany;EUR;2
+EUR_GerMarkitManufacturingPMI;20150521;07:30;Markit Manufacturing PMI;Germany;EUR;2
+EUR_GerMarkitServicesPMI;20150521;07:30;Markit Services PMI;Germany;EUR;2
+HUF_GrossWages;20150521;07:00;Gross Wages (YoY);Hungary;HUF;1
+TRY_ConsumerConfidence;20150521;07:00;Consumer Confidence;Turkey;TRY;1
+DKK_ConsumerConfidence;20150521;07:00;Consumer Confidence;Denmark;DKK;1
+EUR_FraMarkitManufacturingPMI;20150521;07:00;Markit Manufacturing PMI;France;EUR;1
+EUR_FraMarkitPMIComposite;20150521;07:00;Markit PMI Composite;France;EUR;1
+EUR_FraMarkitServicesPMI;20150521;07:00;Markit Services PMI;France;EUR;1
+JPY_AllIndustryActivityIndex;20150521;04:30;All Industry Activity Index (MoM);Japan;JPY;2
+NZD_BudgetRelease;20150521;02:00;Budget Release;New Zealand;NZD;2
+CNY_CaixinManufacturingPMI;20150521;01:45;Caixin Manufacturing PMI;China;CNY;2
+JPY_NikkeiManufacturingPMI;20150521;01:35;Nikkei Manufacturing PMI;Japan;JPY;1
+AUD_RBAForeignExchangeTransaction;20150521;01:30;RBA Foreign Exchange Transaction;Australia;AUD;1
+AUD_ConsumerInflationExpectations;20150521;01:00;Consumer Inflation Expectations;Australia;AUD;2
+CLP_NavyDay;20150521;00:00;Navy Day ;Chile;CLP;0
+JPY_BoJInterestRateDecision;20150521;00:00;BoJ Interest Rate Decision;Japan;JPY;3

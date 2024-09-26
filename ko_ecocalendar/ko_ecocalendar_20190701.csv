@@ -1,0 +1,55 @@
+COP_SaintPeterandSaintPaul;20190701;00:00;Saint Peter and Saint Paul;Colombia;COP;0
+USD_OPECMeeting;20190701;00:00;OPEC Meeting;United States;USD;2
+KRW_TradeBalance;20190701;00:00;Trade Balance;South Korea;KRW;1
+COP_SacredHeart;20190701;00:00;Sacred Heart;Colombia;COP;0
+CAD_CanadaDay;20190701;00:00;Canada Day;Canada;CAD;0
+KRW_S&PGlobalManufacturingPMI;20190701;00:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+JPY_JibunBankManufacturingPMI;20190701;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+AUD_TDSecuritiesInflation;20190701;01:00;TD Securities Inflation (MoM);Australia;AUD;2
+CNY_CaixinManufacturingPMI;20190701;01:45;Caixin Manufacturing PMI;China;CNY;3
+IDR_Inflation;20190701;04:00;Inflation (MoM);Indonesia;IDR;1
+IDR_CoreInflation;20190701;04:00;Core Inflation (YoY);Indonesia;IDR;1
+JPY_VehicleSales;20190701;05:00;Vehicle Sales (YoY);Japan;JPY;1
+JPY_ConsumerConfidenceIndex;20190701;05:00;Consumer Confidence Index;Japan;JPY;1
+RUB_S&PGlobalManufacturingPMI;20190701;06:00;S&P Global Manufacturing PMI;Russia;RUB;1
+USD_CentralBankSpeech;20190701;06:15;Fed Clarida speech;United States;USD;2
+CHF_RetailSales;20190701;06:30;Real Retail Sales (YoY);Switzerland;CHF;2
+AUD_RBACommodityIndexSDR;20190701;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+SEK_PurchasingManagersIndexManufacturing;20190701;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+HUF_PurchasingManagerIndex;20190701;07:00;Purchasing Manager Index;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20190701;07:00;Purchasing Manager Index;Poland;PLN;2
+CHF_SVMEPurchasingManagers'Index;20190701;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_S&PGlobalPMI;20190701;07:30;S&P Global PMI;Czech Republic;CZK;1
+EUR_ItaHCOBManufacturingPMI;20190701;07:45;HCOB Manufacturing PMI;Italy;EUR;1
+EUR_FraHCOBManufacturingPMI;20190701;07:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerUnemploymentRate;20190701;07:55;Unemployment Rate s.a.;Germany;EUR;2
+EUR_GerUnemploymentChange;20190701;07:55;Unemployment Change;Germany;EUR;2
+EUR_GerHCOBManufacturingPMI;20190701;07:55;HCOB Manufacturing PMI;Germany;EUR;2
+EUR_ItaUnemployment;20190701;08:00;Unemployment;Italy;EUR;1
+EUR_EurPrivateLoans;20190701;08:00;Private Loans (YoY);European Monetary Union;EUR;1
+EUR_EurM3MoneySupply;20190701;08:00;M3 Money Supply (3m);European Monetary Union;EUR;1
+EUR_EurHCOBManufacturingPMI;20190701;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;1
+GBP_NetLendingtoIndividuals;20190701;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20190701;08:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20190701;08:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_S&PGlobalCIPSManufacturingPMI;20190701;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+GBP_M4MoneySupply;20190701;08:30;M4 Money Supply (MoM);United Kingdom;GBP;1
+EUR_EurUnemploymentRate;20190701;09:00;Unemployment Rate;European Monetary Union;EUR;2
+DKK_ManufacturingPMI;20190701;09:00;Manufacturing PMI;Denmark;DKK;1
+EUR_EurCentralBankSpeech;20190701;10:15;ECB Lane speech;European Monetary Union;EUR;2
+ZAR_TotalNewVehicleSales;20190701;11:00;Total New Vehicle Sales;South Africa;ZAR;1
+INR_InfrastructureOutput;20190701;11:56;Infrastructure Output (YoY);India;INR;1
+CZK_BudgetBalance;20190701;12:00;Budget Balance;Czech Republic;CZK;1
+BRL_S&PGlobalManufacturingPMI;20190701;13:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+USD_S&PGlobalManufacturingPMI;20190701;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_ISMManufacturingNewOrdersIndex;20190701;14:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ISMManufacturingEmploymentIndex;20190701;14:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ISMManufacturingPMI;20190701;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20190701;14:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ConstructionSpending;20190701;14:00;Construction Spending (MoM);United States;USD;1
+USD_Auction;20190701;15:30;6-Month Bill Auction;United States;USD;1
+BRL_TradeBalance;20190701;19:00;Trade Balance;Brazil;BRL;1
+NZD_NZIERBusinessConfidence;20190701;22:00;NZIER Business Confidence (QoQ);New Zealand;NZD;2
+NZD_BuildingPermits;20190701;22:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+KRW_ConsumerPriceIndex;20190701;23:00;Consumer Price Index Growth (YoY);South Korea;KRW;1
+JPY_MonetaryBase;20190701;23:50;Monetary Base (YoY);Japan;JPY;1

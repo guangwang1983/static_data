@@ -1,0 +1,21 @@
+AUD_ParticipationRate;20230817;01:30;Participation Rate;Australia;AUD;2
+AUD_UnemploymentRate;20230817;01:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_FullTimeEmployment;20230817;01:30;Full-Time Employment;Australia;AUD;2
+AUD_PartTimeEmployment;20230817;01:30;Part-Time Employment;Australia;AUD;2
+AUD_EmploymentChange;20230817;01:30;Employment Change s.a.;Australia;AUD;3
+JPY_TertiaryIndustryIndex;20230817;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+CNY_FDIForeignDirectInvestment;20230817;07:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;1
+NOK_NorgesBankInterestRateDecision;20230817;08:00;Norges Bank Interest Rate Decision;Norway;NOK;2
+EUR_EurTradeBalance;20230817;09:00;Trade Balance n.s.a.;European Monetary Union;EUR;1
+ZAR_BusinessConfidenceIndex;20230817;09:30;Business Confidence Index;South Africa;ZAR;1
+USD_JoblessClaims;20230817;12:30;Continuing Jobless Claims;United States;USD;1
+USD_PhiladelphiaFedManufacturingSurvey;20230817;12:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20230817;12:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20230817;12:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_EmploymentInsuranceBeneficiariesChange;20230817;12:30;Employment Insurance Beneficiaries Change (MoM);Canada;CAD;1
+RUB_CentralBankReserves;20230817;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_EIANaturalGasStorageChange;20230817;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20230817;15:30;4-Week Bill Auction;United States;USD;1
+JPY_NationalCPIexFoodEnergy;20230817;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20230817;23:30;National Consumer Price Index (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20230817;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2

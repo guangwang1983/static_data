@@ -1,0 +1,18 @@
+DKK_ConsumerConfidence;20240723;06:00;Consumer Confidence;Denmark;DKK;1
+TRY_ConsumerConfidence;20240723;07:00;Consumer Confidence;Turkey;TRY;1
+EUR_EurEurogroupMeeting;20240723;07:00;Eurogroup Meeting;Eurozone;EUR;2
+EUR_EurCentralBankSpeech;20240723;07:00;ECB Lane speech;Eurozone;EUR;2
+PLN_Unemployment;20240723;08:00;Unemployment (MoM);Poland;PLN;1
+TRY_CBRTInterestRateDecision;20240723;11:00;CBRT Interest Rate Decision;Turkey;TRY;2
+HUF_MNBInterestRateDecision;20240723;12:00;MNB Interest Rate Decision;Hungary;HUF;1
+USD_RedbookIndex;20240723;12:55;Redbook Index (YoY);United States;USD;1
+USD_ExistingHomeSales;20240723;14:00;Existing Home Sales (MoM);United States;USD;1
+USD_ExistingHomeSalesChange;20240723;14:00;Existing Home Sales Change (MoM);United States;USD;2
+USD_RichmondFedManufacturingIndex;20240723;14:00;Richmond Fed Manufacturing Index;United States;USD;1
+EUR_EurConsumerConfidence;20240723;14:00;Consumer Confidence;Eurozone;EUR;2
+USD_Auction;20240723;17:00;2-Year Note Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20240723;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_ConsumerSentimentIndex;20240723;21:00;Consumer Sentiment Index;South Korea;KRW;1
+AUD_JudoBankManufacturingPMI;20240723;23:00;Judo Bank Manufacturing PMI;Australia;AUD;2
+AUD_JudoBankServicesPMI;20240723;23:00;Judo Bank Services PMI;Australia;AUD;2
+AUD_JudoBankCompositePMI;20240723;23:00;Judo Bank Composite PMI;Australia;AUD;2

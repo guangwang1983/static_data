@@ -1,0 +1,6 @@
+NSHOW,50
+DWBOUND,0
+SW,10
+SWBOUND,0.8
+DW,2
+OBJFUNC,ko_plusfreq

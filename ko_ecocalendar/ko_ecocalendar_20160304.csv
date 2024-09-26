@@ -1,0 +1,29 @@
+JPY_LaborCashEarnings;20160304;00:00;Labor Cash Earnings (YoY);Japan;JPY;1
+AUD_RetailSales;20160304;00:30;Retail Sales s.a. (MoM);Australia;AUD;2
+CZK_GrossDomesticProduct;20160304;08:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+SEK_IndustrialProductionValue;20160304;08:30;Industrial Production Value (MoM);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20160304;08:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+EUR_ItaGrossDomesticProduct;20160304;09:00;Gross Domestic Product (YoY);Italy;EUR;2
+INR_BankLoanGrowth;20160304;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20160304;11:30;FX Reserves, USD;India;INR;1
+BRL_IndustrialOutput;20160304;12:00;Industrial Output (YoY);Brazil;BRL;1
+RUB_ConsumerPriceIndex;20160304;13:14;Consumer Price Index (MoM);Russia;RUB;1
+CAD_LaborProductivity;20160304;13:30;Labor Productivity (QoQ);Canada;CAD;1
+USD_UnemploymentRate;20160304;13:30;Unemployment Rate;United States;USD;3
+USD_LaborForceParticipationRate;20160304;13:30;Labor Force Participation Rate;United States;USD;2
+USD_AverageHourlyEarnings;20160304;13:30;Average Hourly Earnings (MoM);United States;USD;1
+USD_AverageWeeklyHours;20160304;13:30;Average Weekly Hours;United States;USD;2
+USD_NonfarmPayrolls;20160304;13:30;Nonfarm Payrolls;United States;USD;3
+USD_GoodsandServicesTradeBalance;20160304;13:30;Goods and Services Trade Balance;United States;USD;2
+CAD_Imports;20160304;13:30;Imports;Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20160304;13:30;International Merchandise Trade;Canada;CAD;1
+CAD_Exports;20160304;13:30;Exports;Canada;CAD;1
+CAD_IveyPurchasingManagersIndex;20160304;15:00;Ivey Purchasing Managers Index s.a;Canada;CAD;2
+USD_BakerHughesUSOilRigCount;20160304;18:00;Baker Hughes US Oil Rig Count;United States;USD;2
+EUR_EurCFTCEURNCNetPositions;20160304;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20160304;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCOilNCNetPositions;20160304;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20160304;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20160304;19:30;CFTC Gold NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20160304;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCS&P500NCNetPositions;20160304;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1

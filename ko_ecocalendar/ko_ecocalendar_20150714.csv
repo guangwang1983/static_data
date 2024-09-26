@@ -1,0 +1,39 @@
+JPY_BoJInterestRateDecision;20150714;00:00;BoJ Interest Rate Decision;Japan;JPY;1
+EUR_FraBastilleDay;20150714;00:00;Bastille Day;France;EUR;0
+AUD_NationalAustraliaBankBusinessConfidence;20150714;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20150714;01:30;National Australia Bank Business Conditions;Australia;AUD;1
+CNY_M2MoneySupply;20150714;02:50;M2 Money Supply (YoY);China;CNY;1
+EUR_GerHarmonizedIndexofConsumerPrices;20150714;06:00;Harmonized Index of Consumer Prices (MoM);Germany;EUR;3
+EUR_GerConsumerPriceIndex;20150714;06:00;Consumer Price Index (MoM);Germany;EUR;3
+INR_WPIInflation;20150714;06:30;WPI Inflation;India;INR;1
+HUF_IndustrialOutput;20150714;07:00;Industrial Output (YoY);Hungary;HUF;1
+CHF_ProducerandImportPrices;20150714;07:15;Producer and Import Prices (MoM);Switzerland;CHF;1
+SEK_ConsumerPriceIndex;20150714;07:30;Consumer Price Index (MoM);Sweden;SEK;1
+EUR_ItaConsumerPriceIndex;20150714;08:00;Consumer Price Index (YoY);Italy;EUR;1
+CZK_CurrentAccount;20150714;08:00;Current Account (MoM);Czech Republic;CZK;1
+GBP_RetailPriceIndex;20150714;08:30;Retail Price Index (YoY);United Kingdom;GBP;1
+GBP_DCLGHousePriceIndex;20150714;08:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ProducerPriceIndex;20150714;08:30;Producer Price Index - Output (MoM) n.s.a;United Kingdom;GBP;1
+GBP_PPICoreOutput;20150714;08:30;PPI Core Output (MoM) n.s.a;United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20150714;08:30;Core Consumer Price Index (YoY);United Kingdom;GBP;2
+IDR_BankIndonesiaRate;20150714;08:40;Bank Indonesia Rate;Indonesia;IDR;1
+EUR_EurIndustrialProduction;20150714;09:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;2
+EUR_GerZEWSurvey–EconomicSentiment;20150714;09:00;ZEW Survey – Economic Sentiment;Germany;EUR;2
+EUR_EurZEWSurvey–EconomicSentiment;20150714;09:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurvey–CurrentSituation;20150714;09:00;ZEW Survey – Current Situation;Germany;EUR;2
+GBP_BoEMonetaryPolicyReportHearings;20150714;09:15;BoE Monetary Policy Report Hearings;United Kingdom;GBP;3
+USD_NFIBBusinessOptimismIndex;20150714;10:00;NFIB Business Optimism Index;United States;USD;1
+GBP_CentralBankSpeech;20150714;11:45;BoE Governor Carney speech;United Kingdom;GBP;3
+CLP_BCCHInterestRate;20150714;12:00;BCCH Interest Rate;Chile;CLP;1
+EUR_EurEcoFinMeeting;20150714;12:00;EcoFin Meeting;European Monetary Union;EUR;2
+PLN_CurrentAccount;20150714;12:00;Current Account;Poland;PLN;1
+BRL_RetailSales;20150714;12:00;Retail Sales (MoM);Brazil;BRL;1
+PLN_M3MoneySupply;20150714;12:00;M3 Money Supply (YoY);Poland;PLN;1
+USD_RetailSales;20150714;12:30;Retail Sales Control Group;United States;USD;2
+USD_ImportPriceIndex;20150714;12:30;Import Price Index (MoM);United States;USD;1
+USD_ExportPriceIndex;20150714;12:30;Export Price Index (YoY);United States;USD;1
+USD_RedbookIndex;20150714;12:55;Redbook Index (YoY);United States;USD;1
+USD_BusinessInventories;20150714;14:00;Business Inventories;United States;USD;1
+USD_Auction;20150714;15:30;4-Week Bill Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20150714;21:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_UnemploymentRate;20150714;23:00;Unemployment Rate;South Korea;KRW;1

@@ -1,0 +1,40 @@
+NZD_BusinessNZPMI;20170914;22:30;Business NZ PMI;New Zealand;NZD;2
+PEN_Interestratedecision;20170914;22:00;Interest rate decision;Peru;PEN;1
+CLP_BCCHInterestRate;20170914;21:00;BCCH Interest Rate;Chile;CLP;1
+ARS_UnemploymentRate;20170914;19:00;Unemployment Rate (QoQ)	;Argentina;ARS;1
+EUR_GerCentralBankSpeech;20170914;15:30;German Buba President Weidmann speech;Germany;EUR;2
+USD_EIANaturalGasStorageChange;20170914;14:30;EIA Natural Gas Storage Change;United States;USD;1
+RUB_CentralBankReserves;20170914;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_JoblessClaims;20170914;12:30;Continuing Jobless Claims;United States;USD;2
+USD_ConsumerPriceIndex;20170914;12:30;Consumer Price Index n.s.a (MoM);United States;USD;1
+CAD_NewHousingPriceIndex;20170914;12:30;New Housing Price Index (YoY);Canada;CAD;1
+GBP_BoEAssetPurchaseFacility;20170914;11:00;BoE Asset Purchase Facility;United Kingdom;GBP;3
+GBP_BoEInterestRateDecision;20170914;11:00;BoE Interest Rate Decision;United Kingdom;GBP;3
+GBP_MonetaryPolicySummary;20170914;11:00;Monetary Policy Summary;United Kingdom;GBP;3
+GBP_BoEMPCVoteCut;20170914;11:00;BoE MPC Vote Cut;United Kingdom;GBP;3
+GBP_BoEMPCVoteUnchanged;20170914;11:00;BoE MPC Vote Unchanged;United Kingdom;GBP;3
+GBP_BankofEnglandMinutes;20170914;11:00;Bank of England Minutes;United Kingdom;GBP;3
+GBP_BoEMPCVoteHike;20170914;11:00;BoE MPC Vote Hike;United Kingdom;GBP;3
+EUR_GreUnemploymentRate;20170914;09:00;Unemployment Rate (QoQ);Greece;EUR;1
+EUR_ItaConsumerPriceIndex;20170914;08:00;Consumer Price Index (YoY);Italy;EUR;1
+CHF_SNBInterestRateDecision;20170914;07:30;SNB Interest Rate Decision;Switzerland;CHF;3
+SEK_UnemploymentRate;20170914;07:30;Unemployment Rate;Sweden;SEK;1
+EUR_SloCoreInflation;20170914;07:00;Core Inflation (YoY);Slovakia;EUR;1
+EUR_SloHeadlineInflation;20170914;07:00;Headline Inflation (YoY);Slovakia;EUR;1
+EUR_FraConsumerPriceIndex;20170914;06:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraInflationextobacco;20170914;06:45;Inflation ex-tobacco (MoM);France;EUR;1
+EUR_FinConsumerPriceIndex;20170914;06:00;Consumer Price Index (YoY);Finland;EUR;1
+INR_WPIInflation;20170914;06:00;WPI Inflation;India;INR;1
+JPY_IndustrialProduction;20170914;04:30;Industrial Production (MoM);Japan;JPY;1
+JPY_CapacityUtilization;20170914;04:30;Capacity Utilization;Japan;JPY;1
+SGD_Unemploymentrate;20170914;02:30;Unemployment rate;Singapore;SGD;1
+CNY_RetailSales;20170914;02:00;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20170914;02:00;Industrial Production (YoY);China;CNY;2
+CNY_FixedAssetInvestment;20170914;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+CNY_FDIForeignDirectInvestment;20170914;02:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+AUD_PartTimeEmployment;20170914;01:30;Part-Time Employment;Australia;AUD;1
+AUD_UnemploymentRate;20170914;01:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_FulltimeEmployment;20170914;01:30;Fulltime Employment;Australia;AUD;1
+AUD_EmploymentChange;20170914;01:30;Employment Change s.a.;Australia;AUD;3
+AUD_ParticipationRate;20170914;01:30;Participation Rate;Australia;AUD;2
+AUD_ConsumerInflationExpectations;20170914;01:00;Consumer Inflation Expectations;Australia;AUD;2

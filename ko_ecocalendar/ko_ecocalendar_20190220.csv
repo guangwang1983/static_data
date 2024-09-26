@@ -1,0 +1,22 @@
+AUD_WagePriceIndex;20190220;00:30;Wage Price Index (YoY);Australia;AUD;1
+JPY_ConstructionOrders;20190220;05:00;Construction Orders (YoY);Japan;JPY;1
+TRY_ConsumerConfidence;20190220;07:00;Consumer Confidence;Turkey;TRY;1
+DKK_ConsumerConfidence;20190220;07:00;Consumer Confidence;Denmark;DKK;1
+EUR_EurCentralBankSpeech;20190220;07:00;ECB Praet speech;European Monetary Union;EUR;2
+EUR_GerProducerPriceIndex;20190220;07:00;Producer Price Index (YoY);Germany;EUR;1
+ZAR_ConsumerPriceIndex;20190220;08:00;Consumer Price Index (MoM);South Africa;ZAR;1
+SEK_CapacityUtilization;20190220;08:30;Capacity Utilization;Sweden;SEK;1
+PLN_IndustrialOutput;20190220;09:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20190220;09:00;Producer Price Index (YoY);Poland;PLN;1
+GBP_CBIIndustrialTrendsSurvey–Orders;20190220;11:00;CBI Industrial Trends Survey – Orders (MoM);United Kingdom;GBP;1
+USD_MBAMortgageApplications;20190220;12:00;MBA Mortgage Applications;United States;USD;1
+USD_RedbookIndex;20190220;13:55;Redbook Index (YoY);United States;USD;1
+EUR_EurConsumerConfidence;20190220;15:00;Consumer Confidence;European Monetary Union;EUR;1
+GBP_MayJunckerMeeting;20190220;17:30;May - Juncker Meeting;United Kingdom;GBP;2
+USD_FOMCMinutes;20190220;19:00;FOMC Minutes;United States;USD;3
+USD_APIWeeklyCrudeOilStock;20190220;21:30;API Weekly Crude Oil Stock;United States;USD;1
+AUD_S&PGlobalManufacturingPMI;20190220;22:00;S&P Global Manufacturing PMI;Australia;AUD;2
+AUD_S&PGlobalServicesPMI;20190220;22:00;S&P Global Services PMI;Australia;AUD;1
+AUD_S&PGlobalCompositePMI;20190220;22:00;S&P Global Composite PMI;Australia;AUD;1
+JPY_ForeignInvestmentinJapanStocks;20190220;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20190220;23:50;Foreign Bond Investment;Japan;JPY;1

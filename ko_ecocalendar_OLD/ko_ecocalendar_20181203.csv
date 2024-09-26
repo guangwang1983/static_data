@@ -1,0 +1,47 @@
+JPY_MonetaryBase;20181203;23:50;Monetary Base (YoY);Japan;JPY;1
+KRW_GrossDomesticProduct;20181203;23:00;Gross Domestic Product Growth (QoQ) ;South Korea;KRW;1
+KRW_ConsumerPriceIndex;20181203;23:00;Consumer Price Index Growth (MoM);South Korea;KRW;1
+USD_TotalVehicleSales;20181203;20:30;Total Vehicle Sales;United States;USD;1
+ARS_TaxRevenue;20181203;19:00;Tax Revenue (MoM);Argentina;ARS;1
+BRL_TradeBalance;20181203;18:00;Trade Balance;Brazil;BRL;1
+GBP_CentralBankSpeech;20181203;17:30;BoE Haldane speech;United Kingdom;GBP;2
+USD_Auction;20181203;16:30;6-Month Bill Auction;United States;USD;1
+USD_ISMPricesPaid;20181203;15:00;ISM Prices Paid;United States;USD;2
+USD_ISMManufacturingPMI;20181203;15:00;ISM Manufacturing PMI;United States;USD;3
+USD_ConstructionSpending;20181203;15:00;Construction Spending (MoM);United States;USD;1
+USD_MarkitManufacturingPMI;20181203;14:45;Markit Manufacturing PMI;United States;USD;2
+CAD_MarkitManufacturingPMI;20181203;14:30;Markit Manufacturing PMI;Canada;CAD;2
+USD_CentralBankSpeech;20181203;14:15;Fed Williams speech;United States;USD;2
+SGD_PurchasingManagersIndex;20181203;13:00;Purchasing Managers Index;Singapore;SGD;1
+CZK_BudgetBalance;20181203;13:00;Budget Balance;Czech Republic;CZK;1
+ZAR_TotalNewVehicleSales;20181203;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+BRL_HSBCPMIManufacturing;20181203;12:00;HSBC PMI Manufacturing;Brazil;BRL;1
+GBP_MarkitManufacturingPMI;20181203;09:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+EUR_AusUnemployment;20181203;09:23;Unemployment;Austria;EUR;1
+EUR_AusUnemploymentRate;20181203;09:23;Unemployment Rate;Austria;EUR;1
+EUR_GreMarkitManufacturingPMI;20181203;09:00;Markit Manufacturing PMI;Greece;EUR;1
+EUR_EurMarkitManufacturingPMI;20181203;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_GerMarkitManufacturingPMI;20181203;08:55;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20181203;08:50;Markit Manufacturing PMI;France;EUR;1
+EUR_ItaMarkitManufacturingPMI;20181203;08:45;Markit Manufacturing PMI;Italy;EUR;1
+CHF_SVMEPurchasingManagers'Index;20181203;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_MarkitPMI;20181203;08:30;Markit PMI;Czech Republic;CZK;1
+EUR_SpaMarkitManufacturingPMI;20181203;08:15;Markit Manufacturing PMI;Spain;EUR;1
+CHF_RetailSales;20181203;08:15;Real Retail Sales (YoY);Switzerland;CHF;2
+HUF_PurchasingManagerIndex;20181203;08:00;Purchasing Manager Index;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20181203;08:00;Purchasing Manager Index;Poland;PLN;2
+SEK_PurchasingManagersIndexManufacturing;20181203;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+TRY_ProducerPriceIndex;20181203;07:00;Producer Price Index (YoY);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20181203;07:00;Consumer Price Index (YoY);Turkey;TRY;1
+RUB_HSBCManufacturingPMI;20181203;06:00;HSBC Manufacturing PMI	;Russia;RUB;1
+EUR_IrePurchasingManagerIndexManufacturing;20181203;06:00;Purchasing Manager Index Manufacturing;Ireland;EUR;1
+AUD_RBACommodityIndexSDR;20181203;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+IDR_Inflation;20181203;04:00;Inflation (YoY);Indonesia;IDR;1
+IDR_CoreInflation;20181203;04:00;Core Inflation (YoY);Indonesia;IDR;1
+CNY_CaixinManufacturingPMI;20181203;01:45;Caixin Manufacturing PMI;China;CNY;2
+AUD_CompanyGrossOperatingProfits;20181203;00:30;Company Gross Operating Profits (QoQ);Australia;AUD;1
+AUD_ANZJobAdvertisements;20181203;00:30;ANZ Job Advertisements;Australia;AUD;1
+KRW_NikkeiMarkitManufacturingPMI;20181203;00:30;Nikkei Markit Manufacturing PMI;South Korea;KRW;1
+AUD_BuildingPermits;20181203;00:30;Building Permits (MoM);Australia;AUD;2
+JPY_NikkeiManufacturingPMI;20181203;00:30;Nikkei Manufacturing PMI;Japan;JPY;1
+AUD_TDSecuritiesInflation;20181203;00:00;TD Securities Inflation (MoM);Australia;AUD;1

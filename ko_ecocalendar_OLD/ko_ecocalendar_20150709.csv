@@ -1,0 +1,41 @@
+JPY_DomesticCorporateGoodsPriceIndex;20150709;23:50;Domestic Corporate Goods Price Index (YoY);Japan;JPY;1
+KRW_ImportPriceGrowth;20150709;21:00;Import Price Growth (YoY);South Korea;KRW;1
+KRW_ExportPriceGrowth;20150709;21:00;Export Price Growth (YoY);South Korea;KRW;1
+USD_BakerHughesUSOilRigCount;20150709;19:00;Baker Hughes US Oil Rig Count;United States;USD;2
+USD_Auction;20150709;17:00;30-Year Bond Auction;United States;USD;1
+USD_CentralBankSpeech;20150709;17:00;Fed George speech;United States;USD;1
+USD_EIANaturalGasStorageChange;20150709;14:30;EIA Natural Gas Storage Change;United States;USD;1
+MXN_12MonthInflation;20150709;13:00;12-Month Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20150709;13:00;Headline Inflation;Mexico;MXN;1
+MXN_CoreInflation;20150709;13:00;Core Inflation;Mexico;MXN;1
+USD_JoblessClaims;20150709;12:30;Initial Jobless Claims;United States;USD;2
+CAD_NewHousingPriceIndex;20150709;12:30;New Housing Price Index (YoY);Canada;CAD;1
+CAD_HousingStarts;20150709;12:15;Housing Starts s.a (YoY);Canada;CAD;2
+GBP_BoEAssetPurchaseFacility;20150709;11:00;BoE Asset Purchase Facility;United Kingdom;GBP;3
+GBP_BoEInterestRateDecision;20150709;11:00;BoE Interest Rate Decision;United Kingdom;GBP;3
+ZAR_ManufacturingProductionIndex;20150709;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;0
+EUR_IreHICP;20150709;10:00;HICP (YoY);Ireland;EUR;1
+EUR_IreConsumerPriceIndex;20150709;10:00;Consumer Price Index (YoY);Ireland;EUR;1
+EUR_GreConsumerPriceIndex;20150709;09:00;Consumer Price Index (YoY);Greece;EUR;1
+EUR_GreUnemploymentRate;20150709;09:00;Unemployment Rate (MoM);Greece;EUR;1
+EUR_NetConsumerPriceIndex;20150709;07:30;Consumer Price Index n.s.a (YoY);Netherlands, The;EUR;1
+EUR_SloForeignTradeBalance;20150709;07:00;Foreign Trade Balance;Slovakia;EUR;1
+CZK_ConsumerPriceIndex;20150709;07:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+CZK_UnemploymentRate;20150709;07:00;Unemployment Rate;Czech Republic;CZK;1
+DKK_TradeBalance;20150709;07:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20150709;07:00;Current Account;Denmark;DKK;1
+HUF_TradeBalance;20150709;07:00;Trade Balance;Hungary;HUF;1
+JPY_MachineToolOrders;20150709;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+EUR_GerCurrentAccount;20150709;06:00;Current Account n.s.a.;Germany;EUR;2
+EUR_GerTradeBalance;20150709;06:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerExports;20150709;06:00;Exports (MoM);Germany;EUR;2
+EUR_GerImports;20150709;06:00;Imports (MoM);Germany;EUR;2
+AUD_PartTimeEmployment;20150709;01:30;Part-Time Employment;Australia;AUD;3
+AUD_UnemploymentRate;20150709;01:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_EmploymentChange;20150709;01:30;Employment Change s.a.;Australia;AUD;1
+AUD_FulltimeEmployment;20150709;01:30;Fulltime Employment;Australia;AUD;3
+AUD_ParticipationRate;20150709;01:30;Participation Rate;Australia;AUD;3
+CNY_ConsumerPriceIndex;20150709;01:30;Consumer Price Index (YoY);China;CNY;2
+CNY_ProducerPriceIndex;20150709;01:30;Producer Price Index (YoY);China;CNY;2
+KRW_BoKInterestRateDecision;20150709;01:00;BoK Interest Rate Decision;South Korea;KRW;1
+ARS_IndependenceDay;20150709;00:00;Independence Day;Argentina;ARS;0

@@ -1,0 +1,56 @@
+NZD_BusinessNZPMI;20150312;21:30;Business NZ PMI;New Zealand;NZD;2
+KRW_ImportPriceGrowth;20150312;21:00;Import Price Growth (YoY);South Korea;KRW;1
+KRW_ExportPriceGrowth;20150312;21:00;Export Price Growth (YoY);South Korea;KRW;1
+USD_MonthlyBudgetStatement;20150312;18:00;Monthly Budget Statement;United States;USD;1
+USD_Auction;20150312;17:00;30-Year Bond Auction;United States;USD;1
+USD_EIANaturalGasStorageChange;20150312;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_BusinessInventories;20150312;14:00;Business Inventories;United States;USD;2
+USD_RetailSales;20150312;13:30;Retail Sales Control Group;United States;USD;2
+GBP_CentralBankSpeech;20150312;12:45;BoE Governor Carney speech;United Kingdom;GBP;3
+USD_JoblessClaims;20150312;12:30;Initial Jobless Claims;United States;USD;2
+USD_ImportPriceIndex;20150312;12:30;Import Price Index (MoM);United States;USD;1
+USD_ExportPriceIndex;20150312;12:30;Export Price Index (MoM);United States;USD;1
+CAD_CapacityUtilization;20150312;12:30;Capacity Utilization;Canada;CAD;1
+CAD_NewHousingPriceIndex;20150312;12:30;New Housing Price Index (YoY);Canada;CAD;1
+INR_ManufacturingOutput;20150312;12:00;Manufacturing Output;India;INR;1
+INR_IndustrialOutput;20150312;12:00;Industrial Output;India;INR;1
+INR_CumulativeIndustrialOutput;20150312;12:00;Cumulative Industrial Output;India;INR;1
+EUR_PorGlobalTradeBalance;20150312;11:03;Global Trade Balance;Portugal;EUR;1
+EUR_IreGrossDomesticProduct;20150312;11:00;Gross Domestic Product (QoQ);Ireland;EUR;1
+RUB_CentralBankReserves;20150312;11:00;Central Bank Reserves $;Russia;RUB;1
+ZAR_ManufacturingProductionIndex;20150312;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+EUR_ItaAuction;20150312;10:39;3-y Bond Auction;Italy;EUR;1
+EUR_GreUnemploymentRate;20150312;10:00;Unemployment Rate (QoQ);Greece;EUR;1
+EUR_GreIndustrialProduction;20150312;10:00;Industrial Production (YoY);Greece;EUR;1
+EUR_EurIndustrialProduction;20150312;10:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;2
+EUR_GerCentralBankSpeech;20150312;10:00;German Buba President Weidmann speech;Germany;EUR;2
+EUR_SpaAuction;20150312;09:54;10-y Obligaciones Auction;Spain;EUR;1
+GBP_GoodsTradeBalance;20150312;09:30;Goods Trade Balance;United Kingdom;GBP;2
+GBP_TradeBalancenonEU;20150312;09:30;Trade Balance non-EU;United Kingdom;GBP;2
+GBP_TotalTradeBalance;20150312;09:30;Total Trade Balance;United Kingdom;GBP;2
+SEK_UnemploymentRate;20150312;08:30;Unemployment Rate;Sweden;SEK;1
+EUR_SpaHICP;20150312;08:00;HICP (YoY);Spain;EUR;1
+EUR_SloIndustrialOutput;20150312;08:00;Industrial Output (YoY);Slovakia;EUR;1
+EUR_SloCoreInflation;20150312;08:00;Core Inflation (YoY);Slovakia;EUR;1
+EUR_SloHeadlineInflation;20150312;08:00;Headline Inflation (MoM);Slovakia;EUR;1
+RON_TradeBalance;20150312;08:00;Trade Balance;Romania;RON;1
+EUR_SpaConsumerPriceIndex;20150312;08:00;Consumer Price Index (MoM);Spain;EUR;1
+EUR_FraConsumerPriceIndex;20150312;07:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraInflationextobacco;20150312;07:45;Inflation ex-tobacco (MoM);France;EUR;2
+EUR_GerConsumerPriceIndex;20150312;07:00;Consumer Price Index (MoM);Germany;EUR;2
+EUR_GerHarmonizedIndexofConsumerPrices;20150312;07:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;2
+JPY_ConsumerConfidenceIndex;20150312;05:00;Consumer Confidence Index;Japan;JPY;2
+SGD_Unemploymentrate;20150312;02:30;Unemployment rate;Singapore;SGD;1
+CNY_M2MoneySupply;20150312;02:00;M2 Money Supply (YoY);China;CNY;1
+CNY_NewLoans;20150312;02:00;New Loans;China;CNY;3
+KRW_BoKInterestRateDecision;20150312;01:35;BoK Interest Rate Decision;South Korea;KRW;1
+AUD_PartTimeEmployment;20150312;00:30;Part-Time Employment;Australia;AUD;1
+AUD_UnemploymentRate;20150312;00:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_FulltimeEmployment;20150312;00:30;Fulltime Employment;Australia;AUD;2
+AUD_EmploymentChange;20150312;00:30;Employment Change s.a.;Australia;AUD;3
+AUD_ParticipationRate;20150312;00:30;Participation Rate;Australia;AUD;1
+NZD_REINZHousePriceIndex;20150312;00:25;REINZ House Price Index (MoM);New Zealand;NZD;2
+NZD_CentralBankSpeech;20150312;00:10;RBNZ Governor Wheeler Speech;New Zealand;NZD;3
+GBP_BoEQuarterlyBulletin;20150312;00:01;BoE Quarterly Bulletin;United Kingdom;GBP;1
+GBP_RICSHousingPriceBalance;20150312;00:01;RICS Housing Price Balance;United Kingdom;GBP;1
+AUD_ConsumerInflationExpectations;20150312;00:00;Consumer Inflation Expectations;Australia;AUD;2

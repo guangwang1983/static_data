@@ -1,0 +1,35 @@
+ARS_TradeBalance;20141219;19:00;Trade Balance (MoM);Argentina;ARS;1
+USD_KansasFedManufacturingActivity;20141219;16:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_CentralBankSpeech;20141219;15:00;Fed Evans speech;United States;USD;1
+MXN_JoblessRate;20141219;14:00;Jobless Rate s.a;Mexico;MXN;1
+CAD_RetailSales;20141219;13:30;Retail Sales ex Autos (MoM);Canada;CAD;1
+CAD_ConsumerPriceIndex;20141219;13:30;Consumer Price Index (MoM);Canada;CAD;2
+BRL_CurrentAccount;20141219;12:30;Current Account;Brazil;BRL;1
+INR_FXReservesUSD;20141219;11:30;FX Reserves, USD;India;INR;1
+BRL_UnemploymentRate;20141219;11:00;Unemployment Rate;Brazil;BRL;1
+EUR_SloUnemploymentRate;20141219;11:00;Unemployment Rate;Slovakia;EUR;1
+GBP_CBIDistributiveTradesSurveyRealized;20141219;11:00;CBI Distributive Trades Survey - Realized (MoM);United Kingdom;GBP;2
+BRL_MidmonthInflation;20141219;11:00;Mid-month Inflation;Brazil;BRL;1
+EUR_ItaWageInflation;20141219;10:00;Wage Inflation (MoM);Italy;EUR;1
+GBP_PublicSectorNetBorrowing;20141219;09:30;Public Sector Net Borrowing;United Kingdom;GBP;2
+EUR_EurCurrentAccount;20141219;09:00;Current Account s.a;European Monetary Union;EUR;1
+ISK_ConsumerPriceIndex;20141219;09:00;Consumer Price Index (YoY);Iceland;ISK;1
+NOK_RegisteredUnemployment;20141219;09:00;Registered Unemployment n.s.a;Norway;NOK;1
+EUR_ItaIndustrialOrders;20141219;09:00;Industrial Orders n.s.a (YoY);Italy;EUR;1
+EUR_ItaIndustrialSales;20141219;09:00;Industrial Sales s.a. (MoM);Italy;EUR;1
+EUR_NetConsumerConfidenceAdj;20141219;08:30;Consumer Confidence Adj;Netherlands, The;EUR;1
+EUR_NetConsumerSpendingVolume;20141219;08:30;Consumer Spending Volume;Netherlands, The;EUR;1
+HUF_GrossWages;20141219;08:00;Gross Wages (YoY);Hungary;HUF;1
+EUR_FraBusinessClimate;20141219;07:45;Business Climate;France;EUR;1
+EUR_GerGfkConsumerConfidenceSurvey;20141219;07:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+EUR_GerProducerPriceIndex;20141219;07:00;Producer Price Index (YoY);Germany;EUR;1
+JPY_BoJPressConference;20141219;06:30;BoJ Press Conference;Japan;JPY;3
+COP_Interestrate;20141219;06:00;Interest rate;Colombia;COP;1
+JPY_CoincidentIndex;20141219;05:00;Coincident Index;Japan;JPY;2
+JPY_LeadingEconomicIndex;20141219;05:00;Leading Economic Index;Japan;JPY;2
+JPY_AllIndustryActivityIndex;20141219;04:30;All Industry Activity Index (MoM);Japan;JPY;2
+JPY_BoJInterestRateDecision;20141219;03:30;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_BoJMonetaryPolicyStatement;20141219;03:00;BoJ Monetary Policy Statement ;Japan;JPY;2
+GBP_GfKConsumerConfidence;20141219;00:05;GfK Consumer Confidence;United Kingdom;GBP;2
+NZD_ANZActivityOutlook;20141219;00:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20141219;00:00;ANZ Business Confidence;New Zealand;NZD;1

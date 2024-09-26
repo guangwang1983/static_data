@@ -1,0 +1,48 @@
+KRW_S&PGlobalManufacturingPMI;20230403;00:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+JPY_JibunBankManufacturingPMI;20230403;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+AUD_TDSecuritiesInflation;20230403;01:00;TD Securities Inflation (MoM);Australia;AUD;1
+AUD_HomeLoans;20230403;01:30;Home Loans;Australia;AUD;1
+AUD_InvestmentLendingforHomes;20230403;01:30;Investment Lending for Homes;Australia;AUD;1
+AUD_ANZJobAdvertisements;20230403;01:30;ANZ Job Advertisements;Australia;AUD;1
+AUD_BuildingPermits;20230403;01:30;Building Permits (YoY);Australia;AUD;1
+CNY_CaixinManufacturingPMI;20230403;01:45;Caixin Manufacturing PMI;China;CNY;2
+IDR_Inflation;20230403;04:00;Inflation (MoM);Indonesia;IDR;1
+IDR_CoreInflation;20230403;04:00;Core Inflation (YoY);Indonesia;IDR;1
+RUB_S&PGlobalManufacturingPMI;20230403;06:00;S&P Global Manufacturing PMI;Russia;RUB;1
+AUD_RBACommodityIndexSDR;20230403;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+SEK_PurchasingManagersIndexManufacturing;20230403;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+CHF_ConsumerPriceIndex;20230403;06:30;Consumer Price Index (YoY);Switzerland;CHF;1
+EUR_FraBudgetBalance;20230403;06:45;Budget Balance;France;EUR;1
+TRY_ProducerPriceIndex;20230403;07:00;Producer Price Index (MoM);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20230403;07:00;Consumer Price Index (MoM);Turkey;TRY;1
+HUF_PurchasingManagerIndex;20230403;07:00;Purchasing Manager Index;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20230403;07:00;Purchasing Manager Index;Poland;PLN;2
+CHF_SVMEPurchasingManagers'Index;20230403;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_S&PGlobalPMI;20230403;07:30;S&P Global PMI;Czech Republic;CZK;1
+EUR_ItaHCOBManufacturingPMI;20230403;07:45;HCOB Manufacturing PMI;Italy;EUR;2
+EUR_FraHCOBManufacturingPMI;20230403;07:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerHCOBManufacturingPMI;20230403;07:55;HCOB Manufacturing PMI;Germany;EUR;2
+EUR_EurHCOBManufacturingPMI;20230403;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;1
+GBP_S&PGlobalCIPSManufacturingPMI;20230403;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+DKK_ManufacturingPMI;20230403;09:00;Manufacturing PMI;Denmark;DKK;1
+CZK_BudgetBalance;20230403;12:00;Budget Balance;Czech Republic;CZK;1
+ZAR_TotalNewVehicleSales;20230403;12:20;Total New Vehicle Sales;South Africa;ZAR;1
+CLP_IMACEC;20230403;12:30;IMACEC;Chile;CLP;1
+BRL_S&PGlobalManufacturingPMI;20230403;13:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+ILS_BoIInterestRateDecision;20230403;13:00;BoI Interest Rate Decision;Israel;ILS;1
+CAD_S&PGlobalManufacturingPMI;20230403;13:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20230403;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_ISMManufacturingNewOrdersIndex;20230403;14:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ISMManufacturingEmploymentIndex;20230403;14:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ISMManufacturingPMI;20230403;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20230403;14:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ConstructionSpending;20230403;14:00;Construction Spending (MoM);United States;USD;1
+CAD_BankofCanadaBusinessOutlookSurvey;20230403;14:30;Bank of Canada Business Outlook Survey;Canada;CAD;2
+USD_Auction;20230403;15:30;6-Month Bill Auction;United States;USD;1
+BRL_TradeBalance;20230403;18:00;Trade Balance;Brazil;BRL;1
+INR_MahavirJayanti;20230403;18:30;Mahavir Jayanti ;India;INR;0
+USD_CentralBankSpeech;20230403;20:15;Fed Cook speech;United States;USD;2
+USD_TotalVehicleSales;20230403;21:00;Total Vehicle Sales;United States;USD;1
+NZD_NZIERBusinessConfidence;20230403;22:00;NZIER Business Confidence (QoQ);New Zealand;NZD;2
+KRW_ConsumerPriceIndex;20230403;23:00;Consumer Price Index Growth (MoM);South Korea;KRW;1
+JPY_MonetaryBase;20230403;23:50;Monetary Base (YoY);Japan;JPY;1

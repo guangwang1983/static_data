@@ -1,0 +1,38 @@
+JPY_BankLending;20111208;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_GrossDomesticProduct;20111208;23:50;Gross Domestic Product (QoQ);Japan;JPY;2
+JPY_MoneySupplyM2+CD;20111208;23:50;Money Supply M2+CD (YoY);Japan;JPY;1
+KRW_ProducerPriceIndex;20111208;21:00;Producer Price Index Growth (YoY);South Korea;KRW;1
+USD_FederalReservereleasesQuarterlyFlowofFundsAccounts;20111208;16:00;Federal Reserve releases Quarterly Flow of Funds Accounts;United States;USD;2
+USD_WholesaleInventories;20111208;15:00;Wholesale Inventories;United States;USD;1
+TRY_TreasuryCashBalance;20111208;15:00;Treasury Cash Balance;Turkey;TRY;1
+MXN_12MonthInflation;20111208;14:00;12-Month Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20111208;14:00;Headline Inflation;Mexico;MXN;1
+MXN_CoreInflation;20111208;14:00;Core Inflation;Mexico;MXN;1
+USD_JoblessClaims;20111208;13:30;Continuing Jobless Claims;United States;USD;1
+EUR_EurECBMonetaryPolicyStatementandPressConference;20111208;13:30;ECB Monetary Policy Statement and Press Conference;European Monetary Union;EUR;3
+CAD_NewHousingPriceIndex;20111208;13:30;New Housing Price Index (MoM);Canada;CAD;1
+CAD_HousingStarts;20111208;13:15;Housing Starts s.a (YoY);Canada;CAD;2
+EUR_EurECBInterestRateDecision;20111208;12:45;ECB Interest Rate Decision;European Monetary Union;EUR;3
+GBP_BoEAssetPurchaseFacility;20111208;12:00;BoE Asset Purchase Facility;United Kingdom;GBP;3
+GBP_BoEInterestRateDecision;20111208;12:00;BoE Interest Rate Decision;United Kingdom;GBP;3
+EUR_IreHICP;20111208;11:00;HICP (YoY);Ireland;EUR;1
+EUR_IreConsumerPriceIndex;20111208;11:00;Consumer Price Index (YoY);Ireland;EUR;1
+BRL_IPCAInflation;20111208;11:00;IPCA Inflation;Brazil;BRL;1
+ZAR_ManufacturingProductionIndex;20111208;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+EUR_GreIndustrialProduction;20111208;10:00;Industrial Production (YoY);Greece;EUR;1
+EUR_GreConsumerPriceIndex;20111208;10:00;Consumer Price Index (YoY);Greece;EUR;1
+EUR_GreUnemploymentRate;20111208;10:00;Unemployment Rate (MoM);Greece;EUR;1
+ISK_TradeBalance;20111208;09:00;Trade Balance;Iceland;ISK;1
+EUR_NetConsumerPriceIndex;20111208;08:30;Consumer Price Index n.s.a (YoY);Netherlands, The;EUR;1
+EUR_SloIndustrialOutput;20111208;08:00;Industrial Output (YoY);Slovakia;EUR;1
+CZK_UnemploymentRate;20111208;08:00;Unemployment Rate;Czech Republic;CZK;1
+TRY_IndustrialProduction;20111208;08:00;Industrial Production (YoY);Turkey;TRY;1
+AUD_CentralBankSpeech;20111208;07:20;RBA Governor Stevens speech;Australia;AUD;2
+EUR_FinTradeBalance;20111208;07:00;Trade Balance;Finland;EUR;1
+EUR_FraNonfarmPayrolls;20111208;06:30;Nonfarm Payrolls (QoQ);France;EUR;1
+JPY_EcoWatchersSurvey:Outlook;20111208;05:00;Eco Watchers Survey: Outlook;Japan;JPY;2
+JPY_EcoWatchersSurvey:Current;20111208;05:00;Eco Watchers Survey: Current;Japan;JPY;2
+KRW_BoKInterestRateDecision;20111208;01:00;BoK Interest Rate Decision;South Korea;KRW;1
+AUD_UnemploymentRate;20111208;00:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_EmploymentChange;20111208;00:30;Employment Change s.a.;Australia;AUD;3
+RUB_CentralBankReserves;20111208;00:00;Central Bank Reserves $;Russia;RUB;1

@@ -1,0 +1,24 @@
+AUD_WagePriceIndex;20151118;00:30;Wage Price Index (YoY);Australia;AUD;1
+CNY_HousePriceIndex;20151118;01:30;House Price Index ;China;CNY;1
+ZAR_ConsumerPriceIndex;20151118;08:00;Consumer Price Index (YoY);South Africa;ZAR;1
+CHF_ZEWSurvey–Expectations;20151118;10:00;ZEW Survey – Expectations;Switzerland;CHF;2
+EUR_EurConstructionOutput;20151118;10:00;Construction Output  s.a (MoM);European Monetary Union;EUR;1
+GBP_Auction;20151118;10:50;10-y Bond Auction;United Kingdom;GBP;1
+ZAR_RetailSales;20151118;11:00;Retail Sales (YoY);South Africa;ZAR;1
+CLP_GrossDomesticProduct;20151118;11:30;Gross Domestic Product (YoY);Chile;CLP;1
+RUB_UnemploymentRate;20151118;12:00;Unemployment Rate;Russia;RUB;1
+USD_MBAMortgageApplications;20151118;12:00;MBA Mortgage Applications;United States;USD;1
+USD_CentralBankSpeech;20151118;13:00;Fed Lockhart speech;United States;USD;1
+PLN_CorporateSectorWages;20151118;13:00;Corporate Sector Wages;Poland;PLN;1
+USD_BuildingPermits;20151118;13:30;Building Permits (MoM);United States;USD;2
+USD_HousingStarts;20151118;13:30;Housing Starts (MoM);United States;USD;2
+USD_EIACrudeOilStocksChange;20151118;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_FOMCMinutes;20151118;19:00;FOMC Minutes;United States;USD;3
+KRW_ProducerPriceIndex;20151118;21:00;Producer Price Index Growth (MoM);South Korea;KRW;1
+NZD_ProducerPriceIndex;20151118;21:45;Producer Price Index - Input (QoQ);New Zealand;NZD;1
+JPY_Exports;20151118;23:50;Exports (YoY);Japan;JPY;2
+JPY_Imports;20151118;23:50;Imports (YoY);Japan;JPY;2
+JPY_MerchandiseTradeBalanceTotal;20151118;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20151118;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20151118;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20151118;23:50;Foreign Bond Investment;Japan;JPY;2

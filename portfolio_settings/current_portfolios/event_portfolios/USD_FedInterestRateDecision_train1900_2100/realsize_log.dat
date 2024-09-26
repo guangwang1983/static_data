@@ -1,0 +1,32 @@
+Period 1: max_weight: 1.5
+Period 2: max_weight: 1.5
+Period 3: max_weight: 1.5
+Period 4: max_weight: 1.5
+Period 5: max_weight: 1.5
+Period 6: max_weight: 0.75
+Period 7: max_weight: 1.5
+Period 8: max_weight: 1.5
+Period 9: max_weight: 1.5
+Period 10: max_weight: 1.5
+Period 11: max_weight: 1.5
+Period 12: max_weight: 0.75
+Period 13: max_weight: 0.3
+Period 14: max_weight: 0.3
+Period 15: max_weight: 0.3
+Period 16: max_weight: 0.500000000001
+Period 17: max_weight: 0.75
+Period 18: max_weight: 0.75
+Period 19: max_weight: 1.5
+Period 20: max_weight: 1.5
+20160229 - 20160331: sharpe: nan
+20160331 - 20160430: sharpe: nan
+20160531 - 20160630: sharpe: nan
+20160630 - 20160731: sharpe: nan
+20160831 - 20160930: sharpe: nan
+20161031 - 20161130: sharpe: nan
+20161130 - 20161231: sharpe: nan
+20170131 - 20170228: sharpe: nan
+20170228 - 20170331: sharpe: nan
+20170430 - 20170531: sharpe: nan
+20170531 - 20170630: sharpe: nan
+20170630 - 20170731: sharpe: nan

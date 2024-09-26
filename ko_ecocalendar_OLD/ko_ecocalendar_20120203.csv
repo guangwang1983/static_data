@@ -1,0 +1,26 @@
+USD_ISMNonManufacturingPMI;20120203;15:00;ISM Non-Manufacturing PMI;United States;USD;2
+USD_FactoryOrders;20120203;15:00;Factory Orders (MoM);United States;USD;1
+MXN_ConsumerConfidence;20120203;14:00;Consumer Confidence;Mexico;MXN;1
+USD_AverageHourlyEarnings;20120203;13:30;Average Hourly Earnings (MoM);United States;USD;2
+USD_NonfarmPayrolls;20120203;13:30;Nonfarm Payrolls;United States;USD;3
+USD_UnemploymentRate;20120203;13:30;Unemployment Rate;United States;USD;3
+USD_AverageWeeklyHours;20120203;13:30;Average Weekly Hours;United States;USD;2
+CAD_NetChangeinEmployment;20120203;12:00;Net Change in Employment;Canada;CAD;3
+CAD_UnemploymentRate;20120203;12:00;Unemployment Rate;Canada;CAD;3
+INR_FXReservesUSD;20120203;11:30;FX Reserves, USD;India;INR;1
+EUR_EurRetailSales;20120203;10:00;Retail Sales (MoM);European Monetary Union;EUR;2
+GBP_MarkitServicesPMI;20120203;09:28;Markit Services PMI;United Kingdom;GBP;1
+EUR_ItaConsumerPriceIndex;20120203;09:00;Consumer Price Index (EU Norm) (MoM);Italy;EUR;1
+ISK_TradeBalance;20120203;09:00;Trade Balance;Iceland;ISK;1
+EUR_EurMarkitServicesPMI;20120203;08:58;Markit Services PMI;European Monetary Union;EUR;1
+EUR_GerMarkitServicesPMI;20120203;08:53;Markit Services PMI;Germany;EUR;1
+EUR_FraMarkitServicesPMI;20120203;08:48;Markit Services PMI;France;EUR;0
+EUR_ItaMarkitServicesPMI;20120203;08:43;Markit Services PMI;Italy;EUR;1
+EUR_SpaMarkitServicesPMI;20120203;08:13;Markit Services PMI;Spain;EUR;1
+TRY_ProducerPriceIndex;20120203;08:00;Producer Price Index (YoY);Turkey;TRY;1
+CZK_RetailSales;20120203;08:00;Retail Sales (YoY);Czech Republic;CZK;1
+TRY_ConsumerPriceIndex;20120203;08:00;Consumer Price Index (MoM);Turkey;TRY;1
+EUR_IrePurchasingManagerIndexServices;20120203;07:00;Purchasing Manager Index Services;Ireland;EUR;1
+RUB_PurchasingManagerIndexServices;20120203;05:00;Purchasing Manager Index Services;Russia;RUB;1
+CNY_CaixinServicesPMI;20120203;02:30;Caixin Services PMI;China;CNY;2
+CNY_NonManufacturingPMI;20120203;01:00;Non-Manufacturing PMI;China;CNY;1

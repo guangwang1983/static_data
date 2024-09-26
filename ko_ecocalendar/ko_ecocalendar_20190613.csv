@@ -1,0 +1,35 @@
+EUR_EurEurogroupMeeting;20190613;00:00;Eurogroup Meeting;European Monetary Union;EUR;2
+AUD_ConsumerInflationExpectations;20190613;01:00;Consumer Inflation Expectations;Australia;AUD;2
+AUD_ParticipationRate;20190613;01:30;Participation Rate;Australia;AUD;1
+AUD_UnemploymentRate;20190613;01:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_PartTimeEmployment;20190613;01:30;Part-Time Employment;Australia;AUD;1
+AUD_FullTimeEmployment;20190613;01:30;Full-Time Employment;Australia;AUD;2
+AUD_EmploymentChange;20190613;01:30;Employment Change s.a.;Australia;AUD;3
+JPY_TertiaryIndustryIndex;20190613;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+CHF_SECOEconomicForecasts;20190613;05:45;SECO Economic Forecasts;Switzerland;CHF;1
+RON_IndustrialProduction;20190613;06:00;Industrial Production (MoM);Romania;RON;1
+EUR_GerConsumerPriceIndex;20190613;06:00;Consumer Price Index (YoY);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20190613;06:00;Harmonized Index of Consumer Prices (MoM);Germany;EUR;1
+CHF_ProducerandImportPrices;20190613;06:30;Producer and Import Prices (MoM);Switzerland;CHF;1
+HUF_IndustrialOutput;20190613;07:00;Industrial Output (YoY);Hungary;HUF;1
+CNY_FDIForeignDirectInvestment;20190613;07:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+CHF_SNBInterestRateDecision;20190613;07:30;SNB Interest Rate Decision;Switzerland;CHF;3
+CHF_SNBMonetaryPolicyAssessment;20190613;07:30;SNB Monetary Policy Assessment;Switzerland;CHF;3
+CHF_SNBFinancialStabilityReport;20190613;07:30;SNB Financial Stability Report;Switzerland;CHF;2
+CHF_SNBPressConference;20190613;08:00;SNB Press Conference;Switzerland;CHF;3
+CZK_CurrentAccount;20190613;08:00;Current Account (MoM);Czech Republic;CZK;1
+EUR_EurIndustrialProduction;20190613;09:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;1
+PLN_CurrentAccount;20190613;12:00;Current Account;Poland;PLN;1
+USD_JoblessClaims;20190613;12:30;Continuing Jobless Claims;United States;USD;1
+RUB_BudgetFulfilment;20190613;12:30;Budget Fulfilment;Russia;RUB;1
+USD_ImportPriceIndex;20190613;12:30;Import Price Index (MoM);United States;USD;1
+USD_ExportPriceIndex;20190613;12:30;Export Price Index (YoY);United States;USD;1
+CAD_NewHousingPriceIndex;20190613;12:30;New Housing Price Index (YoY);Canada;CAD;1
+RUB_CentralBankReserves;20190613;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_EIANaturalGasStorageChange;20190613;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20190613;17:59;30-Year Bond Auction;United States;USD;1
+KRW_ExportPriceGrowth;20190613;21:00;Export Price Growth (YoY);South Korea;KRW;1
+KRW_ImportPriceGrowth;20190613;21:00;Import Price Growth (YoY);South Korea;KRW;1
+NZD_REINZHousePriceIndex;20190613;21:00;REINZ House Price Index (MoM);New Zealand;NZD;2
+NZD_BusinessNZPMI;20190613;22:30;Business NZ PMI;New Zealand;NZD;2
+NZD_FoodPriceIndex;20190613;22:45;Food Price Index (MoM);New Zealand;NZD;1

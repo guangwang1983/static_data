@@ -1,0 +1,60 @@
+JPY_MoneySupplyM2+CD;20180510;23:50;Money Supply M2+CD (YoY);Japan;JPY;1
+EUR_IreConsumerConfidence;20180510;23:01;Consumer Confidence;Ireland;EUR;1
+NZD_FoodPriceIndex;20180510;22:45;Food Price Index (MoM);New Zealand;NZD;1
+NZD_BusinessNZPMI;20180510;22:30;Business NZ PMI;New Zealand;NZD;2
+PEN_Interestratedecision;20180510;22:00;Interest rate decision;Peru;PEN;1
+PEN_Tradebalance;20180510;20:00;Trade balance;Peru;PEN;1
+USD_MonthlyBudgetStatement;20180510;18:00;Monthly Budget Statement;United States;USD;2
+USD_Auction;20180510;17:00;30-Year Bond Auction;United States;USD;1
+USD_EIANaturalGasStorageChange;20180510;14:30;EIA Natural Gas Storage Change;United States;USD;1
+RUB_CentralBankReserves;20180510;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_JoblessClaims;20180510;12:30;Initial Jobless Claims;United States;USD;2
+USD_ConsumerPriceIndex;20180510;12:30;Consumer Price Index ex Food & Energy (MoM);United States;USD;2
+CAD_NewHousingPriceIndex;20180510;12:30;New Housing Price Index (YoY);Canada;CAD;1
+BRL_IPCAInflation;20180510;12:00;IPCA Inflation;Brazil;BRL;1
+GBP_CentralBankSpeech;20180510;11:30;BoE Governor Carney speech;United Kingdom;GBP;3
+GBP_NIESRGDPEstimate;20180510;11:13;NIESR GDP Estimate (3M);United Kingdom;GBP;1
+GBP_BoEAssetPurchaseFacility;20180510;11:00;BoE Asset Purchase Facility;United Kingdom;GBP;3
+GBP_BoEInterestRateDecision;20180510;11:00;BoE Interest Rate Decision;United Kingdom;GBP;3
+GBP_MonetaryPolicySummary;20180510;11:00;Monetary Policy Summary;United Kingdom;GBP;3
+GBP_BankofEnglandQuarterlyInflationReport;20180510;11:00;Bank of England Quarterly Inflation Report;United Kingdom;GBP;2
+GBP_BoEMPCVoteCut;20180510;11:00;BoE MPC Vote Cut;United Kingdom;GBP;3
+GBP_BankofEnglandMinutes;20180510;11:00;Bank of England Minutes;United Kingdom;GBP;3
+GBP_BoEMPCVoteUnchanged;20180510;11:00;BoE MPC Vote Unchanged;United Kingdom;GBP;3
+GBP_BoEMPCVoteHike;20180510;11:00;BoE MPC Vote Hike;United Kingdom;GBP;3
+ZAR_ManufacturingProductionIndex;20180510;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+EUR_IreHICP;20180510;10:00;HICP (MoM);Ireland;EUR;1
+EUR_IreConsumerPriceIndex;20180510;10:00;Consumer Price Index (YoY);Ireland;EUR;1
+EUR_PorGlobalTradeBalance;20180510;10:00;Global Trade Balance;Portugal;EUR;1
+EUR_GreIndustrialProduction;20180510;09:00;Industrial Production (YoY);Greece;EUR;1
+EUR_GreConsumerPriceIndex;20180510;09:00;Consumer Price Index - Harmonized (YoY);Greece;EUR;1
+EUR_GreUnemploymentRate;20180510;09:00;Unemployment Rate (MoM);Greece;EUR;1
+GBP_IndustrialProduction;20180510;08:30;Industrial Production (YoY);United Kingdom;GBP;1
+GBP_ManufacturingProduction;20180510;08:30;Manufacturing Production (MoM);United Kingdom;GBP;2
+GBP_GoodsTradeBalance;20180510;08:30;Goods Trade Balance;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20180510;08:30;Total Trade Balance;United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20180510;08:30;Trade Balance non-EU;United Kingdom;GBP;1
+EUR_ItaIndustrialOutput;20180510;08:00;Industrial Output w.d.a (YoY);Italy;EUR;1
+EUR_EurEconomicBulletin;20180510;08:00;Economic Bulletin;European Monetary Union;EUR;2
+CZK_ConsumerPriceIndex;20180510;07:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+CZK_UnemploymentRate;20180510;07:00;Unemployment Rate;Czech Republic;CZK;1
+HUF_TradeBalance;20180510;07:00;Trade Balance;Hungary;HUF;1
+RON_TradeBalance;20180510;06:00;Trade Balance;Romania;RON;1
+JPY_EcoWatchersSurvey:Outlook;20180510;05:00;Eco Watchers Survey: Outlook;Japan;JPY;1
+JPY_EcoWatchersSurvey:Current;20180510;05:00;Eco Watchers Survey: Current;Japan;JPY;1
+KRW_MoneySupplyGrowth;20180510;03:00;Money Supply Growth;South Korea;KRW;1
+CNY_ProducerPriceIndex;20180510;01:30;Producer Price Index (YoY);China;CNY;2
+CNY_ConsumerPriceIndex;20180510;01:30;Consumer Price Index (MoM);China;CNY;2
+NZD_CentralBankSpeech;20180510;01:10;RBNZ Governor Orr speech;New Zealand;NZD;3
+EUR_GerAscensionDay;20180510;00:00;Ascension Day;Germany;EUR;0
+EUR_BelAscensionDay;20180510;00:00;Ascension Day;Belgium;EUR;0
+EUR_AusAscensionDay;20180510;00:00;Ascension Day;Austria;EUR;0
+EUR_FraAscensionDay;20180510;00:00;Ascension Day ;France;EUR;0
+SEK_AscensionDay;20180510;00:00;Ascension Day;Sweden;SEK;0
+DKK_AscensionDay;20180510;00:00;Ascension Day ;Denmark;DKK;0
+NOK_AscensionDay;20180510;00:00;Ascension Day;Norway;NOK;0
+EUR_FinAscensionDay;20180510;00:00;Ascension Day;Finland;EUR;0
+ISK_AscensionDay;20180510;00:00;Ascension Day ;Iceland;ISK;0
+EUR_NetAscensionDay;20180510;00:00;Ascension Day;Netherlands, The;EUR;0
+CHF_AscensionDay;20180510;00:00;Ascension Day;Switzerland;CHF;0
+IDR_AscensionDay;20180510;00:00;Ascension Day;Indonesia;IDR;0

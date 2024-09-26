@@ -1,0 +1,23 @@
+AUD_RBAMeetingMinutes;20231121;00:30;RBA Meeting Minutes;Australia;AUD;3
+NZD_CreditCardSpending;20231121;02:00;Credit Card Spending (YoY);New Zealand;NZD;1
+GBP_PublicSectorNetBorrowing;20231121;07:00;Public Sector Net Borrowing;United Kingdom;GBP;1
+CHF_TradeBalance;20231121;07:00;Trade Balance;Switzerland;CHF;1
+CHF_Exports;20231121;07:00;Exports (MoM);Switzerland;CHF;1
+CHF_Imports;20231121;07:00;Imports (MoM);Switzerland;CHF;1
+SEK_CapacityUtilization;20231121;07:00;Capacity Utilization;Sweden;SEK;1
+PLN_IndustrialOutput;20231121;09:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20231121;09:00;Producer Price Index (YoY);Poland;PLN;1
+PLN_CorporateSectorWages;20231121;09:00;Corporate Sector Wages;Poland;PLN;1
+EUR_GerAuction;20231121;10:30;5-y Note Auction;Germany;EUR;1
+HUF_MNBInterestRateDecision;20231121;13:00;MNB Interest Rate Decision;Hungary;HUF;1
+USD_ChicagoFedNationalActivityIndex;20231121;13:30;Chicago Fed National Activity Index ;United States;USD;1
+CAD_NewHousingPriceIndex;20231121;13:30;New Housing Price Index (YoY);Canada;CAD;1
+CAD_ConsumerPriceIndex;20231121;13:30;Consumer Price Index (MoM);Canada;CAD;2
+USD_RedbookIndex;20231121;13:55;Redbook Index (YoY);United States;USD;1
+NZD_GDTPriceIndex;20231121;14:00;GDT Price Index;New Zealand;NZD;1
+USD_ExistingHomeSales;20231121;15:00;Existing Home Sales (MoM);United States;USD;1
+USD_ExistingHomeSalesChange;20231121;15:00;Existing Home Sales Change (MoM);United States;USD;2
+EUR_EurCentralBankSpeech;20231121;17:15;ECB Schnabel speech;Eurozone;EUR;2
+USD_Auction;20231121;18:00;10-year TIPS Auction;United States;USD;1
+USD_FOMCMinutes;20231121;19:00;FOMC Minutes;United States;USD;3
+USD_APIWeeklyCrudeOilStock;20231121;21:30;API Weekly Crude Oil Stock;United States;USD;1

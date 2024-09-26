@@ -1,0 +1,24 @@
+CLP_NavyDay;20190521;00:00;Navy Day ;Chile;CLP;0
+AUD_RBAMeetingMinutes;20190521;01:30;RBA Meeting Minutes;Australia;AUD;3
+NZD_CreditCardSpending;20190521;03:00;Credit Card Spending (YoY);New Zealand;NZD;1
+AUD_CentralBankSpeech;20190521;03:10;RBA Governor Lowe speech;Australia;AUD;3
+DKK_ConsumerConfidence;20190521;06:00;Consumer Confidence;Denmark;DKK;1
+TRY_ConsumerConfidence;20190521;07:00;Consumer Confidence;Turkey;TRY;1
+PLN_CorporateSectorWages;20190521;08:00;Corporate Sector Wages;Poland;PLN;1
+EUR_EurCentralBankSpeech;20190521;09:00;ECB De Guindos speech;European Monetary Union;EUR;2
+GBP_CBIIndustrialTrendsSurvey–Orders;20190521;10:00;CBI Industrial Trends Survey – Orders (MoM);United Kingdom;GBP;1
+USD_RedbookIndex;20190521;12:55;Redbook Index (YoY);United States;USD;1
+USD_ExistingHomeSales;20190521;14:00;Existing Home Sales (MoM);United States;USD;2
+USD_ExistingHomeSalesChange;20190521;14:00;Existing Home Sales Change (MoM);United States;USD;1
+EUR_EurConsumerConfidence;20190521;14:00;Consumer Confidence;European Monetary Union;EUR;1
+GBP_CentralBankSpeech;20190521;15:00;UK Prime Minister Theresa May speech;United Kingdom;GBP;3
+NZD_GDTPriceIndex;20190521;15:07;GDT Price Index;New Zealand;NZD;2
+USD_Auction;20190521;15:30;52-Week Bill Auction;United States;USD;1
+USD_CentralBankSpeech;20190521;16:00;Fed Rosengren speech;United States;USD;2
+USD_APIWeeklyCrudeOilStock;20190521;21:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_RetailSales;20190521;22:45;Retail Sales (QoQ);New Zealand;NZD;3
+JPY_AdjustedMerchandiseTradeBalance;20190521;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;2
+JPY_Imports;20190521;23:50;Imports (YoY);Japan;JPY;2
+JPY_MerchandiseTradeBalanceTotal;20190521;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Exports;20190521;23:50;Exports (YoY);Japan;JPY;2
+JPY_MachineryOrders;20190521;23:50;Machinery Orders (YoY);Japan;JPY;2

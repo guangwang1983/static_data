@@ -1,0 +1,22 @@
+GBP_BoxingDay;20191226;00:00;Boxing Day;United Kingdom;GBP;0
+JPY_CentralBankSpeech;20191226;00:00;BoJ Governor Kuroda speech;Japan;JPY;3
+JPY_ConstructionOrders;20191226;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_HousingStarts;20191226;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_AnnualizedHousingStarts;20191226;05:00;Annualized Housing Starts;Japan;JPY;1
+CAD_BoxingDay;20191226;05:00;Boxing Day;Canada;CAD;0
+TRY_ManufacturingConfidence;20191226;07:00;Manufacturing Confidence;Turkey;TRY;1
+TRY_CapacityUtilization;20191226;07:00;Capacity Utilization;Turkey;TRY;1
+USD_MBAMortgageApplications;20191226;12:00;MBA Mortgage Applications;United States;USD;1
+RUB_CentralBankReserves;20191226;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_JoblessClaims;20191226;13:30;Continuing Jobless Claims;United States;USD;1
+USD_Auction;20191226;18:00;7-Year Note Auction;United States;USD;1
+KRW_ConsumerSentimentIndex;20191226;22:00;Consumer Sentiment Index;South Korea;KRW;1
+JPY_ConsumerPriceIndex;20191226;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;2
+JPY_TokyoCPIexFreshFood;20191226;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;3
+JPY_TokyoCPIexFoodEnergy;20191226;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_UnemploymentRate;20191226;23:30;Unemployment Rate;Japan;JPY;2
+JPY_JobsApplicantsRatio;20191226;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+JPY_BoJSummaryofOpinions;20191226;23:50;BoJ Summary of Opinions;Japan;JPY;1
+JPY_IndustrialProduction;20191226;23:50;Industrial Production (MoM);Japan;JPY;1
+JPY_RetailTrade;20191226;23:50;Retail Trade (YoY);Japan;JPY;2
+JPY_LargeRetailerSales;20191226;23:50;Large Retailer Sales;Japan;JPY;2

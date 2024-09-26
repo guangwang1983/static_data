@@ -1,0 +1,28 @@
+ARS_GrossDomesticProduct;20130315;19:00;Gross Domestic Product (YoY)	;Argentina;ARS;1
+PEN_GrossDomesticProduct;20130315;15:00;Gross Domestic Product;Peru;PEN;1
+USD_MichiganConsumerSentimentIndex;20130315;13:55;Michigan Consumer Sentiment Index;United States;USD;2
+USD_IndustrialProduction;20130315;13:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20130315;13:15;Capacity Utilization;United States;USD;1
+USD_NetLongTermTICFlows;20130315;13:00;Net Long-Term TIC Flows;United States;USD;2
+USD_TotalNetTICFlows;20130315;13:00;Total Net TIC Flows;United States;USD;1
+USD_NYEmpireStateManufacturingIndex;20130315;12:30;NY Empire State Manufacturing Index;United States;USD;1
+USD_ConsumerPriceIndex;20130315;12:30;Consumer Price Index n.s.a (MoM);United States;USD;1
+INR_FXReservesUSD;20130315;11:30;FX Reserves, USD;India;INR;1
+GBP_CentralBankSpeech;20130315;11:00;BoE Dale speech;United Kingdom;GBP;1
+EUR_EurLabourCost;20130315;10:00;Labour Cost;European Monetary Union;EUR;2
+EUR_EurConsumerPriceIndex;20130315;10:00;Consumer Price Index (YoY);European Monetary Union;EUR;3
+NOK_TradeBalance;20130315;09:00;Trade Balance;Norway;NOK;1
+TRY_BudgetBalance;20130315;09:00;Budget Balance;Turkey;TRY;1
+EUR_AusHICP;20130315;09:00;HICP (YoY);Austria;EUR;1
+EUR_NetManufacturingOutput;20130315;08:30;Manufacturing Output (MoM);Netherlands, The;EUR;1
+CHF_ProducerandImportPrices;20130315;08:15;Producer and Import Prices (MoM);Switzerland;CHF;1
+TRY_3mthquarterlyjoblessaverage;20130315;08:00;3mth quarterly jobless average;Turkey;TRY;1
+CZK_ProducerPriceIndex;20130315;08:00;Producer Price Index (YoY);Czech Republic;CZK;1
+CZK_IndustrialProduction;20130315;08:00;Industrial Production (YoY);Czech Republic;CZK;1
+EUR_FinCurrentAccount;20130315;08:00;Current Account;Finland;EUR;1
+CZK_Constructionoutput;20130315;08:00;Construction output (YoY);Czech Republic;CZK;1
+EUR_SloEUNormInflation;20130315;08:00;EU Norm Inflation (MoM);Slovakia;EUR;1
+SGD_RetailSales;20130315;05:00;Retail Sales (MoM);Singapore;SGD;1
+RUB_ForeignTrade;20130315;03:18;Foreign Trade;Russia;RUB;1
+EUR_EurEuropeanCouncilMeeting;20130315;00:00;European Council Meeting;European Monetary Union;EUR;2
+HUF_NationalDay;20130315;00:00;National Day ;Hungary;HUF;0

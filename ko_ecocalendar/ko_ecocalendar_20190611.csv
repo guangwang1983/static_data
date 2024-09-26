@@ -1,0 +1,32 @@
+NZD_ANZMonthlyInflationGauge;20190611;01:00;ANZ Monthly Inflation Gauge (YoY);New Zealand;NZD;1
+AUD_NationalAustraliaBankBusinessConfidence;20190611;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20190611;01:30;National Australia Bank Business Conditions;Australia;AUD;1
+NOK_CoreInflation;20190611;06:00;Core Inflation (MoM);Norway;NOK;1
+NOK_ConsumerPriceIndex;20190611;06:00;Consumer Price Index (MoM);Norway;NOK;1
+DKK_Inflation;20190611;06:00;Inflation (HICP) (YoY);Denmark;DKK;1
+DKK_ConsumerPriceIndex;20190611;06:00;Consumer Price Index (YoY);Denmark;DKK;1
+JPY_MachineToolOrders;20190611;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+NOK_ProducerPriceIndex;20190611;06:00;Producer Price Index (YoY);Norway;NOK;1
+CZK_ConsumerPriceIndex;20190611;07:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+EUR_EurSentixInvestorConfidence;20190611;08:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+GBP_ClaimantCountRate;20190611;08:30;Claimant Count Rate;United Kingdom;GBP;1
+GBP_ClaimantCountChange;20190611;08:30;Claimant Count Change;United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20190611;08:30;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_AverageEarningsExcludingBonus;20190611;08:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_AverageEarningsIncludingBonus;20190611;08:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;3
+USD_NFIBBusinessOptimismIndex;20190611;10:00;NFIB Business Optimism Index;United States;USD;1
+ZAR_ManufacturingProductionIndex;20190611;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+USD_ProducerPriceIndex;20190611;12:30;Producer Price Index ex Food & Energy (YoY);United States;USD;2
+USD_RedbookIndex;20190611;12:55;Redbook Index (YoY);United States;USD;1
+RUB_ForeignTrade;20190611;13:00;Foreign Trade;Russia;RUB;1
+MXN_IndustrialOutput;20190611;13:00;Industrial Output (MoM);Mexico;MXN;1
+USD_USDAWASDEReport;20190611;16:00;USDA WASDE Report;United States;USD;1
+USD_IBDTIPPEconomicOptimism;20190611;16:15;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+USD_Auction;20190611;17:00;3-Year Note Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20190611;20:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_VisitorArrivals;20190611;22:45;Visitor Arrivals (YoY);New Zealand;NZD;1
+NZD_RetailSales;20190611;22:45;Electronic Card Retail Sales  (MoM);New Zealand;NZD;1
+KRW_UnemploymentRate;20190611;23:00;Unemployment Rate;South Korea;KRW;1
+AUD_CentralBankSpeech;20190611;23:25;RBA Kent speech;Australia;AUD;2
+JPY_ProducerPriceIndex;20190611;23:50;Producer Price Index (YoY);Japan;JPY;1
+JPY_MachineryOrders;20190611;23:50;Machinery Orders (MoM);Japan;JPY;2

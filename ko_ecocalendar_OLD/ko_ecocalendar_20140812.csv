@@ -1,0 +1,31 @@
+JPY_GrossDomesticProduct;20140812;23:50;Gross Domestic Product (QoQ);Japan;JPY;3
+JPY_BoJMonetaryPolicyMeetingMinutes;20140812;23:50;BoJ Monetary Policy Meeting Minutes;Japan;JPY;2
+KRW_UnemploymentRate;20140812;23:00;Unemployment Rate;South Korea;KRW;1
+KRW_ImportPriceGrowth;20140812;21:00;Import Price Growth (YoY);South Korea;KRW;1
+KRW_ExportPriceGrowth;20140812;21:00;Export Price Growth (YoY);South Korea;KRW;1
+USD_MonthlyBudgetStatement;20140812;18:00;Monthly Budget Statement;United States;USD;2
+USD_Auction;20140812;15:30;4-Week Bill Auction;United States;USD;1
+USD_JOLTSJobOpenings;20140812;14:00;JOLTS Job Openings;United States;USD;1
+USD_RedbookIndex;20140812;12:55;Redbook Index (MoM);United States;USD;1
+INR_ManufacturingOutput;20140812;12:00;Manufacturing Output;India;INR;1
+INR_IndustrialOutput;20140812;12:00;Industrial Output;India;INR;1
+INR_CumulativeIndustrialOutput;20140812;12:00;Cumulative Industrial Output;India;INR;1
+USD_NFIBBusinessOptimismIndex;20140812;11:30;NFIB Business Optimism Index;United States;USD;1
+EUR_PorConsumerPriceIndex;20140812;10:03;Consumer Price Index (MoM);Portugal;EUR;1
+EUR_GerZEWSurveyEconomicSentiment;20140812;09:00;ZEW Survey - Economic Sentiment;Germany;EUR;2
+EUR_EurZEWSurveyEconomicSentiment;20140812;09:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurveyCurrentSituation;20140812;09:00;ZEW Survey - Current Situation;Germany;EUR;2
+EUR_ItaConsumerPriceIndex;20140812;08:00;Consumer Price Index (YoY);Italy;EUR;1
+SEK_ConsumerPriceIndex;20140812;07:30;Consumer Price Index (MoM);Sweden;SEK;1
+EUR_SloCoreInflation;20140812;07:00;Core Inflation (YoY);Slovakia;EUR;1
+EUR_SloHeadlineInflation;20140812;07:00;Headline Inflation (MoM);Slovakia;EUR;1
+HUF_ConsumerPriceIndex;20140812;07:00;Consumer Price Index (YoY);Hungary;HUF;1
+EUR_FraCurrentAccount;20140812;06:45;Current Account;France;EUR;1
+JPY_IndustrialProduction;20140812;04:30;Industrial Production (MoM);Japan;JPY;1
+JPY_CapacityUtilization;20140812;04:30;Capacity Utilization;Japan;JPY;1
+NZD_REINZHousePriceIndex;20140812;02:37;REINZ House Price Index (MoM);New Zealand;NZD;2
+AUD_HousePriceIndex;20140812;01:30;House Price Index (QoQ);Australia;AUD;2
+AUD_NationalAustraliaBankBusinessConfidence;20140812;01:30;National Australia Bank Business Confidence;Australia;AUD;2
+AUD_NationalAustraliaBankBusinessConditions;20140812;01:30;National Australia Bank Business Conditions;Australia;AUD;1
+SGD_GrossDomesticProduct;20140812;00:00;Gross Domestic Product (YoY);Singapore;SGD;1
+EUR_EurG20Meeting;20140812;00:00;G20 Meeting;European Monetary Union;EUR;2

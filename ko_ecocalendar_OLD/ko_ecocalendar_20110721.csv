@@ -1,0 +1,25 @@
+USD_HousingPriceIndex;20110721;14:00;Housing Price Index (MoM);United States;USD;1
+USD_FedChairBernanketestifies;20110721;14:00;Fed Chair Bernanke testifies;United States;USD;2
+USD_PhiladelphiaFedManufacturingSurvey;20110721;14:00;Philadelphia Fed Manufacturing Survey;United States;USD;2
+MXN_JoblessRate;20110721;13:00;Jobless Rate s.a;Mexico;MXN;1
+USD_JoblessClaims;20110721;12:30;Initial Jobless Claims;United States;USD;1
+EUR_PorCurrentAccount;20110721;11:15;Current Account Balance;Portugal;EUR;1
+EUR_EurEcoFinMeeting;20110721;11:00;EcoFin Meeting;European Monetary Union;EUR;2
+CHF_ZEWSurveyExpectations;20110721;09:00;ZEW Survey - Expectations;Switzerland;CHF;2
+GBP_RetailSales;20110721;08:30;Retail Sales (YoY);United Kingdom;GBP;2
+GBP_PublicSectorNetBorrowing;20110721;08:30;Public Sector Net Borrowing;United Kingdom;GBP;2
+EUR_ItaTradeBalancenonEU;20110721;08:00;Trade Balance non-EU;Italy;EUR;1
+EUR_EurCurrentAccount;20110721;08:00;Current Account s.a;European Monetary Union;EUR;1
+EUR_EurMarkitManufacturingPMI;20110721;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20110721;07:58;Markit Services PMI;European Monetary Union;EUR;2
+EUR_NetUnemploymentRate;20110721;07:30;Unemployment Rate s.a (3M);Netherlands, The;EUR;1
+EUR_NetConsumerSpendingVolume;20110721;07:30;Consumer Spending Volume;Netherlands, The;EUR;1
+EUR_GerMarkitServicesPMI;20110721;07:30;Markit Services PMI;Germany;EUR;2
+EUR_GerMarkitManufacturingPMI;20110721;07:30;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20110721;06:58;Markit Manufacturing PMI;France;EUR;1
+EUR_FraMarkitServicesPMI;20110721;06:58;Markit Services PMI;France;EUR;1
+CHF_TradeBalance;20110721;06:00;Trade Balance;Switzerland;CHF;2
+JPY_AllIndustryActivityIndex;20110721;04:30;All Industry Activity Index (MoM);Japan;JPY;2
+CNY_CaixinManufacturingPMI;20110721;02:30;Caixin Manufacturing PMI;China;CNY;1
+RUB_GrossDomesticProduct;20110721;01:31;Gross Domestic Product Monthly (YoY);Russia;RUB;1
+AUD_RBAForeignExchangeTransaction;20110721;01:30;RBA Foreign Exchange Transaction;Australia;AUD;1

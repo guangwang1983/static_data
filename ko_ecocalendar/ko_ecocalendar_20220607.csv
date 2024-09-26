@@ -1,0 +1,41 @@
+NZD_ANZCommodityPrice;20220607;01:00;ANZ Commodity Price;New Zealand;NZD;1
+AUD_RBAInterestRateDecision;20220607;04:30;RBA Interest Rate Decision;Australia;AUD;3
+AUD_RBARateStatement;20220607;04:30;RBA Rate Statement;Australia;AUD;3
+JPY_LeadingEconomicIndex;20220607;05:00;Leading Economic Index;Japan;JPY;1
+JPY_CoincidentIndex;20220607;05:00;Coincident Index;Japan;JPY;1
+SEK_CurrentAccount;20220607;06:00;Current Account (QoQ);Sweden;SEK;1
+DKK_IndustrialProduction;20220607;06:00;Industrial Production (MoM);Denmark;DKK;1
+ZAR_Net$Gold&ForexReserve;20220607;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+ZAR_Gross$Gold&ForexReserve;20220607;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+EUR_GerFactoryOrders;20220607;06:00;Factory Orders n.s.a. (YoY);Germany;EUR;1
+INR_M3MoneySupply;20220607;06:30;M3 Money Supply;India;INR;1
+CZK_RetailSales;20220607;07:00;Retail Sales (YoY);Czech Republic;CZK;1
+CHF_ForeignCurrencyReserves;20220607;07:00;Foreign Currency Reserves;Switzerland;CHF;1
+CNY_ForeignExchangeReserves;20220607;08:00;Foreign Exchange Reserves (MoM);China;CNY;1
+CZK_FXReserves;20220607;08:00;FX Reserves;Czech Republic;CZK;1
+EUR_EurSentixInvestorConfidence;20220607;08:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+GBP_S&PGlobalCIPSCompositePMI;20220607;08:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSServicesPMI;20220607;08:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;1
+ZAR_GrossDomesticProduct;20220607;09:30;Gross Domestic Product (QoQ);South Africa;ZAR;1
+ILS_FXReserves;20220607;10:00;FX Reserves;Israel;ILS;1
+PLN_CentralBankFXReserves;20220607;12:00;Central Bank FX Reserves;Poland;PLN;1
+USD_GoodsandServicesTradeBalance;20220607;12:30;Goods and Services Trade Balance;United States;USD;2
+USD_GoodsTradeBalance;20220607;12:30;Goods Trade Balance;United States;USD;1
+CAD_InternationalMerchandiseTrade;20220607;12:30;International Merchandise Trade;Canada;CAD;2
+CAD_Exports;20220607;12:30;Exports;Canada;CAD;1
+CAD_Imports;20220607;12:30;Imports;Canada;CAD;1
+CLP_TradeBalance;20220607;12:30;Trade Balance;Chile;CLP;1
+USD_RedbookIndex;20220607;12:55;Redbook Index (YoY);United States;USD;1
+CAD_IveyPurchasingManagersIndex;20220607;14:00;Ivey Purchasing Managers Index;Canada;CAD;2
+USD_TreasurySecYellentestifies;20220607;14:00;Treasury Sec Yellen testifies;United States;USD;3
+NZD_GDTPriceIndex;20220607;14:00;GDT Price Index;New Zealand;NZD;1
+TRY_TreasuryCashBalance;20220607;14:30;Treasury Cash Balance;Turkey;TRY;1
+USD_Auction;20220607;17:00;3-Year Note Auction;United States;USD;1
+USD_ConsumerCreditChange;20220607;19:00;Consumer Credit Change;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20220607;20:30;API Weekly Crude Oil Stock;United States;USD;1
+CLP_BCCHInterestRate;20220607;22:00;BCCH Interest Rate;Chile;CLP;1
+KRW_GrossDomesticProduct;20220607;23:00;Gross Domestic Product Growth (QoQ) ;South Korea;KRW;1
+JPY_BankLending;20220607;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_GrossDomesticProduct;20220607;23:50;Gross Domestic Product Deflator (YoY);Japan;JPY;1
+JPY_CurrentAccount;20220607;23:50;Current Account n.s.a.;Japan;JPY;2
+JPY_TradeBalanceBOPBasis;20220607;23:50;Trade Balance - BOP Basis;Japan;JPY;1

@@ -1,0 +1,18 @@
+AUD_WestpacLeadingIndex;20101116;23:30;Westpac Leading Index (MoM);Australia;AUD;1
+GBP_CentralBankSpeech;20101116;15:30;BoE Governor King speech;United Kingdom;GBP;3
+USD_NAHBHousingMarketIndex;20101116;15:00;NAHB Housing Market Index;United States;USD;1
+USD_IndustrialProduction;20101116;14:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20101116;14:15;Capacity Utilization;United States;USD;1
+USD_TotalNetTICFlows;20101116;14:00;Total Net TIC Flows;United States;USD;1
+USD_NetLongTermTICFlows;20101116;14:00;Net Long-Term TIC Flows;United States;USD;2
+USD_ProducerPriceIndex;20101116;13:30;Producer Price Index (MoM);United States;USD;1
+CAD_ManufacturingShipments;20101116;13:30;Manufacturing Shipments (MoM);Canada;CAD;1
+EUR_EurConsumerPriceIndex;20101116;10:00;Consumer Price Index (YoY);European Monetary Union;EUR;2
+EUR_EurZEWSurveyEconomicSentiment;20101116;10:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;0
+EUR_GerZEWSurveyEconomicSentiment;20101116;10:00;ZEW Survey - Economic Sentiment;Germany;EUR;2
+EUR_GerZEWSurveyCurrentSituation;20101116;10:00;ZEW Survey - Current Situation;Germany;EUR;2
+GBP_RetailPriceIndex;20101116;09:30;Retail Price Index (MoM);United Kingdom;GBP;1
+GBP_DCLGHousePriceIndex;20101116;09:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20101116;09:30;Core Consumer Price Index (YoY);United Kingdom;GBP;2
+CNY_FDIForeignDirectInvestment;20101116;01:58;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;1
+AUD_RBAMeetingMinutes;20101116;00:30;RBA Meeting Minutes;Australia;AUD;3

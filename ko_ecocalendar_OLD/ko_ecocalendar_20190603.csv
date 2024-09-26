@@ -1,0 +1,46 @@
+JPY_MonetaryBase;20190603;23:50;Monetary Base (YoY);Japan;JPY;1
+GBP_RetailSales;20190603;23:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+EUR_IreConsumerConfidence;20190603;23:01;Consumer Confidence;Ireland;EUR;1
+KRW_GrossDomesticProduct;20190603;23:00;Gross Domestic Product Growth (QoQ) ;South Korea;KRW;1
+KRW_ConsumerPriceIndex;20190603;23:00;Consumer Price Index Growth (MoM);South Korea;KRW;1
+NZD_TermsofTradeIndex;20190603;22:45;Terms of Trade Index;New Zealand;NZD;1
+USD_TotalVehicleSales;20190603;21:00;Total Vehicle Sales;United States;USD;1
+BRL_TradeBalance;20190603;19:00;Trade Balance;Brazil;BRL;1
+ARS_IndustrialOutput;20190603;19:00;Industrial Output n.s.a (YoY);Argentina;ARS;1
+USD_Auction;20190603;15:30;6-Month Bill Auction;United States;USD;1
+USD_ISMManufacturingPMI;20190603;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMPricesPaid;20190603;14:00;ISM Prices Paid;United States;USD;2
+USD_ConstructionSpending;20190603;14:00;Construction Spending (MoM);United States;USD;1
+USD_MarkitManufacturingPMI;20190603;13:45;Markit Manufacturing PMI;United States;USD;2
+CAD_MarkitManufacturingPMI;20190603;13:30;Markit Manufacturing PMI;Canada;CAD;2
+BRL_HSBCPMIManufacturing;20190603;13:00;HSBC PMI Manufacturing;Brazil;BRL;1
+ZAR_TotalNewVehicleSales;20190603;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+GBP_MarkitManufacturingPMI;20190603;08:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+EUR_GreMarkitManufacturingPMI;20190603;08:00;Markit Manufacturing PMI;Greece;EUR;1
+EUR_EurMarkitManufacturingPMI;20190603;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;1
+EUR_GerMarkitManufacturingPMI;20190603;07:55;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20190603;07:50;Markit Manufacturing PMI;France;EUR;1
+EUR_ItaMarkitManufacturingPMI;20190603;07:45;Markit Manufacturing PMI;Italy;EUR;1
+EUR_AusUnemployment;20190603;07:30;Unemployment;Austria;EUR;1
+EUR_AusUnemploymentRate;20190603;07:30;Unemployment Rate;Austria;EUR;1
+SEK_RetailSales;20190603;07:30;Retail Sales (YoY);Sweden;SEK;1
+CHF_SVMEPurchasingManagers'Index;20190603;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_MarkitPMI;20190603;07:30;Markit PMI;Czech Republic;CZK;1
+EUR_SpaMarkitManufacturingPMI;20190603;07:15;Markit Manufacturing PMI;Spain;EUR;1
+TRY_ProducerPriceIndex;20190603;07:00;Producer Price Index (YoY);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20190603;07:00;Consumer Price Index (MoM);Turkey;TRY;1
+HUF_ProducerPriceIndex;20190603;07:00;Producer Price Index (YoY);Hungary;HUF;1
+PLN_PurchasingManagerIndex;20190603;07:00;Purchasing Manager Index;Poland;PLN;1
+AUD_RBACommodityIndexSDR;20190603;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+SEK_PurchasingManagersIndexManufacturing;20190603;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;2
+CHF_ConsumerPriceIndex;20190603;06:30;Consumer Price Index (YoY);Switzerland;CHF;2
+TRY_Exports;20190603;06:00;Exports;Turkey;TRY;1
+RUB_HSBCManufacturingPMI;20190603;06:00;HSBC Manufacturing PMI	;Russia;RUB;1
+CNY_CaixinManufacturingPMI;20190603;01:45;Caixin Manufacturing PMI;China;CNY;3
+AUD_CompanyGrossOperatingProfits;20190603;01:30;Company Gross Operating Profits (QoQ);Australia;AUD;1
+AUD_ANZJobAdvertisements;20190603;01:30;ANZ Job Advertisements;Australia;AUD;1
+KRW_NikkeiMarkitManufacturingPMI;20190603;00:30;Nikkei Markit Manufacturing PMI;South Korea;KRW;1
+JPY_NikkeiManufacturingPMI;20190603;00:30;Nikkei Manufacturing PMI;Japan;JPY;1
+COP_AscensionDay;20190603;00:00;Ascension Day;Colombia;COP;0
+NZD_QueenBirthday;20190603;00:00;Queen Birthday;New Zealand;NZD;0
+EUR_IreJuneHoliday;20190603;00:00;June Holiday ;Ireland;EUR;0

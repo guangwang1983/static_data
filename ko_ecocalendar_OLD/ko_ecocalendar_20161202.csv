@@ -1,0 +1,33 @@
+JPY_CFTCJPYNCNetPositions;20161202;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+AUD_CFTCAUDNCNetPositions;20161202;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCGoldNCNetPositions;20161202;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCUSDNCNetPositions;20161202;20:30;CFTC USD NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20161202;20:30;CFTC Oil NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20161202;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+GBP_CFTCGBPNCNetPositions;20161202;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CentralBankSpeech;20161202;18:00;Fed Tarullo speech;United States;USD;1
+USD_BakerHughesUSOilRigCount;20161202;18:00;Baker Hughes US Oil Rig Count;United States;USD;2
+DKK_CurrencyReserves;20161202;15:00;Currency Reserves;Denmark;DKK;1
+USD_ISMNYBusinessConditionsIndex;20161202;14:45;ISM-NY Business Conditions Index;United States;USD;1
+CAD_LaborProductivity;20161202;13:30;Labor Productivity (QoQ);Canada;CAD;1
+USD_LaborForceParticipationRate;20161202;13:30;Labor Force Participation Rate;United States;USD;3
+USD_UnemploymentRate;20161202;13:30;Unemployment Rate;United States;USD;3
+USD_AverageHourlyEarnings;20161202;13:30;Average Hourly Earnings (MoM);United States;USD;1
+USD_NonfarmPayrolls;20161202;13:30;Nonfarm Payrolls;United States;USD;3
+USD_AverageWeeklyHours;20161202;13:30;Average Weekly Hours;United States;USD;2
+CAD_ParticipationRate;20161202;13:30;Participation Rate;Canada;CAD;2
+CAD_NetChangeinEmployment;20161202;13:30;Net Change in Employment;Canada;CAD;2
+CAD_UnemploymentRate;20161202;13:30;Unemployment Rate;Canada;CAD;2
+SGD_PurchasingManagersIndex;20161202;13:00;Purchasing Managers Index;Singapore;SGD;1
+INR_FXReservesUSD;20161202;11:30;FX Reserves, USD;India;INR;1
+BRL_IndustrialOutput;20161202;11:00;Industrial Output (YoY);Brazil;BRL;1
+EUR_EurProducerPriceIndex;20161202;10:00;Producer Price Index (MoM);European Monetary Union;EUR;1
+GBP_MarkitConstructionPMI;20161202;09:30;Markit Construction PMI;United Kingdom;GBP;2
+SEK_CurrentAccount;20161202;08:30;Current Account (QoQ);Sweden;SEK;1
+EUR_SpaUnemploymentChange;20161202;08:00;Unemployment Change;Spain;EUR;1
+HUF_TradeBalance;20161202;08:00;Trade Balance;Hungary;HUF;1
+BRL_FipeIPCInflation;20161202;07:40;Fipe IPC Inflation;Brazil;BRL;1
+EUR_FinGrossDomesticProduct;20161202;07:00;Gross Domestic Product Qtr Prelim (YoY);Finland;EUR;1
+NOK_RegisteredUnemployment;20161202;07:00;Registered Unemployment n.s.a;Norway;NOK;1
+CHF_GrossDomesticProduct;20161202;06:45;Gross Domestic Product (YoY);Switzerland;CHF;2
+AUD_RetailSales;20161202;00:30;Retail Sales s.a. (MoM);Australia;AUD;2

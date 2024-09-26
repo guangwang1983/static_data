@@ -1,0 +1,28 @@
+NOK_ConstitutionDay;20180517;00:00;Constitution Day;Norway;NOK;0
+AUD_ConsumerInflationExpectations;20180517;01:00;Consumer Inflation Expectations;Australia;AUD;2
+AUD_ParticipationRate;20180517;01:30;Participation Rate;Australia;AUD;2
+AUD_UnemploymentRate;20180517;01:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_PartTimeEmployment;20180517;01:30;Part-Time Employment;Australia;AUD;1
+AUD_FullTimeEmployment;20180517;01:30;Full-Time Employment;Australia;AUD;1
+AUD_EmploymentChange;20180517;01:30;Employment Change s.a.;Australia;AUD;3
+NZD_BudgetRelease;20180517;02:00;Budget Release;New Zealand;NZD;3
+CNY_FDIForeignDirectInvestment;20180517;02:45;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+IDR_BankIndonesiaRate;20180517;07:00;Bank Indonesia Rate;Indonesia;IDR;1
+EUR_ItaGlobalTradeBalance;20180517;08:00;Global Trade Balance;Italy;EUR;1
+EUR_ItaTradeBalanceEU;20180517;08:00;Trade Balance EU;Italy;EUR;1
+EUR_EurConstructionOutput;20180517;09:00;Construction Output w.d.a (YoY);European Monetary Union;EUR;1
+EUR_EurCentralBankSpeech;20180517;10:30;ECB Constancio speech;European Monetary Union;EUR;2
+USD_JoblessClaims;20180517;12:30;Continuing Jobless Claims;United States;USD;2
+CAD_ADPEmploymentChange;20180517;12:30;ADP Employment Change;Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20180517;12:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20180517;12:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+USD_PhiladelphiaFedManufacturingSurvey;20180517;12:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+RUB_CentralBankReserves;20180517;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_EIANaturalGasStorageChange;20180517;14:30;EIA Natural Gas Storage Change;United States;USD;1
+CAD_BoCReview;20180517;14:30;BoC Review;Canada;CAD;2
+GBP_CentralBankSpeech;20180517;16:00;BoE Haldane speech;United Kingdom;GBP;2
+USD_CentralBankSpeech;20180517;17:30;Fed Kaplan speech;United States;USD;2
+MXN_CentralBankInterestRate;20180517;19:00;Central Bank Interest Rate;Mexico;MXN;1
+JPY_NationalCPIexFoodEnergy;20180517;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20180517;23:30;National Consumer Price Index (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20180517;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2

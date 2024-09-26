@@ -1,0 +1,33 @@
+JPY_BoJMonetaryPolicyMeetingMinutes;20191105;23:50;BoJ Monetary Policy Meeting Minutes;Japan;JPY;3
+KRW_CurrentAccount;20191105;23:00;Current Account Balance;South Korea;KRW;1
+NZD_EmploymentChange;20191105;21:45;Employment Change;New Zealand;NZD;3
+NZD_UnemploymentRate;20191105;21:45;Unemployment Rate;New Zealand;NZD;3
+NZD_ParticipationRate;20191105;21:45;Participation Rate;New Zealand;NZD;2
+NZD_LabourCostIndex;20191105;21:45;Labour Cost Index (QoQ);New Zealand;NZD;2
+USD_APIWeeklyCrudeOilStock;20191105;21:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_Auction;20191105;18:00;3-Year Note Auction;United States;USD;1
+USD_JOLTSJobOpenings;20191105;15:00;JOLTS Job Openings;United States;USD;1
+USD_ISMNonManufacturingPMI;20191105;15:00;ISM Non-Manufacturing PMI;United States;USD;3
+USD_IBDTIPPEconomicOptimism;20191105;15:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+USD_MarkitServicesPMI;20191105;14:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20191105;14:45;Markit PMI Composite;United States;USD;2
+NZD_GDTPriceIndex;20191105;14:30;GDT Price Index;New Zealand;NZD;2
+USD_RedbookIndex;20191105;13:55;Redbook Index (YoY);United States;USD;1
+USD_TradeBalance;20191105;13:30;Trade Balance;United States;USD;2
+CAD_InternationalMerchandiseTrade;20191105;13:30;International Merchandise Trade;Canada;CAD;2
+CAD_Imports;20191105;13:30;Imports;Canada;CAD;1
+CAD_Exports;20191105;13:30;Exports;Canada;CAD;1
+EUR_EurProducerPriceIndex;20191105;10:00;Producer Price Index (MoM);European Monetary Union;EUR;1
+GBP_MarkitServicesPMI;20191105;09:30;Markit Services PMI;United Kingdom;GBP;2
+SEK_IndustrialProduction;20191105;08:30;Industrial Production (MoM);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20191105;08:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+MYR_BNMInterestRateDecision;20191105;08:00;BNM Interest Rate Decision;Malaysia;MYR;1
+EUR_SpaUnemploymentChange;20191105;08:00;Unemployment Change;Spain;EUR;1
+TRY_ProducerPriceIndex;20191105;07:00;Producer Price Index (MoM);Turkey;TRY;1
+AUD_RBARateStatement;20191105;03:30;RBA Rate Statement;Australia;AUD;3
+AUD_RBAInterestRateDecision;20191105;03:30;RBA Interest Rate Decision;Australia;AUD;3
+CNY_CaixinServicesPMI;20191105;01:45;Caixin Services PMI;China;CNY;2
+HKD_NikkeiManufacturingPMI;20191105;00:30;Nikkei Manufacturing PMI;Hong Kong SAR;HKD;1
+GBP_RetailSales;20191105;00:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+EUR_IrePurchasingManagerIndexServices;20191105;00:01;Purchasing Manager Index Services;Ireland;EUR;1
+NZD_ANZCommodityPrice;20191105;00:00;ANZ Commodity Price;New Zealand;NZD;1

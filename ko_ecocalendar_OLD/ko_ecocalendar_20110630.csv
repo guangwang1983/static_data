@@ -1,0 +1,59 @@
+JPY_TankanLargeManufacturingOutlook;20110630;23:50;Tankan Large Manufacturing Outlook;Japan;JPY;2
+JPY_TankanLargeAllIndustryCapex;20110630;23:50;Tankan Large All Industry Capex;Japan;JPY;2
+JPY_TankanNonManufacturingOutlook;20110630;23:50;Tankan Non - Manufacturing Outlook;Japan;JPY;2
+JPY_TankanNonManufacturingIndex;20110630;23:50;Tankan Non - Manufacturing Index;Japan;JPY;2
+JPY_TankanLargeManufacturingIndex;20110630;23:50;Tankan Large Manufacturing Index;Japan;JPY;2
+JPY_TokyoCPIexFreshFood;20110630;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;1
+JPY_ConsumerPriceIndex;20110630;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;1
+JPY_TokyoCPIexFoodEnergy;20110630;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;1
+JPY_NationalCPIexFoodEnergy;20110630;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20110630;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_UnemploymentRate;20110630;23:30;Unemployment Rate;Japan;JPY;2
+AUD_AiGPerformanceofMfgIndex;20110630;23:30;AiG Performance of Mfg Index;Australia;AUD;2
+JPY_OverallHouseholdSpending;20110630;23:30;Overall Household Spending (YoY);Japan;JPY;2
+KRW_ConsumerPriceIndex;20110630;23:00;Consumer Price Index Growth (MoM);South Korea;KRW;1
+USD_ChicagoPurchasingManagers'Index;20110630;13:45;Chicago Purchasing Managers' Index;United States;USD;1
+BRL_NominalBudgetBalance;20110630;13:30;Nominal Budget Balance;Brazil;BRL;1
+BRL_PrimaryBudgetSurplus;20110630;13:30;Primary Budget Surplus;Brazil;BRL;1
+USD_JoblessClaims;20110630;12:30;Continuing Jobless Claims;United States;USD;1
+CAD_GrossDomesticProduct;20110630;12:30;Gross Domestic Product (MoM);Canada;CAD;2
+INR_InfrastructureOutput;20110630;12:17;Infrastructure Output (YoY);India;INR;1
+INR_FederalFiscalDeficitINR;20110630;12:17;Federal Fiscal Deficit, INR;India;INR;1
+ZAR_TradeBalance;20110630;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+INR_TradeDeficitRBI;20110630;11:30;Trade Deficit - RBI;India;INR;1
+INR_BalancePayment;20110630;11:30;Balance Payment $;India;INR;1
+INR_CurrentAccount;20110630;11:30;Current Account Balance $;India;INR;1
+INR_ExternalDebt;20110630;11:30;External Debt;India;INR;1
+EUR_GreGreekAusterityPlanVote;20110630;11:00;Greek Austerity Plan Vote;Greece;EUR;3
+ZAR_ProducerPriceIndex;20110630;09:30;Producer Price Index (MoM);South Africa;ZAR;1
+EUR_GreRetailSales;20110630;09:00;Retail Sales (YoY);Greece;EUR;1
+EUR_EurConsumerPriceIndex;20110630;09:00;Consumer Price Index (YoY);European Monetary Union;EUR;2
+EUR_ItaConsumerPriceIndex;20110630;09:00;Consumer Price Index (EU Norm) (MoM);Italy;EUR;1
+EUR_SpaCurrentAccount;20110630;08:48;Current Account Balance;Spain;EUR;1
+GBP_BankofEnglandCreditConditionsReport;20110630;08:30;Bank of England Credit Conditions Report (QoQ);United Kingdom;GBP;2
+CZK_M2MoneySupply;20110630;08:00;M2 Money Supply (YoY);Czech Republic;CZK;1
+EUR_EurM3MoneySupply;20110630;08:00;M3 Money Supply (3m);European Monetary Union;EUR;1
+NOK_RetailSales;20110630;08:00;Retail Sales ;Norway;NOK;1
+EUR_GerUnemploymentChange;20110630;07:55;Unemployment Change;Germany;EUR;2
+EUR_GerUnemploymentRate;20110630;07:55;Unemployment Rate s.a.;Germany;EUR;2
+DKK_UnemploymentRate;20110630;07:30;Unemployment Rate;Denmark;DKK;1
+DKK_GrossDomesticProduct;20110630;07:30;Gross Domestic Product - Revised (YoY);Denmark;DKK;1
+RUB_CentralBankReserves;20110630;07:01;Central Bank Reserves $;Russia;RUB;1
+EUR_SpaHICP;20110630;07:00;HICP (YoY);Spain;EUR;1
+TRY_TradeBalance;20110630;07:00;Trade Balance;Turkey;TRY;1
+TRY_GrossDomesticProduct;20110630;07:00;Quarterly Gross Domestic Product;Turkey;TRY;1
+HUF_ProducerPriceIndex;20110630;07:00;Producer Price Index (YoY);Hungary;HUF;1
+EUR_EurCentralBankSpeech;20110630;07:00;ECB President Trichet speech;European Monetary Union;EUR;2
+HUF_TradeBalance;20110630;07:00;Trade Balance;Hungary;HUF;1
+EUR_FraProducerPrices;20110630;06:45;Producer Prices (MoM);France;EUR;1
+EUR_FraConsumerSpending;20110630;06:45;Consumer Spending (MoM);France;EUR;1
+HUF_CurrentAccount;20110630;06:30;Current Account Balance (QoQ);Hungary;HUF;1
+GBP_NationwideHousingPrices;20110630;06:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;1
+EUR_GerRetailSales;20110630;06:00;Retail Sales (YoY);Germany;EUR;2
+ZAR_PrivateSectorCredit;20110630;06:00;Private Sector Credit;South Africa;ZAR;1
+ZAR_M3MoneySupply;20110630;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+JPY_ConstructionOrders;20110630;05:00;Construction Orders (YoY);Japan;JPY;2
+JPY_AnnualizedHousingStarts;20110630;05:00;Annualized Housing Starts;Japan;JPY;2
+JPY_HousingStarts;20110630;05:00;Housing Starts (YoY);Japan;JPY;2
+AUD_PrivateSectorCredit;20110630;01:30;Private Sector Credit (MoM);Australia;AUD;2
+NZD_ANZBusinessConfidence;20110630;01:00;ANZ Business Confidence;New Zealand;NZD;2

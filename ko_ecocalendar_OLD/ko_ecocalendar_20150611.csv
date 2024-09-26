@@ -1,0 +1,44 @@
+NZD_FoodPriceIndex;20150611;22:47;Food Price Index (MoM);New Zealand;NZD;1
+NZD_BusinessNZPMI;20150611;22:30;Business NZ PMI;New Zealand;NZD;2
+CLP_BCCHInterestRate;20150611;22:00;BCCH Interest Rate;Chile;CLP;1
+KRW_ImportPriceGrowth;20150611;21:00;Import Price Growth (YoY);South Korea;KRW;1
+KRW_ExportPriceGrowth;20150611;21:00;Export Price Growth (YoY);South Korea;KRW;1
+USD_Auction;20150611;17:00;30-Year Bond Auction;United States;USD;1
+USD_EIANaturalGasStorageChange;20150611;14:30;EIA Natural Gas Storage Change;United States;USD;1
+CAD_FinancialSystemReview;20150611;14:30;Financial System Review;Canada;CAD;1
+USD_BusinessInventories;20150611;14:00;Business Inventories;United States;USD;1
+MXN_IndustrialOutput;20150611;13:00;Industrial Output (YoY);Mexico;MXN;1
+USD_RetailSales;20150611;12:30;Retail Sales Control Group;United States;USD;2
+USD_JoblessClaims;20150611;12:30;Initial Jobless Claims;United States;USD;2
+USD_ImportPriceIndex;20150611;12:30;Import Price Index (MoM);United States;USD;1
+USD_ExportPriceIndex;20150611;12:30;Export Price Index (MoM);United States;USD;1
+CAD_CapacityUtilization;20150611;12:30;Capacity Utilization;Canada;CAD;1
+CAD_NewHousingPriceIndex;20150611;12:30;New Housing Price Index (YoY);Canada;CAD;1
+RUB_CentralBankReserves;20150611;12:00;Central Bank Reserves $;Russia;RUB;1
+ZAR_ManufacturingProductionIndex;20150611;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;0
+EUR_PorConsumerPriceIndex;20150611;10:06;Consumer Price Index (MoM);Portugal;EUR;1
+EUR_IreHICP;20150611;10:00;HICP (YoY);Ireland;EUR;1
+EUR_IreConsumerPriceIndex;20150611;10:00;Consumer Price Index (YoY);Ireland;EUR;1
+GBP_Auction;20150611;09:50;30-y Bond Auction;United Kingdom;GBP;1
+CNY_NewLoans;20150611;09:20;New Loans;China;CNY;3
+CNY_M2MoneySupply;20150611;09:19;M2 Money Supply (YoY);China;CNY;1
+EUR_SpaAuction;20150611;09:10;3-y Bond Auction;Spain;EUR;1
+EUR_GreUnemploymentRate;20150611;09:00;Unemployment Rate (QoQ);Greece;EUR;1
+SEK_ConsumerPriceIndex;20150611;07:30;Consumer Price Index (YoY);Sweden;SEK;1
+ISK_GrossDomesticProduct;20150611;07:06;Gross Domestic Product (YoY);Iceland;ISK;1
+RON_ConsumerPriceIndex;20150611;07:00;Consumer Price Index;Romania;RON;1
+TRY_CurrentAccount;20150611;07:00;Current Account Balance;Turkey;TRY;1
+EUR_FraConsumerPriceIndex;20150611;06:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraInflationextobacco;20150611;06:45;Inflation ex-tobacco (MoM);France;EUR;1
+RUB_ForeignTrade;20150611;06:00;Foreign Trade;Russia;RUB;1
+CNY_RetailSales;20150611;05:30;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20150611;05:30;Industrial Production (YoY);China;CNY;2
+CNY_FixedAssetInvestment;20150611;05:30;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+EUR_FraNonfarmPayrolls;20150611;05:30;Nonfarm Payrolls (QoQ);France;EUR;1
+AUD_PartTimeEmployment;20150611;01:30;Part-Time Employment;Australia;AUD;3
+AUD_UnemploymentRate;20150611;01:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_FulltimeEmployment;20150611;01:30;Fulltime Employment;Australia;AUD;3
+AUD_EmploymentChange;20150611;01:30;Employment Change s.a.;Australia;AUD;3
+AUD_ParticipationRate;20150611;01:30;Participation Rate;Australia;AUD;3
+KRW_BoKInterestRateDecision;20150611;01:04;BoK Interest Rate Decision;South Korea;KRW;1
+AUD_ConsumerInflationExpectations;20150611;01:00;Consumer Inflation Expectations;Australia;AUD;2

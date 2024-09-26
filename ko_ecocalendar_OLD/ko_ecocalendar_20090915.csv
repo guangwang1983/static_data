@@ -1,0 +1,17 @@
+USD_CentralBankSpeech;20090915;14:00;Former Fed Chair Bernanke speech;United States;USD;2
+USD_BusinessInventories;20090915;14:00;Business Inventories;United States;USD;1
+CAD_NewMotorVehicleSales;20090915;12:30;New Motor Vehicle Sales (MoM);Canada;CAD;1
+USD_NYEmpireStateManufacturingIndex;20090915;12:30;NY Empire State Manufacturing Index;United States;USD;2
+USD_RetailSales;20090915;12:30;Retail Sales (MoM);United States;USD;3
+CAD_LaborProductivity;20090915;12:30;Labor Productivity (QoQ);Canada;CAD;1
+USD_ProducerPriceIndex;20090915;12:30;Producer Price Index (MoM);United States;USD;2
+EUR_EurZEWSurveyEconomicSentiment;20090915;09:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurveyEconomicSentiment;20090915;09:00;ZEW Survey - Economic Sentiment;Germany;EUR;3
+GBP_CentralBankSpeech;20090915;09:00;BoE Governor King speech;United Kingdom;GBP;2
+AUD_DwellingUnitStarts;20090915;08:52;Dwelling Unit Starts (QoQ);Australia;AUD;1
+GBP_RetailPriceIndex;20090915;08:30;Retail Price Index (MoM);United Kingdom;GBP;1
+GBP_DCLGHousePriceIndex;20090915;08:30;DCLG House Price Index (YoY);United Kingdom;GBP;2
+GBP_ConsumerPriceIndex;20090915;08:30;Consumer Price Index (MoM);United Kingdom;GBP;3
+CHF_IndustrialProduction;20090915;07:15;Industrial Production (QoQ);Switzerland;CHF;2
+JPY_MachineToolOrders;20090915;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+AUD_RBAMeetingMinutes;20090915;01:30;RBA Meeting Minutes;Australia;AUD;3

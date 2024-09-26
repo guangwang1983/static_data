@@ -1,0 +1,5 @@
+
+- reset or partly reset spread at bigger news events. Assumption: old information becomes less relevant, only moves steaming from event will move/revert.
+- Look at Drift as a function of PnL for a given model 2/4h after a figure like NFP, FOMC, etc. If there is CLEAR structure then adjust risk(max pos) from Event time t and forward or for a given time period (e.g. 2h).
+
+ 

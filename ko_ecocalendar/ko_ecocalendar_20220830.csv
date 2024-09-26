@@ -1,0 +1,41 @@
+AUD_BuildingPermits;20220830;01:30;Building Permits (YoY);Australia;AUD;1
+DKK_IndustrialOutlook;20220830;06:00;Industrial Outlook;Denmark;DKK;1
+ZAR_PrivateSectorCredit;20220830;06:00;Private Sector Credit;South Africa;ZAR;1
+ZAR_M3MoneySupply;20220830;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+CHF_KOFLeadingIndicator;20220830;07:00;KOF Leading Indicator;Switzerland;CHF;2
+SEK_ConsumerConfidence;20220830;07:00;Consumer Confidence (MoM);Sweden;SEK;1
+CZK_GrossDomesticProduct;20220830;07:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+EUR_ItaIndustrialSales;20220830;08:00;Industrial Sales n.s.a. (YoY);Italy;EUR;1
+GBP_NetLendingtoIndividuals;20220830;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20220830;08:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20220830;08:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_M4MoneySupply;20220830;08:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+EUR_EurServicesSentiment;20220830;09:00;Services Sentiment;European Monetary Union;EUR;1
+EUR_EurConsumerConfidence;20220830;09:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurEconomicSentimentIndicator;20220830;09:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+EUR_EurIndustrialConfidence;20220830;09:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_EurBusinessClimate;20220830;09:00;Business Climate;European Monetary Union;EUR;2
+EUR_ItaAuction;20220830;09:30;10-y Bond Auction;Italy;EUR;1
+MXN_JoblessRate;20220830;11:00;Jobless Rate;Mexico;MXN;1
+BRL_InflationIndexIGPM;20220830;11:00;Inflation Index/IGP-M;Brazil;BRL;1
+EUR_GerConsumerPriceIndex;20220830;12:00;Consumer Price Index (YoY);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20220830;12:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+HUF_MNBInterestRateDecision;20220830;12:00;MNB Interest Rate Decision;Hungary;HUF;1
+CAD_CurrentAccount;20220830;12:30;Current Account;Canada;CAD;2
+USD_RedbookIndex;20220830;12:55;Redbook Index (YoY);United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20220830;13:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;2
+CLP_Unemploymentrate;20220830;13:00;Unemployment rate;Chile;CLP;1
+USD_HousingPriceIndex;20220830;13:00;Housing Price Index (MoM);United States;USD;2
+USD_JOLTSJobOpenings;20220830;14:00;JOLTS Job Openings;United States;USD;1
+USD_ConsumerConfidence;20220830;14:00;Consumer Confidence;United States;USD;2
+USD_CentralBankSpeech;20220830;15:00;Fed Williams speech;United States;USD;2
+USD_APIWeeklyCrudeOilStock;20220830;20:30;API Weekly Crude Oil Stock;United States;USD;1
+MXN_FiscalBalancepesos;20220830;21:00;Fiscal Balance, pesos;Mexico;MXN;1
+NZD_BuildingPermits;20220830;22:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+KRW_IndustrialOutputGrowth;20220830;23:00;Industrial Output Growth;South Korea;KRW;1
+KRW_IndustrialOutput;20220830;23:00;Industrial Output (YoY);South Korea;KRW;1
+KRW_ServiceSectorOutput;20220830;23:00;Service Sector Output;South Korea;KRW;1
+GBP_BRCShopPriceIndex;20220830;23:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1
+JPY_IndustrialProduction;20220830;23:50;Industrial Production (YoY);Japan;JPY;2
+JPY_LargeRetailerSales;20220830;23:50;Large Retailer Sales;Japan;JPY;2
+JPY_RetailTrade;20220830;23:50;Retail Trade (YoY);Japan;JPY;2

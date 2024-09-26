@@ -1,0 +1,43 @@
+NZD_ANZActivityOutlook;20211013;00:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20211013;00:00;ANZ Business Confidence;New Zealand;NZD;1
+CNY_Imports;20211013;03:00;Imports (YoY);China;CNY;2
+CNY_TradeBalanceCNY;20211013;03:00;Trade Balance CNY;China;CNY;1
+CNY_Exports;20211013;03:00;Exports (YoY) CNY;China;CNY;1
+CNY_TradeBalanceUSD;20211013;03:00;Trade Balance USD;China;CNY;2
+KRW_MoneySupplyGrowth;20211013;03:00;Money Supply Growth;South Korea;KRW;1
+GBP_IndustrialProduction;20211013;06:00;Industrial Production (MoM);United Kingdom;GBP;2
+GBP_ManufacturingProduction;20211013;06:00;Manufacturing Production (MoM);United Kingdom;GBP;2
+EUR_GerHarmonizedIndexofConsumerPrices;20211013;06:00;Harmonized Index of Consumer Prices (MoM);Germany;EUR;1
+EUR_GerConsumerPriceIndex;20211013;06:00;Consumer Price Index (YoY);Germany;EUR;1
+GBP_IndexofServices;20211013;06:00;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20211013;06:00;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20211013;06:00;Total Trade Balance;United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20211013;06:00;Goods Trade Balance;United Kingdom;GBP;1
+GBP_GrossDomesticProduct;20211013;06:00;Gross Domestic Product (MoM);United Kingdom;GBP;2
+CNY_M2MoneySupply;20211013;07:00;M2 Money Supply (YoY);China;CNY;1
+HUF_IndustrialOutput;20211013;07:00;Industrial Output (YoY);Hungary;HUF;1
+CNY_NewLoans;20211013;07:00;New Loans;China;CNY;1
+EUR_EurIndustrialProduction;20211013;09:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;1
+EUR_GerAuction;20211013;09:30;30-y Bond Auction;Germany;EUR;1
+ILS_TradeBalance;20211013;10:00;Trade Balance;Israel;ILS;1
+ILS_Imports;20211013;10:00;Imports;Israel;ILS;1
+ILS_Exports;20211013;10:00;Exports;Israel;ILS;1
+USD_MBAMortgageApplications;20211013;11:00;MBA Mortgage Applications;United States;USD;1
+ZAR_RetailSales;20211013;11:00;Retail Sales (YoY);South Africa;ZAR;1
+GBP_NIESRGDPEstimate;20211013;12:00;NIESR GDP Estimate (3M);United Kingdom;GBP;2
+USD_ConsumerPriceIndex;20211013;12:30;Consumer Price Index Core s.a;United States;USD;2
+GBP_CentralBankSpeech;20211013;13:30;BoE Cunliffe speech;United Kingdom;GBP;2
+CNY_ChungYeungFestival;20211013;16:00;Chung Yeung Festival ;China;CNY;0
+EUR_EurEUproposalonBrexitNorthernIrelandprotocol;20211013;16:30;EU proposal on Brexit Northern Ireland protocol;European Monetary Union;EUR;2
+USD_Auction;20211013;17:00;30-Year Bond Auction;United States;USD;1
+USD_FOMCMinutes;20211013;18:00;FOMC Minutes;United States;USD;3
+NZD_REINZHousePriceIndex;20211013;20:00;REINZ House Price Index (MoM);New Zealand;NZD;2
+USD_CentralBankSpeech;20211013;20:30;Fed Brainard speech;United States;USD;2
+USD_APIWeeklyCrudeOilStock;20211013;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_ImportPriceGrowth;20211013;21:00;Import Price Growth (YoY);South Korea;KRW;1
+KRW_ExportPriceGrowth;20211013;21:00;Export Price Growth (YoY);South Korea;KRW;1
+AUD_CentralBankSpeech;20211013;22:00;RBA Debelle speech;Australia;AUD;2
+CLP_BCCHInterestRate;20211013;22:00;BCCH Interest Rate;Chile;CLP;1
+GBP_RICSHousingPriceBalance;20211013;23:01;RICS Housing Price Balance;United Kingdom;GBP;1
+JPY_ForeignInvestmentinJapanStocks;20211013;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20211013;23:50;Foreign Bond Investment;Japan;JPY;1

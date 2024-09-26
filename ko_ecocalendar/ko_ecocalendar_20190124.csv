@@ -1,0 +1,48 @@
+CHF_WorldEconomicForumDavos;20190124;00:00;World Economic Forum - Davos;Switzerland;CHF;2
+RON_Unificationday;20190124;00:00;Unification day;Romania;RON;0
+AUD_PartTimeEmployment;20190124;00:30;Part-Time Employment;Australia;AUD;1
+AUD_FullTimeEmployment;20190124;00:30;Full-Time Employment;Australia;AUD;1
+AUD_EmploymentChange;20190124;00:30;Employment Change s.a.;Australia;AUD;3
+AUD_ParticipationRate;20190124;00:30;Participation Rate;Australia;AUD;3
+AUD_UnemploymentRate;20190124;00:30;Unemployment Rate s.a.;Australia;AUD;3
+JPY_JibunBankManufacturingPMI;20190124;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+KRW_BoKInterestRateDecision;20190124;01:00;BoK Interest Rate Decision;South Korea;KRW;1
+NZD_CreditCardSpending;20190124;02:00;Credit Card Spending (YoY);New Zealand;NZD;1
+JPY_CoincidentIndex;20190124;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20190124;05:00;Leading Economic Index;Japan;JPY;2
+NOK_LabourForceSurvey;20190124;07:00;Labour Force Survey;Norway;NOK;1
+EUR_FraHCOBManufacturingPMI;20190124;08:15;HCOB Manufacturing PMI;France;EUR;1
+EUR_FraHCOBServicesPMI;20190124;08:15;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20190124;08:15;HCOB Composite PMI;France;EUR;2
+SEK_UnemploymentRate;20190124;08:30;Unemployment Rate;Sweden;SEK;1
+EUR_GerHCOBManufacturingPMI;20190124;08:30;HCOB Manufacturing PMI;Germany;EUR;3
+EUR_GerHCOBServicesPMI;20190124;08:30;HCOB Services PMI;Germany;EUR;2
+EUR_GerHCOBCompositePMI;20190124;08:30;HCOB Composite PMI;Germany;EUR;3
+EUR_ItaTradeBalancenonEU;20190124;09:00;Trade Balance non-EU;Italy;EUR;1
+PLN_Unemployment;20190124;09:00;Unemployment (MoM);Poland;PLN;1
+EUR_EurHCOBManufacturingPMI;20190124;09:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurHCOBServicesPMI;20190124;09:00;HCOB Services PMI;European Monetary Union;EUR;2
+EUR_EurHCOBCompositePMI;20190124;09:00;HCOB Composite PMI;European Monetary Union;EUR;2
+NOK_NorgesBankInterestRateDecision;20190124;09:00;Norges Bank Interest Rate Decision;Norway;NOK;1
+ILS_IndustrialProduction;20190124;11:00;Industrial Production (MoM);Israel;ILS;1
+EUR_EurECBRateOnMainRefinancingOperations;20190124;12:45;ECB Rate On Main Refinancing Operations;European Monetary Union;EUR;3
+EUR_EurECBRateOnDepositFacility;20190124;12:45;ECB Rate On Deposit Facility;European Monetary Union;EUR;3
+RUB_CentralBankReserves;20190124;13:00;Central Bank Reserves $;Russia;RUB;1
+RUB_ProducerPriceIndex;20190124;13:00;Producer Price Index (MoM);Russia;RUB;1
+USD_JoblessClaims;20190124;13:30;Continuing Jobless Claims;United States;USD;1
+EUR_EurECBPressConference;20190124;13:30;ECB Press Conference;European Monetary Union;EUR;3
+MXN_1sthalfmonthCoreInflation;20190124;14:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20190124;14:00;1st half-month Inflation;Mexico;MXN;1
+USD_S&PGlobalManufacturingPMI;20190124;14:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20190124;14:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20190124;14:45;S&P Global Services PMI;United States;USD;2
+USD_EIANaturalGasStorageChange;20190124;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_EIACrudeOilStocksChange;20190124;16:00;EIA Crude Oil Stocks Change;United States;USD;1
+USD_KansasFedManufacturingActivity;20190124;16:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_Auction;20190124;16:30;4-Week Bill Auction;United States;USD;1
+USD_SenatevotesonGovernmentShutdown;20190124;17:00;Senate votes on Government Shutdown;United States;USD;2
+KRW_ConsumerSentimentIndex;20190124;21:00;Consumer Sentiment Index;South Korea;KRW;1
+NZD_VisitorArrivals;20190124;21:45;Visitor Arrivals (YoY);New Zealand;NZD;1
+JPY_TokyoCPIexFoodEnergy;20190124;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20190124;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;2
+JPY_TokyoCPIexFreshFood;20190124;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;3

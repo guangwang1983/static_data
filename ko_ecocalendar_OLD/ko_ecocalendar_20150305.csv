@@ -1,0 +1,36 @@
+JPY_JPForeignReserves;20150305;23:50;JP Foreign Reserves;Japan;JPY;1
+AUD_AiGPerformanceofConstructionIndex;20150305;22:30;AiG Performance of Construction Index;Australia;AUD;2
+USD_EIANaturalGasStorageChange;20150305;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_CentralBankSpeech;20150305;15:00;Fed Williams speech;United States;USD;1
+USD_FactoryOrders;20150305;15:00;Factory Orders (MoM);United States;USD;2
+CAD_IveyPurchasingManagersIndex;20150305;15:00;Ivey Purchasing Managers Index s.a;Canada;CAD;2
+HUF_BudgetBalance;20150305;15:00;Budget Balance;Hungary;HUF;1
+USD_JoblessClaims;20150305;13:30;Initial Jobless Claims;United States;USD;2
+USD_NonfarmProductivity;20150305;13:30;Nonfarm Productivity;United States;USD;1
+USD_UnitLaborCosts;20150305;13:30;Unit Labor Costs;United States;USD;1
+EUR_EurECBMonetaryPolicyStatementandPressConference;20150305;13:30;ECB Monetary Policy Statement and Press Conference;European Monetary Union;EUR;3
+RUB_ConsumerPriceIndex;20150305;13:00;Consumer Price Index (MoM);Russia;RUB;1
+EUR_EurECBInterestRateDecision;20150305;12:45;ECB Interest Rate Decision;European Monetary Union;EUR;3
+USD_ChallengerJobCuts;20150305;12:30;Challenger Job Cuts;United States;USD;1
+GBP_BoEAssetPurchaseFacility;20150305;12:00;BoE Asset Purchase Facility;United Kingdom;GBP;3
+GBP_BoEInterestRateDecision;20150305;12:00;BoE Interest Rate Decision;United Kingdom;GBP;3
+EUR_EurECBDepositRateDecision;20150305;11:45;ECB Deposit Rate Decision;European Monetary Union;EUR;2
+CLP_IMACEC;20150305;11:30;IMACEC;Chile;CLP;1
+RUB_CentralBankReserves;20150305;11:00;Central Bank Reserves $;Russia;RUB;1
+BRL_FipeIPCInflation;20150305;11:00;Fipe IPC Inflation;Brazil;BRL;1
+EUR_FraAuction;20150305;10:55;10-y Bond Auction;France;EUR;1
+EUR_GreUnemploymentRate;20150305;10:00;Unemployment Rate (MoM);Greece;EUR;1
+EUR_SpaAuction;20150305;09:50;2-y Bond Auction;Spain;EUR;1
+EUR_ItaGrossDomesticProduct;20150305;09:00;Gross Domestic Product (YoY);Italy;EUR;2
+SEK_IndustrialProduction;20150305;08:30;Industrial Production (YoY);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20150305;08:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+EUR_NetConsumerPriceIndex;20150305;08:30;Consumer Price Index n.s.a (YoY);Netherlands, The;EUR;1
+GBP_HalifaxHousePrices;20150305;08:00;Halifax House Prices (3m/YoY);United Kingdom;GBP;1
+EUR_GerFactoryOrders;20150305;07:00;Factory Orders s.a. (MoM);Germany;EUR;1
+EUR_FraILOUnemployment;20150305;06:30;ILO Unemployment;France;EUR;2
+AUD_CentralBankSpeech;20150305;01:30;OUTDATED - RBA Deputy Governor Lowe Speech;Australia;AUD;2
+COP_ConsumerPriceIndex;20150305;01:00;Consumer Price Index (YoY);Colombia;COP;1
+AUD_RetailSales;20150305;00:30;Retail Sales s.a. (MoM);Australia;AUD;2
+AUD_Imports;20150305;00:30;Imports;Australia;AUD;1
+AUD_TradeBalance;20150305;00:30;Trade Balance;Australia;AUD;2
+AUD_Exports;20150305;00:30;Exports;Australia;AUD;1

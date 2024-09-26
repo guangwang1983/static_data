@@ -1,0 +1,18 @@
+USD_IndustrialProduction;20100817;13:15;Industrial Production (MoM);United States;USD;1
+USD_CapacityUtilization;20100817;13:15;Capacity Utilization;United States;USD;1
+USD_CentralBankSpeech;20100817;13:00;Treasury Geithner speech;United States;USD;1
+USD_HousingStarts;20100817;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20100817;12:30;Building Permits (MoM);United States;USD;1
+USD_ProducerPriceIndex;20100817;12:30;Producer Price Index (MoM);United States;USD;2
+CAD_ManufacturingShipments;20100817;12:30;Manufacturing Shipments (MoM);Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20100817;12:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20100817;12:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+EUR_EurZEWSurveyEconomicSentiment;20100817;09:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurveyEconomicSentiment;20100817;09:00;ZEW Survey - Economic Sentiment;Germany;EUR;1
+EUR_GerZEWSurveyCurrentSituation;20100817;09:00;ZEW Survey - Current Situation;Germany;EUR;1
+GBP_RetailPriceIndex;20100817;08:30;Retail Price Index (MoM);United Kingdom;GBP;2
+GBP_ConsumerPriceIndex;20100817;08:30;Core Consumer Price Index (YoY);United Kingdom;GBP;1
+EUR_EurCurrentAccount;20100817;08:00;Current Account s.a;European Monetary Union;EUR;1
+JPY_TokyoCondominiumSales;20100817;04:00;Tokyo Condominium Sales (YoY);Japan;JPY;1
+AUD_RBAMeetingMinutes;20100817;01:30;RBA Meeting Minutes;Australia;AUD;2
+CNY_FDIForeignDirectInvestment;20100817;01:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;1

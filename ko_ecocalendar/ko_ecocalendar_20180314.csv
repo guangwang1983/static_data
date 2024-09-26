@@ -1,0 +1,28 @@
+EUR_EurEurogroupMeeting;20180314;00:00;Eurogroup Meeting;European Monetary Union;EUR;2
+CNY_RetailSales;20180314;02:00;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20180314;02:00;Industrial Production (YoY);China;CNY;2
+CNY_FixedAssetInvestment;20180314;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+KRW_MoneySupplyGrowth;20180314;03:00;Money Supply Growth;South Korea;KRW;1
+RON_IndustrialProduction;20180314;06:00;Industrial Production (MoM);Romania;RON;1
+INR_WPIInflation;20180314;06:30;WPI Inflation;India;INR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20180314;07:00;Harmonized Index of Consumer Prices (MoM);Germany;EUR;1
+EUR_GerConsumerPriceIndex;20180314;07:00;Consumer Price Index (YoY);Germany;EUR;1
+SEK_ConsumerPriceIndex;20180314;08:30;Consumer Price Index (YoY);Sweden;SEK;1
+EUR_ItaRetailSales;20180314;09:00;Retail Sales s.a. (MoM);Italy;EUR;1
+EUR_EurIndustrialProduction;20180314;10:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;1
+EUR_EurEmploymentChange;20180314;10:00;Employment Change (QoQ);European Monetary Union;EUR;1
+EUR_GerAuction;20180314;10:47;30-y Bond Auction;Germany;EUR;1
+USD_MBAMortgageApplications;20180314;11:00;MBA Mortgage Applications;United States;USD;1
+INR_M3MoneySupply;20180314;11:30;M3 Money Supply;India;INR;1
+USD_RetailSales;20180314;12:30;Retail Sales (MoM);United States;USD;2
+USD_ProducerPriceIndex;20180314;12:30;Producer Price Index (YoY);United States;USD;1
+RUB_ForeignTrade;20180314;13:00;Foreign Trade;Russia;RUB;1
+USD_BusinessInventories;20180314;14:00;Business Inventories;United States;USD;1
+USD_EIACrudeOilStocksChange;20180314;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+COP_RetailSales;20180314;15:00;Retail Sales (YoY);Colombia;COP;1
+COP_Industrialoutput;20180314;15:00;Industrial output (YoY);Colombia;COP;1
+INR_TradeDeficitGovernment;20180314;15:00;Trade Deficit Government;India;INR;1
+EUR_EurCentralBankSpeech;20180314;16:15;ECB Cœuré speech;European Monetary Union;EUR;2
+NZD_GrossDomesticProduct;20180314;21:45;Gross Domestic Product (QoQ);New Zealand;NZD;3
+JPY_ForeignInvestmentinJapanStocks;20180314;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20180314;23:50;Foreign Bond Investment;Japan;JPY;2

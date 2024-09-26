@@ -1,0 +1,14 @@
+USD_FactoryOrders;20090702;14:00;Factory Orders (MoM);United States;USD;2
+USD_AverageHourlyEarnings;20090702;12:30;Average Hourly Earnings (MoM);United States;USD;3
+USD_UnemploymentRate;20090702;12:30;Unemployment Rate;United States;USD;3
+USD_NonfarmPayrolls;20090702;12:30;Nonfarm Payrolls;United States;USD;3
+USD_AverageWeeklyHours;20090702;12:30;Average Weekly Hours;United States;USD;3
+USD_JoblessClaims;20090702;12:30;Initial Jobless Claims;United States;USD;1
+EUR_EurCentralBankSpeech;20090702;12:30;ECB President Trichet speech;European Monetary Union;EUR;3
+EUR_EurECBInterestRateDecision;20090702;11:45;ECB Interest Rate Decision;European Monetary Union;EUR;3
+EUR_EurUnemploymentRate;20090702;09:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_EurProducerPriceIndex;20090702;09:00;Producer Price Index (YoY);European Monetary Union;EUR;1
+GBP_BankofEnglandCreditConditionsReport;20090702;08:30;Bank of England Credit Conditions Report (QoQ);United Kingdom;GBP;2
+GBP_MarkitConstructionPMI;20090702;08:30;Markit Construction PMI;United Kingdom;GBP;1
+SEK_RiksbankInterestRateDecision;20090702;07:30;Riksbank Interest Rate Decision;Sweden;SEK;0
+AUD_TradeBalance;20090702;01:30;Trade Balance;Australia;AUD;2

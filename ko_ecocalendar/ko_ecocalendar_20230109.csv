@@ -1,0 +1,35 @@
+AUD_BuildingPermits;20230109;00:30;Building Permits (YoY);Australia;AUD;1
+ZAR_Gross$Gold&ForexReserve;20230109;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+ZAR_Net$Gold&ForexReserve;20230109;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+CHF_UnemploymentRate;20230109;06:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+RON_TradeBalance;20230109;07:00;Trade Balance;Romania;RON;1
+EUR_GerIndustrialProduction;20230109;07:00;Industrial Production s.a. (MoM);Germany;EUR;1
+DKK_TradeBalance;20230109;07:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20230109;07:00;Current Account;Denmark;DKK;1
+HUF_IndustrialOutput;20230109;07:30;Industrial Output (YoY);Hungary;HUF;1
+HUF_TradeBalance;20230109;07:30;Trade Balance;Hungary;HUF;1
+EUR_FraExportsEUR;20230109;07:45;Exports, EUR;France;EUR;1
+EUR_FraImportsEUR;20230109;07:45;Imports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20230109;07:45;Trade Balance EUR;France;EUR;1
+EUR_FraCurrentAccount;20230109;07:45;Current Account;France;EUR;1
+CZK_UnemploymentRate;20230109;08:00;Unemployment Rate;Czech Republic;CZK;1
+CHF_ForeignCurrencyReserves;20230109;08:00;Foreign Currency Reserves;Switzerland;CHF;1
+CZK_GrossDomesticProduct;20230109;08:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+EUR_ItaUnemployment;20230109;09:00;Unemployment;Italy;EUR;2
+CZK_FXReserves;20230109;09:00;FX Reserves;Czech Republic;CZK;1
+EUR_EurSentixInvestorConfidence;20230109;09:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+EUR_EurUnemploymentRate;20230109;10:00;Unemployment Rate;European Monetary Union;EUR;2
+CLP_TradeBalance;20230109;11:30;Trade Balance;Chile;CLP;1
+MXN_12MonthInflation;20230109;12:00;12-Month Inflation;Mexico;MXN;1
+MXN_CoreInflation;20230109;12:00;Core Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20230109;12:00;Headline Inflation;Mexico;MXN;1
+CAD_BuildingPermits;20230109;13:30;Building Permits (MoM);Canada;CAD;1
+GBP_CentralBankSpeech;20230109;15:30;BoE Pill speech;United Kingdom;GBP;2
+USD_Auction;20230109;16:30;3-Month Bill Auction;United States;USD;1
+USD_CentralBankSpeech;20230109;17:00;Fed Bostic speech;United States;USD;2
+USD_ConsumerCreditChange;20230109;20:00;Consumer Credit Change;United States;USD;1
+KRW_CurrentAccount;20230109;23:00;Current Account Balance;South Korea;KRW;1
+JPY_TokyoCPIexFreshFood;20230109;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20230109;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;2
+JPY_TokyoCPIexFoodEnergy;20230109;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_OverallHouseholdSpending;20230109;23:30;Overall Household Spending (YoY);Japan;JPY;2

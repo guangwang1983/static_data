@@ -1,0 +1,31 @@
+JPY_TokyoCPIexFoodEnergy;20180726;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20180726;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;2
+JPY_TokyoCPIexFreshFood;20180726;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;3
+USD_Auction;20180726;17:00;7-Year Note Auction;United States;USD;1
+USD_KansasFedManufacturingActivity;20180726;15:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_EIANaturalGasStorageChange;20180726;14:30;EIA Natural Gas Storage Change;United States;USD;1
+BRL_CurrentAccount;20180726;13:30;Current Account;Brazil;BRL;1
+MXN_JoblessRate;20180726;13:00;Jobless Rate s.a;Mexico;MXN;1
+RUB_CentralBankReserves;20180726;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_JoblessClaims;20180726;12:30;Initial Jobless Claims;United States;USD;2
+USD_WholesaleInventories;20180726;12:30;Wholesale Inventories;United States;USD;1
+EUR_EurECBMonetaryPolicyStatementandPressConference;20180726;12:30;ECB Monetary Policy Statement and Press Conference;European Monetary Union;EUR;3
+USD_GoodsTradeBalance;20180726;12:30;Goods Trade Balance;United States;USD;1
+USD_DurableGoodsOrders;20180726;12:30;Durable Goods Orders ex Transportation;United States;USD;2
+USD_NondefenseCapitalGoodsOrdersexAircraft;20180726;12:30;Nondefense Capital Goods Orders ex Aircraft;United States;USD;3
+EUR_EurECBDepositRateDecision;20180726;11:45;ECB Deposit Rate Decision;European Monetary Union;EUR;3
+EUR_EurECBInterestRateDecision;20180726;11:45;ECB Interest Rate Decision;European Monetary Union;EUR;3
+ZAR_ProducerPriceIndex;20180726;09:30;Producer Price Index (MoM);South Africa;ZAR;1
+EUR_ItaBusinessConfidence;20180726;08:00;Business Confidence;Italy;EUR;1
+EUR_ItaConsumerConfidence;20180726;08:00;Consumer Confidence;Italy;EUR;1
+SEK_UnemploymentRate;20180726;07:30;Unemployment Rate;Sweden;SEK;1
+EUR_SpaUnemploymentSurvey;20180726;07:00;Unemployment Survey;Spain;EUR;1
+SEK_ConsumerConfidence;20180726;07:00;Consumer Confidence (MoM);Sweden;SEK;1
+NOK_LabourForceSurvey;20180726;07:00;Labour Force Survey;Norway;NOK;1
+EUR_FraConsumerConfidence;20180726;06:45;Consumer Confidence;France;EUR;1
+EUR_GerGfkConsumerConfidenceSurvey;20180726;06:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+DKK_RetailSales;20180726;06:00;Retail Sales (YoY);Denmark;DKK;1
+SGD_IndustrialProduction;20180726;05:00;Industrial Production (YoY);Singapore;SGD;1
+AUD_ExportPriceIndex;20180726;01:30;Export Price Index (QoQ);Australia;AUD;1
+AUD_ImportPriceIndex;20180726;01:30;Import Price Index (QoQ);Australia;AUD;1
+USD_OPECMeeting;20180726;00:00;OPEC Meeting;United States;USD;2

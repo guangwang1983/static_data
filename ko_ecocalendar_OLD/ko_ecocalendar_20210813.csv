@@ -1,0 +1,33 @@
+AUD_CFTCAUDNCNetPositions;20210813;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20210813;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+GBP_CFTCGBPNCNetPositions;20210813;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20210813;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20210813;19:30;CFTC Oil NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20210813;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCS&P500NCNetPositions;20210813;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_BakerHughesUSOilRigCount;20210813;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+COP_TradeBalance;20210813;15:00;Trade Balance;Colombia;COP;1
+USD_MichiganConsumerSentimentIndex;20210813;14:00;Michigan Consumer Sentiment Index;United States;USD;3
+USD_ImportPriceIndex;20210813;12:30;Import Price Index (YoY);United States;USD;1
+USD_ExportPriceIndex;20210813;12:30;Export Price Index (MoM);United States;USD;1
+PLN_CurrentAccount;20210813;12:00;Current Account;Poland;PLN;1
+INR_BankLoanGrowth;20210813;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20210813;11:30;FX Reserves, USD;India;INR;1
+EUR_EurTradeBalance;20210813;09:00;Trade Balance s.a.;European Monetary Union;EUR;1
+PLN_ConsumerPriceIndex;20210813;08:00;Consumer Price Index (MoM);Poland;PLN;1
+PLN_GrossDomesticProduct;20210813;08:00;Gross Domestic Product Qtr (YoY);Poland;PLN;1
+HKD_GrossDomesticProduct;20210813;08:00;Gross Domestic Product (YoY);Hong Kong SAR;HKD;1
+CZK_CurrentAccount;20210813;08:00;Current Account (MoM);Czech Republic;CZK;1
+SEK_ConsumerPriceIndex;20210813;07:30;Consumer Price Index (YoY);Sweden;SEK;1
+EUR_SloHeadlineInflation;20210813;07:00;Headline Inflation (MoM);Slovakia;EUR;1
+EUR_SloCoreInflation;20210813;07:00;Core Inflation (MoM);Slovakia;EUR;1
+TRY_CurrentAccount;20210813;07:00;Current Account Balance;Turkey;TRY;1
+EUR_SpaHICP;20210813;07:00;HICP (YoY);Spain;EUR;1
+EUR_SpaConsumerPriceIndex;20210813;07:00;Consumer Price Index (YoY);Spain;EUR;1
+EUR_FraConsumerPriceIndex;20210813;06:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraInflationextobacco;20210813;06:45;Inflation ex-tobacco (MoM);France;EUR;1
+CHF_ProducerandImportPrices;20210813;06:30;Producer and Import Prices (YoY);Switzerland;CHF;1
+EUR_GerWholesalePriceIndex;20210813;06:00;Wholesale Price Index (YoY);Germany;EUR;1
+EUR_FraILOUnemployment;20210813;05:30;ILO Unemployment;France;EUR;1
+EUR_FinConsumerPriceIndex;20210813;05:00;Consumer Price Index (YoY);Finland;EUR;1
+AUD_HIANewHomeSales;20210813;04:00;HIA New Home Sales (MoM);Australia;AUD;2

@@ -1,0 +1,6 @@
+USD_FactoryOrders;20080204;15:00;Factory Orders (MoM);United States;USD;2
+EUR_EurProducerPriceIndex;20080204;10:00;Producer Price Index (YoY);European Monetary Union;EUR;1
+GBP_MarkitConstructionPMI;20080204;09:30;Markit Construction PMI;United Kingdom;GBP;1
+AUD_RBACommodityIndexSDR;20080204;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+AUD_HousePriceIndex;20080204;00:30;House Price Index (YoY);Australia;AUD;0
+AUD_TradeBalance;20080204;00:30;Trade Balance;Australia;AUD;2

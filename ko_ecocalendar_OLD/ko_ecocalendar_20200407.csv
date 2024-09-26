@@ -1,0 +1,47 @@
+JPY_TradeBalanceBOPBasis;20200407;23:50;Trade Balance - BOP Basis;Japan;JPY;1
+JPY_CurrentAccount;20200407;23:50;Current Account n.s.a.;Japan;JPY;1
+JPY_MachineryOrders;20200407;23:50;Machinery Orders (MoM);Japan;JPY;2
+USD_APIWeeklyCrudeOilStock;20200407;20:30;API Weekly Crude Oil Stock;United States;USD;1
+ARS_IndustrialOutput;20200407;19:00;Industrial Output n.s.a (YoY);Argentina;ARS;1
+USD_ConsumerCreditChange;20200407;19:00;Consumer Credit Change;United States;USD;1
+USD_Auction;20200407;17:00;3-Year Note Auction;United States;USD;1
+TRY_TreasuryCashBalance;20200407;14:30;Treasury Cash Balance;Turkey;TRY;1
+NZD_GDTPriceIndex;20200407;14:30;GDT Price Index;New Zealand;NZD;2
+USD_JOLTSJobOpenings;20200407;14:00;JOLTS Job Openings;United States;USD;1
+CAD_IveyPurchasingManagersIndex;20200407;14:00;Ivey Purchasing Managers Index;Canada;CAD;2
+USD_IBDTIPPEconomicOptimism;20200407;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+USD_RedbookIndex;20200407;12:55;Redbook Index (YoY);United States;USD;1
+CLP_TradeBalance;20200407;12:30;Trade Balance;Chile;CLP;1
+MXN_12MonthInflation;20200407;12:00;12-Month Inflation;Mexico;MXN;1
+PLN_CentralBankFXReserves;20200407;12:00;Central Bank FX Reserves;Poland;PLN;1
+BRL_RetailSales;20200407;12:00;Retail Sales (MoM);Brazil;BRL;1
+MXN_CoreInflation;20200407;11:00;Core Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20200407;11:00;Headline Inflation;Mexico;MXN;1
+EUR_ItaRetailSales;20200407;08:00;Retail Sales s.a. (MoM);Italy;EUR;1
+CNY_ForeignExchangeReserves;20200407;08:00;Foreign Exchange Reserves (MoM);China;CNY;1
+SEK_IndustrialProductionValue;20200407;07:30;Industrial Production Value (YoY);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20200407;07:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+GBP_HalifaxHousePrices;20200407;07:30;Halifax House Prices (MoM);United Kingdom;GBP;1
+HUF_IndustrialOutput;20200407;07:00;Industrial Output (YoY);Hungary;HUF;1
+CZK_RetailSales;20200407;07:00;Retail Sales (YoY);Czech Republic;CZK;1
+CHF_ForeignCurrencyReserves;20200407;07:00;Foreign Currency Reserves;Switzerland;CHF;1
+EUR_FraImportsEUR;20200407;06:45;Imports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20200407;06:45;Trade Balance EUR;France;EUR;1
+EUR_FraExportsEUR;20200407;06:45;Exports, EUR;France;EUR;1
+EUR_FraCurrentAccount;20200407;06:45;Current Account;France;EUR;1
+EUR_GerIndustrialProduction;20200407;06:00;Industrial Production n.s.a. w.d.a. (YoY);Germany;EUR;1
+RON_GrossDomesticProduct;20200407;06:00;Gross Domestic Product;Romania;RON;1
+EUR_FinTradeBalance;20200407;06:00;Trade Balance;Finland;EUR;1
+NOK_ManufacturingOutput;20200407;06:00;Manufacturing Output;Norway;NOK;1
+ZAR_Net$Gold&ForexReserve;20200407;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+ZAR_Gross$Gold&ForexReserve;20200407;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+JPY_LeadingEconomicIndex;20200407;05:00;Leading Economic Index;Japan;JPY;2
+JPY_CoincidentIndex;20200407;05:00;Coincident Index;Japan;JPY;1
+AUD_RBAInterestRateDecision;20200407;04:30;RBA Interest Rate Decision;Australia;AUD;3
+AUD_RBARateStatement;20200407;04:30;RBA Rate Statement;Australia;AUD;3
+EUR_NetConsumerPriceIndex;20200407;04:30;Consumer Price Index n.s.a (YoY);Netherlands, The;EUR;1
+AUD_ANZJobAdvertisements;20200407;01:30;ANZ Job Advertisements;Australia;AUD;1
+AUD_TradeBalance;20200407;01:30;Trade Balance;Australia;AUD;2
+AUD_Imports;20200407;01:30;Imports;Australia;AUD;2
+AUD_Exports;20200407;01:30;Exports;Australia;AUD;2
+EUR_EurEurogroupMeeting;20200407;00:00;Eurogroup Meeting;European Monetary Union;EUR;2

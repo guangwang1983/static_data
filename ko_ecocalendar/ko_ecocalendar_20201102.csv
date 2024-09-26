@@ -1,0 +1,42 @@
+AUD_TDSecuritiesInflation;20201102;00:00;TD Securities Inflation (MoM);Australia;AUD;2
+AUD_HomeLoans;20201102;00:30;Home Loans;Australia;AUD;1
+AUD_InvestmentLendingforHomes;20201102;00:30;Investment Lending for Homes;Australia;AUD;1
+AUD_ANZJobAdvertisements;20201102;00:30;ANZ Job Advertisements;Australia;AUD;1
+KRW_S&PGlobalManufacturingPMI;20201102;00:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+AUD_BuildingPermits;20201102;00:30;Building Permits (YoY);Australia;AUD;1
+JPY_JibunBankManufacturingPMI;20201102;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+CNY_CaixinManufacturingPMI;20201102;01:45;Caixin Manufacturing PMI;China;CNY;2
+BRL_AllSoulsDay;20201102;03:00;All Souls Day;Brazil;BRL;0
+IDR_Inflation;20201102;04:00;Inflation (YoY);Indonesia;IDR;1
+IDR_CoreInflation;20201102;04:00;Core Inflation (YoY);Indonesia;IDR;1
+COP_AllSaints'Day;20201102;05:00;All Saints' Day;Colombia;COP;0
+AUD_RBACommodityIndexSDR;20201102;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+MXN_DayoftheDead;20201102;06:00;Day of the Dead ;Mexico;MXN;0
+RUB_S&PGlobalManufacturingPMI;20201102;06:00;S&P Global Manufacturing PMI;Russia;RUB;1
+SEK_PurchasingManagersIndexManufacturing;20201102;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+TRY_Exports;20201102;08:00;Exports;Turkey;TRY;1
+HUF_PurchasingManagerIndex;20201102;08:00;Purchasing Manager Index;Hungary;HUF;1
+HUF_ProducerPriceIndex;20201102;08:00;Producer Price Index (YoY);Hungary;HUF;1
+PLN_PurchasingManagerIndex;20201102;08:00;Purchasing Manager Index;Poland;PLN;2
+CHF_SVMEPurchasingManagers'Index;20201102;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_S&PGlobalPMI;20201102;08:30;S&P Global PMI;Czech Republic;CZK;1
+EUR_ItaHCOBManufacturingPMI;20201102;08:45;HCOB Manufacturing PMI;Italy;EUR;2
+EUR_FraHCOBManufacturingPMI;20201102;08:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerHCOBManufacturingPMI;20201102;08:55;HCOB Manufacturing PMI;Germany;EUR;2
+EUR_EurHCOBManufacturingPMI;20201102;09:00;HCOB Manufacturing PMI;European Monetary Union;EUR;1
+GBP_S&PGlobalCIPSManufacturingPMI;20201102;09:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+DKK_ManufacturingPMI;20201102;10:00;Manufacturing PMI;Denmark;DKK;1
+CLP_IMACEC;20201102;10:30;IMACEC;Chile;CLP;1
+ZAR_TotalNewVehicleSales;20201102;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+CZK_BudgetBalance;20201102;13:00;Budget Balance;Czech Republic;CZK;1
+EUR_EurCentralBankSpeech;20201102;14:00;ECB Mersch speech;European Monetary Union;EUR;2
+CAD_S&PGlobalManufacturingPMI;20201102;14:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20201102;14:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_ISMManufacturingNewOrdersIndex;20201102;15:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ISMManufacturingPMI;20201102;15:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20201102;15:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ISMManufacturingEmploymentIndex;20201102;15:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ConstructionSpending;20201102;15:00;Construction Spending (MoM);United States;USD;1
+JPY_CultureDay;20201102;15:00;Culture Day;Japan;JPY;0
+USD_Auction;20201102;16:30;3-Month Bill Auction;United States;USD;1
+KRW_ConsumerPriceIndex;20201102;23:00;Consumer Price Index Growth (YoY);South Korea;KRW;1

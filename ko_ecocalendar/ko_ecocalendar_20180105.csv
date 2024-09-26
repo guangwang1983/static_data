@@ -1,0 +1,53 @@
+RUB_Bankholiday;20180105;00:00;Bank holiday;Russia;RUB;0
+GBP_BRCShopPriceIndex;20180105;00:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1
+JPY_JibunBankServicesPMI;20180105;00:30;Jibun Bank Services PMI;Japan;JPY;1
+AUD_TradeBalance;20180105;00:30;Trade Balance (MoM);Australia;AUD;2
+AUD_Imports;20180105;00:30;Imports (MoM);Australia;AUD;2
+AUD_Exports;20180105;00:30;Exports (MoM);Australia;AUD;2
+DKK_UnemploymentRate;20180105;07:00;Unemployment Rate;Denmark;DKK;1
+EUR_GerRetailSales;20180105;07:00;Retail Sales (YoY);Germany;EUR;2
+NOK_CreditIndicator;20180105;07:00;Credit Indicator;Norway;NOK;1
+BRL_FipeIPCInflation;20180105;07:00;Fipe IPC Inflation;Brazil;BRL;1
+EUR_FraConsumerPriceIndex;20180105;07:45;Consumer Price Index (EU norm) (YoY);France;EUR;2
+EUR_FraConsumerConfidence;20180105;07:45;Consumer Confidence;France;EUR;1
+HUF_ProducerPriceIndex;20180105;08:00;Producer Price Index (YoY);Hungary;HUF;1
+EUR_ItaPublicDeficitGDP;20180105;09:00;Public Deficit/GDP;Italy;EUR;1
+EUR_EurHarmonizedIndexofConsumerPrices;20180105;10:00;Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20180105;10:00;Core Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_ItaConsumerPriceIndex;20180105;10:00;Consumer Price Index (EU Norm) (MoM);Italy;EUR;1
+EUR_EurProducerPriceIndex;20180105;10:00;Producer Price Index (MoM);European Monetary Union;EUR;1
+BRL_IndustrialOutput;20180105;11:00;Industrial Output (MoM);Brazil;BRL;1
+CLP_IMACEC;20180105;11:30;IMACEC;Chile;CLP;1
+INR_BankLoanGrowth;20180105;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20180105;11:30;FX Reserves, USD;India;INR;1
+PLN_CentralBankFXReserves;20180105;13:00;Central Bank FX Reserves;Poland;PLN;1
+USD_AverageHourlyEarnings;20180105;13:30;Average Hourly Earnings (YoY);United States;USD;2
+USD_AverageWeeklyHours;20180105;13:30;Average Weekly Hours;United States;USD;2
+USD_NonfarmPayrolls;20180105;13:30;Nonfarm Payrolls;United States;USD;3
+USD_LaborForceParticipationRate;20180105;13:30;Labor Force Participation Rate;United States;USD;2
+USD_U6UnderemploymentRate;20180105;13:30;U6 Underemployment Rate;United States;USD;1
+USD_UnemploymentRate;20180105;13:30;Unemployment Rate;United States;USD;3
+USD_GoodsandServicesTradeBalance;20180105;13:30;Goods and Services Trade Balance;United States;USD;2
+CAD_Imports;20180105;13:30;Imports;Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20180105;13:30;International Merchandise Trade;Canada;CAD;2
+CAD_Exports;20180105;13:30;Exports;Canada;CAD;1
+CAD_ParticipationRate;20180105;13:30;Participation Rate;Canada;CAD;2
+CAD_AverageHourlyWages;20180105;13:30;Average Hourly Wages (YoY);Canada;CAD;2
+CAD_NetChangeinEmployment;20180105;13:30;Net Change in Employment;Canada;CAD;3
+CAD_UnemploymentRate;20180105;13:30;Unemployment Rate;Canada;CAD;3
+USD_ISMServicesPricesPaid;20180105;15:00;ISM Services Prices Paid;United States;USD;2
+USD_ISMServicesEmploymentIndex;20180105;15:00;ISM Services Employment Index;United States;USD;2
+USD_ISMServicesNewOrdersIndex;20180105;15:00;ISM Services New Orders Index;United States;USD;2
+USD_ISMServicesPMI;20180105;15:00;ISM Services PMI;United States;USD;2
+USD_FactoryOrders;20180105;15:00;Factory Orders (MoM);United States;USD;2
+CAD_IveyPurchasingManagersIndex;20180105;15:00;Ivey Purchasing Managers Index s.a;Canada;CAD;2
+USD_CentralBankSpeech;20180105;17:30;Fed Mester speech;United States;USD;2
+USD_BakerHughesUSOilRigCount;20180105;18:00;Baker Hughes US Oil Rig Count;United States;USD;2
+GBP_CentralBankSpeech;20180105;19:30;BoE Haldane speech;United Kingdom;GBP;2
+USD_CFTCS&P500NCNetPositions;20180105;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20180105;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCOilNCNetPositions;20180105;20:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20180105;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20180105;20:30;CFTC Gold NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20180105;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20180105;20:30;CFTC AUD NC Net Positions;Australia;AUD;1

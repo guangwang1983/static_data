@@ -1,0 +1,28 @@
+JPY_MerchandiseTradeBalanceTotal;20120522;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Imports;20120522;23:50;Imports (YoY);Japan;JPY;2
+JPY_Exports;20120522;23:50;Exports (YoY);Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20120522;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+ARS_TradeBalance;20120522;19:00;Trade Balance (MoM);Argentina;ARS;1
+USD_Auction;20120522;18:00;2-Year Note Auction;United States;USD;1
+USD_ExistingHomeSales;20120522;14:00;Existing Home Sales (MoM);United States;USD;2
+USD_ExistingHomeSalesChange;20120522;14:00;Existing Home Sales Change (MoM);United States;USD;2
+EUR_EurConsumerConfidence;20120522;14:00;Consumer Confidence;European Monetary Union;EUR;2
+USD_RichmondFedManufacturingIndex;20120522;14:00;Richmond Fed Manufacturing Index;United States;USD;1
+EUR_BelConsumerConfidenceIndex;20120522;13:00;Consumer Confidence Index;Belgium;EUR;1
+MXN_RetailSales;20120522;13:00;Retail Sales (YoY);Mexico;MXN;1
+PLN_NetInflation;20120522;12:00;Net Inflation;Poland;PLN;1
+BRL_MidmonthInflation;20120522;12:00;Mid-month Inflation;Brazil;BRL;1
+EUR_PorCurrentAccount;20120522;11:09;Current Account Balance;Portugal;EUR;1
+USD_CentralBankSpeech;20120522;10:15;Fed Lockhart speech;United States;USD;1
+GBP_RetailPriceIndex;20120522;08:30;Retail Price Index (MoM);United Kingdom;GBP;1
+GBP_DCLGHousePriceIndex;20120522;08:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+EUR_NetConsumerConfidenceAdj;20120522;08:30;Consumer Confidence Adj;Netherlands, The;EUR;1
+HKD_ConsumerPriceIndex;20120522;08:30;Consumer Price Index;Hong Kong SAR;HKD;1
+EUR_SpaAuction;20120522;08:30;3-Month Letras Auction;Spain;EUR;1
+GBP_ConsumerPriceIndex;20120522;08:30;Core Consumer Price Index (YoY);United Kingdom;GBP;3
+GBP_PublicSectorNetBorrowing;20120522;08:30;Public Sector Net Borrowing;United Kingdom;GBP;2
+NOK_GrossDomesticProduct;20120522;08:00;Gross Domestic Product Growth;Norway;NOK;1
+DKK_ConsumerConfidence;20120522;07:00;Consumer Confidence;Denmark;DKK;1
+EUR_FinUnemploymentRate;20120522;06:00;Unemployment Rate;Finland;EUR;1
+NZD_RBNZInflationExpectations;20120522;03:00;RBNZ Inflation Expectations (QoQ);New Zealand;NZD;3
+RUB_GrossDomesticProduct;20120522;00:00;Gross Domestic Product Monthly (YoY);Russia;RUB;1

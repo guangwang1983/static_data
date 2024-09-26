@@ -1,0 +1,33 @@
+KRW_ConsumerSentimentIndex;20141125;21:00;Consumer Sentiment Index;South Korea;KRW;1
+ARS_TradeBalance;20141125;19:00;Trade Balance (MoM);Argentina;ARS;1
+USD_Auction;20141125;18:00;5-Year Note Auction;United States;USD;1
+USD_ConsumerConfidence;20141125;15:00;Consumer Confidence;United States;USD;3
+MXN_CurrentAccount;20141125;15:00;Accumulated Current Account/GDP;Mexico;MXN;1
+USD_RichmondFedManufacturingIndex;20141125;15:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20141125;14:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;1
+USD_HousingPriceIndex;20141125;14:00;Housing Price Index (MoM);United States;USD;1
+USD_RedbookIndex;20141125;13:55;Redbook Index (MoM);United States;USD;1
+USD_GrossDomesticProduct;20141125;13:30;Gross Domestic Product Annualized;United States;USD;3
+USD_CorePersonalConsumptionExpenditures;20141125;13:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+USD_PersonalConsumptionExpendituresPrices;20141125;13:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+CAD_RetailSales;20141125;13:30;Retail Sales ex Autos (MoM);Canada;CAD;1
+EUR_SloCurrentAccount;20141125;13:30;Current Account Balance EUR;Slovakia;EUR;1
+HUF_MNBInterestRateDecision;20141125;13:00;MNB Interest Rate Decision;Hungary;HUF;1
+GBP_InflationReportHearings;20141125;10:00;Inflation Report Hearings;United Kingdom;GBP;3
+EUR_SpaAuction;20141125;09:57;9-Month Letras Auction;Spain;EUR;1
+GBP_BBAMortgageApprovals;20141125;09:30;BBA Mortgage Approvals;United Kingdom;GBP;2
+ZAR_GrossDomesticProduct;20141125;09:30;Gross Domestic Product (YoY);South Africa;ZAR;1
+AUD_CentralBankSpeech;20141125;09:05;OUTDATED - RBA Deputy Governor Lowe Speech;Australia;AUD;2
+PLN_Unemployment;20141125;09:00;Unemployment (MoM);Poland;PLN;1
+PLN_RetailSales;20141125;09:00;Retail Sales (YoY);Poland;PLN;1
+EUR_ItaRetailSales;20141125;09:00;Retail Sales n.s.a (YoY);Italy;EUR;1
+TRY_ForeignArrivals;20141125;09:00;Foreign Arrivals;Turkey;TRY;1
+EUR_SpaProducerPriceIndex;20141125;08:30;Producer Price Index (YoY);Spain;EUR;1
+SEK_ProducerPriceIndex;20141125;08:30;Producer Price Index (YoY);Sweden;SEK;1
+EUR_AusIndustrialProduction;20141125;08:00;Industrial Production (YoY);Austria;EUR;1
+EUR_FraBusinessClimate;20141125;07:45;Business Climate;France;EUR;1
+EUR_FinUnemploymentRate;20141125;07:00;Unemployment Rate;Finland;EUR;1
+EUR_GerGrossDomesticProduct;20141125;07:00;Gross Domestic Product (QoQ);Germany;EUR;1
+JPY_CentralBankSpeech;20141125;04:00;BoJ Nakaso speech;Japan;JPY;1
+NZD_RBNZInflationExpectations;20141125;02:00;RBNZ Inflation Expectations (QoQ);New Zealand;NZD;2
+SGD_GrossDomesticProduct;20141125;00:00;Gross Domestic Product (YoY);Singapore;SGD;1

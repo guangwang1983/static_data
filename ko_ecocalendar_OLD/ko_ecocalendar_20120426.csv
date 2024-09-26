@@ -1,0 +1,43 @@
+JPY_IndustrialProduction;20120426;23:50;Industrial Production (MoM);Japan;JPY;1
+JPY_LargeRetailers'Sales;20120426;23:50;Large Retailers' Sales;Japan;JPY;2
+JPY_RetailTrade;20120426;23:50;Retail Trade (YoY);Japan;JPY;2
+JPY_TokyoCPIexFreshFood;20120426;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;1
+JPY_ConsumerPriceIndex;20120426;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;1
+JPY_TokyoCPIexFoodEnergy;20120426;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;1
+JPY_NationalCPIexFoodEnergy;20120426;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;1
+JPY_NationalCPIexFreshFood;20120426;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;1
+JPY_JobsApplicantsRatio;20120426;23:30;Jobs / Applicants Ratio;Japan;JPY;1
+JPY_UnemploymentRate;20120426;23:30;Unemployment Rate;Japan;JPY;2
+JPY_OverallHouseholdSpending;20120426;23:30;Overall Household Spending (YoY);Japan;JPY;2
+JPY_NikkeiManufacturingPMI;20120426;23:15;Nikkei Manufacturing PMI;Japan;JPY;2
+GBP_GfKConsumerConfidence;20120426;23:01;GfK Consumer Confidence;United Kingdom;GBP;2
+KRW_CurrentAccount;20120426;23:00;Current Account Balance;South Korea;KRW;1
+USD_KansasFedManufacturingActivity;20120426;15:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_EIANaturalGasStorageChange;20120426;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_PendingHomeSales;20120426;14:00;Pending Home Sales (MoM);United States;USD;1
+USD_ChicagoFedNationalActivityIndex;20120426;12:30;Chicago Fed National Activity Index ;United States;USD;1
+USD_JoblessClaims;20120426;12:30;Continuing Jobless Claims;United States;USD;1
+EUR_GerConsumerPriceIndex;20120426;12:12;Consumer Price Index (MoM);Germany;EUR;2
+BRL_UnemploymentRate;20120426;12:00;Unemployment Rate;Brazil;BRL;1
+GBP_CBIDistributiveTradesSurveyRealized;20120426;10:00;CBI Distributive Trades Survey - Realized (MoM);United Kingdom;GBP;1
+ZAR_ProducerPriceIndex;20120426;09:30;Producer Price Index (MoM);South Africa;ZAR;1
+EUR_BelConsumerPriceIndex;20120426;09:30;Consumer Price Index (MoM);Belgium;EUR;1
+EUR_EurServicesSentiment;20120426;09:30;Services Sentiment;European Monetary Union;EUR;1
+EUR_PorBusinessConfidence;20120426;09:00;Business Confidence;Portugal;EUR;1
+EUR_PorConsumerConfidence;20120426;09:00;Consumer Confidence;Portugal;EUR;1
+EUR_EurConsumerConfidence;20120426;09:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurBusinessClimate;20120426;09:00;Business Climate;European Monetary Union;EUR;2
+EUR_EurIndustrialConfidence;20120426;09:00;Industrial Confidence;European Monetary Union;EUR;2
+EUR_EurEconomicSentimentIndicator;20120426;09:00;Economic Sentiment Indicator;European Monetary Union;EUR;2
+GBP_BBAMortgageApprovals;20120426;08:30;BBA Mortgage Approvals;United Kingdom;GBP;2
+EUR_ItaBusinessConfidence;20120426;08:00;Business Confidence;Italy;EUR;1
+NOK_RegisteredUnemployment;20120426;08:00;Registered Unemployment n.s.a;Norway;NOK;1
+EUR_EurCentralBankSpeech;20120426;07:30;ECB President Draghi speech;European Monetary Union;EUR;3
+SEK_ProducerPriceIndex;20120426;07:30;Producer Price Index (YoY);Sweden;SEK;1
+RUB_CentralBankReserves;20120426;07:27;Central Bank Reserves $;Russia;RUB;1
+SEK_ConsumerConfidence;20120426;07:15;Consumer Confidence (MoM);Sweden;SEK;1
+DKK_UnemploymentRate;20120426;07:00;Unemployment Rate;Denmark;DKK;1
+EUR_FinConsumerConfidence;20120426;06:00;Consumer Confidence;Finland;EUR;1
+EUR_FinIndustrialConfidence;20120426;06:00;Industrial Confidence;Finland;EUR;1
+SGD_IndustrialProduction;20120426;05:00;Industrial Production (YoY);Singapore;SGD;1
+JPY_AllIndustryActivityIndex;20120426;04:30;All Industry Activity Index (MoM);Japan;JPY;2

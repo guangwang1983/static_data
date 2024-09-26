@@ -1,0 +1,31 @@
+GBP_RightmoveHousePriceIndex;20240115;00:01;Rightmove House Price Index (MoM);United Kingdom;GBP;1
+AUD_TDSecuritiesInflation;20240115;00:10;TD Securities Inflation (MoM);Australia;AUD;1
+AUD_ANZJobAdvertisements;20240115;00:30;ANZ Job Advertisements;Australia;AUD;1
+IDR_TradeBalance;20240115;04:00;Trade Balance;Indonesia;IDR;1
+IDR_Imports;20240115;04:00;Imports;Indonesia;IDR;1
+IDR_Exports;20240115;04:00;Exports;Indonesia;IDR;1
+USD_MartinLKingBirthday;20240115;05:00;Martin L. King Birthday;United States;USD;0
+JPY_MachineToolOrders;20240115;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+INR_WPIInflation;20240115;06:30;WPI Inflation;India;INR;1
+EUR_GerWholesalePriceIndex;20240115;07:00;Wholesale Price Index (MoM);Germany;EUR;1
+EUR_EurEurogroupMeeting;20240115;07:00;Eurogroup Meeting;Eurozone;EUR;1
+NOK_TradeBalance;20240115;07:00;Trade Balance;Norway;NOK;1
+SEK_ConsumerPriceIndex;20240115;07:00;Consumer Price Index (YoY);Sweden;SEK;1
+TRY_BudgetBalance;20240115;08:00;Budget Balance;Turkey;TRY;1
+EUR_GerRealGDPGrowth;20240115;09:00;Real GDP Growth;Germany;EUR;1
+EUR_ItaTradeBalanceEU;20240115;09:00;Trade Balance EU;Italy;EUR;1
+EUR_ItaGlobalTradeBalance;20240115;09:00;Global Trade Balance;Italy;EUR;1
+PLN_ConsumerPriceIndex;20240115;09:00;Consumer Price Index (YoY);Poland;PLN;1
+EUR_EurTradeBalance;20240115;10:00;Trade Balance s.a.;Eurozone;EUR;1
+EUR_EurIndustrialProduction;20240115;10:00;Industrial Production w.d.a. (YoY);Eurozone;EUR;1
+INR_TradeDeficitGovernment;20240115;11:00;Trade Deficit Government;India;INR;1
+CAD_ManufacturingSales;20240115;13:30;Manufacturing Sales (MoM);Canada;CAD;1
+CAD_WholesaleSales;20240115;13:30;Wholesale Sales (MoM);Canada;CAD;1
+CAD_BankofCanadaBusinessOutlookSurvey;20240115;15:30;Bank of Canada Business Outlook Survey;Canada;CAD;2
+ILS_ConsumerPriceIndex;20240115;16:30;Consumer Price Index (MoM);Israel;ILS;1
+KRW_ImportPriceGrowth;20240115;21:00;Import Price Growth (YoY);South Korea;KRW;1
+KRW_ExportPriceGrowth;20240115;21:00;Export Price Growth (YoY);South Korea;KRW;1
+NZD_NZIERBusinessConfidence;20240115;21:00;NZIER Business Confidence (QoQ);New Zealand;NZD;2
+CHF_WorldEconomicForumDavos;20240115;23:00;World Economic Forum - Davos;Switzerland;CHF;2
+AUD_WestpacConsumerConfidence;20240115;23:30;Westpac Consumer Confidence;Australia;AUD;2
+JPY_ProducerPriceIndex;20240115;23:50;Producer Price Index (YoY);Japan;JPY;1

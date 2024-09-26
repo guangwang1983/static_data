@@ -1,0 +1,31 @@
+USD_CFTCUSDNCNetPositions;20190222;20:30;CFTC USD NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20190222;20:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20190222;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20190222;20:30;CFTC Gold NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20190222;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20190222;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20190222;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CentralBankSpeech;20190222;18:30;Fed Quarles speech;United States;USD;2
+USD_BakerHughesUSOilRigCount;20190222;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_FedMonetaryPolicyReport;20190222;16:00;Fed Monetary Policy Report;United States;USD;2
+EUR_EurCentralBankSpeech;20190222;15:30;ECB President Draghi speech;European Monetary Union;EUR;3
+EUR_BelLeadingIndicator;20190222;14:00;Leading Indicator;Belgium;EUR;1
+MXN_1sthalfmonthCoreInflation;20190222;14:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20190222;14:00;1st half-month Inflation;Mexico;MXN;1
+CAD_RetailSales;20190222;13:30;Retail Sales ex Autos (MoM);Canada;CAD;2
+PLN_M3MoneySupply;20190222;13:01;M3 Money Supply (YoY);Poland;PLN;1
+INR_FXReservesUSD;20190222;11:30;FX Reserves, USD;India;INR;1
+GBP_CBIDistributiveTradesSurveyRealized;20190222;11:00;CBI Distributive Trades Survey - Realized (MoM);United Kingdom;GBP;1
+TRY_CapacityUtilization;20190222;10:00;Capacity Utilization;Turkey;TRY;1
+TRY_ManufacturingConfidence;20190222;10:00;Manufacturing Confidence;Turkey;TRY;1
+EUR_EurConsumerPriceIndex;20190222;10:00;Consumer Price Index (YoY);European Monetary Union;EUR;2
+EUR_GerIFOBusinessClimate;20190222;09:00;IFO - Business Climate;Germany;EUR;2
+EUR_GerIFOExpectations;20190222;09:00;IFO - Expectations;Germany;EUR;2
+EUR_GerIFOCurrentAssessment;20190222;09:00;IFO - Current Assessment;Germany;EUR;2
+HKD_ConsumerPriceIndex;20190222;08:30;Consumer Price Index;Hong Kong SAR;HKD;1
+EUR_AusHICP;20190222;08:00;HICP (MoM);Austria;EUR;1
+EUR_SloEUNormInflation;20190222;08:00;EU Norm Inflation (YoY);Slovakia;EUR;1
+CHF_IndustrialProduction;20190222;07:30;Industrial Production (YoY);Switzerland;CHF;2
+EUR_GerGrossDomesticProduct;20190222;07:00;Gross Domestic Product w.d.a (YoY);Germany;EUR;2
+NZD_CreditCardSpending;20190222;02:00;Credit Card Spending (YoY);New Zealand;NZD;1
+CNY_HousePriceIndex;20190222;01:30;House Price Index ;China;CNY;1

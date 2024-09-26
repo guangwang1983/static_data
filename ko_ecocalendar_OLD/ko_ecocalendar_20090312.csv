@@ -1,0 +1,13 @@
+NZD_RetailSales;20090312;21:45;Retail Sales ex Autos (QoQ);New Zealand;NZD;2
+USD_CentralBankSpeech;20090312;14:00;Treasury Geithner speech;United States;USD;1
+USD_BusinessInventories;20090312;14:00;Business Inventories;United States;USD;1
+CHF_SNBInterestRateDecision;20090312;13:00;SNB Interest Rate Decision;Switzerland;CHF;3
+USD_RetailSales;20090312;12:30;Retail Sales ex Autos (MoM);United States;USD;3
+USD_JoblessClaims;20090312;12:30;Initial Jobless Claims;United States;USD;1
+EUR_EurCentralBankSpeech;20090312;12:00;ECB President Trichet speech;European Monetary Union;EUR;1
+EUR_GerIndustrialProduction;20090312;11:00;Industrial Production s.a. (MoM);Germany;EUR;2
+EUR_EurProducerPriceIndex;20090312;10:00;Producer Price Index (YoY);European Monetary Union;EUR;1
+EUR_EurECBMonthlyReport;20090312;09:00;ECB Monthly Report;European Monetary Union;EUR;2
+AUD_UnemploymentRate;20090312;00:30;Unemployment Rate s.a.;Australia;AUD;2
+AUD_EmploymentChange;20090312;00:30;Employment Change s.a.;Australia;AUD;2
+AUD_ConsumerInflationExpectations;20090312;00:00;Consumer Inflation Expectations;Australia;AUD;1

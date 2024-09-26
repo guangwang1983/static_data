@@ -1,0 +1,28 @@
+AUD_WestpacConsumerConfidence;20201013;23:30;Westpac Consumer Confidence;Australia;AUD;2
+USD_APIWeeklyCrudeOilStock;20201013;20:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_MonthlyBudgetStatement;20201013;18:00;Monthly Budget Statement;United States;USD;2
+USD_Auction;20201013;15:30;3-Month Bill Auction;United States;USD;1
+USD_IBDTIPPEconomicOptimism;20201013;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+USD_ConsumerPriceIndex;20201013;12:30;Consumer Price Index (YoY);United States;USD;2
+USD_NFIBBusinessOptimismIndex;20201013;10:00;NFIB Business Optimism Index;United States;USD;1
+EUR_PorConsumerPriceIndex;20201013;10:00;Consumer Price Index (YoY);Portugal;EUR;1
+EUR_GerZEWSurvey–EconomicSentiment;20201013;09:00;ZEW Survey – Economic Sentiment;Germany;EUR;2
+EUR_EurZEWSurvey–EconomicSentiment;20201013;09:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurvey–CurrentSituation;20201013;09:00;ZEW Survey – Current Situation;Germany;EUR;2
+EUR_SpaAuction;20201013;08:40;9-Month Letras Auction;Spain;EUR;1
+SEK_ConsumerPriceIndex;20201013;07:30;Consumer Price Index (YoY);Sweden;SEK;1
+HUF_IndustrialOutput;20201013;07:00;Industrial Output (YoY);Hungary;HUF;1
+TRY_IndustrialProduction;20201013;07:00;Industrial Production (YoY);Turkey;TRY;1
+IDR_BankIndonesiaRate;20201013;07:00;Bank Indonesia Rate;Indonesia;IDR;1
+GBP_ClaimantCountRate;20201013;06:00;Claimant Count Rate;United Kingdom;GBP;2
+GBP_ClaimantCountChange;20201013;06:00;Claimant Count Change;United Kingdom;GBP;3
+GBP_ILOUnemploymentRate;20201013;06:00;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_AverageEarningsIncludingBonus;20201013;06:00;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_AverageEarningsExcludingBonus;20201013;06:00;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+EUR_GerHarmonizedIndexofConsumerPrices;20201013;06:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+EUR_GerConsumerPriceIndex;20201013;06:00;Consumer Price Index (MoM);Germany;EUR;1
+EUR_FinCurrentAccount;20201013;05:00;Current Account;Finland;EUR;1
+CNY_Exports;20201013;02:00;Exports (YoY);China;CNY;2
+CNY_Imports;20201013;02:00;Imports (YoY) CNY;China;CNY;1
+CNY_TradeBalanceUSD;20201013;02:00;Trade Balance USD;China;CNY;2
+CNY_TradeBalanceCNY;20201013;02:00;Trade Balance CNY;China;CNY;1

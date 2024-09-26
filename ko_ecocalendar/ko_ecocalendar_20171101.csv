@@ -1,0 +1,43 @@
+HUF_AllSaints'Day;20171101;00:00;All Saints' Day;Hungary;HUF;0
+PLN_AllSaints'Day;20171101;00:00;All Saints' Day;Poland;PLN;0
+EUR_ItaAllSaints'Day;20171101;00:00;All Saints' Day;Italy;EUR;0
+KRW_TradeBalance;20171101;00:00;Trade Balance;South Korea;KRW;1
+CLP_AllSaints'Day;20171101;00:00;All Saints' Day;Chile;CLP;0
+BRL_AllSaints'Day;20171101;00:00;All Saints' Day;Brazil;BRL;0
+EUR_FraAllSaints'Day;20171101;00:00;All Saints' Day;France;EUR;0
+GBP_BRCShopPriceIndex;20171101;00:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1
+KRW_S&PGlobalManufacturingPMI;20171101;00:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+JPY_JibunBankManufacturingPMI;20171101;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+CNY_CaixinManufacturingPMI;20171101;01:45;Caixin Manufacturing PMI;China;CNY;2
+IDR_Inflation;20171101;04:00;Inflation (MoM);Indonesia;IDR;1
+IDR_CoreInflation;20171101;04:00;Core Inflation (YoY);Indonesia;IDR;1
+AUD_RBACommodityIndexSDR;20171101;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+RUB_S&PGlobalManufacturingPMI;20171101;06:00;S&P Global Manufacturing PMI;Russia;RUB;1
+GBP_NationwideHousingPrices;20171101;07:00;Nationwide Housing Prices s.a (MoM);United Kingdom;GBP;1
+SEK_PurchasingManagersIndexManufacturing;20171101;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;2
+CHF_SVMEPurchasingManagers'Index;20171101;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_S&PGlobalPMI;20171101;08:30;S&P Global PMI;Czech Republic;CZK;1
+TRY_Exports;20171101;09:00;Exports;Turkey;TRY;1
+GBP_S&PGlobalCIPSManufacturingPMI;20171101;09:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+GBP_CentralBankSpeech;20171101;10:00;BoE Cunliffe speech;United Kingdom;GBP;2
+BRL_IndustrialOutput;20171101;11:00;Industrial Output (MoM);Brazil;BRL;1
+USD_MBAMortgageApplications;20171101;11:00;MBA Mortgage Applications;United States;USD;1
+BRL_S&PGlobalManufacturingPMI;20171101;12:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+USD_ADPEmploymentChange;20171101;12:15;ADP Employment Change;United States;USD;2
+ZAR_TotalNewVehicleSales;20171101;13:00;Total New Vehicle Sales;South Africa;ZAR;1
+CZK_BudgetBalance;20171101;13:00;Budget Balance;Czech Republic;CZK;1
+CAD_S&PGlobalManufacturingPMI;20171101;13:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20171101;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_ISMManufacturingPMI;20171101;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20171101;14:00;ISM Manufacturing Prices Paid;United States;USD;3
+USD_ConstructionSpending;20171101;14:00;Construction Spending (MoM);United States;USD;2
+USD_EIACrudeOilStocksChange;20171101;14:30;EIA Crude Oil Stocks Change;United States;USD;2
+BRL_TradeBalance;20171101;17:00;Trade Balance;Brazil;BRL;1
+CHF_CentralBankSpeech;20171101;17:15;SNB Zurbrugg speech;Switzerland;CHF;2
+USD_FedMonetaryPolicyStatement;20171101;18:00;Fed Monetary Policy Statement;United States;USD;3
+USD_FedInterestRateDecision;20171101;18:00;Fed Interest Rate Decision;United States;USD;3
+USD_TotalVehicleSales;20171101;19:30;Total Vehicle Sales;United States;USD;1
+CAD_CentralBankSpeech;20171101;20:15;BoC Governor Poloz speech;Canada;CAD;3
+JPY_MonetaryBase;20171101;23:50;Monetary Base (YoY);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20171101;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20171101;23:50;Foreign Bond Investment;Japan;JPY;2

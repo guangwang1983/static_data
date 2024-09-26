@@ -1,0 +1,49 @@
+BRL_IndependenceDay;20170907;00:00;Independence Day;Brazil;BRL;0
+AUD_RetailSales;20170907;01:30;Retail Sales s.a. (MoM);Australia;AUD;2
+AUD_TradeBalance;20170907;01:30;Trade Balance (MoM);Australia;AUD;2
+AUD_Imports;20170907;01:30;Imports (MoM);Australia;AUD;2
+AUD_Exports;20170907;01:30;Exports (MoM);Australia;AUD;2
+JPY_CoincidentIndex;20170907;05:00;Coincident Index;Japan;JPY;2
+JPY_LeadingEconomicIndex;20170907;05:00;Leading Economic Index;Japan;JPY;2
+EUR_GerIndustrialProduction;20170907;06:00;Industrial Production s.a. (MoM);Germany;EUR;1
+NOK_CreditIndicator;20170907;06:00;Credit Indicator;Norway;NOK;1
+NOK_ManufacturingOutput;20170907;06:00;Manufacturing Output;Norway;NOK;1
+ZAR_Gross$Gold&ForexReserve;20170907;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+ZAR_Net$Gold&ForexReserve;20170907;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+EUR_FraImportsEUR;20170907;06:45;Imports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20170907;06:45;Trade Balance EUR;France;EUR;1
+EUR_FraExportsEUR;20170907;06:45;Exports, EUR;France;EUR;1
+CHF_ForeignCurrencyReserves;20170907;07:00;Foreign Currency Reserves;Switzerland;CHF;1
+DKK_IndustrialProduction;20170907;07:00;Industrial Production (MoM);Denmark;DKK;1
+EUR_FraCurrentAccount;20170907;07:09;Current Account;France;EUR;1
+SEK_RiksbankInterestRateDecision;20170907;07:30;Riksbank Interest Rate Decision;Sweden;SEK;1
+GBP_HalifaxHousePrices;20170907;07:30;Halifax House Prices (MoM);United Kingdom;GBP;1
+CZK_FXReserves;20170907;08:00;FX Reserves;Czech Republic;CZK;1
+CNY_ForeignExchangeReserves;20170907;08:17;Foreign Exchange Reserves (MoM);China;CNY;1
+EUR_EurGrossDomesticProduct;20170907;09:00;Gross Domestic Product s.a. (QoQ);European Monetary Union;EUR;3
+HUF_BudgetBalance;20170907;09:00;Budget Balance;Hungary;HUF;1
+EUR_FraAuction;20170907;09:25;10-y Bond Auction;France;EUR;1
+ZAR_ManufacturingProductionIndex;20170907;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;0
+EUR_EurECBRateOnDepositFacility;20170907;11:45;ECB Rate On Deposit Facility;European Monetary Union;EUR;3
+EUR_EurECBRateOnMainRefinancingOperations;20170907;11:45;ECB Rate On Main Refinancing Operations;European Monetary Union;EUR;3
+PLN_CentralBankFXReserves;20170907;12:00;Central Bank FX Reserves;Poland;PLN;1
+USD_JoblessClaims;20170907;12:30;Continuing Jobless Claims;United States;USD;2
+USD_UnitLaborCosts;20170907;12:30;Unit Labor Costs;United States;USD;2
+USD_NonfarmProductivity;20170907;12:30;Nonfarm Productivity;United States;USD;2
+CAD_BuildingPermits;20170907;12:30;Building Permits (MoM);Canada;CAD;1
+EUR_EurECBPressConference;20170907;12:30;ECB Press Conference;European Monetary Union;EUR;3
+CLP_TradeBalance;20170907;12:30;Trade Balance;Chile;CLP;1
+MXN_CoreInflation;20170907;13:00;Core Inflation;Mexico;MXN;1
+MXN_12MonthInflation;20170907;13:00;12-Month Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20170907;13:00;Headline Inflation;Mexico;MXN;1
+RUB_CentralBankReserves;20170907;13:00;Central Bank Reserves $;Russia;RUB;1
+CAD_IveyPurchasingManagersIndex;20170907;14:00;Ivey Purchasing Managers Index s.a;Canada;CAD;2
+USD_IBDTIPPEconomicOptimism;20170907;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+USD_EIANaturalGasStorageChange;20170907;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_EIACrudeOilStocksChange;20170907;15:00;EIA Crude Oil Stocks Change;United States;USD;2
+NZD_ManufacturingSales;20170907;22:45;Manufacturing Sales;New Zealand;NZD;1
+USD_CentralBankSpeech;20170907;23:00;Fed Dudley speech;United States;USD;2
+JPY_BankLending;20170907;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_GrossDomesticProduct;20170907;23:50;Gross Domestic Product Deflator (YoY);Japan;JPY;1
+JPY_TradeBalanceBOPBasis;20170907;23:50;Trade Balance - BOP Basis;Japan;JPY;1
+JPY_CurrentAccount;20170907;23:50;Current Account n.s.a.;Japan;JPY;1

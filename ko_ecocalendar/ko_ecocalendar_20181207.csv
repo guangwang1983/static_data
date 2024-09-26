@@ -1,0 +1,54 @@
+JPY_LaborCashEarnings;20181207;00:00;Labor Cash Earnings (YoY);Japan;JPY;1
+JPY_CoincidentIndex;20181207;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20181207;05:00;Leading Economic Index;Japan;JPY;2
+ZAR_Gross$Gold&ForexReserve;20181207;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+ZAR_Net$Gold&ForexReserve;20181207;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+EUR_GerIndustrialProduction;20181207;07:00;Industrial Production n.s.a. w.d.a. (YoY);Germany;EUR;2
+RON_GrossDomesticProduct;20181207;07:00;Gross Domestic Product;Romania;RON;1
+DKK_IndustrialProduction;20181207;07:00;Industrial Production (MoM);Denmark;DKK;1
+NOK_ManufacturingOutput;20181207;07:00;Manufacturing Output;Norway;NOK;1
+EUR_FraExportsEUR;20181207;07:45;Exports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20181207;07:45;Trade Balance EUR;France;EUR;1
+EUR_FraImportsEUR;20181207;07:45;Imports, EUR;France;EUR;1
+EUR_FraIndustrialOutput;20181207;07:45;Industrial Output (MoM);France;EUR;1
+EUR_FraCurrentAccount;20181207;07:45;Current Account;France;EUR;1
+CZK_IndustrialProduction;20181207;08:00;Industrial Production (YoY);Czech Republic;CZK;1
+CHF_ForeignCurrencyReserves;20181207;08:00;Foreign Currency Reserves;Switzerland;CHF;1
+CNY_ForeignExchangeReserves;20181207;08:00;Foreign Exchange Reserves (MoM);China;CNY;1
+CZK_Constructionoutput;20181207;08:00;Construction output (YoY);Czech Republic;CZK;1
+HUF_TradeBalance;20181207;08:00;Trade Balance;Hungary;HUF;1
+CZK_ForeignTradeBalance;20181207;08:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+GBP_HalifaxHousePrices;20181207;08:30;Halifax House Prices (YoY/3m);United Kingdom;GBP;1
+EUR_ItaRetailSales;20181207;09:00;Retail Sales s.a. (MoM);Italy;EUR;1
+CZK_FXReserves;20181207;09:00;FX Reserves;Czech Republic;CZK;1
+GBP_ConsumerInflationExpectations;20181207;09:30;Consumer Inflation Expectations;United Kingdom;GBP;1
+EUR_EurGrossDomesticProduct;20181207;10:00;Gross Domestic Product s.a. (QoQ);European Monetary Union;EUR;3
+EUR_EurEmploymentChange;20181207;10:00;Employment Change (QoQ);European Monetary Union;EUR;1
+HUF_BudgetBalance;20181207;10:00;Budget Balance;Hungary;HUF;1
+BRL_IPCAInflation;20181207;11:00;IPCA Inflation;Brazil;BRL;1
+CLP_ConsumerPriceIndex;20181207;11:00;Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+INR_BankLoanGrowth;20181207;11:30;Bank Loan Growth;India;INR;1
+CLP_TradeBalance;20181207;11:30;Trade Balance;Chile;CLP;1
+INR_FXReservesUSD;20181207;11:30;FX Reserves, USD;India;INR;1
+PLN_CentralBankFXReserves;20181207;13:00;Central Bank FX Reserves;Poland;PLN;1
+USD_NonfarmPayrolls;20181207;13:30;Nonfarm Payrolls;United States;USD;3
+USD_AverageWeeklyHours;20181207;13:30;Average Weekly Hours;United States;USD;1
+USD_AverageHourlyEarnings;20181207;13:30;Average Hourly Earnings (YoY);United States;USD;3
+USD_LaborForceParticipationRate;20181207;13:30;Labor Force Participation Rate;United States;USD;2
+USD_U6UnderemploymentRate;20181207;13:30;U6 Underemployment Rate;United States;USD;1
+USD_UnemploymentRate;20181207;13:30;Unemployment Rate;United States;USD;2
+CAD_ParticipationRate;20181207;13:30;Participation Rate;Canada;CAD;2
+CAD_AverageHourlyWages;20181207;13:30;Average Hourly Wages (YoY);Canada;CAD;2
+CAD_NetChangeinEmployment;20181207;13:30;Net Change in Employment;Canada;CAD;3
+CAD_UnemploymentRate;20181207;13:30;Unemployment Rate;Canada;CAD;3
+MXN_CoreInflation;20181207;14:00;Core Inflation;Mexico;MXN;1
+MXN_12MonthInflation;20181207;14:00;12-Month Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20181207;14:00;Headline Inflation;Mexico;MXN;1
+EUR_GerCDUPartyLeaderElection;20181207;14:00;CDU Party Leader Election;Germany;EUR;2
+TRY_TreasuryCashBalance;20181207;14:30;Treasury Cash Balance;Turkey;TRY;1
+USD_MichiganConsumerSentimentIndex;20181207;15:00;Michigan Consumer Sentiment Index;United States;USD;2
+USD_WholesaleInventories;20181207;15:00;Wholesale Inventories;United States;USD;1
+USD_EIANaturalGasStorageChange;20181207;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_CentralBankSpeech;20181207;17:15;Fed Brainard speech;United States;USD;2
+USD_BakerHughesUSOilRigCount;20181207;18:00;Baker Hughes US Oil Rig Count;United States;USD;2
+USD_ConsumerCreditChange;20181207;20:00;Consumer Credit Change;United States;USD;2

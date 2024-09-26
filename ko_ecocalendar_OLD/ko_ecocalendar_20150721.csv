@@ -1,0 +1,21 @@
+COP_TradeBalance;20150721;22:00;Trade Balance;Colombia;COP;1
+USD_APIWeeklyCrudeOilStock;20150721;21:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_Auction;20150721;15:30;52-Week Bill Auction;United States;USD;1
+USD_RedbookIndex;20150721;12:55;Redbook Index (MoM);United States;USD;1
+HUF_MNBInterestRateDecision;20150721;12:00;MNB Interest Rate Decision;Hungary;HUF;1
+EUR_PorCurrentAccount;20150721;10:56;Current Account Balance;Portugal;EUR;1
+EUR_GreCurrentAccount;20150721;09:00;Current Account (YoY);Greece;EUR;1
+EUR_PorGlobalTradeBalance;20150721;09:00;Global Trade Balance;Portugal;EUR;1
+EUR_SpaAuction;20150721;09:00;3-Month Letras Auction;Spain;EUR;1
+HKD_ConsumerPriceIndex;20150721;08:30;Consumer Price Index;Hong Kong SAR;HKD;1
+GBP_PublicSectorNetBorrowing;20150721;08:30;Public Sector Net Borrowing;United Kingdom;GBP;2
+HUF_GrossWages;20150721;07:00;Gross Wages (YoY);Hungary;HUF;1
+CHF_Exports;20150721;06:00;Exports (MoM);Switzerland;CHF;1
+CHF_Imports;20150721;06:00;Imports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20150721;06:00;Trade Balance;Switzerland;CHF;1
+EUR_FinUnemploymentRate;20150721;06:00;Unemployment Rate;Finland;EUR;1
+JPY_CoincidentIndex;20150721;05:00;Coincident Index;Japan;JPY;2
+JPY_LeadingEconomicIndex;20150721;05:00;Leading Economic Index;Japan;JPY;2
+CNY_FDIForeignDirectInvestment;20150721;02:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;1
+AUD_RBAMeetingMinutes;20150721;01:30;RBA Meeting Minutes;Australia;AUD;3
+EUR_BelNationalholiday;20150721;00:00;National holiday ;Belgium;EUR;0

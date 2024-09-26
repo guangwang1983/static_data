@@ -1,0 +1,30 @@
+USD_FedBeigeBook;20130717;18:00;Fed Beige Book;United States;USD;3
+USD_CentralBankSpeech;20130717;16:30;Fed Raskin speech;United States;USD;1
+CAD_BoCPressConference;20130717;15:15;BoC Press Conference;Canada;CAD;3
+CAD_BankofCanadaMonetaryPolicyReport;20130717;14:30;Bank of Canada Monetary Policy Report;Canada;CAD;3
+USD_EIACrudeOilStocksChange;20130717;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+CAD_BoCInterestRateDecision;20130717;14:00;BoC Interest Rate Decision;Canada;CAD;3
+CAD_BoCRateStatement;20130717;14:00;BoC Rate Statement;Canada;CAD;3
+USD_HousingStarts;20130717;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20130717;12:30;Building Permits (MoM);United States;USD;2
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20130717;12:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20130717;12:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+PLN_IndustrialOutput;20130717;12:00;Industrial Output (YoY);Poland;PLN;1
+RUB_UnemploymentRate;20130717;12:00;Unemployment Rate;Russia;RUB;1
+PLN_ProducerPriceIndex;20130717;12:00;Producer Price Index (YoY);Poland;PLN;1
+USD_MBAMortgageApplications;20130717;11:00;MBA Mortgage Applications;United States;USD;1
+ZAR_RetailSales;20130717;11:00;Retail Sales (YoY);South Africa;ZAR;1
+EUR_GerAuction;20130717;09:42;10-y Bond Auction;Germany;EUR;2
+CHF_ZEWSurveyExpectations;20130717;09:00;ZEW Survey - Expectations;Switzerland;CHF;2
+EUR_EurConstructionOutput;20130717;09:00;Construction Output  s.a (MoM);European Monetary Union;EUR;1
+GBP_BoEMPCVoteCut;20130717;08:30;BoE MPC Vote Cut;United Kingdom;GBP;3
+GBP_BoEMPCVoteUnchanged;20130717;08:30;BoE MPC Vote Unchanged;United Kingdom;GBP;3
+GBP_BankofEnglandMinutes;20130717;08:30;Bank of England Minutes;United Kingdom;GBP;3
+GBP_BoEMPCVoteHike;20130717;08:30;BoE MPC Vote Hike;United Kingdom;GBP;3
+GBP_AverageEarningsExcludingBonus;20130717;08:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;1
+GBP_AverageEarningsIncludingBonus;20130717;08:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountChange;20130717;08:30;Claimant Count Change;United Kingdom;GBP;2
+GBP_ClaimantCountRate;20130717;08:30;Claimant Count Rate;United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20130717;08:30;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+CNY_FDIForeignDirectInvestment;20130717;02:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+AUD_WestpacLeadingIndex;20130717;00:30;Westpac Leading Index (MoM);Australia;AUD;2

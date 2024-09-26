@@ -1,0 +1,31 @@
+JPY_BoJInterestRateDecision;20220318;03:00;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_BoJMonetaryPolicyStatement;20220318;03:00;BoJ Monetary Policy Statement ;Japan;JPY;3
+JPY_TertiaryIndustryIndex;20220318;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+JPY_BoJPressConference;20220318;06:00;BoJ Press Conference;Japan;JPY;3
+SEK_UnemploymentRate;20220318;07:00;Unemployment Rate;Sweden;SEK;1
+PLN_IndustrialOutput;20220318;09:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20220318;09:00;Producer Price Index (YoY);Poland;PLN;1
+PLN_CorporateSectorWages;20220318;09:00;Corporate Sector Wages;Poland;PLN;1
+ZAR_BusinessConfidenceIndex;20220318;09:30;Business Confidence Index;South Africa;ZAR;1
+ZAR_UnemploymentRate;20220318;09:30;Unemployment Rate (%);South Africa;ZAR;1
+ZAR_UnemploymentTotal;20220318;09:30;Unemployment Total ;South Africa;ZAR;1
+EUR_EurTradeBalance;20220318;10:00;Trade Balance n.s.a.;European Monetary Union;EUR;1
+EUR_EurLaborCost;20220318;10:00;Labor Cost;European Monetary Union;EUR;2
+RUB_Interestratedecision;20220318;10:30;Interest rate decision;Russia;RUB;2
+CAD_ADPEmploymentChange;20220318;12:30;ADP Employment Change;Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20220318;12:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20220318;12:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_NewHousingPriceIndex;20220318;12:30;New Housing Price Index (YoY);Canada;CAD;1
+CAD_RetailSales;20220318;12:30;Retail Sales ex Autos (MoM);Canada;CAD;2
+USD_USPresidentBidenandChinesePresidentXisummit;20220318;13:00;US President Biden and Chinese President Xi summit;United States;USD;2
+USD_ExistingHomeSales;20220318;14:00;Existing Home Sales (MoM);United States;USD;1
+USD_ExistingHomeSalesChange;20220318;14:00;Existing Home Sales Change (MoM);United States;USD;1
+USD_BakerHughesUSOilRigCount;20220318;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CentralBankSpeech;20220318;18:00;Fed Bowman speech;United States;USD;2
+USD_CFTCS&P500NCNetPositions;20220318;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20220318;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20220318;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20220318;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20220318;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20220318;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20220318;19:30;CFTC AUD NC Net Positions;Australia;AUD;1

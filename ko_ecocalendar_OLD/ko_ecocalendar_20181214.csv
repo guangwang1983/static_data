@@ -1,0 +1,50 @@
+USD_CFTCUSDNCNetPositions;20181214;20:30;CFTC USD NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20181214;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+AUD_CFTCAUDNCNetPositions;20181214;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20181214;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+GBP_CFTCGBPNCNetPositions;20181214;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_BakerHughesUSOilRigCount;20181214;18:00;Baker Hughes US Oil Rig Count;United States;USD;2
+COP_RetailSales;20181214;15:00;Retail Sales (YoY);Colombia;COP;1
+COP_Industrialouput;20181214;15:00;Industrial ouput (YoY);Colombia;COP;1
+USD_BusinessInventories;20181214;15:00;Business Inventories;United States;USD;1
+USD_MarkitManufacturingPMI;20181214;14:45;Markit Manufacturing PMI;United States;USD;2
+USD_MarkitServicesPMI;20181214;14:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20181214;14:45;Markit PMI Composite;United States;USD;2
+USD_IndustrialProduction;20181214;14:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20181214;14:15;Capacity Utilization;United States;USD;2
+USD_RetailSales;20181214;13:30;Retail Sales Control Group;United States;USD;3
+INR_TradeDeficitGovernment;20181214;13:28;Trade Deficit Government;India;INR;1
+PLN_CurrentAccount;20181214;13:00;Current Account;Poland;PLN;1
+INR_FXReservesUSD;20181214;11:30;FX Reserves, USD;India;INR;1
+RUB_Interestratedecision;20181214;10:30;Interest rate decision;Russia;RUB;2
+EUR_EurLabourCost;20181214;10:00;Labour Cost;European Monetary Union;EUR;2
+EUR_ItaConsumerPriceIndex;20181214;10:00;Consumer Price Index (YoY);Italy;EUR;1
+EUR_ItaIndustrialOrders;20181214;09:00;Industrial Orders n.s.a (YoY);Italy;EUR;1
+EUR_ItaIndustrialSales;20181214;09:00;Industrial Sales s.a. (MoM);Italy;EUR;1
+EUR_EurMarkitManufacturingPMI;20181214;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitPMIComposite;20181214;09:00;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20181214;09:00;Markit Services PMI;European Monetary Union;EUR;2
+CZK_CurrentAccount;20181214;09:00;Current Account (MoM);Czech Republic;CZK;1
+EUR_GerMarkitPMIComposite;20181214;08:30;Markit PMI Composite;Germany;EUR;2
+EUR_GerMarkitServicesPMI;20181214;08:30;Markit Services PMI;Germany;EUR;2
+EUR_GerMarkitManufacturingPMI;20181214;08:30;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitServicesPMI;20181214;08:15;Markit Services PMI;France;EUR;1
+EUR_FraMarkitPMIComposite;20181214;08:15;Markit PMI Composite;France;EUR;1
+EUR_FraMarkitManufacturingPMI;20181214;08:15;Markit Manufacturing PMI;France;EUR;1
+EUR_SpaHICP;20181214;08:00;HICP (YoY);Spain;EUR;1
+EUR_SloHeadlineInflation;20181214;08:00;Headline Inflation (YoY);Slovakia;EUR;1
+EUR_SloCoreInflation;20181214;08:00;Core Inflation (YoY);Slovakia;EUR;1
+EUR_SpaConsumerPriceIndex;20181214;08:00;Consumer Price Index (MoM);Spain;EUR;1
+EUR_FinGrossDomesticProduct;20181214;07:00;Gross Domestic Product (YoY);Finland;EUR;1
+EUR_FinCurrentAccount;20181214;07:00;Current Account;Finland;EUR;1
+EUR_GerWholesalePriceIndex;20181214;07:00;Wholesale Price Index (MoM);Germany;EUR;1
+EUR_FinConsumerPriceIndex;20181214;07:00;Consumer Price Index (YoY);Finland;EUR;1
+INR_WPIInflation;20181214;06:30;WPI Inflation;India;INR;1
+EUR_NetRetailSales;20181214;05:30;Retail Sales (YoY);Netherlands, The;EUR;1
+JPY_IndustrialProduction;20181214;04:30;Industrial Production (YoY);Japan;JPY;1
+JPY_CapacityUtilization;20181214;04:30;Capacity Utilization;Japan;JPY;1
+CNY_RetailSales;20181214;02:00;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20181214;02:00;Industrial Production (YoY);China;CNY;2
+CNY_FixedAssetInvestment;20181214;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+JPY_NikkeiManufacturingPMI;20181214;00:30;Nikkei Manufacturing PMI;Japan;JPY;1
+EUR_EurEcoFinMeeting;20181214;00:00;EcoFin Meeting;European Monetary Union;EUR;2

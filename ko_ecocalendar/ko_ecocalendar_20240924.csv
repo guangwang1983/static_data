@@ -1,0 +1,28 @@
+JPY_JibunBankServicesPMI;20240924;00:30;Jibun Bank Services PMI;Japan;JPY;1
+JPY_JibunBankManufacturingPMI;20240924;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+AUD_RBARateStatement;20240924;04:30;RBA Rate Statement;Australia;AUD;3
+AUD_RBAInterestRateDecision;20240924;04:30;RBA Interest Rate Decision;Australia;AUD;3
+JPY_CentralBankSpeech;20240924;05:05;BoJ Governor Ueda speech;Japan;JPY;3
+AUD_RBAPressConference;20240924;05:30;RBA Press Conference;Australia;AUD;3
+TRY_CapacityUtilization;20240924;07:00;Capacity Utilization;Turkey;TRY;1
+TRY_ManufacturingConfidence;20240924;07:00;Manufacturing Confidence;Turkey;TRY;1
+EUR_GerIFO–Expectations;20240924;08:00;IFO – Expectations;Germany;EUR;2
+EUR_GerIFO–CurrentAssessment;20240924;08:00;IFO – Current Assessment;Germany;EUR;2
+EUR_GerIFO–BusinessClimate;20240924;08:00;IFO – Business Climate;Germany;EUR;2
+TRY_ForeignArrivals;20240924;08:00;Foreign Arrivals;Turkey;TRY;1
+PLN_Unemployment;20240924;08:00;Unemployment (MoM);Poland;PLN;1
+MXN_1sthalfmonthCoreInflation;20240924;12:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20240924;12:00;1st half-month Inflation;Mexico;MXN;1
+HUF_MNBInterestRateDecision;20240924;12:00;MNB Interest Rate Decision;Hungary;HUF;1
+USD_RedbookIndex;20240924;12:55;Redbook Index (YoY);United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20240924;13:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;1
+USD_HousingPriceIndex;20240924;13:00;Housing Price Index (MoM);United States;USD;2
+USD_CentralBankSpeech;20240924;13:00;Fed Bowman speech;United States;USD;2
+USD_ConsumerConfidence;20240924;14:00;Consumer Confidence;United States;USD;2
+USD_RichmondFedManufacturingIndex;20240924;14:00;Richmond Fed Manufacturing Index;United States;USD;1
+EUR_GerCentralBankSpeech;20240924;16:00;German Buba President Nagel speech;Germany;EUR;2
+USD_Auction;20240924;17:00;2-Year Note Auction;United States;USD;1
+CAD_CentralBankSpeech;20240924;17:10;BoC Governor Macklem speech;Canada;CAD;3
+USD_APIWeeklyCrudeOilStock;20240924;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_ConsumerSentimentIndex;20240924;21:00;Consumer Sentiment Index;South Korea;KRW;1
+JPY_CorporateServicePriceIndex;20240924;23:50;Corporate Service Price Index (YoY);Japan;JPY;1

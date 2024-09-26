@@ -1,0 +1,27 @@
+AUD_RBAMeetingMinutes;20200421;01:30;RBA Meeting Minutes;Australia;AUD;3
+BRL_TiradentesDay;20200421;03:00;Tiradentes Day;Brazil;BRL;0
+AUD_CentralBankSpeech;20200421;05:00;RBA Governor Lowe speech;Australia;AUD;3
+CHF_TradeBalance;20200421;06:00;Trade Balance;Switzerland;CHF;1
+CHF_Exports;20200421;06:00;Exports (MoM);Switzerland;CHF;1
+GBP_ILOUnemploymentRate;20200421;06:00;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_AverageEarningsIncludingBonus;20200421;06:00;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;3
+GBP_ClaimantCountChange;20200421;06:00;Claimant Count Change;United Kingdom;GBP;2
+GBP_AverageEarningsExcludingBonus;20200421;06:00;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountRate;20200421;06:00;Claimant Count Rate;United Kingdom;GBP;1
+CHF_Imports;20200421;06:06;Imports (MoM);Switzerland;CHF;1
+CZK_ProducerPriceIndex;20200421;07:00;Producer Price Index (YoY);Czech Republic;CZK;1
+SEK_UnemploymentRate;20200421;07:30;Unemployment Rate;Sweden;SEK;1
+PLN_IndustrialOutput;20200421;08:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20200421;08:00;Producer Price Index (YoY);Poland;PLN;1
+EUR_GerZEWSurvey–EconomicSentiment;20200421;09:00;ZEW Survey – Economic Sentiment;Germany;EUR;3
+EUR_GerZEWSurvey–CurrentSituation;20200421;09:00;ZEW Survey – Current Situation;Germany;EUR;2
+EUR_EurZEWSurvey–EconomicSentiment;20200421;09:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;2
+CAD_RetailSales;20200421;12:30;Retail Sales ex Autos (MoM);Canada;CAD;2
+USD_RedbookIndex;20200421;12:55;Redbook Index (YoY);United States;USD;1
+USD_ExistingHomeSales;20200421;14:00;Existing Home Sales (MoM);United States;USD;2
+USD_ExistingHomeSalesChange;20200421;14:00;Existing Home Sales Change (MoM);United States;USD;1
+NZD_GDTPriceIndex;20200421;14:00;GDT Price Index;New Zealand;NZD;2
+COP_TradeBalance;20200421;15:00;Trade Balance;Colombia;COP;1
+USD_Auction;20200421;15:30;52-Week Bill Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20200421;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_ProducerPriceIndex;20200421;21:00;Producer Price Index Growth (YoY);South Korea;KRW;1

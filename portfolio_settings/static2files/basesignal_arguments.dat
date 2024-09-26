@@ -1,0 +1,1 @@
+/dat/matterhorn/bin/scripts/python/createBaseSignalPortfolio.py --pwindow 200 --stime 08:00:00 --etime 21:30:00 --sdate 20150101 --edate 20200605 --grid 60Min --segment 0800_2100 --noprocesses 50 --sfb 0.1 --smb 1 --tfb 20 --gridbase 0 --expand True

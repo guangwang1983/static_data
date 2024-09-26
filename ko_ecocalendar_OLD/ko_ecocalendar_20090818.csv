@@ -1,0 +1,13 @@
+NZD_ProducerPriceIndex;20090818;22:45;Producer Price Index - Output (QoQ);New Zealand;NZD;1
+USD_HousingStarts;20090818;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20090818;12:30;Building Permits (MoM);United States;USD;2
+USD_ProducerPriceIndex;20090818;12:30;Producer Price Index ex Food & Energy (MoM);United States;USD;2
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20090818;12:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20090818;12:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;2
+EUR_EurZEWSurveyEconomicSentiment;20090818;09:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;1
+EUR_GerZEWSurveyEconomicSentiment;20090818;09:00;ZEW Survey - Economic Sentiment;Germany;EUR;3
+GBP_RetailPriceIndex;20090818;08:30;Retail Price Index (MoM);United Kingdom;GBP;2
+GBP_ConsumerPriceIndex;20090818;08:30;Core Consumer Price Index (YoY);United Kingdom;GBP;2
+JPY_LeadingEconomicIndex;20090818;05:00;Leading Economic Index;Japan;JPY;2
+JPY_CoincidentIndex;20090818;05:00;Coincident Index;Japan;JPY;1
+AUD_RBAMeetingMinutes;20090818;01:30;RBA Meeting Minutes;Australia;AUD;2

@@ -1,0 +1,38 @@
+JPY_MerchandiseTradeBalanceTotal;20180417;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Imports;20180417;23:50;Imports (YoY);Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20180417;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;2
+JPY_Exports;20180417;23:50;Exports (YoY);Japan;JPY;2
+USD_CentralBankSpeech;20180417;21:40;Fed Bostic speech;United States;USD;2
+USD_APIWeeklyCrudeOilStock;20180417;20:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_Auction;20180417;15:30;4-Week Bill Auction;United States;USD;1
+NZD_GDTPriceIndex;20180417;14:30;GDT Price Index;New Zealand;NZD;2
+USD_IndustrialProduction;20180417;13:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20180417;13:15;Capacity Utilization;United States;USD;2
+RUB_ProducerPriceIndex;20180417;13:00;Producer Price Index (MoM);Russia;RUB;1
+USD_RedbookIndex;20180417;12:55;Redbook Index (YoY);United States;USD;1
+USD_HousingStarts;20180417;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermitsChange;20180417;12:30;Building Permits Change;United States;USD;1
+USD_HousingStartsChange;20180417;12:30;Housing Starts Change;United States;USD;1
+USD_BuildingPermits;20180417;12:30;Building Permits (MoM);United States;USD;2
+CAD_ManufacturingShipments;20180417;12:30;Manufacturing Shipments (MoM);Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20180417;12:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20180417;12:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+EUR_ItaTradeBalanceEU;20180417;09:00;Trade Balance EU;Italy;EUR;1
+EUR_ItaGlobalTradeBalance;20180417;09:00;Global Trade Balance;Italy;EUR;1
+EUR_GerZEWSurveyEconomicSentiment;20180417;09:00;ZEW Survey - Economic Sentiment;Germany;EUR;2
+EUR_EurZEWSurveyEconomicSentiment;20180417;09:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;1
+EUR_GerZEWSurveyCurrentSituation;20180417;09:00;ZEW Survey - Current Situation;Germany;EUR;2
+GBP_AverageEarningsExcludingBonus;20180417;08:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;3
+GBP_ClaimantCountRate;20180417;08:30;Claimant Count Rate;United Kingdom;GBP;1
+GBP_ClaimantCountChange;20180417;08:30;Claimant Count Change;United Kingdom;GBP;2
+GBP_AverageEarningsIncludingBonus;20180417;08:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;3
+GBP_ILOUnemploymentRate;20180417;08:30;ILO Unemployment Rate (3M);United Kingdom;GBP;2
+EUR_ItaConsumerPriceIndex;20180417;08:00;Consumer Price Index (EU Norm) (YoY);Italy;EUR;1
+JPY_IndustrialProduction;20180417;04:30;Industrial Production (YoY);Japan;JPY;1
+JPY_CapacityUtilization;20180417;04:30;Capacity Utilization;Japan;JPY;1
+CNY_RetailSales;20180417;02:00;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20180417;02:00;Industrial Production (YoY);China;CNY;2
+CNY_NBSPressConference;20180417;02:00;NBS Press Conference;China;CNY;2
+CNY_FixedAssetInvestment;20180417;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+CNY_GrossDomesticProduct;20180417;02:00;Gross Domestic Product (YoY);China;CNY;3
+AUD_RBAMeetingMinutes;20180417;01:30;RBA Meeting Minutes;Australia;AUD;3

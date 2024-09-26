@@ -1,0 +1,29 @@
+CNY_HousePriceIndex;20240715;01:30;House Price Index ;China;CNY;1
+CNY_RetailSales;20240715;02:00;Retail Sales (YoY);China;CNY;3
+CNY_IndustrialProduction;20240715;02:00;Industrial Production (YoY);China;CNY;3
+CNY_FixedAssetInvestment;20240715;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+CNY_GrossDomesticProduct;20240715;02:00;Gross Domestic Product (YoY);China;CNY;3
+KRW_MoneySupplyGrowth;20240715;03:00;Money Supply Growth;South Korea;KRW;1
+IDR_Exports;20240715;04:00;Exports;Indonesia;IDR;1
+IDR_TradeBalance;20240715;04:00;Trade Balance;Indonesia;IDR;1
+IDR_Imports;20240715;04:00;Imports;Indonesia;IDR;1
+EUR_GerRetailSales;20240715;06:00;Retail Sales (MoM);Germany;EUR;2
+INR_WPIInflation;20240715;06:30;WPI Inflation;India;INR;1
+CHF_ProducerandImportPrices;20240715;06:30;Producer and Import Prices (YoY);Switzerland;CHF;1
+EUR_EurEurogroupMeeting;20240715;07:00;Eurogroup Meeting;Eurozone;EUR;2
+PLN_ConsumerPriceIndex;20240715;08:00;Consumer Price Index (YoY);Poland;PLN;1
+CZK_CurrentAccount;20240715;08:00;Current Account (MoM);Czech Republic;CZK;1
+EUR_EurIndustrialProduction;20240715;09:00;Industrial Production w.d.a. (YoY);Eurozone;EUR;1
+INR_TradeDeficitGovernment;20240715;11:00;Trade Deficit Government;India;INR;1
+PLN_CurrentAccount;20240715;12:00;Current Account;Poland;PLN;1
+USD_NYEmpireStateManufacturingIndex;20240715;12:30;NY Empire State Manufacturing Index;United States;USD;2
+CAD_ManufacturingSales;20240715;12:30;Manufacturing Sales (MoM);Canada;CAD;1
+CAD_WholesaleSales;20240715;12:30;Wholesale Sales (MoM);Canada;CAD;1
+CAD_BankofCanadaBusinessOutlookSurvey;20240715;14:30;Bank of Canada Business Outlook Survey;Canada;CAD;2
+USD_CentralBankSpeech;20240715;14:35;Fed Daly speech;United States;USD;2
+COP_RetailSales;20240715;15:00;Retail Sales (YoY);Colombia;COP;1
+COP_Industrialoutput;20240715;15:00;Industrial output (YoY);Colombia;COP;1
+USD_Auction;20240715;15:30;3-Month Bill Auction;United States;USD;1
+ILS_ConsumerPriceIndex;20240715;15:30;Consumer Price Index (MoM);Israel;ILS;1
+KRW_ImportPriceGrowth;20240715;21:00;Import Price Growth (YoY);South Korea;KRW;1
+KRW_ExportPriceGrowth;20240715;21:00;Export Price Growth (YoY);South Korea;KRW;1

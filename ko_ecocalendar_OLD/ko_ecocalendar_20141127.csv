@@ -1,0 +1,56 @@
+JPY_IndustrialProduction;20141127;23:50;Industrial Production (MoM);Japan;JPY;1
+JPY_ForeignBondInvestment;20141127;23:50;Foreign Bond Investment;Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20141127;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_LargeRetailers'Sales;20141127;23:50;Large Retailers' Sales;Japan;JPY;2
+JPY_RetailTrade;20141127;23:50;Retail Trade (YoY);Japan;JPY;2
+JPY_TokyoCPIexFreshFood;20141127;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;1
+JPY_ConsumerPriceIndex;20141127;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;1
+JPY_TokyoCPIexFoodEnergy;20141127;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;1
+JPY_NationalCPIexFoodEnergy;20141127;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20141127;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_JobsApplicantsRatio;20141127;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+JPY_UnemploymentRate;20141127;23:30;Unemployment Rate;Japan;JPY;2
+JPY_OverallHouseholdSpending;20141127;23:30;Overall Household Spending (YoY);Japan;JPY;2
+KRW_IndustrialOutputGrowth;20141127;23:00;Industrial Output Growth;South Korea;KRW;1
+KRW_ServiceSectorOutput;20141127;23:00;Service Sector Output;South Korea;KRW;1
+KRW_IndustrialOutput;20141127;23:00;Industrial Output (YoY);South Korea;KRW;1
+NZD_BuildingPermits;20141127;21:45;Building Permits s.a. (MoM);New Zealand;NZD;1
+KRW_BOKManufacturingBSI;20141127;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+USD_OPECMeeting;20141127;14:00;OPEC Meeting;United States;USD;1
+CAD_CurrentAccount;20141127;13:30;Current Account;Canada;CAD;1
+EUR_GerConsumerPriceIndex;20141127;13:00;Consumer Price Index (MoM);Germany;EUR;2
+EUR_GerHarmonizedIndexofConsumerPrices;20141127;13:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+EUR_GerGfkConsumerConfidenceSurvey;20141127;12:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+RUB_CentralBankReserves;20141127;11:00;Central Bank Reserves $;Russia;RUB;1
+EUR_ItaAuction;20141127;10:43;5-y Bond Auction;Italy;EUR;1
+EUR_SpaHousePriceIndex;20141127;10:00;House Price Index (QoQ);Spain;EUR;1
+BRL_InflationIndexIGPM;20141127;10:00;Inflation Index/IGP-M;Brazil;BRL;1
+EUR_EurEUFinancialStabilityReview;20141127;10:00;EU Financial Stability Review;European Monetary Union;EUR;2
+EUR_EurConsumerConfidence;20141127;10:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurBusinessClimate;20141127;10:00;Business Climate;European Monetary Union;EUR;1
+EUR_EurEconomicSentimentIndicator;20141127;10:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+EUR_EurIndustrialConfidence;20141127;10:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_EurServicesSentiment;20141127;10:00;Services Sentiment;European Monetary Union;EUR;1
+EUR_PorBusinessConfidence;20141127;09:40;Business Confidence;Portugal;EUR;1
+EUR_PorConsumerConfidence;20141127;09:39;Consumer Confidence;Portugal;EUR;1
+ZAR_ProducerPriceIndex;20141127;09:30;Producer Price Index (MoM);South Africa;ZAR;1
+EUR_BelConsumerPriceIndex;20141127;09:30;Consumer Price Index (MoM);Belgium;EUR;1
+EUR_ItaBusinessConfidence;20141127;09:00;Business Confidence;Italy;EUR;1
+EUR_EurCentralBankSpeech;20141127;09:00;ECB President Draghi speech;European Monetary Union;EUR;3
+EUR_AusPurchasingManagerIndex;20141127;09:00;Purchasing Manager Index;Austria;EUR;1
+EUR_EurM3MoneySupply;20141127;09:00;M3 Money Supply (3m);European Monetary Union;EUR;1
+EUR_EurPrivateLoans;20141127;09:00;Private Loans (YoY);European Monetary Union;EUR;1
+EUR_GerUnemploymentChange;20141127;08:55;Unemployment Change;Germany;EUR;3
+EUR_GerUnemploymentRate;20141127;08:55;Unemployment Rate s.a.;Germany;EUR;3
+CHF_IndustrialProduction;20141127;08:15;Industrial Production (QoQ);Switzerland;CHF;2
+EUR_SpaHICP;20141127;08:00;HICP (YoY);Spain;EUR;1
+TRY_ConsumerConfidence;20141127;08:00;Consumer Confidence;Turkey;TRY;1
+DKK_IndustrialOutlook;20141127;08:00;Industrial Outlook;Denmark;DKK;1
+HUF_UnemploymentRate;20141127;08:00;Unemployment Rate (3M);Hungary;HUF;1
+DKK_UnemploymentRate;20141127;08:00;Unemployment Rate;Denmark;DKK;1
+EUR_SpaGrossDomesticProduct;20141127;08:00;Gross Domestic Product (QoQ);Spain;EUR;1
+EUR_FinConsumerConfidence;20141127;07:00;Consumer Confidence;Finland;EUR;1
+EUR_FinIndustrialConfidence;20141127;07:00;Industrial Confidence;Finland;EUR;1
+AUD_PrivateCapitalExpenditure;20141127;00:30;Private Capital Expenditure;Australia;AUD;1
+AUD_HIANewHomeSales;20141127;00:00;HIA New Home Sales (MoM);Australia;AUD;2
+USD_ThanksgivingDay;20141127;00:00;Thanksgiving Day;United States;USD;0

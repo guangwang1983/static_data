@@ -1,0 +1,42 @@
+CNY_NonManufacturingPMI;20210531;01:00;Non-Manufacturing PMI;China;CNY;3
+CNY_NBSManufacturingPMI;20210531;01:00;NBS Manufacturing PMI;China;CNY;3
+AUD_TDSecuritiesInflation;20210531;01:00;TD Securities Inflation (MoM);Australia;AUD;2
+NZD_ANZActivityOutlook;20210531;01:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20210531;01:00;ANZ Business Confidence;New Zealand;NZD;1
+AUD_PrivateSectorCredit;20210531;01:30;Private Sector Credit (MoM);Australia;AUD;1
+JPY_ConstructionOrders;20210531;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_HousingStarts;20210531;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_AnnualizedHousingStarts;20210531;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_ConsumerConfidenceIndex;20210531;05:00;Consumer Confidence Index;Japan;JPY;1
+USD_MemorialDay;20210531;05:00;Memorial Day;United States;USD;0
+DKK_UnemploymentRate;20210531;06:00;Unemployment Rate;Denmark;DKK;1
+DKK_GrossDomesticProduct;20210531;06:00;Gross Domestic Product (YoY);Denmark;DKK;1
+NOK_CreditIndicator;20210531;06:00;Credit Indicator;Norway;NOK;1
+ZAR_M3MoneySupply;20210531;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+ZAR_PrivateSectorCredit;20210531;06:00;Private Sector Credit;South Africa;ZAR;1
+TRY_GrossDomesticProduct;20210531;07:00;Quarterly Gross Domestic Product;Turkey;TRY;1
+HUF_ProducerPriceIndex;20210531;07:00;Producer Price Index (YoY);Hungary;HUF;1
+PLN_GrossDomesticProduct;20210531;08:00;Gross Domestic Product Qtr (YoY);Poland;PLN;1
+EUR_EurM3MoneySupply;20210531;08:00;M3 Money Supply (3m);European Monetary Union;EUR;1
+EUR_EurPrivateLoans;20210531;08:00;Private Loans (YoY);European Monetary Union;EUR;1
+EUR_ItaConsumerPriceIndex;20210531;09:00;Consumer Price Index (EU Norm) (MoM);Italy;EUR;1
+INR_FederalFiscalDeficitINR;20210531;10:00;Federal Fiscal Deficit, INR;India;INR;1
+EUR_GerConsumerPriceIndex;20210531;12:00;Consumer Price Index (MoM);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20210531;12:00;Harmonized Index of Consumer Prices (MoM);Germany;EUR;1
+INR_InfrastructureOutput;20210531;12:00;Infrastructure Output (YoY);India;INR;1
+INR_GrossDomesticProduct;20210531;12:00;Gross Domestic Product Quarterly (YoY);India;INR;1
+ZAR_TradeBalance;20210531;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+CAD_IndustrialProductPrice;20210531;12:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_RawMaterialPriceIndex;20210531;12:30;Raw Material Price Index;Canada;CAD;1
+CAD_CurrentAccount;20210531;12:30;Current Account;Canada;CAD;2
+BRL_NominalBudgetBalance;20210531;12:30;Nominal Budget Balance;Brazil;BRL;1
+BRL_PrimaryBudgetSurplus;20210531;12:30;Primary Budget Surplus;Brazil;BRL;1
+CLP_Unemploymentrate;20210531;13:00;Unemployment rate;Chile;CLP;1
+ILS_BoIInterestRateDecision;20210531;13:00;BoI Interest Rate Decision;Israel;ILS;1
+CLP_IndustrialProduction;20210531;13:00;Industrial Production (YoY);Chile;CLP;1
+COP_NationalJoblessRate;20210531;16:00;National Jobless Rate;Colombia;COP;1
+IDR_PancasilaDay;20210531;17:00;Pancasila Day;Indonesia;IDR;0
+AUD_AiGPerformanceofMfgIndex;20210531;22:30;AiG Performance of Mfg Index;Australia;AUD;2
+NZD_BuildingPermits;20210531;22:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+AUD_S&PGlobalManufacturingPMI;20210531;23:00;S&P Global Manufacturing PMI;Australia;AUD;1
+JPY_CapitalSpending;20210531;23:50;Capital Spending;Japan;JPY;1

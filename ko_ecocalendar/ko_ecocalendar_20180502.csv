@@ -1,0 +1,38 @@
+JPY_JibunBankServicesPMI;20180502;00:30;Jibun Bank Services PMI;Japan;JPY;1
+KRW_S&PGlobalManufacturingPMI;20180502;00:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+CNY_CaixinManufacturingPMI;20180502;01:45;Caixin Manufacturing PMI;China;CNY;2
+IDR_Inflation;20180502;04:00;Inflation (MoM);Indonesia;IDR;1
+IDR_CoreInflation;20180502;04:00;Core Inflation (YoY);Indonesia;IDR;1
+JPY_ConsumerConfidenceIndex;20180502;05:00;Consumer Confidence Index;Japan;JPY;1
+CHF_SECOConsumerClimate;20180502;05:45;SECO Consumer Climate (3m);Switzerland;CHF;2
+SEK_PurchasingManagersIndexManufacturing;20180502;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+EUR_EurNonMonetaryPolicyECBMeeting;20180502;07:00;Non-Monetary Policy ECB Meeting;European Monetary Union;EUR;2
+HUF_PurchasingManagerIndex;20180502;07:00;Purchasing Manager Index;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20180502;07:00;Purchasing Manager Index;Poland;PLN;2
+CHF_RetailSales;20180502;07:15;Real Retail Sales (YoY);Switzerland;CHF;2
+CHF_SVMEPurchasingManagers'Index;20180502;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_S&PGlobalPMI;20180502;07:30;S&P Global PMI;Czech Republic;CZK;1
+EUR_ItaHCOBManufacturingPMI;20180502;07:45;HCOB Manufacturing PMI;Italy;EUR;1
+EUR_FraHCOBManufacturingPMI;20180502;07:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerHCOBManufacturingPMI;20180502;07:55;HCOB Manufacturing PMI;Germany;EUR;2
+PLN_ConsumerPriceIndex;20180502;08:00;Consumer Price Index (MoM);Poland;PLN;1
+EUR_ItaUnemployment;20180502;08:00;Unemployment;Italy;EUR;1
+EUR_EurHCOBManufacturingPMI;20180502;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+GBP_S&PGlobalConstructionPMI;20180502;08:30;S&P Global Construction PMI;United Kingdom;GBP;2
+EUR_EurGrossDomesticProduct;20180502;09:00;Gross Domestic Product s.a. (QoQ);European Monetary Union;EUR;3
+EUR_EurUnemploymentRate;20180502;09:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_ItaGrossDomesticProduct;20180502;09:00;Gross Domestic Product (QoQ);Italy;EUR;2
+TRY_Exports;20180502;09:00;Exports;Turkey;TRY;1
+USD_MBAMortgageApplications;20180502;11:00;MBA Mortgage Applications;United States;USD;1
+CZK_BudgetBalance;20180502;12:00;Budget Balance;Czech Republic;CZK;1
+USD_ADPEmploymentChange;20180502;12:15;ADP Employment Change;United States;USD;2
+ZAR_TotalNewVehicleSales;20180502;13:00;Total New Vehicle Sales;South Africa;ZAR;1
+BRL_S&PGlobalManufacturingPMI;20180502;13:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+USD_ISMNYBusinessConditionsIndex;20180502;13:59;ISM-NY Business Conditions Index;United States;USD;1
+DKK_CurrencyReserves;20180502;14:00;Currency Reserves;Denmark;DKK;1
+USD_EIACrudeOilStocksChange;20180502;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+EUR_GerCentralBankSpeech;20180502;15:30;German Buba President Weidmann speech;Germany;EUR;2
+USD_FedMonetaryPolicyStatement;20180502;18:00;Fed Monetary Policy Statement;United States;USD;3
+USD_FedInterestRateDecision;20180502;18:00;Fed Interest Rate Decision;United States;USD;3
+BRL_TradeBalance;20180502;19:00;Trade Balance;Brazil;BRL;1
+AUD_AiGPerformanceofServicesIndex;20180502;22:30;AiG Performance of Services Index;Australia;AUD;1

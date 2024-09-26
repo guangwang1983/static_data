@@ -1,0 +1,25 @@
+EUR_GerHarmonizedIndexofConsumerPrices;20240116;07:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+EUR_GerConsumerPriceIndex;20240116;07:00;Consumer Price Index (MoM);Germany;EUR;1
+GBP_EmploymentChange;20240116;07:00;Employment Change;United Kingdom;GBP;3
+GBP_ClaimantCountChange;20240116;07:00;Claimant Count Change;United Kingdom;GBP;3
+GBP_ClaimantCountRate;20240116;07:00;Claimant Count Rate;United Kingdom;GBP;2
+GBP_AverageEarningsExcludingBonus;20240116;07:00;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20240116;07:00;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_AverageEarningsIncludingBonus;20240116;07:00;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+EUR_EurEcoFinMeeting;20240116;07:00;EcoFin Meeting;Eurozone;EUR;2
+EUR_ItaConsumerPriceIndex;20240116;09:00;Consumer Price Index (MoM);Italy;EUR;1
+EUR_GerZEWSurvey–EconomicSentiment;20240116;10:00;ZEW Survey – Economic Sentiment;Germany;EUR;2
+EUR_GerZEWSurvey–CurrentSituation;20240116;10:00;ZEW Survey – Current Situation;Germany;EUR;2
+EUR_EurZEWSurvey–EconomicSentiment;20240116;10:00;ZEW Survey – Economic Sentiment;Eurozone;EUR;2
+EUR_GerAuction;20240116;10:30;5-y Note Auction;Germany;EUR;1
+ILS_GrossDomesticProduct;20240116;11:00;Gross Domestic Product (QoQ);Israel;ILS;1
+EUR_GerCentralBankSpeech;20240116;11:10;German Buba President Nagel speech;Germany;EUR;2
+PLN_NetInflation;20240116;13:00;Net Inflation;Poland;PLN;1
+CAD_HousingStarts;20240116;13:15;Housing Starts s.a (YoY);Canada;CAD;1
+USD_NYEmpireStateManufacturingIndex;20240116;13:30;NY Empire State Manufacturing Index;United States;USD;2
+CAD_ConsumerPriceIndex;20240116;13:30;Consumer Price Index - Core (MoM);Canada;CAD;1
+NZD_GDTPriceIndex;20240116;14:30;GDT Price Index;New Zealand;NZD;1
+USD_CentralBankSpeech;20240116;16:00;Fed Waller speech;United States;USD;2
+USD_Auction;20240116;16:30;3-Month Bill Auction;United States;USD;1
+NZD_RetailSales;20240116;21:45;Electronic Card Retail Sales (YoY);New Zealand;NZD;1
+CHF_WorldEconomicForumDavos;20240116;23:00;World Economic Forum - Davos;Switzerland;CHF;2

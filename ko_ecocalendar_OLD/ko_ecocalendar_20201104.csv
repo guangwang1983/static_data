@@ -1,0 +1,41 @@
+KRW_CurrentAccount;20201104;23:00;Current Account Balance;South Korea;KRW;1
+USD_EIACrudeOilStocksChange;20201104;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+EUR_EurCentralBankSpeech;20201104;15:00;ECB Schnabel speech;European Monetary Union;EUR;2
+USD_ISMServicesPricesPaid;20201104;15:00;ISM Services Prices Paid;United States;USD;2
+USD_ISMServicesEmploymentIndex;20201104;15:00;ISM Services Employment Index;United States;USD;2
+USD_ISMServicesPMI;20201104;15:00;ISM Services PMI;United States;USD;3
+USD_ISMServicesNewOrdersIndex;20201104;15:00;ISM Services New Orders Index;United States;USD;2
+USD_MarkitServicesPMI;20201104;14:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20201104;14:45;Markit PMI Composite;United States;USD;2
+PLN_NBPBaserate;20201104;14:00;NBP Base rate;Poland;PLN;1
+USD_TradeBalance;20201104;13:30;Trade Balance;United States;USD;2
+CAD_Imports;20201104;13:30;Imports;Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20201104;13:30;International Merchandise Trade;Canada;CAD;1
+CAD_Exports;20201104;13:30;Exports;Canada;CAD;1
+USD_ADPEmploymentChange;20201104;13:15;ADP Employment Change;United States;USD;3
+BRL_IndustrialOutput;20201104;13:00;Industrial Output (YoY);Brazil;BRL;1
+RON_Interestratedecision;20201104;13:00;Interest rate decision;Romania;RON;1
+USD_MBAMortgageApplications;20201104;12:00;MBA Mortgage Applications;United States;USD;1
+BRL_FipeIPCInflation;20201104;12:00;Fipe IPC Inflation;Brazil;BRL;1
+INR_M3MoneySupply;20201104;11:30;M3 Money Supply;India;INR;1
+EUR_PorUnemploymentRate;20201104;11:00;Unemployment Rate;Portugal;EUR;1
+EUR_EurEuropeanCommissionreleasesEconomicGrowthForecasts;20201104;10:00;European Commission releases Economic Growth Forecasts;European Monetary Union;EUR;2
+EUR_EurProducerPriceIndex;20201104;10:00;Producer Price Index (YoY);European Monetary Union;EUR;1
+GBP_MarkitServicesPMI;20201104;09:30;Markit Services PMI;United Kingdom;GBP;1
+CZK_UnemploymentRate;20201104;09:00;Unemployment Rate;Czech Republic;CZK;1
+EUR_EurMarkitServicesPMI;20201104;09:00;Markit Services PMI;European Monetary Union;EUR;1
+EUR_EurMarkitPMIComposite;20201104;09:00;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_GerMarkitServicesPMI;20201104;08:55;Markit Services PMI;Germany;EUR;1
+EUR_GerMarkitPMIComposite;20201104;08:55;Markit PMI Composite;Germany;EUR;2
+EUR_FraMarkitPMIComposite;20201104;08:50;Markit PMI Composite;France;EUR;1
+EUR_FraMarkitServicesPMI;20201104;08:50;Markit Services PMI;France;EUR;1
+EUR_ItaMarkitServicesPMI;20201104;08:45;Markit Services PMI;Italy;EUR;2
+EUR_SpaMarkitServicesPMI;20201104;08:15;Markit Services PMI;Spain;EUR;2
+EUR_SpaUnemploymentChange;20201104;08:00;Unemployment Change;Spain;EUR;1
+EUR_EurEcoFinMeeting;20201104;07:00;EcoFin Meeting;European Monetary Union;EUR;2
+JPY_Auction;20201104;03:35;10-y Bond Auction;Japan;JPY;1
+CNY_CaixinServicesPMI;20201104;01:45;Caixin Services PMI;China;CNY;2
+EUR_IrePurchasingManagerIndexServices;20201104;01:01;Purchasing Manager Index Services;Ireland;EUR;1
+HKD_NikkeiManufacturingPMI;20201104;00:30;Nikkei Manufacturing PMI;Hong Kong SAR;HKD;1
+AUD_RetailSales;20201104;00:30;Retail Sales s.a. (MoM);Australia;AUD;3
+NZD_ANZCommodityPrice;20201104;00:00;ANZ Commodity Price;New Zealand;NZD;1

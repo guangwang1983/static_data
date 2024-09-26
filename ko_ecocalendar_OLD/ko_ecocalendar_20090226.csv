@@ -1,0 +1,29 @@
+JPY_IndustrialProduction;20090226;23:50;Industrial Production (MoM);Japan;JPY;1
+JPY_RetailTrade;20090226;23:50;Retail Trade s.a (MoM);Japan;JPY;2
+JPY_LargeRetailers'Sales;20090226;23:50;Large Retailers' Sales;Japan;JPY;1
+JPY_TokyoCPIexFoodEnergy;20090226;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_TokyoCPIexFreshFood;20090226;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;1
+JPY_ConsumerPriceIndex;20090226;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;2
+JPY_NationalCPIexFoodEnergy;20090226;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_UnemploymentRate;20090226;23:30;Unemployment Rate;Japan;JPY;2
+JPY_OverallHouseholdSpending;20090226;23:30;Overall Household Spending (YoY);Japan;JPY;1
+JPY_NikkeiManufacturingPMI;20090226;23:15;Nikkei Manufacturing PMI;Japan;JPY;1
+NZD_BuildingPermits;20090226;21:45;Building Permits s.a. (MoM);New Zealand;NZD;1
+NZD_VisitorArrivals;20090226;21:45;Visitor Arrivals (YoY);New Zealand;NZD;1
+USD_NewHomeSalesChange;20090226;15:00;New Home Sales Change (MoM);United States;USD;2
+USD_NewHomeSales;20090226;15:00;New Home Sales (MoM);United States;USD;2
+USD_BarackObamaPressConference;20090226;14:30;Barack Obama Press Conference;United States;USD;1
+USD_JoblessClaims;20090226;13:30;Initial Jobless Claims;United States;USD;0
+USD_DurableGoodsOrders;20090226;13:30;Durable Goods Orders ex Transportation;United States;USD;2
+GBP_CentralBankSpeech;20090226;10:30;BoE Governor King speech;United Kingdom;GBP;2
+EUR_EurEconomicSentimentIndicator;20090226;10:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+EUR_EurIndustrialConfidence;20090226;10:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_EurConsumerConfidence;20090226;10:00;Consumer Confidence;European Monetary Union;EUR;1
+EUR_EurM3MoneySupply;20090226;09:00;M3 Money Supply (YoY);European Monetary Union;EUR;1
+EUR_GerUnemploymentRate;20090226;08:55;Unemployment Rate s.a.;Germany;EUR;2
+EUR_GerUnemploymentChange;20090226;08:55;Unemployment Change;Germany;EUR;1
+EUR_GerGfkConsumerConfidenceSurvey;20090226;07:00;Gfk Consumer Confidence Survey;Germany;EUR;1
+GBP_NationwideHousingPrices;20090226;07:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;0
+NZD_M3MoneySupply;20090226;02:00;M3 Money Supply (YoY);New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20090226;02:00;ANZ Business Confidence;New Zealand;NZD;1
+AUD_PrivateCapitalExpenditure;20090226;01:30;Private Capital Expenditure;Australia;AUD;1

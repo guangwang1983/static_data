@@ -1,0 +1,25 @@
+JPY_CorporateServicePrice;20180625;23:50;Corporate Service Price (YoY);Japan;JPY;1
+KRW_ConsumerSentimentIndex;20180625;21:00;Consumer Sentiment Index;South Korea;KRW;1
+USD_Auction;20180625;15:30;6-Month Bill Auction;United States;USD;1
+USD_DallasFedManufacturingBusinessIndex;20180625;14:30;Dallas Fed Manufacturing Business Index;United States;USD;1
+USD_NewHomeSalesChange;20180625;14:00;New Home Sales Change (MoM);United States;USD;1
+USD_NewHomeSales;20180625;14:00;New Home Sales (MoM);United States;USD;2
+BRL_CurrentAccount;20180625;13:30;Current Account;Brazil;BRL;1
+MXN_RetailSales;20180625;13:00;Retail Sales (YoY);Mexico;MXN;1
+USD_ChicagoFedNationalActivityIndex;20180625;12:30;Chicago Fed National Activity Index ;United States;USD;2
+TRY_ManufacturingConfidence;20180625;11:30;Manufacturing Confidence;Turkey;TRY;1
+TRY_CapacityUtilization;20180625;11:30;Capacity Utilization;Turkey;TRY;1
+PLN_Unemployment;20180625;08:00;Unemployment (MoM);Poland;PLN;1
+EUR_GerIFOCurrentAssessment;20180625;08:00;IFO - Current Assessment;Germany;EUR;2
+EUR_GerIFOBusinessClimate;20180625;08:00;IFO - Business Climate;Germany;EUR;2
+EUR_GerIFOExpectations;20180625;08:00;IFO - Expectations;Germany;EUR;2
+EUR_AusIndustrialProduction;20180625;07:00;Industrial Production (YoY);Austria;EUR;1
+EUR_FinProducerPriceIndex;20180625;06:00;Producer Price Index (YoY);Finland;EUR;1
+EUR_FinImportPrices;20180625;06:00;Import Prices (YoY);Finland;EUR;1
+EUR_FinExportPrices;20180625;06:00;Export Prices (YoY);Finland;EUR;1
+SGD_ConsumerPriceIndex;20180625;05:00;Consumer Price Index (YoY);Singapore;SGD;1
+JPY_LeadingEconomicIndex;20180625;05:00;Leading Economic Index;Japan;JPY;2
+JPY_CoincidentIndex;20180625;05:00;Coincident Index;Japan;JPY;1
+IDR_TradeBalance;20180625;04:00;Trade Balance;Indonesia;IDR;1
+IDR_Imports;20180625;04:00;Imports;Indonesia;IDR;1
+IDR_Exports;20180625;04:00;Exports;Indonesia;IDR;1

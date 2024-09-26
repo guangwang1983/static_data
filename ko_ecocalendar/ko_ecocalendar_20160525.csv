@@ -1,0 +1,34 @@
+AUD_ConstructionWorkDone;20160525;01:30;Construction Work Done;Australia;AUD;1
+EUR_GerGfkConsumerConfidenceSurvey;20160525;06:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+CHF_UBSConsumptionIndicator;20160525;06:00;UBS Consumption Indicator;Switzerland;CHF;2
+EUR_GerIFO–BusinessClimate;20160525;08:00;IFO – Business Climate;Germany;EUR;2
+EUR_GerIFO–CurrentAssessment;20160525;08:00;IFO – Current Assessment;Germany;EUR;2
+EUR_GerIFO–Expectations;20160525;08:00;IFO – Expectations;Germany;EUR;2
+EUR_ItaIndustrialSales;20160525;08:00;Industrial Sales s.a. (MoM);Italy;EUR;1
+EUR_ItaIndustrialOrders;20160525;08:00;Industrial Orders s.a (MoM);Italy;EUR;1
+CHF_ZEWSurvey–Expectations;20160525;09:00;ZEW Survey – Expectations;Switzerland;CHF;2
+EUR_ItaTradeBalancenonEU;20160525;09:00;Trade Balance non-EU;Italy;EUR;1
+EUR_GerAuction;20160525;10:25;30-y Bond Auction;Germany;EUR;1
+EUR_EurCentralBankSpeech;20160525;10:30;ECB Constancio speech;European Monetary Union;EUR;1
+USD_MBAMortgageApplications;20160525;11:00;MBA Mortgage Applications;United States;USD;1
+INR_M3MoneySupply;20160525;11:30;M3 Money Supply;India;INR;1
+TRY_ManufacturingConfidence;20160525;11:30;Manufacturing Confidence;Turkey;TRY;1
+TRY_CapacityUtilization;20160525;11:30;Capacity Utilization;Turkey;TRY;1
+PLN_Unemployment;20160525;12:00;Unemployment (MoM);Poland;PLN;1
+EUR_EurEcoFinMeeting;20160525;12:00;EcoFin Meeting;European Monetary Union;EUR;2
+USD_GoodsTradeBalance;20160525;12:30;Goods Trade Balance;United States;USD;1
+MXN_TradeBalancesa;20160525;13:00;Trade Balance s/a, $;Mexico;MXN;1
+MXN_TradeBalance;20160525;13:00;Trade Balance, $;Mexico;MXN;1
+USD_HousingPriceIndex;20160525;13:00;Housing Price Index (MoM);United States;USD;2
+USD_CentralBankSpeech;20160525;13:00;Fed Harker speech;United States;USD;1
+USD_S&PGlobalCompositePMI;20160525;13:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20160525;13:45;S&P Global Services PMI;United States;USD;2
+CAD_BoCRateStatement;20160525;14:00;BoC Rate Statement;Canada;CAD;3
+CAD_BoCInterestRateDecision;20160525;14:00;BoC Interest Rate Decision;Canada;CAD;3
+USD_EIACrudeOilStocksChange;20160525;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+MXN_CurrentAccount;20160525;15:00;Accumulated Current Account/GDP;Mexico;MXN;1
+USD_Auction;20160525;17:00;5-Year Note Auction;United States;USD;1
+KRW_ConsumerSentimentIndex;20160525;21:00;Consumer Sentiment Index;South Korea;KRW;1
+JPY_CorporateServicePriceIndex;20160525;23:50;Corporate Service Price Index (YoY);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20160525;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20160525;23:50;Foreign Bond Investment;Japan;JPY;2

@@ -1,0 +1,16 @@
+USD_CentralBankSpeech;20110414;16:30;Philadelphia Fed Plosser speech;United States;USD;1
+USD_ProducerPriceIndex;20110414;12:30;Producer Price Index (MoM);United States;USD;1
+USD_JoblessClaims;20110414;12:30;Continuing Jobless Claims;United States;USD;1
+CAD_ManufacturingShipments;20110414;12:30;Manufacturing Shipments (MoM);Canada;CAD;1
+CHF_CentralBankSpeech;20110414;12:30;SNB Danthine speech;Switzerland;CHF;2
+PLN_M3MoneySupply;20110414;12:00;M3 Money Supply (YoY);Poland;PLN;1
+CNY_M2MoneySupply;20110414;09:52;M2 Money Supply (YoY);China;CNY;1
+CNY_ForeignExchangeReserves;20110414;09:51;Foreign Exchange Reserves (QoQ);China;CNY;2
+CHF_ZEWSurveyExpectations;20110414;09:00;ZEW Survey - Expectations;Switzerland;CHF;2
+EUR_EurECBMonthlyReport;20110414;08:00;ECB Monthly Report;European Monetary Union;EUR;2
+EUR_NetRetailSales;20110414;07:30;Retail Sales (YoY);Netherlands, The;EUR;1
+EUR_FinConsumerPriceIndex;20110414;06:00;Consumer Price Index (YoY);Finland;EUR;1
+RUB_CentralBankReserves;20110414;02:00;Central Bank Reserves $;Russia;RUB;1
+AUD_NewMotorVehicleSales;20110414;01:30;New Motor Vehicle Sales (MoM);Australia;AUD;1
+AUD_ConsumerInflationExpectations;20110414;01:00;Consumer Inflation Expectations;Australia;AUD;2
+EUR_EurG7Meeting;20110414;00:00;G7 Meeting;European Monetary Union;EUR;1

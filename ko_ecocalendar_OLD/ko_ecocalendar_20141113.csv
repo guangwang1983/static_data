@@ -1,0 +1,40 @@
+USD_CentralBankSpeech;20141113;20:30;Fed Minneapolis Kocherlakota speech;United States;USD;1
+USD_MonthlyBudgetStatement;20141113;19:00;Monthly Budget Statement;United States;USD;1
+USD_Auction;20141113;18:00;30-Year Bond Auction;United States;USD;1
+USD_EIACrudeOilStocksChange;20141113;16:00;EIA Crude Oil Stocks Change;United States;USD;1
+CAD_BoCReview;20141113;15:30;BoC Review;Canada;CAD;2
+USD_JOLTSJobOpenings;20141113;15:00;JOLTS Job Openings;United States;USD;1
+USD_JoblessClaims;20141113;13:30;Continuing Jobless Claims;United States;USD;2
+CAD_NewHousingPriceIndex;20141113;13:30;New Housing Price Index (YoY);Canada;CAD;1
+PLN_ConsumerPriceIndex;20141113;13:00;Consumer Price Index (MoM);Poland;PLN;1
+PLN_CurrentAccount;20141113;13:00;Current Account;Poland;PLN;1
+RUB_CentralBankReserves;20141113;11:00;Central Bank Reserves $;Russia;RUB;1
+EUR_ItaAuction;20141113;10:54;3-y Bond Auction;Italy;EUR;1
+GBP_Auction;20141113;10:53;10-y Bond Auction;United Kingdom;GBP;1
+EUR_IreHICP;20141113;10:00;HICP (YoY);Ireland;EUR;1
+EUR_IreConsumerPriceIndex;20141113;10:00;Consumer Price Index (YoY);Ireland;EUR;1
+EUR_GreUnemploymentRate;20141113;10:00;Unemployment Rate (MoM);Greece;EUR;1
+EUR_ItaConsumerPriceIndex;20141113;09:00;Consumer Price Index (EU Norm) (MoM);Italy;EUR;1
+EUR_EurECBMonthlyReport;20141113;09:00;ECB Monthly Report;European Monetary Union;EUR;2
+CZK_CurrentAccount;20141113;09:00;Current Account (MoM);Czech Republic;CZK;1
+EUR_NetRetailSales;20141113;08:30;Retail Sales (YoY);Netherlands, The;EUR;1
+CHF_ProducerandImportPrices;20141113;08:15;Producer and Import Prices (MoM);Switzerland;CHF;1
+EUR_SpaHICP;20141113;08:00;HICP (YoY);Spain;EUR;1
+TRY_CurrentAccount;20141113;08:00;Current Account Balance;Turkey;TRY;1
+EUR_SpaConsumerPriceIndex;20141113;08:00;Consumer Price Index (MoM);Spain;EUR;1
+EUR_FraCurrentAccount;20141113;07:45;Current Account;France;EUR;1
+EUR_FraConsumerPriceIndex;20141113;07:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraInflationextobacco;20141113;07:45;Inflation ex-tobacco (MoM);France;EUR;2
+EUR_GerConsumerPriceIndex;20141113;07:00;Consumer Price Index (MoM);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20141113;07:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;2
+IDR_BankIndonesiaRate;20141113;06:00;Bank Indonesia Rate;Indonesia;IDR;1
+CNY_RetailSales;20141113;05:30;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20141113;05:30;Industrial Production (YoY);China;CNY;2
+CNY_FixedAssetInvestment;20141113;05:30;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+JPY_IndustrialProduction;20141113;04:30;Industrial Production (MoM);Japan;JPY;1
+JPY_CapacityUtilization;20141113;04:30;Capacity Utilization;Japan;JPY;1
+NZD_REINZHousePriceIndex;20141113;02:01;REINZ House Price Index (MoM);New Zealand;NZD;2
+AUD_CentralBankSpeech;20141113;01:30;RBA Kent speech;Australia;AUD;2
+KRW_BoKInterestRateDecision;20141113;01:00;BoK Interest Rate Decision;South Korea;KRW;1
+GBP_RICSHousingPriceBalance;20141113;00:01;RICS Housing Price Balance;United Kingdom;GBP;1
+AUD_ConsumerInflationExpectations;20141113;00:00;Consumer Inflation Expectations;Australia;AUD;2

@@ -1,0 +1,18 @@
+CNY_HousePriceIndex;20220815;01:30;House Price Index ;China;CNY;1
+CNY_RetailSales;20220815;02:00;Retail Sales (YoY);China;CNY;3
+CNY_IndustrialProduction;20220815;02:00;Industrial Production (YoY);China;CNY;2
+CNY_NBSPressConference;20220815;02:00;NBS Press Conference;China;CNY;2
+CNY_FixedAssetInvestment;20220815;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+JPY_IndustrialProduction;20220815;04:30;Industrial Production (MoM);Japan;JPY;1
+JPY_CapacityUtilization;20220815;04:30;Capacity Utilization;Japan;JPY;1
+NOK_TradeBalance;20220815;06:00;Trade Balance;Norway;NOK;1
+CHF_ProducerandImportPrices;20220815;06:30;Producer and Import Prices (YoY);Switzerland;CHF;1
+CNY_FDIForeignDirectInvestment;20220815;07:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+USD_NYEmpireStateManufacturingIndex;20220815;12:30;NY Empire State Manufacturing Index;United States;USD;1
+CAD_ManufacturingSales;20220815;12:30;Manufacturing Sales (MoM);Canada;CAD;1
+CAD_WholesaleSales;20220815;12:30;Wholesale Sales (MoM);Canada;CAD;1
+USD_NAHBHousingMarketIndex;20220815;14:00;NAHB Housing Market Index;United States;USD;1
+USD_Auction;20220815;15:30;6-Month Bill Auction;United States;USD;1
+ILS_ConsumerPriceIndex;20220815;15:30;Consumer Price Index (YoY);Israel;ILS;1
+USD_TotalNetTICFlows;20220815;20:00;Total Net TIC Flows;United States;USD;1
+USD_NetLongTermTICFlows;20220815;20:00;Net Long-Term TIC Flows;United States;USD;1

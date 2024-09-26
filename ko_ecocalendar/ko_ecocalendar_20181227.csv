@@ -1,0 +1,27 @@
+JPY_ConstructionOrders;20181227;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_HousingStarts;20181227;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_AnnualizedHousingStarts;20181227;05:00;Annualized Housing Starts;Japan;JPY;1
+CHF_ZEWSurvey–Expectations;20181227;09:00;ZEW Survey – Expectations;Switzerland;CHF;2
+EUR_EurEconomicBulletin;20181227;09:00;Economic Bulletin;European Monetary Union;EUR;2
+INR_FederalFiscalDeficitINR;20181227;10:00;Federal Fiscal Deficit, INR;India;INR;1
+RUB_CentralBankReserves;20181227;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_JoblessClaims;20181227;13:30;Continuing Jobless Claims;United States;USD;2
+USD_HousingPriceIndex;20181227;14:00;Housing Price Index (MoM);United States;USD;2
+USD_ConsumerConfidence;20181227;15:00;Consumer Confidence;United States;USD;2
+USD_Auction;20181227;18:00;7-Year Note Auction;United States;USD;1
+KRW_BOKManufacturingBSI;20181227;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+USD_APIWeeklyCrudeOilStock;20181227;21:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_IndustrialOutputGrowth;20181227;23:00;Industrial Output Growth;South Korea;KRW;1
+KRW_ServiceSectorOutput;20181227;23:00;Service Sector Output;South Korea;KRW;1
+KRW_IndustrialOutput;20181227;23:00;Industrial Output (YoY);South Korea;KRW;1
+JPY_TokyoCPIexFreshFood;20181227;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;3
+JPY_ConsumerPriceIndex;20181227;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;2
+JPY_TokyoCPIexFoodEnergy;20181227;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_UnemploymentRate;20181227;23:30;Unemployment Rate;Japan;JPY;2
+JPY_JobsApplicantsRatio;20181227;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+JPY_BoJSummaryofOpinions;20181227;23:50;BoJ Summary of Opinions;Japan;JPY;1
+JPY_IndustrialProduction;20181227;23:50;Industrial Production (MoM);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20181227;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20181227;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_RetailTrade;20181227;23:50;Retail Trade (YoY);Japan;JPY;2
+JPY_LargeRetailerSales;20181227;23:50;Large Retailer Sales;Japan;JPY;2

@@ -1,0 +1,51 @@
+JPY_ForeignInvestmentinJapanStocks;20210915;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_MerchandiseTradeBalanceTotal;20210915;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20210915;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_Exports;20210915;23:50;Exports (YoY);Japan;JPY;2
+JPY_Imports;20210915;23:50;Imports (YoY);Japan;JPY;2
+JPY_ForeignBondInvestment;20210915;23:50;Foreign Bond Investment;Japan;JPY;1
+NZD_GrossDomesticProduct;20210915;22:45;Gross Domestic Product (YoY);New Zealand;NZD;3
+NZD_REINZHousePriceIndex;20210915;21:00;REINZ House Price Index (MoM);New Zealand;NZD;2
+COP_RetailSales;20210915;15:00;Retail Sales (YoY);Colombia;COP;1
+COP_Industrialoutput;20210915;15:00;Industrial output (YoY);Colombia;COP;1
+EUR_EurCentralBankSpeech;20210915;15:00;ECB Lane speech;European Monetary Union;EUR;2
+USD_EIACrudeOilStocksChange;20210915;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_NAHBHousingMarketIndex;20210915;14:00;NAHB Housing Market Index;United States;USD;1
+USD_IndustrialProduction;20210915;13:15;Industrial Production (MoM);United States;USD;1
+USD_CapacityUtilization;20210915;13:15;Capacity Utilization;United States;USD;1
+USD_NYEmpireStateManufacturingIndex;20210915;12:30;NY Empire State Manufacturing Index;United States;USD;1
+USD_ImportPriceIndex;20210915;12:30;Import Price Index (MoM);United States;USD;1
+USD_ExportPriceIndex;20210915;12:30;Export Price Index (MoM);United States;USD;1
+CAD_ConsumerPriceIndex;20210915;12:30;Consumer Price Index (MoM);Canada;CAD;2
+INR_TradeDeficitGovernment;20210915;11:30;Trade Deficit Government;India;INR;1
+USD_MBAMortgageApplications;20210915;11:00;MBA Mortgage Applications;United States;USD;1
+ZAR_RetailSales;20210915;11:00;Retail Sales (YoY);South Africa;ZAR;1
+GBP_Auction;20210915;09:30;10-y Bond Auction;United Kingdom;GBP;1
+EUR_EurLaborCost;20210915;09:00;Labor Cost;European Monetary Union;EUR;2
+EUR_EurIndustrialProduction;20210915;09:00;Industrial Production s.a. (MoM);European Monetary Union;EUR;2
+EUR_GreUnemploymentRate;20210915;09:00;Unemployment Rate (MoM);Greece;EUR;1
+GBP_DCLGHousePriceIndex;20210915;08:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+PLN_ConsumerPriceIndex;20210915;08:00;Consumer Price Index (MoM);Poland;PLN;1
+TRY_BudgetBalance;20210915;08:00;Budget Balance;Turkey;TRY;1
+EUR_ItaConsumerPriceIndex;20210915;08:00;Consumer Price Index (MoM);Italy;EUR;1
+EUR_FraConsumerPriceIndex;20210915;06:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraInflationextobacco;20210915;06:45;Inflation ex-tobacco (MoM);France;EUR;1
+NOK_TradeBalance;20210915;06:00;Trade Balance;Norway;NOK;1
+GBP_RetailPriceIndex;20210915;06:00;Retail Price Index (YoY);United Kingdom;GBP;2
+GBP_ProducerPriceIndex;20210915;06:00;Producer Price Index - Input (YoY) n.s.a;United Kingdom;GBP;1
+GBP_PPICoreOutput;20210915;06:00;PPI Core Output (MoM) n.s.a;United Kingdom;GBP;2
+GBP_ConsumerPriceIndex;20210915;06:00;Consumer Price Index (MoM);United Kingdom;GBP;2
+EUR_FinGrossDomesticProduct;20210915;05:00;Gross Domestic Product (YoY);Finland;EUR;1
+JPY_TertiaryIndustryIndex;20210915;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+IDR_Imports;20210915;04:00;Imports;Indonesia;IDR;1
+IDR_Exports;20210915;04:00;Exports;Indonesia;IDR;1
+IDR_TradeBalance;20210915;04:00;Trade Balance;Indonesia;IDR;1
+SGD_Unemploymentrate;20210915;02:30;Unemployment rate;Singapore;SGD;1
+CNY_RetailSales;20210915;02:00;Retail Sales (YoY);China;CNY;3
+CNY_IndustrialProduction;20210915;02:00;Industrial Production (YoY);China;CNY;2
+CNY_NBSPressConference;20210915;02:00;NBS Press Conference;China;CNY;2
+CNY_FixedAssetInvestment;20210915;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+KRW_TradeBalance;20210915;02:00;Trade Balance;South Korea;KRW;1
+CNY_HousePriceIndex;20210915;01:30;House Price Index ;China;CNY;1
+AUD_HIANewHomeSales;20210915;01:00;HIA New Home Sales (MoM);Australia;AUD;2
+AUD_WestpacConsumerConfidence;20210915;00:30;Westpac Consumer Confidence;Australia;AUD;2

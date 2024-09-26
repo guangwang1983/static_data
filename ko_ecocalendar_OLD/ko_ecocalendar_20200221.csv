@@ -1,0 +1,41 @@
+AUD_CFTCAUDNCNetPositions;20200221;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20200221;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+JPY_CFTCJPYNCNetPositions;20200221;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCOilNCNetPositions;20200221;20:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20200221;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20200221;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCUSDNCNetPositions;20200221;20:30;CFTC USD NC Net Positions;United States;USD;1
+ARS_TradeBalance;20200221;20:00;Trade Balance (MoM);Argentina;ARS;1
+USD_CentralBankSpeech;20200221;18:30;Fed Brainard speech;United States;USD;2
+USD_BakerHughesUSOilRigCount;20200221;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_ExistingHomeSales;20200221;15:00;Existing Home Sales (MoM);United States;USD;2
+USD_ExistingHomeSalesChange;20200221;15:00;Existing Home Sales Change (MoM);United States;USD;1
+USD_MarkitManufacturingPMI;20200221;14:45;Markit Manufacturing PMI;United States;USD;2
+USD_MarkitServicesPMI;20200221;14:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20200221;14:45;Markit PMI Composite;United States;USD;2
+EUR_BelLeadingIndicator;20200221;14:00;Leading Indicator;Belgium;EUR;1
+CAD_RetailSales;20200221;13:30;Retail Sales ex Autos (MoM);Canada;CAD;2
+EUR_EurCentralBankSpeech;20200221;12:00;ECB Lane speech;European Monetary Union;EUR;2
+INR_FXReservesUSD;20200221;11:30;FX Reserves, USD;India;INR;1
+EUR_EurConsumerPriceIndex;20200221;10:00;Consumer Price Index - Core (YoY);European Monetary Union;EUR;2
+EUR_ItaConsumerPriceIndex;20200221;10:00;Consumer Price Index (YoY);Italy;EUR;1
+GBP_MarkitManufacturingPMI;20200221;09:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+GBP_MarkitServicesPMI;20200221;09:30;Markit Services PMI;United Kingdom;GBP;3
+GBP_PublicSectorNetBorrowing;20200221;09:30;Public Sector Net Borrowing;United Kingdom;GBP;2
+PLN_RetailSales;20200221;09:00;Retail Sales (YoY);Poland;PLN;1
+EUR_ItaIndustrialSales;20200221;09:00;Industrial Sales n.s.a. (YoY);Italy;EUR;1
+EUR_ItaIndustrialOrders;20200221;09:00;Industrial Orders n.s.a (YoY);Italy;EUR;1
+EUR_EurMarkitManufacturingPMI;20200221;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20200221;09:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_EurMarkitPMIComposite;20200221;09:00;Markit PMI Composite;European Monetary Union;EUR;3
+EUR_GerMarkitPMIComposite;20200221;08:30;Markit PMI Composite;Germany;EUR;3
+EUR_GerMarkitManufacturingPMI;20200221;08:30;Markit Manufacturing PMI;Germany;EUR;3
+EUR_GerMarkitServicesPMI;20200221;08:30;Markit Services PMI;Germany;EUR;2
+SEK_CapacityUtilization;20200221;08:30;Capacity Utilization;Sweden;SEK;1
+EUR_FraMarkitManufacturingPMI;20200221;08:15;Markit Manufacturing PMI;France;EUR;1
+EUR_FraMarkitServicesPMI;20200221;08:15;Markit Services PMI;France;EUR;1
+EUR_FraMarkitPMIComposite;20200221;08:15;Markit PMI Composite;France;EUR;2
+EUR_AusHICP;20200221;08:00;HICP (MoM);Austria;EUR;1
+EUR_SloEUNormInflation;20200221;08:00;EU Norm Inflation (MoM);Slovakia;EUR;1
+JPY_AllIndustryActivityIndex;20200221;04:30;All Industry Activity Index (MoM);Japan;JPY;2
+JPY_JibunBankManufacturingPMI;20200221;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1

@@ -1,0 +1,61 @@
+JPY_MonetaryBase;20181101;23:50;Monetary Base (YoY);Japan;JPY;1
+USD_TotalVehicleSales;20181101;19:30;Total Vehicle Sales;United States;USD;1
+ARS_TaxRevenue;20181101;19:00;Tax Revenue (MoM);Argentina;ARS;1
+BRL_TradeBalance;20181101;18:00;Trade Balance;Brazil;BRL;1
+USD_EIANaturalGasStorageChange;20181101;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_ISMPricesPaid;20181101;14:00;ISM Prices Paid;United States;USD;2
+USD_ISMManufacturingPMI;20181101;14:00;ISM Manufacturing PMI;United States;USD;2
+USD_ConstructionSpending;20181101;14:00;Construction Spending (MoM);United States;USD;1
+USD_MarkitManufacturingPMI;20181101;13:45;Markit Manufacturing PMI;United States;USD;1
+CAD_MarkitManufacturingPMI;20181101;13:30;Markit Manufacturing PMI;Canada;CAD;2
+BRL_HSBCPMIManufacturing;20181101;13:00;HSBC PMI Manufacturing;Brazil;BRL;1
+RUB_CentralBankReserves;20181101;13:00;Central Bank Reserves $;Russia;RUB;1
+CZK_BudgetBalance;20181101;13:00;Budget Balance;Czech Republic;CZK;1
+GBP_CentralBankSpeech;20181101;12:30;BoE Governor Carney speech;United Kingdom;GBP;3
+USD_JoblessClaims;20181101;12:30;Initial Jobless Claims;United States;USD;2
+USD_NonfarmProductivity;20181101;12:30;Nonfarm Productivity;United States;USD;2
+USD_UnitLaborCosts;20181101;12:30;Unit Labor Costs;United States;USD;2
+GBP_BoEAssetPurchaseFacility;20181101;12:00;BoE Asset Purchase Facility;United Kingdom;GBP;3
+GBP_BoEInterestRateDecision;20181101;12:00;BoE Interest Rate Decision;United Kingdom;GBP;3
+ZAR_TotalNewVehicleSales;20181101;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+GBP_MonetaryPolicySummary;20181101;12:00;Monetary Policy Summary;United Kingdom;GBP;3
+GBP_BankofEnglandQuarterlyInflationReport;20181101;12:00;Bank of England Quarterly Inflation Report;United Kingdom;GBP;2
+GBP_BoEMPCVoteCut;20181101;12:00;BoE MPC Vote Cut;United Kingdom;GBP;3
+GBP_BankofEnglandMinutes;20181101;12:00;Bank of England Minutes;United Kingdom;GBP;3
+GBP_BoEMPCVoteUnchanged;20181101;12:00;BoE MPC Vote Unchanged;United Kingdom;GBP;3
+GBP_BoEMPCVoteHike;20181101;12:00;BoE MPC Vote Hike;United Kingdom;GBP;3
+BRL_IndustrialOutput;20181101;12:00;Industrial Output (YoY);Brazil;BRL;1
+CZK_CNBInterestRateDecision;20181101;12:00;CNB Interest Rate Decision;Czech Republic;CZK;1
+USD_ChallengerJobCuts;20181101;11:30;Challenger Job Cuts;United States;USD;1
+GBP_MarkitManufacturingPMI;20181101;09:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+EUR_GreMarkitManufacturingPMI;20181101;09:00;Markit Manufacturing PMI;Greece;EUR;1
+HKD_RetailSales;20181101;08:30;Retail Sales;Hong Kong SAR;HKD;1
+CHF_SVMEPurchasingManagers'Index;20181101;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_MarkitPMI;20181101;08:30;Markit PMI;Czech Republic;CZK;1
+CHF_ConsumerPriceIndex;20181101;08:15;Consumer Price Index (YoY);Switzerland;CHF;2
+SEK_PurchasingManagersIndexManufacturing;20181101;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+GBP_NationwideHousingPrices;20181101;07:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;1
+CHF_SECOConsumerClimate;20181101;06:45;SECO Consumer Climate (3m);Switzerland;CHF;2
+RUB_HSBCManufacturingPMI;20181101;06:00;HSBC Manufacturing PMI	;Russia;RUB;1
+EUR_IrePurchasingManagerIndexManufacturing;20181101;06:00;Purchasing Manager Index Manufacturing;Ireland;EUR;1
+AUD_RBACommodityIndexSDR;20181101;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+IDR_CoreInflation;20181101;04:00;Core Inflation (YoY);Indonesia;IDR;1
+IDR_Inflation;20181101;04:00;Inflation (YoY);Indonesia;IDR;1
+CNY_CaixinManufacturingPMI;20181101;01:45;Caixin Manufacturing PMI;China;CNY;2
+AUD_ExportPriceIndex;20181101;00:30;Export Price Index (QoQ);Australia;AUD;1
+AUD_ImportPriceIndex;20181101;00:30;Import Price Index (QoQ);Australia;AUD;1
+KRW_NikkeiMarkitManufacturingPMI;20181101;00:30;Nikkei Markit Manufacturing PMI;South Korea;KRW;1
+JPY_NikkeiManufacturingPMI;20181101;00:30;Nikkei Manufacturing PMI;Japan;JPY;1
+AUD_Imports;20181101;00:30;Imports;Australia;AUD;2
+AUD_TradeBalance;20181101;00:30;Trade Balance;Australia;AUD;2
+AUD_Exports;20181101;00:30;Exports;Australia;AUD;2
+HUF_AllSaintsDay;20181101;00:00;All Saints Day ;Hungary;HUF;0
+EUR_AusAllSaints'Day;20181101;00:00;All Saints' Day ;Austria;EUR;0
+EUR_SpaAllSaints'Day;20181101;00:00;All Saints' Day;Spain;EUR;0
+PLN_AllSaintsDay;20181101;00:00;All Saints Day ;Poland;PLN;0
+EUR_ItaAllSaintsDay;20181101;00:00;All Saints Day;Italy;EUR;0
+EUR_BelAllSaintsDay;20181101;00:00;All Saints Day ;Belgium;EUR;0
+KRW_TradeBalance;20181101;00:00;Trade Balance;South Korea;KRW;1
+EUR_PorAllSaintsDay;20181101;00:00;All Saints Day ;Portugal;EUR;0
+CLP_AllSaintsDay;20181101;00:00;All Saints Day;Chile;CLP;0
+EUR_FraAllSaintsDay;20181101;00:00;All Saints Day;France;EUR;0

@@ -1,0 +1,24 @@
+EUR_FraGrossDomesticProduct;20150213;06:30;Gross Domestic Product (YoY);France;EUR;2
+EUR_GerWholesalePriceIndex;20150213;07:00;Wholesale Price Index (YoY);Germany;EUR;1
+EUR_GerGrossDomesticProduct;20150213;07:00;Gross Domestic Product (YoY);Germany;EUR;2
+EUR_FraNonfarmPayrolls;20150213;07:45;Nonfarm Payrolls (QoQ);France;EUR;1
+RON_GrossDomesticProduct;20150213;08:00;Gross Domestic Product;Romania;RON;1
+RON_ConsumerPriceIndex;20150213;08:00;Consumer Price Index;Romania;RON;1
+INR_TradeDeficitGovernment;20150213;08:00;Trade Deficit Government;India;INR;1
+CZK_GrossDomesticProduct;20150213;08:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+HUF_GrossDomesticProduct;20150213;08:00;Gross Domestic Product (YoY);Hungary;HUF;1
+CHF_ProducerandImportPrices;20150213;08:15;Producer and Import Prices (YoY);Switzerland;CHF;1
+SEK_CapacityUtilization;20150213;08:30;Capacity Utilization;Sweden;SEK;1
+PLN_GrossDomesticProduct;20150213;09:00;Gross Domestic Product Qtr (YoY);Poland;PLN;1
+EUR_ItaGrossDomesticProduct;20150213;09:00;Gross Domestic Product (YoY);Italy;EUR;2
+CZK_CurrentAccount;20150213;09:00;Current Account (MoM);Czech Republic;CZK;1
+EUR_EurGrossDomesticProduct;20150213;10:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+INR_FXReservesUSD;20150213;11:30;FX Reserves, USD;India;INR;1
+PLN_ConsumerPriceIndex;20150213;13:00;Consumer Price Index (YoY);Poland;PLN;1
+PLN_CurrentAccount;20150213;13:00;Current Account;Poland;PLN;1
+PLN_M3MoneySupply;20150213;13:00;M3 Money Supply (YoY);Poland;PLN;1
+CAD_ManufacturingSales;20150213;13:30;Manufacturing Sales (MoM);Canada;CAD;1
+USD_ImportPriceIndex;20150213;13:30;Import Price Index (MoM);United States;USD;1
+USD_ExportPriceIndex;20150213;13:30;Export Price Index (MoM);United States;USD;1
+USD_MichiganConsumerSentimentIndex;20150213;15:00;Michigan Consumer Sentiment Index;United States;USD;2
+USD_CentralBankSpeech;20150213;18:30;Fed Richard Fisher speech;United States;USD;2

@@ -1,0 +1,21 @@
+AUD_RetailSales;20230328;00:30;Retail Sales s.a. (MoM);Australia;AUD;3
+JPY_CentralBankSpeech;20230328;04:00;BoJ Governor Kuroda speech;Japan;JPY;3
+AUD_CentralBankSpeech;20230328;04:15;RBA Ellis speech;Australia;AUD;2
+GBP_NationwideHousingPrices;20230328;06:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;1
+HUF_GrossWages;20230328;06:30;Gross Wages (YoY);Hungary;HUF;1
+HUF_CurrentAccount;20230328;07:30;Current Account Balance (QoQ);Hungary;HUF;1
+GBP_BoEQuarterlyBulletin;20230328;11:00;BoE Quarterly Bulletin;United Kingdom;GBP;1
+HUF_MNBInterestRateDecision;20230328;12:00;MNB Interest Rate Decision;Hungary;HUF;1
+USD_WholesaleInventories;20230328;12:30;Wholesale Inventories;United States;USD;1
+USD_GoodsTradeBalance;20230328;12:30;Goods Trade Balance;United States;USD;1
+USD_RedbookIndex;20230328;12:55;Redbook Index (YoY);United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20230328;13:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;2
+USD_HousingPriceIndex;20230328;13:00;Housing Price Index (MoM);United States;USD;2
+EUR_EurCentralBankSpeech;20230328;13:15;ECB President Lagarde speech;European Monetary Union;EUR;3
+USD_ConsumerConfidence;20230328;14:00;Consumer Confidence;United States;USD;2
+USD_RichmondFedManufacturingIndex;20230328;14:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_Auction;20230328;17:00;5-Year Note Auction;United States;USD;1
+CAD_AnnualBudgetRelease;20230328;20:00;Annual Budget Release;Canada;CAD;1
+USD_APIWeeklyCrudeOilStock;20230328;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_ConsumerSentimentIndex;20230328;21:00;Consumer Sentiment Index;South Korea;KRW;1
+GBP_BRCShopPriceIndex;20230328;23:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1

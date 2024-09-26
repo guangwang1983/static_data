@@ -1,0 +1,15 @@
+AUD_RetailSales;20220829;01:30;Retail Sales s.a. (MoM);Australia;AUD;3
+JPY_LeadingEconomicIndex;20220829;05:00;Leading Economic Index;Japan;JPY;1
+JPY_CoincidentIndex;20220829;05:00;Coincident Index;Japan;JPY;1
+SEK_RetailSales;20220829;06:00;Retail Sales (MoM);Sweden;SEK;1
+SEK_GrossDomesticProduct;20220829;06:00;Gross Domestic Product (QoQ);Sweden;SEK;1
+SEK_TradeBalance;20220829;06:00;Trade Balance (MoM);Sweden;SEK;1
+TRY_TradeBalance;20220829;07:00;Trade Balance;Turkey;TRY;1
+TRY_EconomicConfidenceIndex;20220829;07:00;Economic Confidence Index;Turkey;TRY;1
+EUR_EurCentralBankSpeech;20220829;13:00;ECB Lane speech;European Monetary Union;EUR;2
+USD_DallasFedManufacturingBusinessIndex;20220829;14:30;Dallas Fed Manufacturing Business Index;United States;USD;1
+USD_Auction;20220829;15:30;3-Month Bill Auction;United States;USD;1
+USD_CentralBankSpeech;20220829;18:15;Fed Brainard speech;United States;USD;2
+TRY_VictoryDay;20220829;23:00;Victory Day ;Turkey;TRY;0
+JPY_JobsApplicantsRatio;20220829;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+JPY_UnemploymentRate;20220829;23:30;Unemployment Rate;Japan;JPY;2

@@ -1,0 +1,52 @@
+JPY_MonetaryBase;20200302;23:50;Monetary Base (YoY);Japan;JPY;1
+KRW_GrossDomesticProduct;20200302;23:00;Gross Domestic Product Growth (YoY);South Korea;KRW;1
+KRW_ConsumerPriceIndex;20200302;23:00;Consumer Price Index Growth (MoM);South Korea;KRW;1
+NZD_TermsofTradeIndex;20200302;21:45;Terms of Trade Index;New Zealand;NZD;1
+ARS_TaxRevenue;20200302;20:00;Tax Revenue (MoM);Argentina;ARS;1
+BRL_TradeBalance;20200302;19:00;Trade Balance;Brazil;BRL;1
+USD_Auction;20200302;16:30;6-Month Bill Auction;United States;USD;1
+USD_ISMManufacturingPMI;20200302;15:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20200302;15:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ISMManufacturingEmploymentIndex;20200302;15:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ISMManufacturingNewOrdersIndex;20200302;15:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ConstructionSpending;20200302;15:00;Construction Spending (MoM);United States;USD;1
+USD_MarkitManufacturingPMI;20200302;14:45;Markit Manufacturing PMI;United States;USD;2
+BRL_HSBCPMIManufacturing;20200302;13:00;HSBC PMI Manufacturing;Brazil;BRL;1
+CZK_BudgetBalance;20200302;13:00;Budget Balance;Czech Republic;CZK;1
+ZAR_TotalNewVehicleSales;20200302;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+ILS_FXReserves;20200302;12:00;FX Reserves;Israel;ILS;1
+ILS_BudgetBalanceILS;20200302;11:00;Budget Balance - ILS;Israel;ILS;1
+CLP_IMACEC;20200302;10:30;IMACEC;Chile;CLP;1
+DKK_ManufacturingPMI;20200302;10:00;Manufacturing PMI;Denmark;DKK;0
+GBP_NetLendingtoIndividuals;20200302;09:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_MarkitManufacturingPMI;20200302;09:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+GBP_ConsumerCredit;20200302;09:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20200302;09:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_M4MoneySupply;20200302;09:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+TRY_Exports;20200302;09:00;Exports;Turkey;TRY;1
+EUR_GreMarkitManufacturingPMI;20200302;09:00;Markit Manufacturing PMI;Greece;EUR;1
+EUR_EurMarkitManufacturingPMI;20200302;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;1
+EUR_GerMarkitManufacturingPMI;20200302;08:55;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20200302;08:50;Markit Manufacturing PMI;France;EUR;1
+EUR_ItaMarkitManufacturingPMI;20200302;08:45;Markit Manufacturing PMI;Italy;EUR;1
+HKD_RetailSales;20200302;08:30;Retail Sales;Hong Kong SAR;HKD;1
+CHF_SVMEPurchasingManagers'Index;20200302;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_MarkitPMI;20200302;08:30;Markit PMI;Czech Republic;CZK;1
+EUR_SpaMarkitManufacturingPMI;20200302;08:15;Markit Manufacturing PMI;Spain;EUR;1
+EUR_AusUnemploymentRate;20200302;08:00;Unemployment Rate;Austria;EUR;1
+EUR_AusUnemployment;20200302;08:00;Unemployment;Austria;EUR;1
+HUF_PurchasingManagerIndex;20200302;08:00;Purchasing Manager Index;Hungary;HUF;1
+EUR_NetMarkitManufacturingPMI;20200302;08:00;Markit Manufacturing PMI;Netherlands, The;EUR;1
+PLN_PurchasingManagerIndex;20200302;08:00;Purchasing Manager Index;Poland;PLN;2
+SEK_PurchasingManagersIndexManufacturing;20200302;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+RUB_HSBCManufacturingPMI;20200302;06:00;HSBC Manufacturing PMI	;Russia;RUB;1
+AUD_RBACommodityIndexSDR;20200302;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+IDR_Inflation;20200302;04:00;Inflation (MoM);Indonesia;IDR;1
+IDR_CoreInflation;20200302;04:00;Core Inflation (YoY);Indonesia;IDR;1
+CNY_CaixinManufacturingPMI;20200302;01:45;Caixin Manufacturing PMI;China;CNY;3
+EUR_IrePurchasingManagerIndexManufacturing;20200302;01:01;Purchasing Manager Index Manufacturing;Ireland;EUR;1
+AUD_CompanyGrossOperatingProfits;20200302;00:30;Company Gross Operating Profits (QoQ);Australia;AUD;1
+AUD_ANZJobAdvertisements;20200302;00:30;ANZ Job Advertisements;Australia;AUD;1
+KRW_NikkeiMarkitManufacturingPMI;20200302;00:30;Nikkei Markit Manufacturing PMI;South Korea;KRW;1
+JPY_JibunBankManufacturingPMI;20200302;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+AUD_TDSecuritiesInflation;20200302;00:00;TD Securities Inflation (MoM);Australia;AUD;2

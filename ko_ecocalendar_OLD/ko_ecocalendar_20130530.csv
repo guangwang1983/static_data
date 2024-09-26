@@ -1,0 +1,55 @@
+JPY_IndustrialProduction;20130530;23:50;Industrial Production (MoM);Japan;JPY;1
+JPY_TokyoCPIexFreshFood;20130530;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;1
+JPY_ConsumerPriceIndex;20130530;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;1
+JPY_TokyoCPIexFoodEnergy;20130530;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;1
+JPY_NationalCPIexFoodEnergy;20130530;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;3
+JPY_NationalCPIexFreshFood;20130530;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_JobsApplicantsRatio;20130530;23:30;Jobs / Applicants Ratio;Japan;JPY;1
+JPY_UnemploymentRate;20130530;23:30;Unemployment Rate;Japan;JPY;2
+JPY_OverallHouseholdSpending;20130530;23:30;Overall Household Spending (YoY);Japan;JPY;2
+JPY_NikkeiManufacturingPMI;20130530;23:13;Nikkei Manufacturing PMI;Japan;JPY;2
+GBP_GfKConsumerConfidence;20130530;23:01;GfK Consumer Confidence;United Kingdom;GBP;2
+KRW_IndustrialOutputGrowth;20130530;23:00;Industrial Output Growth;South Korea;KRW;1
+KRW_IndustrialOutput;20130530;23:00;Industrial Output (YoY);South Korea;KRW;1
+KRW_ServiceSectorOutput;20130530;23:00;Service Sector Output;South Korea;KRW;1
+NZD_TermsofTradeIndex;20130530;22:45;Terms of Trade Index;New Zealand;NZD;2
+MXN_FiscalBalancepesos;20130530;19:30;Fiscal Balance, pesos;Mexico;MXN;1
+USD_Auction;20130530;17:00;7-Year Note Auction;United States;USD;1
+USD_EIACrudeOilStocksChange;20130530;15:00;EIA Crude Oil Stocks Change;United States;USD;1
+USD_EIANaturalGasStorageChange;20130530;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_PendingHomeSales;20130530;14:00;Pending Home Sales (YoY);United States;USD;2
+CAD_RawMaterialPriceIndex;20130530;12:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20130530;12:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_CurrentAccount;20130530;12:30;Current Account;Canada;CAD;1
+USD_JoblessClaims;20130530;12:30;Initial Jobless Claims;United States;USD;2
+USD_GrossDomesticProduct;20130530;12:30;Gross Domestic Product Annualized;United States;USD;3
+USD_CorePersonalConsumptionExpenditures;20130530;12:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+USD_PersonalConsumptionExpendituresPrices;20130530;12:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;3
+CLP_IndustrialProduction;20130530;12:00;Industrial Production (YoY);Chile;CLP;1
+EUR_ItaAuction;20130530;10:10;10-y Bond Auction;Italy;EUR;1
+ZAR_ProducerPriceIndex;20130530;09:30;Producer Price Index (MoM);South Africa;ZAR;1
+EUR_BelConsumerPriceIndex;20130530;09:30;Consumer Price Index (MoM);Belgium;EUR;1
+EUR_PorBusinessConfidence;20130530;09:00;Business Confidence;Portugal;EUR;1
+EUR_PorConsumerConfidence;20130530;09:00;Consumer Confidence;Portugal;EUR;1
+EUR_EurConsumerConfidence;20130530;09:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurBusinessClimate;20130530;09:00;Business Climate;European Monetary Union;EUR;1
+EUR_EurEconomicSentimentIndicator;20130530;09:00;Economic Sentiment Indicator;European Monetary Union;EUR;2
+EUR_EurServicesSentiment;20130530;09:00;Services Sentiment;European Monetary Union;EUR;2
+EUR_EurIndustrialConfidence;20130530;09:00;Industrial Confidence;European Monetary Union;EUR;1
+HKD_RetailSales;20130530;08:30;Retail Sales;Hong Kong SAR;HKD;1
+EUR_ItaProducerPriceIndex;20130530;08:00;Producer Price Index (MoM);Italy;EUR;1
+NOK_RetailSales;20130530;08:00;Retail Sales ;Norway;NOK;1
+EUR_SpaHICP;20130530;07:00;HICP (YoY);Spain;EUR;1
+TRY_ConsumerConfidence;20130530;07:00;Consumer Confidence;Turkey;TRY;1
+DKK_IndustrialOutlook;20130530;07:00;Industrial Outlook;Denmark;DKK;1
+DKK_UnemploymentRate;20130530;07:00;Unemployment Rate;Denmark;DKK;1
+EUR_SpaGrossDomesticProduct;20130530;07:00;Gross Domestic Product (QoQ);Spain;EUR;1
+GBP_NationwideHousingPrices;20130530;06:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;2
+ZAR_PrivateSectorCredit;20130530;06:00;Private Sector Credit;South Africa;ZAR;1
+ZAR_M3MoneySupply;20130530;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+CHF_GrossDomesticProduct;20130530;05:45;Gross Domestic Product (YoY);Switzerland;CHF;2
+AUD_BuildingPermits;20130530;01:30;Building Permits (MoM);Australia;AUD;1
+AUD_PrivateCapitalExpenditure;20130530;01:30;Private Capital Expenditure;Australia;AUD;1
+BRL_CorpusChristi;20130530;00:00;Corpus Christi ;Brazil;BRL;0
+EUR_AusCorpusChristi;20130530;00:00;Corpus Christi ;Austria;EUR;0
+PLN_CorpusChristi;20130530;00:00;Corpus Christi;Poland;PLN;0

@@ -1,0 +1,58 @@
+JPY_MonetaryBase;20130501;23:50;Monetary Base (YoY);Japan;JPY;1
+JPY_BoJMonetaryPolicyMeetingMinutes;20130501;23:50;BoJ Monetary Policy Meeting Minutes;Japan;JPY;3
+CAD_CentralBankSpeech;20130501;22:05;BoC Governor Carney speech;Canada;CAD;2
+USD_TotalVehicleSales;20130501;21:00;Total Vehicle Sales;United States;USD;1
+USD_FedInterestRateDecision;20130501;18:00;Fed Interest Rate Decision;United States;USD;3
+USD_EIACrudeOilStocksChange;20130501;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_ISMManufacturingPMI;20130501;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMPricesPaid;20130501;14:00;ISM Prices Paid;United States;USD;2
+USD_ConstructionSpending;20130501;14:00;Construction Spending (MoM);United States;USD;2
+USD_MarkitManufacturingPMI;20130501;12:58;Markit Manufacturing PMI;United States;USD;1
+USD_ADPEmploymentChange;20130501;12:15;ADP Employment Change;United States;USD;2
+USD_MBAMortgageApplications;20130501;11:00;MBA Mortgage Applications;United States;USD;1
+GBP_MarkitManufacturingPMI;20130501;08:28;Markit Manufacturing PMI;United Kingdom;GBP;2
+AUD_RBACommodityIndexSDR;20130501;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+GBP_NationwideHousingPrices;20130501;06:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;2
+PEN_Inflation;20130501;06:00;Inflation;Peru;PEN;1
+EUR_IrePurchasingManagerIndexManufacturing;20130501;05:58;Purchasing Manager Index Manufacturing;Ireland;EUR;1
+JPY_VehicleSales;20130501;05:00;Vehicle Sales (YoY);Japan;JPY;1
+IDR_TradeBalance;20130501;04:00;Trade Balance;Indonesia;IDR;1
+AUD_CentralBankSpeech;20130501;03:25;RBA Edey speech;Australia;AUD;2
+IDR_Exports;20130501;02:00;Exports;Indonesia;IDR;1
+IDR_Inflation;20130501;02:00;Inflation (YoY);Indonesia;IDR;1
+IDR_CoreInflation;20130501;02:00;Core Inflation (YoY);Indonesia;IDR;1
+JPY_LaborCashEarnings;20130501;01:30;Labor Cash Earnings (YoY);Japan;JPY;2
+AUD_HIANewHomeSales;20130501;01:00;HIA New Home Sales (MoM);Australia;AUD;2
+CNY_NBSManufacturingPMI;20130501;01:00;NBS Manufacturing PMI;China;CNY;2
+EUR_GerLabourDay;20130501;00:00;Labour Day;Germany;EUR;0
+SGD_Labourday;20130501;00:00;Labour day;Singapore;SGD;0
+EUR_FraLabourDay;20130501;00:00;Labour Day ;France;EUR;0
+EUR_PorLabourDay;20130501;00:00;Labour Day;Portugal;EUR;0
+HUF_Labourday;20130501;00:00;Labour day;Hungary;HUF;0
+CZK_LabourDay;20130501;00:00;Labour Day;Czech Republic;CZK;0
+NOK_LabourDay;20130501;00:00;Labour Day;Norway;NOK;0
+PLN_LabourDay;20130501;00:00;Labour Day ;Poland;PLN;0
+EUR_EstSpringDay;20130501;00:00;Spring Day;Estonia;EUR;0
+ARS_LabourDay;20130501;00:00;Labour Day;Argentina;ARS;0
+RUB_LabourDay;20130501;00:00;Labour Day;Russia;RUB;0
+CHF_LabourDay;20130501;00:00;Labour Day;Switzerland;CHF;0
+EUR_ItaLabourDay;20130501;00:00;Labour Day ;Italy;EUR;0
+EUR_SpaLabourDay;20130501;00:00;Labour Day;Spain;EUR;0
+KRW_LabourDay;20130501;00:00;Labour Day ;South Korea;KRW;0
+SEK_LabourDay;20130501;00:00;Labour Day;Sweden;SEK;0
+COP_LabourDay;20130501;00:00;Labour Day;Colombia;COP;0
+RON_LaborDay;20130501;00:00;Labor Day;Romania;RON;0
+CNY_LabourDay;20130501;00:00;Labour Day;China;CNY;0
+LVL_LabourDay;20130501;00:00;Labour Day;Latvia;LVL;0
+EUR_AusLabourDay;20130501;00:00;Labour Day;Austria;EUR;0
+BRL_LabourDay;20130501;00:00;Labour Day;Brazil;BRL;0
+EUR_BelLabourDay;20130501;00:00;Labour Day;Belgium;EUR;0
+EUR_FinMayDay;20130501;00:00;May Day;Finland;EUR;0
+CLP_LabourDay;20130501;00:00;Labour Day;Chile;CLP;0
+KRW_TradeBalance;20130501;00:00;Trade Balance;South Korea;KRW;1
+ISK_MayDay;20130501;00:00;May Day ;Iceland;ISK;0
+LTL_LabourDay;20130501;00:00;Labour Day ;Lithuania;LTL;0
+EUR_GreLabourDay;20130501;00:00;Labour Day;Greece;EUR;0
+HKD_LabourDay;20130501;00:00;Labour Day;Hong Kong SAR;HKD;0
+TRY_LabourDay;20130501;00:00;Labour Day;Turkey;TRY;0
+MXN_LabourDay;20130501;00:00;Labour Day ;Mexico;MXN;0

@@ -1,0 +1,42 @@
+JPY_JibunBankManufacturingPMI;20170523;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+JPY_AllIndustryActivityIndex;20170523;04:30;All Industry Activity Index (MoM);Japan;JPY;2
+CHF_TradeBalance;20170523;06:00;Trade Balance;Switzerland;CHF;1
+CHF_Exports;20170523;06:00;Exports (MoM);Switzerland;CHF;1
+CHF_Imports;20170523;06:00;Imports (MoM);Switzerland;CHF;1
+EUR_GerGrossDomesticProduct;20170523;06:00;Gross Domestic Product (YoY);Germany;EUR;2
+EUR_FraBusinessClimateinManufacturing;20170523;06:45;Business Climate in Manufacturing;France;EUR;1
+EUR_FraHCOBManufacturingPMI;20170523;07:00;HCOB Manufacturing PMI;France;EUR;1
+EUR_FraHCOBServicesPMI;20170523;07:00;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20170523;07:00;HCOB Composite PMI;France;EUR;1
+SEK_UnemploymentRate;20170523;07:30;Unemployment Rate;Sweden;SEK;1
+EUR_GerHCOBCompositePMI;20170523;07:30;HCOB Composite PMI;Germany;EUR;1
+EUR_GerHCOBManufacturingPMI;20170523;07:30;HCOB Manufacturing PMI;Germany;EUR;1
+EUR_GerHCOBServicesPMI;20170523;07:30;HCOB Services PMI;Germany;EUR;1
+EUR_GerIFO–Expectations;20170523;08:00;IFO – Expectations;Germany;EUR;2
+EUR_GerIFO–BusinessClimate;20170523;08:00;IFO – Business Climate;Germany;EUR;2
+EUR_GerIFO–CurrentAssessment;20170523;08:00;IFO – Current Assessment;Germany;EUR;2
+EUR_EurHCOBManufacturingPMI;20170523;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurHCOBServicesPMI;20170523;08:00;HCOB Services PMI;European Monetary Union;EUR;2
+EUR_EurHCOBCompositePMI;20170523;08:00;HCOB Composite PMI;European Monetary Union;EUR;2
+GBP_PublicSectorNetBorrowing;20170523;08:30;Public Sector Net Borrowing;United Kingdom;GBP;2
+GBP_CBIDistributiveTradesSurvey–Realized;20170523;10:00;CBI Distributive Trades Survey – Realized (MoM);United Kingdom;GBP;1
+TRY_ManufacturingConfidence;20170523;11:30;Manufacturing Confidence;Turkey;TRY;1
+TRY_CapacityUtilization;20170523;11:30;Capacity Utilization;Turkey;TRY;1
+HUF_MNBInterestRateDecision;20170523;12:00;MNB Interest Rate Decision;Hungary;HUF;0
+BRL_MidmonthInflation;20170523;12:00;Mid-month Inflation;Brazil;BRL;1
+CAD_WholesaleSales;20170523;12:30;Wholesale Sales (MoM);Canada;CAD;1
+USD_RedbookIndex;20170523;12:55;Redbook Index (YoY);United States;USD;1
+MXN_RetailSales;20170523;13:00;Retail Sales (YoY);Mexico;MXN;1
+BRL_CurrentAccount;20170523;13:30;Current Account;Brazil;BRL;1
+USD_S&PGlobalManufacturingPMI;20170523;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20170523;13:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20170523;13:45;S&P Global Services PMI;United States;USD;2
+USD_NewHomeSales;20170523;14:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20170523;14:00;New Home Sales Change (MoM);United States;USD;2
+USD_RichmondFedManufacturingIndex;20170523;14:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_Auction;20170523;17:00;2-Year Note Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20170523;20:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_CentralBankSpeech;20170523;21:00;Fed Harker speech;United States;USD;1
+NZD_TradeBalanceNZD;20170523;22:45;Trade Balance NZD (YoY);New Zealand;NZD;2
+NZD_Imports;20170523;22:45;Imports;New Zealand;NZD;2
+NZD_Exports;20170523;22:45;Exports;New Zealand;NZD;2

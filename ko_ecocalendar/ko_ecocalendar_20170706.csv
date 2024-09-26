@@ -1,0 +1,32 @@
+CZK_JanHusDay;20170706;00:00;Jan Hus Day ;Czech Republic;CZK;0
+COP_ConsumerPriceIndex;20170706;00:00;Consumer Price Index (YoY);Colombia;COP;1
+AUD_Exports;20170706;01:30;Exports (MoM);Australia;AUD;2
+AUD_Imports;20170706;01:30;Imports (MoM);Australia;AUD;2
+AUD_TradeBalance;20170706;01:30;Trade Balance (MoM);Australia;AUD;2
+EUR_GerFactoryOrders;20170706;06:00;Factory Orders n.s.a. (YoY);Germany;EUR;1
+HUF_IndustrialOutput;20170706;07:00;Industrial Output (YoY);Hungary;HUF;1
+CHF_ConsumerPriceIndex;20170706;07:15;Consumer Price Index (YoY);Switzerland;CHF;1
+HUF_BudgetBalance;20170706;09:00;Budget Balance;Hungary;HUF;1
+EUR_FraAuction;20170706;09:17;10-y Bond Auction;France;EUR;1
+ZAR_BusinessConfidenceIndex;20170706;09:30;Business Confidence Index;South Africa;ZAR;1
+GBP_Auction;20170706;09:46;10-y Bond Auction;United Kingdom;GBP;1
+EUR_EurCentralBankSpeech;20170706;10:00;ECB Praet speech;European Monetary Union;EUR;2
+USD_MBAMortgageApplications;20170706;11:00;MBA Mortgage Applications;United States;USD;1
+USD_ChallengerJobCuts;20170706;11:30;Challenger Job Cuts;United States;USD;1
+EUR_EurECBMonetaryPolicyMeetingAccounts;20170706;11:30;ECB Monetary Policy Meeting Accounts;European Monetary Union;EUR;3
+USD_ADPEmploymentChange;20170706;12:15;ADP Employment Change;United States;USD;2
+USD_GoodsandServicesTradeBalance;20170706;12:30;Goods and Services Trade Balance;United States;USD;2
+USD_JoblessClaims;20170706;12:30;Continuing Jobless Claims;United States;USD;2
+CAD_BuildingPermits;20170706;12:30;Building Permits (MoM);Canada;CAD;1
+CAD_Exports;20170706;12:30;Exports;Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20170706;12:30;International Merchandise Trade;Canada;CAD;1
+CAD_Imports;20170706;12:30;Imports;Canada;CAD;1
+RUB_ConsumerPriceIndex;20170706;13:00;Consumer Price Index (MoM);Russia;RUB;1
+RUB_CentralBankReserves;20170706;13:01;Central Bank Reserves $;Russia;RUB;1
+USD_S&PGlobalServicesPMI;20170706;13:45;S&P Global Services PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20170706;13:45;S&P Global Composite PMI;United States;USD;2
+USD_ISMServicesPMI;20170706;14:00;ISM Services PMI;United States;USD;2
+USD_EIACrudeOilStocksChange;20170706;15:00;EIA Crude Oil Stocks Change;United States;USD;1
+AUD_AiGPerformanceofConstructionIndex;20170706;23:30;AiG Performance of Construction Index;Australia;AUD;2
+USD_CentralBankSpeech;20170706;23:30;Fed Stanley Fischer speech;United States;USD;2
+JPY_JPForeignReserves;20170706;23:50;JP Foreign Reserves;Japan;JPY;1

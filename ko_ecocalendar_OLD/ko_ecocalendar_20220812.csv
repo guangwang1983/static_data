@@ -1,0 +1,31 @@
+AUD_HIANewHomeSales;20220812;01:00;HIA New Home Sales (MoM);Australia;AUD;2
+GBP_GrossDomesticProduct;20220812;06:00;Gross Domestic Product (QoQ);United Kingdom;GBP;3
+GBP_ManufacturingProduction;20220812;06:00;Manufacturing Production (YoY);United Kingdom;GBP;2
+GBP_IndustrialProduction;20220812;06:00;Industrial Production (MoM);United Kingdom;GBP;2
+GBP_TotalBusinessInvestment;20220812;06:00;Total Business Investment (YoY);United Kingdom;GBP;1
+GBP_IndexofServices;20220812;06:00;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20220812;06:00;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20220812;06:00;Goods Trade Balance;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20220812;06:00;Total Trade Balance;United Kingdom;GBP;1
+RON_IndustrialProduction;20220812;06:00;Industrial Production (MoM);Romania;RON;1
+SEK_ConsumerPriceIndex;20220812;06:00;Consumer Price Index (YoY);Sweden;SEK;1
+CNY_FDIForeignDirectInvestment;20220812;07:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+TRY_IndustrialProduction;20220812;07:00;Industrial Production (YoY);Turkey;TRY;1
+HUF_IndustrialOutput;20220812;07:00;Industrial Output (YoY);Hungary;HUF;1
+PLN_ConsumerPriceIndex;20220812;08:00;Consumer Price Index (MoM);Poland;PLN;1
+CZK_CurrentAccount;20220812;08:00;Current Account (MoM);Czech Republic;CZK;1
+EUR_EurIndustrialProduction;20220812;09:00;Industrial Production s.a. (MoM);European Monetary Union;EUR;2
+GBP_NIESRGDPEstimate;20220812;11:00;NIESR GDP Estimate (3M);United Kingdom;GBP;2
+PLN_CurrentAccount;20220812;12:00;Current Account;Poland;PLN;1
+USD_ImportPriceIndex;20220812;12:30;Import Price Index (YoY);United States;USD;1
+USD_ExportPriceIndex;20220812;12:30;Export Price Index (MoM);United States;USD;1
+USD_MichiganConsumerSentimentIndex;20220812;14:00;Michigan Consumer Sentiment Index;United States;USD;3
+USD_USDAWASDEReport;20220812;16:00;USDA WASDE Report;United States;USD;1
+USD_BakerHughesUSOilRigCount;20220812;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20220812;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20220812;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20220812;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20220812;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20220812;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20220812;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20220812;19:30;CFTC AUD NC Net Positions;Australia;AUD;1

@@ -1,0 +1,23 @@
+GBP_GfKConsumerConfidence;20230120;00:01;GfK Consumer Confidence;United Kingdom;GBP;2
+CNY_PBoCInterestRateDecision;20230120;01:15;PBoC Interest Rate Decision;China;CNY;3
+GBP_RetailSales;20230120;07:00;Retail Sales ex-Fuel (MoM);United Kingdom;GBP;2
+EUR_GerProducerPriceIndex;20230120;07:00;Producer Price Index (YoY);Germany;EUR;1
+PLN_CorporateSectorWages;20230120;09:00;Corporate Sector Wages;Poland;PLN;1
+INR_FXReservesUSD;20230120;11:30;FX Reserves, USD;India;INR;1
+MXN_RetailSales;20230120;12:00;Retail Sales (MoM);Mexico;MXN;1
+CAD_EmploymentInsuranceBeneficiariesChange;20230120;13:30;Employment Insurance Beneficiaries Change (MoM);Canada;CAD;1
+CAD_RetailSales;20230120;13:30;Retail Sales ex Autos (MoM);Canada;CAD;2
+USD_ExistingHomeSales;20230120;15:00;Existing Home Sales (MoM);United States;USD;1
+USD_ExistingHomeSalesChange;20230120;15:00;Existing Home Sales Change (MoM);United States;USD;1
+KRW_KoreanNewYear;20230120;15:00;Korean New Year ;South Korea;KRW;0
+EUR_EurCentralBankSpeech;20230120;15:30;ECB Elderson speech;European Monetary Union;EUR;2
+CNY_ChineseNewYearEve;20230120;16:00;Chinese New Year Eve ;China;CNY;0
+USD_BakerHughesUSOilRigCount;20230120;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CentralBankSpeech;20230120;18:00;Fed Waller speech;United States;USD;2
+AUD_CFTCAUDNCNetPositions;20230120;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20230120;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+USD_CFTCS&P500NCNetPositions;20230120;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20230120;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+GBP_CFTCGBPNCNetPositions;20230120;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20230120;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20230120;20:30;CFTC Oil NC Net Positions;United States;USD;1

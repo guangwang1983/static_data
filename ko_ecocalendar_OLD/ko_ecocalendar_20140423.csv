@@ -1,0 +1,32 @@
+JPY_CorporateServicePrice;20140423;23:50;Corporate Service Price (YoY);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20140423;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20140423;23:50;Foreign Bond Investment;Japan;JPY;1
+NZD_RBNZInterestRateDecision;20140423;21:00;RBNZ Interest Rate Decision;New Zealand;NZD;3
+USD_Auction;20140423;17:00;5-Year Note Auction;United States;USD;1
+USD_EIACrudeOilStocksChange;20140423;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_NewHomeSales;20140423;14:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20140423;14:00;New Home Sales Change (MoM);United States;USD;1
+USD_MarkitManufacturingPMI;20140423;13:45;Markit Manufacturing PMI;United States;USD;2
+MXN_RetailSales;20140423;13:00;Retail Sales (YoY);Mexico;MXN;1
+CAD_RetailSales;20140423;12:30;Retail Sales (MoM);Canada;CAD;1
+USD_MBAMortgageApplications;20140423;11:00;MBA Mortgage Applications;United States;USD;1
+GBP_CBIIndustrialTrendsSurveyOrders;20140423;10:00;CBI Industrial Trends Survey - Orders (MoM);United Kingdom;GBP;1
+GBP_BoEMPCVoteUnchanged;20140423;08:30;BoE MPC Vote Unchanged;United Kingdom;GBP;3
+GBP_BoEMPCVoteCut;20140423;08:30;BoE MPC Vote Cut;United Kingdom;GBP;3
+GBP_BoEMPCVoteHike;20140423;08:30;BoE MPC Vote Hike;United Kingdom;GBP;3
+GBP_BankofEnglandMinutes;20140423;08:30;Bank of England Minutes;United Kingdom;GBP;3
+GBP_PublicSectorNetBorrowing;20140423;08:30;Public Sector Net Borrowing;United Kingdom;GBP;2
+ZAR_ConsumerPriceIndex;20140423;08:00;Consumer Price Index (YoY);South Africa;ZAR;1
+EUR_EurMarkitPMIComposite;20140423;08:00;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitManufacturingPMI;20140423;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20140423;08:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_GerMarkitManufacturingPMI;20140423;07:30;Markit Manufacturing PMI;Germany;EUR;2
+EUR_GerMarkitServicesPMI;20140423;07:30;Markit Services PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20140423;07:00;Markit Manufacturing PMI;France;EUR;1
+EUR_FraMarkitServicesPMI;20140423;07:00;Markit Services PMI;France;EUR;1
+SGD_ConsumerPriceIndex;20140423;05:00;Consumer Price Index (YoY);Singapore;SGD;1
+CNY_CaixinManufacturingPMI;20140423;01:45;Caixin Manufacturing PMI;China;CNY;2
+AUD_RBATrimmedMeanCPI;20140423;01:30;RBA Trimmed Mean CPI (YoY);Australia;AUD;2
+AUD_ConsumerPriceIndex;20140423;01:30;Consumer Price Index (QoQ);Australia;AUD;2
+JPY_CentralBankSpeech;20140423;00:25;BoJ Nakaso speech;Japan;JPY;1
+TRY_NationalSovereigntyandChildrenDay;20140423;00:00;National Sovereignty and Children Day ;Turkey;TRY;0

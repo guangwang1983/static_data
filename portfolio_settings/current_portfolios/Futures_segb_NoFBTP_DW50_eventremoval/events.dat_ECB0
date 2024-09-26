@@ -1,0 +1,1 @@
+EUR_EurECBInterestRateDecision 0

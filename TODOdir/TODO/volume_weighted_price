@@ -1,0 +1,20 @@
+Introduce Trade Volume-weighed Indictors. Price-Volume.
+
+if High(T+1)>(H(T) and Lows(T+1)>Lows(T) :
+    --> UpTrend : Higher Highs + Higher Lows
+else if High(T+1)<(H(T) and Lows(T+1)<Lows(T) :
+    --> DownTrend : Lower Highs + Lower Lows
+else:
+    --> Stationary
+
+Calculate Trend on Price and OBV.
+
+Dont go against Uptrend in Price and OBV. Dont go against Downtrend in Price and OBV.
+
+On Balance Volume(w,t):
+Within a window w :
+if P(t)>P(t-w):
+    OBV(t)=OBV(t-w)+Volume(t,t-w)
+if P(t)<P(t-w):
+    OBV(t)=OBV(t-w)-Volume(t,t-w)
+

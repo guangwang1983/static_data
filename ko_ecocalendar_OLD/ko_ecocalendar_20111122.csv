@@ -1,0 +1,17 @@
+ARS_TradeBalance;20111122;19:00;Trade Balance (MoM);Argentina;ARS;1
+USD_FOMCMinutes;20111122;19:00;FOMC Minutes;United States;USD;3
+EUR_EurConsumerConfidence;20111122;15:00;Consumer Confidence;European Monetary Union;EUR;2
+USD_RichmondFedManufacturingIndex;20111122;15:00;Richmond Fed Manufacturing Index;United States;USD;1
+MXN_GrossDomesticProduct;20111122;14:00;Gross Domestic Product (YoY);Mexico;MXN;1
+USD_GrossDomesticProduct;20111122;13:30;Gross Domestic Product Annualized;United States;USD;3
+USD_CorePersonalConsumptionExpenditures;20111122;13:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+CAD_RetailSales;20111122;13:30;Retail Sales ex Autos (MoM);Canada;CAD;1
+PLN_NetInflation;20111122;13:00;Net Inflation;Poland;PLN;1
+BRL_CurrentAccount;20111122;12:30;Current Account;Brazil;BRL;1
+GBP_PublicSectorNetBorrowing;20111122;09:30;Public Sector Net Borrowing;United Kingdom;GBP;2
+NOK_GrossDomesticProduct;20111122;09:00;Gross Domestic Product Growth Mainland;Norway;NOK;1
+SEK_UnemploymentRate;20111122;08:30;Unemployment Rate;Sweden;SEK;1
+DKK_ConsumerConfidence;20111122;08:00;Consumer Confidence;Denmark;DKK;1
+CHF_TradeBalance;20111122;07:00;Trade Balance;Switzerland;CHF;2
+EUR_FinUnemploymentRate;20111122;07:00;Unemployment Rate;Finland;EUR;1
+NZD_RBNZInflationExpectations;20111122;02:00;RBNZ Inflation Expectations (QoQ);New Zealand;NZD;2

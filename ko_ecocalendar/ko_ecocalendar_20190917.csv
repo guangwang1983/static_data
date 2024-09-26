@@ -1,0 +1,28 @@
+CNY_HousePriceIndex;20190917;01:30;House Price Index ;China;CNY;1
+AUD_HousePriceIndex;20190917;01:30;House Price Index (QoQ);Australia;AUD;2
+AUD_RBAMeetingMinutes;20190917;01:30;RBA Meeting Minutes;Australia;AUD;3
+AUD_RBAAnnualReport;20190917;02:00;RBA Annual Report;Australia;AUD;1
+CHF_SECOEconomicForecasts;20190917;05:45;SECO Economic Forecasts;Switzerland;CHF;1
+SEK_UnemploymentRate;20190917;07:30;Unemployment Rate;Sweden;SEK;1
+EUR_GerZEWSurvey–CurrentSituation;20190917;09:00;ZEW Survey – Current Situation;Germany;EUR;2
+EUR_GerZEWSurvey–EconomicSentiment;20190917;09:00;ZEW Survey – Economic Sentiment;Germany;EUR;3
+EUR_EurZEWSurvey–EconomicSentiment;20190917;09:07;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;2
+ILS_M1MoneySupply;20190917;10:00;M1 Money Supply (MoM);Israel;ILS;1
+CAD_ManufacturingSales;20190917;12:30;Manufacturing Sales (MoM);Canada;CAD;1
+USD_RedbookIndex;20190917;12:55;Redbook Index (YoY);United States;USD;1
+RUB_ProducerPriceIndex;20190917;13:00;Producer Price Index (MoM);Russia;RUB;1
+USD_CapacityUtilization;20190917;13:15;Capacity Utilization;United States;USD;1
+USD_IndustrialProduction;20190917;13:15;Industrial Production (MoM);United States;USD;2
+USD_NAHBHousingMarketIndex;20190917;14:00;NAHB Housing Market Index;United States;USD;1
+NZD_GDTPriceIndex;20190917;14:30;GDT Price Index;New Zealand;NZD;2
+EUR_EurCentralBankSpeech;20190917;17:10;ECB Cœuré speech;European Monetary Union;EUR;2
+USD_NetLongTermTICFlows;20190917;20:00;Net Long-Term TIC Flows;United States;USD;1
+USD_TotalNetTICFlows;20190917;20:00;Total Net TIC Flows;United States;USD;1
+KRW_ImportPriceGrowth;20190917;21:00;Import Price Growth (YoY);South Korea;KRW;1
+KRW_ExportPriceGrowth;20190917;21:00;Export Price Growth (YoY);South Korea;KRW;1
+USD_APIWeeklyCrudeOilStock;20190917;21:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_CurrentAccount;20190917;22:45;Current Account (QoQ);New Zealand;NZD;1
+JPY_MerchandiseTradeBalanceTotal;20190917;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20190917;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_Imports;20190917;23:50;Imports (YoY);Japan;JPY;2
+JPY_Exports;20190917;23:50;Exports (YoY);Japan;JPY;2

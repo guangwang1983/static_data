@@ -1,0 +1,19 @@
+JPY_MerchandiseTradeBalanceTotal;20081119;23:50;Merchandise Trade Balance Total;Japan;JPY;1
+JPY_AdjustedMerchandiseTradeBalance;20081119;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_NikkeiManufacturingPMI;20081119;23:15;Nikkei Manufacturing PMI;Japan;JPY;1
+TRY_CBRTInterestRateDecision;20081119;20:00;CBRT Interest Rate Decision;Turkey;TRY;1
+USD_FOMCMinutes;20081119;19:00;FOMC Minutes;United States;USD;2
+USD_CentralBankSpeech;20081119;18:30;Fed Lacker speech;United States;USD;2
+USD_EIACrudeOilStocksChange;20081119;15:35;EIA Crude Oil Stocks Change;United States;USD;2
+USD_HousingStarts;20081119;13:30;Housing Starts (MoM);United States;USD;3
+USD_BuildingPermits;20081119;13:30;Building Permits (MoM);United States;USD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20081119;13:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;2
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20081119;13:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;2
+USD_ConsumerPriceIndex;20081119;13:30;Consumer Price Index ex Food & Energy (YoY);United States;USD;3
+CAD_LeadingIndicators;20081119;13:30;Leading Indicators (MoM);Canada;CAD;1
+USD_MBAMortgageApplications;20081119;12:00;MBA Mortgage Applications;United States;USD;1
+GBP_CBIIndustrialTrendsSurveyOrders;20081119;11:00;CBI Industrial Trends Survey - Orders (MoM);United Kingdom;GBP;1
+EUR_EurConstructionOutput;20081119;10:00;Construction Output w.d.a (YoY);European Monetary Union;EUR;1
+GBP_BankofEnglandMinutes;20081119;09:30;Bank of England Minutes;United Kingdom;GBP;3
+AUD_CentralBankSpeech;20081119;09:30;RBA Governor Stevens speech;Australia;AUD;2
+AUD_NewMotorVehicleSales;20081119;00:30;New Motor Vehicle Sales (MoM);Australia;AUD;2

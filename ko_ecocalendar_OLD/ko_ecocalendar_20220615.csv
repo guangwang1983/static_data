@@ -1,0 +1,40 @@
+AUD_WestpacConsumerConfidence;20220615;00:30;Westpac Consumer Confidence;Australia;AUD;2
+CNY_RetailSales;20220615;02:00;Retail Sales (YoY);China;CNY;3
+CNY_IndustrialProduction;20220615;02:00;Industrial Production (YoY);China;CNY;2
+CNY_NBSPressConference;20220615;02:00;NBS Press Conference;China;CNY;2
+CNY_FixedAssetInvestment;20220615;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+JPY_TertiaryIndustryIndex;20220615;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+NOK_TradeBalance;20220615;06:00;Trade Balance;Norway;NOK;1
+CHF_ProducerandImportPrices;20220615;06:30;Producer and Import Prices (MoM);Switzerland;CHF;1
+CHF_SECOEconomicForecasts;20220615;07:00;SECO Economic Forecasts;Switzerland;CHF;1
+TRY_BudgetBalance;20220615;08:00;Budget Balance;Turkey;TRY;1
+PLN_ConsumerPriceIndex;20220615;08:00;Consumer Price Index (MoM);Poland;PLN;1
+EUR_EurTradeBalance;20220615;09:00;Trade Balance n.s.a.;European Monetary Union;EUR;1
+EUR_EurIndustrialProduction;20220615;09:00;Industrial Production s.a. (MoM);European Monetary Union;EUR;2
+ILS_M1MoneySupply;20220615;10:00;M1 Money Supply (MoM);Israel;ILS;1
+USD_MBAMortgageApplications;20220615;11:00;MBA Mortgage Applications;United States;USD;1
+ZAR_RetailSales;20220615;11:00;Retail Sales (YoY);South Africa;ZAR;1
+CAD_HousingStarts;20220615;12:15;Housing Starts s.a (YoY);Canada;CAD;1
+USD_NYEmpireStateManufacturingIndex;20220615;12:30;NY Empire State Manufacturing Index;United States;USD;1
+USD_RetailSales;20220615;12:30;Retail Sales ex Autos (MoM);United States;USD;2
+USD_ExportPriceIndex;20220615;12:30;Export Price Index (YoY);United States;USD;1
+USD_ImportPriceIndex;20220615;12:30;Import Price Index (MoM);United States;USD;1
+USD_BusinessInventories;20220615;14:00;Business Inventories;United States;USD;1
+USD_NAHBHousingMarketIndex;20220615;14:00;NAHB Housing Market Index;United States;USD;1
+USD_EIACrudeOilStocksChange;20220615;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+ILS_ConsumerPriceIndex;20220615;15:30;Consumer Price Index (YoY);Israel;ILS;1
+EUR_EurCentralBankSpeech;20220615;16:20;ECB President Lagarde speech;European Monetary Union;EUR;3
+USD_FOMCEconomicProjections;20220615;18:00;FOMC Economic Projections;United States;USD;3
+USD_FedMonetaryPolicyStatement;20220615;18:00;Fed Monetary Policy Statement;United States;USD;3
+USD_FedInterestRateDecision;20220615;18:00;Fed Interest Rate Decision;United States;USD;3
+USD_FOMCPressConference;20220615;18:30;FOMC Press Conference;United States;USD;3
+USD_TotalNetTICFlows;20220615;20:00;Total Net TIC Flows;United States;USD;1
+USD_NetLongTermTICFlows;20220615;20:00;Net Long-Term TIC Flows;United States;USD;1
+ZAR_YouthDay;20220615;22:00;Youth Day;South Africa;ZAR;0
+NZD_GrossDomesticProduct;20220615;22:45;Gross Domestic Product (YoY);New Zealand;NZD;3
+JPY_Imports;20220615;23:50;Imports (YoY);Japan;JPY;2
+JPY_MerchandiseTradeBalanceTotal;20220615;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20220615;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_Exports;20220615;23:50;Exports (YoY);Japan;JPY;2
+JPY_ForeignBondInvestment;20220615;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20220615;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1

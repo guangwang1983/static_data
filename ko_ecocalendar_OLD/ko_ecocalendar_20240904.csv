@@ -1,0 +1,42 @@
+JPY_JibunBankServicesPMI;20240904;00:30;Jibun Bank Services PMI;Japan;JPY;1
+NZD_ANZCommodityPrice;20240904;01:00;ANZ Commodity Price;New Zealand;NZD;1
+AUD_TDSecuritiesInflation;20240904;01:00;TD Securities Inflation (MoM);Australia;AUD;1
+AUD_GrossDomesticProduct;20240904;01:30;Gross Domestic Product (YoY);Australia;AUD;2
+CNY_CaixinServicesPMI;20240904;01:45;Caixin Services PMI;China;CNY;3
+INR_HSBCCompositePMI;20240904;05:00;HSBC Composite PMI;India;INR;2
+INR_HSBCServicesPMI;20240904;05:00;HSBC Services PMI;India;INR;2
+RUB_S&PGlobalServicesPMI;20240904;06:00;S&P Global Services PMI;Russia;RUB;1
+NOK_CurrentAccount;20240904;06:00;Current Account;Norway;NOK;1
+SEK_CurrentAccount;20240904;06:00;Current Account (QoQ);Sweden;SEK;1
+EUR_EurCentralBankSpeech;20240904;07:00;ECB Elderson speech;Eurozone;EUR;2
+EUR_ItaHCOBServicesPMI;20240904;07:45;HCOB Services PMI;Italy;EUR;1
+EUR_FraHCOBCompositePMI;20240904;07:50;HCOB Composite PMI;France;EUR;1
+EUR_FraHCOBServicesPMI;20240904;07:50;HCOB Services PMI;France;EUR;1
+EUR_GerHCOBCompositePMI;20240904;07:55;HCOB Composite PMI;Germany;EUR;2
+EUR_GerHCOBServicesPMI;20240904;07:55;HCOB Services PMI;Germany;EUR;2
+TRY_Exports;20240904;08:00;Exports;Turkey;TRY;1
+EUR_EurHCOBServicesPMI;20240904;08:00;HCOB Services PMI;Eurozone;EUR;1
+EUR_EurHCOBCompositePMI;20240904;08:00;HCOB Composite PMI;Eurozone;EUR;2
+GBP_S&PGlobalCIPSCompositePMI;20240904;08:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;1
+GBP_S&PGlobalCIPSServicesPMI;20240904;08:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;1
+EUR_EurProducerPriceIndex;20240904;09:00;Producer Price Index (MoM);Eurozone;EUR;2
+USD_MBAMortgageApplications;20240904;11:00;MBA Mortgage Applications;United States;USD;1
+INR_M3MoneySupply;20240904;11:30;M3 Money Supply;India;INR;1
+BRL_IndustrialOutput;20240904;12:00;Industrial Output (YoY);Brazil;BRL;1
+USD_GoodsandServicesTradeBalance;20240904;12:30;Goods and Services Trade Balance;United States;USD;1
+USD_GoodsTradeBalance;20240904;12:30;Goods Trade Balance;United States;USD;1
+CAD_InternationalMerchandiseTrade;20240904;12:30;International Merchandise Trade;Canada;CAD;1
+CAD_Imports;20240904;12:30;Imports;Canada;CAD;1
+CAD_Exports;20240904;12:30;Exports;Canada;CAD;1
+USD_RedbookIndex;20240904;12:55;Redbook Index (YoY);United States;USD;1
+PLN_NBPBaserate;20240904;13:00;NBP Base rate;Poland;PLN;1
+CAD_BoCMonetaryPolicyStatement;20240904;13:45;BoC Monetary Policy Statement;Canada;CAD;3
+CAD_BoCInterestRateDecision;20240904;13:45;BoC Interest Rate Decision;Canada;CAD;3
+USD_JOLTSJobOpenings;20240904;14:00;JOLTS Job Openings;United States;USD;2
+USD_FactoryOrders;20240904;14:00;Factory Orders (MoM);United States;USD;2
+USD_FedBeigeBook;20240904;18:00;Fed Beige Book;United States;USD;2
+USD_APIWeeklyCrudeOilStock;20240904;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_GrossDomesticProduct;20240904;23:00;Gross Domestic Product Growth (YoY);South Korea;KRW;1
+JPY_LaborCashEarnings;20240904;23:30;Labor Cash Earnings (YoY);Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20240904;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20240904;23:50;Foreign Bond Investment;Japan;JPY;1

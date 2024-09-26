@@ -1,0 +1,40 @@
+NZD_ANZCommodityPrice;20240404;00:00;ANZ Commodity Price;New Zealand;NZD;1
+AUD_BuildingPermits;20240404;00:30;Building Permits (MoM);Australia;AUD;2
+INR_HSBCCompositePMI;20240404;05:00;HSBC Composite PMI;India;INR;2
+INR_HSBCServicesPMI;20240404;05:00;HSBC Services PMI;India;INR;2
+HUF_TradeBalance;20240404;06:30;Trade Balance;Hungary;HUF;1
+CHF_ConsumerPriceIndex;20240404;06:30;Consumer Price Index (YoY);Switzerland;CHF;3
+EUR_ItaHCOBServicesPMI;20240404;07:45;HCOB Services PMI;Italy;EUR;1
+EUR_FraHCOBCompositePMI;20240404;07:50;HCOB Composite PMI;France;EUR;1
+EUR_FraHCOBServicesPMI;20240404;07:50;HCOB Services PMI;France;EUR;1
+EUR_GerHCOBServicesPMI;20240404;07:55;HCOB Services PMI;Germany;EUR;2
+EUR_GerHCOBCompositePMI;20240404;07:55;HCOB Composite PMI;Germany;EUR;2
+TRY_Exports;20240404;08:00;Exports;Turkey;TRY;1
+EUR_EurHCOBServicesPMI;20240404;08:00;HCOB Services PMI;Eurozone;EUR;1
+EUR_EurHCOBCompositePMI;20240404;08:00;HCOB Composite PMI;Eurozone;EUR;2
+GBP_S&PGlobalCIPSCompositePMI;20240404;08:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;1
+GBP_S&PGlobalCIPSServicesPMI;20240404;08:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;1
+EUR_EurProducerPriceIndex;20240404;09:00;Producer Price Index (MoM);Eurozone;EUR;2
+GBP_Auction;20240404;09:30;10-y Bond Auction;United Kingdom;GBP;1
+USD_ChallengerJobCuts;20240404;11:30;Challenger Job Cuts;United States;USD;2
+EUR_EurECBMonetaryPolicyMeetingAccounts;20240404;11:30;ECB Monetary Policy Meeting Accounts;Eurozone;EUR;2
+MXN_ConsumerConfidence;20240404;12:00;Consumer Confidence;Mexico;MXN;1
+USD_GoodsandServicesTradeBalance;20240404;12:30;Goods and Services Trade Balance;United States;USD;1
+USD_JoblessClaims;20240404;12:30;Continuing Jobless Claims;United States;USD;1
+USD_GoodsTradeBalance;20240404;12:30;Goods Trade Balance;United States;USD;1
+BRL_CurrentAccount;20240404;12:30;Current Account;Brazil;BRL;1
+CAD_InternationalMerchandiseTrade;20240404;12:30;International Merchandise Trade;Canada;CAD;1
+CAD_Exports;20240404;12:30;Exports;Canada;CAD;1
+CAD_Imports;20240404;12:30;Imports;Canada;CAD;1
+PLN_NBPBaserate;20240404;13:00;NBP Base rate;Poland;PLN;1
+RON_Interestratedecision;20240404;13:00;Interest rate decision;Romania;RON;1
+RUB_CentralBankReserves;20240404;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_EIANaturalGasStorageChange;20240404;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20240404;15:30;4-Week Bill Auction;United States;USD;1
+CNY_TombSweepingDay;20240404;16:00;Tomb Sweeping Day;China;CNY;0
+BRL_TradeBalance;20240404;18:00;Trade Balance;Brazil;BRL;1
+CAD_AnnualBudgetRelease;20240404;20:00;Annual Budget Release;Canada;CAD;1
+KRW_CurrentAccount;20240404;23:00;Current Account Balance;South Korea;KRW;1
+USD_CentralBankSpeech;20240404;23:30;Fed Kugler speech;United States;USD;2
+JPY_OverallHouseholdSpending;20240404;23:30;Overall Household Spending (YoY);Japan;JPY;1
+JPY_JPForeignReserves;20240404;23:50;JP Foreign Reserves;Japan;JPY;1

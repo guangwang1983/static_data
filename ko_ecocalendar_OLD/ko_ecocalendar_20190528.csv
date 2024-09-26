@@ -1,0 +1,35 @@
+GBP_BRCShopPriceIndex;20190528;23:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1
+EUR_IreConsumerConfidence;20190528;23:01;Consumer Confidence;Ireland;EUR;1
+KRW_BOKManufacturingBSI;20190528;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+NZD_RBNZFinancialStabilityReport;20190528;21:00;RBNZ Financial Stability Report;New Zealand;NZD;2
+USD_Auction;20190528;15:30;3-Month Bill Auction;United States;USD;1
+COP_NationalJoblessRate;20190528;15:00;National Jobless Rate;Colombia;COP;1
+USD_DallasFedManufacturingBusinessIndex;20190528;14:30;Dallas Fed Manufacturing Business Index;United States;USD;1
+USD_ConsumerConfidence;20190528;14:00;Consumer Confidence;United States;USD;2
+USD_S&PCaseShillerHomePriceIndices;20190528;13:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;2
+MXN_JoblessRate;20190528;13:00;Jobless Rate;Mexico;MXN;1
+EUR_SloCurrentAccount;20190528;12:30;Current Account Balance EUR;Slovakia;EUR;1
+HUF_MNBInterestRateDecision;20190528;12:00;MNB Interest Rate Decision;Hungary;HUF;1
+EUR_BelConsumerPriceIndex;20190528;11:00;Consumer Price Index (MoM);Belgium;EUR;1
+GBP_InflationReportHearings;20190528;09:00;Inflation Report Hearings;United Kingdom;GBP;3
+ISK_ConsumerPriceIndex;20190528;09:00;Consumer Price Index (MoM);Iceland;ISK;1
+EUR_EurConsumerConfidence;20190528;09:00;Consumer Confidence;European Monetary Union;EUR;1
+EUR_EurServicesSentiment;20190528;09:00;Services Sentiment;European Monetary Union;EUR;1
+EUR_EurIndustrialConfidence;20190528;09:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_EurEconomicSentimentIndicator;20190528;09:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+EUR_EurBusinessClimate;20190528;09:00;Business Climate;European Monetary Union;EUR;2
+GBP_BBAMortgageApprovals;20190528;08:30;BBA Mortgage Approvals;United Kingdom;GBP;1
+EUR_ItaTradeBalancenonEU;20190528;08:00;Trade Balance non-EU;Italy;EUR;1
+EUR_AusPurchasingManagerIndex;20190528;08:00;Purchasing Manager Index;Austria;EUR;1
+EUR_EurPrivateLoans;20190528;08:00;Private Loans (YoY);European Monetary Union;EUR;1
+EUR_EurM3MoneySupply;20190528;08:00;M3 Money Supply (3m);European Monetary Union;EUR;1
+SEK_TradeBalance;20190528;07:30;Trade Balance (MoM);Sweden;SEK;1
+SEK_ConsumerConfidence;20190528;07:00;Consumer Confidence (MoM);Sweden;SEK;1
+TRY_Economicconfidenceindex;20190528;07:00;Economic confidence index;Turkey;TRY;1
+EUR_FraConsumerConfidence;20190528;06:45;Consumer Confidence;France;EUR;1
+EUR_GerImportPriceIndex;20190528;06:00;Import Price Index (MoM);Germany;EUR;1
+EUR_GerGfkConsumerConfidenceSurvey;20190528;06:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+CHF_TradeBalance;20190528;06:00;Trade Balance;Switzerland;CHF;1
+CHF_Exports;20190528;06:00;Exports (MoM);Switzerland;CHF;1
+CHF_Imports;20190528;06:00;Imports (MoM);Switzerland;CHF;1
+CHF_GrossDomesticProduct;20190528;05:45;Gross Domestic Product s.a. (QoQ);Switzerland;CHF;2

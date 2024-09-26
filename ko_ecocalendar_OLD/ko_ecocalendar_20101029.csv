@@ -1,0 +1,21 @@
+USD_MichiganConsumerSentimentIndex;20101029;13:55;Michigan Consumer Sentiment Index;United States;USD;3
+USD_ChicagoPurchasingManagers'Index;20101029;13:45;Chicago Purchasing Managers' Index;United States;USD;1
+CAD_RawMaterialPriceIndex;20101029;12:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20101029;12:30;Industrial Product Price (MoM);Canada;CAD;1
+USD_GrossDomesticProduct;20101029;12:30;Gross Domestic Product Annualized;United States;USD;3
+CAD_GrossDomesticProduct;20101029;12:30;Gross Domestic Product (MoM);Canada;CAD;3
+USD_CorePersonalConsumptionExpenditures;20101029;12:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+GBP_ConsumerCredit;20101029;09:30;Consumer Credit;United Kingdom;GBP;1
+CHF_KOFLeadingIndicator;20101029;09:30;KOF Leading Indicator;Switzerland;CHF;2
+EUR_EurUnemploymentRate;20101029;09:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_EurConsumerPriceIndex;20101029;09:00;Consumer Price Index (YoY);European Monetary Union;EUR;2
+GBP_NetLendingtoIndividuals;20101029;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;2
+GBP_MortgageApprovals;20101029;08:30;Mortgage Approvals;United Kingdom;GBP;2
+GBP_M4MoneySupply;20101029;08:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+EUR_GerRetailSales;20101029;06:00;Retail Sales (YoY);Germany;EUR;2
+JPY_ConstructionOrders;20101029;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_AnnualizedHousingStarts;20101029;05:00;Annualized Housing Starts;Japan;JPY;2
+JPY_HousingStarts;20101029;05:00;Housing Starts (YoY);Japan;JPY;2
+JPY_VehicleProduction;20101029;04:00;Vehicle Production (YoY);Japan;JPY;1
+AUD_PrivateSectorCredit;20101029;00:30;Private Sector Credit (YoY);Australia;AUD;2
+AUD_HIANewHomeSales;20101029;00:00;HIA New Home Sales (MoM);Australia;AUD;2

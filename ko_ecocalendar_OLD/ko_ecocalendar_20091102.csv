@@ -1,0 +1,11 @@
+USD_PendingHomeSales;20091102;15:00;Pending Home Sales (MoM);United States;USD;2
+USD_ISMManufacturingPMI;20091102;15:00;ISM Manufacturing PMI;United States;USD;2
+USD_ConstructionSpending;20091102;15:00;Construction Spending (MoM);United States;USD;1
+GBP_MarkitManufacturingPMI;20091102;09:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+EUR_EurMarkitManufacturingPMI;20091102;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;1
+EUR_GerMarkitManufacturingPMI;20091102;08:55;Markit Manufacturing PMI;Germany;EUR;2
+CHF_SVMEPurchasingManagers'Index;20091102;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+AUD_RBACommodityIndexSDR;20091102;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+JPY_VehicleSales;20091102;05:00;Vehicle Sales (YoY);Japan;JPY;1
+JPY_LaborCashEarnings;20091102;01:30;Labor Cash Earnings (YoY);Japan;JPY;1
+JPY_BankHoliday;20091102;00:00;Bank Holiday;Japan;JPY;0

@@ -1,0 +1,34 @@
+GBP_RICSHousingPriceBalance;20160810;23:01;RICS Housing Price Balance;United Kingdom;GBP;2
+NZD_FoodPriceIndex;20160810;22:45;Food Price Index (MoM);New Zealand;NZD;1
+NZD_RBNZPressConference;20160810;22:00;RBNZ Press Conference;New Zealand;NZD;3
+NZD_RBNZInterestRateDecision;20160810;21:00;RBNZ Interest Rate Decision;New Zealand;NZD;3
+NZD_MonetaryPolicyStatement;20160810;21:00;Monetary Policy Statement ;New Zealand;NZD;3
+NZD_RBNZRateStatement;20160810;20:00;RBNZ Rate Statement;New Zealand;NZD;3
+USD_MonthlyBudgetStatement;20160810;18:00;Monthly Budget Statement;United States;USD;2
+USD_Auction;20160810;17:00;10-Year Note Auction;United States;USD;2
+USD_EIACrudeOilStocksChange;20160810;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_JOLTSJobOpenings;20160810;14:00;JOLTS Job Openings;United States;USD;1
+BRL_IPCAInflation;20160810;12:00;IPCA Inflation;Brazil;BRL;1
+USD_MBAMortgageApplications;20160810;11:00;MBA Mortgage Applications;United States;USD;1
+EUR_PorConsumerPriceIndex;20160810;10:02;Consumer Price Index (MoM);Portugal;EUR;1
+EUR_PorUnemploymentRate;20160810;10:02;Unemployment Rate;Portugal;EUR;1
+EUR_GerAuction;20160810;09:30;10-y Bond Auction;Germany;EUR;2
+NOK_ConsumerPriceIndex;20160810;08:00;Consumer Price Index (YoY);Norway;NOK;1
+NOK_CoreInflation;20160810;08:00;Core Inflation (MoM);Norway;NOK;1
+NOK_ProducerPriceIndex;20160810;08:00;Producer Price Index (YoY);Norway;NOK;1
+SEK_IndustrialProduction;20160810;07:30;Industrial Production (YoY);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20160810;07:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+EUR_SloIndustrialOutput;20160810;07:00;Industrial Output (YoY);Slovakia;EUR;1
+DKK_ConsumerPriceIndex;20160810;07:00;Consumer Price Index (YoY);Denmark;DKK;1
+DKK_Inflation;20160810;07:00;Inflation (HICP) (YoY);Denmark;DKK;1
+EUR_FraIndustrialOutput;20160810;06:45;Industrial Output (MoM);France;EUR;1
+EUR_FinIndustrialOutput;20160810;06:00;Industrial Output (MoM);Finland;EUR;1
+RON_ConsumerPriceIndex;20160810;06:00;Consumer Price Index;Romania;RON;1
+JPY_TertiaryIndustryIndex;20160810;04:30;Tertiary Industry Index (MoM);Japan;JPY;2
+AUD_CentralBankSpeech;20160810;03:05;RBA Governor Stevens speech;Australia;AUD;3
+KRW_MoneySupplyGrowth;20160810;03:00;Money Supply Growth;South Korea;KRW;1
+AUD_InvestmentLendingforHomes;20160810;01:30;Investment Lending for Homes;Australia;AUD;2
+AUD_HomeLoans;20160810;01:30;Home Loans;Australia;AUD;2
+KRW_UnemploymentRate;20160810;01:00;Unemployment Rate;South Korea;KRW;1
+AUD_WestpacConsumerConfidence;20160810;00:30;Westpac Consumer Confidence;Australia;AUD;2
+PEN_Tradebalance;20160810;00:00;Trade balance;Peru;PEN;1

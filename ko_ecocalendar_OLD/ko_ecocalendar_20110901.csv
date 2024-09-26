@@ -1,0 +1,45 @@
+JPY_CapitalSpending;20110901;23:50;Capital Spending;Japan;JPY;1
+JPY_MonetaryBase;20110901;23:50;Monetary Base (YoY);Japan;JPY;1
+USD_TotalVehicleSales;20110901;21:00;Total Vehicle Sales;United States;USD;1
+USD_ISMManufacturingPMI;20110901;14:00;ISM Manufacturing PMI;United States;USD;2
+USD_ISMPricesPaid;20110901;14:00;ISM Prices Paid;United States;USD;2
+USD_ConstructionSpending;20110901;14:00;Construction Spending (MoM);United States;USD;2
+BRL_TradeBalance;20110901;13:30;Trade Balance;Brazil;BRL;1
+USD_JoblessClaims;20110901;12:30;Continuing Jobless Claims;United States;USD;1
+USD_NonfarmProductivity;20110901;12:30;Nonfarm Productivity;United States;USD;1
+USD_UnitLaborCosts;20110901;12:30;Unit Labor Costs;United States;USD;1
+CZK_BudgetBalance;20110901;12:00;Budget Balance;Czech Republic;CZK;1
+EUR_AusUnemployment;20110901;10:00;Unemployment;Austria;EUR;1
+EUR_AusUnemploymentRate;20110901;10:00;Unemployment Rate;Austria;EUR;1
+ZAR_PurchasingManagerIndex;20110901;09:00;Purchasing Manager Index;South Africa;ZAR;1
+GBP_MarkitManufacturingPMI;20110901;08:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+EUR_ItaWageInflation;20110901;08:00;Wage Inflation (YoY);Italy;EUR;1
+EUR_GreMarkitManufacturingPMI;20110901;08:00;Markit Manufacturing PMI;Greece;EUR;1
+NOK_CreditIndicator;20110901;08:00;Credit Indicator;Norway;NOK;1
+EUR_EurMarkitManufacturingPMI;20110901;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_GerMarkitManufacturingPMI;20110901;07:55;Markit Manufacturing PMI;Germany;EUR;2
+KRW_NikkeiMarkitManufacturingPMI;20110901;07:51;Nikkei Markit Manufacturing PMI;South Korea;KRW;1
+KRW_ImportPriceGrowth;20110901;07:50;Import Price Growth (YoY);South Korea;KRW;1
+EUR_FraMarkitManufacturingPMI;20110901;07:50;Markit Manufacturing PMI;France;EUR;1
+KRW_TradeBalance;20110901;07:49;Trade Balance;South Korea;KRW;1
+EUR_ItaMarkitManufacturingPMI;20110901;07:45;Markit Manufacturing PMI;Italy;EUR;1
+CHF_SVMEPurchasingManagers'Index;20110901;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;2
+CZK_MarkitPMI;20110901;07:30;Markit PMI;Czech Republic;CZK;1
+CHF_RetailSales;20110901;07:15;Real Retail Sales (YoY);Switzerland;CHF;2
+EUR_SpaMarkitManufacturingPMI;20110901;07:13;Markit Manufacturing PMI;Spain;EUR;1
+DKK_UnemploymentRate;20110901;07:00;Unemployment Rate;Denmark;DKK;1
+DKK_RetailSales;20110901;07:00;Retail Sales (YoY);Denmark;DKK;1
+HUF_PurchasingManagerIndex;20110901;07:00;Purchasing Manager Index;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20110901;07:00;Purchasing Manager Index;Poland;PLN;1
+AUD_RBACommodityIndexSDR;20110901;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+SEK_PurchasingManagersIndexManufacturing;20110901;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+INR_TradeDeficitGovernment;20110901;06:30;Trade Deficit Government;India;INR;1
+GBP_NationwideHousingPrices;20110901;06:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;2
+EUR_GerGrossDomesticProduct;20110901;06:00;Gross Domestic Product (QoQ);Germany;EUR;2
+CHF_GrossDomesticProduct;20110901;05:45;Gross Domestic Product (YoY);Switzerland;CHF;2
+EUR_FraILOUnemployment;20110901;05:30;ILO Unemployment;France;EUR;1
+CNY_CaixinManufacturingPMI;20110901;02:30;Caixin Manufacturing PMI;China;CNY;1
+AUD_RetailSales;20110901;01:30;Retail Sales s.a. (MoM);Australia;AUD;2
+AUD_PrivateCapitalExpenditure;20110901;01:30;Private Capital Expenditure;Australia;AUD;2
+CNY_NBSManufacturingPMI;20110901;01:00;NBS Manufacturing PMI;China;CNY;2
+NZD_ANZCommodityPrice;20110901;01:00;ANZ Commodity Price;New Zealand;NZD;1

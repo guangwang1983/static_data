@@ -1,0 +1,41 @@
+GBP_EuropeanCouncilSummitonBrexit;20191017;00:00;European Council Summit on Brexit;United Kingdom;GBP;3
+AUD_NationalAustraliaBankBusinessConfidence;20191017;00:30;National Australia Bank Business Confidence (QoQ);Australia;AUD;2
+AUD_PartTimeEmployment;20191017;00:30;Part-Time Employment;Australia;AUD;1
+AUD_FullTimeEmployment;20191017;00:30;Full-Time Employment;Australia;AUD;2
+AUD_EmploymentChange;20191017;00:30;Employment Change s.a.;Australia;AUD;3
+AUD_ParticipationRate;20191017;00:30;Participation Rate;Australia;AUD;1
+AUD_UnemploymentRate;20191017;00:30;Unemployment Rate s.a.;Australia;AUD;3
+CHF_Imports;20191017;06:00;Imports (MoM);Switzerland;CHF;1
+CHF_Exports;20191017;06:00;Exports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20191017;06:00;Trade Balance;Switzerland;CHF;1
+CNY_FDIForeignDirectInvestment;20191017;07:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+SEK_UnemploymentRate;20191017;07:30;Unemployment Rate;Sweden;SEK;1
+EUR_ItaGlobalTradeBalance;20191017;08:00;Global Trade Balance;Italy;EUR;1
+PLN_CorporateSectorWages;20191017;08:00;Corporate Sector Wages;Poland;PLN;1
+EUR_ItaTradeBalanceEU;20191017;08:03;Trade Balance EU;Italy;EUR;1
+GBP_RetailSales;20191017;08:30;Retail Sales ex-Fuel (MoM);United Kingdom;GBP;2
+GBP_BoECreditConditionsSurvey;20191017;08:30;BoE Credit Conditions Survey;United Kingdom;GBP;2
+EUR_EurConstructionOutput;20191017;09:00;Construction Output w.d.a (YoY);European Monetary Union;EUR;1
+USD_BuildingPermitsChange;20191017;12:30;Building Permits Change;United States;USD;1
+USD_HousingStartsChange;20191017;12:30;Housing Starts Change;United States;USD;1
+USD_HousingStarts;20191017;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20191017;12:30;Building Permits (MoM);United States;USD;2
+USD_JoblessClaims;20191017;12:30;Continuing Jobless Claims;United States;USD;1
+CAD_ManufacturingSales;20191017;12:30;Manufacturing Sales (MoM);Canada;CAD;1
+CAD_ADPEmploymentChange;20191017;12:30;ADP Employment Change;Canada;CAD;1
+USD_PhiladelphiaFedManufacturingSurvey;20191017;12:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+RUB_CentralBankReserves;20191017;13:00;Central Bank Reserves $;Russia;RUB;1
+RUB_UnemploymentRate;20191017;13:00;Unemployment Rate;Russia;RUB;1
+RUB_ProducerPriceIndex;20191017;13:00;Producer Price Index (YoY);Russia;RUB;1
+USD_CapacityUtilization;20191017;13:15;Capacity Utilization;United States;USD;1
+USD_IndustrialProduction;20191017;13:15;Industrial Production (MoM);United States;USD;2
+USD_EIANaturalGasStorageChange;20191017;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_EIACrudeOilStocksChange;20191017;15:00;EIA Crude Oil Stocks Change;United States;USD;1
+USD_Auction;20191017;15:30;4-Week Bill Auction;United States;USD;1
+AUD_CentralBankSpeech;20191017;20:00;RBA Governor Lowe speech;Australia;AUD;3
+USD_CentralBankSpeech;20191017;20:20;Fed Williams speech;United States;USD;2
+JPY_NationalCPIexFoodEnergy;20191017;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20191017;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20191017;23:30;National Consumer Price Index (YoY);Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20191017;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20191017;23:50;Foreign Bond Investment;Japan;JPY;1

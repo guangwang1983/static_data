@@ -1,0 +1,16 @@
+EUR_EurCentralBankSpeech;20091119;16:00;ECB President Trichet speech;European Monetary Union;EUR;2
+USD_CentralBankSpeech;20091119;15:00;Treasury Geithner speech;United States;USD;2
+USD_PhiladelphiaFedManufacturingSurvey;20091119;15:00;Philadelphia Fed Manufacturing Survey;United States;USD;1
+USD_JoblessClaims;20091119;13:30;Initial Jobless Claims;United States;USD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20091119;13:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20091119;13:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_WholesaleSales;20091119;13:30;Wholesale Sales (MoM);Canada;CAD;1
+CAD_LeadingIndicators;20091119;13:30;Leading Indicators (MoM);Canada;CAD;1
+GBP_RetailSales;20091119;09:30;Retail Sales (YoY);United Kingdom;GBP;3
+GBP_CMLGrossMortgageLending;20091119;09:30;CML Gross Mortgage Lending s.a.;United Kingdom;GBP;0
+GBP_M4MoneySupply;20091119;09:30;M4 Money Supply (MoM);United Kingdom;GBP;1
+GBP_PublicSectorNetBorrowing;20091119;09:30;Public Sector Net Borrowing;United Kingdom;GBP;1
+CHF_TradeBalance;20091119;07:15;Trade Balance;Switzerland;CHF;2
+JPY_LeadingEconomicIndex;20091119;05:00;Leading Economic Index;Japan;JPY;1
+JPY_CoincidentIndex;20091119;05:00;Coincident Index;Japan;JPY;1
+JPY_AllIndustryActivityIndex;20091119;04:30;All Industry Activity Index (MoM);Japan;JPY;1

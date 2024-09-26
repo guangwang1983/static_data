@@ -1,0 +1,42 @@
+KRW_CurrentAccount;20180503;23:00;Current Account Balance;South Korea;KRW;1
+CLP_BCCHInterestRate;20180503;22:00;BCCH Interest Rate;Chile;CLP;1
+KRW_FXReserves;20180503;21:00;FX Reserves;South Korea;KRW;1
+CHF_CentralBankSpeech;20180503;16:00;SNB Chairman Jordan speech;Switzerland;CHF;2
+USD_EIANaturalGasStorageChange;20180503;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_ISMNonManufacturingPMI;20180503;14:00;ISM Non-Manufacturing PMI;United States;USD;2
+USD_FactoryOrders;20180503;14:00;Factory Orders (MoM);United States;USD;2
+USD_MarkitServicesPMI;20180503;13:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20180503;13:45;Markit PMI Composite;United States;USD;2
+USD_TradeBalance;20180503;12:30;Trade Balance;United States;USD;2
+USD_JoblessClaims;20180503;12:30;Initial Jobless Claims;United States;USD;2
+USD_NonfarmProductivity;20180503;12:30;Nonfarm Productivity;United States;USD;2
+USD_UnitLaborCosts;20180503;12:30;Unit Labor Costs;United States;USD;2
+CAD_Imports;20180503;12:30;Imports;Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20180503;12:30;International Merchandise Trade;Canada;CAD;2
+CAD_Exports;20180503;12:30;Exports;Canada;CAD;1
+BRL_IndustrialOutput;20180503;12:00;Industrial Output (YoY);Brazil;BRL;1
+USD_ChallengerJobCuts;20180503;11:30;Challenger Job Cuts;United States;USD;1
+EUR_EurCentralBankSpeech;20180503;11:00;ECB Praet speech;European Monetary Union;EUR;2
+CZK_CNBInterestRateDecision;20180503;11:00;CNB Interest Rate Decision;Czech Republic;CZK;1
+EUR_EurEuropeanCommissionreleasesEconomicGrowthForecasts;20180503;10:00;European Commission releases Economic Growth Forecasts;European Monetary Union;EUR;2
+EUR_FraAuction;20180503;09:12;10-y Bond Auction;France;EUR;1
+EUR_SpaAuction;20180503;09:04;3-y Bond Auction;Spain;EUR;1
+EUR_EurConsumerPriceIndex;20180503;09:00;Consumer Price Index (YoY);European Monetary Union;EUR;3
+EUR_EurProducerPriceIndex;20180503;09:00;Producer Price Index (MoM);European Monetary Union;EUR;1
+HKD_RetailSales;20180503;08:30;Retail Sales;Hong Kong SAR;HKD;1
+GBP_MarkitServicesPMI;20180503;08:30;Markit Services PMI;United Kingdom;GBP;2
+BRL_FipeIPCInflation;20180503;08:00;Fipe IPC Inflation;Brazil;BRL;1
+NOK_NorgesBankInterestRateDecision;20180503;08:00;Norges Bank Interest Rate Decision;Norway;NOK;0
+TRY_ProducerPriceIndex;20180503;07:00;Producer Price Index (YoY);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20180503;07:00;Consumer Price Index (YoY);Turkey;TRY;1
+HUF_ProducerPriceIndex;20180503;07:00;Producer Price Index (YoY);Hungary;HUF;1
+HUF_TradeBalance;20180503;07:00;Trade Balance;Hungary;HUF;1
+RUB_HSBCManufacturingPMI;20180503;06:00;HSBC Manufacturing PMI	;Russia;RUB;1
+EUR_IrePurchasingManagerIndexServices;20180503;05:00;Purchasing Manager Index Services;Ireland;EUR;1
+AUD_BuildingPermits;20180503;01:30;Building Permits (YoY);Australia;AUD;1
+AUD_Imports;20180503;01:30;Imports;Australia;AUD;2
+AUD_TradeBalance;20180503;01:30;Trade Balance;Australia;AUD;2
+AUD_Exports;20180503;01:30;Exports;Australia;AUD;2
+NZD_ANZCommodityPrice;20180503;01:00;ANZ Commodity Price;New Zealand;NZD;1
+JPY_ConstitutionDay;20180503;00:00;Constitution Day;Japan;JPY;0
+PLN_ConstitutionDay;20180503;00:00;Constitution Day ;Poland;PLN;0

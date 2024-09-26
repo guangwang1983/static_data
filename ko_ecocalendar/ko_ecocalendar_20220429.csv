@@ -1,0 +1,57 @@
+AUD_PrivateSectorCredit;20220429;01:30;Private Sector Credit (MoM);Australia;AUD;1
+AUD_ProducerPriceIndex;20220429;01:30;Producer Price Index (YoY);Australia;AUD;1
+EUR_FraConsumerSpending;20220429;05:30;Consumer Spending (MoM);France;EUR;1
+EUR_FraGrossDomesticProduct;20220429;05:30;Gross Domestic Product (QoQ);France;EUR;2
+EUR_GerImportPriceIndex;20220429;06:00;Import Price Index (MoM);Germany;EUR;1
+DKK_UnemploymentRate;20220429;06:00;Unemployment Rate;Denmark;DKK;1
+GBP_NationwideHousingPrices;20220429;06:00;Nationwide Housing Prices s.a (MoM);United Kingdom;GBP;1
+NOK_RetailSales;20220429;06:00;Retail Sales ;Norway;NOK;1
+NOK_CreditIndicator;20220429;06:00;Credit Indicator;Norway;NOK;1
+ZAR_M3MoneySupply;20220429;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+ZAR_PrivateSectorCredit;20220429;06:00;Private Sector Credit;South Africa;ZAR;1
+CHF_RetailSales;20220429;06:30;Real Retail Sales (YoY);Switzerland;CHF;2
+EUR_FraProducerPrices;20220429;06:45;Producer Prices (MoM);France;EUR;1
+EUR_FraConsumerPriceIndex;20220429;06:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+CHF_KOFLeadingIndicator;20220429;07:00;KOF Leading Indicator;Switzerland;CHF;2
+TRY_TradeBalance;20220429;07:00;Trade Balance;Turkey;TRY;1
+CZK_GrossDomesticProduct;20220429;07:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+TRY_ForeignArrivals;20220429;08:00;Foreign Arrivals;Turkey;TRY;1
+EUR_ItaGrossDomesticProduct;20220429;08:00;Gross Domestic Product (YoY);Italy;EUR;2
+CHF_CentralBankSpeech;20220429;08:00;SNB Chairman Jordan speech;Switzerland;CHF;3
+EUR_GerGrossDomesticProduct;20220429;08:00;Gross Domestic Product (YoY);Germany;EUR;2
+EUR_EurM3MoneySupply;20220429;08:00;M3 Money Supply (3m);European Monetary Union;EUR;1
+EUR_EurPrivateLoans;20220429;08:00;Private Loans (YoY);European Monetary Union;EUR;1
+NOK_RegisteredUnemployment;20220429;08:00;Registered Unemployment n.s.a;Norway;NOK;1
+EUR_EurGrossDomesticProduct;20220429;09:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+EUR_EurHarmonizedIndexofConsumerPrices;20220429;09:00;Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20220429;09:00;Core Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_ItaConsumerPriceIndex;20220429;09:00;Consumer Price Index (YoY);Italy;EUR;1
+EUR_ItaAuction;20220429;09:30;10-y Bond Auction;Italy;EUR;1
+EUR_ItaProducerPriceIndex;20220429;10:00;Producer Price Index (YoY);Italy;EUR;1
+RUB_Interestratedecision;20220429;10:30;Interest rate decision;Russia;RUB;2
+INR_FXReservesUSD;20220429;11:30;FX Reserves, USD;India;INR;1
+BRL_UnemploymentRate;20220429;12:00;Unemployment Rate;Brazil;BRL;1
+INR_InfrastructureOutput;20220429;12:00;Infrastructure Output (YoY);India;INR;1
+ZAR_TradeBalance;20220429;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+BRL_CurrentAccount;20220429;12:30;Current Account;Brazil;BRL;1
+USD_PersonalIncome;20220429;12:30;Personal Income (MoM);United States;USD;2
+USD_CorePersonalConsumptionExpendituresPriceIndex;20220429;12:30;Core Personal Consumption Expenditures - Price Index (MoM);United States;USD;2
+USD_PersonalConsumptionExpendituresPriceIndex;20220429;12:30;Personal Consumption Expenditures - Price Index (YoY);United States;USD;1
+USD_PersonalSpending;20220429;12:30;Personal Spending;United States;USD;2
+USD_EmploymentCostIndex;20220429;12:30;Employment Cost Index;United States;USD;1
+CAD_GrossDomesticProduct;20220429;12:30;Gross Domestic Product (MoM);Canada;CAD;2
+CLP_IndustrialProduction;20220429;13:00;Industrial Production (YoY);Chile;CLP;1
+USD_ChicagoPurchasingManagers'Index;20220429;13:45;Chicago Purchasing Managers' Index;United States;USD;2
+USD_UoM5yearConsumerInflationExpectation;20220429;14:00;UoM 5-year Consumer Inflation Expectation;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20220429;14:00;Michigan Consumer Sentiment Index;United States;USD;2
+COP_NationalJoblessRate;20220429;15:00;National Jobless Rate;Colombia;COP;1
+USD_BakerHughesUSOilRigCount;20220429;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+AUD_CFTCAUDNCNetPositions;20220429;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+JPY_CFTCJPYNCNetPositions;20220429;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCOilNCNetPositions;20220429;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20220429;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20220429;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20220429;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20220429;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+COP_Interestrate;20220429;20:00;Interest rate;Colombia;COP;1
+MXN_FiscalBalancepesos;20220429;21:00;Fiscal Balance, pesos;Mexico;MXN;1

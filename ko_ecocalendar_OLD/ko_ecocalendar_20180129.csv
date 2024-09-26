@@ -1,0 +1,25 @@
+JPY_RetailTrade;20180129;23:50;Retail Trade (YoY);Japan;JPY;2
+JPY_LargeRetailers'Sales;20180129;23:50;Large Retailers' Sales;Japan;JPY;2
+JPY_JobsApplicantsRatio;20180129;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+JPY_UnemploymentRate;20180129;23:30;Unemployment Rate;Japan;JPY;2
+JPY_OverallHouseholdSpending;20180129;23:30;Overall Household Spending (YoY);Japan;JPY;2
+NZD_Imports;20180129;21:45;Imports;New Zealand;NZD;2
+NZD_TradeBalance;20180129;21:45;Trade Balance (YoY);New Zealand;NZD;2
+NZD_Exports;20180129;21:45;Exports;New Zealand;NZD;2
+KRW_BOKManufacturingBSI;20180129;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+USD_Auction;20180129;16:30;6-Month Bill Auction;United States;USD;1
+USD_DallasFedManufacturingBusinessIndex;20180129;15:30;Dallas Fed Manufacturing Business Index;United States;USD;2
+EUR_BelGrossDomesticProduct;20180129;14:00;Gross Domestic Product (QoQ);Belgium;EUR;1
+USD_PersonalConsumptionExpendituresPriceIndex;20180129;13:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;2
+USD_CorePersonalConsumptionExpenditurePriceIndex;20180129;13:30;Core Personal Consumption Expenditure - Price Index (YoY);United States;USD;3
+USD_PersonalSpending;20180129;13:30;Personal Spending;United States;USD;2
+USD_PersonalIncome;20180129;13:30;Personal Income (MoM);United States;USD;2
+EUR_IreRetailSales;20180129;11:00;Retail Sales (MoM);Ireland;EUR;1
+EUR_ItaProducerPriceIndex;20180129;10:00;Producer Price Index (MoM);Italy;EUR;1
+EUR_EurCentralBankSpeech;20180129;10:00;ECB Praet speech;European Monetary Union;EUR;2
+ISK_ConsumerPriceIndex;20180129;09:00;Consumer Price Index (MoM);Iceland;ISK;1
+EUR_AusPurchasingManagerIndex;20180129;09:00;Purchasing Manager Index;Austria;EUR;1
+EUR_SpaRetailSales;20180129;08:00;Retail Sales (YoY);Spain;EUR;1
+EUR_GerImportPriceIndex;20180129;07:00;Import Price Index (MoM);Germany;EUR;1
+EUR_FinIndustrialConfidence;20180129;07:00;Industrial Confidence;Finland;EUR;1
+EUR_FinConsumerConfidence;20180129;07:00;Consumer Confidence;Finland;EUR;1

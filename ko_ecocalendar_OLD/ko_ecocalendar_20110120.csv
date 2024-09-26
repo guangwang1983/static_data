@@ -1,0 +1,30 @@
+NZD_RetailSales;20110120;21:45;Retail Sales (QoQ);New Zealand;NZD;2
+NZD_BusinessNZPMI;20110120;21:30;Business NZ PMI;New Zealand;NZD;1
+CHF_CentralBankSpeech;20110120;17:00;SNB Hildebrand speech;Switzerland;CHF;2
+USD_EIACrudeOilStocksChange;20110120;16:00;EIA Crude Oil Stocks Change;United States;USD;1
+USD_ExistingHomeSalesChange;20110120;15:00;Existing Home Sales Change (MoM);United States;USD;2
+USD_ExistingHomeSales;20110120;15:00;Existing Home Sales (MoM);United States;USD;2
+EUR_EurConsumerConfidence;20110120;15:00;Consumer Confidence;European Monetary Union;EUR;2
+USD_PhiladelphiaFedManufacturingSurvey;20110120;15:00;Philadelphia Fed Manufacturing Survey;United States;USD;3
+USD_JoblessClaims;20110120;13:30;Continuing Jobless Claims;United States;USD;1
+CAD_WholesaleSales;20110120;13:30;Wholesale Sales (MoM);Canada;CAD;1
+CAD_LeadingIndicators;20110120;13:30;Leading Indicators (MoM);Canada;CAD;2
+PLN_NetInflation;20110120;13:00;Net Inflation;Poland;PLN;1
+PLN_IndustrialOutput;20110120;13:00;Industrial Output (YoY);Poland;PLN;2
+TRY_CBRTInterestRateDecision;20110120;13:00;CBRT Interest Rate Decision;Turkey;TRY;1
+PLN_ProducerPriceIndex;20110120;13:00;Producer Price Index (YoY);Poland;PLN;2
+GBP_CBIIndustrialTrendsSurveyOrders;20110120;11:00;CBI Industrial Trends Survey - Orders (MoM);United Kingdom;GBP;2
+CHF_ZEWSurveyExpectations;20110120;10:00;ZEW Survey - Expectations;Switzerland;CHF;2
+EUR_EurECBMonthlyReport;20110120;09:00;ECB Monthly Report;European Monetary Union;EUR;2
+DKK_ConsumerConfidence;20110120;08:30;Consumer Confidence;Denmark;DKK;1
+EUR_NetUnemploymentRate;20110120;08:30;Unemployment Rate s.a (3M);Netherlands, The;EUR;1
+EUR_NetConsumerConfidenceAdj;20110120;08:30;Consumer Confidence Adj;Netherlands, The;EUR;2
+EUR_GerProducerPriceIndex;20110120;07:00;Producer Price Index (YoY);Germany;EUR;2
+JPY_CoincidentIndex;20110120;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20110120;05:00;Leading Economic Index;Japan;JPY;1
+CNY_RetailSales;20110120;02:00;Retail Sales (YoY);China;CNY;1
+CNY_IndustrialProduction;20110120;02:00;Industrial Production (YoY);China;CNY;1
+CNY_FixedAssetInvestment;20110120;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;2
+CNY_ConsumerPriceIndex;20110120;02:00;Consumer Price Index (YoY);China;CNY;1
+CNY_ProducerPriceIndex;20110120;02:00;Producer Price Index (YoY);China;CNY;2
+CNY_GrossDomesticProduct;20110120;02:00;Gross Domestic Product (YoY);China;CNY;1

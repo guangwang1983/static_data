@@ -1,0 +1,35 @@
+NZD_ANZActivityOutlook;20231219;00:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20231219;00:00;ANZ Business Confidence;New Zealand;NZD;1
+AUD_RBAMeetingMinutes;20231219;00:30;RBA Meeting Minutes;Australia;AUD;3
+JPY_BoJMonetaryPolicyStatement;20231219;03:00;BoJ Monetary Policy Statement;Japan;JPY;3
+JPY_BoJInterestRateDecision;20231219;03:00;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_BoJPressConference;20231219;06:00;BoJ Press Conference;Japan;JPY;3
+CHF_Exports;20231219;07:00;Exports (MoM);Switzerland;CHF;1
+CHF_Imports;20231219;07:00;Imports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20231219;07:00;Trade Balance;Switzerland;CHF;1
+CNY_FDIForeignDirectInvestment;20231219;09:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;1
+EUR_EurCentralBankSpeech;20231219;09:00;ECB Elderson speech;Eurozone;EUR;2
+EUR_EurHarmonizedIndexofConsumerPrices;20231219;10:00;Harmonized Index of Consumer Prices (YoY);Eurozone;EUR;1
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20231219;10:00;Core Harmonized Index of Consumer Prices (MoM);Eurozone;EUR;2
+GBP_Auction;20231219;10:30;10-y Bond Auction;United Kingdom;GBP;1
+ILS_M1MoneySupply;20231219;12:30;M1 Money Supply (MoM);Israel;ILS;1
+HUF_MNBInterestRateDecision;20231219;13:00;MNB Interest Rate Decision;Hungary;HUF;1
+USD_BuildingPermits;20231219;13:30;Building Permits (MoM);United States;USD;2
+USD_HousingStarts;20231219;13:30;Housing Starts (MoM);United States;USD;2
+USD_HousingStartsChange;20231219;13:30;Housing Starts Change;United States;USD;1
+USD_BuildingPermitsChange;20231219;13:30;Building Permits Change;United States;USD;1
+CAD_RawMaterialPriceIndex;20231219;13:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20231219;13:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_ConsumerPriceIndex;20231219;13:30;BoC Consumer Price Index Core (MoM);Canada;CAD;2
+USD_RedbookIndex;20231219;13:55;Redbook Index (YoY);United States;USD;1
+NZD_GDTPriceIndex;20231219;14:00;GDT Price Index;New Zealand;NZD;1
+COP_Interestrate;20231219;18:00;Interest rate;Colombia;COP;1
+USD_NetLongTermTICFlows;20231219;21:00;Net Long-Term TIC Flows;United States;USD;1
+USD_TotalNetTICFlows;20231219;21:00;Total Net TIC Flows;United States;USD;1
+CLP_BCCHInterestRate;20231219;21:00;BCCH Interest Rate;Chile;CLP;1
+NZD_ANZ–RoyMorganConsumerConfidence;20231219;21:00;ANZ – Roy Morgan Consumer Confidence;New Zealand;NZD;2
+USD_APIWeeklyCrudeOilStock;20231219;21:30;API Weekly Crude Oil Stock;United States;USD;1
+JPY_Exports;20231219;23:50;Exports (YoY);Japan;JPY;2
+JPY_Imports;20231219;23:50;Imports (YoY);Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20231219;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_MerchandiseTradeBalanceTotal;20231219;23:50;Merchandise Trade Balance Total;Japan;JPY;2

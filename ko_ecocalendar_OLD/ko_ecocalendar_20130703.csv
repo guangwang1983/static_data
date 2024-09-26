@@ -1,0 +1,39 @@
+JPY_ForeignInvestmentinJapanStocks;20130703;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20130703;23:50;Foreign Bond Investment;Japan;JPY;2
+USD_EIANaturalGasStorageChange;20130703;16:00;EIA Natural Gas Storage Change;United States;USD;1
+USD_EIACrudeOilStocksChange;20130703;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_ISMNonManufacturingPMI;20130703;14:00;ISM Non-Manufacturing PMI;United States;USD;2
+USD_CentralBankSpeech;20130703;14:00;Treasury Sec Lew speech;United States;USD;2
+SGD_PurchasingManagersIndex;20130703;13:30;Purchasing Managers Index;Singapore;SGD;1
+MXN_ConsumerConfidence;20130703;13:00;Consumer Confidence s.a;Mexico;MXN;1
+PLN_NBPBaserate;20130703;12:51;NBP Base rate;Poland;PLN;1
+USD_TradeBalance;20130703;12:30;Trade Balance;United States;USD;2
+USD_JoblessClaims;20130703;12:30;Initial Jobless Claims;United States;USD;1
+CAD_Imports;20130703;12:30;Imports;Canada;CAD;1
+CAD_Exports;20130703;12:30;Exports;Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20130703;12:30;International Merchandise Trade;Canada;CAD;1
+USD_ADPEmploymentChange;20130703;12:15;ADP Employment Change;United States;USD;2
+USD_ChallengerJobCuts;20130703;11:30;Challenger Job Cuts;United States;USD;1
+USD_MBAMortgageApplications;20130703;11:00;MBA Mortgage Applications;United States;USD;1
+ZAR_BusinessConfidenceIndex;20130703;09:30;Business Confidence Index;South Africa;ZAR;1
+EUR_EurRetailSales;20130703;09:00;Retail Sales (YoY);European Monetary Union;EUR;2
+GBP_BoECreditConditionsSurvey;20130703;08:30;BoE Credit Conditions Survey;United Kingdom;GBP;1
+GBP_MarkitServicesPMI;20130703;08:28;Markit Services PMI;United Kingdom;GBP;2
+EUR_EurMarkitPMIComposite;20130703;07:58;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20130703;07:58;Markit Services PMI;European Monetary Union;EUR;2
+EUR_GerMarkitServicesPMI;20130703;07:53;Markit Services PMI;Germany;EUR;2
+EUR_FraMarkitServicesPMI;20130703;07:48;Markit Services PMI;France;EUR;1
+EUR_ItaMarkitServicesPMI;20130703;07:43;Markit Services PMI;Italy;EUR;2
+EUR_SpaMarkitServicesPMI;20130703;07:13;Markit Services PMI;Spain;EUR;1
+TRY_ProducerPriceIndex;20130703;07:00;Producer Price Index (YoY);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20130703;07:00;Consumer Price Index (MoM);Turkey;TRY;1
+RUB_PurchasingManagerIndexServices;20130703;05:00;Purchasing Manager Index Services;Russia;RUB;1
+EUR_IrePurchasingManagerIndexServices;20130703;04:58;Purchasing Manager Index Services;Ireland;EUR;1
+AUD_CentralBankSpeech;20130703;02:55;RBA Governor Stevens speech;Australia;AUD;1
+CNY_CaixinServicesPMI;20130703;01:45;Caixin Services PMI;China;CNY;2
+AUD_RetailSales;20130703;01:30;Retail Sales s.a. (MoM);Australia;AUD;2
+AUD_Imports;20130703;01:30;Imports;Australia;AUD;1
+AUD_TradeBalance;20130703;01:30;Trade Balance;Australia;AUD;2
+AUD_Exports;20130703;01:30;Exports;Australia;AUD;1
+AUD_HIANewHomeSales;20130703;01:00;HIA New Home Sales (MoM);Australia;AUD;2
+CNY_NonManufacturingPMI;20130703;01:00;Non-Manufacturing PMI;China;CNY;2

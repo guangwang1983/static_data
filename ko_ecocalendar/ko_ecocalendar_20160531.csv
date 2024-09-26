@@ -1,0 +1,53 @@
+NZD_ANZActivityOutlook;20160531;01:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20160531;01:00;ANZ Business Confidence;New Zealand;NZD;1
+AUD_CurrentAccount;20160531;01:30;Current Account Balance;Australia;AUD;1
+AUD_PrivateSectorCredit;20160531;01:30;Private Sector Credit (MoM);Australia;AUD;1
+AUD_BuildingPermits;20160531;01:30;Building Permits (YoY);Australia;AUD;1
+JPY_ConstructionOrders;20160531;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_HousingStarts;20160531;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_AnnualizedHousingStarts;20160531;05:00;Annualized Housing Starts;Japan;JPY;1
+EUR_GerRetailSales;20160531;06:00;Retail Sales (MoM);Germany;EUR;1
+ZAR_M3MoneySupply;20160531;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+ZAR_PrivateSectorCredit;20160531;06:00;Private Sector Credit;South Africa;ZAR;1
+EUR_FraProducerPrices;20160531;06:45;Producer Prices (MoM);France;EUR;1
+EUR_FraConsumerPriceIndex;20160531;06:45;Consumer Price Index (EU norm) (YoY);France;EUR;2
+TRY_TradeBalance;20160531;07:00;Trade Balance;Turkey;TRY;1
+DKK_UnemploymentRate;20160531;07:00;Unemployment Rate;Denmark;DKK;1
+HUF_ProducerPriceIndex;20160531;07:00;Producer Price Index (YoY);Hungary;HUF;1
+EUR_GerUnemploymentChange;20160531;07:55;Unemployment Change;Germany;EUR;2
+EUR_GerUnemploymentRate;20160531;07:55;Unemployment Rate s.a.;Germany;EUR;2
+PLN_GrossDomesticProduct;20160531;08:00;Gross Domestic Product Qtr (YoY);Poland;PLN;1
+EUR_ItaUnemployment;20160531;08:00;Unemployment;Italy;EUR;2
+EUR_EurPrivateLoans;20160531;08:00;Private Loans (YoY);European Monetary Union;EUR;1
+EUR_EurM3MoneySupply;20160531;08:00;M3 Money Supply (3m);European Monetary Union;EUR;1
+NOK_CreditIndicator;20160531;08:00;Credit Indicator;Norway;NOK;1
+EUR_EurUnemploymentRate;20160531;09:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_EurHarmonizedIndexofConsumerPrices;20160531;09:00;Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20160531;09:00;Core Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_ItaConsumerPriceIndex;20160531;09:00;Consumer Price Index (YoY);Italy;EUR;1
+DKK_GrossDomesticProduct;20160531;09:00;Gross Domestic Product (QoQ);Denmark;DKK;1
+EUR_ItaGrossDomesticProduct;20160531;10:00;Gross Domestic Product (QoQ);Italy;EUR;2
+INR_FederalFiscalDeficitINR;20160531;10:30;Federal Fiscal Deficit, INR;India;INR;1
+BRL_UnemploymentRate;20160531;12:00;Unemployment Rate;Brazil;BRL;1
+INR_GrossDomesticProduct;20160531;12:00;Gross Domestic Product Quarterly (YoY);India;INR;1
+ZAR_TradeBalance;20160531;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+USD_PersonalConsumptionExpendituresPriceIndex;20160531;12:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;2
+USD_PersonalSpending;20160531;12:30;Personal Spending;United States;USD;2
+USD_CorePersonalConsumptionExpendituresPriceIndex;20160531;12:30;Core Personal Consumption Expenditures - Price Index (YoY);United States;USD;2
+USD_PersonalIncome;20160531;12:30;Personal Income (MoM);United States;USD;2
+CAD_GrossDomesticProduct;20160531;12:30;Gross Domestic Product Annualized;Canada;CAD;2
+USD_S&PCaseShillerHomePriceIndices;20160531;13:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;2
+CLP_Unemploymentrate;20160531;13:00;Unemployment rate;Chile;CLP;1
+BRL_NominalBudgetBalance;20160531;13:30;Nominal Budget Balance;Brazil;BRL;1
+BRL_PrimaryBudgetSurplus;20160531;13:30;Primary Budget Surplus;Brazil;BRL;1
+USD_ChicagoPurchasingManagers'Index;20160531;13:45;Chicago Purchasing Managers' Index;United States;USD;2
+USD_ConsumerConfidence;20160531;14:00;Consumer Confidence;United States;USD;2
+USD_DallasFedManufacturingBusinessIndex;20160531;14:30;Dallas Fed Manufacturing Business Index;United States;USD;2
+USD_Auction;20160531;15:30;4-Week Bill Auction;United States;USD;1
+COP_NationalJoblessRate;20160531;17:00;National Jobless Rate;Colombia;COP;1
+NZD_TermsofTradeIndex;20160531;22:45;Terms of Trade Index;New Zealand;NZD;1
+KRW_CurrentAccount;20160531;23:00;Current Account Balance;South Korea;KRW;1
+KRW_ConsumerPriceIndex;20160531;23:00;Consumer Price Index Growth (MoM);South Korea;KRW;1
+GBP_BRCShopPriceIndex;20160531;23:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1
+AUD_AiGPerformanceofMfgIndex;20160531;23:30;AiG Performance of Mfg Index;Australia;AUD;2
+JPY_CapitalSpending;20160531;23:50;Capital Spending;Japan;JPY;1

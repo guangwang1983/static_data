@@ -1,0 +1,38 @@
+JPY_CurrentAccount;20110707;23:50;Current Account n.s.a.;Japan;JPY;1
+JPY_TradeBalanceBOPBasis;20110707;23:50;Trade Balance - BOP Basis;Japan;JPY;2
+KRW_ProducerPriceIndex;20110707;21:00;Producer Price Index Growth (YoY);South Korea;KRW;1
+USD_EIACrudeOilStocksChange;20110707;15:00;EIA Crude Oil Stocks Change;United States;USD;1
+MXN_12MonthInflation;20110707;14:00;12-Month Inflation;Mexico;MXN;1
+MXN_CoreInflation;20110707;14:00;Core Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20110707;14:00;Headline Inflation;Mexico;MXN;1
+GBP_NIESRGDPEstimate;20110707;14:00;NIESR GDP Estimate (3M);United Kingdom;GBP;2
+CAD_IveyPurchasingManagersIndex;20110707;14:00;Ivey Purchasing Managers Index s.a;Canada;CAD;1
+HUF_BudgetBalance;20110707;14:00;Budget Balance;Hungary;HUF;1
+USD_JoblessClaims;20110707;12:30;Continuing Jobless Claims;United States;USD;1
+EUR_EurECBMonetaryPolicyStatementandPressConference;20110707;12:30;ECB Monetary Policy Statement and Press Conference;European Monetary Union;EUR;3
+CAD_NewHousingPriceIndex;20110707;12:30;New Housing Price Index (MoM);Canada;CAD;1
+USD_ADPEmploymentChange;20110707;12:15;ADP Employment Change;United States;USD;2
+BRL_IPCAInflation;20110707;12:00;IPCA Inflation;Brazil;BRL;1
+PLN_CentralBankFXReserves;20110707;12:00;Central Bank FX Reserves;Poland;PLN;1
+EUR_EurECBInterestRateDecision;20110707;11:45;ECB Interest Rate Decision;European Monetary Union;EUR;3
+GBP_BoEAssetPurchaseFacility;20110707;11:00;BoE Asset Purchase Facility;United Kingdom;GBP;3
+GBP_BoEInterestRateDecision;20110707;11:00;BoE Interest Rate Decision;United Kingdom;GBP;3
+EUR_IreConsumerPriceIndex;20110707;10:05;Consumer Price Index (YoY);Ireland;EUR;1
+EUR_IreHICP;20110707;10:00;HICP (YoY);Ireland;EUR;1
+EUR_GerIndustrialProduction;20110707;10:00;Industrial Production s.a. (MoM);Germany;EUR;2
+ZAR_ReutersEconometer;20110707;09:30;Reuters Econometer;South Africa;ZAR;1
+EUR_GreConsumerPriceIndex;20110707;09:00;Consumer Price Index (YoY);Greece;EUR;1
+GBP_ManufacturingProduction;20110707;08:30;Manufacturing Production (MoM);United Kingdom;GBP;1
+GBP_IndustrialProduction;20110707;08:30;Industrial Production (YoY);United Kingdom;GBP;2
+NOK_ManufacturingOutput;20110707;08:00;Manufacturing Output;Norway;NOK;1
+EUR_NetConsumerPriceIndex;20110707;07:30;Consumer Price Index n.s.a (YoY);Netherlands, The;EUR;1
+CHF_ConsumerPriceIndex;20110707;07:15;Consumer Price Index (YoY);Switzerland;CHF;2
+HUF_IndustrialOutput;20110707;07:00;Industrial Output (YoY);Hungary;HUF;1
+CZK_ForeignTradeBalance;20110707;07:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+EUR_FraImportsEUR;20110707;06:45;Imports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20110707;06:45;Trade Balance EUR;France;EUR;1
+EUR_FraExportsEUR;20110707;06:45;Exports, EUR;France;EUR;1
+ZAR_Net$Gold&ForexReserve;20110707;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+ZAR_Gross$Gold&ForexReserve;20110707;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+AUD_EmploymentChange;20110707;01:30;Employment Change s.a.;Australia;AUD;3
+AUD_UnemploymentRate;20110707;01:30;Unemployment Rate s.a.;Australia;AUD;3

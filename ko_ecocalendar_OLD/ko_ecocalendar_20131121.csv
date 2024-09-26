@@ -1,0 +1,46 @@
+NZD_CentralBankSpeech;20131121;22:30;RBNZ McDermott speech;New Zealand;NZD;2
+NZD_VisitorArrivals;20131121;21:45;Visitor Arrivals (YoY);New Zealand;NZD;1
+ARS_TradeBalance;20131121;19:00;Trade Balance (MoM);Argentina;ARS;1
+USD_CentralBankSpeech;20131121;18:00;Fed Bullard speech;United States;USD;1
+EUR_GerCentralBankSpeech;20131121;16:00;German Buba President Weidmann speech;Germany;EUR;2
+USD_EIANaturalGasStorageChange;20131121;15:30;EIA Natural Gas Storage Change;United States;USD;1
+EUR_EurConsumerConfidence;20131121;15:00;Consumer Confidence;European Monetary Union;EUR;2
+USD_PhiladelphiaFedManufacturingSurvey;20131121;15:00;Philadelphia Fed Manufacturing Survey;United States;USD;2
+USD_AmericanPetroleumInstituteMonthlyReport;20131121;14:00;American Petroleum Institute Monthly Report ;United States;USD;1
+MXN_GrossDomesticProduct;20131121;14:00;Gross Domestic Product (YoY);Mexico;MXN;1
+USD_MarkitManufacturingPMI;20131121;13:58;Markit Manufacturing PMI;United States;USD;2
+USD_ProducerPriceIndex;20131121;13:30;Producer Price Index (MoM);United States;USD;1
+USD_JoblessClaims;20131121;13:30;Initial Jobless Claims;United States;USD;2
+ZAR_SARBInterestRateDecision;20131121;13:00;SARB Interest Rate Decision;South Africa;ZAR;1
+PLN_IndustrialOutput;20131121;13:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20131121;13:00;Producer Price Index (YoY);Poland;PLN;1
+RUB_CentralBankReserves;20131121;12:00;Central Bank Reserves $;Russia;RUB;1
+BRL_UnemploymentRate;20131121;11:00;Unemployment Rate;Brazil;BRL;1
+GBP_CBIIndustrialTrendsSurveyOrders;20131121;11:00;CBI Industrial Trends Survey - Orders (MoM);United Kingdom;GBP;1
+EUR_EurCentralBankSpeech;20131121;10:05;ECB President Draghi speech;European Monetary Union;EUR;2
+EUR_SpaAuction;20131121;10:01;3-y Bond Auction;Spain;EUR;1
+GBP_PublicSectorNetBorrowing;20131121;09:30;Public Sector Net Borrowing;United Kingdom;GBP;1
+AUD_CentralBankSpeech;20131121;09:05;RBA Governor Stevens speech;Australia;AUD;3
+EUR_ItaWageInflation;20131121;09:00;Wage Inflation (YoY);Italy;EUR;1
+EUR_EurMarkitPMIComposite;20131121;08:58;Markit PMI Composite;European Monetary Union;EUR;1
+EUR_EurMarkitServicesPMI;20131121;08:58;Markit Services PMI;European Monetary Union;EUR;2
+EUR_EurMarkitManufacturingPMI;20131121;08:58;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_NetUnemploymentRate;20131121;08:30;Unemployment Rate s.a (3M);Netherlands, The;EUR;1
+EUR_NetConsumerSpendingVolume;20131121;08:30;Consumer Spending Volume;Netherlands, The;EUR;1
+HKD_ConsumerPriceIndex;20131121;08:30;Consumer Price Index;Hong Kong SAR;HKD;1
+EUR_GerMarkitServicesPMI;20131121;08:28;Markit Services PMI;Germany;EUR;2
+EUR_GerMarkitManufacturingPMI;20131121;08:28;Markit Manufacturing PMI;Germany;EUR;2
+DKK_ConsumerConfidence;20131121;08:00;Consumer Confidence;Denmark;DKK;1
+DKK_RetailSales;20131121;08:00;Retail Sales (YoY);Denmark;DKK;1
+EUR_FraMarkitManufacturingPMI;20131121;07:58;Markit Manufacturing PMI;France;EUR;1
+EUR_FraMarkitServicesPMI;20131121;07:58;Markit Services PMI;France;EUR;1
+CHF_Exports;20131121;07:00;Exports (MoM);Switzerland;CHF;1
+CHF_Imports;20131121;07:00;Imports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20131121;07:00;Trade Balance;Switzerland;CHF;2
+CHF_MonthlyStatisticalBulletin;20131121;07:00;Monthly Statistical Bulletin;Switzerland;CHF;2
+JPY_BoJPressConference;20131121;06:30;BoJ Press Conference;Japan;JPY;3
+JPY_BoJInterestRateDecision;20131121;03:00;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_BoJMonetaryPolicyStatement;20131121;03:00;BoJ Monetary Policy Statement ;Japan;JPY;3
+CNY_CaixinManufacturingPMI;20131121;01:45;Caixin Manufacturing PMI;China;CNY;2
+AUD_RBAForeignExchangeTransaction;20131121;00:30;RBA Foreign Exchange Transaction;Australia;AUD;1
+SGD_GrossDomesticProduct;20131121;00:00;Gross Domestic Product (YoY);Singapore;SGD;1

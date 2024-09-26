@@ -1,0 +1,76 @@
+JPY_TankanNonManufacturingIndex;20210930;23:50;Tankan Non - Manufacturing Index;Japan;JPY;1
+JPY_TankanLargeAllIndustryCapex;20210930;23:50;Tankan Large All Industry Capex;Japan;JPY;2
+JPY_TankanLargeManufacturingOutlook;20210930;23:50;Tankan Large Manufacturing Outlook;Japan;JPY;2
+JPY_TankanLargeManufacturingIndex;20210930;23:50;Tankan Large Manufacturing Index;Japan;JPY;3
+JPY_TankanNonManufacturingOutlook;20210930;23:50;Tankan Non - Manufacturing Outlook;Japan;JPY;1
+JPY_BoJSummaryofOpinions;20210930;23:50;BoJ Summary of Opinions;Japan;JPY;1
+JPY_JobsApplicantsRatio;20210930;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+JPY_UnemploymentRate;20210930;23:30;Unemployment Rate;Japan;JPY;2
+AUD_CommonwealthBankManufacturingPMI;20210930;23:00;Commonwealth Bank Manufacturing PMI;Australia;AUD;1
+NZD_ANZ–RoyMorganConsumerConfidence;20210930;22:00;ANZ – Roy Morgan Consumer Confidence;New Zealand;NZD;2
+MXN_FiscalBalancepesos;20210930;21:00;Fiscal Balance, pesos;Mexico;MXN;1
+COP_Interestrate;20210930;20:00;Interest rate;Colombia;COP;1
+MXN_CentralBankInterestRate;20210930;18:00;Central Bank Interest Rate;Mexico;MXN;1
+HKD_NationalDay;20210930;16:00;National Day;Hong Kong SAR;HKD;0
+COP_NationalJoblessRate;20210930;16:00;National Jobless Rate;Colombia;COP;1
+CNY_NationalDay;20210930;16:00;National Day;China;CNY;0
+USD_Auction;20210930;15:30;4-Week Bill Auction;United States;USD;1
+USD_EIANaturalGasStorageChange;20210930;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_ChicagoPurchasingManagers'Index;20210930;13:45;Chicago Purchasing Managers' Index;United States;USD;2
+CLP_Unemploymentrate;20210930;13:00;Unemployment rate;Chile;CLP;1
+RUB_CentralBankReserves;20210930;13:00;Central Bank Reserves $;Russia;RUB;1
+CLP_IndustrialProduction;20210930;13:00;Industrial Production (YoY);Chile;CLP;1
+USD_JoblessClaims;20210930;12:30;Initial Jobless Claims;United States;USD;2
+USD_GrossDomesticProduct;20210930;12:30;Gross Domestic Product Annualized;United States;USD;3
+CZK_CNBInterestRateDecision;20210930;12:30;CNB Interest Rate Decision;Czech Republic;CZK;1
+USD_PersonalConsumptionExpendituresPrices;20210930;12:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+USD_CorePersonalConsumptionExpenditures;20210930;12:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+BRL_UnemploymentRate;20210930;12:00;Unemployment Rate;Brazil;BRL;1
+EUR_GerConsumerPriceIndex;20210930;12:00;Consumer Price Index (YoY);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20210930;12:00;Harmonized Index of Consumer Prices (MoM);Germany;EUR;1
+INR_InfrastructureOutput;20210930;12:00;Infrastructure Output (YoY);India;INR;1
+ZAR_TradeBalance;20210930;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+ILS_Imports;20210930;10:00;Imports;Israel;ILS;1
+ILS_Exports;20210930;10:00;Exports;Israel;ILS;1
+ILS_TradeBalance;20210930;10:00;Trade Balance;Israel;ILS;1
+ZAR_ProducerPriceIndex;20210930;09:30;Producer Price Index (MoM);South Africa;ZAR;1
+EUR_EurUnemploymentRate;20210930;09:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_ItaConsumerPriceIndex;20210930;09:00;Consumer Price Index (EU Norm) (YoY);Italy;EUR;1
+EUR_GreRetailSales;20210930;09:00;Retail Sales (YoY);Greece;EUR;1
+EUR_GreProducerPriceIndex;20210930;09:00;Producer Price Index (YoY);Greece;EUR;1
+HKD_RetailSales;20210930;08:30;Retail Sales;Hong Kong SAR;HKD;1
+EUR_PorConsumerPriceIndex;20210930;08:30;Consumer Price Index (MoM);Portugal;EUR;1
+EUR_ItaUnemployment;20210930;08:00;Unemployment;Italy;EUR;2
+EUR_SpaCurrentAccount;20210930;08:00;Current Account Balance;Spain;EUR;1
+EUR_GerUnemploymentChange;20210930;07:55;Unemployment Change;Germany;EUR;2
+EUR_GerUnemploymentRate;20210930;07:55;Unemployment Rate s.a.;Germany;EUR;2
+JPY_CentralBankSpeech;20210930;07:10;BoJ Governor Kuroda speech;Japan;JPY;3
+CHF_KOFLeadingIndicator;20210930;07:00;KOF Leading Indicator;Switzerland;CHF;2
+TRY_TradeBalance;20210930;07:00;Trade Balance;Turkey;TRY;1
+HUF_ProducerPriceIndex;20210930;07:00;Producer Price Index (YoY);Hungary;HUF;1
+EUR_SpaRetailSales;20210930;07:00;Retail Sales (YoY);Spain;EUR;1
+CZK_GrossDomesticProduct;20210930;07:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+EUR_AusProducerPriceIndex;20210930;07:00;Producer Price Index (MoM);Austria;EUR;1
+EUR_FraProducerPrices;20210930;06:45;Producer Prices (MoM);France;EUR;1
+EUR_FraConsumerPriceIndex;20210930;06:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraConsumerSpending;20210930;06:45;Consumer Spending (MoM);France;EUR;1
+GBP_GrossDomesticProduct;20210930;06:00;Gross Domestic Product (QoQ);United Kingdom;GBP;3
+DKK_UnemploymentRate;20210930;06:00;Unemployment Rate;Denmark;DKK;1
+GBP_TotalBusinessInvestment;20210930;06:00;Total Business Investment (QoQ);United Kingdom;GBP;1
+DKK_GrossDomesticProduct;20210930;06:00;Gross Domestic Product (YoY);Denmark;DKK;1
+GBP_NationwideHousingPrices;20210930;06:00;Nationwide Housing Prices s.a (MoM);United Kingdom;GBP;1
+NOK_CreditIndicator;20210930;06:00;Credit Indicator;Norway;NOK;1
+ZAR_PrivateSectorCredit;20210930;06:00;Private Sector Credit;South Africa;ZAR;1
+ZAR_M3MoneySupply;20210930;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+GBP_CurrentAccount;20210930;06:00;Current Account;United Kingdom;GBP;1
+JPY_ConstructionOrders;20210930;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_HousingStarts;20210930;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_AnnualizedHousingStarts;20210930;05:00;Annualized Housing Starts;Japan;JPY;1
+EUR_NetRetailSales;20210930;04:30;Retail Sales (YoY);Netherlands, The;EUR;1
+CNY_CaixinManufacturingPMI;20210930;01:45;Caixin Manufacturing PMI;China;CNY;2
+AUD_PrivateSectorCredit;20210930;01:30;Private Sector Credit (YoY);Australia;AUD;1
+AUD_BuildingPermits;20210930;01:30;Building Permits (MoM);Australia;AUD;2
+CNY_NonManufacturingPMI;20210930;01:00;Non-Manufacturing PMI;China;CNY;3
+CNY_NBSManufacturingPMI;20210930;01:00;NBS Manufacturing PMI;China;CNY;3
+NZD_ANZActivityOutlook;20210930;00:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20210930;00:00;ANZ Business Confidence;New Zealand;NZD;1

@@ -1,0 +1,32 @@
+NZD_TradeBalance;20140923;22:45;Trade Balance (YoY);New Zealand;NZD;2
+NZD_Imports;20140923;22:45;Imports;New Zealand;NZD;1
+NZD_Exports;20140923;22:45;Exports;New Zealand;NZD;1
+ARS_TradeBalance;20140923;19:00;Trade Balance (MoM);Argentina;ARS;1
+USD_CentralBankSpeech;20140923;18:00;Fed Minneapolis Kocherlakota speech;United States;USD;2
+USD_Auction;20140923;17:00;2-Year Note Auction;United States;USD;1
+USD_RichmondFedManufacturingIndex;20140923;14:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_MarkitManufacturingPMI;20140923;13:45;Markit Manufacturing PMI;United States;USD;2
+MXN_RetailSales;20140923;13:00;Retail Sales (YoY);Mexico;MXN;1
+USD_HousingPriceIndex;20140923;13:00;Housing Price Index (MoM);United States;USD;2
+USD_RedbookIndex;20140923;12:55;Redbook Index (MoM);United States;USD;1
+CAD_RetailSales;20140923;12:30;Retail Sales ex Autos (MoM);Canada;CAD;1
+HUF_MNBInterestRateDecision;20140923;12:00;MNB Interest Rate Decision;Hungary;HUF;1
+EUR_SpaAuction;20140923;09:40;9-Month Letras Auction;Spain;EUR;1
+GBP_BBAMortgageApprovals;20140923;08:30;BBA Mortgage Approvals;United Kingdom;GBP;1
+GBP_PublicSectorNetBorrowing;20140923;08:30;Public Sector Net Borrowing;United Kingdom;GBP;1
+PLN_Unemployment;20140923;08:00;Unemployment (MoM);Poland;PLN;1
+PLN_RetailSales;20140923;08:00;Retail Sales (YoY);Poland;PLN;1
+EUR_FinUnemploymentRate;20140923;08:00;Unemployment Rate;Finland;EUR;1
+EUR_EurMarkitPMIComposite;20140923;08:00;Markit PMI Composite;European Monetary Union;EUR;1
+EUR_EurMarkitManufacturingPMI;20140923;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20140923;08:00;Markit Services PMI;European Monetary Union;EUR;1
+EUR_GerMarkitServicesPMI;20140923;07:30;Markit Services PMI;Germany;EUR;2
+EUR_GerMarkitManufacturingPMI;20140923;07:30;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitServicesPMI;20140923;07:00;Markit Services PMI;France;EUR;1
+EUR_FraMarkitManufacturingPMI;20140923;07:00;Markit Manufacturing PMI;France;EUR;1
+EUR_FraGrossDomesticProduct;20140923;06:45;Gross Domestic Product (QoQ);France;EUR;2
+EUR_FraBusinessClimate;20140923;06:45;Business Climate;France;EUR;1
+HUF_CurrentAccount;20140923;06:30;Current Account Balance (QoQ);Hungary;HUF;1
+SGD_ConsumerPriceIndex;20140923;05:00;Consumer Price Index (YoY);Singapore;SGD;1
+CNY_CaixinManufacturingPMI;20140923;01:45;Caixin Manufacturing PMI;China;CNY;1
+JPY_AutumnalEquinoxDay;20140923;00:00;Autumnal Equinox Day;Japan;JPY;0

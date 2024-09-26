@@ -1,0 +1,39 @@
+JPY_JibunBankManufacturingPMI;20220701;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+CNY_CaixinManufacturingPMI;20220701;01:45;Caixin Manufacturing PMI;China;CNY;2
+CAD_CanadaDay;20220701;05:00;Canada Day;Canada;CAD;0
+RUB_S&PGlobalManufacturingPMI;20220701;06:00;S&P Global Manufacturing PMI;Russia;RUB;1
+AUD_RBACommodityIndexSDR;20220701;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+SEK_PurchasingManagersIndexManufacturing;20220701;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+PLN_PurchasingManagerIndex;20220701;07:00;Purchasing Manager Index;Poland;PLN;2
+HUF_PurchasingManagerIndex;20220701;07:00;Purchasing Manager Index;Hungary;HUF;1
+HUF_TradeBalance;20220701;07:00;Trade Balance;Hungary;HUF;1
+CZK_S&PGlobalPMI;20220701;07:30;S&P Global PMI;Czech Republic;CZK;1
+CHF_SVMEPurchasingManagers'Index;20220701;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+TRY_Exports;20220701;08:00;Exports;Turkey;TRY;1
+EUR_EurS&PGlobalManufacturingPMI;20220701;08:00;S&P Global Manufacturing PMI;European Monetary Union;EUR;1
+NOK_RegisteredUnemployment;20220701;08:00;Registered Unemployment s.a;Norway;NOK;1
+GBP_NetLendingtoIndividuals;20220701;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20220701;08:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20220701;08:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_S&PGlobalCIPSManufacturingPMI;20220701;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+GBP_M4MoneySupply;20220701;08:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+DKK_ManufacturingPMI;20220701;09:00;Manufacturing PMI;Denmark;DKK;1
+EUR_EurHICPXFEAT;20220701;09:00;HICP-X F,E,A,T (YoY);European Monetary Union;EUR;3
+EUR_EurHICP;20220701;09:00;HICP (YoY);European Monetary Union;EUR;3
+ZAR_TotalNewVehicleSales;20220701;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+CZK_BudgetBalance;20220701;12:00;Budget Balance;Czech Republic;CZK;1
+USD_S&PGlobalManufacturingPMI;20220701;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_ISMManufacturingPricesPaid;20220701;14:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ISMManufacturingPMI;20220701;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingEmploymentIndex;20220701;14:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ISMManufacturingNewOrdersIndex;20220701;14:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ConstructionSpending;20220701;14:00;Construction Spending (MoM);United States;USD;1
+USD_BakerHughesUSOilRigCount;20220701;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CFTCGoldNCNetPositions;20220701;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20220701;19:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20220701;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_TotalVehicleSales;20220701;19:30;Total Vehicle Sales;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20220701;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20220701;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20220701;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20220701;19:30;CFTC AUD NC Net Positions;Australia;AUD;1

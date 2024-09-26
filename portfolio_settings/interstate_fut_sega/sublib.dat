@@ -1,0 +1,6 @@
+/n/ssd2/new_sublibs/SEGA_SLSL_IDX_EUR /apps/levelup/production/library/SEGA_SLSL_IDX_EUR FI10sw200dw100_50m.csv modelconfigs_SEGA_SLSL_IDX_EUR.csv 
+/n/ssd2/new_sublibs/SEGA_SLSL_IDX_ATLANTIC /apps/levelup/production/library/SEGA_SLSL_IDX_ATLANTIC FX10sw500dw100_20m.csv modelconfigs_SEGA_SLSL_IDX_ATLANTIC.csv 
+/n/ssd1/production/result_library_accLatency_write/SLSL_FI_10LOT /apps/levelup/production/library/SLSL_FI_10LOT FX10sw500dw100_20m.csv modelconfigs_FI0800_2200.csv 
+/n/ssd1/production/result_library_accLatency_write/SL3L_FX_10LOT /apps/levelup/production/library/SL3L_FX_10LOT FX10sw500dw100_20m.csv modelconfigs_FX0800_2200.csv 
+/n/ssd1/production/result_library_accLatency_write/SLSL_FITRANS_10LOT /apps/levelup/production/library/SLSL_FITRANS_10LOT FX10sw500dw100_20m.csv modelconfigs_FI2TA0800_2200.csv 
+/n/ssd1/production/result_library_accLatency_write/SLSL_IDX_5LOT /apps/levelup/production/library/SLSL_IDX_5LOT FX10sw500dw100_20m.csv modelconfigs_IDX0800_2200.csv

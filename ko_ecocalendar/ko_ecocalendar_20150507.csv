@@ -1,0 +1,35 @@
+AUD_PartTimeEmployment;20150507;01:30;Part-Time Employment;Australia;AUD;1
+AUD_FullTimeEmployment;20150507;01:30;Full-Time Employment;Australia;AUD;2
+AUD_EmploymentChange;20150507;01:30;Employment Change s.a.;Australia;AUD;3
+AUD_ParticipationRate;20150507;01:30;Participation Rate;Australia;AUD;1
+AUD_UnemploymentRate;20150507;01:30;Unemployment Rate s.a.;Australia;AUD;3
+JPY_JibunBankServicesPMI;20150507;01:35;Jibun Bank Services PMI;Japan;JPY;1
+CHF_SECOConsumerClimate;20150507;05:45;SECO Consumer Climate (3m);Switzerland;CHF;2
+RUB_S&PGlobalServicesPMI;20150507;06:00;S&P Global Services PMI;Russia;RUB;1
+EUR_GerFactoryOrders;20150507;06:00;Factory Orders n.s.a. (YoY);Germany;EUR;2
+EUR_FraTradeBalanceEUR;20150507;06:45;Trade Balance EUR;France;EUR;1
+EUR_FraImportsEUR;20150507;06:45;Imports, EUR;France;EUR;1
+EUR_FraExportsEUR;20150507;06:45;Exports, EUR;France;EUR;1
+EUR_FraIndustrialOutput;20150507;06:45;Industrial Output (MoM);France;EUR;1
+HUF_IndustrialOutput;20150507;07:00;Industrial Output (YoY);Hungary;HUF;1
+CZK_IndustrialProduction;20150507;07:00;Industrial Production (YoY);Czech Republic;CZK;1
+CHF_ForeignCurrencyReserves;20150507;07:00;Foreign Currency Reserves;Switzerland;CHF;1
+CZK_Constructionoutput;20150507;07:00;Construction output (YoY);Czech Republic;CZK;1
+CZK_ForeignTradeBalance;20150507;07:25;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+CZK_FXReserves;20150507;08:00;FX Reserves;Czech Republic;CZK;1
+NOK_NorgesBankInterestRateDecision;20150507;08:00;Norges Bank Interest Rate Decision;Norway;NOK;1
+CZK_CNBInterestRateDecision;20150507;11:00;CNB Interest Rate Decision;Czech Republic;CZK;1
+RUB_CentralBankReserves;20150507;11:00;Central Bank Reserves $;Russia;RUB;1
+USD_ChallengerJobCuts;20150507;11:30;Challenger Job Cuts;United States;USD;1
+PLN_CentralBankFXReserves;20150507;12:00;Central Bank FX Reserves;Poland;PLN;1
+GBP_ParliamentaryElection;20150507;12:00;Parliamentary Election;United Kingdom;GBP;3
+USD_JoblessClaims;20150507;12:30;Continuing Jobless Claims;United States;USD;2
+CAD_BuildingPermits;20150507;12:30;Building Permits (MoM);Canada;CAD;2
+CLP_TradeBalance;20150507;12:30;Trade Balance;Chile;CLP;1
+MXN_CoreInflation;20150507;13:00;Core Inflation;Mexico;MXN;1
+MXN_12MonthInflation;20150507;13:00;12-Month Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20150507;13:00;Headline Inflation;Mexico;MXN;1
+HUF_BudgetBalance;20150507;14:00;Budget Balance;Hungary;HUF;1
+USD_EIANaturalGasStorageChange;20150507;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_ConsumerCreditChange;20150507;19:00;Consumer Credit Change;United States;USD;2
+JPY_BoJMonetaryPolicyMeetingMinutes;20150507;23:50;BoJ Monetary Policy Meeting Minutes;Japan;JPY;1

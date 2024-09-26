@@ -1,0 +1,64 @@
+EUR_EurEUleaderssummit;20231215;00:00;EU leaders summit;Eurozone;EUR;0
+GBP_GfKConsumerConfidence;20231215;00:01;GfK Consumer Confidence;United Kingdom;GBP;2
+JPY_JibunBankServicesPMI;20231215;00:30;Jibun Bank Services PMI;Japan;JPY;1
+JPY_JibunBankManufacturingPMI;20231215;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+CNY_HousePriceIndex;20231215;01:30;House Price Index ;China;CNY;1
+CNY_RetailSales;20231215;02:00;Retail Sales (YoY);China;CNY;3
+CNY_IndustrialProduction;20231215;02:00;Industrial Production (YoY);China;CNY;3
+CNY_FixedAssetInvestment;20231215;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+KRW_TradeBalance;20231215;02:00;Trade Balance;South Korea;KRW;1
+IDR_Imports;20231215;04:00;Imports;Indonesia;IDR;1
+IDR_TradeBalance;20231215;04:00;Trade Balance;Indonesia;IDR;1
+IDR_Exports;20231215;04:00;Exports;Indonesia;IDR;1
+JPY_TertiaryIndustryIndex;20231215;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+NOK_TradeBalance;20231215;07:00;Trade Balance;Norway;NOK;1
+SEK_UnemploymentRate;20231215;07:00;Unemployment Rate;Sweden;SEK;1
+EUR_FraConsumerPriceIndex;20231215;07:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraInflationextobacco;20231215;07:45;Inflation ex-tobacco (MoM);France;EUR;1
+TRY_BudgetBalance;20231215;08:00;Budget Balance;Turkey;TRY;1
+EUR_FraHCOBManufacturingPMIPreliminar;20231215;08:15;HCOB Manufacturing PMI;France;EUR;2
+EUR_FraHCOBCompositePMI;20231215;08:15;HCOB Composite PMI;France;EUR;2
+EUR_FraHCOBServicesPMI;20231215;08:15;HCOB Services PMI;France;EUR;2
+EUR_GerHCOBCompositePMI;20231215;08:30;HCOB Composite PMI;Germany;EUR;3
+EUR_GerHCOBManufacturingPMIPreliminar;20231215;08:30;HCOB Manufacturing PMI;Germany;EUR;3
+EUR_GerHCOBServicesPMI;20231215;08:30;HCOB Services PMI;Germany;EUR;3
+EUR_ItaConsumerPriceIndex;20231215;09:00;Consumer Price Index (MoM);Italy;EUR;1
+PLN_ConsumerPriceIndex;20231215;09:00;Consumer Price Index (YoY);Poland;PLN;1
+EUR_EurHCOBServicesPMI;20231215;09:00;HCOB Services PMI;Eurozone;EUR;3
+EUR_EurHCOBManufacturingPMIPreliminar;20231215;09:00;HCOB Manufacturing PMI;Eurozone;EUR;3
+EUR_EurHCOBCompositePMI;20231215;09:00;HCOB Composite PMI;Eurozone;EUR;3
+GBP_S&PGlobalCIPSCompositePMI;20231215;09:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;3
+GBP_S&PGlobalCIPSServicesPMI;20231215;09:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;3
+GBP_S&PGlobalCIPSManufacturingPMIPreliminar;20231215;09:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;3
+EUR_ItaGlobalTradeBalance;20231215;10:00;Global Trade Balance;Italy;EUR;1
+EUR_ItaTradeBalanceEU;20231215;10:00;Trade Balance EU;Italy;EUR;1
+GBP_CentralBankSpeech;20231215;10:00;BoE Ramsden speech;United Kingdom;GBP;2
+EUR_EurTradeBalance;20231215;10:00;Trade Balance n.s.a.;Eurozone;EUR;1
+EUR_EurLaborCost;20231215;10:00;Labor Cost;Eurozone;EUR;1
+RUB_Interestratedecision;20231215;10:30;Interest rate decision;Russia;RUB;2
+INR_BankLoanGrowth;20231215;11:30;Bank Loan Growth;India;INR;1
+INR_TradeDeficitGovernment;20231215;11:30;Trade Deficit Government;India;INR;1
+INR_FXReservesUSD;20231215;11:30;FX Reserves, USD;India;INR;1
+CAD_HousingStarts;20231215;13:15;Housing Starts s.a (YoY);Canada;CAD;1
+USD_NYEmpireStateManufacturingIndex;20231215;13:30;NY Empire State Manufacturing Index;United States;USD;2
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20231215;13:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20231215;13:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_WholesaleSales;20231215;13:30;Wholesale Sales (MoM);Canada;CAD;1
+USD_IndustrialProduction;20231215;14:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20231215;14:15;Capacity Utilization;United States;USD;1
+USD_S&PGlobalCompositePMI;20231215;14:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20231215;14:45;S&P Global Services PMI;United States;USD;3
+USD_S&PGlobalManufacturingPMI;20231215;14:45;S&P Global Manufacturing PMI;United States;USD;3
+COP_RetailSales;20231215;15:00;Retail Sales (YoY);Colombia;COP;1
+COP_Industrialoutput;20231215;15:00;Industrial output (YoY);Colombia;COP;1
+ILS_ConsumerPriceIndex;20231215;16:30;Consumer Price Index (YoY);Israel;ILS;1
+CAD_CentralBankSpeech;20231215;17:25;BoC Governor Macklem speech;Canada;CAD;3
+USD_BakerHughesUSOilRigCount;20231215;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20231215;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20231215;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20231215;20:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20231215;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20231215;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20231215;20:30;CFTC EUR NC Net Positions;Eurozone;EUR;1
+AUD_CFTCAUDNCNetPositions;20231215;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+ZAR_DayofReconciliation;20231215;22:00;Day of Reconciliation;South Africa;ZAR;0

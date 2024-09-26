@@ -1,0 +1,33 @@
+ARS_ConsumerPriceIndex;20120210;19:00;Consumer Price Index (MoM);Argentina;ARS;1
+USD_MonthlyBudgetStatement;20120210;19:00;Monthly Budget Statement;United States;USD;2
+USD_CentralBankSpeech;20120210;17:30;Former Fed Chair Bernanke speech;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20120210;14:55;Michigan Consumer Sentiment Index;United States;USD;2
+USD_TradeBalance;20120210;13:30;Trade Balance;United States;USD;2
+CAD_InternationalMerchandiseTrade;20120210;13:30;International Merchandise Trade;Canada;CAD;1
+INR_BankLoanGrowth;20120210;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20120210;11:30;FX Reserves, USD;India;INR;1
+BRL_IPCAInflation;20120210;11:00;IPCA Inflation;Brazil;BRL;1
+EUR_PorConsumerPriceIndex;20120210;10:00;Consumer Price Index (YoY);Portugal;EUR;1
+GBP_ProducerPriceIndex;20120210;09:30;Producer Price Index - Output (YoY) n.s.a;United Kingdom;GBP;2
+NOK_ConsumerPriceIndex;20120210;09:00;Consumer Price Index (YoY);Norway;NOK;1
+NOK_CoreInflation;20120210;09:00;Core Inflation (MoM);Norway;NOK;1
+EUR_ItaIndustrialOutput;20120210;09:00;Industrial Output w.d.a (YoY);Italy;EUR;1
+NOK_ProducerPriceIndex;20120210;09:00;Producer Price Index (YoY);Norway;NOK;1
+CNY_M2MoneySupply;20120210;08:45;M2 Money Supply (YoY);China;CNY;1
+SEK_IndustrialProduction;20120210;08:30;Industrial Production (YoY);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20120210;08:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+GBP_PPICoreOutput;20120210;08:30;PPI Core Output (YoY) n.s.a ;United Kingdom;GBP;2
+CHF_ConsumerPriceIndex;20120210;08:15;Consumer Price Index (YoY);Switzerland;CHF;2
+DKK_Inflation;20120210;08:00;Inflation (HICP) (YoY);Denmark;DKK;1
+DKK_ConsumerPriceIndex;20120210;08:00;Consumer Price Index (YoY);Denmark;DKK;1
+RON_IndustrialProduction;20120210;08:00;Industrial Production (MoM);Romania;RON;1
+EUR_FraIndustrialOutput;20120210;07:45;Industrial Output (MoM);France;EUR;1
+EUR_FraCurrentAccount;20120210;07:45;Current Account;France;EUR;1
+EUR_FinIndustrialOutput;20120210;07:00;Industrial Output (MoM);Finland;EUR;1
+EUR_GerConsumerPriceIndex;20120210;07:00;Consumer Price Index (MoM);Germany;EUR;2
+INR_ManufacturingOutput;20120210;05:30;Manufacturing Output;India;INR;1
+INR_IndustrialOutput;20120210;05:30;Industrial Output;India;INR;1
+INR_CumulativeIndustrialOutput;20120210;05:30;Cumulative Industrial Output;India;INR;1
+CNY_TradeBalanceUSD;20120210;03:05;Trade Balance USD;China;CNY;2
+CNY_NewLoans;20120210;02:00;New Loans;China;CNY;2
+RUB_ForeignTrade;20120210;00:00;Foreign Trade;Russia;RUB;1

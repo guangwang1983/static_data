@@ -1,0 +1,16 @@
+COP_TradeBalance;20141020;22:00;Trade Balance;Colombia;COP;1
+NZD_VisitorArrivals;20141020;21:45;Visitor Arrivals (YoY);New Zealand;NZD;1
+USD_Auction;20141020;15:30;3-Month Bill Auction;United States;USD;1
+USD_CentralBankSpeech;20141020;14:00;FOMC Member Powell speech (don't use);United States;USD;1
+EUR_BelConsumerConfidenceIndex;20141020;13:00;Consumer Confidence Index;Belgium;EUR;1
+EUR_PorCurrentAccount;20141020;12:30;Current Account Balance;Portugal;EUR;1
+CAD_WholesaleSales;20141020;12:30;Wholesale Sales (MoM);Canada;CAD;1
+EUR_SloUnemploymentRate;20141020;10:00;Unemployment Rate;Slovakia;EUR;1
+HKD_Unemploymentrate;20141020;08:30;Unemployment rate;Hong Kong SAR;HKD;1
+EUR_EurCurrentAccount;20141020;08:00;Current Account s.a;European Monetary Union;EUR;1
+EUR_ItaIndustrialOrders;20141020;08:00;Industrial Orders n.s.a (YoY);Italy;EUR;1
+EUR_ItaIndustrialSales;20141020;08:00;Industrial Sales n.s.a. (YoY);Italy;EUR;1
+EUR_NetConsumerConfidenceAdj;20141020;07:30;Consumer Confidence Adj;Netherlands, The;EUR;1
+EUR_GerProducerPriceIndex;20141020;06:00;Producer Price Index (YoY);Germany;EUR;2
+JPY_CoincidentIndex;20141020;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20141020;05:00;Leading Economic Index;Japan;JPY;1

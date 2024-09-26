@@ -1,0 +1,41 @@
+AUD_WestpacLeadingIndex;20240918;01:00;Westpac Leading Index (MoM);Australia;AUD;1
+CLP_IndependenceDayofChile;20240918;04:00;Independence Day of Chile;Chile;CLP;0
+GBP_RetailPriceIndex;20240918;06:00;Retail Price Index (YoY);United Kingdom;GBP;2
+GBP_PPICoreOutput;20240918;06:00;PPI Core Output (YoY) n.s.a ;United Kingdom;GBP;2
+GBP_ProducerPriceIndex;20240918;06:00;Producer Price Index - Input (MoM) n.s.a;United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20240918;06:00;Core Consumer Price Index (YoY);United Kingdom;GBP;3
+SEK_UnemploymentRate;20240918;06:00;Unemployment Rate;Sweden;SEK;1
+IDR_BankIndonesiaRate;20240918;07:30;Bank Indonesia Rate;Indonesia;IDR;1
+ZAR_ConsumerPriceIndex;20240918;08:00;Consumer Price Index (MoM);South Africa;ZAR;1
+GBP_DCLGHousePriceIndex;20240918;08:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20240918;09:00;Core Harmonized Index of Consumer Prices (YoY);Eurozone;EUR;2
+EUR_EurHarmonizedIndexofConsumerPrices;20240918;09:00;Harmonized Index of Consumer Prices (MoM);Eurozone;EUR;2
+EUR_EurConstructionOutput;20240918;09:00;Construction Output w.d.a (YoY);Eurozone;EUR;1
+EUR_GerAuction;20240918;09:30;30-y Bond Auction;Germany;EUR;1
+USD_MBAMortgageApplications;20240918;11:00;MBA Mortgage Applications;United States;USD;1
+EUR_GerCentralBankSpeech;20240918;11:00;German Buba President Nagel speech;Germany;EUR;2
+ZAR_RetailSales;20240918;11:00;Retail Sales (YoY);South Africa;ZAR;1
+INR_M3MoneySupply;20240918;11:30;M3 Money Supply;India;INR;1
+MXN_PrivateSpending;20240918;12:00;Private Spending (YoY);Mexico;MXN;1
+USD_BuildingPermitsChange;20240918;12:30;Building Permits Change;United States;USD;1
+USD_HousingStartsChange;20240918;12:30;Housing Starts Change;United States;USD;1
+USD_HousingStarts;20240918;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20240918;12:30;Building Permits (MoM);United States;USD;2
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20240918;12:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20240918;12:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+USD_EIACrudeOilStocksChange;20240918;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+RUB_ProducerPriceIndex;20240918;16:00;Producer Price Index (YoY);Russia;RUB;1
+CAD_BoCSummaryofDeliberations;20240918;17:30;BoC Summary of Deliberations;Canada;CAD;2
+USD_InterestRateProjections3rdyear;20240918;18:00;Interest Rate Projections - 3rd year;United States;USD;3
+USD_FOMCEconomicProjections;20240918;18:00;FOMC Economic Projections;United States;USD;3
+USD_InterestRateProjections1styear;20240918;18:00;Interest Rate Projections - 1st year;United States;USD;3
+USD_InterestRateProjectionsLonger;20240918;18:00;Interest Rate Projections - Longer;United States;USD;3
+USD_FedMonetaryPolicyStatement;20240918;18:00;Fed Monetary Policy Statement;United States;USD;3
+USD_InterestRateProjections2ndyear;20240918;18:00;Interest Rate Projections - 2nd year;United States;USD;3
+USD_InterestRateProjectionsCurrent;20240918;18:00;Interest Rate Projections - Current;United States;USD;3
+USD_FedInterestRateDecision;20240918;18:00;Fed Interest Rate Decision;United States;USD;3
+USD_FOMCPressConference;20240918;18:30;FOMC Press Conference;United States;USD;3
+USD_TotalNetTICFlows;20240918;20:00;Total Net TIC Flows;United States;USD;1
+USD_NetLongTermTICFlows;20240918;20:00;Net Long-Term TIC Flows;United States;USD;1
+BRL_InterestRateDecision;20240918;21:00;Interest Rate Decision;Brazil;BRL;1
+NZD_GrossDomesticProduct;20240918;22:45;Gross Domestic Product (QoQ);New Zealand;NZD;3

@@ -1,0 +1,34 @@
+JPY_CentralBankSpeech;20180709;00:30;BoJ Governor Kuroda speech;Japan;JPY;3
+CNY_ForeignExchangeReserves;20180709;02:00;Foreign Exchange Reserves (MoM);China;CNY;1
+JPY_EcoWatchersSurvey:Outlook;20180709;05:00;Eco Watchers Survey: Outlook;Japan;JPY;1
+JPY_EcoWatchersSurvey:Current;20180709;05:00;Eco Watchers Survey: Current;Japan;JPY;1
+CHF_UnemploymentRate;20180709;05:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+DKK_TradeBalance;20180709;06:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20180709;06:00;Current Account;Denmark;DKK;1
+EUR_GerExports;20180709;06:00;Exports (MoM);Germany;EUR;1
+EUR_GerTradeBalance;20180709;06:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerCurrentAccount;20180709;06:00;Current Account n.s.a.;Germany;EUR;1
+EUR_GerImports;20180709;06:00;Imports (MoM);Germany;EUR;1
+CZK_IndustrialProduction;20180709;07:00;Industrial Production (YoY);Czech Republic;CZK;1
+CZK_Constructionoutput;20180709;07:00;Construction output (YoY);Czech Republic;CZK;1
+CZK_ForeignTradeBalance;20180709;07:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+GBP_CentralBankSpeech;20180709;07:50;BoE Broadbent speech;United Kingdom;GBP;2
+EUR_EurSentixInvestorConfidence;20180709;08:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+CLP_TradeBalance;20180709;12:00;Trade Balance;Chile;CLP;1
+MXN_CoreInflation;20180709;13:00;Core Inflation;Mexico;MXN;1
+MXN_12MonthInflation;20180709;13:00;12-Month Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20180709;13:00;Headline Inflation;Mexico;MXN;1
+USD_CentralBankSpeech;20180709;13:10;Fed Kashkari speech;United States;USD;2
+EUR_EurCentralBankSpeech;20180709;15:00;ECB President Draghi speech;European Monetary Union;EUR;3
+USD_Auction;20180709;15:30;3-Month Bill Auction;United States;USD;1
+USD_ConsumerCreditChange;20180709;19:00;Consumer Credit Change;United States;USD;2
+AUD_CFTCAUDNCNetPositions;20180709;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCS&P500NCNetPositions;20180709;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20180709;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20180709;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20180709;19:30;CFTC Oil NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20180709;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20180709;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+NZD_RetailSales;20180709;22:45;Electronic Card Retail Sales (YoY);New Zealand;NZD;1
+GBP_RetailSales;20180709;23:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+JPY_MoneySupplyM2+CD;20180709;23:50;Money Supply M2+CD (YoY);Japan;JPY;1

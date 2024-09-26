@@ -1,0 +1,37 @@
+AUD_WestpacLeadingIndex;20240124;00:00;Westpac Leading Index (MoM);Australia;AUD;1
+JPY_JibunBankServicesPMI;20240124;00:30;Jibun Bank Services PMI;Japan;JPY;1
+JPY_JibunBankManufacturingPMI;20240124;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+NZD_CreditCardSpending;20240124;02:00;Credit Card Spending (YoY);New Zealand;NZD;1
+DKK_IndustrialOutlook;20240124;07:00;Industrial Outlook;Denmark;DKK;1
+ZAR_ConsumerPriceIndex;20240124;08:00;Consumer Price Index (YoY);South Africa;ZAR;1
+EUR_FraHCOBCompositePMI;20240124;08:15;HCOB Composite PMI;France;EUR;2
+EUR_FraHCOBServicesPMI;20240124;08:15;HCOB Services PMI;France;EUR;2
+EUR_FraHCOBManufacturingPMIPreliminar;20240124;08:15;HCOB Manufacturing PMI;France;EUR;2
+EUR_GerHCOBCompositePMI;20240124;08:30;HCOB Composite PMI;Germany;EUR;3
+EUR_GerHCOBServicesPMI;20240124;08:30;HCOB Services PMI;Germany;EUR;3
+EUR_GerHCOBManufacturingPMIPreliminar;20240124;08:30;HCOB Manufacturing PMI;Germany;EUR;3
+PLN_Unemployment;20240124;09:00;Unemployment (MoM);Poland;PLN;1
+EUR_EurHCOBManufacturingPMIPreliminar;20240124;09:00;HCOB Manufacturing PMI;Eurozone;EUR;3
+EUR_EurHCOBServicesPMI;20240124;09:00;HCOB Services PMI;Eurozone;EUR;3
+EUR_EurHCOBCompositePMI;20240124;09:00;HCOB Composite PMI;Eurozone;EUR;3
+GBP_S&PGlobalCIPSCompositePMI;20240124;09:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;3
+GBP_S&PGlobalCIPSServicesPMI;20240124;09:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;3
+GBP_S&PGlobalCIPSManufacturingPMIPreliminar;20240124;09:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;3
+USD_MBAMortgageApplications;20240124;12:00;MBA Mortgage Applications;United States;USD;1
+MXN_1sthalfmonthCoreInflation;20240124;12:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20240124;12:00;1st half-month Inflation;Mexico;MXN;1
+PLN_M3MoneySupply;20240124;13:00;M3 Money Supply (YoY);Poland;PLN;1
+USD_S&PGlobalServicesPMI;20240124;14:45;S&P Global Services PMI;United States;USD;3
+USD_S&PGlobalCompositePMI;20240124;14:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalManufacturingPMI;20240124;14:45;S&P Global Manufacturing PMI;United States;USD;3
+CAD_BoCMonetaryPolicyStatement;20240124;14:45;BoC Monetary Policy Statement;Canada;CAD;3
+CAD_BoCInterestRateDecision;20240124;14:45;BoC Interest Rate Decision;Canada;CAD;3
+CAD_BoCMonetaryPolicyReport;20240124;15:00;BoC Monetary Policy Report;Canada;CAD;3
+USD_EIACrudeOilStocksChange;20240124;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+CAD_BoCPressConference;20240124;15:30;BoC Press Conference;Canada;CAD;3
+RUB_ProducerPriceIndex;20240124;16:00;Producer Price Index (YoY);Russia;RUB;1
+USD_Auction;20240124;18:00;5-Year Note Auction;United States;USD;1
+KRW_BOKManufacturingBSI;20240124;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+KRW_GrossDomesticProduct;20240124;23:00;Gross Domestic Product Growth (YoY);South Korea;KRW;1
+JPY_ForeignBondInvestment;20240124;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20240124;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1

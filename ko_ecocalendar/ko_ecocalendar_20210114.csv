@@ -1,0 +1,22 @@
+GBP_RICSHousingPriceBalance;20210114;00:01;RICS Housing Price Balance;United Kingdom;GBP;1
+CNY_Exports;20210114;02:00;Exports (YoY) CNY;China;CNY;1
+CNY_Imports;20210114;02:00;Imports (YoY) CNY;China;CNY;1
+CNY_TradeBalanceUSD;20210114;02:00;Trade Balance USD;China;CNY;2
+CNY_TradeBalanceCNY;20210114;02:00;Trade Balance CNY;China;CNY;1
+INR_WPIInflation;20210114;06:30;WPI Inflation;India;INR;1
+HUF_ConsumerPriceIndex;20210114;08:00;Core Consumer Price Index (YoY);Hungary;HUF;1
+EUR_GerRealGDPGrowth;20210114;09:00;Real GDP Growth;Germany;EUR;1
+ILS_M1MoneySupply;20210114;11:00;M1 Money Supply (MoM);Israel;ILS;1
+EUR_EurECBMonetaryPolicyMeetingAccounts;20210114;12:30;ECB Monetary Policy Meeting Accounts;European Monetary Union;EUR;2
+RUB_CentralBankReserves;20210114;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_JoblessClaims;20210114;13:30;Continuing Jobless Claims;United States;USD;2
+USD_ImportPriceIndex;20210114;13:30;Import Price Index (MoM);United States;USD;1
+USD_ExportPriceIndex;20210114;13:30;Export Price Index (MoM);United States;USD;1
+USD_EIANaturalGasStorageChange;20210114;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20210114;16:30;4-Week Bill Auction;United States;USD;1
+USD_CentralBankSpeech;20210114;18:00;Fed Kaplan speech;United States;USD;2
+NZD_REINZHousePriceIndex;20210114;20:00;REINZ House Price Index (MoM);New Zealand;NZD;2
+NZD_FoodPriceIndex;20210114;21:45;Food Price Index (MoM);New Zealand;NZD;1
+JPY_ForeignInvestmentinJapanStocks;20210114;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20210114;23:50;Foreign Bond Investment;Japan;JPY;1
+KRW_TradeBalance;20210114;23:55;Trade Balance;South Korea;KRW;1

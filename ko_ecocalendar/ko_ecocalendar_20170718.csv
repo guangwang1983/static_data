@@ -1,0 +1,25 @@
+CNY_HousePriceIndex;20170718;01:30;House Price Index ;China;CNY;1
+AUD_NewMotorVehicleSales;20170718;01:30;New Motor Vehicle Sales (YoY);Australia;AUD;1
+AUD_RBAMeetingMinutes;20170718;01:30;RBA Meeting Minutes;Australia;AUD;3
+EUR_EurECBBankLendingSurvey;20170718;08:00;ECB Bank Lending Survey;European Monetary Union;EUR;3
+GBP_RetailPriceIndex;20170718;08:30;Retail Price Index (YoY);United Kingdom;GBP;1
+GBP_DCLGHousePriceIndex;20170718;08:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ProducerPriceIndex;20170718;08:30;Producer Price Index - Output (YoY) n.s.a;United Kingdom;GBP;2
+GBP_PPICoreOutput;20170718;08:30;PPI Core Output (MoM) n.s.a;United Kingdom;GBP;2
+GBP_ConsumerPriceIndex;20170718;08:30;Consumer Price Index (YoY);United Kingdom;GBP;3
+EUR_GerZEWSurvey–EconomicSentiment;20170718;09:00;ZEW Survey – Economic Sentiment;Germany;EUR;2
+EUR_EurZEWSurvey–EconomicSentiment;20170718;09:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurvey–CurrentSituation;20170718;09:00;ZEW Survey – Current Situation;Germany;EUR;2
+PLN_CorporateSectorWages;20170718;12:00;Corporate Sector Wages;Poland;PLN;1
+USD_ExportPriceIndex;20170718;12:30;Export Price Index (YoY);United States;USD;2
+USD_ImportPriceIndex;20170718;12:30;Import Price Index (MoM);United States;USD;1
+HUF_MNBInterestRateDecision;20170718;12:30;MNB Interest Rate Decision;Hungary;HUF;1
+USD_RedbookIndex;20170718;12:55;Redbook Index (YoY);United States;USD;1
+GBP_CentralBankSpeech;20170718;13:30;BoE Governor Carney speech;United Kingdom;GBP;3
+USD_NAHBHousingMarketIndex;20170718;14:00;NAHB Housing Market Index;United States;USD;2
+NZD_GDTPriceIndex;20170718;14:40;GDT Price Index;New Zealand;NZD;1
+USD_Auction;20170718;15:30;52-Week Bill Auction;United States;USD;1
+USD_TotalNetTICFlows;20170718;20:00;Total Net TIC Flows;United States;USD;1
+USD_NetLongTermTICFlows;20170718;20:00;Net Long-Term TIC Flows;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20170718;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_ProducerPriceIndex;20170718;21:00;Producer Price Index Growth (YoY);South Korea;KRW;1

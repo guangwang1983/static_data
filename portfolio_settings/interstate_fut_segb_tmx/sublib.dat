@@ -1,0 +1,6 @@
+/n/ssd1/production/result_library_accLatency_write/SLSL_FI_10LOT /apps/kapomega/production/library/SLSL_FI_10LOT FX10sw500dw100_20m.csv modelconfigs_FI0800_2200.csv 
+/n/ssd1/production/result_library_accLatency_write/SL3L_FX_10LOT /apps/kapomega/production/library/SL3L_FX_10LOT FX10sw500dw100_20m.csv modelconfigs_FX0800_2200.csv 
+/n/ssd1/production/result_library_accLatency_write/SLSL_FITRANS_10LOT /apps/kapomega/production/library/SLSL_FITRANS_10LOT FX10sw500dw100_20m.csv modelconfigs_FI2TA0800_2200.csv 
+/n/ssd1/production/result_library_accLatency_write/SLSL_IDX_5LOT /apps/kapomega/production/library/SLSL_IDX_5LOT FX10sw500dw100_20m.csv modelconfigs_IDX0800_2200.csv
+/n/ssd2/new_sublibs/SEGBC_SL3L_6C /apps/kapomega/production/library/SEGBC_SL3L_6C FX10sw500dw100_20m.csv modelconfigs_FX_6C.csv 
+/n/ssd2/new_sublibs/SEGBC_SLSL_FI_CAD /apps/kapomega/production/library/SEGBC_SLSL_FI_CAD FX10sw500dw100_20m.csv modelconfigs_FI_CAD.csv 

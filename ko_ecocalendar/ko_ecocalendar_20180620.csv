@@ -1,0 +1,24 @@
+AUD_WestpacLeadingIndex;20180620;00:30;Westpac Leading Index (MoM);Australia;AUD;2
+EUR_GerProducerPriceIndex;20180620;06:00;Producer Price Index (YoY);Germany;EUR;1
+SEK_ConsumerConfidence;20180620;07:00;Consumer Confidence (MoM);Sweden;SEK;1
+PLN_ProducerPriceIndex;20180620;08:00;Producer Price Index (YoY);Poland;PLN;1
+ZAR_ConsumerPriceIndex;20180620;08:00;Consumer Price Index (YoY);South Africa;ZAR;1
+GBP_CBIIndustrialTrendsSurvey–Orders;20180620;10:00;CBI Industrial Trends Survey – Orders (MoM);United Kingdom;GBP;1
+EUR_GerAuction;20180620;10:00;30-y Bond Auction;Germany;EUR;1
+USD_MBAMortgageApplications;20180620;11:00;MBA Mortgage Applications;United States;USD;1
+USD_CurrentAccount;20180620;12:30;Current Account;United States;USD;1
+MXN_PrivateSpending;20180620;13:00;Private Spending (YoY);Mexico;MXN;1
+RUB_UnemploymentRate;20180620;13:00;Unemployment Rate;Russia;RUB;1
+EUR_EurCentralBankSpeech;20180620;13:30;ECB President Draghi speech;European Monetary Union;EUR;3
+AUD_CentralBankSpeech;20180620;13:30;RBA Governor Lowe speech;Australia;AUD;3
+USD_CentralBankSpeech;20180620;13:30;Fed Chair Powell speech;United States;USD;3
+JPY_CentralBankSpeech;20180620;13:30;BoJ Governor Kuroda speech;Japan;JPY;3
+USD_ExistingHomeSales;20180620;14:00;Existing Home Sales (MoM);United States;USD;2
+USD_ExistingHomeSalesChange;20180620;14:00;Existing Home Sales Change (MoM);United States;USD;1
+USD_EIACrudeOilStocksChange;20180620;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+COP_TradeBalance;20180620;15:00;Trade Balance;Colombia;COP;1
+BRL_InterestRateDecision;20180620;17:00;Interest Rate Decision;Brazil;BRL;1
+KRW_ProducerPriceIndex;20180620;21:00;Producer Price Index Growth (MoM);South Korea;KRW;1
+NZD_GrossDomesticProduct;20180620;22:45;Gross Domestic Product (QoQ);New Zealand;NZD;3
+JPY_ForeignInvestmentinJapanStocks;20180620;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20180620;23:50;Foreign Bond Investment;Japan;JPY;1

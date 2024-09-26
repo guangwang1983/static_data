@@ -1,0 +1,28 @@
+#Dailt production start up begins
+
+55 04 * * 1-5 source /home/levelup/.bashrc ; /server/core/algo/levelup/etc/script/launchCronJob.py --command /server/core/algo/levelup/etc/script/dailyProductionSetup.py --subject "Production Setup Error" --sender "prodMonitor@hctech.com"
+
+56 04 * * 1-5 source /home/levelup/.bashrc ; /server/core/algo/levelup/etc/script/launchCronJob.py --command /server/core/algo/levelup/etc/script/positionServerStartUp.sh --subject "Position Server Start Error" --sender "prodMonitor@hctech.com"
+
+57 04 * * 1-5 source /home/levelup/.bashrc ; /server/core/algo/levelup/etc/script/launchCronJob.py --command /server/core/algo/levelup/etc/script/tradingMonitor.py --subject "Trading Monitor Error" --sender "prodMonitor@hctech.com"
+
+58 04 * * 1-5 source /home/levelup/.bashrc ; /server/core/algo/levelup/etc/script/startTradeEngine.sh levelup_aur_01
+
+59 04 * * 1-5 source /home/levelup/.bashrc ; /server/core/algo/levelup/etc/script/startTradeEngine.sh levelup_aur_02
+
+00 05 * * 1-5 source /home/levelup/.bashrc ; /server/core/algo/levelup/etc/script/startTradeEngine.sh levelup_aur_03
+
+01 05 * * 1-5 source /home/levelup/.bashrc ; /server/core/algo/levelup/etc/script/startTradeEngine.sh levelup_aur_04
+
+02 05 * * 1-5 source /home/levelup/.bashrc ; /server/core/algo/levelup/etc/script/startTradeEngine.sh levelup_aur_06
+
+#Dailt production start up ends
+
+#Maintenance scripts
+45 23 * * 1-5 source /home/levelup/.bashrc ; /server/core/algo/levelup/etc/script/EODCleanUp.sh
+#
+#Sync up Stats Files
+00 00 * * * rsync -avrz --remove-source-files /home/levelup/*.tar.gz --password-file=/home/levelup/.syn_pass leveluprsync@levelup-dev.sec1::levelup_logs_aur_sync
+
+#Sync up Intraday Logs
+*/5 * * * * rsync -avrzm /home/levelup/DailyRelease* --include='*/' --filter='-! ErrorWarning.out' --password-file=/home/levelup/.syn_pass leveluprsync@levelup-dev.sec1::levelup_intraday_sync

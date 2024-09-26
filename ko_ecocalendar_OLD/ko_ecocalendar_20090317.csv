@@ -1,0 +1,12 @@
+AUD_WestpacLeadingIndex;20090317;23:30;Westpac Leading Index (MoM);Australia;AUD;1
+USD_HousingStarts;20090317;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20090317;12:30;Building Permits (MoM);United States;USD;1
+USD_ProducerPriceIndex;20090317;12:30;Producer Price Index ex Food & Energy (MoM);United States;USD;2
+CAD_ManufacturingShipments;20090317;12:30;Manufacturing Shipments (MoM);Canada;CAD;1
+EUR_EurCentralBankSpeech;20090317;12:00;ECB President Trichet speech;European Monetary Union;EUR;1
+EUR_EurZEWSurveyEconomicSentiment;20090317;10:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;0
+EUR_GerZEWSurveyEconomicSentiment;20090317;10:00;ZEW Survey - Economic Sentiment;Germany;EUR;3
+GBP_DCLGHousePriceIndex;20090317;09:34;DCLG House Price Index (YoY);United Kingdom;GBP;1
+CHF_IndustrialProduction;20090317;08:15;Industrial Production (QoQ);Switzerland;CHF;1
+CHF_SECOEconomicForecasts;20090317;06:45;SECO Economic Forecasts;Switzerland;CHF;1
+JPY_MachineToolOrders;20090317;06:00;Machine Tool Orders (YoY);Japan;JPY;1

@@ -1,0 +1,24 @@
+AUD_HIANewHomeSales;20200204;00:00;HIA New Home Sales (MoM);Australia;AUD;2
+AUD_RBAInterestRateDecision;20200204;03:30;RBA Interest Rate Decision;Australia;AUD;3
+AUD_RBARateStatement;20200204;03:30;RBA Rate Statement;Australia;AUD;3
+JPY_Auction;20200204;03:35;10-y Bond Auction;Japan;JPY;1
+EUR_FraBudgetBalance;20200204;07:45;Budget Balance;France;EUR;1
+BRL_FipeIPCInflation;20200204;08:00;Fipe IPC Inflation;Brazil;BRL;1
+GBP_S&PGlobalConstructionPMI;20200204;09:30;S&P Global Construction PMI;United Kingdom;GBP;1
+EUR_ItaConsumerPriceIndex;20200204;10:00;Consumer Price Index (EU Norm) (MoM);Italy;EUR;1
+EUR_EurProducerPriceIndex;20200204;10:00;Producer Price Index (YoY);European Monetary Union;EUR;1
+BRL_IndustrialOutput;20200204;11:00;Industrial Output (YoY);Brazil;BRL;1
+USD_RedbookIndex;20200204;13:55;Redbook Index (YoY);United States;USD;1
+USD_ISMNYBusinessConditionsIndex;20200204;14:45;ISM-NY Business Conditions Index;United States;USD;1
+NZD_GDTPriceIndex;20200204;14:45;GDT Price Index;New Zealand;NZD;2
+USD_FactoryOrders;20200204;15:00;Factory Orders (MoM);United States;USD;2
+USD_IBDTIPPEconomicOptimism;20200204;15:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+DKK_CurrencyReserves;20200204;16:00;Currency Reserves;Denmark;DKK;1
+AUD_AiGPerformanceofConstructionIndex;20200204;21:30;AiG Performance of Construction Index;Australia;AUD;2
+USD_APIWeeklyCrudeOilStock;20200204;21:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_UnemploymentRate;20200204;21:45;Unemployment Rate;New Zealand;NZD;3
+NZD_EmploymentChange;20200204;21:45;Employment Change;New Zealand;NZD;3
+NZD_ParticipationRate;20200204;21:45;Participation Rate;New Zealand;NZD;2
+NZD_LabourCostIndex;20200204;21:45;Labour Cost Index (QoQ);New Zealand;NZD;2
+AUD_S&PGlobalServicesPMI;20200204;22:00;S&P Global Services PMI;Australia;AUD;1
+AUD_S&PGlobalCompositePMI;20200204;22:00;S&P Global Composite PMI;Australia;AUD;1

@@ -1,0 +1,15 @@
+AUD_CommonwealthBankCompositePMI;20200323;22:00;Commonwealth Bank Composite PMI;Australia;AUD;1
+AUD_CommonwealthBankManufacturingPMI;20200323;22:00;Commonwealth Bank Manufacturing PMI;Australia;AUD;2
+AUD_CommonwealthBankServicesPMI;20200323;22:00;Commonwealth Bank Services PMI;Australia;AUD;1
+USD_Auction;20200323;15:30;3-Month Bill Auction;United States;USD;1
+EUR_EurConsumerConfidence;20200323;15:00;Consumer Confidence;European Monetary Union;EUR;1
+PLN_M3MoneySupply;20200323;13:00;M3 Money Supply (YoY);Poland;PLN;1
+USD_ChicagoFedNationalActivityIndex;20200323;12:30;Chicago Fed National Activity Index ;United States;USD;2
+CAD_WholesaleSales;20200323;12:30;Wholesale Sales (MoM);Canada;CAD;1
+EUR_GerGermanBubaMonthlyReport;20200323;11:00;German Buba Monthly Report;Germany;EUR;1
+CZK_ForeignDebt;20200323;09:00;Foreign Debt;Czech Republic;CZK;1
+HKD_ConsumerPriceIndex;20200323;08:30;Consumer Price Index;Hong Kong SAR;HKD;1
+TRY_ForeignArrivals;20200323;08:00;Foreign Arrivals;Turkey;TRY;1
+TRY_ConsumerConfidence;20200323;07:00;Consumer Confidence;Turkey;TRY;1
+DKK_ConsumerConfidence;20200323;07:00;Consumer Confidence;Denmark;DKK;1
+SGD_ConsumerPriceIndex;20200323;05:00;Consumer Price Index (YoY);Singapore;SGD;1

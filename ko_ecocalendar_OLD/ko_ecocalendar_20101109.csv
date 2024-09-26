@@ -1,0 +1,16 @@
+AUD_WestpacConsumerConfidence;20101109;23:30;Westpac Consumer Confidence;Australia;AUD;2
+USD_WholesaleInventories;20101109;15:00;Wholesale Inventories;United States;USD;1
+USD_IBDTIPPEconomicOptimism;20101109;15:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+CAD_NewHousingPriceIndex;20101109;13:30;New Housing Price Index (MoM);Canada;CAD;1
+GBP_ManufacturingProduction;20101109;09:30;Manufacturing Production (MoM);United Kingdom;GBP;2
+GBP_IndustrialProduction;20101109;09:30;Industrial Production (YoY);United Kingdom;GBP;2
+GBP_GoodsTradeBalance;20101109;09:30;Goods Trade Balance;United Kingdom;GBP;2
+GBP_TradeBalancenonEU;20101109;09:30;Trade Balance non-EU;United Kingdom;GBP;1
+EUR_GerConsumerPriceIndex;20101109;07:00;Consumer Price Index (MoM);Germany;EUR;1
+CHF_SECOConsumerClimate;20101109;06:45;SECO Consumer Climate (3m);Switzerland;CHF;1
+JPY_EcoWatchersSurvey:Current;20101109;05:00;Eco Watchers Survey: Current;Japan;JPY;2
+AUD_NationalAustraliaBankBusinessConfidence;20101109;00:30;National Australia Bank Business Confidence;Australia;AUD;0
+AUD_NationalAustraliaBankBusinessConditions;20101109;00:30;National Australia Bank Business Conditions;Australia;AUD;1
+GBP_RetailSales;20101109;00:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;1
+GBP_RICSHousingPriceBalance;20101109;00:01;RICS Housing Price Balance;United Kingdom;GBP;2
+GBP_NIESRGDPEstimate;20101109;00:00;NIESR GDP Estimate (3M);United Kingdom;GBP;0

@@ -1,0 +1,23 @@
+AUD_RetailSales;20220527;01:30;Retail Sales s.a. (MoM);Australia;AUD;3
+SEK_RetailSales;20220527;06:00;Retail Sales (MoM);Sweden;SEK;1
+EUR_ItaTradeBalancenonEU;20220527;08:00;Trade Balance non-EU;Italy;EUR;1
+EUR_EurPrivateLoans;20220527;08:00;Private Loans (YoY);European Monetary Union;EUR;1
+EUR_EurM3MoneySupply;20220527;08:00;M3 Money Supply (3m);European Monetary Union;EUR;1
+INR_FXReservesUSD;20220527;11:30;FX Reserves, USD;India;INR;1
+EUR_EurCentralBankSpeech;20220527;11:35;ECB Lane speech;European Monetary Union;EUR;2
+USD_PersonalSpending;20220527;12:30;Personal Spending;United States;USD;2
+USD_CorePersonalConsumptionExpendituresPriceIndex;20220527;12:30;Core Personal Consumption Expenditures - Price Index (YoY);United States;USD;2
+USD_PersonalConsumptionExpendituresPriceIndex;20220527;12:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;1
+USD_PersonalIncome;20220527;12:30;Personal Income (MoM);United States;USD;2
+USD_WholesaleInventories;20220527;12:30;Wholesale Inventories;United States;USD;1
+USD_GoodsTradeBalance;20220527;12:30;Goods Trade Balance;United States;USD;1
+USD_UoM5yearConsumerInflationExpectation;20220527;14:00;UoM 5-year Consumer Inflation Expectation;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20220527;14:00;Michigan Consumer Sentiment Index;United States;USD;2
+USD_BakerHughesUSOilRigCount;20220527;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20220527;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20220527;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCS&P500NCNetPositions;20220527;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20220527;19:30;CFTC Oil NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20220527;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+GBP_CFTCGBPNCNetPositions;20220527;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20220527;19:30;CFTC Gold NC Net Positions;United States;USD;1

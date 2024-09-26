@@ -1,0 +1,52 @@
+KRW_TradeBalance;20221101;00:00;Trade Balance;South Korea;KRW;1
+KRW_S&PGlobalManufacturingPMI;20221101;00:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+JPY_JibunBankManufacturingPMI;20221101;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+CNY_CaixinManufacturingPMI;20221101;01:45;Caixin Manufacturing PMI;China;CNY;2
+BRL_AllSaints'Day;20221101;03:00;All Saints' Day;Brazil;BRL;0
+AUD_RBARateStatement;20221101;03:30;RBA Rate Statement;Australia;AUD;3
+AUD_RBAInterestRateDecision;20221101;03:30;RBA Interest Rate Decision;Australia;AUD;3
+JPY_Auction;20221101;03:35;10-y Bond Auction;Japan;JPY;1
+IDR_CoreInflation;20221101;04:00;Core Inflation (YoY);Indonesia;IDR;1
+IDR_Inflation;20221101;04:00;Inflation (YoY);Indonesia;IDR;1
+CLP_AllSaints'Day;20221101;04:00;All Saints' Day;Chile;CLP;0
+AUD_RBACommodityIndexSDR;20221101;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+RUB_S&PGlobalManufacturingPMI;20221101;06:00;S&P Global Manufacturing PMI;Russia;RUB;1
+GBP_NationwideHousingPrices;20221101;07:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;1
+SEK_PurchasingManagersIndexManufacturing;20221101;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+TRY_Exports;20221101;08:00;Exports;Turkey;TRY;1
+HUF_PurchasingManagerIndex;20221101;08:00;Purchasing Manager Index;Hungary;HUF;1
+CZK_GrossDomesticProduct;20221101;08:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+CHF_SECOConsumerClimate;20221101;08:00;SECO Consumer Climate (3m);Switzerland;CHF;1
+CZK_S&PGlobalPMI;20221101;08:30;S&P Global PMI;Czech Republic;CZK;1
+CHF_SVMEPurchasingManagers'Index;20221101;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+GBP_S&PGlobalCIPSManufacturingPMI;20221101;09:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+DKK_ManufacturingPMI;20221101;10:00;Manufacturing PMI;Denmark;DKK;1
+BRL_IndustrialOutput;20221101;12:00;Industrial Output (MoM);Brazil;BRL;1
+ZAR_TotalNewVehicleSales;20221101;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+USD_RedbookIndex;20221101;12:55;Redbook Index (YoY);United States;USD;1
+BRL_S&PGlobalManufacturingPMI;20221101;13:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+CZK_BudgetBalance;20221101;13:00;Budget Balance;Czech Republic;CZK;1
+CAD_S&PGlobalManufacturingPMI;20221101;13:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20221101;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_JOLTSJobOpenings;20221101;14:00;JOLTS Job Openings;United States;USD;1
+USD_ISMManufacturingPricesPaid;20221101;14:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ISMManufacturingPMI;20221101;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingNewOrdersIndex;20221101;14:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ISMManufacturingEmploymentIndex;20221101;14:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ConstructionSpending;20221101;14:00;Construction Spending (MoM);United States;USD;1
+NZD_GDTPriceIndex;20221101;14:00;GDT Price Index;New Zealand;NZD;1
+USD_Auction;20221101;15:30;52-Week Bill Auction;United States;USD;1
+BRL_TradeBalance;20221101;18:00;Trade Balance;Brazil;BRL;1
+USD_TotalVehicleSales;20221101;19:30;Total Vehicle Sales;United States;USD;1
+NZD_RBNZFinancialStabilityReport;20221101;20:00;RBNZ Financial Stability Report;New Zealand;NZD;2
+USD_APIWeeklyCrudeOilStock;20221101;20:30;API Weekly Crude Oil Stock;United States;USD;1
+AUD_AiGPerformanceofMfgIndex;20221101;21:30;AiG Performance of Mfg Index;Australia;AUD;2
+NZD_UnemploymentRate;20221101;21:45;Unemployment Rate;New Zealand;NZD;3
+NZD_EmploymentChange;20221101;21:45;Employment Change;New Zealand;NZD;3
+NZD_ParticipationRate;20221101;21:45;Participation Rate;New Zealand;NZD;2
+NZD_LabourCostIndex;20221101;21:45;Labour Cost Index (QoQ);New Zealand;NZD;2
+NZD_CentralBankSpeech;20221101;22:00;RBNZ Governor Orr speech;New Zealand;NZD;3
+CAD_CentralBankSpeech;20221101;22:30;BoC Rogers speech;Canada;CAD;2
+KRW_ConsumerPriceIndex;20221101;23:00;Consumer Price Index Growth (MoM);South Korea;KRW;1
+JPY_MonetaryBase;20221101;23:50;Monetary Base (YoY);Japan;JPY;1
+JPY_BoJMonetaryPolicyMeetingMinutes;20221101;23:50;BoJ Monetary Policy Meeting Minutes;Japan;JPY;3

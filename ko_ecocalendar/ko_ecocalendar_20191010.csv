@@ -1,0 +1,45 @@
+JPY_CentralBankSpeech;20191010;00:00;BoJ Amamiya speech;Japan;JPY;1
+AUD_HomeLoans;20191010;00:30;Home Loans;Australia;AUD;2
+AUD_InvestmentLendingforHomes;20191010;00:30;Investment Lending for Homes;Australia;AUD;2
+AUD_ConsumerInflationExpectations;20191010;00:38;Consumer Inflation Expectations;Australia;AUD;2
+NZD_ANZMonthlyInflationGauge;20191010;01:00;ANZ Monthly Inflation Gauge (MoM);New Zealand;NZD;1
+NOK_ConsumerPriceIndex;20191010;06:00;Consumer Price Index (MoM);Norway;NOK;1
+NOK_CoreInflation;20191010;06:00;Core Inflation (MoM);Norway;NOK;1
+RON_TradeBalance;20191010;06:00;Trade Balance;Romania;RON;1
+DKK_ConsumerPriceIndex;20191010;06:00;Consumer Price Index (YoY);Denmark;DKK;1
+DKK_Inflation;20191010;06:00;Inflation (HICP) (YoY);Denmark;DKK;1
+RON_GrossDomesticProduct;20191010;06:00;Gross Domestic Product;Romania;RON;1
+NOK_ProducerPriceIndex;20191010;06:00;Producer Price Index (YoY);Norway;NOK;1
+EUR_GerExports;20191010;06:00;Exports (MoM);Germany;EUR;1
+EUR_GerTradeBalance;20191010;06:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerCurrentAccount;20191010;06:00;Current Account n.s.a.;Germany;EUR;1
+EUR_GerImports;20191010;06:00;Imports (MoM);Germany;EUR;1
+EUR_FraIndustrialOutput;20191010;06:45;Industrial Output (MoM);France;EUR;1
+CZK_ConsumerPriceIndex;20191010;07:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+EUR_EurEcoFinMeeting;20191010;07:00;EcoFin Meeting;European Monetary Union;EUR;2
+SEK_ConsumerPriceIndex;20191010;07:30;Consumer Price Index (YoY);Sweden;SEK;1
+EUR_ItaIndustrialOutput;20191010;08:00;Industrial Output s.a. (MoM);Italy;EUR;1
+GBP_ManufacturingProduction;20191010;08:30;Manufacturing Production (YoY);United Kingdom;GBP;2
+GBP_IndustrialProduction;20191010;08:30;Industrial Production (YoY);United Kingdom;GBP;1
+GBP_IndexofServices;20191010;08:30;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20191010;08:30;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20191010;08:30;Total Trade Balance;United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20191010;08:30;Goods Trade Balance;United Kingdom;GBP;1
+GBP_GrossDomesticProduct;20191010;08:30;Gross Domestic Product (MoM);United Kingdom;GBP;2
+GBP_CentralBankSpeech;20191010;09:20;BoE Governor Carney speech;United Kingdom;GBP;3
+GBP_NIESRGDPEstimate;20191010;11:00;NIESR GDP Estimate (3M);United Kingdom;GBP;1
+ZAR_ManufacturingProductionIndex;20191010;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+EUR_EurECBMonetaryPolicyMeetingAccounts;20191010;11:30;ECB Monetary Policy Meeting Accounts;European Monetary Union;EUR;3
+BRL_RetailSales;20191010;12:00;Retail Sales (MoM);Brazil;BRL;1
+USD_JoblessClaims;20191010;12:30;Initial Jobless Claims;United States;USD;2
+USD_ConsumerPriceIndex;20191010;12:30;Consumer Price Index (MoM);United States;USD;2
+CAD_NewHousingPriceIndex;20191010;12:30;New Housing Price Index (MoM);Canada;CAD;1
+RUB_CentralBankReserves;20191010;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_EIANaturalGasStorageChange;20191010;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_USDAWASDEReport;20191010;16:00;USDA WASDE Report;United States;USD;1
+USD_Auction;20191010;17:00;30-Year Bond Auction;United States;USD;1
+EUR_EurCentralBankSpeech;20191010;17:30;ECB Lane speech;European Monetary Union;EUR;2
+NZD_BusinessNZPMI;20191010;21:30;Business NZ PMI;New Zealand;NZD;2
+USD_CentralBankSpeech;20191010;21:30;Fed Mester speech;United States;USD;2
+NZD_RetailSales;20191010;21:45;Electronic Card Retail Sales (YoY);New Zealand;NZD;1
+JPY_MoneySupplyM2+CD;20191010;23:50;Money Supply M2+CD (YoY);Japan;JPY;1

@@ -1,0 +1,18 @@
+JPY_MerchandiseTradeBalanceTotal;20100126;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20100126;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;2
+AUD_WestpacLeadingIndex;20100126;22:30;Westpac Leading Index (MoM);Australia;AUD;1
+USD_ConsumerConfidence;20100126;15:00;Consumer Confidence;United States;USD;2
+USD_HousingPriceIndex;20100126;15:00;Housing Price Index (MoM);United States;USD;1
+USD_RichmondFedManufacturingIndex;20100126;15:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20100126;14:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;2
+GBP_CentralBankSpeech;20100126;09:45;BoE Governor King speech;United Kingdom;GBP;2
+GBP_BBAMortgageApprovals;20100126;09:30;BBA Mortgage Approvals;United Kingdom;GBP;1
+GBP_GrossDomesticProduct;20100126;09:30;Gross Domestic Product (YoY);United Kingdom;GBP;3
+GBP_IndexofServices;20100126;09:30;Index of Services (3M/3M);United Kingdom;GBP;0
+EUR_EurCurrentAccount;20100126;09:00;Current Account s.a;European Monetary Union;EUR;1
+EUR_GerIFOCurrentAssessment;20100126;09:00;IFO - Current Assessment;Germany;EUR;2
+EUR_GerIFOExpectations;20100126;09:00;IFO - Expectations;Germany;EUR;2
+EUR_GerIFOBusinessClimate;20100126;09:00;IFO - Business Climate;Germany;EUR;3
+CHF_UBSConsumptionIndicator;20100126;07:00;UBS Consumption Indicator;Switzerland;CHF;2
+JPY_BoJInterestRateDecision;20100126;03:24;BoJ Interest Rate Decision;Japan;JPY;3
+AUD_AustraliaDay;20100126;00:00;Australia Day;Australia;AUD;0

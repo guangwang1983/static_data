@@ -1,0 +1,66 @@
+MXN_FiscalBalancepesos;20190531;21:00;Fiscal Balance, pesos;Mexico;MXN;1
+COP_Interestrate;20190531;20:00;Interest rate;Colombia;COP;1
+AUD_CFTCAUDNCNetPositions;20190531;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20190531;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+USD_CFTCOilNCNetPositions;20190531;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20190531;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20190531;19:30;CFTC Gold NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20190531;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCUSDNCNetPositions;20190531;19:30;CFTC USD NC Net Positions;United States;USD;1
+USD_BakerHughesUSOilRigCount;20190531;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+COP_NationalJoblessRate;20190531;15:00;National Jobless Rate;Colombia;COP;1
+USD_MichiganConsumerSentimentIndex;20190531;14:00;Michigan Consumer Sentiment Index;United States;USD;2
+USD_ChicagoPurchasingManagers'Index;20190531;13:45;Chicago Purchasing Managers' Index;United States;USD;2
+BRL_NominalBudgetBalance;20190531;13:30;Nominal Budget Balance;Brazil;BRL;1
+BRL_PrimaryBudgetSurplus;20190531;13:30;Primary Budget Surplus;Brazil;BRL;1
+USD_PersonalConsumptionExpendituresPriceIndex;20190531;12:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;1
+USD_PersonalIncome;20190531;12:30;Personal Income (MoM);United States;USD;2
+USD_CorePersonalConsumptionExpenditurePriceIndex;20190531;12:30;Core Personal Consumption Expenditure - Price Index (MoM);United States;USD;2
+USD_PersonalSpending;20190531;12:30;Personal Spending;United States;USD;2
+CAD_RawMaterialPriceIndex;20190531;12:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20190531;12:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_GrossDomesticProduct;20190531;12:30;Gross Domestic Product Annualized (QoQ);Canada;CAD;3
+USD_EmploymentCostIndex;20190531;12:30;Employment Cost Index;United States;USD;1
+BRL_UnemploymentRate;20190531;12:00;Unemployment Rate;Brazil;BRL;1
+EUR_GerConsumerPriceIndex;20190531;12:00;Consumer Price Index (YoY);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20190531;12:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+INR_InfrastructureOutput;20190531;12:00;Infrastructure Output (YoY);India;INR;1
+INR_GrossDomesticProduct;20190531;12:00;Gross Domestic Product Quarterly (YoY);India;INR;1
+ZAR_TradeBalance;20190531;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+INR_FXReservesUSD;20190531;11:30;FX Reserves, USD;India;INR;1
+CLP_Unemploymentrate;20190531;11:00;Unemployment rate;Chile;CLP;1
+EUR_ItaProducerPriceIndex;20190531;10:00;Producer Price Index (YoY);Italy;EUR;1
+EUR_PorGrossDomesticProduct;20190531;10:00;Gross Domestic Product (YoY);Portugal;EUR;1
+INR_FederalFiscalDeficitINR;20190531;10:00;Federal Fiscal Deficit, INR;India;INR;1
+EUR_ItaConsumerPriceIndex;20190531;09:00;Consumer Price Index (EU Norm) (MoM);Italy;EUR;1
+EUR_GreRetailSales;20190531;09:00;Retail Sales (YoY);Greece;EUR;1
+GBP_NetLendingtoIndividuals;20190531;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+HKD_RetailSales;20190531;08:30;Retail Sales;Hong Kong SAR;HKD;1
+GBP_ConsumerCredit;20190531;08:30;Consumer Credit;United Kingdom;GBP;2
+GBP_MortgageApprovals;20190531;08:30;Mortgage Approvals;United Kingdom;GBP;1
+EUR_PorConsumerPriceIndex;20190531;08:30;Consumer Price Index (MoM);Portugal;EUR;1
+GBP_M4MoneySupply;20190531;08:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+PLN_GrossDomesticProduct;20190531;08:00;Gross Domestic Product Qtr (YoY);Poland;PLN;1
+ISK_GrossDomesticProduct;20190531;08:00;Gross Domestic Product (YoY);Iceland;ISK;1
+EUR_ItaGrossDomesticProduct;20190531;08:00;Gross Domestic Product (YoY);Italy;EUR;2
+NOK_RegisteredUnemployment;20190531;08:00;Registered Unemployment n.s.a;Norway;NOK;1
+EUR_SpaCurrentAccount;20190531;08:00;Current Account Balance;Spain;EUR;1
+TRY_TradeBalance;20190531;07:00;Trade Balance;Turkey;TRY;1
+TRY_GrossDomesticProduct;20190531;07:00;Quarterly Gross Domestic Product;Turkey;TRY;1
+TRY_ForeignArrivals;20190531;07:00;Foreign Arrivals;Turkey;TRY;1
+CZK_GrossDomesticProduct;20190531;07:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+HUF_TradeBalance;20190531;07:00;Trade Balance;Hungary;HUF;1
+HUF_GrossDomesticProduct;20190531;07:00;Gross Domestic Product (YoY);Hungary;HUF;1
+CHF_RetailSales;20190531;06:30;Real Retail Sales (YoY);Switzerland;CHF;2
+GBP_NationwideHousingPrices;20190531;06:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;1
+EUR_GerRetailSales;20190531;06:00;Retail Sales (MoM);Germany;EUR;2
+ZAR_M3MoneySupply;20190531;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+ZAR_PrivateSectorCredit;20190531;06:00;Private Sector Credit;South Africa;ZAR;1
+JPY_HousingStarts;20190531;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_ConstructionOrders;20190531;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_AnnualizedHousingStarts;20190531;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_ConsumerConfidenceIndex;20190531;05:00;Consumer Confidence Index;Japan;JPY;1
+AUD_PrivateSectorCredit;20190531;01:30;Private Sector Credit (MoM);Australia;AUD;1
+CNY_NonManufacturingPMI;20190531;01:00;Non-Manufacturing PMI;China;CNY;2
+CNY_NBSManufacturingPMI;20190531;01:00;NBS Manufacturing PMI;China;CNY;2
+KRW_BoKInterestRateDecision;20190531;01:00;BoK Interest Rate Decision;South Korea;KRW;1

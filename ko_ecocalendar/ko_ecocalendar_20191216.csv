@@ -1,0 +1,51 @@
+GBP_RightmoveHousePriceIndex;20191216;00:01;Rightmove House Price Index (MoM);United Kingdom;GBP;1
+JPY_JibunBankManufacturingPMI;20191216;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+CNY_HousePriceIndex;20191216;01:30;House Price Index ;China;CNY;1
+CNY_RetailSales;20191216;02:00;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20191216;02:00;Industrial Production (YoY);China;CNY;2
+CNY_NBSPressConference;20191216;02:00;NBS Press Conference;China;CNY;2
+CNY_FixedAssetInvestment;20191216;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+IDR_Exports;20191216;04:00;Exports;Indonesia;IDR;1
+IDR_TradeBalance;20191216;04:00;Trade Balance;Indonesia;IDR;1
+IDR_Imports;20191216;04:00;Imports;Indonesia;IDR;1
+JPY_TertiaryIndustryIndex;20191216;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+INR_WPIInflation;20191216;06:30;WPI Inflation;India;INR;1
+NOK_TradeBalance;20191216;07:00;Trade Balance;Norway;NOK;1
+TRY_UnemploymentRate;20191216;07:00;Unemployment Rate;Turkey;TRY;1
+CZK_ProducerPriceIndex;20191216;08:00;Producer Price Index (YoY);Czech Republic;CZK;1
+TRY_BudgetBalance;20191216;08:00;Budget Balance;Turkey;TRY;1
+EUR_FraHCOBManufacturingPMI;20191216;08:15;HCOB Manufacturing PMI;France;EUR;1
+EUR_FraHCOBServicesPMI;20191216;08:15;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20191216;08:15;HCOB Composite PMI;France;EUR;2
+EUR_GerHCOBCompositePMI;20191216;08:30;HCOB Composite PMI;Germany;EUR;3
+EUR_GerHCOBManufacturingPMI;20191216;08:30;HCOB Manufacturing PMI;Germany;EUR;3
+EUR_GerHCOBServicesPMI;20191216;08:30;HCOB Services PMI;Germany;EUR;2
+EUR_ItaConsumerPriceIndex;20191216;09:00;Consumer Price Index (YoY);Italy;EUR;1
+EUR_EurHCOBCompositePMI;20191216;09:00;HCOB Composite PMI;European Monetary Union;EUR;3
+EUR_EurHCOBManufacturingPMI;20191216;09:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurHCOBServicesPMI;20191216;09:00;HCOB Services PMI;European Monetary Union;EUR;2
+CZK_CurrentAccount;20191216;09:00;Current Account (MoM);Czech Republic;CZK;1
+GBP_S&PGlobalCIPSServicesPMI;20191216;09:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;3
+GBP_S&PGlobalCIPSManufacturingPMI;20191216;09:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSCompositePMI;20191216;09:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;2
+EUR_EurLaborCost;20191216;10:00;Labor Cost;European Monetary Union;EUR;2
+EUR_GerGermanBubaMonthlyReport;20191216;11:00;German Buba Monthly Report;Germany;EUR;1
+PLN_NetInflation;20191216;13:00;Net Inflation;Poland;PLN;1
+PLN_CurrentAccount;20191216;13:00;Current Account;Poland;PLN;1
+EUR_EurCentralBankSpeech;20191216;13:00;ECB De Guindos speech;European Monetary Union;EUR;2
+RUB_IndustrialOutput;20191216;13:00;Industrial Output;Russia;RUB;1
+USD_NYEmpireStateManufacturingIndex;20191216;13:30;NY Empire State Manufacturing Index;United States;USD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20191216;13:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20191216;13:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+USD_S&PGlobalCompositePMI;20191216;14:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalManufacturingPMI;20191216;14:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20191216;14:45;S&P Global Services PMI;United States;USD;2
+USD_NAHBHousingMarketIndex;20191216;15:00;NAHB Housing Market Index;United States;USD;1
+USD_Auction;20191216;16:30;6-Month Bill Auction;United States;USD;1
+GBP_FPCStatement;20191216;17:00;FPC Statement;United Kingdom;GBP;1
+GBP_BankStressTestResults;20191216;17:00;Bank Stress Test Results;United Kingdom;GBP;2
+GBP_FinancialStabilityReport;20191216;17:00;Financial Stability Report;United Kingdom;GBP;2
+GBP_FPCMeetingMinutes;20191216;17:00;FPC Meeting Minutes;United Kingdom;GBP;1
+NZD_WestpacConsumerSurvey;20191216;20:00;Westpac Consumer Survey;New Zealand;NZD;2
+USD_TotalNetTICFlows;20191216;21:00;Total Net TIC Flows;United States;USD;1
+USD_NetLongTermTICFlows;20191216;21:00;Net Long-Term TIC Flows;United States;USD;1

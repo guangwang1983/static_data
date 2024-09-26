@@ -1,0 +1,44 @@
+RON_NationalDay;20161201;00:00;National Day;Romania;RON;0
+KRW_TradeBalance;20161201;00:00;Trade Balance;South Korea;KRW;1
+JPY_JibunBankManufacturingPMI;20161201;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+AUD_PrivateCapitalExpenditure;20161201;00:30;Private Capital Expenditure;Australia;AUD;1
+CNY_NonManufacturingPMI;20161201;01:00;Non-Manufacturing PMI;China;CNY;2
+CNY_NBSManufacturingPMI;20161201;01:00;NBS Manufacturing PMI;China;CNY;2
+AUD_NationalAustraliaBankBusinessConditions;20161201;01:30;National Australia Bank Business Conditions;Australia;AUD;1
+CNY_CaixinManufacturingPMI;20161201;01:45;Caixin Manufacturing PMI;China;CNY;2
+IDR_Inflation;20161201;04:00;Inflation (MoM);Indonesia;IDR;1
+IDR_CoreInflation;20161201;04:00;Core Inflation (YoY);Indonesia;IDR;1
+JPY_VehicleSales;20161201;05:00;Vehicle Sales (YoY);Japan;JPY;1
+AUD_RBACommodityIndexSDR;20161201;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+GBP_NationwideHousingPrices;20161201;07:00;Nationwide Housing Prices s.a (MoM);United Kingdom;GBP;1
+SEK_PurchasingManagersIndexManufacturing;20161201;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;2
+HUF_PurchasingManagerIndex;20161201;08:00;Purchasing Manager Index;Hungary;HUF;1
+CHF_RetailSales;20161201;08:15;Real Retail Sales (YoY);Switzerland;CHF;2
+CHF_SVMEPurchasingManagers'Index;20161201;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_S&PGlobalPMI;20161201;08:30;S&P Global PMI;Czech Republic;CZK;1
+EUR_ItaHCOBManufacturingPMI;20161201;08:45;HCOB Manufacturing PMI;Italy;EUR;1
+EUR_FraHCOBManufacturingPMI;20161201;08:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerHCOBManufacturingPMI;20161201;08:55;HCOB Manufacturing PMI;Germany;EUR;2
+ZAR_TotalNewVehicleSales;20161201;09:00;Total New Vehicle Sales;South Africa;ZAR;1
+EUR_ItaUnemployment;20161201;09:00;Unemployment;Italy;EUR;2
+EUR_EurHCOBManufacturingPMI;20161201;09:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+GBP_S&PGlobalCIPSManufacturingPMI;20161201;09:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+EUR_EurUnemploymentRate;20161201;10:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_ItaGrossDomesticProduct;20161201;10:00;Gross Domestic Product (YoY);Italy;EUR;2
+RUB_CentralBankReserves;20161201;11:00;Central Bank Reserves $;Russia;RUB;1
+BRL_S&PGlobalManufacturingPMI;20161201;12:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+USD_ChallengerJobCuts;20161201;12:30;Challenger Job Cuts;United States;USD;1
+CZK_BudgetBalance;20161201;13:00;Budget Balance;Czech Republic;CZK;1
+RUB_S&PGlobalManufacturingPMI;20161201;13:25;S&P Global Manufacturing PMI;Russia;RUB;1
+USD_JoblessClaims;20161201;13:30;Continuing Jobless Claims;United States;USD;2
+CAD_S&PGlobalManufacturingPMI;20161201;14:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20161201;14:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_ISMManufacturingPMI;20161201;15:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20161201;15:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ConstructionSpending;20161201;15:00;Construction Spending (MoM);United States;USD;2
+USD_EIANaturalGasStorageChange;20161201;15:30;EIA Natural Gas Storage Change;United States;USD;1
+BRL_TradeBalance;20161201;17:02;Trade Balance;Brazil;BRL;1
+GBP_CentralBankSpeech;20161201;18:00;BoE Forbes speech;United Kingdom;GBP;2
+USD_TotalVehicleSales;20161201;21:52;Total Vehicle Sales;United States;USD;1
+KRW_GrossDomesticProduct;20161201;23:00;Gross Domestic Product Growth (QoQ) ;South Korea;KRW;1
+JPY_MonetaryBase;20161201;23:50;Monetary Base (YoY);Japan;JPY;1

@@ -1,0 +1,55 @@
+CNY_NonManufacturingPMI;20230831;01:00;Non-Manufacturing PMI;China;CNY;3
+CNY_NBSManufacturingPMI;20230831;01:00;NBS Manufacturing PMI;China;CNY;3
+NZD_ANZActivityOutlook;20230831;01:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20230831;01:00;ANZ Business Confidence;New Zealand;NZD;1
+AUD_PrivateSectorCredit;20230831;01:30;Private Sector Credit (MoM);Australia;AUD;1
+AUD_PrivateCapitalExpenditure;20230831;01:30;Private Capital Expenditure;Australia;AUD;2
+JPY_ConstructionOrders;20230831;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_HousingStarts;20230831;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_AnnualizedHousingStarts;20230831;05:00;Annualized Housing Starts;Japan;JPY;1
+EUR_GerRetailSales;20230831;06:00;Retail Sales (YoY);Germany;EUR;3
+DKK_UnemploymentRate;20230831;06:00;Unemployment Rate;Denmark;DKK;1
+DKK_GrossDomesticProduct;20230831;06:00;Gross Domestic Product (YoY);Denmark;DKK;1
+HUF_ProducerPriceIndex;20230831;06:30;Producer Price Index (YoY);Hungary;HUF;1
+CHF_RetailSales;20230831;06:30;Real Retail Sales (YoY);Switzerland;CHF;2
+EUR_FraProducerPrices;20230831;06:45;Producer Prices (MoM);France;EUR;1
+EUR_FraConsumerPriceIndex;20230831;06:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraConsumerSpending;20230831;06:45;Consumer Spending (MoM);France;EUR;1
+EUR_FraGrossDomesticProduct;20230831;06:45;Gross Domestic Product (QoQ);France;EUR;1
+TRY_GrossDomesticProduct;20230831;07:00;Quarterly Gross Domestic Product;Turkey;TRY;1
+GBP_CentralBankSpeech;20230831;07:15;BoE Pill speech;United Kingdom;GBP;2
+EUR_GerUnemploymentChange;20230831;07:55;Unemployment Change;Germany;EUR;2
+EUR_GerUnemploymentRate;20230831;07:55;Unemployment Rate s.a.;Germany;EUR;2
+EUR_ItaUnemployment;20230831;08:00;Unemployment;Italy;EUR;1
+PLN_GrossDomesticProduct;20230831;08:00;Gross Domestic Product Qtr (YoY);Poland;PLN;1
+EUR_ItaConsumerPriceIndex;20230831;09:00;Consumer Price Index (YoY);Italy;EUR;2
+EUR_EurUnemploymentRate;20230831;09:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20230831;09:00;Core Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_EurHarmonizedIndexofConsumerPrices;20230831;09:00;Harmonized Index of Consumer Prices (MoM);European Monetary Union;EUR;3
+ZAR_ProducerPriceIndex;20230831;09:30;Producer Price Index (MoM);South Africa;ZAR;1
+INR_FederalFiscalDeficitINR;20230831;10:00;Federal Fiscal Deficit, INR;India;INR;1
+BRL_NominalBudgetBalance;20230831;11:30;Nominal Budget Balance;Brazil;BRL;1
+BRL_PrimaryBudgetSurplus;20230831;11:30;Primary Budget Surplus;Brazil;BRL;1
+EUR_EurECBMonetaryPolicyMeetingAccounts;20230831;11:30;ECB Monetary Policy Meeting Accounts;European Monetary Union;EUR;2
+BRL_UnemploymentRate;20230831;12:00;Unemployment Rate;Brazil;BRL;1
+MXN_JoblessRate;20230831;12:00;Jobless Rate;Mexico;MXN;1
+ZAR_TradeBalance;20230831;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+INR_InfrastructureOutput;20230831;12:00;Infrastructure Output (YoY);India;INR;1
+INR_GrossDomesticProduct;20230831;12:00;Gross Domestic Product Quarterly (YoY);India;INR;2
+USD_PersonalIncome;20230831;12:30;Personal Income (MoM);United States;USD;2
+USD_CorePersonalConsumptionExpendituresPriceIndex;20230831;12:30;Core Personal Consumption Expenditures - Price Index (MoM);United States;USD;3
+USD_PersonalConsumptionExpendituresPriceIndex;20230831;12:30;Personal Consumption Expenditures - Price Index (YoY);United States;USD;2
+USD_PersonalSpending;20230831;12:30;Personal Spending;United States;USD;2
+USD_JoblessClaims;20230831;12:30;Continuing Jobless Claims;United States;USD;1
+CAD_CurrentAccount;20230831;12:30;Current Account;Canada;CAD;2
+USD_CentralBankSpeech;20230831;13:00;Fed Collins speech;United States;USD;2
+CLP_IndustrialProduction;20230831;13:00;Industrial Production (YoY);Chile;CLP;1
+RUB_CentralBankReserves;20230831;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_ChicagoPurchasingManagers'Index;20230831;13:45;Chicago Purchasing Managers' Index;United States;USD;2
+USD_EIANaturalGasStorageChange;20230831;14:30;EIA Natural Gas Storage Change;United States;USD;1
+COP_NationalJoblessRate;20230831;15:00;National Jobless Rate;Colombia;COP;1
+USD_Auction;20230831;15:30;4-Week Bill Auction;United States;USD;1
+EUR_EurCentralBankSpeech;20230831;16:00;ECB De Guindos speech;European Monetary Union;EUR;2
+NZD_ANZ–RoyMorganConsumerConfidence;20230831;22:00;ANZ – Roy Morgan Consumer Confidence;New Zealand;NZD;2
+AUD_S&PGlobalManufacturingPMI;20230831;23:00;S&P Global Manufacturing PMI;Australia;AUD;1
+JPY_CapitalSpending;20230831;23:50;Capital Spending;Japan;JPY;1

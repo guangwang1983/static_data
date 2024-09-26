@@ -1,0 +1,1 @@
+/dat/matterhorn/bin/scripts/python/createRealSize_MultiPortfolio_OOS_hc.py --portfolio_paths pure_fi_eq_mul24_withcurve.def --pathisfile True --lastname PureFiEqCurve_m24 --update True

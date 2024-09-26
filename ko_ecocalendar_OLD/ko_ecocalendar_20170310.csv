@@ -1,0 +1,57 @@
+JPY_CFTCJPYNCNetPositions;20170310;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+AUD_CFTCAUDNCNetPositions;20170310;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCGoldNCNetPositions;20170310;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCUSDNCNetPositions;20170310;20:30;CFTC USD NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20170310;20:30;CFTC Oil NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20170310;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+GBP_CFTCGBPNCNetPositions;20170310;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+PEN_Tradebalance;20170310;20:00;Trade balance;Peru;PEN;1
+USD_MonthlyBudgetStatement;20170310;19:00;Monthly Budget Statement;United States;USD;2
+USD_BakerHughesUSOilRigCount;20170310;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+GBP_NIESRGDPEstimate;20170310;15:00;NIESR GDP Estimate (3M);United Kingdom;GBP;2
+USD_UnemploymentRate;20170310;13:30;Unemployment Rate;United States;USD;3
+USD_AverageHourlyEarnings;20170310;13:30;Average Hourly Earnings (MoM);United States;USD;1
+USD_LaborForceParticipationRate;20170310;13:30;Labor Force Participation Rate;United States;USD;2
+USD_NonfarmPayrolls;20170310;13:30;Nonfarm Payrolls;United States;USD;3
+USD_AverageWeeklyHours;20170310;13:30;Average Weekly Hours;United States;USD;2
+CAD_ParticipationRate;20170310;13:30;Participation Rate;Canada;CAD;2
+CAD_NetChangeinEmployment;20170310;13:30;Net Change in Employment;Canada;CAD;3
+CAD_UnemploymentRate;20170310;13:30;Unemployment Rate;Canada;CAD;3
+BRL_IPCAInflation;20170310;12:00;IPCA Inflation;Brazil;BRL;1
+EUR_EurEcoFinMeeting;20170310;12:00;EcoFin Meeting;European Monetary Union;EUR;2
+INR_IndustrialOutput;20170310;11:30;Industrial Output;India;INR;1
+INR_ManufacturingOutput;20170310;11:30;Manufacturing Output;India;INR;1
+INR_CumulativeIndustrialOutput;20170310;11:30;Cumulative Industrial Output;India;INR;1
+INR_FXReservesUSD;20170310;11:30;FX Reserves, USD;India;INR;1
+INR_TradeDeficitGovernment;20170310;11:00;Trade Deficit Government;India;INR;1
+EUR_PorConsumerPriceIndex;20170310;11:00;Consumer Price Index (MoM);Portugal;EUR;1
+EUR_GreIndustrialProduction;20170310;10:00;Industrial Production (YoY);Greece;EUR;1
+EUR_GreConsumerPriceIndex;20170310;10:00;Consumer Price Index (YoY);Greece;EUR;1
+GBP_ConsumerInflationExpectations;20170310;09:30;Consumer Inflation Expectations;United Kingdom;GBP;3
+GBP_ManufacturingProduction;20170310;09:30;Manufacturing Production (MoM);United Kingdom;GBP;2
+GBP_IndustrialProduction;20170310;09:30;Industrial Production (YoY);United Kingdom;GBP;2
+GBP_GoodsTradeBalance;20170310;09:30;Goods Trade Balance;United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20170310;09:30;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20170310;09:30;Total Trade Balance;United Kingdom;GBP;1
+EUR_SloForeignTradeBalance;20170310;08:00;Foreign Trade Balance;Slovakia;EUR;1
+DKK_ConsumerPriceIndex;20170310;08:00;Consumer Price Index (YoY);Denmark;DKK;1
+DKK_Inflation;20170310;08:00;Inflation (HICP) (YoY);Denmark;DKK;1
+EUR_SpaRetailSales;20170310;08:00;Retail Sales (YoY);Spain;EUR;1
+EUR_AusTradeBalance;20170310;08:00;Trade Balance;Austria;EUR;1
+HUF_TradeBalance;20170310;08:00;Trade Balance;Hungary;HUF;1
+EUR_FraIndustrialOutput;20170310;07:45;Industrial Output (MoM);France;EUR;1
+NOK_ConsumerPriceIndex;20170310;07:00;Consumer Price Index (YoY);Norway;NOK;1
+NOK_CoreInflation;20170310;07:00;Core Inflation (MoM);Norway;NOK;1
+EUR_FinIndustrialOutput;20170310;07:00;Industrial Output (MoM);Finland;EUR;1
+EUR_GerWholesalePriceIndex;20170310;07:00;Wholesale Price Index (MoM);Germany;EUR;2
+RON_ConsumerPriceIndex;20170310;07:00;Consumer Price Index;Romania;RON;1
+EUR_FinTradeBalance;20170310;07:00;Trade Balance;Finland;EUR;1
+NOK_ProducerPriceIndex;20170310;07:00;Producer Price Index (YoY);Norway;NOK;1
+EUR_GerCurrentAccount;20170310;07:00;Current Account n.s.a.;Germany;EUR;2
+EUR_GerTradeBalance;20170310;07:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerExports;20170310;07:00;Exports (MoM);Germany;EUR;2
+EUR_GerImports;20170310;07:00;Imports (MoM);Germany;EUR;2
+EUR_NetManufacturingOutput;20170310;05:30;Manufacturing Output (MoM);Netherlands, The;EUR;1
+SGD_RetailSales;20170310;05:00;Retail Sales (MoM);Singapore;SGD;1
+AUD_InvestmentLendingforHomes;20170310;00:30;Investment Lending for Homes;Australia;AUD;2
+AUD_HomeLoans;20170310;00:30;Home Loans;Australia;AUD;2

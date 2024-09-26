@@ -1,0 +1,27 @@
+NZD_CurrentAccount;20130917;22:45;Current Account - GDP Ratio;New Zealand;NZD;1
+USD_Auction;20130917;15:30;52-Week Bill Auction;United States;USD;1
+RUB_ProducerPriceIndex;20130917;14:00;Producer Price Index (MoM);Russia;RUB;1
+USD_NAHBHousingMarketIndex;20130917;14:00;NAHB Housing Market Index;United States;USD;2
+USD_NetLongTermTICFlows;20130917;13:00;Net Long-Term TIC Flows;United States;USD;2
+USD_TotalNetTICFlows;20130917;13:00;Total Net TIC Flows;United States;USD;1
+USD_RedbookIndex;20130917;12:55;Redbook Index (MoM);United States;USD;1
+CAD_ManufacturingShipments;20130917;12:30;Manufacturing Shipments (MoM);Canada;CAD;1
+USD_ConsumerPriceIndex;20130917;12:30;Consumer Price Index ex Food & Energy (MoM);United States;USD;2
+USD_CentralBankSpeech;20130917;12:15;Treasury Sec Lew speech;United States;USD;2
+PLN_CorporateSectorWages;20130917;12:00;Corporate Sector Wages;Poland;PLN;1
+TRY_CBRTInterestRateDecision;20130917;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+EUR_EurTradeBalance;20130917;09:00;Trade Balance n.s.a.;European Monetary Union;EUR;1
+EUR_GerZEWSurveyEconomicSentiment;20130917;09:00;ZEW Survey - Economic Sentiment;Germany;EUR;2
+EUR_EurZEWSurveyEconomicSentiment;20130917;09:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;3
+EUR_GerZEWSurveyCurrentSituation;20130917;09:00;ZEW Survey - Current Situation;Germany;EUR;2
+EUR_SpaAuction;20130917;08:56;6-Month Letras Auction;Spain;EUR;1
+HKD_Unemploymentrate;20130917;08:30;Unemployment rate;Hong Kong SAR;HKD;1
+GBP_RetailPriceIndex;20130917;08:30;Retail Price Index (MoM);United Kingdom;GBP;1
+GBP_DCLGHousePriceIndex;20130917;08:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ProducerPriceIndex;20130917;08:30;Producer Price Index - Output (YoY) n.s.a;United Kingdom;GBP;2
+GBP_PPICoreOutput;20130917;08:30;PPI Core Output (MoM) n.s.a;United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20130917;08:30;Core Consumer Price Index (YoY);United Kingdom;GBP;3
+EUR_EurCurrentAccount;20130917;08:00;Current Account s.a;European Monetary Union;EUR;1
+CNY_FDIForeignDirectInvestment;20130917;02:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+AUD_NewMotorVehicleSales;20130917;01:30;New Motor Vehicle Sales (MoM);Australia;AUD;1
+AUD_RBAMeetingMinutes;20130917;01:30;RBA Meeting Minutes;Australia;AUD;3

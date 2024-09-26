@@ -1,0 +1,33 @@
+JPY_ForeignInvestmentinJapanStocks;20160413;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20160413;23:50;Foreign Bond Investment;Japan;JPY;2
+GBP_RICSHousingPriceBalance;20160413;23:01;RICS Housing Price Balance;United Kingdom;GBP;2
+NZD_BusinessNZPMI;20160413;22:30;Business NZ PMI;New Zealand;NZD;2
+USD_FedBeigeBook;20160413;18:00;Fed Beige Book;United States;USD;2
+USD_Auction;20160413;17:00;10-Year Note Auction;United States;USD;2
+CAD_BoCPressConference;20160413;15:15;BoC Press Conference;Canada;CAD;3
+USD_EIACrudeOilStocksChange;20160413;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+CAD_BankofCanadaMonetaryPolicyReport;20160413;14:00;Bank of Canada Monetary Policy Report;Canada;CAD;3
+USD_BusinessInventories;20160413;14:00;Business Inventories;United States;USD;1
+CAD_BoCInterestRateDecision;20160413;14:00;BoC Interest Rate Decision;Canada;CAD;3
+CAD_BoCRateStatement;20160413;14:00;BoC Rate Statement;Canada;CAD;3
+USD_RetailSales;20160413;12:30;Retail Sales Control Group;United States;USD;2
+USD_ProducerPriceIndex;20160413;12:30;Producer Price Index ex Food & Energy (YoY);United States;USD;1
+PLN_CurrentAccount;20160413;12:00;Current Account;Poland;PLN;1
+INR_M3MoneySupply;20160413;11:30;M3 Money Supply;India;INR;1
+USD_MBAMortgageApplications;20160413;11:00;MBA Mortgage Applications;United States;USD;1
+ZAR_RetailSales;20160413;11:00;Retail Sales (YoY);South Africa;ZAR;1
+GBP_Auction;20160413;10:06;30-y Bond Auction;United Kingdom;GBP;1
+EUR_EurIndustrialProduction;20160413;09:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;2
+GBP_BoECreditConditionsSurvey;20160413;08:30;BoE Credit Conditions Survey;United Kingdom;GBP;1
+CZK_CurrentAccount;20160413;08:00;Current Account (MoM);Czech Republic;CZK;1
+EUR_SpaHICP;20160413;07:00;HICP (YoY);Spain;EUR;1
+HUF_IndustrialOutput;20160413;07:00;Industrial Output (YoY);Hungary;HUF;1
+EUR_SpaConsumerPriceIndex;20160413;07:00;Consumer Price Index (MoM);Spain;EUR;1
+EUR_FraConsumerPriceIndex;20160413;06:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraInflationextobacco;20160413;06:45;Inflation ex-tobacco (MoM);France;EUR;1
+CNY_Imports;20160413;02:00;Imports (YoY);China;CNY;1
+CNY_TradeBalanceCNY;20160413;02:00;Trade Balance CNY;China;CNY;2
+CNY_Exports;20160413;02:00;Exports (YoY);China;CNY;1
+CNY_TradeBalanceUSD;20160413;02:00;Trade Balance USD;China;CNY;2
+AUD_WestpacConsumerConfidenceIndex;20160413;00:30;Westpac Consumer Confidence Index;Australia;AUD;1
+AUD_WestpacConsumerConfidence;20160413;00:30;Westpac Consumer Confidence;Australia;AUD;2

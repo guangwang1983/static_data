@@ -1,0 +1,39 @@
+JPY_ForeignInvestmentinJapanStocks;20200116;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20200116;23:50;Foreign Bond Investment;Japan;JPY;2
+NZD_BusinessNZPMI;20200116;21:30;Business NZ PMI;New Zealand;NZD;2
+USD_NetLongTermTICFlows;20200116;21:00;Net Long-Term TIC Flows;United States;USD;1
+USD_TotalNetTICFlows;20200116;21:00;Total Net TIC Flows;United States;USD;1
+EUR_EurCentralBankSpeech;20200116;18:00;ECB President Lagarde speech;European Monetary Union;EUR;3
+EGP_CBEInterestRateDecision;20200116;17:00;CBE Interest Rate Decision;Egypt;EGP;1
+USD_Auction;20200116;16:30;4-Week Bill Auction;United States;USD;1
+USD_EIANaturalGasStorageChange;20200116;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_BusinessInventories;20200116;15:00;Business Inventories;United States;USD;1
+USD_NAHBHousingMarketIndex;20200116;15:00;NAHB Housing Market Index;United States;USD;1
+USD_CentralBankSpeech;20200116;15:00;Fed Bowman speech;United States;USD;2
+USD_RetailSales;20200116;13:30;Retail Sales Control Group;United States;USD;3
+USD_JoblessClaims;20200116;13:30;Continuing Jobless Claims;United States;USD;1
+CAD_ADPEmploymentChange;20200116;13:30;ADP Employment Change;Canada;CAD;1
+USD_ImportPriceIndex;20200116;13:30;Import Price Index (YoY);United States;USD;1
+USD_ExportPriceIndex;20200116;13:30;Export Price Index (YoY);United States;USD;1
+USD_PhiladelphiaFedManufacturingSurvey;20200116;13:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+PLN_NetInflation;20200116;13:00;Net Inflation;Poland;PLN;1
+RUB_CentralBankReserves;20200116;13:00;Central Bank Reserves $;Russia;RUB;1
+ZAR_SARBInterestRateDecision;20200116;13:00;SARB Interest Rate Decision;South Africa;ZAR;1
+EUR_EurECBMonetaryPolicyMeetingAccounts;20200116;12:30;ECB Monetary Policy Meeting Accounts;European Monetary Union;EUR;3
+EUR_IreConsumerPriceIndex;20200116;11:00;Consumer Price Index (YoY);Ireland;EUR;1
+EUR_IreHICP;20200116;11:00;HICP (YoY);Ireland;EUR;1
+ILS_GrossDomesticProduct;20200116;11:00;Gross Domestic Product (QoQ);Israel;ILS;1
+TRY_CBRTInterestRateDecision;20200116;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+GBP_BoECreditConditionsSurvey;20200116;09:30;BoE Credit Conditions Survey;United Kingdom;GBP;2
+CZK_ProducerPriceIndex;20200116;08:00;Producer Price Index (YoY);Czech Republic;CZK;1
+CNY_M2MoneySupply;20200116;07:00;M2 Money Supply (YoY);China;CNY;1
+EUR_GerConsumerPriceIndex;20200116;07:00;Consumer Price Index (MoM);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20200116;07:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+CNY_NewLoans;20200116;07:00;New Loans;China;CNY;1
+EUR_NetUnemploymentRate;20200116;05:30;Unemployment Rate s.a (3M);Netherlands, The;EUR;1
+KRW_MoneySupplyGrowth;20200116;03:00;Money Supply Growth;South Korea;KRW;1
+KRW_TradeBalance;20200116;02:00;Trade Balance;South Korea;KRW;1
+CNY_HousePriceIndex;20200116;01:30;House Price Index ;China;CNY;1
+AUD_HomeLoans;20200116;00:30;Home Loans;Australia;AUD;2
+AUD_InvestmentLendingforHomes;20200116;00:30;Investment Lending for Homes;Australia;AUD;2
+GBP_RICSHousingPriceBalance;20200116;00:01;RICS Housing Price Balance;United Kingdom;GBP;1

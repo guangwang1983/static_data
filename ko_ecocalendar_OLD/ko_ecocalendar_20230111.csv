@@ -1,0 +1,21 @@
+NZD_ANZCommodityPrice;20230111;00:00;ANZ Commodity Price;New Zealand;NZD;1
+AUD_RetailSales;20230111;00:30;Retail Sales s.a. (MoM);Australia;AUD;3
+AUD_ConsumerPriceIndex;20230111;00:30;Monthly Consumer Price Index (YoY);Australia;AUD;3
+CNY_ProducerPriceIndex;20230111;01:30;Producer Price Index (YoY);China;CNY;2
+CNY_ConsumerPriceIndex;20230111;01:30;Consumer Price Index (MoM);China;CNY;2
+JPY_CoincidentIndex;20230111;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20230111;05:00;Leading Economic Index;Japan;JPY;1
+CZK_ConsumerPriceIndex;20230111;08:00;Consumer Price Index (MoM);Czech Republic;CZK;1
+HUF_BudgetBalance;20230111;10:00;Budget Balance;Hungary;HUF;1
+INR_M3MoneySupply;20230111;11:30;M3 Money Supply;India;INR;1
+USD_MBAMortgageApplications;20230111;12:00;MBA Mortgage Applications;United States;USD;1
+BRL_RetailSales;20230111;12:00;Retail Sales (MoM);Brazil;BRL;1
+MXN_IndustrialOutput;20230111;12:00;Industrial Output (MoM);Mexico;MXN;1
+USD_EIACrudeOilStocksChange;20230111;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+RUB_ConsumerPriceIndex;20230111;16:00;Consumer Price Index (MoM);Russia;RUB;1
+USD_Auction;20230111;18:00;10-Year Note Auction;United States;USD;1
+NZD_ANZ–RoyMorganConsumerConfidence;20230111;21:00;ANZ – Roy Morgan Consumer Confidence;New Zealand;NZD;2
+NZD_BuildingPermits;20230111;21:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+JPY_BankLending;20230111;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_CurrentAccount;20230111;23:50;Current Account n.s.a.;Japan;JPY;2
+JPY_TradeBalanceBOPBasis;20230111;23:50;Trade Balance - BOP Basis;Japan;JPY;1

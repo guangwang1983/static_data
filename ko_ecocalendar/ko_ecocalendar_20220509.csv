@@ -1,0 +1,39 @@
+JPY_JibunBankServicesPMI;20220509;00:30;Jibun Bank Services PMI;Japan;JPY;1
+CNY_Exports;20220509;02:00;Exports (YoY);China;CNY;2
+CNY_Imports;20220509;02:00;Imports (YoY) CNY;China;CNY;1
+CNY_TradeBalanceUSD;20220509;02:00;Trade Balance USD;China;CNY;2
+CNY_TradeBalanceCNY;20220509;02:00;Trade Balance CNY;China;CNY;1
+IDR_GrossDomesticProduct;20220509;04:00;Gross Domestic Product (QoQ);Indonesia;IDR;1
+IDR_CoreInflation;20220509;04:00;Core Inflation (YoY);Indonesia;IDR;1
+IDR_Inflation;20220509;04:00;Inflation (YoY);Indonesia;IDR;1
+DKK_TradeBalance;20220509;06:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20220509;06:00;Current Account;Denmark;DKK;1
+NOK_ManufacturingOutput;20220509;06:00;Manufacturing Output;Norway;NOK;1
+ZAR_Gross$Gold&ForexReserve;20220509;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+ZAR_Net$Gold&ForexReserve;20220509;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+EUR_FraTradeBalanceEUR;20220509;06:45;Trade Balance EUR;France;EUR;1
+EUR_FraImportsEUR;20220509;06:45;Imports, EUR;France;EUR;1
+EUR_FraExportsEUR;20220509;06:45;Exports, EUR;France;EUR;1
+EUR_FraCurrentAccount;20220509;06:45;Current Account;France;EUR;1
+CZK_UnemploymentRate;20220509;07:00;Unemployment Rate;Czech Republic;CZK;1
+CZK_IndustrialProduction;20220509;07:00;Industrial Production (YoY);Czech Republic;CZK;1
+CZK_Constructionoutput;20220509;07:00;Construction output (YoY);Czech Republic;CZK;1
+HUF_TradeBalance;20220509;07:00;Trade Balance;Hungary;HUF;1
+CZK_ForeignTradeBalance;20220509;07:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+CZK_FXReserves;20220509;08:00;FX Reserves;Czech Republic;CZK;1
+EUR_EurSentixInvestorConfidence;20220509;08:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+HUF_BudgetBalance;20220509;09:00;Budget Balance;Hungary;HUF;1
+MXN_12MonthInflation;20220509;11:00;12-Month Inflation;Mexico;MXN;1
+MXN_CoreInflation;20220509;11:00;Core Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20220509;11:00;Headline Inflation;Mexico;MXN;1
+RUB_CentralBankSpeech;20220509;12:00;Putin Victory Day speech;Russia;RUB;3
+CAD_BuildingPermits;20220509;12:30;Building Permits (MoM);Canada;CAD;1
+GBP_CentralBankSpeech;20220509;13:00;BoE Saunders speech;United Kingdom;GBP;2
+USD_WholesaleInventories;20220509;14:00;Wholesale Inventories;United States;USD;1
+CLP_TradeBalance;20220509;14:20;Trade Balance;Chile;CLP;1
+USD_Auction;20220509;15:30;3-Month Bill Auction;United States;USD;1
+USD_LoanOfficerSurvey;20220509;18:00;Loan Officer Survey;United States;USD;1
+NZD_RetailSales;20220509;22:45;Electronic Card Retail Sales (YoY);New Zealand;NZD;1
+KRW_CurrentAccount;20220509;23:00;Current Account Balance;South Korea;KRW;1
+GBP_RetailSales;20220509;23:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+JPY_OverallHouseholdSpending;20220509;23:30;Overall Household Spending (YoY);Japan;JPY;2

@@ -1,0 +1,28 @@
+KRW_KoreanNewYear;20180216;00:00;Korean New Year ;South Korea;KRW;0
+IDR_ChineseNewYear;20180216;00:00;Chinese New Year;Indonesia;IDR;0
+CNY_ChineseNewYear;20180216;00:00;Chinese New Year;China;CNY;0
+EUR_GerWholesalePriceIndex;20180216;07:00;Wholesale Price Index (MoM);Germany;EUR;2
+CZK_GrossDomesticProduct;20180216;08:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+EUR_EurCentralBankSpeech;20180216;08:20;ECB Cœuré speech;European Monetary Union;EUR;2
+PLN_CorporateSectorWages;20180216;09:00;Corporate Sector Wages;Poland;PLN;1
+GBP_RetailSales;20180216;09:30;Retail Sales (YoY);United Kingdom;GBP;2
+INR_BankLoanGrowth;20180216;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20180216;11:30;FX Reserves, USD;India;INR;1
+USD_BuildingPermits;20180216;13:30;Building Permits (MoM);United States;USD;2
+USD_HousingStarts;20180216;13:30;Housing Starts (MoM);United States;USD;2
+USD_HousingStartsChange;20180216;13:30;Housing Starts Change;United States;USD;2
+USD_BuildingPermitsChange;20180216;13:30;Building Permits Change;United States;USD;2
+CAD_ManufacturingSales;20180216;13:30;Manufacturing Sales (MoM);Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20180216;13:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20180216;13:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+USD_ExportPriceIndex;20180216;13:30;Export Price Index (YoY);United States;USD;1
+USD_ImportPriceIndex;20180216;13:30;Import Price Index (YoY);United States;USD;1
+USD_MichiganConsumerSentimentIndex;20180216;15:00;Michigan Consumer Sentiment Index;United States;USD;1
+USD_BakerHughesUSOilRigCount;20180216;18:00;Baker Hughes US Oil Rig Count;United States;USD;2
+AUD_CFTCAUDNCNetPositions;20180216;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20180216;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+USD_CFTCS&P500NCNetPositions;20180216;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20180216;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCOilNCNetPositions;20180216;20:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20180216;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20180216;20:30;CFTC Gold NC Net Positions;United States;USD;1

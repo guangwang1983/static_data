@@ -1,0 +1,30 @@
+CNY_PBoCInterestRateDecision;20240920;01:15;PBoC Interest Rate Decision;China;CNY;2
+NZD_CreditCardSpending;20240920;03:00;Credit Card Spending (YoY);New Zealand;NZD;1
+JPY_BoJInterestRateDecision;20240920;03:00;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_BoJMonetaryPolicyStatement;20240920;03:00;BoJ Monetary Policy Statement;Japan;JPY;3
+EUR_GerProducerPriceIndex;20240920;06:00;Producer Price Index (MoM);Germany;EUR;2
+DKK_ConsumerConfidence;20240920;06:00;Consumer Confidence;Denmark;DKK;1
+GBP_RetailSales;20240920;06:00;Retail Sales ex-Fuel (YoY);United Kingdom;GBP;2
+GBP_PublicSectorNetBorrowing;20240920;06:00;Public Sector Net Borrowing;United Kingdom;GBP;1
+JPY_BoJPressConference;20240920;06:00;BoJ Press Conference;Japan;JPY;3
+EUR_FraBusinessClimateinManufacturing;20240920;06:45;Business Climate in Manufacturing;France;EUR;1
+TRY_ConsumerConfidence;20240920;07:00;Consumer Confidence;Turkey;TRY;1
+CZK_ForeignDebt;20240920;08:00;Foreign Debt;Czech Republic;CZK;1
+GBP_CentralBankSpeech;20240920;09:30;BoE Mann speech;United Kingdom;GBP;2
+INR_BankLoanGrowth;20240920;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20240920;11:30;FX Reserves, USD;India;INR;1
+CAD_RawMaterialPriceIndex;20240920;12:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20240920;12:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_CentralBankSpeech;20240920;12:30;BoC Governor Macklem speech;Canada;CAD;3
+CAD_RetailSales;20240920;12:30;Retail Sales ex Autos (MoM);Canada;CAD;2
+EUR_EurConsumerConfidence;20240920;14:00;Consumer Confidence;Eurozone;EUR;2
+EUR_EurCentralBankSpeech;20240920;15:00;ECB President Lagarde speech;Eurozone;EUR;3
+USD_BakerHughesUSOilRigCount;20240920;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CentralBankSpeech;20240920;18:00;Fed Harker speech;United States;USD;2
+USD_CFTCS&P500NCNetPositions;20240920;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20240920;19:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20240920;19:30;CFTC Gold NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20240920;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20240920;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20240920;19:30;CFTC EUR NC Net Positions;Eurozone;EUR;1
+AUD_CFTCAUDNCNetPositions;20240920;19:30;CFTC AUD NC Net Positions;Australia;AUD;1

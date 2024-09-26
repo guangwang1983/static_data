@@ -1,0 +1,35 @@
+AUD_ParticipationRate;20220317;00:30;Participation Rate;Australia;AUD;1
+AUD_UnemploymentRate;20220317;00:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_PartTimeEmployment;20220317;00:30;Part-Time Employment;Australia;AUD;1
+AUD_FulltimeEmployment;20220317;00:30;Fulltime Employment;Australia;AUD;2
+AUD_EmploymentChange;20220317;00:30;Employment Change s.a.;Australia;AUD;3
+AUD_RBABulletin;20220317;00:30;RBA Bulletin;Australia;AUD;1
+AUD_HIANewHomeSales;20220317;01:45;HIA New Home Sales (MoM);Australia;AUD;2
+CHF_TradeBalance;20220317;07:00;Trade Balance;Switzerland;CHF;1
+CHF_Exports;20220317;07:00;Exports (MoM);Switzerland;CHF;1
+CHF_Imports;20220317;07:00;Imports (MoM);Switzerland;CHF;1
+EUR_EurHICPXFEAT;20220317;10:00;HICP-X F,E,A,T (MoM);European Monetary Union;EUR;2
+EUR_EurHICP;20220317;10:00;HICP (YoY);European Monetary Union;EUR;1
+TRY_CBRTInterestRateDecision;20220317;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+GBP_BoEInterestRateDecision;20220317;12:00;BoE Interest Rate Decision;United Kingdom;GBP;3
+GBP_BoEAssetPurchaseFacility;20220317;12:00;BoE Asset Purchase Facility;United Kingdom;GBP;3
+GBP_MonetaryPolicySummary;20220317;12:00;Monetary Policy Summary;United Kingdom;GBP;3
+GBP_BoEMPCVoteRateCut;20220317;12:00;BoE MPC Vote Rate Cut;United Kingdom;GBP;3
+GBP_BoEMPCVoteRateUnchanged;20220317;12:00;BoE MPC Vote Rate Unchanged;United Kingdom;GBP;3
+GBP_BoEMPCVoteRateHike;20220317;12:00;BoE MPC Vote Rate Hike;United Kingdom;GBP;3
+GBP_BankofEnglandMinutes;20220317;12:00;Bank of England Minutes;United Kingdom;GBP;3
+USD_HousingStartsChange;20220317;12:30;Housing Starts Change;United States;USD;1
+USD_BuildingPermitsChange;20220317;12:30;Building Permits Change;United States;USD;1
+USD_HousingStarts;20220317;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20220317;12:30;Building Permits (MoM);United States;USD;2
+USD_JoblessClaims;20220317;12:30;Continuing Jobless Claims;United States;USD;1
+USD_PhiladelphiaFedManufacturingSurvey;20220317;12:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+EUR_EurCentralBankSpeech;20220317;12:45;ECB Schnabel speech;European Monetary Union;EUR;2
+RUB_CentralBankReserves;20220317;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_IndustrialProduction;20220317;13:15;Industrial Production (MoM);United States;USD;1
+USD_CapacityUtilization;20220317;13:15;Capacity Utilization;United States;USD;1
+USD_EIANaturalGasStorageChange;20220317;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20220317;15:30;4-Week Bill Auction;United States;USD;1
+JPY_NationalCPIexFoodEnergy;20220317;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20220317;23:30;National Consumer Price Index (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20220317;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2

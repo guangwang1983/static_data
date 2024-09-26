@@ -1,0 +1,48 @@
+NZD_BusinessNZPMI;20120215;21:30;Business NZ PMI;New Zealand;NZD;1
+USD_FOMCMinutes;20120215;19:00;FOMC Minutes;United States;USD;3
+USD_CentralBankSpeech;20120215;17:15;Fed Richard Fisher speech;United States;USD;1
+USD_EIACrudeOilStocksChange;20120215;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_NAHBHousingMarketIndex;20120215;15:00;NAHB Housing Market Index;United States;USD;1
+USD_IndustrialProduction;20120215;14:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20120215;14:15;Capacity Utilization;United States;USD;1
+USD_TotalNetTICFlows;20120215;14:00;Total Net TIC Flows;United States;USD;1
+USD_NetLongTermTICFlows;20120215;14:00;Net Long-Term TIC Flows;United States;USD;2
+EUR_BelGrossDomesticProduct;20120215;14:00;Gross Domestic Product (QoQ);Belgium;EUR;1
+USD_NYEmpireStateManufacturingIndex;20120215;13:30;NY Empire State Manufacturing Index;United States;USD;1
+USD_ConsumerPriceIndex;20120215;13:30;Consumer Price Index Core s.a;United States;USD;1
+PLN_ConsumerPriceIndex;20120215;13:00;Consumer Price Index (MoM);Poland;PLN;1
+RUB_IndustrialOutput;20120215;13:00;Industrial Output;Russia;RUB;1
+USD_MBAMortgageApplications;20120215;12:00;MBA Mortgage Applications;United States;USD;1
+ZAR_RetailSales;20120215;11:00;Retail Sales (YoY);South Africa;ZAR;1
+GBP_BankofEnglandQuarterlyInflationReport;20120215;10:30;Bank of England Quarterly Inflation Report;United Kingdom;GBP;3
+GBP_CentralBankSpeech;20120215;10:30;BoE Governor King speech;United Kingdom;GBP;2
+EUR_EurTradeBalance;20120215;10:00;Trade Balance n.s.a.;European Monetary Union;EUR;1
+EUR_EurGrossDomesticProduct;20120215;10:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;2
+CHF_ZEWSurveyExpectations;20120215;10:00;ZEW Survey - Expectations;Switzerland;CHF;2
+TRY_BudgetBalance;20120215;10:00;Budget Balance;Turkey;TRY;1
+GBP_AverageEarningsExcludingBonus;20120215;09:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountRate;20120215;09:30;Claimant Count Rate;United Kingdom;GBP;2
+GBP_ClaimantCountChange;20120215;09:30;Claimant Count Change;United Kingdom;GBP;2
+GBP_AverageEarningsIncludingBonus;20120215;09:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20120215;09:30;ILO Unemployment Rate (3M);United Kingdom;GBP;2
+NOK_TradeBalance;20120215;09:00;Trade Balance;Norway;NOK;1
+EUR_ItaGrossDomesticProduct;20120215;09:00;Gross Domestic Product (QoQ);Italy;EUR;1
+EUR_SloGrossDomesticProduct;20120215;09:00;Gross Domestic Product Prelim (YoY);Slovakia;EUR;1
+EUR_NetGrossDomesticProduct;20120215;08:30;Gross Domestic Product s.a (QoQ) ;Netherlands, The;EUR;1
+SEK_CapacityUtilization;20120215;08:30;Capacity Utilization;Sweden;SEK;1
+EUR_SpaHICP;20120215;08:00;HICP (YoY);Spain;EUR;1
+CZK_ExportPrices;20120215;08:00;Export Prices (YoY);Czech Republic;CZK;1
+TRY_3mthquarterlyjoblessaverage;20120215;08:00;3mth quarterly jobless average;Turkey;TRY;1
+EUR_AusGrossDomesticProduct;20120215;08:00;Gross Domestic Product (QoQ);Austria;EUR;1
+EUR_FinCurrentAccount;20120215;08:00;Current Account;Finland;EUR;1
+RON_GrossDomesticProduct;20120215;08:00;Gross Domestic Product;Romania;RON;1
+EUR_SpaConsumerPriceIndex;20120215;08:00;Consumer Price Index (MoM);Spain;EUR;1
+CZK_GrossDomesticProduct;20120215;08:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+HUF_GrossDomesticProduct;20120215;08:00;Gross Domestic Product (YoY);Hungary;HUF;1
+CZK_ImportPrices;20120215;08:00;Import Prices (YoY);Czech Republic;CZK;1
+EUR_FinGrossDomesticProduct;20120215;07:00;Gross Domestic Product (YoY);Finland;EUR;1
+EUR_GerGrossDomesticProduct;20120215;07:00;Gross Domestic Product (QoQ);Germany;EUR;2
+EUR_FraGrossDomesticProduct;20120215;06:30;Gross Domestic Product (QoQ);France;EUR;1
+JPY_BoJMonthlyEconomicSurvey;20120215;05:00;BoJ Monthly Economic Survey;Japan;JPY;2
+SGD_RetailSales;20120215;05:00;Retail Sales (YoY);Singapore;SGD;1
+AUD_NewMotorVehicleSales;20120215;00:30;New Motor Vehicle Sales (MoM);Australia;AUD;1

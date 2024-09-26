@@ -1,0 +1,54 @@
+HUF_AllSaints'Day;20191101;00:00;All Saints' Day;Hungary;HUF;0
+PLN_AllSaints'Day;20191101;00:00;All Saints' Day;Poland;PLN;0
+EUR_ItaAllSaints'Day;20191101;00:00;All Saints' Day;Italy;EUR;0
+SEK_AllSaints'Day;20191101;00:00;All Saints' Day;Sweden;SEK;0
+KRW_TradeBalance;20191101;00:00;Trade Balance;South Korea;KRW;1
+CLP_AllSaints'Day;20191101;00:00;All Saints' Day;Chile;CLP;0
+EUR_FraAllSaints'Day;20191101;00:00;All Saints' Day;France;EUR;0
+KRW_S&PGlobalManufacturingPMI;20191101;00:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+AUD_ProducerPriceIndex;20191101;00:30;Producer Price Index (YoY);Australia;AUD;1
+JPY_JibunBankManufacturingPMI;20191101;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+CNY_CaixinManufacturingPMI;20191101;01:45;Caixin Manufacturing PMI;China;CNY;3
+IDR_Inflation;20191101;02:15;Inflation (MoM);Indonesia;IDR;1
+IDR_CoreInflation;20191101;02:15;Core Inflation (YoY);Indonesia;IDR;1
+JPY_VehicleSales;20191101;05:00;Vehicle Sales (YoY);Japan;JPY;1
+AUD_RBACommodityIndexSDR;20191101;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+RUB_S&PGlobalManufacturingPMI;20191101;06:00;S&P Global Manufacturing PMI;Russia;RUB;1
+CHF_RetailSales;20191101;07:30;Real Retail Sales (YoY);Switzerland;CHF;2
+SEK_PurchasingManagersIndexManufacturing;20191101;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+CHF_ConsumerPriceIndex;20191101;07:30;Consumer Price Index (YoY);Switzerland;CHF;2
+CHF_SVMEPurchasingManagers'Index;20191101;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_S&PGlobalPMI;20191101;08:30;S&P Global PMI;Czech Republic;CZK;1
+TRY_Exports;20191101;09:00;Exports;Turkey;TRY;1
+DKK_ManufacturingPMI;20191101;09:00;Manufacturing PMI;Denmark;DKK;1
+NOK_RegisteredUnemployment;20191101;09:00;Registered Unemployment s.a;Norway;NOK;1
+GBP_S&PGlobalCIPSManufacturingPMI;20191101;09:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+ZAR_TotalNewVehicleSales;20191101;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+BRL_IndustrialOutput;20191101;12:00;Industrial Output (MoM);Brazil;BRL;1
+USD_LaborForceParticipationRate;20191101;12:30;Labor Force Participation Rate;United States;USD;2
+USD_AverageHourlyEarnings;20191101;12:30;Average Hourly Earnings (MoM);United States;USD;2
+USD_U6UnderemploymentRate;20191101;12:30;U6 Underemployment Rate;United States;USD;1
+USD_UnemploymentRate;20191101;12:30;Unemployment Rate;United States;USD;2
+USD_AverageWeeklyHours;20191101;12:30;Average Weekly Hours;United States;USD;1
+USD_NonfarmPayrolls;20191101;12:30;Nonfarm Payrolls;United States;USD;3
+BRL_S&PGlobalManufacturingPMI;20191101;13:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+CZK_BudgetBalance;20191101;13:00;Budget Balance;Czech Republic;CZK;1
+INR_FXReservesUSD;20191101;13:00;FX Reserves, USD;India;INR;1
+CAD_S&PGlobalManufacturingPMI;20191101;13:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20191101;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_ISMManufacturingPMI;20191101;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20191101;14:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ConstructionSpending;20191101;14:00;Construction Spending (MoM);United States;USD;1
+USD_ISMManufacturingNewOrdersIndex;20191101;15:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ISMManufacturingEmploymentIndex;20191101;15:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_BakerHughesUSOilRigCount;20191101;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+BRL_TradeBalance;20191101;18:00;Trade Balance;Brazil;BRL;1
+USD_CentralBankSpeech;20191101;18:30;Fed Williams speech;United States;USD;2
+USD_CFTCOilNCNetPositions;20191101;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20191101;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20191101;19:30;CFTC Gold NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20191101;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCS&P500NCNetPositions;20191101;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+AUD_CFTCAUDNCNetPositions;20191101;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20191101;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+USD_TotalVehicleSales;20191101;19:30;Total Vehicle Sales;United States;USD;1

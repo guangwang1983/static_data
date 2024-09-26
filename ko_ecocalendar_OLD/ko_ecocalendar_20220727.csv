@@ -1,0 +1,24 @@
+AUD_ConsumerPriceIndex;20220727;01:30;Consumer Price Index (YoY);Australia;AUD;2
+AUD_RBATrimmedMeanCPI;20220727;01:30;RBA Trimmed Mean CPI (YoY);Australia;AUD;1
+JPY_LeadingEconomicIndex;20220727;05:00;Leading Economic Index;Japan;JPY;1
+JPY_CoincidentIndex;20220727;05:00;Coincident Index;Japan;JPY;1
+SEK_TradeBalance;20220727;06:00;Trade Balance (MoM);Sweden;SEK;1
+EUR_EurPrivateLoans;20220727;08:00;Private Loans (YoY);European Monetary Union;EUR;1
+EUR_EurM3MoneySupply;20220727;08:00;M3 Money Supply (3m);European Monetary Union;EUR;1
+CHF_ZEWSurvey–Expectations;20220727;08:00;ZEW Survey – Expectations;Switzerland;CHF;2
+USD_MBAMortgageApplications;20220727;11:00;MBA Mortgage Applications;United States;USD;1
+MXN_TradeBalancesa;20220727;11:00;Trade Balance s/a, $;Mexico;MXN;1
+MXN_TradeBalance;20220727;11:00;Trade Balance, $;Mexico;MXN;1
+USD_WholesaleInventories;20220727;12:30;Wholesale Inventories;United States;USD;1
+USD_GoodsTradeBalance;20220727;12:30;Goods Trade Balance;United States;USD;1
+USD_DurableGoodsOrders;20220727;12:30;Durable Goods Orders;United States;USD;3
+USD_NondefenseCapitalGoodsOrdersexAircraft;20220727;12:30;Nondefense Capital Goods Orders ex Aircraft;United States;USD;3
+USD_PendingHomeSales;20220727;14:00;Pending Home Sales (YoY);United States;USD;1
+USD_EIACrudeOilStocksChange;20220727;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+RUB_UnemploymentRate;20220727;16:00;Unemployment Rate;Russia;RUB;1
+RUB_IndustrialOutput;20220727;16:00;Industrial Output;Russia;RUB;1
+USD_FedMonetaryPolicyStatement;20220727;18:00;Fed Monetary Policy Statement;United States;USD;3
+USD_FedInterestRateDecision;20220727;18:00;Fed Interest Rate Decision;United States;USD;3
+USD_FOMCPressConference;20220727;18:30;FOMC Press Conference;United States;USD;3
+JPY_ForeignInvestmentinJapanStocks;20220727;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20220727;23:50;Foreign Bond Investment;Japan;JPY;1

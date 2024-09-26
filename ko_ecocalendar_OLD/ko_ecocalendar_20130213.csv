@@ -1,0 +1,34 @@
+JPY_GrossDomesticProduct;20130213;23:50;Gross Domestic Product (QoQ);Japan;JPY;2
+NZD_FoodPriceIndex;20130213;21:45;Food Price Index (MoM);New Zealand;NZD;1
+NZD_BusinessNZPMI;20130213;21:30;Business NZ PMI;New Zealand;NZD;2
+USD_Auction;20130213;18:00;10-Year Note Auction;United States;USD;2
+USD_CentralBankSpeech;20130213;16:10;Fed Bullard speech;United States;USD;2
+USD_EIACrudeOilStocksChange;20130213;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_BusinessInventories;20130213;15:00;Business Inventories;United States;USD;1
+USD_RetailSales;20130213;13:30;Retail Sales ex Autos (MoM);United States;USD;2
+USD_ExportPriceIndex;20130213;13:30;Export Price Index (MoM);United States;USD;1
+USD_ImportPriceIndex;20130213;13:30;Import Price Index (MoM);United States;USD;1
+USD_MBAMortgageApplications;20130213;12:00;MBA Mortgage Applications;United States;USD;1
+ZAR_RetailSales;20130213;11:00;Retail Sales (YoY);South Africa;ZAR;1
+EUR_PorUnemploymentRate;20130213;11:00;Unemployment Rate;Portugal;EUR;1
+GBP_BankofEnglandQuarterlyInflationReport;20130213;10:30;Bank of England Quarterly Inflation Report;United Kingdom;GBP;3
+EUR_GerAuction;20130213;10:30;2-year Notes Auction;Germany;EUR;1
+GBP_CentralBankSpeech;20130213;10:30;BoE Governor King speech;United Kingdom;GBP;2
+EUR_ItaAuction;20130213;10:10;3-y Bond Auction;Italy;EUR;1
+RUB_BudgetFulfilment;20130213;10:03;Budget Fulfilment;Russia;RUB;1
+EUR_EurIndustrialProduction;20130213;10:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;2
+NOK_GrossDomesticProduct;20130213;09:00;Gross Domestic Product Growth;Norway;NOK;1
+SEK_RiksbankInterestRateDecision;20130213;08:30;Riksbank Interest Rate Decision;Sweden;SEK;1
+EUR_NetRetailSales;20130213;08:30;Retail Sales (YoY);Netherlands, The;EUR;1
+EUR_NetConsumerPriceIndex;20130213;08:30;Consumer Price Index n.s.a (YoY);Netherlands, The;EUR;1
+CHF_ProducerandImportPrices;20130213;08:15;Producer and Import Prices (MoM);Switzerland;CHF;1
+EUR_SloCoreInflation;20130213;08:00;Core Inflation (YoY);Slovakia;EUR;1
+EUR_SloHeadlineInflation;20130213;08:00;Headline Inflation (MoM);Slovakia;EUR;1
+TRY_CurrentAccount;20130213;08:00;Current Account Balance;Turkey;TRY;1
+EUR_GerWholesalePriceIndex;20130213;07:00;Wholesale Price Index (MoM);Germany;EUR;1
+INR_TradeDeficitGovernment;20130213;06:30;Trade Deficit Government;India;INR;1
+KRW_ImportPriceGrowth;20130213;05:07;Import Price Growth (YoY);South Korea;KRW;1
+KRW_MoneySupplyGrowth;20130213;03:00;Money Supply Growth;South Korea;KRW;1
+HKD_LunarNewYear;20130213;00:00;Lunar New Year;Hong Kong SAR;HKD;0
+CNY_ChineseNewYear;20130213;00:00;Chinese New Year;China;CNY;0
+BRL_AshWednesday;20130213;00:00;Ash Wednesday;Brazil;BRL;0

@@ -1,0 +1,44 @@
+ARS_TaxRevenue;20160502;21:00;Tax Revenue (MoM);Argentina;ARS;1
+USD_LoanOfficerSurvey;20160502;19:00;Loan Officer Survey;United States;USD;1
+BRL_TradeBalance;20160502;18:00;Trade Balance;Brazil;BRL;1
+CHF_CentralBankSpeech;20160502;16:30;SNB Chairman Jordan speech;Switzerland;CHF;2
+USD_Auction;20160502;15:30;6-Month Bill Auction;United States;USD;1
+EUR_EurCentralBankSpeech;20160502;14:00;ECB President Draghi speech;European Monetary Union;EUR;3
+USD_ISMManufacturingPMI;20160502;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMPricesPaid;20160502;14:00;ISM Prices Paid;United States;USD;2
+USD_ConstructionSpending;20160502;14:00;Construction Spending (MoM);United States;USD;2
+USD_MarkitManufacturingPMI;20160502;13:45;Markit Manufacturing PMI;United States;USD;2
+CAD_MarkitManufacturingPMI;20160502;13:30;Markit Manufacturing PMI;Canada;CAD;2
+BRL_HSBCPMIManufacturing;20160502;13:00;HSBC PMI Manufacturing;Brazil;BRL;1
+USD_CentralBankSpeech;20160502;12:50;Fed Lockhart speech;United States;USD;1
+CZK_BudgetBalance;20160502;12:00;Budget Balance;Czech Republic;CZK;1
+INR_InfrastructureOutput;20160502;09:30;Infrastructure Output (YoY);India;INR;1
+EUR_GerCentralBankSpeech;20160502;09:30;German Buba President Weidmann speech;Germany;EUR;2
+EUR_EurMarkitManufacturingPMI;20160502;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_GerMarkitManufacturingPMI;20160502;07:55;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20160502;07:50;Markit Manufacturing PMI;France;EUR;1
+EUR_ItaMarkitManufacturingPMI;20160502;07:45;Markit Manufacturing PMI;Italy;EUR;1
+CHF_SVMEPurchasingManagers'Index;20160502;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+EUR_SpaMarkitManufacturingPMI;20160502;07:15;Markit Manufacturing PMI;Spain;EUR;1
+CHF_RetailSales;20160502;07:15;Real Retail Sales (YoY);Switzerland;CHF;2
+EUR_AusUnemployment;20160502;07:00;Unemployment;Austria;EUR;1
+EUR_AusUnemploymentRate;20160502;07:00;Unemployment Rate;Austria;EUR;1
+HUF_PurchasingManagerIndex;20160502;07:00;Purchasing Manager Index;Hungary;HUF;1
+CZK_MarkitPMI;20160502;07:00;Markit PMI;Czech Republic;CZK;1
+PLN_PurchasingManagerIndex;20160502;07:00;Purchasing Manager Index;Poland;PLN;2
+AUD_RBACommodityIndexSDR;20160502;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+SEK_PurchasingManagersIndexManufacturing;20160502;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;2
+JPY_VehicleSales;20160502;05:00;Vehicle Sales (YoY);Japan;JPY;1
+IDR_Inflation;20160502;04:00;Inflation (YoY);Indonesia;IDR;1
+IDR_CoreInflation;20160502;04:00;Core Inflation (YoY);Indonesia;IDR;1
+JPY_NikkeiManufacturingPMI;20160502;02:00;Nikkei Manufacturing PMI;Japan;JPY;1
+KRW_NikkeiMarkitManufacturingPMI;20160502;01:30;Nikkei Markit Manufacturing PMI;South Korea;KRW;1
+AUD_NationalAustraliaBankBusinessConfidence;20160502;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20160502;01:30;National Australia Bank Business Conditions;Australia;AUD;1
+AUD_TDSecuritiesInflation;20160502;01:00;TD Securities Inflation (MoM);Australia;AUD;2
+SGD_Labourday;20160502;00:00;Labour day;Singapore;SGD;0
+GBP_EarlyMay;20160502;00:00;Early May;United Kingdom;GBP;0
+RON_OrthodoxEasterMonday;20160502;00:00;Orthodox Easter Monday;Romania;RON;0
+EUR_IreMayBankHoliday;20160502;00:00;May Bank Holiday;Ireland;EUR;0
+EUR_GreOrthodoxEasterMonday;20160502;00:00;Orthodox Easter Monday ;Greece;EUR;0
+HKD_LabourDay;20160502;00:00;Labour Day;Hong Kong SAR;HKD;0

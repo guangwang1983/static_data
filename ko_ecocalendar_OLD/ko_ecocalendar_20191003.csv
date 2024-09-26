@@ -1,0 +1,45 @@
+USD_CentralBankSpeech;20191003;22:35;Fed Clarida speech;United States;USD;2
+KRW_FXReserves;20191003;21:00;FX Reserves;South Korea;KRW;1
+USD_TotalVehicleSales;20191003;19:30;Total Vehicle Sales;United States;USD;1
+ARS_IndustrialOutput;20191003;19:00;Industrial Output n.s.a (YoY);Argentina;ARS;1
+USD_Auction;20191003;15:30;4-Week Bill Auction;United States;USD;1
+USD_EIANaturalGasStorageChange;20191003;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_ISMNonManufacturingPMI;20191003;14:00;ISM Non-Manufacturing PMI;United States;USD;3
+USD_FactoryOrders;20191003;14:00;Factory Orders (MoM);United States;USD;2
+GBP_CentralBankSpeech;20191003;14:00;BoE Tenreyro speech;United Kingdom;GBP;2
+USD_MarkitPMIComposite;20191003;13:45;Markit PMI Composite;United States;USD;2
+USD_MarkitServicesPMI;20191003;13:45;Markit Services PMI;United States;USD;2
+RUB_CentralBankReserves;20191003;13:00;Central Bank Reserves $;Russia;RUB;1
+SGD_PurchasingManagersIndex;20191003;13:00;Purchasing Managers Index;Singapore;SGD;1
+USD_ChallengerJobCuts;20191003;12:30;Challenger Job Cuts;United States;USD;1
+USD_JoblessClaims;20191003;12:30;Initial Jobless Claims;United States;USD;2
+RON_Interestratedecision;20191003;12:00;Interest rate decision;Romania;RON;1
+EUR_FraAuction;20191003;09:00;10-y Bond Auction;France;EUR;1
+EUR_EurProducerPriceIndex;20191003;09:00;Producer Price Index (MoM);European Monetary Union;EUR;1
+EUR_EurRetailSales;20191003;09:00;Retail Sales (MoM);European Monetary Union;EUR;1
+EUR_SpaAuction;20191003;08:40;10-y Obligaciones Auction;Spain;EUR;1
+GBP_MarkitServicesPMI;20191003;08:30;Markit Services PMI;United Kingdom;GBP;2
+EUR_EurMarkitServicesPMI;20191003;08:00;Markit Services PMI;European Monetary Union;EUR;1
+EUR_EurMarkitPMIComposite;20191003;08:00;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_GerMarkitServicesPMI;20191003;07:55;Markit Services PMI;Germany;EUR;1
+EUR_GerMarkitPMIComposite;20191003;07:55;Markit PMI Composite;Germany;EUR;2
+EUR_FraMarkitPMIComposite;20191003;07:50;Markit PMI Composite;France;EUR;1
+EUR_FraMarkitServicesPMI;20191003;07:50;Markit Services PMI;France;EUR;1
+EUR_ItaMarkitServicesPMI;20191003;07:45;Markit Services PMI;Italy;EUR;1
+EUR_EurCentralBankSpeech;20191003;07:45;ECB De Guindos speech;European Monetary Union;EUR;2
+SEK_IndustrialProduction;20191003;07:30;Industrial Production (YoY);Sweden;SEK;1
+EUR_SpaMarkitServicesPMI;20191003;07:15;Markit Services PMI;Spain;EUR;1
+TRY_ProducerPriceIndex;20191003;07:00;Producer Price Index (MoM);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20191003;07:00;Consumer Price Index (MoM);Turkey;TRY;1
+HUF_RetailSales;20191003;07:00;Retail Sales (YoY);Hungary;HUF;1
+RUB_PurchasingManagerIndexServices;20191003;06:00;Purchasing Manager Index Services;Russia;RUB;1
+AUD_Exports;20191003;01:30;Exports;Australia;AUD;2
+AUD_Imports;20191003;01:30;Imports;Australia;AUD;2
+AUD_TradeBalance;20191003;01:30;Trade Balance;Australia;AUD;2
+JPY_CentralBankSpeech;20191003;01:00;BoJ Funo speech;Japan;JPY;1
+JPY_JibunBankServicesPMI;20191003;00:30;Jibun Bank Services PMI;Japan;JPY;1
+EUR_IrePurchasingManagerIndexServices;20191003;00:01;Purchasing Manager Index Services;Ireland;EUR;1
+NZD_ANZCommodityPrice;20191003;00:00;ANZ Commodity Price;New Zealand;NZD;1
+EUR_GerDayofGermanUnity;20191003;00:00;Day of German Unity;Germany;EUR;0
+CNY_NationalDay;20191003;00:00;National Day;China;CNY;0
+KRW_NationalFoundationDay;20191003;00:00;National Foundation Day ;South Korea;KRW;0

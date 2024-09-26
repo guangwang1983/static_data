@@ -1,0 +1,40 @@
+JPY_MachineryOrders;20120410;23:50;Machinery Orders (MoM);Japan;JPY;2
+GBP_RetailSales;20120410;23:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;1
+NZD_NZIERBusinessConfidence;20120410;22:00;NZIER Business Confidence (QoQ);New Zealand;NZD;2
+USD_Auction;20120410;17:00;3-Year Note Auction;United States;USD;1
+USD_CentralBankSpeech;20120410;16:45;Fed Lockhart speech;United States;USD;1
+USD_WholesaleInventories;20120410;14:00;Wholesale Inventories;United States;USD;1
+USD_IBDTIPPEconomicOptimism;20120410;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+MXN_GrossDomesticProduct;20120410;13:00;Gross Domestic Product (MoM);Mexico;MXN;1
+USD_NFIBBusinessOptimismIndex;20120410;11:30;NFIB Business Optimism Index;United States;USD;1
+NOK_ConsumerPriceIndex;20120410;10:00;Consumer Price Index (YoY);Norway;NOK;1
+EUR_EurSentixInvestorConfidence;20120410;08:30;Sentix Investor Confidence;European Monetary Union;EUR;2
+NOK_CoreInflation;20120410;08:00;Core Inflation (MoM);Norway;NOK;1
+RON_IndustrialProduction;20120410;08:00;Industrial Production (MoM);Romania;RON;1
+NOK_ProducerPriceIndex;20120410;08:00;Producer Price Index (YoY);Norway;NOK;1
+SEK_IndustrialProduction;20120410;07:30;Industrial Production (YoY);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20120410;07:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+EUR_NetManufacturingOutput;20120410;07:30;Manufacturing Output (MoM);Netherlands, The;EUR;1
+CZK_ConsumerPriceIndex;20120410;07:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+CZK_UnemploymentRate;20120410;07:00;Unemployment Rate;Czech Republic;CZK;1
+DKK_Inflation;20120410;07:00;Inflation (HICP) (YoY);Denmark;DKK;1
+DKK_ConsumerPriceIndex;20120410;07:00;Consumer Price Index (YoY);Denmark;DKK;1
+RON_ConsumerPriceIndex;20120410;07:00;Consumer Price Index;Romania;RON;1
+EUR_FraIndustrialOutput;20120410;06:45;Industrial Output (MoM);France;EUR;1
+EUR_FinIndustrialOutput;20120410;06:00;Industrial Output (MoM);Finland;EUR;1
+JPY_MachineToolOrders;20120410;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+EUR_GerCurrentAccount;20120410;06:00;Current Account n.s.a.;Germany;EUR;1
+EUR_GerTradeBalance;20120410;06:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerExports;20120410;06:00;Exports (MoM);Germany;EUR;2
+EUR_GerImports;20120410;06:00;Imports (MoM);Germany;EUR;2
+ZAR_Net$Gold&ForexReserve;20120410;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+ZAR_Gross$Gold&ForexReserve;20120410;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+CHF_UnemploymentRate;20120410;05:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+CNY_Imports;20120410;05:30;Imports (YoY);China;CNY;2
+CNY_Exports;20120410;05:30;Exports (YoY);China;CNY;2
+JPY_BoJInterestRateDecision;20120410;03:30;BoJ Interest Rate Decision;Japan;JPY;3
+CNY_TradeBalanceUSD;20120410;03:07;Trade Balance USD;China;CNY;2
+JPY_BoJMonetaryPolicyStatement;20120410;03:00;BoJ Monetary Policy Statement ;Japan;JPY;2
+AUD_ANZJobAdvertisements;20120410;01:30;ANZ Job Advertisements;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConfidence;20120410;01:30;National Australia Bank Business Confidence;Australia;AUD;2
+AUD_NationalAustraliaBankBusinessConditions;20120410;01:30;National Australia Bank Business Conditions;Australia;AUD;1

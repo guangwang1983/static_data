@@ -1,0 +1,28 @@
+JPY_BoJMonetaryPolicyMeetingMinutes;20190319;23:50;BoJ Monetary Policy Meeting Minutes;Japan;JPY;3
+AUD_WestpacLeadingIndex;20190319;23:30;Westpac Leading Index (MoM);Australia;AUD;1
+NZD_CurrentAccount;20190319;21:45;Current Account (QoQ);New Zealand;NZD;1
+KRW_ProducerPriceIndex;20190319;21:00;Producer Price Index Growth (MoM);South Korea;KRW;1
+USD_APIWeeklyCrudeOilStock;20190319;20:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_GDTPriceIndex;20190319;14:15;GDT Price Index;New Zealand;NZD;2
+USD_FactoryOrders;20190319;14:00;Factory Orders (MoM);United States;USD;2
+RUB_ProducerPriceIndex;20190319;13:00;Producer Price Index (MoM);Russia;RUB;1
+USD_RedbookIndex;20190319;12:55;Redbook Index (MoM);United States;USD;1
+EUR_EurLabourCost;20190319;10:00;Labour Cost;European Monetary Union;EUR;2
+EUR_EurConstructionOutput;20190319;10:00;Construction Output w.d.a (YoY);European Monetary Union;EUR;1
+EUR_GerZEWSurveyCurrentSituation;20190319;10:00;ZEW Survey - Current Situation;Germany;EUR;2
+EUR_EurZEWSurveyEconomicSentiment;20190319;10:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurveyEconomicSentiment;20190319;10:00;ZEW Survey - Economic Sentiment;Germany;EUR;3
+GBP_ClaimantCountChange;20190319;09:30;Claimant Count Change;United Kingdom;GBP;2
+GBP_ClaimantCountRate;20190319;09:30;Claimant Count Rate;United Kingdom;GBP;1
+GBP_ILOUnemploymentRate;20190319;09:30;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_AverageEarningsIncludingBonus;20190319;09:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_AverageEarningsExcludingBonus;20190319;09:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;3
+EUR_ItaGlobalTradeBalance;20190319;09:06;Global Trade Balance;Italy;EUR;1
+EUR_ItaTradeBalanceEU;20190319;09:06;Trade Balance EU;Italy;EUR;1
+PLN_CorporateSectorWages;20190319;09:00;Corporate Sector Wages;Poland;PLN;1
+HKD_Unemploymentrate;20190319;08:30;Unemployment rate;Hong Kong SAR;HKD;1
+CHF_TradeBalance;20190319;07:00;Trade Balance;Switzerland;CHF;1
+CHF_Exports;20190319;07:00;Exports (MoM);Switzerland;CHF;1
+CHF_Imports;20190319;07:00;Imports (MoM);Switzerland;CHF;1
+AUD_HousePriceIndex;20190319;00:30;House Price Index (QoQ);Australia;AUD;2
+AUD_RBAMeetingMinutes;20190319;00:30;RBA Meeting Minutes;Australia;AUD;3

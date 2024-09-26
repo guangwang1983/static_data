@@ -1,0 +1,33 @@
+JPY_BoJInterestRateDecision;20240319;03:00;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_BoJMonetaryPolicyStatement;20240319;03:00;BoJ Monetary Policy Statement;Japan;JPY;3
+AUD_RBAInterestRateDecision;20240319;03:30;RBA Interest Rate Decision;Australia;AUD;3
+AUD_RBARateStatement;20240319;03:30;RBA Rate Statement;Australia;AUD;3
+JPY_IndustrialProduction;20240319;04:30;Industrial Production (YoY);Japan;JPY;1
+JPY_CapacityUtilization;20240319;04:30;Capacity Utilization;Japan;JPY;1
+AUD_RBAPressConference;20240319;04:30;RBA Press Conference;Australia;AUD;3
+JPY_BoJPressConference;20240319;06:00;BoJ Press Conference;Japan;JPY;3
+CHF_TradeBalance;20240319;07:00;Trade Balance;Switzerland;CHF;1
+CHF_Imports;20240319;07:00;Imports (MoM);Switzerland;CHF;1
+CHF_Exports;20240319;07:00;Exports (MoM);Switzerland;CHF;1
+CHF_SECOEconomicForecasts;20240319;08:00;SECO Economic Forecasts;Switzerland;CHF;1
+EUR_EurCentralBankSpeech;20240319;08:30;ECB De Guindos speech;Eurozone;EUR;2
+CNY_FDIForeignDirectInvestment;20240319;09:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;1
+EUR_GerZEWSurvey–EconomicSentiment;20240319;10:00;ZEW Survey – Economic Sentiment;Germany;EUR;2
+EUR_GerZEWSurvey–CurrentSituation;20240319;10:00;ZEW Survey – Current Situation;Germany;EUR;2
+EUR_EurLaborCost;20240319;10:00;Labor Cost;Eurozone;EUR;1
+EUR_EurZEWSurvey–EconomicSentiment;20240319;10:00;ZEW Survey – Economic Sentiment;Eurozone;EUR;2
+MXN_PrivateSpending;20240319;12:00;Private Spending (YoY);Mexico;MXN;1
+USD_HousingStartsChange;20240319;12:30;Housing Starts Change;United States;USD;1
+USD_BuildingPermitsChange;20240319;12:30;Building Permits Change;United States;USD;1
+USD_HousingStarts;20240319;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20240319;12:30;Building Permits (MoM);United States;USD;2
+CAD_ConsumerPriceIndex;20240319;12:30;BoC Consumer Price Index Core (YoY);Canada;CAD;3
+USD_RedbookIndex;20240319;12:55;Redbook Index (YoY);United States;USD;1
+NZD_GDTPriceIndex;20240319;14:00;GDT Price Index;New Zealand;NZD;1
+JPY_VernalEquinoxDay;20240319;15:00;Vernal Equinox Day;Japan;JPY;0
+USD_Auction;20240319;15:30;52-Week Bill Auction;United States;USD;1
+USD_TotalNetTICFlows;20240319;20:00;Total Net TIC Flows;United States;USD;1
+USD_NetLongTermTICFlows;20240319;20:00;Net Long-Term TIC Flows;United States;USD;1
+NZD_WestpacConsumerSurvey;20240319;20:00;Westpac Consumer Survey;New Zealand;NZD;2
+USD_APIWeeklyCrudeOilStock;20240319;20:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_CurrentAccount;20240319;21:45;Current Account (QoQ);New Zealand;NZD;1

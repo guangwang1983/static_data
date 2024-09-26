@@ -1,0 +1,30 @@
+JPY_ForeignBondInvestment;20190117;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20190117;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_NationalCPIexFoodEnergy;20190117;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20190117;23:30;National Consumer Price Index (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20190117;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+NZD_BusinessNZPMI;20190117;21:30;Business NZ PMI;New Zealand;NZD;2
+USD_Auction;20190117;16:30;4-Week Bill Auction;United States;USD;1
+USD_CentralBankSpeech;20190117;15:45;Fed Quarles speech;United States;USD;2
+USD_EIANaturalGasStorageChange;20190117;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_JoblessClaims;20190117;13:30;Continuing Jobless Claims;United States;USD;2
+CAD_ADPEmploymentChange;20190117;13:30;ADP Employment Change;Canada;CAD;1
+USD_PhiladelphiaFedManufacturingSurvey;20190117;13:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+RUB_CentralBankReserves;20190117;13:00;Central Bank Reserves $;Russia;RUB;1
+ZAR_SARBInterestRateDecision;20190117;13:00;SARB Interest Rate Decision;South Africa;ZAR;1
+EUR_SpaAuction;20190117;10:17;5-y Bond Auction;Spain;EUR;1
+EUR_EurConsumerPriceIndex;20190117;10:00;Consumer Price Index - Core (MoM);European Monetary Union;EUR;2
+EUR_EurConstructionOutput;20190117;10:00;Construction Output w.d.a (YoY);European Monetary Union;EUR;1
+EUR_ItaGlobalTradeBalance;20190117;09:00;Global Trade Balance;Italy;EUR;1
+EUR_ItaTradeBalanceEU;20190117;09:00;Trade Balance EU;Italy;EUR;1
+HKD_Unemploymentrate;20190117;08:30;Unemployment rate;Hong Kong SAR;HKD;1
+EUR_AusHICP;20190117;08:00;HICP (MoM);Austria;EUR;1
+EUR_SloEUNormInflation;20190117;08:00;EU Norm Inflation (YoY);Slovakia;EUR;1
+IDR_BankIndonesiaRate;20190117;07:00;Bank Indonesia Rate;Indonesia;IDR;1
+EUR_NetUnemploymentRate;20190117;05:30;Unemployment Rate s.a (3M);Netherlands, The;EUR;1
+JPY_CentralBankSpeech;20190117;03:20;BoJ Governor Kuroda speech;Japan;JPY;3
+AUD_HomeLoans;20190117;00:30;Home Loans;Australia;AUD;2
+AUD_InvestmentLendingforHomes;20190117;00:30;Investment Lending for Homes;Australia;AUD;2
+GBP_RICSHousingPriceBalance;20190117;00:01;RICS Housing Price Balance;United Kingdom;GBP;1
+AUD_ConsumerInflationExpectations;20190117;00:00;Consumer Inflation Expectations;Australia;AUD;2
+EUR_EurG20Meeting;20190117;00:00;G20 Meeting;European Monetary Union;EUR;2

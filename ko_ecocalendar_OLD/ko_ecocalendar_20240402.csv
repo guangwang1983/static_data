@@ -1,0 +1,41 @@
+AUD_RBAMeetingMinutes;20240402;00:30;RBA Meeting Minutes;Australia;AUD;3
+AUD_ANZJobAdvertisements;20240402;00:30;ANZ Job Advertisements;Australia;AUD;1
+AUD_TDSecuritiesInflation;20240402;01:00;TD Securities Inflation (MoM);Australia;AUD;1
+JPY_Auction;20240402;03:35;10-y Bond Auction;Japan;JPY;1
+INR_HSBCManufacturingPMI;20240402;05:00;HSBC Manufacturing PMI;India;INR;2
+HUF_ProducerPriceIndex;20240402;06:30;Producer Price Index (YoY);Hungary;HUF;1
+HUF_TradeBalance;20240402;06:30;Trade Balance;Hungary;HUF;1
+CHF_RetailSales;20240402;06:30;Real Retail Sales (YoY);Switzerland;CHF;2
+AUD_RBACommodityIndexSDR;20240402;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+SEK_PurchasingManagersIndexManufacturing;20240402;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+PLN_PurchasingManagerIndex;20240402;07:00;Purchasing Manager Index;Poland;PLN;1
+GBP_NationwideHousingPrices;20240402;07:00;Nationwide Housing Prices s.a (MoM);United Kingdom;GBP;1
+HUF_PurchasingManagerIndex;20240402;07:00;Purchasing Manager Index;Hungary;HUF;1
+CZK_S&PGlobalPMI;20240402;07:30;S&P Global PMI;Czech Republic;CZK;1
+CHF_SVMEPurchasingManagers'Index;20240402;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+EUR_ItaHCOBManufacturingPMI;20240402;07:45;HCOB Manufacturing PMI;Italy;EUR;2
+EUR_FraHCOBManufacturingPMI;20240402;07:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerHCOBManufacturingPMI;20240402;07:55;HCOB Manufacturing PMI;Germany;EUR;2
+TRY_Exports;20240402;08:00;Exports;Turkey;TRY;1
+EUR_EurHCOBManufacturingPMI;20240402;08:00;HCOB Manufacturing PMI;Eurozone;EUR;1
+GBP_NetLendingtoIndividuals;20240402;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20240402;08:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20240402;08:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_S&PGlobalCIPSManufacturingPMI;20240402;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;1
+GBP_M4MoneySupply;20240402;08:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+EUR_GerConsumerPriceIndex;20240402;12:00;Consumer Price Index (YoY);Germany;EUR;3
+EUR_GerHarmonizedIndexofConsumerPrices;20240402;12:00;Harmonized Index of Consumer Prices (MoM);Germany;EUR;2
+ZAR_TotalNewVehicleSales;20240402;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+CZK_BudgetBalance;20240402;12:00;Budget Balance;Czech Republic;CZK;1
+USD_RedbookIndex;20240402;12:55;Redbook Index (YoY);United States;USD;1
+USD_JOLTSJobOpenings;20240402;14:00;JOLTS Job Openings;United States;USD;2
+USD_FactoryOrders;20240402;14:00;Factory Orders (MoM);United States;USD;2
+NZD_GDTPriceIndex;20240402;14:00;GDT Price Index;New Zealand;NZD;1
+USD_CentralBankSpeech;20240402;17:30;Fed Daly speech;United States;USD;2
+USD_TotalVehicleSales;20240402;19:30;Total Vehicle Sales;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20240402;20:30;API Weekly Crude Oil Stock;United States;USD;1
+CLP_BCCHInterestRate;20240402;21:00;BCCH Interest Rate;Chile;CLP;1
+KRW_FXReserves;20240402;21:00;FX Reserves;South Korea;KRW;1
+AUD_AiGIndustryIndex;20240402;22:00;AiG Industry Index;Australia;AUD;2
+AUD_AiGManufacturingPMI;20240402;22:00;AiG Manufacturing PMI;Australia;AUD;1
+AUD_AiGConstructionPMI;20240402;22:00;AiG Construction PMI;Australia;AUD;1

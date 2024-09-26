@@ -1,0 +1,34 @@
+JPY_MerchandiseTradeBalanceTotal;20130417;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Imports;20130417;23:50;Imports (YoY);Japan;JPY;1
+JPY_Exports;20130417;23:50;Exports (YoY);Japan;JPY;1
+JPY_AdjustedMerchandiseTradeBalance;20130417;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20130417;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20130417;23:50;Foreign Bond Investment;Japan;JPY;1
+BRL_InterestRateDecision;20130417;21:00;Interest Rate Decision;Brazil;BRL;1
+USD_CentralBankSpeech;20130417;20:00;Treasury Sec Lew speech;United States;USD;2
+USD_FedBeigeBook;20130417;18:00;Fed Beige Book;United States;USD;3
+CAD_BankofCanadaMonetaryPolicyReport;20130417;14:30;Bank of Canada Monetary Policy Report;Canada;CAD;3
+USD_EIACrudeOilStocksChange;20130417;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+CAD_BoCPressConference;20130417;14:00;BoC Press Conference;Canada;CAD;3
+CAD_BoCInterestRateDecision;20130417;14:00;BoC Interest Rate Decision;Canada;CAD;3
+CAD_BoCRateStatement;20130417;14:00;BoC Rate Statement;Canada;CAD;3
+RUB_GrossDomesticProduct;20130417;14:00;Gross Domestic Product Monthly (YoY);Russia;RUB;1
+RUB_ProducerPriceIndex;20130417;12:00;Producer Price Index (MoM);Russia;RUB;1
+PLN_CorporateSectorWages;20130417;12:00;Corporate Sector Wages;Poland;PLN;1
+INR_M3MoneySupply;20130417;11:30;M3 Money Supply;India;INR;1
+USD_MBAMortgageApplications;20130417;11:00;MBA Mortgage Applications;United States;USD;1
+ZAR_RetailSales;20130417;11:00;Retail Sales (YoY);South Africa;ZAR;1
+EUR_GerAuction;20130417;09:36;10-y Bond Auction;Germany;EUR;2
+CHF_ZEWSurveyExpectations;20130417;09:00;ZEW Survey - Expectations;Switzerland;CHF;2
+EUR_EurConstructionOutput;20130417;09:00;Construction Output  s.a (MoM);European Monetary Union;EUR;1
+GBP_BankofEnglandMinutes;20130417;08:30;Bank of England Minutes;United Kingdom;GBP;3
+GBP_AverageEarningsExcludingBonus;20130417;08:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;1
+GBP_AverageEarningsIncludingBonus;20130417;08:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20130417;08:30;ILO Unemployment Rate (3M);United Kingdom;GBP;2
+GBP_ClaimantCountRate;20130417;08:30;Claimant Count Rate;United Kingdom;GBP;2
+GBP_ClaimantCountChange;20130417;08:30;Claimant Count Change;United Kingdom;GBP;3
+ZAR_ConsumerPriceIndex;20130417;08:00;Consumer Price Index (YoY);South Africa;ZAR;1
+SEK_RiksbankInterestRateDecision;20130417;07:30;Riksbank Interest Rate Decision;Sweden;SEK;1
+RUB_UnemploymentRate;20130417;07:00;Unemployment Rate;Russia;RUB;1
+JPY_ConsumerConfidenceIndex;20130417;05:00;Consumer Confidence Index;Japan;JPY;2
+AUD_WestpacLeadingIndex;20130417;00:30;Westpac Leading Index (MoM);Australia;AUD;1

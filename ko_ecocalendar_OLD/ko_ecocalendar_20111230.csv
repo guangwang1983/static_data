@@ -1,0 +1,20 @@
+MXN_FiscalBalancepesos;20111230;20:30;Fiscal Balance, pesos;Mexico;MXN;1
+ZAR_TradeBalance;20111230;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+INR_TradeDeficitRBI;20111230;11:30;Trade Deficit - RBI;India;INR;1
+INR_BalancePayment;20111230;11:30;Balance Payment $;India;INR;1
+INR_CurrentAccount;20111230;11:00;Current Account Balance $;India;INR;1
+INR_BankLoanGrowth;20111230;10:30;Bank Loan Growth;India;INR;1
+INR_FederalFiscalDeficitINR;20111230;10:30;Federal Fiscal Deficit, INR;India;INR;1
+EUR_GreRetailSales;20111230;10:00;Retail Sales (YoY);Greece;EUR;1
+EUR_ItaProducerPriceIndex;20111230;09:00;Producer Price Index (MoM);Italy;EUR;1
+CZK_M2MoneySupply;20111230;09:00;M2 Money Supply (YoY);Czech Republic;CZK;1
+CZK_ForeignDebt;20111230;09:00;Foreign Debt;Czech Republic;CZK;1
+EUR_SpaHICP;20111230;08:00;HICP (YoY);Spain;EUR;1
+EUR_SpaCurrentAccount;20111230;08:00;Current Account Balance;Spain;EUR;1
+GBP_NationwideHousingPrices;20111230;07:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;2
+INR_InfrastructureOutput;20111230;06:30;Infrastructure Output (YoY);India;INR;1
+ZAR_M3MoneySupply;20111230;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+ZAR_PrivateSectorCredit;20111230;06:00;Private Sector Credit;South Africa;ZAR;1
+RUB_PurchasingManagerIndexServices;20111230;04:00;Purchasing Manager Index Services;Russia;RUB;1
+CNY_CaixinManufacturingPMI;20111230;02:30;Caixin Manufacturing PMI;China;CNY;2
+AUD_PrivateSectorCredit;20111230;00:30;Private Sector Credit (YoY);Australia;AUD;2

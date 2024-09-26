@@ -1,0 +1,30 @@
+USD_APIWeeklyCrudeOilStock;20171024;20:30;API Weekly Crude Oil Stock;United States;USD;1
+ARS_TradeBalance;20171024;19:00;Trade Balance (MoM);Argentina;ARS;1
+USD_Auction;20171024;17:00;2-Year Note Auction;United States;USD;1
+USD_RichmondFedManufacturingIndex;20171024;14:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_MarkitManufacturingPMI;20171024;13:45;Markit Manufacturing PMI;United States;USD;2
+USD_MarkitServicesPMI;20171024;13:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20171024;13:45;Markit PMI Composite;United States;USD;2
+EUR_BelLeadingIndicator;20171024;13:00;Leading Indicator;Belgium;EUR;1
+MXN_1sthalfmonthCoreInflation;20171024;13:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20171024;13:00;1st half-month Inflation;Mexico;MXN;1
+USD_RedbookIndex;20171024;12:55;Redbook Index (MoM);United States;USD;1
+HUF_MNBInterestRateDecision;20171024;12:30;MNB Interest Rate Decision;Hungary;HUF;1
+EUR_SloCurrentAccount;20171024;12:30;Current Account Balance EUR;Slovakia;EUR;1
+EUR_ItaTradeBalancenonEU;20171024;08:05;Trade Balance non-EU;Italy;EUR;1
+PLN_Unemployment;20171024;08:00;Unemployment (MoM);Poland;PLN;1
+EUR_EurMarkitPMIComposite;20171024;08:00;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitManufacturingPMI;20171024;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20171024;08:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_GerMarkitPMIComposite;20171024;07:30;Markit PMI Composite;Germany;EUR;2
+EUR_GerMarkitServicesPMI;20171024;07:30;Markit Services PMI;Germany;EUR;2
+EUR_GerMarkitManufacturingPMI;20171024;07:30;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20171024;07:00;Markit Manufacturing PMI;France;EUR;1
+EUR_FraMarkitPMIComposite;20171024;07:00;Markit PMI Composite;France;EUR;1
+EUR_FraMarkitServicesPMI;20171024;07:00;Markit Services PMI;France;EUR;1
+EUR_FinImportPrices;20171024;07:00;Import Prices (YoY);Finland;EUR;1
+EUR_FraBusinessClimate;20171024;06:45;Business Climate;France;EUR;1
+EUR_FinProducerPriceIndex;20171024;06:00;Producer Price Index (YoY);Finland;EUR;1
+EUR_FinUnemploymentRate;20171024;06:00;Unemployment Rate;Finland;EUR;1
+EUR_FinExportPrices;20171024;06:00;Export Prices (YoY);Finland;EUR;1
+JPY_NikkeiManufacturingPMI;20171024;00:30;Nikkei Manufacturing PMI;Japan;JPY;1

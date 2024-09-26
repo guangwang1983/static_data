@@ -1,0 +1,46 @@
+USD_CFTCOilNCNetPositions;20190510;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20190510;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20190510;19:30;CFTC Gold NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20190510;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCUSDNCNetPositions;20190510;19:30;CFTC USD NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20190510;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20190510;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_MonthlyBudgetStatement;20190510;18:00;Monthly Budget Statement;United States;USD;2
+USD_BakerHughesUSOilRigCount;20190510;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+CAD_BuildingPermits;20190510;12:30;Building Permits (MoM);Canada;CAD;1
+USD_ConsumerPriceIndex;20190510;12:30;Consumer Price Index n.s.a (MoM);United States;USD;1
+CAD_NetChangeinEmployment;20190510;12:30;Net Change in Employment;Canada;CAD;3
+CAD_AverageHourlyWages;20190510;12:30;Average Hourly Wages (YoY);Canada;CAD;2
+CAD_ParticipationRate;20190510;12:30;Participation Rate;Canada;CAD;2
+CAD_UnemploymentRate;20190510;12:30;Unemployment Rate;Canada;CAD;3
+INR_CumulativeIndustrialOutput;20190510;12:00;Cumulative Industrial Output;India;INR;1
+INR_ManufacturingOutput;20190510;12:00;Manufacturing Output;India;INR;1
+INR_IndustrialOutput;20190510;12:00;Industrial Output;India;INR;1
+EUR_PorConsumerPriceIndex;20190510;10:00;Consumer Price Index (YoY);Portugal;EUR;1
+EUR_GreIndustrialProduction;20190510;09:00;Industrial Production (YoY);Greece;EUR;1
+GBP_GrossDomesticProduct;20190510;08:30;Gross Domestic Product (YoY);United Kingdom;GBP;2
+HKD_GrossDomesticProduct;20190510;08:30;Gross Domestic Product (YoY);Hong Kong SAR;HKD;1
+GBP_IndexofServices;20190510;08:30;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20190510;08:30;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20190510;08:30;Total Trade Balance;United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20190510;08:30;Goods Trade Balance;United Kingdom;GBP;1
+CZK_UnemploymentRate;20190510;07:00;Unemployment Rate;Czech Republic;CZK;1
+EUR_FraIndustrialOutput;20190510;06:45;Industrial Output (MoM);France;EUR;1
+NOK_CoreInflation;20190510;06:00;Core Inflation (MoM);Norway;NOK;1
+NOK_ConsumerPriceIndex;20190510;06:00;Consumer Price Index (YoY);Norway;NOK;1
+RON_TradeBalance;20190510;06:00;Trade Balance;Romania;RON;1
+RON_IndustrialProduction;20190510;06:00;Industrial Production (MoM);Romania;RON;2
+RON_GrossDomesticProduct;20190510;06:00;Gross Domestic Product;Romania;RON;1
+DKK_TradeBalance;20190510;06:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20190510;06:00;Current Account;Denmark;DKK;1
+NOK_ProducerPriceIndex;20190510;06:00;Producer Price Index (YoY);Norway;NOK;1
+EUR_GerExports;20190510;06:00;Exports (MoM);Germany;EUR;1
+EUR_GerTradeBalance;20190510;06:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerCurrentAccount;20190510;06:00;Current Account n.s.a.;Germany;EUR;1
+EUR_GerImports;20190510;06:00;Imports (MoM);Germany;EUR;1
+EUR_NetManufacturingOutput;20190510;04:30;Manufacturing Output (MoM);Netherlands, The;EUR;1
+CNY_M2MoneySupply;20190510;02:00;M2 Money Supply (YoY);China;CNY;1
+CNY_NewLoans;20190510;02:00;New Loans;China;CNY;1
+AUD_InvestmentLendingforHomes;20190510;01:30;Investment Lending for Homes;Australia;AUD;2
+AUD_HomeLoans;20190510;01:30;Home Loans;Australia;AUD;2
+AUD_RBAMonetaryPolicyStatement;20190510;01:30;RBA Monetary Policy Statement;Australia;AUD;3

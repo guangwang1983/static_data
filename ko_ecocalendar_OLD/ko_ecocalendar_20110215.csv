@@ -1,0 +1,45 @@
+JPY_TertiaryIndustryIndex;20110215;23:50;Tertiary Industry Index (MoM);Japan;JPY;2
+AUD_WestpacLeadingIndex;20110215;23:30;Westpac Leading Index (MoM);Australia;AUD;1
+USD_CentralBankSpeech;20110215;18:00;Treasury Geithner speech;United States;USD;2
+USD_BusinessInventories;20110215;15:00;Business Inventories;United States;USD;1
+USD_NAHBHousingMarketIndex;20110215;15:00;NAHB Housing Market Index;United States;USD;1
+USD_NetLongTermTICFlows;20110215;14:00;Net Long-Term TIC Flows;United States;USD;2
+USD_TotalNetTICFlows;20110215;14:00;Total Net TIC Flows;United States;USD;2
+RUB_IndustrialOutput;20110215;14:00;Industrial Output;Russia;RUB;2
+USD_NYEmpireStateManufacturingIndex;20110215;13:30;NY Empire State Manufacturing Index;United States;USD;1
+USD_RetailSales;20110215;13:30;Retail Sales ex Autos (MoM);United States;USD;2
+USD_ImportPriceIndex;20110215;13:30;Import Price Index (MoM);United States;USD;1
+USD_ExportPriceIndex;20110215;13:30;Export Price Index (MoM);United States;USD;1
+PLN_ConsumerPriceIndex;20110215;13:00;Consumer Price Index (MoM);Poland;PLN;2
+BRL_RetailSales;20110215;11:00;Retail Sales (MoM);Brazil;BRL;2
+EUR_EurTradeBalance;20110215;10:00;Trade Balance n.s.a.;European Monetary Union;EUR;2
+EUR_EurGrossDomesticProduct;20110215;10:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+EUR_EurZEWSurveyEconomicSentiment;20110215;10:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;1
+EUR_GerZEWSurveyEconomicSentiment;20110215;10:00;ZEW Survey - Economic Sentiment;Germany;EUR;1
+EUR_GerZEWSurveyCurrentSituation;20110215;10:00;ZEW Survey - Current Situation;Germany;EUR;1
+GBP_RetailPriceIndex;20110215;09:30;Retail Price Index (MoM);United Kingdom;GBP;1
+GBP_DCLGHousePriceIndex;20110215;09:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20110215;09:30;Core Consumer Price Index (YoY);United Kingdom;GBP;2
+NOK_TradeBalance;20110215;09:00;Trade Balance;Norway;NOK;2
+SEK_RiksbankInterestRateDecision;20110215;08:30;Riksbank Interest Rate Decision;Sweden;SEK;0
+EUR_NetGrossDomesticProduct;20110215;08:30;Gross Domestic Product s.a (QoQ) ;Netherlands, The;EUR;1
+EUR_NetRetailSales;20110215;08:30;Retail Sales (YoY);Netherlands, The;EUR;1
+SEK_CapacityUtilization;20110215;08:30;Capacity Utilization;Sweden;SEK;2
+EUR_GerRealGDPGrowth;20110215;08:15;Real GDP Growth;Germany;EUR;0
+CZK_ExportPrices;20110215;08:00;Export Prices (YoY);Czech Republic;CZK;1
+CZK_ProducerPriceIndex;20110215;08:00;Producer Price Index (YoY);Czech Republic;CZK;2
+EUR_FinCurrentAccount;20110215;08:00;Current Account;Finland;EUR;2
+RON_GrossDomesticProduct;20110215;08:00;Gross Domestic Product;Romania;RON;3
+HUF_ConsumerPriceIndex;20110215;08:00;Consumer Price Index (YoY);Hungary;HUF;2
+HUF_GrossDomesticProduct;20110215;08:00;Gross Domestic Product (YoY);Hungary;HUF;1
+CZK_ImportPrices;20110215;08:00;Import Prices (YoY);Czech Republic;CZK;1
+CNY_M2MoneySupply;20110215;07:22;M2 Money Supply (YoY);China;CNY;2
+EUR_FinGrossDomesticProduct;20110215;07:00;Gross Domestic Product (MoM);Finland;EUR;3
+EUR_GerGrossDomesticProduct;20110215;07:00;Gross Domestic Product (YoY);Germany;EUR;1
+JPY_IndustrialProduction;20110215;04:30;Industrial Production (MoM);Japan;JPY;2
+JPY_CapacityUtilization;20110215;04:30;Capacity Utilization;Japan;JPY;1
+JPY_BoJInterestRateDecision;20110215;03:42;BoJ Interest Rate Decision;Japan;JPY;3
+CNY_ConsumerPriceIndex;20110215;02:00;Consumer Price Index (YoY);China;CNY;2
+CNY_ProducerPriceIndex;20110215;02:00;Producer Price Index (YoY);China;CNY;2
+AUD_RBAMeetingMinutes;20110215;00:30;RBA Meeting Minutes;Australia;AUD;2
+EUR_EurEcoFinMeeting;20110215;00:00;EcoFin Meeting;European Monetary Union;EUR;2

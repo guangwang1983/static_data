@@ -1,0 +1,52 @@
+CNY_NonManufacturingPMI;20180831;01:00;Non-Manufacturing PMI;China;CNY;2
+CNY_NBSManufacturingPMI;20180831;01:00;NBS Manufacturing PMI;China;CNY;2
+KRW_BoKInterestRateDecision;20180831;01:00;BoK Interest Rate Decision;South Korea;KRW;1
+AUD_PrivateSectorCredit;20180831;01:30;Private Sector Credit (YoY);Australia;AUD;1
+JPY_VehicleProduction;20180831;04:00;Vehicle Production (YoY);Japan;JPY;1
+AUD_HIANewHomeSales;20180831;04:00;HIA New Home Sales (MoM);Australia;AUD;2
+JPY_HousingStarts;20180831;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_ConstructionOrders;20180831;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_AnnualizedHousingStarts;20180831;05:00;Annualized Housing Starts;Japan;JPY;1
+DKK_UnemploymentRate;20180831;06:00;Unemployment Rate;Denmark;DKK;1
+DKK_GrossDomesticProduct;20180831;06:00;Gross Domestic Product (YoY);Denmark;DKK;1
+GBP_NationwideHousingPrices;20180831;06:00;Nationwide Housing Prices s.a (MoM);United Kingdom;GBP;1
+EUR_GerRetailSales;20180831;06:00;Retail Sales (YoY);Germany;EUR;1
+NOK_CreditIndicator;20180831;06:00;Credit Indicator;Norway;NOK;1
+EUR_FraProducerPrices;20180831;06:45;Producer Prices (MoM);France;EUR;1
+EUR_FraConsumerPriceIndex;20180831;06:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+HUF_ProducerPriceIndex;20180831;07:00;Producer Price Index (YoY);Hungary;HUF;1
+CZK_GrossDomesticProduct;20180831;07:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+HUF_TradeBalance;20180831;07:00;Trade Balance;Hungary;HUF;1
+PLN_ConsumerPriceIndex;20180831;08:00;Consumer Price Index (YoY);Poland;PLN;1
+PLN_GrossDomesticProduct;20180831;08:00;Gross Domestic Product Qtr (YoY);Poland;PLN;1
+EUR_ItaUnemployment;20180831;08:00;Unemployment;Italy;EUR;1
+NOK_RegisteredUnemployment;20180831;08:00;Registered Unemployment s.a;Norway;NOK;1
+EUR_EurUnemploymentRate;20180831;09:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_EurHarmonizedIndexofConsumerPrices;20180831;09:00;Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20180831;09:00;Core Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_ItaConsumerPriceIndex;20180831;09:00;Consumer Price Index (YoY);Italy;EUR;1
+EUR_ItaGrossDomesticProduct;20180831;10:00;Gross Domestic Product (QoQ);Italy;EUR;2
+INR_FederalFiscalDeficitINR;20180831;10:00;Federal Fiscal Deficit, INR;India;INR;1
+INR_BankLoanGrowth;20180831;11:30;Bank Loan Growth;India;INR;1
+INR_InfrastructureOutput;20180831;11:30;Infrastructure Output (YoY);India;INR;1
+INR_FXReservesUSD;20180831;11:30;FX Reserves, USD;India;INR;1
+BRL_GrossDomesticProduct;20180831;12:00;Gross Domestic Product (QoQ);Brazil;BRL;1
+INR_GrossDomesticProduct;20180831;12:00;Gross Domestic Product Quarterly (YoY);India;INR;1
+ZAR_TradeBalance;20180831;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+CAD_IndustrialProductPrice;20180831;12:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_RawMaterialPriceIndex;20180831;12:30;Raw Material Price Index;Canada;CAD;1
+CLP_Unemploymentrate;20180831;13:00;Unemployment rate;Chile;CLP;1
+BRL_NominalBudgetBalance;20180831;13:30;Nominal Budget Balance;Brazil;BRL;1
+BRL_PrimaryBudgetSurplus;20180831;13:30;Primary Budget Surplus;Brazil;BRL;1
+USD_ChicagoPurchasingManagers'Index;20180831;13:45;Chicago Purchasing Managers' Index;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20180831;14:00;Michigan Consumer Sentiment Index;United States;USD;1
+COP_NationalJoblessRate;20180831;15:00;National Jobless Rate;Colombia;COP;1
+USD_BakerHughesUSOilRigCount;20180831;17:00;Baker Hughes US Oil Rig Count;United States;USD;2
+EUR_EurCFTCEURNCNetPositions;20180831;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20180831;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+JPY_CFTCJPYNCNetPositions;20180831;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCOilNCNetPositions;20180831;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20180831;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20180831;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20180831;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+COP_Interestrate;20180831;20:00;Interest rate;Colombia;COP;1

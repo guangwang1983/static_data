@@ -1,0 +1,49 @@
+EUR_EurEUleaderssummit;20231006;00:00;EU leaders summit;European Monetary Union;EUR;2
+AUD_FinancialStabilityReview;20231006;00:30;Financial Stability Review;Australia;AUD;2
+INR_ReverseRepoRate;20231006;04:30;Reverse Repo Rate;India;INR;1
+INR_RBIInterestRateDecision;20231006;04:30;RBI Interest Rate Decision (Repo Rate);India;INR;2
+JPY_CoincidentIndex;20231006;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20231006;05:00;Leading Economic Index;Japan;JPY;1
+CHF_UnemploymentRate;20231006;05:45;Unemployment Rate s.a (MoM);Switzerland;CHF;1
+EUR_GerFactoryOrders;20231006;06:00;Factory Orders s.a. (MoM);Germany;EUR;2
+DKK_IndustrialProduction;20231006;06:00;Industrial Production (MoM);Denmark;DKK;1
+ZAR_Gross$Gold&ForexReserve;20231006;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+ZAR_Net$Gold&ForexReserve;20231006;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+GBP_HalifaxHousePrices;20231006;06:00;Halifax House Prices (YoY/3m);United Kingdom;GBP;1
+NOK_ManufacturingOutput;20231006;06:00;Manufacturing Output;Norway;NOK;1
+HUF_IndustrialOutput;20231006;06:30;Industrial Output (YoY);Hungary;HUF;1
+EUR_FraImportsEUR;20231006;06:45;Imports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20231006;06:45;Trade Balance EUR;France;EUR;1
+EUR_FraExportsEUR;20231006;06:45;Exports, EUR;France;EUR;1
+EUR_FraCurrentAccount;20231006;06:45;Current Account;France;EUR;1
+CZK_RetailSales;20231006;07:00;Retail Sales (YoY);Czech Republic;CZK;1
+CHF_ForeignCurrencyReserves;20231006;07:00;Foreign Currency Reserves;Switzerland;CHF;1
+EUR_ItaRetailSales;20231006;08:00;Retail Sales s.a. (MoM);Italy;EUR;1
+INR_BankLoanGrowth;20231006;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20231006;11:30;FX Reserves, USD;India;INR;1
+CLP_ConsumerPriceIndex;20231006;12:00;Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+PLN_CentralBankFXReserves;20231006;12:00;Central Bank FX Reserves;Poland;PLN;1
+USD_NonfarmPayrolls;20231006;12:30;Nonfarm Payrolls;United States;USD;3
+USD_AverageWeeklyHours;20231006;12:30;Average Weekly Hours;United States;USD;1
+USD_AverageHourlyEarnings;20231006;12:30;Average Hourly Earnings (YoY);United States;USD;3
+USD_LaborForceParticipationRate;20231006;12:30;Labor Force Participation Rate;United States;USD;2
+USD_UnemploymentRate;20231006;12:30;Unemployment Rate;United States;USD;2
+USD_U6UnderemploymentRate;20231006;12:30;U6 Underemployment Rate;United States;USD;2
+CAD_NetChangeinEmployment;20231006;12:30;Net Change in Employment;Canada;CAD;3
+CAD_AverageHourlyWages;20231006;12:30;Average Hourly Wages (YoY);Canada;CAD;2
+CAD_ParticipationRate;20231006;12:30;Participation Rate;Canada;CAD;1
+CAD_UnemploymentRate;20231006;12:30;Unemployment Rate;Canada;CAD;3
+TRY_TreasuryCashBalance;20231006;14:30;Treasury Cash Balance;Turkey;TRY;1
+CNY_NationalDay;20231006;16:00;National Day;China;CNY;0
+USD_CentralBankSpeech;20231006;16:00;Fed Waller speech;United States;USD;2
+USD_BakerHughesUSOilRigCount;20231006;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_ConsumerCreditChange;20231006;19:00;Consumer Credit Change;United States;USD;1
+USD_CFTCGoldNCNetPositions;20231006;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20231006;20:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20231006;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20231006;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20231006;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20231006;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20231006;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+ILS_SimchatTorah;20231006;21:00;Simchat Torah;Israel;ILS;0
+COP_ConsumerPriceIndex;20231006;23:00;Consumer Price Index (YoY);Colombia;COP;1

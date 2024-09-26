@@ -1,0 +1,67 @@
+COP_Interestrate;20160429;22:00;Interest rate;Colombia;COP;1
+AUD_CFTCAUDNCNetPositions;20160429;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+JPY_CFTCJPYNCNetPositions;20160429;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCGoldNCNetPositions;20160429;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCUSDNCNetPositions;20160429;19:30;CFTC USD NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20160429;19:30;CFTC Oil NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20160429;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+GBP_CFTCGBPNCNetPositions;20160429;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+MXN_FiscalBalancepesos;20160429;19:30;Fiscal Balance, pesos;Mexico;MXN;1
+COP_NationalJoblessRate;20160429;17:00;National Jobless Rate;Colombia;COP;1
+USD_BakerHughesUSOilRigCount;20160429;17:00;Baker Hughes US Oil Rig Count;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20160429;14:00;Michigan Consumer Sentiment Index;United States;USD;1
+USD_ChicagoPurchasingManagers'Index;20160429;13:45;Chicago Purchasing Managers' Index;United States;USD;2
+BRL_NominalBudgetBalance;20160429;13:30;Nominal Budget Balance;Brazil;BRL;1
+BRL_PrimaryBudgetSurplus;20160429;13:30;Primary Budget Surplus;Brazil;BRL;1
+EUR_BelGrossDomesticProduct;20160429;13:00;Gross Domestic Product (QoQ);Belgium;EUR;1
+CLP_Unemploymentrate;20160429;13:00;Unemployment rate;Chile;CLP;1
+CLP_IndustrialProduction;20160429;13:00;Industrial Production (YoY);Chile;CLP;1
+USD_PersonalConsumptionExpendituresPriceIndex;20160429;12:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;2
+USD_PersonalSpending;20160429;12:30;Personal Spending;United States;USD;2
+USD_CorePersonalConsumptionExpenditurePriceIndex;20160429;12:30;Core Personal Consumption Expenditure - Price Index (YoY);United States;USD;2
+USD_PersonalIncome;20160429;12:30;Personal Income (MoM);United States;USD;2
+CAD_RawMaterialPriceIndex;20160429;12:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20160429;12:30;Industrial Product Price (MoM);Canada;CAD;1
+USD_EmploymentCostIndex;20160429;12:30;Employment Cost Index;United States;USD;1
+CAD_GrossDomesticProduct;20160429;12:30;Gross Domestic Product (MoM);Canada;CAD;2
+GBP_CentralBankSpeech;20160429;12:00;BoE Cunliffe speech;United Kingdom;GBP;1
+ZAR_TradeBalance;20160429;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+INR_BankLoanGrowth;20160429;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20160429;11:30;FX Reserves, USD;India;INR;1
+BRL_UnemploymentRate;20160429;11:00;Unemployment Rate;Brazil;BRL;1
+EUR_ItaProducerPriceIndex;20160429;10:00;Producer Price Index (MoM);Italy;EUR;1
+RUB_Interestratedecision;20160429;09:30;Interest rate decision;Russia;RUB;2
+EUR_EurGrossDomesticProduct;20160429;09:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+EUR_EurUnemploymentRate;20160429;09:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_EurConsumerPriceIndex;20160429;09:00;Consumer Price Index (YoY);European Monetary Union;EUR;3
+EUR_ItaConsumerPriceIndex;20160429;09:00;Consumer Price Index (YoY);Italy;EUR;1
+EUR_SpaCurrentAccount;20160429;08:39;Current Account Balance;Spain;EUR;1
+GBP_NetLendingtoIndividuals;20160429;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20160429;08:30;Consumer Credit;United Kingdom;GBP;2
+GBP_MortgageApprovals;20160429;08:30;Mortgage Approvals;United Kingdom;GBP;2
+GBP_M4MoneySupply;20160429;08:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+EUR_ItaUnemployment;20160429;08:00;Unemployment;Italy;EUR;2
+CHF_CentralBankSpeech;20160429;08:00;SNB Chairman Jordan speech;Switzerland;CHF;2
+NOK_CreditIndicator;20160429;08:00;Credit Indicator;Norway;NOK;1
+CHF_KOFLeadingIndicator;20160429;07:00;KOF Leading Indicator;Switzerland;CHF;2
+TRY_TradeBalance;20160429;07:00;Trade Balance;Turkey;TRY;1
+DKK_UnemploymentRate;20160429;07:00;Unemployment Rate;Denmark;DKK;1
+EUR_AusGrossDomesticProduct;20160429;07:00;Gross Domestic Product (QoQ);Austria;EUR;1
+HUF_ProducerPriceIndex;20160429;07:00;Producer Price Index (YoY);Hungary;HUF;1
+EUR_SpaGrossDomesticProduct;20160429;07:00;Gross Domestic Product - Estimated (YoY);Spain;EUR;1
+NOK_RegisteredUnemployment;20160429;07:00;Registered Unemployment n.s.a;Norway;NOK;1
+EUR_AusProducerPriceIndex;20160429;07:00;Producer Price Index (MoM);Austria;EUR;1
+EUR_FraProducerPrices;20160429;06:45;Producer Prices (MoM);France;EUR;1
+EUR_FraConsumerSpending;20160429;06:45;Consumer Spending (MoM);France;EUR;1
+EUR_GerRetailSales;20160429;06:00;Retail Sales (YoY);Germany;EUR;1
+ZAR_PrivateSectorCredit;20160429;06:00;Private Sector Credit;South Africa;ZAR;1
+ZAR_M3MoneySupply;20160429;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+EUR_FraGrossDomesticProduct;20160429;05:30;Gross Domestic Product (QoQ);France;EUR;1
+AUD_CentralBankSpeech;20160429;03:45;RBA Debelle speech;Australia;AUD;2
+NZD_M3MoneySupply;20160429;03:00;M3 Money Supply (YoY);New Zealand;NZD;1
+AUD_PrivateSectorCredit;20160429;01:30;Private Sector Credit (YoY);Australia;AUD;1
+AUD_ProducerPriceIndex;20160429;01:30;Producer Price Index (QoQ);Australia;AUD;1
+NZD_ANZActivityOutlook;20160429;01:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20160429;01:00;ANZ Business Confidence;New Zealand;NZD;1
+JPY_ShowaDay;20160429;00:00;Showa Day;Japan;JPY;0
+EUR_GreOrthodoxGoodFriday;20160429;00:00;Orthodox Good Friday ;Greece;EUR;0

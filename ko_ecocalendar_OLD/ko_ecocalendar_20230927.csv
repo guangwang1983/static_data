@@ -1,0 +1,28 @@
+AUD_ConsumerPriceIndex;20230927;01:30;Monthly Consumer Price Index (YoY);Australia;AUD;3
+JPY_LeadingEconomicIndex;20230927;05:00;Leading Economic Index;Japan;JPY;1
+JPY_CoincidentIndex;20230927;05:00;Coincident Index;Japan;JPY;1
+EUR_GerGfkConsumerConfidenceSurvey;20230927;06:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+SEK_TradeBalance;20230927;06:00;Trade Balance (MoM);Sweden;SEK;1
+EUR_FraConsumerConfidence;20230927;06:45;Consumer Confidence;France;EUR;1
+EUR_EurNonMonetaryPolicyECBMeeting;20230927;07:00;Non-Monetary Policy ECB Meeting;European Monetary Union;EUR;1
+SEK_ConsumerConfidence;20230927;07:00;Consumer Confidence (MoM);Sweden;SEK;1
+EUR_EurPrivateLoans;20230927;08:00;Private Loans (YoY);European Monetary Union;EUR;1
+EUR_EurM3MoneySupply;20230927;08:00;M3 Money Supply (3m);European Monetary Union;EUR;1
+CHF_ZEWSurvey–Expectations;20230927;08:00;ZEW Survey – Expectations;Switzerland;CHF;2
+EUR_GerAuction;20230927;09:30;10-y Bond Auction;Germany;EUR;1
+USD_MBAMortgageApplications;20230927;11:00;MBA Mortgage Applications;United States;USD;1
+MXN_TradeBalance;20230927;12:00;Trade Balance, $;Mexico;MXN;1
+MXN_TradeBalancesa;20230927;12:00;Trade Balance s/a, $;Mexico;MXN;1
+USD_DurableGoodsOrders;20230927;12:30;Durable Goods Orders;United States;USD;2
+USD_NondefenseCapitalGoodsOrdersexAircraft;20230927;12:30;Nondefense Capital Goods Orders ex Aircraft;United States;USD;2
+CZK_CNBInterestRateDecision;20230927;12:30;CNB Interest Rate Decision;Czech Republic;CZK;1
+CHF_SNBQuarterlyBulletin;20230927;13:00;SNB Quarterly Bulletin;Switzerland;CHF;2
+USD_EIACrudeOilStocksChange;20230927;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+KRW_HarvestFestival;20230927;15:00;Harvest Festival ;South Korea;KRW;0
+RUB_UnemploymentRate;20230927;16:00;Unemployment Rate;Russia;RUB;1
+RUB_IndustrialOutput;20230927;16:00;Industrial Output;Russia;RUB;1
+USD_Auction;20230927;17:00;5-Year Note Auction;United States;USD;1
+IDR_MaulidurRasul;20230927;17:00;Maulidur Rasul;Indonesia;IDR;0
+CZK_StWenceslasDay;20230927;22:00;St Wenceslas Day ;Czech Republic;CZK;0
+JPY_ForeignInvestmentinJapanStocks;20230927;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20230927;23:50;Foreign Bond Investment;Japan;JPY;1

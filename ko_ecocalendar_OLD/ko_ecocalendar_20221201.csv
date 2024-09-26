@@ -1,0 +1,53 @@
+KRW_TradeBalance;20221201;00:00;Trade Balance;South Korea;KRW;1
+KRW_S&PGlobalManufacturingPMI;20221201;00:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+JPY_JibunBankManufacturingPMI;20221201;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+AUD_PrivateCapitalExpenditure;20221201;00:30;Private Capital Expenditure;Australia;AUD;1
+CNY_CaixinManufacturingPMI;20221201;01:45;Caixin Manufacturing PMI;China;CNY;2
+JPY_Auction;20221201;03:35;10-y Bond Auction;Japan;JPY;1
+IDR_Inflation;20221201;04:00;Inflation (MoM);Indonesia;IDR;1
+IDR_CoreInflation;20221201;04:00;Core Inflation (YoY);Indonesia;IDR;1
+JPY_ConsumerConfidenceIndex;20221201;05:00;Consumer Confidence Index;Japan;JPY;1
+AUD_RBACommodityIndexSDR;20221201;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+RUB_S&PGlobalManufacturingPMI;20221201;06:00;S&P Global Manufacturing PMI;Russia;RUB;1
+CHF_RetailSales;20221201;07:30;Real Retail Sales (YoY);Switzerland;CHF;2
+CHF_ConsumerPriceIndex;20221201;07:30;Consumer Price Index (YoY);Switzerland;CHF;1
+SEK_PurchasingManagersIndexManufacturing;20221201;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+TRY_Exports;20221201;08:00;Exports;Turkey;TRY;1
+PLN_PurchasingManagerIndex;20221201;08:00;Purchasing Manager Index;Poland;PLN;2
+HUF_PurchasingManagerIndex;20221201;08:00;Purchasing Manager Index;Hungary;HUF;1
+HUF_ProducerPriceIndex;20221201;08:00;Producer Price Index (YoY);Hungary;HUF;1
+HUF_GrossDomesticProduct;20221201;08:00;Gross Domestic Product (YoY);Hungary;HUF;1
+CHF_SVMEPurchasingManagers'Index;20221201;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+EUR_EurS&PGlobalManufacturingPMI;20221201;09:00;S&P Global Manufacturing PMI;European Monetary Union;EUR;1
+GBP_S&PGlobalCIPSManufacturingPMI;20221201;09:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+DKK_ManufacturingPMI;20221201;10:00;Manufacturing PMI;Denmark;DKK;1
+EUR_EurUnemploymentRate;20221201;10:00;Unemployment Rate;European Monetary Union;EUR;2
+GBP_Auction;20221201;10:30;30-y Bond Auction;United Kingdom;GBP;1
+CLP_IMACEC;20221201;11:30;IMACEC;Chile;CLP;1
+BRL_GrossDomesticProduct;20221201;12:00;Gross Domestic Product (QoQ);Brazil;BRL;1
+ZAR_TotalNewVehicleSales;20221201;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+USD_ChallengerJobCuts;20221201;12:30;Challenger Job Cuts;United States;USD;1
+CZK_BudgetBalance;20221201;13:00;Budget Balance;Czech Republic;CZK;1
+RUB_CentralBankReserves;20221201;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_PersonalIncome;20221201;13:30;Personal Income (MoM);United States;USD;2
+USD_PersonalSpending;20221201;13:30;Personal Spending;United States;USD;2
+USD_CorePersonalConsumptionExpendituresPriceIndex;20221201;13:30;Core Personal Consumption Expenditures - Price Index (MoM);United States;USD;2
+USD_PersonalConsumptionExpendituresPriceIndex;20221201;13:30;Personal Consumption Expenditures - Price Index (YoY);United States;USD;1
+USD_JoblessClaims;20221201;13:30;Initial Jobless Claims;United States;USD;2
+JPY_CentralBankSpeech;20221201;13:30;BoJ Governor Kuroda speech;Japan;JPY;3
+CAD_LaborProductivity;20221201;13:30;Labor Productivity (QoQ);Canada;CAD;1
+USD_CentralBankSpeech;20221201;14:30;Fed Bowman speech;United States;USD;2
+CAD_S&PGlobalManufacturingPMI;20221201;14:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20221201;14:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_ISMManufacturingPMI;20221201;15:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingNewOrdersIndex;20221201;15:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ISMManufacturingEmploymentIndex;20221201;15:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ISMManufacturingPricesPaid;20221201;15:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ConstructionSpending;20221201;15:00;Construction Spending (MoM);United States;USD;1
+USD_EIANaturalGasStorageChange;20221201;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20221201;16:30;4-Week Bill Auction;United States;USD;1
+BRL_TradeBalance;20221201;18:00;Trade Balance;Brazil;BRL;1
+USD_TotalVehicleSales;20221201;20:30;Total Vehicle Sales;United States;USD;1
+NZD_TermsofTradeIndex;20221201;21:45;Terms of Trade Index;New Zealand;NZD;1
+KRW_ConsumerPriceIndex;20221201;23:00;Consumer Price Index Growth (YoY);South Korea;KRW;1
+JPY_MonetaryBase;20221201;23:50;Monetary Base (YoY);Japan;JPY;1

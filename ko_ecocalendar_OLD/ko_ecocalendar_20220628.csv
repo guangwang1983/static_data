@@ -1,0 +1,20 @@
+DKK_RetailSales;20220628;06:00;Retail Sales (YoY);Denmark;DKK;1
+SEK_RetailSales;20220628;06:00;Retail Sales (MoM);Sweden;SEK;1
+SEK_TradeBalance;20220628;06:00;Trade Balance (MoM);Sweden;SEK;1
+MXN_JoblessRate;20220628;11:00;Jobless Rate;Mexico;MXN;1
+GBP_CentralBankSpeech;20220628;11:00;BoE Cunliffe speech;United Kingdom;GBP;2
+EUR_EurCentralBankSpeech;20220628;11:00;ECB Panetta speech;European Monetary Union;EUR;2
+HUF_MNBInterestRateDecision;20220628;12:00;MNB Interest Rate Decision;Hungary;HUF;1
+USD_WholesaleInventories;20220628;12:30;Wholesale Inventories;United States;USD;1
+USD_GoodsTradeBalance;20220628;12:30;Goods Trade Balance;United States;USD;1
+USD_RedbookIndex;20220628;12:55;Redbook Index (YoY);United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20220628;13:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;2
+USD_HousingPriceIndex;20220628;13:00;Housing Price Index (MoM);United States;USD;2
+USD_ConsumerConfidence;20220628;14:00;Consumer Confidence;United States;USD;2
+USD_RichmondFedManufacturingIndex;20220628;14:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_EIACrudeOilStocksChange;20220628;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_Auction;20220628;17:00;7-Year Note Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20220628;20:30;API Weekly Crude Oil Stock;United States;USD;1
+GBP_BRCShopPriceIndex;20220628;23:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1
+JPY_RetailTrade;20220628;23:50;Retail Trade (YoY);Japan;JPY;2
+JPY_LargeRetailerSales;20220628;23:50;Large Retailer Sales;Japan;JPY;2

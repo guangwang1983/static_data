@@ -1,0 +1,38 @@
+AUD_HIANewHomeSales;20151203;00:00;HIA New Home Sales (MoM);Australia;AUD;2
+AUD_Exports;20151203;00:30;Exports (MoM);Australia;AUD;2
+AUD_Imports;20151203;00:30;Imports (MoM);Australia;AUD;2
+AUD_TradeBalance;20151203;00:30;Trade Balance (MoM);Australia;AUD;2
+JPY_JibunBankServicesPMI;20151203;01:35;Jibun Bank Services PMI;Japan;JPY;1
+CNY_CaixinServicesPMI;20151203;01:45;Caixin Services PMI;China;CNY;2
+RUB_S&PGlobalServicesPMI;20151203;02:00;S&P Global Services PMI;Russia;RUB;1
+EUR_FraILOUnemployment;20151203;06:30;ILO Unemployment;France;EUR;1
+TRY_ProducerPriceIndex;20151203;08:00;Producer Price Index (MoM);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20151203;08:00;Consumer Price Index (YoY);Turkey;TRY;1
+HUF_RetailSales;20151203;08:00;Retail Sales (YoY);Hungary;HUF;1
+HUF_TradeBalance;20151203;08:00;Trade Balance;Hungary;HUF;1
+EUR_ItaHCOBServicesPMI;20151203;08:45;HCOB Services PMI;Italy;EUR;1
+EUR_FraHCOBCompositePMI;20151203;08:50;HCOB Composite PMI;France;EUR;1
+EUR_FraHCOBServicesPMI;20151203;08:50;HCOB Services PMI;France;EUR;1
+EUR_GerHCOBCompositePMI;20151203;08:55;HCOB Composite PMI;Germany;EUR;1
+EUR_GerHCOBServicesPMI;20151203;08:55;HCOB Services PMI;Germany;EUR;1
+EUR_EurHCOBServicesPMI;20151203;09:00;HCOB Services PMI;European Monetary Union;EUR;2
+EUR_EurHCOBCompositePMI;20151203;09:00;HCOB Composite PMI;European Monetary Union;EUR;2
+ZAR_BusinessConfidenceIndex;20151203;09:30;Business Confidence Index;South Africa;ZAR;1
+GBP_S&PGlobalCIPSServicesPMI;20151203;09:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;1
+EUR_EurRetailSales;20151203;10:00;Retail Sales (MoM);European Monetary Union;EUR;1
+EUR_FraAuction;20151203;10:27;10-y Bond Auction;France;EUR;1
+BRL_IndustrialOutput;20151203;11:00;Industrial Output (MoM);Brazil;BRL;1
+BRL_FipeIPCInflation;20151203;11:00;Fipe IPC Inflation;Brazil;BRL;1
+EUR_EurECBRateOnDepositFacility;20151203;11:45;ECB Rate On Deposit Facility;European Monetary Union;EUR;2
+RUB_ConsumerPriceIndex;20151203;12:00;Consumer Price Index (MoM);Russia;RUB;1
+USD_ChallengerJobCuts;20151203;12:30;Challenger Job Cuts;United States;USD;1
+EUR_EurECBRateOnMainRefinancingOperations;20151203;12:45;ECB Rate On Main Refinancing Operations;European Monetary Union;EUR;3
+USD_JoblessClaims;20151203;13:30;Continuing Jobless Claims;United States;USD;1
+EUR_EurECBPressConference;20151203;13:30;ECB Press Conference;European Monetary Union;EUR;3
+USD_S&PGlobalCompositePMI;20151203;14:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20151203;14:45;S&P Global Services PMI;United States;USD;2
+USD_ISMServicesPMI;20151203;15:00;ISM Services PMI;United States;USD;2
+USD_FactoryOrders;20151203;15:00;Factory Orders (MoM);United States;USD;2
+USD_FedChairYellentestifies;20151203;15:00;Fed Chair Yellen testifies;United States;USD;3
+USD_EIANaturalGasStorageChange;20151203;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_CentralBankSpeech;20151203;18:10;Fed Stanley Fischer speech;United States;USD;2

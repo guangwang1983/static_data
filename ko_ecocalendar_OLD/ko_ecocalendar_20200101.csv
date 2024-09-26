@@ -1,0 +1,21 @@
+AUD_CommonwealthBankManufacturingPMI;20200101;22:00;Commonwealth Bank Manufacturing PMI;Australia;AUD;2
+RON_DayafterNewYearDay;20200101;21:00;Day after New Year Day;Romania;RON;0
+ARS_TaxRevenue;20200101;20:00;Tax Revenue (MoM);Argentina;ARS;1
+NZD_DayafterNewYearDay;20200101;12:00;Day after New Year Day ;New Zealand;NZD;0
+INR_M3MoneySupply;20200101;11:30;M3 Money Supply;India;INR;1
+TRY_Exports;20200101;09:00;Exports;Turkey;TRY;1
+MXN_NewYearDay;20200101;06:00;New Year Day;Mexico;MXN;0
+CAD_NewYearDay;20200101;05:00;New Year Day;Canada;CAD;0
+JPY_VehicleSales;20200101;05:00;Vehicle Sales (YoY);Japan;JPY;1
+USD_NewYearDay;20200101;05:00;New Year Day;United States;USD;0
+COP_NewYearDay;20200101;05:00;New Year Day;Colombia;COP;0
+CLP_NewYearday;20200101;04:00;New Year day;Chile;CLP;0
+IDR_Inflation;20200101;04:00;Inflation (MoM);Indonesia;IDR;1
+IDR_CoreInflation;20200101;04:00;Core Inflation (YoY);Indonesia;IDR;1
+BRL_NewYearDay;20200101;03:00;New Year Day;Brazil;BRL;0
+ISK_NewYearDay;20200101;00:00;New Year Day;Iceland;ISK;0
+EUR_IreNewYearDay;20200101;00:00;New Year Day;Ireland;EUR;0
+ZAR_NewYearsDay;20200101;00:00;New Years Day;South Africa;ZAR;0
+GBP_NewYearDay;20200101;00:00;New Year Day;United Kingdom;GBP;0
+EUR_PorNewYearDay;20200101;00:00;New Year Day;Portugal;EUR;0
+KRW_TradeBalance;20200101;00:00;Trade Balance;South Korea;KRW;1

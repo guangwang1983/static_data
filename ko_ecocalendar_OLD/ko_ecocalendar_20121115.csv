@@ -1,0 +1,42 @@
+USD_CentralBankSpeech;20121115;23:30;Fed Dudley speech;United States;USD;1
+USD_EIACrudeOilStocksChange;20121115;16:00;EIA Crude Oil Stocks Change;United States;USD;2
+USD_EIANaturalGasStorageChange;20121115;15:30;EIA Natural Gas Storage Change;United States;USD;2
+CAD_BoCReview;20121115;15:30;BoC Review;Canada;CAD;2
+USD_PhiladelphiaFedManufacturingSurvey;20121115;15:00;Philadelphia Fed Manufacturing Survey;United States;USD;2
+PEN_GrossDomesticProduct;20121115;15:00;Gross Domestic Product;Peru;PEN;1
+USD_AmericanPetroleumInstituteMonthlyReport;20121115;14:00;American Petroleum Institute Monthly Report ;United States;USD;1
+USD_NYEmpireStateManufacturingIndex;20121115;13:30;NY Empire State Manufacturing Index;United States;USD;1
+USD_JoblessClaims;20121115;13:30;Initial Jobless Claims;United States;USD;2
+CAD_ManufacturingShipments;20121115;13:30;Manufacturing Shipments (MoM);Canada;CAD;1
+USD_ConsumerPriceIndex;20121115;13:30;Consumer Price Index n.s.a (MoM);United States;USD;2
+EUR_EurCentralBankSpeech;20121115;11:00;ECB President Draghi speech;European Monetary Union;EUR;3
+EUR_EurGrossDomesticProduct;20121115;10:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+EUR_EurConsumerPriceIndex;20121115;10:00;Consumer Price Index (YoY);European Monetary Union;EUR;3
+GBP_RetailSales;20121115;09:30;Retail Sales (YoY);United Kingdom;GBP;3
+NOK_TradeBalance;20121115;09:00;Trade Balance;Norway;NOK;1
+TRY_BudgetBalance;20121115;09:00;Budget Balance;Turkey;TRY;1
+EUR_ItaGrossDomesticProduct;20121115;09:00;Gross Domestic Product (QoQ);Italy;EUR;3
+EUR_EurECBMonthlyReport;20121115;09:00;ECB Monthly Report;European Monetary Union;EUR;2
+EUR_AusHICP;20121115;09:00;HICP (YoY);Austria;EUR;1
+EUR_NetUnemploymentRate;20121115;08:30;Unemployment Rate s.a (3M);Netherlands, The;EUR;1
+SEK_UnemploymentRate;20121115;08:30;Unemployment Rate;Sweden;SEK;1
+TRY_3mthquarterlyjoblessaverage;20121115;08:00;3mth quarterly jobless average;Turkey;TRY;1
+CZK_ProducerPriceIndex;20121115;08:00;Producer Price Index (YoY);Czech Republic;CZK;1
+EUR_AusGrossDomesticProduct;20121115;08:00;Gross Domestic Product (QoQ);Austria;EUR;1
+EUR_SpaGrossDomesticProduct;20121115;08:00;Gross Domestic Product (QoQ);Spain;EUR;1
+RON_GrossDomesticProduct;20121115;08:00;Gross Domestic Product;Romania;RON;1
+TRY_CurrentAccount;20121115;08:00;Current Account Balance;Turkey;TRY;1
+CZK_GrossDomesticProduct;20121115;08:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+HUF_GrossDomesticProduct;20121115;08:00;Gross Domestic Product (YoY);Hungary;HUF;1
+EUR_SloGrossDomesticProduct;20121115;08:00;Gross Domestic Product Prelim (YoY);Slovakia;EUR;1
+EUR_SloEUNormInflation;20121115;08:00;EU Norm Inflation (MoM);Slovakia;EUR;1
+EUR_FinGrossDomesticProduct;20121115;07:00;Gross Domestic Product (YoY);Finland;EUR;1
+RUB_CentralBankReserves;20121115;07:00;Central Bank Reserves $;Russia;RUB;1
+EUR_GerGrossDomesticProduct;20121115;07:00;Gross Domestic Product (YoY);Germany;EUR;3
+EUR_FraGrossDomesticProduct;20121115;06:30;Gross Domestic Product (YoY);France;EUR;2
+SGD_RetailSales;20121115;05:00;Retail Sales (MoM);Singapore;SGD;1
+KRW_TradeBalance;20121115;03:00;Trade Balance;South Korea;KRW;1
+AUD_NewMotorVehicleSales;20121115;00:30;New Motor Vehicle Sales (MoM);Australia;AUD;1
+IDR_Muharram;20121115;00:00;Muharram;Indonesia;IDR;0
+AUD_ConsumerInflationExpectations;20121115;00:00;Consumer Inflation Expectations;Australia;AUD;1
+BRL_RepublicDay;20121115;00:00;Republic Day;Brazil;BRL;0

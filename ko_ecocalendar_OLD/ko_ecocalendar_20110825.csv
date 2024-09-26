@@ -1,0 +1,21 @@
+JPY_ConsumerPriceIndex;20110825;23:50;Tokyo Consumer Price Index (YoY);Japan;JPY;1
+JPY_NationalCPIexFoodEnergy;20110825;23:50;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_TokyoCPIexFreshFood;20110825;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;1
+JPY_TokyoCPIexFoodEnergy;20110825;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;1
+JPY_NationalCPIexFreshFood;20110825;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+MXN_CurrentAccount;20110825;14:00;Accumulated Current Account/GDP;Mexico;MXN;1
+MXN_JoblessRate;20110825;13:00;Jobless Rate s.a;Mexico;MXN;1
+USD_JoblessClaims;20110825;12:30;Continuing Jobless Claims;United States;USD;1
+BRL_UnemploymentRate;20110825;12:00;Unemployment Rate;Brazil;BRL;1
+TRY_ManufacturingConfidence;20110825;11:30;Manufacturing Confidence;Turkey;TRY;1
+TRY_CapacityUtilization;20110825;11:30;Capacity Utilization;Turkey;TRY;1
+GBP_CBIDistributiveTradesSurveyRealized;20110825;10:00;CBI Distributive Trades Survey - Realized (MoM);United Kingdom;GBP;1
+ZAR_ProducerPriceIndex;20110825;09:30;Producer Price Index (MoM);South Africa;ZAR;1
+CHF_ZEWSurveyExpectations;20110825;09:00;ZEW Survey - Expectations;Switzerland;CHF;2
+ISK_ConsumerPriceIndex;20110825;09:00;Consumer Price Index (YoY);Iceland;ISK;1
+RUB_CentralBankReserves;20110825;08:21;Central Bank Reserves $;Russia;RUB;1
+EUR_NetBusinessConfidence;20110825;07:30;Business Confidence;Netherlands, The;EUR;1
+SEK_UnemploymentRate;20110825;07:30;Unemployment Rate;Sweden;SEK;1
+SEK_ProducerPriceIndex;20110825;07:30;Producer Price Index (MoM);Sweden;SEK;1
+SEK_ConsumerConfidence;20110825;07:15;Consumer Confidence (MoM);Sweden;SEK;1
+EUR_GerGfkConsumerConfidenceSurvey;20110825;06:00;Gfk Consumer Confidence Survey;Germany;EUR;2

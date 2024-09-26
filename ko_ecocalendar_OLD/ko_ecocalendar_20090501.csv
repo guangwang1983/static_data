@@ -1,0 +1,9 @@
+USD_MichiganConsumerSentimentIndex;20090501;14:00;Michigan Consumer Sentiment Index;United States;USD;1
+USD_FactoryOrders;20090501;14:00;Factory Orders (MoM);United States;USD;2
+USD_ISMManufacturingPMI;20090501;14:00;ISM Manufacturing PMI;United States;USD;2
+GBP_NetLendingtoIndividuals;20090501;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_MarkitManufacturingPMI;20090501;08:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+GBP_ConsumerCredit;20090501;08:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20090501;08:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_M4MoneySupply;20090501;08:30;M4 Money Supply (MoM);United Kingdom;GBP;1
+JPY_LaborCashEarnings;20090501;01:30;Labor Cash Earnings (YoY);Japan;JPY;1

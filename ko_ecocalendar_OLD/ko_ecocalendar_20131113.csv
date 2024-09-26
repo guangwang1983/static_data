@@ -1,0 +1,33 @@
+JPY_GrossDomesticProduct;20131113;23:50;Gross Domestic Product (QoQ);Japan;JPY;3
+JPY_ForeignInvestmentinJapanStocks;20131113;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20131113;23:50;Foreign Bond Investment;Japan;JPY;2
+NZD_RetailSales;20131113;21:45;Retail Sales (QoQ);New Zealand;NZD;1
+USD_CentralBankSpeech;20131113;21:30;Fed Yellen speech;United States;USD;3
+NZD_BusinessNZPMI;20131113;21:30;Business NZ PMI;New Zealand;NZD;2
+USD_MonthlyBudgetStatement;20131113;19:00;Monthly Budget Statement;United States;USD;2
+USD_Auction;20131113;18:00;10-Year Note Auction;United States;USD;1
+EUR_GerCentralBankSpeech;20131113;12:10;German Buba President Weidmann speech;Germany;EUR;2
+USD_MBAMortgageApplications;20131113;12:00;MBA Mortgage Applications;United States;USD;2
+EUR_EurECBDepositRateDecision;20131113;11:45;ECB Deposit Rate Decision;European Monetary Union;EUR;2
+EUR_GerAuction;20131113;11:31;2-year Notes Auction;Germany;EUR;1
+EUR_ItaAuction;20131113;11:31;3-y Bond Auction;Italy;EUR;1
+INR_M3MoneySupply;20131113;11:30;M3 Money Supply;India;INR;1
+BRL_RetailSales;20131113;11:00;Retail Sales (MoM);Brazil;BRL;1
+ZAR_RetailSales;20131113;11:00;Retail Sales (YoY);South Africa;ZAR;1
+GBP_BankofEnglandQuarterlyInflationReport;20131113;10:30;Bank of England Quarterly Inflation Report;United Kingdom;GBP;3
+GBP_CentralBankSpeech;20131113;10:30;BoE Governor Carney speech;United Kingdom;GBP;3
+EUR_EurIndustrialProduction;20131113;10:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;2
+RUB_GrossDomesticProduct;20131113;10:00;Gross Domestic Product Quarterly (YoY);Russia;RUB;1
+GBP_AverageEarningsExcludingBonus;20131113;09:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;1
+GBP_AverageEarningsIncludingBonus;20131113;09:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20131113;09:30;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_ClaimantCountChange;20131113;09:30;Claimant Count Change;United Kingdom;GBP;3
+GBP_ClaimantCountRate;20131113;09:30;Claimant Count Rate;United Kingdom;GBP;2
+EUR_NetRetailSales;20131113;08:30;Retail Sales (YoY);Netherlands, The;EUR;1
+EUR_SpaHICP;20131113;08:00;HICP (YoY);Spain;EUR;1
+TRY_CurrentAccount;20131113;08:00;Current Account Balance;Turkey;TRY;1
+EUR_SpaConsumerPriceIndex;20131113;08:00;Consumer Price Index (MoM);Spain;EUR;1
+KRW_MoneySupplyGrowth;20131113;03:00;Money Supply Growth;South Korea;KRW;1
+AUD_NewMotorVehicleSales;20131113;00:30;New Motor Vehicle Sales (MoM);Australia;AUD;1
+AUD_WagePriceIndex;20131113;00:30;Wage Price Index (YoY);Australia;AUD;1
+NZD_CentralBankSpeech;20131113;00:00;RBNZ Governor Wheeler Speech;New Zealand;NZD;3

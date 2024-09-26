@@ -1,0 +1,46 @@
+JPY_BankLending;20200707;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_CurrentAccount;20200707;23:50;Current Account n.s.a.;Japan;JPY;2
+JPY_TradeBalanceBOPBasis;20200707;23:50;Trade Balance - BOP Basis;Japan;JPY;1
+USD_APIWeeklyCrudeOilStock;20200707;20:30;API Weekly Crude Oil Stock;United States;USD;1
+ARS_IndustrialOutput;20200707;19:00;Industrial Output n.s.a (YoY);Argentina;ARS;1
+USD_CentralBankSpeech;20200707;17:00;Fed Quarles speech;United States;USD;2
+USD_Auction;20200707;17:00;3-Year Note Auction;United States;USD;1
+CAD_IveyPurchasingManagersIndex;20200707;15:00;Ivey Purchasing Managers Index;Canada;CAD;2
+TRY_TreasuryCashBalance;20200707;14:30;Treasury Cash Balance;Turkey;TRY;1
+NZD_GDTPriceIndex;20200707;14:30;GDT Price Index;New Zealand;NZD;2
+USD_JOLTSJobOpenings;20200707;14:00;JOLTS Job Openings;United States;USD;1
+USD_IBDTIPPEconomicOptimism;20200707;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+CLP_TradeBalance;20200707;13:00;Trade Balance;Chile;CLP;1
+USD_RedbookIndex;20200707;12:55;Redbook Index (YoY);United States;USD;1
+PLN_CentralBankFXReserves;20200707;12:00;Central Bank FX Reserves;Poland;PLN;1
+ILS_FXReserves;20200707;11:00;FX Reserves;Israel;ILS;1
+EUR_GerAuction;20200707;09:40;10-y Bond Auction;Germany;EUR;2
+SGD_ForeignReserves;20200707;09:00;Foreign Reserves (MoM);Singapore;SGD;1
+EUR_SpaAuction;20200707;08:40;6-Month Letras Auction;Spain;EUR;1
+CZK_UnemploymentRate;20200707;08:00;Unemployment Rate;Czech Republic;CZK;1
+EUR_ItaRetailSales;20200707;08:00;Retail Sales s.a. (MoM);Italy;EUR;1
+SEK_IndustrialProductionValue;20200707;07:30;Industrial Production Value (YoY);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20200707;07:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+GBP_HalifaxHousePrices;20200707;07:30;Halifax House Prices (MoM);United Kingdom;GBP;1
+HUF_IndustrialOutput;20200707;07:00;Industrial Output (YoY);Hungary;HUF;1
+EUR_AusWholesalePrices;20200707;07:00;Wholesale Prices n.s.a (YoY);Austria;EUR;1
+CZK_IndustrialProduction;20200707;07:00;Industrial Production (YoY);Czech Republic;CZK;1
+CHF_ForeignCurrencyReserves;20200707;07:00;Foreign Currency Reserves;Switzerland;CHF;1
+MYR_BNMInterestRateDecision;20200707;07:00;BNM Interest Rate Decision;Malaysia;MYR;1
+CNY_ForeignExchangeReserves;20200707;07:00;Foreign Exchange Reserves (MoM);China;CNY;1
+CZK_ForeignTradeBalance;20200707;07:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+EUR_FraImportsEUR;20200707;06:45;Imports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20200707;06:45;Trade Balance EUR;France;EUR;1
+EUR_FraExportsEUR;20200707;06:45;Exports, EUR;France;EUR;1
+EUR_FraCurrentAccount;20200707;06:45;Current Account;France;EUR;1
+EUR_GerIndustrialProduction;20200707;06:00;Industrial Production n.s.a. w.d.a. (YoY);Germany;EUR;1
+RON_GrossDomesticProduct;20200707;06:00;Gross Domestic Product;Romania;RON;1
+DKK_IndustrialProduction;20200707;06:00;Industrial Production (MoM);Denmark;DKK;1
+NOK_ManufacturingOutput;20200707;06:00;Manufacturing Output;Norway;NOK;1
+ZAR_Gross$Gold&ForexReserve;20200707;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+ZAR_Net$Gold&ForexReserve;20200707;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+JPY_CoincidentIndex;20200707;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20200707;05:00;Leading Economic Index;Japan;JPY;2
+AUD_RBAInterestRateDecision;20200707;04:30;RBA Interest Rate Decision;Australia;AUD;3
+AUD_RBARateStatement;20200707;04:30;RBA Rate Statement;Australia;AUD;3
+EUR_NetConsumerPriceIndex;20200707;04:30;Consumer Price Index n.s.a (YoY);Netherlands, The;EUR;1

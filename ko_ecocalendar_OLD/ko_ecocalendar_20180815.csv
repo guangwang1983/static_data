@@ -1,0 +1,54 @@
+JPY_MerchandiseTradeBalanceTotal;20180815;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Imports;20180815;23:50;Imports (YoY);Japan;JPY;2
+JPY_Exports;20180815;23:50;Exports (YoY);Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20180815;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;2
+JPY_ForeignBondInvestment;20180815;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20180815;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+USD_TotalNetTICFlows;20180815;20:00;Total Net TIC Flows;United States;USD;1
+USD_NetLongTermTICFlows;20180815;20:00;Net Long-Term TIC Flows;United States;USD;1
+ARS_ConsumerPriceIndex;20180815;19:00;Consumer Price Index (MoM);Argentina;ARS;1
+PEN_GrossDomesticProduct;20180815;16:00;Gross Domestic Product;Peru;PEN;1
+EUR_GerCentralBankSpeech;20180815;16:00;German Buba President Weidmann speech;Germany;EUR;2
+COP_GrossDomesticProduct;20180815;16:00;Gross Domestic Product (YoY);Colombia;COP;1
+USD_EIACrudeOilStocksChange;20180815;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_BusinessInventories;20180815;14:00;Business Inventories;United States;USD;1
+USD_NAHBHousingMarketIndex;20180815;14:00;NAHB Housing Market Index;United States;USD;1
+USD_IndustrialProduction;20180815;13:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20180815;13:15;Capacity Utilization;United States;USD;2
+RUB_IndustrialOutput;20180815;13:00;Industrial Output;Russia;RUB;1
+USD_NYEmpireStateManufacturingIndex;20180815;12:30;NY Empire State Manufacturing Index;United States;USD;1
+USD_RetailSales;20180815;12:30;Retail Sales Control Group;United States;USD;3
+USD_NonfarmProductivity;20180815;12:30;Nonfarm Productivity;United States;USD;2
+USD_UnitLaborCosts;20180815;12:30;Unit Labor Costs;United States;USD;2
+USD_MBAMortgageApplications;20180815;11:00;MBA Mortgage Applications;United States;USD;1
+ZAR_RetailSales;20180815;11:00;Retail Sales (YoY);South Africa;ZAR;1
+EUR_GerAuction;20180815;09:44;30-y Bond Auction;Germany;EUR;1
+GBP_RetailPriceIndex;20180815;08:30;Retail Price Index (MoM);United Kingdom;GBP;2
+GBP_DCLGHousePriceIndex;20180815;08:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ProducerPriceIndex;20180815;08:30;Producer Price Index - Output (YoY) n.s.a;United Kingdom;GBP;1
+GBP_PPICoreOutput;20180815;08:30;PPI Core Output (YoY) n.s.a ;United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20180815;08:30;Core Consumer Price Index (YoY);United Kingdom;GBP;3
+TRY_BudgetBalance;20180815;08:00;Budget Balance;Turkey;TRY;1
+TRY_3mthquarterlyjoblessaverage;20180815;07:00;3mth quarterly jobless average;Turkey;TRY;1
+IDR_BankIndonesiaRate;20180815;07:00;Bank Indonesia Rate;Indonesia;IDR;1
+NOK_TradeBalance;20180815;06:00;Trade Balance;Norway;NOK;1
+EUR_FinCurrentAccount;20180815;06:00;Current Account;Finland;EUR;1
+IDR_TradeBalance;20180815;04:00;Trade Balance;Indonesia;IDR;1
+IDR_Imports;20180815;04:00;Imports;Indonesia;IDR;1
+IDR_Exports;20180815;04:00;Exports;Indonesia;IDR;1
+CNY_HousePriceIndex;20180815;01:30;House Price Index ;China;CNY;1
+AUD_WagePriceIndex;20180815;01:30;Wage Price Index (QoQ);Australia;AUD;2
+AUD_WestpacConsumerConfidence;20180815;00:30;Westpac Consumer Confidence;Australia;AUD;2
+EUR_BelAssumptionDay;20180815;00:00;Assumption Day ;Belgium;EUR;0
+EUR_FraAssumptionDay;20180815;00:00;Assumption Day;France;EUR;0
+CLP_AssumptionDay;20180815;00:00;Assumption Day;Chile;CLP;0
+KRW_LiberationDay;20180815;00:00;Liberation Day;South Korea;KRW;0
+EUR_AusAssumptionDay;20180815;00:00;Assumption Day;Austria;EUR;0
+EUR_SpaAssumptionDay;20180815;00:00;Assumption Day;Spain;EUR;0
+EUR_ItaAssumptionDay;20180815;00:00;Assumption Day;Italy;EUR;0
+PLN_AssumptionoftheBlessedVirginMary;20180815;00:00;Assumption of the Blessed Virgin Mary;Poland;PLN;0
+EUR_EurEcoFinMeeting;20180815;00:00;EcoFin Meeting;European Monetary Union;EUR;2
+EUR_GreAssumptionDay;20180815;00:00;Assumption Day ;Greece;EUR;0
+EUR_PorAssumptionDay;20180815;00:00;Assumption Day ;Portugal;EUR;0
+INR_IndependenceDay;20180815;00:00;Independence Day ;India;INR;0
+RON_StAndrewDay;20180815;00:00;St. Andrew Day;Romania;RON;0

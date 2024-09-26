@@ -1,0 +1,23 @@
+JPY_TertiaryIndustryIndex;20111212;23:50;Tertiary Industry Index (MoM);Japan;JPY;2
+NZD_FoodPriceIndex;20111212;21:45;Food Price Index (MoM);New Zealand;NZD;1
+KRW_ExportPriceGrowth;20111212;21:00;Export Price Growth (YoY);South Korea;KRW;1
+USD_MonthlyBudgetStatement;20111212;19:00;Monthly Budget Statement;United States;USD;2
+MXN_IndustrialOutput;20111212;14:00;Industrial Output (MoM);Mexico;MXN;1
+GBP_RetailSales;20111212;08:30;Retail Sales ex-Fuel (MoM);United Kingdom;GBP;0
+RON_TradeBalance;20111212;08:00;Trade Balance;Romania;RON;1
+DKK_Inflation;20111212;08:00;Inflation (HICP) (YoY);Denmark;DKK;1
+DKK_ConsumerPriceIndex;20111212;08:00;Consumer Price Index (YoY);Denmark;DKK;1
+TRY_GrossDomesticProduct;20111212;08:00;Quarterly Gross Domestic Product;Turkey;TRY;1
+RON_ConsumerPriceIndex;20111212;08:00;Consumer Price Index;Romania;RON;1
+TRY_CurrentAccount;20111212;08:00;Current Account Balance;Turkey;TRY;1
+EUR_FraCurrentAccount;20111212;07:45;Current Account;France;EUR;1
+CHF_EmploymentLevel;20111212;07:15;Employment Level (QoQ);Switzerland;CHF;2
+EUR_GerWholesalePriceIndex;20111212;07:00;Wholesale Price Index (MoM);Germany;EUR;1
+JPY_MachineToolOrders;20111212;06:00;Machine Tool Orders (YoY);Japan;JPY;2
+INR_IndustrialOutput;20111212;05:30;Industrial Output;India;INR;1
+INR_ManufacturingOutput;20111212;05:30;Manufacturing Output;India;INR;1
+INR_CumulativeIndustrialOutput;20111212;05:30;Cumulative Industrial Output;India;INR;1
+JPY_ConsumerConfidenceIndex;20111212;05:00;Consumer Confidence Index;Japan;JPY;2
+AUD_InvestmentLendingforHomes;20111212;00:30;Investment Lending for Homes;Australia;AUD;1
+AUD_HomeLoans;20111212;00:30;Home Loans;Australia;AUD;2
+AUD_TradeBalance;20111212;00:30;Trade Balance;Australia;AUD;2

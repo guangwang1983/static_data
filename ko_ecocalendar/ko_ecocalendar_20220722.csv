@@ -1,0 +1,33 @@
+JPY_JibunBankServicesPMI;20220722;00:30;Jibun Bank Services PMI;Japan;JPY;1
+JPY_JibunBankManufacturingPMI;20220722;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+GBP_RetailSales;20220722;06:00;Retail Sales (YoY);United Kingdom;GBP;2
+EUR_FraHCOBManufacturingPMIPreliminar;20220722;07:15;HCOB Manufacturing PMI;France;EUR;2
+EUR_FraHCOBCompositePMI;20220722;07:15;HCOB Composite PMI;France;EUR;2
+EUR_FraHCOBServicesPMI;20220722;07:15;HCOB Services PMI;France;EUR;2
+EUR_GerHCOBCompositePMI;20220722;07:30;HCOB Composite PMI;Germany;EUR;3
+EUR_GerHCOBManufacturingPMIPreliminar;20220722;07:30;HCOB Manufacturing PMI;Germany;EUR;3
+EUR_GerHCOBServicesPMI;20220722;07:30;HCOB Services PMI;Germany;EUR;2
+EUR_EurHCOBManufacturingPMIPreliminar;20220722;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurHCOBServicesPMI;20220722;08:00;HCOB Services PMI;European Monetary Union;EUR;2
+EUR_EurHCOBCompositePMI;20220722;08:00;HCOB Composite PMI;European Monetary Union;EUR;3
+GBP_S&PGlobalCIPSCompositePMI;20220722;08:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSServicesPMI;20220722;08:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;3
+GBP_S&PGlobalCIPSManufacturingPMIPreliminar;20220722;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+EUR_GerGermanBubaMonthlyReport;20220722;10:00;German Buba Monthly Report;Germany;EUR;1
+RUB_Interestratedecision;20220722;10:30;Interest rate decision;Russia;RUB;2
+MXN_1sthalfmonthInflation;20220722;11:00;1st half-month Inflation;Mexico;MXN;1
+MXN_1sthalfmonthCoreInflation;20220722;11:00;1st half-month Core Inflation;Mexico;MXN;1
+INR_FXReservesUSD;20220722;11:30;FX Reserves, USD;India;INR;1
+PLN_M3MoneySupply;20220722;12:00;M3 Money Supply (YoY);Poland;PLN;1
+CAD_RetailSales;20220722;12:30;Retail Sales ex Autos (MoM);Canada;CAD;2
+USD_S&PGlobalCompositePMI;20220722;13:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20220722;13:45;S&P Global Services PMI;United States;USD;2
+USD_S&PGlobalManufacturingPMI;20220722;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_BakerHughesUSOilRigCount;20220722;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20220722;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20220722;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20220722;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20220722;19:30;CFTC Oil NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20220722;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20220722;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20220722;19:30;CFTC AUD NC Net Positions;Australia;AUD;1

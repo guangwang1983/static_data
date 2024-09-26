@@ -1,0 +1,39 @@
+ARS_TradeBalance;20140123;19:00;Trade Balance (MoM);Argentina;ARS;1
+USD_EIACrudeOilStocksChange;20140123;16:00;EIA Crude Oil Stocks Change;United States;USD;1
+USD_KansasFedManufacturingActivity;20140123;16:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_EIANaturalGasStorageChange;20140123;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_AmericanPetroleumInstituteMonthlyReport;20140123;15:00;American Petroleum Institute Monthly Report ;United States;USD;1
+USD_ExistingHomeSalesChange;20140123;15:00;Existing Home Sales Change (MoM);United States;USD;2
+USD_ExistingHomeSales;20140123;15:00;Existing Home Sales (MoM);United States;USD;1
+EUR_EurConsumerConfidence;20140123;15:00;Consumer Confidence;European Monetary Union;EUR;2
+USD_HousingPriceIndex;20140123;14:00;Housing Price Index (MoM);United States;USD;1
+MXN_1sthalfmonthCoreInflation;20140123;14:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20140123;14:00;1st half-month Inflation;Mexico;MXN;1
+RUB_IndustrialOutput;20140123;14:00;Industrial Output;Russia;RUB;1
+USD_MarkitManufacturingPMI;20140123;13:58;Markit Manufacturing PMI;United States;USD;2
+USD_ChicagoFedNationalActivityIndex;20140123;13:30;Chicago Fed National Activity Index ;United States;USD;2
+USD_JoblessClaims;20140123;13:30;Initial Jobless Claims;United States;USD;2
+CAD_RetailSales;20140123;13:30;Retail Sales ex Autos (MoM);Canada;CAD;1
+RUB_CentralBankReserves;20140123;11:00;Central Bank Reserves $;Russia;RUB;1
+GBP_CBIDistributiveTradesSurveyRealized;20140123;11:00;CBI Distributive Trades Survey - Realized (MoM);United Kingdom;GBP;1
+GBP_Auction;20140123;10:43;10-y Bond Auction;United Kingdom;GBP;1
+EUR_ItaTradeBalancenonEU;20140123;09:00;Trade Balance non-EU;Italy;EUR;1
+EUR_EurCurrentAccount;20140123;09:00;Current Account s.a;European Monetary Union;EUR;1
+GBP_CentralBankSpeech;20140123;09:00;BoE Fisher speech;United Kingdom;GBP;1
+EUR_EurMarkitPMIComposite;20140123;08:58;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitManufacturingPMI;20140123;08:58;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20140123;08:58;Markit Services PMI;European Monetary Union;EUR;2
+EUR_NetUnemploymentRate;20140123;08:30;Unemployment Rate s.a (3M);Netherlands, The;EUR;1
+SEK_UnemploymentRate;20140123;08:30;Unemployment Rate;Sweden;SEK;1
+EUR_GerMarkitServicesPMI;20140123;08:28;Markit Services PMI;Germany;EUR;2
+EUR_GerMarkitManufacturingPMI;20140123;08:28;Markit Manufacturing PMI;Germany;EUR;2
+DKK_ConsumerConfidence;20140123;08:00;Consumer Confidence;Denmark;DKK;1
+EUR_SpaUnemploymentSurvey;20140123;08:00;Unemployment Survey;Spain;EUR;1
+EUR_FraMarkitManufacturingPMI;20140123;07:58;Markit Manufacturing PMI;France;EUR;1
+EUR_FraMarkitServicesPMI;20140123;07:58;Markit Services PMI;France;EUR;1
+EUR_FraBusinessClimate;20140123;07:45;Business Climate;France;EUR;1
+SGD_ConsumerPriceIndex;20140123;05:00;Consumer Price Index (YoY);Singapore;SGD;1
+JPY_BoJMonthlyEconomicSurvey;20140123;05:00;BoJ Monthly Economic Survey;Japan;JPY;2
+CNY_CaixinManufacturingPMI;20140123;01:45;Caixin Manufacturing PMI;China;CNY;2
+CHF_WorldEconomicForumDavos;20140123;00:00;World Economic Forum - Davos;Switzerland;CHF;2
+AUD_ConsumerInflationExpectations;20140123;00:00;Consumer Inflation Expectations;Australia;AUD;2

@@ -1,0 +1,40 @@
+AUD_NationalAustraliaBankBusinessConditions;20231212;00:30;National Australia Bank Business Conditions;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConfidence;20231212;00:30;National Australia Bank Business Confidence;Australia;AUD;1
+MXN_DayoftheVirginofGuadalupe;20231212;06:00;Day of the Virgin of Guadalupe ;Mexico;MXN;0
+CNY_M2MoneySupply;20231212;07:00;M2 Money Supply (YoY);China;CNY;1
+CNY_NewLoans;20231212;07:00;New Loans;China;CNY;1
+CNY_FDIForeignDirectInvestment;20231212;07:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;1
+GBP_EmploymentChange;20231212;07:00;Employment Change;United Kingdom;GBP;3
+GBP_ILOUnemploymentRate;20231212;07:00;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_AverageEarningsIncludingBonus;20231212;07:00;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_AverageEarningsExcludingBonus;20231212;07:00;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountRate;20231212;07:00;Claimant Count Rate;United Kingdom;GBP;2
+GBP_ClaimantCountChange;20231212;07:00;Claimant Count Change;United Kingdom;GBP;3
+ZAR_BusinessConfidenceIndex;20231212;09:30;Business Confidence Index;South Africa;ZAR;1
+EUR_GerZEWSurvey–EconomicSentiment;20231212;10:00;ZEW Survey – Economic Sentiment;Germany;EUR;2
+EUR_GerZEWSurvey–CurrentSituation;20231212;10:00;ZEW Survey – Current Situation;Germany;EUR;2
+EUR_EurZEWSurvey–EconomicSentiment;20231212;10:00;ZEW Survey – Economic Sentiment;Eurozone;EUR;2
+USD_NFIBBusinessOptimismIndex;20231212;11:00;NFIB Business Optimism Index;United States;USD;1
+ZAR_ManufacturingProductionIndex;20231212;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+BRL_IPCAInflation;20231212;12:00;IPCA Inflation;Brazil;BRL;1
+MXN_IndustrialOutput;20231212;12:00;Industrial Output (MoM);Mexico;MXN;1
+INR_ConsumerPriceIndex;20231212;12:00;Consumer Price Index (YoY);India;INR;1
+INR_ManufacturingOutput;20231212;12:00;Manufacturing Output;India;INR;1
+INR_IndustrialOutput;20231212;12:00;Industrial Output;India;INR;1
+INR_CumulativeIndustrialOutput;20231212;12:00;Cumulative Industrial Output;India;INR;1
+RUB_ForeignTrade;20231212;13:00;Foreign Trade;Russia;RUB;1
+USD_ConsumerPriceIndex;20231212;13:30;Consumer Price Index Core s.a;United States;USD;1
+USD_RedbookIndex;20231212;13:55;Redbook Index (YoY);United States;USD;1
+USD_Auction;20231212;18:00;30-Year Bond Auction;United States;USD;1
+USD_MonthlyBudgetStatement;20231212;19:00;Monthly Budget Statement;United States;USD;2
+KRW_ExportPriceGrowth;20231212;21:00;Export Price Growth (YoY);South Korea;KRW;1
+KRW_ImportPriceGrowth;20231212;21:00;Import Price Growth (YoY);South Korea;KRW;1
+USD_APIWeeklyCrudeOilStock;20231212;21:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_FoodPriceIndex;20231212;21:45;Food Price Index (MoM);New Zealand;NZD;1
+NZD_CurrentAccount;20231212;21:45;Current Account (QoQ);New Zealand;NZD;1
+KRW_UnemploymentRate;20231212;23:00;Unemployment Rate;South Korea;KRW;1
+JPY_TankanLargeAllIndustryCapex;20231212;23:50;Tankan Large All Industry Capex;Japan;JPY;2
+JPY_TankanNonManufacturingIndex;20231212;23:50;Tankan Non - Manufacturing Index;Japan;JPY;1
+JPY_TankanLargeManufacturingOutlook;20231212;23:50;Tankan Large Manufacturing Outlook;Japan;JPY;2
+JPY_TankanLargeManufacturingIndex;20231212;23:50;Tankan Large Manufacturing Index;Japan;JPY;3
+JPY_TankanNonManufacturingOutlook;20231212;23:50;Tankan Non - Manufacturing Outlook;Japan;JPY;1

@@ -1,0 +1,22 @@
+EUR_EurG20Meeting;20190118;00:00;G20 Meeting;European Monetary Union;EUR;2
+JPY_IndustrialProduction;20190118;04:30;Industrial Production (MoM);Japan;JPY;1
+JPY_CapacityUtilization;20190118;04:30;Capacity Utilization;Japan;JPY;1
+CHF_ProducerandImportPrices;20190118;07:30;Producer and Import Prices (MoM);Switzerland;CHF;1
+EUR_EurCurrentAccount;20190118;09:00;Current Account n.s.a;European Monetary Union;EUR;1
+PLN_IndustrialOutput;20190118;09:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20190118;09:00;Producer Price Index (YoY);Poland;PLN;1
+PLN_CorporateSectorWages;20190118;09:00;Corporate Sector Wages;Poland;PLN;1
+GBP_RetailSales;20190118;09:30;Retail Sales (YoY);United Kingdom;GBP;2
+INR_BankLoanGrowth;20190118;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20190118;11:30;FX Reserves, USD;India;INR;1
+RUB_ForeignTrade;20190118;13:00;Foreign Trade;Russia;RUB;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20190118;13:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20190118;13:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_ConsumerPriceIndex;20190118;13:30;Consumer Price Index (YoY);Canada;CAD;2
+USD_CentralBankSpeech;20190118;14:05;Fed Williams speech;United States;USD;2
+USD_IndustrialProduction;20190118;14:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20190118;14:15;Capacity Utilization;United States;USD;2
+COP_RetailSales;20190118;15:00;Retail Sales (YoY);Colombia;COP;1
+USD_MichiganConsumerSentimentIndex;20190118;15:00;Michigan Consumer Sentiment Index;United States;USD;2
+COP_Industrialoutput;20190118;15:00;Industrial output (YoY);Colombia;COP;1
+USD_BakerHughesUSOilRigCount;20190118;18:00;Baker Hughes US Oil Rig Count;United States;USD;2

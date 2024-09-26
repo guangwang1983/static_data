@@ -1,0 +1,59 @@
+KRW_TradeBalance;20201001;00:00;Trade Balance;South Korea;KRW;1
+EUR_EurEULeadersSpecialSummit;20201001;00:00;EU Leaders Special Summit;European Monetary Union;EUR;3
+JPY_JibunBankManufacturingPMI;20201001;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+JPY_Auction;20201001;03:35;10-y Bond Auction;Japan;JPY;1
+IDR_CoreInflation;20201001;04:00;Core Inflation (YoY);Indonesia;IDR;1
+IDR_Inflation;20201001;04:00;Inflation (YoY);Indonesia;IDR;1
+RUB_S&PGlobalManufacturingPMI;20201001;06:00;S&P Global Manufacturing PMI;Russia;RUB;1
+CHF_RetailSales;20201001;06:30;Real Retail Sales (YoY);Switzerland;CHF;2
+AUD_RBACommodityIndexSDR;20201001;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+SEK_PurchasingManagersIndexManufacturing;20201001;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+CHF_ConsumerPriceIndex;20201001;06:30;Consumer Price Index (YoY);Switzerland;CHF;2
+HUF_PurchasingManagerIndex;20201001;07:00;Purchasing Manager Index;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20201001;07:00;Purchasing Manager Index;Poland;PLN;2
+CHF_SVMEPurchasingManagers'Index;20201001;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_S&PGlobalPMI;20201001;07:30;S&P Global PMI;Czech Republic;CZK;1
+EUR_ItaHCOBManufacturingPMI;20201001;07:45;HCOB Manufacturing PMI;Italy;EUR;2
+EUR_FraHCOBManufacturingPMI;20201001;07:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerHCOBManufacturingPMI;20201001;07:55;HCOB Manufacturing PMI;Germany;EUR;2
+PLN_ConsumerPriceIndex;20201001;08:00;Consumer Price Index (YoY);Poland;PLN;1
+EUR_ItaUnemployment;20201001;08:00;Unemployment;Italy;EUR;1
+EUR_EurHCOBManufacturingPMI;20201001;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;1
+GBP_S&PGlobalCIPSManufacturingPMI;20201001;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+EUR_FraAuction;20201001;08:50;10-y Bond Auction;France;EUR;1
+EUR_EurUnemploymentRate;20201001;09:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_EurProducerPriceIndex;20201001;09:00;Producer Price Index (MoM);European Monetary Union;EUR;1
+DKK_ManufacturingPMI;20201001;09:00;Manufacturing PMI;Denmark;DKK;1
+BRL_TradeBalance;20201001;10:00;Trade Balance;Brazil;BRL;1
+GBP_CentralBankSpeech;20201001;10:20;BoE Haldane speech;United Kingdom;GBP;2
+CLP_IMACEC;20201001;10:30;IMACEC;Chile;CLP;1
+USD_ChallengerJobCuts;20201001;11:30;Challenger Job Cuts;United States;USD;1
+ZAR_TotalNewVehicleSales;20201001;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+CZK_BudgetBalance;20201001;12:00;Budget Balance;Czech Republic;CZK;1
+USD_PersonalConsumptionExpendituresPriceIndex;20201001;12:30;Personal Consumption Expenditures - Price Index (YoY);United States;USD;1
+USD_CorePersonalConsumptionExpendituresPriceIndex;20201001;12:30;Core Personal Consumption Expenditures - Price Index (MoM);United States;USD;2
+USD_PersonalIncome;20201001;12:30;Personal Income (MoM);United States;USD;2
+USD_PersonalSpending;20201001;12:30;Personal Spending;United States;USD;2
+USD_JoblessClaims;20201001;12:30;Initial Jobless Claims 4-week average;United States;USD;2
+CAD_BuildingPermits;20201001;12:30;Building Permits (MoM);Canada;CAD;1
+BRL_S&PGlobalManufacturingPMI;20201001;13:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+RUB_CentralBankReserves;20201001;13:00;Central Bank Reserves $;Russia;RUB;1
+CAD_S&PGlobalManufacturingPMI;20201001;13:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20201001;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_ISMManufacturingPMI;20201001;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20201001;14:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ISMManufacturingEmploymentIndex;20201001;14:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ISMManufacturingNewOrdersIndex;20201001;14:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ConstructionSpending;20201001;14:00;Construction Spending (MoM);United States;USD;1
+USD_EIANaturalGasStorageChange;20201001;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_CentralBankSpeech;20201001;15:00;Fed Williams speech;United States;USD;2
+KRW_HarvestFestival;20201001;15:00;Harvest Festival ;South Korea;KRW;0
+USD_Auction;20201001;15:30;4-Week Bill Auction;United States;USD;1
+EUR_EurCentralBankSpeech;20201001;15:45;ECB Lane speech;European Monetary Union;EUR;2
+CNY_NationalDay;20201001;16:00;National Day;China;CNY;0
+INR_MahatmaGandhiBirthday;20201001;18:30;Mahatma Gandhi Birthday ;India;INR;0
+USD_TotalVehicleSales;20201001;19:30;Total Vehicle Sales;United States;USD;1
+NZD_ANZ–RoyMorganConsumerConfidence;20201001;21:00;ANZ – Roy Morgan Consumer Confidence;New Zealand;NZD;2
+JPY_JobsApplicantsRatio;20201001;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+JPY_UnemploymentRate;20201001;23:30;Unemployment Rate;Japan;JPY;2
+JPY_MonetaryBase;20201001;23:50;Monetary Base (YoY);Japan;JPY;1

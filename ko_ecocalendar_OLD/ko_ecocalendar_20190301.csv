@@ -1,0 +1,70 @@
+MXN_FiscalBalancepesos;20190301;21:00;Fiscal Balance, pesos;Mexico;MXN;1
+GBP_CFTCGBPNCNetPositions;20190301;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20190301;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20190301;20:30;CFTC Oil NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20190301;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCUSDNCNetPositions;20190301;20:30;CFTC USD NC Net Positions;United States;USD;1
+AUD_CFTCAUDNCNetPositions;20190301;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20190301;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+USD_TotalVehicleSales;20190301;20:30;Total Vehicle Sales;United States;USD;1
+ARS_TaxRevenue;20190301;19:00;Tax Revenue (MoM);Argentina;ARS;1
+BRL_TradeBalance;20190301;18:00;Trade Balance;Brazil;BRL;1
+USD_BakerHughesUSOilRigCount;20190301;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CentralBankSpeech;20190301;17:50;Fed Bostic speech;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20190301;15:00;Michigan Consumer Sentiment Index;United States;USD;2
+USD_ISMPricesPaid;20190301;15:00;ISM Prices Paid;United States;USD;2
+USD_ISMManufacturingPMI;20190301;15:00;ISM Manufacturing PMI;United States;USD;3
+USD_MarkitManufacturingPMI;20190301;14:45;Markit Manufacturing PMI;United States;USD;2
+CAD_MarkitManufacturingPMI;20190301;14:30;Markit Manufacturing PMI;Canada;CAD;2
+USD_PersonalIncome;20190301;13:30;Personal Income (MoM);United States;USD;2
+USD_PersonalConsumptionExpendituresPriceIndex;20190301;13:30;Personal Consumption Expenditures - Price Index (YoY);United States;USD;1
+USD_CorePersonalConsumptionExpenditurePriceIndex;20190301;13:30;Core Personal Consumption Expenditure - Price Index (MoM);United States;USD;2
+USD_PersonalSpending;20190301;13:30;Personal Spending;United States;USD;2
+CAD_GrossDomesticProduct;20190301;13:30;Gross Domestic Product Annualized (QoQ);Canada;CAD;3
+BRL_HSBCPMIManufacturing;20190301;13:00;HSBC PMI Manufacturing;Brazil;BRL;1
+CZK_BudgetBalance;20190301;13:00;Budget Balance;Czech Republic;CZK;1
+ZAR_TotalNewVehicleSales;20190301;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+INR_BankLoanGrowth;20190301;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20190301;11:30;FX Reserves, USD;India;INR;1
+EUR_EurUnemploymentRate;20190301;10:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_EurConsumerPriceIndex;20190301;10:00;Consumer Price Index (YoY);European Monetary Union;EUR;3
+GBP_NetLendingtoIndividuals;20190301;09:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_MarkitManufacturingPMI;20190301;09:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+GBP_ConsumerCredit;20190301;09:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20190301;09:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_M4MoneySupply;20190301;09:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+ISK_GrossDomesticProduct;20190301;09:07;Gross Domestic Product (YoY);Iceland;ISK;1
+EUR_ItaUnemployment;20190301;09:00;Unemployment;Italy;EUR;2
+EUR_GreMarkitManufacturingPMI;20190301;09:00;Markit Manufacturing PMI;Greece;EUR;1
+NOK_RegisteredUnemployment;20190301;09:00;Registered Unemployment s.a;Norway;NOK;1
+EUR_EurMarkitManufacturingPMI;20190301;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;1
+EUR_GerUnemploymentChange;20190301;08:55;Unemployment Change;Germany;EUR;2
+EUR_GerUnemploymentRate;20190301;08:55;Unemployment Rate s.a.;Germany;EUR;2
+EUR_GerMarkitManufacturingPMI;20190301;08:55;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20190301;08:50;Markit Manufacturing PMI;France;EUR;1
+EUR_ItaMarkitManufacturingPMI;20190301;08:45;Markit Manufacturing PMI;Italy;EUR;1
+EUR_AusUnemployment;20190301;08:39;Unemployment;Austria;EUR;1
+EUR_AusUnemploymentRate;20190301;08:39;Unemployment Rate;Austria;EUR;1
+CHF_SVMEPurchasingManagers'Index;20190301;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_MarkitPMI;20190301;08:30;Markit PMI;Czech Republic;CZK;1
+EUR_SpaMarkitManufacturingPMI;20190301;08:15;Markit Manufacturing PMI;Spain;EUR;1
+EUR_AusGrossDomesticProduct;20190301;08:00;Gross Domestic Product (QoQ);Austria;EUR;1
+HUF_PurchasingManagerIndex;20190301;08:00;Purchasing Manager Index;Hungary;HUF;1
+CZK_GrossDomesticProduct;20190301;08:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+EUR_AusProducerPriceIndex;20190301;08:00;Producer Price Index (MoM);Austria;EUR;1
+HUF_GrossDomesticProduct;20190301;08:00;Gross Domestic Product (YoY);Hungary;HUF;1
+PLN_PurchasingManagerIndex;20190301;08:00;Purchasing Manager Index;Poland;PLN;1
+EUR_FraBudget;20190301;07:45;Budget;France;EUR;1
+CHF_RetailSales;20190301;07:30;Real Retail Sales (YoY);Switzerland;CHF;2
+SEK_PurchasingManagersIndexManufacturing;20190301;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+EUR_GerRetailSales;20190301;07:00;Retail Sales (MoM);Germany;EUR;2
+RUB_HSBCManufacturingPMI;20190301;06:00;HSBC Manufacturing PMI	;Russia;RUB;1
+EUR_IrePurchasingManagerIndexManufacturing;20190301;06:00;Purchasing Manager Index Manufacturing;Ireland;EUR;1
+AUD_RBACommodityIndexSDR;20190301;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+JPY_ConsumerConfidenceIndex;20190301;05:00;Consumer Confidence Index;Japan;JPY;1
+IDR_CoreInflation;20190301;04:00;Core Inflation (YoY);Indonesia;IDR;1
+IDR_Inflation;20190301;04:00;Inflation (YoY);Indonesia;IDR;1
+CNY_CaixinManufacturingPMI;20190301;01:45;Caixin Manufacturing PMI;China;CNY;3
+JPY_NikkeiManufacturingPMI;20190301;00:30;Nikkei Manufacturing PMI;Japan;JPY;1
+KRW_March1stMovement;20190301;00:00;March 1st Movement ;South Korea;KRW;0
+KRW_TradeBalance;20190301;00:00;Trade Balance;South Korea;KRW;1

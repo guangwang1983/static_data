@@ -1,0 +1,41 @@
+JPY_ForeignInvestmentinJapanStocks;20210106;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20210106;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_LaborCashEarnings;20210106;23:30;Labor Cash Earnings (YoY);Japan;JPY;1
+USD_FOMCMinutes;20210106;19:00;FOMC Minutes;United States;USD;3
+USD_EIACrudeOilStocksChange;20210106;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_FactoryOrders;20210106;15:00;Factory Orders (MoM);United States;USD;2
+USD_MarkitServicesPMI;20210106;14:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20210106;14:45;Markit PMI Composite;United States;USD;2
+GBP_CentralBankSpeech;20210106;14:00;BoE Governor Bailey speech;United Kingdom;GBP;3
+USD_ADPEmploymentChange;20210106;13:15;ADP Employment Change;United States;USD;3
+EUR_GerConsumerPriceIndex;20210106;13:00;Consumer Price Index (MoM);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20210106;13:00;Harmonized Index of Consumer Prices (MoM);Germany;EUR;1
+USD_MBAMortgageApplications;20210106;12:00;MBA Mortgage Applications;United States;USD;1
+EUR_GerAuction;20210106;10:30;10-y Bond Auction;Germany;EUR;2
+EUR_EurProducerPriceIndex;20210106;10:00;Producer Price Index (YoY);European Monetary Union;EUR;1
+GBP_Auction;20210106;10:00;10-y Bond Auction;United Kingdom;GBP;1
+GBP_MarkitServicesPMI;20210106;09:30;Markit Services PMI;United Kingdom;GBP;1
+EUR_EurMarkitServicesPMI;20210106;09:00;Markit Services PMI;European Monetary Union;EUR;1
+EUR_EurMarkitPMIComposite;20210106;09:00;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_GerMarkitPMIComposite;20210106;08:55;Markit PMI Composite;Germany;EUR;2
+EUR_GerMarkitServicesPMI;20210106;08:55;Markit Services PMI;Germany;EUR;1
+EUR_FraMarkitPMIComposite;20210106;08:50;Markit PMI Composite;France;EUR;1
+EUR_FraMarkitServicesPMI;20210106;08:50;Markit Services PMI;France;EUR;1
+EUR_ItaMarkitServicesPMI;20210106;08:45;Markit Services PMI;Italy;EUR;2
+EUR_SpaMarkitServicesPMI;20210106;08:15;Markit Services PMI;Spain;EUR;2
+HUF_GrossWages;20210106;08:00;Gross Wages (YoY);Hungary;HUF;1
+HUF_ProducerPriceIndex;20210106;08:00;Producer Price Index (YoY);Hungary;HUF;1
+HUF_TradeBalance;20210106;08:00;Trade Balance;Hungary;HUF;1
+CZK_ForeignTradeBalance;20210106;08:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+EUR_FraConsumerPriceIndex;20210106;07:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraConsumerConfidence;20210106;07:45;Consumer Confidence;France;EUR;1
+DKK_IndustrialOutlook;20210106;07:00;Industrial Outlook;Denmark;DKK;1
+NOK_CreditIndicator;20210106;07:00;Credit Indicator;Norway;NOK;1
+JPY_ConsumerConfidenceIndex;20210106;05:00;Consumer Confidence Index;Japan;JPY;1
+JPY_Auction;20210106;03:35;10-y Bond Auction;Japan;JPY;1
+CNY_CaixinServicesPMI;20210106;01:45;Caixin Services PMI;China;CNY;2
+EUR_IrePurchasingManagerIndexServices;20210106;01:01;Purchasing Manager Index Services;Ireland;EUR;1
+HKD_NikkeiManufacturingPMI;20210106;00:30;Nikkei Manufacturing PMI;Hong Kong SAR;HKD;1
+JPY_JibunBankServicesPMI;20210106;00:30;Jibun Bank Services PMI;Japan;JPY;1
+GBP_BRCShopPriceIndex;20210106;00:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1
+COP_ConsumerPriceIndex;20210106;00:00;Consumer Price Index (YoY);Colombia;COP;1

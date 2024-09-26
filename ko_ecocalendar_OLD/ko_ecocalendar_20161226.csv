@@ -1,0 +1,41 @@
+JPY_TokyoCPIexFreshFood;20161226;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;1
+JPY_TokyoCPIexFoodEnergy;20161226;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;1
+JPY_ConsumerPriceIndex;20161226;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;1
+JPY_NationalCPIexFoodEnergy;20161226;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20161226;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_JobsApplicantsRatio;20161226;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+JPY_UnemploymentRate;20161226;23:30;Unemployment Rate;Japan;JPY;2
+JPY_OverallHouseholdSpending;20161226;23:30;Overall Household Spending (YoY);Japan;JPY;2
+KRW_ConsumerSentimentIndex;20161226;21:00;Consumer Sentiment Index;South Korea;KRW;1
+RUB_GrossDomesticProduct;20161226;13:00;Gross Domestic Product Monthly (YoY);Russia;RUB;1
+TRY_ManufacturingConfidence;20161226;11:30;Manufacturing Confidence;Turkey;TRY;1
+TRY_CapacityUtilization;20161226;11:30;Capacity Utilization;Turkey;TRY;1
+JPY_CoincidentIndex;20161226;05:00;Coincident Index;Japan;JPY;2
+JPY_LeadingEconomicIndex;20161226;05:00;Leading Economic Index;Japan;JPY;2
+JPY_CentralBankSpeech;20161226;04:00;BoJ Governor Kuroda speech;Japan;JPY;3
+CHF_StStephenDay;20161226;00:00;St Stephen Day;Switzerland;CHF;0
+ISK_StStephensDay;20161226;00:00;St Stephens Day;Iceland;ISK;0
+MXN_ChristmasDay;20161226;00:00;Christmas Day ;Mexico;MXN;0
+EUR_GreBoxingDay;20161226;00:00;Boxing Day ;Greece;EUR;0
+PLN_StStephenDay;20161226;00:00;St Stephen Day ;Poland;PLN;0
+EUR_FinBoxingDay;20161226;00:00;Boxing Day;Finland;EUR;0
+GBP_BoxingDay;20161226;00:00;Boxing Day;United Kingdom;GBP;0
+EUR_IreStStephenDay;20161226;00:00;St. Stephen Day;Ireland;EUR;0
+EUR_GerBoxingDay;20161226;00:00;Boxing Day;Germany;EUR;0
+NOK_BoxingDay;20161226;00:00;Boxing Day;Norway;NOK;0
+CAD_ChristmasDay;20161226;00:00;Christmas Day (observed);Canada;CAD;0
+EUR_SloStStephenDay;20161226;00:00;St. Stephen Day;Slovakia;EUR;0
+EUR_AusStStephenDay;20161226;00:00;St. Stephen Day;Austria;EUR;0
+NZD_BoxingDay;20161226;00:00;Boxing Day;New Zealand;NZD;0
+EUR_NetStStephensDay;20161226;00:00;St Stephens Day;Netherlands, The;EUR;0
+RON_BoxingDay;20161226;00:00;Boxing Day;Romania;RON;0
+CZK_StStephenDay;20161226;00:00;St. Stephen Day;Czech Republic;CZK;0
+DKK_SecondDayofChristmas;20161226;00:00;Second Day of Christmas ;Denmark;DKK;0
+ZAR_DayOfGoodwill;20161226;00:00;Day Of Goodwill;South Africa;ZAR;0
+EUR_ItaStStephenDay;20161226;00:00;St Stephen Day;Italy;EUR;0
+SGD_ChristmasDay;20161226;00:00;Christmas Day;Singapore;SGD;0
+KRW_ChristmasDay;20161226;00:00;Christmas Day ;South Korea;KRW;0
+HUF_SecondDayofChristmas;20161226;00:00;Second Day of Christmas ;Hungary;HUF;0
+AUD_BoxingDay;20161226;00:00;Boxing Day ;Australia;AUD;0
+SEK_SecondDayofChristmas;20161226;00:00;Second Day of Christmas;Sweden;SEK;0
+USD_ChristmasDay;20161226;00:00;Christmas Day (observed);United States;USD;0

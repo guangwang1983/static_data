@@ -1,0 +1,55 @@
+KRW_S&PGlobalManufacturingPMI;20150901;00:00;S&P Global Manufacturing PMI;South Korea;KRW;1
+KRW_TradeBalance;20150901;00:00;Trade Balance;South Korea;KRW;1
+CNY_NonManufacturingPMI;20150901;01:00;Non-Manufacturing PMI;China;CNY;2
+CNY_NBSManufacturingPMI;20150901;01:00;NBS Manufacturing PMI;China;CNY;2
+AUD_CurrentAccount;20150901;01:30;Current Account Balance;Australia;AUD;1
+AUD_BuildingPermits;20150901;01:30;Building Permits (YoY);Australia;AUD;1
+JPY_JibunBankManufacturingPMI;20150901;01:35;Jibun Bank Manufacturing PMI;Japan;JPY;1
+CNY_CaixinServicesPMI;20150901;01:45;Caixin Services PMI;China;CNY;2
+CNY_CaixinManufacturingPMI;20150901;01:45;Caixin Manufacturing PMI;China;CNY;2
+IDR_Inflation;20150901;04:00;Inflation (MoM);Indonesia;IDR;1
+IDR_CoreInflation;20150901;04:00;Core Inflation (YoY);Indonesia;IDR;1
+AUD_RBAInterestRateDecision;20150901;04:30;RBA Interest Rate Decision;Australia;AUD;3
+AUD_RBARateStatement;20150901;04:30;RBA Rate Statement;Australia;AUD;3
+JPY_VehicleSales;20150901;05:00;Vehicle Sales (YoY);Japan;JPY;1
+RUB_S&PGlobalManufacturingPMI;20150901;06:00;S&P Global Manufacturing PMI;Russia;RUB;1
+AUD_RBACommodityIndexSDR;20150901;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+SEK_PurchasingManagersIndexManufacturing;20150901;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;2
+HUF_PurchasingManagerIndex;20150901;07:00;Purchasing Manager Index;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20150901;07:00;Purchasing Manager Index;Poland;PLN;2
+CHF_SVMEPurchasingManagers'Index;20150901;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_S&PGlobalPMI;20150901;07:30;S&P Global PMI;Czech Republic;CZK;1
+EUR_ItaHCOBManufacturingPMI;20150901;07:45;HCOB Manufacturing PMI;Italy;EUR;1
+EUR_FraHCOBManufacturingPMI;20150901;07:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerUnemploymentRate;20150901;07:55;Unemployment Rate s.a.;Germany;EUR;2
+EUR_GerUnemploymentChange;20150901;07:55;Unemployment Change;Germany;EUR;2
+EUR_GerHCOBManufacturingPMI;20150901;07:55;HCOB Manufacturing PMI;Germany;EUR;2
+TRY_Exports;20150901;08:00;Exports;Turkey;TRY;1
+EUR_ItaUnemployment;20150901;08:00;Unemployment;Italy;EUR;2
+EUR_EurHCOBManufacturingPMI;20150901;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+GBP_NetLendingtoIndividuals;20150901;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20150901;08:30;Consumer Credit;United Kingdom;GBP;2
+GBP_MortgageApprovals;20150901;08:30;Mortgage Approvals;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSManufacturingPMI;20150901;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+GBP_M4MoneySupply;20150901;08:30;M4 Money Supply (MoM);United Kingdom;GBP;1
+ZAR_TotalNewVehicleSales;20150901;09:00;Total New Vehicle Sales;South Africa;ZAR;1
+EUR_EurUnemploymentRate;20150901;09:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_ItaGrossDomesticProduct;20150901;09:00;Gross Domestic Product (QoQ);Italy;EUR;1
+CZK_BudgetBalance;20150901;12:00;Budget Balance;Czech Republic;CZK;1
+CAD_GrossDomesticProduct;20150901;12:30;Gross Domestic Product Annualized;Canada;CAD;2
+USD_RedbookIndex;20150901;12:55;Redbook Index (YoY);United States;USD;1
+BRL_S&PGlobalManufacturingPMI;20150901;13:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+CAD_S&PGlobalManufacturingPMI;20150901;13:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20150901;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_IBDTIPPEconomicOptimism;20150901;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+USD_ISMManufacturingPMI;20150901;14:00;ISM Manufacturing PMI;United States;USD;2
+USD_ISMManufacturingPricesPaid;20150901;14:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ConstructionSpending;20150901;14:00;Construction Spending (MoM);United States;USD;2
+NZD_GDTPriceIndex;20150901;14:53;GDT Price Index;New Zealand;NZD;1
+USD_Auction;20150901;15:30;4-Week Bill Auction;United States;USD;1
+USD_TotalVehicleSales;20150901;17:30;Total Vehicle Sales;United States;USD;1
+BRL_TradeBalance;20150901;18:00;Trade Balance;Brazil;BRL;1
+USD_APIWeeklyCrudeOilStock;20150901;21:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_CurrentAccount;20150901;23:00;Current Account Balance;South Korea;KRW;1
+AUD_CentralBankSpeech;20150901;23:30;RBA Governor Stevens speech;Australia;AUD;3
+JPY_MonetaryBase;20150901;23:50;Monetary Base (YoY);Japan;JPY;1

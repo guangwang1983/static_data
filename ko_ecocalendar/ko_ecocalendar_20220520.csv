@@ -1,0 +1,23 @@
+CNY_PBoCInterestRateDecision;20220520;01:15;PBoC Interest Rate Decision;China;CNY;3
+NZD_CreditCardSpending;20220520;03:00;Credit Card Spending (YoY);New Zealand;NZD;1
+GBP_RetailSales;20220520;06:00;Retail Sales ex-Fuel (MoM);United Kingdom;GBP;2
+DKK_ConsumerConfidence;20220520;06:00;Consumer Confidence;Denmark;DKK;1
+EUR_GerProducerPriceIndex;20220520;06:00;Producer Price Index (MoM);Germany;EUR;2
+CHF_IndustrialProduction;20220520;06:30;Industrial Production (YoY);Switzerland;CHF;2
+TRY_ConsumerConfidence;20220520;07:00;Consumer Confidence;Turkey;TRY;1
+GBP_CentralBankSpeech;20220520;07:30;BoE Pill speech;United Kingdom;GBP;2
+PLN_IndustrialOutput;20220520;08:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20220520;08:00;Producer Price Index (YoY);Poland;PLN;1
+PLN_CorporateSectorWages;20220520;08:00;Corporate Sector Wages;Poland;PLN;1
+EUR_EurCentralBankSpeech;20220520;12:00;ECB Lane speech;European Monetary Union;EUR;2
+INR_BankLoanGrowth;20220520;13:00;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20220520;13:00;FX Reserves, USD;India;INR;1
+EUR_EurConsumerConfidence;20220520;14:00;Consumer Confidence;European Monetary Union;EUR;2
+USD_BakerHughesUSOilRigCount;20220520;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20220520;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20220520;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+JPY_CFTCJPYNCNetPositions;20220520;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+GBP_CFTCGBPNCNetPositions;20220520;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20220520;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20220520;19:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20220520;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1

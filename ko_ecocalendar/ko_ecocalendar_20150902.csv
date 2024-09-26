@@ -1,0 +1,25 @@
+NZD_ANZCommodityPrice;20150902;01:00;ANZ Commodity Price;New Zealand;NZD;1
+AUD_GrossDomesticProduct;20150902;01:30;Gross Domestic Product (YoY);Australia;AUD;2
+SEK_CurrentAccount;20150902;07:30;Current Account (QoQ);Sweden;SEK;1
+GBP_S&PGlobalConstructionPMI;20150902;08:30;S&P Global Construction PMI;United Kingdom;GBP;2
+EUR_EurProducerPriceIndex;20150902;09:00;Producer Price Index (MoM);European Monetary Union;EUR;2
+NOK_CurrentAccount;20150902;09:00;Current Account;Norway;NOK;1
+PLN_NBPBaserate;20150902;10:46;NBP Base rate;Poland;PLN;1
+USD_MBAMortgageApplications;20150902;11:00;MBA Mortgage Applications;United States;USD;1
+BRL_IndustrialOutput;20150902;12:00;Industrial Output (MoM);Brazil;BRL;1
+USD_ADPEmploymentChange;20150902;12:15;ADP Employment Change;United States;USD;2
+USD_NonfarmProductivity;20150902;12:30;Nonfarm Productivity;United States;USD;2
+USD_UnitLaborCosts;20150902;12:30;Unit Labor Costs;United States;USD;1
+INR_M3MoneySupply;20150902;12:59;M3 Money Supply;India;INR;1
+BRL_FipeIPCInflation;20150902;13:00;Fipe IPC Inflation;Brazil;BRL;1
+USD_ISMNYBusinessConditionsIndex;20150902;13:45;ISM-NY Business Conditions Index;United States;USD;1
+DKK_CurrencyReserves;20150902;14:00;Currency Reserves;Denmark;DKK;1
+USD_FactoryOrders;20150902;14:00;Factory Orders (MoM);United States;USD;2
+USD_EIACrudeOilStocksChange;20150902;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_FedBeigeBook;20150902;18:00;Fed Beige Book;United States;USD;2
+KRW_FXReserves;20150902;21:00;FX Reserves;South Korea;KRW;1
+KRW_GrossDomesticProduct;20150902;23:00;Gross Domestic Product Growth (QoQ) ;South Korea;KRW;1
+BRL_InterestRateDecision;20150902;23:24;Interest Rate Decision;Brazil;BRL;1
+AUD_AiGPerformanceofServicesIndex;20150902;23:30;AiG Performance of Services Index;Australia;AUD;1
+JPY_ForeignInvestmentinJapanStocks;20150902;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20150902;23:50;Foreign Bond Investment;Japan;JPY;2

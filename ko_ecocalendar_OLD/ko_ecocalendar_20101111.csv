@@ -1,0 +1,13 @@
+EUR_EurECBMonthlyReport;20101111;09:00;ECB Monthly Report;European Monetary Union;EUR;2
+CNY_M2MoneySupply;20101111;06:30;M2 Money Supply (YoY);China;CNY;1
+CNY_ConsumerPriceIndex;20101111;02:00;Consumer Price Index (YoY);China;CNY;2
+CNY_IndustrialProduction;20101111;02:00;Industrial Production (YoY);China;CNY;2
+CNY_RetailSales;20101111;02:00;Retail Sales (YoY);China;CNY;2
+CNY_FixedAssetInvestment;20101111;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;2
+CNY_ProducerPriceIndex;20101111;02:00;Producer Price Index (YoY);China;CNY;2
+AUD_UnemploymentRate;20101111;00:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_EmploymentChange;20101111;00:30;Employment Change s.a.;Australia;AUD;3
+CAD_RemembranceDay;20101111;00:00;Remembrance Day;Canada;CAD;0
+AUD_ConsumerInflationExpectations;20101111;00:00;Consumer Inflation Expectations;Australia;AUD;1
+EUR_EurG20Meeting;20101111;00:00;G20 Meeting;European Monetary Union;EUR;2
+USD_VeteransDay;20101111;00:00;Veterans Day;United States;USD;0

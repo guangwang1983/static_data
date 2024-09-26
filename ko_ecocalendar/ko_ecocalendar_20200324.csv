@@ -1,0 +1,41 @@
+EUR_EurG7Meeting;20200324;00:00;G7 Meeting;European Monetary Union;EUR;3
+JPY_JibunBankManufacturingPMI;20200324;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+JPY_CoincidentIndex;20200324;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20200324;05:00;Leading Economic Index;Japan;JPY;2
+EUR_FraHCOBManufacturingPMI;20200324;08:15;HCOB Manufacturing PMI;France;EUR;2
+EUR_FraHCOBCompositePMI;20200324;08:15;HCOB Composite PMI;France;EUR;2
+EUR_FraHCOBServicesPMI;20200324;08:15;HCOB Services PMI;France;EUR;2
+GBP_FPCStatement;20200324;08:30;FPC Statement;United Kingdom;GBP;1
+EUR_GerHCOBCompositePMI;20200324;08:30;HCOB Composite PMI;Germany;EUR;3
+EUR_GerHCOBManufacturingPMI;20200324;08:30;HCOB Manufacturing PMI;Germany;EUR;3
+EUR_GerHCOBServicesPMI;20200324;08:30;HCOB Services PMI;Germany;EUR;2
+PLN_Unemployment;20200324;09:00;Unemployment (MoM);Poland;PLN;1
+EUR_GerConstitutionalCourtRulingonECBQELegality;20200324;09:00;Constitutional Court Ruling on ECB QE Legality;Germany;EUR;2
+EUR_EurHCOBCompositePMI;20200324;09:00;HCOB Composite PMI;European Monetary Union;EUR;3
+EUR_EurHCOBServicesPMI;20200324;09:00;HCOB Services PMI;European Monetary Union;EUR;2
+EUR_EurHCOBManufacturingPMI;20200324;09:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+GBP_S&PGlobalCIPSManufacturingPMI;20200324;09:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSServicesPMI;20200324;09:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;3
+GBP_S&PGlobalCIPSCompositePMI;20200324;09:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;2
+GBP_FPCMeetingMinutes;20200324;09:30;FPC Meeting Minutes;United Kingdom;GBP;1
+GBP_CBIIndustrialTrendsSurvey–Orders;20200324;11:00;CBI Industrial Trends Survey – Orders (MoM);United Kingdom;GBP;1
+INR_M3MoneySupply;20200324;11:30;M3 Money Supply;India;INR;1
+BRL_RetailSales;20200324;12:00;Retail Sales (MoM);Brazil;BRL;1
+MXN_1sthalfmonthInflation;20200324;12:00;1st half-month Inflation;Mexico;MXN;1
+MXN_1sthalfmonthCoreInflation;20200324;12:00;1st half-month Core Inflation;Mexico;MXN;1
+USD_RedbookIndex;20200324;12:55;Redbook Index (YoY);United States;USD;1
+HUF_MNBInterestRateDecision;20200324;13:00;MNB Interest Rate Decision;Hungary;HUF;1
+USD_S&PGlobalCompositePMI;20200324;13:45;S&P Global Composite PMI;United States;USD;3
+USD_S&PGlobalServicesPMI;20200324;13:45;S&P Global Services PMI;United States;USD;3
+USD_S&PGlobalManufacturingPMI;20200324;13:45;S&P Global Manufacturing PMI;United States;USD;3
+USD_NewHomeSales;20200324;14:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20200324;14:00;New Home Sales Change (MoM);United States;USD;1
+USD_RichmondFedManufacturingIndex;20200324;14:00;Richmond Fed Manufacturing Index;United States;USD;2
+USD_Auction;20200324;17:00;2-Year Note Auction;United States;USD;1
+IDR_HariRayaNyepi;20200324;17:00;Hari Raya Nyepi;Indonesia;IDR;0
+USD_APIWeeklyCrudeOilStock;20200324;20:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_CentralBankSpeech;20200324;21:30;President Trump speech;United States;USD;2
+NZD_Imports;20200324;21:45;Imports;New Zealand;NZD;1
+NZD_Exports;20200324;21:45;Exports;New Zealand;NZD;2
+NZD_TradeBalanceNZD;20200324;21:45;Trade Balance NZD (YoY);New Zealand;NZD;2
+JPY_BoJSummaryofOpinions;20200324;23:50;BoJ Summary of Opinions;Japan;JPY;1

@@ -1,0 +1,39 @@
+EUR_EurG7Meeting;20201207;00:00;G7 Meeting;European Monetary Union;EUR;3
+AUD_ANZJobAdvertisements;20201207;00:30;ANZ Job Advertisements;Australia;AUD;1
+CNY_Exports;20201207;02:00;Exports (YoY);China;CNY;2
+CNY_Imports;20201207;02:00;Imports (YoY) CNY;China;CNY;1
+CNY_TradeBalanceUSD;20201207;02:00;Trade Balance USD;China;CNY;2
+CNY_TradeBalanceCNY;20201207;02:00;Trade Balance CNY;China;CNY;1
+JPY_CoincidentIndex;20201207;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20201207;05:00;Leading Economic Index;Japan;JPY;2
+ZAR_Gross$Gold&ForexReserve;20201207;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+ZAR_Net$Gold&ForexReserve;20201207;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+EUR_GerIndustrialProduction;20201207;07:00;Industrial Production s.a. (MoM);Germany;EUR;2
+DKK_IndustrialProduction;20201207;07:00;Industrial Production (MoM);Denmark;DKK;1
+NOK_ManufacturingOutput;20201207;07:00;Manufacturing Output;Norway;NOK;1
+CZK_RetailSales;20201207;08:00;Retail Sales (YoY);Czech Republic;CZK;1
+CHF_ForeignCurrencyReserves;20201207;08:09;Foreign Currency Reserves;Switzerland;CHF;1
+SEK_IndustrialProductionValue;20201207;08:30;Industrial Production Value (MoM);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20201207;08:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+SEK_CurrentAccount;20201207;08:30;Current Account (QoQ);Sweden;SEK;1
+GBP_HalifaxHousePrices;20201207;08:30;Halifax House Prices (MoM);United Kingdom;GBP;1
+EUR_EurSentixInvestorConfidence;20201207;09:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+ILS_BudgetBalanceILS;20201207;09:50;Budget Balance - ILS;Israel;ILS;1
+CNY_ForeignExchangeReserves;20201207;09:55;Foreign Exchange Reserves (MoM);China;CNY;1
+CLP_TradeBalance;20201207;12:30;Trade Balance;Chile;CLP;1
+ILS_FXReserves;20201207;12:32;FX Reserves;Israel;ILS;1
+CLP_ConsumerPriceIndex;20201207;12:36;Core Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+PLN_CentralBankFXReserves;20201207;13:00;Central Bank FX Reserves;Poland;PLN;1
+CAD_IveyPurchasingManagersIndex;20201207;15:00;Ivey Purchasing Managers Index;Canada;CAD;2
+TRY_TreasuryCashBalance;20201207;15:30;Treasury Cash Balance;Turkey;TRY;1
+USD_Auction;20201207;16:30;3-Month Bill Auction;United States;USD;1
+USD_ConsumerCreditChange;20201207;20:00;Consumer Credit Change;United States;USD;1
+RON_ConstitutionDay;20201207;21:00;Constitution Day;Romania;RON;0
+EUR_ItaImmaculateConceptionDay;20201207;22:00;Immaculate Conception Day;Italy;EUR;0
+CLP_BCCHInterestRate;20201207;22:00;BCCH Interest Rate;Chile;CLP;1
+JPY_LaborCashEarnings;20201207;23:30;Labor Cash Earnings (YoY);Japan;JPY;1
+JPY_OverallHouseholdSpending;20201207;23:30;Overall Household Spending (YoY);Japan;JPY;2
+JPY_BankLending;20201207;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_GrossDomesticProduct;20201207;23:50;Gross Domestic Product Deflator (YoY);Japan;JPY;1
+JPY_TradeBalanceBOPBasis;20201207;23:50;Trade Balance - BOP Basis;Japan;JPY;1
+JPY_CurrentAccount;20201207;23:50;Current Account n.s.a.;Japan;JPY;2

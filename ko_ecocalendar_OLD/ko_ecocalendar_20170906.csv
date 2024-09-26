@@ -1,0 +1,35 @@
+JPY_JPForeignReserves;20170906;23:50;JP Foreign Reserves;Japan;JPY;1
+JPY_ForeignBondInvestment;20170906;23:50;Foreign Bond Investment;Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20170906;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+AUD_AiGPerformanceofConstructionIndex;20170906;23:30;AiG Performance of Construction Index;Australia;AUD;2
+USD_APIWeeklyCrudeOilStock;20170906;20:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_FedBeigeBook;20170906;18:00;Fed Beige Book;United States;USD;2
+BRL_InterestRateDecision;20170906;17:00;Interest Rate Decision;Brazil;BRL;1
+USD_ISMNonManufacturingPMI;20170906;14:00;ISM Non-Manufacturing PMI;United States;USD;2
+CAD_BoCInterestRateDecision;20170906;14:00;BoC Interest Rate Decision;Canada;CAD;3
+CAD_BoCRateStatement;20170906;14:00;BoC Rate Statement;Canada;CAD;3
+USD_MarkitServicesPMI;20170906;13:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20170906;13:45;Markit PMI Composite;United States;USD;2
+USD_RedbookIndex;20170906;12:55;Redbook Index (MoM);United States;USD;1
+CAD_LaborProductivity;20170906;12:30;Labor Productivity (QoQ);Canada;CAD;1
+USD_TradeBalance;20170906;12:30;Trade Balance;United States;USD;2
+CAD_Imports;20170906;12:30;Imports;Canada;CAD;1
+CAD_Exports;20170906;12:30;Exports;Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20170906;12:30;International Merchandise Trade;Canada;CAD;1
+BRL_IPCAInflation;20170906;12:00;IPCA Inflation;Brazil;BRL;1
+PLN_NBPBaserate;20170906;12:00;NBP Base rate;Poland;PLN;1
+USD_MBAMortgageApplications;20170906;11:00;MBA Mortgage Applications;United States;USD;1
+ZAR_BusinessConfidenceIndex;20170906;09:30;Business Confidence Index;South Africa;ZAR;1
+EUR_ItaRetailSales;20170906;08:00;Retail Sales s.a. (MoM);Italy;EUR;1
+SEK_IndustrialProduction;20170906;07:30;Industrial Production (YoY);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20170906;07:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+HUF_IndustrialOutput;20170906;07:00;Industrial Output (YoY);Hungary;HUF;1
+EUR_AusWholesalePrices;20170906;07:00;Wholesale Prices n.s.a (MoM);Austria;EUR;1
+CZK_IndustrialProduction;20170906;07:00;Industrial Production (YoY);Czech Republic;CZK;1
+CZK_Constructionoutput;20170906;07:00;Construction output (YoY);Czech Republic;CZK;1
+CZK_ForeignTradeBalance;20170906;07:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+NOK_CurrentAccount;20170906;06:00;Current Account;Norway;NOK;1
+EUR_GerFactoryOrders;20170906;06:00;Factory Orders s.a. (MoM);Germany;EUR;1
+AUD_GrossDomesticProduct;20170906;01:30;Gross Domestic Product (YoY);Australia;AUD;2
+JPY_LaborCashEarnings;20170906;00:00;Labor Cash Earnings (YoY);Japan;JPY;1
+COP_ConsumerPriceIndex;20170906;00:00;Consumer Price Index (YoY);Colombia;COP;1

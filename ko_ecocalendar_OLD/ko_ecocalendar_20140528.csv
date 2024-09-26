@@ -1,0 +1,40 @@
+JPY_ForeignBondInvestment;20140528;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20140528;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_LargeRetailers'Sales;20140528;23:50;Large Retailers' Sales;Japan;JPY;2
+JPY_RetailTrade;20140528;23:50;Retail Trade (YoY);Japan;JPY;2
+KRW_CurrentAccount;20140528;23:00;Current Account Balance;South Korea;KRW;1
+BRL_InterestRateDecision;20140528;20:00;Interest Rate Decision;Brazil;BRL;1
+USD_Auction;20140528;17:00;5-Year Note Auction;United States;USD;1
+USD_RedbookIndex;20140528;12:55;Redbook Index (YoY);United States;USD;1
+USD_MBAMortgageApplications;20140528;11:00;MBA Mortgage Applications;United States;USD;1
+EUR_IreRetailSales;20140528;10:00;Retail Sales (MoM);Ireland;EUR;1
+GBP_CBIDistributiveTradesSurveyRealized;20140528;10:00;CBI Distributive Trades Survey - Realized (MoM);United Kingdom;GBP;1
+EUR_GerAuction;20140528;09:35;30-y Bond Auction;Germany;EUR;1
+EUR_SpaHousePriceIndex;20140528;09:00;House Price Index (QoQ);Spain;EUR;1
+ISK_ConsumerPriceIndex;20140528;09:00;Consumer Price Index (YoY);Iceland;ISK;1
+EUR_EurConsumerConfidence;20140528;09:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurBusinessClimate;20140528;09:00;Business Climate;European Monetary Union;EUR;2
+EUR_EurEconomicSentimentIndicator;20140528;09:00;Economic Sentiment Indicator;European Monetary Union;EUR;2
+EUR_EurServicesSentiment;20140528;09:00;Services Sentiment;European Monetary Union;EUR;1
+EUR_EurIndustrialConfidence;20140528;09:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_PorBusinessConfidence;20140528;08:30;Business Confidence;Portugal;EUR;1
+EUR_PorConsumerConfidence;20140528;08:30;Consumer Confidence;Portugal;EUR;1
+EUR_ItaBusinessConfidence;20140528;08:00;Business Confidence;Italy;EUR;1
+EUR_EurPrivateLoans;20140528;08:00;Private Loans (YoY);European Monetary Union;EUR;1
+EUR_EurM3MoneySupply;20140528;08:00;M3 Money Supply (YoY);European Monetary Union;EUR;1
+NOK_RetailSales;20140528;08:00;Retail Sales ;Norway;NOK;1
+EUR_GerUnemploymentChange;20140528;07:55;Unemployment Change;Germany;EUR;3
+EUR_GerUnemploymentRate;20140528;07:55;Unemployment Rate s.a.;Germany;EUR;3
+DKK_IndustrialOutlook;20140528;07:00;Industrial Outlook;Denmark;DKK;1
+HUF_ProducerPriceIndex;20140528;07:00;Producer Price Index (YoY);Hungary;HUF;1
+EUR_SpaRetailSales;20140528;07:00;Retail Sales (YoY);Spain;EUR;1
+EUR_FraProducerPrices;20140528;06:45;Producer Prices (MoM);France;EUR;1
+EUR_FraConsumerSpending;20140528;06:45;Consumer Spending (MoM);France;EUR;1
+EUR_GerImportPriceIndex;20140528;06:00;Import Price Index (YoY);Germany;EUR;1
+CHF_UBSConsumptionIndicator;20140528;06:00;UBS Consumption Indicator;Switzerland;CHF;2
+CHF_GrossDomesticProduct;20140528;05:45;Gross Domestic Product (YoY);Switzerland;CHF;3
+AUD_ConstructionWorkDone;20140528;01:30;Construction Work Done;Australia;AUD;1
+NZD_ANZActivityOutlook;20140528;01:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20140528;01:00;ANZ Business Confidence;New Zealand;NZD;2
+AUD_WestpacLeadingIndex;20140528;00:30;Westpac Leading Index (MoM);Australia;AUD;1
+JPY_CentralBankSpeech;20140528;00:00;BoJ Governor Kuroda speech;Japan;JPY;2

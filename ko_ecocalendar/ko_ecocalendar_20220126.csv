@@ -1,0 +1,35 @@
+NZD_CreditCardSpending;20220126;02:00;Credit Card Spending (YoY);New Zealand;NZD;1
+JPY_CoincidentIndex;20220126;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20220126;05:00;Leading Economic Index;Japan;JPY;1
+DKK_RetailSales;20220126;07:00;Retail Sales (YoY);Denmark;DKK;1
+SEK_ProducerPriceIndex;20220126;07:00;Producer Price Index (YoY);Sweden;SEK;1
+SEK_TradeBalance;20220126;07:00;Trade Balance (MoM);Sweden;SEK;1
+EUR_FraConsumerConfidence;20220126;07:45;Consumer Confidence;France;EUR;1
+CHF_ZEWSurvey–Expectations;20220126;09:00;ZEW Survey – Expectations;Switzerland;CHF;2
+EUR_ItaTradeBalancenonEU;20220126;09:00;Trade Balance non-EU;Italy;EUR;1
+PLN_Unemployment;20220126;09:00;Unemployment (MoM);Poland;PLN;1
+EUR_GerAuction;20220126;10:30;10-y Bond Auction;Germany;EUR;2
+MXN_RetailSales;20220126;12:00;Retail Sales (MoM);Mexico;MXN;1
+USD_MBAMortgageApplications;20220126;12:00;MBA Mortgage Applications;United States;USD;1
+BRL_MidmonthInflation;20220126;12:00;Mid-month Inflation;Brazil;BRL;1
+BRL_CurrentAccount;20220126;12:30;Current Account;Brazil;BRL;1
+PLN_M3MoneySupply;20220126;13:00;M3 Money Supply (YoY);Poland;PLN;1
+USD_WholesaleInventories;20220126;13:30;Wholesale Inventories;United States;USD;1
+USD_GoodsTradeBalance;20220126;13:30;Goods Trade Balance;United States;USD;1
+CAD_BankofCanadaMonetaryPolicyReport;20220126;15:00;Bank of Canada Monetary Policy Report;Canada;CAD;3
+USD_NewHomeSales;20220126;15:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20220126;15:00;New Home Sales Change (MoM);United States;USD;1
+CAD_BoCRateStatement;20220126;15:00;BoC Rate Statement;Canada;CAD;3
+CAD_BoCInterestRateDecision;20220126;15:00;BoC Interest Rate Decision;Canada;CAD;3
+USD_EIACrudeOilStocksChange;20220126;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+CAD_BoCPressConference;20220126;16:00;BoC Press Conference;Canada;CAD;3
+RUB_ProducerPriceIndex;20220126;16:00;Producer Price Index (MoM);Russia;RUB;1
+USD_FedMonetaryPolicyStatement;20220126;19:00;Fed Monetary Policy Statement;United States;USD;3
+USD_FedInterestRateDecision;20220126;19:00;Fed Interest Rate Decision;United States;USD;3
+USD_FOMCPressConference;20220126;19:30;FOMC Press Conference;United States;USD;3
+KRW_BOKManufacturingBSI;20220126;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+NZD_ConsumerPriceIndex;20220126;21:45;Consumer Price Index (QoQ);New Zealand;NZD;2
+CLP_BCCHInterestRate;20220126;22:00;BCCH Interest Rate;Chile;CLP;1
+AUD_WestpacLeadingIndex;20220126;23:30;Westpac Leading Index (MoM);Australia;AUD;1
+JPY_ForeignInvestmentinJapanStocks;20220126;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20220126;23:50;Foreign Bond Investment;Japan;JPY;1

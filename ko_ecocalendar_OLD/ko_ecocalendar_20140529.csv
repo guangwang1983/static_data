@@ -1,0 +1,45 @@
+JPY_IndustrialProduction;20140529;23:50;Industrial Production (MoM);Japan;JPY;2
+JPY_TokyoCPIexFreshFood;20140529;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;3
+JPY_TokyoCPIexFoodEnergy;20140529;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;3
+JPY_ConsumerPriceIndex;20140529;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;3
+JPY_NationalCPIexFoodEnergy;20140529;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;3
+JPY_NationalCPIexFreshFood;20140529;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;3
+JPY_JobsApplicantsRatio;20140529;23:30;Jobs / Applicants Ratio;Japan;JPY;1
+JPY_UnemploymentRate;20140529;23:30;Unemployment Rate;Japan;JPY;2
+JPY_OverallHouseholdSpending;20140529;23:30;Overall Household Spending (YoY);Japan;JPY;2
+GBP_GfKConsumerConfidence;20140529;23:05;GfK Consumer Confidence;United Kingdom;GBP;2
+GBP_HometrackHousingPrices;20140529;23:01;Hometrack Housing Prices s.a (MoM);United Kingdom;GBP;1
+KRW_IndustrialOutputGrowth;20140529;23:00;Industrial Output Growth;South Korea;KRW;1
+KRW_IndustrialOutput;20140529;23:00;Industrial Output (YoY);South Korea;KRW;1
+KRW_ServiceSectorOutput;20140529;23:00;Service Sector Output;South Korea;KRW;1
+NZD_BuildingPermits;20140529;22:45;Building Permits s.a. (MoM);New Zealand;NZD;1
+KRW_BOKManufacturingBSI;20140529;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+USD_Auction;20140529;17:00;7-Year Note Auction;United States;USD;1
+USD_EIACrudeOilStocksChange;20140529;15:00;EIA Crude Oil Stocks Change;United States;USD;1
+USD_EIANaturalGasStorageChange;20140529;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_PendingHomeSales;20140529;14:00;Pending Home Sales (YoY);United States;USD;2
+CAD_CurrentAccount;20140529;12:30;Current Account;Canada;CAD;1
+USD_JoblessClaims;20140529;12:30;Initial Jobless Claims;United States;USD;2
+USD_GrossDomesticProduct;20140529;12:30;Gross Domestic Product Annualized;United States;USD;3
+USD_CorePersonalConsumptionExpenditures;20140529;12:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+USD_PersonalConsumptionExpendituresPrices;20140529;12:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+RUB_CentralBankReserves;20140529;11:00;Central Bank Reserves $;Russia;RUB;1
+BRL_InflationIndexIGPM;20140529;11:00;Inflation Index/IGP-M;Brazil;BRL;1
+EUR_ItaAuction;20140529;09:43;10-y Bond Auction;Italy;EUR;1
+ZAR_ProducerPriceIndex;20140529;09:30;Producer Price Index (MoM);South Africa;ZAR;1
+HUF_UnemploymentRate;20140529;07:00;Unemployment Rate (3M);Hungary;HUF;1
+EUR_SpaGrossDomesticProduct;20140529;07:00;Gross Domestic Product (QoQ);Spain;EUR;1
+AUD_PrivateCapitalExpenditure;20140529;01:30;Private Capital Expenditure;Australia;AUD;2
+AUD_HIANewHomeSales;20140529;01:00;HIA New Home Sales (MoM);Australia;AUD;2
+EUR_GerAscensionDay;20140529;00:00;Ascension Day;Germany;EUR;0
+EUR_BelAscensionDay;20140529;00:00;Ascension Day;Belgium;EUR;0
+EUR_AusAscensionDay;20140529;00:00;Ascension Day;Austria;EUR;0
+EUR_FraAscensionDay;20140529;00:00;Ascension Day ;France;EUR;0
+SEK_AscensionDay;20140529;00:00;Ascension Day;Sweden;SEK;0
+DKK_AscensionDay;20140529;00:00;Ascension Day ;Denmark;DKK;0
+NOK_AscensionDay;20140529;00:00;Ascension Day;Norway;NOK;0
+EUR_FinAscensionDay;20140529;00:00;Ascension Day;Finland;EUR;0
+ISK_AscensionDay;20140529;00:00;Ascension Day ;Iceland;ISK;0
+EUR_NetAscensionDay;20140529;00:00;Ascension Day;Netherlands, The;EUR;0
+CHF_AscensionDay;20140529;00:00;Ascension Day;Switzerland;CHF;0
+IDR_AscensionDay;20140529;00:00;Ascension Day;Indonesia;IDR;0

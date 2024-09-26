@@ -1,0 +1,33 @@
+GBP_RightmoveHousePriceIndex;20211115;00:01;Rightmove House Price Index (MoM);United Kingdom;GBP;1
+AUD_CentralBankSpeech;20211115;00:30;RBA Ellis speech;Australia;AUD;2
+CNY_HousePriceIndex;20211115;01:30;House Price Index ;China;CNY;1
+CNY_RetailSales;20211115;02:00;Retail Sales (YoY);China;CNY;3
+CNY_IndustrialProduction;20211115;02:00;Industrial Production (YoY);China;CNY;2
+CNY_NBSPressConference;20211115;02:00;NBS Press Conference;China;CNY;2
+CNY_FixedAssetInvestment;20211115;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+JPY_IndustrialProduction;20211115;04:30;Industrial Production (MoM);Japan;JPY;1
+JPY_CapacityUtilization;20211115;04:30;Capacity Utilization;Japan;JPY;1
+MXN_RevolutionDay;20211115;06:00;Revolution Day ;Mexico;MXN;0
+CNY_FDIForeignDirectInvestment;20211115;07:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+NOK_TradeBalance;20211115;07:00;Trade Balance;Norway;NOK;1
+TRY_BudgetBalance;20211115;08:00;Budget Balance;Turkey;TRY;1
+SEK_ConsumerPriceIndex;20211115;08:30;Consumer Price Index (MoM);Sweden;SEK;1
+PLN_ConsumerPriceIndex;20211115;09:00;Consumer Price Index (MoM);Poland;PLN;1
+CZK_CurrentAccount;20211115;09:00;Current Account (MoM);Czech Republic;CZK;1
+GBP_CentralBankSpeech;20211115;09:30;BoE Haskel speech;United Kingdom;GBP;2
+EUR_EurTradeBalance;20211115;10:00;Trade Balance n.s.a.;European Monetary Union;EUR;1
+USD_USPresidentBidenandChinesePresidentXisummit;20211115;12:00;US President Biden and Chinese President Xi summit;United States;USD;2
+PLN_CurrentAccount;20211115;13:00;Current Account;Poland;PLN;1
+USD_NYEmpireStateManufacturingIndex;20211115;13:30;NY Empire State Manufacturing Index;United States;USD;1
+GBP_BoEMonetaryPolicyReportHearings;20211115;13:30;BoE Monetary Policy Report Hearings;United Kingdom;GBP;3
+CAD_ManufacturingSales;20211115;13:30;Manufacturing Sales (MoM);Canada;CAD;1
+CAD_WholesaleSales;20211115;13:30;Wholesale Sales (MoM);Canada;CAD;1
+EUR_EurCentralBankSpeech;20211115;15:45;ECB De Guindos speech;European Monetary Union;EUR;2
+USD_Auction;20211115;16:30;6-Month Bill Auction;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20211115;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20211115;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20211115;20:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20211115;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20211115;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20211115;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20211115;20:30;CFTC AUD NC Net Positions;Australia;AUD;1

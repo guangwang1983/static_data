@@ -1,0 +1,15 @@
+USD_ISMNonManufacturingPMI;20080703;14:00;ISM Non-Manufacturing PMI;United States;USD;1
+USD_AverageHourlyEarnings;20080703;12:30;Average Hourly Earnings (MoM);United States;USD;3
+USD_UnemploymentRate;20080703;12:30;Unemployment Rate;United States;USD;3
+USD_NonfarmPayrolls;20080703;12:30;Nonfarm Payrolls;United States;USD;3
+USD_AverageWeeklyHours;20080703;12:30;Average Weekly Hours;United States;USD;3
+USD_JoblessClaims;20080703;12:30;Initial Jobless Claims;United States;USD;1
+EUR_EurCentralBankSpeech;20080703;12:30;ECB President Trichet speech;European Monetary Union;EUR;2
+EUR_EurECBInterestRateDecision;20080703;11:45;ECB Interest Rate Decision;European Monetary Union;EUR;3
+EUR_EurRetailSales;20080703;09:00;Retail Sales (MoM);European Monetary Union;EUR;2
+GBP_MarkitServicesPMI;20080703;08:30;Markit Services PMI;United Kingdom;GBP;1
+SEK_RiksbankInterestRateDecision;20080703;08:00;Riksbank Interest Rate Decision;Sweden;SEK;0
+EUR_EurMarkitServicesPMI;20080703;08:00;Markit Services PMI;European Monetary Union;EUR;1
+EUR_GerMarkitServicesPMI;20080703;07:55;Markit Services PMI;Germany;EUR;1
+CHF_ConsumerPriceIndex;20080703;05:45;Consumer Price Index (YoY);Switzerland;CHF;1
+AUD_TradeBalance;20080703;01:30;Trade Balance;Australia;AUD;1

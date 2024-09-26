@@ -1,0 +1,65 @@
+NZD_ANZActivityOutlook;20240930;01:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20240930;01:00;ANZ Business Confidence;New Zealand;NZD;1
+CNY_NBSNonManufacturingPMI;20240930;01:30;NBS Non-Manufacturing PMI;China;CNY;3
+CNY_NBSManufacturingPMI;20240930;01:30;NBS Manufacturing PMI;China;CNY;3
+AUD_PrivateSectorCredit;20240930;01:30;Private Sector Credit (YoY);Australia;AUD;1
+CNY_CaixinServicesPMI;20240930;01:45;Caixin Services PMI;China;CNY;3
+CNY_CaixinManufacturingPMI;20240930;01:45;Caixin Manufacturing PMI;China;CNY;3
+JPY_AnnualizedHousingStarts;20240930;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_ConstructionOrders;20240930;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_HousingStarts;20240930;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_ConsumerConfidenceIndex;20240930;05:00;Consumer Confidence Index;Japan;JPY;1
+EUR_GerImportPriceIndex;20240930;06:00;Import Price Index (YoY);Germany;EUR;1
+EUR_GerRetailSales;20240930;06:00;Retail Sales (YoY);Germany;EUR;3
+DKK_UnemploymentRate;20240930;06:00;Unemployment Rate;Denmark;DKK;1
+DKK_GrossDomesticProduct;20240930;06:00;Gross Domestic Product (YoY);Denmark;DKK;1
+ZAR_PrivateSectorCredit;20240930;06:00;Private Sector Credit;South Africa;ZAR;1
+ZAR_M3MoneySupply;20240930;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+GBP_GrossDomesticProduct;20240930;06:00;Gross Domestic Product (QoQ);United Kingdom;GBP;3
+GBP_TotalBusinessInvestment;20240930;06:00;Total Business Investment (QoQ);United Kingdom;GBP;1
+GBP_CurrentAccount;20240930;06:00;Current Account;United Kingdom;GBP;1
+SEK_RetailSales;20240930;06:00;Retail Sales (YoY);Sweden;SEK;1
+HUF_ProducerPriceIndex;20240930;06:30;Producer Price Index (YoY);Hungary;HUF;1
+CHF_KOFLeadingIndicator;20240930;07:00;KOF Leading Indicator;Switzerland;CHF;1
+EUR_GerBrandenburgCPI;20240930;08:00;Brandenburg CPI (YoY);Germany;EUR;1
+EUR_GerBavariaCPI;20240930;08:00;Bavaria CPI (MoM);Germany;EUR;1
+EUR_GerSaxonyCPI;20240930;08:00;Saxony CPI (YoY);Germany;EUR;1
+EUR_GerBadenWuerttembergCPI;20240930;08:00;Baden-Wuerttemberg CPI (YoY);Germany;EUR;1
+EUR_GerNorthRhineWestphaliaCPI;20240930;08:00;North Rhine-Westphalia CPI (YoY);Germany;EUR;1
+EUR_GerHesseCPI;20240930;08:00;Hesse CPI (MoM);Germany;EUR;1
+EUR_ItaTradeBalancenonEU;20240930;08:00;Trade Balance non-EU;Italy;EUR;1
+GBP_CentralBankSpeech;20240930;08:10;BoE Greene speech;United Kingdom;GBP;2
+GBP_NetLendingtoIndividuals;20240930;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20240930;08:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20240930;08:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_M4MoneySupply;20240930;08:30;M4 Money Supply (MoM);United Kingdom;GBP;1
+EUR_ItaConsumerPriceIndex;20240930;09:00;Consumer Price Index (YoY);Italy;EUR;2
+INR_FederalFiscalDeficitINR;20240930;10:00;Federal Fiscal Deficit, INR;India;INR;1
+BRL_NominalBudgetBalance;20240930;11:30;Nominal Budget Balance;Brazil;BRL;1
+BRL_PrimaryBudgetSurplus;20240930;11:30;Primary Budget Surplus;Brazil;BRL;1
+EUR_GerHarmonizedIndexofConsumerPrices;20240930;12:00;Harmonized Index of Consumer Prices (MoM);Germany;EUR;2
+EUR_GerConsumerPriceIndex;20240930;12:00;Consumer Price Index (MoM);Germany;EUR;3
+CLP_IndustrialProduction;20240930;12:00;Industrial Production (YoY);Chile;CLP;1
+ZAR_TradeBalance;20240930;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+INR_InfrastructureOutput;20240930;12:00;Infrastructure Output (YoY);India;INR;1
+CLP_Unemploymentrate;20240930;13:00;Unemployment rate;Chile;CLP;1
+USD_ChicagoPurchasingManagers'Index;20240930;13:45;Chicago Purchasing Managers' Index;United States;USD;2
+USD_DallasFedManufacturingBusinessIndex;20240930;14:30;Dallas Fed Manufacturing Business Index;United States;USD;1
+COP_NationalJoblessRate;20240930;15:00;National Jobless Rate;Colombia;COP;1
+USD_Auction;20240930;15:30;6-Month Bill Auction;United States;USD;1
+CNY_NationalDay;20240930;16:00;National Day;China;CNY;0
+USD_GrainStockReport;20240930;16:00;Grain Stock Report;United States;USD;1
+USD_CentralBankSpeech;20240930;17:00;Fed Chair Powell speech;United States;USD;3
+COP_Interestrate;20240930;19:00;Interest rate;Colombia;COP;1
+MXN_FiscalBalancepesos;20240930;21:00;Fiscal Balance, pesos;Mexico;MXN;1
+NZD_BuildingPermits;20240930;21:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+NZD_NZIERBusinessConfidence;20240930;22:00;NZIER Business Confidence (QoQ);New Zealand;NZD;2
+AUD_JudoBankManufacturingPMI;20240930;23:00;Judo Bank Manufacturing PMI;Australia;AUD;1
+JPY_UnemploymentRate;20240930;23:30;Unemployment Rate;Japan;JPY;2
+JPY_JobsApplicantsRatio;20240930;23:30;Jobs / Applicants Ratio;Japan;JPY;1
+JPY_TankanNonManufacturingOutlook;20240930;23:50;Tankan Non - Manufacturing Outlook;Japan;JPY;1
+JPY_TankanLargeManufacturingIndex;20240930;23:50;Tankan Large Manufacturing Index;Japan;JPY;3
+JPY_TankanNonManufacturingIndex;20240930;23:50;Tankan Non - Manufacturing Index;Japan;JPY;1
+JPY_TankanLargeAllIndustryCapex;20240930;23:50;Tankan Large All Industry Capex;Japan;JPY;2
+JPY_TankanLargeManufacturingOutlook;20240930;23:50;Tankan Large Manufacturing Outlook;Japan;JPY;2
+JPY_BoJSummaryofOpinions;20240930;23:50;BoJ Summary of Opinions;Japan;JPY;1

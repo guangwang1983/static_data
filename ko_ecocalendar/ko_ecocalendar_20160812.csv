@@ -1,0 +1,38 @@
+CNY_RetailSales;20160812;02:00;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20160812;02:00;Industrial Production (YoY);China;CNY;2
+CNY_FixedAssetInvestment;20160812;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+EUR_GerWholesalePriceIndex;20160812;06:00;Wholesale Price Index (YoY);Germany;EUR;2
+RON_GrossDomesticProduct;20160812;06:00;Gross Domestic Product;Romania;RON;1
+EUR_GerConsumerPriceIndex;20160812;06:00;Consumer Price Index (YoY);Germany;EUR;3
+EUR_GerHarmonizedIndexofConsumerPrices;20160812;06:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;2
+EUR_GerGrossDomesticProduct;20160812;06:00;Gross Domestic Product (YoY);Germany;EUR;3
+EUR_FraNonfarmPayrolls;20160812;06:45;Nonfarm Payrolls (QoQ);France;EUR;1
+HUF_IndustrialOutput;20160812;07:00;Industrial Output (YoY);Hungary;HUF;1
+HUF_GrossDomesticProduct;20160812;07:00;Gross Domestic Product (YoY);Hungary;HUF;1
+EUR_ItaGrossDomesticProduct;20160812;08:00;Gross Domestic Product (QoQ);Italy;EUR;2
+CZK_CurrentAccount;20160812;08:00;Current Account (MoM);Czech Republic;CZK;1
+EUR_EurGrossDomesticProduct;20160812;09:00;Gross Domestic Product s.a. (QoQ);European Monetary Union;EUR;3
+EUR_EurIndustrialProduction;20160812;09:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;2
+INR_FXReservesUSD;20160812;11:00;FX Reserves, USD;India;INR;1
+PLN_CurrentAccount;20160812;12:00;Current Account;Poland;PLN;1
+INR_TradeDeficitGovernment;20160812;12:00;Trade Deficit Government;India;INR;1
+INR_IndustrialOutput;20160812;12:00;Industrial Output;India;INR;1
+INR_ManufacturingOutput;20160812;12:00;Manufacturing Output;India;INR;1
+INR_CumulativeIndustrialOutput;20160812;12:00;Cumulative Industrial Output;India;INR;1
+PLN_M3MoneySupply;20160812;12:00;M3 Money Supply (YoY);Poland;PLN;1
+USD_RetailSales;20160812;12:30;Retail Sales Control Group;United States;USD;2
+USD_ProducerPriceIndex;20160812;12:30;Producer Price Index (YoY);United States;USD;1
+USD_MichiganConsumerSentimentIndex;20160812;14:00;Michigan Consumer Sentiment Index;United States;USD;1
+USD_BusinessInventories;20160812;14:00;Business Inventories;United States;USD;1
+CNY_M2MoneySupply;20160812;14:08;M2 Money Supply (YoY);China;CNY;1
+CNY_FDIForeignDirectInvestment;20160812;14:08;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+CNY_NewLoans;20160812;14:08;New Loans;China;CNY;1
+USD_BakerHughesUSOilRigCount;20160812;17:00;Baker Hughes US Oil Rig Count;United States;USD;2
+EUR_EurCFTCEURNCNetPositions;20160812;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20160812;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCS&P500NCNetPositions;20160812;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20160812;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20160812;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20160812;19:30;CFTC Oil NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20160812;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+CLP_BCCHInterestRate;20160812;22:00;BCCH Interest Rate;Chile;CLP;1

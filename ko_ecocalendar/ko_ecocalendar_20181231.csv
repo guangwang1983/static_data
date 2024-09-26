@@ -1,0 +1,16 @@
+EUR_GerNewYearEve;20181231;00:00;New Year Eve;Germany;EUR;0
+SEK_NewYearsEve;20181231;00:00;New Years Eve;Sweden;SEK;0
+AUD_PrivateSectorCredit;20181231;00:30;Private Sector Credit (MoM);Australia;AUD;1
+CNY_NonManufacturingPMI;20181231;01:00;Non-Manufacturing PMI;China;CNY;2
+CNY_NBSManufacturingPMI;20181231;01:00;NBS Manufacturing PMI;China;CNY;2
+ZAR_PrivateSectorCredit;20181231;06:00;Private Sector Credit;South Africa;ZAR;1
+ZAR_M3MoneySupply;20181231;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+TRY_TradeBalance;20181231;07:00;Trade Balance;Turkey;TRY;1
+CLP_Unemploymentrate;20181231;11:00;Unemployment rate;Chile;CLP;1
+ILS_GrossDomesticProduct;20181231;11:00;Gross Domestic Product (QoQ);Israel;ILS;1
+INR_InfrastructureOutput;20181231;12:00;Infrastructure Output (YoY);India;INR;1
+CLP_IndustrialProduction;20181231;12:00;Industrial Production (YoY);Chile;CLP;1
+JPY_NewYearDay;20181231;15:00;New Year Day;Japan;JPY;0
+USD_DallasFedManufacturingBusinessIndex;20181231;15:30;Dallas Fed Manufacturing Business Index;United States;USD;1
+CNY_NewYearDay;20181231;16:00;New Year Day;China;CNY;0
+USD_Auction;20181231;16:30;52-Week Bill Auction;United States;USD;1

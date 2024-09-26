@@ -1,0 +1,23 @@
+COP_TradeBalance;20160819;20:00;Trade Balance;Colombia;COP;1
+JPY_CFTCJPYNCNetPositions;20160819;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+AUD_CFTCAUDNCNetPositions;20160819;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCGoldNCNetPositions;20160819;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCUSDNCNetPositions;20160819;19:30;CFTC USD NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20160819;19:30;CFTC Oil NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20160819;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+GBP_CFTCGBPNCNetPositions;20160819;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_BakerHughesUSOilRigCount;20160819;17:00;Baker Hughes US Oil Rig Count;United States;USD;2
+EUR_BelConsumerConfidenceIndex;20160819;13:00;Consumer Confidence Index;Belgium;EUR;1
+CAD_RetailSales;20160819;12:30;Retail Sales ex Autos (MoM);Canada;CAD;3
+CAD_ConsumerPriceIndex;20160819;12:30;Consumer Price Index (MoM);Canada;CAD;3
+INR_M3MoneySupply;20160819;11:30;M3 Money Supply;India;INR;1
+INR_FXReservesUSD;20160819;11:00;FX Reserves, USD;India;INR;1
+EUR_SloUnemploymentRate;20160819;09:00;Unemployment Rate;Slovakia;EUR;1
+EUR_GreCurrentAccount;20160819;09:00;Current Account (YoY);Greece;EUR;1
+GBP_PublicSectorNetBorrowing;20160819;08:30;Public Sector Net Borrowing;United Kingdom;GBP;2
+EUR_SpaTradeBalance;20160819;08:00;Trade Balance;Spain;EUR;1
+SEK_CapacityUtilization;20160819;07:30;Capacity Utilization;Sweden;SEK;1
+HUF_GrossWages;20160819;07:00;Gross Wages (YoY);Hungary;HUF;1
+IDR_BankIndonesiaRate;20160819;07:00;Bank Indonesia Rate;Indonesia;IDR;1
+EUR_GerProducerPriceIndex;20160819;06:00;Producer Price Index (MoM);Germany;EUR;2
+JPY_AllIndustryActivityIndex;20160819;04:30;All Industry Activity Index (MoM);Japan;JPY;2

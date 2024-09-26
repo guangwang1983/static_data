@@ -1,0 +1,17 @@
+NOK_RetailSales;20231127;07:00;Retail Sales ;Norway;NOK;1
+MXN_TradeBalancesa;20231127;12:00;Trade Balance s/a, $;Mexico;MXN;1
+MXN_TradeBalance;20231127;12:00;Trade Balance, $;Mexico;MXN;1
+BRL_CurrentAccount;20231127;12:30;Current Account;Brazil;BRL;1
+ILS_BoIInterestRateDecision;20231127;14:00;BoI Interest Rate Decision;Israel;ILS;1
+USD_NewHomeSales;20231127;15:00;New Home Sales (MoM);United States;USD;1
+USD_NewHomeSalesChange;20231127;15:00;New Home Sales Change (MoM);United States;USD;2
+USD_DallasFedManufacturingBusinessIndex;20231127;15:30;Dallas Fed Manufacturing Business Index;United States;USD;1
+USD_Auction;20231127;18:00;5-Year Note Auction;United States;USD;1
+USD_CFTCOilNCNetPositions;20231127;20:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20231127;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20231127;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20231127;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20231127;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20231127;20:30;CFTC EUR NC Net Positions;Eurozone;EUR;1
+AUD_CFTCAUDNCNetPositions;20231127;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+KRW_ConsumerSentimentIndex;20231127;21:00;Consumer Sentiment Index;South Korea;KRW;1

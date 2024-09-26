@@ -1,0 +1,43 @@
+AUD_PrivateSectorCredit;20220729;01:30;Private Sector Credit (MoM);Australia;AUD;1
+AUD_ProducerPriceIndex;20220729;01:30;Producer Price Index (QoQ);Australia;AUD;1
+JPY_ConstructionOrders;20220729;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_HousingStarts;20220729;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_AnnualizedHousingStarts;20220729;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_ConsumerConfidenceIndex;20220729;05:00;Consumer Confidence Index;Japan;JPY;1
+DKK_UnemploymentRate;20220729;06:00;Unemployment Rate;Denmark;DKK;1
+ZAR_M3MoneySupply;20220729;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+ZAR_PrivateSectorCredit;20220729;06:00;Private Sector Credit;South Africa;ZAR;1
+NOK_RetailSales;20220729;06:00;Retail Sales ;Norway;NOK;1
+SEK_UnemploymentRate;20220729;06:00;Unemployment Rate;Sweden;SEK;1
+CHF_RetailSales;20220729;06:30;Real Retail Sales (YoY);Switzerland;CHF;2
+TRY_TradeBalance;20220729;07:00;Trade Balance;Turkey;TRY;1
+HUF_ProducerPriceIndex;20220729;07:00;Producer Price Index (YoY);Hungary;HUF;1
+CZK_GrossDomesticProduct;20220729;07:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+CHF_KOFLeadingIndicator;20220729;07:00;KOF Leading Indicator;Switzerland;CHF;2
+TRY_ForeignArrivals;20220729;08:00;Foreign Arrivals;Turkey;TRY;1
+NOK_RegisteredUnemployment;20220729;08:00;Registered Unemployment n.s.a;Norway;NOK;1
+GBP_NetLendingtoIndividuals;20220729;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20220729;08:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20220729;08:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_M4MoneySupply;20220729;08:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+EUR_EurGrossDomesticProduct;20220729;09:00;Gross Domestic Product s.a. (QoQ);European Monetary Union;EUR;3
+EUR_EurHICP;20220729;09:00;HICP (YoY);European Monetary Union;EUR;3
+EUR_EurHICPXFEAT;20220729;09:00;HICP-X F,E,A,T (YoY);European Monetary Union;EUR;3
+ZAR_TradeBalance;20220729;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+USD_PersonalConsumptionExpendituresPriceIndex;20220729;12:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;1
+USD_CorePersonalConsumptionExpendituresPriceIndex;20220729;12:30;Core Personal Consumption Expenditures - Price Index (YoY);United States;USD;2
+USD_PersonalSpending;20220729;12:30;Personal Spending;United States;USD;2
+USD_PersonalIncome;20220729;12:30;Personal Income (MoM);United States;USD;2
+USD_EmploymentCostIndex;20220729;12:30;Employment Cost Index;United States;USD;1
+CAD_GrossDomesticProduct;20220729;12:30;Gross Domestic Product (MoM);Canada;CAD;2
+USD_ChicagoPurchasingManagers'Index;20220729;13:45;Chicago Purchasing Managers' Index;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20220729;14:00;Michigan Consumer Sentiment Index;United States;USD;2
+USD_BakerHughesUSOilRigCount;20220729;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CFTCOilNCNetPositions;20220729;19:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20220729;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20220729;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20220729;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20220729;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20220729;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20220729;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+MXN_FiscalBalancepesos;20220729;21:00;Fiscal Balance, pesos;Mexico;MXN;1

@@ -1,0 +1,38 @@
+CLP_OurLadyofMountCarmel;20190716;00:00;Our Lady of Mount Carmel;Chile;CLP;0
+AUD_RBAMeetingMinutes;20190716;01:30;RBA Meeting Minutes;Australia;AUD;3
+TRY_UnemploymentRate;20190716;07:00;Unemployment Rate;Turkey;TRY;1
+EUR_ItaTradeBalanceEU;20190716;08:00;Trade Balance EU;Italy;EUR;1
+EUR_ItaGlobalTradeBalance;20190716;08:01;Global Trade Balance;Italy;EUR;1
+GBP_ClaimantCountChange;20190716;08:30;Claimant Count Change;United Kingdom;GBP;2
+GBP_AverageEarningsExcludingBonus;20190716;08:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_AverageEarningsIncludingBonus;20190716;08:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;3
+GBP_ILOUnemploymentRate;20190716;08:30;ILO Unemployment Rate (3M);United Kingdom;GBP;1
+GBP_ClaimantCountRate;20190716;08:30;Claimant Count Rate;United Kingdom;GBP;1
+EUR_EurTradeBalance;20190716;09:00;Trade Balance n.s.a.;European Monetary Union;EUR;1
+EUR_ItaConsumerPriceIndex;20190716;09:00;Consumer Price Index (EU Norm) (MoM);Italy;EUR;1
+EUR_GerZEWSurvey–EconomicSentiment;20190716;09:00;ZEW Survey – Economic Sentiment;Germany;EUR;3
+EUR_EurZEWSurvey–EconomicSentiment;20190716;09:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurvey–CurrentSituation;20190716;09:00;ZEW Survey – Current Situation;Germany;EUR;2
+TRY_BudgetBalance;20190716;09:23;Budget Balance;Turkey;TRY;1
+ILS_GrossDomesticProduct;20190716;10:00;Gross Domestic Product (QoQ);Israel;ILS;1
+PLN_NetInflation;20190716;12:00;Net Inflation;Poland;PLN;1
+GBP_CentralBankSpeech;20190716;12:00;BoE Governor Carney speech;United Kingdom;GBP;3
+USD_RetailSales;20190716;12:30;Retail Sales ex Autos (MoM);United States;USD;2
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20190716;12:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20190716;12:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+USD_ExportPriceIndex;20190716;12:30;Export Price Index (YoY);United States;USD;1
+USD_ImportPriceIndex;20190716;12:30;Import Price Index (YoY);United States;USD;1
+USD_RedbookIndex;20190716;12:55;Redbook Index (YoY);United States;USD;1
+RUB_ProducerPriceIndex;20190716;13:00;Producer Price Index (MoM);Russia;RUB;1
+RUB_IndustrialOutput;20190716;13:00;Industrial Output;Russia;RUB;1
+USD_IndustrialProduction;20190716;13:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20190716;13:15;Capacity Utilization;United States;USD;1
+USD_BusinessInventories;20190716;14:00;Business Inventories;United States;USD;1
+USD_NAHBHousingMarketIndex;20190716;14:00;NAHB Housing Market Index;United States;USD;1
+COP_RetailSales;20190716;15:00;Retail Sales (YoY);Colombia;COP;1
+NZD_GDTPriceIndex;20190716;15:10;GDT Price Index;New Zealand;NZD;2
+USD_Auction;20190716;15:30;52-Week Bill Auction;United States;USD;1
+USD_CentralBankSpeech;20190716;19:30;Fed Evans speech;United States;USD;1
+USD_TotalNetTICFlows;20190716;20:00;Total Net TIC Flows;United States;USD;1
+USD_NetLongTermTICFlows;20190716;20:00;Net Long-Term TIC Flows;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20190716;20:30;API Weekly Crude Oil Stock;United States;USD;1

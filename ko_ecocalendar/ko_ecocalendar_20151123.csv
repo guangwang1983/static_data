@@ -1,0 +1,18 @@
+JPY_LaborThanksgivingDay;20151123;00:00;Labor Thanksgiving Day;Japan;JPY;0
+EUR_FraHCOBManufacturingPMI;20151123;08:00;HCOB Manufacturing PMI;France;EUR;1
+EUR_FraHCOBServicesPMI;20151123;08:00;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20151123;08:00;HCOB Composite PMI;France;EUR;1
+EUR_GerHCOBServicesPMI;20151123;08:30;HCOB Services PMI;Germany;EUR;2
+EUR_GerHCOBCompositePMI;20151123;08:30;HCOB Composite PMI;Germany;EUR;2
+EUR_GerHCOBManufacturingPMI;20151123;08:30;HCOB Manufacturing PMI;Germany;EUR;2
+EUR_EurHCOBManufacturingPMI;20151123;09:00;HCOB Manufacturing PMI;European Monetary Union;EUR;1
+EUR_EurHCOBServicesPMI;20151123;09:00;HCOB Services PMI;European Monetary Union;EUR;1
+EUR_EurHCOBCompositePMI;20151123;09:00;HCOB Composite PMI;European Monetary Union;EUR;1
+EUR_EurEurogroupMeeting;20151123;12:00;Eurogroup Meeting;European Monetary Union;EUR;2
+USD_ChicagoFedNationalActivityIndex;20151123;13:30;Chicago Fed National Activity Index ;United States;USD;2
+MXN_RetailSales;20151123;14:00;Retail Sales (YoY);Mexico;MXN;1
+USD_S&PGlobalManufacturingPMI;20151123;14:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_ExistingHomeSales;20151123;15:00;Existing Home Sales (MoM);United States;USD;1
+USD_ExistingHomeSalesChange;20151123;15:00;Existing Home Sales Change (MoM);United States;USD;1
+USD_FedAnnouncement;20151123;16:30;Fed Announcement;United States;USD;0
+USD_Auction;20151123;18:00;2-Year Note Auction;United States;USD;1

@@ -1,0 +1,11 @@
+USD_MichiganConsumerSentimentIndex;20081114;15:00;Michigan Consumer Sentiment Index;United States;USD;1
+USD_BusinessInventories;20081114;15:00;Business Inventories;United States;USD;1
+CAD_NewMotorVehicleSales;20081114;13:30;New Motor Vehicle Sales (MoM);Canada;CAD;1
+USD_RetailSales;20081114;13:30;Retail Sales (MoM);United States;USD;3
+CAD_ManufacturingShipments;20081114;13:30;Manufacturing Shipments (MoM);Canada;CAD;1
+USD_CentralBankSpeech;20081114;13:30;Former Fed Chair Bernanke speech;United States;USD;3
+USD_ImportPriceIndex;20081114;13:30;Import Price Index (MoM);United States;USD;2
+EUR_EurCentralBankSpeech;20081114;13:30;ECB President Trichet speech;European Monetary Union;EUR;3
+EUR_EurGrossDomesticProduct;20081114;10:00;Gross Domestic Product s.a. (QoQ);European Monetary Union;EUR;2
+EUR_EurConsumerPriceIndex;20081114;10:00;Consumer Price Index (YoY);European Monetary Union;EUR;2
+EUR_GerConsumerPriceIndex;20081114;07:00;Consumer Price Index (YoY);Germany;EUR;2

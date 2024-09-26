@@ -1,0 +1,32 @@
+JPY_ForeignInvestmentinJapanStocks;20130424;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20130424;23:50;Foreign Bond Investment;Japan;JPY;1
+KRW_GrossDomesticProduct;20130424;23:00;Gross Domestic Product Growth (QoQ) ;South Korea;KRW;1
+CAD_CentralBankSpeech;20130424;20:15;BoC Governor Carney speech;Canada;CAD;2
+USD_Auction;20130424;17:00;5-Year Note Auction;United States;USD;1
+USD_EIACrudeOilStocksChange;20130424;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+BRL_CurrentAccount;20130424;13:30;Current Account;Brazil;BRL;1
+EUR_BelLeadingIndicator;20130424;13:00;Leading Indicator;Belgium;EUR;1
+MXN_1sthalfmonthCoreInflation;20130424;13:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20130424;13:00;1st half-month Inflation;Mexico;MXN;1
+USD_DurableGoodsOrders;20130424;12:30;Durable Goods Orders ex Transportation;United States;USD;2
+TRY_ManufacturingConfidence;20130424;11:30;Manufacturing Confidence;Turkey;TRY;1
+TRY_CapacityUtilization;20130424;11:30;Capacity Utilization;Turkey;TRY;1
+USD_MBAMortgageApplications;20130424;11:00;MBA Mortgage Applications;United States;USD;1
+GBP_CBIDistributiveTradesSurveyRealized;20130424;10:00;CBI Distributive Trades Survey - Realized (MoM);United Kingdom;GBP;1
+EUR_GerAuction;20130424;09:35;30-y Bond Auction;Germany;EUR;1
+GBP_BBAMortgageApprovals;20130424;08:30;BBA Mortgage Approvals;United Kingdom;GBP;2
+EUR_NetBusinessConfidence;20130424;08:30;Business Confidence;Netherlands, The;EUR;1
+EUR_ItaRetailSales;20130424;08:00;Retail Sales n.s.a (YoY);Italy;EUR;1
+TRY_ForeignArrivals;20130424;08:00;Foreign Arrivals;Turkey;TRY;1
+EUR_GerIFOCurrentAssessment;20130424;08:00;IFO - Current Assessment;Germany;EUR;2
+EUR_GerIFOExpectations;20130424;08:00;IFO - Expectations;Germany;EUR;2
+EUR_GerIFOBusinessClimate;20130424;08:00;IFO - Business Climate;Germany;EUR;2
+EUR_SpaProducerPriceIndex;20130424;07:00;Producer Price Index (YoY);Spain;EUR;1
+EUR_AusIndustrialProduction;20130424;07:00;Industrial Production (YoY);Austria;EUR;1
+EUR_FinProducerPriceIndex;20130424;06:00;Producer Price Index (YoY);Finland;EUR;1
+CHF_UBSConsumptionIndicator;20130424;06:00;UBS Consumption Indicator;Switzerland;CHF;2
+EUR_FinImportPrices;20130424;06:00;Import Prices (YoY);Finland;EUR;1
+EUR_FinExportPrices;20130424;06:00;Export Prices (YoY);Finland;EUR;1
+AUD_CentralBankSpeech;20130424;03:30;OUTDATED - RBA Deputy Governor Lowe Speech;Australia;AUD;2
+AUD_RBATrimmedMeanCPI;20130424;01:30;RBA Trimmed Mean CPI (YoY);Australia;AUD;2
+AUD_ConsumerPriceIndex;20130424;01:30;Consumer Price Index (YoY);Australia;AUD;3

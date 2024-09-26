@@ -1,0 +1,36 @@
+MXN_DayoftheDead;20181012;00:00;Day of the Dead ;Mexico;MXN;0
+USD_IMFMeeting;20181012;00:00;IMF Meeting;United States;USD;2
+BRL_LadyofAparecida;20181012;00:00;Lady of Aparecida ;Brazil;BRL;0
+EUR_EurG20Meeting;20181012;00:00;G20 Meeting;European Monetary Union;EUR;2
+AUD_FinancialStabilityReview;20181012;00:30;Financial Stability Review;Australia;AUD;1
+AUD_InvestmentLendingforHomes;20181012;00:30;Investment Lending for Homes;Australia;AUD;2
+AUD_HomeLoans;20181012;00:30;Home Loans;Australia;AUD;2
+CNY_TradeBalanceCNY;20181012;02:10;Trade Balance CNY;China;CNY;2
+CNY_Exports;20181012;02:55;Exports (YoY);China;CNY;2
+CNY_Imports;20181012;02:55;Imports (YoY);China;CNY;2
+CNY_TradeBalanceUSD;20181012;02:56;Trade Balance USD;China;CNY;2
+JPY_TertiaryIndustryIndex;20181012;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+RON_IndustrialProduction;20181012;06:00;Industrial Production (MoM);Romania;RON;1
+EUR_GerConsumerPriceIndex;20181012;06:00;Consumer Price Index (YoY);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20181012;06:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+EUR_EurIndustrialProduction;20181012;09:00;Industrial Production s.a. (MoM);European Monetary Union;EUR;2
+EUR_EurCentralBankSpeech;20181012;09:00;ECB Lautenschläger speech;European Monetary Union;EUR;2
+INR_BankLoanGrowth;20181012;11:30;Bank Loan Growth;India;INR;1
+INR_CumulativeIndustrialOutput;20181012;11:30;Cumulative Industrial Output;India;INR;1
+INR_FXReservesUSD;20181012;11:30;FX Reserves, USD;India;INR;1
+INR_ManufacturingOutput;20181012;12:00;Manufacturing Output;India;INR;1
+INR_IndustrialOutput;20181012;12:00;Industrial Output;India;INR;1
+USD_ImportPriceIndex;20181012;12:30;Import Price Index (MoM);United States;USD;1
+USD_ExportPriceIndex;20181012;12:30;Export Price Index (MoM);United States;USD;1
+RUB_ForeignTrade;20181012;13:00;Foreign Trade;Russia;RUB;1
+MXN_IndustrialOutput;20181012;13:00;Industrial Output (MoM);Mexico;MXN;1
+USD_MichiganConsumerSentimentIndex;20181012;14:00;Michigan Consumer Sentiment Index;United States;USD;2
+USD_CentralBankSpeech;20181012;16:30;Fed Bostic speech;United States;USD;2
+USD_BakerHughesUSOilRigCount;20181012;17:00;Baker Hughes US Oil Rig Count;United States;USD;2
+AUD_CFTCAUDNCNetPositions;20181012;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20181012;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+GBP_CFTCGBPNCNetPositions;20181012;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20181012;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20181012;19:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20181012;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20181012;19:30;CFTC JPY NC Net Positions;Japan;JPY;1

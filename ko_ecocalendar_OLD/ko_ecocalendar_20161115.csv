@@ -1,0 +1,57 @@
+AUD_WestpacLeadingIndex;20161115;23:30;Westpac Leading Index (MoM);Australia;AUD;1
+USD_APIWeeklyCrudeOilStock;20161115;21:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_Auction;20161115;16:30;4-Week Bill Auction;United States;USD;1
+USD_BusinessInventories;20161115;15:00;Business Inventories;United States;USD;1
+PEN_GrossDomesticProduct;20161115;15:00;Gross Domestic Product;Peru;PEN;1
+NZD_GDTPriceIndex;20161115;14:48;GDT Price Index;New Zealand;NZD;1
+USD_CentralBankSpeech;20161115;14:05;Fed Tarullo speech;United States;USD;1
+USD_RedbookIndex;20161115;13:55;Redbook Index (MoM);United States;USD;1
+USD_NYEmpireStateManufacturingIndex;20161115;13:30;NY Empire State Manufacturing Index;United States;USD;1
+USD_RetailSales;20161115;13:30;Retail Sales Control Group;United States;USD;3
+USD_ImportPriceIndex;20161115;13:30;Import Price Index (MoM);United States;USD;2
+USD_ExportPriceIndex;20161115;13:30;Export Price Index (MoM);United States;USD;2
+PLN_NetInflation;20161115;13:00;Net Inflation;Poland;PLN;1
+EUR_PorGrossDomesticProduct;20161115;12:17;Gross Domestic Product (QoQ);Portugal;EUR;1
+EUR_SpaAuction;20161115;10:30;6-Month Letras Auction;Spain;EUR;1
+EUR_EurTradeBalance;20161115;10:00;Trade Balance n.s.a.;European Monetary Union;EUR;2
+EUR_EurGrossDomesticProduct;20161115;10:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+GBP_InflationReportHearings;20161115;10:00;Inflation Report Hearings;United Kingdom;GBP;3
+EUR_EurZEWSurveyEconomicSentiment;20161115;10:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurveyEconomicSentiment;20161115;10:00;ZEW Survey - Economic Sentiment;Germany;EUR;2
+EUR_GerZEWSurveyCurrentSituation;20161115;10:00;ZEW Survey - Current Situation;Germany;EUR;2
+GBP_RetailPriceIndex;20161115;09:30;Retail Price Index (MoM);United Kingdom;GBP;1
+GBP_DCLGHousePriceIndex;20161115;09:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ProducerPriceIndex;20161115;09:30;Producer Price Index - Output (YoY) n.s.a;United Kingdom;GBP;1
+GBP_PPICoreOutput;20161115;09:30;PPI Core Output (YoY) n.s.a ;United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20161115;09:30;Core Consumer Price Index (YoY);United Kingdom;GBP;3
+PLN_GrossDomesticProduct;20161115;09:00;Gross Domestic Product Qtr (YoY);Poland;PLN;1
+EUR_ItaGrossDomesticProduct;20161115;09:00;Gross Domestic Product (YoY);Italy;EUR;2
+EUR_NetGrossDomesticProduct;20161115;08:30;Gross Domestic Product n.s.a (YoY);Netherlands, The;EUR;1
+SEK_ConsumerPriceIndex;20161115;08:30;Consumer Price Index (MoM);Sweden;SEK;1
+SEK_CapacityUtilization;20161115;08:30;Capacity Utilization;Sweden;SEK;1
+AUD_CentralBankSpeech;20161115;08:15;RBA Governor Lowe speech;Australia;AUD;1
+EUR_SpaHICP;20161115;08:00;HICP (YoY);Spain;EUR;1
+TRY_BudgetBalance;20161115;08:00;Budget Balance;Turkey;TRY;1
+EUR_SpaConsumerPriceIndex;20161115;08:00;Consumer Price Index (MoM);Spain;EUR;1
+CZK_GrossDomesticProduct;20161115;08:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+HUF_GrossDomesticProduct;20161115;08:00;Gross Domestic Product (YoY);Hungary;HUF;1
+EUR_SloGrossDomesticProduct;20161115;08:00;Gross Domestic Product Prelim (YoY);Slovakia;EUR;1
+EUR_FraConsumerPriceIndex;20161115;07:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraInflationextobacco;20161115;07:45;Inflation ex-tobacco (MoM);France;EUR;1
+NOK_TradeBalance;20161115;07:00;Trade Balance;Norway;NOK;1
+TRY_3mthquarterlyjoblessaverage;20161115;07:00;3mth quarterly jobless average;Turkey;TRY;1
+NOK_GrossDomesticProduct;20161115;07:00;Gross Domestic Product Growth Mainland;Norway;NOK;1
+EUR_FinGrossDomesticProduct;20161115;07:00;Gross Domestic Product (YoY);Finland;EUR;1
+EUR_FinCurrentAccount;20161115;07:00;Current Account;Finland;EUR;1
+RON_GrossDomesticProduct;20161115;07:00;Gross Domestic Product;Romania;RON;1
+EUR_GerGrossDomesticProduct;20161115;07:00;Gross Domestic Product (QoQ);Germany;EUR;2
+INR_WPIInflation;20161115;06:30;WPI Inflation;India;INR;1
+RUB_GrossDomesticProduct;20161115;06:00;Gross Domestic Product Quarterly (YoY);Russia;RUB;1
+SGD_RetailSales;20161115;05:00;Retail Sales (MoM);Singapore;SGD;1
+IDR_TradeBalance;20161115;04:00;Trade Balance;Indonesia;IDR;1
+IDR_Exports;20161115;04:00;Exports;Indonesia;IDR;1
+IDR_Imports;20161115;04:00;Imports;Indonesia;IDR;1
+AUD_RBAMeetingMinutes;20161115;00:30;RBA Meeting Minutes;Australia;AUD;3
+RUB_BudgetFulfilment;20161115;00:00;Budget Fulfilment;Russia;RUB;1
+KRW_TradeBalance;20161115;00:00;Trade Balance;South Korea;KRW;1
+BRL_RepublicDay;20161115;00:00;Republic Day;Brazil;BRL;0

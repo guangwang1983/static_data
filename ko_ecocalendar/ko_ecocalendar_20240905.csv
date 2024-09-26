@@ -1,0 +1,34 @@
+AUD_TDSecuritiesInflation;20240905;01:00;TD Securities Inflation (MoM);Australia;AUD;1
+AUD_Imports;20240905;01:30;Imports (MoM);Australia;AUD;2
+AUD_Exports;20240905;01:30;Exports (MoM);Australia;AUD;2
+AUD_TradeBalance;20240905;01:30;Trade Balance (MoM);Australia;AUD;3
+CHF_UnemploymentRate;20240905;05:45;Unemployment Rate s.a (MoM);Switzerland;CHF;1
+EUR_GerFactoryOrders;20240905;06:00;Factory Orders s.a. (MoM);Germany;EUR;2
+HUF_RetailSales;20240905;06:30;Retail Sales (YoY);Hungary;HUF;1
+HUF_TradeBalance;20240905;06:30;Trade Balance;Hungary;HUF;1
+CZK_RetailSales;20240905;07:00;Retail Sales (YoY);Czech Republic;CZK;1
+CHF_ForeignCurrencyReserves;20240905;07:00;Foreign Currency Reserves;Switzerland;CHF;1
+GBP_S&PGlobalCIPSConstructionPMI;20240905;08:30;S&P Global/CIPS Construction PMI;United Kingdom;GBP;1
+EUR_EurRetailSales;20240905;09:00;Retail Sales (MoM);Eurozone;EUR;2
+AUD_CentralBankSpeech;20240905;09:00;RBA Governor Bullock speech;Australia;AUD;3
+EUR_FraAuction;20240905;09:00;10-y Bond Auction;France;EUR;1
+USD_ChallengerJobCuts;20240905;11:30;Challenger Job Cuts;United States;USD;2
+USD_ADPEmploymentChange;20240905;12:15;ADP Employment Change;United States;USD;3
+USD_JoblessClaims;20240905;12:30;Continuing Jobless Claims;United States;USD;1
+USD_UnitLaborCosts;20240905;12:30;Unit Labor Costs;United States;USD;2
+USD_NonfarmProductivity;20240905;12:30;Nonfarm Productivity;United States;USD;2
+PLN_CentralBankFXReserves;20240905;13:00;Central Bank FX Reserves;Poland;PLN;1
+RUB_CentralBankReserves;20240905;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_S&PGlobalServicesPMI;20240905;13:45;S&P Global Services PMI;United States;USD;1
+USD_S&PGlobalCompositePMI;20240905;13:45;S&P Global Composite PMI;United States;USD;2
+USD_ISMServicesEmploymentIndex;20240905;14:00;ISM Services Employment Index;United States;USD;2
+USD_ISMServicesPricesPaid;20240905;14:00;ISM Services Prices Paid;United States;USD;2
+USD_ISMServicesPMI;20240905;14:00;ISM Services PMI;United States;USD;3
+USD_ISMServicesNewOrdersIndex;20240905;14:00;ISM Services New Orders Index;United States;USD;2
+USD_EIANaturalGasStorageChange;20240905;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_EIACrudeOilStocksChange;20240905;15:00;EIA Crude Oil Stocks Change;United States;USD;1
+USD_Auction;20240905;15:30;4-Week Bill Auction;United States;USD;1
+BRL_TradeBalance;20240905;18:00;Trade Balance;Brazil;BRL;1
+KRW_CurrentAccount;20240905;23:00;Current Account Balance;South Korea;KRW;1
+JPY_OverallHouseholdSpending;20240905;23:30;Overall Household Spending (YoY);Japan;JPY;1
+JPY_JPForeignReserves;20240905;23:50;JP Foreign Reserves;Japan;JPY;1

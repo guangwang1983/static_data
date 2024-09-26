@@ -1,0 +1,36 @@
+AUD_PartTimeEmployment;20220818;01:30;Part-Time Employment;Australia;AUD;1
+AUD_FullTimeEmployment;20220818;01:30;Full-Time Employment;Australia;AUD;2
+AUD_EmploymentChange;20220818;01:30;Employment Change s.a.;Australia;AUD;3
+AUD_ParticipationRate;20220818;01:30;Participation Rate;Australia;AUD;1
+AUD_UnemploymentRate;20220818;01:30;Unemployment Rate s.a.;Australia;AUD;3
+CHF_Imports;20220818;06:00;Imports (MoM);Switzerland;CHF;1
+CHF_Exports;20220818;06:00;Exports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20220818;06:00;Trade Balance;Switzerland;CHF;1
+NOK_GrossDomesticProduct;20220818;06:00;Gross Domestic Product Growth Mainland;Norway;NOK;1
+SEK_CapacityUtilization;20220818;06:00;Capacity Utilization;Sweden;SEK;1
+CNY_FDIForeignDirectInvestment;20220818;07:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+NOK_NorgesBankInterestRateDecision;20220818;08:00;Norges Bank Interest Rate Decision;Norway;NOK;1
+EUR_EurHarmonizedIndexofConsumerPrices;20220818;09:00;Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;1
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20220818;09:00;Core Harmonized Index of Consumer Prices (MoM);European Monetary Union;EUR;2
+EUR_EurConstructionOutput;20220818;09:00;Construction Output w.d.a (YoY);European Monetary Union;EUR;1
+TRY_CBRTInterestRateDecision;20220818;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+CLP_GrossDomesticProduct;20220818;12:30;Gross Domestic Product (YoY);Chile;CLP;1
+CAD_RawMaterialPriceIndex;20220818;12:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20220818;12:30;Industrial Product Price (MoM);Canada;CAD;1
+USD_JoblessClaims;20220818;12:30;Initial Jobless Claims;United States;USD;2
+CAD_EmploymentInsuranceBeneficiariesChange;20220818;12:30;Employment Insurance Beneficiaries Change (MoM);Canada;CAD;1
+USD_PhiladelphiaFedManufacturingSurvey;20220818;12:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+RUB_CentralBankReserves;20220818;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_ExistingHomeSales;20220818;14:00;Existing Home Sales (MoM);United States;USD;1
+USD_ExistingHomeSalesChange;20220818;14:00;Existing Home Sales Change (MoM);United States;USD;1
+USD_EIANaturalGasStorageChange;20220818;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20220818;17:00;30-year TIPS Auction;United States;USD;1
+EUR_EurCentralBankSpeech;20220818;17:15;ECB Schnabel speech;European Monetary Union;EUR;2
+USD_CentralBankSpeech;20220818;17:45;Fed Kashkari speech;United States;USD;0
+NZD_Exports;20220818;22:45;Exports;New Zealand;NZD;2
+NZD_Imports;20220818;22:45;Imports;New Zealand;NZD;2
+NZD_TradeBalanceNZD;20220818;22:45;Trade Balance NZD (YoY);New Zealand;NZD;2
+GBP_GfKConsumerConfidence;20220818;23:01;GfK Consumer Confidence;United Kingdom;GBP;2
+JPY_NationalCPIexFoodEnergy;20220818;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20220818;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20220818;23:30;National Consumer Price Index (YoY);Japan;JPY;2

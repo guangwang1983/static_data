@@ -1,0 +1,32 @@
+JPY_MerchandiseTradeBalanceTotal;20190219;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20190219;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;2
+JPY_Imports;20190219;23:50;Imports (YoY);Japan;JPY;2
+JPY_Exports;20190219;23:50;Exports (YoY);Japan;JPY;2
+AUD_WestpacLeadingIndex;20190219;23:30;Westpac Leading Index (MoM);Australia;AUD;1
+NZD_ProducerPriceIndex;20190219;21:45;Producer Price Index - Input (QoQ);New Zealand;NZD;2
+USD_Auction;20190219;16:30;3-Month Bill Auction;United States;USD;1
+RUB_UnemploymentRate;20190219;15:51;Unemployment Rate;Russia;RUB;1
+USD_NAHBHousingMarketIndex;20190219;15:00;NAHB Housing Market Index;United States;USD;1
+NZD_GDTPriceIndex;20190219;14:35;GDT Price Index;New Zealand;NZD;2
+USD_CentralBankSpeech;20190219;13:50;Fed Mester speech;United States;USD;2
+EUR_EurCentralBankSpeech;20190219;10:15;ECB De Guindos speech;European Monetary Union;EUR;2
+EUR_EurConstructionOutput;20190219;10:00;Construction Output w.d.a (YoY);European Monetary Union;EUR;1
+EUR_EurZEWSurveyEconomicSentiment;20190219;10:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurveyCurrentSituation;20190219;10:00;ZEW Survey - Current Situation;Germany;EUR;2
+EUR_GerZEWSurveyEconomicSentiment;20190219;10:00;ZEW Survey - Economic Sentiment;Germany;EUR;3
+EUR_SpaAuction;20190219;09:58;3-Month Letras Auction;Spain;EUR;1
+GBP_ClaimantCountChange;20190219;09:30;Claimant Count Change;United Kingdom;GBP;2
+GBP_ClaimantCountRate;20190219;09:30;Claimant Count Rate;United Kingdom;GBP;1
+GBP_ILOUnemploymentRate;20190219;09:30;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_AverageEarningsExcludingBonus;20190219;09:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;3
+GBP_AverageEarningsIncludingBonus;20190219;09:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+EUR_EurCurrentAccount;20190219;09:00;Current Account n.s.a;European Monetary Union;EUR;1
+PLN_CorporateSectorWages;20190219;09:00;Corporate Sector Wages;Poland;PLN;1
+EUR_ItaIndustrialSales;20190219;09:00;Industrial Sales s.a. (MoM);Italy;EUR;1
+EUR_ItaIndustrialOrders;20190219;09:00;Industrial Orders s.a (MoM);Italy;EUR;1
+SEK_ConsumerPriceIndex;20190219;08:30;Consumer Price Index (MoM);Sweden;SEK;1
+CHF_TradeBalance;20190219;07:00;Trade Balance;Switzerland;CHF;1
+CHF_Exports;20190219;07:00;Exports (MoM);Switzerland;CHF;1
+CHF_Imports;20190219;07:00;Imports (MoM);Switzerland;CHF;1
+EUR_FinConsumerPriceIndex;20190219;07:00;Consumer Price Index (YoY);Finland;EUR;1
+AUD_RBAMeetingMinutes;20190219;00:30;RBA Meeting Minutes;Australia;AUD;3

@@ -1,0 +1,44 @@
+MXN_FiscalBalancepesos;20140328;20:30;Fiscal Balance, pesos;Mexico;MXN;1
+USD_CentralBankSpeech;20140328;16:45;Fed George speech;United States;USD;1
+USD_MichiganConsumerSentimentIndex;20140328;14:55;Michigan Consumer Sentiment Index;United States;USD;2
+BRL_NominalBudgetBalance;20140328;13:30;Nominal Budget Balance;Brazil;BRL;1
+BRL_PrimaryBudgetSurplus;20140328;13:30;Primary Budget Surplus;Brazil;BRL;1
+EUR_GerConsumerPriceIndex;20140328;13:00;Consumer Price Index (MoM);Germany;EUR;2
+EUR_GerHarmonizedIndexofConsumerPrices;20140328;13:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+USD_PersonalConsumptionExpendituresPriceIndex;20140328;12:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;1
+USD_PersonalSpending;20140328;12:30;Personal Spending;United States;USD;2
+USD_CorePersonalConsumptionExpenditurePriceIndex;20140328;12:30;Core Personal Consumption Expenditure - Price Index (MoM);United States;USD;1
+USD_PersonalIncome;20140328;12:30;Personal Income (MoM);United States;USD;2
+INR_FXReservesUSD;20140328;11:30;FX Reserves, USD;India;INR;1
+EUR_IreRetailSales;20140328;11:00;Retail Sales (YoY);Ireland;EUR;1
+BRL_InflationIndexIGPM;20140328;11:00;Inflation Index/IGP-M;Brazil;BRL;1
+EUR_ItaAuction;20140328;10:23;5-y Bond Auction;Italy;EUR;1
+EUR_PorBusinessConfidence;20140328;10:00;Business Confidence;Portugal;EUR;1
+EUR_PorConsumerConfidence;20140328;10:00;Consumer Confidence;Portugal;EUR;1
+EUR_EurConsumerConfidence;20140328;10:00;Consumer Confidence;European Monetary Union;EUR;1
+EUR_EurBusinessClimate;20140328;10:00;Business Climate;European Monetary Union;EUR;1
+EUR_EurServicesSentiment;20140328;10:00;Services Sentiment;European Monetary Union;EUR;1
+EUR_EurIndustrialConfidence;20140328;10:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_EurEconomicSentimentIndicator;20140328;10:00;Economic Sentiment Indicator;European Monetary Union;EUR;2
+EUR_GreProducerPriceIndex;20140328;10:00;Producer Price Index (YoY);Greece;EUR;1
+GBP_GrossDomesticProduct;20140328;09:30;Gross Domestic Product (YoY);United Kingdom;GBP;2
+GBP_TotalBusinessInvestment;20140328;09:30;Total Business Investment (QoQ);United Kingdom;GBP;1
+EUR_BelConsumerPriceIndex;20140328;09:30;Consumer Price Index (MoM);Belgium;EUR;1
+GBP_IndexofServices;20140328;09:30;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_CurrentAccount;20140328;09:30;Current Account;United Kingdom;GBP;1
+EUR_ItaProducerPriceIndex;20140328;09:00;Producer Price Index (MoM);Italy;EUR;1
+EUR_AusPurchasingManagerIndex;20140328;09:00;Purchasing Manager Index;Austria;EUR;1
+CZK_ForeignDebt;20140328;09:00;Foreign Debt;Czech Republic;CZK;1
+NOK_RegisteredUnemployment;20140328;09:00;Registered Unemployment s.a;Norway;NOK;1
+EUR_AusProducerPriceIndex;20140328;09:00;Producer Price Index (MoM);Austria;EUR;1
+SEK_RetailSales;20140328;08:30;Retail Sales (MoM);Sweden;SEK;1
+EUR_SpaHICP;20140328;08:00;HICP (YoY);Spain;EUR;1
+DKK_IndustrialOutlook;20140328;08:00;Industrial Outlook;Denmark;DKK;1
+HUF_UnemploymentRate;20140328;08:00;Unemployment Rate (3M);Hungary;HUF;1
+RON_Interestratedecision;20140328;08:00;Interest rate decision;Romania;RON;1
+EUR_SpaRetailSales;20140328;08:00;Retail Sales (YoY);Spain;EUR;1
+EUR_FraProducerPrices;20140328;07:45;Producer Prices (MoM);France;EUR;1
+EUR_FraConsumerSpending;20140328;07:45;Consumer Spending (MoM);France;EUR;1
+EUR_GerImportPriceIndex;20140328;07:00;Import Price Index (MoM);Germany;EUR;1
+TRY_ConsumerConfidence;20140328;07:00;Consumer Confidence;Turkey;TRY;1
+GBP_GfKConsumerConfidence;20140328;00:05;GfK Consumer Confidence;United Kingdom;GBP;2

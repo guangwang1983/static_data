@@ -1,0 +1,56 @@
+JPY_IndustrialProduction;20130829;23:50;Industrial Production (MoM);Japan;JPY;1
+USD_CentralBankSpeech;20130829;23:45;Fed Bullard speech;United States;USD;3
+JPY_TokyoCPIexFreshFood;20130829;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;1
+JPY_ConsumerPriceIndex;20130829;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;1
+JPY_TokyoCPIexFoodEnergy;20130829;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;1
+JPY_NationalCPIexFoodEnergy;20130829;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;3
+JPY_NationalCPIexFreshFood;20130829;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_UnemploymentRate;20130829;23:30;Unemployment Rate;Japan;JPY;1
+JPY_OverallHouseholdSpending;20130829;23:30;Overall Household Spending (YoY);Japan;JPY;2
+JPY_NikkeiManufacturingPMI;20130829;23:15;Nikkei Manufacturing PMI;Japan;JPY;2
+GBP_GfKConsumerConfidence;20130829;23:05;GfK Consumer Confidence;United Kingdom;GBP;2
+KRW_IndustrialOutput;20130829;23:00;Industrial Output (YoY);South Korea;KRW;1
+KRW_ServiceSectorOutput;20130829;23:00;Service Sector Output;South Korea;KRW;1
+NZD_BuildingPermits;20130829;22:45;Building Permits s.a. (MoM);New Zealand;NZD;1
+USD_Auction;20130829;17:00;7-Year Note Auction;United States;USD;1
+USD_EIANaturalGasStorageChange;20130829;14:30;EIA Natural Gas Storage Change;United States;USD;1
+CAD_RawMaterialPriceIndex;20130829;12:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20130829;12:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_CurrentAccount;20130829;12:30;Current Account;Canada;CAD;2
+USD_JoblessClaims;20130829;12:30;Initial Jobless Claims;United States;USD;2
+USD_GrossDomesticProduct;20130829;12:30;Gross Domestic Product Annualized;United States;USD;3
+USD_CorePersonalConsumptionExpenditures;20130829;12:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+USD_PersonalConsumptionExpendituresPrices;20130829;12:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+RUB_CentralBankReserves;20130829;12:00;Central Bank Reserves $;Russia;RUB;1
+EUR_GerConsumerPriceIndex;20130829;12:00;Consumer Price Index (MoM);Germany;EUR;2
+EUR_GerHarmonizedIndexofConsumerPrices;20130829;12:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+CLP_IndustrialProduction;20130829;12:00;Industrial Production (YoY);Chile;CLP;1
+EUR_ItaAuction;20130829;10:10;10-y Bond Auction;Italy;EUR;1
+EUR_PorBusinessConfidence;20130829;10:00;Business Confidence;Portugal;EUR;1
+EUR_PorConsumerConfidence;20130829;10:00;Consumer Confidence;Portugal;EUR;1
+EUR_IreRetailSales;20130829;10:00;Retail Sales (MoM);Ireland;EUR;1
+BRL_InflationIndexIGPM;20130829;10:00;Inflation Index/IGP-M;Brazil;BRL;1
+EUR_ItaWageInflation;20130829;10:00;Wage Inflation (YoY);Italy;EUR;1
+ZAR_ProducerPriceIndex;20130829;09:30;Producer Price Index (MoM);South Africa;ZAR;1
+EUR_BelConsumerPriceIndex;20130829;09:30;Consumer Price Index (MoM);Belgium;EUR;1
+EUR_ItaBusinessConfidence;20130829;09:00;Business Confidence;Italy;EUR;1
+EUR_GreProducerPriceIndex;20130829;09:00;Producer Price Index (YoY);Greece;EUR;1
+EUR_ItaConsumerConfidence;20130829;08:00;Consumer Confidence;Italy;EUR;1
+EUR_AusPurchasingManagerIndex;20130829;08:00;Purchasing Manager Index;Austria;EUR;1
+EUR_GerUnemploymentChange;20130829;07:55;Unemployment Change;Germany;EUR;3
+EUR_GerUnemploymentRate;20130829;07:55;Unemployment Rate s.a.;Germany;EUR;3
+SEK_RetailSales;20130829;07:30;Retail Sales (MoM);Sweden;SEK;1
+SEK_CurrentAccount;20130829;07:30;Current Account (QoQ);Sweden;SEK;1
+CHF_EmploymentLevel;20130829;07:15;Employment Level (QoQ);Switzerland;CHF;2
+EUR_SpaHICP;20130829;07:00;HICP (YoY);Spain;EUR;1
+TRY_TradeBalance;20130829;07:00;Trade Balance;Turkey;TRY;1
+DKK_IndustrialOutlook;20130829;07:00;Industrial Outlook;Denmark;DKK;1
+DKK_UnemploymentRate;20130829;07:00;Unemployment Rate;Denmark;DKK;1
+EUR_SpaGrossDomesticProduct;20130829;07:00;Gross Domestic Product (QoQ);Spain;EUR;1
+EUR_FraIndividualInvestment;20130829;06:45;Individual Investment (Current Year);France;EUR;1
+EUR_FraBusinessClimate;20130829;06:45;Business Climate;France;EUR;1
+IDR_BankIndonesiaRate;20130829;05:00;Bank Indonesia Rate;Indonesia;IDR;1
+AUD_PrivateCapitalExpenditure;20130829;01:30;Private Capital Expenditure;Australia;AUD;2
+AUD_HIANewHomeSales;20130829;01:00;HIA New Home Sales (MoM);Australia;AUD;1
+NZD_ANZActivityOutlook;20130829;01:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20130829;01:00;ANZ Business Confidence;New Zealand;NZD;2

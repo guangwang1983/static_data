@@ -1,0 +1,33 @@
+AUD_GrossDomesticProduct;20210602;01:30;Gross Domestic Product (YoY);Australia;AUD;2
+IDR_Inflation;20210602;04:00;Inflation (MoM);Indonesia;IDR;1
+IDR_CoreInflation;20210602;04:00;Core Inflation (YoY);Indonesia;IDR;1
+EUR_GerRetailSales;20210602;06:00;Retail Sales (YoY);Germany;EUR;3
+NOK_CurrentAccount;20210602;06:00;Current Account;Norway;NOK;1
+EUR_FraBudgetBalance;20210602;06:45;Budget Balance;France;EUR;1
+TRY_Exports;20210602;08:00;Exports;Turkey;TRY;1
+BRL_FipeIPCInflation;20210602;08:00;Fipe IPC Inflation;Brazil;BRL;1
+GBP_NetLendingtoIndividuals;20210602;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20210602;08:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20210602;08:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_M4MoneySupply;20210602;08:30;M4 Money Supply (MoM);United Kingdom;GBP;1
+EUR_EurProducerPriceIndex;20210602;09:00;Producer Price Index (MoM);European Monetary Union;EUR;1
+AUD_CentralBankSpeech;20210602;09:00;RBA Debelle speech;Australia;AUD;2
+GBP_Auction;20210602;10:30;10-y Bond Auction;United Kingdom;GBP;1
+USD_MBAMortgageApplications;20210602;11:00;MBA Mortgage Applications;United States;USD;1
+BRL_IndustrialOutput;20210602;12:00;Industrial Output (YoY);Brazil;BRL;1
+CAD_BuildingPermits;20210602;12:30;Building Permits (MoM);Canada;CAD;1
+USD_RedbookIndex;20210602;12:55;Redbook Index (YoY);United States;USD;1
+USD_IBDTIPPEconomicOptimism;20210602;13:45;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+DKK_CurrencyReserves;20210602;15:00;Currency Reserves;Denmark;DKK;1
+EUR_GerCentralBankSpeech;20210602;15:45;German Buba President Weidmann speech;Germany;EUR;2
+EUR_EurCentralBankSpeech;20210602;17:10;ECB President Lagarde speech;European Monetary Union;EUR;3
+USD_FedBeigeBook;20210602;18:00;Fed Beige Book;United States;USD;2
+USD_TotalVehicleSales;20210602;19:30;Total Vehicle Sales;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20210602;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_FXReserves;20210602;21:00;FX Reserves;South Korea;KRW;1
+PLN_CorpusChristi;20210602;22:00;Corpus Christi;Poland;PLN;0
+AUD_AiGPerformanceofConstructionIndex;20210602;22:30;AiG Performance of Construction Index;Australia;AUD;2
+AUD_S&PGlobalServicesPMI;20210602;23:00;S&P Global Services PMI;Australia;AUD;2
+AUD_S&PGlobalCompositePMI;20210602;23:00;S&P Global Composite PMI;Australia;AUD;1
+JPY_ForeignInvestmentinJapanStocks;20210602;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20210602;23:50;Foreign Bond Investment;Japan;JPY;1

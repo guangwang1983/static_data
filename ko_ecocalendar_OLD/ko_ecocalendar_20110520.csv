@@ -1,0 +1,22 @@
+ARS_MonthlyEconActivity;20110520;19:00;Monthly Econ Activity (MoM);Argentina;ARS;1
+EUR_EurConsumerConfidence;20110520;14:00;Consumer Confidence;European Monetary Union;EUR;2
+CHF_CentralBankSpeech;20110520;13:30;SNB Danthine speech;Switzerland;CHF;2
+CAD_RetailSales;20110520;12:30;Retail Sales ex Autos (MoM);Canada;CAD;2
+PLN_IndustrialOutput;20110520;12:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20110520;12:00;Producer Price Index (YoY);Poland;PLN;1
+INR_M3MoneySupply;20110520;11:30;M3 Money Supply;India;INR;1
+INR_BankLoanGrowth;20110520;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20110520;11:30;FX Reserves, USD;India;INR;1
+CAD_ConsumerPriceIndex;20110520;11:00;Consumer Price Index (MoM);Canada;CAD;2
+EUR_ItaTradeBalancenonEU;20110520;09:00;Trade Balance non-EU;Italy;EUR;1
+RUB_ProducerPriceIndex;20110520;09:00;Producer Price Index (MoM);Russia;RUB;1
+EUR_EurCurrentAccount;20110520;08:00;Current Account s.a;European Monetary Union;EUR;1
+EUR_NetConsumerConfidenceAdj;20110520;07:30;Consumer Confidence Adj;Netherlands, The;EUR;1
+EUR_NetConsumerSpendingVolume;20110520;07:30;Consumer Spending Volume;Netherlands, The;EUR;1
+JPY_BoJMonetaryPolicyStatement;20110520;07:15;BoJ Monetary Policy Statement ;Japan;JPY;3
+EUR_GerProducerPriceIndex;20110520;06:00;Producer Price Index (YoY);Germany;EUR;2
+EUR_ItaIndustrialOrders;20110520;06:00;Industrial Orders n.s.a (YoY);Italy;EUR;1
+EUR_ItaIndustrialSales;20110520;06:00;Industrial Sales n.s.a. (YoY);Italy;EUR;1
+JPY_AllIndustryActivityIndex;20110520;04:30;All Industry Activity Index (MoM);Japan;JPY;1
+JPY_BoJInterestRateDecision;20110520;04:22;BoJ Interest Rate Decision;Japan;JPY;3
+ARS_PrimaryBudgetBalance;20110520;00:30;Primary Budget Balance (MoM);Argentina;ARS;1

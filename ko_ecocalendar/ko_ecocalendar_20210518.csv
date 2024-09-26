@@ -1,0 +1,31 @@
+AUD_RBAMeetingMinutes;20210518;01:30;RBA Meeting Minutes;Australia;AUD;3
+JPY_TertiaryIndustryIndex;20210518;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+NOK_TradeBalance;20210518;06:00;Trade Balance;Norway;NOK;1
+GBP_ClaimantCountRate;20210518;06:00;Claimant Count Rate;United Kingdom;GBP;2
+GBP_AverageEarningsExcludingBonus;20210518;06:00;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountChange;20210518;06:00;Claimant Count Change;United Kingdom;GBP;3
+GBP_ILOUnemploymentRate;20210518;06:00;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_AverageEarningsIncludingBonus;20210518;06:00;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+RON_GrossDomesticProduct;20210518;06:00;Gross Domestic Product;Romania;RON;1
+EUR_EurEcoFinMeeting;20210518;07:00;EcoFin Meeting;European Monetary Union;EUR;2
+HUF_GrossDomesticProduct;20210518;07:00;Gross Domestic Product (YoY);Hungary;HUF;1
+EUR_ItaGlobalTradeBalance;20210518;08:00;Global Trade Balance;Italy;EUR;1
+EUR_ItaTradeBalanceEU;20210518;08:00;Trade Balance EU;Italy;EUR;1
+EUR_EurTradeBalance;20210518;09:00;Trade Balance n.s.a.;European Monetary Union;EUR;1
+EUR_EurGrossDomesticProduct;20210518;09:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+EUR_EurEmploymentChange;20210518;09:00;Employment Change (YoY);European Monetary Union;EUR;1
+ILS_GrossDomesticProduct;20210518;10:00;Gross Domestic Product (QoQ);Israel;ILS;1
+USD_BuildingPermits;20210518;12:30;Building Permits (MoM);United States;USD;2
+USD_HousingStarts;20210518;12:30;Housing Starts (MoM);United States;USD;2
+USD_HousingStartsChange;20210518;12:30;Housing Starts Change;United States;USD;1
+USD_BuildingPermitsChange;20210518;12:30;Building Permits Change;United States;USD;1
+CLP_GrossDomesticProduct;20210518;12:30;Gross Domestic Product (YoY);Chile;CLP;1
+USD_RedbookIndex;20210518;12:55;Redbook Index (YoY);United States;USD;1
+EUR_EurCentralBankSpeech;20210518;14:00;ECB President Lagarde speech;European Monetary Union;EUR;3
+GBP_CentralBankSpeech;20210518;14:00;BoE Governor Bailey speech;United Kingdom;GBP;3
+NZD_GDTPriceIndex;20210518;14:30;GDT Price Index;New Zealand;NZD;1
+KRW_BuddhasBirthday;20210518;15:00;Buddhas Birthday;South Korea;KRW;0
+USD_Auction;20210518;16:00;52-Week Bill Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20210518;20:30;API Weekly Crude Oil Stock;United States;USD;1
+TRY_CommemorationofAtaturkYouthandSportsDay;20210518;21:00;Commemoration of Ataturk, Youth and Sports Day;Turkey;TRY;0
+NZD_ProducerPriceIndex;20210518;22:45;Producer Price Index - Input (QoQ);New Zealand;NZD;1

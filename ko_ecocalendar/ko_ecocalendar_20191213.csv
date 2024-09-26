@@ -1,0 +1,30 @@
+EUR_EurEUleaderssummit;20191213;00:00;EU leaders summit;European Monetary Union;EUR;2
+EUR_EurEuropeanCouncilMeeting;20191213;00:00;European Council Meeting;European Monetary Union;EUR;2
+KRW_TradeBalance;20191213;02:00;Trade Balance;South Korea;KRW;1
+JPY_IndustrialProduction;20191213;04:30;Industrial Production (MoM);Japan;JPY;1
+JPY_CapacityUtilization;20191213;04:30;Capacity Utilization;Japan;JPY;1
+TRY_IndustrialProduction;20191213;07:00;Industrial Production (YoY);Turkey;TRY;1
+EUR_GerWholesalePriceIndex;20191213;07:00;Wholesale Price Index (MoM);Germany;EUR;1
+EUR_ItaIndustrialOrders;20191213;09:00;Industrial Orders n.s.a (YoY);Italy;EUR;1
+EUR_ItaIndustrialSales;20191213;09:00;Industrial Sales n.s.a. (YoY);Italy;EUR;1
+GBP_ConsumerInflationExpectations;20191213;09:30;Consumer Inflation Expectations;United Kingdom;GBP;1
+RUB_Interestratedecision;20191213;10:30;Interest rate decision;Russia;RUB;2
+ILS_M1MoneySupply;20191213;11:00;M1 Money Supply (MoM);Israel;ILS;1
+INR_FXReservesUSD;20191213;11:30;FX Reserves, USD;India;INR;1
+INR_TradeDeficitGovernment;20191213;12:00;Trade Deficit Government;India;INR;1
+USD_RetailSales;20191213;13:30;Retail Sales ex Autos (MoM);United States;USD;2
+USD_ImportPriceIndex;20191213;13:30;Import Price Index (YoY);United States;USD;1
+USD_ExportPriceIndex;20191213;13:30;Export Price Index (MoM);United States;USD;1
+COP_RetailSales;20191213;15:00;Retail Sales (YoY);Colombia;COP;1
+COP_Industrialoutput;20191213;15:00;Industrial output (YoY);Colombia;COP;1
+USD_BusinessInventories;20191213;15:00;Business Inventories;United States;USD;1
+USD_CentralBankSpeech;20191213;16:00;Fed Williams speech;United States;USD;2
+EUR_EurCentralBankSpeech;20191213;17:00;ECB De Guindos speech;European Monetary Union;EUR;2
+USD_BakerHughesUSOilRigCount;20191213;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20191213;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20191213;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCS&P500NCNetPositions;20191213;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20191213;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCOilNCNetPositions;20191213;20:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20191213;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20191213;20:30;CFTC Gold NC Net Positions;United States;USD;1

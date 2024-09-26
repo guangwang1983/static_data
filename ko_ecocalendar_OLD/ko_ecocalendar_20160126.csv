@@ -1,0 +1,24 @@
+AUD_WestpacLeadingIndex;20160126;23:30;Westpac Leading Index (MoM);Australia;AUD;1
+USD_APIWeeklyCrudeOilStock;20160126;21:30;API Weekly Crude Oil Stock;United States;USD;2
+KRW_ConsumerSentimentIndex;20160126;21:00;Consumer Sentiment Index;South Korea;KRW;1
+USD_Auction;20160126;18:00;2-Year Note Auction;United States;USD;1
+USD_ConsumerConfidence;20160126;15:00;Consumer Confidence;United States;USD;2
+USD_RichmondFedManufacturingIndex;20160126;15:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_MarkitServicesPMI;20160126;14:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20160126;14:45;Markit PMI Composite;United States;USD;2
+USD_S&PCaseShillerHomePriceIndices;20160126;14:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;2
+MXN_RetailSales;20160126;14:00;Retail Sales (YoY);Mexico;MXN;1
+USD_HousingPriceIndex;20160126;14:00;Housing Price Index (MoM);United States;USD;2
+USD_RedbookIndex;20160126;13:55;Redbook Index (MoM);United States;USD;1
+EUR_SloCurrentAccount;20160126;13:30;Current Account Balance EUR;Slovakia;EUR;1
+HUF_MNBInterestRateDecision;20160126;13:00;MNB Interest Rate Decision;Hungary;HUF;1
+BRL_CurrentAccount;20160126;12:30;Current Account;Brazil;BRL;1
+EUR_SpaAuction;20160126;10:54;9-Month Letras Auction;Spain;EUR;1
+GBP_CentralBankSpeech;20160126;10:45;BoE Governor Carney speech;United Kingdom;GBP;3
+PLN_Unemployment;20160126;09:00;Unemployment (MoM);Poland;PLN;1
+SEK_ProducerPriceIndex;20160126;08:30;Producer Price Index (YoY);Sweden;SEK;1
+CHF_Exports;20160126;07:00;Exports (MoM);Switzerland;CHF;1
+CHF_Imports;20160126;07:00;Imports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20160126;07:00;Trade Balance;Switzerland;CHF;1
+AUD_AustraliaDay;20160126;00:00;Australia Day;Australia;AUD;0
+INR_RepublicDay;20160126;00:00;Republic Day ;India;INR;0

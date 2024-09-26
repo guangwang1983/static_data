@@ -1,0 +1,23 @@
+GBP_ChristmasDay;20201225;00:00;Christmas Day;United Kingdom;GBP;0
+BRL_ChristmasDay;20201225;03:00;Christmas Day;Brazil;BRL;0
+CLP_ChristmasDay;20201225;04:00;Christmas Day;Chile;CLP;0
+JPY_AnnualizedHousingStarts;20201225;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_ConstructionOrders;20201225;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_HousingStarts;20201225;05:00;Housing Starts (YoY);Japan;JPY;1
+CAD_ChristmasDay;20201225;05:00;Christmas Day;Canada;CAD;0
+USD_ChristmasDay;20201225;05:00;Christmas Day;United States;USD;0
+COP_ChristmasDay;20201225;05:00;Christmas Day;Colombia;COP;0
+MXN_ChristmasDay;20201225;06:00;Christmas Day ;Mexico;MXN;0
+TRY_CapacityUtilization;20201225;07:00;Capacity Utilization;Turkey;TRY;1
+TRY_ManufacturingConfidence;20201225;07:00;Manufacturing Confidence;Turkey;TRY;1
+TRY_ForeignArrivals;20201225;08:00;Foreign Arrivals;Turkey;TRY;1
+INR_FXReservesUSD;20201225;11:30;FX Reserves, USD;India;INR;1
+RON_BoxingDay;20201225;21:00;Boxing Day;Romania;RON;0
+CHF_StStephenDay;20201225;22:00;St Stephen Day;Switzerland;CHF;0
+EUR_GerBoxingDay;20201225;22:00;Boxing Day;Germany;EUR;0
+ZAR_DayOfGoodwill;20201225;22:00;Day Of Goodwill;South Africa;ZAR;0
+EUR_ItaStStephenDay;20201225;22:00;St Stephen Day;Italy;EUR;0
+HUF_SecondDayofChristmas;20201225;22:00;Second Day of Christmas ;Hungary;HUF;0
+SEK_SecondDayofChristmas;20201225;22:00;Second Day of Christmas;Sweden;SEK;0
+PLN_StStephenDay;20201225;23:00;St Stephen Day ;Poland;PLN;0
+NOK_BoxingDay;20201225;23:00;Boxing Day;Norway;NOK;0

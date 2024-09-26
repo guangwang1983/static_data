@@ -1,0 +1,38 @@
+#Source global definitions
+if [ -f /etc/bashrc ]; then
+    . /etc/bashrc
+fi
+
+
+#Enable History appending instead of overwriting
+shopt -s histappend
+#User Specific aliases and func
+umask 0007
+alias ..='cd ..'
+alias l="ls -l"
+#PS1=" \`pwd\` \n\$ "
+export TERM=xterm-color
+export GREP_OPTIONS='--color=auto' GREP_COLOR='1;32'
+export CLICOLOR=1
+export LSCOLORS=ExFxCxDxBxegedabagacad
+#PS1='\e[33;1m\u@\h: \e[31m\W\e[0m\$ '
+#git_branch () { git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/\1/'; }
+HOST='\033[01;31m\]\h'; HOST=' '$HOST
+HOST2='\h'; HOST2=' '$HOST2
+#TIME='\033[01;31m\]\t \033[01;32m\]'
+LOCATION=' \033[01;34m\]`pwd | sed "s#\(/[^/]\{1,\}/[^/]\{1,\}/[^/]\{1,\}/\).*\(/[^/]\{1,\}/[^/]\{1,\}\)/\{0,1\}#\1_\2#g"`'
+LOCATION2='\033[01;31m\] $(pwd) \n\$ '
+LOCATION3=' $(pwd) \n\$ '
+#BRANCH=' \033[00;33m\]$(git_branch)\[\033[00m\]\n\$ '
+#PS1='\e[01;31m\]'$USER" matterhorn_euprod"$LOCATION2
+PS1="\[\e[01;31m\]\u@EU-PROD \`pwd\` \[\e[m\]\$ "
+
+export STATICDATAPATH=/export/home/scratch/matterhorn/static_data
+
+export PATH=/sbin:/usr/sbin:/bin:/usr/bin:/export/home/scratch/matterhorn/productionScripts:$PATH
+export PYTHONPATH=/export/home/scratch/matterhorn/scripts/python:$PYTHONPATH
+
+source /dat/wqsys/public/Hydra-20210715/centos7/mdapi_run_dir/setenv.mdapi
+
+export TZ=/usr/share/zoneinfo/Europe/Zurich
+

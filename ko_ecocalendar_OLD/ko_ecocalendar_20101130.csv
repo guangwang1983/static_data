@@ -1,0 +1,21 @@
+AUD_AiGPerformanceofMfgIndex;20101130;22:30;AiG Performance of Mfg Index;Australia;AUD;2
+USD_CentralBankSpeech;20101130;20:00;Former Fed Chair Bernanke speech;United States;USD;2
+EUR_EurCentralBankSpeech;20101130;15:30;ECB President Trichet speech;European Monetary Union;EUR;2
+USD_ConsumerConfidence;20101130;15:00;Consumer Confidence;United States;USD;3
+USD_ChicagoPurchasingManagers'Index;20101130;14:45;Chicago Purchasing Managers' Index;United States;USD;2
+USD_S&PCaseShillerHomePriceIndices;20101130;14:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;1
+CAD_GrossDomesticProduct;20101130;13:30;Gross Domestic Product Annualized (QoQ);Canada;CAD;2
+EUR_EurUnemploymentRate;20101130;10:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_EurConsumerPriceIndex;20101130;10:00;Consumer Price Index (YoY);European Monetary Union;EUR;3
+EUR_GerUnemploymentChange;20101130;08:55;Unemployment Change;Germany;EUR;2
+EUR_GerUnemploymentRate;20101130;08:55;Unemployment Rate s.a.;Germany;EUR;2
+CHF_UBSConsumptionIndicator;20101130;07:00;UBS Consumption Indicator;Switzerland;CHF;2
+JPY_AnnualizedHousingStarts;20101130;05:00;Annualized Housing Starts;Japan;JPY;2
+JPY_HousingStarts;20101130;05:00;Housing Starts (YoY);Japan;JPY;2
+JPY_ConstructionOrders;20101130;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_VehicleProduction;20101130;04:00;Vehicle Production (YoY);Japan;JPY;1
+JPY_LaborCashEarnings;20101130;01:30;Labor Cash Earnings (YoY);Japan;JPY;2
+AUD_CurrentAccount;20101130;00:30;Current Account Balance;Australia;AUD;2
+AUD_PrivateSectorCredit;20101130;00:30;Private Sector Credit (YoY);Australia;AUD;2
+AUD_BuildingPermits;20101130;00:30;Building Permits (MoM);Australia;AUD;1
+GBP_GfKConsumerConfidence;20101130;00:01;GfK Consumer Confidence;United Kingdom;GBP;2

@@ -1,0 +1,16 @@
+SEK_ProducerPriceIndex;20230926;06:00;Producer Price Index (YoY);Sweden;SEK;1
+HUF_CurrentAccount;20230926;06:30;Current Account Balance (QoQ);Hungary;HUF;1
+BRL_MidmonthInflation;20230926;12:00;Mid-month Inflation;Brazil;BRL;1
+HUF_MNBInterestRateDecision;20230926;12:00;MNB Interest Rate Decision;Hungary;HUF;1
+USD_RedbookIndex;20230926;12:55;Redbook Index (YoY);United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20230926;13:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;1
+USD_HousingPriceIndex;20230926;13:00;Housing Price Index (MoM);United States;USD;2
+USD_ConsumerConfidence;20230926;14:00;Consumer Confidence;United States;USD;2
+USD_NewHomeSalesChange;20230926;14:00;New Home Sales Change (MoM);United States;USD;2
+USD_NewHomeSales;20230926;14:00;New Home Sales (MoM);United States;USD;1
+USD_RichmondFedManufacturingIndex;20230926;14:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_Auction;20230926;17:00;2-Year Note Auction;United States;USD;1
+USD_CentralBankSpeech;20230926;17:30;Fed Bowman speech;United States;USD;2
+USD_APIWeeklyCrudeOilStock;20230926;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_BOKManufacturingBSI;20230926;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+JPY_BoJMonetaryPolicyMeetingMinutes;20230926;23:50;BoJ Monetary Policy Meeting Minutes;Japan;JPY;2

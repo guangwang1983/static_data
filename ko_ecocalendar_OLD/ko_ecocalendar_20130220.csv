@@ -1,0 +1,35 @@
+JPY_ForeignBondInvestment;20130220;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20130220;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+COP_TradeBalance;20130220;22:00;Trade Balance;Colombia;COP;1
+USD_FOMCMinutes;20130220;19:00;FOMC Minutes;United States;USD;3
+USD_Auction;20130220;16:30;4-Week Bill Auction;United States;USD;1
+EUR_EurConsumerConfidence;20130220;15:00;Consumer Confidence;European Monetary Union;EUR;2
+USD_RedbookIndex;20130220;13:55;Redbook Index (YoY);United States;USD;1
+USD_HousingStarts;20130220;13:30;Housing Starts (MoM);United States;USD;1
+USD_BuildingPermits;20130220;13:30;Building Permits (MoM);United States;USD;2
+USD_ProducerPriceIndex;20130220;13:30;Producer Price Index (MoM);United States;USD;2
+USD_MBAMortgageApplications;20130220;12:00;MBA Mortgage Applications;United States;USD;1
+EUR_SloUnemploymentRate;20130220;11:00;Unemployment Rate;Slovakia;EUR;1
+EUR_GerAuction;20130220;10:50;10-y Bond Auction;Germany;EUR;2
+CHF_ZEWSurveyExpectations;20130220;10:00;ZEW Survey - Expectations;Switzerland;CHF;2
+INR_M3MoneySupply;20130220;09:30;M3 Money Supply;India;INR;1
+GBP_BankofEnglandMinutes;20130220;09:30;Bank of England Minutes;United Kingdom;GBP;3
+GBP_AverageEarningsExcludingBonus;20130220;09:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;1
+GBP_ClaimantCountChange;20130220;09:30;Claimant Count Change;United Kingdom;GBP;3
+GBP_ClaimantCountRate;20130220;09:30;Claimant Count Rate;United Kingdom;GBP;2
+GBP_AverageEarningsIncludingBonus;20130220;09:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;1
+GBP_ILOUnemploymentRate;20130220;09:30;ILO Unemployment Rate (3M);United Kingdom;GBP;2
+EUR_ItaIndustrialSales;20130220;09:00;Industrial Sales n.s.a. (YoY);Italy;EUR;1
+EUR_ItaIndustrialOrders;20130220;09:00;Industrial Orders n.s.a (YoY);Italy;EUR;1
+DKK_ConsumerConfidence;20130220;08:00;Consumer Confidence;Denmark;DKK;1
+ZAR_ConsumerPriceIndex;20130220;08:00;Consumer Price Index (MoM);South Africa;ZAR;1
+EUR_FraConsumerPriceIndex;20130220;07:45;Consumer Price Index (EU norm) (YoY);France;EUR;1
+EUR_FraInflationextobacco;20130220;07:45;Inflation ex-tobacco (MoM);France;EUR;1
+EUR_FraBusinessClimate;20130220;07:45;Business Climate;France;EUR;1
+EUR_GerProducerPriceIndex;20130220;07:00;Producer Price Index (MoM);Germany;EUR;2
+EUR_GerConsumerPriceIndex;20130220;07:00;Consumer Price Index (MoM);Germany;EUR;2
+EUR_GerHarmonizedIndexofConsumerPrices;20130220;07:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+JPY_AllIndustryActivityIndex;20130220;04:30;All Industry Activity Index (MoM);Japan;JPY;2
+CNY_FDIForeignDirectInvestment;20130220;02:33;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;1
+NZD_CentralBankSpeech;20130220;02:30;RBNZ Governor Wheeler Speech;New Zealand;NZD;2
+AUD_WagePriceIndex;20130220;00:30;Wage Price Index (QoQ);Australia;AUD;1

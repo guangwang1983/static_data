@@ -1,0 +1,33 @@
+JPY_RetailTrade;20171128;23:50;Retail Trade (YoY);Japan;JPY;2
+JPY_LargeRetailers'Sales;20171128;23:50;Large Retailers' Sales;Japan;JPY;2
+USD_APIWeeklyCrudeOilStock;20171128;21:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_RBNZFinancialStabilityReport;20171128;20:00;RBNZ Financial Stability Report;New Zealand;NZD;2
+USD_CentralBankSpeech;20171128;18:00;FOMC Member Powell speech (don't use);United States;USD;2
+CAD_CentralBankSpeech;20171128;16:30;BoC Governor Poloz speech;Canada;CAD;3
+USD_Auction;20171128;16:30;4-Week Bill Auction;United States;USD;1
+CAD_FinancialSystemReview;20171128;15:30;Financial System Review;Canada;CAD;1
+USD_RichmondFedManufacturingIndex;20171128;15:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20171128;14:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;2
+MXN_JoblessRate;20171128;14:00;Jobless Rate s.a;Mexico;MXN;1
+USD_HousingPriceIndex;20171128;14:00;Housing Price Index (MoM);United States;USD;2
+USD_RedbookIndex;20171128;13:55;Redbook Index (MoM);United States;USD;1
+CAD_RawMaterialPriceIndex;20171128;13:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20171128;13:30;Industrial Product Price (MoM);Canada;CAD;1
+USD_WholesaleInventories;20171128;13:30;Wholesale Inventories;United States;USD;1
+USD_GoodsTradeBalance;20171128;13:30;Goods Trade Balance;United States;USD;1
+EUR_SloCurrentAccount;20171128;13:30;Current Account Balance EUR;Slovakia;EUR;1
+EUR_GerGfkConsumerConfidenceSurvey;20171128;12:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+EUR_IreRetailSales;20171128;11:00;Retail Sales (MoM);Ireland;EUR;1
+ISK_ConsumerPriceIndex;20171128;09:00;Consumer Price Index (YoY);Iceland;ISK;1
+EUR_EurPrivateLoans;20171128;09:00;Private Loans (YoY);European Monetary Union;EUR;1
+EUR_EurM3MoneySupply;20171128;09:00;M3 Money Supply (YoY);European Monetary Union;EUR;1
+SEK_RetailSales;20171128;08:30;Retail Sales (YoY);Sweden;SEK;1
+SEK_TradeBalance;20171128;08:30;Trade Balance (MoM);Sweden;SEK;1
+EUR_SpaRetailSales;20171128;08:00;Retail Sales (YoY);Spain;EUR;1
+EUR_FraConsumerConfidence;20171128;07:45;Consumer Confidence;France;EUR;1
+GBP_CentralBankSpeech;20171128;07:30;BoE Governor Carney speech;United Kingdom;GBP;3
+GBP_FPCStatement;20171128;07:00;FPC Statement;United Kingdom;GBP;1
+GBP_BankStressTestResults;20171128;07:00;Bank Stress Test Results;United Kingdom;GBP;3
+EUR_GerImportPriceIndex;20171128;07:00;Import Price Index (YoY);Germany;EUR;1
+TRY_Economicconfidenceindex;20171128;07:00;Economic confidence index;Turkey;TRY;1
+GBP_FinancialStabilityReport;20171128;07:00;Financial Stability Report;United Kingdom;GBP;2

@@ -1,0 +1,29 @@
+AUD_InvestmentLendingforHomes;20231003;00:30;Investment Lending for Homes;Australia;AUD;1
+AUD_HomeLoans;20231003;00:30;Home Loans;Australia;AUD;1
+AUD_ANZJobAdvertisements;20231003;00:30;ANZ Job Advertisements;Australia;AUD;1
+AUD_BuildingPermits;20231003;00:30;Building Permits (MoM);Australia;AUD;2
+AUD_RBAInterestRateDecision;20231003;03:30;RBA Interest Rate Decision;Australia;AUD;3
+AUD_RBARateStatement;20231003;03:30;RBA Rate Statement;Australia;AUD;3
+JPY_Auction;20231003;03:35;10-y Bond Auction;Japan;JPY;1
+AUD_RBACommodityIndexSDR;20231003;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+CHF_ConsumerPriceIndex;20231003;06:30;Consumer Price Index (YoY);Switzerland;CHF;3
+EUR_FraBudgetBalance;20231003;06:45;Budget Balance;France;EUR;1
+TRY_ProducerPriceIndex;20231003;07:00;Producer Price Index (MoM);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20231003;07:00;Consumer Price Index (MoM);Turkey;TRY;1
+TRY_Exports;20231003;08:00;Exports;Turkey;TRY;1
+BRL_FipeIPCInflation;20231003;08:00;Fipe IPC Inflation;Brazil;BRL;1
+BRL_IndustrialOutput;20231003;12:00;Industrial Output (MoM);Brazil;BRL;1
+USD_RedbookIndex;20231003;12:55;Redbook Index (YoY);United States;USD;1
+USD_JOLTSJobOpenings;20231003;14:00;JOLTS Job Openings;United States;USD;2
+USD_IBDTIPPEconomicOptimism;20231003;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+NZD_GDTPriceIndex;20231003;14:00;GDT Price Index;New Zealand;NZD;1
+DKK_CurrencyReserves;20231003;15:00;Currency Reserves;Denmark;DKK;1
+USD_Auction;20231003;15:30;52-Week Bill Auction;United States;USD;1
+CNY_NationalDay;20231003;16:00;National Day;China;CNY;0
+USD_TotalVehicleSales;20231003;19:30;Total Vehicle Sales;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20231003;20:30;API Weekly Crude Oil Stock;United States;USD;1
+AUD_AiGIndustryIndex;20231003;22:00;AiG Industry Index;Australia;AUD;2
+AUD_AiGManufacturingPMI;20231003;22:00;AiG Manufacturing PMI;Australia;AUD;1
+AUD_S&PGlobalCompositePMI;20231003;22:00;S&P Global Composite PMI;Australia;AUD;2
+AUD_S&PGlobalServicesPMI;20231003;22:00;S&P Global Services PMI;Australia;AUD;2
+AUD_AiGConstructionPMI;20231003;22:00;AiG Construction PMI;Australia;AUD;1

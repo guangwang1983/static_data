@@ -1,0 +1,29 @@
+COP_TradeBalance;20170317;22:00;Trade Balance;Colombia;COP;1
+AUD_CFTCAUDNCNetPositions;20170317;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+JPY_CFTCJPYNCNetPositions;20170317;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCGoldNCNetPositions;20170317;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCUSDNCNetPositions;20170317;20:30;CFTC USD NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20170317;20:30;CFTC Oil NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20170317;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+GBP_CFTCGBPNCNetPositions;20170317;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_BakerHughesUSOilRigCount;20170317;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_TrumpMerkelMeeting;20170317;16:30;Trump - Merkel Meeting;United States;USD;3
+USD_LaborMarketConditionsIndex;20170317;15:00;Labor Market Conditions Index;United States;USD;2
+EUR_BelConsumerConfidenceIndex;20170317;14:00;Consumer Confidence Index;Belgium;EUR;1
+USD_MichiganConsumerSentimentIndex;20170317;14:00;Michigan Consumer Sentiment Index;United States;USD;1
+USD_IndustrialProduction;20170317;13:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20170317;13:15;Capacity Utilization;United States;USD;2
+PLN_RetailSales;20170317;13:00;Retail Sales (YoY);Poland;PLN;1
+PLN_IndustrialOutput;20170317;13:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20170317;13:00;Producer Price Index (YoY);Poland;PLN;1
+CAD_ManufacturingShipments;20170317;12:30;Manufacturing Shipments (MoM);Canada;CAD;1
+GBP_BoEQuarterlyBulletin;20170317;12:00;BoE Quarterly Bulletin;United Kingdom;GBP;1
+EUR_EurG20Meeting;20170317;12:00;G20 Meeting;European Monetary Union;EUR;2
+INR_M3MoneySupply;20170317;11:30;M3 Money Supply;India;INR;1
+INR_BankLoanGrowth;20170317;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20170317;11:30;FX Reserves, USD;India;INR;1
+EUR_EurTradeBalance;20170317;10:00;Trade Balance n.s.a.;European Monetary Union;EUR;2
+EUR_EurConstructionOutput;20170317;10:00;Construction Output  s.a (MoM);European Monetary Union;EUR;1
+EUR_ItaTradeBalanceEU;20170317;09:00;Trade Balance EU;Italy;EUR;1
+EUR_ItaGlobalTradeBalance;20170317;09:00;Global Trade Balance;Italy;EUR;1
+EUR_IreStPatrickDay;20170317;00:00;St Patrick Day;Ireland;EUR;0

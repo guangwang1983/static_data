@@ -1,0 +1,49 @@
+USD_CentralBankSpeech;20141120;18:30;Fed Mester speech;United States;USD;1
+USD_EIANaturalGasStorageChange;20141120;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_ExistingHomeSalesChange;20141120;15:00;Existing Home Sales Change (MoM);United States;USD;2
+USD_ExistingHomeSales;20141120;15:00;Existing Home Sales (MoM);United States;USD;1
+EUR_EurConsumerConfidence;20141120;15:00;Consumer Confidence;European Monetary Union;EUR;2
+USD_PhiladelphiaFedManufacturingSurvey;20141120;15:00;Philadelphia Fed Manufacturing Survey;United States;USD;2
+USD_MarkitManufacturingPMI;20141120;14:45;Markit Manufacturing PMI;United States;USD;2
+EUR_BelConsumerConfidenceIndex;20141120;14:00;Consumer Confidence Index;Belgium;EUR;1
+MXN_RetailSales;20141120;14:00;Retail Sales (YoY);Mexico;MXN;1
+USD_JoblessClaims;20141120;13:30;Continuing Jobless Claims;United States;USD;2
+USD_ConsumerPriceIndex;20141120;13:30;Consumer Price Index ex Food & Energy (MoM);United States;USD;2
+CAD_WholesaleSales;20141120;13:30;Wholesale Sales (MoM);Canada;CAD;1
+EUR_PorCurrentAccount;20141120;13:27;Current Account Balance;Portugal;EUR;1
+ZAR_SARBInterestRateDecision;20141120;13:00;SARB Interest Rate Decision;South Africa;ZAR;1
+PLN_IndustrialOutput;20141120;13:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20141120;13:00;Producer Price Index (YoY);Poland;PLN;1
+RUB_ProducerPriceIndex;20141120;12:00;Producer Price Index (MoM);Russia;RUB;1
+EUR_SloUnemploymentRate;20141120;11:00;Unemployment Rate;Slovakia;EUR;1
+RUB_CentralBankReserves;20141120;11:00;Central Bank Reserves $;Russia;RUB;1
+TRY_CBRTInterestRateDecision;20141120;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+GBP_CBIIndustrialTrendsSurveyOrders;20141120;11:00;CBI Industrial Trends Survey - Orders (MoM);United Kingdom;GBP;1
+EUR_GreCurrentAccount;20141120;10:00;Current Account (YoY);Greece;EUR;1
+EUR_SpaAuction;20141120;09:54;5-y Bond Auction;Spain;EUR;1
+GBP_RetailSales;20141120;09:30;Retail Sales (YoY);United Kingdom;GBP;2
+NOK_GrossDomesticProduct;20141120;09:00;Gross Domestic Product Growth Mainland;Norway;NOK;1
+EUR_ItaIndustrialOrders;20141120;09:00;Industrial Orders n.s.a (YoY);Italy;EUR;1
+EUR_ItaIndustrialSales;20141120;09:00;Industrial Sales s.a. (MoM);Italy;EUR;1
+EUR_EurMarkitPMIComposite;20141120;09:00;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitManufacturingPMI;20141120;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20141120;09:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_NetUnemploymentRate;20141120;08:30;Unemployment Rate s.a (3M);Netherlands, The;EUR;1
+EUR_NetConsumerConfidenceAdj;20141120;08:30;Consumer Confidence Adj;Netherlands, The;EUR;1
+EUR_NetConsumerSpendingVolume;20141120;08:30;Consumer Spending Volume;Netherlands, The;EUR;1
+EUR_GerMarkitManufacturingPMI;20141120;08:30;Markit Manufacturing PMI;Germany;EUR;2
+EUR_GerMarkitServicesPMI;20141120;08:30;Markit Services PMI;Germany;EUR;2
+HKD_ConsumerPriceIndex;20141120;08:30;Consumer Price Index;Hong Kong SAR;HKD;1
+DKK_ConsumerConfidence;20141120;08:00;Consumer Confidence;Denmark;DKK;1
+EUR_FraMarkitManufacturingPMI;20141120;08:00;Markit Manufacturing PMI;France;EUR;1
+EUR_FraMarkitServicesPMI;20141120;08:00;Markit Services PMI;France;EUR;1
+DKK_RetailSales;20141120;08:00;Retail Sales (YoY);Denmark;DKK;1
+CHF_Imports;20141120;07:00;Imports (MoM);Switzerland;CHF;1
+CHF_Exports;20141120;07:00;Exports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20141120;07:00;Trade Balance;Switzerland;CHF;2
+EUR_GerProducerPriceIndex;20141120;07:00;Producer Price Index (YoY);Germany;EUR;1
+JPY_BoJMonthlyEconomicSurvey;20141120;05:00;BoJ Monthly Economic Survey;Japan;JPY;2
+CNY_CaixinManufacturingPMI;20141120;01:45;Caixin Manufacturing PMI;China;CNY;1
+JPY_NikkeiManufacturingPMI;20141120;01:35;Nikkei Manufacturing PMI;Japan;JPY;1
+AUD_RBAForeignExchangeTransaction;20141120;00:30;RBA Foreign Exchange Transaction;Australia;AUD;1
+BRL_ZumbidosPalmares;20141120;00:00;Zumbi dos Palmares ;Brazil;BRL;0

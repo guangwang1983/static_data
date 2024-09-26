@@ -1,0 +1,30 @@
+AUD_NationalAustraliaBankBusinessConfidence;20200811;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20200811;01:30;National Australia Bank Business Conditions;Australia;AUD;1
+CNY_NewLoans;20200811;02:00;New Loans;China;CNY;1
+IDR_RetailSales;20200811;03:00;Retail Sales (YoY);Indonesia;IDR;1
+JPY_EcoWatchersSurvey:Outlook;20200811;05:00;Eco Watchers Survey: Outlook;Japan;JPY;1
+JPY_EcoWatchersSurvey:Current;20200811;05:00;Eco Watchers Survey: Current;Japan;JPY;1
+GBP_AverageEarningsIncludingBonus;20200811;06:00;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20200811;06:00;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_AverageEarningsExcludingBonus;20200811;06:00;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountChange;20200811;06:00;Claimant Count Change;United Kingdom;GBP;3
+GBP_ClaimantCountRate;20200811;06:00;Claimant Count Rate;United Kingdom;GBP;2
+HUF_ConsumerPriceIndex;20200811;07:00;Consumer Price Index (YoY);Hungary;HUF;1
+EUR_GerZEWSurvey–EconomicSentiment;20200811;09:00;ZEW Survey – Economic Sentiment;Germany;EUR;2
+EUR_EurZEWSurvey–EconomicSentiment;20200811;09:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurvey–CurrentSituation;20200811;09:00;ZEW Survey – Current Situation;Germany;EUR;2
+USD_NFIBBusinessOptimismIndex;20200811;10:00;NFIB Business Optimism Index;United States;USD;1
+ZAR_ManufacturingProductionIndex;20200811;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+MXN_IndustrialOutput;20200811;11:00;Industrial Output (MoM);Mexico;MXN;1
+INR_IndustrialOutput;20200811;12:17;Industrial Output;India;INR;1
+INR_CumulativeIndustrialOutput;20200811;12:17;Cumulative Industrial Output;India;INR;1
+INR_ManufacturingOutput;20200811;12:17;Manufacturing Output;India;INR;1
+CAD_HousingStarts;20200811;12:24;Housing Starts s.a (YoY);Canada;CAD;1
+USD_ProducerPriceIndex;20200811;12:30;Producer Price Index (MoM);United States;USD;1
+USD_RedbookIndex;20200811;12:55;Redbook Index (YoY);United States;USD;1
+RUB_ForeignTrade;20200811;13:00;Foreign Trade;Russia;RUB;1
+USD_Auction;20200811;17:00;52-Week Bill Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20200811;20:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_VisitorArrivals;20200811;22:45;Visitor Arrivals (YoY);New Zealand;NZD;1
+KRW_UnemploymentRate;20200811;23:00;Unemployment Rate;South Korea;KRW;1
+JPY_MoneySupplyM2+CD;20200811;23:50;Money Supply M2+CD (YoY);Japan;JPY;1

@@ -1,0 +1,16 @@
+USD_ISMManufacturingPMI;20080701;14:00;ISM Manufacturing PMI;United States;USD;2
+USD_ConstructionSpending;20080701;14:00;Construction Spending (MoM);United States;USD;1
+EUR_EurUnemploymentRate;20080701;09:00;Unemployment Rate;European Monetary Union;EUR;1
+GBP_NetLendingtoIndividuals;20080701;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_MarkitManufacturingPMI;20080701;08:30;Markit Manufacturing PMI;United Kingdom;GBP;1
+EUR_EurMarkitManufacturingPMI;20080701;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;1
+EUR_GerUnemploymentRate;20080701;07:55;Unemployment Rate s.a.;Germany;EUR;2
+EUR_GerUnemploymentChange;20080701;07:55;Unemployment Change;Germany;EUR;1
+EUR_GerMarkitManufacturingPMI;20080701;07:55;Markit Manufacturing PMI;Germany;EUR;2
+CHF_SVMEPurchasingManagers'Index;20080701;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+AUD_RBACommodityIndexSDR;20080701;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+GBP_NationwideHousingPrices;20080701;06:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;1
+EUR_GerRetailSales;20080701;06:00;Retail Sales (YoY);Germany;EUR;1
+JPY_VehicleSales;20080701;05:00;Vehicle Sales (YoY);Japan;JPY;1
+AUD_RBAInterestRateDecision;20080701;04:30;RBA Interest Rate Decision;Australia;AUD;3
+JPY_LaborCashEarnings;20080701;01:30;Labor Cash Earnings (YoY);Japan;JPY;1

@@ -1,0 +1,36 @@
+RUB_NationalDay;20210611;21:00;National Day ;Russia;RUB;0
+EUR_EurCFTCEURNCNetPositions;20210611;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20210611;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCS&P500NCNetPositions;20210611;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20210611;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20210611;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20210611;19:30;CFTC Oil NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20210611;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_BakerHughesUSOilRigCount;20210611;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+CAD_CentralBankSpeech;20210611;15:00;BoC Beaudry speech;Canada;CAD;2
+AUD_QueenBirthday;20210611;14:00;Queen Birthday;Australia;AUD;0
+USD_MichiganConsumerSentimentIndex;20210611;14:00;Michigan Consumer Sentiment Index;United States;USD;3
+RUB_ForeignTrade;20210611;13:00;Foreign Trade;Russia;RUB;1
+CAD_CapacityUtilization;20210611;12:30;Capacity Utilization;Canada;CAD;1
+INR_ManufacturingOutput;20210611;12:00;Manufacturing Output;India;INR;1
+INR_IndustrialOutput;20210611;12:00;Industrial Output;India;INR;1
+INR_CumulativeIndustrialOutput;20210611;12:00;Cumulative Industrial Output;India;INR;1
+INR_FXReservesUSD;20210611;11:30;FX Reserves, USD;India;INR;1
+MXN_IndustrialOutput;20210611;11:00;Industrial Output (MoM);Mexico;MXN;1
+RUB_Interestratedecision;20210611;10:30;Interest rate decision;Russia;RUB;2
+EUR_GreUnemploymentRate;20210611;09:00;Unemployment Rate (QoQ);Greece;EUR;1
+GBP_NIESRGDPEstimate;20210611;08:00;NIESR GDP Estimate (3M);United Kingdom;GBP;2
+TRY_IndustrialProduction;20210611;07:00;Industrial Production (YoY);Turkey;TRY;1
+EUR_SpaConsumerPriceIndex;20210611;07:00;Consumer Price Index (MoM);Spain;EUR;1
+EUR_SpaHICP;20210611;07:00;HICP (YoY);Spain;EUR;1
+GBP_IndustrialProduction;20210611;06:00;Industrial Production (YoY);United Kingdom;GBP;1
+GBP_ManufacturingProduction;20210611;06:00;Manufacturing Production (MoM);United Kingdom;GBP;2
+EUR_GerWholesalePriceIndex;20210611;06:00;Wholesale Price Index (MoM);Germany;EUR;1
+RON_ConsumerPriceIndex;20210611;06:00;Consumer Price Index;Romania;RON;1
+GBP_IndexofServices;20210611;06:00;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20210611;06:00;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20210611;06:00;Total Trade Balance;United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20210611;06:00;Goods Trade Balance;United Kingdom;GBP;1
+GBP_GrossDomesticProduct;20210611;06:00;Gross Domestic Product (MoM);United Kingdom;GBP;2
+EUR_FinCurrentAccount;20210611;05:00;Current Account;Finland;EUR;1
+EUR_EurG7Meeting;20210611;00:00;G7 Meeting;European Monetary Union;EUR;3

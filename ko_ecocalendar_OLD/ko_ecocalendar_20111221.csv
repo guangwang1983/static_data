@@ -1,0 +1,23 @@
+NZD_GrossDomesticProduct;20111221;21:45;Gross Domestic Product (QoQ);New Zealand;NZD;2
+ARS_CurrentAccount;20111221;19:00;Current Account BOP (MoM);Argentina;ARS;1
+ARS_TradeBalance;20111221;19:00;Trade Balance (MoM);Argentina;ARS;1
+USD_EIACrudeOilStocksChange;20111221;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+MXN_PrivateSpending;20111221;15:00;Private Spending (QoQ);Mexico;MXN;1
+USD_ExistingHomeSales;20111221;15:00;Existing Home Sales (MoM);United States;USD;2
+USD_ExistingHomeSalesChange;20111221;15:00;Existing Home Sales Change (MoM);United States;USD;1
+EUR_EurConsumerConfidence;20111221;15:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_BelLeadingIndicator;20111221;14:00;Leading Indicator;Belgium;EUR;1
+CAD_RetailSales;20111221;13:30;Retail Sales (MoM);Canada;CAD;2
+USD_MBAMortgageApplications;20111221;12:00;MBA Mortgage Applications;United States;USD;1
+BRL_MidmonthInflation;20111221;11:00;Mid-month Inflation;Brazil;BRL;1
+EUR_EurAuction;20111221;10:15;ECB LTRO Auction;European Monetary Union;EUR;3
+EUR_SloCurrentAccount;20111221;10:00;Current Account Balance EUR;Slovakia;EUR;1
+GBP_BankofEnglandMinutes;20111221;09:30;Bank of England Minutes;United Kingdom;GBP;3
+GBP_PublicSectorNetBorrowing;20111221;09:30;Public Sector Net Borrowing;United Kingdom;GBP;2
+ISK_ConsumerPriceIndex;20111221;09:00;Consumer Price Index (YoY);Iceland;ISK;1
+EUR_ItaGrossDomesticProduct;20111221;09:00;Gross Domestic Product (QoQ);Italy;EUR;1
+NOK_LabourForceSurvey;20111221;09:00;Labour Force Survey;Norway;NOK;1
+SEK_ConsumerConfidence;20111221;08:15;Consumer Confidence (MoM);Sweden;SEK;1
+DKK_ConsumerConfidence;20111221;08:00;Consumer Confidence;Denmark;DKK;1
+JPY_BoJInterestRateDecision;20111221;04:01;BoJ Interest Rate Decision;Japan;JPY;3
+GBP_GfKConsumerConfidence;20111221;00:01;GfK Consumer Confidence;United Kingdom;GBP;2

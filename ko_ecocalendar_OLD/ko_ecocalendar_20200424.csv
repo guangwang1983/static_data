@@ -1,0 +1,33 @@
+EUR_PorFreedomDay;20200424;23:00;Freedom Day;Portugal;EUR;0
+EUR_ItaLiberationDay;20200424;22:00;Liberation Day;Italy;EUR;0
+AUD_CFTCAUDNCNetPositions;20200424;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20200424;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+USD_CFTCUSDNCNetPositions;20200424;19:30;CFTC USD NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20200424;19:30;CFTC Oil NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20200424;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+GBP_CFTCGBPNCNetPositions;20200424;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20200424;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_BakerHughesUSOilRigCount;20200424;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_MichiganConsumerSentimentIndex;20200424;14:00;Michigan Consumer Sentiment Index;United States;USD;2
+AUD_ANZACDay;20200424;14:00;ANZAC Day;Australia;AUD;0
+EUR_BelLeadingIndicator;20200424;13:00;Leading Indicator;Belgium;EUR;1
+USD_DurableGoodsOrders;20200424;12:30;Durable Goods Orders ex Defense;United States;USD;2
+USD_NondefenseCapitalGoodsOrdersexAircraft;20200424;12:30;Nondefense Capital Goods Orders ex Aircraft;United States;USD;3
+NZD_ANZACDay;20200424;12:00;ANZAC Day;New Zealand;NZD;0
+INR_BankLoanGrowth;20200424;11:30;Bank Loan Growth;India;INR;1
+RUB_Interestratedecision;20200424;11:30;Interest rate decision;Russia;RUB;2
+INR_FXReservesUSD;20200424;11:30;FX Reserves, USD;India;INR;1
+PLN_Unemployment;20200424;09:00;Unemployment (MoM);Poland;PLN;1
+EUR_ItaBusinessConfidence;20200424;08:00;Business Confidence;Italy;EUR;1
+EUR_ItaConsumerConfidence;20200424;08:00;Consumer Confidence;Italy;EUR;1
+EUR_GerIFOBusinessClimate;20200424;08:00;IFO - Business Climate;Germany;EUR;2
+EUR_GerIFOCurrentAssessment;20200424;08:00;IFO - Current Assessment;Germany;EUR;2
+EUR_GerIFOExpectations;20200424;08:00;IFO - Expectations;Germany;EUR;2
+SEK_ProducerPriceIndex;20200424;07:30;Producer Price Index (YoY);Sweden;SEK;1
+TRY_ManufacturingConfidence;20200424;07:00;Manufacturing Confidence;Turkey;TRY;1
+TRY_CapacityUtilization;20200424;07:00;Capacity Utilization;Turkey;TRY;1
+EUR_AusIndustrialProduction;20200424;07:00;Industrial Production (YoY);Austria;EUR;1
+GBP_RetailSales;20200424;06:00;Retail Sales (MoM);United Kingdom;GBP;2
+SGD_IndustrialProduction;20200424;05:00;Industrial Production (YoY);Singapore;SGD;1
+JPY_AllIndustryActivityIndex;20200424;04:30;All Industry Activity Index (MoM);Japan;JPY;2
+SGD_Unemploymentrate;20200424;02:30;Unemployment rate;Singapore;SGD;1

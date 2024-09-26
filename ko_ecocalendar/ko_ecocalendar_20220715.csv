@@ -1,0 +1,40 @@
+CNY_HousePriceIndex;20220715;01:30;House Price Index ;China;CNY;1
+CNY_RetailSales;20220715;02:00;Retail Sales (YoY);China;CNY;3
+IDR_Imports;20220715;02:00;Imports;Indonesia;IDR;1
+IDR_Exports;20220715;02:00;Exports;Indonesia;IDR;1
+IDR_TradeBalance;20220715;02:00;Trade Balance;Indonesia;IDR;1
+CNY_IndustrialProduction;20220715;02:00;Industrial Production (YoY);China;CNY;2
+CNY_NBSPressConference;20220715;02:00;NBS Press Conference;China;CNY;2
+CNY_FixedAssetInvestment;20220715;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+KRW_TradeBalance;20220715;02:00;Trade Balance;South Korea;KRW;1
+CNY_GrossDomesticProduct;20220715;02:00;Gross Domestic Product (QoQ);China;CNY;3
+JPY_TertiaryIndustryIndex;20220715;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+PLN_ConsumerPriceIndex;20220715;08:00;Consumer Price Index (YoY);Poland;PLN;1
+EUR_ItaConsumerPriceIndex;20220715;08:00;Consumer Price Index (MoM);Italy;EUR;1
+EUR_EurTradeBalance;20220715;09:00;Trade Balance n.s.a.;European Monetary Union;EUR;1
+ILS_ConsumerPriceIndex;20220715;11:00;Consumer Price Index (YoY);Israel;ILS;1
+INR_BankLoanGrowth;20220715;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20220715;11:30;FX Reserves, USD;India;INR;1
+USD_NYEmpireStateManufacturingIndex;20220715;12:30;NY Empire State Manufacturing Index;United States;USD;1
+USD_RetailSales;20220715;12:30;Retail Sales ex Autos (MoM);United States;USD;2
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20220715;12:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20220715;12:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+USD_ExportPriceIndex;20220715;12:30;Export Price Index (YoY);United States;USD;1
+USD_ImportPriceIndex;20220715;12:30;Import Price Index (YoY);United States;USD;1
+CAD_WholesaleSales;20220715;12:30;Wholesale Sales (MoM);Canada;CAD;1
+USD_CapacityUtilization;20220715;13:15;Capacity Utilization;United States;USD;1
+USD_IndustrialProduction;20220715;13:15;Industrial Production (MoM);United States;USD;1
+USD_UoM5yearConsumerInflationExpectation;20220715;14:00;UoM 5-year Consumer Inflation Expectation;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20220715;14:00;Michigan Consumer Sentiment Index;United States;USD;3
+USD_BusinessInventories;20220715;14:00;Business Inventories;United States;USD;1
+COP_RetailSales;20220715;15:00;Retail Sales (YoY);Colombia;COP;1
+COP_Industrialoutput;20220715;15:00;Industrial output (YoY);Colombia;COP;1
+USD_FedIndexofCommonInflationExpectations;20220715;16:07;Fed Index of Common Inflation Expectations;United States;USD;2
+USD_BakerHughesUSOilRigCount;20220715;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20220715;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20220715;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+GBP_CFTCGBPNCNetPositions;20220715;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20220715;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20220715;19:30;CFTC Oil NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20220715;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCS&P500NCNetPositions;20220715;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1

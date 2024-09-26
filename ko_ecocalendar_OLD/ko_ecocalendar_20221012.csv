@@ -1,0 +1,42 @@
+USD_IMFMeeting;20221012;00:00;IMF Meeting;United States;USD;2
+AUD_HIANewHomeSales;20221012;00:00;HIA New Home Sales (MoM);Australia;AUD;2
+KRW_BoKInterestRateDecision;20221012;01:00;BoK Interest Rate Decision;South Korea;KRW;1
+CLP_ColumbusDay;20221012;04:00;Columbus Day ;Chile;CLP;0
+MXN_ColumbusDay;20221012;06:00;Columbus Day ;Mexico;MXN;0
+GBP_IndustrialProduction;20221012;06:00;Industrial Production (MoM);United Kingdom;GBP;2
+GBP_ManufacturingProduction;20221012;06:00;Manufacturing Production (MoM);United Kingdom;GBP;2
+GBP_IndexofServices;20221012;06:00;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20221012;06:00;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20221012;06:00;Goods Trade Balance;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20221012;06:00;Total Trade Balance;United Kingdom;GBP;1
+GBP_GrossDomesticProduct;20221012;06:00;Gross Domestic Product (MoM);United Kingdom;GBP;2
+RON_IndustrialProduction;20221012;06:00;Industrial Production (MoM);Romania;RON;1
+RON_GrossDomesticProduct;20221012;06:00;Gross Domestic Product;Romania;RON;1
+RON_ConsumerPriceIndex;20221012;06:00;Consumer Price Index;Romania;RON;1
+JPY_MachineToolOrders;20221012;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+TRY_IndustrialProduction;20221012;07:00;Industrial Production (YoY);Turkey;TRY;1
+HUF_IndustrialOutput;20221012;07:00;Industrial Output (YoY);Hungary;HUF;1
+GBP_FPCStatement;20221012;08:30;FPC Statement;United Kingdom;GBP;1
+GBP_FPCMeetingMinutes;20221012;08:30;FPC Meeting Minutes;United Kingdom;GBP;1
+EUR_EurIndustrialProduction;20221012;09:00;Industrial Production s.a. (MoM);European Monetary Union;EUR;2
+USD_MBAMortgageApplications;20221012;11:00;MBA Mortgage Applications;United States;USD;1
+MXN_IndustrialOutput;20221012;11:00;Industrial Output (MoM);Mexico;MXN;1
+GBP_NIESRGDPEstimate;20221012;11:00;NIESR GDP Estimate (3M);United Kingdom;GBP;2
+GBP_CentralBankSpeech;20221012;11:35;BoE Pill speech;United Kingdom;GBP;2
+INR_ConsumerPriceIndex;20221012;12:00;Consumer Price Index (YoY);India;INR;1
+INR_ManufacturingOutput;20221012;12:00;Manufacturing Output;India;INR;1
+INR_IndustrialOutput;20221012;12:00;Industrial Output;India;INR;1
+INR_CumulativeIndustrialOutput;20221012;12:00;Cumulative Industrial Output;India;INR;1
+USD_ProducerPriceIndex;20221012;12:30;Producer Price Index (MoM);United States;USD;1
+EUR_EurCentralBankSpeech;20221012;13:30;ECB President Lagarde speech;European Monetary Union;EUR;3
+USD_USDAWASDEReport;20221012;16:00;USDA WASDE Report;United States;USD;1
+USD_Auction;20221012;17:00;10-Year Note Auction;United States;USD;1
+USD_FOMCMinutes;20221012;18:00;FOMC Minutes;United States;USD;3
+NZD_REINZHousePriceIndex;20221012;20:00;REINZ House Price Index (MoM);New Zealand;NZD;2
+USD_APIWeeklyCrudeOilStock;20221012;20:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_FoodPriceIndex;20221012;21:45;Food Price Index (MoM);New Zealand;NZD;1
+CLP_BCCHInterestRate;20221012;22:00;BCCH Interest Rate;Chile;CLP;1
+USD_CentralBankSpeech;20221012;22:30;Fed Bowman speech;United States;USD;2
+GBP_RICSHousingPriceBalance;20221012;23:01;RICS Housing Price Balance;United Kingdom;GBP;1
+JPY_BankLending;20221012;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_ProducerPriceIndex;20221012;23:50;Producer Price Index (MoM);Japan;JPY;1

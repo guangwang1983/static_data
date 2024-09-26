@@ -1,0 +1,14 @@
+GBP_BoxingDay;20231226;00:00;Boxing Day;United Kingdom;GBP;0
+CAD_BoxingDay;20231226;05:00;Boxing Day;Canada;CAD;0
+TRY_CapacityUtilization;20231226;07:00;Capacity Utilization;Turkey;TRY;1
+TRY_ManufacturingConfidence;20231226;07:00;Manufacturing Confidence;Turkey;TRY;1
+ILS_M1MoneySupply;20231226;12:30;M1 Money Supply (MoM);Israel;ILS;1
+USD_ChicagoFedNationalActivityIndex;20231226;13:30;Chicago Fed National Activity Index ;United States;USD;1
+USD_RedbookIndex;20231226;13:55;Redbook Index (YoY);United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20231226;14:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;1
+USD_HousingPriceIndex;20231226;14:00;Housing Price Index (MoM);United States;USD;2
+USD_DallasFedManufacturingBusinessIndex;20231226;15:30;Dallas Fed Manufacturing Business Index;United States;USD;1
+USD_Auction;20231226;18:00;2-Year Note Auction;United States;USD;1
+KRW_ConsumerSentimentIndex;20231226;21:00;Consumer Sentiment Index;South Korea;KRW;1
+CZK_StStephenDay;20231226;22:00;St. Stephen Day;Czech Republic;CZK;0
+JPY_BoJSummaryofOpinions;20231226;23:50;BoJ Summary of Opinions;Japan;JPY;1

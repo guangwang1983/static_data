@@ -1,0 +1,29 @@
+NZD_ProducerPriceIndex;20110216;21:45;Producer Price Index - Input (QoQ);New Zealand;NZD;1
+NZD_BusinessNZPMI;20110216;21:30;Business NZ PMI;New Zealand;NZD;1
+USD_CentralBankSpeech;20110216;19:00;Treasury Geithner speech;United States;USD;2
+USD_FOMCMinutes;20110216;19:00;FOMC Minutes;United States;USD;2
+USD_EIACrudeOilStocksChange;20110216;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_IndustrialProduction;20110216;14:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20110216;14:15;Capacity Utilization;United States;USD;2
+USD_HousingStarts;20110216;13:30;Housing Starts (MoM);United States;USD;1
+USD_BuildingPermits;20110216;13:30;Building Permits (MoM);United States;USD;1
+USD_ProducerPriceIndex;20110216;13:30;Producer Price Index (MoM);United States;USD;2
+CAD_ManufacturingShipments;20110216;13:30;Manufacturing Shipments (MoM);Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20110216;13:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20110216;13:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_LeadingIndicators;20110216;13:30;Leading Indicators (MoM);Canada;CAD;1
+PLN_CorporateSectorWages;20110216;13:00;Corporate Sector Wages;Poland;PLN;1
+USD_MBAMortgageApplications;20110216;12:00;MBA Mortgage Applications;United States;USD;1
+ZAR_RetailSales;20110216;11:00;Retail Sales (YoY);South Africa;ZAR;2
+GBP_BankofEnglandQuarterlyInflationReport;20110216;10:30;Bank of England Quarterly Inflation Report;United Kingdom;GBP;3
+GBP_CentralBankSpeech;20110216;10:30;BoE Governor King speech;United Kingdom;GBP;3
+EUR_PorUnemploymentRate;20110216;10:00;Unemployment Rate;Portugal;EUR;1
+GBP_ClaimantCountChange;20110216;09:30;Claimant Count Change;United Kingdom;GBP;2
+GBP_AverageEarningsExcludingBonus;20110216;09:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;1
+GBP_AverageEarningsIncludingBonus;20110216;09:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;1
+GBP_ClaimantCountRate;20110216;09:30;Claimant Count Rate;United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20110216;09:30;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+ZAR_ConsumerPriceIndex;20110216;08:00;Consumer Price Index (MoM);South Africa;ZAR;2
+JPY_BoJMonthlyEconomicSurvey;20110216;05:00;BoJ Monthly Economic Survey;Japan;JPY;2
+AUD_NewMotorVehicleSales;20110216;00:30;New Motor Vehicle Sales (MoM);Australia;AUD;1
+GBP_NationwideConsumerConfidence;20110216;00:01;Nationwide Consumer Confidence;United Kingdom;GBP;2

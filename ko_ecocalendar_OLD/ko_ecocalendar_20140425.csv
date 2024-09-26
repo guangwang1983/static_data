@@ -1,0 +1,25 @@
+ARS_IndustrialOutput;20140425;19:00;Industrial Output n.s.a (YoY);Argentina;ARS;1
+ARS_TradeBalance;20140425;19:00;Trade Balance (MoM);Argentina;ARS;1
+MXN_CentralBankInterestRate;20140425;14:00;Central Bank Interest Rate;Mexico;MXN;1
+USD_MichiganConsumerSentimentIndex;20140425;13:55;Michigan Consumer Sentiment Index;United States;USD;2
+USD_MarkitServicesPMI;20140425;13:45;Markit Services PMI;United States;USD;2
+BRL_CurrentAccount;20140425;13:30;Current Account;Brazil;BRL;1
+EUR_BelLeadingIndicator;20140425;13:00;Leading Indicator;Belgium;EUR;1
+INR_FXReservesUSD;20140425;11:30;FX Reserves, USD;India;INR;1
+RUB_Interestratedecision;20140425;10:00;Interest rate decision;Russia;RUB;2
+GBP_RetailSales;20140425;08:30;Retail Sales (YoY);United Kingdom;GBP;2
+GBP_BBAMortgageApprovals;20140425;08:30;BBA Mortgage Approvals;United Kingdom;GBP;2
+DKK_DanmarksNationalbankinterestratechange;20140425;08:00;Danmarks Nationalbank interest rate change;Denmark;DKK;1
+CHF_CentralBankSpeech;20140425;08:00;SNB Chairman Jordan speech;Switzerland;CHF;3
+HUF_UnemploymentRate;20140425;07:00;Unemployment Rate (3M);Hungary;HUF;1
+EUR_SpaProducerPriceIndex;20140425;07:00;Producer Price Index (YoY);Spain;EUR;1
+DKK_RetailSales;20140425;07:00;Retail Sales (YoY);Denmark;DKK;1
+EUR_AusIndustrialProduction;20140425;07:00;Industrial Production (YoY);Austria;EUR;1
+COP_Interestrate;20140425;06:00;Interest rate;Colombia;COP;1
+SGD_IndustrialProduction;20140425;05:00;Industrial Production (MoM);Singapore;SGD;1
+JPY_AllIndustryActivityIndex;20140425;04:30;All Industry Activity Index (MoM);Japan;JPY;2
+NZD_ANZACDay;20140425;00:00;ANZAC Day;New Zealand;NZD;0
+AUD_ANZACDay;20140425;00:00;ANZAC Day;Australia;AUD;0
+ISK_FirstDayofSummer;20140425;00:00;First Day of Summer ;Iceland;ISK;0
+EUR_PorFreedomDay;20140425;00:00;Freedom Day;Portugal;EUR;0
+EUR_ItaLiberationDay;20140425;00:00;Liberation Day;Italy;EUR;0

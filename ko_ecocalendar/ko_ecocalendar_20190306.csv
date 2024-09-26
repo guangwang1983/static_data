@@ -1,0 +1,27 @@
+COP_ConsumerPriceIndex;20190306;00:00;Consumer Price Index (MoM);Colombia;COP;1
+AUD_GrossDomesticProduct;20190306;00:30;Gross Domestic Product (QoQ);Australia;AUD;3
+JPY_CentralBankSpeech;20190306;01:30;BoJ Harada speech;Japan;JPY;2
+NOK_CurrentAccount;20190306;07:00;Current Account;Norway;NOK;1
+SEK_CurrentAccount;20190306;08:30;Current Account (QoQ);Sweden;SEK;1
+ZAR_BusinessConfidenceIndex;20190306;09:30;Business Confidence Index;South Africa;ZAR;1
+TRY_CBRTInterestRateDecision;20190306;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+USD_MBAMortgageApplications;20190306;12:00;MBA Mortgage Applications;United States;USD;1
+PLN_NBPBaserate;20190306;13:00;NBP Base rate;Poland;PLN;1
+USD_ADPEmploymentChange;20190306;13:15;ADP Employment Change;United States;USD;2
+RUB_ConsumerPriceIndex;20190306;13:15;Consumer Price Index (MoM);Russia;RUB;1
+CAD_LaborProductivity;20190306;13:30;Labor Productivity (QoQ);Canada;CAD;1
+USD_GoodsandServicesTradeBalance;20190306;13:30;Goods and Services Trade Balance;United States;USD;2
+CAD_InternationalMerchandiseTrade;20190306;13:30;International Merchandise Trade;Canada;CAD;2
+CAD_Exports;20190306;13:30;Exports;Canada;CAD;1
+CAD_Imports;20190306;13:30;Imports;Canada;CAD;1
+CAD_BoCInterestRateDecision;20190306;15:00;BoC Interest Rate Decision;Canada;CAD;3
+CAD_BoCRateStatement;20190306;15:00;BoC Rate Statement;Canada;CAD;3
+CAD_IveyPurchasingManagersIndex;20190306;15:00;Ivey Purchasing Managers Index s.a;Canada;CAD;2
+USD_EIACrudeOilStocksChange;20190306;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_CentralBankSpeech;20190306;17:00;Fed Williams speech;United States;USD;2
+GBP_CentralBankSpeech;20190306;17:30;BoE Saunders speech;United Kingdom;GBP;2
+USD_FedBeigeBook;20190306;19:00;Fed Beige Book;United States;USD;2
+AUD_AiGPerformanceofConstructionIndex;20190306;21:30;AiG Performance of Construction Index;Australia;AUD;2
+JPY_JPForeignReserves;20190306;23:50;JP Foreign Reserves;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20190306;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20190306;23:50;Foreign Bond Investment;Japan;JPY;1

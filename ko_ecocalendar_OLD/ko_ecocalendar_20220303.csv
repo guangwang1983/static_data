@@ -1,0 +1,41 @@
+NZD_ANZCommodityPrice;20220303;00:00;ANZ Commodity Price;New Zealand;NZD;1
+JPY_JibunBankServicesPMI;20220303;00:30;Jibun Bank Services PMI;Japan;JPY;1
+AUD_BuildingPermits;20220303;00:30;Building Permits (MoM);Australia;AUD;2
+AUD_Exports;20220303;00:30;Exports (MoM);Australia;AUD;2
+AUD_Imports;20220303;00:30;Imports (MoM);Australia;AUD;2
+AUD_TradeBalance;20220303;00:30;Trade Balance (MoM);Australia;AUD;3
+CNY_CaixinServicesPMI;20220303;01:45;Caixin Services PMI;China;CNY;2
+JPY_ConsumerConfidenceIndex;20220303;05:00;Consumer Confidence Index;Japan;JPY;1
+RUB_PurchasingManagerIndexServices;20220303;06:00;Purchasing Manager Index Services;Russia;RUB;1
+TRY_ProducerPriceIndex;20220303;07:00;Producer Price Index (MoM);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20220303;07:00;Consumer Price Index (MoM);Turkey;TRY;1
+DKK_UnemploymentRate;20220303;07:00;Unemployment Rate;Denmark;DKK;1
+CHF_ConsumerPriceIndex;20220303;07:30;Consumer Price Index (MoM);Switzerland;CHF;1
+HUF_RetailSales;20220303;08:00;Retail Sales (YoY);Hungary;HUF;1
+HUF_TradeBalance;20220303;08:00;Trade Balance;Hungary;HUF;1
+EUR_EurMarkitServicesPMI;20220303;09:00;Markit Services PMI;European Monetary Union;EUR;1
+EUR_EurMarkitPMIComposite;20220303;09:00;Markit PMI Composite;European Monetary Union;EUR;2
+GBP_MarkitServicesPMI;20220303;09:30;Markit Services PMI;United Kingdom;GBP;1
+EUR_EurUnemploymentRate;20220303;10:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_EurProducerPriceIndex;20220303;10:00;Producer Price Index (MoM);European Monetary Union;EUR;1
+USD_ChallengerJobCuts;20220303;12:30;Challenger Job Cuts;United States;USD;1
+EUR_EurECBMonetaryPolicyMeetingAccounts;20220303;12:30;ECB Monetary Policy Meeting Accounts;European Monetary Union;EUR;2
+RUB_CentralBankReserves;20220303;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_JoblessClaims;20220303;13:30;Continuing Jobless Claims;United States;USD;1
+USD_UnitLaborCosts;20220303;13:30;Unit Labor Costs;United States;USD;2
+USD_NonfarmProductivity;20220303;13:30;Nonfarm Productivity;United States;USD;2
+USD_MarkitPMIComposite;20220303;14:45;Markit PMI Composite;United States;USD;2
+USD_MarkitServicesPMI;20220303;14:45;Markit Services PMI;United States;USD;2
+USD_ISMServicesEmploymentIndex;20220303;15:00;ISM Services Employment Index;United States;USD;2
+USD_ISMServicesPricesPaid;20220303;15:00;ISM Services Prices Paid;United States;USD;2
+USD_ISMServicesNewOrdersIndex;20220303;15:00;ISM Services New Orders Index;United States;USD;2
+USD_ISMServicesPMI;20220303;15:00;ISM Services PMI;United States;USD;3
+USD_FedChairPowelltestifies;20220303;15:00;Fed Chair Powell testifies;United States;USD;3
+USD_FactoryOrders;20220303;15:00;Factory Orders (MoM);United States;USD;2
+USD_EIANaturalGasStorageChange;20220303;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20220303;16:30;4-Week Bill Auction;United States;USD;1
+CAD_CentralBankSpeech;20220303;20:30;BoC Governor Macklem speech;Canada;CAD;3
+NZD_ANZ–RoyMorganConsumerConfidence;20220303;21:00;ANZ – Roy Morgan Consumer Confidence;New Zealand;NZD;2
+USD_CentralBankSpeech;20220303;23:00;Fed Williams speech;United States;USD;2
+JPY_UnemploymentRate;20220303;23:30;Unemployment Rate;Japan;JPY;2
+JPY_JobsApplicantsRatio;20220303;23:30;Jobs / Applicants Ratio;Japan;JPY;2

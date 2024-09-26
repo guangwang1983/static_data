@@ -1,0 +1,40 @@
+CNY_ConsumerPriceIndex;20220216;01:30;Consumer Price Index (MoM);China;CNY;2
+CNY_ProducerPriceIndex;20220216;01:30;Producer Price Index (YoY);China;CNY;2
+JPY_TertiaryIndustryIndex;20220216;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+GBP_RetailPriceIndex;20220216;07:00;Retail Price Index (MoM);United Kingdom;GBP;2
+NOK_GrossDomesticProduct;20220216;07:00;Gross Domestic Product Growth Mainland;Norway;NOK;1
+GBP_ProducerPriceIndex;20220216;07:00;Producer Price Index - Output (YoY) n.s.a;United Kingdom;GBP;1
+GBP_PPICoreOutput;20220216;07:00;PPI Core Output (MoM) n.s.a;United Kingdom;GBP;2
+GBP_ConsumerPriceIndex;20220216;07:00;Consumer Price Index (MoM);United Kingdom;GBP;2
+EUR_EurNonMonetaryPolicyECBMeeting;20220216;08:00;Non-Monetary Policy ECB Meeting;European Monetary Union;EUR;1
+ZAR_ConsumerPriceIndex;20220216;08:00;Consumer Price Index (MoM);South Africa;ZAR;1
+AUD_CentralBankSpeech;20220216;08:45;RBA Debelle speech;Australia;AUD;2
+GBP_DCLGHousePriceIndex;20220216;09:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+ILS_M1MoneySupply;20220216;10:00;M1 Money Supply (MoM);Israel;ILS;1
+EUR_EurIndustrialProduction;20220216;10:00;Industrial Production s.a. (MoM);European Monetary Union;EUR;2
+EUR_GerAuction;20220216;10:30;10-y Bond Auction;Germany;EUR;2
+ILS_GrossDomesticProduct;20220216;11:00;Gross Domestic Product (QoQ);Israel;ILS;1
+ZAR_RetailSales;20220216;11:00;Retail Sales (YoY);South Africa;ZAR;1
+USD_MBAMortgageApplications;20220216;12:00;MBA Mortgage Applications;United States;USD;1
+USD_RetailSales;20220216;13:30;Retail Sales ex Autos (MoM);United States;USD;2
+CAD_ManufacturingSales;20220216;13:30;Manufacturing Sales (MoM);Canada;CAD;1
+USD_ImportPriceIndex;20220216;13:30;Import Price Index (MoM);United States;USD;1
+USD_ExportPriceIndex;20220216;13:30;Export Price Index (MoM);United States;USD;1
+CAD_WholesaleSales;20220216;13:30;Wholesale Sales (MoM);Canada;CAD;1
+CAD_ConsumerPriceIndex;20220216;13:30;Consumer Price Index (YoY);Canada;CAD;2
+USD_CapacityUtilization;20220216;14:15;Capacity Utilization;United States;USD;1
+USD_IndustrialProduction;20220216;14:15;Industrial Production (MoM);United States;USD;1
+USD_BusinessInventories;20220216;15:00;Business Inventories;United States;USD;1
+USD_NAHBHousingMarketIndex;20220216;15:00;NAHB Housing Market Index;United States;USD;1
+USD_EIACrudeOilStocksChange;20220216;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+RUB_ProducerPriceIndex;20220216;16:00;Producer Price Index (YoY);Russia;RUB;1
+USD_Auction;20220216;18:00;20-Year Bond Auction;United States;USD;1
+CAD_CentralBankSpeech;20220216;18:30;BoC Lane speech;Canada;CAD;2
+USD_FOMCMinutes;20220216;19:00;FOMC Minutes;United States;USD;3
+JPY_AdjustedMerchandiseTradeBalance;20220216;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_Imports;20220216;23:50;Imports (YoY);Japan;JPY;2
+JPY_MerchandiseTradeBalanceTotal;20220216;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Exports;20220216;23:50;Exports (YoY);Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20220216;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20220216;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_MachineryOrders;20220216;23:50;Machinery Orders (MoM);Japan;JPY;1

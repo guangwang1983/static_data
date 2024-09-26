@@ -1,0 +1,47 @@
+EUR_EurEuropeanCouncilMeeting;20200220;00:00;European Council Meeting;European Monetary Union;EUR;2
+AUD_ParticipationRate;20200220;00:30;Participation Rate;Australia;AUD;1
+AUD_UnemploymentRate;20200220;00:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_PartTimeEmployment;20200220;00:30;Part-Time Employment;Australia;AUD;1
+AUD_FullTimeEmployment;20200220;00:30;Full-Time Employment;Australia;AUD;2
+AUD_EmploymentChange;20200220;00:30;Employment Change s.a.;Australia;AUD;3
+CNY_PBoCInterestRateDecision;20200220;01:30;PBoC Interest Rate Decision;China;CNY;3
+CNY_M2MoneySupply;20200220;07:00;M2 Money Supply (YoY);China;CNY;1
+TRY_ConsumerConfidence;20200220;07:00;Consumer Confidence;Turkey;TRY;1
+DKK_ConsumerConfidence;20200220;07:00;Consumer Confidence;Denmark;DKK;1
+EUR_GerGfkConsumerConfidenceSurvey;20200220;07:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+CHF_Exports;20200220;07:00;Exports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20200220;07:00;Trade Balance;Switzerland;CHF;1
+CHF_Imports;20200220;07:00;Imports (MoM);Switzerland;CHF;1
+EUR_GerProducerPriceIndex;20200220;07:00;Producer Price Index (YoY);Germany;EUR;1
+CNY_NewLoans;20200220;07:00;New Loans;China;CNY;1
+CHF_IndustrialProduction;20200220;07:30;Industrial Production (YoY);Switzerland;CHF;2
+IDR_BankIndonesiaRate;20200220;07:30;Bank Indonesia Rate;Indonesia;IDR;1
+EUR_FraConsumerPriceIndex;20200220;07:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraInflationextobacco;20200220;07:45;Inflation ex-tobacco (MoM);France;EUR;1
+PLN_IndustrialOutput;20200220;09:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20200220;09:00;Producer Price Index (YoY);Poland;PLN;1
+GBP_RetailSales;20200220;09:30;Retail Sales (MoM);United Kingdom;GBP;2
+EUR_EurCentralBankSpeech;20200220;10:30;ECB De Guindos speech;European Monetary Union;EUR;2
+GBP_CBIIndustrialTrendsSurvey–Orders;20200220;11:00;CBI Industrial Trends Survey – Orders (MoM);United Kingdom;GBP;1
+ILS_IndustrialProduction;20200220;11:00;Industrial Production (MoM);Israel;ILS;1
+BRL_MidmonthInflation;20200220;12:00;Mid-month Inflation;Brazil;BRL;1
+EUR_EurECBMonetaryPolicyMeetingAccounts;20200220;12:30;ECB Monetary Policy Meeting Accounts;European Monetary Union;EUR;3
+RUB_CentralBankReserves;20200220;13:00;Central Bank Reserves $;Russia;RUB;1
+RUB_UnemploymentRate;20200220;13:00;Unemployment Rate;Russia;RUB;1
+USD_JoblessClaims;20200220;13:30;Continuing Jobless Claims;United States;USD;1
+CAD_ADPEmploymentChange;20200220;13:30;ADP Employment Change;Canada;CAD;1
+CAD_EmploymentInsuranceBeneficiariesChange;20200220;13:30;Employment Insurance Beneficiaries Change (MoM);Canada;CAD;1
+CAD_NewHousingPriceIndex;20200220;13:30;New Housing Price Index (YoY);Canada;CAD;1
+USD_PhiladelphiaFedManufacturingSurvey;20200220;13:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+EUR_EurConsumerConfidence;20200220;15:00;Consumer Confidence;European Monetary Union;EUR;1
+USD_EIANaturalGasStorageChange;20200220;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_EIACrudeOilStocksChange;20200220;16:00;EIA Crude Oil Stocks Change;United States;USD;1
+USD_Auction;20200220;18:00;30-year TIPS Auction;United States;USD;1
+USD_CentralBankSpeech;20200220;18:20;Fed Barkin speech;United States;USD;1
+INR_MahaShivratri;20200220;18:30;Maha Shivratri ;India;INR;0
+AUD_S&PGlobalCompositePMI;20200220;22:00;S&P Global Composite PMI;Australia;AUD;1
+AUD_S&PGlobalManufacturingPMI;20200220;22:00;S&P Global Manufacturing PMI;Australia;AUD;2
+AUD_S&PGlobalServicesPMI;20200220;22:00;S&P Global Services PMI;Australia;AUD;1
+JPY_NationalCPIexFoodEnergy;20200220;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20200220;23:30;National Consumer Price Index (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20200220;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2

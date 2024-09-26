@@ -1,0 +1,30 @@
+JPY_ForeignBondInvestment;20140521;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20140521;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+ARS_TradeBalance;20140521;19:00;Trade Balance (MoM);Argentina;ARS;1
+USD_FOMCMinutes;20140521;18:00;FOMC Minutes;United States;USD;3
+USD_CentralBankSpeech;20140521;17:30;Fed Minneapolis Kocherlakota speech;United States;USD;1
+USD_EIACrudeOilStocksChange;20140521;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+EUR_EurConsumerConfidence;20140521;14:00;Consumer Confidence;European Monetary Union;EUR;1
+MXN_RetailSales;20140521;13:00;Retail Sales (YoY);Mexico;MXN;1
+RUB_ProducerPriceIndex;20140521;12:00;Producer Price Index (MoM);Russia;RUB;1
+BRL_MidmonthInflation;20140521;12:00;Mid-month Inflation;Brazil;BRL;1
+USD_MBAMortgageApplications;20140521;11:00;MBA Mortgage Applications;United States;USD;1
+EUR_GerAuction;20140521;09:54;10-y Bond Auction;Germany;EUR;2
+GBP_RetailSales;20140521;08:30;Retail Sales (YoY);United Kingdom;GBP;2
+GBP_BoEMPCVoteCut;20140521;08:30;BoE MPC Vote Cut;United Kingdom;GBP;3
+GBP_BoEMPCVoteUnchanged;20140521;08:30;BoE MPC Vote Unchanged;United Kingdom;GBP;3
+GBP_BoEMPCVoteHike;20140521;08:30;BoE MPC Vote Hike;United Kingdom;GBP;3
+GBP_BankofEnglandMinutes;20140521;08:30;Bank of England Minutes;United Kingdom;GBP;3
+ZAR_ConsumerPriceIndex;20140521;08:30;Consumer Price Index (MoM);South Africa;ZAR;1
+EUR_EurCurrentAccount;20140521;08:00;Current Account s.a;European Monetary Union;EUR;1
+ISK_CBIInterestRateDecision;20140521;08:00;CBI Interest Rate Decision;Iceland;ISK;1
+EUR_NetConsumerConfidenceAdj;20140521;07:30;Consumer Confidence Adj;Netherlands, The;EUR;1
+EUR_NetConsumerSpendingVolume;20140521;07:30;Consumer Spending Volume;Netherlands, The;EUR;1
+DKK_ConsumerConfidence;20140521;07:00;Consumer Confidence;Denmark;DKK;1
+JPY_BoJPressConference;20140521;06:30;BoJ Press Conference;Japan;JPY;3
+JPY_BoJInterestRateDecision;20140521;03:00;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_BoJMonetaryPolicyStatement;20140521;03:00;BoJ Monetary Policy Statement ;Japan;JPY;3
+AUD_WagePriceIndex;20140521;01:30;Wage Price Index (QoQ);Australia;AUD;2
+AUD_WestpacConsumerConfidenceIndex;20140521;00:30;Westpac Consumer Confidence Index;Australia;AUD;2
+AUD_WestpacConsumerConfidence;20140521;00:30;Westpac Consumer Confidence;Australia;AUD;2
+CLP_NavyDay;20140521;00:00;Navy Day ;Chile;CLP;0

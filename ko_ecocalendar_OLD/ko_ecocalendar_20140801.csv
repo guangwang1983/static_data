@@ -1,0 +1,49 @@
+USD_TotalVehicleSales;20140801;19:53;Total Vehicle Sales;United States;USD;1
+BRL_TradeBalance;20140801;18:00;Trade Balance;Brazil;BRL;1
+USD_ISMManufacturingPMI;20140801;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMPricesPaid;20140801;14:00;ISM Prices Paid;United States;USD;1
+USD_ConstructionSpending;20140801;14:00;Construction Spending (MoM);United States;USD;1
+USD_MichiganConsumerSentimentIndex;20140801;13:55;Michigan Consumer Sentiment Index;United States;USD;2
+USD_MarkitManufacturingPMI;20140801;13:45;Markit Manufacturing PMI;United States;USD;2
+CAD_MarkitManufacturingPMI;20140801;13:30;Markit Manufacturing PMI;Canada;CAD;2
+BRL_HSBCPMIManufacturing;20140801;13:00;HSBC PMI Manufacturing;Brazil;BRL;1
+USD_PersonalConsumptionExpendituresPriceIndex;20140801;12:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;1
+USD_PersonalSpending;20140801;12:30;Personal Spending;United States;USD;2
+USD_CorePersonalConsumptionExpenditurePriceIndex;20140801;12:30;Core Personal Consumption Expenditure - Price Index (MoM);United States;USD;2
+USD_PersonalIncome;20140801;12:30;Personal Income (MoM);United States;USD;2
+USD_UnemploymentRate;20140801;12:30;Unemployment Rate;United States;USD;3
+USD_NonfarmPayrolls;20140801;12:30;Nonfarm Payrolls;United States;USD;3
+USD_AverageHourlyEarnings;20140801;12:30;Average Hourly Earnings (MoM);United States;USD;2
+USD_LaborForceParticipationRate;20140801;12:30;Labor Force Participation Rate;United States;USD;2
+USD_AverageWeeklyHours;20140801;12:30;Average Weekly Hours;United States;USD;2
+BRL_IndustrialOutput;20140801;12:00;Industrial Output (YoY);Brazil;BRL;1
+CZK_BudgetBalance;20140801;12:00;Budget Balance;Czech Republic;CZK;1
+INR_FXReservesUSD;20140801;11:30;FX Reserves, USD;India;INR;1
+ZAR_TotalNewVehicleSales;20140801;11:00;Total New Vehicle Sales;South Africa;ZAR;1
+EUR_AusUnemployment;20140801;10:00;Unemployment;Austria;EUR;1
+EUR_AusUnemploymentRate;20140801;10:00;Unemployment Rate;Austria;EUR;1
+GBP_MarkitManufacturingPMI;20140801;08:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+NOK_RegisteredUnemployment;20140801;08:00;Registered Unemployment n.s.a;Norway;NOK;1
+EUR_EurMarkitManufacturingPMI;20140801;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_GreMarkitManufacturingPMI;20140801;07:58;Markit Manufacturing PMI;Greece;EUR;1
+EUR_GerMarkitManufacturingPMI;20140801;07:55;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20140801;07:50;Markit Manufacturing PMI;France;EUR;1
+EUR_ItaMarkitManufacturingPMI;20140801;07:45;Markit Manufacturing PMI;Italy;EUR;2
+TRY_Exports;20140801;07:30;Exports;Turkey;TRY;1
+CZK_MarkitPMI;20140801;07:30;Markit PMI;Czech Republic;CZK;1
+EUR_SpaMarkitManufacturingPMI;20140801;07:13;Markit Manufacturing PMI;Spain;EUR;1
+HUF_PurchasingManagerIndex;20140801;07:00;Purchasing Manager Index;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20140801;07:00;Purchasing Manager Index;Poland;PLN;1
+AUD_RBACommodityIndexSDR;20140801;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+SEK_PurchasingManagersIndexManufacturing;20140801;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+RUB_HSBCManufacturingPMI;20140801;06:02;HSBC Manufacturing PMI	;Russia;RUB;1
+JPY_VehicleSales;20140801;05:00;Vehicle Sales (YoY);Japan;JPY;1
+PEN_Inflation;20140801;05:00;Inflation;Peru;PEN;1
+EUR_IrePurchasingManagerIndexManufacturing;20140801;05:00;Purchasing Manager Index Manufacturing;Ireland;EUR;1
+JPY_CentralBankSpeech;20140801;03:30;BoJ Governor Kuroda speech;Japan;JPY;1
+CNY_CaixinManufacturingPMI;20140801;01:45;Caixin Manufacturing PMI;China;CNY;2
+JPY_NikkeiManufacturingPMI;20140801;01:35;Nikkei Manufacturing PMI;Japan;JPY;2
+AUD_ProducerPriceIndex;20140801;01:30;Producer Price Index (YoY);Australia;AUD;1
+CNY_NBSManufacturingPMI;20140801;01:00;NBS Manufacturing PMI;China;CNY;3
+KRW_NikkeiMarkitManufacturingPMI;20140801;00:00;Nikkei Markit Manufacturing PMI;South Korea;KRW;1
+CHF_NationalHoliday;20140801;00:00;National Holiday;Switzerland;CHF;0

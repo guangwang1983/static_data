@@ -1,0 +1,49 @@
+JPY_CFTCJPYNCNetPositions;20160408;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+AUD_CFTCAUDNCNetPositions;20160408;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCGoldNCNetPositions;20160408;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCUSDNCNetPositions;20160408;19:30;CFTC USD NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20160408;19:30;CFTC Oil NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20160408;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+GBP_CFTCGBPNCNetPositions;20160408;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_BakerHughesUSOilRigCount;20160408;17:00;Baker Hughes US Oil Rig Count;United States;USD;2
+GBP_NIESRGDPEstimate;20160408;14:00;NIESR GDP Estimate (3M);United Kingdom;GBP;2
+MXN_ConsumerConfidence;20160408;14:00;Consumer Confidence;Mexico;MXN;1
+USD_WholesaleInventories;20160408;14:00;Wholesale Inventories;United States;USD;1
+BRL_IPCAInflation;20160408;13:00;IPCA Inflation;Brazil;BRL;1
+USD_CentralBankSpeech;20160408;12:30;Fed Dudley speech;United States;USD;1
+CAD_ParticipationRate;20160408;12:30;Participation Rate;Canada;CAD;2
+CAD_NetChangeinEmployment;20160408;12:30;Net Change in Employment;Canada;CAD;2
+CAD_UnemploymentRate;20160408;12:30;Unemployment Rate;Canada;CAD;2
+CAD_HousingStarts;20160408;12:15;Housing Starts s.a (YoY);Canada;CAD;2
+CLP_ConsumerPriceIndex;20160408;12:00;Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+INR_FXReservesUSD;20160408;11:30;FX Reserves, USD;India;INR;1
+EUR_PorGlobalTradeBalance;20160408;10:06;Global Trade Balance;Portugal;EUR;1
+EUR_GreIndustrialProduction;20160408;09:00;Industrial Production (YoY);Greece;EUR;1
+EUR_GreConsumerPriceIndex;20160408;09:00;Consumer Price Index (YoY);Greece;EUR;1
+GBP_ManufacturingProduction;20160408;08:30;Manufacturing Production (MoM);United Kingdom;GBP;2
+GBP_IndustrialProduction;20160408;08:30;Industrial Production (YoY);United Kingdom;GBP;2
+GBP_GoodsTradeBalance;20160408;08:30;Goods Trade Balance;United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20160408;08:30;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20160408;08:30;Total Trade Balance;United Kingdom;GBP;1
+EUR_SloForeignTradeBalance;20160408;08:00;Foreign Trade Balance;Slovakia;EUR;1
+HUF_ConsumerPriceIndex;20160408;08:00;Consumer Price Index (YoY);Hungary;HUF;1
+EUR_AusTradeBalance;20160408;08:00;Trade Balance;Austria;EUR;1
+CHF_ConsumerPriceIndex;20160408;07:15;Consumer Price Index (YoY);Switzerland;CHF;2
+CZK_UnemploymentRate;20160408;07:00;Unemployment Rate;Czech Republic;CZK;1
+TRY_IndustrialProduction;20160408;07:00;Industrial Production (YoY);Turkey;TRY;1
+DKK_TradeBalance;20160408;07:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20160408;07:00;Current Account;Denmark;DKK;1
+HUF_TradeBalance;20160408;07:00;Trade Balance;Hungary;HUF;1
+EUR_FraIndustrialOutput;20160408;06:45;Industrial Output (MoM);France;EUR;1
+EUR_FraBudget;20160408;06:45;Budget;France;EUR;1
+EUR_FinIndustrialOutput;20160408;06:00;Industrial Output (MoM);Finland;EUR;1
+JPY_EcoWatchersSurvey:Current;20160408;06:00;Eco Watchers Survey: Current;Japan;JPY;2
+JPY_EcoWatchersSurvey:Outlook;20160408;06:00;Eco Watchers Survey: Outlook;Japan;JPY;2
+RON_GrossDomesticProduct;20160408;06:00;Gross Domestic Product;Romania;RON;1
+EUR_GerCurrentAccount;20160408;06:00;Current Account n.s.a.;Germany;EUR;2
+EUR_GerTradeBalance;20160408;06:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerExports;20160408;06:00;Exports (MoM);Germany;EUR;2
+EUR_GerImports;20160408;06:00;Imports (MoM);Germany;EUR;2
+CHF_UnemploymentRate;20160408;05:45;Unemployment Rate s.a (MoM);Switzerland;CHF;3
+JPY_ConsumerConfidenceIndex;20160408;05:00;Consumer Confidence Index;Japan;JPY;1
+EUR_NetManufacturingOutput;20160408;04:30;Manufacturing Output (MoM);Netherlands, The;EUR;1

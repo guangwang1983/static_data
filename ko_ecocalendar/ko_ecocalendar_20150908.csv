@@ -1,0 +1,35 @@
+AUD_NationalAustraliaBankBusinessConfidence;20150908;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20150908;01:30;National Australia Bank Business Conditions;Australia;AUD;1
+CNY_Imports;20150908;02:00;Imports (YoY);China;CNY;2
+CNY_TradeBalanceCNY;20150908;02:00;Trade Balance CNY;China;CNY;2
+CNY_TradeBalanceUSD;20150908;02:00;Trade Balance USD;China;CNY;2
+CNY_Exports;20150908;02:00;Exports (YoY);China;CNY;2
+JPY_EcoWatchersSurvey:Current;20150908;05:00;Eco Watchers Survey: Current;Japan;JPY;2
+JPY_EcoWatchersSurvey:Outlook;20150908;05:00;Eco Watchers Survey: Outlook;Japan;JPY;2
+CHF_UnemploymentRate;20150908;05:45;Unemployment Rate s.a (MoM);Switzerland;CHF;3
+EUR_GerImports;20150908;06:00;Imports (MoM);Germany;EUR;2
+EUR_GerCurrentAccount;20150908;06:00;Current Account n.s.a.;Germany;EUR;2
+EUR_GerTradeBalance;20150908;06:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerExports;20150908;06:00;Exports (MoM);Germany;EUR;2
+EUR_FraExportsEUR;20150908;06:45;Exports, EUR;France;EUR;1
+EUR_FraImportsEUR;20150908;06:45;Imports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20150908;06:45;Trade Balance EUR;France;EUR;1
+EUR_FraBudgetBalance;20150908;06:45;Budget Balance;France;EUR;1
+HUF_IndustrialOutput;20150908;07:00;Industrial Output (YoY);Hungary;HUF;1
+CZK_UnemploymentRate;20150908;07:00;Unemployment Rate;Czech Republic;CZK;1
+TRY_IndustrialProduction;20150908;07:00;Industrial Production (YoY);Turkey;TRY;1
+DKK_TradeBalance;20150908;07:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20150908;07:00;Current Account;Denmark;DKK;1
+HUF_ConsumerPriceIndex;20150908;07:00;Consumer Price Index (YoY);Hungary;HUF;1
+CZK_FXReserves;20150908;08:00;FX Reserves;Czech Republic;CZK;1
+EUR_EurGrossDomesticProduct;20150908;09:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+GBP_Auction;20150908;09:42;30-y Bond Auction;United Kingdom;GBP;1
+USD_NFIBBusinessOptimismIndex;20150908;10:00;NFIB Business Optimism Index;United States;USD;1
+CLP_ConsumerPriceIndex;20150908;12:00;Core Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+USD_LaborMarketConditionsIndex;20150908;14:00;Labor Market Conditions Index;United States;USD;2
+RUB_GrossDomesticProduct;20150908;14:07;Gross Domestic Product Quarterly (YoY);Russia;RUB;1
+USD_Auction;20150908;17:00;3-Year Note Auction;United States;USD;1
+USD_ConsumerCreditChange;20150908;19:00;Consumer Credit Change;United States;USD;2
+KRW_UnemploymentRate;20150908;23:00;Unemployment Rate;South Korea;KRW;1
+GBP_BRCShopPriceIndex;20150908;23:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1
+JPY_MoneySupplyM2+CD;20150908;23:50;Money Supply M2+CD (YoY);Japan;JPY;1

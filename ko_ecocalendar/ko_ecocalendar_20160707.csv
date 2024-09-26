@@ -1,0 +1,41 @@
+TRY_RamazanFeast;20160707;00:00;Ramazan Feast;Turkey;TRY;0
+JPY_CentralBankSpeech;20160707;00:30;BoJ Governor Kuroda speech;Japan;JPY;3
+JPY_CoincidentIndex;20160707;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20160707;05:00;Leading Economic Index;Japan;JPY;1
+EUR_GerIndustrialProduction;20160707;06:00;Industrial Production s.a. (MoM);Germany;EUR;1
+ZAR_Gross$Gold&ForexReserve;20160707;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+ZAR_Net$Gold&ForexReserve;20160707;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+EUR_FraImportsEUR;20160707;06:45;Imports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20160707;06:45;Trade Balance EUR;France;EUR;1
+EUR_FraExportsEUR;20160707;06:45;Exports, EUR;France;EUR;1
+EUR_FraCurrentAccount;20160707;06:45;Current Account;France;EUR;1
+RUB_CentralBankReserves;20160707;07:00;Central Bank Reserves $;Russia;RUB;1
+CHF_ForeignCurrencyReserves;20160707;07:00;Foreign Currency Reserves;Switzerland;CHF;1
+DKK_IndustrialProduction;20160707;07:00;Industrial Production (MoM);Denmark;DKK;1
+CZK_ForeignTradeBalance;20160707;07:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+CHF_ConsumerPriceIndex;20160707;07:15;Consumer Price Index (YoY);Switzerland;CHF;2
+GBP_HalifaxHousePrices;20160707;07:30;Halifax House Prices (YoY/3m);United Kingdom;GBP;1
+NOK_ManufacturingOutput;20160707;08:00;Manufacturing Output;Norway;NOK;1
+GBP_IndustrialProduction;20160707;08:30;Industrial Production (MoM);United Kingdom;GBP;2
+GBP_ManufacturingProduction;20160707;08:30;Manufacturing Production (MoM);United Kingdom;GBP;2
+CNY_ForeignExchangeReserves;20160707;08:32;Foreign Exchange Reserves (MoM);China;CNY;1
+HUF_BudgetBalance;20160707;09:00;Budget Balance;Hungary;HUF;1
+EUR_FraAuction;20160707;09:19;10-y Bond Auction;France;EUR;1
+GBP_Auction;20160707;10:03;10-y Bond Auction;United Kingdom;GBP;1
+USD_ChallengerJobCuts;20160707;11:30;Challenger Job Cuts;United States;USD;1
+EUR_EurECBMonetaryPolicyMeetingAccounts;20160707;11:30;ECB Monetary Policy Meeting Accounts;European Monetary Union;EUR;3
+PLN_CentralBankFXReserves;20160707;12:00;Central Bank FX Reserves;Poland;PLN;1
+USD_ADPEmploymentChange;20160707;12:15;ADP Employment Change;United States;USD;2
+USD_JoblessClaims;20160707;12:30;Continuing Jobless Claims;United States;USD;1
+CAD_BuildingPermits;20160707;12:30;Building Permits (MoM);Canada;CAD;1
+CLP_TradeBalance;20160707;12:30;Trade Balance;Chile;CLP;1
+MXN_CoreInflation;20160707;13:00;Core Inflation;Mexico;MXN;1
+MXN_12MonthInflation;20160707;13:00;12-Month Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20160707;13:00;Headline Inflation;Mexico;MXN;1
+GBP_NIESRGDPEstimate;20160707;14:00;NIESR GDP Estimate (3M);United Kingdom;GBP;2
+CAD_IveyPurchasingManagersIndex;20160707;14:00;Ivey Purchasing Managers Index s.a;Canada;CAD;2
+USD_EIANaturalGasStorageChange;20160707;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_EIACrudeOilStocksChange;20160707;15:00;EIA Crude Oil Stocks Change;United States;USD;1
+JPY_BankLending;20160707;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_TradeBalanceBOPBasis;20160707;23:50;Trade Balance - BOP Basis;Japan;JPY;1
+JPY_CurrentAccount;20160707;23:50;Current Account n.s.a.;Japan;JPY;1

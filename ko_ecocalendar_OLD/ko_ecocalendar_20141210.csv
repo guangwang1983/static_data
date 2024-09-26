@@ -1,0 +1,41 @@
+JPY_ForeignInvestmentinJapanStocks;20141210;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20141210;23:50;Foreign Bond Investment;Japan;JPY;2
+JPY_TertiaryIndustryIndex;20141210;23:50;Tertiary Industry Index (MoM);Japan;JPY;2
+JPY_MachineryOrders;20141210;23:50;Machinery Orders (YoY);Japan;JPY;2
+NZD_FoodPriceIndex;20141210;21:45;Food Price Index (MoM);New Zealand;NZD;1
+NZD_RBNZInterestRateDecision;20141210;20:00;RBNZ Interest Rate Decision;New Zealand;NZD;3
+NZD_MonetaryPolicyStatement;20141210;20:00;Monetary Policy Statement ;New Zealand;NZD;3
+NZD_RBNZPressConference;20141210;20:00;RBNZ Press Conference;New Zealand;NZD;3
+USD_MonthlyBudgetStatement;20141210;19:00;Monthly Budget Statement;United States;USD;1
+USD_Auction;20141210;18:00;10-Year Note Auction;United States;USD;1
+USD_EIACrudeOilStocksChange;20141210;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+PEN_Tradebalance;20141210;15:00;Trade balance;Peru;PEN;1
+CAD_FinancialSystemReview;20141210;14:30;Financial System Review;Canada;CAD;1
+USD_MBAMortgageApplications;20141210;12:00;MBA Mortgage Applications;United States;USD;2
+INR_M3MoneySupply;20141210;11:30;M3 Money Supply;India;INR;1
+EUR_PorGlobalTradeBalance;20141210;11:02;Global Trade Balance;Portugal;EUR;1
+ZAR_RetailSales;20141210;11:00;Retail Sales (YoY);South Africa;ZAR;1
+EUR_GerAuction;20141210;10:00;2-year Notes Auction;Germany;EUR;1
+EUR_GreIndustrialProduction;20141210;10:00;Industrial Production (YoY);Greece;EUR;1
+GBP_GoodsTradeBalance;20141210;09:30;Goods Trade Balance;United Kingdom;GBP;2
+GBP_TotalTradeBalance;20141210;09:30;Total Trade Balance;United Kingdom;GBP;2
+GBP_TradeBalancenonEU;20141210;09:30;Trade Balance non-EU;United Kingdom;GBP;2
+NOK_ConsumerPriceIndex;20141210;09:00;Consumer Price Index (YoY);Norway;NOK;1
+NOK_CoreInflation;20141210;09:00;Core Inflation (MoM);Norway;NOK;1
+NOK_ProducerPriceIndex;20141210;09:00;Producer Price Index (YoY);Norway;NOK;1
+EUR_NetManufacturingOutput;20141210;08:30;Manufacturing Output (MoM);Netherlands, The;EUR;1
+EUR_SloIndustrialOutput;20141210;08:00;Industrial Output (YoY);Slovakia;EUR;1
+ISK_CBIInterestRateDecision;20141210;08:00;CBI Interest Rate Decision;Iceland;ISK;1
+RON_TradeBalance;20141210;08:00;Trade Balance;Romania;RON;1
+DKK_Inflation;20141210;08:00;Inflation (HICP) (YoY);Denmark;DKK;1
+TRY_GrossDomesticProduct;20141210;08:00;Quarterly Gross Domestic Product;Turkey;TRY;1
+ZAR_ConsumerPriceIndex;20141210;08:00;Consumer Price Index (YoY);South Africa;ZAR;1
+EUR_FraIndustrialOutput;20141210;07:45;Industrial Output (MoM);France;EUR;1
+EUR_FinIndustrialOutput;20141210;07:00;Industrial Output (MoM);Finland;EUR;1
+EUR_FraNonfarmPayrolls;20141210;06:30;Nonfarm Payrolls (QoQ);France;EUR;1
+JPY_ConsumerConfidenceIndex;20141210;05:00;Consumer Confidence Index;Japan;JPY;2
+KRW_MoneySupplyGrowth;20141210;03:00;Money Supply Growth;South Korea;KRW;1
+CNY_ConsumerPriceIndex;20141210;01:30;Consumer Price Index (YoY);China;CNY;3
+CNY_ProducerPriceIndex;20141210;01:30;Producer Price Index (YoY);China;CNY;3
+AUD_InvestmentLendingforHomes;20141210;00:30;Investment Lending for Homes;Australia;AUD;2
+AUD_HomeLoans;20141210;00:30;Home Loans;Australia;AUD;2

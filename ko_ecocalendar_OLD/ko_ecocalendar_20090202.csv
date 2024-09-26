@@ -1,0 +1,13 @@
+JPY_MonetaryBase;20090202;23:30;Monetary Base (YoY);Japan;JPY;1
+USD_ISMManufacturingPMI;20090202;15:00;ISM Manufacturing PMI;United States;USD;2
+USD_ConstructionSpending;20090202;15:00;Construction Spending (MoM);United States;USD;1
+USD_PersonalConsumptionExpendituresPriceIndex;20090202;13:30;Personal Consumption Expenditures - Price Index (YoY);United States;USD;2
+USD_PersonalIncome;20090202;13:30;Personal Income (MoM);United States;USD;1
+USD_CorePersonalConsumptionExpenditurePriceIndex;20090202;13:30;Core Personal Consumption Expenditure - Price Index (MoM);United States;USD;1
+GBP_MarkitManufacturingPMI;20090202;09:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+EUR_EurMarkitManufacturingPMI;20090202;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;1
+EUR_GerMarkitManufacturingPMI;20090202;08:55;Markit Manufacturing PMI;Germany;EUR;2
+CHF_SVMEPurchasingManagers'Index;20090202;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;2
+AUD_RBACommodityIndexSDR;20090202;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+JPY_VehicleSales;20090202;05:00;Vehicle Sales (YoY);Japan;JPY;1
+AUD_HousePriceIndex;20090202;00:30;House Price Index (YoY);Australia;AUD;1

@@ -1,0 +1,8 @@
+USD_TradeBalance;20080111;13:30;Trade Balance;United States;USD;2
+USD_ImportPriceIndex;20080111;13:30;Import Price Index (MoM);United States;USD;2
+CAD_InternationalMerchandiseTrade;20080111;13:30;International Merchandise Trade;Canada;CAD;2
+CAD_UnemploymentRate;20080111;12:00;Unemployment Rate;Canada;CAD;2
+CAD_NetChangeinEmployment;20080111;12:00;Net Change in Employment;Canada;CAD;2
+GBP_IndustrialProduction;20080111;09:30;Industrial Production (MoM);United Kingdom;GBP;2
+GBP_ManufacturingProduction;20080111;09:30;Manufacturing Production (YoY);United Kingdom;GBP;2
+JPY_CapacityUtilization;20080111;04:30;Capacity Utilization;Japan;JPY;0

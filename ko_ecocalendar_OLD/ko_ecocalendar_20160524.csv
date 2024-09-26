@@ -1,0 +1,37 @@
+NZD_TradeBalance;20160524;22:45;Trade Balance (YoY);New Zealand;NZD;2
+NZD_Imports;20160524;22:45;Imports;New Zealand;NZD;2
+NZD_Exports;20160524;22:45;Exports;New Zealand;NZD;2
+USD_APIWeeklyCrudeOilStock;20160524;20:30;API Weekly Crude Oil Stock;United States;USD;1
+ARS_TradeBalance;20160524;19:00;Trade Balance (MoM);Argentina;ARS;1
+USD_Auction;20160524;17:00;2-Year Note Auction;United States;USD;1
+USD_NewHomeSales;20160524;14:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20160524;14:00;New Home Sales Change (MoM);United States;USD;2
+USD_RichmondFedManufacturingIndex;20160524;14:00;Richmond Fed Manufacturing Index;United States;USD;1
+BRL_CurrentAccount;20160524;13:30;Current Account;Brazil;BRL;1
+MXN_1sthalfmonthCoreInflation;20160524;13:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20160524;13:00;1st half-month Inflation;Mexico;MXN;1
+USD_RedbookIndex;20160524;12:55;Redbook Index (MoM);United States;USD;1
+EUR_SloCurrentAccount;20160524;12:30;Current Account Balance EUR;Slovakia;EUR;1
+EUR_EurEurogroupMeeting;20160524;12:00;Eurogroup Meeting;European Monetary Union;EUR;2
+EUR_EurEUFinancialStabilityReview;20160524;12:00;EU Financial Stability Review;European Monetary Union;EUR;2
+HUF_MNBInterestRateDecision;20160524;12:00;MNB Interest Rate Decision;Hungary;HUF;1
+TRY_CBRTInterestRateDecision;20160524;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+GBP_CBIDistributiveTradesSurveyRealized;20160524;10:00;CBI Distributive Trades Survey - Realized (MoM);United Kingdom;GBP;1
+GBP_InflationReportHearings;20160524;09:00;Inflation Report Hearings;United Kingdom;GBP;3
+EUR_GerZEWSurveyEconomicSentiment;20160524;09:00;ZEW Survey - Economic Sentiment;Germany;EUR;2
+EUR_EurZEWSurveyEconomicSentiment;20160524;09:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurveyCurrentSituation;20160524;09:00;ZEW Survey - Current Situation;Germany;EUR;2
+RUB_GrossDomesticProduct;20160524;09:00;Gross Domestic Product Monthly (YoY);Russia;RUB;1
+GBP_PublicSectorNetBorrowing;20160524;08:30;Public Sector Net Borrowing;United Kingdom;GBP;2
+SEK_UnemploymentRate;20160524;07:30;Unemployment Rate;Sweden;SEK;1
+EUR_EurCentralBankSpeech;20160524;07:00;ECB Praet speech;European Monetary Union;EUR;1
+EUR_FraBusinessClimate;20160524;06:45;Business Climate;France;EUR;1
+CHF_Exports;20160524;06:00;Exports (MoM);Switzerland;CHF;1
+CHF_Imports;20160524;06:00;Imports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20160524;06:00;Trade Balance;Switzerland;CHF;1
+EUR_FinProducerPriceIndex;20160524;06:00;Producer Price Index (YoY);Finland;EUR;1
+EUR_FinUnemploymentRate;20160524;06:00;Unemployment Rate;Finland;EUR;1
+EUR_GerGrossDomesticProduct;20160524;06:00;Gross Domestic Product (YoY);Germany;EUR;2
+EUR_FinImportPrices;20160524;06:00;Import Prices (YoY);Finland;EUR;1
+EUR_FinExportPrices;20160524;06:00;Export Prices (YoY);Finland;EUR;1
+AUD_CentralBankSpeech;20160524;03:05;RBA Governor Stevens speech;Australia;AUD;3

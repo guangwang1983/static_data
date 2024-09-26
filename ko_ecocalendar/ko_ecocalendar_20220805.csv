@@ -1,0 +1,44 @@
+AUD_RBAMonetaryPolicyStatement;20220805;01:30;RBA Monetary Policy Statement;Australia;AUD;3
+IDR_GrossDomesticProduct;20220805;02:15;Gross Domestic Product (YoY);Indonesia;IDR;1
+INR_ReverseRepoRate;20220805;04:30;Reverse Repo Rate;India;INR;1
+INR_RBIInterestRateDecision;20220805;04:30;RBI Interest Rate Decision (Repo Rate);India;INR;1
+JPY_CoincidentIndex;20220805;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20220805;05:00;Leading Economic Index;Japan;JPY;1
+EUR_GerIndustrialProduction;20220805;06:00;Industrial Production n.s.a. w.d.a. (YoY);Germany;EUR;1
+GBP_HalifaxHousePrices;20220805;06:00;Halifax House Prices (MoM);United Kingdom;GBP;1
+ZAR_Gross$Gold&ForexReserve;20220805;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+ZAR_Net$Gold&ForexReserve;20220805;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+EUR_FraImportsEUR;20220805;06:45;Imports, EUR;France;EUR;1
+EUR_FraExportsEUR;20220805;06:45;Exports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20220805;06:45;Trade Balance EUR;France;EUR;1
+EUR_FraIndustrialOutput;20220805;06:45;Industrial Output (MoM);France;EUR;1
+EUR_FraCurrentAccount;20220805;06:45;Current Account;France;EUR;1
+EUR_FraNonfarmPayrolls;20220805;06:45;Nonfarm Payrolls (QoQ);France;EUR;1
+HUF_IndustrialOutput;20220805;07:00;Industrial Output (YoY);Hungary;HUF;1
+CZK_RetailSales;20220805;07:00;Retail Sales (YoY);Czech Republic;CZK;1
+CHF_ForeignCurrencyReserves;20220805;07:00;Foreign Currency Reserves;Switzerland;CHF;1
+EUR_ItaIndustrialOutput;20220805;08:00;Industrial Output s.a. (MoM);Italy;EUR;1
+INR_FXReservesUSD;20220805;11:30;FX Reserves, USD;India;INR;1
+PLN_CentralBankFXReserves;20220805;12:00;Central Bank FX Reserves;Poland;PLN;1
+RON_Interestratedecision;20220805;12:00;Interest rate decision;Romania;RON;1
+USD_NonfarmPayrolls;20220805;12:30;Nonfarm Payrolls;United States;USD;3
+USD_AverageHourlyEarnings;20220805;12:30;Average Hourly Earnings (YoY);United States;USD;2
+USD_AverageWeeklyHours;20220805;12:30;Average Weekly Hours;United States;USD;1
+USD_U6UnderemploymentRate;20220805;12:30;U6 Underemployment Rate;United States;USD;2
+USD_UnemploymentRate;20220805;12:30;Unemployment Rate;United States;USD;2
+USD_LaborForceParticipationRate;20220805;12:30;Labor Force Participation Rate;United States;USD;2
+CAD_AverageHourlyWages;20220805;12:30;Average Hourly Wages (YoY);Canada;CAD;2
+CAD_NetChangeinEmployment;20220805;12:30;Net Change in Employment;Canada;CAD;3
+CAD_UnemploymentRate;20220805;12:30;Unemployment Rate;Canada;CAD;3
+CAD_ParticipationRate;20220805;12:30;Participation Rate;Canada;CAD;2
+CAD_IveyPurchasingManagersIndex;20220805;14:00;Ivey Purchasing Managers Index;Canada;CAD;2
+TRY_TreasuryCashBalance;20220805;14:30;Treasury Cash Balance;Turkey;TRY;1
+USD_BakerHughesUSOilRigCount;20220805;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_ConsumerCreditChange;20220805;19:00;Consumer Credit Change;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20220805;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20220805;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20220805;19:30;CFTC Oil NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20220805;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCS&P500NCNetPositions;20220805;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20220805;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20220805;19:30;CFTC AUD NC Net Positions;Australia;AUD;1

@@ -1,0 +1,49 @@
+USD_APIWeeklyCrudeOilStock;20180814;20:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_Auction;20180814;15:30;52-Week Bill Auction;United States;USD;1
+INR_TradeDeficitGovernment;20180814;15:00;Trade Deficit Government;India;INR;1
+COP_RetailSales;20180814;15:00;Retail Sales (YoY);Colombia;COP;1
+COP_TradeBalance;20180814;15:00;Trade Balance;Colombia;COP;1
+COP_Industrialouput;20180814;15:00;Industrial ouput (YoY);Colombia;COP;1
+USD_RedbookIndex;20180814;12:55;Redbook Index (YoY);United States;USD;1
+USD_ExportPriceIndex;20180814;12:30;Export Price Index (YoY);United States;USD;1
+USD_ImportPriceIndex;20180814;12:30;Import Price Index (MoM);United States;USD;1
+EUR_SpaAuction;20180814;10:07;12-Month Letras Auction;Spain;EUR;1
+USD_NFIBBusinessOptimismIndex;20180814;10:00;NFIB Business Optimism Index;United States;USD;1
+EUR_PorGrossDomesticProduct;20180814;10:00;Gross Domestic Product (YoY);Portugal;EUR;1
+EUR_EurGrossDomesticProduct;20180814;09:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+PLN_GrossDomesticProduct;20180814;09:00;Gross Domestic Product Qtr (YoY);Poland;PLN;1
+EUR_EurIndustrialProduction;20180814;09:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;1
+EUR_GerZEWSurveyEconomicSentiment;20180814;09:00;ZEW Survey - Economic Sentiment;Germany;EUR;2
+EUR_EurZEWSurveyEconomicSentiment;20180814;09:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;1
+EUR_GerZEWSurveyCurrentSituation;20180814;09:00;ZEW Survey - Current Situation;Germany;EUR;2
+GBP_AverageEarningsExcludingBonus;20180814;08:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;3
+GBP_ClaimantCountChange;20180814;08:30;Claimant Count Change;United Kingdom;GBP;2
+GBP_ClaimantCountRate;20180814;08:30;Claimant Count Rate;United Kingdom;GBP;1
+GBP_AverageEarningsIncludingBonus;20180814;08:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;3
+GBP_ILOUnemploymentRate;20180814;08:30;ILO Unemployment Rate (3M);United Kingdom;GBP;2
+EUR_NetGrossDomesticProduct;20180814;07:30;Gross Domestic Product s.a (QoQ) ;Netherlands, The;EUR;1
+CHF_ProducerandImportPrices;20180814;07:15;Producer and Import Prices (MoM);Switzerland;CHF;1
+EUR_SpaHICP;20180814;07:00;HICP (YoY);Spain;EUR;1
+EUR_SloHeadlineInflation;20180814;07:00;Headline Inflation (YoY);Slovakia;EUR;1
+EUR_SloCoreInflation;20180814;07:00;Core Inflation (YoY);Slovakia;EUR;1
+EUR_SpaConsumerPriceIndex;20180814;07:00;Consumer Price Index (MoM);Spain;EUR;1
+CZK_GrossDomesticProduct;20180814;07:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+HUF_GrossDomesticProduct;20180814;07:00;Gross Domestic Product (YoY);Hungary;HUF;1
+EUR_SloGrossDomesticProduct;20180814;07:00;Gross Domestic Product Prelim (YoY);Slovakia;EUR;1
+EUR_FraConsumerPriceIndex;20180814;06:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraInflationextobacco;20180814;06:45;Inflation ex-tobacco (MoM);France;EUR;1
+INR_WPIInflation;20180814;06:30;WPI Inflation;India;INR;1
+EUR_FinGrossDomesticProduct;20180814;06:00;Gross Domestic Product (YoY);Finland;EUR;1
+RON_GrossDomesticProduct;20180814;06:00;Gross Domestic Product;Romania;RON;1
+EUR_GerHarmonizedIndexofConsumerPrices;20180814;06:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+EUR_GerConsumerPriceIndex;20180814;06:00;Consumer Price Index (MoM);Germany;EUR;1
+EUR_GerGrossDomesticProduct;20180814;06:00;Gross Domestic Product w.d.a (YoY);Germany;EUR;2
+EUR_FinConsumerPriceIndex;20180814;06:00;Consumer Price Index (YoY);Finland;EUR;1
+EUR_FraILOUnemployment;20180814;05:30;ILO Unemployment;France;EUR;1
+JPY_IndustrialProduction;20180814;04:30;Industrial Production (YoY);Japan;JPY;1
+JPY_CapacityUtilization;20180814;04:30;Capacity Utilization;Japan;JPY;1
+CNY_RetailSales;20180814;02:00;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20180814;02:00;Industrial Production (YoY);China;CNY;2
+CNY_FixedAssetInvestment;20180814;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+AUD_NationalAustraliaBankBusinessConfidence;20180814;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20180814;01:30;National Australia Bank Business Conditions;Australia;AUD;1

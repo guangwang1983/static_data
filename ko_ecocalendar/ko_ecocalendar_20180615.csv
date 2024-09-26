@@ -1,0 +1,41 @@
+IDR_EidAlFitr;20180615;00:00;Eid Al Fitr;Indonesia;IDR;0
+TRY_RamazanFeast;20180615;00:00;Ramazan Feast;Turkey;TRY;0
+CNY_HousePriceIndex;20180615;01:30;House Price Index ;China;CNY;1
+AUD_CentralBankSpeech;20180615;03:30;RBA Ellis speech;Australia;AUD;2
+JPY_BoJPressConference;20180615;04:00;BoJ Press Conference;Japan;JPY;3
+JPY_BoJMonetaryPolicyStatement;20180615;04:00;BoJ Monetary Policy Statement ;Japan;JPY;3
+JPY_BoJInterestRateDecision;20180615;04:00;BoJ Interest Rate Decision;Japan;JPY;3
+NOK_TradeBalance;20180615;06:00;Trade Balance;Norway;NOK;1
+EUR_GerWholesalePriceIndex;20180615;06:00;Wholesale Price Index (YoY);Germany;EUR;1
+EUR_ItaIndustrialOrders;20180615;08:00;Industrial Orders n.s.a (YoY);Italy;EUR;1
+EUR_ItaIndustrialSales;20180615;08:00;Industrial Sales n.s.a. (YoY);Italy;EUR;1
+EUR_EurTradeBalance;20180615;09:00;Trade Balance n.s.a.;European Monetary Union;EUR;1
+EUR_EurLaborCost;20180615;09:00;Labor Cost;European Monetary Union;EUR;2
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20180615;09:00;Core Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_EurHarmonizedIndexofConsumerPrices;20180615;09:00;Harmonized Index of Consumer Prices (MoM);European Monetary Union;EUR;2
+EUR_ItaConsumerPriceIndex;20180615;09:00;Consumer Price Index (EU Norm) (MoM);Italy;EUR;1
+EUR_EurCentralBankSpeech;20180615;09:45;ECB Cœuré speech;European Monetary Union;EUR;2
+RUB_Interestratedecision;20180615;10:30;Interest rate decision;Russia;RUB;2
+INR_FXReservesUSD;20180615;11:30;FX Reserves, USD;India;INR;1
+PLN_NetInflation;20180615;12:00;Net Inflation;Poland;PLN;1
+RUB_BudgetFulfilment;20180615;12:00;Budget Fulfilment;Russia;RUB;1
+USD_NYEmpireStateManufacturingIndex;20180615;12:30;NY Empire State Manufacturing Index;United States;USD;1
+CAD_ManufacturingSales;20180615;12:30;Manufacturing Sales (MoM);Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20180615;12:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20180615;12:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+USD_IndustrialProduction;20180615;13:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20180615;13:15;Capacity Utilization;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20180615;14:00;Michigan Consumer Sentiment Index;United States;USD;2
+COP_RetailSales;20180615;15:00;Retail Sales (YoY);Colombia;COP;1
+COP_Industrialoutput;20180615;15:00;Industrial output (YoY);Colombia;COP;1
+INR_TradeDeficitGovernment;20180615;15:00;Trade Deficit Government;India;INR;1
+USD_BakerHughesUSOilRigCount;20180615;17:00;Baker Hughes US Oil Rig Count;United States;USD;2
+AUD_CFTCAUDNCNetPositions;20180615;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20180615;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+JPY_CFTCJPYNCNetPositions;20180615;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+GBP_CFTCGBPNCNetPositions;20180615;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20180615;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20180615;19:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20180615;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_NetLongTermTICFlows;20180615;20:00;Net Long-Term TIC Flows;United States;USD;1
+USD_TotalNetTICFlows;20180615;20:00;Total Net TIC Flows;United States;USD;1

@@ -1,0 +1,19 @@
+AUD_RetailSales;20210621;01:30;Retail Sales s.a. (MoM);Australia;AUD;3
+CNY_PBoCInterestRateDecision;20210621;01:30;PBoC Interest Rate Decision;China;CNY;3
+PLN_IndustrialOutput;20210621;08:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20210621;08:00;Producer Price Index (YoY);Poland;PLN;1
+CZK_ForeignDebt;20210621;08:00;Foreign Debt;Czech Republic;CZK;1
+EUR_GerGermanBubaMonthlyReport;20210621;10:00;German Buba Monthly Report;Germany;EUR;1
+USD_ChicagoFedNationalActivityIndex;20210621;12:30;Chicago Fed National Activity Index ;United States;USD;2
+EUR_EurCentralBankSpeech;20210621;14:15;ECB President Lagarde speech;European Monetary Union;EUR;3
+USD_Auction;20210621;15:30;3-Month Bill Auction;United States;USD;1
+USD_CentralBankSpeech;20210621;19:00;Fed Williams speech;United States;USD;2
+USD_CFTCOilNCNetPositions;20210621;19:30;CFTC Oil NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20210621;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+GBP_CFTCGBPNCNetPositions;20210621;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20210621;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20210621;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20210621;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20210621;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+KRW_ProducerPriceIndex;20210621;21:00;Producer Price Index Growth (YoY);South Korea;KRW;1
+NZD_WestpacConsumerSurvey;20210621;21:00;Westpac Consumer Survey;New Zealand;NZD;2

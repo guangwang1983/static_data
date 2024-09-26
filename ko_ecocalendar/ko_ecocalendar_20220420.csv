@@ -1,0 +1,26 @@
+USD_IMFMeeting;20220420;00:00;IMF Meeting;United States;USD;2
+AUD_WestpacLeadingIndex;20220420;00:30;Westpac Leading Index (MoM);Australia;AUD;1
+CNY_PBoCInterestRateDecision;20220420;01:15;PBoC Interest Rate Decision;China;CNY;3
+JPY_TertiaryIndustryIndex;20220420;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+EUR_GerProducerPriceIndex;20220420;06:00;Producer Price Index (YoY);Germany;EUR;1
+CZK_ProducerPriceIndex;20220420;07:00;Producer Price Index (YoY);Czech Republic;CZK;1
+EUR_ItaTradeBalanceEU;20220420;08:00;Trade Balance EU;Italy;EUR;1
+EUR_ItaGlobalTradeBalance;20220420;08:00;Global Trade Balance;Italy;EUR;1
+ZAR_ConsumerPriceIndex;20220420;08:00;Consumer Price Index (YoY);South Africa;ZAR;1
+EUR_EurTradeBalance;20220420;09:00;Trade Balance s.a.;European Monetary Union;EUR;1
+EUR_EurIndustrialProduction;20220420;09:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;1
+EUR_GerAuction;20220420;09:30;30-y Bond Auction;Germany;EUR;1
+USD_MBAMortgageApplications;20220420;11:00;MBA Mortgage Applications;United States;USD;1
+CAD_NewHousingPriceIndex;20220420;12:30;New Housing Price Index (MoM);Canada;CAD;1
+CAD_ConsumerPriceIndex;20220420;12:30;Consumer Price Index (YoY);Canada;CAD;2
+USD_ExistingHomeSales;20220420;14:00;Existing Home Sales (MoM);United States;USD;1
+USD_ExistingHomeSalesChange;20220420;14:00;Existing Home Sales Change (MoM);United States;USD;1
+USD_CentralBankSpeech;20220420;14:30;Fed Daly speech;United States;USD;2
+USD_EIACrudeOilStocksChange;20220420;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+RUB_ProducerPriceIndex;20220420;16:00;Producer Price Index (MoM);Russia;RUB;1
+USD_Auction;20220420;17:00;20-Year Bond Auction;United States;USD;1
+USD_FedBeigeBook;20220420;18:00;Fed Beige Book;United States;USD;2
+KRW_ProducerPriceIndex;20220420;21:00;Producer Price Index Growth (YoY);South Korea;KRW;1
+NZD_ConsumerPriceIndex;20220420;22:45;Consumer Price Index (QoQ);New Zealand;NZD;2
+JPY_ForeignInvestmentinJapanStocks;20220420;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20220420;23:50;Foreign Bond Investment;Japan;JPY;1

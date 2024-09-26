@@ -1,0 +1,44 @@
+AUD_ConsumerInflationExpectations;20240614;01:00;Consumer Inflation Expectations;Australia;AUD;2
+KRW_MoneySupplyGrowth;20240614;03:00;Money Supply Growth;South Korea;KRW;1
+JPY_BoJInterestRateDecision;20240614;03:00;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_BoJMonetaryPolicyStatement;20240614;03:00;BoJ Monetary Policy Statement;Japan;JPY;3
+JPY_TertiaryIndustryIndex;20240614;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+JPY_IndustrialProduction;20240614;04:30;Industrial Production (MoM);Japan;JPY;1
+JPY_CapacityUtilization;20240614;04:30;Capacity Utilization;Japan;JPY;1
+JPY_BoJPressConference;20240614;06:00;BoJ Press Conference;Japan;JPY;3
+SEK_ConsumerPriceIndex;20240614;06:00;Consumer Price Index (MoM);Sweden;SEK;1
+INR_WPIInflation;20240614;06:30;WPI Inflation;India;INR;1
+EUR_FraConsumerPriceIndex;20240614;06:45;Consumer Price Index (EU norm) (YoY);France;EUR;2
+EUR_FraInflationextobacco;20240614;06:45;Inflation ex-tobacco (MoM);France;EUR;1
+EUR_EurEurogroupMeeting;20240614;07:00;Eurogroup Meeting;Eurozone;EUR;2
+EUR_ItaGlobalTradeBalance;20240614;08:00;Global Trade Balance;Italy;EUR;1
+EUR_ItaTradeBalanceEU;20240614;08:00;Trade Balance EU;Italy;EUR;1
+PLN_ConsumerPriceIndex;20240614;08:00;Consumer Price Index (MoM);Poland;PLN;1
+GBP_ConsumerInflationExpectations;20240614;08:30;Consumer Inflation Expectations;United Kingdom;GBP;2
+EUR_EurTradeBalance;20240614;09:00;Trade Balance n.s.a.;Eurozone;EUR;1
+ZAR_BusinessConfidenceIndex;20240614;09:30;Business Confidence Index;South Africa;ZAR;1
+CNY_M2MoneySupply;20240614;10:00;M2 Money Supply (YoY);China;CNY;1
+CNY_NewLoans;20240614;10:00;New Loans;China;CNY;1
+INR_TradeDeficitGovernment;20240614;11:00;Trade Deficit Government;India;INR;1
+INR_BankLoanGrowth;20240614;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20240614;11:30;FX Reserves, USD;India;INR;1
+USD_ImportPriceIndex;20240614;12:30;Import Price Index (MoM);United States;USD;1
+USD_ExportPriceIndex;20240614;12:30;Export Price Index (YoY);United States;USD;1
+CAD_ManufacturingSales;20240614;12:30;Manufacturing Sales (MoM);Canada;CAD;1
+CAD_WholesaleSales;20240614;12:30;Wholesale Sales (MoM);Canada;CAD;1
+RUB_CentralBankReserves;20240614;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_UoM5yearConsumerInflationExpectation;20240614;14:00;UoM 5-year Consumer Inflation Expectation;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20240614;14:00;Michigan Consumer Sentiment Index;United States;USD;3
+COP_Industrialoutput;20240614;15:00;Industrial output (YoY);Colombia;COP;1
+ILS_ConsumerPriceIndex;20240614;15:30;Consumer Price Index (YoY);Israel;ILS;1
+RUB_ConsumerPriceIndex;20240614;16:00;Consumer Price Index (MoM);Russia;RUB;1
+USD_BakerHughesUSOilRigCount;20240614;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+EUR_EurCentralBankSpeech;20240614;17:30;ECB President Lagarde speech;Eurozone;EUR;2
+USD_CFTCS&P500NCNetPositions;20240614;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20240614;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20240614;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20240614;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20240614;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20240614;19:30;CFTC EUR NC Net Positions;Eurozone;EUR;1
+AUD_CFTCAUDNCNetPositions;20240614;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CentralBankSpeech;20240614;23:00;Fed Cook speech;United States;USD;2

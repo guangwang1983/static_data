@@ -1,0 +1,37 @@
+USD_EIANaturalGasStorageChange;20171221;15:30;EIA Natural Gas Storage Change;United States;USD;1
+EUR_EurConsumerConfidence;20171221;15:00;Consumer Confidence;European Monetary Union;EUR;2
+USD_HousingPriceIndex;20171221;14:00;Housing Price Index (MoM);United States;USD;2
+MXN_1sthalfmonthCoreInflation;20171221;14:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20171221;14:00;1st half-month Inflation;Mexico;MXN;1
+USD_ChicagoFedNationalActivityIndex;20171221;13:30;Chicago Fed National Activity Index ;United States;USD;2
+USD_JoblessClaims;20171221;13:30;Initial Jobless Claims;United States;USD;2
+USD_GrossDomesticProduct;20171221;13:30;Gross Domestic Product Annualized;United States;USD;3
+USD_PhiladelphiaFedManufacturingSurvey;20171221;13:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+USD_CorePersonalConsumptionExpenditures;20171221;13:30;Core Personal Consumption Expenditures (QoQ);United States;USD;3
+USD_PersonalConsumptionExpendituresPrices;20171221;13:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+CAD_RetailSales;20171221;13:30;Retail Sales ex Autos (MoM);Canada;CAD;1
+CAD_ConsumerPriceIndex;20171221;13:30;Consumer Price Index (MoM);Canada;CAD;2
+RUB_CentralBankReserves;20171221;13:00;Central Bank Reserves $;Russia;RUB;1
+BRL_MidmonthInflation;20171221;11:00;Mid-month Inflation;Brazil;BRL;1
+GBP_PublicSectorNetBorrowing;20171221;09:30;Public Sector Net Borrowing;United Kingdom;GBP;2
+ISK_ConsumerPriceIndex;20171221;09:00;Consumer Price Index (YoY);Iceland;ISK;1
+EUR_GreCurrentAccount;20171221;09:00;Current Account (YoY);Greece;EUR;1
+CZK_ForeignDebt;20171221;09:00;Foreign Debt;Czech Republic;CZK;1
+HKD_ConsumerPriceIndex;20171221;08:30;Consumer Price Index;Hong Kong SAR;HKD;1
+HUF_GrossWages;20171221;08:00;Gross Wages (YoY);Hungary;HUF;1
+SEK_ConsumerConfidence;20171221;08:00;Consumer Confidence (MoM);Sweden;SEK;1
+EUR_FraBusinessClimate;20171221;07:45;Business Climate;France;EUR;1
+HUF_CurrentAccount;20171221;07:30;Current Account Balance (QoQ);Hungary;HUF;1
+TRY_ConsumerConfidence;20171221;07:00;Consumer Confidence;Turkey;TRY;1
+DKK_ConsumerConfidence;20171221;07:00;Consumer Confidence;Denmark;DKK;1
+CHF_Exports;20171221;07:00;Exports (MoM);Switzerland;CHF;1
+CHF_Imports;20171221;07:00;Imports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20171221;07:00;Trade Balance;Switzerland;CHF;1
+DKK_RetailSales;20171221;07:00;Retail Sales (YoY);Denmark;DKK;1
+JPY_BoJPressConference;20171221;06:30;BoJ Press Conference;Japan;JPY;3
+EUR_NetUnemploymentRate;20171221;05:30;Unemployment Rate s.a (3M);Netherlands, The;EUR;1
+EUR_NetConsumerConfidenceAdj;20171221;05:30;Consumer Confidence Adj;Netherlands, The;EUR;1
+EUR_NetConsumerSpendingVolume;20171221;05:30;Consumer Spending Volume;Netherlands, The;EUR;1
+JPY_BoJInterestRateDecision;20171221;02:00;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_BoJMonetaryPolicyStatement;20171221;02:00;BoJ Monetary Policy Statement ;Japan;JPY;3
+GBP_GfKConsumerConfidence;20171221;00:01;GfK Consumer Confidence;United Kingdom;GBP;2

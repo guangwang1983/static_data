@@ -1,0 +1,24 @@
+DKK_Whitmonday;20160516;00:00;Whit monday;Denmark;DKK;0
+NOK_Whitmonday;20160516;00:00;Whit monday;Norway;NOK;0
+CHF_WhitMonday;20160516;00:00;Whit Monday;Switzerland;CHF;0
+EUR_FraWhitMonday;20160516;00:00;Whit Monday ;France;EUR;0
+HUF_PentecostMonday;20160516;00:00;Pentecost Monday ;Hungary;HUF;0
+EUR_GerWhitMonday;20160516;00:00;Whit Monday;Germany;EUR;0
+RUB_GrossDomesticProduct;20160516;00:00;Gross Domestic Product Quarterly (YoY);Russia;RUB;1
+IDR_TradeBalance;20160516;04:00;Trade Balance;Indonesia;IDR;1
+IDR_Exports;20160516;04:00;Exports;Indonesia;IDR;1
+IDR_Imports;20160516;04:00;Imports;Indonesia;IDR;1
+JPY_MachineToolOrders;20160516;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+KRW_TradeBalance;20160516;06:06;Trade Balance;South Korea;KRW;1
+INR_WPIInflation;20160516;06:30;WPI Inflation;India;INR;1
+TRY_UnemploymentRate;20160516;07:00;Unemployment Rate;Turkey;TRY;1
+CZK_ProducerPriceIndex;20160516;07:00;Producer Price Index (YoY);Czech Republic;CZK;1
+TRY_BudgetBalance;20160516;08:00;Budget Balance;Turkey;TRY;1
+USD_NYEmpireStateManufacturingIndex;20160516;12:30;NY Empire State Manufacturing Index;United States;USD;1
+USD_NAHBHousingMarketIndex;20160516;14:00;NAHB Housing Market Index;United States;USD;2
+CAD_BoCReview;20160516;14:30;BoC Review;Canada;CAD;2
+USD_Auction;20160516;15:30;3-Month Bill Auction;United States;USD;1
+USD_NetLongTermTICFlows;20160516;20:00;Net Long-Term TIC Flows;United States;USD;1
+USD_TotalNetTICFlows;20160516;20:00;Total Net TIC Flows;United States;USD;1
+COP_RetailSales;20160516;22:00;Retail Sales (YoY);Colombia;COP;1
+COP_Industrialoutput;20160516;22:00;Industrial output (YoY);Colombia;COP;1

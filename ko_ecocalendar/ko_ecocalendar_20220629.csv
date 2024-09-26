@@ -1,0 +1,34 @@
+AUD_RetailSales;20220629;01:30;Retail Sales s.a. (MoM);Australia;AUD;3
+JPY_ConsumerConfidenceIndex;20220629;05:00;Consumer Confidence Index;Japan;JPY;1
+DKK_IndustrialOutlook;20220629;06:00;Industrial Outlook;Denmark;DKK;1
+SEK_ConsumerConfidence;20220629;07:00;Consumer Confidence (MoM);Sweden;SEK;1
+TRY_EconomicConfidenceIndex;20220629;07:00;Economic Confidence Index;Turkey;TRY;1
+CHF_ZEWSurvey–Expectations;20220629;08:00;ZEW Survey – Expectations;Switzerland;CHF;2
+EUR_EurM3MoneySupply;20220629;08:00;M3 Money Supply (YoY);European Monetary Union;EUR;1
+EUR_EurPrivateLoans;20220629;08:00;Private Loans (YoY);European Monetary Union;EUR;1
+EUR_EurConsumerConfidence;20220629;09:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurIndustrialConfidence;20220629;09:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_EurServicesSentiment;20220629;09:00;Services Sentiment;European Monetary Union;EUR;1
+EUR_EurBusinessClimate;20220629;09:00;Business Climate;European Monetary Union;EUR;2
+EUR_EurEconomicSentimentIndicator;20220629;09:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+BRL_InflationIndexIGPM;20220629;11:00;Inflation Index/IGP-M;Brazil;BRL;1
+USD_MBAMortgageApplications;20220629;11:00;MBA Mortgage Applications;United States;USD;1
+EUR_GerConsumerPriceIndex;20220629;12:00;Consumer Price Index (YoY);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20220629;12:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+USD_GrossDomesticProduct;20220629;12:30;Gross Domestic Product Annualized;United States;USD;3
+USD_PersonalConsumptionExpendituresPrices;20220629;12:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+USD_CorePersonalConsumptionExpenditures;20220629;12:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+CLP_Unemploymentrate;20220629;13:00;Unemployment rate;Chile;CLP;1
+GBP_CentralBankSpeech;20220629;13:00;BoE Governor Bailey speech;United Kingdom;GBP;3
+USD_CentralBankSpeech;20220629;13:00;Fed Chair Powell speech;United States;USD;3
+USD_EIACrudeOilStocksChange;20220629;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+EUR_EurCentralBankSpeech;20220629;15:00;ECB President Lagarde speech;European Monetary Union;EUR;3
+RUB_UnemploymentRate;20220629;16:00;Unemployment Rate;Russia;RUB;1
+RUB_IndustrialOutput;20220629;16:00;Industrial Output;Russia;RUB;1
+KRW_BOKManufacturingBSI;20220629;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+KRW_IndustrialOutput;20220629;23:00;Industrial Output (YoY);South Korea;KRW;1
+KRW_ServiceSectorOutput;20220629;23:00;Service Sector Output;South Korea;KRW;1
+KRW_IndustrialOutputGrowth;20220629;23:00;Industrial Output Growth;South Korea;KRW;1
+JPY_IndustrialProduction;20220629;23:50;Industrial Production (YoY);Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20220629;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20220629;23:50;Foreign Bond Investment;Japan;JPY;1

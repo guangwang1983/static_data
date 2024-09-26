@@ -1,0 +1,12 @@
+USD_MichiganConsumerSentimentIndex;20090313;14:00;Michigan Consumer Sentiment Index;United States;USD;1
+USD_TradeBalance;20090313;12:30;Trade Balance;United States;USD;3
+USD_ImportPriceIndex;20090313;12:30;Import Price Index (MoM);United States;USD;2
+CAD_InternationalMerchandiseTrade;20090313;12:30;International Merchandise Trade;Canada;CAD;2
+CAD_UnemploymentRate;20090313;11:00;Unemployment Rate;Canada;CAD;2
+CAD_NetChangeinEmployment;20090313;11:00;Net Change in Employment;Canada;CAD;2
+EUR_EurRetailSales;20090313;10:00;Retail Sales (MoM);European Monetary Union;EUR;2
+CHF_ProducerandImportPrices;20090313;08:15;Producer and Import Prices (MoM);Switzerland;CHF;2
+EUR_GerWholesalePriceIndex;20090313;06:00;Wholesale Price Index (MoM);Germany;EUR;1
+JPY_ConsumerConfidenceIndex;20090313;05:00;Consumer Confidence Index;Japan;JPY;1
+JPY_IndustrialProduction;20090313;04:30;Industrial Production (MoM);Japan;JPY;1
+JPY_CapacityUtilization;20090313;04:30;Capacity Utilization;Japan;JPY;1

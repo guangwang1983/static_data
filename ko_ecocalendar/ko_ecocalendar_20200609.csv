@@ -1,0 +1,40 @@
+NZD_ANZActivityOutlook;20200609;01:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20200609;01:00;ANZ Business Confidence;New Zealand;NZD;1
+AUD_ANZJobAdvertisements;20200609;01:30;ANZ Job Advertisements;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConfidence;20200609;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20200609;01:30;National Australia Bank Business Conditions;Australia;AUD;1
+CHF_UnemploymentRate;20200609;05:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+RON_TradeBalance;20200609;06:00;Trade Balance;Romania;RON;1
+RON_GrossDomesticProduct;20200609;06:00;Gross Domestic Product;Romania;RON;1
+DKK_TradeBalance;20200609;06:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20200609;06:00;Current Account;Denmark;DKK;1
+JPY_MachineToolOrders;20200609;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+EUR_GerCurrentAccount;20200609;06:00;Current Account n.s.a.;Germany;EUR;1
+EUR_GerImports;20200609;06:00;Imports (MoM);Germany;EUR;1
+EUR_GerTradeBalance;20200609;06:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerExports;20200609;06:00;Exports (MoM);Germany;EUR;1
+EUR_FraCurrentAccount;20200609;06:15;Current Account;France;EUR;1
+EUR_FraExportsEUR;20200609;06:45;Exports, EUR;France;EUR;1
+EUR_FraImportsEUR;20200609;06:45;Imports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20200609;06:45;Trade Balance EUR;France;EUR;1
+EUR_EurEcoFinMeeting;20200609;07:00;EcoFin Meeting;European Monetary Union;EUR;2
+HUF_ConsumerPriceIndex;20200609;07:00;Consumer Price Index (YoY);Hungary;HUF;1
+HUF_TradeBalance;20200609;07:00;Trade Balance;Hungary;HUF;1
+CZK_FXReserves;20200609;08:00;FX Reserves;Czech Republic;CZK;1
+EUR_EurGrossDomesticProduct;20200609;09:00;Gross Domestic Product s.a. (QoQ);European Monetary Union;EUR;3
+EUR_EurEmploymentChange;20200609;09:00;Employment Change (YoY);European Monetary Union;EUR;1
+USD_NFIBBusinessOptimismIndex;20200609;10:00;NFIB Business Optimism Index;United States;USD;1
+MXN_HeadlineInflation;20200609;11:00;Headline Inflation;Mexico;MXN;1
+MXN_12MonthInflation;20200609;11:00;12-Month Inflation;Mexico;MXN;1
+MXN_CoreInflation;20200609;11:00;Core Inflation;Mexico;MXN;1
+USD_RedbookIndex;20200609;12:55;Redbook Index (YoY);United States;USD;1
+USD_JOLTSJobOpenings;20200609;14:00;JOLTS Job Openings;United States;USD;1
+USD_WholesaleInventories;20200609;14:00;Wholesale Inventories;United States;USD;1
+USD_IBDTIPPEconomicOptimism;20200609;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+GBP_CentralBankSpeech;20200609;14:30;BoE Cunliffe speech;United Kingdom;GBP;2
+USD_Auction;20200609;17:00;10-Year Note Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20200609;20:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_ManufacturingSales;20200609;22:45;Manufacturing Sales;New Zealand;NZD;1
+KRW_UnemploymentRate;20200609;23:00;Unemployment Rate;South Korea;KRW;1
+JPY_ProducerPriceIndex;20200609;23:50;Producer Price Index (MoM);Japan;JPY;1
+JPY_MachineryOrders;20200609;23:50;Machinery Orders (YoY);Japan;JPY;1

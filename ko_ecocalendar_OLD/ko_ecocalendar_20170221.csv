@@ -1,0 +1,35 @@
+AUD_WestpacLeadingIndex;20170221;23:30;Westpac Leading Index (MoM);Australia;AUD;1
+AUD_CentralBankSpeech;20170221;21:30;RBA Governor Lowe speech;Australia;AUD;3
+ARS_TradeBalance;20170221;19:00;Trade Balance (MoM);Argentina;ARS;1
+USD_Auction;20170221;18:00;2-Year Note Auction;United States;USD;1
+USD_MarkitManufacturingPMI;20170221;14:45;Markit Manufacturing PMI;United States;USD;2
+USD_MarkitServicesPMI;20170221;14:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20170221;14:45;Markit PMI Composite;United States;USD;2
+NZD_GDTPriceIndex;20170221;14:01;GDT Price Index;New Zealand;NZD;1
+USD_CentralBankSpeech;20170221;13:50;Fed Kashkari speech;United States;USD;1
+EUR_IreHICP;20170221;11:00;HICP (YoY);Ireland;EUR;1
+EUR_IreConsumerPriceIndex;20170221;11:00;Consumer Price Index (YoY);Ireland;EUR;1
+EUR_SpaAuction;20170221;10:06;9-Month Letras Auction;Spain;EUR;1
+GBP_CentralBankSpeech;20170221;10:00;BoE Governor Carney speech;United Kingdom;GBP;3
+GBP_InflationReportHearings;20170221;10:00;Inflation Report Hearings;United Kingdom;GBP;3
+EUR_EurEcoFinMeeting;20170221;10:00;EcoFin Meeting;European Monetary Union;EUR;2
+GBP_PublicSectorNetBorrowing;20170221;09:30;Public Sector Net Borrowing;United Kingdom;GBP;2
+EUR_EurMarkitPMIComposite;20170221;09:00;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitManufacturingPMI;20170221;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20170221;09:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_GerMarkitPMIComposite;20170221;08:30;Markit PMI Composite;Germany;EUR;2
+EUR_GerMarkitServicesPMI;20170221;08:30;Markit Services PMI;Germany;EUR;2
+EUR_GerMarkitManufacturingPMI;20170221;08:30;Markit Manufacturing PMI;Germany;EUR;2
+HKD_ConsumerPriceIndex;20170221;08:30;Consumer Price Index;Hong Kong SAR;HKD;1
+EUR_FraMarkitManufacturingPMI;20170221;08:00;Markit Manufacturing PMI;France;EUR;1
+EUR_FraMarkitPMIComposite;20170221;08:00;Markit PMI Composite;France;EUR;1
+EUR_FraMarkitServicesPMI;20170221;08:00;Markit Services PMI;France;EUR;1
+EUR_FraConsumerPriceIndex;20170221;07:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraInflationextobacco;20170221;07:45;Inflation ex-tobacco (MoM);France;EUR;1
+CHF_Exports;20170221;07:00;Exports (MoM);Switzerland;CHF;1
+CHF_Imports;20170221;07:00;Imports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20170221;07:00;Trade Balance;Switzerland;CHF;1
+EUR_FinUnemploymentRate;20170221;07:00;Unemployment Rate;Finland;EUR;1
+JPY_AllIndustryActivityIndex;20170221;04:30;All Industry Activity Index (MoM);Japan;JPY;2
+AUD_RBAMeetingMinutes;20170221;00:30;RBA Meeting Minutes;Australia;AUD;3
+JPY_NikkeiManufacturingPMI;20170221;00:30;Nikkei Manufacturing PMI;Japan;JPY;1

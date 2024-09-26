@@ -1,0 +1,23 @@
+NZD_CentralBankSpeech;20140623;20:30;RBNZ Bascand speech;New Zealand;NZD;1
+ARS_CurrentAccount;20140623;19:00;Current Account BOP (MoM);Argentina;ARS;1
+ARS_GrossDomesticProduct;20140623;19:00;Gross Domestic Product (YoY)	;Argentina;ARS;1
+USD_Auction;20140623;15:30;6-Month Bill Auction;United States;USD;1
+USD_ExistingHomeSales;20140623;14:00;Existing Home Sales (MoM);United States;USD;2
+USD_ExistingHomeSalesChange;20140623;14:00;Existing Home Sales Change (MoM);United States;USD;1
+USD_MarkitManufacturingPMI;20140623;13:45;Markit Manufacturing PMI;United States;USD;2
+MXN_JoblessRate;20140623;13:00;Jobless Rate s.a;Mexico;MXN;1
+USD_ChicagoFedNationalActivityIndex;20140623;12:30;Chicago Fed National Activity Index ;United States;USD;2
+HKD_ConsumerPriceIndex;20140623;08:30;Consumer Price Index;Hong Kong SAR;HKD;1
+GBP_BoECreditConditionsSurvey;20140623;08:30;BoE Credit Conditions Survey;United Kingdom;GBP;1
+EUR_EurMarkitPMIComposite;20140623;08:00;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitManufacturingPMI;20140623;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20140623;08:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_GerMarkitManufacturingPMI;20140623;07:30;Markit Manufacturing PMI;Germany;EUR;2
+EUR_GerMarkitServicesPMI;20140623;07:30;Markit Services PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20140623;07:00;Markit Manufacturing PMI;France;EUR;2
+EUR_FraMarkitServicesPMI;20140623;07:00;Markit Services PMI;France;EUR;2
+JPY_CentralBankSpeech;20140623;06:00;BoJ Governor Kuroda speech;Japan;JPY;2
+SGD_ConsumerPriceIndex;20140623;05:00;Consumer Price Index (YoY);Singapore;SGD;1
+CNY_CaixinManufacturingPMI;20140623;01:45;Caixin Manufacturing PMI;China;CNY;2
+JPY_NikkeiManufacturingPMI;20140623;01:35;Nikkei Manufacturing PMI;Japan;JPY;2
+COP_CorpusChristi;20140623;00:00;Corpus Christi;Colombia;COP;0

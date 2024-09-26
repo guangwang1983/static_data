@@ -1,0 +1,31 @@
+KRW_FXReserves;20131003;21:00;FX Reserves;South Korea;KRW;1
+USD_CentralBankSpeech;20131003;17:30;FOMC Member Powell speech (don't use);United States;USD;1
+USD_EIANaturalGasStorageChange;20131003;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_ISMNonManufacturingPMI;20131003;14:00;ISM Non-Manufacturing PMI;United States;USD;2
+MXN_ConsumerConfidence;20131003;13:00;Consumer Confidence s.a;Mexico;MXN;1
+USD_JoblessClaims;20131003;12:31;Continuing Jobless Claims;United States;USD;1
+INR_M3MoneySupply;20131003;11:30;M3 Money Supply;India;INR;1
+USD_ChallengerJobCuts;20131003;11:30;Challenger Job Cuts;United States;USD;1
+GBP_Auction;20131003;09:42;10-y Bond Auction;United Kingdom;GBP;1
+ZAR_BusinessConfidenceIndex;20131003;09:30;Business Confidence Index;South Africa;ZAR;1
+EUR_FraAuction;20131003;09:04;10-y Bond Auction;France;EUR;1
+EUR_EurRetailSales;20131003;09:00;Retail Sales (MoM);European Monetary Union;EUR;1
+EUR_SpaAuction;20131003;08:51;10-y Obligaciones Auction;Spain;EUR;1
+HKD_RetailSales;20131003;08:30;Retail Sales;Hong Kong SAR;HKD;1
+GBP_MarkitServicesPMI;20131003;08:28;Markit Services PMI;United Kingdom;GBP;2
+EUR_EurMarkitPMIComposite;20131003;07:58;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20131003;07:58;Markit Services PMI;European Monetary Union;EUR;2
+EUR_GerMarkitServicesPMI;20131003;07:53;Markit Services PMI;Germany;EUR;2
+EUR_FraMarkitServicesPMI;20131003;07:48;Markit Services PMI;France;EUR;2
+EUR_ItaMarkitServicesPMI;20131003;07:43;Markit Services PMI;Italy;EUR;1
+EUR_SpaMarkitServicesPMI;20131003;07:13;Markit Services PMI;Spain;EUR;1
+TRY_ProducerPriceIndex;20131003;07:00;Producer Price Index (YoY);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20131003;07:00;Consumer Price Index (MoM);Turkey;TRY;1
+HUF_RetailSales;20131003;07:00;Retail Sales (YoY);Hungary;HUF;1
+GBP_HalifaxHousePrices;20131003;07:00;Halifax House Prices (3m/YoY);United Kingdom;GBP;1
+RUB_PurchasingManagerIndexServices;20131003;05:00;Purchasing Manager Index Services;Russia;RUB;1
+EUR_IrePurchasingManagerIndexServices;20131003;04:58;Purchasing Manager Index Services;Ireland;EUR;1
+CNY_NonManufacturingPMI;20131003;01:00;Non-Manufacturing PMI;China;CNY;2
+EUR_GerDayofGermanUnity;20131003;00:00;Day of German Unity;Germany;EUR;0
+CNY_NationalDay;20131003;00:00;National Day;China;CNY;0
+KRW_NationalFoundationDay;20131003;00:00;National Foundation Day ;South Korea;KRW;0

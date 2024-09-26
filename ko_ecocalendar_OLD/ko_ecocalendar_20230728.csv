@@ -1,0 +1,56 @@
+AUD_RetailSales;20230728;01:30;Retail Sales s.a. (MoM);Australia;AUD;3
+AUD_ProducerPriceIndex;20230728;01:30;Producer Price Index (YoY);Australia;AUD;2
+JPY_BoJInterestRateDecision;20230728;03:00;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_BoJMonetaryPolicyStatement;20230728;03:00;BoJ Monetary Policy Statement ;Japan;JPY;3
+JPY_BoJOutlookReport;20230728;03:00;BoJ Outlook Report;Japan;JPY;2
+EUR_FraConsumerSpending;20230728;05:30;Consumer Spending (MoM);France;EUR;1
+EUR_FraGrossDomesticProduct;20230728;05:30;Gross Domestic Product (QoQ);France;EUR;2
+DKK_RetailSales;20230728;06:00;Retail Sales (YoY);Denmark;DKK;1
+JPY_BoJPressConference;20230728;06:00;BoJ Press Conference;Japan;JPY;3
+NOK_RetailSales;20230728;06:00;Retail Sales ;Norway;NOK;1
+SEK_RetailSales;20230728;06:00;Retail Sales (MoM);Sweden;SEK;1
+SEK_UnemploymentRate;20230728;06:00;Unemployment Rate;Sweden;SEK;1
+HUF_UnemploymentRate;20230728;06:30;Unemployment Rate (3M);Hungary;HUF;1
+CHF_RetailSales;20230728;06:30;Real Retail Sales (YoY);Switzerland;CHF;2
+EUR_FraProducerPrices;20230728;06:45;Producer Prices (MoM);France;EUR;1
+EUR_FraConsumerPriceIndex;20230728;06:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+TRY_TradeBalance;20230728;07:00;Trade Balance;Turkey;TRY;1
+TRY_EconomicConfidenceIndex;20230728;07:00;Economic Confidence Index;Turkey;TRY;1
+CHF_KOFLeadingIndicator;20230728;07:00;KOF Leading Indicator;Switzerland;CHF;1
+EUR_GerGrossDomesticProduct;20230728;08:00;Gross Domestic Product (YoY);Germany;EUR;3
+EUR_ItaProducerPriceIndex;20230728;08:00;Producer Price Index (YoY);Italy;EUR;1
+NOK_RegisteredUnemployment;20230728;08:00;Registered Unemployment n.s.a;Norway;NOK;1
+EUR_ItaIndustrialSales;20230728;09:00;Industrial Sales n.s.a. (YoY);Italy;EUR;1
+EUR_EurServicesSentiment;20230728;09:00;Services Sentiment;European Monetary Union;EUR;1
+EUR_EurConsumerConfidence;20230728;09:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurEconomicSentimentIndicator;20230728;09:00;Economic Sentiment Indicator;European Monetary Union;EUR;2
+EUR_EurBusinessClimate;20230728;09:00;Business Climate;European Monetary Union;EUR;2
+EUR_EurIndustrialConfidence;20230728;09:00;Industrial Confidence;European Monetary Union;EUR;1
+BRL_InflationIndexIGPM;20230728;11:00;Inflation Index/IGP-M;Brazil;BRL;1
+BRL_NominalBudgetBalance;20230728;11:30;Nominal Budget Balance;Brazil;BRL;1
+BRL_PrimaryBudgetSurplus;20230728;11:30;Primary Budget Surplus;Brazil;BRL;1
+INR_M3MoneySupply;20230728;11:30;M3 Money Supply;India;INR;1
+INR_BankLoanGrowth;20230728;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20230728;11:30;FX Reserves, USD;India;INR;1
+EUR_GerConsumerPriceIndex;20230728;12:00;Consumer Price Index (YoY);Germany;EUR;3
+EUR_GerHarmonizedIndexofConsumerPrices;20230728;12:00;Harmonized Index of Consumer Prices (MoM);Germany;EUR;2
+BRL_UnemploymentRate;20230728;12:00;Unemployment Rate;Brazil;BRL;1
+USD_PersonalConsumptionExpendituresPriceIndex;20230728;12:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;2
+USD_PersonalSpending;20230728;12:30;Personal Spending;United States;USD;2
+USD_CorePersonalConsumptionExpendituresPriceIndex;20230728;12:30;Core Personal Consumption Expenditures - Price Index (YoY);United States;USD;3
+USD_PersonalIncome;20230728;12:30;Personal Income (MoM);United States;USD;2
+USD_EmploymentCostIndex;20230728;12:30;Employment Cost Index;United States;USD;2
+CAD_GrossDomesticProduct;20230728;12:30;Gross Domestic Product (MoM);Canada;CAD;2
+CLP_Unemploymentrate;20230728;13:00;Unemployment rate;Chile;CLP;1
+USD_UoM5yearConsumerInflationExpectation;20230728;14:00;UoM 5-year Consumer Inflation Expectation;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20230728;14:00;Michigan Consumer Sentiment Index;United States;USD;2
+USD_BakerHughesUSOilRigCount;20230728;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CFTCOilNCNetPositions;20230728;19:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20230728;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20230728;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20230728;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20230728;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20230728;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20230728;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+COP_Interestrate;20230728;20:00;Interest rate;Colombia;COP;1
+CLP_BCCHInterestRate;20230728;21:00;BCCH Interest Rate;Chile;CLP;1

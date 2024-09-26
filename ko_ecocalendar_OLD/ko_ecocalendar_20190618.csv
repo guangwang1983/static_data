@@ -1,0 +1,31 @@
+JPY_AdjustedMerchandiseTradeBalance;20190618;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;2
+JPY_MerchandiseTradeBalanceTotal;20190618;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Imports;20190618;23:50;Imports (YoY);Japan;JPY;2
+JPY_Exports;20190618;23:50;Exports (YoY);Japan;JPY;2
+NZD_CurrentAccount;20190618;22:45;Current Account - GDP Ratio;New Zealand;NZD;1
+USD_APIWeeklyCrudeOilStock;20190618;20:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_Auction;20190618;15:30;52-Week Bill Auction;United States;USD;1
+EUR_EurCentralBankSpeech;20190618;14:00;ECB President Draghi speech;European Monetary Union;EUR;3
+GBP_CentralBankSpeech;20190618;14:00;BoE Governor Carney speech;United Kingdom;GBP;3
+NZD_GDTPriceIndex;20190618;14:00;GDT Price Index;New Zealand;NZD;2
+RUB_ProducerPriceIndex;20190618;13:00;Producer Price Index (YoY);Russia;RUB;1
+RUB_IndustrialOutput;20190618;13:00;Industrial Output;Russia;RUB;1
+USD_RedbookIndex;20190618;12:55;Redbook Index (YoY);United States;USD;1
+USD_BuildingPermits;20190618;12:30;Building Permits (MoM);United States;USD;2
+USD_HousingStarts;20190618;12:30;Housing Starts (MoM);United States;USD;2
+USD_HousingStartsChange;20190618;12:30;Housing Starts Change;United States;USD;1
+USD_BuildingPermitsChange;20190618;12:30;Building Permits Change;United States;USD;1
+CAD_ManufacturingShipments;20190618;12:30;Manufacturing Shipments (MoM);Canada;CAD;1
+GBP_Auction;20190618;09:45;10-y Bond Auction;United Kingdom;GBP;1
+EUR_EurTradeBalance;20190618;09:00;Trade Balance n.s.a.;European Monetary Union;EUR;1
+EUR_EurConsumerPriceIndex;20190618;09:00;Consumer Price Index (MoM);European Monetary Union;EUR;2
+EUR_GerZEWSurveyEconomicSentiment;20190618;09:00;ZEW Survey - Economic Sentiment;Germany;EUR;3
+EUR_GerZEWSurveyCurrentSituation;20190618;09:00;ZEW Survey - Current Situation;Germany;EUR;2
+EUR_EurZEWSurveyEconomicSentiment;20190618;09:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;2
+EUR_SpaAuction;20190618;08:40;3-Month Letras Auction;Spain;EUR;1
+TRY_IndustrialProduction;20190618;07:00;Industrial Production (YoY);Turkey;TRY;1
+EUR_AusHICP;20190618;07:00;HICP (YoY);Austria;EUR;1
+EUR_SloEUNormInflation;20190618;07:00;EU Norm Inflation (YoY);Slovakia;EUR;1
+CNY_HousePriceIndex;20190618;01:30;House Price Index ;China;CNY;1
+AUD_HousePriceIndex;20190618;01:30;House Price Index (YoY);Australia;AUD;1
+AUD_RBAMeetingMinutes;20190618;01:30;RBA Meeting Minutes;Australia;AUD;3

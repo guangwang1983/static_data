@@ -1,0 +1,43 @@
+KRW_S&PGlobalManufacturingPMI;20210104;00:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+JPY_JibunBankManufacturingPMI;20210104;00:45;Jibun Bank Manufacturing PMI;Japan;JPY;1
+CNY_CaixinManufacturingPMI;20210104;01:45;Caixin Manufacturing PMI;China;CNY;2
+IDR_Inflation;20210104;04:00;Inflation (MoM);Indonesia;IDR;1
+IDR_CoreInflation;20210104;04:00;Core Inflation (YoY);Indonesia;IDR;1
+AUD_RBACommodityIndexSDR;20210104;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+TRY_ProducerPriceIndex;20210104;07:00;Producer Price Index (MoM);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20210104;07:00;Consumer Price Index (YoY);Turkey;TRY;1
+SEK_PurchasingManagersIndexManufacturing;20210104;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+HUF_PurchasingManagerIndex;20210104;08:00;Purchasing Manager Index;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20210104;08:00;Purchasing Manager Index;Poland;PLN;2
+CHF_SVMEPurchasingManagers'Index;20210104;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_S&PGlobalPMI;20210104;08:30;S&P Global PMI;Czech Republic;CZK;1
+EUR_ItaHCOBManufacturingPMI;20210104;08:45;HCOB Manufacturing PMI;Italy;EUR;2
+EUR_FraHCOBManufacturingPMI;20210104;08:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerHCOBManufacturingPMI;20210104;08:55;HCOB Manufacturing PMI;Germany;EUR;2
+EUR_EurHCOBManufacturingPMI;20210104;09:00;HCOB Manufacturing PMI;European Monetary Union;EUR;1
+GBP_NetLendingtoIndividuals;20210104;09:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20210104;09:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20210104;09:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_S&PGlobalCIPSManufacturingPMI;20210104;09:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+GBP_M4MoneySupply;20210104;09:30;M4 Money Supply (MoM);United Kingdom;GBP;1
+DKK_ManufacturingPMI;20210104;10:00;Manufacturing PMI;Denmark;DKK;1
+USD_OPECMeeting;20210104;10:00;OPEC Meeting;United States;USD;2
+CLP_IMACEC;20210104;11:30;IMACEC;Chile;CLP;1
+BRL_S&PGlobalManufacturingPMI;20210104;13:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+ILS_BoIInterestRateDecision;20210104;14:00;BoI Interest Rate Decision;Israel;ILS;1
+CAD_S&PGlobalManufacturingPMI;20210104;14:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20210104;14:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_ConstructionSpending;20210104;15:00;Construction Spending (MoM);United States;USD;1
+USD_Auction;20210104;16:30;3-Month Bill Auction;United States;USD;1
+BRL_TradeBalance;20210104;18:00;Trade Balance;Brazil;BRL;1
+GBP_CentralBankSpeech;20210104;20:00;UK Prime Minister Boris Johnson speech;United Kingdom;GBP;2
+JPY_CFTCJPYNCNetPositions;20210104;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCOilNCNetPositions;20210104;20:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20210104;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20210104;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20210104;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20210104;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20210104;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCentralBankSpeech;20210104;20:45;ECB Lane speech;European Monetary Union;EUR;2
+USD_CentralBankSpeech;20210104;23:00;Fed Mester speech;United States;USD;2
+JPY_MonetaryBase;20210104;23:50;Monetary Base (YoY);Japan;JPY;1

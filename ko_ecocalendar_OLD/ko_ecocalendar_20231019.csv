@@ -1,0 +1,38 @@
+AUD_NationalAustraliaBankBusinessConfidence;20231019;00:30;National Australia Bank Business Confidence (QoQ);Australia;AUD;2
+AUD_PartTimeEmployment;20231019;00:30;Part-Time Employment;Australia;AUD;2
+AUD_EmploymentChange;20231019;00:30;Employment Change s.a.;Australia;AUD;3
+AUD_FullTimeEmployment;20231019;00:30;Full-Time Employment;Australia;AUD;2
+AUD_UnemploymentRate;20231019;00:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_ParticipationRate;20231019;00:30;Participation Rate;Australia;AUD;2
+KRW_BoKInterestRateDecision;20231019;01:00;BoK Interest Rate Decision;South Korea;KRW;2
+CNY_HousePriceIndex;20231019;01:30;House Price Index ;China;CNY;1
+CHF_Exports;20231019;06:00;Exports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20231019;06:00;Trade Balance;Switzerland;CHF;1
+CHF_Imports;20231019;06:00;Imports (MoM);Switzerland;CHF;1
+EUR_FraBusinessClimateinManufacturing;20231019;06:45;Business Climate in Manufacturing;France;EUR;1
+IDR_BankIndonesiaRate;20231019;07:00;Bank Indonesia Rate;Indonesia;IDR;1
+PLN_IndustrialOutput;20231019;08:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20231019;08:00;Producer Price Index (YoY);Poland;PLN;1
+PLN_CorporateSectorWages;20231019;08:00;Corporate Sector Wages;Poland;PLN;1
+EUR_EurCurrentAccount;20231019;08:00;Current Account s.a;European Monetary Union;EUR;1
+EUR_FraAuction;20231019;08:50;10-y Bond Auction;France;EUR;1
+ILS_M1MoneySupply;20231019;10:00;M1 Money Supply (MoM);Israel;ILS;1
+USD_JoblessClaims;20231019;12:30;Continuing Jobless Claims;United States;USD;1
+USD_PhiladelphiaFedManufacturingSurvey;20231019;12:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+CAD_IndustrialProductPrice;20231019;12:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_RawMaterialPriceIndex;20231019;12:30;Raw Material Price Index;Canada;CAD;1
+CAD_EmploymentInsuranceBeneficiariesChange;20231019;12:30;Employment Insurance Beneficiaries Change (MoM);Canada;CAD;1
+RUB_CentralBankReserves;20231019;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_ExistingHomeSales;20231019;14:00;Existing Home Sales (MoM);United States;USD;1
+USD_ExistingHomeSalesChange;20231019;14:00;Existing Home Sales Change (MoM);United States;USD;2
+USD_EIANaturalGasStorageChange;20231019;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20231019;17:00;5-year TIPS Auction;United States;USD;1
+USD_MonthlyBudgetStatement;20231019;18:00;Monthly Budget Statement;United States;USD;2
+NZD_TradeBalanceNZD;20231019;21:45;Trade Balance NZD (YoY);New Zealand;NZD;2
+NZD_Exports;20231019;21:45;Exports;New Zealand;NZD;2
+NZD_Imports;20231019;21:45;Imports;New Zealand;NZD;2
+USD_CentralBankSpeech;20231019;23:00;Fed Logan speech;United States;USD;2
+GBP_GfKConsumerConfidence;20231019;23:01;GfK Consumer Confidence;United Kingdom;GBP;2
+JPY_NationalCPIexFoodEnergy;20231019;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20231019;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20231019;23:30;National Consumer Price Index (YoY);Japan;JPY;2

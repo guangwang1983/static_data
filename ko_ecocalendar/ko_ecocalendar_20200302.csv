@@ -1,0 +1,42 @@
+AUD_TDSecuritiesInflation;20200302;00:00;TD Securities Inflation (MoM);Australia;AUD;2
+AUD_CompanyGrossOperatingProfits;20200302;00:30;Company Gross Operating Profits (QoQ);Australia;AUD;1
+AUD_ANZJobAdvertisements;20200302;00:30;ANZ Job Advertisements;Australia;AUD;1
+KRW_S&PGlobalManufacturingPMI;20200302;00:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+JPY_JibunBankManufacturingPMI;20200302;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+CNY_CaixinManufacturingPMI;20200302;01:45;Caixin Manufacturing PMI;China;CNY;3
+IDR_Inflation;20200302;04:00;Inflation (MoM);Indonesia;IDR;1
+IDR_CoreInflation;20200302;04:00;Core Inflation (YoY);Indonesia;IDR;1
+AUD_RBACommodityIndexSDR;20200302;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+RUB_S&PGlobalManufacturingPMI;20200302;06:00;S&P Global Manufacturing PMI;Russia;RUB;1
+SEK_PurchasingManagersIndexManufacturing;20200302;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+HUF_PurchasingManagerIndex;20200302;08:00;Purchasing Manager Index;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20200302;08:00;Purchasing Manager Index;Poland;PLN;2
+CHF_SVMEPurchasingManagers'Index;20200302;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_S&PGlobalPMI;20200302;08:30;S&P Global PMI;Czech Republic;CZK;1
+EUR_ItaHCOBManufacturingPMI;20200302;08:45;HCOB Manufacturing PMI;Italy;EUR;1
+EUR_FraHCOBManufacturingPMI;20200302;08:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerHCOBManufacturingPMI;20200302;08:55;HCOB Manufacturing PMI;Germany;EUR;2
+EUR_EurHCOBManufacturingPMI;20200302;09:00;HCOB Manufacturing PMI;European Monetary Union;EUR;1
+GBP_NetLendingtoIndividuals;20200302;09:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20200302;09:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20200302;09:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_S&PGlobalCIPSManufacturingPMI;20200302;09:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+GBP_M4MoneySupply;20200302;09:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+DKK_ManufacturingPMI;20200302;10:00;Manufacturing PMI;Denmark;DKK;1
+CLP_IMACEC;20200302;10:30;IMACEC;Chile;CLP;1
+ZAR_TotalNewVehicleSales;20200302;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+EUR_EurCentralBankSpeech;20200302;12:30;ECB De Guindos speech;European Monetary Union;EUR;2
+BRL_S&PGlobalManufacturingPMI;20200302;13:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+CZK_BudgetBalance;20200302;13:00;Budget Balance;Czech Republic;CZK;1
+CAD_S&PGlobalManufacturingPMI;20200302;14:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20200302;14:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_ISMManufacturingPMI;20200302;15:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20200302;15:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ISMManufacturingEmploymentIndex;20200302;15:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ISMManufacturingNewOrdersIndex;20200302;15:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ConstructionSpending;20200302;15:00;Construction Spending (MoM);United States;USD;1
+USD_Auction;20200302;16:30;6-Month Bill Auction;United States;USD;1
+BRL_TradeBalance;20200302;19:00;Trade Balance;Brazil;BRL;1
+KRW_GrossDomesticProduct;20200302;23:00;Gross Domestic Product Growth (QoQ) ;South Korea;KRW;1
+KRW_ConsumerPriceIndex;20200302;23:00;Consumer Price Index Growth (MoM);South Korea;KRW;1
+JPY_MonetaryBase;20200302;23:50;Monetary Base (YoY);Japan;JPY;1

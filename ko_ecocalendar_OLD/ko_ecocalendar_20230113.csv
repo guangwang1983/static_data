@@ -1,0 +1,42 @@
+AUD_InvestmentLendingforHomes;20230113;00:30;Investment Lending for Homes;Australia;AUD;1
+AUD_HomeLoans;20230113;00:30;Home Loans;Australia;AUD;1
+KRW_BoKInterestRateDecision;20230113;01:00;BoK Interest Rate Decision;South Korea;KRW;1
+CNY_Imports;20230113;03:00;Imports (YoY);China;CNY;2
+CNY_Exports;20230113;03:00;Exports (YoY);China;CNY;2
+CNY_TradeBalanceCNY;20230113;03:00;Trade Balance CNY;China;CNY;1
+CNY_TradeBalanceUSD;20230113;03:00;Trade Balance USD;China;CNY;2
+GBP_ManufacturingProduction;20230113;07:00;Manufacturing Production (YoY);United Kingdom;GBP;2
+GBP_IndustrialProduction;20230113;07:00;Industrial Production (MoM);United Kingdom;GBP;2
+GBP_IndexofServices;20230113;07:00;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20230113;07:00;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20230113;07:00;Total Trade Balance;United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20230113;07:00;Goods Trade Balance;United Kingdom;GBP;1
+GBP_GrossDomesticProduct;20230113;07:00;Gross Domestic Product (MoM);United Kingdom;GBP;2
+RON_ConsumerPriceIndex;20230113;07:00;Consumer Price Index;Romania;RON;1
+SEK_ConsumerPriceIndex;20230113;07:00;Consumer Price Index (MoM);Sweden;SEK;1
+HUF_IndustrialOutput;20230113;07:30;Industrial Output (YoY);Hungary;HUF;1
+HUF_ConsumerPriceIndex;20230113;07:30;Core Consumer Price Index (YoY);Hungary;HUF;1
+PLN_ConsumerPriceIndex;20230113;09:00;Consumer Price Index (MoM);Poland;PLN;1
+CZK_CurrentAccount;20230113;09:00;Current Account (MoM);Czech Republic;CZK;1
+EUR_EurTradeBalance;20230113;10:00;Trade Balance s.a.;European Monetary Union;EUR;1
+EUR_EurIndustrialProduction;20230113;10:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;1
+INR_BankLoanGrowth;20230113;11:30;Bank Loan Growth;India;INR;1
+INR_TradeDeficitGovernment;20230113;11:30;Trade Deficit Government;India;INR;1
+INR_FXReservesUSD;20230113;11:30;FX Reserves, USD;India;INR;1
+GBP_NIESRGDPEstimate;20230113;12:00;NIESR GDP Estimate (3M);United Kingdom;GBP;2
+PLN_CurrentAccount;20230113;13:00;Current Account;Poland;PLN;1
+USD_ImportPriceIndex;20230113;13:30;Import Price Index (MoM);United States;USD;1
+USD_ExportPriceIndex;20230113;13:30;Export Price Index (MoM);United States;USD;1
+USD_FedIndexofCommonInflationExpectations;20230113;15:00;Fed Index of Common Inflation Expectations;United States;USD;2
+USD_UoM5yearConsumerInflationExpectation;20230113;15:00;UoM 5-year Consumer Inflation Expectation;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20230113;15:00;Michigan Consumer Sentiment Index;United States;USD;3
+RUB_ConsumerPriceIndex;20230113;16:00;Consumer Price Index (MoM);Russia;RUB;1
+USD_BakerHughesUSOilRigCount;20230113;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20230113;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20230113;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20230113;20:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20230113;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20230113;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20230113;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20230113;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+NZD_ANZ–RoyMorganConsumerConfidence;20230113;21:00;ANZ – Roy Morgan Consumer Confidence;New Zealand;NZD;2

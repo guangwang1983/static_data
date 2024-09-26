@@ -1,0 +1,38 @@
+NZD_TradeBalance;20130523;22:45;Trade Balance (YoY);New Zealand;NZD;1
+NZD_Imports;20130523;22:45;Imports;New Zealand;NZD;1
+NZD_Exports;20130523;22:45;Exports;New Zealand;NZD;1
+EUR_EurCentralBankSpeech;20130523;19:30;ECB President Draghi speech;European Monetary Union;EUR;3
+USD_KansasFedManufacturingActivity;20130523;15:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_EIANaturalGasStorageChange;20130523;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_AmericanPetroleumInstituteMonthlyReport;20130523;14:00;American Petroleum Institute Monthly Report ;United States;USD;1
+USD_NewHomeSales;20130523;14:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20130523;14:00;New Home Sales Change (MoM);United States;USD;1
+EUR_EurConsumerConfidence;20130523;14:00;Consumer Confidence;European Monetary Union;EUR;2
+USD_HousingPriceIndex;20130523;13:00;Housing Price Index (MoM);United States;USD;2
+ZAR_SARBInterestRateDecision;20130523;13:00;SARB Interest Rate Decision;South Africa;ZAR;1
+MXN_1sthalfmonthCoreInflation;20130523;13:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20130523;13:00;1st half-month Inflation;Mexico;MXN;1
+USD_MarkitManufacturingPMI;20130523;12:58;Markit Manufacturing PMI;United States;USD;2
+USD_JoblessClaims;20130523;12:30;Initial Jobless Claims;United States;USD;2
+BRL_UnemploymentRate;20130523;12:00;Unemployment Rate;Brazil;BRL;1
+USD_CentralBankSpeech;20130523;10:05;Fed Bullard speech;United States;USD;1
+EUR_ItaTradeBalancenonEU;20130523;09:00;Trade Balance non-EU;Italy;EUR;1
+EUR_SpaAuction;20130523;08:57;3-y Bond Auction;Spain;EUR;1
+GBP_GrossDomesticProduct;20130523;08:30;Gross Domestic Product (YoY);United Kingdom;GBP;3
+GBP_TotalBusinessInvestment;20130523;08:30;Total Business Investment (QoQ);United Kingdom;GBP;1
+GBP_IndexofServices;20130523;08:30;Index of Services (3M/3M);United Kingdom;GBP;1
+EUR_ItaRetailSales;20130523;08:00;Retail Sales n.s.a (YoY);Italy;EUR;1
+EUR_EurMarkitPMIComposite;20130523;07:58;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitManufacturingPMI;20130523;07:58;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20130523;07:58;Markit Services PMI;European Monetary Union;EUR;2
+EUR_GerMarkitManufacturingPMI;20130523;07:28;Markit Manufacturing PMI;Germany;EUR;2
+EUR_GerMarkitServicesPMI;20130523;07:28;Markit Services PMI;Germany;EUR;2
+DKK_RetailSales;20130523;07:00;Retail Sales (YoY);Denmark;DKK;1
+EUR_FraMarkitServicesPMI;20130523;06:58;Markit Services PMI;France;EUR;1
+EUR_FraMarkitManufacturingPMI;20130523;06:58;Markit Manufacturing PMI;France;EUR;1
+SGD_IndustrialProduction;20130523;05:00;Industrial Production (YoY);Singapore;SGD;1
+SGD_ConsumerPriceIndex;20130523;05:00;Consumer Price Index (YoY);Singapore;SGD;1
+JPY_BoJMonthlyEconomicSurvey;20130523;05:00;BoJ Monthly Economic Survey;Japan;JPY;2
+CNY_CaixinManufacturingPMI;20130523;01:45;Caixin Manufacturing PMI;China;CNY;2
+AUD_ConsumerInflationExpectations;20130523;01:00;Consumer Inflation Expectations;Australia;AUD;2
+SGD_GrossDomesticProduct;20130523;00:00;Gross Domestic Product (YoY);Singapore;SGD;1

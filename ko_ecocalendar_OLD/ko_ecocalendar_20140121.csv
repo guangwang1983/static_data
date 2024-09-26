@@ -1,0 +1,19 @@
+AUD_WestpacConsumerConfidenceIndex;20140121;23:30;Westpac Consumer Confidence Index;Australia;AUD;1
+AUD_WestpacConsumerConfidence;20140121;23:30;Westpac Consumer Confidence;Australia;AUD;2
+USD_Auction;20140121;16:30;6-Month Bill Auction;United States;USD;1
+CAD_ManufacturingShipments;20140121;13:30;Manufacturing Shipments (MoM);Canada;CAD;1
+CAD_WholesaleSales;20140121;13:30;Wholesale Sales (MoM);Canada;CAD;1
+PLN_IndustrialOutput;20140121;13:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20140121;13:00;Producer Price Index (YoY);Poland;PLN;1
+HUF_MNBInterestRateDecision;20140121;13:00;MNB Interest Rate Decision;Hungary;HUF;1
+TRY_CBRTInterestRateDecision;20140121;12:00;CBRT Interest Rate Decision;Turkey;TRY;1
+GBP_CBIIndustrialTrendsSurveyOrders;20140121;11:00;CBI Industrial Trends Survey - Orders (MoM);United Kingdom;GBP;1
+EUR_GerZEWSurveyEconomicSentiment;20140121;10:00;ZEW Survey - Economic Sentiment;Germany;EUR;3
+EUR_EurZEWSurveyEconomicSentiment;20140121;10:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurveyCurrentSituation;20140121;10:00;ZEW Survey - Current Situation;Germany;EUR;2
+EUR_SpaAuction;20140121;09:52;12-Month Letras Auction;Spain;EUR;1
+EUR_NetConsumerConfidenceAdj;20140121;08:30;Consumer Confidence Adj;Netherlands, The;EUR;1
+HKD_ConsumerPriceIndex;20140121;08:30;Consumer Price Index;Hong Kong SAR;HKD;1
+HUF_GrossWages;20140121;08:00;Gross Wages (YoY);Hungary;HUF;1
+CHF_MonthlyStatisticalBulletin;20140121;08:00;Monthly Statistical Bulletin;Switzerland;CHF;2
+EUR_FinUnemploymentRate;20140121;07:00;Unemployment Rate;Finland;EUR;1

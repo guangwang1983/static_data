@@ -1,0 +1,28 @@
+CNY_Exports;20220609;02:00;Exports (YoY);China;CNY;2
+CNY_Imports;20220609;02:00;Imports (YoY) CNY;China;CNY;1
+CNY_TradeBalanceUSD;20220609;02:00;Trade Balance USD;China;CNY;2
+CNY_TradeBalanceCNY;20220609;02:00;Trade Balance CNY;China;CNY;1
+DKK_TradeBalance;20220609;06:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20220609;06:00;Current Account;Denmark;DKK;1
+RON_TradeBalance;20220609;06:00;Trade Balance;Romania;RON;1
+JPY_MachineToolOrders;20220609;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+SEK_IndustrialProductionValue;20220609;06:00;Industrial Production Value (MoM);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20220609;06:00;New Orders Manufacturing (YoY);Sweden;SEK;1
+HUF_BudgetBalance;20220609;09:00;Budget Balance;Hungary;HUF;1
+ILS_BudgetBalanceILS;20220609;10:00;Budget Balance - ILS;Israel;ILS;1
+MXN_12MonthInflation;20220609;11:00;12-Month Inflation;Mexico;MXN;1
+MXN_CoreInflation;20220609;11:00;Core Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20220609;11:00;Headline Inflation;Mexico;MXN;1
+ZAR_ManufacturingProductionIndex;20220609;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+EUR_EurECBDepositRateDecision;20220609;11:45;ECB Deposit Rate Decision;European Monetary Union;EUR;3
+EUR_EurECBInterestRateDecision;20220609;11:45;ECB Interest Rate Decision;European Monetary Union;EUR;3
+EUR_EurECBMonetaryPolicyDecisionStatement;20220609;11:45;ECB Monetary Policy Decision Statement;European Monetary Union;EUR;3
+USD_JoblessClaims;20220609;12:30;Initial Jobless Claims 4-week average;United States;USD;2
+EUR_EurECBPressConference;20220609;12:30;ECB Press Conference;European Monetary Union;EUR;3
+RUB_CentralBankReserves;20220609;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_EIANaturalGasStorageChange;20220609;14:30;EIA Natural Gas Storage Change;United States;USD;1
+CAD_FinancialSystemReview;20220609;15:00;Financial System Review;Canada;CAD;1
+USD_Auction;20220609;17:00;30-Year Bond Auction;United States;USD;1
+NZD_ManufacturingSales;20220609;22:45;Manufacturing Sales;New Zealand;NZD;1
+NZD_RetailSales;20220609;22:45;Electronic Card Retail Sales  (MoM);New Zealand;NZD;1
+JPY_ProducerPriceIndex;20220609;23:50;Producer Price Index (MoM);Japan;JPY;1

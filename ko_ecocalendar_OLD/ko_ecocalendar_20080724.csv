@@ -1,0 +1,17 @@
+JPY_CorporateServicePrice;20080724;23:50;Corporate Service Price (YoY);Japan;JPY;1
+JPY_TokyoCPIexFreshFood;20080724;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;1
+JPY_TokyoCPIexFoodEnergy;20080724;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;1
+JPY_ConsumerPriceIndex;20080724;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;1
+JPY_NationalCPIexFreshFood;20080724;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;1
+JPY_NationalCPIexFoodEnergy;20080724;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;1
+USD_ExistingHomeSalesChange;20080724;14:00;Existing Home Sales Change (MoM);United States;USD;2
+USD_ExistingHomeSales;20080724;14:00;Existing Home Sales (MoM);United States;USD;2
+USD_JoblessClaims;20080724;12:30;Initial Jobless Claims;United States;USD;1
+GBP_RetailSales;20080724;08:30;Retail Sales (YoY);United Kingdom;GBP;3
+EUR_EurCurrentAccount;20080724;08:00;Current Account n.s.a;European Monetary Union;EUR;1
+EUR_GerIFOExpectations;20080724;08:00;IFO - Expectations;Germany;EUR;2
+EUR_GerIFOBusinessClimate;20080724;08:00;IFO - Business Climate;Germany;EUR;3
+EUR_EurMarkitServicesPMI;20080724;08:00;Markit Services PMI;European Monetary Union;EUR;1
+EUR_EurMarkitManufacturingPMI;20080724;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;1
+EUR_GerMarkitServicesPMI;20080724;07:30;Markit Services PMI;Germany;EUR;1
+EUR_GerMarkitManufacturingPMI;20080724;07:30;Markit Manufacturing PMI;Germany;EUR;2

@@ -1,0 +1,31 @@
+CHF_GrossDomesticProduct;20190528;05:45;Gross Domestic Product s.a. (QoQ);Switzerland;CHF;2
+EUR_GerImportPriceIndex;20190528;06:00;Import Price Index (YoY);Germany;EUR;1
+EUR_GerGfkConsumerConfidenceSurvey;20190528;06:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+CHF_TradeBalance;20190528;06:00;Trade Balance;Switzerland;CHF;1
+CHF_Exports;20190528;06:00;Exports (MoM);Switzerland;CHF;1
+CHF_Imports;20190528;06:00;Imports (MoM);Switzerland;CHF;1
+EUR_FraConsumerConfidence;20190528;06:45;Consumer Confidence;France;EUR;1
+SEK_ConsumerConfidence;20190528;07:00;Consumer Confidence (MoM);Sweden;SEK;1
+TRY_EconomicConfidenceIndex;20190528;07:00;Economic Confidence Index;Turkey;TRY;1
+SEK_TradeBalance;20190528;07:30;Trade Balance (MoM);Sweden;SEK;1
+EUR_ItaTradeBalancenonEU;20190528;08:00;Trade Balance non-EU;Italy;EUR;1
+EUR_EurM3MoneySupply;20190528;08:00;M3 Money Supply (YoY);European Monetary Union;EUR;1
+EUR_EurPrivateLoans;20190528;08:00;Private Loans (YoY);European Monetary Union;EUR;1
+GBP_BBAMortgageApprovals;20190528;08:30;BBA Mortgage Approvals;United Kingdom;GBP;1
+EUR_EurConsumerConfidence;20190528;09:00;Consumer Confidence;European Monetary Union;EUR;1
+EUR_EurIndustrialConfidence;20190528;09:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_EurBusinessClimate;20190528;09:00;Business Climate;European Monetary Union;EUR;2
+EUR_EurEconomicSentimentIndicator;20190528;09:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+EUR_EurServicesSentiment;20190528;09:00;Services Sentiment;European Monetary Union;EUR;1
+ILS_IndustrialProduction;20190528;10:00;Industrial Production (MoM);Israel;ILS;1
+HUF_MNBInterestRateDecision;20190528;12:00;MNB Interest Rate Decision;Hungary;HUF;1
+USD_S&PCaseShillerHomePriceIndices;20190528;13:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;2
+MXN_JoblessRate;20190528;13:00;Jobless Rate s.a;Mexico;MXN;1
+USD_HousingPriceIndex;20190528;13:00;Housing Price Index (MoM);United States;USD;2
+USD_ConsumerConfidence;20190528;14:00;Consumer Confidence;United States;USD;2
+USD_DallasFedManufacturingBusinessIndex;20190528;14:30;Dallas Fed Manufacturing Business Index;United States;USD;1
+USD_Auction;20190528;17:00;5-Year Note Auction;United States;USD;1
+KRW_BOKManufacturingBSI;20190528;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+NZD_RBNZFinancialStabilityReport;20190528;21:00;RBNZ Financial Stability Report;New Zealand;NZD;2
+NZD_CentralBankSpeech;20190528;23:00;RBNZ Governor Orr speech;New Zealand;NZD;3
+GBP_BRCShopPriceIndex;20190528;23:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1

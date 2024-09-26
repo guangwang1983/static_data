@@ -1,0 +1,62 @@
+GBP_RetailSales;20211207;00:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+AUD_HousePriceIndex;20211207;00:30;House Price Index (QoQ);Australia;AUD;2
+CNY_Exports;20211207;02:00;Exports (YoY);China;CNY;2
+CNY_Imports;20211207;02:00;Imports (YoY) CNY;China;CNY;1
+CNY_TradeBalanceUSD;20211207;02:00;Trade Balance USD;China;CNY;2
+CNY_TradeBalanceCNY;20211207;02:00;Trade Balance CNY;China;CNY;1
+AUD_RBARateStatement;20211207;03:30;RBA Rate Statement;Australia;AUD;3
+AUD_RBAInterestRateDecision;20211207;03:30;RBA Interest Rate Decision;Australia;AUD;3
+JPY_CoincidentIndex;20211207;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20211207;05:00;Leading Economic Index;Japan;JPY;2
+ZAR_Gross$Gold&ForexReserve;20211207;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+ZAR_Net$Gold&ForexReserve;20211207;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+CHF_UnemploymentRate;20211207;06:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+EUR_GerIndustrialProduction;20211207;07:00;Industrial Production n.s.a. w.d.a. (YoY);Germany;EUR;1
+EUR_EurEcoFinMeeting;20211207;07:00;EcoFin Meeting;European Monetary Union;EUR;2
+DKK_IndustrialProduction;20211207;07:00;Industrial Production (MoM);Denmark;DKK;1
+NOK_ManufacturingOutput;20211207;07:00;Manufacturing Output;Norway;NOK;1
+GBP_HalifaxHousePrices;20211207;07:00;Halifax House Prices (YoY/3m);United Kingdom;GBP;1
+RON_GrossDomesticProduct;20211207;07:05;Gross Domestic Product;Romania;RON;1
+EUR_FraExportsEUR;20211207;07:45;Exports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20211207;07:45;Trade Balance EUR;France;EUR;1
+EUR_FraImportsEUR;20211207;07:45;Imports, EUR;France;EUR;1
+EUR_FraCurrentAccount;20211207;07:45;Current Account;France;EUR;1
+HUF_IndustrialOutput;20211207;08:00;Industrial Output (YoY);Hungary;HUF;1
+CZK_IndustrialProduction;20211207;08:00;Industrial Production (YoY);Czech Republic;CZK;1
+CHF_ForeignCurrencyReserves;20211207;08:00;Foreign Currency Reserves;Switzerland;CHF;1
+CZK_Constructionoutput;20211207;08:00;Construction output (YoY);Czech Republic;CZK;1
+CZK_ForeignTradeBalance;20211207;08:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+CNY_ForeignExchangeReserves;20211207;08:04;Foreign Exchange Reserves (MoM);China;CNY;1
+SEK_IndustrialProductionValue;20211207;08:30;Industrial Production Value (YoY);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20211207;08:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+ZAR_GrossDomesticProduct;20211207;09:30;Gross Domestic Product (QoQ);South Africa;ZAR;1
+EUR_EurGrossDomesticProduct;20211207;10:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+EUR_GerZEWSurvey–CurrentSituation;20211207;10:00;ZEW Survey – Current Situation;Germany;EUR;2
+EUR_EurZEWSurvey–EconomicSentiment;20211207;10:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurvey–EconomicSentiment;20211207;10:00;ZEW Survey – Economic Sentiment;Germany;EUR;2
+EUR_EurEmploymentChange;20211207;10:00;Employment Change (QoQ);European Monetary Union;EUR;1
+GBP_Auction;20211207;11:00;30-y Bond Auction;United Kingdom;GBP;1
+CLP_ConsumerPriceIndex;20211207;11:30;Core Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+CLP_TradeBalance;20211207;11:30;Trade Balance;Chile;CLP;1
+PLN_CentralBankFXReserves;20211207;13:00;Central Bank FX Reserves;Poland;PLN;1
+USD_GoodsandServicesTradeBalance;20211207;13:30;Goods and Services Trade Balance;United States;USD;2
+USD_UnitLaborCosts;20211207;13:30;Unit Labor Costs;United States;USD;2
+USD_NonfarmProductivity;20211207;13:30;Nonfarm Productivity;United States;USD;2
+USD_GoodsTradeBalance;20211207;13:30;Goods Trade Balance;United States;USD;1
+CAD_InternationalMerchandiseTrade;20211207;13:30;International Merchandise Trade;Canada;CAD;2
+CAD_Exports;20211207;13:30;Exports;Canada;CAD;1
+CAD_Imports;20211207;13:30;Imports;Canada;CAD;1
+USD_RedbookIndex;20211207;13:55;Redbook Index (YoY);United States;USD;1
+TRY_TreasuryCashBalance;20211207;14:30;Treasury Cash Balance;Turkey;TRY;1
+CAD_IveyPurchasingManagersIndex;20211207;15:00;Ivey Purchasing Managers Index;Canada;CAD;2
+USD_IBDTIPPEconomicOptimism;20211207;15:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+NZD_GDTPriceIndex;20211207;15:00;GDT Price Index;New Zealand;NZD;1
+USD_Auction;20211207;18:00;3-Year Note Auction;United States;USD;1
+USD_ConsumerCreditChange;20211207;20:00;Consumer Credit Change;United States;USD;1
+RON_ConstitutionDay;20211207;21:00;Constitution Day;Romania;RON;0
+USD_APIWeeklyCrudeOilStock;20211207;21:30;API Weekly Crude Oil Stock;United States;USD;1
+EUR_ItaImmaculateConceptionDay;20211207;22:00;Immaculate Conception Day;Italy;EUR;0
+JPY_BankLending;20211207;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_GrossDomesticProduct;20211207;23:50;Gross Domestic Product (QoQ);Japan;JPY;3
+JPY_TradeBalanceBOPBasis;20211207;23:50;Trade Balance - BOP Basis;Japan;JPY;1
+JPY_CurrentAccount;20211207;23:50;Current Account n.s.a.;Japan;JPY;2

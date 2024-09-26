@@ -1,0 +1,53 @@
+JPY_NationalCPIexFoodEnergy;20190418;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20190418;23:30;National Consumer Price Index (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20190418;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+KRW_ProducerPriceIndex;20190418;21:00;Producer Price Index Growth (MoM);South Korea;KRW;1
+USD_BakerHughesUSOilRigCount;20190418;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CentralBankSpeech;20190418;16:10;Fed Bostic speech;United States;USD;2
+USD_Auction;20190418;15:30;4-Week Bill Auction;United States;USD;1
+USD_EIANaturalGasStorageChange;20190418;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_BusinessInventories;20190418;14:00;Business Inventories;United States;USD;1
+USD_MarkitManufacturingPMI;20190418;13:45;Markit Manufacturing PMI;United States;USD;2
+USD_MarkitPMIComposite;20190418;13:45;Markit PMI Composite;United States;USD;2
+USD_MarkitServicesPMI;20190418;13:45;Markit Services PMI;United States;USD;2
+RUB_CentralBankReserves;20190418;13:00;Central Bank Reserves $;Russia;RUB;1
+RUB_UnemploymentRate;20190418;13:00;Unemployment Rate;Russia;RUB;1
+USD_RetailSales;20190418;12:30;Retail Sales ex Autos (MoM);United States;USD;2
+USD_JoblessClaims;20190418;12:30;Continuing Jobless Claims;United States;USD;2
+CAD_ADPEmploymentChange;20190418;12:30;ADP Employment Change;Canada;CAD;1
+USD_PhiladelphiaFedManufacturingSurvey;20190418;12:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+CAD_RetailSales;20190418;12:30;Retail Sales ex Autos (MoM);Canada;CAD;2
+GBP_RetailSales;20190418;08:30;Retail Sales ex-Fuel (MoM);United Kingdom;GBP;2
+HKD_Unemploymentrate;20190418;08:30;Unemployment rate;Hong Kong SAR;HKD;1
+PLN_IndustrialOutput;20190418;08:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20190418;08:00;Producer Price Index (YoY);Poland;PLN;1
+EUR_ItaIndustrialSales;20190418;08:00;Industrial Sales s.a. (MoM);Italy;EUR;1
+EUR_ItaIndustrialOrders;20190418;08:00;Industrial Orders s.a (MoM);Italy;EUR;1
+EUR_EurMarkitServicesPMI;20190418;08:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_EurMarkitManufacturingPMI;20190418;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitPMIComposite;20190418;08:00;Markit PMI Composite;European Monetary Union;EUR;3
+SEK_UnemploymentRate;20190418;07:30;Unemployment Rate;Sweden;SEK;1
+EUR_GerMarkitManufacturingPMI;20190418;07:30;Markit Manufacturing PMI;Germany;EUR;3
+EUR_GerMarkitServicesPMI;20190418;07:30;Markit Services PMI;Germany;EUR;2
+EUR_GerMarkitPMIComposite;20190418;07:30;Markit PMI Composite;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20190418;07:15;Markit Manufacturing PMI;France;EUR;1
+EUR_FraMarkitServicesPMI;20190418;07:15;Markit Services PMI;France;EUR;1
+EUR_FraMarkitPMIComposite;20190418;07:15;Markit PMI Composite;France;EUR;1
+CHF_TradeBalance;20190418;06:00;Trade Balance;Switzerland;CHF;1
+CHF_Exports;20190418;06:00;Exports (MoM);Switzerland;CHF;1
+CHF_Imports;20190418;06:00;Imports (MoM);Switzerland;CHF;1
+EUR_GerProducerPriceIndex;20190418;06:00;Producer Price Index (MoM);Germany;EUR;2
+EUR_NetUnemploymentRate;20190418;04:30;Unemployment Rate s.a (3M);Netherlands, The;EUR;1
+CNY_FDIForeignDirectInvestment;20190418;02:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+AUD_FulltimeEmployment;20190418;01:30;Fulltime Employment;Australia;AUD;2
+AUD_PartTimeEmployment;20190418;01:30;Part-Time Employment;Australia;AUD;1
+AUD_EmploymentChange;20190418;01:30;Employment Change s.a.;Australia;AUD;3
+AUD_UnemploymentRate;20190418;01:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_ParticipationRate;20190418;01:30;Participation Rate;Australia;AUD;1
+KRW_BoKInterestRateDecision;20190418;01:00;BoK Interest Rate Decision;South Korea;KRW;1
+JPY_NikkeiManufacturingPMI;20190418;00:30;Nikkei Manufacturing PMI;Japan;JPY;1
+ISK_MaundyThursday;20190418;00:00;Maundy Thursday ;Iceland;ISK;0
+COP_MaundyThursday;20190418;00:00;Maundy Thursday;Colombia;COP;0
+MXN_MaundyThursday;20190418;00:00;Maundy Thursday ;Mexico;MXN;0
+DKK_MaundyThursday;20190418;00:00;Maundy Thursday ;Denmark;DKK;0
+NOK_MaundyThursday;20190418;00:00;Maundy Thursday;Norway;NOK;0

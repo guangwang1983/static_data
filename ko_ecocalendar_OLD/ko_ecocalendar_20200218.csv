@@ -1,0 +1,27 @@
+JPY_Imports;20200218;23:50;Imports (YoY);Japan;JPY;2
+JPY_Exports;20200218;23:50;Exports (YoY);Japan;JPY;2
+JPY_MerchandiseTradeBalanceTotal;20200218;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20200218;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_MachineryOrders;20200218;23:50;Machinery Orders (MoM);Japan;JPY;2
+AUD_WestpacLeadingIndex;20200218;23:30;Westpac Leading Index (MoM);Australia;AUD;2
+USD_NetLongTermTICFlows;20200218;21:00;Net Long-Term TIC Flows;United States;USD;1
+USD_TotalNetTICFlows;20200218;21:00;Total Net TIC Flows;United States;USD;1
+USD_Auction;20200218;16:30;3-Month Bill Auction;United States;USD;1
+NZD_GDTPriceIndex;20200218;15:20;GDT Price Index;New Zealand;NZD;2
+USD_NAHBHousingMarketIndex;20200218;15:00;NAHB Housing Market Index;United States;USD;1
+USD_NYEmpireStateManufacturingIndex;20200218;13:30;NY Empire State Manufacturing Index;United States;USD;1
+CAD_ManufacturingSales;20200218;13:30;Manufacturing Sales (MoM);Canada;CAD;1
+RUB_ProducerPriceIndex;20200218;13:00;Producer Price Index (MoM);Russia;RUB;1
+EUR_GerZEWSurveyEconomicSentiment;20200218;10:00;ZEW Survey - Economic Sentiment;Germany;EUR;3
+EUR_EurZEWSurveyEconomicSentiment;20200218;10:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurveyCurrentSituation;20200218;10:00;ZEW Survey - Current Situation;Germany;EUR;2
+EUR_SpaAuction;20200218;09:40;9-Month Letras Auction;Spain;EUR;1
+GBP_ClaimantCountRate;20200218;09:30;Claimant Count Rate;United Kingdom;GBP;1
+GBP_ClaimantCountChange;20200218;09:30;Claimant Count Change;United Kingdom;GBP;2
+GBP_AverageEarningsExcludingBonus;20200218;09:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20200218;09:30;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_AverageEarningsIncludingBonus;20200218;09:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+HKD_Unemploymentrate;20200218;08:30;Unemployment rate;Hong Kong SAR;HKD;1
+SEK_UnemploymentRate;20200218;08:30;Unemployment Rate;Sweden;SEK;1
+EUR_EurEcoFinMeeting;20200218;07:00;EcoFin Meeting;European Monetary Union;EUR;2
+AUD_RBAMeetingMinutes;20200218;00:30;RBA Meeting Minutes;Australia;AUD;3

@@ -1,0 +1,28 @@
+AUD_RBATrimmedMeanCPI;20170125;00:30;RBA Trimmed Mean CPI (QoQ);Australia;AUD;2
+AUD_ConsumerPriceIndex;20170125;00:30;Consumer Price Index (YoY);Australia;AUD;3
+CHF_UBSConsumptionIndicator;20170125;07:00;UBS Consumption Indicator;Switzerland;CHF;2
+EUR_FraBusinessClimateinManufacturing;20170125;07:45;Business Climate in Manufacturing;France;EUR;1
+CHF_ZEWSurvey–Expectations;20170125;09:00;ZEW Survey – Expectations;Switzerland;CHF;2
+EUR_GerIFO–Expectations;20170125;09:00;IFO – Expectations;Germany;EUR;2
+EUR_GerIFO–CurrentAssessment;20170125;09:00;IFO – Current Assessment;Germany;EUR;2
+EUR_GerIFO–BusinessClimate;20170125;09:00;IFO – Business Climate;Germany;EUR;3
+EUR_ItaIndustrialSales;20170125;09:00;Industrial Sales s.a. (MoM);Italy;EUR;1
+EUR_ItaIndustrialOrders;20170125;09:00;Industrial Orders n.s.a (YoY);Italy;EUR;1
+EUR_ItaTradeBalancenonEU;20170125;10:00;Trade Balance non-EU;Italy;EUR;1
+GBP_CBIIndustrialTrendsSurvey–Orders;20170125;11:00;CBI Industrial Trends Survey – Orders (MoM);United Kingdom;GBP;1
+EUR_GerAuction;20170125;11:05;30-y Bond Auction;Germany;EUR;1
+TRY_CapacityUtilization;20170125;11:30;Capacity Utilization;Turkey;TRY;1
+TRY_ManufacturingConfidence;20170125;11:30;Manufacturing Confidence;Turkey;TRY;1
+RUB_UnemploymentRate;20170125;12:00;Unemployment Rate;Russia;RUB;1
+USD_MBAMortgageApplications;20170125;12:00;MBA Mortgage Applications;United States;USD;1
+PLN_Unemployment;20170125;13:00;Unemployment (MoM);Poland;PLN;1
+MXN_RetailSales;20170125;14:00;Retail Sales (MoM);Mexico;MXN;1
+USD_HousingPriceIndex;20170125;14:00;Housing Price Index (MoM);United States;USD;2
+USD_EIACrudeOilStocksChange;20170125;15:30;EIA Crude Oil Stocks Change;United States;USD;2
+GBP_CentralBankSpeech;20170125;16:50;BoE Governor Carney speech;United Kingdom;GBP;3
+USD_Auction;20170125;18:00;5-Year Note Auction;United States;USD;1
+NZD_ConsumerPriceIndex;20170125;21:45;Consumer Price Index (QoQ);New Zealand;NZD;3
+NZD_CentralBankSpeech;20170125;23:00;RBNZ Governor Wheeler Speech;New Zealand;NZD;1
+JPY_CorporateServicePriceIndex;20170125;23:50;Corporate Service Price Index (YoY);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20170125;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20170125;23:50;Foreign Bond Investment;Japan;JPY;2

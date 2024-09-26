@@ -1,0 +1,77 @@
+GBP_CFTCGBPNCNetPositions;20210226;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20210226;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20210226;20:30;CFTC Oil NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20210226;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCS&P500NCNetPositions;20210226;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20210226;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20210226;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+COP_Interestrate;20210226;20:00;Interest rate;Colombia;COP;1
+USD_BakerHughesUSOilRigCount;20210226;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+COP_NationalJoblessRate;20210226;16:00;National Jobless Rate;Colombia;COP;1
+USD_MichiganConsumerSentimentIndex;20210226;15:00;Michigan Consumer Sentiment Index;United States;USD;2
+USD_ChicagoPurchasingManagers'Index;20210226;14:45;Chicago Purchasing Managers' Index;United States;USD;2
+USD_PersonalIncome;20210226;13:30;Personal Income (MoM);United States;USD;2
+USD_CorePersonalConsumptionExpenditurePriceIndex;20210226;13:30;Core Personal Consumption Expenditure - Price Index (MoM);United States;USD;2
+USD_PersonalConsumptionExpendituresPriceIndex;20210226;13:30;Personal Consumption Expenditures - Price Index (YoY);United States;USD;1
+USD_PersonalSpending;20210226;13:30;Personal Spending;United States;USD;2
+CAD_RawMaterialPriceIndex;20210226;13:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20210226;13:30;Industrial Product Price (MoM);Canada;CAD;1
+USD_WholesaleInventories;20210226;13:30;Wholesale Inventories;United States;USD;1
+USD_GoodsTradeBalance;20210226;13:30;Goods Trade Balance;United States;USD;1
+BRL_NominalBudgetBalance;20210226;12:30;Nominal Budget Balance;Brazil;BRL;1
+BRL_PrimaryBudgetSurplus;20210226;12:30;Primary Budget Surplus;Brazil;BRL;1
+GBP_CentralBankSpeech;20210226;12:30;BoE Ramsden speech;United Kingdom;GBP;2
+BRL_UnemploymentRate;20210226;12:00;Unemployment Rate;Brazil;BRL;1
+CLP_Unemploymentrate;20210226;12:00;Unemployment rate;Chile;CLP;1
+INR_InfrastructureOutput;20210226;12:00;Infrastructure Output (YoY);India;INR;1
+INR_GrossDomesticProduct;20210226;12:00;Gross Domestic Product Quarterly (YoY);India;INR;1
+ZAR_TradeBalance;20210226;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+CLP_IndustrialProduction;20210226;12:00;Industrial Production (YoY);Chile;CLP;1
+INR_BankLoanGrowth;20210226;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20210226;11:30;FX Reserves, USD;India;INR;1
+MXN_TradeBalancesa;20210226;11:00;Trade Balance s/a, $;Mexico;MXN;1
+MXN_TradeBalance;20210226;11:00;Trade Balance, $;Mexico;MXN;1
+INR_FederalFiscalDeficitINR;20210226;11:00;Federal Fiscal Deficit, INR;India;INR;1
+EUR_ItaTradeBalancenonEU;20210226;10:00;Trade Balance non-EU;Italy;EUR;1
+EUR_GreRetailSales;20210226;10:00;Retail Sales (YoY);Greece;EUR;1
+EUR_GreProducerPriceIndex;20210226;10:00;Producer Price Index (YoY);Greece;EUR;1
+EUR_PorGrossDomesticProduct;20210226;09:30;Gross Domestic Product (YoY);Portugal;EUR;1
+EUR_PorConsumerPriceIndex;20210226;09:30;Consumer Price Index (MoM);Portugal;EUR;1
+ISK_GrossDomesticProduct;20210226;09:00;Gross Domestic Product (QoQ);Iceland;ISK;1
+PLN_GrossDomesticProduct;20210226;09:00;Gross Domestic Product Qtr (YoY);Poland;PLN;1
+NOK_RegisteredUnemployment;20210226;09:00;Registered Unemployment s.a;Norway;NOK;1
+EUR_SpaCurrentAccount;20210226;09:00;Current Account Balance;Spain;EUR;1
+SEK_RetailSales;20210226;08:30;Retail Sales (MoM);Sweden;SEK;1
+SEK_GrossDomesticProduct;20210226;08:30;Gross Domestic Product (QoQ);Sweden;SEK;1
+SEK_TradeBalance;20210226;08:30;Trade Balance (MoM);Sweden;SEK;1
+CHF_KOFLeadingIndicator;20210226;08:00;KOF Leading Indicator;Switzerland;CHF;2
+CHF_GrossDomesticProduct;20210226;08:00;Gross Domestic Product s.a. (QoQ);Switzerland;CHF;3
+HUF_UnemploymentRate;20210226;08:00;Unemployment Rate (3M);Hungary;HUF;1
+EUR_AusGrossDomesticProduct;20210226;08:00;Gross Domestic Product (QoQ);Austria;EUR;1
+EUR_SpaConsumerPriceIndex;20210226;08:00;Consumer Price Index (MoM);Spain;EUR;1
+EUR_SpaHICP;20210226;08:00;HICP (MoM);Spain;EUR;1
+EUR_AusProducerPriceIndex;20210226;08:00;Producer Price Index (MoM);Austria;EUR;1
+EUR_FraProducerPrices;20210226;07:45;Producer Prices (MoM);France;EUR;1
+EUR_FraConsumerPriceIndex;20210226;07:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraConsumerSpending;20210226;07:45;Consumer Spending (MoM);France;EUR;1
+EUR_FraGrossDomesticProduct;20210226;07:45;Gross Domestic Product (QoQ);France;EUR;1
+CHF_EmploymentLevel;20210226;07:30;Employment Level (QoQ);Switzerland;CHF;1
+EUR_GerImportPriceIndex;20210226;07:00;Import Price Index (YoY);Germany;EUR;1
+TRY_TradeBalance;20210226;07:00;Trade Balance;Turkey;TRY;1
+DKK_GrossDomesticProduct;20210226;07:00;Gross Domestic Product (YoY);Denmark;DKK;1
+GBP_NationwideHousingPrices;20210226;07:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;1
+NOK_CreditIndicator;20210226;07:00;Credit Indicator;Norway;NOK;1
+EUR_FinProducerPriceIndex;20210226;06:00;Producer Price Index (YoY);Finland;EUR;1
+EUR_FinGrossDomesticProduct;20210226;06:00;Gross Domestic Product Qtr Prelim (YoY);Finland;EUR;1
+EUR_IreConsumerConfidence;20210226;06:00;Consumer Confidence;Ireland;EUR;1
+ZAR_PrivateSectorCredit;20210226;06:00;Private Sector Credit;South Africa;ZAR;1
+ZAR_M3MoneySupply;20210226;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+EUR_FinExportPrices;20210226;06:00;Export Prices (YoY);Finland;EUR;1
+EUR_FinImportPrices;20210226;06:00;Import Prices (YoY);Finland;EUR;1
+EUR_NetRetailSales;20210226;05:30;Retail Sales (YoY);Netherlands, The;EUR;1
+SGD_IndustrialProduction;20210226;05:00;Industrial Production (YoY);Singapore;SGD;1
+JPY_AnnualizedHousingStarts;20210226;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_HousingStarts;20210226;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_ConstructionOrders;20210226;05:00;Construction Orders (YoY);Japan;JPY;1
+AUD_PrivateSectorCredit;20210226;00:30;Private Sector Credit (YoY);Australia;AUD;1
+EUR_EurEUleaderssummit;20210226;00:00;EU leaders summit;European Monetary Union;EUR;2

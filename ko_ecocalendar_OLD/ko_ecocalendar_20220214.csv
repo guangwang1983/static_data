@@ -1,0 +1,11 @@
+RON_IndustrialProduction;20220214;07:00;Industrial Production (MoM);Romania;RON;1
+RON_ConsumerPriceIndex;20220214;07:00;Consumer Price Index;Romania;RON;1
+CHF_ProducerandImportPrices;20220214;07:30;Producer and Import Prices (MoM);Switzerland;CHF;1
+CZK_ConsumerPriceIndex;20220214;08:00;Consumer Price Index (MoM);Czech Republic;CZK;1
+CZK_CurrentAccount;20220214;09:00;Current Account (MoM);Czech Republic;CZK;1
+PLN_CurrentAccount;20220214;13:00;Current Account;Poland;PLN;1
+EUR_EurCentralBankSpeech;20220214;16:15;ECB President Lagarde speech;European Monetary Union;EUR;3
+USD_Auction;20220214;16:30;3-Month Bill Auction;United States;USD;1
+NZD_VisitorArrivals;20220214;21:45;Visitor Arrivals (YoY);New Zealand;NZD;1
+NZD_REINZHousePriceIndex;20220214;22:00;REINZ House Price Index (MoM);New Zealand;NZD;2
+JPY_GrossDomesticProduct;20220214;23:50;Gross Domestic Product Deflator (YoY);Japan;JPY;1

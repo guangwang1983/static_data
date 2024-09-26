@@ -1,0 +1,32 @@
+KRW_TradeBalance;20160115;00:00;Trade Balance;South Korea;KRW;1
+AUD_InvestmentLendingforHomes;20160115;00:30;Investment Lending for Homes;Australia;AUD;2
+AUD_HomeLoans;20160115;00:30;Home Loans;Australia;AUD;2
+CNY_NewLoans;20160115;02:18;New Loans;China;CNY;1
+CNY_M2MoneySupply;20160115;02:18;M2 Money Supply (YoY);China;CNY;1
+RON_GrossDomesticProduct;20160115;07:00;Gross Domestic Product;Romania;RON;1
+EUR_FraBudgetBalance;20160115;07:45;Budget Balance;France;EUR;1
+NOK_TradeBalance;20160115;09:00;Trade Balance;Norway;NOK;1
+TRY_BudgetBalance;20160115;09:00;Budget Balance;Turkey;TRY;1
+EUR_ItaConsumerPriceIndex;20160115;09:00;Consumer Price Index (YoY);Italy;EUR;1
+GBP_BoECreditConditionsSurvey;20160115;09:30;BoE Credit Conditions Survey;United Kingdom;GBP;1
+EUR_EurTradeBalance;20160115;10:00;Trade Balance s.a.;European Monetary Union;EUR;1
+INR_FXReservesUSD;20160115;11:00;FX Reserves, USD;India;INR;1
+PLN_ConsumerPriceIndex;20160115;13:00;Consumer Price Index (YoY);Poland;PLN;1
+USD_NYEmpireStateManufacturingIndex;20160115;13:30;NY Empire State Manufacturing Index;United States;USD;1
+USD_RetailSales;20160115;13:30;Retail Sales ex Autos (MoM);United States;USD;3
+USD_ProducerPriceIndex;20160115;13:30;Producer Price Index (MoM);United States;USD;1
+TRY_UnemploymentRate;20160115;13:41;Unemployment Rate;Turkey;TRY;1
+RUB_CentralBankReserves;20160115;13:42;Central Bank Reserves $;Russia;RUB;1
+USD_IndustrialProduction;20160115;14:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20160115;14:15;Capacity Utilization;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20160115;15:00;Michigan Consumer Sentiment Index;United States;USD;1
+EUR_EurEcoFinMeeting;20160115;15:00;EcoFin Meeting;European Monetary Union;EUR;2
+USD_BusinessInventories;20160115;15:00;Business Inventories;United States;USD;1
+USD_BakerHughesUSOilRigCount;20160115;18:00;Baker Hughes US Oil Rig Count;United States;USD;2
+EUR_EurCFTCEURNCNetPositions;20160115;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20160115;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+JPY_CFTCJPYNCNetPositions;20160115;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCS&P500NCNetPositions;20160115;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20160115;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20160115;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20160115;19:30;CFTC Oil NC Net Positions;United States;USD;1

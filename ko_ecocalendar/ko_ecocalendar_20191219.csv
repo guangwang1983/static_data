@@ -1,0 +1,43 @@
+AUD_PartTimeEmployment;20191219;00:30;Part-Time Employment;Australia;AUD;1
+AUD_FullTimeEmployment;20191219;00:30;Full-Time Employment;Australia;AUD;2
+AUD_EmploymentChange;20191219;00:30;Employment Change s.a.;Australia;AUD;3
+AUD_ParticipationRate;20191219;00:30;Participation Rate;Australia;AUD;1
+AUD_UnemploymentRate;20191219;00:30;Unemployment Rate s.a.;Australia;AUD;3
+JPY_BoJInterestRateDecision;20191219;03:00;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_BoJMonetaryPolicyStatement;20191219;03:00;BoJ Monetary Policy Statement ;Japan;JPY;3
+JPY_BoJPressConference;20191219;06:00;BoJ Press Conference;Japan;JPY;3
+CHF_Exports;20191219;07:00;Exports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20191219;07:00;Trade Balance;Switzerland;CHF;1
+CHF_Imports;20191219;07:00;Imports (MoM);Switzerland;CHF;1
+IDR_BankIndonesiaRate;20191219;07:20;Bank Indonesia Rate;Indonesia;IDR;1
+EUR_FraBusinessClimateinManufacturing;20191219;07:45;Business Climate in Manufacturing;France;EUR;1
+SEK_RiksbankInterestRateDecision;20191219;08:30;Riksbank Interest Rate Decision;Sweden;SEK;1
+PLN_IndustrialOutput;20191219;09:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20191219;09:00;Producer Price Index (YoY);Poland;PLN;1
+NOK_NorgesBankInterestRateDecision;20191219;09:00;Norges Bank Interest Rate Decision;Norway;NOK;1
+GBP_RetailSales;20191219;09:30;Retail Sales (MoM);United Kingdom;GBP;2
+GBP_CBIDistributiveTradesSurvey–Realized;20191219;11:00;CBI Distributive Trades Survey – Realized (MoM);United Kingdom;GBP;1
+GBP_BoEAssetPurchaseFacility;20191219;12:00;BoE Asset Purchase Facility;United Kingdom;GBP;3
+GBP_BoEInterestRateDecision;20191219;12:00;BoE Interest Rate Decision;United Kingdom;GBP;3
+GBP_MonetaryPolicySummary;20191219;12:00;Monetary Policy Summary;United Kingdom;GBP;3
+GBP_BoEMPCVoteRateHike;20191219;12:00;BoE MPC Vote Rate Hike;United Kingdom;GBP;3
+GBP_BankofEnglandMinutes;20191219;12:00;Bank of England Minutes;United Kingdom;GBP;3
+GBP_BoEMPCVoteRateUnchanged;20191219;12:00;BoE MPC Vote Rate Unchanged;United Kingdom;GBP;3
+GBP_BoEMPCVoteRateCut;20191219;12:00;BoE MPC Vote Rate Cut;United Kingdom;GBP;3
+RUB_CentralBankReserves;20191219;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_CurrentAccount;20191219;13:30;Current Account;United States;USD;1
+USD_JoblessClaims;20191219;13:30;Initial Jobless Claims;United States;USD;2
+CAD_ADPEmploymentChange;20191219;13:30;ADP Employment Change;Canada;CAD;1
+CAD_WholesaleSales;20191219;13:30;Wholesale Sales (MoM);Canada;CAD;1
+USD_PhiladelphiaFedManufacturingSurvey;20191219;13:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+USD_ExistingHomeSales;20191219;15:00;Existing Home Sales (MoM);United States;USD;2
+USD_ExistingHomeSalesChange;20191219;15:00;Existing Home Sales Change (MoM);United States;USD;1
+USD_EIANaturalGasStorageChange;20191219;15:30;EIA Natural Gas Storage Change;United States;USD;1
+EUR_EurCentralBankSpeech;20191219;15:30;ECB Lane speech;European Monetary Union;EUR;2
+USD_Auction;20191219;16:30;5-year TIPS Auction;United States;USD;1
+MXN_CentralBankInterestRate;20191219;19:00;Central Bank Interest Rate;Mexico;MXN;1
+NZD_ANZ–RoyMorganConsumerConfidence;20191219;21:00;ANZ – Roy Morgan Consumer Confidence;New Zealand;NZD;2
+KRW_ProducerPriceIndex;20191219;21:00;Producer Price Index Growth (MoM);South Korea;KRW;1
+JPY_ConsumerPriceIndex;20191219;23:30;National Consumer Price Index (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20191219;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_NationalCPIexFoodEnergy;20191219;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2

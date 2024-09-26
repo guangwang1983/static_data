@@ -1,0 +1,16 @@
+USD_CentralBankSpeech;20100423;22:00;Treasury Geithner speech;United States;USD;1
+USD_NewHomeSales;20100423;14:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20100423;14:00;New Home Sales Change (MoM);United States;USD;2
+CAD_RetailSales;20100423;12:30;Retail Sales ex Autos (MoM);Canada;CAD;3
+USD_DurableGoodsOrders;20100423;12:30;Durable Goods Orders ex Transportation;United States;USD;2
+CAD_ConsumerPriceIndex;20100423;11:00;Consumer Price Index (MoM);Canada;CAD;2
+EUR_EurIndustrialNewOrders;20100423;09:00;Industrial New Orders (YoY);European Monetary Union;EUR;1
+GBP_GrossDomesticProduct;20100423;08:30;Gross Domestic Product (YoY);United Kingdom;GBP;3
+GBP_IndexofServices;20100423;08:30;Index of Services (3M/3M);United Kingdom;GBP;1
+EUR_GerIFOCurrentAssessment;20100423;08:00;IFO - Current Assessment;Germany;EUR;2
+EUR_GerIFOExpectations;20100423;08:00;IFO - Expectations;Germany;EUR;2
+EUR_GerIFOBusinessClimate;20100423;08:00;IFO - Business Climate;Germany;EUR;3
+JPY_AllIndustryActivityIndex;20100423;04:30;All Industry Activity Index (MoM);Japan;JPY;1
+AUD_ExportPriceIndex;20100423;01:30;Export Price Index (QoQ);Australia;AUD;1
+AUD_ImportPriceIndex;20100423;01:30;Import Price Index (QoQ);Australia;AUD;1
+EUR_EurG20Meeting;20100423;00:00;G20 Meeting;European Monetary Union;EUR;2

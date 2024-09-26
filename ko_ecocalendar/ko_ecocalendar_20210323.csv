@@ -1,0 +1,31 @@
+NZD_CreditCardSpending;20210323;02:00;Credit Card Spending (YoY);New Zealand;NZD;1
+GBP_ClaimantCountChange;20210323;07:00;Claimant Count Change;United Kingdom;GBP;3
+GBP_ILOUnemploymentRate;20210323;07:00;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_AverageEarningsIncludingBonus;20210323;07:00;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountRate;20210323;07:00;Claimant Count Rate;United Kingdom;GBP;2
+GBP_AverageEarningsExcludingBonus;20210323;07:00;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+HUF_CurrentAccount;20210323;07:30;Current Account Balance (QoQ);Hungary;HUF;1
+PLN_Unemployment;20210323;09:00;Unemployment (MoM);Poland;PLN;1
+CZK_ForeignDebt;20210323;09:00;Foreign Debt;Czech Republic;CZK;1
+EUR_ItaIndustrialSales;20210323;09:00;Industrial Sales n.s.a. (YoY);Italy;EUR;1
+GBP_CentralBankSpeech;20210323;11:50;BoE Governor Bailey speech;United Kingdom;GBP;3
+USD_CurrentAccount;20210323;12:30;Current Account;United States;USD;1
+USD_RedbookIndex;20210323;12:55;Redbook Index (YoY);United States;USD;1
+HUF_MNBInterestRateDecision;20210323;13:00;MNB Interest Rate Decision;Hungary;HUF;1
+USD_NewHomeSales;20210323;14:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20210323;14:00;New Home Sales Change (MoM);United States;USD;1
+USD_RichmondFedManufacturingIndex;20210323;14:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_FedChairPowelltestifies;20210323;16:00;Fed Chair Powell testifies;United States;USD;3
+USD_Auction;20210323;17:00;2-Year Note Auction;United States;USD;1
+CAD_CentralBankSpeech;20210323;17:15;BoC Gravelle speech;Canada;CAD;2
+USD_CentralBankSpeech;20210323;19:45;Fed Brainard speech;United States;USD;2
+USD_APIWeeklyCrudeOilStock;20210323;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_ProducerPriceIndex;20210323;21:00;Producer Price Index Growth (YoY);South Korea;KRW;1
+NZD_TradeBalanceNZD;20210323;21:45;Trade Balance NZD (MoM);New Zealand;NZD;1
+NZD_Imports;20210323;21:45;Imports;New Zealand;NZD;2
+NZD_Exports;20210323;21:45;Exports;New Zealand;NZD;2
+AUD_S&PGlobalManufacturingPMI;20210323;22:00;S&P Global Manufacturing PMI;Australia;AUD;2
+AUD_S&PGlobalServicesPMI;20210323;22:00;S&P Global Services PMI;Australia;AUD;2
+AUD_S&PGlobalCompositePMI;20210323;22:00;S&P Global Composite PMI;Australia;AUD;1
+JPY_CorporateServicePriceIndex;20210323;23:50;Corporate Service Price Index (YoY);Japan;JPY;1
+JPY_BoJMonetaryPolicyMeetingMinutes;20210323;23:50;BoJ Monetary Policy Meeting Minutes;Japan;JPY;3

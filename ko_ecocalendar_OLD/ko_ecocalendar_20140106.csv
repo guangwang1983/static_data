@@ -1,0 +1,42 @@
+JPY_MonetaryBase;20140106;23:50;Monetary Base (YoY);Japan;JPY;1
+USD_FedChairmanNominationVote;20140106;22:30;Fed Chairman Nomination Vote;United States;USD;3
+USD_Auction;20140106;16:30;6-Month Bill Auction;United States;USD;1
+USD_ISMNonManufacturingPMI;20140106;15:00;ISM Non-Manufacturing PMI;United States;USD;3
+USD_FactoryOrders;20140106;15:00;Factory Orders (MoM);United States;USD;2
+USD_LaborMarketConditionsIndex;20140106;14:00;Labor Market Conditions Index;United States;USD;2
+USD_MarkitServicesPMI;20140106;13:58;Markit Services PMI;United States;USD;2
+CLP_IMACEC;20140106;13:30;IMACEC;Chile;CLP;1
+CAD_RawMaterialPriceIndex;20140106;13:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20140106;13:30;Industrial Product Price (MoM);Canada;CAD;1
+SGD_PurchasingManagersIndex;20140106;13:30;Purchasing Managers Index;Singapore;SGD;1
+EUR_GerConsumerPriceIndex;20140106;13:00;Consumer Price Index (MoM);Germany;EUR;2
+EUR_GerHarmonizedIndexofConsumerPrices;20140106;13:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+RUB_ConsumerPriceIndex;20140106;12:00;Consumer Price Index (MoM);Russia;RUB;1
+EUR_PorBusinessConfidence;20140106;11:00;Business Confidence;Portugal;EUR;1
+EUR_PorConsumerConfidence;20140106;11:00;Consumer Confidence;Portugal;EUR;1
+EUR_EurSentixInvestorConfidence;20140106;09:30;Sentix Investor Confidence;European Monetary Union;EUR;2
+GBP_MarkitServicesPMI;20140106;09:28;Markit Services PMI;United Kingdom;GBP;2
+EUR_EurMarkitPMIComposite;20140106;08:58;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20140106;08:58;Markit Services PMI;European Monetary Union;EUR;2
+EUR_GerMarkitServicesPMI;20140106;08:53;Markit Services PMI;Germany;EUR;2
+EUR_FraMarkitServicesPMI;20140106;08:48;Markit Services PMI;France;EUR;1
+EUR_ItaMarkitServicesPMI;20140106;08:43;Markit Services PMI;Italy;EUR;1
+EUR_SpaMarkitServicesPMI;20140106;08:13;Markit Services PMI;Spain;EUR;1
+DKK_IndustrialOutlook;20140106;08:00;Industrial Outlook;Denmark;DKK;1
+DKK_UnemploymentRate;20140106;08:00;Unemployment Rate;Denmark;DKK;1
+CZK_ForeignTradeBalance;20140106;08:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+EUR_IrePurchasingManagerIndexServices;20140106;05:58;Purchasing Manager Index Services;Ireland;EUR;1
+JPY_VehicleSales;20140106;05:00;Vehicle Sales (YoY);Japan;JPY;1
+HKD_NikkeiManufacturingPMI;20140106;02:30;Nikkei Manufacturing PMI;Hong Kong SAR;HKD;1
+CNY_CaixinServicesPMI;20140106;01:45;Caixin Services PMI;China;CNY;2
+JPY_MarkitServicesPMI;20140106;01:00;Markit Services PMI;Japan;JPY;1
+RUB_Bankholiday;20140106;00:00;Bank holiday;Russia;RUB;0
+COP_Epiphany;20140106;00:00;Epiphany;Colombia;COP;0
+EUR_GreEpiphany;20140106;00:00;Epiphany;Greece;EUR;0
+EUR_ItaEpiphany;20140106;00:00;Epiphany;Italy;EUR;0
+EUR_FinEpiphany;20140106;00:00;Epiphany;Finland;EUR;0
+EUR_AusEpiphany;20140106;00:00;Epiphany;Austria;EUR;0
+EUR_SpaEpiphany;20140106;00:00;Epiphany;Spain;EUR;0
+SEK_Epiphany;20140106;00:00;Epiphany;Sweden;SEK;0
+PLN_Epiphany;20140106;00:00;Epiphany;Poland;PLN;0
+EUR_SloEpiphany;20140106;00:00;Epiphany;Slovakia;EUR;0

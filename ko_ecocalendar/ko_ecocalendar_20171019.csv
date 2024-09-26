@@ -1,0 +1,30 @@
+INR_Deewali;20171019;00:00;Deewali;India;INR;0
+AUD_NationalAustraliaBankBusinessConfidence;20171019;00:30;National Australia Bank Business Confidence (QoQ);Australia;AUD;2
+AUD_PartTimeEmployment;20171019;00:30;Part-Time Employment;Australia;AUD;1
+AUD_FullTimeEmployment;20171019;00:30;Full-Time Employment;Australia;AUD;1
+AUD_EmploymentChange;20171019;00:30;Employment Change s.a.;Australia;AUD;3
+AUD_ParticipationRate;20171019;00:30;Participation Rate;Australia;AUD;2
+AUD_UnemploymentRate;20171019;00:30;Unemployment Rate s.a.;Australia;AUD;3
+KRW_BoKInterestRateDecision;20171019;01:00;BoK Interest Rate Decision;South Korea;KRW;1
+CNY_RetailSales;20171019;02:00;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20171019;02:00;Industrial Production (YoY);China;CNY;2
+CNY_NBSPressConference;20171019;02:00;NBS Press Conference;China;CNY;2
+CNY_FixedAssetInvestment;20171019;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+CNY_GrossDomesticProduct;20171019;02:00;Gross Domestic Product (YoY);China;CNY;3
+JPY_AllIndustryActivityIndex;20171019;04:30;All Industry Activity Index (MoM);Japan;JPY;2
+CHF_TradeBalance;20171019;06:00;Trade Balance;Switzerland;CHF;1
+CHF_Imports;20171019;06:00;Imports (MoM);Switzerland;CHF;1
+CHF_Exports;20171019;06:00;Exports (MoM);Switzerland;CHF;1
+HUF_GrossWages;20171019;07:00;Gross Wages (YoY);Hungary;HUF;1
+IDR_BankIndonesiaRate;20171019;07:00;Bank Indonesia Rate;Indonesia;IDR;1
+SEK_UnemploymentRate;20171019;07:30;Unemployment Rate;Sweden;SEK;1
+GBP_RetailSales;20171019;08:30;Retail Sales ex-Fuel (MoM);United Kingdom;GBP;2
+GBP_Auction;20171019;09:44;10-y Bond Auction;United Kingdom;GBP;1
+EUR_EurEuropeanCouncilMeeting;20171019;10:00;European Council Meeting;European Monetary Union;EUR;2
+USD_JoblessClaims;20171019;12:30;Initial Jobless Claims;United States;USD;2
+USD_PhiladelphiaFedManufacturingSurvey;20171019;12:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+RUB_CentralBankReserves;20171019;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_CentralBankSpeech;20171019;13:30;Fed George speech;United States;USD;2
+USD_EIANaturalGasStorageChange;20171019;14:30;EIA Natural Gas Storage Change;United States;USD;1
+CLP_BCCHInterestRate;20171019;21:00;BCCH Interest Rate;Chile;CLP;1
+NZD_VisitorArrivals;20171019;21:45;Visitor Arrivals (YoY);New Zealand;NZD;1

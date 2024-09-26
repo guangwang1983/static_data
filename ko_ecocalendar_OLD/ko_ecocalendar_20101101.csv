@@ -1,0 +1,18 @@
+JPY_BoJMinutes;20101101;23:50;BoJ Minutes;Japan;JPY;1
+JPY_MonetaryBase;20101101;23:50;Monetary Base (YoY);Japan;JPY;1
+USD_ISMManufacturingPMI;20101101;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMPricesPaid;20101101;14:00;ISM Prices Paid;United States;USD;1
+USD_ConstructionSpending;20101101;14:00;Construction Spending (MoM);United States;USD;1
+USD_PersonalConsumptionExpendituresPriceIndex;20101101;13:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;0
+USD_CorePersonalConsumptionExpenditurePriceIndex;20101101;12:30;Core Personal Consumption Expenditure - Price Index (MoM);United States;USD;2
+USD_PersonalIncome;20101101;12:30;Personal Income (MoM);United States;USD;2
+GBP_MarkitManufacturingPMI;20101101;09:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+CHF_SVMEPurchasingManagers'Index;20101101;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;2
+AUD_RBACommodityIndexSDR;20101101;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+JPY_VehicleSales;20101101;05:00;Vehicle Sales (YoY);Japan;JPY;1
+CNY_CaixinManufacturingPMI;20101101;02:30;Caixin Manufacturing PMI;China;CNY;1
+NZD_ANZCommodityPrice;20101101;02:00;ANZ Commodity Price;New Zealand;NZD;1
+JPY_LaborCashEarnings;20101101;01:30;Labor Cash Earnings (YoY);Japan;JPY;2
+CNY_NBSManufacturingPMI;20101101;01:00;NBS Manufacturing PMI;China;CNY;2
+AUD_HousePriceIndex;20101101;00:30;House Price Index (QoQ);Australia;AUD;2
+GBP_HometrackHousingPrices;20101101;00:01;Hometrack Housing Prices s.a (MoM);United Kingdom;GBP;1

@@ -1,0 +1,25 @@
+USD_IndependenceDay;20180704;00:00;Independence Day;United States;USD;0
+JPY_JibunBankServicesPMI;20180704;00:30;Jibun Bank Services PMI;Japan;JPY;1
+NZD_ANZCommodityPrice;20180704;01:00;ANZ Commodity Price;New Zealand;NZD;1
+AUD_RetailSales;20180704;01:30;Retail Sales s.a. (MoM);Australia;AUD;2
+AUD_TradeBalance;20180704;01:30;Trade Balance (MoM);Australia;AUD;2
+AUD_Imports;20180704;01:30;Imports (MoM);Australia;AUD;2
+AUD_Exports;20180704;01:30;Exports (MoM);Australia;AUD;2
+JPY_CentralBankSpeech;20180704;01:30;BoJ Harada speech;Japan;JPY;2
+CNY_CaixinServicesPMI;20180704;01:45;Caixin Services PMI;China;CNY;2
+RUB_S&PGlobalServicesPMI;20180704;06:00;S&P Global Services PMI;Russia;RUB;1
+CZK_RetailSales;20180704;07:00;Retail Sales (YoY);Czech Republic;CZK;1
+EUR_ItaHCOBServicesPMI;20180704;07:45;HCOB Services PMI;Italy;EUR;1
+EUR_FraHCOBServicesPMI;20180704;07:50;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20180704;07:50;HCOB Composite PMI;France;EUR;1
+EUR_GerHCOBServicesPMI;20180704;07:55;HCOB Services PMI;Germany;EUR;2
+EUR_GerHCOBCompositePMI;20180704;07:55;HCOB Composite PMI;Germany;EUR;2
+EUR_EurHCOBServicesPMI;20180704;08:00;HCOB Services PMI;European Monetary Union;EUR;2
+EUR_EurHCOBCompositePMI;20180704;08:00;HCOB Composite PMI;European Monetary Union;EUR;2
+GBP_S&PGlobalCIPSServicesPMI;20180704;08:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;2
+USD_MBAMortgageApplications;20180704;11:00;MBA Mortgage Applications;United States;USD;1
+BRL_IndustrialOutput;20180704;12:00;Industrial Output (YoY);Brazil;BRL;1
+RON_Interestratedecision;20180704;12:00;Interest rate decision;Romania;RON;1
+KRW_CurrentAccount;20180704;23:00;Current Account Balance;South Korea;KRW;1
+JPY_ForeignInvestmentinJapanStocks;20180704;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20180704;23:50;Foreign Bond Investment;Japan;JPY;1

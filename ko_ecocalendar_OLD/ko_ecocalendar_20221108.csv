@@ -1,0 +1,30 @@
+GBP_RetailSales;20221108;00:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+AUD_NationalAustraliaBankBusinessConditions;20221108;00:30;National Australia Bank Business Conditions;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConfidence;20221108;00:30;National Australia Bank Business Confidence;Australia;AUD;1
+NZD_RBNZInflationExpectations;20221108;02:00;RBNZ Inflation Expectations (QoQ);New Zealand;NZD;2
+USD_USMidTermElections;20221108;05:00;US Mid-Term Elections;United States;USD;2
+JPY_LeadingEconomicIndex;20221108;05:00;Leading Economic Index;Japan;JPY;1
+JPY_CoincidentIndex;20221108;05:00;Coincident Index;Japan;JPY;1
+EUR_EurEcoFinMeeting;20221108;07:00;EcoFin Meeting;European Monetary Union;EUR;2
+HUF_IndustrialOutput;20221108;08:00;Industrial Output (YoY);Hungary;HUF;1
+HUF_RetailSales;20221108;08:00;Retail Sales (YoY);Hungary;HUF;1
+CZK_UnemploymentRate;20221108;08:00;Unemployment Rate;Czech Republic;CZK;1
+CZK_RetailSales;20221108;08:00;Retail Sales (YoY);Czech Republic;CZK;1
+CHF_CentralBankSpeech;20221108;08:15;SNB Chairman Jordan speech;Switzerland;CHF;3
+GBP_CentralBankSpeech;20221108;09:00;BoE Pill speech;United Kingdom;GBP;2
+CZK_FXReserves;20221108;09:00;FX Reserves;Czech Republic;CZK;1
+ZAR_BusinessConfidenceIndex;20221108;09:30;Business Confidence Index;South Africa;ZAR;1
+EUR_EurRetailSales;20221108;10:00;Retail Sales (YoY);European Monetary Union;EUR;3
+RUB_Interestratedecision;20221108;10:30;Interest rate decision;Russia;RUB;2
+USD_NFIBBusinessOptimismIndex;20221108;11:00;NFIB Business Optimism Index;United States;USD;1
+CLP_ConsumerPriceIndex;20221108;12:00;Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+USD_RedbookIndex;20221108;12:55;Redbook Index (YoY);United States;USD;1
+RON_Interestratedecision;20221108;13:00;Interest rate decision;Romania;RON;1
+USD_IBDTIPPEconomicOptimism;20221108;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+USD_Auction;20221108;18:00;3-Year Note Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20221108;21:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_RetailSales;20221108;21:45;Electronic Card Retail Sales  (MoM);New Zealand;NZD;1
+KRW_UnemploymentRate;20221108;23:00;Unemployment Rate;South Korea;KRW;1
+JPY_BankLending;20221108;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_CurrentAccount;20221108;23:50;Current Account n.s.a.;Japan;JPY;2
+JPY_TradeBalanceBOPBasis;20221108;23:50;Trade Balance - BOP Basis;Japan;JPY;1

@@ -1,0 +1,30 @@
+JPY_DomesticCorporateGoodsPriceIndex;20190709;23:50;Domestic Corporate Goods Price Index (MoM);Japan;JPY;1
+KRW_UnemploymentRate;20190709;23:00;Unemployment Rate;South Korea;KRW;1
+NZD_FoodPriceIndex;20190709;22:45;Food Price Index (MoM);New Zealand;NZD;1
+NZD_CentralBankSpeech;20190709;21:00;RBNZ Governor Orr speech;New Zealand;NZD;2
+USD_APIWeeklyCrudeOilStock;20190709;20:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_Auction;20190709;17:00;3-Year Note Auction;United States;USD;1
+USD_CentralBankSpeech;20190709;14:10;Fed Bullard speech;United States;USD;2
+USD_JOLTSJobOpenings;20190709;14:00;JOLTS Job Openings;United States;USD;1
+MXN_12MonthInflation;20190709;13:00;12-Month Inflation;Mexico;MXN;1
+MXN_CoreInflation;20190709;13:00;Core Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20190709;13:00;Headline Inflation;Mexico;MXN;1
+USD_RedbookIndex;20190709;12:55;Redbook Index (YoY);United States;USD;1
+CAD_BuildingPermits;20190709;12:30;Building Permits (MoM);Canada;CAD;1
+CAD_HousingStarts;20190709;12:15;Housing Starts s.a (YoY);Canada;CAD;1
+USD_NFIBBusinessOptimismIndex;20190709;10:00;NFIB Business Optimism Index;United States;USD;1
+EUR_AusTradeBalance;20190709;10:00;Trade Balance;Austria;EUR;1
+EUR_SpaAuction;20190709;08:40;6-Month Letras Auction;Spain;EUR;1
+EUR_ItaRetailSales;20190709;08:00;Retail Sales s.a. (MoM);Italy;EUR;1
+CZK_FXReserves;20190709;08:00;FX Reserves;Czech Republic;CZK;1
+EUR_SloForeignTradeBalance;20190709;07:00;Foreign Trade Balance;Slovakia;EUR;1
+CZK_UnemploymentRate;20190709;07:00;Unemployment Rate;Czech Republic;CZK;1
+CZK_RetailSales;20190709;07:00;Retail Sales (YoY);Czech Republic;CZK;1
+HUF_ConsumerPriceIndex;20190709;07:00;Consumer Price Index (YoY);Hungary;HUF;1
+HUF_TradeBalance;20190709;07:00;Trade Balance;Hungary;HUF;1
+DKK_TradeBalance;20190709;06:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20190709;06:00;Current Account;Denmark;DKK;1
+JPY_MachineToolOrders;20190709;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+CHF_UnemploymentRate;20190709;05:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+AUD_NationalAustraliaBankBusinessConfidence;20190709;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20190709;01:30;National Australia Bank Business Conditions;Australia;AUD;1

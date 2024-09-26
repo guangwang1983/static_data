@@ -1,0 +1,29 @@
+RON_IndustrialProduction;20170811;06:00;Industrial Production (MoM);Romania;RON;2
+EUR_GerWholesalePriceIndex;20170811;06:00;Wholesale Price Index (YoY);Germany;EUR;2
+RON_ConsumerPriceIndex;20170811;06:00;Consumer Price Index;Romania;RON;1
+EUR_GerConsumerPriceIndex;20170811;06:00;Consumer Price Index (YoY);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20170811;06:00;Harmonized Index of Consumer Prices (MoM);Germany;EUR;1
+EUR_FraConsumerPriceIndex;20170811;06:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraInflationextobacco;20170811;06:45;Inflation ex-tobacco (MoM);France;EUR;1
+EUR_FraNonfarmPayrolls;20170811;06:45;Nonfarm Payrolls (QoQ);France;EUR;1
+DKK_UnemploymentRate;20170811;07:00;Unemployment Rate;Denmark;DKK;1
+EUR_ItaConsumerPriceIndex;20170811;08:00;Consumer Price Index (EU Norm) (YoY);Italy;EUR;1
+TRY_CurrentAccount;20170811;09:00;Current Account Balance;Turkey;TRY;1
+INR_ManufacturingOutput;20170811;11:30;Manufacturing Output;India;INR;1
+INR_IndustrialOutput;20170811;11:30;Industrial Output;India;INR;1
+INR_CumulativeIndustrialOutput;20170811;11:30;Cumulative Industrial Output;India;INR;1
+INR_FXReservesUSD;20170811;11:30;FX Reserves, USD;India;INR;1
+PLN_CurrentAccount;20170811;12:00;Current Account;Poland;PLN;1
+USD_ConsumerPriceIndex;20170811;12:30;Consumer Price Index Core s.a;United States;USD;2
+RUB_ForeignTrade;20170811;13:00;Foreign Trade;Russia;RUB;1
+MXN_IndustrialOutput;20170811;13:00;Industrial Output (YoY);Mexico;MXN;1
+RUB_GrossDomesticProduct;20170811;13:00;Gross Domestic Product Quarterly (YoY);Russia;RUB;1
+USD_CentralBankSpeech;20170811;15:30;Fed Kashkari speech;United States;USD;2
+USD_BakerHughesUSOilRigCount;20170811;17:00;Baker Hughes US Oil Rig Count;United States;USD;2
+EUR_EurCFTCEURNCNetPositions;20170811;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20170811;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+GBP_CFTCGBPNCNetPositions;20170811;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20170811;19:30;CFTC Gold NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20170811;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCOilNCNetPositions;20170811;19:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20170811;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1

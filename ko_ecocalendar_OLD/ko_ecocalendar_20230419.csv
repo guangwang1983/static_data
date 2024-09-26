@@ -1,0 +1,35 @@
+AUD_WestpacLeadingIndex;20230419;00:30;Westpac Leading Index (MoM);Australia;AUD;1
+JPY_IndustrialProduction;20230419;04:30;Industrial Production (MoM);Japan;JPY;1
+JPY_CapacityUtilization;20230419;04:30;Capacity Utilization;Japan;JPY;1
+GBP_RetailPriceIndex;20230419;06:00;Retail Price Index (YoY);United Kingdom;GBP;2
+GBP_ProducerPriceIndex;20230419;06:00;Producer Price Index - Input (YoY) n.s.a;United Kingdom;GBP;1
+GBP_PPICoreOutput;20230419;06:00;PPI Core Output (MoM) n.s.a;United Kingdom;GBP;2
+GBP_ConsumerPriceIndex;20230419;06:00;Consumer Price Index (YoY);United Kingdom;GBP;3
+TRY_ConsumerConfidence;20230419;07:00;Consumer Confidence;Turkey;TRY;1
+CZK_ProducerPriceIndex;20230419;07:00;Producer Price Index (MoM);Czech Republic;CZK;1
+EUR_EurNonMonetaryPolicyECBMeeting;20230419;07:00;Non-Monetary Policy ECB Meeting;European Monetary Union;EUR;2
+ZAR_ConsumerPriceIndex;20230419;08:00;Consumer Price Index (MoM);South Africa;ZAR;1
+EUR_EurCurrentAccount;20230419;08:00;Current Account s.a;European Monetary Union;EUR;1
+GBP_DCLGHousePriceIndex;20230419;08:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+EUR_EurHarmonizedIndexofConsumerPrices;20230419;09:00;Harmonized Index of Consumer Prices (MoM);European Monetary Union;EUR;2
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20230419;09:00;Core Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;2
+EUR_EurConstructionOutput;20230419;09:00;Construction Output w.d.a (YoY);European Monetary Union;EUR;1
+USD_MBAMortgageApplications;20230419;11:00;MBA Mortgage Applications;United States;USD;1
+ZAR_RetailSales;20230419;11:00;Retail Sales (YoY);South Africa;ZAR;1
+INR_M3MoneySupply;20230419;11:30;M3 Money Supply;India;INR;1
+BRL_IndustrialOutput;20230419;12:00;Industrial Output (YoY);Brazil;BRL;1
+CAD_HousingStarts;20230419;12:15;Housing Starts s.a (YoY);Canada;CAD;1
+CAD_IndustrialProductPrice;20230419;12:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_RawMaterialPriceIndex;20230419;12:30;Raw Material Price Index;Canada;CAD;1
+USD_EIACrudeOilStocksChange;20230419;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+EUR_EurCentralBankSpeech;20230419;15:00;ECB Schnabel speech;European Monetary Union;EUR;2
+RUB_ProducerPriceIndex;20230419;16:00;Producer Price Index (YoY);Russia;RUB;1
+USD_Auction;20230419;17:00;20-Year Bond Auction;United States;USD;1
+USD_FedBeigeBook;20230419;18:00;Fed Beige Book;United States;USD;2
+NZD_ConsumerPriceIndex;20230419;22:45;Consumer Price Index (QoQ);New Zealand;NZD;2
+JPY_AdjustedMerchandiseTradeBalance;20230419;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_MerchandiseTradeBalanceTotal;20230419;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Imports;20230419;23:50;Imports (YoY);Japan;JPY;2
+JPY_Exports;20230419;23:50;Exports (YoY);Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20230419;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20230419;23:50;Foreign Bond Investment;Japan;JPY;1

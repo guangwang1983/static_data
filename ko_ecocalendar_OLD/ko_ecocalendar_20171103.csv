@@ -1,0 +1,40 @@
+AUD_CFTCAUDNCNetPositions;20171103;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+JPY_CFTCJPYNCNetPositions;20171103;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCGoldNCNetPositions;20171103;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCUSDNCNetPositions;20171103;19:30;CFTC USD NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20171103;19:30;CFTC Oil NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20171103;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+GBP_CFTCGBPNCNetPositions;20171103;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_BakerHughesUSOilRigCount;20171103;17:00;Baker Hughes US Oil Rig Count;United States;USD;2
+USD_CentralBankSpeech;20171103;16:15;Fed Kashkari speech;United States;USD;1
+USD_ISMNonManufacturingPMI;20171103;14:00;ISM Non-Manufacturing PMI;United States;USD;2
+USD_FactoryOrders;20171103;14:00;Factory Orders (MoM);United States;USD;2
+USD_MarkitServicesPMI;20171103;13:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20171103;13:45;Markit PMI Composite;United States;USD;2
+PEN_Tradebalance;20171103;13:00;Trade balance;Peru;PEN;1
+USD_UnemploymentRate;20171103;12:30;Unemployment Rate;United States;USD;3
+USD_AverageHourlyEarnings;20171103;12:30;Average Hourly Earnings (MoM);United States;USD;1
+USD_NonfarmPayrolls;20171103;12:30;Nonfarm Payrolls;United States;USD;3
+USD_LaborForceParticipationRate;20171103;12:30;Labor Force Participation Rate;United States;USD;2
+USD_AverageWeeklyHours;20171103;12:30;Average Weekly Hours;United States;USD;2
+USD_TradeBalance;20171103;12:30;Trade Balance;United States;USD;2
+CAD_Exports;20171103;12:30;Exports;Canada;CAD;1
+CAD_Imports;20171103;12:30;Imports;Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20171103;12:30;International Merchandise Trade;Canada;CAD;2
+CAD_ParticipationRate;20171103;12:30;Participation Rate;Canada;CAD;2
+CAD_NetChangeinEmployment;20171103;12:30;Net Change in Employment;Canada;CAD;3
+CAD_UnemploymentRate;20171103;12:30;Unemployment Rate;Canada;CAD;3
+INR_FXReservesUSD;20171103;11:30;FX Reserves, USD;India;INR;1
+GBP_MarkitServicesPMI;20171103;09:30;Markit Services PMI;United Kingdom;GBP;1
+EUR_SpaUnemploymentChange;20171103;09:00;Unemployment Change;Spain;EUR;1
+HKD_RetailSales;20171103;08:30;Retail Sales;Hong Kong SAR;HKD;1
+NOK_RegisteredUnemployment;20171103;08:00;Registered Unemployment n.s.a;Norway;NOK;1
+CZK_ForeignTradeBalance;20171103;08:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+TRY_ProducerPriceIndex;20171103;07:00;Producer Price Index (YoY);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20171103;07:00;Consumer Price Index (MoM);Turkey;TRY;1
+RUB_PurchasingManagerIndexServices;20171103;06:00;Purchasing Manager Index Services;Russia;RUB;1
+EUR_IrePurchasingManagerIndexServices;20171103;06:00;Purchasing Manager Index Services;Ireland;EUR;1
+CNY_CaixinServicesPMI;20171103;01:45;Caixin Services PMI;China;CNY;2
+HKD_NikkeiManufacturingPMI;20171103;00:30;Nikkei Manufacturing PMI;Hong Kong SAR;HKD;1
+AUD_RetailSales;20171103;00:30;Retail Sales s.a. (MoM);Australia;AUD;2
+JPY_CultureDay;20171103;00:00;Culture Day;Japan;JPY;0

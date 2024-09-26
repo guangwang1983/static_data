@@ -1,0 +1,28 @@
+AUD_WestpacLeadingIndex;20130122;23:30;Westpac Leading Index (MoM);Australia;AUD;1
+GBP_CentralBankSpeech;20130122;19:45;BoE Governor King speech;United Kingdom;GBP;2
+EUR_EurCentralBankSpeech;20130122;18:00;ECB President Draghi speech;European Monetary Union;EUR;3
+USD_Auction;20130122;16:30;6-Month Bill Auction;United States;USD;1
+USD_ExistingHomeSales;20130122;15:00;Existing Home Sales (MoM);United States;USD;1
+USD_ExistingHomeSalesChange;20130122;15:00;Existing Home Sales Change (MoM);United States;USD;2
+USD_RichmondFedManufacturingIndex;20130122;15:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_ChicagoFedNationalActivityIndex;20130122;13:30;Chicago Fed National Activity Index ;United States;USD;2
+CAD_RetailSales;20130122;13:30;Retail Sales (MoM);Canada;CAD;2
+EUR_SpaTradeBalance;20130122;12:00;Trade Balance;Spain;EUR;1
+TRY_CBRTInterestRateDecision;20130122;12:00;CBRT Interest Rate Decision;Turkey;TRY;1
+EUR_PorCurrentAccount;20130122;11:30;Current Account Balance;Portugal;EUR;1
+GBP_CBIIndustrialTrendsSurveyOrders;20130122;11:00;CBI Industrial Trends Survey - Orders (MoM);United Kingdom;GBP;1
+EUR_SpaHousePriceIndex;20130122;10:51;House Price Index (QoQ);Spain;EUR;1
+GBP_Auction;20130122;10:20;10-y Bond Auction;United Kingdom;GBP;1
+EUR_GerZEWSurveyEconomicSentiment;20130122;10:00;ZEW Survey - Economic Sentiment;Germany;EUR;2
+EUR_EurZEWSurveyEconomicSentiment;20130122;10:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurveyCurrentSituation;20130122;10:00;ZEW Survey - Current Situation;Germany;EUR;2
+EUR_SpaAuction;20130122;09:54;6-Month Letras Auction;Spain;EUR;1
+GBP_PublicSectorNetBorrowing;20130122;09:30;Public Sector Net Borrowing;United Kingdom;GBP;2
+DKK_RetailSales;20130122;08:00;Retail Sales (YoY);Denmark;DKK;1
+EUR_EurEcoFinMeeting;20130122;08:00;EcoFin Meeting;European Monetary Union;EUR;2
+EUR_FinUnemploymentRate;20130122;07:00;Unemployment Rate;Finland;EUR;1
+JPY_CoincidentIndex;20130122;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20130122;05:00;Leading Economic Index;Japan;JPY;2
+JPY_AllIndustryActivityIndex;20130122;04:30;All Industry Activity Index (MoM);Japan;JPY;2
+JPY_BoJMonetaryPolicyStatement;20130122;03:00;BoJ Monetary Policy Statement ;Japan;JPY;3
+JPY_BoJInterestRateDecision;20130122;03:00;BoJ Interest Rate Decision;Japan;JPY;3

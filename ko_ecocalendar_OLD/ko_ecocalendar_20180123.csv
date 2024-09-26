@@ -1,0 +1,33 @@
+JPY_MerchandiseTradeBalanceTotal;20180123;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Imports;20180123;23:50;Imports (YoY);Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20180123;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;2
+JPY_Exports;20180123;23:50;Exports (YoY);Japan;JPY;2
+AUD_WestpacLeadingIndex;20180123;23:30;Westpac Leading Index (MoM);Australia;AUD;1
+USD_CentralBankSpeech;20180123;23:30;Fed Evans speech;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20180123;21:30;API Weekly Crude Oil Stock;United States;USD;1
+ARS_TradeBalance;20180123;19:00;Trade Balance (MoM);Argentina;ARS;1
+USD_Auction;20180123;18:00;2-Year Note Auction;United States;USD;1
+EUR_EurConsumerConfidence;20180123;15:00;Consumer Confidence;European Monetary Union;EUR;2
+USD_RichmondFedManufacturingIndex;20180123;15:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_RedbookIndex;20180123;13:55;Redbook Index (YoY);United States;USD;1
+PLN_M3MoneySupply;20180123;13:00;M3 Money Supply (YoY);Poland;PLN;1
+RUB_IndustrialOutput;20180123;13:00;Industrial Output;Russia;RUB;1
+GBP_CBIIndustrialTrendsSurveyOrders;20180123;11:00;CBI Industrial Trends Survey - Orders (MoM);United Kingdom;GBP;1
+BRL_MidmonthInflation;20180123;11:00;Mid-month Inflation;Brazil;BRL;1
+EUR_SpaAuction;20180123;10:21;9-Month Letras Auction;Spain;EUR;1
+EUR_GerZEWSurveyEconomicSentiment;20180123;10:00;ZEW Survey - Economic Sentiment;Germany;EUR;2
+EUR_EurZEWSurveyEconomicSentiment;20180123;10:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;1
+EUR_GerZEWSurveyCurrentSituation;20180123;10:00;ZEW Survey - Current Situation;Germany;EUR;2
+GBP_PublicSectorNetBorrowing;20180123;09:30;Public Sector Net Borrowing;United Kingdom;GBP;2
+HKD_ConsumerPriceIndex;20180123;08:30;Consumer Price Index;Hong Kong SAR;HKD;1
+TRY_ConsumerConfidence;20180123;07:00;Consumer Confidence;Turkey;TRY;1
+DKK_ConsumerConfidence;20180123;07:00;Consumer Confidence;Denmark;DKK;1
+DKK_RetailSales;20180123;07:00;Retail Sales (YoY);Denmark;DKK;1
+JPY_BoJPressConference;20180123;06:30;BoJ Press Conference;Japan;JPY;3
+SGD_ConsumerPriceIndex;20180123;05:00;Consumer Price Index (YoY);Singapore;SGD;1
+JPY_AllIndustryActivityIndex;20180123;04:30;All Industry Activity Index (MoM);Japan;JPY;2
+JPY_BoJMonetaryPolicyStatement;20180123;03:14;BoJ Monetary Policy Statement ;Japan;JPY;3
+JPY_BoJInterestRateDecision;20180123;03:14;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_BoJOutlookReport;20180123;03:14;BoJ Outlook Report;Japan;JPY;2
+EUR_EurEcoFinMeeting;20180123;00:00;EcoFin Meeting;European Monetary Union;EUR;2
+CHF_WorldEconomicForumDavos;20180123;00:00;World Economic Forum - Davos;Switzerland;CHF;2

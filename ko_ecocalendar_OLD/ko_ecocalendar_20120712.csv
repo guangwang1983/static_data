@@ -1,0 +1,42 @@
+CNY_ForeignExchangeReserves;20120712;23:08;Foreign Exchange Reserves (QoQ);China;CNY;2
+CLP_BCCHInterestRate;20120712;21:00;BCCH Interest Rate;Chile;CLP;1
+KRW_ImportPriceGrowth;20120712;21:00;Import Price Growth (YoY);South Korea;KRW;1
+KRW_ExportPriceGrowth;20120712;21:00;Export Price Growth (YoY);South Korea;KRW;1
+USD_CentralBankSpeech;20120712;19:40;Fed Williams speech;United States;USD;2
+USD_MonthlyBudgetStatement;20120712;18:00;Monthly Budget Statement;United States;USD;2
+USD_Auction;20120712;17:00;30-Year Bond Auction;United States;USD;1
+USD_EIANaturalGasStorageChange;20120712;14:30;EIA Natural Gas Storage Change;United States;USD;1
+MXN_IndustrialOutput;20120712;13:00;Industrial Output (YoY);Mexico;MXN;1
+USD_JoblessClaims;20120712;12:30;Initial Jobless Claims;United States;USD;1
+USD_ImportPriceIndex;20120712;12:30;Import Price Index (MoM);United States;USD;1
+USD_ExportPriceIndex;20120712;12:30;Export Price Index (MoM);United States;USD;1
+CAD_NewHousingPriceIndex;20120712;12:30;New Housing Price Index (YoY);Canada;CAD;1
+EUR_EurCentralBankSpeech;20120712;12:00;ECB President Draghi speech;European Monetary Union;EUR;2
+ZAR_ManufacturingProductionIndex;20120712;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+EUR_IreHICP;20120712;10:00;HICP (YoY);Ireland;EUR;1
+EUR_IreConsumerPriceIndex;20120712;10:00;Consumer Price Index (YoY);Ireland;EUR;1
+EUR_IreGrossDomesticProduct;20120712;10:00;Gross Domestic Product (QoQ);Ireland;EUR;1
+GBP_Auction;20120712;09:51;10-y Bond Auction;United Kingdom;GBP;2
+EUR_EurIndustrialProduction;20120712;09:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;2
+EUR_GreUnemploymentRate;20120712;09:00;Unemployment Rate (MoM);Greece;EUR;1
+CNY_M2MoneySupply;20120712;08:00;M2 Money Supply (YoY);China;CNY;1
+EUR_EurECBMonthlyReport;20120712;08:00;ECB Monthly Report;European Monetary Union;EUR;3
+RUB_CentralBankReserves;20120712;07:58;Central Bank Reserves $;Russia;RUB;1
+SEK_ConsumerPriceIndex;20120712;07:30;Consumer Price Index (MoM);Sweden;SEK;1
+EUR_NetRetailSales;20120712;07:30;Retail Sales (YoY);Netherlands, The;EUR;1
+EUR_GerWholesalePriceIndex;20120712;06:00;Wholesale Price Index (MoM);Germany;EUR;1
+EUR_FraConsumerPriceIndex;20120712;05:30;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraInflationextobacco;20120712;05:30;Inflation ex-tobacco (MoM);France;EUR;1
+INR_IndustrialOutput;20120712;05:30;Industrial Output;India;INR;1
+INR_ManufacturingOutput;20120712;05:30;Manufacturing Output;India;INR;1
+INR_CumulativeIndustrialOutput;20120712;05:30;Cumulative Industrial Output;India;INR;1
+IDR_BankIndonesiaRate;20120712;05:00;Bank Indonesia Rate;Indonesia;IDR;1
+JPY_BoJMonetaryPolicyStatement;20120712;04:00;BoJ Monetary Policy Statement ;Japan;JPY;3
+JPY_BoJInterestRateDecision;20120712;03:00;BoJ Interest Rate Decision;Japan;JPY;3
+CNY_NewLoans;20120712;02:00;New Loans;China;CNY;2
+AUD_EmploymentChange;20120712;01:30;Employment Change s.a.;Australia;AUD;3
+AUD_UnemploymentRate;20120712;01:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_ConsumerInflationExpectations;20120712;01:00;Consumer Inflation Expectations;Australia;AUD;1
+KRW_BoKInterestRateDecision;20120712;01:00;BoK Interest Rate Decision;South Korea;KRW;1
+AUD_FulltimeEmployment;20120712;00:30;Fulltime Employment;Australia;AUD;1
+AUD_CentralBankSpeech;20120712;00:00;OUTDATED - RBA Deputy Governor Lowe Speech;Australia;AUD;1

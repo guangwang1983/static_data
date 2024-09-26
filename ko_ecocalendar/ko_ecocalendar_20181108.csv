@@ -1,0 +1,38 @@
+GBP_RICSHousingPriceBalance;20181108;00:01;RICS Housing Price Balance;United Kingdom;GBP;1
+CNY_TradeBalanceCNY;20181108;03:02;Trade Balance CNY;China;CNY;2
+CNY_TradeBalanceUSD;20181108;03:03;Trade Balance USD;China;CNY;2
+CNY_Exports;20181108;03:04;Exports (YoY);China;CNY;2
+CNY_Imports;20181108;03:04;Imports (YoY);China;CNY;2
+JPY_EcoWatchersSurvey:Outlook;20181108;05:00;Eco Watchers Survey: Outlook;Japan;JPY;1
+JPY_EcoWatchersSurvey:Current;20181108;05:00;Eco Watchers Survey: Current;Japan;JPY;1
+CHF_UnemploymentRate;20181108;06:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+EUR_GerImports;20181108;07:00;Imports (MoM);Germany;EUR;1
+EUR_GerCurrentAccount;20181108;07:00;Current Account n.s.a.;Germany;EUR;1
+EUR_GerExports;20181108;07:00;Exports (MoM);Germany;EUR;1
+EUR_GerTradeBalance;20181108;07:00;Trade Balance s.a.;Germany;EUR;2
+EUR_FraExportsEUR;20181108;07:45;Exports, EUR;France;EUR;1
+EUR_FraImportsEUR;20181108;07:45;Imports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20181108;07:45;Trade Balance EUR;France;EUR;1
+EUR_FraCurrentAccount;20181108;07:45;Current Account;France;EUR;1
+EUR_FraIndividualInvestment;20181108;07:45;Individual Investment (Current Year);France;EUR;1
+CZK_UnemploymentRate;20181108;08:00;Unemployment Rate;Czech Republic;CZK;1
+HUF_ConsumerPriceIndex;20181108;08:00;Consumer Price Index (YoY);Hungary;HUF;1
+EUR_FraAuction;20181108;09:00;10-y Bond Auction;France;EUR;1
+EUR_EurEconomicBulletin;20181108;09:00;Economic Bulletin;European Monetary Union;EUR;2
+EUR_EurEuropeanCommissionreleasesEconomicGrowthForecasts;20181108;10:00;European Commission releases Economic Growth Forecasts;European Monetary Union;EUR;2
+ZAR_ManufacturingProductionIndex;20181108;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+CLP_ConsumerPriceIndex;20181108;11:00;Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+INR_M3MoneySupply;20181108;11:30;M3 Money Supply;India;INR;1
+RUB_CentralBankReserves;20181108;13:00;Central Bank Reserves $;Russia;RUB;1
+CAD_HousingStarts;20181108;13:15;Housing Starts s.a (YoY);Canada;CAD;2
+USD_JoblessClaims;20181108;13:30;Continuing Jobless Claims;United States;USD;2
+CAD_NewHousingPriceIndex;20181108;13:30;New Housing Price Index (YoY);Canada;CAD;1
+MXN_HeadlineInflation;20181108;14:00;Headline Inflation;Mexico;MXN;1
+MXN_CoreInflation;20181108;14:00;Core Inflation;Mexico;MXN;1
+MXN_12MonthInflation;20181108;14:00;12-Month Inflation;Mexico;MXN;1
+EUR_EurCentralBankSpeech;20181108;15:20;ECB President Draghi speech;European Monetary Union;EUR;3
+USD_EIANaturalGasStorageChange;20181108;15:30;EIA Natural Gas Storage Change;United States;USD;1
+CHF_CentralBankSpeech;20181108;17:30;SNB Maechler speech;Switzerland;CHF;2
+USD_FedMonetaryPolicyStatement;20181108;19:00;Fed Monetary Policy Statement;United States;USD;3
+USD_FedInterestRateDecision;20181108;19:00;Fed Interest Rate Decision;United States;USD;3
+JPY_MoneySupplyM2+CD;20181108;23:50;Money Supply M2+CD (YoY);Japan;JPY;1

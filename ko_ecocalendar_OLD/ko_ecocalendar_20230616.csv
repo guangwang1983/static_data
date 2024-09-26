@@ -1,0 +1,27 @@
+JPY_BoJMonetaryPolicyStatement;20230616;03:00;BoJ Monetary Policy Statement ;Japan;JPY;3
+JPY_BoJInterestRateDecision;20230616;03:00;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_BoJPressConference;20230616;06:00;BoJ Press Conference;Japan;JPY;3
+CZK_ProducerPriceIndex;20230616;07:00;Producer Price Index (YoY);Czech Republic;CZK;1
+EUR_EurEcoFinMeeting;20230616;07:00;EcoFin Meeting;European Monetary Union;EUR;2
+GBP_ConsumerInflationExpectations;20230616;08:30;Consumer Inflation Expectations;United Kingdom;GBP;1
+EUR_EurLaborCost;20230616;09:00;Labor Cost;European Monetary Union;EUR;2
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20230616;09:00;Core Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;2
+EUR_EurHarmonizedIndexofConsumerPrices;20230616;09:00;Harmonized Index of Consumer Prices (MoM);European Monetary Union;EUR;2
+INR_BankLoanGrowth;20230616;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20230616;11:30;FX Reserves, USD;India;INR;1
+USD_CentralBankSpeech;20230616;11:45;Fed Waller speech;United States;USD;2
+PLN_NetInflation;20230616;12:00;Net Inflation;Poland;PLN;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20230616;12:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20230616;12:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_WholesaleSales;20230616;12:30;Wholesale Sales (MoM);Canada;CAD;1
+RUB_CentralBankReserves;20230616;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_UoM5yearConsumerInflationExpectation;20230616;14:00;UoM 5-year Consumer Inflation Expectation;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20230616;14:00;Michigan Consumer Sentiment Index;United States;USD;3
+USD_BakerHughesUSOilRigCount;20230616;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20230616;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20230616;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20230616;20:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20230616;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20230616;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20230616;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20230616;20:30;CFTC AUD NC Net Positions;Australia;AUD;1

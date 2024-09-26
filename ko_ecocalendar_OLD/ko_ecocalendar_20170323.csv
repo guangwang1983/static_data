@@ -1,0 +1,31 @@
+JPY_ForeignBondInvestment;20170323;23:50;Foreign Bond Investment;Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20170323;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+USD_CentralBankSpeech;20170323;23:00;Fed Kaplan speech;United States;USD;2
+NZD_TradeBalance;20170323;21:45;Trade Balance (YoY);New Zealand;NZD;2
+NZD_Imports;20170323;21:45;Imports;New Zealand;NZD;2
+NZD_Exports;20170323;21:45;Exports;New Zealand;NZD;2
+KRW_ConsumerSentimentIndex;20170323;21:00;Consumer Sentiment Index;South Korea;KRW;1
+EUR_EurConsumerConfidence;20170323;15:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurCentralBankSpeech;20170323;15:00;ECB Lautenschläger speech;European Monetary Union;EUR;1
+USD_EIANaturalGasStorageChange;20170323;14:30;EIA Natural Gas Storage Change;United States;USD;1
+EUR_EurTargetedLTRO;20170323;14:30;Targeted LTRO;European Monetary Union;EUR;2
+USD_KansasFedManufacturingActivity;20170323;14:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_NewHomeSales;20170323;14:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20170323;14:00;New Home Sales Change (MoM);United States;USD;2
+EUR_BelLeadingIndicator;20170323;14:00;Leading Indicator;Belgium;EUR;1
+MXN_1sthalfmonthCoreInflation;20170323;14:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20170323;14:00;1st half-month Inflation;Mexico;MXN;1
+USD_JoblessClaims;20170323;12:30;Initial Jobless Claims;United States;USD;2
+GBP_CBIDistributiveTradesSurveyRealized;20170323;11:00;CBI Distributive Trades Survey - Realized (MoM);United Kingdom;GBP;1
+GBP_RetailSales;20170323;09:30;Retail Sales (YoY);United Kingdom;GBP;2
+GBP_CentralBankSpeech;20170323;09:15;BoE Broadbent speech;United Kingdom;GBP;1
+PLN_Unemployment;20170323;09:00;Unemployment (MoM);Poland;PLN;1
+EUR_GreCurrentAccount;20170323;09:00;Current Account (YoY);Greece;EUR;1
+EUR_EurEconomicBulletin;20170323;09:00;Economic Bulletin;European Monetary Union;EUR;2
+DKK_ConsumerConfidence;20170323;08:00;Consumer Confidence;Denmark;DKK;1
+EUR_FraBusinessClimate;20170323;07:45;Business Climate;France;EUR;1
+HUF_CurrentAccount;20170323;07:30;Current Account Balance (QoQ);Hungary;HUF;1
+TRY_ConsumerConfidence;20170323;07:00;Consumer Confidence;Turkey;TRY;1
+EUR_GerGfkConsumerConfidenceSurvey;20170323;07:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+EUR_NetConsumerSpendingVolume;20170323;05:30;Consumer Spending Volume;Netherlands, The;EUR;1
+SGD_ConsumerPriceIndex;20170323;05:00;Consumer Price Index (YoY);Singapore;SGD;1

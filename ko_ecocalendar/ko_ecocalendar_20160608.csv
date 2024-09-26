@@ -1,0 +1,35 @@
+AUD_HomeLoans;20160608;01:30;Home Loans;Australia;AUD;2
+AUD_InvestmentLendingforHomes;20160608;01:30;Investment Lending for Homes;Australia;AUD;2
+CNY_Exports;20160608;03:13;Exports (YoY);China;CNY;2
+CNY_TradeBalanceUSD;20160608;03:13;Trade Balance USD;China;CNY;2
+CNY_Imports;20160608;03:13;Imports (YoY);China;CNY;2
+CNY_TradeBalanceCNY;20160608;03:13;Trade Balance CNY;China;CNY;2
+JPY_EcoWatchersSurvey:Outlook;20160608;05:00;Eco Watchers Survey: Outlook;Japan;JPY;2
+JPY_EcoWatchersSurvey:Current;20160608;05:00;Eco Watchers Survey: Current;Japan;JPY;2
+CZK_UnemploymentRate;20160608;07:00;Unemployment Rate;Czech Republic;CZK;1
+TRY_IndustrialProduction;20160608;07:00;Industrial Production (YoY);Turkey;TRY;1
+HUF_ConsumerPriceIndex;20160608;07:00;Core Consumer Price Index (YoY);Hungary;HUF;1
+CHF_ConsumerPriceIndex;20160608;07:15;Consumer Price Index (YoY);Switzerland;CHF;2
+GBP_IndustrialProduction;20160608;08:30;Industrial Production (YoY);United Kingdom;GBP;2
+GBP_ManufacturingProduction;20160608;08:30;Manufacturing Production (MoM);United Kingdom;GBP;2
+ZAR_GrossDomesticProduct;20160608;09:30;Gross Domestic Product (YoY);South Africa;ZAR;1
+PLN_NBPBaserate;20160608;10:09;NBP Base rate;Poland;PLN;1
+USD_MBAMortgageApplications;20160608;11:00;MBA Mortgage Applications;United States;USD;1
+CLP_ConsumerPriceIndex;20160608;11:00;Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+BRL_IPCAInflation;20160608;12:00;IPCA Inflation;Brazil;BRL;1
+CAD_HousingStarts;20160608;12:15;Housing Starts s.a (YoY);Canada;CAD;2
+CAD_BuildingPermits;20160608;12:30;Building Permits (MoM);Canada;CAD;1
+USD_JOLTSJobOpenings;20160608;14:00;JOLTS Job Openings;United States;USD;1
+GBP_NIESRGDPEstimate;20160608;14:00;NIESR GDP Estimate (3M);United Kingdom;GBP;2
+USD_EIACrudeOilStocksChange;20160608;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+BRL_InterestRateDecision;20160608;16:00;Interest Rate Decision;Brazil;BRL;1
+USD_Auction;20160608;17:00;10-Year Note Auction;United States;USD;2
+NZD_RBNZRateStatement;20160608;20:00;RBNZ Rate Statement;New Zealand;NZD;3
+NZD_RBNZInterestRateDecision;20160608;21:00;RBNZ Interest Rate Decision;New Zealand;NZD;3
+NZD_MonetaryPolicyStatement;20160608;21:00;Monetary Policy Statement ;New Zealand;NZD;3
+NZD_RBNZPressConference;20160608;21:00;RBNZ Press Conference;New Zealand;NZD;3
+GBP_RICSHousingPriceBalance;20160608;23:01;RICS Housing Price Balance;United Kingdom;GBP;2
+JPY_MoneySupplyM2+CD;20160608;23:50;Money Supply M2+CD (YoY);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20160608;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20160608;23:50;Foreign Bond Investment;Japan;JPY;2
+JPY_MachineryOrders;20160608;23:50;Machinery Orders (MoM);Japan;JPY;1

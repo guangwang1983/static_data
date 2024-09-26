@@ -1,0 +1,34 @@
+JPY_ForeignInvestmentinJapanStocks;20131023;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20131023;23:50;Foreign Bond Investment;Japan;JPY;2
+NZD_TradeBalance;20131023;21:45;Trade Balance (YoY);New Zealand;NZD;2
+NZD_Imports;20131023;21:45;Imports;New Zealand;NZD;1
+NZD_Exports;20131023;21:45;Exports;New Zealand;NZD;1
+CAD_BoCPressConference;20131023;15:15;BoC Press Conference;Canada;CAD;3
+CAD_BankofCanadaMonetaryPolicyReport;20131023;14:30;Bank of Canada Monetary Policy Report;Canada;CAD;3
+USD_EIACrudeOilStocksChange;20131023;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+EUR_EurConsumerConfidence;20131023;14:00;Consumer Confidence;European Monetary Union;EUR;2
+CAD_BoCInterestRateDecision;20131023;14:00;BoC Interest Rate Decision;Canada;CAD;3
+CAD_BoCRateStatement;20131023;14:00;BoC Rate Statement;Canada;CAD;3
+USD_HousingPriceIndex;20131023;13:00;Housing Price Index (MoM);United States;USD;2
+EUR_BelLeadingIndicator;20131023;13:00;Leading Indicator;Belgium;EUR;1
+USD_ImportPriceIndex;20131023;12:30;Import Price Index (MoM);United States;USD;1
+USD_ExportPriceIndex;20131023;12:30;Export Price Index (YoY);United States;USD;2
+TRY_CBRTInterestRateDecision;20131023;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+USD_MBAMortgageApplications;20131023;11:00;MBA Mortgage Applications;United States;USD;2
+EUR_GerAuction;20131023;09:30;30-y Bond Auction;Germany;EUR;1
+EUR_SpaTradeBalance;20131023;09:00;Trade Balance;Spain;EUR;1
+GBP_BBAMortgageApprovals;20131023;08:30;BBA Mortgage Approvals;United Kingdom;GBP;2
+GBP_BoEMPCVoteCut;20131023;08:30;BoE MPC Vote Cut;United Kingdom;GBP;3
+GBP_BoEMPCVoteUnchanged;20131023;08:30;BoE MPC Vote Unchanged;United Kingdom;GBP;3
+GBP_BoEMPCVoteHike;20131023;08:30;BoE MPC Vote Hike;United Kingdom;GBP;3
+GBP_BankofEnglandMinutes;20131023;08:30;Bank of England Minutes;United Kingdom;GBP;3
+EUR_ItaTradeBalancenonEU;20131023;08:00;Trade Balance non-EU;Italy;EUR;1
+ZAR_ConsumerPriceIndex;20131023;08:00;Consumer Price Index (MoM);South Africa;ZAR;1
+EUR_NetConsumerSpendingVolume;20131023;07:30;Consumer Spending Volume;Netherlands, The;EUR;1
+DKK_ConsumerConfidence;20131023;07:00;Consumer Confidence;Denmark;DKK;1
+EUR_FraBusinessClimate;20131023;06:45;Business Climate;France;EUR;1
+SGD_ConsumerPriceIndex;20131023;05:00;Consumer Price Index (YoY);Singapore;SGD;1
+CNY_MNIBusinessSentimentIndicator;20131023;01:45;MNI Business Sentiment Indicator;China;CNY;1
+AUD_RBATrimmedMeanCPI;20131023;00:30;RBA Trimmed Mean CPI (YoY);Australia;AUD;2
+AUD_ConsumerPriceIndex;20131023;00:30;Consumer Price Index (YoY);Australia;AUD;3
+HUF_RepublicDay;20131023;00:00;Republic Day ;Hungary;HUF;0

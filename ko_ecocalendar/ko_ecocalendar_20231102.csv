@@ -1,0 +1,50 @@
+AUD_HomeLoans;20231102;00:30;Home Loans;Australia;AUD;1
+AUD_InvestmentLendingforHomes;20231102;00:30;Investment Lending for Homes;Australia;AUD;1
+AUD_TradeBalance;20231102;00:30;Trade Balance (MoM);Australia;AUD;3
+AUD_Imports;20231102;00:30;Imports (MoM);Australia;AUD;2
+AUD_Exports;20231102;00:30;Exports (MoM);Australia;AUD;2
+BRL_AllSoulsDay;20231102;03:00;All Souls Day;Brazil;BRL;0
+JPY_Auction;20231102;03:35;10-y Bond Auction;Japan;JPY;1
+MXN_DayoftheDead;20231102;06:00;Day of the Dead ;Mexico;MXN;0
+HUF_TradeBalance;20231102;07:30;Trade Balance;Hungary;HUF;1
+CHF_ConsumerPriceIndex;20231102;07:30;Consumer Price Index (MoM);Switzerland;CHF;2
+EUR_FraBudgetBalance;20231102;07:45;Budget Balance;France;EUR;1
+TRY_Exports;20231102;08:00;Exports;Turkey;TRY;1
+BRL_FipeIPCInflation;20231102;08:00;Fipe IPC Inflation;Brazil;BRL;1
+PLN_PurchasingManagerIndex;20231102;08:00;Purchasing Manager Index;Poland;PLN;1
+HUF_PurchasingManagerIndex;20231102;08:00;Purchasing Manager Index;Hungary;HUF;1
+CHF_SECOConsumerClimate;20231102;08:00;SECO Consumer Climate (3m);Switzerland;CHF;1
+EUR_ItaHCOBManufacturingPMI;20231102;08:45;HCOB Manufacturing PMI;Italy;EUR;2
+EUR_FraHCOBManufacturingPMI;20231102;08:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerUnemploymentChange;20231102;08:55;Unemployment Change;Germany;EUR;2
+EUR_GerUnemploymentRate;20231102;08:55;Unemployment Rate s.a.;Germany;EUR;2
+EUR_GerHCOBManufacturingPMI;20231102;08:55;HCOB Manufacturing PMI;Germany;EUR;2
+EUR_EurHCOBManufacturingPMI;20231102;09:00;HCOB Manufacturing PMI;European Monetary Union;EUR;1
+NOK_NorgesBankInterestRateDecision;20231102;09:00;Norges Bank Interest Rate Decision;Norway;NOK;2
+TRY_CBRTQuarterlyInflationReport;20231102;11:00;CBRT Quarterly Inflation Report;Turkey;TRY;1
+EUR_EurCentralBankSpeech;20231102;11:00;ECB Lane speech;European Monetary Union;EUR;2
+USD_ChallengerJobCuts;20231102;11:30;Challenger Job Cuts;United States;USD;2
+CLP_IMACEC;20231102;11:30;IMACEC;Chile;CLP;1
+GBP_BoEInterestRateDecision;20231102;12:00;BoE Interest Rate Decision;United Kingdom;GBP;3
+GBP_BoEAssetPurchaseFacility;20231102;12:00;BoE Asset Purchase Facility;United Kingdom;GBP;3
+GBP_MonetaryPolicyReport;20231102;12:00;Monetary Policy Report;United Kingdom;GBP;3
+GBP_BankofEnglandMonetaryPolicyReport;20231102;12:00;Bank of England Monetary Policy Report;United Kingdom;GBP;3
+GBP_BoEMPCVoteRateUnchanged;20231102;12:00;BoE MPC Vote Rate Unchanged;United Kingdom;GBP;3
+GBP_BoEMPCVoteRateCut;20231102;12:00;BoE MPC Vote Rate Cut;United Kingdom;GBP;3
+GBP_BoEMPCVoteRateHike;20231102;12:00;BoE MPC Vote Rate Hike;United Kingdom;GBP;3
+GBP_BoEMinutes;20231102;12:00;BoE Minutes;United Kingdom;GBP;3
+USD_JoblessClaims;20231102;12:30;Initial Jobless Claims 4-week average;United States;USD;1
+USD_NonfarmProductivity;20231102;12:30;Nonfarm Productivity;United States;USD;2
+USD_UnitLaborCosts;20231102;12:30;Unit Labor Costs;United States;USD;2
+GBP_CentralBankSpeech;20231102;12:30;BoE Governor Bailey speech;United Kingdom;GBP;3
+RUB_CentralBankReserves;20231102;13:00;Central Bank Reserves $;Russia;RUB;1
+CZK_CNBInterestRateDecision;20231102;13:30;CNB Interest Rate Decision;Czech Republic;CZK;1
+USD_FactoryOrders;20231102;14:00;Factory Orders (MoM);United States;USD;2
+USD_EIANaturalGasStorageChange;20231102;14:30;EIA Natural Gas Storage Change;United States;USD;1
+JPY_CultureDay;20231102;15:00;Culture Day;Japan;JPY;0
+USD_Auction;20231102;15:30;4-Week Bill Auction;United States;USD;1
+DKK_CurrencyReserves;20231102;16:00;Currency Reserves;Denmark;DKK;1
+USD_TotalVehicleSales;20231102;19:30;Total Vehicle Sales;United States;USD;1
+KRW_FXReserves;20231102;21:00;FX Reserves;South Korea;KRW;1
+AUD_JudoBankServicesPMI;20231102;22:00;Judo Bank Services PMI;Australia;AUD;2
+AUD_JudoBankCompositePMI;20231102;22:00;Judo Bank Composite PMI;Australia;AUD;2

@@ -1,0 +1,36 @@
+JPY_ConsumerPriceIndex;20201119;23:30;National Consumer Price Index (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20201119;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_NationalCPIexFoodEnergy;20201119;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+KRW_ProducerPriceIndex;20201119;22:00;Producer Price Index Growth (MoM);South Korea;KRW;1
+EUR_EurCentralBankSpeech;20201119;16:00;ECB Schnabel speech;European Monetary Union;EUR;2
+USD_KansasFedManufacturingActivity;20201119;16:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_EIANaturalGasStorageChange;20201119;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20201119;15:30;4-Week Bill Auction;United States;USD;1
+USD_ExistingHomeSales;20201119;15:00;Existing Home Sales (MoM);United States;USD;2
+USD_ExistingHomeSalesChange;20201119;15:00;Existing Home Sales Change (MoM);United States;USD;1
+USD_JoblessClaims;20201119;13:30;Initial Jobless Claims 4-week average;United States;USD;2
+CAD_ADPEmploymentChange;20201119;13:30;ADP Employment Change;Canada;CAD;1
+CAD_EmploymentInsuranceBeneficiariesChange;20201119;13:30;Employment Insurance Beneficiaries Change (MoM);Canada;CAD;1
+USD_PhiladelphiaFedManufacturingSurvey;20201119;13:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+RUB_CentralBankReserves;20201119;13:00;Central Bank Reserves $;Russia;RUB;1
+ZAR_SARBInterestRateDecision;20201119;13:00;SARB Interest Rate Decision;South Africa;ZAR;1
+TRY_CBRTInterestRateDecision;20201119;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+EUR_EurConstructionOutput;20201119;10:00;Construction Output w.d.a (YoY);European Monetary Union;EUR;1
+EUR_SpaAuction;20201119;09:40;10-y Obligaciones Auction;Spain;EUR;1
+EUR_EurCurrentAccount;20201119;09:00;Current Account n.s.a;European Monetary Union;EUR;1
+PLN_CorporateSectorWages;20201119;09:00;Corporate Sector Wages;Poland;PLN;1
+SEK_UnemploymentRate;20201119;08:30;Unemployment Rate;Sweden;SEK;1
+EUR_SloUnemploymentRate;20201119;08:00;Unemployment Rate;Slovakia;EUR;1
+CHF_IndustrialProduction;20201119;07:30;Industrial Production (YoY);Switzerland;CHF;2
+CHF_TradeBalance;20201119;07:00;Trade Balance;Switzerland;CHF;1
+CHF_Imports;20201119;07:00;Imports (MoM);Switzerland;CHF;1
+CHF_Exports;20201119;07:00;Exports (MoM);Switzerland;CHF;1
+IDR_BankIndonesiaRate;20201119;07:00;Bank Indonesia Rate;Indonesia;IDR;1
+EUR_NetUnemploymentRate;20201119;05:30;Unemployment Rate s.a (3M);Netherlands, The;EUR;1
+AUD_PartTimeEmployment;20201119;00:30;Part-Time Employment;Australia;AUD;1
+AUD_FulltimeEmployment;20201119;00:30;Fulltime Employment;Australia;AUD;2
+AUD_EmploymentChange;20201119;00:30;Employment Change s.a.;Australia;AUD;3
+AUD_ParticipationRate;20201119;00:30;Participation Rate;Australia;AUD;1
+AUD_UnemploymentRate;20201119;00:30;Unemployment Rate s.a.;Australia;AUD;3
+EUR_EurEUleaderssummit;20201119;00:00;EU leaders summit;European Monetary Union;EUR;2
+AUD_HIANewHomeSales;20201119;00:00;HIA New Home Sales (MoM);Australia;AUD;2

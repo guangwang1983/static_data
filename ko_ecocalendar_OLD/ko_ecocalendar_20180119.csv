@@ -1,0 +1,25 @@
+USD_CFTCUSDNCNetPositions;20180119;20:30;CFTC USD NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20180119;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCGoldNCNetPositions;20180119;20:30;CFTC Gold NC Net Positions;United States;USD;1
+AUD_CFTCAUDNCNetPositions;20180119;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCOilNCNetPositions;20180119;20:30;CFTC Oil NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20180119;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+GBP_CFTCGBPNCNetPositions;20180119;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_BakerHughesUSOilRigCount;20180119;18:00;Baker Hughes US Oil Rig Count;United States;USD;2
+USD_CentralBankSpeech;20180119;17:15;Fed Quarles speech;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20180119;15:00;Michigan Consumer Sentiment Index;United States;USD;1
+EUR_BelConsumerConfidenceIndex;20180119;14:00;Consumer Confidence Index;Belgium;EUR;1
+CAD_ManufacturingShipments;20180119;13:30;Manufacturing Shipments (MoM);Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20180119;13:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20180119;13:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+PLN_RetailSales;20180119;13:00;Retail Sales (YoY);Poland;PLN;1
+PLN_IndustrialOutput;20180119;13:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20180119;13:00;Producer Price Index (YoY);Poland;PLN;1
+RUB_BudgetFulfilment;20180119;12:00;Budget Fulfilment;Russia;RUB;1
+INR_BankLoanGrowth;20180119;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20180119;11:30;FX Reserves, USD;India;INR;1
+GBP_RetailSales;20180119;09:30;Retail Sales ex-Fuel (MoM);United Kingdom;GBP;2
+EUR_EurCurrentAccount;20180119;09:00;Current Account s.a;European Monetary Union;EUR;1
+CHF_ProducerandImportPrices;20180119;08:15;Producer and Import Prices (MoM);Switzerland;CHF;1
+HUF_GrossWages;20180119;08:00;Gross Wages (YoY);Hungary;HUF;1
+EUR_GerProducerPriceIndex;20180119;07:00;Producer Price Index (YoY);Germany;EUR;2

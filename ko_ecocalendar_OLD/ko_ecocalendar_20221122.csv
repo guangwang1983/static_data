@@ -1,0 +1,23 @@
+TRY_ConsumerConfidence;20221122;07:00;Consumer Confidence;Turkey;TRY;1
+DKK_ConsumerConfidence;20221122;07:00;Consumer Confidence;Denmark;DKK;1
+GBP_PublicSectorNetBorrowing;20221122;07:00;Public Sector Net Borrowing;United Kingdom;GBP;1
+AUD_CentralBankSpeech;20221122;07:00;RBA Governor Lowe speech;Australia;AUD;3
+PLN_IndustrialOutput;20221122;09:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20221122;09:00;Producer Price Index (YoY);Poland;PLN;1
+PLN_CorporateSectorWages;20221122;09:00;Corporate Sector Wages;Poland;PLN;1
+EUR_EurCurrentAccount;20221122;09:00;Current Account n.s.a;European Monetary Union;EUR;1
+MXN_RetailSales;20221122;12:00;Retail Sales (YoY);Mexico;MXN;1
+HUF_MNBInterestRateDecision;20221122;13:00;MNB Interest Rate Decision;Hungary;HUF;1
+CAD_NewHousingPriceIndex;20221122;13:30;New Housing Price Index (YoY);Canada;CAD;1
+CAD_RetailSales;20221122;13:30;Retail Sales ex Autos (MoM);Canada;CAD;2
+USD_RedbookIndex;20221122;13:55;Redbook Index (YoY);United States;USD;1
+USD_RichmondFedManufacturingIndex;20221122;15:00;Richmond Fed Manufacturing Index;United States;USD;1
+JPY_LaborThanksgivingDay;20221122;15:00;Labor Thanksgiving Day;Japan;JPY;0
+EUR_EurConsumerConfidence;20221122;15:00;Consumer Confidence;European Monetary Union;EUR;2
+CAD_CentralBankSpeech;20221122;16:45;BoC Rogers speech;Canada;CAD;2
+USD_Auction;20221122;18:00;7-Year Note Auction;United States;USD;1
+KRW_BOKManufacturingBSI;20221122;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+USD_APIWeeklyCrudeOilStock;20221122;21:30;API Weekly Crude Oil Stock;United States;USD;1
+AUD_S&PGlobalCompositePMI;20221122;22:00;S&P Global Composite PMI;Australia;AUD;1
+AUD_S&PGlobalManufacturingPMI;20221122;22:00;S&P Global Manufacturing PMI;Australia;AUD;2
+AUD_S&PGlobalServicesPMI;20221122;22:00;S&P Global Services PMI;Australia;AUD;2

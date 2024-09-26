@@ -1,0 +1,35 @@
+AUD_ConsumerInflationExpectations;20220120;00:00;Consumer Inflation Expectations;Australia;AUD;2
+GBP_RICSHousingPriceBalance;20220120;00:01;RICS Housing Price Balance;United Kingdom;GBP;1
+AUD_EmploymentChange;20220120;00:30;Employment Change s.a.;Australia;AUD;3
+AUD_ParticipationRate;20220120;00:30;Participation Rate;Australia;AUD;1
+AUD_PartTimeEmployment;20220120;00:30;Part-Time Employment;Australia;AUD;1
+AUD_FullTimeEmployment;20220120;00:30;Full-Time Employment;Australia;AUD;2
+AUD_UnemploymentRate;20220120;00:30;Unemployment Rate s.a.;Australia;AUD;3
+CNY_PBoCInterestRateDecision;20220120;01:30;PBoC Interest Rate Decision;China;CNY;3
+EUR_GerProducerPriceIndex;20220120;07:00;Producer Price Index (MoM);Germany;EUR;2
+IDR_BankIndonesiaRate;20220120;07:00;Bank Indonesia Rate;Indonesia;IDR;1
+EUR_FraBusinessClimateinManufacturing;20220120;07:45;Business Climate in Manufacturing;France;EUR;1
+NOK_NorgesBankInterestRateDecision;20220120;09:00;Norges Bank Interest Rate Decision;Norway;NOK;1
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20220120;10:00;Core Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;2
+EUR_EurHarmonizedIndexofConsumerPrices;20220120;10:00;Harmonized Index of Consumer Prices (MoM);European Monetary Union;EUR;2
+EUR_EurCentralBankSpeech;20220120;10:00;ECB De Guindos speech;European Monetary Union;EUR;2
+TRY_CBRTInterestRateDecision;20220120;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+ILS_IndustrialProduction;20220120;11:00;Industrial Production (MoM);Israel;ILS;1
+MXN_JoblessRate;20220120;12:00;Jobless Rate;Mexico;MXN;1
+EUR_EurECBMonetaryPolicyMeetingAccounts;20220120;12:30;ECB Monetary Policy Meeting Accounts;European Monetary Union;EUR;2
+RUB_CentralBankReserves;20220120;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_JoblessClaims;20220120;13:30;Initial Jobless Claims;United States;USD;2
+CAD_ADPEmploymentChange;20220120;13:30;ADP Employment Change;Canada;CAD;1
+CAD_EmploymentInsuranceBeneficiariesChange;20220120;13:30;Employment Insurance Beneficiaries Change (MoM);Canada;CAD;1
+USD_PhiladelphiaFedManufacturingSurvey;20220120;13:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+USD_ExistingHomeSales;20220120;15:00;Existing Home Sales (MoM);United States;USD;1
+USD_ExistingHomeSalesChange;20220120;15:00;Existing Home Sales Change (MoM);United States;USD;1
+USD_EIANaturalGasStorageChange;20220120;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_EIACrudeOilStocksChange;20220120;16:00;EIA Crude Oil Stocks Change;United States;USD;1
+USD_Auction;20220120;18:00;10-year TIPS Auction;United States;USD;1
+NZD_BusinessNZPMI;20220120;21:30;Business NZ PMI;New Zealand;NZD;2
+NZD_VisitorArrivals;20220120;21:45;Visitor Arrivals (YoY);New Zealand;NZD;1
+JPY_NationalCPIexFreshFood;20220120;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20220120;23:30;National Consumer Price Index (YoY);Japan;JPY;2
+JPY_NationalCPIexFoodEnergy;20220120;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_BoJMonetaryPolicyMeetingMinutes;20220120;23:50;BoJ Monetary Policy Meeting Minutes;Japan;JPY;3

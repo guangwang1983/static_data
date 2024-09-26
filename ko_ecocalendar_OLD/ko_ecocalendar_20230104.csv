@@ -1,0 +1,25 @@
+GBP_BRCShopPriceIndex;20230104;00:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1
+JPY_JibunBankManufacturingPMI;20230104;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+HUF_GrossWages;20230104;07:30;Gross Wages (YoY);Hungary;HUF;1
+CHF_ConsumerPriceIndex;20230104;07:30;Consumer Price Index (MoM);Switzerland;CHF;1
+EUR_EurS&PGlobalServicesPMI;20230104;09:00;S&P Global Services PMI;European Monetary Union;EUR;1
+EUR_EurS&PGlobalCompositePMI;20230104;09:00;S&P Global Composite PMI;European Monetary Union;EUR;2
+GBP_NetLendingtoIndividuals;20230104;09:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20230104;09:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20230104;09:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_M4MoneySupply;20230104;09:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+USD_MBAMortgageApplications;20230104;12:00;MBA Mortgage Applications;United States;USD;1
+PLN_NBPBaserate;20230104;13:00;NBP Base rate;Poland;PLN;1
+USD_RedbookIndex;20230104;13:55;Redbook Index (YoY);United States;USD;1
+USD_JOLTSJobOpenings;20230104;15:00;JOLTS Job Openings;United States;USD;1
+USD_ISMManufacturingPricesPaid;20230104;15:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ISMManufacturingNewOrdersIndex;20230104;15:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ISMManufacturingPMI;20230104;15:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingEmploymentIndex;20230104;15:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_EIACrudeOilStocksChange;20230104;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_FOMCMinutes;20230104;19:00;FOMC Minutes;United States;USD;3
+USD_TotalVehicleSales;20230104;20:30;Total Vehicle Sales;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20230104;21:30;API Weekly Crude Oil Stock;United States;USD;1
+AUD_S&PGlobalCompositePMI;20230104;22:00;S&P Global Composite PMI;Australia;AUD;1
+AUD_S&PGlobalServicesPMI;20230104;22:00;S&P Global Services PMI;Australia;AUD;2
+JPY_MonetaryBase;20230104;23:50;Monetary Base (YoY);Japan;JPY;1

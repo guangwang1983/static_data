@@ -1,0 +1,29 @@
+AUD_WagePriceIndex;20200219;00:30;Wage Price Index (YoY);Australia;AUD;1
+EUR_EurNonMonetaryPolicyECBMeeting;20200219;08:00;Non-Monetary Policy ECB Meeting;European Monetary Union;EUR;1
+ZAR_ConsumerPriceIndex;20200219;08:00;Consumer Price Index (YoY);South Africa;ZAR;1
+SEK_ConsumerPriceIndex;20200219;08:30;Consumer Price Index (YoY);Sweden;SEK;1
+EUR_EurCurrentAccount;20200219;09:00;Current Account n.s.a;European Monetary Union;EUR;1
+PLN_CorporateSectorWages;20200219;09:00;Corporate Sector Wages;Poland;PLN;1
+GBP_RetailPriceIndex;20200219;09:30;Retail Price Index (MoM);United Kingdom;GBP;2
+GBP_DCLGHousePriceIndex;20200219;09:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ProducerPriceIndex;20200219;09:30;Producer Price Index - Output (YoY) n.s.a;United Kingdom;GBP;1
+GBP_PPICoreOutput;20200219;09:30;PPI Core Output (MoM) n.s.a;United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20200219;09:30;Consumer Price Index (YoY);United Kingdom;GBP;3
+EUR_EurConstructionOutput;20200219;10:00;Construction Output w.d.a (YoY);European Monetary Union;EUR;1
+EUR_GerAuction;20200219;10:40;30-y Bond Auction;Germany;EUR;1
+TRY_CBRTInterestRateDecision;20200219;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+USD_MBAMortgageApplications;20200219;12:00;MBA Mortgage Applications;United States;USD;1
+USD_HousingStarts;20200219;13:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20200219;13:30;Building Permits (MoM);United States;USD;2
+USD_HousingStartsChange;20200219;13:30;Housing Starts Change;United States;USD;1
+USD_BuildingPermitsChange;20200219;13:30;Building Permits Change;United States;USD;1
+USD_ProducerPriceIndex;20200219;13:30;Producer Price Index (YoY);United States;USD;1
+CAD_ConsumerPriceIndex;20200219;13:30;BoC Consumer Price Index Core (YoY);Canada;CAD;3
+USD_RedbookIndex;20200219;13:55;Redbook Index (MoM);United States;USD;1
+USD_FOMCMinutes;20200219;19:00;FOMC Minutes;United States;USD;3
+KRW_ProducerPriceIndex;20200219;21:00;Producer Price Index Growth (MoM);South Korea;KRW;1
+USD_CentralBankSpeech;20200219;21:30;Fed Barkin speech;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20200219;21:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_ProducerPriceIndex;20200219;21:45;Producer Price Index - Input (QoQ);New Zealand;NZD;1
+JPY_ForeignInvestmentinJapanStocks;20200219;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20200219;23:50;Foreign Bond Investment;Japan;JPY;1

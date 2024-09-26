@@ -1,0 +1,30 @@
+USD_IMFMeeting;20221011;00:00;IMF Meeting;United States;USD;2
+AUD_NationalAustraliaBankBusinessConfidence;20221011;00:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20221011;00:30;National Australia Bank Business Conditions;Australia;AUD;1
+IDR_RetailSales;20221011;04:00;Retail Sales (YoY);Indonesia;IDR;1
+JPY_EcoWatchersSurvey:Outlook;20221011;05:00;Eco Watchers Survey: Outlook;Japan;JPY;1
+JPY_EcoWatchersSurvey:Current;20221011;05:00;Eco Watchers Survey: Current;Japan;JPY;1
+GBP_ILOUnemploymentRate;20221011;06:00;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_AverageEarningsIncludingBonus;20221011;06:00;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_AverageEarningsExcludingBonus;20221011;06:00;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountChange;20221011;06:00;Claimant Count Change;United Kingdom;GBP;3
+GBP_ClaimantCountRate;20221011;06:00;Claimant Count Rate;United Kingdom;GBP;2
+CZK_ConsumerPriceIndex;20221011;07:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+TRY_CurrentAccount;20221011;07:00;Current Account Balance;Turkey;TRY;1
+HUF_ConsumerPriceIndex;20221011;07:00;Consumer Price Index (YoY);Hungary;HUF;1
+EUR_ItaIndustrialOutput;20221011;08:00;Industrial Output s.a. (MoM);Italy;EUR;1
+USD_NFIBBusinessOptimismIndex;20221011;10:00;NFIB Business Optimism Index;United States;USD;1
+ZAR_ManufacturingProductionIndex;20221011;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+BRL_IPCAInflation;20221011;12:00;IPCA Inflation;Brazil;BRL;1
+CNY_M2MoneySupply;20221011;12:30;M2 Money Supply (YoY);China;CNY;1
+CNY_NewLoans;20221011;12:30;New Loans;China;CNY;1
+USD_RedbookIndex;20221011;12:55;Redbook Index (YoY);United States;USD;1
+USD_IBDTIPPEconomicOptimism;20221011;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+USD_CentralBankSpeech;20221011;16:00;Fed Mester speech;United States;USD;2
+CHF_CentralBankSpeech;20221011;16:00;SNB Chairman Jordan speech;Switzerland;CHF;3
+USD_Auction;20221011;17:00;3-Year Note Auction;United States;USD;1
+EUR_EurCentralBankSpeech;20221011;18:00;ECB Lane speech;European Monetary Union;EUR;2
+GBP_CentralBankSpeech;20221011;18:35;BoE Governor Bailey speech;United Kingdom;GBP;3
+NZD_VisitorArrivals;20221011;21:45;Visitor Arrivals (YoY);New Zealand;NZD;1
+AUD_CentralBankSpeech;20221011;22:00;RBA Ellis speech;Australia;AUD;2
+JPY_MachineryOrders;20221011;23:50;Machinery Orders (MoM);Japan;JPY;1

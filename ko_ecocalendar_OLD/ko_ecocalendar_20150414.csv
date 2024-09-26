@@ -1,0 +1,34 @@
+KRW_UnemploymentRate;20150414;23:00;Unemployment Rate;South Korea;KRW;1
+NZD_FoodPriceIndex;20150414;22:45;Food Price Index (MoM);New Zealand;NZD;1
+COP_RetailSales;20150414;22:00;Retail Sales (YoY);Colombia;COP;1
+COP_Industrialouput;20150414;22:00;Industrial ouput (YoY);Colombia;COP;1
+USD_Auction;20150414;15:30;4-Week Bill Auction;United States;USD;1
+USD_BusinessInventories;20150414;14:00;Business Inventories;United States;USD;2
+USD_RetailSales;20150414;13:30;Retail Sales Control Group;United States;USD;2
+USD_NFIBBusinessOptimismIndex;20150414;13:00;NFIB Business Optimism Index;United States;USD;1
+USD_RedbookIndex;20150414;12:55;Redbook Index (MoM);United States;USD;1
+USD_ProducerPriceIndex;20150414;12:30;Producer Price Index ex Food & Energy (YoY);United States;USD;1
+USD_CentralBankSpeech;20150414;12:00;Fed Minneapolis Kocherlakota speech;United States;USD;1
+BRL_RetailSales;20150414;12:00;Retail Sales (MoM);Brazil;BRL;1
+PLN_M3MoneySupply;20150414;12:00;M3 Money Supply (YoY);Poland;PLN;1
+IDR_BankIndonesiaRate;20150414;11:13;Bank Indonesia Rate;Indonesia;IDR;1
+EUR_EurIndustrialProduction;20150414;09:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;2
+GBP_RetailPriceIndex;20150414;08:30;Retail Price Index (MoM);United Kingdom;GBP;1
+GBP_DCLGHousePriceIndex;20150414;08:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ProducerPriceIndex;20150414;08:30;Producer Price Index - Output (YoY) n.s.a;United Kingdom;GBP;2
+GBP_PPICoreOutput;20150414;08:30;PPI Core Output (MoM) n.s.a;United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20150414;08:30;Core Consumer Price Index (YoY);United Kingdom;GBP;3
+EUR_ItaConsumerPriceIndex;20150414;08:00;Consumer Price Index (YoY);Italy;EUR;1
+SEK_ConsumerPriceIndex;20150414;07:30;Consumer Price Index (YoY);Sweden;SEK;1
+EUR_SpaHICP;20150414;07:00;HICP (YoY);Spain;EUR;1
+EUR_SloCoreInflation;20150414;07:00;Core Inflation (YoY);Slovakia;EUR;1
+EUR_SloHeadlineInflation;20150414;07:00;Headline Inflation (MoM);Slovakia;EUR;1
+HUF_IndustrialOutput;20150414;07:00;Industrial Output (YoY);Hungary;HUF;1
+EUR_SpaConsumerPriceIndex;20150414;07:00;Consumer Price Index (MoM);Spain;EUR;1
+EUR_FinConsumerPriceIndex;20150414;07:00;Consumer Price Index (YoY);Finland;EUR;1
+EUR_GerWholesalePriceIndex;20150414;06:00;Wholesale Price Index (MoM);Germany;EUR;1
+CNY_M2MoneySupply;20150414;02:00;M2 Money Supply (YoY);China;CNY;1
+CNY_NewLoans;20150414;02:00;New Loans;China;CNY;3
+AUD_NationalAustraliaBankBusinessConfidence;20150414;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20150414;01:30;National Australia Bank Business Conditions;Australia;AUD;1
+SGD_GrossDomesticProduct;20150414;00:00;Gross Domestic Product (QoQ);Singapore;SGD;1

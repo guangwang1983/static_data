@@ -1,0 +1,19 @@
+CNY_HousePriceIndex;20220415;01:30;House Price Index ;China;CNY;1
+USD_GoodFriday;20220415;05:00;Good Friday;United States;USD;0
+CAD_GoodFriday;20220415;05:00;Good Friday;Canada;CAD;0
+MXN_GoodFriday;20220415;06:00;Good Friday ;Mexico;MXN;0
+TRY_BudgetBalance;20220415;08:00;Budget Balance;Turkey;TRY;1
+PLN_ConsumerPriceIndex;20220415;08:00;Consumer Price Index (YoY);Poland;PLN;1
+ILS_ConsumerPriceIndex;20220415;11:00;Consumer Price Index (MoM);Israel;ILS;1
+USD_NYEmpireStateManufacturingIndex;20220415;12:30;NY Empire State Manufacturing Index;United States;USD;1
+USD_IndustrialProduction;20220415;13:15;Industrial Production (MoM);United States;USD;1
+USD_CapacityUtilization;20220415;13:15;Capacity Utilization;United States;USD;1
+USD_CFTCGoldNCNetPositions;20220415;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20220415;19:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20220415;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20220415;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20220415;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20220415;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20220415;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_NetLongTermTICFlows;20220415;20:00;Net Long-Term TIC Flows;United States;USD;1
+USD_TotalNetTICFlows;20220415;20:00;Total Net TIC Flows;United States;USD;1

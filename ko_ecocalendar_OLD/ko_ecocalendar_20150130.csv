@@ -1,0 +1,52 @@
+COP_TradeBalance;20150130;22:00;Trade Balance;Colombia;COP;1
+MXN_FiscalBalancepesos;20150130;20:30;Fiscal Balance, pesos;Mexico;MXN;1
+COP_NationalJoblessRate;20150130;17:00;National Jobless Rate;Colombia;COP;1
+INR_FederalFiscalDeficitINR;20150130;15:49;Federal Fiscal Deficit, INR;India;INR;1
+USD_MichiganConsumerSentimentIndex;20150130;15:00;Michigan Consumer Sentiment Index;United States;USD;2
+USD_ChicagoPurchasingManagers'Index;20150130;14:45;Chicago Purchasing Managers' Index;United States;USD;2
+EUR_BelGrossDomesticProduct;20150130;14:00;Gross Domestic Product (QoQ);Belgium;EUR;1
+USD_GrossDomesticProduct;20150130;13:30;Gross Domestic Product Annualized;United States;USD;3
+USD_EmploymentCostIndex;20150130;13:30;Employment Cost Index;United States;USD;1
+CAD_GrossDomesticProduct;20150130;13:30;Gross Domestic Product (MoM);Canada;CAD;2
+USD_CorePersonalConsumptionExpenditures;20150130;13:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+USD_PersonalConsumptionExpendituresPrices;20150130;13:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+BRL_NominalBudgetBalance;20150130;12:30;Nominal Budget Balance;Brazil;BRL;1
+BRL_PrimaryBudgetSurplus;20150130;12:30;Primary Budget Surplus;Brazil;BRL;1
+CLP_Unemploymentrate;20150130;12:00;Unemployment rate;Chile;CLP;1
+ZAR_TradeBalance;20150130;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+INR_FXReservesUSD;20150130;11:30;FX Reserves, USD;India;INR;1
+EUR_ItaProducerPriceIndex;20150130;10:00;Producer Price Index (MoM);Italy;EUR;1
+EUR_EurUnemploymentRate;20150130;10:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_EurConsumerPriceIndex;20150130;10:00;Consumer Price Index (YoY);European Monetary Union;EUR;3
+EUR_GreRetailSales;20150130;10:00;Retail Sales (YoY);Greece;EUR;1
+GBP_NetLendingtoIndividuals;20150130;09:30;Net Lending to Individuals (MoM);United Kingdom;GBP;2
+RUB_Interestratedecision;20150130;09:30;Interest rate decision;Russia;RUB;2
+GBP_ConsumerCredit;20150130;09:30;Consumer Credit;United Kingdom;GBP;2
+GBP_MortgageApprovals;20150130;09:30;Mortgage Approvals;United Kingdom;GBP;2
+GBP_M4MoneySupply;20150130;09:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+CZK_M2MoneySupply;20150130;09:00;M2 Money Supply (YoY);Czech Republic;CZK;1
+EUR_ItaUnemployment;20150130;09:00;Unemployment;Italy;EUR;2
+NOK_RetailSales;20150130;09:00;Retail Sales ;Norway;NOK;1
+NOK_RegisteredUnemployment;20150130;09:00;Registered Unemployment n.s.a;Norway;NOK;1
+EUR_AusProducerPriceIndex;20150130;09:00;Producer Price Index (MoM);Austria;EUR;1
+EUR_SpaCurrentAccount;20150130;09:00;Current Account Balance;Spain;EUR;1
+CHF_KOFLeadingIndicator;20150130;08:00;KOF Leading Indicator;Switzerland;CHF;2
+EUR_SpaHICP;20150130;08:00;HICP (YoY);Spain;EUR;1
+TRY_TradeBalance;20150130;08:00;Trade Balance;Turkey;TRY;1
+EUR_SpaGrossDomesticProduct;20150130;08:00;Gross Domestic Product - Estimated (YoY);Spain;EUR;1
+EUR_FraProducerPrices;20150130;07:45;Producer Prices (MoM);France;EUR;1
+EUR_FraConsumerSpending;20150130;07:45;Consumer Spending (MoM);France;EUR;1
+COP_Interestrate;20150130;07:00;Interest rate;Colombia;COP;1
+EUR_GerRetailSales;20150130;07:00;Retail Sales (YoY);Germany;EUR;2
+ZAR_M3MoneySupply;20150130;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+ZAR_PrivateSectorCredit;20150130;06:00;Private Sector Credit;South Africa;ZAR;1
+JPY_AnnualizedHousingStarts;20150130;05:00;Annualized Housing Starts;Japan;JPY;2
+JPY_HousingStarts;20150130;05:00;Housing Starts (YoY);Japan;JPY;2
+JPY_ConstructionOrders;20150130;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_VehicleProduction;20150130;04:00;Vehicle Production (YoY);Japan;JPY;1
+SGD_Unemploymentrate;20150130;02:00;Unemployment rate;Singapore;SGD;1
+NZD_M3MoneySupply;20150130;02:00;M3 Money Supply (YoY);New Zealand;NZD;1
+AUD_PrivateSectorCredit;20150130;00:30;Private Sector Credit (YoY);Australia;AUD;1
+AUD_ProducerPriceIndex;20150130;00:30;Producer Price Index (QoQ);Australia;AUD;1
+GBP_GfKConsumerConfidence;20150130;00:05;GfK Consumer Confidence;United Kingdom;GBP;2
+KRW_TradeBalance;20150130;00:00;Trade Balance;South Korea;KRW;1

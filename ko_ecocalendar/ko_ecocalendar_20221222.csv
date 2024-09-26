@@ -1,0 +1,30 @@
+JPY_CoincidentIndex;20221222;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20221222;05:00;Leading Economic Index;Japan;JPY;1
+SEK_RetailSales;20221222;07:00;Retail Sales (MoM);Sweden;SEK;1
+GBP_GrossDomesticProduct;20221222;07:00;Gross Domestic Product (QoQ);United Kingdom;GBP;3
+GBP_TotalBusinessInvestment;20221222;07:00;Total Business Investment (QoQ);United Kingdom;GBP;1
+SEK_ProducerPriceIndex;20221222;07:00;Producer Price Index (YoY);Sweden;SEK;1
+GBP_CurrentAccount;20221222;07:00;Current Account;United Kingdom;GBP;1
+IDR_BankIndonesiaRate;20221222;07:25;Bank Indonesia Rate;Indonesia;IDR;1
+HUF_CurrentAccount;20221222;07:30;Current Account Balance (QoQ);Hungary;HUF;1
+HUF_TradeBalance;20221222;08:00;Trade Balance;Hungary;HUF;1
+NOK_RegisteredUnemployment;20221222;09:00;Registered Unemployment s.a;Norway;NOK;1
+EUR_ItaIndustrialSales;20221222;09:00;Industrial Sales n.s.a. (YoY);Italy;EUR;1
+EUR_ItaProducerPriceIndex;20221222;10:00;Producer Price Index (YoY);Italy;EUR;1
+EUR_ItaTradeBalancenonEU;20221222;11:00;Trade Balance non-EU;Italy;EUR;1
+TRY_CBRTInterestRateDecision;20221222;11:00;CBRT Interest Rate Decision;Turkey;TRY;3
+MXN_1sthalfmonthInflation;20221222;12:00;1st half-month Inflation;Mexico;MXN;1
+MXN_1sthalfmonthCoreInflation;20221222;12:00;1st half-month Core Inflation;Mexico;MXN;1
+RUB_CentralBankReserves;20221222;13:00;Central Bank Reserves $;Russia;RUB;1
+PLN_M3MoneySupply;20221222;13:00;M3 Money Supply (YoY);Poland;PLN;1
+USD_JoblessClaims;20221222;13:30;Continuing Jobless Claims;United States;USD;1
+USD_GrossDomesticProduct;20221222;13:30;Gross Domestic Product Annualized;United States;USD;3
+USD_PersonalConsumptionExpendituresPrices;20221222;13:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+USD_CorePersonalConsumptionExpenditures;20221222;13:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+USD_EIANaturalGasStorageChange;20221222;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_KansasFedManufacturingActivity;20221222;16:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_Auction;20221222;18:00;5-year TIPS Auction;United States;USD;1
+JPY_NationalCPIexFoodEnergy;20221222;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20221222;23:30;National Consumer Price Index (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20221222;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_BoJMonetaryPolicyMeetingMinutes;20221222;23:50;BoJ Monetary Policy Meeting Minutes;Japan;JPY;3

@@ -1,0 +1,19 @@
+HUF_UnemploymentRate;20160329;07:00;Unemployment Rate (3M);Hungary;HUF;1
+SEK_RetailSales;20160329;07:30;Retail Sales (MoM);Sweden;SEK;1
+EUR_ItaBusinessConfidence;20160329;08:00;Business Confidence;Italy;EUR;1
+EUR_ItaConsumerConfidence;20160329;08:00;Consumer Confidence;Italy;EUR;1
+TRY_ForeignArrivals;20160329;08:00;Foreign Arrivals;Turkey;TRY;1
+EUR_EurM3MoneySupply;20160329;08:00;M3 Money Supply (3m);European Monetary Union;EUR;1
+EUR_EurPrivateLoans;20160329;08:00;Private Loans (YoY);European Monetary Union;EUR;1
+GBP_FPCStatement;20160329;08:30;FPC Statement;United Kingdom;GBP;1
+SEK_TradeBalance;20160329;08:30;Trade Balance (MoM);Sweden;SEK;1
+CAD_RawMaterialPriceIndex;20160329;12:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20160329;12:30;Industrial Product Price (MoM);Canada;CAD;1
+USD_RedbookIndex;20160329;12:55;Redbook Index (YoY);United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20160329;13:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;1
+USD_ConsumerConfidence;20160329;14:00;Consumer Confidence;United States;USD;3
+USD_CentralBankSpeech;20160329;16:20;Fed Chair Yellen speech;United States;USD;2
+USD_Auction;20160329;17:00;5-Year Note Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20160329;20:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_BuildingPermits;20160329;21:45;Building Permits s.a. (MoM);New Zealand;NZD;1
+JPY_IndustrialProduction;20160329;23:50;Industrial Production (MoM);Japan;JPY;1

@@ -1,0 +1,25 @@
+MXN_ConsumerConfidence;20111104;14:00;Consumer Confidence s.a;Mexico;MXN;1
+CAD_IveyPurchasingManagersIndex;20111104;14:00;Ivey Purchasing Managers Index s.a;Canada;CAD;1
+USD_NonfarmPayrolls;20111104;12:30;Nonfarm Payrolls;United States;USD;3
+USD_AverageHourlyEarnings;20111104;12:30;Average Hourly Earnings (MoM);United States;USD;2
+USD_UnemploymentRate;20111104;12:30;Unemployment Rate;United States;USD;3
+USD_AverageWeeklyHours;20111104;12:30;Average Weekly Hours;United States;USD;2
+CAD_BuildingPermits;20111104;12:30;Building Permits (MoM);Canada;CAD;1
+INR_BankLoanGrowth;20111104;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20111104;11:30;FX Reserves, USD;India;INR;1
+CAD_NetChangeinEmployment;20111104;11:00;Net Change in Employment;Canada;CAD;3
+CAD_UnemploymentRate;20111104;11:00;Unemployment Rate;Canada;CAD;3
+EUR_GerFactoryOrders;20111104;11:00;Factory Orders s.a. (MoM);Germany;EUR;2
+RUB_ConsumerPriceIndex;20111104;10:45;Consumer Price Index (MoM);Russia;RUB;1
+CZK_CNBInterestRateDecision;20111104;10:27;CNB Interest Rate Decision;Czech Republic;CZK;1
+EUR_EurProducerPriceIndex;20111104;10:00;Producer Price Index (MoM);European Monetary Union;EUR;1
+EUR_EurMarkitServicesPMI;20111104;08:58;Markit Services PMI;European Monetary Union;EUR;2
+EUR_GerMarkitServicesPMI;20111104;08:53;Markit Services PMI;Germany;EUR;2
+EUR_FraMarkitServicesPMI;20111104;08:50;Markit Services PMI;France;EUR;1
+EUR_ItaMarkitServicesPMI;20111104;08:45;Markit Services PMI;Italy;EUR;1
+EUR_SpaMarkitServicesPMI;20111104;08:13;Markit Services PMI;Spain;EUR;1
+EUR_SpaIndustrialOutputCalAdjusted;20111104;08:00;Industrial Output Cal Adjusted (YoY);Spain;EUR;1
+EUR_FinGrossDomesticProduct;20111104;07:00;Gross Domestic Product (YoY);Finland;EUR;1
+EUR_IrePurchasingManagerIndexServices;20111104;07:00;Purchasing Manager Index Services;Ireland;EUR;1
+AUD_RBAMonetaryPolicyStatement;20111104;01:30;RBA Monetary Policy Statement;Australia;AUD;3
+EUR_EurG20Meeting;20111104;00:00;G20 Meeting;European Monetary Union;EUR;2

@@ -1,0 +1,34 @@
+AUD_NewMotorVehicleSales;20171017;00:30;New Motor Vehicle Sales (YoY);Australia;AUD;1
+AUD_RBAMeetingMinutes;20171017;00:30;RBA Meeting Minutes;Australia;AUD;3
+EUR_ItaTradeBalanceEU;20171017;08:09;Trade Balance EU;Italy;EUR;1
+EUR_ItaGlobalTradeBalance;20171017;08:09;Global Trade Balance;Italy;EUR;1
+GBP_RetailPriceIndex;20171017;08:30;Retail Price Index (YoY);United Kingdom;GBP;1
+GBP_DCLGHousePriceIndex;20171017;08:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ProducerPriceIndex;20171017;08:30;Producer Price Index - Output (MoM) n.s.a;United Kingdom;GBP;2
+GBP_PPICoreOutput;20171017;08:30;PPI Core Output (MoM) n.s.a;United Kingdom;GBP;2
+GBP_ConsumerPriceIndex;20171017;08:30;Consumer Price Index (YoY);United Kingdom;GBP;3
+EUR_EurHarmonizedIndexofConsumerPrices;20171017;09:00;Harmonized Index of Consumer Prices (MoM);European Monetary Union;EUR;2
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20171017;09:00;Core Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_GerZEWSurvey–EconomicSentiment;20171017;09:00;ZEW Survey – Economic Sentiment;Germany;EUR;2
+EUR_GerZEWSurvey–CurrentSituation;20171017;09:00;ZEW Survey – Current Situation;Germany;EUR;2
+EUR_EurZEWSurvey–EconomicSentiment;20171017;09:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;1
+EUR_EurCentralBankSpeech;20171017;09:30;ECB Praet speech;European Monetary Union;EUR;2
+PLN_CorporateSectorWages;20171017;12:00;Corporate Sector Wages;Poland;PLN;1
+GBP_CentralBankSpeech;20171017;12:30;BoE Governor Carney speech;United Kingdom;GBP;3
+USD_ExportPriceIndex;20171017;12:30;Export Price Index (YoY);United States;USD;1
+USD_ImportPriceIndex;20171017;12:30;Import Price Index (YoY);United States;USD;1
+USD_RedbookIndex;20171017;12:55;Redbook Index (YoY);United States;USD;1
+USD_IndustrialProduction;20171017;13:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20171017;13:15;Capacity Utilization;United States;USD;2
+USD_NAHBHousingMarketIndex;20171017;14:00;NAHB Housing Market Index;United States;USD;2
+NZD_GDTPriceIndex;20171017;14:37;GDT Price Index;New Zealand;NZD;1
+USD_Auction;20171017;15:30;4-Week Bill Auction;United States;USD;1
+USD_CentralBankSpeech;20171017;17:00;Fed Harker speech;United States;USD;2
+USD_TotalNetTICFlows;20171017;20:00;Total Net TIC Flows;United States;USD;1
+USD_NetLongTermTICFlows;20171017;20:00;Net Long-Term TIC Flows;United States;USD;1
+COP_RetailSales;20171017;20:00;Retail Sales (YoY);Colombia;COP;1
+USD_APIWeeklyCrudeOilStock;20171017;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_ExportPriceGrowth;20171017;21:00;Export Price Growth (YoY);South Korea;KRW;1
+KRW_ImportPriceGrowth;20171017;21:00;Import Price Growth (YoY);South Korea;KRW;1
+KRW_UnemploymentRate;20171017;23:00;Unemployment Rate;South Korea;KRW;1
+AUD_WestpacLeadingIndex;20171017;23:30;Westpac Leading Index (MoM);Australia;AUD;1

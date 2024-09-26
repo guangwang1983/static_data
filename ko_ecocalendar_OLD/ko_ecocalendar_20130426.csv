@@ -1,0 +1,27 @@
+COP_Interestrate;20130426;17:00;Interest rate;Colombia;COP;1
+MXN_CentralBankInterestRate;20130426;14:00;Central Bank Interest Rate;Mexico;MXN;1
+USD_MichiganConsumerSentimentIndex;20130426;13:55;Michigan Consumer Sentiment Index;United States;USD;2
+MXN_TradeBalance;20130426;13:00;Trade Balance, $;Mexico;MXN;1
+MXN_TradeBalancesa;20130426;13:00;Trade Balance s/a, $;Mexico;MXN;1
+USD_GrossDomesticProduct;20130426;12:30;Gross Domestic Product Annualized;United States;USD;3
+USD_CorePersonalConsumptionExpenditures;20130426;12:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+USD_PersonalConsumptionExpendituresPrices;20130426;12:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+INR_FXReservesUSD;20130426;11:30;FX Reserves, USD;India;INR;1
+EUR_IreRetailSales;20130426;11:00;Retail Sales (YoY);Ireland;EUR;1
+BRL_InflationIndexIGPM;20130426;11:00;Inflation Index/IGP-M;Brazil;BRL;1
+CHF_CentralBankSpeech;20130426;08:00;SNB Chairman Jordan speech;Switzerland;CHF;2
+EUR_EurM3MoneySupply;20130426;08:00;M3 Money Supply (3m);European Monetary Union;EUR;1
+EUR_EurPrivateLoans;20130426;08:00;Private Loans (YoY);European Monetary Union;EUR;1
+SEK_TradeBalance;20130426;07:30;Trade Balance (MoM);Sweden;SEK;1
+JPY_BoJPressConference;20130426;07:15;BoJ Press Conference;Japan;JPY;2
+SEK_ConsumerConfidence;20130426;07:15;Consumer Confidence (MoM);Sweden;SEK;1
+CHF_KOFLeadingIndicator;20130426;07:00;KOF Leading Indicator;Switzerland;CHF;2
+HUF_UnemploymentRate;20130426;07:00;Unemployment Rate (3M);Hungary;HUF;1
+EUR_FraConsumerConfidence;20130426;06:45;Consumer Confidence;France;EUR;1
+EUR_GerImportPriceIndex;20130426;06:00;Import Price Index (YoY);Germany;EUR;1
+JPY_BoJOutlookReport;20130426;06:00;BoJ Outlook Report;Japan;JPY;2
+JPY_BoJMonetaryPolicyStatement;20130426;05:30;BoJ Monetary Policy Statement ;Japan;JPY;3
+SGD_IndustrialProduction;20130426;05:00;Industrial Production (YoY);Singapore;SGD;1
+JPY_BoJInterestRateDecision;20130426;04:40;BoJ Interest Rate Decision;Japan;JPY;3
+CNY_MNIBusinessSentimentIndicator;20130426;01:35;MNI Business Sentiment Indicator;China;CNY;1
+DKK_GeneralPrayerDay;20130426;00:00;General Prayer Day ;Denmark;DKK;0

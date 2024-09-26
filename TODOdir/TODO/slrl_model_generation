@@ -1,0 +1,7 @@
+1) We potentially need to heavily regulated the slrl model generation so DYNAMIC almost most become STATIC. For example only give 6E the choice between the rate diffenrentials, 6J,ES,FESX,FDAX and ES_FESX.
+ 
+Basically keep the indicator pool very small.
+
+2) Another version would be to have a primary and a secondary indicator pool for each target, where primary would have priority over secondary to enter the model. Only if no primary indicator would not increase correlation would a secondary indicator be able to be chosen. 
+
+

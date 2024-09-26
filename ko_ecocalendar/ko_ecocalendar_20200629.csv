@@ -1,0 +1,33 @@
+CLP_SaintPeterandSaintPaul;20200629;04:00;Saint Peter and Saint Paul ;Chile;CLP;0
+COP_SaintPeterandSaintPaul;20200629;05:00;Saint Peter and Saint Paul;Colombia;COP;0
+DKK_IndustrialOutlook;20200629;06:00;Industrial Outlook;Denmark;DKK;1
+HUF_UnemploymentRate;20200629;07:00;Unemployment Rate (3M);Hungary;HUF;1
+TRY_EconomicConfidenceIndex;20200629;07:00;Economic Confidence Index;Turkey;TRY;1
+SEK_TradeBalance;20200629;07:30;Trade Balance (MoM);Sweden;SEK;1
+GBP_NetLendingtoIndividuals;20200629;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20200629;08:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20200629;08:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_M4MoneySupply;20200629;08:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+EUR_EurIndustrialConfidence;20200629;09:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_EurEconomicSentimentIndicator;20200629;09:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+EUR_EurConsumerConfidence;20200629;09:00;Consumer Confidence;European Monetary Union;EUR;1
+EUR_EurServicesSentiment;20200629;09:00;Services Sentiment;European Monetary Union;EUR;1
+EUR_EurBusinessClimate;20200629;09:00;Business Climate;European Monetary Union;EUR;2
+BRL_InflationIndexIGPM;20200629;11:00;Inflation Index/IGP-M;Brazil;BRL;1
+EUR_GerConsumerPriceIndex;20200629;12:00;Consumer Price Index (YoY);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20200629;12:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+GBP_CentralBankSpeech;20200629;12:30;BoE Vlieghe speech;United Kingdom;GBP;2
+CAD_RawMaterialPriceIndex;20200629;12:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20200629;12:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_BuildingPermits;20200629;12:30;Building Permits (MoM);Canada;CAD;1
+USD_PendingHomeSales;20200629;14:00;Pending Home Sales (YoY);United States;USD;1
+USD_DallasFedManufacturingBusinessIndex;20200629;14:30;Dallas Fed Manufacturing Business Index;United States;USD;2
+USD_Auction;20200629;15:30;3-Month Bill Auction;United States;USD;1
+USD_CentralBankSpeech;20200629;19:00;Fed Williams speech;United States;USD;2
+KRW_BOKManufacturingBSI;20200629;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+KRW_IndustrialOutputGrowth;20200629;23:00;Industrial Output Growth;South Korea;KRW;1
+KRW_IndustrialOutput;20200629;23:00;Industrial Output (YoY);South Korea;KRW;1
+KRW_ServiceSectorOutput;20200629;23:00;Service Sector Output;South Korea;KRW;1
+JPY_JobsApplicantsRatio;20200629;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+JPY_UnemploymentRate;20200629;23:30;Unemployment Rate;Japan;JPY;2
+JPY_IndustrialProduction;20200629;23:50;Industrial Production (YoY);Japan;JPY;2

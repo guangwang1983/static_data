@@ -1,0 +1,42 @@
+JPY_JibunBankServicesPMI;20230405;00:30;Jibun Bank Services PMI;Japan;JPY;1
+NZD_RBNZRateStatement;20230405;02:00;RBNZ Rate Statement;New Zealand;NZD;3
+NZD_RBNZInterestRateDecision;20230405;02:00;RBNZ Interest Rate Decision;New Zealand;NZD;3
+AUD_CentralBankSpeech;20230405;02:30;RBA Governor Lowe speech;Australia;AUD;3
+DKK_TradeBalance;20230405;06:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20230405;06:00;Current Account;Denmark;DKK;1
+DKK_IndustrialProduction;20230405;06:00;Industrial Production (MoM);Denmark;DKK;1
+RUB_S&PGlobalServicesPMI;20230405;06:00;S&P Global Services PMI;Russia;RUB;1
+NOK_ManufacturingOutput;20230405;06:00;Manufacturing Output;Norway;NOK;1
+HUF_IndustrialOutput;20230405;06:30;Industrial Output (YoY);Hungary;HUF;1
+CZK_RetailSales;20230405;07:00;Retail Sales (YoY);Czech Republic;CZK;1
+EUR_EurS&PGlobalServicesPMI;20230405;08:00;S&P Global Services PMI;European Monetary Union;EUR;1
+EUR_EurS&PGlobalCompositePMI;20230405;08:00;S&P Global Composite PMI;European Monetary Union;EUR;2
+GBP_S&PGlobalCIPSCompositePMI;20230405;08:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSServicesPMI;20230405;08:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;1
+USD_MBAMortgageApplications;20230405;11:00;MBA Mortgage Applications;United States;USD;1
+MXN_12MonthInflation;20230405;11:00;12-Month Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20230405;11:00;Headline Inflation;Mexico;MXN;1
+MXN_CoreInflation;20230405;11:00;Core Inflation;Mexico;MXN;1
+MXN_ConsumerConfidence;20230405;11:00;Consumer Confidence s.a;Mexico;MXN;1
+COP_ConsumerPriceIndex;20230405;11:00;Consumer Price Index (YoY);Colombia;COP;1
+INR_M3MoneySupply;20230405;11:30;M3 Money Supply;India;INR;1
+USD_ADPEmploymentChange;20230405;12:15;ADP Employment Change;United States;USD;3
+USD_GoodsandServicesTradeBalance;20230405;12:30;Goods and Services Trade Balance;United States;USD;2
+USD_GoodsTradeBalance;20230405;12:30;Goods Trade Balance;United States;USD;1
+CAD_InternationalMerchandiseTrade;20230405;12:30;International Merchandise Trade;Canada;CAD;2
+CAD_Exports;20230405;12:30;Exports;Canada;CAD;1
+CAD_Imports;20230405;12:30;Imports;Canada;CAD;1
+PLN_NBPBaserate;20230405;13:00;NBP Base rate;Poland;PLN;1
+USD_S&PGlobalCompositePMI;20230405;13:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20230405;13:45;S&P Global Services PMI;United States;USD;2
+USD_ISMServicesPMI;20230405;14:00;ISM Services PMI;United States;USD;3
+USD_ISMServicesNewOrdersIndex;20230405;14:00;ISM Services New Orders Index;United States;USD;2
+USD_ISMServicesEmploymentIndex;20230405;14:00;ISM Services Employment Index;United States;USD;2
+USD_ISMServicesPricesPaid;20230405;14:00;ISM Services Prices Paid;United States;USD;2
+EUR_EurCentralBankSpeech;20230405;14:00;ECB Lane speech;European Monetary Union;EUR;2
+USD_EIACrudeOilStocksChange;20230405;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+DKK_MaundyThursday;20230405;22:00;Maundy Thursday ;Denmark;DKK;0
+CLP_BCCHInterestRate;20230405;22:00;BCCH Interest Rate;Chile;CLP;1
+NOK_MaundyThursday;20230405;22:00;Maundy Thursday;Norway;NOK;0
+JPY_ForeignInvestmentinJapanStocks;20230405;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20230405;23:50;Foreign Bond Investment;Japan;JPY;1

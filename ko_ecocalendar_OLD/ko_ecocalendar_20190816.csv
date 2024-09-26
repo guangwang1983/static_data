@@ -1,0 +1,26 @@
+AUD_CFTCAUDNCNetPositions;20190816;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20190816;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+USD_CFTCUSDNCNetPositions;20190816;19:30;CFTC USD NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20190816;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20190816;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20190816;19:30;CFTC Gold NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20190816;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_BakerHughesUSOilRigCount;20190816;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_MichiganConsumerSentimentIndex;20190816;14:00;Michigan Consumer Sentiment Index;United States;USD;3
+RUB_ProducerPriceIndex;20190816;13:00;Producer Price Index (YoY);Russia;RUB;1
+USD_HousingStarts;20190816;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20190816;12:30;Building Permits (MoM);United States;USD;2
+USD_BuildingPermitsChange;20190816;12:30;Building Permits Change;United States;USD;1
+USD_HousingStartsChange;20190816;12:30;Housing Starts Change;United States;USD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20190816;12:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20190816;12:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+PLN_NetInflation;20190816;12:00;Net Inflation;Poland;PLN;1
+INR_BankLoanGrowth;20190816;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20190816;11:30;FX Reserves, USD;India;INR;1
+ILS_M1MoneySupply;20190816;10:00;M1 Money Supply (MoM);Israel;ILS;1
+EUR_EurTradeBalance;20190816;09:00;Trade Balance n.s.a.;European Monetary Union;EUR;1
+HKD_GrossDomesticProduct;20190816;08:30;Gross Domestic Product (QoQ);Hong Kong SAR;HKD;1
+TRY_BudgetBalance;20190816;08:00;Budget Balance;Turkey;TRY;1
+CZK_ProducerPriceIndex;20190816;07:00;Producer Price Index (YoY);Czech Republic;CZK;1
+TRY_IndustrialProduction;20190816;07:00;Industrial Production (YoY);Turkey;TRY;1
+KRW_TradeBalance;20190816;02:00;Trade Balance;South Korea;KRW;1

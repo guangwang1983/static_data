@@ -1,0 +1,40 @@
+AUD_RBAMeetingMinutes;20220215;00:30;RBA Meeting Minutes;Australia;AUD;3
+KRW_TradeBalance;20220215;02:00;Trade Balance;South Korea;KRW;1
+AUD_HIANewHomeSales;20220215;02:30;HIA New Home Sales (MoM);Australia;AUD;2
+IDR_Exports;20220215;04:00;Exports;Indonesia;IDR;1
+IDR_TradeBalance;20220215;04:00;Trade Balance;Indonesia;IDR;1
+IDR_Imports;20220215;04:00;Imports;Indonesia;IDR;1
+JPY_IndustrialProduction;20220215;04:30;Industrial Production (MoM);Japan;JPY;1
+JPY_CapacityUtilization;20220215;04:30;Capacity Utilization;Japan;JPY;1
+CNY_FDIForeignDirectInvestment;20220215;06:15;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+NOK_TradeBalance;20220215;07:00;Trade Balance;Norway;NOK;1
+GBP_ClaimantCountRate;20220215;07:00;Claimant Count Rate;United Kingdom;GBP;2
+GBP_ClaimantCountChange;20220215;07:00;Claimant Count Change;United Kingdom;GBP;3
+GBP_ILOUnemploymentRate;20220215;07:00;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_AverageEarningsIncludingBonus;20220215;07:00;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_AverageEarningsExcludingBonus;20220215;07:00;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+RON_GrossDomesticProduct;20220215;07:00;Gross Domestic Product;Romania;RON;1
+TRY_BudgetBalance;20220215;08:00;Budget Balance;Turkey;TRY;1
+HUF_GrossDomesticProduct;20220215;08:00;Gross Domestic Product (YoY);Hungary;HUF;1
+PLN_ConsumerPriceIndex;20220215;09:00;Consumer Price Index (YoY);Poland;PLN;1
+PLN_GrossDomesticProduct;20220215;09:00;Gross Domestic Product Qtr (YoY);Poland;PLN;1
+EUR_EurTradeBalance;20220215;10:00;Trade Balance n.s.a.;European Monetary Union;EUR;1
+EUR_EurGrossDomesticProduct;20220215;10:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+EUR_GerZEWSurvey–EconomicSentiment;20220215;10:00;ZEW Survey – Economic Sentiment;Germany;EUR;2
+EUR_EurZEWSurvey–EconomicSentiment;20220215;10:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurvey–CurrentSituation;20220215;10:00;ZEW Survey – Current Situation;Germany;EUR;2
+INR_TradeDeficitGovernment;20220215;10:00;Trade Deficit Government;India;INR;1
+EUR_EurEmploymentChange;20220215;10:00;Employment Change (YoY);European Monetary Union;EUR;1
+GBP_Auction;20220215;10:30;10-y Bond Auction;United Kingdom;GBP;1
+CAD_HousingStarts;20220215;13:15;Housing Starts s.a (YoY);Canada;CAD;1
+USD_NYEmpireStateManufacturingIndex;20220215;13:30;NY Empire State Manufacturing Index;United States;USD;1
+USD_ProducerPriceIndex;20220215;13:30;Producer Price Index (YoY);United States;USD;1
+USD_RedbookIndex;20220215;13:55;Redbook Index (YoY);United States;USD;1
+NZD_GDTPriceIndex;20220215;15:00;GDT Price Index;New Zealand;NZD;1
+COP_GrossDomesticProduct;20220215;16:00;Gross Domestic Product (YoY);Colombia;COP;1
+ILS_ConsumerPriceIndex;20220215;16:30;Consumer Price Index (YoY);Israel;ILS;1
+USD_TotalNetTICFlows;20220215;21:00;Total Net TIC Flows;United States;USD;1
+USD_NetLongTermTICFlows;20220215;21:00;Net Long-Term TIC Flows;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20220215;21:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_UnemploymentRate;20220215;23:00;Unemployment Rate;South Korea;KRW;1
+AUD_WestpacLeadingIndex;20220215;23:30;Westpac Leading Index (MoM);Australia;AUD;1

@@ -1,0 +1,10 @@
+USD_CentralBankSpeech;20081202;16:30;Treasury Secretary Paulson speech;United States;USD;0
+EUR_EurProducerPriceIndex;20081202;10:00;Producer Price Index (YoY);European Monetary Union;EUR;1
+GBP_MarkitConstructionPMI;20081202;09:30;Markit Construction PMI;United Kingdom;GBP;1
+CHF_ConsumerPriceIndex;20081202;06:45;Consumer Price Index (MoM);Switzerland;CHF;2
+JPY_BoJMonetaryPolicyStatement;20081202;06:30;BoJ Monetary Policy Statement ;Japan;JPY;3
+JPY_BoJInterestRateDecision;20081202;06:04;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_BoJMonetaryPolicyMeetingMinutes;20081202;04:00;BoJ Monetary Policy Meeting Minutes;Japan;JPY;2
+AUD_RBAInterestRateDecision;20081202;03:30;RBA Interest Rate Decision;Australia;AUD;3
+AUD_CurrentAccount;20081202;00:30;Current Account Balance;Australia;AUD;2
+AUD_RetailSales;20081202;00:30;Retail Sales s.a. (MoM);Australia;AUD;2

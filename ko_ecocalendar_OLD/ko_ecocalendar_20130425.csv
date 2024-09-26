@@ -1,0 +1,27 @@
+JPY_ConsumerPriceIndex;20130425;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;1
+JPY_TokyoCPIexFreshFood;20130425;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;1
+JPY_TokyoCPIexFoodEnergy;20130425;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;1
+JPY_NationalCPIexFoodEnergy;20130425;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;3
+JPY_NationalCPIexFreshFood;20130425;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;3
+NZD_Imports;20130425;22:45;Imports;New Zealand;NZD;1
+NZD_TradeBalance;20130425;22:45;Trade Balance (YoY);New Zealand;NZD;1
+NZD_Exports;20130425;22:45;Exports;New Zealand;NZD;1
+KRW_ConsumerSentimentIndex;20130425;21:00;Consumer Sentiment Index;South Korea;KRW;1
+ARS_IndustrialOutput;20130425;19:00;Industrial Output n.s.a (YoY);Argentina;ARS;1
+USD_Auction;20130425;17:00;7-Year Note Auction;United States;USD;1
+USD_KansasFedManufacturingActivity;20130425;15:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_EIANaturalGasStorageChange;20130425;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_CentralBankSpeech;20130425;14:00;Treasury Sec Lew speech;United States;USD;2
+USD_JoblessClaims;20130425;12:30;Initial Jobless Claims;United States;USD;2
+BRL_UnemploymentRate;20130425;12:00;Unemployment Rate;Brazil;BRL;1
+ZAR_ProducerPriceIndex;20130425;09:30;Producer Price Index (MoM);South Africa;ZAR;1
+GBP_GrossDomesticProduct;20130425;08:30;Gross Domestic Product (YoY);United Kingdom;GBP;3
+SEK_ProducerPriceIndex;20130425;08:30;Producer Price Index (MoM);Sweden;SEK;1
+GBP_IndexofServices;20130425;08:30;Index of Services (3M/3M);United Kingdom;GBP;1
+RUB_CentralBankReserves;20130425;08:00;Central Bank Reserves $;Russia;RUB;1
+EUR_SpaUnemploymentSurvey;20130425;07:00;Unemployment Survey;Spain;EUR;1
+NZD_ANZACDay;20130425;00:00;ANZAC Day;New Zealand;NZD;0
+AUD_ANZACDay;20130425;00:00;ANZAC Day;Australia;AUD;0
+ISK_FirstDayofSummer;20130425;00:00;First Day of Summer ;Iceland;ISK;0
+EUR_PorFreedomDay;20130425;00:00;Freedom Day;Portugal;EUR;0
+EUR_ItaLiberationDay;20130425;00:00;Liberation Day;Italy;EUR;0

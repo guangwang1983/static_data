@@ -1,0 +1,16 @@
+NZD_ProducerPriceIndex;20101117;21:45;Producer Price Index - Input (QoQ);New Zealand;NZD;0
+USD_EIACrudeOilStocksChange;20101117;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_HousingStarts;20101117;13:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20101117;13:30;Building Permits (MoM);United States;USD;1
+USD_ConsumerPriceIndex;20101117;13:30;Consumer Price Index ex Food & Energy (MoM);United States;USD;1
+USD_MBAMortgageApplications;20101117;12:00;MBA Mortgage Applications;United States;USD;1
+EUR_EurConstructionOutput;20101117;10:00;Construction Output  s.a (MoM);European Monetary Union;EUR;2
+GBP_BankofEnglandMinutes;20101117;09:30;Bank of England Minutes;United Kingdom;GBP;3
+GBP_AverageEarningsExcludingBonus;20101117;09:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;1
+GBP_AverageEarningsIncludingBonus;20101117;09:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;1
+GBP_ClaimantCountChange;20101117;09:30;Claimant Count Change;United Kingdom;GBP;3
+GBP_ClaimantCountRate;20101117;09:30;Claimant Count Rate;United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20101117;09:30;ILO Unemployment Rate (3M);United Kingdom;GBP;2
+JPY_CoincidentIndex;20101117;06:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20101117;06:00;Leading Economic Index;Japan;JPY;1
+AUD_WagePriceIndex;20101117;00:30;Wage Price Index (YoY);Australia;AUD;1

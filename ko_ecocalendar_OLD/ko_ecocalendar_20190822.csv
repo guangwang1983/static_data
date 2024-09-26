@@ -1,0 +1,40 @@
+JPY_ConsumerPriceIndex;20190822;23:30;National Consumer Price Index (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20190822;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_NationalCPIexFoodEnergy;20190822;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+NZD_RetailSales;20190822;22:45;Retail Sales ex Autos (QoQ);New Zealand;NZD;1
+USD_Auction;20190822;15:30;4-Week Bill Auction;United States;USD;1
+USD_KansasFedManufacturingActivity;20190822;15:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_EIANaturalGasStorageChange;20190822;14:30;EIA Natural Gas Storage Change;United States;USD;1
+EUR_EurConsumerConfidence;20190822;14:00;Consumer Confidence;European Monetary Union;EUR;1
+USD_MarkitManufacturingPMI;20190822;13:45;Markit Manufacturing PMI;United States;USD;2
+USD_MarkitServicesPMI;20190822;13:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20190822;13:45;Markit PMI Composite;United States;USD;2
+RUB_CentralBankReserves;20190822;13:00;Central Bank Reserves $;Russia;RUB;1
+MXN_1sthalfmonthCoreInflation;20190822;13:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20190822;13:00;1st half-month Inflation;Mexico;MXN;1
+USD_JoblessClaims;20190822;12:30;Continuing Jobless Claims;United States;USD;2
+CAD_WholesaleSales;20190822;12:30;Wholesale Sales (MoM);Canada;CAD;1
+PLN_M3MoneySupply;20190822;12:00;M3 Money Supply (YoY);Poland;PLN;1
+BRL_MidmonthInflation;20190822;12:00;Mid-month Inflation;Brazil;BRL;1
+EUR_EurECBMonetaryPolicyMeetingAccounts;20190822;11:30;ECB Monetary Policy Meeting Accounts;European Monetary Union;EUR;3
+GBP_CBIDistributiveTradesSurveyRealized;20190822;10:00;CBI Distributive Trades Survey - Realized (MoM);United Kingdom;GBP;1
+PLN_RetailSales;20190822;08:00;Retail Sales (YoY);Poland;PLN;1
+EUR_EurMarkitPMIComposite;20190822;08:00;Markit PMI Composite;European Monetary Union;EUR;3
+EUR_EurMarkitServicesPMI;20190822;08:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_EurMarkitManufacturingPMI;20190822;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+SEK_UnemploymentRate;20190822;07:30;Unemployment Rate;Sweden;SEK;1
+EUR_GerMarkitServicesPMI;20190822;07:30;Markit Services PMI;Germany;EUR;2
+EUR_GerMarkitManufacturingPMI;20190822;07:30;Markit Manufacturing PMI;Germany;EUR;3
+EUR_GerMarkitPMIComposite;20190822;07:30;Markit PMI Composite;Germany;EUR;3
+IDR_BankIndonesiaRate;20190822;07:30;Bank Indonesia Rate;Indonesia;IDR;1
+SEK_CapacityUtilization;20190822;07:30;Capacity Utilization;Sweden;SEK;1
+EUR_FraMarkitManufacturingPMI;20190822;07:15;Markit Manufacturing PMI;France;EUR;1
+EUR_FraMarkitServicesPMI;20190822;07:15;Markit Services PMI;France;EUR;1
+EUR_FraMarkitPMIComposite;20190822;07:15;Markit PMI Composite;France;EUR;1
+TRY_ConsumerConfidence;20190822;07:00;Consumer Confidence;Turkey;TRY;1
+EUR_FraBusinessClimate;20190822;06:45;Business Climate;France;EUR;1
+CHF_IndustrialProduction;20190822;06:30;Industrial Production (YoY);Switzerland;CHF;2
+DKK_ConsumerConfidence;20190822;06:00;Consumer Confidence;Denmark;DKK;1
+JPY_AllIndustryActivityIndex;20190822;04:30;All Industry Activity Index (MoM);Japan;JPY;2
+JPY_NikkeiManufacturingPMI;20190822;00:30;Nikkei Manufacturing PMI;Japan;JPY;1
+USD_JacksonHoleSymposium;20190822;00:00;Jackson Hole Symposium;United States;USD;3

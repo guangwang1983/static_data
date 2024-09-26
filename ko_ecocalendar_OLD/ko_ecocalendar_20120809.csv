@@ -1,0 +1,51 @@
+JPY_DomesticCorporateGoodsPriceIndex;20120809;23:50;Domestic Corporate Goods Price Index (YoY);Japan;JPY;1
+NZD_RetailSales;20120809;22:45;Electronic Card Retail Sales  (MoM);New Zealand;NZD;2
+NZD_REINZHousePriceIndex;20120809;21:00;REINZ House Price Index (MoM);New Zealand;NZD;2
+KRW_ProducerPriceIndex;20120809;21:00;Producer Price Index Growth (YoY);South Korea;KRW;1
+USD_Auction;20120809;17:00;30-Year Bond Auction;United States;USD;1
+USD_EIANaturalGasStorageChange;20120809;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_WholesaleInventories;20120809;14:00;Wholesale Inventories;United States;USD;1
+MXN_12MonthInflation;20120809;13:00;12-Month Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20120809;13:00;Headline Inflation;Mexico;MXN;1
+MXN_CoreInflation;20120809;13:00;Core Inflation;Mexico;MXN;1
+USD_TradeBalance;20120809;12:30;Trade Balance;United States;USD;2
+USD_JoblessClaims;20120809;12:30;Initial Jobless Claims;United States;USD;1
+CAD_InternationalMerchandiseTrade;20120809;12:30;International Merchandise Trade;Canada;CAD;1
+CAD_NewHousingPriceIndex;20120809;12:30;New Housing Price Index (YoY);Canada;CAD;1
+CAD_HousingStarts;20120809;12:15;Housing Starts s.a (YoY);Canada;CAD;2
+EUR_IreConsumerConfidence;20120809;11:15;Consumer Confidence;Ireland;EUR;1
+EUR_PorGlobalTradeBalance;20120809;10:00;Global Trade Balance;Portugal;EUR;1
+EUR_IreHICP;20120809;10:00;HICP (YoY);Ireland;EUR;1
+EUR_IreConsumerPriceIndex;20120809;10:00;Consumer Price Index (YoY);Ireland;EUR;1
+EUR_GreUnemploymentRate;20120809;09:00;Unemployment Rate (MoM);Greece;EUR;1
+EUR_GreIndustrialProduction;20120809;09:00;Industrial Production (YoY);Greece;EUR;1
+GBP_GoodsTradeBalance;20120809;08:30;Goods Trade Balance;United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20120809;08:30;Trade Balance non-EU;United Kingdom;GBP;1
+EUR_ItaTradeBalanceEU;20120809;08:00;Trade Balance EU;Italy;EUR;1
+EUR_ItaGlobalTradeBalance;20120809;08:00;Global Trade Balance;Italy;EUR;1
+EUR_EurECBMonthlyReport;20120809;08:00;ECB Monthly Report;European Monetary Union;EUR;3
+EUR_AusTradeBalance;20120809;08:00;Trade Balance;Austria;EUR;1
+EUR_NetConsumerPriceIndex;20120809;07:30;Consumer Price Index n.s.a (YoY);Netherlands, The;EUR;1
+EUR_SloForeignTradeBalance;20120809;07:00;Foreign Trade Balance;Slovakia;EUR;1
+CZK_ConsumerPriceIndex;20120809;07:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+EUR_SloIndustrialOutput;20120809;07:00;Industrial Output (YoY);Slovakia;EUR;1
+RON_TradeBalance;20120809;07:00;Trade Balance;Romania;RON;1
+DKK_TradeBalance;20120809;07:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20120809;07:00;Current Account;Denmark;DKK;1
+JPY_MachineToolOrders;20120809;06:00;Machine Tool Orders (YoY);Japan;JPY;2
+CNY_RetailSales;20120809;05:30;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20120809;05:30;Industrial Production (YoY);China;CNY;2
+CNY_FixedAssetInvestment;20120809;05:30;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+INR_ManufacturingOutput;20120809;05:30;Manufacturing Output;India;INR;1
+INR_IndustrialOutput;20120809;05:30;Industrial Output;India;INR;1
+INR_CumulativeIndustrialOutput;20120809;05:30;Cumulative Industrial Output;India;INR;1
+IDR_BankIndonesiaRate;20120809;05:00;Bank Indonesia Rate;Indonesia;IDR;1
+JPY_ConsumerConfidenceIndex;20120809;05:00;Consumer Confidence Index;Japan;JPY;2
+JPY_BoJMonetaryPolicyStatement;20120809;03:00;BoJ Monetary Policy Statement ;Japan;JPY;3
+JPY_BoJInterestRateDecision;20120809;03:00;BoJ Interest Rate Decision;Japan;JPY;3
+AUD_EmploymentChange;20120809;01:30;Employment Change s.a.;Australia;AUD;3
+AUD_UnemploymentRate;20120809;01:30;Unemployment Rate s.a.;Australia;AUD;3
+CNY_ConsumerPriceIndex;20120809;01:30;Consumer Price Index (YoY);China;CNY;3
+CNY_ProducerPriceIndex;20120809;01:30;Producer Price Index (YoY);China;CNY;3
+KRW_BoKInterestRateDecision;20120809;01:00;BoK Interest Rate Decision;South Korea;KRW;1
+AUD_FulltimeEmployment;20120809;00:30;Fulltime Employment;Australia;AUD;1

@@ -1,0 +1,79 @@
+MXN_FiscalBalancepesos;20190830;21:00;Fiscal Balance, pesos;Mexico;MXN;1
+COP_Interestrate;20190830;20:00;Interest rate;Colombia;COP;1
+EUR_EurCFTCEURNCNetPositions;20190830;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20190830;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCOilNCNetPositions;20190830;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20190830;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20190830;19:30;CFTC Gold NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20190830;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCUSDNCNetPositions;20190830;19:30;CFTC USD NC Net Positions;United States;USD;1
+USD_BakerHughesUSOilRigCount;20190830;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+COP_NationalJoblessRate;20190830;15:00;National Jobless Rate;Colombia;COP;1
+USD_MichiganConsumerSentimentIndex;20190830;14:00;Michigan Consumer Sentiment Index;United States;USD;2
+USD_ChicagoPurchasingManagers'Index;20190830;13:45;Chicago Purchasing Managers' Index;United States;USD;2
+BRL_PrimaryBudgetSurplus;20190830;13:30;Primary Budget Surplus;Brazil;BRL;1
+BRL_NominalBudgetBalance;20190830;13:30;Nominal Budget Balance;Brazil;BRL;1
+EUR_BelGrossDomesticProduct;20190830;13:00;Gross Domestic Product (QoQ);Belgium;EUR;1
+CLP_IndustrialProduction;20190830;13:00;Industrial Production (YoY);Chile;CLP;1
+USD_PersonalIncome;20190830;12:30;Personal Income (MoM);United States;USD;2
+USD_CorePersonalConsumptionExpenditurePriceIndex;20190830;12:30;Core Personal Consumption Expenditure - Price Index (MoM);United States;USD;2
+USD_PersonalConsumptionExpendituresPriceIndex;20190830;12:30;Personal Consumption Expenditures - Price Index (YoY);United States;USD;1
+USD_PersonalSpending;20190830;12:30;Personal Spending;United States;USD;2
+CAD_RawMaterialPriceIndex;20190830;12:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20190830;12:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_GrossDomesticProduct;20190830;12:30;Gross Domestic Product Annualized (QoQ);Canada;CAD;3
+BRL_UnemploymentRate;20190830;12:00;Unemployment Rate;Brazil;BRL;1
+INR_InfrastructureOutput;20190830;12:00;Infrastructure Output (YoY);India;INR;1
+INR_GrossDomesticProduct;20190830;12:00;Gross Domestic Product Quarterly (YoY);India;INR;1
+ZAR_TradeBalance;20190830;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+INR_BankLoanGrowth;20190830;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20190830;11:30;FX Reserves, USD;India;INR;1
+EUR_PorGrossDomesticProduct;20190830;11:00;Gross Domestic Product (QoQ);Portugal;EUR;1
+CLP_Unemploymentrate;20190830;11:00;Unemployment rate;Chile;CLP;1
+EUR_ItaGrossDomesticProduct;20190830;10:00;Gross Domestic Product (YoY);Italy;EUR;2
+INR_FederalFiscalDeficitINR;20190830;10:00;Federal Fiscal Deficit, INR;India;INR;1
+ZAR_UnemploymentRate;20190830;09:30;Unemployment Rate (%);South Africa;ZAR;1
+ZAR_UnemploymentTotal;20190830;09:30;Unemployment Total ;South Africa;ZAR;1
+ISK_GrossDomesticProduct;20190830;09:00;Gross Domestic Product (YoY);Iceland;ISK;1
+EUR_EurUnemploymentRate;20190830;09:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_EurConsumerPriceIndex;20190830;09:00;Consumer Price Index - Core (YoY);European Monetary Union;EUR;3
+EUR_ItaConsumerPriceIndex;20190830;09:00;Consumer Price Index (YoY);Italy;EUR;1
+EUR_GreRetailSales;20190830;09:00;Retail Sales (YoY);Greece;EUR;1
+EUR_GreProducerPriceIndex;20190830;09:00;Producer Price Index (YoY);Greece;EUR;1
+EUR_PorConsumerConfidence;20190830;08:30;Consumer Confidence;Portugal;EUR;1
+EUR_PorBusinessConfidence;20190830;08:30;Business Confidence;Portugal;EUR;1
+GBP_NetLendingtoIndividuals;20190830;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+HKD_RetailSales;20190830;08:30;Retail Sales;Hong Kong SAR;HKD;1
+GBP_ConsumerCredit;20190830;08:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20190830;08:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_M4MoneySupply;20190830;08:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+PLN_ConsumerPriceIndex;20190830;08:00;Consumer Price Index (YoY);Poland;PLN;1
+PLN_GrossDomesticProduct;20190830;08:00;Gross Domestic Product Qtr (YoY);Poland;PLN;1
+EUR_ItaUnemployment;20190830;08:00;Unemployment;Italy;EUR;1
+NOK_RegisteredUnemployment;20190830;08:00;Registered Unemployment s.a;Norway;NOK;1
+EUR_SpaCurrentAccount;20190830;08:00;Current Account Balance;Spain;EUR;1
+HUF_GrossWages;20190830;07:00;Gross Wages (YoY);Hungary;HUF;1
+CHF_KOFLeadingIndicator;20190830;07:00;KOF Leading Indicator;Switzerland;CHF;2
+TRY_ForeignArrivals;20190830;07:00;Foreign Arrivals;Turkey;TRY;1
+EUR_SpaRetailSales;20190830;07:00;Retail Sales (YoY);Spain;EUR;1
+CZK_GrossDomesticProduct;20190830;07:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+EUR_AusProducerPriceIndex;20190830;07:00;Producer Price Index (MoM);Austria;EUR;1
+HUF_GrossDomesticProduct;20190830;07:00;Gross Domestic Product (YoY);Hungary;HUF;1
+EUR_FraProducerPrices;20190830;06:45;Producer Prices (MoM);France;EUR;1
+EUR_FraConsumerPriceIndex;20190830;06:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraBudget;20190830;06:45;Budget;France;EUR;1
+GBP_NationwideHousingPrices;20190830;06:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;1
+EUR_GerRetailSales;20190830;06:00;Retail Sales (YoY);Germany;EUR;1
+DKK_GrossDomesticProduct;20190830;06:00;Gross Domestic Product (QoQ);Denmark;DKK;1
+NOK_RetailSales;20190830;06:00;Retail Sales ;Norway;NOK;1
+ZAR_M3MoneySupply;20190830;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+ZAR_PrivateSectorCredit;20190830;06:00;Private Sector Credit;South Africa;ZAR;1
+JPY_HousingStarts;20190830;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_ConstructionOrders;20190830;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_AnnualizedHousingStarts;20190830;05:00;Annualized Housing Starts;Japan;JPY;1
+EUR_FinGrossDomesticProduct;20190830;05:00;Gross Domestic Product Qtr Prelim (YoY);Finland;EUR;1
+AUD_HIANewHomeSales;20190830;02:00;HIA New Home Sales (MoM);Australia;AUD;2
+AUD_PrivateSectorCredit;20190830;01:30;Private Sector Credit (YoY);Australia;AUD;1
+AUD_BuildingPermits;20190830;01:30;Building Permits (YoY);Australia;AUD;1
+KRW_BoKInterestRateDecision;20190830;01:00;BoK Interest Rate Decision;South Korea;KRW;1
+TRY_VictoryDay;20190830;00:00;Victory Day ;Turkey;TRY;0

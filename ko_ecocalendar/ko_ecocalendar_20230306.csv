@@ -1,0 +1,16 @@
+NZD_ANZCommodityPrice;20230306;00:00;ANZ Commodity Price;New Zealand;NZD;1
+AUD_TDSecuritiesInflation;20230306;00:00;TD Securities Inflation (MoM);Australia;AUD;1
+SEK_CurrentAccount;20230306;07:00;Current Account (QoQ);Sweden;SEK;1
+CHF_ConsumerPriceIndex;20230306;07:30;Consumer Price Index (YoY);Switzerland;CHF;1
+HUF_RetailSales;20230306;07:30;Retail Sales (YoY);Hungary;HUF;1
+EUR_EurSentixInvestorConfidence;20230306;09:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+GBP_S&PGlobalConstructionPMI;20230306;09:30;S&P Global Construction PMI;United Kingdom;GBP;1
+EUR_EurCentralBankSpeech;20230306;10:00;ECB Lane speech;European Monetary Union;EUR;2
+EUR_EurRetailSales;20230306;10:00;Retail Sales (YoY);European Monetary Union;EUR;3
+ILS_FXReserves;20230306;11:00;FX Reserves;Israel;ILS;1
+USD_FactoryOrders;20230306;15:00;Factory Orders (MoM);United States;USD;2
+CAD_IveyPurchasingManagersIndex;20230306;15:00;Ivey Purchasing Managers Index;Canada;CAD;2
+USD_Auction;20230306;16:30;3-Month Bill Auction;United States;USD;1
+KRW_GrossDomesticProduct;20230306;23:00;Gross Domestic Product Growth (QoQ) ;South Korea;KRW;1
+JPY_LaborCashEarnings;20230306;23:30;Labor Cash Earnings (YoY);Japan;JPY;1
+JPY_JPForeignReserves;20230306;23:50;JP Foreign Reserves;Japan;JPY;1

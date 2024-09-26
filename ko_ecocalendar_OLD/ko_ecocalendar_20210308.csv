@@ -1,0 +1,30 @@
+JPY_GrossDomesticProduct;20210308;23:50;Gross Domestic Product (QoQ);Japan;JPY;3
+JPY_MoneySupplyM2+CD;20210308;23:50;Money Supply M2+CD (YoY);Japan;JPY;1
+JPY_LaborCashEarnings;20210308;23:30;Labor Cash Earnings (YoY);Japan;JPY;1
+JPY_OverallHouseholdSpending;20210308;23:30;Overall Household Spending (YoY);Japan;JPY;2
+KRW_CurrentAccount;20210308;23:00;Current Account Balance;South Korea;KRW;1
+NZD_ManufacturingSales;20210308;21:45;Manufacturing Sales;New Zealand;NZD;1
+USD_Auction;20210308;16:30;3-Month Bill Auction;United States;USD;1
+USD_WholesaleInventories;20210308;15:00;Wholesale Inventories;United States;USD;1
+CAD_HousingStarts;20210308;13:15;Housing Starts s.a (YoY);Canada;CAD;1
+MXN_ConsumerConfidence;20210308;12:00;Consumer Confidence s.a;Mexico;MXN;1
+CLP_ConsumerPriceIndex;20210308;12:00;Core Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+CLP_TradeBalance;20210308;11:30;Trade Balance;Chile;CLP;1
+ILS_M1MoneySupply;20210308;11:00;M1 Money Supply (MoM);Israel;ILS;1
+ILS_BudgetBalanceILS;20210308;11:00;Budget Balance - ILS;Israel;ILS;1
+ILS_FXReserves;20210308;11:00;FX Reserves;Israel;ILS;1
+SGD_ForeignReserves;20210308;10:00;Foreign Reserves (MoM);Singapore;SGD;1
+GBP_CentralBankSpeech;20210308;10:00;BoE Governor Bailey speech;United Kingdom;GBP;3
+HUF_BudgetBalance;20210308;10:00;Budget Balance;Hungary;HUF;1
+ZAR_BusinessConfidenceIndex;20210308;09:30;Business Confidence Index;South Africa;ZAR;1
+EUR_EurSentixInvestorConfidence;20210308;09:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+EUR_SpaIndustrialOutputCalAdjusted;20210308;08:00;Industrial Output Cal Adjusted (YoY);Spain;EUR;1
+EUR_AusTradeBalance;20210308;08:00;Trade Balance;Austria;EUR;1
+EUR_GerIndustrialProduction;20210308;07:00;Industrial Production n.s.a. w.d.a. (YoY);Germany;EUR;1
+DKK_IndustrialProduction;20210308;07:00;Industrial Production (MoM);Denmark;DKK;1
+NOK_ManufacturingOutput;20210308;07:00;Manufacturing Output;Norway;NOK;1
+CHF_UnemploymentRate;20210308;06:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+JPY_EcoWatchersSurvey:Outlook;20210308;06:00;Eco Watchers Survey: Outlook;Japan;JPY;1
+JPY_EcoWatchersSurvey:Current;20210308;06:00;Eco Watchers Survey: Current;Japan;JPY;1
+JPY_LeadingEconomicIndex;20210308;05:00;Leading Economic Index;Japan;JPY;2
+JPY_CoincidentIndex;20210308;05:00;Coincident Index;Japan;JPY;1

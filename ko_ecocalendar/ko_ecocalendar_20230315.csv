@@ -1,0 +1,43 @@
+CNY_RetailSales;20230315;02:00;Retail Sales (YoY);China;CNY;3
+CNY_IndustrialProduction;20230315;02:00;Industrial Production (YoY);China;CNY;2
+CNY_FixedAssetInvestment;20230315;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+KRW_TradeBalance;20230315;02:00;Trade Balance;South Korea;KRW;1
+KRW_MoneySupplyGrowth;20230315;03:00;Money Supply Growth;South Korea;KRW;1
+IDR_Exports;20230315;04:00;Exports;Indonesia;IDR;1
+IDR_TradeBalance;20230315;04:00;Trade Balance;Indonesia;IDR;1
+IDR_Imports;20230315;04:00;Imports;Indonesia;IDR;1
+NOK_TradeBalance;20230315;07:00;Trade Balance;Norway;NOK;1
+EUR_GerWholesalePriceIndex;20230315;07:00;Wholesale Price Index (YoY);Germany;EUR;1
+SEK_ConsumerPriceIndex;20230315;07:00;Consumer Price Index (MoM);Sweden;SEK;1
+EUR_FraConsumerPriceIndex;20230315;07:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraInflationextobacco;20230315;07:45;Inflation ex-tobacco (MoM);France;EUR;1
+CZK_ProducerPriceIndex;20230315;08:00;Producer Price Index (YoY);Czech Republic;CZK;1
+TRY_BudgetBalance;20230315;08:00;Budget Balance;Turkey;TRY;1
+PLN_ConsumerPriceIndex;20230315;09:00;Consumer Price Index (YoY);Poland;PLN;1
+INR_TradeDeficitGovernment;20230315;09:20;Trade Deficit Government;India;INR;1
+EUR_EurIndustrialProduction;20230315;10:00;Industrial Production s.a. (MoM);European Monetary Union;EUR;2
+EUR_GerAuction;20230315;10:30;30-y Bond Auction;Germany;EUR;1
+USD_MBAMortgageApplications;20230315;11:00;MBA Mortgage Applications;United States;USD;1
+ZAR_RetailSales;20230315;11:00;Retail Sales (YoY);South Africa;ZAR;1
+EUR_GerCurrentAccount;20230315;12:00;Current Account n.s.a.;Germany;EUR;1
+CAD_HousingStarts;20230315;12:15;Housing Starts s.a (YoY);Canada;CAD;1
+USD_NYEmpireStateManufacturingIndex;20230315;12:30;NY Empire State Manufacturing Index;United States;USD;1
+USD_RetailSales;20230315;12:30;Retail Sales ex Autos (MoM);United States;USD;2
+USD_ProducerPriceIndex;20230315;12:30;Producer Price Index ex Food & Energy (YoY);United States;USD;2
+GBP_BudgetReport;20230315;12:30;Budget Report;United Kingdom;GBP;2
+USD_BusinessInventories;20230315;14:00;Business Inventories;United States;USD;1
+USD_NAHBHousingMarketIndex;20230315;14:00;NAHB Housing Market Index;United States;USD;1
+USD_EIACrudeOilStocksChange;20230315;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+COP_RetailSales;20230315;15:00;Retail Sales (YoY);Colombia;COP;1
+COP_Industrialoutput;20230315;15:00;Industrial output (YoY);Colombia;COP;1
+ILS_ConsumerPriceIndex;20230315;16:30;Consumer Price Index (YoY);Israel;ILS;1
+USD_TotalNetTICFlows;20230315;20:00;Total Net TIC Flows;United States;USD;1
+USD_NetLongTermTICFlows;20230315;20:00;Net Long-Term TIC Flows;United States;USD;1
+NZD_GrossDomesticProduct;20230315;21:45;Gross Domestic Product (QoQ);New Zealand;NZD;3
+JPY_AdjustedMerchandiseTradeBalance;20230315;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_Imports;20230315;23:50;Imports (YoY);Japan;JPY;2
+JPY_MerchandiseTradeBalanceTotal;20230315;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Exports;20230315;23:50;Exports (YoY);Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20230315;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20230315;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_MachineryOrders;20230315;23:50;Machinery Orders (MoM);Japan;JPY;1

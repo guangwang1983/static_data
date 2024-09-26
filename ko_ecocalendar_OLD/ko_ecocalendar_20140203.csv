@@ -1,0 +1,52 @@
+JPY_MonetaryBase;20140203;23:50;Monetary Base (YoY);Japan;JPY;1
+KRW_ConsumerPriceIndex;20140203;23:00;Consumer Price Index Growth (MoM);South Korea;KRW;1
+USD_TotalVehicleSales;20140203;22:00;Total Vehicle Sales;United States;USD;1
+BRL_TradeBalance;20140203;17:00;Trade Balance;Brazil;BRL;1
+USD_Auction;20140203;16:30;6-Month Bill Auction;United States;USD;1
+USD_LoanOfficerSurvey;20140203;15:00;Loan Officer Survey;United States;USD;1
+USD_ISMManufacturingPMI;20140203;15:00;ISM Manufacturing PMI;United States;USD;2
+USD_ISMPricesPaid;20140203;15:00;ISM Prices Paid;United States;USD;2
+USD_ConstructionSpending;20140203;15:00;Construction Spending (MoM);United States;USD;2
+USD_CentralBankSpeech;20140203;14:00;Treasury Sec Lew speech;United States;USD;2
+USD_MarkitManufacturingPMI;20140203;13:58;Markit Manufacturing PMI;United States;USD;2
+CAD_RawMaterialPriceIndex;20140203;13:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20140203;13:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_MarkitManufacturingPMI;20140203;13:30;Markit Manufacturing PMI;Canada;CAD;2
+CZK_BudgetBalance;20140203;13:00;Budget Balance;Czech Republic;CZK;1
+BRL_HSBCPMIManufacturing;20140203;12:00;HSBC PMI Manufacturing;Brazil;BRL;1
+ZAR_TotalNewVehicleSales;20140203;11:00;Total New Vehicle Sales;South Africa;ZAR;1
+EUR_AusUnemployment;20140203;11:00;Unemployment;Austria;EUR;1
+EUR_AusUnemploymentRate;20140203;11:00;Unemployment Rate;Austria;EUR;1
+GBP_MarkitManufacturingPMI;20140203;09:28;Markit Manufacturing PMI;United Kingdom;GBP;2
+ZAR_PurchasingManagerIndex;20140203;09:00;Purchasing Manager Index;South Africa;ZAR;1
+EUR_GreMarkitManufacturingPMI;20140203;08:58;Markit Manufacturing PMI;Greece;EUR;1
+EUR_EurMarkitManufacturingPMI;20140203;08:58;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_GerMarkitManufacturingPMI;20140203;08:53;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20140203;08:48;Markit Manufacturing PMI;France;EUR;1
+EUR_ItaMarkitManufacturingPMI;20140203;08:43;Markit Manufacturing PMI;Italy;EUR;1
+CHF_SVMEPurchasingManagers'Index;20140203;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;2
+CZK_MarkitPMI;20140203;08:30;Markit PMI;Czech Republic;CZK;1
+EUR_SpaMarkitManufacturingPMI;20140203;08:13;Markit Manufacturing PMI;Spain;EUR;1
+TRY_ProducerPriceIndex;20140203;08:00;Producer Price Index (YoY);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20140203;08:00;Consumer Price Index (MoM);Turkey;TRY;1
+HUF_PurchasingManagerIndex;20140203;08:00;Purchasing Manager Index;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20140203;08:00;Purchasing Manager Index;Poland;PLN;1
+SEK_PurchasingManagersIndexManufacturing;20140203;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+KRW_TradeBalance;20140203;07:15;Trade Balance;South Korea;KRW;1
+EUR_IrePurchasingManagerIndexManufacturing;20140203;05:58;Purchasing Manager Index Manufacturing;Ireland;EUR;1
+AUD_RBACommodityIndexSDR;20140203;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+JPY_VehicleSales;20140203;05:00;Vehicle Sales (YoY);Japan;JPY;1
+RUB_HSBCManufacturingPMI;20140203;05:00;HSBC Manufacturing PMI	;Russia;RUB;1
+IDR_Inflation;20140203;04:00;Inflation (YoY);Indonesia;IDR;1
+IDR_TradeBalance;20140203;03:00;Trade Balance;Indonesia;IDR;1
+IDR_Exports;20140203;03:00;Exports;Indonesia;IDR;1
+IDR_Imports;20140203;03:00;Imports;Indonesia;IDR;1
+IDR_CoreInflation;20140203;03:00;Core Inflation (YoY);Indonesia;IDR;1
+CNY_NonManufacturingPMI;20140203;01:00;Non-Manufacturing PMI;China;CNY;2
+AUD_ANZJobAdvertisements;20140203;00:30;ANZ Job Advertisements;Australia;AUD;1
+AUD_BuildingPermits;20140203;00:30;Building Permits (MoM);Australia;AUD;1
+GBP_HometrackHousingPrices;20140203;00:01;Hometrack Housing Prices s.a (MoM);United Kingdom;GBP;1
+HKD_LunarNewYear;20140203;00:00;Lunar New Year;Hong Kong SAR;HKD;0
+CNY_ChineseNewYear;20140203;00:00;Chinese New Year;China;CNY;0
+KRW_NikkeiMarkitManufacturingPMI;20140203;00:00;Nikkei Markit Manufacturing PMI;South Korea;KRW;1
+MXN_ConstitutionDay;20140203;00:00;Constitution Day;Mexico;MXN;0

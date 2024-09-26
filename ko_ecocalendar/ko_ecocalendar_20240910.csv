@@ -1,0 +1,41 @@
+AUD_WestpacConsumerConfidence;20240910;00:30;Westpac Consumer Confidence;Australia;AUD;2
+AUD_NationalAustraliaBankBusinessConditions;20240910;01:30;National Australia Bank Business Conditions;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConfidence;20240910;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+CNY_Exports;20240910;03:00;Exports (YoY);China;CNY;2
+CNY_Imports;20240910;03:00;Imports (YoY);China;CNY;2
+CNY_TradeBalanceCNY;20240910;03:00;Trade Balance CNY;China;CNY;2
+CNY_TradeBalanceUSD;20240910;03:00;Trade Balance USD;China;CNY;2
+IDR_RetailSales;20240910;04:00;Retail Sales (YoY);Indonesia;IDR;1
+EUR_GerConsumerPriceIndex;20240910;06:00;Consumer Price Index (YoY);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20240910;06:00;Harmonized Index of Consumer Prices (MoM);Germany;EUR;2
+DKK_ConsumerPriceIndex;20240910;06:00;Consumer Price Index (YoY);Denmark;DKK;1
+DKK_Inflation;20240910;06:00;Inflation (HICP) (YoY);Denmark;DKK;1
+GBP_EmploymentChange;20240910;06:00;Employment Change (3M);United Kingdom;GBP;3
+GBP_ILOUnemploymentRate;20240910;06:00;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_AverageEarningsIncludingBonus;20240910;06:00;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_AverageEarningsExcludingBonus;20240910;06:00;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountChange;20240910;06:00;Claimant Count Change;United Kingdom;GBP;3
+GBP_ClaimantCountRate;20240910;06:00;Claimant Count Rate;United Kingdom;GBP;2
+JPY_MachineToolOrders;20240910;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+NOK_CoreInflation;20240910;06:00;Core Inflation (MoM);Norway;NOK;1
+NOK_ConsumerPriceIndex;20240910;06:00;Consumer Price Index (YoY);Norway;NOK;1
+NOK_ProducerPriceIndex;20240910;06:00;Producer Price Index (YoY);Norway;NOK;1
+SEK_IndustrialProductionValue;20240910;06:00;Industrial Production Value (MoM);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20240910;06:00;New Orders Manufacturing (YoY);Sweden;SEK;1
+HUF_ConsumerPriceIndex;20240910;06:30;Core Consumer Price Index (YoY);Hungary;HUF;1
+TRY_UnemploymentRate;20240910;07:00;Unemployment Rate;Turkey;TRY;1
+TRY_IndustrialProduction;20240910;07:00;Industrial Production (YoY);Turkey;TRY;1
+CZK_ConsumerPriceIndex;20240910;07:00;Consumer Price Index (MoM);Czech Republic;CZK;1
+EUR_ItaIndustrialOutput;20240910;08:00;Industrial Output w.d.a (YoY);Italy;EUR;1
+CNY_FDIForeignDirectInvestment;20240910;09:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;1
+USD_NFIBBusinessOptimismIndex;20240910;10:00;NFIB Business Optimism Index;United States;USD;1
+ZAR_ManufacturingProductionIndex;20240910;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+USD_OPECMonthlyMarketReport;20240910;12:00;OPEC Monthly Market Report;United States;USD;1
+BRL_IPCAInflation;20240910;12:00;IPCA Inflation;Brazil;BRL;1
+CAD_CentralBankSpeech;20240910;12:25;BoC Governor Macklem speech;Canada;CAD;3
+USD_RedbookIndex;20240910;12:55;Redbook Index (YoY);United States;USD;1
+USD_CentralBankSpeech;20240910;14:00;Fed Barr speech;United States;USD;1
+USD_Auction;20240910;17:00;3-Year Note Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20240910;20:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_VisitorArrivals;20240910;22:45;Visitor Arrivals (YoY);New Zealand;NZD;1
+KRW_UnemploymentRate;20240910;23:00;Unemployment Rate;South Korea;KRW;1

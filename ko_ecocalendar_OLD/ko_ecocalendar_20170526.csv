@@ -1,0 +1,25 @@
+COP_Interestrate;20170526;20:00;Interest rate;Colombia;COP;1
+AUD_CFTCAUDNCNetPositions;20170526;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+JPY_CFTCJPYNCNetPositions;20170526;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCGoldNCNetPositions;20170526;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCUSDNCNetPositions;20170526;19:30;CFTC USD NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20170526;19:30;CFTC Oil NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20170526;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+GBP_CFTCGBPNCNetPositions;20170526;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_BakerHughesUSOilRigCount;20170526;17:00;Baker Hughes US Oil Rig Count;United States;USD;2
+BRL_PrimaryBudgetSurplus;20170526;14:30;Primary Budget Surplus;Brazil;BRL;1
+BRL_NominalBudgetBalance;20170526;14:30;Nominal Budget Balance;Brazil;BRL;1
+USD_MichiganConsumerSentimentIndex;20170526;14:00;Michigan Consumer Sentiment Index;United States;USD;1
+MXN_JoblessRate;20170526;13:00;Jobless Rate s.a;Mexico;MXN;1
+USD_GrossDomesticProduct;20170526;12:30;Gross Domestic Product Annualized;United States;USD;3
+USD_CorePersonalConsumptionExpenditures;20170526;12:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+USD_PersonalConsumptionExpendituresPrices;20170526;12:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+USD_DurableGoodsOrders;20170526;12:30;Durable Goods Orders ex Transportation;United States;USD;3
+INR_BankLoanGrowth;20170526;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20170526;11:30;FX Reserves, USD;India;INR;1
+EUR_ItaBusinessConfidence;20170526;08:00;Business Confidence;Italy;EUR;1
+EUR_ItaConsumerConfidence;20170526;08:00;Consumer Confidence;Italy;EUR;1
+HUF_UnemploymentRate;20170526;07:00;Unemployment Rate (3M);Hungary;HUF;1
+TRY_Economicconfidenceindex;20170526;07:00;Economic confidence index;Turkey;TRY;0
+USD_CentralBankSpeech;20170526;02:45;Fed Bullard speech;United States;USD;1
+EUR_EurG7Meeting;20170526;00:00;G7 Meeting;European Monetary Union;EUR;3

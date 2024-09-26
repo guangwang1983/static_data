@@ -1,0 +1,54 @@
+KRW_TradeBalance;20191001;00:00;Trade Balance;South Korea;KRW;1
+KRW_S&PGlobalManufacturingPMI;20191001;00:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+JPY_JibunBankManufacturingPMI;20191001;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+AUD_BuildingPermits;20191001;01:30;Building Permits (YoY);Australia;AUD;1
+JPY_Auction;20191001;03:35;10-y Bond Auction;Japan;JPY;1
+IDR_CoreInflation;20191001;04:00;Core Inflation (YoY);Indonesia;IDR;1
+IDR_Inflation;20191001;04:00;Inflation (YoY);Indonesia;IDR;1
+AUD_RBARateStatement;20191001;04:30;RBA Rate Statement;Australia;AUD;3
+AUD_RBAInterestRateDecision;20191001;04:30;RBA Interest Rate Decision;Australia;AUD;3
+JPY_VehicleSales;20191001;05:00;Vehicle Sales (YoY);Japan;JPY;1
+GBP_NationwideHousingPrices;20191001;06:00;Nationwide Housing Prices s.a (MoM);United Kingdom;GBP;1
+RUB_S&PGlobalManufacturingPMI;20191001;06:00;S&P Global Manufacturing PMI;Russia;RUB;1
+CHF_RetailSales;20191001;06:30;Real Retail Sales (YoY);Switzerland;CHF;2
+AUD_RBACommodityIndexSDR;20191001;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+SEK_PurchasingManagersIndexManufacturing;20191001;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+HUF_PurchasingManagerIndex;20191001;07:00;Purchasing Manager Index;Hungary;HUF;1
+CZK_GrossDomesticProduct;20191001;07:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+PLN_PurchasingManagerIndex;20191001;07:00;Purchasing Manager Index;Poland;PLN;2
+CHF_SVMEPurchasingManagers'Index;20191001;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_S&PGlobalPMI;20191001;07:30;S&P Global PMI;Czech Republic;CZK;1
+EUR_ItaHCOBManufacturingPMI;20191001;07:45;HCOB Manufacturing PMI;Italy;EUR;1
+EUR_FraHCOBManufacturingPMI;20191001;07:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerHCOBManufacturingPMI;20191001;07:55;HCOB Manufacturing PMI;Germany;EUR;2
+PLN_ConsumerPriceIndex;20191001;08:00;Consumer Price Index (MoM);Poland;PLN;1
+TRY_Exports;20191001;08:00;Exports;Turkey;TRY;1
+EUR_EurHCOBManufacturingPMI;20191001;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;1
+GBP_S&PGlobalCIPSManufacturingPMI;20191001;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20191001;09:00;Core Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_EurHarmonizedIndexofConsumerPrices;20191001;09:00;Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+DKK_ManufacturingPMI;20191001;09:00;Manufacturing PMI;Denmark;DKK;1
+AUD_CentralBankSpeech;20191001;09:20;RBA Governor Lowe speech;Australia;AUD;3
+CLP_IMACEC;20191001;11:30;IMACEC;Chile;CLP;1
+ZAR_TotalNewVehicleSales;20191001;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+BRL_IndustrialOutput;20191001;12:00;Industrial Output (MoM);Brazil;BRL;1
+CZK_BudgetBalance;20191001;12:00;Budget Balance;Czech Republic;CZK;1
+CAD_GrossDomesticProduct;20191001;12:30;Gross Domestic Product (MoM);Canada;CAD;2
+USD_RedbookIndex;20191001;12:55;Redbook Index (YoY);United States;USD;1
+BRL_S&PGlobalManufacturingPMI;20191001;13:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+CAD_S&PGlobalManufacturingPMI;20191001;13:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_CentralBankSpeech;20191001;13:30;Fed Bowman speech;United States;USD;2
+USD_S&PGlobalManufacturingPMI;20191001;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_ISMManufacturingNewOrdersIndex;20191001;14:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ISMManufacturingEmploymentIndex;20191001;14:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ISMManufacturingPMI;20191001;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20191001;14:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ConstructionSpending;20191001;14:00;Construction Spending (MoM);United States;USD;1
+NZD_GDTPriceIndex;20191001;14:30;GDT Price Index;New Zealand;NZD;2
+CNY_NationalDay;20191001;16:00;National Day;China;CNY;0
+EUR_EurCentralBankSpeech;20191001;16:45;ECB President Draghi speech;European Monetary Union;EUR;3
+EUR_GerCentralBankSpeech;20191001;17:30;German Buba President Weidmann speech;Germany;EUR;2
+BRL_TradeBalance;20191001;19:00;Trade Balance;Brazil;BRL;1
+USD_APIWeeklyCrudeOilStock;20191001;20:30;API Weekly Crude Oil Stock;United States;USD;1
+GBP_BRCShopPriceIndex;20191001;23:00;BRC Shop Price Index (YoY);United Kingdom;GBP;1
+JPY_MonetaryBase;20191001;23:50;Monetary Base (YoY);Japan;JPY;1

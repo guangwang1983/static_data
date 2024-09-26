@@ -1,0 +1,37 @@
+JPY_IndustrialProduction;20200612;04:30;Industrial Production (YoY);Japan;JPY;2
+JPY_CapacityUtilization;20200612;04:30;Capacity Utilization;Japan;JPY;1
+RON_IndustrialProduction;20200612;06:00;Industrial Production (MoM);Romania;RON;1
+GBP_IndustrialProduction;20200612;06:00;Industrial Production (MoM);United Kingdom;GBP;3
+GBP_ManufacturingProduction;20200612;06:00;Manufacturing Production (MoM);United Kingdom;GBP;2
+RON_ConsumerPriceIndex;20200612;06:00;Consumer Price Index;Romania;RON;1
+GBP_IndexofServices;20200612;06:00;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20200612;06:00;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20200612;06:00;Total Trade Balance;United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20200612;06:00;Goods Trade Balance;United Kingdom;GBP;1
+GBP_GrossDomesticProduct;20200612;06:00;Gross Domestic Product (MoM);United Kingdom;GBP;3
+EUR_FraConsumerPriceIndex;20200612;06:45;Consumer Price Index (EU norm) (YoY);France;EUR;1
+EUR_FraInflationextobacco;20200612;06:45;Inflation ex-tobacco (MoM);France;EUR;1
+HUF_IndustrialOutput;20200612;07:00;Industrial Output (YoY);Hungary;HUF;1
+TRY_IndustrialProduction;20200612;07:00;Industrial Production (YoY);Turkey;TRY;1
+TRY_CurrentAccount;20200612;07:00;Current Account Balance;Turkey;TRY;1
+GBP_ConsumerInflationExpectations;20200612;08:30;Consumer Inflation Expectations;United Kingdom;GBP;1
+EUR_EurIndustrialProduction;20200612;09:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;1
+INR_FXReservesUSD;20200612;11:30;FX Reserves, USD;India;INR;1
+GBP_NIESRGDPEstimate;20200612;12:00;NIESR GDP Estimate (3M);United Kingdom;GBP;1
+USD_ImportPriceIndex;20200612;12:30;Import Price Index (MoM);United States;USD;1
+USD_ExportPriceIndex;20200612;12:30;Export Price Index (YoY);United States;USD;1
+CAD_CapacityUtilization;20200612;12:30;Capacity Utilization;Canada;CAD;1
+USD_UoM5yearConsumerInflationExpectation;20200612;14:00;UoM 5-year Consumer Inflation Expectation;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20200612;14:00;Michigan Consumer Sentiment Index;United States;USD;3
+COP_RetailSales;20200612;15:00;Retail Sales (YoY);Colombia;COP;1
+USD_FedMonetaryPolicyReport;20200612;15:00;Fed Monetary Policy Report;United States;USD;2
+COP_Industrialoutput;20200612;15:00;Industrial output (YoY);Colombia;COP;1
+USD_BakerHughesUSOilRigCount;20200612;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CentralBankSpeech;20200612;17:00;Fed Barkin speech;United States;USD;1
+USD_CFTCOilNCNetPositions;20200612;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20200612;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20200612;19:30;CFTC Gold NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20200612;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCS&P500NCNetPositions;20200612;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+AUD_CFTCAUDNCNetPositions;20200612;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20200612;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1

@@ -1,0 +1,42 @@
+JPY_TokyoCPIexFreshFood;20190425;23:50;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;3
+JPY_TokyoCPIexFoodEnergy;20190425;23:50;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;1
+JPY_ConsumerPriceIndex;20190425;23:50;Tokyo Consumer Price Index (YoY);Japan;JPY;2
+JPY_IndustrialProduction;20190425;23:50;Industrial Production (YoY);Japan;JPY;2
+JPY_RetailTrade;20190425;23:50;Retail Trade (YoY);Japan;JPY;2
+JPY_JobsApplicantsRatio;20190425;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+JPY_UnemploymentRate;20190425;23:30;Unemployment Rate;Japan;JPY;2
+NZD_TradeBalance;20190425;22:45;Trade Balance (YoY);New Zealand;NZD;2
+NZD_Exports;20190425;22:45;Exports;New Zealand;NZD;2
+NZD_Imports;20190425;22:45;Imports;New Zealand;NZD;2
+KRW_ConsumerSentimentIndex;20190425;21:00;Consumer Sentiment Index;South Korea;KRW;1
+USD_Auction;20190425;15:30;4-Week Bill Auction;United States;USD;1
+USD_KansasFedManufacturingActivity;20190425;15:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_EIANaturalGasStorageChange;20190425;14:30;EIA Natural Gas Storage Change;United States;USD;1
+BRL_CurrentAccount;20190425;13:30;Current Account;Brazil;BRL;1
+MXN_RetailSales;20190425;13:00;Retail Sales (YoY);Mexico;MXN;1
+RUB_CentralBankReserves;20190425;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_JoblessClaims;20190425;12:30;Continuing Jobless Claims;United States;USD;2
+EUR_EurCentralBankSpeech;20190425;12:30;ECB De Guindos speech;European Monetary Union;EUR;2
+USD_DurableGoodsOrders;20190425;12:30;Durable Goods Orders ex Defense;United States;USD;2
+USD_NondefenseCapitalGoodsOrdersexAircraft;20190425;12:30;Nondefense Capital Goods Orders ex Aircraft;United States;USD;3
+BRL_MidmonthInflation;20190425;12:00;Mid-month Inflation;Brazil;BRL;1
+TRY_CBRTInterestRateDecision;20190425;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+GBP_CBIDistributiveTradesSurveyRealized;20190425;10:00;CBI Distributive Trades Survey - Realized (MoM);United Kingdom;GBP;1
+ZAR_ProducerPriceIndex;20190425;09:30;Producer Price Index (YoY);South Africa;ZAR;1
+EUR_GreRetailSales;20190425;09:00;Retail Sales (YoY);Greece;EUR;1
+EUR_GreProducerPriceIndex;20190425;09:00;Producer Price Index (YoY);Greece;EUR;1
+EUR_EurEconomicBulletin;20190425;08:00;Economic Bulletin;European Monetary Union;EUR;2
+SEK_RiksbankInterestRateDecision;20190425;07:30;Riksbank Interest Rate Decision;Sweden;SEK;1
+IDR_BankIndonesiaRate;20190425;07:30;Bank Indonesia Rate;Indonesia;IDR;1
+EUR_SpaUnemploymentSurvey;20190425;07:00;Unemployment Survey;Spain;EUR;1
+SEK_ConsumerConfidence;20190425;07:00;Consumer Confidence (MoM);Sweden;SEK;1
+EUR_AusIndustrialProduction;20190425;07:00;Industrial Production (YoY);Austria;EUR;1
+JPY_BoJPressConference;20190425;06:00;BoJ Press Conference;Japan;JPY;3
+DKK_RetailSales;20190425;06:00;Retail Sales (YoY);Denmark;DKK;1
+JPY_BoJMonetaryPolicyStatement;20190425;03:00;BoJ Monetary Policy Statement ;Japan;JPY;3
+JPY_BoJInterestRateDecision;20190425;03:00;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_BoJOutlookReport;20190425;03:00;BoJ Outlook Report;Japan;JPY;2
+NZD_ANZACDay;20190425;00:00;ANZAC Day;New Zealand;NZD;0
+AUD_ANZACDay;20190425;00:00;ANZAC Day;Australia;AUD;0
+EUR_PorFreedomDay;20190425;00:00;Freedom Day;Portugal;EUR;0
+EUR_ItaLiberationDay;20190425;00:00;Liberation Day;Italy;EUR;0

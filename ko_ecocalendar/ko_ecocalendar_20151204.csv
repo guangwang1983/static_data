@@ -1,0 +1,31 @@
+NZD_ANZCommodityPrice;20151204;00:00;ANZ Commodity Price;New Zealand;NZD;1
+AUD_RetailSales;20151204;00:30;Retail Sales s.a. (MoM);Australia;AUD;2
+JPY_LaborCashEarnings;20151204;01:30;Labor Cash Earnings (YoY);Japan;JPY;1
+JPY_ConsumerConfidenceIndex;20151204;05:00;Consumer Confidence Index;Japan;JPY;1
+JPY_CentralBankSpeech;20151204;06:30;BoJ Kiuchi speech;Japan;JPY;1
+EUR_GerFactoryOrders;20151204;07:00;Factory Orders s.a. (MoM);Germany;EUR;1
+CZK_RetailSales;20151204;08:00;Retail Sales (YoY);Czech Republic;CZK;1
+HUF_GrossDomesticProduct;20151204;08:00;Gross Domestic Product (YoY);Hungary;HUF;1
+CHF_ConsumerPriceIndex;20151204;08:15;Consumer Price Index (MoM);Switzerland;CHF;1
+SEK_IndustrialProductionValue;20151204;08:30;Industrial Production Value (YoY);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20151204;08:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+RUB_CentralBankReserves;20151204;11:00;Central Bank Reserves $;Russia;RUB;1
+INR_FXReservesUSD;20151204;11:30;FX Reserves, USD;India;INR;1
+USD_OPECMeeting;20151204;12:00;OPEC Meeting;United States;USD;1
+CAD_LaborProductivity;20151204;13:30;Labor Productivity (QoQ);Canada;CAD;1
+USD_AverageHourlyEarnings;20151204;13:30;Average Hourly Earnings (MoM);United States;USD;1
+USD_UnemploymentRate;20151204;13:30;Unemployment Rate;United States;USD;3
+USD_LaborForceParticipationRate;20151204;13:30;Labor Force Participation Rate;United States;USD;2
+USD_NonfarmPayrolls;20151204;13:30;Nonfarm Payrolls;United States;USD;3
+USD_AverageWeeklyHours;20151204;13:30;Average Weekly Hours;United States;USD;2
+USD_GoodsandServicesTradeBalance;20151204;13:30;Goods and Services Trade Balance;United States;USD;2
+CAD_Imports;20151204;13:30;Imports;Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20151204;13:30;International Merchandise Trade;Canada;CAD;1
+CAD_Exports;20151204;13:30;Exports;Canada;CAD;1
+CAD_ParticipationRate;20151204;13:30;Participation Rate;Canada;CAD;1
+CAD_UnemploymentRate;20151204;13:30;Unemployment Rate;Canada;CAD;3
+CAD_NetChangeinEmployment;20151204;13:30;Net Change in Employment;Canada;CAD;3
+MXN_ConsumerConfidence;20151204;14:00;Consumer Confidence;Mexico;MXN;1
+CAD_IveyPurchasingManagersIndex;20151204;15:00;Ivey Purchasing Managers Index s.a;Canada;CAD;2
+USD_BakerHughesUSOilRigCount;20151204;19:00;Baker Hughes US Oil Rig Count;United States;USD;2
+USD_CentralBankSpeech;20151204;21:00;Fed Minneapolis Kocherlakota speech;United States;USD;1

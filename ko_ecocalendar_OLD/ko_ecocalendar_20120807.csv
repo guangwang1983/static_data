@@ -1,0 +1,35 @@
+JPY_BankLending;20120807;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_CurrentAccount;20120807;23:50;Current Account n.s.a.;Japan;JPY;2
+JPY_TradeBalanceBOPBasis;20120807;23:50;Trade Balance - BOP Basis;Japan;JPY;2
+USD_ConsumerCreditChange;20120807;19:00;Consumer Credit Change;United States;USD;2
+USD_CentralBankSpeech;20120807;18:30;Former Fed Chair Bernanke speech;United States;USD;1
+USD_Auction;20120807;15:30;4-Week Bill Auction;United States;USD;1
+GBP_NIESRGDPEstimate;20120807;14:00;NIESR GDP Estimate (3M);United Kingdom;GBP;3
+CAD_IveyPurchasingManagersIndex;20120807;14:00;Ivey Purchasing Managers Index s.a;Canada;CAD;1
+HUF_BudgetBalance;20120807;14:00;Budget Balance;Hungary;HUF;1
+USD_RedbookIndex;20120807;12:55;Redbook Index (YoY);United States;USD;1
+CAD_BuildingPermits;20120807;12:30;Building Permits (MoM);Canada;CAD;1
+CLP_TradeBalance;20120807;12:30;Trade Balance;Chile;CLP;1
+PLN_CentralBankFXReserves;20120807;12:00;Central Bank FX Reserves;Poland;PLN;1
+EUR_GerFactoryOrders;20120807;10:00;Factory Orders s.a. (MoM);Germany;EUR;2
+ZAR_BusinessConfidenceIndex;20120807;09:30;Business Confidence Index;South Africa;ZAR;1
+EUR_ItaGrossDomesticProduct;20120807;09:00;Gross Domestic Product (QoQ);Italy;EUR;1
+ISK_TradeBalance;20120807;09:00;Trade Balance;Iceland;ISK;1
+NOK_ManufacturingOutput;20120807;09:00;Manufacturing Output;Norway;NOK;1
+GBP_ManufacturingProduction;20120807;08:30;Manufacturing Production (MoM);United Kingdom;GBP;1
+GBP_IndustrialProduction;20120807;08:30;Industrial Production (YoY);United Kingdom;GBP;2
+EUR_ItaIndustrialOutput;20120807;08:00;Industrial Output w.d.a (YoY);Italy;EUR;1
+CZK_FXReserves;20120807;08:00;FX Reserves;Czech Republic;CZK;1
+EUR_AusWholesalePrices;20120807;07:30;Wholesale Prices n.s.a (MoM);Austria;EUR;1
+EUR_NetManufacturingOutput;20120807;07:30;Manufacturing Output (MoM);Netherlands, The;EUR;1
+CHF_ConsumerPriceIndex;20120807;07:15;Consumer Price Index (YoY);Switzerland;CHF;2
+HUF_IndustrialOutput;20120807;07:00;Industrial Output (YoY);Hungary;HUF;1
+SGD_ForeignReserves;20120807;07:00;Foreign Reserves (MoM);Singapore;SGD;1
+CHF_ForeignCurrencyReserves;20120807;07:00;Foreign Currency Reserves;Switzerland;CHF;1
+EUR_FinTradeBalance;20120807;06:00;Trade Balance;Finland;EUR;1
+ZAR_Net$Gold&ForexReserve;20120807;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+ZAR_Gross$Gold&ForexReserve;20120807;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+CHF_UnemploymentRate;20120807;05:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+AUD_RBARateStatement;20120807;04:30;RBA Rate Statement;Australia;AUD;3
+AUD_RBAInterestRateDecision;20120807;04:30;RBA Interest Rate Decision;Australia;AUD;3
+COP_BattleofBoyacaholiday;20120807;00:00;Battle of Boyaca holiday;Colombia;COP;0

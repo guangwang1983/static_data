@@ -1,0 +1,32 @@
+AUD_HomeLoans;20240708;01:30;Home Loans;Australia;AUD;1
+AUD_InvestmentLendingforHomes;20240708;01:30;Investment Lending for Homes;Australia;AUD;1
+JPY_EcoWatchersSurvey:Current;20240708;05:00;Eco Watchers Survey: Current;Japan;JPY;1
+JPY_EcoWatchersSurvey:Outlook;20240708;05:00;Eco Watchers Survey: Outlook;Japan;JPY;1
+EUR_GerExports;20240708;06:00;Exports (MoM);Germany;EUR;1
+EUR_GerTradeBalance;20240708;06:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerImports;20240708;06:00;Imports (MoM);Germany;EUR;1
+DKK_IndustrialProduction;20240708;06:00;Industrial Production (MoM);Denmark;DKK;1
+RON_GrossDomesticProduct;20240708;06:00;Gross Domestic Product;Romania;RON;1
+EUR_FraCurrentAccount;20240708;06:45;Current Account;France;EUR;1
+CZK_IndustrialProduction;20240708;07:00;Industrial Production (YoY);Czech Republic;CZK;1
+CZK_Constructionoutput;20240708;07:00;Construction output (YoY);Czech Republic;CZK;1
+CZK_ForeignTradeBalance;20240708;07:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+EUR_EurEurogroupMeeting;20240708;07:00;Eurogroup Meeting;Eurozone;EUR;2
+EUR_EurSentixInvestorConfidence;20240708;08:30;Sentix Investor Confidence;Eurozone;EUR;2
+HUF_BudgetBalance;20240708;09:00;Budget Balance;Hungary;HUF;1
+ILS_FXReserves;20240708;11:00;FX Reserves;Israel;ILS;1
+CLP_TradeBalance;20240708;11:30;Trade Balance;Chile;CLP;1
+CLP_ConsumerPriceIndex;20240708;12:00;Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+ILS_BoIInterestRateDecision;20240708;13:00;BoI Interest Rate Decision;Israel;ILS;1
+USD_Auction;20240708;15:30;3-Month Bill Auction;United States;USD;1
+USD_ConsumerCreditChange;20240708;19:00;Consumer Credit Change;United States;USD;1
+USD_CFTCOilNCNetPositions;20240708;19:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20240708;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20240708;19:30;CFTC Gold NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20240708;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20240708;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20240708;19:30;CFTC EUR NC Net Positions;Eurozone;EUR;1
+AUD_CFTCAUDNCNetPositions;20240708;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+COP_ConsumerPriceIndex;20240708;23:00;Consumer Price Index (YoY);Colombia;COP;1
+GBP_RetailSales;20240708;23:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+JPY_MoneySupplyM2+CD;20240708;23:50;Money Supply M2+CD (YoY);Japan;JPY;1

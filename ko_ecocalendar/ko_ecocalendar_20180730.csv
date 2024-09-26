@@ -1,0 +1,35 @@
+DKK_IndustrialOutlook;20180730;06:00;Industrial Outlook;Denmark;DKK;1
+NOK_RetailSales;20180730;06:00;Retail Sales ;Norway;NOK;1
+ZAR_M3MoneySupply;20180730;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+ZAR_PrivateSectorCredit;20180730;06:00;Private Sector Credit;South Africa;ZAR;1
+CHF_KOFLeadingIndicator;20180730;07:00;KOF Leading Indicator;Switzerland;CHF;2
+TRY_EconomicConfidenceIndex;20180730;07:00;Economic Confidence Index;Turkey;TRY;1
+SEK_GrossDomesticProduct;20180730;07:30;Gross Domestic Product (YoY);Sweden;SEK;1
+GBP_NetLendingtoIndividuals;20180730;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20180730;08:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20180730;08:30;Mortgage Approvals;United Kingdom;GBP;2
+GBP_M4MoneySupply;20180730;08:30;M4 Money Supply (MoM);United Kingdom;GBP;1
+EUR_EurIndustrialConfidence;20180730;09:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_EurBusinessClimate;20180730;09:00;Business Climate;European Monetary Union;EUR;2
+EUR_EurConsumerConfidence;20180730;09:00;Consumer Confidence;European Monetary Union;EUR;1
+EUR_EurServicesSentiment;20180730;09:00;Services Sentiment;European Monetary Union;EUR;1
+EUR_EurEconomicSentimentIndicator;20180730;09:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+EUR_ItaAuction;20180730;10:26;10-y Bond Auction;Italy;EUR;1
+BRL_InflationIndexIGPM;20180730;11:00;Inflation Index/IGP-M;Brazil;BRL;1
+EUR_GerConsumerPriceIndex;20180730;12:00;Consumer Price Index (YoY);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20180730;12:00;Harmonized Index of Consumer Prices (MoM);Germany;EUR;1
+BRL_NominalBudgetBalance;20180730;13:30;Nominal Budget Balance;Brazil;BRL;1
+BRL_PrimaryBudgetSurplus;20180730;13:30;Primary Budget Surplus;Brazil;BRL;1
+USD_PendingHomeSales;20180730;14:00;Pending Home Sales (YoY);United States;USD;1
+USD_DallasFedManufacturingBusinessIndex;20180730;14:30;Dallas Fed Manufacturing Business Index;United States;USD;1
+USD_Auction;20180730;15:30;3-Month Bill Auction;United States;USD;1
+KRW_BOKManufacturingBSI;20180730;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+MXN_FiscalBalancepesos;20180730;21:00;Fiscal Balance, pesos;Mexico;MXN;1
+NZD_BuildingPermits;20180730;22:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+KRW_IndustrialOutputGrowth;20180730;23:00;Industrial Output Growth;South Korea;KRW;1
+KRW_IndustrialOutput;20180730;23:00;Industrial Output (YoY);South Korea;KRW;1
+KRW_ServiceSectorOutput;20180730;23:00;Service Sector Output;South Korea;KRW;1
+GBP_GfKConsumerConfidence;20180730;23:01;GfK Consumer Confidence;United Kingdom;GBP;2
+JPY_JobsApplicantsRatio;20180730;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+JPY_UnemploymentRate;20180730;23:30;Unemployment Rate;Japan;JPY;2
+JPY_IndustrialProduction;20180730;23:50;Industrial Production (MoM);Japan;JPY;1

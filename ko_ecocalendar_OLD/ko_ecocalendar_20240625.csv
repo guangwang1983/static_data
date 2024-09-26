@@ -1,0 +1,22 @@
+AUD_WestpacConsumerConfidence;20240625;00:30;Westpac Consumer Confidence;Australia;AUD;2
+JPY_CoincidentIndex;20240625;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20240625;05:00;Leading Economic Index;Japan;JPY;1
+NOK_CreditIndicator;20240625;06:00;Credit Indicator;Norway;NOK;1
+SEK_ProducerPriceIndex;20240625;06:00;Producer Price Index (YoY);Sweden;SEK;1
+EUR_EurEurogroupMeeting;20240625;07:00;Eurogroup Meeting;Eurozone;EUR;2
+TRY_ForeignArrivals;20240625;08:00;Foreign Arrivals;Turkey;TRY;1
+PLN_Unemployment;20240625;08:00;Unemployment (MoM);Poland;PLN;1
+EUR_GerCentralBankSpeech;20240625;10:00;German Buba President Nagel speech;Germany;EUR;2
+ILS_IndustrialProduction;20240625;10:00;Industrial Production (MoM);Israel;ILS;1
+ILS_M1MoneySupply;20240625;11:00;M1 Money Supply (YoY);Israel;ILS;1
+USD_ChicagoFedNationalActivityIndex;20240625;12:30;Chicago Fed National Activity Index ;United States;USD;1
+CAD_ConsumerPriceIndex;20240625;12:30;Consumer Price Index - Core (MoM);Canada;CAD;1
+USD_RedbookIndex;20240625;12:55;Redbook Index (YoY);United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20240625;13:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;1
+USD_HousingPriceIndex;20240625;13:00;Housing Price Index (MoM);United States;USD;2
+USD_ConsumerConfidence;20240625;14:00;Consumer Confidence;United States;USD;2
+USD_RichmondFedManufacturingIndex;20240625;14:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_Auction;20240625;17:00;2-Year Note Auction;United States;USD;1
+USD_CentralBankSpeech;20240625;18:10;Fed Bowman speech;United States;USD;2
+USD_APIWeeklyCrudeOilStock;20240625;20:30;API Weekly Crude Oil Stock;United States;USD;1
+GBP_BRCShopPriceIndex;20240625;23:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1

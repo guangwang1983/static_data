@@ -1,0 +1,52 @@
+CNY_PBoCInterestRateDecision;20240620;01:15;PBoC Interest Rate Decision;China;CNY;2
+CHF_SNBFinancialStabilityReport;20240620;04:30;SNB Financial Stability Report;Switzerland;CHF;2
+EUR_GerProducerPriceIndex;20240620;06:00;Producer Price Index (YoY);Germany;EUR;2
+DKK_ConsumerConfidence;20240620;06:00;Consumer Confidence;Denmark;DKK;1
+CHF_TradeBalance;20240620;06:00;Trade Balance;Switzerland;CHF;1
+CHF_Imports;20240620;06:00;Imports (MoM);Switzerland;CHF;1
+CHF_Exports;20240620;06:00;Exports (MoM);Switzerland;CHF;1
+TRY_ConsumerConfidence;20240620;07:00;Consumer Confidence;Turkey;TRY;1
+EUR_EurEurogroupMeeting;20240620;07:00;Eurogroup Meeting;Eurozone;EUR;2
+IDR_BankIndonesiaRate;20240620;07:30;Bank Indonesia Rate;Indonesia;IDR;1
+CHF_SNBInterestRateDecision;20240620;07:30;SNB Interest Rate Decision;Switzerland;CHF;3
+CHF_SNBMonetaryPolicyAssessment;20240620;07:30;SNB Monetary Policy Assessment;Switzerland;CHF;3
+TRY_BudgetBalance;20240620;08:00;Budget Balance;Turkey;TRY;1
+PLN_IndustrialOutput;20240620;08:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20240620;08:00;Producer Price Index (YoY);Poland;PLN;1
+PLN_CorporateSectorWages;20240620;08:00;Corporate Sector Wages;Poland;PLN;1
+EUR_EurEconomicBulletin;20240620;08:00;Economic Bulletin;Eurozone;EUR;2
+CHF_SNBPressConference;20240620;08:00;SNB Press Conference;Switzerland;CHF;3
+NOK_NorgesBankInterestRateDecision;20240620;08:00;Norges Bank Interest Rate Decision;Norway;NOK;2
+CNY_FDIForeignDirectInvestment;20240620;09:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;1
+GBP_BoEAssetPurchaseFacility;20240620;11:00;BoE Asset Purchase Facility;United Kingdom;GBP;3
+GBP_BoEInterestRateDecision;20240620;11:00;BoE Interest Rate Decision;United Kingdom;GBP;3
+GBP_MonetaryPolicyReport;20240620;11:00;Monetary Policy Report;United Kingdom;GBP;3
+GBP_BoEMPCVoteRateUnchanged;20240620;11:00;BoE MPC Vote Rate Unchanged;United Kingdom;GBP;3
+GBP_BoEMinutes;20240620;11:00;BoE Minutes;United Kingdom;GBP;3
+GBP_BoEMPCVoteRateHike;20240620;11:00;BoE MPC Vote Rate Hike;United Kingdom;GBP;3
+GBP_BoEMPCVoteRateCut;20240620;11:00;BoE MPC Vote Rate Cut;United Kingdom;GBP;3
+MXN_RetailSales;20240620;12:00;Retail Sales (YoY);Mexico;MXN;1
+USD_BuildingPermits;20240620;12:30;Building Permits (MoM);United States;USD;2
+USD_HousingStarts;20240620;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermitsChange;20240620;12:30;Building Permits Change;United States;USD;1
+USD_HousingStartsChange;20240620;12:30;Housing Starts Change;United States;USD;1
+USD_CurrentAccount;20240620;12:30;Current Account;United States;USD;1
+USD_JoblessClaims;20240620;12:30;Initial Jobless Claims;United States;USD;2
+USD_PhiladelphiaFedManufacturingSurvey;20240620;12:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+CAD_EmploymentInsuranceBeneficiariesChange;20240620;12:30;Employment Insurance Beneficiaries Change (MoM);Canada;CAD;1
+CAD_NewHousingPriceIndex;20240620;12:30;New Housing Price Index (YoY);Canada;CAD;1
+USD_CentralBankSpeech;20240620;12:45;Fed Kashkari speech;United States;USD;2
+RUB_CentralBankReserves;20240620;13:00;Central Bank Reserves $;Russia;RUB;1
+EUR_EurConsumerConfidence;20240620;14:00;Consumer Confidence;Eurozone;EUR;2
+USD_EIACrudeOilStocksChange;20240620;15:00;EIA Crude Oil Stocks Change;United States;USD;1
+COP_TradeBalance;20240620;15:00;Trade Balance;Colombia;COP;1
+USD_Auction;20240620;17:00;5-year TIPS Auction;United States;USD;1
+KRW_ProducerPriceIndex;20240620;21:00;Producer Price Index Growth (YoY);South Korea;KRW;1
+SEK_Midsummer´sEve;20240620;22:00;Midsummer´s Eve;Sweden;SEK;0
+AUD_JudoBankServicesPMI;20240620;23:00;Judo Bank Services PMI;Australia;AUD;2
+AUD_JudoBankManufacturingPMI;20240620;23:00;Judo Bank Manufacturing PMI;Australia;AUD;2
+AUD_JudoBankCompositePMI;20240620;23:00;Judo Bank Composite PMI;Australia;AUD;2
+GBP_GfKConsumerConfidence;20240620;23:01;GfK Consumer Confidence;United Kingdom;GBP;2
+JPY_NationalCPIexFoodEnergy;20240620;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20240620;23:30;National CPI ex Fresh Food (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20240620;23:30;National Consumer Price Index (YoY);Japan;JPY;2

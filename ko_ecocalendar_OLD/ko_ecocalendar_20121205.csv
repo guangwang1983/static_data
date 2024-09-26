@@ -1,0 +1,40 @@
+JPY_ForeignBondInvestment;20121205;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20121205;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+AUD_CentralBankSpeech;20121205;23:00;RBA Debelle speech;Australia;AUD;2
+NZD_RBNZInterestRateDecision;20121205;20:00;RBNZ Interest Rate Decision;New Zealand;NZD;3
+NZD_MonetaryPolicyStatement;20121205;20:00;Monetary Policy Statement ;New Zealand;NZD;3
+NZD_RBNZPressConference;20121205;20:00;RBNZ Press Conference;New Zealand;NZD;3
+COP_ConsumerPriceIndex;20121205;18:00;Consumer Price Index (YoY);Colombia;COP;1
+USD_EIACrudeOilStocksChange;20121205;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_ISMNonManufacturingPMI;20121205;15:00;ISM Non-Manufacturing PMI;United States;USD;2
+USD_FactoryOrders;20121205;15:00;Factory Orders (MoM);United States;USD;2
+RUB_ConsumerPriceIndex;20121205;14:57;Consumer Price Index (MoM);Russia;RUB;1
+CLP_IMACEC;20121205;13:30;IMACEC;Chile;CLP;1
+USD_NonfarmProductivity;20121205;13:30;Nonfarm Productivity;United States;USD;1
+USD_UnitLaborCosts;20121205;13:30;Unit Labor Costs;United States;USD;1
+USD_ADPEmploymentChange;20121205;13:15;ADP Employment Change;United States;USD;2
+GBP_AutumnForecastStatement;20121205;12:30;Autumn Forecast Statement;United Kingdom;GBP;3
+USD_MBAMortgageApplications;20121205;12:00;MBA Mortgage Applications;United States;USD;1
+EUR_GerAuction;20121205;10:30;2-year Notes Auction;Germany;EUR;1
+PLN_NBPBaserate;20121205;10:30;NBP Base rate;Poland;PLN;1
+EUR_EurRetailSales;20121205;10:00;Retail Sales (YoY);European Monetary Union;EUR;2
+EUR_SpaAuction;20121205;09:50;10-y Obligaciones Auction;Spain;EUR;1
+GBP_MarkitServicesPMI;20121205;09:28;Markit Services PMI;United Kingdom;GBP;2
+NOK_CurrentAccount;20121205;09:00;Current Account;Norway;NOK;1
+EUR_EurMarkitPMIComposite;20121205;08:58;Markit PMI Composite;European Monetary Union;EUR;1
+EUR_EurMarkitServicesPMI;20121205;08:58;Markit Services PMI;European Monetary Union;EUR;1
+EUR_GerMarkitServicesPMI;20121205;08:53;Markit Services PMI;Germany;EUR;2
+EUR_FraMarkitServicesPMI;20121205;08:48;Markit Services PMI;France;EUR;1
+EUR_ItaMarkitServicesPMI;20121205;08:43;Markit Services PMI;Italy;EUR;1
+EUR_SpaMarkitServicesPMI;20121205;08:13;Markit Services PMI;Spain;EUR;1
+CZK_RetailSales;20121205;08:00;Retail Sales (YoY);Czech Republic;CZK;1
+EUR_SpaIndustrialOutputCalAdjusted;20121205;08:00;Industrial Output Cal Adjusted (YoY);Spain;EUR;1
+EUR_FinGrossDomesticProduct;20121205;07:00;Gross Domestic Product Qtr Prelim (YoY);Finland;EUR;1
+EUR_IrePurchasingManagerIndexServices;20121205;06:58;Purchasing Manager Index Services;Ireland;EUR;1
+RUB_PurchasingManagerIndexServices;20121205;05:00;Purchasing Manager Index Services;Russia;RUB;1
+CNY_CaixinServicesPMI;20121205;01:45;Caixin Services PMI;China;CNY;1
+HKD_NikkeiManufacturingPMI;20121205;01:30;Nikkei Manufacturing PMI;Hong Kong SAR;HKD;1
+JPY_CentralBankSpeech;20121205;01:30;BoJ Nishimura speech;Japan;JPY;1
+AUD_GrossDomesticProduct;20121205;00:30;Gross Domestic Product (QoQ);Australia;AUD;3
+ARS_PrimaryBudgetBalance;20121205;00:30;Primary Budget Balance (MoM);Argentina;ARS;1
+GBP_BRCShopPriceIndex;20121205;00:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1

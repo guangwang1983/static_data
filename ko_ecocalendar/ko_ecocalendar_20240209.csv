@@ -1,0 +1,26 @@
+EUR_GerConsumerPriceIndex;20240209;07:00;Consumer Price Index (YoY);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20240209;07:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+TRY_IndustrialProduction;20240209;07:00;Industrial Production (YoY);Turkey;TRY;1
+RON_TradeBalance;20240209;07:00;Trade Balance;Romania;RON;1
+NOK_ConsumerPriceIndex;20240209;07:00;Consumer Price Index (YoY);Norway;NOK;1
+NOK_CoreInflation;20240209;07:00;Core Inflation (MoM);Norway;NOK;1
+NOK_ProducerPriceIndex;20240209;07:00;Producer Price Index (YoY);Norway;NOK;1
+SEK_IndustrialProductionValue;20240209;07:00;Industrial Production Value (MoM);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20240209;07:00;New Orders Manufacturing (YoY);Sweden;SEK;1
+HUF_ConsumerPriceIndex;20240209;07:30;Consumer Price Index (YoY);Hungary;HUF;1
+CNY_M2MoneySupply;20240209;07:55;M2 Money Supply (YoY);China;CNY;1
+CNY_NewLoans;20240209;07:55;New Loans;China;CNY;1
+EUR_ItaIndustrialOutput;20240209;09:00;Industrial Output w.d.a (YoY);Italy;EUR;1
+EUR_GerCentralBankSpeech;20240209;10:30;German Buba President Nagel speech;Germany;EUR;2
+INR_BankLoanGrowth;20240209;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20240209;11:30;FX Reserves, USD;India;INR;1
+MXN_IndustrialOutput;20240209;12:00;Industrial Output (YoY);Mexico;MXN;1
+CAD_ParticipationRate;20240209;13:30;Participation Rate;Canada;CAD;1
+CAD_AverageHourlyWages;20240209;13:30;Average Hourly Wages (YoY);Canada;CAD;2
+CAD_NetChangeinEmployment;20240209;13:30;Net Change in Employment;Canada;CAD;3
+CAD_UnemploymentRate;20240209;13:30;Unemployment Rate;Canada;CAD;3
+KRW_KoreanNewYear;20240209;15:00;Korean New Year ;South Korea;KRW;0
+CNY_ChineseNewYear;20240209;16:00;Chinese New Year;China;CNY;0
+IDR_ChineseNewYear;20240209;17:00;Chinese New Year;Indonesia;IDR;0
+USD_BakerHughesUSOilRigCount;20240209;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CentralBankSpeech;20240209;18:30;Fed Logan speech;United States;USD;2

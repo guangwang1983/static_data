@@ -1,0 +1,31 @@
+KRW_FXReserves;20200102;21:00;FX Reserves;South Korea;KRW;1
+BRL_TradeBalance;20200102;19:00;Trade Balance;Brazil;BRL;1
+USD_Auction;20200102;16:30;4-Week Bill Auction;United States;USD;1
+USD_MarkitManufacturingPMI;20200102;14:45;Markit Manufacturing PMI;United States;USD;2
+CAD_MarkitManufacturingPMI;20200102;14:30;Markit Manufacturing PMI;Canada;CAD;2
+USD_JoblessClaims;20200102;13:30;Continuing Jobless Claims;United States;USD;1
+BRL_HSBCPMIManufacturing;20200102;13:00;HSBC PMI Manufacturing;Brazil;BRL;1
+RUB_CentralBankReserves;20200102;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_ChallengerJobCuts;20200102;12:30;Challenger Job Cuts;United States;USD;1
+USD_MBAMortgageApplications;20200102;12:00;MBA Mortgage Applications;United States;USD;1
+EUR_FraAuction;20200102;09:50;10-y Bond Auction;France;EUR;1
+EUR_PorConsumerConfidence;20200102;09:30;Consumer Confidence;Portugal;EUR;1
+EUR_PorBusinessConfidence;20200102;09:30;Business Confidence;Portugal;EUR;1
+GBP_MarkitManufacturingPMI;20200102;09:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+EUR_GreMarkitManufacturingPMI;20200102;09:00;Markit Manufacturing PMI;Greece;EUR;1
+EUR_EurMarkitManufacturingPMI;20200102;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;1
+EUR_GerMarkitManufacturingPMI;20200102;08:55;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20200102;08:50;Markit Manufacturing PMI;France;EUR;1
+EUR_ItaMarkitManufacturingPMI;20200102;08:45;Markit Manufacturing PMI;Italy;EUR;1
+CZK_MarkitPMI;20200102;08:30;Markit PMI;Czech Republic;CZK;1
+EUR_SpaMarkitManufacturingPMI;20200102;08:15;Markit Manufacturing PMI;Spain;EUR;1
+EUR_AusUnemploymentRate;20200102;08:00;Unemployment Rate;Austria;EUR;1
+EUR_AusUnemployment;20200102;08:00;Unemployment;Austria;EUR;1
+HUF_PurchasingManagerIndex;20200102;08:00;Purchasing Manager Index;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20200102;08:00;Purchasing Manager Index;Poland;PLN;2
+AUD_RBACommodityIndexSDR;20200102;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+CNY_CaixinManufacturingPMI;20200102;01:45;Caixin Manufacturing PMI;China;CNY;3
+EUR_IrePurchasingManagerIndexManufacturing;20200102;01:01;Purchasing Manager Index Manufacturing;Ireland;EUR;1
+AUD_ANZJobAdvertisements;20200102;00:30;ANZ Job Advertisements;Australia;AUD;1
+KRW_NikkeiMarkitManufacturingPMI;20200102;00:30;Nikkei Markit Manufacturing PMI;South Korea;KRW;1
+SGD_GrossDomesticProduct;20200102;00:00;Gross Domestic Product (QoQ);Singapore;SGD;1

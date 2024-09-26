@@ -1,0 +1,40 @@
+JPY_ForeignInvestmentinJapanStocks;20190605;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20190605;23:50;Foreign Bond Investment;Japan;JPY;1
+USD_FedBeigeBook;20190605;18:00;Fed Beige Book;United States;USD;2
+USD_EIACrudeOilStocksChange;20190605;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_ISMNonManufacturingPMI;20190605;14:00;ISM Non-Manufacturing PMI;United States;USD;3
+USD_MarkitPMIComposite;20190605;13:45;Markit PMI Composite;United States;USD;2
+USD_MarkitServicesPMI;20190605;13:45;Markit Services PMI;United States;USD;2
+USD_CentralBankSpeech;20190605;13:45;Fed Clarida speech;United States;USD;2
+CAD_LaborProductivity;20190605;12:30;Labor Productivity (QoQ);Canada;CAD;1
+USD_ADPEmploymentChange;20190605;12:15;ADP Employment Change;United States;USD;2
+PLN_NBPBaserate;20190605;12:00;NBP Base rate;Poland;PLN;1
+INR_M3MoneySupply;20190605;11:30;M3 Money Supply;India;INR;1
+USD_MBAMortgageApplications;20190605;11:00;MBA Mortgage Applications;United States;USD;1
+ZAR_BusinessConfidenceIndex;20190605;09:30;Business Confidence Index;South Africa;ZAR;1
+EUR_EurProducerPriceIndex;20190605;09:00;Producer Price Index (YoY);European Monetary Union;EUR;1
+EUR_EurRetailSales;20190605;09:00;Retail Sales (MoM);European Monetary Union;EUR;1
+GBP_CentralBankSpeech;20190605;08:45;BoE Ramsden speech;United Kingdom;GBP;2
+GBP_MarkitServicesPMI;20190605;08:30;Markit Services PMI;United Kingdom;GBP;2
+EUR_EurMarkitServicesPMI;20190605;08:00;Markit Services PMI;European Monetary Union;EUR;1
+EUR_EurMarkitPMIComposite;20190605;08:00;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_GerMarkitServicesPMI;20190605;07:55;Markit Services PMI;Germany;EUR;1
+EUR_GerMarkitPMIComposite;20190605;07:55;Markit PMI Composite;Germany;EUR;1
+EUR_FraMarkitPMIComposite;20190605;07:50;Markit PMI Composite;France;EUR;1
+EUR_FraMarkitServicesPMI;20190605;07:50;Markit Services PMI;France;EUR;1
+EUR_ItaMarkitServicesPMI;20190605;07:45;Markit Services PMI;Italy;EUR;1
+EUR_SpaMarkitServicesPMI;20190605;07:15;Markit Services PMI;Spain;EUR;1
+CZK_RetailSales;20190605;07:00;Retail Sales (YoY);Czech Republic;CZK;1
+EUR_SpaIndustrialOutputCalAdjusted;20190605;07:00;Industrial Output Cal Adjusted (YoY);Spain;EUR;1
+HUF_RetailSales;20190605;07:00;Retail Sales (YoY);Hungary;HUF;1
+RUB_PurchasingManagerIndexServices;20190605;06:00;Purchasing Manager Index Services;Russia;RUB;1
+NOK_CurrentAccount;20190605;06:00;Current Account;Norway;NOK;1
+CNY_CaixinServicesPMI;20190605;01:45;Caixin Services PMI;China;CNY;2
+AUD_GrossDomesticProduct;20190605;01:30;Gross Domestic Product (YoY);Australia;AUD;2
+HKD_NikkeiManufacturingPMI;20190605;00:30;Nikkei Manufacturing PMI;Hong Kong SAR;HKD;1
+JPY_MarkitServicesPMI;20190605;00:30;Markit Services PMI;Japan;JPY;1
+IDR_EidAlFitr;20190605;00:00;Eid Al Fitr;Indonesia;IDR;0
+INR_IdulFitr;20190605;00:00;Idul Fitr ;India;INR;0
+DKK_ConstitutionDay;20190605;00:00;Constitution Day ;Denmark;DKK;0
+SGD_HariRayaPuasa;20190605;00:00;Hari Raya Puasa;Singapore;SGD;0
+TRY_RamazanFeast;20190605;00:00;Ramazan Feast;Turkey;TRY;0

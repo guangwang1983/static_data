@@ -1,0 +1,35 @@
+USD_IMFMeeting;20221014;00:00;IMF Meeting;United States;USD;2
+AUD_HIANewHomeSales;20221014;00:00;HIA New Home Sales (MoM);Australia;AUD;2
+CNY_ConsumerPriceIndex;20221014;01:30;Consumer Price Index (YoY);China;CNY;3
+CNY_ProducerPriceIndex;20221014;01:30;Producer Price Index (YoY);China;CNY;2
+CNY_Exports;20221014;02:00;Exports (YoY) CNY;China;CNY;1
+CNY_Imports;20221014;02:00;Imports (YoY) CNY;China;CNY;1
+CNY_TradeBalanceUSD;20221014;02:00;Trade Balance USD;China;CNY;2
+CNY_TradeBalanceCNY;20221014;02:00;Trade Balance CNY;China;CNY;1
+INR_WPIInflation;20221014;06:30;WPI Inflation;India;INR;1
+CZK_CurrentAccount;20221014;07:00;Current Account (MoM);Czech Republic;CZK;1
+PLN_ConsumerPriceIndex;20221014;08:00;Consumer Price Index (YoY);Poland;PLN;1
+EUR_EurTradeBalance;20221014;09:00;Trade Balance s.a.;European Monetary Union;EUR;1
+ILS_ConsumerPriceIndex;20221014;11:00;Consumer Price Index (YoY);Israel;ILS;1
+INR_TradeDeficitGovernment;20221014;11:30;Trade Deficit Government;India;INR;1
+INR_FXReservesUSD;20221014;11:30;FX Reserves, USD;India;INR;1
+PLN_CurrentAccount;20221014;12:00;Current Account;Poland;PLN;1
+USD_RetailSales;20221014;12:30;Retail Sales ex Autos (MoM);United States;USD;2
+USD_ImportPriceIndex;20221014;12:30;Import Price Index (MoM);United States;USD;1
+USD_ExportPriceIndex;20221014;12:30;Export Price Index (MoM);United States;USD;1
+CAD_ManufacturingSales;20221014;12:30;Manufacturing Sales (MoM);Canada;CAD;1
+CAD_WholesaleSales;20221014;12:30;Wholesale Sales (MoM);Canada;CAD;1
+USD_FedIndexofCommonInflationExpectations;20221014;14:00;Fed Index of Common Inflation Expectations;United States;USD;2
+USD_UoM5yearConsumerInflationExpectation;20221014;14:00;UoM 5-year Consumer Inflation Expectation;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20221014;14:00;Michigan Consumer Sentiment Index;United States;USD;3
+USD_BusinessInventories;20221014;14:00;Business Inventories;United States;USD;1
+COP_RetailSales;20221014;15:00;Retail Sales (YoY);Colombia;COP;1
+COP_Industrialoutput;20221014;15:00;Industrial output (YoY);Colombia;COP;1
+USD_BakerHughesUSOilRigCount;20221014;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20221014;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20221014;19:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20221014;19:30;CFTC Gold NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20221014;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20221014;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20221014;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20221014;19:30;CFTC AUD NC Net Positions;Australia;AUD;1

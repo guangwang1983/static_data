@@ -1,0 +1,32 @@
+GBP_BRCShopPriceIndex;20220104;00:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1
+JPY_JibunBankManufacturingPMI;20220104;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+CNY_CaixinManufacturingPMI;20220104;01:45;Caixin Manufacturing PMI;China;CNY;2
+AUD_RBACommodityIndexSDR;20220104;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+EUR_GerRetailSales;20220104;07:00;Retail Sales (YoY);Germany;EUR;3
+CHF_ConsumerPriceIndex;20220104;07:30;Consumer Price Index (YoY);Switzerland;CHF;1
+EUR_FraConsumerPriceIndex;20220104;07:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+HUF_GrossWages;20220104;08:00;Gross Wages (YoY);Hungary;HUF;1
+EUR_GerUnemploymentRate;20220104;08:55;Unemployment Rate s.a.;Germany;EUR;2
+EUR_GerUnemploymentChange;20220104;08:55;Unemployment Change;Germany;EUR;2
+USD_OPECMeeting;20220104;09:00;OPEC Meeting;United States;USD;2
+PLN_NBPBaserate;20220104;09:00;NBP Base rate;Poland;PLN;1
+GBP_NetLendingtoIndividuals;20220104;09:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20220104;09:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20220104;09:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_S&PGlobalCIPSManufacturingPMI;20220104;09:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+GBP_M4MoneySupply;20220104;09:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+CAD_IndustrialProductPrice;20220104;13:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_RawMaterialPriceIndex;20220104;13:30;Raw Material Price Index;Canada;CAD;1
+USD_RedbookIndex;20220104;13:55;Redbook Index (YoY);United States;USD;1
+CAD_S&PGlobalManufacturingPMI;20220104;14:30;S&P Global Manufacturing PMI;Canada;CAD;2
+NZD_GDTPriceIndex;20220104;14:30;GDT Price Index;New Zealand;NZD;1
+USD_JOLTSJobOpenings;20220104;15:00;JOLTS Job Openings;United States;USD;1
+USD_ISMManufacturingNewOrdersIndex;20220104;15:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ISMManufacturingPMI;20220104;15:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20220104;15:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ISMManufacturingEmploymentIndex;20220104;15:00;ISM Manufacturing Employment Index;United States;USD;2
+DKK_CurrencyReserves;20220104;16:00;Currency Reserves;Denmark;DKK;1
+KRW_FXReserves;20220104;21:00;FX Reserves;South Korea;KRW;1
+USD_APIWeeklyCrudeOilStock;20220104;21:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_TotalVehicleSales;20220104;23:00;Total Vehicle Sales;United States;USD;1
+JPY_MonetaryBase;20220104;23:50;Monetary Base (YoY);Japan;JPY;1

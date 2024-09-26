@@ -1,0 +1,41 @@
+KRW_ConsumerSentimentIndex;20180424;21:00;Consumer Sentiment Index;South Korea;KRW;1
+USD_APIWeeklyCrudeOilStock;20180424;20:30;API Weekly Crude Oil Stock;United States;USD;1
+ARS_TradeBalance;20180424;19:00;Trade Balance (MoM);Argentina;ARS;1
+USD_Auction;20180424;15:30;52-Week Bill Auction;United States;USD;1
+USD_ConsumerConfidence;20180424;14:00;Consumer Confidence;United States;USD;2
+USD_NewHomeSalesChange;20180424;14:00;New Home Sales Change (MoM);United States;USD;1
+USD_NewHomeSales;20180424;14:00;New Home Sales (MoM);United States;USD;2
+MXN_1sthalfmonthInflation;20180424;14:00;1st half-month Inflation;Mexico;MXN;1
+MXN_1sthalfmonthCoreInflation;20180424;14:00;1st half-month Core Inflation;Mexico;MXN;1
+USD_RichmondFedManufacturingIndex;20180424;14:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20180424;13:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;2
+USD_HousingPriceIndex;20180424;13:00;Housing Price Index (MoM);United States;USD;2
+EUR_BelLeadingIndicator;20180424;13:00;Leading Indicator;Belgium;EUR;1
+USD_RedbookIndex;20180424;12:55;Redbook Index (YoY);United States;USD;1
+EUR_SloCurrentAccount;20180424;12:30;Current Account Balance EUR;Slovakia;EUR;1
+HUF_MNBInterestRateDecision;20180424;12:00;MNB Interest Rate Decision;Hungary;HUF;1
+PLN_M3MoneySupply;20180424;12:00;M3 Money Supply (YoY);Poland;PLN;1
+TRY_ManufacturingConfidence;20180424;11:30;Manufacturing Confidence;Turkey;TRY;1
+TRY_CapacityUtilization;20180424;11:30;Capacity Utilization;Turkey;TRY;1
+EUR_ItaTradeBalancenonEU;20180424;10:00;Trade Balance non-EU;Italy;EUR;1
+GBP_CBIIndustrialTrendsSurveyOrders;20180424;10:00;CBI Industrial Trends Survey - Orders (MoM);United Kingdom;GBP;1
+GBP_PublicSectorNetBorrowing;20180424;08:30;Public Sector Net Borrowing;United Kingdom;GBP;2
+EUR_ItaBusinessConfidence;20180424;08:00;Business Confidence;Italy;EUR;1
+EUR_ItaConsumerConfidence;20180424;08:00;Consumer Confidence;Italy;EUR;1
+EUR_GerIFOCurrentAssessment;20180424;08:00;IFO - Current Assessment;Germany;EUR;2
+EUR_GerIFOBusinessClimate;20180424;08:00;IFO - Business Climate;Germany;EUR;2
+EUR_GerIFOExpectations;20180424;08:00;IFO - Expectations;Germany;EUR;2
+SEK_UnemploymentRate;20180424;07:30;Unemployment Rate;Sweden;SEK;1
+EUR_FraBusinessClimate;20180424;06:45;Business Climate;France;EUR;1
+CHF_Exports;20180424;06:00;Exports (MoM);Switzerland;CHF;1
+CHF_Imports;20180424;06:00;Imports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20180424;06:00;Trade Balance;Switzerland;CHF;1
+EUR_FinProducerPriceIndex;20180424;06:00;Producer Price Index (YoY);Finland;EUR;1
+EUR_FinUnemploymentRate;20180424;06:00;Unemployment Rate;Finland;EUR;1
+DKK_RetailSales;20180424;06:00;Retail Sales (YoY);Denmark;DKK;1
+EUR_FinImportPrices;20180424;06:00;Import Prices (YoY);Finland;EUR;1
+EUR_FinExportPrices;20180424;06:00;Export Prices (YoY);Finland;EUR;1
+JPY_CoincidentIndex;20180424;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20180424;05:00;Leading Economic Index;Japan;JPY;2
+AUD_RBATrimmedMeanCPI;20180424;01:30;RBA Trimmed Mean CPI (QoQ);Australia;AUD;3
+AUD_ConsumerPriceIndex;20180424;01:30;Consumer Price Index (QoQ);Australia;AUD;3

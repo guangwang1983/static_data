@@ -1,0 +1,35 @@
+GBP_RetailSales;20200211;00:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+AUD_InvestmentLendingforHomes;20200211;00:30;Investment Lending for Homes;Australia;AUD;2
+AUD_HomeLoans;20200211;00:30;Home Loans;Australia;AUD;2
+AUD_NationalAustraliaBankBusinessConfidence;20200211;00:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20200211;00:30;National Australia Bank Business Conditions;Australia;AUD;1
+IDR_RetailSales;20200211;03:00;Retail Sales (YoY);Indonesia;IDR;1
+GBP_GrossDomesticProduct;20200211;09:30;Gross Domestic Product (QoQ);United Kingdom;GBP;3
+GBP_IndustrialProduction;20200211;09:30;Industrial Production (MoM);United Kingdom;GBP;2
+GBP_ManufacturingProduction;20200211;09:30;Manufacturing Production (MoM);United Kingdom;GBP;2
+GBP_TotalBusinessInvestment;20200211;09:30;Total Business Investment (QoQ);United Kingdom;GBP;1
+GBP_IndexofServices;20200211;09:30;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20200211;09:30;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20200211;09:30;Total Trade Balance;United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20200211;09:30;Goods Trade Balance;United Kingdom;GBP;1
+ZAR_UnemploymentTotal;20200211;09:30;Unemployment Total ;South Africa;ZAR;1
+ZAR_UnemploymentRate;20200211;09:30;Unemployment Rate (%);South Africa;ZAR;1
+USD_NFIBBusinessOptimismIndex;20200211;11:00;NFIB Business Optimism Index;United States;USD;1
+ZAR_ManufacturingProductionIndex;20200211;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+MXN_IndustrialOutput;20200211;12:00;Industrial Output (MoM);Mexico;MXN;1
+RUB_ForeignTrade;20200211;13:00;Foreign Trade;Russia;RUB;1
+USD_RedbookIndex;20200211;13:55;Redbook Index (YoY);United States;USD;1
+USD_JOLTSJobOpenings;20200211;15:00;JOLTS Job Openings;United States;USD;1
+USD_FedChairPowelltestifies;20200211;15:00;Fed Chair Powell testifies;United States;USD;3
+GBP_MarkCarneyspeaksatUKParliament;20200211;15:35;Mark Carney speaks at UK Parliament;United Kingdom;GBP;2
+EUR_EurCentralBankSpeech;20200211;16:30;ECB Schnabel speech;European Monetary Union;EUR;2
+GBP_CentralBankSpeech;20200211;17:00;BoE Haskel speech;United Kingdom;GBP;2
+USD_USDAWASDEReport;20200211;17:00;USDA WASDE Report;United States;USD;1
+GBP_NIESRGDPEstimate;20200211;17:00;NIESR GDP Estimate (3M);United Kingdom;GBP;1
+USD_Auction;20200211;18:00;3-Year Note Auction;United States;USD;1
+USD_CentralBankSpeech;20200211;19:15;Fed Kashkari speech;United States;USD;2
+USD_APIWeeklyCrudeOilStock;20200211;21:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_RetailSales;20200211;21:45;Electronic Card Retail Sales  (MoM);New Zealand;NZD;1
+KRW_UnemploymentRate;20200211;23:00;Unemployment Rate;South Korea;KRW;1
+AUD_WestpacConsumerConfidence;20200211;23:30;Westpac Consumer Confidence;Australia;AUD;2
+JPY_MoneySupplyM2+CD;20200211;23:50;Money Supply M2+CD (YoY);Japan;JPY;1

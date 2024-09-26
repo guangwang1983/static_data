@@ -1,0 +1,61 @@
+JPY_IndustrialProduction;20140227;23:50;Industrial Production (MoM);Japan;JPY;1
+JPY_LargeRetailers'Sales;20140227;23:50;Large Retailers' Sales;Japan;JPY;2
+JPY_RetailTrade;20140227;23:50;Retail Trade (YoY);Japan;JPY;2
+JPY_JobsApplicantsRatio;20140227;23:30;Jobs / Applicants Ratio;Japan;JPY;1
+JPY_TokyoCPIexFreshFood;20140227;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;1
+JPY_TokyoCPIexFoodEnergy;20140227;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;1
+JPY_ConsumerPriceIndex;20140227;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;1
+JPY_NationalCPIexFoodEnergy;20140227;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20140227;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_UnemploymentRate;20140227;23:30;Unemployment Rate;Japan;JPY;2
+JPY_OverallHouseholdSpending;20140227;23:30;Overall Household Spending (YoY);Japan;JPY;2
+JPY_NikkeiManufacturingPMI;20140227;23:13;Nikkei Manufacturing PMI;Japan;JPY;2
+KRW_IndustrialOutputGrowth;20140227;23:00;Industrial Output Growth;South Korea;KRW;1
+KRW_ServiceSectorOutput;20140227;23:00;Service Sector Output;South Korea;KRW;1
+KRW_IndustrialOutput;20140227;23:00;Industrial Output (YoY);South Korea;KRW;1
+NZD_BuildingPermits;20140227;21:45;Building Permits s.a. (MoM);New Zealand;NZD;1
+KRW_BOKManufacturingBSI;20140227;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+USD_Auction;20140227;18:00;7-Year Note Auction;United States;USD;1
+USD_KansasFedManufacturingActivity;20140227;16:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_EIANaturalGasStorageChange;20140227;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_CentralBankSpeech;20140227;15:00;Fed Chair Yellen speech;United States;USD;3
+CAD_CurrentAccount;20140227;13:30;Current Account;Canada;CAD;1
+USD_JoblessClaims;20140227;13:30;Continuing Jobless Claims;United States;USD;2
+USD_DurableGoodsOrders;20140227;13:30;Durable Goods Orders ex Transportation;United States;USD;2
+EUR_GerConsumerPriceIndex;20140227;13:00;Consumer Price Index (MoM);Germany;EUR;2
+EUR_GerHarmonizedIndexofConsumerPrices;20140227;13:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+BRL_GrossDomesticProduct;20140227;12:00;Gross Domestic Product (QoQ);Brazil;BRL;1
+EUR_PorBusinessConfidence;20140227;11:00;Business Confidence;Portugal;EUR;1
+EUR_PorConsumerConfidence;20140227;11:00;Consumer Confidence;Portugal;EUR;1
+BRL_InflationIndexIGPM;20140227;11:00;Inflation Index/IGP-M;Brazil;BRL;1
+RUB_CentralBankReserves;20140227;11:00;Central Bank Reserves $;Russia;RUB;1
+EUR_ItaAuction;20140227;10:21;5-y Bond Auction;Italy;EUR;1
+EUR_SpaHousePriceIndex;20140227;10:00;House Price Index (QoQ);Spain;EUR;1
+EUR_EurConsumerConfidence;20140227;10:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurBusinessClimate;20140227;10:00;Business Climate;European Monetary Union;EUR;1
+EUR_EurServicesSentiment;20140227;10:00;Services Sentiment;European Monetary Union;EUR;2
+EUR_EurEconomicSentimentIndicator;20140227;10:00;Economic Sentiment Indicator;European Monetary Union;EUR;2
+EUR_EurIndustrialConfidence;20140227;10:00;Industrial Confidence;European Monetary Union;EUR;2
+ZAR_ProducerPriceIndex;20140227;09:30;Producer Price Index (MoM);South Africa;ZAR;1
+EUR_BelConsumerPriceIndex;20140227;09:30;Consumer Price Index (MoM);Belgium;EUR;1
+EUR_ItaBusinessConfidence;20140227;09:00;Business Confidence;Italy;EUR;1
+ISK_ConsumerPriceIndex;20140227;09:00;Consumer Price Index (YoY);Iceland;ISK;1
+EUR_AusPurchasingManagerIndex;20140227;09:00;Purchasing Manager Index;Austria;EUR;1
+EUR_EurPrivateLoans;20140227;09:00;Private Loans (YoY);European Monetary Union;EUR;1
+EUR_EurM3MoneySupply;20140227;09:00;M3 Money Supply (YoY);European Monetary Union;EUR;1
+EUR_GerUnemploymentChange;20140227;08:55;Unemployment Change;Germany;EUR;3
+EUR_GerUnemploymentRate;20140227;08:55;Unemployment Rate s.a.;Germany;EUR;3
+SEK_TradeBalance;20140227;08:30;Trade Balance (MoM);Sweden;SEK;1
+CHF_EmploymentLevel;20140227;08:15;Employment Level (QoQ);Switzerland;CHF;2
+TRY_ConsumerConfidence;20140227;08:00;Consumer Confidence;Turkey;TRY;1
+DKK_IndustrialOutlook;20140227;08:00;Industrial Outlook;Denmark;DKK;1
+DKK_UnemploymentRate;20140227;08:00;Unemployment Rate;Denmark;DKK;1
+EUR_SpaGrossDomesticProduct;20140227;08:00;Gross Domestic Product (QoQ);Spain;EUR;1
+HUF_ProducerPriceIndex;20140227;08:00;Producer Price Index (YoY);Hungary;HUF;1
+EUR_FraConsumerConfidence;20140227;07:45;Consumer Confidence;France;EUR;1
+BRL_InterestRateDecision;20140227;07:20;Interest Rate Decision;Brazil;BRL;1
+EUR_GerImportPriceIndex;20140227;07:00;Import Price Index (MoM);Germany;EUR;1
+EUR_FinIndustrialConfidence;20140227;07:00;Industrial Confidence;Finland;EUR;1
+EUR_FinConsumerConfidence;20140227;07:00;Consumer Confidence;Finland;EUR;1
+CHF_GrossDomesticProduct;20140227;06:45;Gross Domestic Product (YoY);Switzerland;CHF;3
+AUD_PrivateCapitalExpenditure;20140227;00:30;Private Capital Expenditure;Australia;AUD;2

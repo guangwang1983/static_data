@@ -1,0 +1,29 @@
+JPY_JibunBankServicesPMI;20180404;00:30;Jibun Bank Services PMI;Japan;JPY;1
+AUD_RetailSales;20180404;01:30;Retail Sales s.a. (MoM);Australia;AUD;2
+AUD_BuildingPermits;20180404;01:30;Building Permits (YoY);Australia;AUD;1
+CNY_CaixinServicesPMI;20180404;01:45;Caixin Services PMI;China;CNY;2
+RUB_S&PGlobalServicesPMI;20180404;06:00;S&P Global Services PMI;Russia;RUB;1
+PLN_ConsumerPriceIndex;20180404;08:00;Consumer Price Index (MoM);Poland;PLN;1
+EUR_ItaUnemployment;20180404;08:00;Unemployment;Italy;EUR;1
+GBP_S&PGlobalConstructionPMI;20180404;08:30;S&P Global Construction PMI;United Kingdom;GBP;2
+EUR_EurUnemploymentRate;20180404;09:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20180404;09:00;Core Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_EurHarmonizedIndexofConsumerPrices;20180404;09:00;Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_ItaPublicDeficitGDP;20180404;09:00;Public Deficit/GDP;Italy;EUR;1
+USD_MBAMortgageApplications;20180404;11:00;MBA Mortgage Applications;United States;USD;1
+RON_Interestratedecision;20180404;12:00;Interest rate decision;Romania;RON;1
+USD_ADPEmploymentChange;20180404;12:15;ADP Employment Change;United States;USD;2
+USD_S&PGlobalServicesPMI;20180404;13:45;S&P Global Services PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20180404;13:45;S&P Global Composite PMI;United States;USD;2
+USD_ISMServicesPricesPaid;20180404;14:00;ISM Services Prices Paid;United States;USD;2
+USD_ISMServicesNewOrdersIndex;20180404;14:00;ISM Services New Orders Index;United States;USD;2
+USD_ISMServicesPMI;20180404;14:00;ISM Services PMI;United States;USD;2
+USD_ISMServicesEmploymentIndex;20180404;14:00;ISM Services Employment Index;United States;USD;2
+DKK_CurrencyReserves;20180404;14:00;Currency Reserves;Denmark;DKK;1
+USD_FactoryOrders;20180404;14:00;Factory Orders (MoM);United States;USD;2
+USD_EIACrudeOilStocksChange;20180404;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_CentralBankSpeech;20180404;15:00;Fed Mester speech;United States;USD;2
+KRW_CurrentAccount;20180404;23:00;Current Account Balance;South Korea;KRW;1
+AUD_AiGPerformanceofServicesIndex;20180404;23:30;AiG Performance of Services Index;Australia;AUD;1
+JPY_ForeignInvestmentinJapanStocks;20180404;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20180404;23:50;Foreign Bond Investment;Japan;JPY;1

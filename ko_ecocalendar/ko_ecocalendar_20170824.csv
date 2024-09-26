@@ -1,0 +1,29 @@
+JPY_CoincidentIndex;20170824;05:00;Coincident Index;Japan;JPY;2
+JPY_LeadingEconomicIndex;20170824;05:00;Leading Economic Index;Japan;JPY;2
+NOK_GrossDomesticProduct;20170824;06:00;Gross Domestic Product Growth Mainland;Norway;NOK;1
+EUR_FraIndividualInvestment;20170824;06:45;Individual Investment (Current Year);France;EUR;1
+EUR_FraBusinessClimateinManufacturing;20170824;06:45;Business Climate in Manufacturing;France;EUR;1
+CHF_IndustrialProduction;20170824;07:15;Industrial Production (YoY);Switzerland;CHF;2
+SEK_UnemploymentRate;20170824;07:30;Unemployment Rate;Sweden;SEK;1
+USD_JacksonHoleSymposium;20170824;08:00;Jackson Hole Symposium;United States;USD;3
+PLN_Unemployment;20170824;08:00;Unemployment (MoM);Poland;PLN;1
+GBP_BBAMortgageApprovals;20170824;08:30;BBA Mortgage Approvals;United Kingdom;GBP;1
+GBP_GrossDomesticProduct;20170824;08:30;Gross Domestic Product (QoQ);United Kingdom;GBP;2
+GBP_TotalBusinessInvestment;20170824;08:30;Total Business Investment (QoQ);United Kingdom;GBP;1
+GBP_IndexofServices;20170824;08:30;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_CBIDistributiveTradesSurvey–Realized;20170824;10:00;CBI Distributive Trades Survey – Realized (MoM);United Kingdom;GBP;1
+USD_JoblessClaims;20170824;12:30;Continuing Jobless Claims;United States;USD;2
+RUB_CentralBankReserves;20170824;13:00;Central Bank Reserves $;Russia;RUB;1
+MXN_1sthalfmonthInflation;20170824;13:00;1st half-month Inflation;Mexico;MXN;1
+MXN_1sthalfmonthCoreInflation;20170824;13:00;1st half-month Core Inflation;Mexico;MXN;1
+USD_ExistingHomeSales;20170824;14:00;Existing Home Sales (MoM);United States;USD;1
+USD_ExistingHomeSalesChange;20170824;14:00;Existing Home Sales Change (MoM);United States;USD;1
+USD_EIANaturalGasStorageChange;20170824;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_KansasFedManufacturingActivity;20170824;15:00;Kansas Fed Manufacturing Activity;United States;USD;1
+KRW_ConsumerSentimentIndex;20170824;21:00;Consumer Sentiment Index;South Korea;KRW;1
+JPY_TokyoCPIexFreshFood;20170824;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;1
+JPY_TokyoCPIexFoodEnergy;20170824;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;1
+JPY_ConsumerPriceIndex;20170824;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;1
+JPY_NationalCPIexFreshFood;20170824;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_NationalCPIexFoodEnergy;20170824;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_CorporateServicePriceIndex;20170824;23:50;Corporate Service Price Index (YoY);Japan;JPY;1

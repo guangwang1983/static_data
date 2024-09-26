@@ -1,0 +1,17 @@
+AUD_NationalAustraliaBankBusinessConditions;20220712;01:30;National Australia Bank Business Conditions;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConfidence;20220712;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+RON_ConsumerPriceIndex;20220712;06:00;Consumer Price Index;Romania;RON;1
+EUR_EurEcoFinMeeting;20220712;07:00;EcoFin Meeting;European Monetary Union;EUR;2
+CZK_UnemploymentRate;20220712;08:00;Unemployment Rate;Czech Republic;CZK;1
+EUR_EurZEWSurvey–EconomicSentiment;20220712;09:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;2
+GBP_Auction;20220712;09:30;10-y Bond Auction;United Kingdom;GBP;1
+USD_NFIBBusinessOptimismIndex;20220712;10:00;NFIB Business Optimism Index;United States;USD;1
+MXN_IndustrialOutput;20220712;11:00;Industrial Output (MoM);Mexico;MXN;1
+ZAR_ManufacturingProductionIndex;20220712;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+USD_RedbookIndex;20220712;12:55;Redbook Index (YoY);United States;USD;1
+USD_IBDTIPPEconomicOptimism;20220712;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+USD_USDAWASDEReport;20220712;16:00;USDA WASDE Report;United States;USD;1
+USD_Auction;20220712;17:00;10-Year Note Auction;United States;USD;1
+GBP_CentralBankSpeech;20220712;17:00;BoE Governor Bailey speech;United Kingdom;GBP;3
+USD_APIWeeklyCrudeOilStock;20220712;20:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_FoodPriceIndex;20220712;22:45;Food Price Index (MoM);New Zealand;NZD;1

@@ -1,0 +1,49 @@
+JPY_JibunBankServicesPMI;20240222;00:30;Jibun Bank Services PMI;Japan;JPY;1
+JPY_JibunBankManufacturingPMI;20240222;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+KRW_BoKInterestRateDecision;20240222;01:00;BoK Interest Rate Decision;South Korea;KRW;2
+NZD_CreditCardSpending;20240222;02:00;Credit Card Spending (YoY);New Zealand;NZD;1
+DKK_IndustrialOutlook;20240222;07:00;Industrial Outlook;Denmark;DKK;1
+EUR_EurEcoFinMeeting;20240222;07:00;EcoFin Meeting;Eurozone;EUR;2
+HUF_GrossWages;20240222;07:30;Gross Wages (YoY);Hungary;HUF;1
+EUR_FraBusinessClimateinManufacturing;20240222;07:45;Business Climate in Manufacturing;France;EUR;1
+EUR_FraHCOBManufacturingPMI;20240222;08:15;HCOB Manufacturing PMI;France;EUR;2
+EUR_FraHCOBCompositePMI;20240222;08:15;HCOB Composite PMI;France;EUR;2
+EUR_FraHCOBServicesPMI;20240222;08:15;HCOB Services PMI;France;EUR;2
+EUR_GerHCOBCompositePMI;20240222;08:30;HCOB Composite PMI;Germany;EUR;3
+EUR_GerHCOBManufacturingPMI;20240222;08:30;HCOB Manufacturing PMI;Germany;EUR;3
+EUR_GerHCOBServicesPMI;20240222;08:30;HCOB Services PMI;Germany;EUR;3
+EUR_ItaConsumerPriceIndex;20240222;09:00;Consumer Price Index (EU Norm) (MoM);Italy;EUR;1
+PLN_RetailSales;20240222;09:00;Retail Sales (YoY);Poland;PLN;1
+EUR_EurHCOBServicesPMI;20240222;09:00;HCOB Services PMI;Eurozone;EUR;3
+EUR_EurHCOBManufacturingPMI;20240222;09:00;HCOB Manufacturing PMI;Eurozone;EUR;3
+EUR_EurHCOBCompositePMI;20240222;09:00;HCOB Composite PMI;Eurozone;EUR;3
+GBP_S&PGlobalCIPSServicesPMI;20240222;09:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;3
+GBP_S&PGlobalCIPSCompositePMI;20240222;09:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;3
+GBP_S&PGlobalCIPSManufacturingPMI;20240222;09:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;3
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20240222;10:00;Core Harmonized Index of Consumer Prices (YoY);Eurozone;EUR;2
+EUR_EurHarmonizedIndexofConsumerPrices;20240222;10:00;Harmonized Index of Consumer Prices (MoM);Eurozone;EUR;2
+TRY_CBRTInterestRateDecision;20240222;11:00;CBRT Interest Rate Decision;Turkey;TRY;2
+ILS_IndustrialProduction;20240222;11:00;Industrial Production (MoM);Israel;ILS;1
+MXN_GrossDomesticProduct;20240222;12:00;Gross Domestic Product (QoQ);Mexico;MXN;1
+MXN_1sthalfmonthCoreInflation;20240222;12:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20240222;12:00;1st half-month Inflation;Mexico;MXN;1
+EUR_EurECBMonetaryPolicyMeetingAccounts;20240222;12:30;ECB Monetary Policy Meeting Accounts;Eurozone;EUR;2
+PLN_M3MoneySupply;20240222;13:00;M3 Money Supply (YoY);Poland;PLN;1
+RUB_CentralBankReserves;20240222;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_ChicagoFedNationalActivityIndex;20240222;13:30;Chicago Fed National Activity Index ;United States;USD;1
+USD_JoblessClaims;20240222;13:30;Initial Jobless Claims;United States;USD;2
+CAD_EmploymentInsuranceBeneficiariesChange;20240222;13:30;Employment Insurance Beneficiaries Change (MoM);Canada;CAD;1
+CAD_RetailSales;20240222;13:30;Retail Sales (MoM);Canada;CAD;2
+USD_S&PGlobalServicesPMI;20240222;14:45;S&P Global Services PMI;United States;USD;3
+USD_S&PGlobalCompositePMI;20240222;14:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalManufacturingPMI;20240222;14:45;S&P Global Manufacturing PMI;United States;USD;3
+USD_ExistingHomeSales;20240222;15:00;Existing Home Sales (MoM);United States;USD;1
+USD_ExistingHomeSalesChange;20240222;15:00;Existing Home Sales Change (MoM);United States;USD;2
+JPY_TheEmperorBirthday;20240222;15:00;The Emperor Birthday;Japan;JPY;0
+USD_EIANaturalGasStorageChange;20240222;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_EIACrudeOilStocksChange;20240222;16:00;EIA Crude Oil Stocks Change;United States;USD;1
+USD_KansasFedManufacturingActivity;20240222;16:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_Auction;20240222;18:00;30-year TIPS Auction;United States;USD;1
+RUB_DefenceoftheFatherland;20240222;21:00;Defence of the Fatherland;Russia;RUB;0
+NZD_RetailSales;20240222;21:45;Retail Sales ex Autos (QoQ);New Zealand;NZD;2
+USD_CentralBankSpeech;20240222;22:00;Fed Kashkari speech;United States;USD;2

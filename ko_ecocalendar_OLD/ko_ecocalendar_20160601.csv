@@ -1,0 +1,58 @@
+JPY_MonetaryBase;20160601;23:50;Monetary Base (YoY);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20160601;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20160601;23:50;Foreign Bond Investment;Japan;JPY;2
+KRW_GrossDomesticProduct;20160601;23:00;Gross Domestic Product Growth (YoY);South Korea;KRW;1
+ARS_TaxRevenue;20160601;21:00;Tax Revenue (MoM);Argentina;ARS;1
+USD_APIWeeklyCrudeOilStock;20160601;20:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_TotalVehicleSales;20160601;20:21;Total Vehicle Sales;United States;USD;1
+BRL_TradeBalance;20160601;18:00;Trade Balance;Brazil;BRL;1
+USD_FedBeigeBook;20160601;18:00;Fed Beige Book;United States;USD;2
+NZD_GDTPriceIndex;20160601;15:06;GDT Price Index;New Zealand;NZD;1
+USD_JOLTSJobOpenings;20160601;14:00;JOLTS Job Openings;United States;USD;1
+USD_ISMManufacturingPMI;20160601;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMPricesPaid;20160601;14:00;ISM Prices Paid;United States;USD;3
+USD_ConstructionSpending;20160601;14:00;Construction Spending (MoM);United States;USD;2
+USD_MarkitManufacturingPMI;20160601;13:45;Markit Manufacturing PMI;United States;USD;2
+CAD_MarkitManufacturingPMI;20160601;13:30;Markit Manufacturing PMI;Canada;CAD;2
+BRL_HSBCPMIManufacturing;20160601;13:00;HSBC PMI Manufacturing;Brazil;BRL;1
+USD_RedbookIndex;20160601;12:55;Redbook Index (MoM);United States;USD;1
+ZAR_TotalNewVehicleSales;20160601;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+BRL_GrossDomesticProduct;20160601;12:00;Gross Domestic Product (YoY);Brazil;BRL;1
+USD_MBAMortgageApplications;20160601;11:00;MBA Mortgage Applications;United States;USD;1
+EUR_AusUnemployment;20160601;10:00;Unemployment;Austria;EUR;1
+EUR_AusUnemploymentRate;20160601;10:00;Unemployment Rate;Austria;EUR;1
+GBP_NetLendingtoIndividuals;20160601;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_MarkitManufacturingPMI;20160601;08:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+GBP_ConsumerCredit;20160601;08:30;Consumer Credit;United Kingdom;GBP;2
+GBP_MortgageApprovals;20160601;08:30;Mortgage Approvals;United Kingdom;GBP;2
+GBP_M4MoneySupply;20160601;08:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+RUB_HSBCManufacturingPMI;20160601;08:02;HSBC Manufacturing PMI	;Russia;RUB;1
+ISK_CBIInterestRateDecision;20160601;08:00;CBI Interest Rate Decision;Iceland;ISK;1
+TRY_Exports;20160601;08:00;Exports;Turkey;TRY;1
+NOK_CurrentAccount;20160601;08:00;Current Account;Norway;NOK;1
+EUR_GreMarkitManufacturingPMI;20160601;08:00;Markit Manufacturing PMI;Greece;EUR;1
+EUR_EurMarkitManufacturingPMI;20160601;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_GerMarkitManufacturingPMI;20160601;07:55;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20160601;07:50;Markit Manufacturing PMI;France;EUR;1
+EUR_ItaMarkitManufacturingPMI;20160601;07:45;Markit Manufacturing PMI;Italy;EUR;1
+CHF_SVMEPurchasingManagers'Index;20160601;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_MarkitPMI;20160601;07:30;Markit PMI;Czech Republic;CZK;1
+EUR_SpaMarkitManufacturingPMI;20160601;07:15;Markit Manufacturing PMI;Spain;EUR;1
+CHF_RetailSales;20160601;07:15;Real Retail Sales (YoY);Switzerland;CHF;2
+HUF_PurchasingManagerIndex;20160601;07:00;Purchasing Manager Index;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20160601;07:00;Purchasing Manager Index;Poland;PLN;2
+AUD_RBACommodityIndexSDR;20160601;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+SEK_PurchasingManagersIndexManufacturing;20160601;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;2
+GBP_NationwideHousingPrices;20160601;06:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;1
+PEN_Inflation;20160601;06:00;Inflation;Peru;PEN;1
+CHF_GrossDomesticProduct;20160601;05:45;Gross Domestic Product (YoY);Switzerland;CHF;2
+EUR_IrePurchasingManagerIndexManufacturing;20160601;05:00;Purchasing Manager Index Manufacturing;Ireland;EUR;1
+IDR_Inflation;20160601;04:00;Inflation (YoY);Indonesia;IDR;1
+IDR_CoreInflation;20160601;04:00;Core Inflation (YoY);Indonesia;IDR;1
+JPY_NikkeiManufacturingPMI;20160601;02:00;Nikkei Manufacturing PMI;Japan;JPY;1
+CNY_CaixinManufacturingPMI;20160601;01:45;Caixin Manufacturing PMI;China;CNY;2
+AUD_GrossDomesticProduct;20160601;01:30;Gross Domestic Product (YoY);Australia;AUD;2
+KRW_NikkeiMarkitManufacturingPMI;20160601;01:30;Nikkei Markit Manufacturing PMI;South Korea;KRW;1
+CNY_NBSManufacturingPMI;20160601;01:00;NBS Manufacturing PMI;China;CNY;2
+CNY_NonManufacturingPMI;20160601;01:00;Non-Manufacturing PMI;China;CNY;2
+KRW_TradeBalance;20160601;00:00;Trade Balance;South Korea;KRW;1

@@ -1,0 +1,22 @@
+COP_TradeBalance;20130913;19:00;Trade Balance;Colombia;COP;1
+USD_BusinessInventories;20130913;14:00;Business Inventories;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20130913;13:55;Michigan Consumer Sentiment Index;United States;USD;3
+USD_RetailSales;20130913;12:30;Retail Sales ex Autos (MoM);United States;USD;2
+USD_ProducerPriceIndex;20130913;12:30;Producer Price Index (MoM);United States;USD;1
+CAD_CapacityUtilization;20130913;12:30;Capacity Utilization;Canada;CAD;1
+PLN_ConsumerPriceIndex;20130913;12:00;Consumer Price Index (MoM);Poland;PLN;1
+PLN_M3MoneySupply;20130913;12:00;M3 Money Supply (YoY);Poland;PLN;1
+INR_FXReservesUSD;20130913;11:30;FX Reserves, USD;India;INR;1
+EUR_EurEmploymentChange;20130913;09:00;Employment Change (QoQ);European Monetary Union;EUR;1
+RUB_BudgetFulfilment;20130913;07:30;Budget Fulfilment;Russia;RUB;1
+SEK_GrossDomesticProduct;20130913;07:30;Gross Domestic Product (QoQ);Sweden;SEK;1
+CHF_ProducerandImportPrices;20130913;07:15;Producer and Import Prices (MoM);Switzerland;CHF;1
+HUF_IndustrialOutput;20130913;07:00;Industrial Output (YoY);Hungary;HUF;1
+EUR_FinCurrentAccount;20130913;07:00;Current Account;Finland;EUR;1
+EUR_FinConsumerPriceIndex;20130913;06:00;Consumer Price Index (YoY);Finland;EUR;1
+SGD_RetailSales;20130913;05:00;Retail Sales (MoM);Singapore;SGD;1
+JPY_IndustrialProduction;20130913;04:30;Industrial Production (MoM);Japan;JPY;1
+JPY_CapacityUtilization;20130913;04:30;Capacity Utilization;Japan;JPY;1
+SGD_Unemploymentrate;20130913;02:00;Unemployment rate;Singapore;SGD;1
+EUR_EurEurogroupMeeting;20130913;00:00;Eurogroup Meeting;European Monetary Union;EUR;2
+EUR_EurEcoFinMeeting;20130913;00:00;EcoFin Meeting;European Monetary Union;EUR;2

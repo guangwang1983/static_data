@@ -1,0 +1,34 @@
+NZD_FoodPriceIndex;20110310;21:45;Food Price Index (MoM);New Zealand;NZD;1
+USD_MonthlyBudgetStatement;20110310;19:00;Monthly Budget Statement;United States;USD;2
+GBP_NIESRGDPEstimate;20110310;15:00;NIESR GDP Estimate (3M);United Kingdom;GBP;2
+USD_TradeBalance;20110310;13:30;Trade Balance;United States;USD;2
+USD_JoblessClaims;20110310;13:30;Continuing Jobless Claims;United States;USD;1
+CAD_InternationalMerchandiseTrade;20110310;13:30;International Merchandise Trade;Canada;CAD;2
+AUD_CentralBankSpeech;20110310;13:15;RBA Governor Stevens speech;Australia;AUD;2
+GBP_BoEInterestRateDecision;20110310;12:00;BoE Interest Rate Decision;United Kingdom;GBP;3
+AUD_ConsumerInflationExpectations;20110310;12:00;Consumer Inflation Expectations;Australia;AUD;2
+ZAR_ManufacturingProductionIndex;20110310;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+RUB_CentralBankReserves;20110310;10:40;Central Bank Reserves $;Russia;RUB;1
+EUR_PorGrossDomesticProduct;20110310;10:00;Gross Domestic Product (YoY);Portugal;EUR;1
+GBP_ManufacturingProduction;20110310;09:30;Manufacturing Production (MoM);United Kingdom;GBP;1
+GBP_IndustrialProduction;20110310;09:30;Industrial Production (YoY);United Kingdom;GBP;1
+NOK_ConsumerPriceIndex;20110310;09:00;Consumer Price Index (YoY);Norway;NOK;1
+NOK_CoreInflation;20110310;09:00;Core Inflation (YoY);Norway;NOK;1
+EUR_EurECBMonthlyReport;20110310;09:00;ECB Monthly Report;European Monetary Union;EUR;2
+NOK_ProducerPriceIndex;20110310;09:00;Producer Price Index (YoY);Norway;NOK;1
+DKK_Inflation;20110310;08:30;Inflation (HICP) (YoY);Denmark;DKK;1
+DKK_ConsumerPriceIndex;20110310;08:30;Consumer Price Index (YoY);Denmark;DKK;1
+SEK_ConsumerPriceIndex;20110310;08:30;Consumer Price Index (MoM);Sweden;SEK;1
+EUR_NetConsumerPriceIndex;20110310;08:30;Consumer Price Index n.s.a (YoY);Netherlands, The;EUR;1
+RON_ConsumerPriceIndex;20110310;08:00;Consumer Price Index;Romania;RON;1
+HUF_TradeBalance;20110310;08:00;Trade Balance;Hungary;HUF;1
+EUR_FinIndustrialOutput;20110310;07:00;Industrial Output (MoM);Finland;EUR;1
+EUR_FinTradeBalance;20110310;07:00;Trade Balance;Finland;EUR;1
+EUR_GerCurrentAccount;20110310;07:00;Current Account n.s.a.;Germany;EUR;1
+EUR_GerTradeBalance;20110310;07:00;Trade Balance s.a.;Germany;EUR;2
+JPY_MachineToolOrders;20110310;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+EUR_FraNonfarmPayrolls;20110310;05:30;Nonfarm Payrolls (QoQ);France;EUR;1
+CNY_TradeBalanceUSD;20110310;03:01;Trade Balance USD;China;CNY;2
+KRW_BoKInterestRateDecision;20110310;02:00;BoK Interest Rate Decision;South Korea;KRW;1
+AUD_EmploymentChange;20110310;00:30;Employment Change s.a.;Australia;AUD;3
+AUD_UnemploymentRate;20110310;00:30;Unemployment Rate s.a.;Australia;AUD;3

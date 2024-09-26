@@ -1,0 +1,36 @@
+COP_Interestrate;20190322;20:00;Interest rate;Colombia;COP;1
+USD_CFTCOilNCNetPositions;20190322;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20190322;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20190322;19:30;CFTC Gold NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20190322;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCUSDNCNetPositions;20190322;19:30;CFTC USD NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20190322;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20190322;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_MonthlyBudgetStatement;20190322;18:00;Monthly Budget Statement;United States;USD;2
+USD_BakerHughesUSOilRigCount;20190322;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_ExistingHomeSales;20190322;14:00;Existing Home Sales (MoM);United States;USD;2
+USD_ExistingHomeSalesChange;20190322;14:00;Existing Home Sales Change (MoM);United States;USD;1
+USD_WholesaleInventories;20190322;14:00;Wholesale Inventories;United States;USD;1
+MXN_1sthalfmonthCoreInflation;20190322;14:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20190322;14:00;1st half-month Inflation;Mexico;MXN;1
+USD_MarkitManufacturingPMI;20190322;13:45;Markit Manufacturing PMI;United States;USD;2
+USD_MarkitPMIComposite;20190322;13:45;Markit PMI Composite;United States;USD;2
+USD_MarkitServicesPMI;20190322;13:45;Markit Services PMI;United States;USD;2
+PLN_M3MoneySupply;20190322;13:00;M3 Money Supply (YoY);Poland;PLN;1
+CAD_RetailSales;20190322;12:30;Retail Sales (MoM);Canada;CAD;3
+CAD_ConsumerPriceIndex;20190322;12:30;Consumer Price Index (YoY);Canada;CAD;2
+GBP_BoEQuarterlyBulletin;20190322;12:00;BoE Quarterly Bulletin;United Kingdom;GBP;1
+INR_FXReservesUSD;20190322;11:30;FX Reserves, USD;India;INR;1
+RUB_Interestratedecision;20190322;10:30;Interest rate decision;Russia;RUB;2
+EUR_EurCentralBankSpeech;20190322;10:15;ECB Mersch speech;European Monetary Union;EUR;2
+EUR_EurCurrentAccount;20190322;09:00;Current Account s.a;European Monetary Union;EUR;1
+EUR_EurMarkitManufacturingPMI;20190322;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20190322;09:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_EurMarkitPMIComposite;20190322;09:00;Markit PMI Composite;European Monetary Union;EUR;3
+EUR_GerMarkitPMIComposite;20190322;08:30;Markit PMI Composite;Germany;EUR;2
+EUR_GerMarkitServicesPMI;20190322;08:30;Markit Services PMI;Germany;EUR;2
+EUR_GerMarkitManufacturingPMI;20190322;08:30;Markit Manufacturing PMI;Germany;EUR;3
+EUR_FraMarkitManufacturingPMI;20190322;08:15;Markit Manufacturing PMI;France;EUR;1
+EUR_FraMarkitServicesPMI;20190322;08:15;Markit Services PMI;France;EUR;1
+EUR_FraMarkitPMIComposite;20190322;08:15;Markit PMI Composite;France;EUR;1
+JPY_NikkeiManufacturingPMI;20190322;00:30;Nikkei Manufacturing PMI;Japan;JPY;1

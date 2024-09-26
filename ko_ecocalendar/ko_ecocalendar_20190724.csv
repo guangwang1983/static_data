@@ -1,0 +1,32 @@
+JPY_JibunBankManufacturingPMI;20190724;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+JPY_CoincidentIndex;20190724;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20190724;05:00;Leading Economic Index;Japan;JPY;2
+EUR_FraBusinessClimateinManufacturing;20190724;06:45;Business Climate in Manufacturing;France;EUR;1
+EUR_FraHCOBCompositePMI;20190724;07:15;HCOB Composite PMI;France;EUR;2
+EUR_FraHCOBManufacturingPMI;20190724;07:15;HCOB Manufacturing PMI;France;EUR;1
+EUR_FraHCOBServicesPMI;20190724;07:15;HCOB Services PMI;France;EUR;1
+EUR_GerHCOBManufacturingPMI;20190724;07:30;HCOB Manufacturing PMI;Germany;EUR;3
+EUR_GerHCOBServicesPMI;20190724;07:30;HCOB Services PMI;Germany;EUR;2
+EUR_GerHCOBCompositePMI;20190724;07:30;HCOB Composite PMI;Germany;EUR;3
+CHF_ZEWSurvey–Expectations;20190724;08:00;ZEW Survey – Expectations;Switzerland;CHF;2
+EUR_EurM3MoneySupply;20190724;08:00;M3 Money Supply (YoY);European Monetary Union;EUR;1
+EUR_EurPrivateLoans;20190724;08:00;Private Loans (YoY);European Monetary Union;EUR;1
+ZAR_ConsumerPriceIndex;20190724;08:00;Consumer Price Index (YoY);South Africa;ZAR;1
+EUR_EurHCOBCompositePMI;20190724;08:00;HCOB Composite PMI;European Monetary Union;EUR;3
+EUR_EurHCOBManufacturingPMI;20190724;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurHCOBServicesPMI;20190724;08:00;HCOB Services PMI;European Monetary Union;EUR;2
+GBP_BBAMortgageApprovals;20190724;08:30;BBA Mortgage Approvals;United Kingdom;GBP;1
+USD_MBAMortgageApplications;20190724;11:00;MBA Mortgage Applications;United States;USD;1
+MXN_1sthalfmonthCoreInflation;20190724;11:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20190724;11:00;1st half-month Inflation;Mexico;MXN;1
+USD_S&PGlobalServicesPMI;20190724;13:45;S&P Global Services PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20190724;13:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalManufacturingPMI;20190724;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_NewHomeSales;20190724;14:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20190724;14:00;New Home Sales Change (MoM);United States;USD;1
+USD_EIACrudeOilStocksChange;20190724;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_Auction;20190724;17:00;5-Year Note Auction;United States;USD;1
+KRW_GrossDomesticProduct;20190724;23:00;Gross Domestic Product Growth (QoQ) ;South Korea;KRW;1
+JPY_CorporateServicePriceIndex;20190724;23:50;Corporate Service Price Index (YoY);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20190724;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20190724;23:50;Foreign Bond Investment;Japan;JPY;1

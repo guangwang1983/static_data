@@ -1,0 +1,29 @@
+JPY_JibunBankManufacturingPMI;20160923;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+CNY_MNIBusinessSentimentIndicator;20160923;01:45;MNI Business Sentiment Indicator;China;CNY;1
+JPY_AllIndustryActivityIndex;20160923;04:30;All Industry Activity Index (MoM);Japan;JPY;2
+HUF_CurrentAccount;20160923;06:30;Current Account Balance (QoQ);Hungary;HUF;1
+EUR_FraGrossDomesticProduct;20160923;06:45;Gross Domestic Product (YoY);France;EUR;1
+EUR_FraHCOBServicesPMI;20160923;07:00;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20160923;07:00;HCOB Composite PMI;France;EUR;1
+EUR_FraHCOBManufacturingPMI;20160923;07:00;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerHCOBCompositePMI;20160923;07:30;HCOB Composite PMI;Germany;EUR;2
+EUR_GerHCOBManufacturingPMI;20160923;07:30;HCOB Manufacturing PMI;Germany;EUR;2
+EUR_GerHCOBServicesPMI;20160923;07:30;HCOB Services PMI;Germany;EUR;2
+PLN_Unemployment;20160923;08:00;Unemployment (MoM);Poland;PLN;1
+EUR_EurHCOBServicesPMI;20160923;08:00;HCOB Services PMI;European Monetary Union;EUR;2
+EUR_EurHCOBManufacturingPMI;20160923;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurHCOBCompositePMI;20160923;08:00;HCOB Composite PMI;European Monetary Union;EUR;2
+INR_FXReservesUSD;20160923;11:30;FX Reserves, USD;India;INR;1
+CAD_RetailSales;20160923;12:30;Retail Sales ex Autos (MoM);Canada;CAD;1
+CAD_ConsumerPriceIndex;20160923;12:30;Consumer Price Index - Core (MoM);Canada;CAD;1
+MXN_RetailSales;20160923;13:00;Retail Sales (YoY);Mexico;MXN;1
+USD_S&PGlobalManufacturingPMI;20160923;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_CentralBankSpeech;20160923;16:00;Fed Lockhart speech;United States;USD;1
+USD_BakerHughesUSOilRigCount;20160923;17:00;Baker Hughes US Oil Rig Count;United States;USD;2
+AUD_CFTCAUDNCNetPositions;20160923;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+GBP_CFTCGBPNCNetPositions;20160923;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20160923;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20160923;19:30;CFTC Oil NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20160923;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCS&P500NCNetPositions;20160923;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20160923;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1

@@ -1,0 +1,29 @@
+AUD_WestpacConsumerConfidence;20180711;00:30;Westpac Consumer Confidence;Australia;AUD;2
+AUD_InvestmentLendingforHomes;20180711;01:30;Investment Lending for Homes;Australia;AUD;2
+AUD_HomeLoans;20180711;01:30;Home Loans;Australia;AUD;2
+KRW_MoneySupplyGrowth;20180711;03:00;Money Supply Growth;South Korea;KRW;1
+JPY_TertiaryIndustryIndex;20180711;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+RON_ConsumerPriceIndex;20180711;06:00;Consumer Price Index;Romania;RON;1
+CZK_ConsumerPriceIndex;20180711;07:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+CZK_UnemploymentRate;20180711;07:00;Unemployment Rate;Czech Republic;CZK;1
+EUR_EurNonMonetaryPolicyECBMeeting;20180711;07:00;Non-Monetary Policy ECB Meeting;European Monetary Union;EUR;2
+TRY_CurrentAccount;20180711;07:00;Current Account Balance;Turkey;TRY;1
+EUR_GerAuction;20180711;09:40;10-y Bond Auction;Germany;EUR;2
+USD_MBAMortgageApplications;20180711;11:00;MBA Mortgage Applications;United States;USD;1
+EUR_EurCentralBankSpeech;20180711;12:00;ECB Mersch speech;European Monetary Union;EUR;2
+GBP_NIESRGDPEstimate;20180711;12:00;NIESR GDP Estimate (3M);United Kingdom;GBP;1
+PLN_NBPBaserate;20180711;12:00;NBP Base rate;Poland;PLN;1
+USD_ProducerPriceIndex;20180711;12:30;Producer Price Index ex Food & Energy (YoY);United States;USD;2
+CAD_BankofCanadaMonetaryPolicyReport;20180711;14:00;Bank of Canada Monetary Policy Report;Canada;CAD;3
+USD_WholesaleInventories;20180711;14:00;Wholesale Inventories;United States;USD;1
+CAD_BoCInterestRateDecision;20180711;14:00;BoC Interest Rate Decision;Canada;CAD;3
+CAD_BoCRateStatement;20180711;14:00;BoC Rate Statement;Canada;CAD;3
+USD_EIACrudeOilStocksChange;20180711;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+CAD_BoCPressConference;20180711;15:15;BoC Press Conference;Canada;CAD;3
+GBP_CentralBankSpeech;20180711;15:35;BoE Governor Carney speech;United Kingdom;GBP;3
+USD_Auction;20180711;17:08;10-Year Note Auction;United States;USD;1
+USD_CentralBankSpeech;20180711;20:30;Fed Williams speech;United States;USD;2
+NZD_FoodPriceIndex;20180711;22:45;Food Price Index (MoM);New Zealand;NZD;1
+GBP_RICSHousingPriceBalance;20180711;23:01;RICS Housing Price Balance;United Kingdom;GBP;1
+JPY_ForeignInvestmentinJapanStocks;20180711;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20180711;23:50;Foreign Bond Investment;Japan;JPY;1

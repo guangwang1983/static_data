@@ -1,0 +1,44 @@
+ZAR_M3MoneySupply;20221129;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+ZAR_PrivateSectorCredit;20221129;06:00;Private Sector Credit;South Africa;ZAR;1
+SEK_RetailSales;20221129;07:00;Retail Sales (MoM);Sweden;SEK;1
+TRY_TradeBalance;20221129;07:00;Trade Balance;Turkey;TRY;1
+DKK_IndustrialOutlook;20221129;07:00;Industrial Outlook;Denmark;DKK;1
+SEK_GrossDomesticProduct;20221129;07:00;Gross Domestic Product (YoY);Sweden;SEK;1
+TRY_EconomicConfidenceIndex;20221129;07:00;Economic Confidence Index;Turkey;TRY;1
+SEK_TradeBalance;20221129;07:00;Trade Balance (MoM);Sweden;SEK;1
+CHF_GrossDomesticProduct;20221129;08:00;Gross Domestic Product (YoY);Switzerland;CHF;2
+SEK_ConsumerConfidence;20221129;08:00;Consumer Confidence (MoM);Sweden;SEK;1
+EUR_ItaIndustrialSales;20221129;09:00;Industrial Sales n.s.a. (YoY);Italy;EUR;1
+GBP_NetLendingtoIndividuals;20221129;09:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20221129;09:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20221129;09:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_M4MoneySupply;20221129;09:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+ZAR_UnemploymentTotal;20221129;09:30;Unemployment Total ;South Africa;ZAR;1
+ZAR_UnemploymentRate;20221129;09:30;Unemployment Rate (%);South Africa;ZAR;1
+EUR_ItaProducerPriceIndex;20221129;10:00;Producer Price Index (YoY);Italy;EUR;1
+EUR_EurServicesSentiment;20221129;10:00;Services Sentiment;European Monetary Union;EUR;1
+EUR_EurConsumerConfidence;20221129;10:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurIndustrialConfidence;20221129;10:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_EurEconomicSentimentIndicator;20221129;10:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+EUR_EurBusinessClimate;20221129;10:00;Business Climate;European Monetary Union;EUR;2
+EUR_ItaAuction;20221129;10:10;10-y Bond Auction;Italy;EUR;1
+BRL_InflationIndexIGPM;20221129;11:00;Inflation Index/IGP-M;Brazil;BRL;1
+MXN_JoblessRate;20221129;12:00;Jobless Rate;Mexico;MXN;1
+CLP_Unemploymentrate;20221129;12:00;Unemployment rate;Chile;CLP;1
+EUR_GerHarmonizedIndexofConsumerPrices;20221129;13:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+EUR_GerConsumerPriceIndex;20221129;13:00;Consumer Price Index (MoM);Germany;EUR;1
+EUR_EurCentralBankSpeech;20221129;13:30;ECB Schnabel speech;European Monetary Union;EUR;2
+CAD_GrossDomesticProduct;20221129;13:30;Gross Domestic Product Annualized;Canada;CAD;3
+USD_RedbookIndex;20221129;13:55;Redbook Index (YoY);United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20221129;14:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;2
+USD_HousingPriceIndex;20221129;14:00;Housing Price Index (MoM);United States;USD;2
+USD_ConsumerConfidence;20221129;15:00;Consumer Confidence;United States;USD;2
+GBP_CentralBankSpeech;20221129;15:00;BoE Governor Bailey speech;United Kingdom;GBP;3
+USD_Auction;20221129;16:30;52-Week Bill Auction;United States;USD;1
+RON_StAndrewDay;20221129;21:00;St. Andrew Day;Romania;RON;0
+USD_APIWeeklyCrudeOilStock;20221129;21:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_BuildingPermits;20221129;21:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+KRW_IndustrialOutputGrowth;20221129;23:00;Industrial Output Growth;South Korea;KRW;1
+KRW_IndustrialOutput;20221129;23:00;Industrial Output (YoY);South Korea;KRW;1
+KRW_ServiceSectorOutput;20221129;23:00;Service Sector Output;South Korea;KRW;1
+JPY_IndustrialProduction;20221129;23:50;Industrial Production (YoY);Japan;JPY;2

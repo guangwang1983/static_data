@@ -1,0 +1,38 @@
+USD_ConsumerCreditChange;20111007;19:00;Consumer Credit Change;United States;USD;2
+HUF_BudgetBalance;20111007;15:00;Budget Balance;Hungary;HUF;0
+USD_CentralBankSpeech;20111007;14:45;Fed Lockhart speech;United States;USD;1
+USD_WholesaleInventories;20111007;14:00;Wholesale Inventories;United States;USD;1
+MXN_12MonthInflation;20111007;13:00;12-Month Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20111007;13:00;Headline Inflation;Mexico;MXN;1
+MXN_CoreInflation;20111007;13:00;Core Inflation;Mexico;MXN;1
+PLN_CentralBankFXReserves;20111007;13:00;Central Bank FX Reserves;Poland;PLN;0
+USD_NonfarmPayrolls;20111007;12:30;Nonfarm Payrolls;United States;USD;3
+USD_AverageHourlyEarnings;20111007;12:30;Average Hourly Earnings (MoM);United States;USD;2
+USD_UnemploymentRate;20111007;12:30;Unemployment Rate;United States;USD;3
+USD_AverageWeeklyHours;20111007;12:30;Average Weekly Hours;United States;USD;1
+BRL_IPCAInflation;20111007;12:00;IPCA Inflation;Brazil;BRL;0
+INR_BankLoanGrowth;20111007;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20111007;11:30;FX Reserves, USD;India;INR;1
+CAD_NetChangeinEmployment;20111007;11:00;Net Change in Employment;Canada;CAD;3
+CAD_UnemploymentRate;20111007;11:00;Unemployment Rate;Canada;CAD;3
+EUR_GerIndustrialProduction;20111007;10:00;Industrial Production s.a. (MoM);Germany;EUR;2
+NOK_ManufacturingOutput;20111007;10:00;Manufacturing Output;Norway;NOK;0
+GBP_ProducerPriceIndex;20111007;08:30;Producer Price Index - Output (YoY) n.s.a;United Kingdom;GBP;2
+RON_IndustrialProduction;20111007;08:00;Industrial Production (MoM);Romania;RON;1
+DKK_IndustrialProduction;20111007;08:00;Industrial Production (MoM);Denmark;DKK;0
+CZK_FXReserves;20111007;08:00;FX Reserves;Czech Republic;CZK;1
+EUR_AusTradeBalance;20111007;07:30;Trade Balance;Austria;EUR;0
+EUR_SloIndustrialOutput;20111007;07:00;Industrial Output (YoY);Slovakia;EUR;1
+CZK_IndustrialProduction;20111007;07:00;Industrial Production (YoY);Czech Republic;CZK;1
+CZK_Constructionoutput;20111007;07:00;Construction output (YoY);Czech Republic;CZK;1
+CZK_ForeignTradeBalance;20111007;07:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+EUR_FraTradeBalanceEUR;20111007;06:45;Trade Balance EUR;France;EUR;1
+EUR_FraImportsEUR;20111007;06:45;Imports, EUR;France;EUR;1
+EUR_FraExportsEUR;20111007;06:45;Exports, EUR;France;EUR;1
+EUR_FraBudget;20111007;06:45;Budget;France;EUR;1
+ZAR_Net$Gold&ForexReserve;20111007;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;0
+ZAR_Gross$Gold&ForexReserve;20111007;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;0
+CHF_UnemploymentRate;20111007;05:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+JPY_CoincidentIndex;20111007;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20111007;05:00;Leading Economic Index;Japan;JPY;2
+JPY_BoJInterestRateDecision;20111007;04:00;BoJ Interest Rate Decision;Japan;JPY;3

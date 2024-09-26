@@ -1,0 +1,65 @@
+NZD_ANZActivityOutlook;20231031;00:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20231031;00:00;ANZ Business Confidence;New Zealand;NZD;1
+GBP_BRCShopPriceIndex;20231031;00:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1
+AUD_PrivateSectorCredit;20231031;00:30;Private Sector Credit (YoY);Australia;AUD;1
+CNY_NBSManufacturingPMI;20231031;01:00;NBS Manufacturing PMI;China;CNY;3
+CNY_NBSNonManufacturingPMI;20231031;01:00;NBS Non-Manufacturing PMI;China;CNY;3
+JPY_BoJInterestRateDecision;20231031;03:00;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_BoJMonetaryPolicyStatement;20231031;03:00;BoJ Monetary Policy Statement ;Japan;JPY;3
+JPY_BoJOutlookReport;20231031;03:00;BoJ Outlook Report;Japan;JPY;2
+CLP_EvangelicalChurchesDay;20231031;04:00;Evangelical Churches Day;Chile;CLP;0
+JPY_AnnualizedHousingStarts;20231031;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_HousingStarts;20231031;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_ConstructionOrders;20231031;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_ConsumerConfidenceIndex;20231031;05:00;Consumer Confidence Index;Japan;JPY;1
+JPY_BoJPressConference;20231031;06:00;BoJ Press Conference;Japan;JPY;3
+EUR_FraConsumerSpending;20231031;06:30;Consumer Spending (MoM);France;EUR;1
+EUR_FraGrossDomesticProduct;20231031;06:30;Gross Domestic Product (QoQ);France;EUR;2
+EUR_GerImportPriceIndex;20231031;07:00;Import Price Index (MoM);Germany;EUR;1
+EUR_GerRetailSales;20231031;07:00;Retail Sales (YoY);Germany;EUR;3
+TRY_TradeBalance;20231031;07:00;Trade Balance;Turkey;TRY;1
+DKK_UnemploymentRate;20231031;07:00;Unemployment Rate;Denmark;DKK;1
+HUF_ProducerPriceIndex;20231031;07:30;Producer Price Index (YoY);Hungary;HUF;1
+CHF_RetailSales;20231031;07:30;Real Retail Sales (YoY);Switzerland;CHF;2
+EUR_FraProducerPrices;20231031;07:45;Producer Prices (MoM);France;EUR;1
+EUR_FraConsumerPriceIndex;20231031;07:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+TRY_ForeignArrivals;20231031;08:00;Foreign Arrivals;Turkey;TRY;1
+EUR_ItaGrossDomesticProduct;20231031;09:00;Gross Domestic Product (YoY);Italy;EUR;2
+EUR_ItaConsumerPriceIndex;20231031;10:00;Consumer Price Index (EU Norm) (MoM);Italy;EUR;1
+INR_FederalFiscalDeficitINR;20231031;10:00;Federal Fiscal Deficit, INR;India;INR;1
+EUR_EurGrossDomesticProduct;20231031;10:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+EUR_EurHarmonizedIndexofConsumerPrices;20231031;10:00;Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20231031;10:00;Core Harmonized Index of Consumer Prices (MoM);European Monetary Union;EUR;3
+EUR_ItaAuction;20231031;10:30;10-y Bond Auction;Italy;EUR;1
+EUR_ItaProducerPriceIndex;20231031;11:00;Producer Price Index (YoY);Italy;EUR;1
+BRL_UnemploymentRate;20231031;12:00;Unemployment Rate;Brazil;BRL;1
+CLP_Unemploymentrate;20231031;12:00;Unemployment rate;Chile;CLP;1
+CLP_IndustrialProduction;20231031;12:00;Industrial Production (YoY);Chile;CLP;1
+ZAR_TradeBalance;20231031;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+INR_InfrastructureOutput;20231031;12:00;Infrastructure Output (YoY);India;INR;1
+USD_EmploymentCostIndex;20231031;12:30;Employment Cost Index;United States;USD;2
+CAD_GrossDomesticProduct;20231031;12:30;Gross Domestic Product (MoM);Canada;CAD;2
+USD_RedbookIndex;20231031;12:55;Redbook Index (YoY);United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20231031;13:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;1
+USD_HousingPriceIndex;20231031;13:00;Housing Price Index (MoM);United States;USD;2
+USD_ChicagoPurchasingManagers'Index;20231031;13:45;Chicago Purchasing Managers' Index;United States;USD;2
+USD_ConsumerConfidence;20231031;14:00;Consumer Confidence;United States;USD;2
+COP_NationalJoblessRate;20231031;15:00;National Jobless Rate;Colombia;COP;1
+USD_Auction;20231031;15:30;52-Week Bill Auction;United States;USD;1
+EUR_GerCentralBankSpeech;20231031;16:00;German Buba President Nagel speech;Germany;EUR;2
+COP_Interestrate;20231031;18:00;Interest rate;Colombia;COP;1
+NZD_RBNZFinancialStabilityReport;20231031;20:00;RBNZ Financial Stability Report;New Zealand;NZD;2
+USD_APIWeeklyCrudeOilStock;20231031;20:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_EmploymentChange;20231031;21:45;Employment Change;New Zealand;NZD;3
+NZD_UnemploymentRate;20231031;21:45;Unemployment Rate;New Zealand;NZD;3
+NZD_ParticipationRate;20231031;21:45;Participation Rate;New Zealand;NZD;2
+NZD_LabourCostIndex;20231031;21:45;Labour Cost Index (QoQ);New Zealand;NZD;2
+EUR_ItaAllSaints'Day;20231031;22:00;All Saints' Day;Italy;EUR;0
+NZD_CentralBankSpeech;20231031;22:00;RBNZ Governor Orr speech;New Zealand;NZD;3
+HUF_AllSaints'Day;20231031;22:00;All Saints' Day;Hungary;HUF;0
+AUD_AiGIndustryIndex;20231031;22:00;AiG Industry Index;Australia;AUD;2
+AUD_AiGManufacturingPMI;20231031;22:00;AiG Manufacturing PMI;Australia;AUD;1
+AUD_JudoBankManufacturingPMI;20231031;22:00;Judo Bank Manufacturing PMI;Australia;AUD;1
+AUD_AiGConstructionPMI;20231031;22:00;AiG Construction PMI;Australia;AUD;1
+EUR_FraAllSaints'Day;20231031;22:00;All Saints' Day;France;EUR;0
+PLN_AllSaints'Day;20231031;23:00;All Saints' Day;Poland;PLN;0

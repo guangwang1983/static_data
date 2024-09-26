@@ -1,0 +1,63 @@
+JPY_MonetaryBase;20150901;23:50;Monetary Base (YoY);Japan;JPY;1
+AUD_CentralBankSpeech;20150901;23:30;RBA Governor Stevens speech;Australia;AUD;3
+KRW_CurrentAccount;20150901;23:00;Current Account Balance;South Korea;KRW;1
+USD_APIWeeklyCrudeOilStock;20150901;21:30;API Weekly Crude Oil Stock;United States;USD;1
+ARS_TaxRevenue;20150901;21:00;Tax Revenue (MoM);Argentina;ARS;1
+BRL_TradeBalance;20150901;18:00;Trade Balance;Brazil;BRL;1
+USD_TotalVehicleSales;20150901;17:30;Total Vehicle Sales;United States;USD;1
+USD_Auction;20150901;15:30;4-Week Bill Auction;United States;USD;1
+NZD_GDTPriceIndex;20150901;14:53;GDT Price Index;New Zealand;NZD;1
+USD_IBDTIPPEconomicOptimism;20150901;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+USD_ISMManufacturingPMI;20150901;14:00;ISM Manufacturing PMI;United States;USD;2
+USD_ISMPricesPaid;20150901;14:00;ISM Prices Paid;United States;USD;2
+USD_ConstructionSpending;20150901;14:00;Construction Spending (MoM);United States;USD;2
+USD_MarkitManufacturingPMI;20150901;13:45;Markit Manufacturing PMI;United States;USD;2
+CAD_MarkitManufacturingPMI;20150901;13:30;Markit Manufacturing PMI;Canada;CAD;2
+BRL_HSBCPMIManufacturing;20150901;13:00;HSBC PMI Manufacturing;Brazil;BRL;1
+USD_RedbookIndex;20150901;12:55;Redbook Index (MoM);United States;USD;1
+CAD_GrossDomesticProduct;20150901;12:30;Gross Domestic Product Annualized (QoQ);Canada;CAD;2
+CZK_BudgetBalance;20150901;12:00;Budget Balance;Czech Republic;CZK;1
+ZAR_TotalNewVehicleSales;20150901;09:00;Total New Vehicle Sales;South Africa;ZAR;1
+EUR_EurUnemploymentRate;20150901;09:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_ItaGrossDomesticProduct;20150901;09:00;Gross Domestic Product (YoY);Italy;EUR;1
+GBP_NetLendingtoIndividuals;20150901;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_MarkitManufacturingPMI;20150901;08:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+GBP_ConsumerCredit;20150901;08:30;Consumer Credit;United Kingdom;GBP;2
+GBP_MortgageApprovals;20150901;08:30;Mortgage Approvals;United Kingdom;GBP;2
+GBP_M4MoneySupply;20150901;08:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+EUR_AusUnemployment;20150901;08:00;Unemployment;Austria;EUR;1
+EUR_AusUnemploymentRate;20150901;08:00;Unemployment Rate;Austria;EUR;1
+TRY_Exports;20150901;08:00;Exports;Turkey;TRY;1
+EUR_ItaUnemployment;20150901;08:00;Unemployment;Italy;EUR;2
+EUR_GreMarkitManufacturingPMI;20150901;08:00;Markit Manufacturing PMI;Greece;EUR;1
+EUR_EurMarkitManufacturingPMI;20150901;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_GerUnemploymentChange;20150901;07:55;Unemployment Change;Germany;EUR;2
+EUR_GerUnemploymentRate;20150901;07:55;Unemployment Rate s.a.;Germany;EUR;2
+EUR_GerMarkitManufacturingPMI;20150901;07:55;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20150901;07:50;Markit Manufacturing PMI;France;EUR;1
+EUR_ItaMarkitManufacturingPMI;20150901;07:45;Markit Manufacturing PMI;Italy;EUR;1
+CHF_SVMEPurchasingManagers'Index;20150901;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_MarkitPMI;20150901;07:30;Markit PMI;Czech Republic;CZK;1
+EUR_SpaMarkitManufacturingPMI;20150901;07:15;Markit Manufacturing PMI;Spain;EUR;1
+HUF_PurchasingManagerIndex;20150901;07:00;Purchasing Manager Index;Hungary;HUF;1
+PEN_Inflation;20150901;07:00;Inflation;Peru;PEN;1
+PLN_PurchasingManagerIndex;20150901;07:00;Purchasing Manager Index;Poland;PLN;2
+AUD_RBACommodityIndexSDR;20150901;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+SEK_PurchasingManagersIndexManufacturing;20150901;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;2
+RUB_HSBCManufacturingPMI;20150901;06:00;HSBC Manufacturing PMI	;Russia;RUB;1
+JPY_VehicleSales;20150901;05:00;Vehicle Sales (YoY);Japan;JPY;1
+EUR_IrePurchasingManagerIndexManufacturing;20150901;05:00;Purchasing Manager Index Manufacturing;Ireland;EUR;1
+AUD_RBARateStatement;20150901;04:30;RBA Rate Statement;Australia;AUD;3
+AUD_RBAInterestRateDecision;20150901;04:30;RBA Interest Rate Decision;Australia;AUD;3
+IDR_Inflation;20150901;04:00;Inflation (YoY);Indonesia;IDR;1
+IDR_CoreInflation;20150901;04:00;Core Inflation (YoY);Indonesia;IDR;1
+CNY_CaixinServicesPMI;20150901;01:45;Caixin Services PMI;China;CNY;2
+CNY_CaixinManufacturingPMI;20150901;01:45;Caixin Manufacturing PMI;China;CNY;2
+JPY_NikkeiManufacturingPMI;20150901;01:35;Nikkei Manufacturing PMI;Japan;JPY;1
+AUD_CurrentAccount;20150901;01:30;Current Account Balance;Australia;AUD;1
+AUD_BuildingPermits;20150901;01:30;Building Permits (YoY);Australia;AUD;1
+CNY_NonManufacturingPMI;20150901;01:00;Non-Manufacturing PMI;China;CNY;2
+CNY_NBSManufacturingPMI;20150901;01:00;NBS Manufacturing PMI;China;CNY;2
+KRW_NikkeiMarkitManufacturingPMI;20150901;00:00;Nikkei Markit Manufacturing PMI;South Korea;KRW;1
+KRW_TradeBalance;20150901;00:00;Trade Balance;South Korea;KRW;1
+EUR_SloSlovakNationalUprisinganniversary;20150901;00:00;Slovak National Uprising anniversary ;Slovakia;EUR;0

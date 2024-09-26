@@ -1,0 +1,45 @@
+JPY_CFTCJPYNCNetPositions;20170303;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+AUD_CFTCAUDNCNetPositions;20170303;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCGoldNCNetPositions;20170303;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCUSDNCNetPositions;20170303;20:30;CFTC USD NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20170303;20:30;CFTC Oil NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20170303;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+GBP_CFTCGBPNCNetPositions;20170303;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_BakerHughesUSOilRigCount;20170303;18:00;Baker Hughes US Oil Rig Count;United States;USD;2
+USD_CentralBankSpeech;20170303;17:15;FOMC Member Powell speech (don't use);United States;USD;1
+USD_ISMNonManufacturingPMI;20170303;15:00;ISM Non-Manufacturing PMI;United States;USD;2
+USD_MarkitServicesPMI;20170303;14:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20170303;14:45;Markit PMI Composite;United States;USD;2
+INR_BankLoanGrowth;20170303;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20170303;11:30;FX Reserves, USD;India;INR;1
+EUR_IreRetailSales;20170303;11:00;Retail Sales (MoM);Ireland;EUR;1
+EUR_EurRetailSales;20170303;10:00;Retail Sales (MoM);European Monetary Union;EUR;1
+GBP_MarkitServicesPMI;20170303;09:30;Markit Services PMI;United Kingdom;GBP;1
+EUR_ItaGrossDomesticProduct;20170303;09:00;Gross Domestic Product (YoY);Italy;EUR;1
+NOK_RegisteredUnemployment;20170303;09:00;Registered Unemployment n.s.a;Norway;NOK;1
+EUR_EurMarkitPMIComposite;20170303;09:00;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20170303;09:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_GerMarkitPMIComposite;20170303;08:55;Markit PMI Composite;Germany;EUR;1
+EUR_GerMarkitServicesPMI;20170303;08:55;Markit Services PMI;Germany;EUR;1
+EUR_FraMarkitPMIComposite;20170303;08:50;Markit PMI Composite;France;EUR;1
+EUR_FraMarkitServicesPMI;20170303;08:50;Markit Services PMI;France;EUR;1
+EUR_ItaMarkitServicesPMI;20170303;08:45;Markit Services PMI;Italy;EUR;1
+SEK_IndustrialProduction;20170303;08:30;Industrial Production (YoY);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20170303;08:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+EUR_SpaMarkitServicesPMI;20170303;08:15;Markit Services PMI;Spain;EUR;1
+DKK_UnemploymentRate;20170303;08:00;Unemployment Rate;Denmark;DKK;1
+HUF_RetailSales;20170303;08:00;Retail Sales (YoY);Hungary;HUF;1
+CZK_GrossDomesticProduct;20170303;08:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+BRL_FipeIPCInflation;20170303;08:00;Fipe IPC Inflation;Brazil;BRL;1
+HUF_TradeBalance;20170303;08:00;Trade Balance;Hungary;HUF;1
+RUB_PurchasingManagerIndexServices;20170303;07:00;Purchasing Manager Index Services;Russia;RUB;1
+TRY_ProducerPriceIndex;20170303;07:00;Producer Price Index (YoY);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20170303;07:00;Consumer Price Index (MoM);Turkey;TRY;1
+EUR_GerRetailSales;20170303;07:00;Retail Sales (YoY);Germany;EUR;1
+EUR_IrePurchasingManagerIndexServices;20170303;06:00;Purchasing Manager Index Services;Ireland;EUR;1
+JPY_ConsumerConfidenceIndex;20170303;05:00;Consumer Confidence Index;Japan;JPY;1
+CNY_CaixinServicesPMI;20170303;01:45;Caixin Services PMI;China;CNY;2
+HKD_NikkeiManufacturingPMI;20170303;00:30;Nikkei Manufacturing PMI;Hong Kong SAR;HKD;1
+JPY_MarkitServicesPMI;20170303;00:30;Markit Services PMI;Japan;JPY;1
+NZD_CentralBankSpeech;20170303;00:30;RBNZ McDermott speech;New Zealand;NZD;2
+NZD_ANZCommodityPrice;20170303;00:00;ANZ Commodity Price;New Zealand;NZD;1

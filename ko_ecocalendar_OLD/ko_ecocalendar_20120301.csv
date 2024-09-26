@@ -1,0 +1,69 @@
+JPY_MonetaryBase;20120301;23:50;Monetary Base (YoY);Japan;JPY;1
+JPY_TokyoCPIexFreshFood;20120301;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;1
+JPY_ConsumerPriceIndex;20120301;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;1
+JPY_TokyoCPIexFoodEnergy;20120301;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;1
+JPY_NationalCPIexFoodEnergy;20120301;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20120301;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_JobsApplicantsRatio;20120301;23:30;Jobs / Applicants Ratio;Japan;JPY;1
+JPY_UnemploymentRate;20120301;23:30;Unemployment Rate;Japan;JPY;2
+JPY_OverallHouseholdSpending;20120301;23:30;Overall Household Spending (YoY);Japan;JPY;2
+USD_TotalVehicleSales;20120301;22:00;Total Vehicle Sales;United States;USD;1
+ARS_TaxRevenue;20120301;21:00;Tax Revenue (MoM);Argentina;ARS;1
+MXN_FiscalBalancepesos;20120301;20:30;Fiscal Balance, pesos;Mexico;MXN;1
+BRL_TradeBalance;20120301;18:00;Trade Balance;Brazil;BRL;1
+USD_CentralBankSpeech;20120301;17:30;Fed Lockhart speech;United States;USD;1
+USD_FedChairBernanketestifies;20120301;15:00;Fed Chair Bernanke testifies;United States;USD;2
+USD_ISMManufacturingPMI;20120301;15:00;ISM Manufacturing PMI;United States;USD;2
+USD_ISMPricesPaid;20120301;15:00;ISM Prices Paid;United States;USD;2
+USD_ConstructionSpending;20120301;15:00;Construction Spending (MoM);United States;USD;2
+USD_PersonalConsumptionExpendituresPriceIndex;20120301;13:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;1
+USD_CorePersonalConsumptionExpenditurePriceIndex;20120301;13:30;Core Personal Consumption Expenditure - Price Index (YoY);United States;USD;2
+USD_PersonalIncome;20120301;13:30;Personal Income (MoM);United States;USD;1
+CAD_RawMaterialPriceIndex;20120301;13:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20120301;13:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_CurrentAccount;20120301;13:30;Current Account;Canada;CAD;2
+USD_JoblessClaims;20120301;13:30;Continuing Jobless Claims;United States;USD;1
+CZK_BudgetBalance;20120301;13:00;Budget Balance;Czech Republic;CZK;1
+USD_PersonalSpending;20120301;12:30;Personal Spending;United States;USD;2
+EUR_AusUnemployment;20120301;11:00;Unemployment;Austria;EUR;1
+EUR_AusUnemploymentRate;20120301;11:00;Unemployment Rate;Austria;EUR;1
+EUR_EurConsumerPriceIndex;20120301;10:00;Consumer Price Index (YoY);European Monetary Union;EUR;3
+EUR_EurUnemploymentRate;20120301;10:00;Unemployment Rate;European Monetary Union;EUR;3
+GBP_MarkitManufacturingPMI;20120301;09:28;Markit Manufacturing PMI;United Kingdom;GBP;2
+PLN_GrossDomesticProduct;20120301;09:00;Gross Domestic Product Qtr (YoY);Poland;PLN;1
+EUR_SpaAuction;20120301;09:00;2-y Bond Auction;Spain;EUR;1
+ZAR_PurchasingManagerIndex;20120301;09:00;Purchasing Manager Index;South Africa;ZAR;1
+EUR_EurMarkitManufacturingPMI;20120301;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_GreMarkitManufacturingPMI;20120301;08:58;Markit Manufacturing PMI;Greece;EUR;1
+EUR_GerMarkitManufacturingPMI;20120301;08:53;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20120301;08:48;Markit Manufacturing PMI;France;EUR;1
+EUR_ItaMarkitManufacturingPMI;20120301;08:43;Markit Manufacturing PMI;Italy;EUR;1
+CHF_SVMEPurchasingManagers'Index;20120301;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;2
+SEK_CurrentAccount;20120301;08:30;Current Account (QoQ);Sweden;SEK;1
+CZK_MarkitPMI;20120301;08:30;Markit PMI;Czech Republic;CZK;1
+EUR_SpaMarkitManufacturingPMI;20120301;08:13;Markit Manufacturing PMI;Spain;EUR;1
+TRY_Exports;20120301;08:00;Exports;Turkey;TRY;1
+DKK_UnemploymentRate;20120301;08:00;Unemployment Rate;Denmark;DKK;1
+DKK_RetailSales;20120301;08:00;Retail Sales (YoY);Denmark;DKK;1
+HUF_PurchasingManagerIndex;20120301;08:00;Purchasing Manager Index;Hungary;HUF;1
+EUR_ItaUnemployment;20120301;08:00;Unemployment;Italy;EUR;1
+HUF_ProducerPriceIndex;20120301;08:00;Producer Price Index (YoY);Hungary;HUF;1
+NOK_RegisteredUnemployment;20120301;08:00;Registered Unemployment n.s.a;Norway;NOK;1
+HKD_RetailSales;20120301;07:30;Retail Sales;Hong Kong SAR;HKD;2
+SEK_PurchasingManagersIndexManufacturing;20120301;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+GBP_NationwideHousingPrices;20120301;07:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;2
+CHF_GrossDomesticProduct;20120301;06:45;Gross Domestic Product (YoY);Switzerland;CHF;2
+EUR_FraILOUnemployment;20120301;06:30;ILO Unemployment;France;EUR;1
+INR_TradeDeficitGovernment;20120301;06:30;Trade Deficit Government;India;INR;1
+AUD_RBACommodityIndexSDR;20120301;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+JPY_VehicleSales;20120301;05:00;Vehicle Sales (YoY);Japan;JPY;1
+RUB_HSBCManufacturingPMI;20120301;05:00;HSBC Manufacturing PMI	;Russia;RUB;1
+CNY_CaixinManufacturingPMI;20120301;02:30;Caixin Manufacturing PMI;China;CNY;2
+IDR_Exports;20120301;02:00;Exports;Indonesia;IDR;1
+CNY_NBSManufacturingPMI;20120301;01:00;NBS Manufacturing PMI;China;CNY;3
+AUD_BuildingPermits;20120301;00:30;Building Permits (YoY);Australia;AUD;1
+AUD_PrivateCapitalExpenditure;20120301;00:30;Private Capital Expenditure;Australia;AUD;2
+EUR_EurEUExtraordinaryEconomicSummit;20120301;00:00;EU Extraordinary Economic Summit;European Monetary Union;EUR;3
+KRW_March1stMovement;20120301;00:00;March 1st Movement ;South Korea;KRW;0
+RUB_CentralBankReserves;20120301;00:00;Central Bank Reserves $;Russia;RUB;1
+KRW_TradeBalance;20120301;00:00;Trade Balance;South Korea;KRW;1

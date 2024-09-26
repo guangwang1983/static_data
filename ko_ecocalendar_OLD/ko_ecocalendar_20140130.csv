@@ -1,0 +1,59 @@
+JPY_IndustrialProduction;20140130;23:50;Industrial Production (MoM);Japan;JPY;1
+JPY_TokyoCPIexFreshFood;20140130;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;1
+JPY_TokyoCPIexFoodEnergy;20140130;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;1
+JPY_ConsumerPriceIndex;20140130;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;1
+JPY_NationalCPIexFoodEnergy;20140130;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20140130;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_UnemploymentRate;20140130;23:30;Unemployment Rate;Japan;JPY;2
+JPY_JobsApplicantsRatio;20140130;23:30;Jobs / Applicants Ratio;Japan;JPY;1
+JPY_OverallHouseholdSpending;20140130;23:30;Overall Household Spending (YoY);Japan;JPY;2
+JPY_NikkeiManufacturingPMI;20140130;23:13;Nikkei Manufacturing PMI;Japan;JPY;2
+NZD_CentralBankSpeech;20140130;23:00;RBNZ Governor Wheeler Speech;New Zealand;NZD;3
+NZD_Imports;20140130;21:45;Imports;New Zealand;NZD;1
+NZD_TradeBalance;20140130;21:45;Trade Balance (YoY);New Zealand;NZD;2
+NZD_Exports;20140130;21:45;Exports;New Zealand;NZD;1
+USD_Auction;20140130;18:00;5-Year Note Auction;United States;USD;1
+USD_EIANaturalGasStorageChange;20140130;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_PendingHomeSales;20140130;15:00;Pending Home Sales (YoY);United States;USD;2
+USD_JoblessClaims;20140130;13:30;Initial Jobless Claims;United States;USD;2
+USD_GrossDomesticProduct;20140130;13:30;Gross Domestic Product Annualized;United States;USD;3
+USD_PersonalConsumptionExpendituresPrices;20140130;13:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;3
+USD_CorePersonalConsumptionExpenditures;20140130;13:30;Core Personal Consumption Expenditures (QoQ);United States;USD;3
+EUR_GerConsumerPriceIndex;20140130;13:00;Consumer Price Index (MoM);Germany;EUR;2
+EUR_GerHarmonizedIndexofConsumerPrices;20140130;13:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+CLP_IndustrialProduction;20140130;12:00;Industrial Production (YoY);Chile;CLP;1
+EUR_PorBusinessConfidence;20140130;11:00;Business Confidence;Portugal;EUR;1
+EUR_PorConsumerConfidence;20140130;11:00;Consumer Confidence;Portugal;EUR;1
+BRL_UnemploymentRate;20140130;11:00;Unemployment Rate;Brazil;BRL;1
+BRL_InflationIndexIGPM;20140130;11:00;Inflation Index/IGP-M;Brazil;BRL;1
+RUB_CentralBankReserves;20140130;11:00;Central Bank Reserves $;Russia;RUB;1
+EUR_ItaAuction;20140130;10:10;10-y Bond Auction;Italy;EUR;1
+EUR_EurConsumerConfidence;20140130;10:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurBusinessClimate;20140130;10:00;Business Climate;European Monetary Union;EUR;1
+EUR_EurIndustrialConfidence;20140130;10:00;Industrial Confidence;European Monetary Union;EUR;2
+EUR_EurEconomicSentimentIndicator;20140130;10:00;Economic Sentiment Indicator;European Monetary Union;EUR;2
+EUR_EurServicesSentiment;20140130;10:00;Services Sentiment;European Monetary Union;EUR;2
+EUR_GreProducerPriceIndex;20140130;10:00;Producer Price Index (YoY);Greece;EUR;1
+ZAR_ProducerPriceIndex;20140130;09:30;Producer Price Index (MoM);South Africa;ZAR;1
+GBP_NetLendingtoIndividuals;20140130;09:30;Net Lending to Individuals (MoM);United Kingdom;GBP;2
+GBP_ConsumerCredit;20140130;09:30;Consumer Credit;United Kingdom;GBP;2
+GBP_MortgageApprovals;20140130;09:30;Mortgage Approvals;United Kingdom;GBP;2
+GBP_M4MoneySupply;20140130;09:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+ISK_ConsumerPriceIndex;20140130;09:00;Consumer Price Index (YoY);Iceland;ISK;1
+EUR_AusPurchasingManagerIndex;20140130;09:00;Purchasing Manager Index;Austria;EUR;1
+EUR_AusProducerPriceIndex;20140130;09:00;Producer Price Index (MoM);Austria;EUR;1
+EUR_GerUnemploymentChange;20140130;08:55;Unemployment Change;Germany;EUR;3
+EUR_GerUnemploymentRate;20140130;08:55;Unemployment Rate s.a.;Germany;EUR;3
+CHF_KOFLeadingIndicator;20140130;08:00;KOF Leading Indicator;Switzerland;CHF;2
+DKK_IndustrialOutlook;20140130;08:00;Industrial Outlook;Denmark;DKK;1
+DKK_UnemploymentRate;20140130;08:00;Unemployment Rate;Denmark;DKK;1
+SEK_ConsumerConfidence;20140130;08:00;Consumer Confidence (MoM);Sweden;SEK;1
+EUR_SpaGrossDomesticProduct;20140130;08:00;Gross Domestic Product - Estimated (YoY);Spain;EUR;1
+ZAR_PrivateSectorCredit;20140130;06:00;Private Sector Credit;South Africa;ZAR;1
+CNY_CaixinManufacturingPMI;20140130;01:45;Caixin Manufacturing PMI;China;CNY;2
+AUD_ExportPriceIndex;20140130;00:30;Export Price Index (QoQ);Australia;AUD;1
+AUD_ImportPriceIndex;20140130;00:30;Import Price Index (QoQ);Australia;AUD;1
+KRW_KoreanNewYear;20140130;00:00;Korean New Year ;South Korea;KRW;0
+AUD_HIANewHomeSales;20140130;00:00;HIA New Home Sales (MoM);Australia;AUD;2
+IDR_ChineseNewYear;20140130;00:00;Chinese New Year;Indonesia;IDR;0
+CNY_ChineseNewYearEve;20140130;00:00;Chinese New Year Eve ;China;CNY;0

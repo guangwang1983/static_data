@@ -1,0 +1,29 @@
+EUR_EurBrexitSummit;20181018;00:00;Brexit Summit;European Monetary Union;EUR;3
+EUR_EurEcoFinMeeting;20181018;00:00;EcoFin Meeting;European Monetary Union;EUR;2
+AUD_NationalAustraliaBankBusinessConfidence;20181018;00:30;National Australia Bank Business Confidence (QoQ);Australia;AUD;2
+AUD_PartTimeEmployment;20181018;00:30;Part-Time Employment;Australia;AUD;1
+AUD_FullTimeEmployment;20181018;00:30;Full-Time Employment;Australia;AUD;1
+AUD_EmploymentChange;20181018;00:30;Employment Change s.a.;Australia;AUD;3
+AUD_ParticipationRate;20181018;00:30;Participation Rate;Australia;AUD;3
+AUD_UnemploymentRate;20181018;00:30;Unemployment Rate s.a.;Australia;AUD;3
+JPY_CentralBankSpeech;20181018;00:30;BoJ Governor Kuroda speech;Japan;JPY;3
+KRW_BoKInterestRateDecision;20181018;01:00;BoK Interest Rate Decision;South Korea;KRW;1
+CHF_TradeBalance;20181018;06:00;Trade Balance;Switzerland;CHF;1
+CHF_Imports;20181018;06:00;Imports (MoM);Switzerland;CHF;1
+CHF_Exports;20181018;06:00;Exports (MoM);Switzerland;CHF;1
+EUR_GerWholesalePriceIndex;20181018;06:00;Wholesale Price Index (MoM);Germany;EUR;1
+SEK_UnemploymentRate;20181018;07:30;Unemployment Rate;Sweden;SEK;1
+GBP_RetailSales;20181018;08:30;Retail Sales ex-Fuel (MoM);United Kingdom;GBP;2
+CNY_FDIForeignDirectInvestment;20181018;10:50;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+USD_JoblessClaims;20181018;12:30;Continuing Jobless Claims;United States;USD;2
+CAD_ADPEmploymentChange;20181018;12:30;ADP Employment Change;Canada;CAD;1
+USD_PhiladelphiaFedManufacturingSurvey;20181018;12:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+RUB_CentralBankReserves;20181018;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_EIANaturalGasStorageChange;20181018;14:30;EIA Natural Gas Storage Change;United States;USD;1
+COP_TradeBalance;20181018;15:00;Trade Balance;Colombia;COP;1
+USD_CentralBankSpeech;20181018;16:15;Fed Quarles speech;United States;USD;2
+CLP_BCCHInterestRate;20181018;21:00;BCCH Interest Rate;Chile;CLP;1
+NZD_VisitorArrivals;20181018;21:45;Visitor Arrivals (YoY);New Zealand;NZD;1
+JPY_NationalCPIexFreshFood;20181018;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20181018;23:30;National Consumer Price Index (YoY);Japan;JPY;2
+JPY_NationalCPIexFoodEnergy;20181018;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2

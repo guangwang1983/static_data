@@ -1,0 +1,21 @@
+JPY_MonetaryBase;20100601;23:50;Monetary Base (YoY);Japan;JPY;1
+USD_ISMManufacturingPMI;20100601;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMPricesPaid;20100601;14:00;ISM Prices Paid;United States;USD;1
+USD_ConstructionSpending;20100601;14:00;Construction Spending (MoM);United States;USD;1
+CAD_BoCInterestRateDecision;20100601;13:00;BoC Interest Rate Decision;Canada;CAD;3
+EUR_EurUnemploymentRate;20100601;09:00;Unemployment Rate;European Monetary Union;EUR;2
+GBP_MarkitManufacturingPMI;20100601;08:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+EUR_EurMarkitManufacturingPMI;20100601;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;1
+EUR_GerUnemploymentChange;20100601;07:55;Unemployment Change;Germany;EUR;2
+EUR_GerUnemploymentRate;20100601;07:55;Unemployment Rate s.a.;Germany;EUR;2
+EUR_GerMarkitManufacturingPMI;20100601;07:55;Markit Manufacturing PMI;Germany;EUR;2
+CHF_SVMEPurchasingManagers'Index;20100601;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;2
+AUD_RBACommodityIndexSDR;20100601;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+EUR_GerRetailSales;20100601;06:00;Retail Sales (YoY);Germany;EUR;1
+CHF_GrossDomesticProduct;20100601;05:45;Gross Domestic Product (YoY);Switzerland;CHF;2
+JPY_VehicleSales;20100601;05:00;Vehicle Sales (YoY);Japan;JPY;1
+AUD_RBAInterestRateDecision;20100601;04:30;RBA Interest Rate Decision;Australia;AUD;3
+CNY_CaixinManufacturingPMI;20100601;02:30;Caixin Manufacturing PMI;China;CNY;0
+CNY_NBSManufacturingPMI;20100601;02:00;NBS Manufacturing PMI;China;CNY;1
+AUD_RetailSales;20100601;01:30;Retail Sales s.a. (MoM);Australia;AUD;1
+AUD_BuildingPermits;20100601;01:30;Building Permits (MoM);Australia;AUD;1

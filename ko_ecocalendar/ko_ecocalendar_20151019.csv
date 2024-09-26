@@ -1,0 +1,15 @@
+CAD_FederalElection;20151019;00:00;Federal Election;Canada;CAD;0
+CNY_RetailSales;20151019;02:00;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20151019;02:00;Industrial Production (YoY);China;CNY;2
+CNY_NBSPressConference;20151019;02:00;NBS Press Conference;China;CNY;2
+CNY_FixedAssetInvestment;20151019;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+CNY_GrossDomesticProduct;20151019;02:00;Gross Domestic Product (YoY);China;CNY;2
+EUR_EurConstructionOutput;20151019;09:00;Construction Output  s.a (MoM);European Monetary Union;EUR;1
+RUB_ProducerPriceIndex;20151019;09:00;Producer Price Index (MoM);Russia;RUB;1
+PLN_RetailSales;20151019;12:00;Retail Sales (YoY);Poland;PLN;1
+PLN_IndustrialOutput;20151019;12:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20151019;12:00;Producer Price Index (YoY);Poland;PLN;1
+RUB_UnemploymentRate;20151019;13:00;Unemployment Rate;Russia;RUB;1
+USD_NAHBHousingMarketIndex;20151019;14:00;NAHB Housing Market Index;United States;USD;2
+USD_Auction;20151019;15:30;6-Month Bill Auction;United States;USD;1
+USD_CentralBankSpeech;20151019;16:00;Fed Lacker speech;United States;USD;1

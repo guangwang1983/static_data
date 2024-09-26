@@ -1,0 +1,51 @@
+JPY_BankLending;20130409;23:50;Bank Lending (YoY);Japan;JPY;1
+KRW_UnemploymentRate;20130409;23:00;Unemployment Rate;South Korea;KRW;1
+NZD_RetailSales;20130409;22:45;Electronic Card Retail Sales  (MoM);New Zealand;NZD;2
+KRW_ImportPriceGrowth;20130409;22:00;Import Price Growth (YoY);South Korea;KRW;1
+KRW_ExportPriceGrowth;20130409;22:00;Export Price Growth (YoY);South Korea;KRW;1
+USD_CentralBankSpeech;20130409;17:00;Fed Lockhart speech;United States;USD;1
+USD_Auction;20130409;17:00;3-Year Note Auction;United States;USD;1
+MXN_12MonthInflation;20130409;14:00;12-Month Inflation;Mexico;MXN;1
+MXN_CoreInflation;20130409;14:00;Core Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20130409;14:00;Headline Inflation;Mexico;MXN;1
+GBP_NIESRGDPEstimate;20130409;14:00;NIESR GDP Estimate (3M);United Kingdom;GBP;2
+USD_WholesaleInventories;20130409;14:00;Wholesale Inventories;United States;USD;1
+USD_RedbookIndex;20130409;12:55;Redbook Index (MoM);United States;USD;1
+CAD_BuildingPermits;20130409;12:30;Building Permits (MoM);Canada;CAD;1
+CAD_HousingStarts;20130409;12:15;Housing Starts s.a (YoY);Canada;CAD;2
+USD_NFIBBusinessOptimismIndex;20130409;11:30;NFIB Business Optimism Index;United States;USD;1
+GBP_Auction;20130409;10:50;10-y Bond Auction;United Kingdom;GBP;1
+EUR_PorGlobalTradeBalance;20130409;10:00;Global Trade Balance;Portugal;EUR;1
+EUR_GreIndustrialProduction;20130409;09:00;Industrial Production (YoY);Greece;EUR;1
+EUR_GreConsumerPriceIndex;20130409;09:00;Consumer Price Index - Harmonized (YoY);Greece;EUR;1
+GBP_ManufacturingProduction;20130409;08:30;Manufacturing Production (MoM);United Kingdom;GBP;1
+GBP_IndustrialProduction;20130409;08:30;Industrial Production (YoY);United Kingdom;GBP;2
+EUR_NetManufacturingOutput;20130409;08:30;Manufacturing Output (MoM);Netherlands, The;EUR;1
+GBP_GoodsTradeBalance;20130409;08:30;Goods Trade Balance;United Kingdom;GBP;2
+GBP_TotalTradeBalance;20130409;08:30;Total Trade Balance;United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20130409;08:30;Trade Balance non-EU;United Kingdom;GBP;1
+EUR_NetConsumerPriceIndex;20130409;08:30;Consumer Price Index n.s.a (YoY);Netherlands, The;EUR;1
+EUR_SloForeignTradeBalance;20130409;08:00;Foreign Trade Balance;Slovakia;EUR;1
+CZK_ConsumerPriceIndex;20130409;08:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+CZK_UnemploymentRate;20130409;08:00;Unemployment Rate;Czech Republic;CZK;1
+EUR_ItaWageInflation;20130409;08:00;Wage Inflation (MoM);Italy;EUR;1
+CHF_RetailSales;20130409;07:15;Real Retail Sales (YoY);Switzerland;CHF;2
+CHF_ConsumerPriceIndex;20130409;07:15;Consumer Price Index (YoY);Switzerland;CHF;2
+RON_TradeBalance;20130409;07:00;Trade Balance;Romania;RON;1
+RON_IndustrialProduction;20130409;07:00;Industrial Production (MoM);Romania;RON;1
+DKK_TradeBalance;20130409;07:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20130409;07:00;Current Account;Denmark;DKK;1
+EUR_FraBudget;20130409;06:45;Budget;France;EUR;1
+EUR_FraImportsEUR;20130409;06:45;Imports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20130409;06:45;Trade Balance EUR;France;EUR;1
+EUR_FraExportsEUR;20130409;06:45;Exports, EUR;France;EUR;1
+JPY_MachineToolOrders;20130409;06:00;Machine Tool Orders (YoY);Japan;JPY;2
+EUR_GerCurrentAccount;20130409;06:00;Current Account n.s.a.;Germany;EUR;1
+EUR_GerTradeBalance;20130409;06:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerExports;20130409;06:00;Exports (MoM);Germany;EUR;1
+EUR_GerImports;20130409;06:00;Imports (MoM);Germany;EUR;1
+CHF_UnemploymentRate;20130409;05:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+AUD_NationalAustraliaBankBusinessConfidence;20130409;01:30;National Australia Bank Business Confidence;Australia;AUD;2
+AUD_NationalAustraliaBankBusinessConditions;20130409;01:30;National Australia Bank Business Conditions;Australia;AUD;1
+CNY_ConsumerPriceIndex;20130409;01:30;Consumer Price Index (YoY);China;CNY;1
+CNY_ProducerPriceIndex;20130409;01:30;Producer Price Index (YoY);China;CNY;2

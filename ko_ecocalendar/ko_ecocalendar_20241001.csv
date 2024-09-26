@@ -1,0 +1,55 @@
+KRW_TradeBalance;20241001;00:00;Trade Balance;South Korea;KRW;1
+AUD_RetailSales;20241001;00:30;Retail Sales s.a. (MoM);Australia;AUD;3
+KRW_S&PGlobalManufacturingPMI;20241001;00:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+IDR_S&PGlobalManufacturingPMI;20241001;00:30;S&P Global Manufacturing PMI;Indonesia;IDR;1
+AUD_BuildingPermits;20241001;00:30;Building Permits (YoY);Australia;AUD;1
+JPY_JibunBankManufacturingPMI;20241001;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+IDR_Inflation;20241001;04:00;Inflation (MoM);Indonesia;IDR;1
+IDR_CoreInflation;20241001;04:00;Core Inflation (YoY);Indonesia;IDR;1
+INR_HSBCManufacturingPMI;20241001;05:00;HSBC Manufacturing PMI;India;INR;2
+AUD_RBACommodityIndexSDR;20241001;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+GBP_NationwideHousingPrices;20241001;06:00;Nationwide Housing Prices s.a (MoM);United Kingdom;GBP;1
+RUB_S&PGlobalManufacturingPMI;20241001;06:00;S&P Global Manufacturing PMI;Russia;RUB;1
+CHF_RetailSales;20241001;06:30;Real Retail Sales (YoY);Switzerland;CHF;2
+SEK_PurchasingManagersIndexManufacturing;20241001;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+HUF_TradeBalance;20241001;06:30;Trade Balance;Hungary;HUF;1
+HUF_PurchasingManagerIndex;20241001;07:00;Purchasing Manager Index;Hungary;HUF;1
+CZK_GrossDomesticProduct;20241001;07:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+PLN_PurchasingManagerIndex;20241001;07:00;Purchasing Manager Index;Poland;PLN;1
+CHF_SVMEPurchasingManagers'Index;20241001;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_S&PGlobalPMI;20241001;07:30;S&P Global PMI;Czech Republic;CZK;1
+EUR_ItaHCOBManufacturingPMI;20241001;07:45;HCOB Manufacturing PMI;Italy;EUR;2
+EUR_FraHCOBManufacturingPMI;20241001;07:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerHCOBManufacturingPMI;20241001;07:55;HCOB Manufacturing PMI;Germany;EUR;2
+EUR_EurHCOBManufacturingPMI;20241001;08:00;HCOB Manufacturing PMI;Eurozone;EUR;1
+GBP_S&PGlobalCIPSManufacturingPMI;20241001;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;1
+EUR_EurHarmonizedIndexofConsumerPrices;20241001;09:00;Harmonized Index of Consumer Prices (YoY);Eurozone;EUR;3
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20241001;09:00;Core Harmonized Index of Consumer Prices (MoM);Eurozone;EUR;3
+EUR_GerAuction;20241001;09:30;5-y Note Auction;Germany;EUR;1
+CLP_IMACEC;20241001;11:30;IMACEC;Chile;CLP;1
+ZAR_TotalNewVehicleSales;20241001;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+CZK_BudgetBalance;20241001;12:00;Budget Balance;Czech Republic;CZK;1
+USD_RedbookIndex;20241001;12:55;Redbook Index (YoY);United States;USD;1
+BRL_S&PGlobalManufacturingPMI;20241001;13:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+CAD_S&PGlobalManufacturingPMI;20241001;13:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20241001;13:45;S&P Global Manufacturing PMI;United States;USD;1
+GBP_CentralBankSpeech;20241001;14:00;BoE Pill speech;United Kingdom;GBP;2
+USD_JOLTSJobOpenings;20241001;14:00;JOLTS Job Openings;United States;USD;2
+USD_ISMManufacturingEmploymentIndex;20241001;14:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ISMManufacturingPricesPaid;20241001;14:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ISMManufacturingPMI;20241001;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingNewOrdersIndex;20241001;14:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ConstructionSpending;20241001;14:00;Construction Spending (MoM);United States;USD;1
+NZD_GDTPriceIndex;20241001;15:00;GDT Price Index;New Zealand;NZD;1
+USD_Auction;20241001;15:30;52-Week Bill Auction;United States;USD;1
+CNY_NationalDay;20241001;16:00;National Day;China;CNY;0
+INR_MahatmaGandhiBirthday;20241001;18:30;Mahatma Gandhi Birthday ;India;INR;0
+USD_TotalVehicleSales;20241001;19:30;Total Vehicle Sales;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20241001;20:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_CentralBankSpeech;20241001;22:15;Fed Collins speech;United States;USD;2
+AUD_AiGIndustryIndex;20241001;23:00;AiG Industry Index;Australia;AUD;2
+KRW_ConsumerPriceIndex;20241001;23:00;Consumer Price Index Growth (MoM);South Korea;KRW;1
+AUD_AiGManufacturingPMI;20241001;23:00;AiG Manufacturing PMI;Australia;AUD;1
+AUD_AiGConstructionPMI;20241001;23:00;AiG Construction PMI;Australia;AUD;1
+GBP_BRCShopPriceIndex;20241001;23:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1
+JPY_MonetaryBase;20241001;23:50;Monetary Base (YoY);Japan;JPY;1

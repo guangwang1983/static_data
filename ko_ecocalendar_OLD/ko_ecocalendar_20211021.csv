@@ -1,0 +1,39 @@
+JPY_NationalCPIexFoodEnergy;20211021;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20211021;23:30;National Consumer Price Index (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20211021;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+GBP_GfKConsumerConfidence;20211021;23:01;GfK Consumer Confidence;United Kingdom;GBP;2
+AUD_CommonwealthBankServicesPMI;20211021;22:00;Commonwealth Bank Services PMI;Australia;AUD;2
+AUD_CommonwealthBankManufacturingPMI;20211021;22:00;Commonwealth Bank Manufacturing PMI;Australia;AUD;2
+AUD_CommonwealthBankCompositePMI;20211021;22:00;Commonwealth Bank Composite PMI;Australia;AUD;1
+ARS_TradeBalance;20211021;19:00;Trade Balance (MoM);Argentina;ARS;1
+AUD_CentralBankSpeech;20211021;19:00;RBA Governor Lowe speech;Australia;AUD;3
+USD_Auction;20211021;15:30;4-Week Bill Auction;United States;USD;1
+USD_EIANaturalGasStorageChange;20211021;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_ExistingHomeSales;20211021;14:00;Existing Home Sales (MoM);United States;USD;1
+USD_ExistingHomeSalesChange;20211021;14:00;Existing Home Sales Change (MoM);United States;USD;1
+EUR_EurConsumerConfidence;20211021;14:00;Consumer Confidence;European Monetary Union;EUR;2
+RUB_CentralBankReserves;20211021;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_JoblessClaims;20211021;12:30;Initial Jobless Claims 4-week average;United States;USD;2
+USD_EmploymentCostIndex;20211021;12:30;Employment Cost Index;United States;USD;1
+CAD_ADPEmploymentChange;20211021;12:30;ADP Employment Change;Canada;CAD;1
+CAD_EmploymentInsuranceBeneficiariesChange;20211021;12:30;Employment Insurance Beneficiaries Change (MoM);Canada;CAD;1
+CAD_NewHousingPriceIndex;20211021;12:30;New Housing Price Index (YoY);Canada;CAD;1
+USD_PhiladelphiaFedManufacturingSurvey;20211021;12:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+MXN_RetailSales;20211021;11:00;Retail Sales (YoY);Mexico;MXN;1
+TRY_CBRTInterestRateDecision;20211021;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+EUR_BelConsumerConfidenceIndex;20211021;09:00;Consumer Confidence Index;Belgium;EUR;1
+EUR_GreCurrentAccount;20211021;09:00;Current Account (YoY);Greece;EUR;1
+EUR_SpaAuction;20211021;08:40;10-y Obligaciones Auction;Spain;EUR;1
+HKD_Unemploymentrate;20211021;08:30;Unemployment rate;Hong Kong SAR;HKD;1
+PLN_RetailSales;20211021;08:00;Retail Sales (YoY);Poland;PLN;1
+EUR_ItaIndustrialSales;20211021;08:00;Industrial Sales n.s.a. (YoY);Italy;EUR;1
+SEK_UnemploymentRate;20211021;07:30;Unemployment Rate;Sweden;SEK;1
+TRY_ConsumerConfidence;20211021;07:00;Consumer Confidence;Turkey;TRY;1
+EUR_FraBusinessClimateinManufacturing;20211021;06:45;Business Climate in Manufacturing;France;EUR;1
+DKK_ConsumerConfidence;20211021;06:00;Consumer Confidence;Denmark;DKK;1
+GBP_PublicSectorNetBorrowing;20211021;06:00;Public Sector Net Borrowing;United Kingdom;GBP;1
+EUR_NetUnemploymentRate;20211021;04:30;Unemployment Rate s.a (3M);Netherlands, The;EUR;1
+EUR_NetConsumerConfidenceAdj;20211021;04:30;Consumer Confidence Adj;Netherlands, The;EUR;1
+NZD_CreditCardSpending;20211021;03:00;Credit Card Spending (YoY);New Zealand;NZD;1
+AUD_NationalAustraliaBankBusinessConfidence;20211021;00:30;National Australia Bank Business Confidence (QoQ);Australia;AUD;2
+EUR_EurEuropeanCouncilMeeting;20211021;00:00;European Council Meeting;European Monetary Union;EUR;3

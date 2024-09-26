@@ -1,0 +1,45 @@
+BRL_InterestRateDecision;20151125;21:55;Interest Rate Decision;Brazil;BRL;1
+NZD_TradeBalance;20151125;21:45;Trade Balance (YoY);New Zealand;NZD;2
+NZD_Imports;20151125;21:45;Imports;New Zealand;NZD;2
+NZD_Exports;20151125;21:45;Exports;New Zealand;NZD;2
+KRW_ConsumerSentimentIndex;20151125;21:00;Consumer Sentiment Index;South Korea;KRW;1
+USD_BakerHughesUSOilRigCount;20151125;19:00;Baker Hughes US Oil Rig Count;United States;USD;2
+USD_EIANaturalGasStorageChange;20151125;17:00;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20151125;16:30;7-Year Note Auction;United States;USD;1
+USD_EIACrudeOilStocksChange;20151125;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+MXN_CurrentAccount;20151125;15:00;Accumulated Current Account/GDP;Mexico;MXN;1
+USD_MichiganConsumerSentimentIndex;20151125;15:00;Michigan Consumer Sentiment Index;United States;USD;1
+USD_NewHomeSales;20151125;15:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20151125;15:00;New Home Sales Change (MoM);United States;USD;2
+USD_MarkitServicesPMI;20151125;14:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20151125;14:45;Markit PMI Composite;United States;USD;2
+USD_HousingPriceIndex;20151125;14:00;Housing Price Index (MoM);United States;USD;2
+USD_PersonalConsumptionExpendituresPriceIndex;20151125;13:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;2
+USD_PersonalSpending;20151125;13:30;Personal Spending;United States;USD;2
+USD_CorePersonalConsumptionExpenditurePriceIndex;20151125;13:30;Core Personal Consumption Expenditure - Price Index (YoY);United States;USD;2
+USD_PersonalIncome;20151125;13:30;Personal Income (MoM);United States;USD;2
+USD_JoblessClaims;20151125;13:30;Initial Jobless Claims;United States;USD;2
+USD_DurableGoodsOrders;20151125;13:30;Durable Goods Orders ex Transportation;United States;USD;3
+GBP_AutumnForecastStatement;20151125;12:30;Autumn Forecast Statement;United Kingdom;GBP;2
+USD_MBAMortgageApplications;20151125;12:00;MBA Mortgage Applications;United States;USD;1
+INR_M3MoneySupply;20151125;11:30;M3 Money Supply;India;INR;1
+EUR_GerAuction;20151125;11:17;10-y Bond Auction;Germany;EUR;2
+EUR_EurEUFinancialStabilityReview;20151125;11:00;EU Financial Stability Review;European Monetary Union;EUR;2
+AUD_CentralBankSpeech;20151125;10:20;RBA Debelle speech;Australia;AUD;2
+EUR_ItaRetailSales;20151125;10:00;Retail Sales s.a. (MoM);Italy;EUR;1
+GBP_BBAMortgageApprovals;20151125;09:30;BBA Mortgage Approvals;United Kingdom;GBP;1
+PLN_Unemployment;20151125;09:00;Unemployment (MoM);Poland;PLN;1
+NOK_LabourForceSurvey;20151125;09:00;Labour Force Survey;Norway;NOK;1
+EUR_ItaIndustrialOrders;20151125;09:00;Industrial Orders n.s.a (YoY);Italy;EUR;1
+EUR_ItaIndustrialSales;20151125;09:00;Industrial Sales s.a. (MoM);Italy;EUR;1
+SEK_ProducerPriceIndex;20151125;08:30;Producer Price Index (MoM);Sweden;SEK;1
+SEK_ConsumerConfidence;20151125;08:00;Consumer Confidence (MoM);Sweden;SEK;1
+EUR_AusIndustrialProduction;20151125;08:00;Industrial Production (YoY);Austria;EUR;1
+EUR_FraConsumerConfidence;20151125;07:45;Consumer Confidence;France;EUR;1
+CHF_UBSConsumptionIndicator;20151125;07:00;UBS Consumption Indicator;Switzerland;CHF;2
+EUR_SpaProducerPriceIndex;20151125;07:00;Producer Price Index (YoY);Spain;EUR;1
+JPY_CoincidentIndex;20151125;05:00;Coincident Index;Japan;JPY;2
+JPY_LeadingEconomicIndex;20151125;05:00;Leading Economic Index;Japan;JPY;2
+JPY_CentralBankSpeech;20151125;01:00;BoJ Shirai speech;Japan;JPY;1
+AUD_ConstructionWorkDone;20151125;00:30;Construction Work Done;Australia;AUD;1
+SGD_GrossDomesticProduct;20151125;00:00;Gross Domestic Product (QoQ);Singapore;SGD;1

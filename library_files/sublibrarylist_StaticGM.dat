@@ -1,0 +1,5 @@
+sublibname,usefx,wnorm,signaltype,volawindowtype
+sl3l_currencyfutures_whitendrift,none,none,SV,ENGINE
+sl3l_currencyfutures_whitendrift_sw2,none,none,SV,ENGINE
+slsl_equityindexfutures_whitendrift,none,none,SV,ENGINE
+slsl_fixedincomefutures_whitendrift,none,none,SV,ENGINE

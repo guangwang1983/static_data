@@ -1,0 +1,30 @@
+JPY_DomesticCorporateGoodsPriceIndex;20141112;23:50;Domestic Corporate Goods Price Index (YoY);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20141112;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20141112;23:50;Foreign Bond Investment;Japan;JPY;2
+JPY_MachineryOrders;20141112;23:50;Machinery Orders (YoY);Japan;JPY;2
+NZD_FoodPriceIndex;20141112;21:45;Food Price Index (MoM);New Zealand;NZD;1
+NZD_BusinessNZPMI;20141112;21:30;Business NZ PMI;New Zealand;NZD;2
+USD_Auction;20141112;18:00;10-Year Note Auction;United States;USD;1
+USD_CentralBankSpeech;20141112;17:00;Fed Minneapolis Kocherlakota speech;United States;USD;1
+USD_WholesaleInventories;20141112;15:00;Wholesale Inventories;United States;USD;2
+USD_MBAMortgageApplications;20141112;12:00;MBA Mortgage Applications;United States;USD;1
+INR_IndustrialOutput;20141112;12:00;Industrial Output;India;INR;1
+INR_ManufacturingOutput;20141112;12:00;Manufacturing Output;India;INR;1
+INR_M3MoneySupply;20141112;11:30;M3 Money Supply;India;INR;1
+EUR_PorConsumerPriceIndex;20141112;11:02;Consumer Price Index (YoY);Portugal;EUR;1
+ZAR_RetailSales;20141112;11:00;Retail Sales (YoY);South Africa;ZAR;1
+EUR_GerAuction;20141112;10:52;2-year Notes Auction;Germany;EUR;1
+GBP_CentralBankSpeech;20141112;10:30;BoE Governor Carney speech;United Kingdom;GBP;3
+GBP_BankofEnglandQuarterlyInflationReport;20141112;10:30;Bank of England Quarterly Inflation Report;United Kingdom;GBP;3
+EUR_EurIndustrialProduction;20141112;10:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;2
+GBP_AverageEarningsExcludingBonus;20141112;09:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_AverageEarningsIncludingBonus;20141112;09:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountChange;20141112;09:30;Claimant Count Change;United Kingdom;GBP;2
+GBP_ClaimantCountRate;20141112;09:30;Claimant Count Rate;United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20141112;09:30;ILO Unemployment Rate (3M);United Kingdom;GBP;2
+EUR_SloCoreInflation;20141112;08:00;Core Inflation (YoY);Slovakia;EUR;1
+EUR_SloHeadlineInflation;20141112;08:00;Headline Inflation (MoM);Slovakia;EUR;1
+EUR_GerWholesalePriceIndex;20141112;07:00;Wholesale Price Index (MoM);Germany;EUR;1
+KRW_MoneySupplyGrowth;20141112;03:00;Money Supply Growth;South Korea;KRW;1
+JPY_CentralBankSpeech;20141112;01:00;BoJ Miyao speech;Japan;JPY;1
+AUD_WagePriceIndex;20141112;00:30;Wage Price Index (YoY);Australia;AUD;1

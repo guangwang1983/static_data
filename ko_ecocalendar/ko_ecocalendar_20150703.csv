@@ -1,0 +1,23 @@
+USD_IndependenceDay;20150703;00:00;Independence Day;United States;USD;0
+AUD_RetailSales;20150703;01:30;Retail Sales s.a. (MoM);Australia;AUD;2
+JPY_JibunBankServicesPMI;20150703;01:35;Jibun Bank Services PMI;Japan;JPY;1
+CNY_CaixinServicesPMI;20150703;01:45;Caixin Services PMI;China;CNY;2
+TRY_ProducerPriceIndex;20150703;07:00;Producer Price Index (YoY);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20150703;07:00;Consumer Price Index (YoY);Turkey;TRY;1
+HUF_RetailSales;20150703;07:00;Retail Sales (YoY);Hungary;HUF;1
+ZAR_PurchasingManagerIndex;20150703;07:00;Purchasing Manager Index;South Africa;ZAR;1
+CZK_ForeignTradeBalance;20150703;07:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+RUB_S&PGlobalServicesPMI;20150703;07:01;S&P Global Services PMI;Russia;RUB;1
+SEK_IndustrialProductionValue;20150703;07:30;Industrial Production Value (YoY);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20150703;07:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+EUR_ItaHCOBServicesPMI;20150703;07:45;HCOB Services PMI;Italy;EUR;1
+EUR_FraHCOBServicesPMI;20150703;07:50;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20150703;07:50;HCOB Composite PMI;France;EUR;1
+EUR_GerHCOBServicesPMI;20150703;07:55;HCOB Services PMI;Germany;EUR;1
+EUR_GerHCOBCompositePMI;20150703;07:55;HCOB Composite PMI;Germany;EUR;1
+NOK_RegisteredUnemployment;20150703;08:00;Registered Unemployment n.s.a;Norway;NOK;1
+EUR_EurHCOBServicesPMI;20150703;08:00;HCOB Services PMI;European Monetary Union;EUR;1
+EUR_EurHCOBCompositePMI;20150703;08:00;HCOB Composite PMI;European Monetary Union;EUR;1
+GBP_S&PGlobalCIPSServicesPMI;20150703;08:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;1
+EUR_EurRetailSales;20150703;09:00;Retail Sales (MoM);European Monetary Union;EUR;1
+INR_FXReservesUSD;20150703;11:31;FX Reserves, USD;India;INR;1

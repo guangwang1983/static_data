@@ -1,0 +1,28 @@
+AUD_WestpacConsumerConfidence;20230509;00:30;Westpac Consumer Confidence;Australia;AUD;2
+AUD_RetailSales;20230509;01:30;Retail Sales (QoQ);Australia;AUD;2
+CNY_Exports;20230509;03:00;Exports (YoY) CNY;China;CNY;1
+CNY_TradeBalanceUSD;20230509;03:00;Trade Balance USD;China;CNY;2
+CNY_Imports;20230509;03:00;Imports (YoY) CNY;China;CNY;1
+CNY_TradeBalanceCNY;20230509;03:00;Trade Balance CNY;China;CNY;1
+JPY_Auction;20230509;03:35;10-y Bond Auction;Japan;JPY;1
+DKK_TradeBalance;20230509;06:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20230509;06:00;Current Account;Denmark;DKK;1
+GBP_HalifaxHousePrices;20230509;06:00;Halifax House Prices (MoM);United Kingdom;GBP;1
+HUF_TradeBalance;20230509;06:30;Trade Balance;Hungary;HUF;1
+CZK_IndustrialProduction;20230509;07:00;Industrial Production (YoY);Czech Republic;CZK;1
+CZK_Constructionoutput;20230509;07:00;Construction output (YoY);Czech Republic;CZK;1
+CZK_ForeignTradeBalance;20230509;07:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+HUF_BudgetBalance;20230509;09:00;Budget Balance;Hungary;HUF;1
+AUD_BudgetRelease;20230509;09:30;Budget Release;Australia;AUD;3
+USD_NFIBBusinessOptimismIndex;20230509;10:00;NFIB Business Optimism Index;United States;USD;1
+MXN_HeadlineInflation;20230509;12:00;Headline Inflation;Mexico;MXN;1
+MXN_CoreInflation;20230509;12:00;Core Inflation;Mexico;MXN;1
+MXN_12MonthInflation;20230509;12:00;12-Month Inflation;Mexico;MXN;1
+USD_RedbookIndex;20230509;12:55;Redbook Index (YoY);United States;USD;1
+USD_IBDTIPPEconomicOptimism;20230509;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+USD_Auction;20230509;17:00;3-Year Note Auction;United States;USD;1
+EUR_EurCentralBankSpeech;20230509;17:00;ECB Schnabel speech;European Monetary Union;EUR;2
+USD_APIWeeklyCrudeOilStock;20230509;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_CurrentAccount;20230509;23:00;Current Account Balance;South Korea;KRW;1
+KRW_UnemploymentRate;20230509;23:00;Unemployment Rate;South Korea;KRW;1
+JPY_JPForeignReserves;20230509;23:50;JP Foreign Reserves;Japan;JPY;1

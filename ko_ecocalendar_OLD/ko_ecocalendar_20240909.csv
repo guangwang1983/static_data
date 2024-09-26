@@ -1,0 +1,21 @@
+CNY_ConsumerPriceIndex;20240909;01:30;Consumer Price Index (MoM);China;CNY;2
+CNY_ProducerPriceIndex;20240909;01:30;Producer Price Index (YoY);China;CNY;2
+JPY_EcoWatchersSurvey:Current;20240909;05:00;Eco Watchers Survey: Current;Japan;JPY;1
+JPY_EcoWatchersSurvey:Outlook;20240909;05:00;Eco Watchers Survey: Outlook;Japan;JPY;1
+DKK_TradeBalance;20240909;06:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20240909;06:00;Current Account;Denmark;DKK;1
+RON_TradeBalance;20240909;06:00;Trade Balance;Romania;RON;1
+CZK_UnemploymentRate;20240909;07:00;Unemployment Rate;Czech Republic;CZK;1
+CNY_ForeignExchangeReserves;20240909;08:00;Foreign Exchange Reserves (MoM);China;CNY;1
+CZK_FXReserves;20240909;08:00;FX Reserves;Czech Republic;CZK;1
+EUR_EurSentixInvestorConfidence;20240909;08:30;Sentix Investor Confidence;Eurozone;EUR;2
+ILS_BudgetBalanceILS;20240909;11:00;Budget Balance - ILS;Israel;ILS;1
+MXN_12MonthInflation;20240909;12:00;12-Month Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20240909;12:00;Headline Inflation;Mexico;MXN;2
+MXN_CoreInflation;20240909;12:00;Core Inflation;Mexico;MXN;1
+MXN_ConsumerConfidence;20240909;12:00;Consumer Confidence;Mexico;MXN;1
+USD_WholesaleInventories;20240909;14:00;Wholesale Inventories;United States;USD;1
+USD_Auction;20240909;15:30;3-Month Bill Auction;United States;USD;1
+USD_ConsumerCreditChange;20240909;19:00;Consumer Credit Change;United States;USD;1
+NZD_ManufacturingSales;20240909;22:45;Manufacturing Sales;New Zealand;NZD;1
+JPY_MoneySupplyM2+CD;20240909;23:50;Money Supply M2+CD (YoY);Japan;JPY;1

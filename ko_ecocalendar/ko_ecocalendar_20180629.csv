@@ -1,0 +1,69 @@
+EUR_EurEuropeanCouncilMeeting;20180629;00:00;European Council Meeting;European Monetary Union;EUR;2
+AUD_HIANewHomeSales;20180629;01:26;HIA New Home Sales (MoM);Australia;AUD;2
+AUD_PrivateSectorCredit;20180629;01:30;Private Sector Credit (YoY);Australia;AUD;1
+JPY_VehicleProduction;20180629;04:00;Vehicle Production (YoY);Japan;JPY;1
+JPY_AnnualizedHousingStarts;20180629;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_ConstructionOrders;20180629;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_HousingStarts;20180629;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_ConsumerConfidenceIndex;20180629;05:00;Consumer Confidence Index;Japan;JPY;1
+EUR_GerImportPriceIndex;20180629;06:00;Import Price Index (MoM);Germany;EUR;1
+DKK_UnemploymentRate;20180629;06:00;Unemployment Rate;Denmark;DKK;1
+DKK_GrossDomesticProduct;20180629;06:00;Gross Domestic Product (YoY);Denmark;DKK;1
+EUR_GerRetailSales;20180629;06:00;Retail Sales (MoM);Germany;EUR;2
+NOK_RetailSales;20180629;06:00;Retail Sales ;Norway;NOK;1
+ZAR_M3MoneySupply;20180629;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+ZAR_PrivateSectorCredit;20180629;06:00;Private Sector Credit;South Africa;ZAR;1
+EUR_FraProducerPrices;20180629;06:45;Producer Prices (MoM);France;EUR;1
+EUR_FraConsumerPriceIndex;20180629;06:45;Consumer Price Index (EU norm) (YoY);France;EUR;2
+EUR_FraConsumerSpending;20180629;06:45;Consumer Spending (MoM);France;EUR;1
+CHF_KOFLeadingIndicator;20180629;07:00;KOF Leading Indicator;Switzerland;CHF;2
+TRY_TradeBalance;20180629;07:00;Trade Balance;Turkey;TRY;1
+TRY_ForeignArrivals;20180629;07:00;Foreign Arrivals;Turkey;TRY;1
+HUF_ProducerPriceIndex;20180629;07:00;Producer Price Index (YoY);Hungary;HUF;1
+CZK_GrossDomesticProduct;20180629;07:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+IDR_BankIndonesiaRate;20180629;07:00;Bank Indonesia Rate;Indonesia;IDR;1
+EUR_GerUnemploymentChange;20180629;08:00;Unemployment Change;Germany;EUR;2
+EUR_GerUnemploymentRate;20180629;08:00;Unemployment Rate s.a.;Germany;EUR;2
+NOK_RegisteredUnemployment;20180629;08:00;Registered Unemployment s.a;Norway;NOK;1
+GBP_NetLendingtoIndividuals;20180629;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_GrossDomesticProduct;20180629;08:30;Gross Domestic Product (YoY);United Kingdom;GBP;2
+GBP_TotalBusinessInvestment;20180629;08:30;Total Business Investment (QoQ);United Kingdom;GBP;1
+GBP_ConsumerCredit;20180629;08:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20180629;08:30;Mortgage Approvals;United Kingdom;GBP;2
+GBP_IndexofServices;20180629;08:30;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_M4MoneySupply;20180629;08:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+GBP_CurrentAccount;20180629;08:30;Current Account;United Kingdom;GBP;1
+EUR_EurHarmonizedIndexofConsumerPrices;20180629;09:00;Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20180629;09:00;Core Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+INR_FederalFiscalDeficitINR;20180629;10:00;Federal Fiscal Deficit, INR;India;INR;1
+INR_FXReservesUSD;20180629;11:30;FX Reserves, USD;India;INR;1
+BRL_UnemploymentRate;20180629;12:00;Unemployment Rate;Brazil;BRL;1
+ZAR_TradeBalance;20180629;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+CLP_IndustrialProduction;20180629;12:00;Industrial Production (YoY);Chile;CLP;1
+USD_PersonalSpending;20180629;12:30;Personal Spending;United States;USD;2
+USD_CorePersonalConsumptionExpendituresPriceIndex;20180629;12:30;Core Personal Consumption Expenditures - Price Index (YoY);United States;USD;3
+USD_PersonalConsumptionExpendituresPriceIndex;20180629;12:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;2
+USD_PersonalIncome;20180629;12:30;Personal Income (MoM);United States;USD;2
+CAD_RawMaterialPriceIndex;20180629;12:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20180629;12:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_GrossDomesticProduct;20180629;12:30;Gross Domestic Product (MoM);Canada;CAD;2
+CLP_Unemploymentrate;20180629;13:00;Unemployment rate;Chile;CLP;1
+RUB_CentralBankReserves;20180629;13:00;Central Bank Reserves $;Russia;RUB;1
+BRL_NominalBudgetBalance;20180629;13:30;Nominal Budget Balance;Brazil;BRL;1
+BRL_PrimaryBudgetSurplus;20180629;13:30;Primary Budget Surplus;Brazil;BRL;1
+USD_ChicagoPurchasingManagers'Index;20180629;13:45;Chicago Purchasing Managers' Index;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20180629;14:00;Michigan Consumer Sentiment Index;United States;USD;1
+CAD_BankofCanadaBusinessOutlookSurvey;20180629;14:30;Bank of Canada Business Outlook Survey;Canada;CAD;2
+COP_NationalJoblessRate;20180629;15:00;National Jobless Rate;Colombia;COP;1
+USD_BakerHughesUSOilRigCount;20180629;17:00;Baker Hughes US Oil Rig Count;United States;USD;2
+AUD_CFTCAUDNCNetPositions;20180629;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCS&P500NCNetPositions;20180629;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20180629;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20180629;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20180629;19:30;CFTC Gold NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20180629;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20180629;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+COP_Interestrate;20180629;20:00;Interest rate;Colombia;COP;1
+MXN_FiscalBalancepesos;20180629;21:00;Fiscal Balance, pesos;Mexico;MXN;1
+NZD_ANZ–RoyMorganConsumerConfidence;20180629;22:00;ANZ – Roy Morgan Consumer Confidence;New Zealand;NZD;2
+NZD_BuildingPermits;20180629;22:45;Building Permits s.a. (MoM);New Zealand;NZD;2

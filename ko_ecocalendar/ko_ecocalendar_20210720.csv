@@ -1,0 +1,26 @@
+AUD_RBAMeetingMinutes;20210720;01:30;RBA Meeting Minutes;Australia;AUD;3
+CNY_PBoCInterestRateDecision;20210720;01:30;PBoC Interest Rate Decision;China;CNY;3
+COP_IndependenceDay;20210720;05:00;Independence Day;Colombia;COP;0
+CHF_TradeBalance;20210720;06:00;Trade Balance;Switzerland;CHF;1
+CHF_Exports;20210720;06:00;Exports (MoM);Switzerland;CHF;1
+CHF_Imports;20210720;06:00;Imports (MoM);Switzerland;CHF;1
+EUR_GerProducerPriceIndex;20210720;06:00;Producer Price Index (YoY);Germany;EUR;1
+CZK_ProducerPriceIndex;20210720;07:00;Producer Price Index (YoY);Czech Republic;CZK;1
+EUR_EurECBBankLendingSurvey;20210720;08:00;ECB Bank Lending Survey;European Monetary Union;EUR;3
+EUR_EurCurrentAccount;20210720;08:00;Current Account n.s.a;European Monetary Union;EUR;1
+PLN_IndustrialOutput;20210720;08:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20210720;08:00;Producer Price Index (YoY);Poland;PLN;1
+USD_BuildingPermitsChange;20210720;12:30;Building Permits Change;United States;USD;1
+USD_HousingStartsChange;20210720;12:30;Housing Starts Change;United States;USD;1
+USD_BuildingPermits;20210720;12:30;Building Permits (MoM);United States;USD;2
+USD_HousingStarts;20210720;12:30;Housing Starts (MoM);United States;USD;2
+USD_RedbookIndex;20210720;12:55;Redbook Index (YoY);United States;USD;1
+NZD_GDTPriceIndex;20210720;14:00;GDT Price Index;New Zealand;NZD;1
+INR_IdulJuha;20210720;18:30;Idul Juha;India;INR;0
+USD_APIWeeklyCrudeOilStock;20210720;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_ProducerPriceIndex;20210720;21:00;Producer Price Index Growth (YoY);South Korea;KRW;1
+JPY_MerchandiseTradeBalanceTotal;20210720;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20210720;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_Imports;20210720;23:50;Imports (YoY);Japan;JPY;2
+JPY_Exports;20210720;23:50;Exports (YoY);Japan;JPY;2
+JPY_BoJMonetaryPolicyMeetingMinutes;20210720;23:50;BoJ Monetary Policy Meeting Minutes;Japan;JPY;3

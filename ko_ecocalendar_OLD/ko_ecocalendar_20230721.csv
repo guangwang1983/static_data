@@ -1,0 +1,16 @@
+DKK_IndustrialOutlook;20230721;06:00;Industrial Outlook;Denmark;DKK;1
+GBP_RetailSales;20230721;06:00;Retail Sales ex-Fuel (YoY);United Kingdom;GBP;2
+GBP_PublicSectorNetBorrowing;20230721;06:00;Public Sector Net Borrowing;United Kingdom;GBP;1
+PLN_RetailSales;20230721;08:00;Retail Sales (YoY);Poland;PLN;1
+RUB_Interestratedecision;20230721;10:30;Interest rate decision;Russia;RUB;2
+INR_FXReservesUSD;20230721;11:30;FX Reserves, USD;India;INR;1
+CAD_NewHousingPriceIndex;20230721;12:30;New Housing Price Index (YoY);Canada;CAD;1
+CAD_RetailSales;20230721;12:30;Retail Sales (MoM);Canada;CAD;2
+USD_BakerHughesUSOilRigCount;20230721;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20230721;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20230721;20:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20230721;20:30;CFTC Gold NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20230721;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20230721;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20230721;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20230721;20:30;CFTC AUD NC Net Positions;Australia;AUD;1

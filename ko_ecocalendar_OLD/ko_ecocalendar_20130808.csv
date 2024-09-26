@@ -1,0 +1,49 @@
+JPY_TertiaryIndustryIndex;20130808;23:50;Tertiary Industry Index (MoM);Japan;JPY;2
+JPY_MoneySupplyM2+CD;20130808;23:50;Money Supply M2+CD (YoY);Japan;JPY;1
+PEN_Interestratedecision;20130808;23:00;Interest rate decision;Peru;PEN;1
+NZD_RetailSales;20130808;22:45;Electronic Card Retail Sales  (MoM);New Zealand;NZD;2
+USD_Auction;20130808;17:00;30-Year Bond Auction;United States;USD;1
+USD_EIANaturalGasStorageChange;20130808;14:30;EIA Natural Gas Storage Change;United States;USD;1
+MXN_12MonthInflation;20130808;13:00;12-Month Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20130808;13:00;Headline Inflation;Mexico;MXN;1
+MXN_CoreInflation;20130808;13:00;Core Inflation;Mexico;MXN;1
+RUB_CentralBankReserves;20130808;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_JoblessClaims;20130808;12:30;Initial Jobless Claims;United States;USD;2
+CAD_NewHousingPriceIndex;20130808;12:30;New Housing Price Index (YoY);Canada;CAD;2
+CLP_ConsumerPriceIndex;20130808;12:00;Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+ZAR_ManufacturingProductionIndex;20130808;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+EUR_IreHICP;20130808;10:00;HICP (YoY);Ireland;EUR;1
+EUR_IreConsumerPriceIndex;20130808;10:00;Consumer Price Index (YoY);Ireland;EUR;1
+ISK_TradeBalance;20130808;09:00;Trade Balance;Iceland;ISK;1
+EUR_GreUnemploymentRate;20130808;09:00;Unemployment Rate (MoM);Greece;EUR;1
+ZAR_BusinessConfidenceIndex;20130808;08:30;Business Confidence Index;South Africa;ZAR;1
+KRW_BoKInterestRateDecision;20130808;08:02;BoK Interest Rate Decision;South Korea;KRW;1
+EUR_EurECBMonthlyReport;20130808;08:00;ECB Monthly Report;European Monetary Union;EUR;3
+NOK_CreditIndicator;20130808;08:00;Credit Indicator;Norway;NOK;1
+EUR_NetConsumerPriceIndex;20130808;07:30;Consumer Price Index n.s.a (YoY);Netherlands, The;EUR;1
+CZK_UnemploymentRate;20130808;07:00;Unemployment Rate;Czech Republic;CZK;1
+EUR_SpaIndustrialOutputCalAdjusted;20130808;07:00;Industrial Output Cal Adjusted (YoY);Spain;EUR;1
+HUF_TradeBalance;20130808;07:00;Trade Balance;Hungary;HUF;1
+JPY_BoJPressConference;20130808;06:30;BoJ Press Conference;Japan;JPY;2
+EUR_GerCurrentAccount;20130808;06:00;Current Account n.s.a.;Germany;EUR;1
+EUR_GerTradeBalance;20130808;06:00;Trade Balance s.a.;Germany;EUR;1
+EUR_GerExports;20130808;06:00;Exports (MoM);Germany;EUR;1
+EUR_GerImports;20130808;06:00;Imports (MoM);Germany;EUR;1
+CHF_UnemploymentRate;20130808;05:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+JPY_EcoWatchersSurvey:Outlook;20130808;05:00;Eco Watchers Survey: Outlook;Japan;JPY;2
+JPY_EcoWatchersSurvey:Current;20130808;05:00;Eco Watchers Survey: Current;Japan;JPY;2
+CNY_TradeBalanceUSD;20130808;03:20;Trade Balance USD;China;CNY;2
+CNY_Imports;20130808;03:08;Imports (YoY);China;CNY;1
+CNY_Exports;20130808;03:07;Exports (YoY);China;CNY;1
+JPY_BoJInterestRateDecision;20130808;03:00;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_BoJMonetaryPolicyStatement;20130808;03:00;BoJ Monetary Policy Statement ;Japan;JPY;3
+AUD_PartTimeEmployment;20130808;01:30;Part-Time Employment;Australia;AUD;1
+AUD_UnemploymentRate;20130808;01:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_FulltimeEmployment;20130808;01:30;Fulltime Employment;Australia;AUD;2
+AUD_EmploymentChange;20130808;01:30;Employment Change s.a.;Australia;AUD;3
+IDR_HariRayaIdulFitri;20130808;00:00;Hari Raya Idul Fitri;Indonesia;IDR;0
+INR_IdulFitr;20130808;00:00;Idul Fitr ;India;INR;0
+QAR_EidalFitr;20130808;00:00;Eid al-Fitr;Qatar;QAR;0
+SGD_HariRayaPuasa;20130808;00:00;Hari Raya Puasa;Singapore;SGD;0
+TRY_RamazanFeast;20130808;00:00;Ramazan Feast;Turkey;TRY;0
+AED_EidAlFitr;20130808;00:00;Eid Al Fitr;United Arab Emirates;AED;0

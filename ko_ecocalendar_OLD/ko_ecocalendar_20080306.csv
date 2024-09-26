@@ -1,0 +1,15 @@
+USD_PendingHomeSales;20080306;15:00;Pending Home Sales (MoM);United States;USD;2
+CAD_IveyPurchasingManagersIndex;20080306;15:00;Ivey Purchasing Managers Index;Canada;CAD;1
+USD_JoblessClaims;20080306;13:30;Initial Jobless Claims;United States;USD;1
+CAD_BuildingPermits;20080306;13:30;Building Permits (MoM);Canada;CAD;1
+EUR_EurCentralBankSpeech;20080306;13:30;ECB President Trichet speech;European Monetary Union;EUR;2
+EUR_EurECBInterestRateDecision;20080306;12:45;ECB Interest Rate Decision;European Monetary Union;EUR;3
+GBP_BoEInterestRateDecision;20080306;12:00;BoE Interest Rate Decision;United Kingdom;GBP;3
+EUR_GerFactoryOrders;20080306;11:00;Factory Orders s.a. (MoM);Germany;EUR;2
+GBP_HalifaxHousePrices;20080306;08:00;Halifax House Prices (3m/YoY);United Kingdom;GBP;1
+CHF_UnemploymentRate;20080306;06:45;Unemployment Rate s.a (MoM);Switzerland;CHF;1
+JPY_MachineToolOrders;20080306;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+JPY_LeadingEconomicIndex;20080306;05:00;Leading Economic Index;Japan;JPY;1
+JPY_CoincidentIndex;20080306;05:00;Coincident Index;Japan;JPY;0
+JPY_BoJMonetaryPolicyMeetingMinutes;20080306;04:00;BoJ Monetary Policy Meeting Minutes;Japan;JPY;2
+AUD_TradeBalance;20080306;00:20;Trade Balance;Australia;AUD;2

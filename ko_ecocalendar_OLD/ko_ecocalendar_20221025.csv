@@ -1,0 +1,17 @@
+SEK_ProducerPriceIndex;20221025;06:00;Producer Price Index (MoM);Sweden;SEK;1
+TRY_ManufacturingConfidence;20221025;07:00;Manufacturing Confidence;Turkey;TRY;1
+TRY_CapacityUtilization;20221025;07:00;Capacity Utilization;Turkey;TRY;1
+PLN_Unemployment;20221025;08:00;Unemployment (MoM);Poland;PLN;1
+EUR_EurECBBankLendingSurvey;20221025;08:00;ECB Bank Lending Survey;European Monetary Union;EUR;3
+BRL_MidmonthInflation;20221025;12:00;Mid-month Inflation;Brazil;BRL;1
+HUF_MNBInterestRateDecision;20221025;12:00;MNB Interest Rate Decision;Hungary;HUF;1
+USD_RedbookIndex;20221025;12:55;Redbook Index (YoY);United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20221025;13:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;2
+USD_HousingPriceIndex;20221025;13:00;Housing Price Index (MoM);United States;USD;2
+USD_ConsumerConfidence;20221025;14:00;Consumer Confidence;United States;USD;2
+USD_RichmondFedManufacturingIndex;20221025;14:00;Richmond Fed Manufacturing Index;United States;USD;1
+COP_NationalJoblessRate;20221025;15:00;National Jobless Rate;Colombia;COP;1
+USD_Auction;20221025;17:00;2-Year Note Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20221025;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_BOKManufacturingBSI;20221025;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+JPY_CorporateServicePriceIndex;20221025;23:50;Corporate Service Price Index (YoY);Japan;JPY;1

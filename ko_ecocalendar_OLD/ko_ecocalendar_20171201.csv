@@ -1,0 +1,57 @@
+AUD_CFTCAUDNCNetPositions;20171201;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+JPY_CFTCJPYNCNetPositions;20171201;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCGoldNCNetPositions;20171201;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCUSDNCNetPositions;20171201;20:30;CFTC USD NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20171201;20:30;CFTC Oil NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20171201;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+GBP_CFTCGBPNCNetPositions;20171201;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_TotalVehicleSales;20171201;20:30;Total Vehicle Sales;United States;USD;1
+ARS_TaxRevenue;20171201;20:00;Tax Revenue (MoM);Argentina;ARS;1
+USD_BakerHughesUSOilRigCount;20171201;18:00;Baker Hughes US Oil Rig Count;United States;USD;2
+USD_CentralBankSpeech;20171201;15:15;Fed Harker speech;United States;USD;2
+USD_ISMManufacturingPMI;20171201;15:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMPricesPaid;20171201;15:00;ISM Prices Paid;United States;USD;3
+USD_ConstructionSpending;20171201;15:00;Construction Spending (MoM);United States;USD;2
+USD_MarkitManufacturingPMI;20171201;14:45;Markit Manufacturing PMI;United States;USD;2
+CAD_MarkitManufacturingPMI;20171201;14:30;Markit Manufacturing PMI;Canada;CAD;2
+CAD_GrossDomesticProduct;20171201;13:30;Gross Domestic Product Annualized (QoQ);Canada;CAD;3
+CAD_ParticipationRate;20171201;13:30;Participation Rate;Canada;CAD;2
+CAD_NetChangeinEmployment;20171201;13:30;Net Change in Employment;Canada;CAD;3
+CAD_UnemploymentRate;20171201;13:30;Unemployment Rate;Canada;CAD;3
+ZAR_TotalNewVehicleSales;20171201;13:00;Total New Vehicle Sales;South Africa;ZAR;1
+CZK_BudgetBalance;20171201;13:00;Budget Balance;Czech Republic;CZK;1
+BRL_HSBCPMIManufacturing;20171201;12:00;HSBC PMI Manufacturing;Brazil;BRL;1
+INR_FXReservesUSD;20171201;11:30;FX Reserves, USD;India;INR;1
+BRL_GrossDomesticProduct;20171201;11:00;Gross Domestic Product (YoY);Brazil;BRL;1
+GBP_MarkitManufacturingPMI;20171201;09:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+TRY_Exports;20171201;09:00;Exports;Turkey;TRY;1
+EUR_ItaGrossDomesticProduct;20171201;09:00;Gross Domestic Product (YoY);Italy;EUR;2
+EUR_GreMarkitManufacturingPMI;20171201;09:00;Markit Manufacturing PMI;Greece;EUR;1
+CZK_GrossDomesticProduct;20171201;09:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+NOK_RegisteredUnemployment;20171201;09:00;Registered Unemployment n.s.a;Norway;NOK;1
+EUR_EurMarkitManufacturingPMI;20171201;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_GerMarkitManufacturingPMI;20171201;08:55;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20171201;08:50;Markit Manufacturing PMI;France;EUR;1
+EUR_ItaMarkitManufacturingPMI;20171201;08:45;Markit Manufacturing PMI;Italy;EUR;1
+CHF_SVMEPurchasingManagers'Index;20171201;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+SEK_CurrentAccount;20171201;08:30;Current Account (QoQ);Sweden;SEK;1
+CZK_MarkitPMI;20171201;08:30;Markit PMI;Czech Republic;CZK;1
+EUR_SpaMarkitManufacturingPMI;20171201;08:15;Markit Manufacturing PMI;Spain;EUR;1
+EUR_AusUnemployment;20171201;08:00;Unemployment;Austria;EUR;1
+EUR_AusUnemploymentRate;20171201;08:00;Unemployment Rate;Austria;EUR;1
+HUF_PurchasingManagerIndex;20171201;08:00;Purchasing Manager Index;Hungary;HUF;1
+HUF_TradeBalance;20171201;08:00;Trade Balance;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20171201;08:00;Purchasing Manager Index;Poland;PLN;2
+SEK_PurchasingManagersIndexManufacturing;20171201;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;2
+EUR_FinGrossDomesticProduct;20171201;07:00;Gross Domestic Product Qtr Prelim (YoY);Finland;EUR;1
+RUB_HSBCManufacturingPMI;20171201;06:00;HSBC Manufacturing PMI	;Russia;RUB;1
+EUR_IrePurchasingManagerIndexManufacturing;20171201;06:00;Purchasing Manager Index Manufacturing;Ireland;EUR;1
+AUD_RBACommodityIndexSDR;20171201;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+PEN_Inflation;20171201;05:00;Inflation;Peru;PEN;1
+CNY_CaixinManufacturingPMI;20171201;01:45;Caixin Manufacturing PMI;China;CNY;2
+AUD_ConsumerInflationExpectations;20171201;01:00;Consumer Inflation Expectations;Australia;AUD;2
+KRW_NikkeiMarkitManufacturingPMI;20171201;00:30;Nikkei Markit Manufacturing PMI;South Korea;KRW;1
+JPY_NikkeiManufacturingPMI;20171201;00:30;Nikkei Manufacturing PMI;Japan;JPY;1
+IDR_MaulidurRasul;20171201;00:00;Maulidur Rasul;Indonesia;IDR;0
+RON_NationalDay;20171201;00:00;National Day;Romania;RON;0
+KRW_TradeBalance;20171201;00:00;Trade Balance;South Korea;KRW;1

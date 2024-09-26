@@ -1,0 +1,39 @@
+NZD_ParticipationRate;20200505;22:45;Participation Rate;New Zealand;NZD;2
+NZD_EmploymentChange;20200505;22:45;Employment Change;New Zealand;NZD;3
+NZD_UnemploymentRate;20200505;22:45;Unemployment Rate;New Zealand;NZD;3
+NZD_LabourCostIndex;20200505;21:45;Labour Cost Index (YoY);New Zealand;NZD;1
+USD_APIWeeklyCrudeOilStock;20200505;20:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_GDTPriceIndex;20200505;14:30;GDT Price Index;New Zealand;NZD;2
+USD_ISMNonManufacturingPMI;20200505;14:00;ISM Non-Manufacturing PMI;United States;USD;3
+USD_ISMNonManufacturingNewOrdersIndex;20200505;14:00;ISM Non-Manufacturing New Orders Index;United States;USD;2
+USD_ISMNonManufacturingEmploymentIndex;20200505;14:00;ISM Non-Manufacturing Employment Index;United States;USD;3
+USD_ISMNonManufacturingPricesPaid;20200505;14:00;ISM Non-Manufacturing Prices Paid;United States;USD;2
+USD_IBDTIPPEconomicOptimism;20200505;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+USD_MarkitServicesPMI;20200505;13:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20200505;13:45;Markit PMI Composite;United States;USD;2
+USD_RedbookIndex;20200505;12:55;Redbook Index (YoY);United States;USD;1
+USD_TradeBalance;20200505;12:30;Trade Balance;United States;USD;2
+CAD_Imports;20200505;12:30;Imports;Canada;CAD;1
+CAD_Exports;20200505;12:30;Exports;Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20200505;12:30;International Merchandise Trade;Canada;CAD;2
+BRL_IndustrialOutput;20200505;12:00;Industrial Output (YoY);Brazil;BRL;1
+EUR_EurEuropeanCommissionreleasesEconomicGrowthForecasts;20200505;09:00;European Commission releases Economic Growth Forecasts;European Monetary Union;EUR;2
+EUR_EurProducerPriceIndex;20200505;09:00;Producer Price Index (YoY);European Monetary Union;EUR;1
+EUR_SpaAuction;20200505;08:40;6-Month Letras Auction;Spain;EUR;1
+HKD_RetailSales;20200505;08:30;Retail Sales;Hong Kong SAR;HKD;1
+GBP_MarkitConstructionPMI;20200505;08:30;Markit Construction PMI;United Kingdom;GBP;1
+GBP_MarkitServicesPMI;20200505;08:30;Markit Services PMI;United Kingdom;GBP;2
+BRL_FipeIPCInflation;20200505;08:00;Fipe IPC Inflation;Brazil;BRL;1
+SEK_IndustrialProductionValue;20200505;07:30;Industrial Production Value (MoM);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20200505;07:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+MYR_BNMInterestRateDecision;20200505;07:00;BNM Interest Rate Decision;Malaysia;MYR;1
+EUR_SpaUnemploymentChange;20200505;07:00;Unemployment Change;Spain;EUR;2
+EUR_FraBudget;20200505;06:45;Budget;France;EUR;1
+CHF_ConsumerPriceIndex;20200505;06:30;Consumer Price Index (MoM);Switzerland;CHF;1
+CHF_SECOConsumerClimate;20200505;05:45;SECO Consumer Climate (3m);Switzerland;CHF;2
+SGD_RetailSales;20200505;05:00;Retail Sales (MoM);Singapore;SGD;1
+AUD_RBAInterestRateDecision;20200505;04:30;RBA Interest Rate Decision;Australia;AUD;3
+AUD_RBARateStatement;20200505;04:30;RBA Rate Statement;Australia;AUD;3
+IDR_GrossDomesticProduct;20200505;04:00;Gross Domestic Product (YoY);Indonesia;IDR;1
+JPY_Auction;20200505;03:35;10-y Bond Auction;Japan;JPY;1
+NZD_ANZCommodityPrice;20200505;01:00;ANZ Commodity Price;New Zealand;NZD;1

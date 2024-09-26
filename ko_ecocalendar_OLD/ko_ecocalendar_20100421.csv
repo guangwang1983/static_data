@@ -1,0 +1,15 @@
+JPY_MerchandiseTradeBalanceTotal;20100421;23:50;Merchandise Trade Balance Total;Japan;JPY;1
+JPY_AdjustedMerchandiseTradeBalance;20100421;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+USD_EIACrudeOilStocksChange;20100421;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_CentralBankSpeech;20100421;14:15;Former Fed Chair Bernanke speech;United States;USD;2
+CAD_WholesaleSales;20100421;12:30;Wholesale Sales (MoM);Canada;CAD;2
+USD_MBAMortgageApplications;20100421;11:00;MBA Mortgage Applications;United States;USD;1
+GBP_BankofEnglandMinutes;20100421;08:30;Bank of England Minutes;United Kingdom;GBP;3
+GBP_AverageEarningsExcludingBonus;20100421;08:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_AverageEarningsIncludingBonus;20100421;08:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountChange;20100421;08:30;Claimant Count Change;United Kingdom;GBP;3
+GBP_ClaimantCountRate;20100421;08:30;Claimant Count Rate;United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20100421;08:30;ILO Unemployment Rate (3M);United Kingdom;GBP;2
+JPY_CoincidentIndex;20100421;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20100421;05:00;Leading Economic Index;Japan;JPY;1
+AUD_WestpacLeadingIndex;20100421;00:30;Westpac Leading Index (MoM);Australia;AUD;1

@@ -1,0 +1,27 @@
+COP_Interestrate;20171124;20:00;Interest rate;Colombia;COP;1
+ARS_TradeBalance;20171124;19:00;Trade Balance (MoM);Argentina;ARS;1
+MXN_CurrentAccount;20171124;15:00;Accumulated Current Account/GDP;Mexico;MXN;1
+USD_MarkitManufacturingPMI;20171124;14:45;Markit Manufacturing PMI;United States;USD;2
+USD_MarkitServicesPMI;20171124;14:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20171124;14:45;Markit PMI Composite;United States;USD;2
+MXN_GrossDomesticProduct;20171124;14:00;Gross Domestic Product (YoY);Mexico;MXN;1
+EUR_EurCentralBankSpeech;20171124;12:30;ECB Constancio speech;European Monetary Union;EUR;2
+INR_BankLoanGrowth;20171124;11:30;Bank Loan Growth;India;INR;1
+TRY_ManufacturingConfidence;20171124;11:30;Manufacturing Confidence;Turkey;TRY;1
+TRY_CapacityUtilization;20171124;11:30;Capacity Utilization;Turkey;TRY;1
+INR_FXReservesUSD;20171124;11:30;FX Reserves, USD;India;INR;1
+GBP_BBAMortgageApprovals;20171124;09:30;BBA Mortgage Approvals;United Kingdom;GBP;1
+PLN_Unemployment;20171124;09:00;Unemployment (MoM);Poland;PLN;1
+EUR_GerIFOCurrentAssessment;20171124;09:00;IFO - Current Assessment;Germany;EUR;2
+EUR_GerIFOExpectations;20171124;09:00;IFO - Expectations;Germany;EUR;2
+EUR_GerIFOBusinessClimate;20171124;09:00;IFO - Business Climate;Germany;EUR;2
+EUR_ItaIndustrialOrders;20171124;09:00;Industrial Orders n.s.a (YoY);Italy;EUR;1
+EUR_ItaIndustrialSales;20171124;09:00;Industrial Sales n.s.a. (YoY);Italy;EUR;1
+SEK_ProducerPriceIndex;20171124;08:30;Producer Price Index (MoM);Sweden;SEK;1
+CHF_IndustrialProduction;20171124;08:15;Industrial Production (QoQ);Switzerland;CHF;2
+EUR_AusIndustrialProduction;20171124;08:00;Industrial Production (YoY);Austria;EUR;1
+EUR_FinProducerPriceIndex;20171124;07:00;Producer Price Index (YoY);Finland;EUR;1
+DKK_RetailSales;20171124;07:00;Retail Sales (YoY);Denmark;DKK;1
+EUR_FinImportPrices;20171124;07:00;Import Prices (YoY);Finland;EUR;1
+EUR_FinExportPrices;20171124;07:00;Export Prices (YoY);Finland;EUR;1
+JPY_NikkeiManufacturingPMI;20171124;00:30;Nikkei Manufacturing PMI;Japan;JPY;1

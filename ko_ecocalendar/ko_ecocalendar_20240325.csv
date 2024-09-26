@@ -1,0 +1,14 @@
+COP_SaintJoseph;20240325;05:00;Saint Joseph;Colombia;COP;0
+JPY_LeadingEconomicIndex;20240325;05:00;Leading Economic Index;Japan;JPY;1
+JPY_CoincidentIndex;20240325;05:00;Coincident Index;Japan;JPY;1
+PLN_Unemployment;20240325;09:00;Unemployment (MoM);Poland;PLN;1
+USD_CentralBankSpeech;20240325;12:25;Fed Bostic speech;United States;USD;2
+USD_ChicagoFedNationalActivityIndex;20240325;12:30;Chicago Fed National Activity Index ;United States;USD;1
+BRL_CurrentAccount;20240325;12:30;Current Account;Brazil;BRL;1
+USD_NewHomeSales;20240325;14:00;New Home Sales (MoM);United States;USD;1
+USD_NewHomeSalesChange;20240325;14:00;New Home Sales Change (MoM);United States;USD;2
+GBP_CentralBankSpeech;20240325;14:15;BoE Mann speech;United Kingdom;GBP;2
+USD_Auction;20240325;17:00;2-Year Note Auction;United States;USD;1
+KRW_ConsumerSentimentIndex;20240325;21:00;Consumer Sentiment Index;South Korea;KRW;1
+AUD_WestpacConsumerConfidence;20240325;23:30;Westpac Consumer Confidence;Australia;AUD;2
+JPY_CorporateServicePriceIndex;20240325;23:50;Corporate Service Price Index (YoY);Japan;JPY;1

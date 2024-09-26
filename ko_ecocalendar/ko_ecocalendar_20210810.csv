@@ -1,0 +1,30 @@
+AUD_NationalAustraliaBankBusinessConfidence;20210810;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20210810;01:30;National Australia Bank Business Conditions;Australia;AUD;1
+IDR_RetailSales;20210810;04:00;Retail Sales (YoY);Indonesia;IDR;1
+JPY_EcoWatchersSurvey:Outlook;20210810;05:00;Eco Watchers Survey: Outlook;Japan;JPY;1
+JPY_EcoWatchersSurvey:Current;20210810;05:00;Eco Watchers Survey: Current;Japan;JPY;1
+NOK_CoreInflation;20210810;06:00;Core Inflation (MoM);Norway;NOK;1
+NOK_ConsumerPriceIndex;20210810;06:00;Consumer Price Index (MoM);Norway;NOK;1
+DKK_Inflation;20210810;06:00;Inflation (HICP) (YoY);Denmark;DKK;1
+DKK_ConsumerPriceIndex;20210810;06:00;Consumer Price Index (YoY);Denmark;DKK;1
+NOK_ProducerPriceIndex;20210810;06:00;Producer Price Index (YoY);Norway;NOK;1
+CZK_ConsumerPriceIndex;20210810;07:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+TRY_UnemploymentRate;20210810;07:00;Unemployment Rate;Turkey;TRY;1
+HUF_ConsumerPriceIndex;20210810;07:00;Core Consumer Price Index (YoY);Hungary;HUF;1
+SEK_IndustrialProductionValue;20210810;07:30;Industrial Production Value (MoM);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20210810;07:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+EUR_GerZEWSurvey–CurrentSituation;20210810;09:00;ZEW Survey – Current Situation;Germany;EUR;2
+EUR_EurZEWSurvey–EconomicSentiment;20210810;09:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurvey–EconomicSentiment;20210810;09:00;ZEW Survey – Economic Sentiment;Germany;EUR;2
+GBP_Auction;20210810;09:30;10-y Bond Auction;United Kingdom;GBP;1
+USD_NFIBBusinessOptimismIndex;20210810;10:00;NFIB Business Optimism Index;United States;USD;1
+ZAR_ManufacturingProductionIndex;20210810;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+BRL_IPCAInflation;20210810;12:00;IPCA Inflation;Brazil;BRL;1
+USD_UnitLaborCosts;20210810;12:30;Unit Labor Costs;United States;USD;2
+USD_NonfarmProductivity;20210810;12:30;Nonfarm Productivity;United States;USD;2
+USD_RedbookIndex;20210810;12:55;Redbook Index (YoY);United States;USD;1
+USD_Auction;20210810;17:00;3-Year Note Auction;United States;USD;1
+USD_CentralBankSpeech;20210810;18:30;Fed Evans speech;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20210810;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_UnemploymentRate;20210810;23:00;Unemployment Rate;South Korea;KRW;1
+JPY_MoneySupplyM2+CD;20210810;23:50;Money Supply M2+CD (YoY);Japan;JPY;1

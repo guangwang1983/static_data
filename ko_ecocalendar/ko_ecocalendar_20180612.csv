@@ -1,0 +1,31 @@
+RUB_NationalDay;20180612;00:00;National Day ;Russia;RUB;0
+USD_TrumpKimMeeting;20180612;01:00;Trump - Kim Meeting;United States;USD;3
+AUD_HomeLoans;20180612;01:30;Home Loans;Australia;AUD;2
+AUD_InvestmentLendingforHomes;20180612;01:30;Investment Lending for Homes;Australia;AUD;2
+AUD_NationalAustraliaBankBusinessConfidence;20180612;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20180612;01:30;National Australia Bank Business Conditions;Australia;AUD;1
+KRW_MoneySupplyGrowth;20180612;03:00;Money Supply Growth;South Korea;KRW;1
+JPY_TertiaryIndustryIndex;20180612;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+EUR_FraNonfarmPayrolls;20180612;05:30;Nonfarm Payrolls (QoQ);France;EUR;1
+RON_IndustrialProduction;20180612;06:00;Industrial Production (MoM);Romania;RON;1
+RON_ConsumerPriceIndex;20180612;06:00;Consumer Price Index;Romania;RON;1
+GBP_ClaimantCountRate;20180612;08:30;Claimant Count Rate;United Kingdom;GBP;1
+GBP_ClaimantCountChange;20180612;08:30;Claimant Count Change;United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20180612;08:30;ILO Unemployment Rate (3M);United Kingdom;GBP;2
+GBP_AverageEarningsIncludingBonus;20180612;08:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;3
+GBP_AverageEarningsExcludingBonus;20180612;08:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;3
+CNY_M2MoneySupply;20180612;09:00;M2 Money Supply (YoY);China;CNY;1
+EUR_GerZEWSurvey–EconomicSentiment;20180612;09:00;ZEW Survey – Economic Sentiment;Germany;EUR;2
+EUR_GerZEWSurvey–CurrentSituation;20180612;09:00;ZEW Survey – Current Situation;Germany;EUR;2
+EUR_EurZEWSurvey–EconomicSentiment;20180612;09:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;1
+CNY_NewLoans;20180612;09:00;New Loans;China;CNY;1
+USD_NFIBBusinessOptimismIndex;20180612;10:00;NFIB Business Optimism Index;United States;USD;1
+INR_CumulativeIndustrialOutput;20180612;11:30;Cumulative Industrial Output;India;INR;1
+INR_IndustrialOutput;20180612;11:30;Industrial Output;India;INR;1
+INR_ManufacturingOutput;20180612;11:30;Manufacturing Output;India;INR;1
+USD_ConsumerPriceIndex;20180612;12:30;Consumer Price Index (MoM);United States;USD;2
+USD_RedbookIndex;20180612;12:55;Redbook Index (YoY);United States;USD;1
+USD_Auction;20180612;17:00;30-Year Bond Auction;United States;USD;1
+USD_MonthlyBudgetStatement;20180612;18:00;Monthly Budget Statement;United States;USD;2
+USD_APIWeeklyCrudeOilStock;20180612;20:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_FoodPriceIndex;20180612;22:45;Food Price Index (MoM);New Zealand;NZD;1

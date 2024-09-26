@@ -1,0 +1,28 @@
+USD_CentralBankSpeech;20130625;21:00;Treasury Sec Lew speech;United States;USD;2
+KRW_BOKManufacturingBSI;20130625;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+USD_Auction;20130625;17:00;2-Year Note Auction;United States;USD;1
+USD_ConsumerConfidence;20130625;14:00;Consumer Confidence;United States;USD;2
+USD_NewHomeSales;20130625;14:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20130625;14:00;New Home Sales Change (MoM);United States;USD;1
+USD_RichmondFedManufacturingIndex;20130625;14:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20130625;13:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;1
+USD_HousingPriceIndex;20130625;13:00;Housing Price Index (MoM);United States;USD;2
+USD_RedbookIndex;20130625;12:55;Redbook Index (MoM);United States;USD;1
+USD_DurableGoodsOrders;20130625;12:30;Durable Goods Orders ex Transportation;United States;USD;2
+EUR_SloCurrentAccount;20130625;12:30;Current Account Balance EUR;Slovakia;EUR;1
+EUR_EurCentralBankSpeech;20130625;12:15;ECB President Draghi speech;European Monetary Union;EUR;3
+HUF_MNBInterestRateDecision;20130625;12:00;MNB Interest Rate Decision;Hungary;HUF;1
+CHF_CentralBankSpeech;20130625;11:30;SNB Zurbrugg speech;Switzerland;CHF;1
+EUR_PorCurrentAccount;20130625;11:00;Current Account Balance;Portugal;EUR;1
+GBP_CBIDistributiveTradesSurveyRealized;20130625;10:00;CBI Distributive Trades Survey - Realized (MoM);United Kingdom;GBP;1
+EUR_SpaAuction;20130625;08:48;9-Month Letras Auction;Spain;EUR;1
+GBP_BBAMortgageApprovals;20130625;08:30;BBA Mortgage Approvals;United Kingdom;GBP;2
+GBP_InflationReportHearings;20130625;08:30;Inflation Report Hearings;United Kingdom;GBP;3
+EUR_GreCurrentAccount;20130625;08:22;Current Account (YoY);Greece;EUR;1
+EUR_ItaRetailSales;20130625;08:00;Retail Sales n.s.a (YoY);Italy;EUR;1
+TRY_ForeignArrivals;20130625;08:00;Foreign Arrivals;Turkey;TRY;1
+SEK_ProducerPriceIndex;20130625;07:30;Producer Price Index (YoY);Sweden;SEK;1
+EUR_NetGrossDomesticProduct;20130625;07:30;Gross Domestic Product n.s.a (YoY);Netherlands, The;EUR;1
+EUR_SpaProducerPriceIndex;20130625;07:00;Producer Price Index (YoY);Spain;EUR;1
+EUR_FraBusinessClimate;20130625;06:45;Business Climate;France;EUR;1
+EUR_FinUnemploymentRate;20130625;06:00;Unemployment Rate;Finland;EUR;1

@@ -1,0 +1,16 @@
+TRY_ConsumerConfidence;20230123;07:00;Consumer Confidence;Turkey;TRY;1
+DKK_IndustrialOutlook;20230123;07:00;Industrial Outlook;Denmark;DKK;1
+DKK_ConsumerConfidence;20230123;07:00;Consumer Confidence;Denmark;DKK;1
+PLN_RetailSales;20230123;09:00;Retail Sales (YoY);Poland;PLN;1
+PLN_IndustrialOutput;20230123;09:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20230123;09:00;Producer Price Index (YoY);Poland;PLN;1
+ILS_IndustrialProduction;20230123;11:00;Industrial Production (MoM);Israel;ILS;1
+USD_ChicagoFedNationalActivityIndex;20230123;13:30;Chicago Fed National Activity Index ;United States;USD;2
+CAD_NewHousingPriceIndex;20230123;13:30;New Housing Price Index (YoY);Canada;CAD;1
+EUR_EurConsumerConfidence;20230123;15:00;Consumer Confidence;European Monetary Union;EUR;2
+USD_Auction;20230123;16:30;6-Month Bill Auction;United States;USD;1
+RON_Unificationday;20230123;21:00;Unification day;Romania;RON;0
+NZD_BusinessNZPSI;20230123;21:30;Business NZ PSI;New Zealand;NZD;1
+AUD_S&PGlobalManufacturingPMI;20230123;22:00;S&P Global Manufacturing PMI;Australia;AUD;2
+AUD_S&PGlobalServicesPMI;20230123;22:00;S&P Global Services PMI;Australia;AUD;2
+AUD_S&PGlobalCompositePMI;20230123;22:00;S&P Global Composite PMI;Australia;AUD;1

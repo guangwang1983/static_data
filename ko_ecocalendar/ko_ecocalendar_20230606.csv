@@ -1,0 +1,26 @@
+NZD_ANZCommodityPrice;20230606;01:00;ANZ Commodity Price;New Zealand;NZD;1
+AUD_CurrentAccount;20230606;01:30;Current Account Balance;Australia;AUD;1
+AUD_ANZJobAdvertisements;20230606;01:30;ANZ Job Advertisements;Australia;AUD;1
+AUD_RBARateStatement;20230606;04:30;RBA Rate Statement;Australia;AUD;3
+AUD_RBAInterestRateDecision;20230606;04:30;RBA Interest Rate Decision;Australia;AUD;3
+EUR_GerFactoryOrders;20230606;06:00;Factory Orders n.s.a. (YoY);Germany;EUR;1
+HUF_RetailSales;20230606;06:30;Retail Sales (YoY);Hungary;HUF;1
+CZK_IndustrialProduction;20230606;07:00;Industrial Production (YoY);Czech Republic;CZK;1
+CZK_Constructionoutput;20230606;07:00;Construction output (YoY);Czech Republic;CZK;1
+CZK_ForeignTradeBalance;20230606;07:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+GBP_S&PGlobalConstructionPMI;20230606;08:30;S&P Global Construction PMI;United Kingdom;GBP;1
+GBP_Auction;20230606;09:00;30-y Bond Auction;United Kingdom;GBP;1
+EUR_EurRetailSales;20230606;09:00;Retail Sales (YoY);European Monetary Union;EUR;3
+ZAR_GrossDomesticProduct;20230606;09:30;Gross Domestic Product (QoQ);South Africa;ZAR;1
+PLN_NBPBaserate;20230606;12:10;NBP Base rate;Poland;PLN;1
+CAD_BuildingPermits;20230606;12:30;Building Permits (MoM);Canada;CAD;1
+USD_RedbookIndex;20230606;12:55;Redbook Index (YoY);United States;USD;1
+CAD_IveyPurchasingManagersIndex;20230606;14:00;Ivey Purchasing Managers Index s.a;Canada;CAD;2
+USD_IBDTIPPEconomicOptimism;20230606;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+NZD_GDTPriceIndex;20230606;15:00;GDT Price Index;New Zealand;NZD;1
+USD_APIWeeklyCrudeOilStock;20230606;20:30;API Weekly Crude Oil Stock;United States;USD;1
+AUD_AiGIndustryIndex;20230606;23:00;AiG Industry Index;Australia;AUD;2
+AUD_AiGManufacturingPMI;20230606;23:00;AiG Manufacturing PMI;Australia;AUD;1
+AUD_AiGConstructionPMI;20230606;23:00;AiG Construction PMI;Australia;AUD;1
+JPY_JPForeignReserves;20230606;23:50;JP Foreign Reserves;Japan;JPY;1
+AUD_CentralBankSpeech;20230606;23:50;RBA Bullock speech;Australia;AUD;2

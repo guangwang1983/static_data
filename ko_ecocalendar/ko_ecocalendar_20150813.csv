@@ -1,0 +1,25 @@
+AUD_ConsumerInflationExpectations;20150813;01:00;Consumer Inflation Expectations;Australia;AUD;2
+EUR_GerConsumerPriceIndex;20150813;06:00;Consumer Price Index (YoY);Germany;EUR;2
+EUR_GerHarmonizedIndexofConsumerPrices;20150813;06:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;2
+EUR_FraConsumerPriceIndex;20150813;06:45;Consumer Price Index (EU norm) (YoY);France;EUR;1
+EUR_FraInflationextobacco;20150813;06:45;Inflation ex-tobacco (MoM);France;EUR;1
+HUF_IndustrialOutput;20150813;07:00;Industrial Output (YoY);Hungary;HUF;1
+CHF_ProducerandImportPrices;20150813;07:15;Producer and Import Prices (MoM);Switzerland;CHF;1
+SEK_ConsumerPriceIndex;20150813;07:30;Consumer Price Index (MoM);Sweden;SEK;1
+CZK_CurrentAccount;20150813;08:00;Current Account (MoM);Czech Republic;CZK;1
+EUR_EurECBMonetaryPolicyMeetingAccounts;20150813;11:30;ECB Monetary Policy Meeting Accounts;European Monetary Union;EUR;3
+PLN_ConsumerPriceIndex;20150813;12:00;Consumer Price Index (MoM);Poland;PLN;1
+PLN_CurrentAccount;20150813;12:00;Current Account;Poland;PLN;1
+PLN_M3MoneySupply;20150813;12:00;M3 Money Supply (YoY);Poland;PLN;1
+USD_RetailSales;20150813;12:30;Retail Sales ex Autos (MoM);United States;USD;3
+USD_JoblessClaims;20150813;12:30;Initial Jobless Claims;United States;USD;1
+USD_ImportPriceIndex;20150813;12:30;Import Price Index (YoY);United States;USD;1
+USD_ExportPriceIndex;20150813;12:30;Export Price Index (MoM);United States;USD;1
+CAD_NewHousingPriceIndex;20150813;12:30;New Housing Price Index (YoY);Canada;CAD;1
+RUB_CentralBankReserves;20150813;12:43;Central Bank Reserves $;Russia;RUB;1
+USD_BusinessInventories;20150813;14:00;Business Inventories;United States;USD;1
+KRW_BoKInterestRateDecision;20150813;14:00;BoK Interest Rate Decision;South Korea;KRW;1
+USD_EIANaturalGasStorageChange;20150813;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20150813;17:00;30-Year Bond Auction;United States;USD;1
+CLP_BCCHInterestRate;20150813;21:00;BCCH Interest Rate;Chile;CLP;1
+NZD_RetailSales;20150813;22:45;Retail Sales (QoQ);New Zealand;NZD;2

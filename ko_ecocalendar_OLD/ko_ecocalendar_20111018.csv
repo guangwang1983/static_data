@@ -1,0 +1,22 @@
+AUD_WestpacLeadingIndex;20111018;23:30;Westpac Leading Index (MoM);Australia;AUD;1
+ARS_MonthlyEconActivity;20111018;19:00;Monthly Econ Activity (MoM);Argentina;ARS;1
+USD_CentralBankSpeech;20111018;17:15;Former Fed Chair Bernanke speech;United States;USD;3
+USD_NAHBHousingMarketIndex;20111018;14:00;NAHB Housing Market Index;United States;USD;1
+USD_TotalNetTICFlows;20111018;13:00;Total Net TIC Flows;United States;USD;1
+USD_NetLongTermTICFlows;20111018;13:00;Net Long-Term TIC Flows;United States;USD;2
+USD_ProducerPriceIndex;20111018;12:30;Producer Price Index (MoM);United States;USD;2
+PLN_CorporateSectorWages;20111018;12:00;Corporate Sector Wages;Poland;PLN;1
+TRY_BudgetBalance;20111018;10:00;Budget Balance;Turkey;TRY;0
+EUR_GerZEWSurveyEconomicSentiment;20111018;09:00;ZEW Survey - Economic Sentiment;Germany;EUR;2
+EUR_EurZEWSurveyEconomicSentiment;20111018;09:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurveyCurrentSituation;20111018;09:00;ZEW Survey - Current Situation;Germany;EUR;2
+EUR_GreUnemploymentRate;20111018;09:00;Unemployment Rate (MoM);Greece;EUR;1
+GBP_RetailPriceIndex;20111018;08:30;Retail Price Index (MoM);United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20111018;08:30;Core Consumer Price Index (YoY);United Kingdom;GBP;2
+HUF_GrossWages;20111018;07:00;Gross Wages (YoY);Hungary;HUF;1
+JPY_MachineToolOrders;20111018;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+CNY_RetailSales;20111018;02:00;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20111018;02:00;Industrial Production (YoY);China;CNY;2
+CNY_FixedAssetInvestment;20111018;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;2
+CNY_GrossDomesticProduct;20111018;02:00;Gross Domestic Product (YoY);China;CNY;1
+AUD_RBAMeetingMinutes;20111018;00:30;RBA Meeting Minutes;Australia;AUD;3

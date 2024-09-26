@@ -1,0 +1,33 @@
+USD_NetLongTermTICFlows;20210716;20:00;Net Long-Term TIC Flows;United States;USD;1
+USD_TotalNetTICFlows;20210716;20:00;Total Net TIC Flows;United States;USD;1
+AUD_CFTCAUDNCNetPositions;20210716;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20210716;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+USD_CFTCS&P500NCNetPositions;20210716;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20210716;19:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20210716;19:30;CFTC Gold NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20210716;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20210716;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_BakerHughesUSOilRigCount;20210716;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_MichiganConsumerSentimentIndex;20210716;14:00;Michigan Consumer Sentiment Index;United States;USD;3
+USD_BusinessInventories;20210716;14:00;Business Inventories;United States;USD;1
+USD_CentralBankSpeech;20210716;13:00;Fed Williams speech;United States;USD;2
+USD_RetailSales;20210716;12:30;Retail Sales (MoM);United States;USD;3
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20210716;12:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20210716;12:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_WholesaleSales;20210716;12:30;Wholesale Sales (MoM);Canada;CAD;1
+CAD_HousingStarts;20210716;12:15;Housing Starts s.a (YoY);Canada;CAD;1
+PLN_NetInflation;20210716;12:00;Net Inflation;Poland;PLN;1
+INR_BankLoanGrowth;20210716;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20210716;11:30;FX Reserves, USD;India;INR;1
+EUR_EurTradeBalance;20210716;09:00;Trade Balance n.s.a.;European Monetary Union;EUR;1
+EUR_EurConsumerPriceIndex;20210716;09:00;Consumer Price Index - Core (YoY);European Monetary Union;EUR;2
+EUR_ItaGlobalTradeBalance;20210716;08:00;Global Trade Balance;Italy;EUR;1
+EUR_ItaTradeBalanceEU;20210716;08:00;Trade Balance EU;Italy;EUR;1
+TRY_BudgetBalance;20210716;08:00;Budget Balance;Turkey;TRY;1
+EUR_AusHICP;20210716;07:00;HICP (YoY);Austria;EUR;1
+EUR_SloEUNormInflation;20210716;07:00;EU Norm Inflation (YoY);Slovakia;EUR;1
+JPY_BoJPressConference;20210716;06:00;BoJ Press Conference;Japan;JPY;3
+CLP_OurLadyofMountCarmel;20210716;04:00;Our Lady of Mount Carmel;Chile;CLP;0
+JPY_BoJMonetaryPolicyStatement;20210716;03:00;BoJ Monetary Policy Statement ;Japan;JPY;3
+JPY_BoJInterestRateDecision;20210716;03:00;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_BoJOutlookReport;20210716;03:00;BoJ Outlook Report;Japan;JPY;2

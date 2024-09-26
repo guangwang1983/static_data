@@ -1,0 +1,40 @@
+JPY_ForeignInvestmentinJapanStocks;20170712;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20170712;23:50;Foreign Bond Investment;Japan;JPY;2
+GBP_RICSHousingPriceBalance;20170712;23:01;RICS Housing Price Balance;United Kingdom;GBP;2
+NZD_FoodPriceIndex;20170712;22:45;Food Price Index (MoM);New Zealand;NZD;1
+USD_CentralBankSpeech;20170712;18:15;Fed George speech;United States;USD;1
+USD_FedBeigeBook;20170712;18:00;Fed Beige Book;United States;USD;2
+USD_Auction;20170712;17:00;10-Year Note Auction;United States;USD;1
+CAD_BoCPressConference;20170712;15:15;BoC Press Conference;Canada;CAD;3
+USD_EIACrudeOilStocksChange;20170712;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+CAD_BankofCanadaMonetaryPolicyReport;20170712;14:00;Bank of Canada Monetary Policy Report;Canada;CAD;3
+CAD_BoCInterestRateDecision;20170712;14:00;BoC Interest Rate Decision;Canada;CAD;3
+CAD_BoCRateStatement;20170712;14:00;BoC Rate Statement;Canada;CAD;3
+USD_FedChairYellentestifies;20170712;14:00;Fed Chair Yellen testifies;United States;USD;3
+RUB_ForeignTrade;20170712;13:00;Foreign Trade;Russia;RUB;1
+MXN_IndustrialOutput;20170712;13:00;Industrial Output (YoY);Mexico;MXN;1
+PLN_NetInflation;20170712;12:00;Net Inflation;Poland;PLN;1
+BRL_RetailSales;20170712;12:00;Retail Sales (MoM);Brazil;BRL;1
+INR_ManufacturingOutput;20170712;11:30;Manufacturing Output;India;INR;1
+INR_IndustrialOutput;20170712;11:30;Industrial Output;India;INR;1
+INR_CumulativeIndustrialOutput;20170712;11:30;Cumulative Industrial Output;India;INR;1
+USD_MBAMortgageApplications;20170712;11:00;MBA Mortgage Applications;United States;USD;1
+EUR_PorConsumerPriceIndex;20170712;10:00;Consumer Price Index (MoM);Portugal;EUR;1
+EUR_GerAuction;20170712;09:36;10-y Bond Auction;Germany;EUR;2
+EUR_EurIndustrialProduction;20170712;09:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;2
+GBP_AverageEarningsExcludingBonus;20170712;08:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;1
+GBP_AverageEarningsIncludingBonus;20170712;08:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;1
+GBP_ClaimantCountChange;20170712;08:30;Claimant Count Change;United Kingdom;GBP;2
+GBP_ClaimantCountRate;20170712;08:30;Claimant Count Rate;United Kingdom;GBP;1
+GBP_ILOUnemploymentRate;20170712;08:30;ILO Unemployment Rate (3M);United Kingdom;GBP;2
+CZK_ConsumerPriceIndex;20170712;07:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+EUR_SloIndustrialOutput;20170712;07:00;Industrial Output (YoY);Slovakia;EUR;1
+CZK_UnemploymentRate;20170712;07:00;Unemployment Rate;Czech Republic;CZK;1
+RON_IndustrialProduction;20170712;06:00;Industrial Production (MoM);Romania;RON;2
+EUR_GerWholesalePriceIndex;20170712;06:00;Wholesale Price Index (MoM);Germany;EUR;2
+SGD_RetailSales;20170712;05:00;Retail Sales (MoM);Singapore;SGD;1
+JPY_TertiaryIndustryIndex;20170712;04:30;Tertiary Industry Index (MoM);Japan;JPY;2
+KRW_MoneySupplyGrowth;20170712;03:00;Money Supply Growth;South Korea;KRW;1
+CNY_M2MoneySupply;20170712;02:00;M2 Money Supply (YoY);China;CNY;1
+CNY_NewLoans;20170712;02:00;New Loans;China;CNY;1
+AUD_WestpacConsumerConfidence;20170712;00:30;Westpac Consumer Confidence;Australia;AUD;2

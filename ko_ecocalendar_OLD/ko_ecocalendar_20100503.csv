@@ -1,0 +1,16 @@
+USD_TotalVehicleSales;20100503;21:00;Total Vehicle Sales;United States;USD;1
+USD_ISMManufacturingPMI;20100503;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMPricesPaid;20100503;14:00;ISM Prices Paid;United States;USD;1
+USD_ConstructionSpending;20100503;14:00;Construction Spending (MoM);United States;USD;1
+USD_PersonalConsumptionExpendituresPriceIndex;20100503;12:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;2
+USD_CorePersonalConsumptionExpenditurePriceIndex;20100503;12:30;Core Personal Consumption Expenditure - Price Index (MoM);United States;USD;2
+USD_PersonalIncome;20100503;12:30;Personal Income (MoM);United States;USD;1
+EUR_EurMarkitManufacturingPMI;20100503;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_GerMarkitManufacturingPMI;20100503;07:55;Markit Manufacturing PMI;Germany;EUR;2
+CHF_SVMEPurchasingManagers'Index;20100503;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;2
+AUD_RBACommodityIndexSDR;20100503;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+NZD_ANZCommodityPrice;20100503;03:00;ANZ Commodity Price;New Zealand;NZD;1
+AUD_HousePriceIndex;20100503;01:30;House Price Index (QoQ);Australia;AUD;2
+AUD_TDSecuritiesInflation;20100503;00:30;TD Securities Inflation (MoM);Australia;AUD;1
+GBP_EarlyMay;20100503;00:00;Early May;United Kingdom;GBP;0
+JPY_ConstitutionDay;20100503;00:00;Constitution Day;Japan;JPY;0

@@ -1,0 +1,37 @@
+JPY_MonetaryBase;20110801;23:50;Monetary Base (YoY);Japan;JPY;1
+ARS_TaxRevenue;20110801;21:00;Tax Revenue (MoM);Argentina;ARS;1
+BRL_TradeBalance;20110801;14:00;Trade Balance;Brazil;BRL;1
+USD_ISMManufacturingPMI;20110801;14:00;ISM Manufacturing PMI;United States;USD;2
+USD_ISMPricesPaid;20110801;14:00;ISM Prices Paid;United States;USD;2
+USD_ConstructionSpending;20110801;14:00;Construction Spending (MoM);United States;USD;2
+CZK_BudgetBalance;20110801;12:00;Budget Balance;Czech Republic;CZK;1
+EUR_AusUnemploymentRate;20110801;10:00;Unemployment Rate;Austria;EUR;1
+EUR_AusUnemployment;20110801;10:00;Unemployment;Austria;EUR;1
+EUR_EurUnemploymentRate;20110801;09:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_ItaUnemployment;20110801;09:00;Unemployment;Italy;EUR;1
+ZAR_PurchasingManagerIndex;20110801;09:00;Purchasing Manager Index;South Africa;ZAR;1
+GBP_MarkitManufacturingPMI;20110801;08:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+EUR_FraMarkitManufacturingPMI;20110801;08:00;Markit Manufacturing PMI;France;EUR;1
+EUR_GreMarkitManufacturingPMI;20110801;08:00;Markit Manufacturing PMI;Greece;EUR;1
+EUR_EurMarkitManufacturingPMI;20110801;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_GerMarkitManufacturingPMI;20110801;07:55;Markit Manufacturing PMI;Germany;EUR;2
+EUR_ItaMarkitManufacturingPMI;20110801;07:45;Markit Manufacturing PMI;Italy;EUR;1
+EUR_SpaMarkitManufacturingPMI;20110801;07:13;Markit Manufacturing PMI;Spain;EUR;1
+HUF_PurchasingManagerIndex;20110801;07:00;Purchasing Manager Index;Hungary;HUF;1
+EUR_IrePurchasingManagerIndexManufacturing;20110801;07:00;Purchasing Manager Index Manufacturing;Ireland;EUR;1
+PLN_PurchasingManagerIndex;20110801;07:00;Purchasing Manager Index;Poland;PLN;1
+SEK_PurchasingManagersIndexManufacturing;20110801;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+INR_TradeDeficitGovernment;20110801;06:30;Trade Deficit Government;India;INR;1
+IDR_TradeBalance;20110801;04:00;Trade Balance;Indonesia;IDR;1
+IDR_Exports;20110801;04:00;Exports;Indonesia;IDR;1
+IDR_Imports;20110801;04:00;Imports;Indonesia;IDR;1
+IDR_Inflation;20110801;04:00;Inflation (YoY);Indonesia;IDR;1
+IDR_CoreInflation;20110801;04:00;Core Inflation (YoY);Indonesia;IDR;1
+KRW_TradeBalance;20110801;03:00;Trade Balance;South Korea;KRW;1
+CNY_CaixinManufacturingPMI;20110801;02:30;Caixin Manufacturing PMI;China;CNY;1
+AUD_HIANewHomeSales;20110801;01:00;HIA New Home Sales (MoM);Australia;AUD;2
+CNY_NBSManufacturingPMI;20110801;01:00;NBS Manufacturing PMI;China;CNY;3
+NZD_ANZCommodityPrice;20110801;01:00;ANZ Commodity Price;New Zealand;NZD;1
+AUD_BankHoliday;20110801;00:00;Bank Holiday;Australia;AUD;0
+KRW_NikkeiMarkitManufacturingPMI;20110801;00:00;Nikkei Markit Manufacturing PMI;South Korea;KRW;1
+CHF_NationalHoliday;20110801;00:00;National Holiday;Switzerland;CHF;0

@@ -1,0 +1,31 @@
+AUD_CentralBankSpeech;20230420;01:00;RBA Governor Lowe speech;Australia;AUD;3
+CNY_PBoCInterestRateDecision;20230420;01:15;PBoC Interest Rate Decision;China;CNY;3
+AUD_NationalAustraliaBankBusinessConfidence;20230420;01:30;National Australia Bank Business Confidence (QoQ);Australia;AUD;2
+JPY_TertiaryIndustryIndex;20230420;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+DKK_ConsumerConfidence;20230420;06:00;Consumer Confidence;Denmark;DKK;1
+EUR_EurTradeBalance;20230420;09:00;Trade Balance n.s.a.;European Monetary Union;EUR;1
+EUR_EurECBMonetaryPolicyMeetingAccounts;20230420;11:30;ECB Monetary Policy Meeting Accounts;European Monetary Union;EUR;2
+MXN_RetailSales;20230420;12:00;Retail Sales (MoM);Mexico;MXN;1
+USD_JoblessClaims;20230420;12:30;Continuing Jobless Claims;United States;USD;1
+USD_PhiladelphiaFedManufacturingSurvey;20230420;12:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+CAD_EmploymentInsuranceBeneficiariesChange;20230420;12:30;Employment Insurance Beneficiaries Change (MoM);Canada;CAD;1
+RUB_CentralBankReserves;20230420;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_ExistingHomeSales;20230420;14:00;Existing Home Sales (MoM);United States;USD;1
+USD_ExistingHomeSalesChange;20230420;14:00;Existing Home Sales Change (MoM);United States;USD;1
+EUR_EurConsumerConfidence;20230420;14:00;Consumer Confidence;European Monetary Union;EUR;2
+USD_EIANaturalGasStorageChange;20230420;14:30;EIA Natural Gas Storage Change;United States;USD;1
+CAD_CentralBankSpeech;20230420;15:30;BoC Rogers speech;Canada;CAD;2
+USD_Auction;20230420;17:00;5-year TIPS Auction;United States;USD;1
+INR_IdulFitr;20230420;18:30;Idul Fitr ;India;INR;0
+USD_CentralBankSpeech;20230420;19:00;Fed Bowman speech;United States;USD;2
+EUR_EurCentralBankSpeech;20230420;20:15;ECB Schnabel speech;European Monetary Union;EUR;2
+KRW_ProducerPriceIndex;20230420;21:00;Producer Price Index Growth (YoY);South Korea;KRW;1
+TRY_RamazanFeast;20230420;23:00;Ramazan Feast;Turkey;TRY;0
+AUD_S&PGlobalServicesPMI;20230420;23:00;S&P Global Services PMI;Australia;AUD;2
+AUD_S&PGlobalManufacturingPMI;20230420;23:00;S&P Global Manufacturing PMI;Australia;AUD;2
+AUD_S&PGlobalCompositePMI;20230420;23:00;S&P Global Composite PMI;Australia;AUD;1
+GBP_GfKConsumerConfidence;20230420;23:01;GfK Consumer Confidence;United Kingdom;GBP;2
+GBP_RightmoveHousePriceIndex;20230420;23:01;Rightmove House Price Index (MoM);United Kingdom;GBP;1
+JPY_ConsumerPriceIndex;20230420;23:30;National Consumer Price Index (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20230420;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_NationalCPIexFoodEnergy;20230420;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2

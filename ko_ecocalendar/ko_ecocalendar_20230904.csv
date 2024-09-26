@@ -1,0 +1,24 @@
+AUD_TDSecuritiesInflation;20230904;01:00;TD Securities Inflation (MoM);Australia;AUD;1
+AUD_CompanyGrossOperatingProfits;20230904;01:30;Company Gross Operating Profits (QoQ);Australia;AUD;1
+AUD_ANZJobAdvertisements;20230904;01:30;ANZ Job Advertisements;Australia;AUD;1
+USD_LaborDay;20230904;05:00;Labor Day;United States;USD;0
+CAD_LaborDay;20230904;05:00;Labor Day;Canada;CAD;0
+EUR_GerImports;20230904;06:00;Imports (MoM);Germany;EUR;1
+EUR_GerTradeBalance;20230904;06:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerExports;20230904;06:00;Exports (MoM);Germany;EUR;1
+SEK_CurrentAccount;20230904;06:00;Current Account (QoQ);Sweden;SEK;1
+TRY_ProducerPriceIndex;20230904;07:00;Producer Price Index (MoM);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20230904;07:00;Consumer Price Index (MoM);Turkey;TRY;1
+CHF_GrossDomesticProduct;20230904;07:00;Gross Domestic Product (YoY);Switzerland;CHF;2
+BRL_FipeIPCInflation;20230904;08:00;Fipe IPC Inflation;Brazil;BRL;1
+EUR_EurSentixInvestorConfidence;20230904;08:30;Sentix Investor Confidence;European Monetary Union;EUR;2
+EUR_GerCentralBankSpeech;20230904;13:00;German Buba President Nagel speech;Germany;EUR;2
+ILS_BoIInterestRateDecision;20230904;13:00;BoI Interest Rate Decision;Israel;ILS;1
+EUR_EurCentralBankSpeech;20230904;13:30;ECB President Lagarde speech;European Monetary Union;EUR;3
+DKK_CurrencyReserves;20230904;15:00;Currency Reserves;Denmark;DKK;1
+KRW_FXReserves;20230904;21:00;FX Reserves;South Korea;KRW;1
+KRW_GrossDomesticProduct;20230904;23:00;Gross Domestic Product Growth (QoQ) ;South Korea;KRW;2
+KRW_ConsumerPriceIndex;20230904;23:00;Consumer Price Index Growth (MoM);South Korea;KRW;1
+AUD_S&PGlobalCompositePMI;20230904;23:00;S&P Global Composite PMI;Australia;AUD;2
+AUD_S&PGlobalServicesPMI;20230904;23:00;S&P Global Services PMI;Australia;AUD;2
+GBP_RetailSales;20230904;23:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2

@@ -1,0 +1,29 @@
+EUR_GerImportPriceIndex;20200626;06:00;Import Price Index (MoM);Germany;EUR;1
+NOK_RetailSales;20200626;06:00;Retail Sales ;Norway;NOK;1
+EUR_FraConsumerConfidence;20200626;06:45;Consumer Confidence;France;EUR;1
+EUR_EurCentralBankSpeech;20200626;07:00;ECB President Lagarde speech;European Monetary Union;EUR;3
+SEK_RetailSales;20200626;07:30;Retail Sales (MoM);Sweden;SEK;1
+SEK_ProducerPriceIndex;20200626;07:30;Producer Price Index (MoM);Sweden;SEK;1
+EUR_ItaPublicDeficitGDP;20200626;08:00;Public Deficit/GDP;Italy;EUR;1
+EUR_EurPrivateLoans;20200626;08:00;Private Loans (YoY);European Monetary Union;EUR;1
+EUR_EurM3MoneySupply;20200626;08:00;M3 Money Supply (3m);European Monetary Union;EUR;1
+EUR_ItaConsumerConfidence;20200626;09:00;Consumer Confidence;Italy;EUR;1
+EUR_ItaBusinessConfidence;20200626;09:00;Business Confidence;Italy;EUR;1
+GBP_BoEQuarterlyBulletin;20200626;11:00;BoE Quarterly Bulletin;United Kingdom;GBP;1
+MXN_TradeBalancesa;20200626;11:00;Trade Balance s/a, $;Mexico;MXN;1
+MXN_TradeBalance;20200626;11:00;Trade Balance, $;Mexico;MXN;1
+INR_FXReservesUSD;20200626;11:30;FX Reserves, USD;India;INR;1
+USD_PersonalConsumptionExpendituresPriceIndex;20200626;12:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;1
+USD_PersonalSpending;20200626;12:30;Personal Spending;United States;USD;2
+USD_CorePersonalConsumptionExpendituresPriceIndex;20200626;12:30;Core Personal Consumption Expenditures - Price Index (YoY);United States;USD;2
+USD_PersonalIncome;20200626;12:30;Personal Income (MoM);United States;USD;2
+USD_UoM5yearConsumerInflationExpectation;20200626;14:00;UoM 5-year Consumer Inflation Expectation;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20200626;14:00;Michigan Consumer Sentiment Index;United States;USD;2
+USD_BakerHughesUSOilRigCount;20200626;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20200626;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20200626;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCS&P500NCNetPositions;20200626;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20200626;19:30;CFTC Oil NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20200626;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+GBP_CFTCGBPNCNetPositions;20200626;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20200626;19:30;CFTC Gold NC Net Positions;United States;USD;1

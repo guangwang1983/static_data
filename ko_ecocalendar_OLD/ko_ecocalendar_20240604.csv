@@ -1,0 +1,31 @@
+AUD_CurrentAccount;20240604;01:30;Current Account Balance;Australia;AUD;1
+AUD_CompanyGrossOperatingProfits;20240604;01:30;Company Gross Operating Profits (QoQ);Australia;AUD;1
+AUD_ANZJobAdvertisements;20240604;01:30;ANZ Job Advertisements;Australia;AUD;1
+JPY_Auction;20240604;03:35;10-y Bond Auction;Japan;JPY;1
+HUF_GrossDomesticProduct;20240604;06:30;Gross Domestic Product (YoY);Hungary;HUF;1
+CHF_ConsumerPriceIndex;20240604;06:30;Consumer Price Index (MoM);Switzerland;CHF;2
+EUR_FraBudgetBalance;20240604;06:45;Budget Balance;France;EUR;1
+EUR_GerUnemploymentChange;20240604;07:55;Unemployment Change;Germany;EUR;2
+EUR_GerUnemploymentRate;20240604;07:55;Unemployment Rate s.a.;Germany;EUR;2
+TRY_Exports;20240604;08:00;Exports;Turkey;TRY;1
+BRL_FipeIPCInflation;20240604;08:00;Fipe IPC Inflation;Brazil;BRL;1
+ZAR_GrossDomesticProduct;20240604;09:30;Gross Domestic Product (QoQ);South Africa;ZAR;1
+BRL_GrossDomesticProduct;20240604;12:00;Gross Domestic Product (YoY);Brazil;BRL;1
+USD_RedbookIndex;20240604;12:55;Redbook Index (YoY);United States;USD;1
+USD_JOLTSJobOpenings;20240604;14:00;JOLTS Job Openings;United States;USD;2
+USD_FactoryOrders;20240604;14:00;Factory Orders (MoM);United States;USD;2
+USD_RealClearMarketsTIPPEconomicOptimism;20240604;14:00;RealClearMarkets/TIPP Economic Optimism (MoM);United States;USD;1
+DKK_CurrencyReserves;20240604;15:00;Currency Reserves;Denmark;DKK;1
+NZD_GDTPriceIndex;20240604;15:00;GDT Price Index;New Zealand;NZD;1
+USD_TotalVehicleSales;20240604;19:30;Total Vehicle Sales;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20240604;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_FXReserves;20240604;21:00;FX Reserves;South Korea;KRW;1
+DKK_ConstitutionDay;20240604;22:00;Constitution Day ;Denmark;DKK;0
+NZD_TermsofTradeIndex;20240604;22:45;Terms of Trade Index;New Zealand;NZD;1
+KRW_GrossDomesticProduct;20240604;23:00;Gross Domestic Product Growth (YoY);South Korea;KRW;1
+AUD_AiGIndustryIndex;20240604;23:00;AiG Industry Index;Australia;AUD;2
+AUD_AiGManufacturingPMI;20240604;23:00;AiG Manufacturing PMI;Australia;AUD;1
+AUD_JudoBankServicesPMI;20240604;23:00;Judo Bank Services PMI;Australia;AUD;2
+AUD_JudoBankCompositePMI;20240604;23:00;Judo Bank Composite PMI;Australia;AUD;2
+AUD_AiGConstructionPMI;20240604;23:00;AiG Construction PMI;Australia;AUD;1
+JPY_LaborCashEarnings;20240604;23:30;Labor Cash Earnings (YoY);Japan;JPY;2

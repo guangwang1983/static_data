@@ -1,0 +1,27 @@
+ARS_ConsumerPriceIndex;20120113;19:00;Consumer Price Index (MoM);Argentina;ARS;1
+ARS_ConsumerInflation;20120113;19:00;Consumer Inflation (YoY);Argentina;ARS;1
+USD_MichiganConsumerSentimentIndex;20120113;14:55;Michigan Consumer Sentiment Index;United States;USD;2
+USD_TradeBalance;20120113;13:30;Trade Balance;United States;USD;2
+USD_ImportPriceIndex;20120113;13:30;Import Price Index (MoM);United States;USD;2
+CAD_InternationalMerchandiseTrade;20120113;13:30;International Merchandise Trade;Canada;CAD;1
+PLN_ConsumerPriceIndex;20120113;13:00;Consumer Price Index (MoM);Poland;PLN;1
+PLN_CurrentAccount;20120113;13:00;Current Account;Poland;PLN;1
+PLN_M3MoneySupply;20120113;13:00;M3 Money Supply (YoY);Poland;PLN;1
+USD_ExportPriceIndex;20120113;12:30;Export Price Index (MoM);United States;USD;1
+INR_BankLoanGrowth;20120113;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20120113;11:30;FX Reserves, USD;India;INR;1
+EUR_EurTradeBalance;20120113;10:00;Trade Balance n.s.a.;European Monetary Union;EUR;2
+GBP_ProducerPriceIndex;20120113;09:30;Producer Price Index - Output (YoY) n.s.a;United Kingdom;GBP;2
+CZK_CurrentAccount;20120113;09:00;Current Account (MoM);Czech Republic;CZK;1
+GBP_PPICoreOutput;20120113;08:30;PPI Core Output (MoM) n.s.a;United Kingdom;GBP;1
+EUR_NetManufacturingOutput;20120113;08:30;Manufacturing Output (MoM);Netherlands, The;EUR;1
+EUR_SpaHICP;20120113;08:00;HICP (YoY);Spain;EUR;1
+EUR_SloCoreInflation;20120113;08:00;Core Inflation (YoY);Slovakia;EUR;1
+EUR_SloHeadlineInflation;20120113;08:00;Headline Inflation (MoM);Slovakia;EUR;1
+HUF_IndustrialOutput;20120113;08:00;Industrial Output (YoY);Hungary;HUF;1
+EUR_SpaConsumerPriceIndex;20120113;08:00;Consumer Price Index (MoM);Spain;EUR;1
+HUF_ConsumerPriceIndex;20120113;08:00;Consumer Price Index (YoY);Hungary;HUF;1
+EUR_FinConsumerPriceIndex;20120113;07:00;Consumer Price Index (YoY);Finland;EUR;1
+SGD_RetailSales;20120113;05:00;Retail Sales (MoM);Singapore;SGD;1
+CNY_ForeignExchangeReserves;20120113;04:00;Foreign Exchange Reserves (QoQ);China;CNY;2
+KRW_BoKInterestRateDecision;20120113;01:00;BoK Interest Rate Decision;South Korea;KRW;1

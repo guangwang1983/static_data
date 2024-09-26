@@ -1,0 +1,28 @@
+JPY_CFTCJPYNCNetPositions;20161230;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+AUD_CFTCAUDNCNetPositions;20161230;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCGoldNCNetPositions;20161230;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCUSDNCNetPositions;20161230;20:30;CFTC USD NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20161230;20:30;CFTC Oil NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20161230;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+GBP_CFTCGBPNCNetPositions;20161230;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+MXN_FiscalBalancepesos;20161230;19:30;Fiscal Balance, pesos;Mexico;MXN;1
+USD_BakerHughesUSOilRigCount;20161230;18:00;Baker Hughes US Oil Rig Count;United States;USD;2
+COP_NationalJoblessRate;20161230;15:00;National Jobless Rate;Colombia;COP;1
+USD_ChicagoPurchasingManagers'Index;20161230;14:45;Chicago Purchasing Managers' Index;United States;USD;2
+RUB_ConsumerPriceIndex;20161230;13:00;Consumer Price Index (MoM);Russia;RUB;1
+PLN_ConsumerPriceIndex;20161230;13:00;Consumer Price Index (MoM);Poland;PLN;1
+CLP_Unemploymentrate;20161230;12:00;Unemployment rate;Chile;CLP;1
+INR_FXReservesUSD;20161230;11:30;FX Reserves, USD;India;INR;1
+EUR_GreRetailSales;20161230;10:00;Retail Sales (YoY);Greece;EUR;1
+EUR_GreProducerPriceIndex;20161230;10:00;Producer Price Index (YoY);Greece;EUR;1
+EUR_ItaProducerPriceIndex;20161230;09:00;Producer Price Index (MoM);Italy;EUR;1
+EUR_SpaHICP;20161230;08:00;HICP (YoY);Spain;EUR;1
+EUR_AusProducerPriceIndex;20161230;08:00;Producer Price Index (MoM);Austria;EUR;1
+EUR_SpaCurrentAccount;20161230;08:00;Current Account Balance;Spain;EUR;1
+TRY_TradeBalance;20161230;07:00;Trade Balance;Turkey;TRY;1
+INR_InfrastructureOutput;20161230;06:30;Infrastructure Output (YoY);India;INR;1
+ZAR_PrivateSectorCredit;20161230;06:00;Private Sector Credit;South Africa;ZAR;1
+ZAR_M3MoneySupply;20161230;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+EUR_NetBusinessConfidence;20161230;05:30;Business Confidence;Netherlands, The;EUR;1
+RUB_PurchasingManagerIndexServices;20161230;05:00;Purchasing Manager Index Services;Russia;RUB;1
+AUD_PrivateSectorCredit;20161230;00:30;Private Sector Credit (YoY);Australia;AUD;1

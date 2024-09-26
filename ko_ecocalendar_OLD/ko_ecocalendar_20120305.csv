@@ -1,0 +1,24 @@
+USD_ISMNonManufacturingPMI;20120305;15:00;ISM Non-Manufacturing PMI;United States;USD;2
+USD_FactoryOrders;20120305;15:00;Factory Orders (MoM);United States;USD;2
+MXN_ConsumerConfidence;20120305;14:00;Consumer Confidence s.a;Mexico;MXN;1
+SGD_PurchasingManagersIndex;20120305;13:30;Purchasing Managers Index;Singapore;SGD;1
+KRW_NikkeiMarkitManufacturingPMI;20120305;11:25;Nikkei Markit Manufacturing PMI;South Korea;KRW;1
+BRL_FipeIPCInflation;20120305;11:00;Fipe IPC Inflation;Brazil;BRL;1
+EUR_EurRetailSales;20120305;10:00;Retail Sales (YoY);European Monetary Union;EUR;2
+EUR_EurSentixInvestorConfidence;20120305;09:30;Sentix Investor Confidence;European Monetary Union;EUR;2
+GBP_MarkitServicesPMI;20120305;09:28;Markit Services PMI;United Kingdom;GBP;2
+EUR_ItaProducerPriceIndex;20120305;09:00;Producer Price Index (MoM);Italy;EUR;1
+ISK_TradeBalance;20120305;09:00;Trade Balance;Iceland;ISK;1
+EUR_EurMarkitServicesPMI;20120305;08:58;Markit Services PMI;European Monetary Union;EUR;2
+EUR_GerMarkitServicesPMI;20120305;08:53;Markit Services PMI;Germany;EUR;2
+EUR_FraMarkitServicesPMI;20120305;08:48;Markit Services PMI;France;EUR;1
+EUR_ItaMarkitServicesPMI;20120305;08:43;Markit Services PMI;Italy;EUR;1
+CHF_RetailSales;20120305;08:15;Real Retail Sales (YoY);Switzerland;CHF;2
+EUR_SpaMarkitServicesPMI;20120305;08:13;Markit Services PMI;Spain;EUR;1
+TRY_ProducerPriceIndex;20120305;08:00;Producer Price Index (YoY);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20120305;08:00;Consumer Price Index (MoM);Turkey;TRY;1
+EUR_IrePurchasingManagerIndexServices;20120305;06:58;Purchasing Manager Index Services;Ireland;EUR;1
+RUB_PurchasingManagerIndexServices;20120305;05:00;Purchasing Manager Index Services;Russia;RUB;1
+CNY_CaixinServicesPMI;20120305;02:30;Caixin Services PMI;China;CNY;2
+AUD_CompanyGrossOperatingProfits;20120305;00:30;Company Gross Operating Profits (QoQ);Australia;AUD;1
+AUD_ANZJobAdvertisements;20120305;00:30;ANZ Job Advertisements;Australia;AUD;1

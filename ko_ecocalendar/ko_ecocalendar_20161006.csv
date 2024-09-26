@@ -1,0 +1,18 @@
+AUD_Imports;20161006;00:30;Imports (MoM);Australia;AUD;2
+AUD_Exports;20161006;00:30;Exports (MoM);Australia;AUD;2
+AUD_TradeBalance;20161006;00:30;Trade Balance (MoM);Australia;AUD;2
+COP_ConsumerPriceIndex;20161006;01:00;Consumer Price Index (YoY);Colombia;COP;1
+EUR_GerFactoryOrders;20161006;06:00;Factory Orders n.s.a. (YoY);Germany;EUR;1
+CZK_RetailSales;20161006;07:00;Retail Sales (YoY);Czech Republic;CZK;1
+CHF_ConsumerPriceIndex;20161006;07:15;Consumer Price Index (YoY);Switzerland;CHF;2
+EUR_FraAuction;20161006;09:00;10-y Bond Auction;France;EUR;1
+GBP_Auction;20161006;09:30;30-y Bond Auction;United Kingdom;GBP;1
+RUB_CentralBankReserves;20161006;11:00;Central Bank Reserves $;Russia;RUB;1
+USD_ChallengerJobCuts;20161006;11:30;Challenger Job Cuts;United States;USD;1
+EUR_EurECBMonetaryPolicyMeetingAccounts;20161006;11:30;ECB Monetary Policy Meeting Accounts;European Monetary Union;EUR;3
+USD_JoblessClaims;20161006;12:30;Continuing Jobless Claims;United States;USD;1
+CAD_BuildingPermits;20161006;12:30;Building Permits (MoM);Canada;CAD;1
+MXN_ConsumerConfidence;20161006;13:00;Consumer Confidence;Mexico;MXN;1
+USD_EIANaturalGasStorageChange;20161006;14:30;EIA Natural Gas Storage Change;United States;USD;1
+AUD_AiGPerformanceofConstructionIndex;20161006;22:30;AiG Performance of Construction Index;Australia;AUD;2
+JPY_JPForeignReserves;20161006;23:50;JP Foreign Reserves;Japan;JPY;1

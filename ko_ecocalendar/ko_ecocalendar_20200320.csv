@@ -1,0 +1,25 @@
+CNY_PBoCInterestRateDecision;20200320;01:30;PBoC Interest Rate Decision;China;CNY;3
+NZD_CreditCardSpending;20200320;02:00;Credit Card Spending (YoY);New Zealand;NZD;1
+NOK_NorgesBankInterestRateDecision;20200320;06:30;Norges Bank Interest Rate Decision;Norway;NOK;1
+EUR_GerProducerPriceIndex;20200320;07:00;Producer Price Index (YoY);Germany;EUR;1
+EUR_EurCurrentAccount;20200320;09:00;Current Account n.s.a;European Monetary Union;EUR;1
+PLN_RetailSales;20200320;09:00;Retail Sales (YoY);Poland;PLN;1
+GBP_ConsumerInflationExpectations;20200320;09:30;Consumer Inflation Expectations;United Kingdom;GBP;1
+GBP_PublicSectorNetBorrowing;20200320;09:30;Public Sector Net Borrowing;United Kingdom;GBP;2
+RUB_Interestratedecision;20200320;10:30;Interest rate decision;Russia;RUB;2
+MXN_PrivateSpending;20200320;12:00;Private Spending (QoQ);Mexico;MXN;1
+RON_Interestratedecision;20200320;12:00;Interest rate decision;Romania;RON;1
+INR_FXReservesUSD;20200320;12:06;FX Reserves, USD;India;INR;1
+CAD_RetailSales;20200320;12:30;Retail Sales ex Autos (MoM);Canada;CAD;2
+RUB_UnemploymentRate;20200320;13:00;Unemployment Rate;Russia;RUB;1
+USD_ExistingHomeSales;20200320;14:00;Existing Home Sales (MoM);United States;USD;2
+USD_ExistingHomeSalesChange;20200320;14:00;Existing Home Sales Change (MoM);United States;USD;1
+USD_BakerHughesUSOilRigCount;20200320;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20200320;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20200320;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+JPY_CFTCJPYNCNetPositions;20200320;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCOilNCNetPositions;20200320;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20200320;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20200320;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20200320;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+ZAR_HumanRightsDay;20200320;22:00;Human Rights Day;South Africa;ZAR;0

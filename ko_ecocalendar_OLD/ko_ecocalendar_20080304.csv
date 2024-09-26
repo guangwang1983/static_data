@@ -1,0 +1,12 @@
+USD_CentralBankSpeech;20080304;14:00;Former Fed Chair Bernanke speech;United States;USD;1
+CAD_BoCInterestRateDecision;20080304;14:00;BoC Interest Rate Decision;Canada;CAD;3
+EUR_EurGrossDomesticProduct;20080304;10:00;Gross Domestic Product s.a. (QoQ);European Monetary Union;EUR;1
+EUR_EurProducerPriceIndex;20080304;10:00;Producer Price Index (MoM);European Monetary Union;EUR;1
+GBP_MarkitConstructionPMI;20080304;09:30;Markit Construction PMI;United Kingdom;GBP;1
+CHF_GrossDomesticProduct;20080304;06:45;Gross Domestic Product s.a. (QoQ);Switzerland;CHF;1
+CHF_ConsumerPriceIndex;20080304;06:45;Consumer Price Index (MoM);Switzerland;CHF;2
+AUD_RBAInterestRateDecision;20080304;03:30;RBA Interest Rate Decision;Australia;AUD;3
+AUD_CurrentAccount;20080304;00:30;Current Account Balance;Australia;AUD;1
+AUD_RetailSales;20080304;00:30;Retail Sales s.a. (MoM);Australia;AUD;2
+AUD_NationalAustraliaBankBusinessConditions;20080304;00:00;National Australia Bank Business Conditions;Australia;AUD;1
+AUD_BuildingPermits;20080304;00:00;Building Permits (YoY);Australia;AUD;1

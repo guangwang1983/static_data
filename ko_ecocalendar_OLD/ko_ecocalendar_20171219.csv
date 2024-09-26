@@ -1,0 +1,29 @@
+AUD_WestpacLeadingIndex;20171219;23:30;Westpac Leading Index (MoM);Australia;AUD;1
+NZD_VisitorArrivals;20171219;21:45;Visitor Arrivals (YoY);New Zealand;NZD;1
+NZD_CurrentAccount;20171219;21:45;Current Account (QoQ);New Zealand;NZD;1
+NZD_TradeBalance;20171219;21:45;Trade Balance (YoY);New Zealand;NZD;2
+NZD_Imports;20171219;21:45;Imports;New Zealand;NZD;2
+NZD_Exports;20171219;21:45;Exports;New Zealand;NZD;2
+USD_APIWeeklyCrudeOilStock;20171219;21:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_CentralBankSpeech;20171219;15:00;Fed Kashkari speech;United States;USD;2
+NZD_GDTPriceIndex;20171219;14:17;GDT Price Index;New Zealand;NZD;1
+USD_RedbookIndex;20171219;13:55;Redbook Index (MoM);United States;USD;1
+USD_HousingStarts;20171219;13:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermitsChange;20171219;13:30;Building Permits Change;United States;USD;2
+USD_HousingStartsChange;20171219;13:30;Housing Starts Change;United States;USD;2
+USD_BuildingPermits;20171219;13:30;Building Permits (MoM);United States;USD;2
+USD_CurrentAccount;20171219;13:30;Current Account;United States;USD;1
+EUR_SloCurrentAccount;20171219;13:30;Current Account Balance EUR;Slovakia;EUR;1
+PLN_RetailSales;20171219;13:00;Retail Sales (YoY);Poland;PLN;1
+PLN_IndustrialOutput;20171219;13:00;Industrial Output (YoY);Poland;PLN;1
+RUB_UnemploymentRate;20171219;13:00;Unemployment Rate;Russia;RUB;1
+HUF_MNBInterestRateDecision;20171219;13:00;MNB Interest Rate Decision;Hungary;HUF;1
+EUR_EurLabourCost;20171219;10:00;Labour Cost;European Monetary Union;EUR;2
+EUR_EurConstructionOutput;20171219;10:00;Construction Output  s.a (MoM);European Monetary Union;EUR;1
+EUR_GerIFOCurrentAssessment;20171219;09:00;IFO - Current Assessment;Germany;EUR;2
+EUR_GerIFOBusinessClimate;20171219;09:00;IFO - Business Climate;Germany;EUR;2
+EUR_GerIFOExpectations;20171219;09:00;IFO - Expectations;Germany;EUR;2
+CHF_SECOEconomicForecasts;20171219;06:45;SECO Economic Forecasts;Switzerland;CHF;1
+AUD_RBAMeetingMinutes;20171219;00:30;RBA Meeting Minutes;Australia;AUD;3
+NZD_ANZActivityOutlook;20171219;00:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20171219;00:00;ANZ Business Confidence;New Zealand;NZD;1

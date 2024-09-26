@@ -1,0 +1,35 @@
+AUD_RetailSales;20200804;01:30;Retail Sales (QoQ);Australia;AUD;2
+AUD_TradeBalance;20200804;01:30;Trade Balance (MoM);Australia;AUD;3
+AUD_Imports;20200804;01:30;Imports (MoM);Australia;AUD;2
+AUD_Exports;20200804;01:30;Exports (MoM);Australia;AUD;2
+JPY_Auction;20200804;03:35;10-y Bond Auction;Japan;JPY;1
+AUD_RBAInterestRateDecision;20200804;04:30;RBA Interest Rate Decision;Australia;AUD;3
+AUD_RBARateStatement;20200804;04:30;RBA Rate Statement;Australia;AUD;3
+CHF_SECOConsumerClimate;20200804;05:45;SECO Consumer Climate (3m);Switzerland;CHF;1
+GBP_BoEMPCVoteRateCut;20200804;06:00;BoE MPC Vote Rate Cut;United Kingdom;GBP;3
+GBP_BoEMPCVoteRateUnchanged;20200804;06:00;BoE MPC Vote Rate Unchanged;United Kingdom;GBP;3
+AUD_RBACommodityIndexSDR;20200804;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+EUR_FraBudgetBalance;20200804;06:45;Budget Balance;France;EUR;1
+TRY_ProducerPriceIndex;20200804;07:00;Producer Price Index (MoM);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20200804;07:00;Consumer Price Index (MoM);Turkey;TRY;1
+HUF_ProducerPriceIndex;20200804;07:00;Producer Price Index (YoY);Hungary;HUF;1
+TRY_Exports;20200804;08:00;Exports;Turkey;TRY;1
+BRL_FipeIPCInflation;20200804;08:00;Fipe IPC Inflation;Brazil;BRL;1
+EUR_EurProducerPriceIndex;20200804;09:00;Producer Price Index (YoY);European Monetary Union;EUR;1
+BRL_IndustrialOutput;20200804;12:00;Industrial Output (MoM);Brazil;BRL;1
+USD_RedbookIndex;20200804;12:55;Redbook Index (YoY);United States;USD;1
+CAD_S&PGlobalManufacturingPMI;20200804;13:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_ISMNYBusinessConditionsIndex;20200804;13:45;ISM-NY Business Conditions Index;United States;USD;1
+USD_FactoryOrders;20200804;14:00;Factory Orders (MoM);United States;USD;2
+USD_IBDTIPPEconomicOptimism;20200804;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+DKK_CurrencyReserves;20200804;15:00;Currency Reserves;Denmark;DKK;1
+NZD_GDTPriceIndex;20200804;15:00;GDT Price Index;New Zealand;NZD;2
+USD_APIWeeklyCrudeOilStock;20200804;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_FXReserves;20200804;21:00;FX Reserves;South Korea;KRW;1
+AUD_AiGPerformanceofConstructionIndex;20200804;22:30;AiG Performance of Construction Index;Australia;AUD;2
+NZD_ParticipationRate;20200804;22:45;Participation Rate;New Zealand;NZD;2
+NZD_EmploymentChange;20200804;22:45;Employment Change;New Zealand;NZD;3
+NZD_UnemploymentRate;20200804;22:45;Unemployment Rate;New Zealand;NZD;3
+NZD_LabourCostIndex;20200804;22:45;Labour Cost Index (YoY);New Zealand;NZD;1
+AUD_S&PGlobalServicesPMI;20200804;23:00;S&P Global Services PMI;Australia;AUD;2
+AUD_S&PGlobalCompositePMI;20200804;23:00;S&P Global Composite PMI;Australia;AUD;1

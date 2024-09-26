@@ -1,0 +1,22 @@
+AUD_RetailSales;20230503;01:30;Retail Sales s.a. (MoM);Australia;AUD;3
+TRY_ProducerPriceIndex;20230503;07:00;Producer Price Index (MoM);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20230503;07:00;Consumer Price Index (MoM);Turkey;TRY;1
+EUR_EurUnemploymentRate;20230503;09:00;Unemployment Rate;European Monetary Union;EUR;2
+USD_MBAMortgageApplications;20230503;11:00;MBA Mortgage Applications;United States;USD;1
+INR_M3MoneySupply;20230503;11:30;M3 Money Supply;India;INR;1
+USD_ADPEmploymentChange;20230503;12:15;ADP Employment Change;United States;USD;3
+CZK_CNBInterestRateDecision;20230503;12:30;CNB Interest Rate Decision;Czech Republic;CZK;1
+USD_S&PGlobalServicesPMI;20230503;13:45;S&P Global Services PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20230503;13:45;S&P Global Composite PMI;United States;USD;2
+USD_ISMServicesPricesPaid;20230503;14:00;ISM Services Prices Paid;United States;USD;2
+USD_ISMServicesEmploymentIndex;20230503;14:00;ISM Services Employment Index;United States;USD;2
+USD_ISMServicesPMI;20230503;14:00;ISM Services PMI;United States;USD;3
+USD_ISMServicesNewOrdersIndex;20230503;14:00;ISM Services New Orders Index;United States;USD;2
+USD_EIACrudeOilStocksChange;20230503;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+JPY_GreeneryDay;20230503;15:00;Greenery Day;Japan;JPY;0
+RUB_UnemploymentRate;20230503;16:00;Unemployment Rate;Russia;RUB;1
+USD_FedMonetaryPolicyStatement;20230503;18:00;Fed Monetary Policy Statement;United States;USD;3
+USD_FedInterestRateDecision;20230503;18:00;Fed Interest Rate Decision;United States;USD;3
+USD_FOMCPressConference;20230503;18:30;FOMC Press Conference;United States;USD;3
+BRL_InterestRateDecision;20230503;21:00;Interest Rate Decision;Brazil;BRL;1
+NZD_BuildingPermits;20230503;22:45;Building Permits s.a. (MoM);New Zealand;NZD;2

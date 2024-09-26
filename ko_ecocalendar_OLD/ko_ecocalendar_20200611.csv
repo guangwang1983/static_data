@@ -1,0 +1,31 @@
+NZD_FoodPriceIndex;20200611;22:45;Food Price Index (MoM);New Zealand;NZD;1
+NZD_BusinessNZPMI;20200611;22:30;Business NZ PMI;New Zealand;NZD;2
+KRW_ExportPriceGrowth;20200611;21:00;Export Price Growth (YoY);South Korea;KRW;1
+KRW_ImportPriceGrowth;20200611;21:00;Import Price Growth (YoY);South Korea;KRW;1
+NZD_WestpacConsumerSurvey;20200611;21:00;Westpac Consumer Survey;New Zealand;NZD;2
+ARS_ConsumerPriceIndex;20200611;19:00;Consumer Price Index (MoM);Argentina;ARS;1
+USD_Auction;20200611;17:00;30-Year Bond Auction;United States;USD;1
+USD_USDAWASDEReport;20200611;16:00;USDA WASDE Report;United States;USD;1
+USD_EIANaturalGasStorageChange;20200611;14:30;EIA Natural Gas Storage Change;United States;USD;1
+RUB_ForeignTrade;20200611;13:00;Foreign Trade;Russia;RUB;1
+RUB_CentralBankReserves;20200611;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_ProducerPriceIndex;20200611;12:30;Producer Price Index (MoM);United States;USD;1
+USD_JoblessClaims;20200611;12:30;Continuing Jobless Claims;United States;USD;1
+MXN_IndustrialOutput;20200611;11:00;Industrial Output (MoM);Mexico;MXN;1
+ZAR_ManufacturingProductionIndex;20200611;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+EUR_IreHICP;20200611;10:00;HICP (YoY);Ireland;EUR;1
+EUR_IreConsumerPriceIndex;20200611;10:00;Consumer Price Index (MoM);Ireland;EUR;1
+ILS_Exports;20200611;10:00;Exports;Israel;ILS;1
+ILS_Imports;20200611;10:00;Imports;Israel;ILS;1
+ILS_TradeBalance;20200611;10:00;Trade Balance;Israel;ILS;1
+EUR_GreUnemploymentRate;20200611;09:00;Unemployment Rate (QoQ);Greece;EUR;1
+EUR_ItaIndustrialOutput;20200611;08:00;Industrial Output s.a. (MoM);Italy;EUR;1
+SEK_ConsumerPriceIndex;20200611;07:30;Consumer Price Index (YoY);Sweden;SEK;1
+EUR_EurEcoFinMeeting;20200611;07:00;EcoFin Meeting;European Monetary Union;EUR;2
+EUR_FraNonfarmPayrolls;20200611;05:30;Nonfarm Payrolls (QoQ);France;EUR;1
+BRL_CorpusChristi;20200611;03:00;Corpus Christi ;Brazil;BRL;0
+IDR_RetailSales;20200611;03:00;Retail Sales (YoY);Indonesia;IDR;1
+CNY_M2MoneySupply;20200611;02:00;M2 Money Supply (YoY);China;CNY;1
+CNY_NewLoans;20200611;02:00;New Loans;China;CNY;1
+AUD_ConsumerInflationExpectations;20200611;01:00;Consumer Inflation Expectations;Australia;AUD;2
+EUR_EurEurogroupMeeting;20200611;00:00;Eurogroup Meeting;European Monetary Union;EUR;2

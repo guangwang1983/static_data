@@ -1,0 +1,40 @@
+JPY_JibunBankManufacturingPMI;20211124;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+AUD_ConstructionWorkDone;20211124;00:30;Construction Work Done;Australia;AUD;1
+AUD_CentralBankSpeech;20211124;00:40;RBA Bullock speech;Australia;AUD;2
+NZD_RBNZRateStatement;20211124;01:00;RBNZ Rate Statement;New Zealand;NZD;3
+NZD_RBNZInterestRateDecision;20211124;01:00;RBNZ Interest Rate Decision;New Zealand;NZD;3
+NZD_MonetaryPolicyStatement;20211124;01:00;Monetary Policy Statement ;New Zealand;NZD;3
+NZD_RBNZPressConference;20211124;02:00;RBNZ Press Conference;New Zealand;NZD;3
+TRY_CapacityUtilization;20211124;07:00;Capacity Utilization;Turkey;TRY;1
+TRY_ManufacturingConfidence;20211124;07:00;Manufacturing Confidence;Turkey;TRY;1
+CHF_ZEWSurvey–Expectations;20211124;09:00;ZEW Survey – Expectations;Switzerland;CHF;2
+USD_MBAMortgageApplications;20211124;12:00;MBA Mortgage Applications;United States;USD;1
+MXN_1sthalfmonthCoreInflation;20211124;12:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20211124;12:00;1st half-month Inflation;Mexico;MXN;1
+PLN_M3MoneySupply;20211124;13:00;M3 Money Supply (YoY);Poland;PLN;1
+USD_JoblessClaims;20211124;13:30;Continuing Jobless Claims;United States;USD;1
+USD_GrossDomesticProduct;20211124;13:30;Gross Domestic Product Annualized;United States;USD;3
+USD_WholesaleInventories;20211124;13:30;Wholesale Inventories;United States;USD;1
+USD_GoodsTradeBalance;20211124;13:30;Goods Trade Balance;United States;USD;1
+USD_PersonalConsumptionExpendituresPrices;20211124;13:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+USD_CorePersonalConsumptionExpenditures;20211124;13:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+USD_DurableGoodsOrders;20211124;13:30;Durable Goods Orders ex Transportation;United States;USD;2
+USD_NondefenseCapitalGoodsOrdersexAircraft;20211124;13:30;Nondefense Capital Goods Orders ex Aircraft;United States;USD;3
+USD_PersonalConsumptionExpendituresPriceIndex;20211124;15:00;Personal Consumption Expenditures - Price Index (MoM);United States;USD;1
+USD_PersonalSpending;20211124;15:00;Personal Spending;United States;USD;2
+USD_CorePersonalConsumptionExpendituresPriceIndex;20211124;15:00;Core Personal Consumption Expenditures - Price Index (YoY);United States;USD;2
+USD_PersonalIncome;20211124;15:00;Personal Income (MoM);United States;USD;2
+USD_MichiganConsumerSentimentIndex;20211124;15:00;Michigan Consumer Sentiment Index;United States;USD;2
+USD_NewHomeSalesChange;20211124;15:00;New Home Sales Change (MoM);United States;USD;1
+USD_NewHomeSales;20211124;15:00;New Home Sales (MoM);United States;USD;2
+USD_EIACrudeOilStocksChange;20211124;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+EUR_EurCentralBankSpeech;20211124;16:00;ECB Schnabel speech;European Monetary Union;EUR;2
+RUB_ProducerPriceIndex;20211124;16:00;Producer Price Index (YoY);Russia;RUB;1
+RUB_IndustrialOutput;20211124;16:00;Industrial Output;Russia;RUB;1
+USD_Auction;20211124;16:30;4-Week Bill Auction;United States;USD;1
+USD_EIANaturalGasStorageChange;20211124;17:00;EIA Natural Gas Storage Change;United States;USD;1
+USD_FOMCMinutes;20211124;19:00;FOMC Minutes;United States;USD;3
+NZD_Exports;20211124;21:45;Exports;New Zealand;NZD;2
+NZD_TradeBalanceNZD;20211124;21:45;Trade Balance NZD (YoY);New Zealand;NZD;2
+NZD_Imports;20211124;21:45;Imports;New Zealand;NZD;2
+JPY_CorporateServicePriceIndex;20211124;23:50;Corporate Service Price Index (YoY);Japan;JPY;1

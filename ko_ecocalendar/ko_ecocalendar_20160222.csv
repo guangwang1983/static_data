@@ -1,0 +1,20 @@
+CNY_MNIBusinessSentimentIndicator;20160222;01:45;MNI Business Sentiment Indicator;China;CNY;1
+JPY_JibunBankManufacturingPMI;20160222;02:00;Jibun Bank Manufacturing PMI;Japan;JPY;1
+EUR_FraHCOBManufacturingPMI;20160222;08:00;HCOB Manufacturing PMI;France;EUR;2
+EUR_FraHCOBServicesPMI;20160222;08:00;HCOB Services PMI;France;EUR;2
+EUR_FraHCOBCompositePMI;20160222;08:00;HCOB Composite PMI;France;EUR;2
+DKK_RetailSales;20160222;08:00;Retail Sales (YoY);Denmark;DKK;1
+CHF_ProducerandImportPrices;20160222;08:15;Producer and Import Prices (MoM);Switzerland;CHF;2
+EUR_GerHCOBCompositePMI;20160222;08:30;HCOB Composite PMI;Germany;EUR;2
+EUR_GerHCOBManufacturingPMI;20160222;08:30;HCOB Manufacturing PMI;Germany;EUR;2
+EUR_GerHCOBServicesPMI;20160222;08:30;HCOB Services PMI;Germany;EUR;2
+EUR_ItaConsumerPriceIndex;20160222;09:00;Consumer Price Index (EU Norm) (MoM);Italy;EUR;1
+EUR_EurHCOBCompositePMI;20160222;09:00;HCOB Composite PMI;European Monetary Union;EUR;2
+EUR_EurHCOBServicesPMI;20160222;09:00;HCOB Services PMI;European Monetary Union;EUR;2
+EUR_EurHCOBManufacturingPMI;20160222;09:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+GBP_CBIIndustrialTrendsSurvey–Orders;20160222;11:00;CBI Industrial Trends Survey – Orders (MoM);United Kingdom;GBP;1
+USD_ChicagoFedNationalActivityIndex;20160222;13:30;Chicago Fed National Activity Index ;United States;USD;2
+MXN_RetailSales;20160222;14:00;Retail Sales (MoM);Mexico;MXN;1
+USD_S&PGlobalManufacturingPMI;20160222;14:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_Auction;20160222;16:30;3-Month Bill Auction;United States;USD;1
+EUR_EurCentralBankSpeech;20160222;18:00;ECB Lautenschläger speech;European Monetary Union;EUR;1

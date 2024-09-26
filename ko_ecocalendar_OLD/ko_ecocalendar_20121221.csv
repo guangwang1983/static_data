@@ -1,0 +1,49 @@
+ARS_CurrentAccount;20121221;19:00;Current Account BOP (MoM);Argentina;ARS;1
+ARS_GrossDomesticProduct;20121221;19:00;Gross Domestic Product (QoQ);Argentina;ARS;1
+ARS_TradeBalance;20121221;19:00;Trade Balance (MoM);Argentina;ARS;1
+COP_Interestrate;20121221;18:00;Interest rate;Colombia;COP;1
+USD_KansasFedManufacturingActivity;20121221;16:00;Kansas Fed Manufacturing Activity;United States;USD;1
+EUR_SpaTradeBalance;20121221;15:47;Trade Balance;Spain;EUR;1
+USD_AmericanPetroleumInstituteMonthlyReport;20121221;15:00;American Petroleum Institute Monthly Report ;United States;USD;1
+USD_MichiganConsumerSentimentIndex;20121221;14:55;Michigan Consumer Sentiment Index;United States;USD;2
+MXN_JoblessRate;20121221;14:00;Jobless Rate s.a;Mexico;MXN;1
+MXN_1sthalfmonthCoreInflation;20121221;14:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20121221;14:00;1st half-month Inflation;Mexico;MXN;1
+USD_ChicagoFedNationalActivityIndex;20121221;13:30;Chicago Fed National Activity Index ;United States;USD;1
+USD_PersonalConsumptionExpendituresPriceIndex;20121221;13:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;1
+USD_CorePersonalConsumptionExpenditurePriceIndex;20121221;13:30;Core Personal Consumption Expenditure - Price Index (MoM);United States;USD;1
+USD_PersonalSpending;20121221;13:30;Personal Spending;United States;USD;2
+USD_PersonalIncome;20121221;13:30;Personal Income (MoM);United States;USD;2
+CAD_GrossDomesticProduct;20121221;13:30;Gross Domestic Product (MoM);Canada;CAD;2
+USD_DurableGoodsOrders;20121221;13:30;Durable Goods Orders ex Transportation;United States;USD;2
+CAD_ConsumerPriceIndex;20121221;13:30;Consumer Price Index (MoM);Canada;CAD;2
+INR_FXReservesUSD;20121221;11:30;FX Reserves, USD;India;INR;1
+BRL_UnemploymentRate;20121221;11:00;Unemployment Rate;Brazil;BRL;1
+EUR_BelConsumerPriceIndex;20121221;10:30;Consumer Price Index (MoM);Belgium;EUR;1
+EUR_ItaConsumerConfidence;20121221;10:00;Consumer Confidence;Italy;EUR;1
+GBP_GrossDomesticProduct;20121221;09:30;Gross Domestic Product (YoY);United Kingdom;GBP;3
+GBP_TotalBusinessInvestment;20121221;09:30;Total Business Investment (QoQ);United Kingdom;GBP;1
+GBP_IndexofServices;20121221;09:30;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_CurrentAccount;20121221;09:30;Current Account;United Kingdom;GBP;1
+GBP_PublicSectorNetBorrowing;20121221;09:30;Public Sector Net Borrowing;United Kingdom;GBP;2
+PLN_Unemployment;20121221;09:00;Unemployment (MoM);Poland;PLN;1
+PLN_RetailSales;20121221;09:00;Retail Sales (YoY);Poland;PLN;1
+EUR_ItaWageInflation;20121221;09:00;Wage Inflation (YoY);Italy;EUR;1
+ISK_ConsumerPriceIndex;20121221;09:00;Consumer Price Index (YoY);Iceland;ISK;1
+NOK_RegisteredUnemployment;20121221;09:00;Registered Unemployment n.s.a;Norway;NOK;1
+EUR_NetGrossDomesticProduct;20121221;08:30;Gross Domestic Product s.a (QoQ) ;Netherlands, The;EUR;1
+EUR_SpaProducerPriceIndex;20121221;08:00;Producer Price Index (YoY);Spain;EUR;1
+CHF_MonthlyStatisticalBulletin;20121221;08:00;Monthly Statistical Bulletin;Switzerland;CHF;2
+DKK_GrossDomesticProduct;20121221;08:00;Gross Domestic Product - Revised (YoY);Denmark;DKK;1
+HUF_RetailSales;20121221;08:00;Retail Sales (YoY);Hungary;HUF;1
+HUF_TradeBalance;20121221;08:00;Trade Balance;Hungary;HUF;1
+EUR_FraBusinessClimate;20121221;07:45;Business Climate;France;EUR;1
+CHF_SNBQuarterlyBulletin;20121221;07:30;SNB Quarterly Bulletin;Switzerland;CHF;2
+EUR_AusIndustrialProduction;20121221;07:30;Industrial Production (YoY);Austria;EUR;1
+EUR_GerGfkConsumerConfidenceSurvey;20121221;07:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+EUR_FinProducerPriceIndex;20121221;07:00;Producer Price Index (YoY);Finland;EUR;1
+EUR_FinImportPrices;20121221;07:00;Import Prices (YoY);Finland;EUR;1
+EUR_FinExportPrices;20121221;07:00;Export Prices (YoY);Finland;EUR;1
+JPY_BoJMonthlyEconomicSurvey;20121221;05:00;BoJ Monthly Economic Survey;Japan;JPY;1
+CNY_MNIBusinessSentimentIndicator;20121221;01:35;MNI Business Sentiment Indicator;China;CNY;1
+GBP_GfKConsumerConfidence;20121221;00:01;GfK Consumer Confidence;United Kingdom;GBP;2

@@ -1,0 +1,28 @@
+AUD_CFTCAUDNCNetPositions;20200522;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20200522;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+USD_CFTCS&P500NCNetPositions;20200522;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20200522;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20200522;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20200522;19:30;CFTC Oil NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20200522;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+ARS_TradeBalance;20200522;19:00;Trade Balance (MoM);Argentina;ARS;1
+IDR_EidAlFitr;20200522;17:00;Eid Al Fitr;Indonesia;IDR;0
+USD_BakerHughesUSOilRigCount;20200522;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+EUR_EurCentralBankSpeech;20200522;14:30;ECB Lane speech;European Monetary Union;EUR;2
+RUB_ProducerPriceIndex;20200522;13:00;Producer Price Index (YoY);Russia;RUB;1
+CAD_RetailSales;20200522;12:30;Retail Sales ex Autos (MoM);Canada;CAD;2
+INR_BankLoanGrowth;20200522;11:30;Bank Loan Growth;India;INR;1
+EUR_EurECBMonetaryPolicyMeetingAccounts;20200522;11:30;ECB Monetary Policy Meeting Accounts;European Monetary Union;EUR;3
+INR_FXReservesUSD;20200522;11:30;FX Reserves, USD;India;INR;1
+MXN_RetailSales;20200522;11:00;Retail Sales (MoM);Mexico;MXN;1
+MXN_1sthalfmonthCoreInflation;20200522;11:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20200522;11:00;1st half-month Inflation;Mexico;MXN;1
+PLN_RetailSales;20200522;08:00;Retail Sales (YoY);Poland;PLN;1
+TRY_ForeignArrivals;20200522;08:00;Foreign Arrivals;Turkey;TRY;1
+TRY_CapacityUtilization;20200522;07:00;Capacity Utilization;Turkey;TRY;1
+TRY_ManufacturingConfidence;20200522;07:00;Manufacturing Confidence;Turkey;TRY;1
+JPY_BoJPressConference;20200522;06:00;BoJ Press Conference;Japan;JPY;3
+GBP_RetailSales;20200522;06:00;Retail Sales (YoY);United Kingdom;GBP;2
+GBP_PublicSectorNetBorrowing;20200522;06:00;Public Sector Net Borrowing;United Kingdom;GBP;2
+JPY_BoJInterestRateDecision;20200522;03:00;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_BoJMonetaryPolicyStatement;20200522;03:00;BoJ Monetary Policy Statement ;Japan;JPY;3

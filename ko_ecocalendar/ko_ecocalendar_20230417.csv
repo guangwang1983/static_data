@@ -1,0 +1,21 @@
+KRW_TradeBalance;20230417;02:00;Trade Balance;South Korea;KRW;1
+IDR_Imports;20230417;04:00;Imports;Indonesia;IDR;1
+IDR_Exports;20230417;04:00;Exports;Indonesia;IDR;1
+IDR_TradeBalance;20230417;04:00;Trade Balance;Indonesia;IDR;1
+NOK_TradeBalance;20230417;06:00;Trade Balance;Norway;NOK;1
+INR_WPIInflation;20230417;06:30;WPI Inflation;India;INR;1
+ILS_M1MoneySupply;20230417;08:00;M1 Money Supply (MoM);Israel;ILS;1
+TRY_BudgetBalance;20230417;08:00;Budget Balance;Turkey;TRY;1
+EUR_ItaConsumerPriceIndex;20230417;08:00;Consumer Price Index (YoY);Italy;EUR;1
+PLN_NetInflation;20230417;12:00;Net Inflation;Poland;PLN;1
+USD_NYEmpireStateManufacturingIndex;20230417;12:30;NY Empire State Manufacturing Index;United States;USD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20230417;12:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20230417;12:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_WholesaleSales;20230417;12:30;Wholesale Sales (MoM);Canada;CAD;1
+GBP_CentralBankSpeech;20230417;13:00;BoE Cunliffe speech;United Kingdom;GBP;2
+EUR_GerCentralBankSpeech;20230417;13:30;German Buba President Nagel speech;Germany;EUR;2
+USD_NAHBHousingMarketIndex;20230417;14:00;NAHB Housing Market Index;United States;USD;1
+USD_Auction;20230417;15:30;3-Month Bill Auction;United States;USD;1
+EUR_EurCentralBankSpeech;20230417;17:00;ECB President Lagarde speech;European Monetary Union;EUR;3
+USD_TotalNetTICFlows;20230417;20:00;Total Net TIC Flows;United States;USD;1
+USD_NetLongTermTICFlows;20230417;20:00;Net Long-Term TIC Flows;United States;USD;1

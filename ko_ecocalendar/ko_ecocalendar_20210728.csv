@@ -1,0 +1,25 @@
+AUD_RBATrimmedMeanCPI;20210728;01:30;RBA Trimmed Mean CPI (QoQ);Australia;AUD;3
+AUD_ConsumerPriceIndex;20210728;01:30;Consumer Price Index (YoY);Australia;AUD;2
+JPY_LeadingEconomicIndex;20210728;05:00;Leading Economic Index;Japan;JPY;2
+JPY_CoincidentIndex;20210728;05:00;Coincident Index;Japan;JPY;1
+EUR_GerImportPriceIndex;20210728;06:00;Import Price Index (MoM);Germany;EUR;1
+EUR_GerGfkConsumerConfidenceSurvey;20210728;06:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+GBP_NationwideHousingPrices;20210728;06:00;Nationwide Housing Prices s.a (MoM);United Kingdom;GBP;1
+NOK_RetailSales;20210728;06:00;Retail Sales ;Norway;NOK;1
+EUR_FraConsumerConfidence;20210728;06:45;Consumer Confidence;France;EUR;1
+HUF_UnemploymentRate;20210728;07:00;Unemployment Rate (3M);Hungary;HUF;1
+SEK_RetailSales;20210728;07:30;Retail Sales (MoM);Sweden;SEK;1
+CHF_ZEWSurvey–Expectations;20210728;08:00;ZEW Survey – Expectations;Switzerland;CHF;2
+EUR_ItaConsumerConfidence;20210728;08:00;Consumer Confidence;Italy;EUR;1
+EUR_ItaBusinessConfidence;20210728;08:00;Business Confidence;Italy;EUR;1
+USD_MBAMortgageApplications;20210728;11:00;MBA Mortgage Applications;United States;USD;1
+USD_WholesaleInventories;20210728;12:30;Wholesale Inventories;United States;USD;1
+USD_GoodsTradeBalance;20210728;12:30;Goods Trade Balance;United States;USD;1
+CAD_ConsumerPriceIndex;20210728;12:30;Consumer Price Index (YoY);Canada;CAD;2
+USD_EIACrudeOilStocksChange;20210728;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_FedMonetaryPolicyStatement;20210728;18:00;Fed Monetary Policy Statement;United States;USD;3
+USD_FedInterestRateDecision;20210728;18:00;Fed Interest Rate Decision;United States;USD;3
+USD_FOMCPressConference;20210728;18:30;FOMC Press Conference;United States;USD;3
+RUB_UnemploymentRate;20210728;19:00;Unemployment Rate;Russia;RUB;1
+JPY_ForeignInvestmentinJapanStocks;20210728;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20210728;23:50;Foreign Bond Investment;Japan;JPY;1

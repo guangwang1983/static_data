@@ -1,0 +1,29 @@
+GBP_RetailSales;20130805;23:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;1
+COP_ConsumerPriceIndex;20130805;18:00;Consumer Price Index (MoM);Colombia;COP;1
+USD_Auction;20130805;15:30;6-Month Bill Auction;United States;USD;1
+USD_ISMNonManufacturingPMI;20130805;14:00;ISM Non-Manufacturing PMI;United States;USD;2
+MXN_ConsumerConfidence;20130805;13:00;Consumer Confidence;Mexico;MXN;1
+CLP_IMACEC;20130805;12:30;IMACEC;Chile;CLP;1
+RUB_ConsumerPriceIndex;20130805;12:00;Consumer Price Index (MoM);Russia;RUB;1
+EUR_EurRetailSales;20130805;09:00;Retail Sales (MoM);European Monetary Union;EUR;1
+EUR_EurSentixInvestorConfidence;20130805;08:30;Sentix Investor Confidence;European Monetary Union;EUR;2
+GBP_MarkitServicesPMI;20130805;08:28;Markit Services PMI;United Kingdom;GBP;2
+EUR_EurMarkitPMIComposite;20130805;07:58;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20130805;07:58;Markit Services PMI;European Monetary Union;EUR;2
+EUR_GerMarkitServicesPMI;20130805;07:53;Markit Services PMI;Germany;EUR;2
+EUR_FraMarkitServicesPMI;20130805;07:48;Markit Services PMI;France;EUR;1
+EUR_ItaMarkitServicesPMI;20130805;07:43;Markit Services PMI;Italy;EUR;2
+EUR_SpaMarkitServicesPMI;20130805;07:13;Markit Services PMI;Spain;EUR;1
+TRY_ProducerPriceIndex;20130805;07:00;Producer Price Index (YoY);Turkey;TRY;1
+CZK_RetailSales;20130805;07:00;Retail Sales (YoY);Czech Republic;CZK;1
+TRY_ConsumerPriceIndex;20130805;07:00;Consumer Price Index (MoM);Turkey;TRY;1
+RON_Interestratedecision;20130805;07:00;Interest rate decision;Romania;RON;1
+HUF_RetailSales;20130805;07:00;Retail Sales (YoY);Hungary;HUF;1
+RUB_PurchasingManagerIndexServices;20130805;05:00;Purchasing Manager Index Services;Russia;RUB;1
+HKD_NikkeiManufacturingPMI;20130805;02:30;Nikkei Manufacturing PMI;Hong Kong SAR;HKD;1
+CNY_CaixinServicesPMI;20130805;01:45;Caixin Services PMI;China;CNY;2
+AUD_RetailSales;20130805;01:30;Retail Sales s.a. (MoM);Australia;AUD;2
+NZD_ANZCommodityPrice;20130805;01:00;ANZ Commodity Price;New Zealand;NZD;1
+AUD_TDSecuritiesInflation;20130805;00:30;TD Securities Inflation (MoM);Australia;AUD;1
+ISK_CommerceDay;20130805;00:00;Commerce Day ;Iceland;ISK;0
+EUR_IreAugustHoliday;20130805;00:00;August Holiday ;Ireland;EUR;0

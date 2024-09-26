@@ -1,0 +1,9 @@
+USD_PendingHomeSales;20100105;15:00;Pending Home Sales (MoM);United States;USD;2
+USD_FactoryOrders;20100105;15:00;Factory Orders (MoM);United States;USD;2
+CAD_RawMaterialPriceIndex;20100105;13:30;Raw Material Price Index;Canada;CAD;2
+CAD_IndustrialProductPrice;20100105;13:30;Industrial Product Price (MoM);Canada;CAD;1
+EUR_EurConsumerPriceIndex;20100105;10:00;Consumer Price Index (YoY);European Monetary Union;EUR;2
+GBP_MarkitConstructionPMI;20100105;09:30;Markit Construction PMI;United Kingdom;GBP;1
+EUR_GerUnemploymentChange;20100105;08:55;Unemployment Change;Germany;EUR;2
+EUR_GerUnemploymentRate;20100105;08:55;Unemployment Rate s.a.;Germany;EUR;1
+AUD_HIANewHomeSales;20100105;00:38;HIA New Home Sales (MoM);Australia;AUD;1

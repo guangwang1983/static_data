@@ -1,0 +1,14 @@
+CAD_VictoriaDay;20210524;05:00;Victoria Day;Canada;CAD;0
+PLN_RetailSales;20210524;08:00;Retail Sales (YoY);Poland;PLN;1
+TRY_ForeignArrivals;20210524;08:00;Foreign Arrivals;Turkey;TRY;1
+PLN_IndustrialOutput;20210524;08:00;Industrial Output (YoY);Poland;PLN;1
+ILS_IndustrialProduction;20210524;10:00;Industrial Production (MoM);Israel;ILS;1
+MXN_1sthalfmonthCoreInflation;20210524;11:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20210524;11:00;1st half-month Inflation;Mexico;MXN;1
+JPY_CentralBankSpeech;20210524;11:05;BoJ Governor Kuroda speech;Japan;JPY;3
+USD_ChicagoFedNationalActivityIndex;20210524;12:30;Chicago Fed National Activity Index ;United States;USD;2
+GBP_CentralBankSpeech;20210524;14:30;BoE Governor Bailey speech;United Kingdom;GBP;3
+GBP_BoEMonetaryPolicyReportHearings;20210524;15:30;BoE Monetary Policy Report Hearings;United Kingdom;GBP;3
+USD_Auction;20210524;15:30;3-Month Bill Auction;United States;USD;1
+KRW_ConsumerSentimentIndex;20210524;21:00;Consumer Sentiment Index;South Korea;KRW;1
+USD_CentralBankSpeech;20210524;21:30;Fed George speech;United States;USD;1

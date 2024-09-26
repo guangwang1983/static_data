@@ -1,0 +1,28 @@
+JPY_ForeignBondInvestment;20170726;23:50;Foreign Bond Investment;Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20170726;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+KRW_GrossDomesticProduct;20170726;23:00;Gross Domestic Product Growth (YoY);South Korea;KRW;1
+ARS_TradeBalance;20170726;19:00;Trade Balance (MoM);Argentina;ARS;1
+USD_FedMonetaryPolicyStatement;20170726;18:00;Fed Monetary Policy Statement;United States;USD;3
+USD_FedInterestRateDecision;20170726;18:00;Fed Interest Rate Decision;United States;USD;3
+BRL_InterestRateDecision;20170726;17:00;Interest Rate Decision;Brazil;BRL;1
+USD_Auction;20170726;17:00;5-Year Note Auction;United States;USD;1
+EUR_EurCentralBankSpeech;20170726;15:30;ECB Lautenschläger speech;European Monetary Union;EUR;1
+USD_EIACrudeOilStocksChange;20170726;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_NewHomeSales;20170726;14:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20170726;14:00;New Home Sales Change (MoM);United States;USD;2
+USD_MBAMortgageApplications;20170726;11:00;MBA Mortgage Applications;United States;USD;1
+GBP_BBAMortgageApprovals;20170726;08:30;BBA Mortgage Approvals;United Kingdom;GBP;1
+GBP_GrossDomesticProduct;20170726;08:30;Gross Domestic Product (YoY);United Kingdom;GBP;2
+GBP_IndexofServices;20170726;08:30;Index of Services (3M/3M);United Kingdom;GBP;1
+CHF_ZEWSurveyExpectations;20170726;08:00;ZEW Survey - Expectations;Switzerland;CHF;2
+EUR_ItaConsumerConfidence;20170726;08:00;Consumer Confidence;Italy;EUR;1
+EUR_ItaBusinessConfidence;20170726;08:00;Business Confidence;Italy;EUR;1
+SEK_TradeBalance;20170726;07:30;Trade Balance (MoM);Sweden;SEK;1
+DKK_RetailSales;20170726;07:00;Retail Sales (YoY);Denmark;DKK;1
+EUR_SpaRetailSales;20170726;07:00;Retail Sales (YoY);Spain;EUR;1
+EUR_FraConsumerConfidence;20170726;06:45;Consumer Confidence;France;EUR;1
+CHF_UBSConsumptionIndicator;20170726;06:00;UBS Consumption Indicator;Switzerland;CHF;2
+AUD_CentralBankSpeech;20170726;03:05;RBA Governor Lowe speech;Australia;AUD;1
+JPY_CentralBankSpeech;20170726;01:30;BoJ Nakaso speech;Japan;JPY;1
+AUD_RBATrimmedMeanCPI;20170726;01:30;RBA Trimmed Mean CPI (YoY);Australia;AUD;2
+AUD_ConsumerPriceIndex;20170726;01:30;Consumer Price Index (QoQ);Australia;AUD;3

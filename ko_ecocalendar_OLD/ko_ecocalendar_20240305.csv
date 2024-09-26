@@ -1,0 +1,42 @@
+NZD_ANZCommodityPrice;20240305;00:00;ANZ Commodity Price;New Zealand;NZD;1
+GBP_RetailSales;20240305;00:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+JPY_JibunBankServicesPMI;20240305;00:30;Jibun Bank Services PMI;Japan;JPY;1
+AUD_CurrentAccount;20240305;00:30;Current Account Balance;Australia;AUD;1
+CNY_CaixinServicesPMI;20240305;01:45;Caixin Services PMI;China;CNY;3
+JPY_Auction;20240305;03:35;10-y Bond Auction;Japan;JPY;1
+JPY_CentralBankSpeech;20240305;04:00;BoJ Governor Ueda speech;Japan;JPY;3
+INR_HSBCCompositePMI;20240305;05:00;HSBC Composite PMI;India;INR;2
+INR_HSBCServicesPMI;20240305;05:00;HSBC Services PMI;India;INR;2
+RUB_S&PGlobalServicesPMI;20240305;06:00;S&P Global Services PMI;Russia;RUB;1
+HUF_GrossDomesticProduct;20240305;07:30;Gross Domestic Product (YoY);Hungary;HUF;1
+EUR_FraIndustrialOutput;20240305;07:45;Industrial Output (MoM);France;EUR;1
+EUR_ItaHCOBServicesPMI;20240305;08:45;HCOB Services PMI;Italy;EUR;1
+EUR_FraHCOBCompositePMI;20240305;08:50;HCOB Composite PMI;France;EUR;1
+EUR_FraHCOBServicesPMI;20240305;08:50;HCOB Services PMI;France;EUR;1
+EUR_GerHCOBServicesPMI;20240305;08:55;HCOB Services PMI;Germany;EUR;2
+EUR_GerHCOBCompositePMI;20240305;08:55;HCOB Composite PMI;Germany;EUR;2
+EUR_ItaGrossDomesticProduct;20240305;09:00;Gross Domestic Product (QoQ);Italy;EUR;2
+EUR_EurHCOBCompositePMI;20240305;09:00;HCOB Composite PMI;Eurozone;EUR;2
+EUR_EurHCOBServicesPMI;20240305;09:00;HCOB Services PMI;Eurozone;EUR;1
+ZAR_GrossDomesticProduct;20240305;09:30;Gross Domestic Product (YoY);South Africa;ZAR;1
+GBP_S&PGlobalCIPSCompositePMI;20240305;09:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;1
+GBP_S&PGlobalCIPSServicesPMI;20240305;09:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;1
+EUR_EurProducerPriceIndex;20240305;10:00;Producer Price Index (MoM);Eurozone;EUR;2
+EUR_GerAuction;20240305;10:30;5-y Note Auction;Germany;EUR;1
+USD_RedbookIndex;20240305;13:55;Redbook Index (YoY);United States;USD;1
+NZD_GDTPriceIndex;20240305;14:00;GDT Price Index;New Zealand;NZD;1
+USD_S&PGlobalServicesPMI;20240305;14:45;S&P Global Services PMI;United States;USD;1
+USD_S&PGlobalCompositePMI;20240305;14:45;S&P Global Composite PMI;United States;USD;2
+USD_ISMServicesPMI;20240305;15:00;ISM Services PMI;United States;USD;3
+USD_ISMServicesEmploymentIndex;20240305;15:00;ISM Services Employment Index;United States;USD;2
+USD_ISMServicesPricesPaid;20240305;15:00;ISM Services Prices Paid;United States;USD;2
+USD_ISMServicesNewOrdersIndex;20240305;15:00;ISM Services New Orders Index;United States;USD;2
+USD_FactoryOrders;20240305;15:00;Factory Orders (MoM);United States;USD;2
+USD_RealClearMarketsTIPPEconomicOptimism;20240305;15:00;RealClearMarkets/TIPP Economic Optimism (MoM);United States;USD;1
+USD_CentralBankSpeech;20240305;20:30;Fed Barr speech;United States;USD;2
+KRW_FXReserves;20240305;21:00;FX Reserves;South Korea;KRW;1
+USD_APIWeeklyCrudeOilStock;20240305;21:30;API Weekly Crude Oil Stock;United States;USD;1
+AUD_AiGIndustryIndex;20240305;22:00;AiG Industry Index;Australia;AUD;2
+AUD_AiGManufacturingPMI;20240305;22:00;AiG Manufacturing PMI;Australia;AUD;1
+AUD_AiGConstructionPMI;20240305;22:00;AiG Construction PMI;Australia;AUD;1
+KRW_ConsumerPriceIndex;20240305;23:00;Consumer Price Index Growth (MoM);South Korea;KRW;1

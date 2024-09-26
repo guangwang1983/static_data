@@ -1,0 +1,54 @@
+JPY_MonetaryBase;20200203;23:50;Monetary Base (YoY);Japan;JPY;1
+KRW_ConsumerPriceIndex;20200203;23:00;Consumer Price Index Growth (MoM);South Korea;KRW;1
+NZD_BuildingPermits;20200203;21:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+USD_TotalVehicleSales;20200203;20:30;Total Vehicle Sales;United States;USD;1
+ARS_TaxRevenue;20200203;20:00;Tax Revenue (MoM);Argentina;ARS;1
+USD_LoanOfficerSurvey;20200203;19:00;Loan Officer Survey;United States;USD;1
+BRL_TradeBalance;20200203;19:00;Trade Balance;Brazil;BRL;1
+MXN_CentralBankInterestRate;20200203;19:00;Central Bank Interest Rate;Mexico;MXN;1
+EUR_GerCentralBankSpeech;20200203;18:15;German Buba President Weidmann speech;Germany;EUR;2
+USD_Auction;20200203;16:30;6-Month Bill Auction;United States;USD;1
+USD_ISMPricesPaid;20200203;15:00;ISM Prices Paid;United States;USD;2
+USD_ISMManufacturingPMI;20200203;15:00;ISM Manufacturing PMI;United States;USD;3
+USD_ConstructionSpending;20200203;15:00;Construction Spending (MoM);United States;USD;1
+USD_ISMNYBusinessConditionsIndex;20200203;14:45;ISM-NY Business Conditions Index;United States;USD;1
+USD_MarkitManufacturingPMI;20200203;14:45;Markit Manufacturing PMI;United States;USD;2
+CAD_MarkitManufacturingPMI;20200203;14:30;Markit Manufacturing PMI;Canada;CAD;2
+BRL_HSBCPMIManufacturing;20200203;13:00;HSBC PMI Manufacturing;Brazil;BRL;1
+SGD_PurchasingManagersIndex;20200203;13:00;Purchasing Managers Index;Singapore;SGD;1
+CZK_BudgetBalance;20200203;13:00;Budget Balance;Czech Republic;CZK;1
+ZAR_TotalNewVehicleSales;20200203;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+ILS_FXReserves;20200203;12:00;FX Reserves;Israel;ILS;1
+ILS_BudgetBalanceILS;20200203;11:00;Budget Balance - ILS;Israel;ILS;1
+TRY_CBRTInterestRateDecision;20200203;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+CLP_IMACEC;20200203;10:30;IMACEC;Chile;CLP;1
+GBP_MarkitManufacturingPMI;20200203;09:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+EUR_GreMarkitManufacturingPMI;20200203;09:00;Markit Manufacturing PMI;Greece;EUR;1
+EUR_EurMarkitManufacturingPMI;20200203;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;1
+EUR_GerMarkitManufacturingPMI;20200203;08:55;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20200203;08:50;Markit Manufacturing PMI;France;EUR;1
+EUR_ItaMarkitManufacturingPMI;20200203;08:45;Markit Manufacturing PMI;Italy;EUR;1
+CHF_SVMEPurchasingManagers'Index;20200203;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_MarkitPMI;20200203;08:30;Markit PMI;Czech Republic;CZK;1
+EUR_SpaMarkitManufacturingPMI;20200203;08:15;Markit Manufacturing PMI;Spain;EUR;1
+EUR_EurCentralBankSpeech;20200203;08:15;ECB De Guindos speech;European Monetary Union;EUR;2
+EUR_AusUnemploymentRate;20200203;08:00;Unemployment Rate;Austria;EUR;1
+EUR_AusUnemployment;20200203;08:00;Unemployment;Austria;EUR;1
+HUF_PurchasingManagerIndex;20200203;08:00;Purchasing Manager Index;Hungary;HUF;1
+HUF_ProducerPriceIndex;20200203;08:00;Producer Price Index (YoY);Hungary;HUF;1
+PLN_PurchasingManagerIndex;20200203;08:00;Purchasing Manager Index;Poland;PLN;2
+SEK_PurchasingManagersIndexManufacturing;20200203;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+TRY_ProducerPriceIndex;20200203;07:00;Producer Price Index (YoY);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20200203;07:00;Consumer Price Index (MoM);Turkey;TRY;1
+RUB_HSBCManufacturingPMI;20200203;06:00;HSBC Manufacturing PMI	;Russia;RUB;1
+AUD_RBACommodityIndexSDR;20200203;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+IDR_GrossDomesticProduct;20200203;04:00;Gross Domestic Product (YoY);Indonesia;IDR;1
+IDR_CoreInflation;20200203;04:00;Core Inflation (YoY);Indonesia;IDR;1
+IDR_Inflation;20200203;04:00;Inflation (YoY);Indonesia;IDR;1
+CNY_CaixinManufacturingPMI;20200203;01:45;Caixin Manufacturing PMI;China;CNY;3
+EUR_IrePurchasingManagerIndexManufacturing;20200203;01:01;Purchasing Manager Index Manufacturing;Ireland;EUR;1
+AUD_ANZJobAdvertisements;20200203;00:30;ANZ Job Advertisements;Australia;AUD;1
+KRW_NikkeiMarkitManufacturingPMI;20200203;00:30;Nikkei Markit Manufacturing PMI;South Korea;KRW;1
+AUD_BuildingPermits;20200203;00:30;Building Permits (YoY);Australia;AUD;1
+JPY_JibunBankManufacturingPMI;20200203;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+AUD_TDSecuritiesInflation;20200203;00:00;TD Securities Inflation (MoM);Australia;AUD;2

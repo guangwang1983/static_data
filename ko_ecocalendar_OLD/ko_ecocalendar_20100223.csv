@@ -1,0 +1,14 @@
+JPY_MerchandiseTradeBalanceTotal;20100223;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20100223;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;2
+JPY_CorporateServicePrice;20100223;23:50;Corporate Service Price (YoY);Japan;JPY;1
+USD_CentralBankSpeech;20100223;22:00;Fed Bullard speech;United States;USD;1
+USD_ConsumerConfidence;20100223;15:00;Consumer Confidence;United States;USD;3
+USD_RichmondFedManufacturingIndex;20100223;15:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20100223;14:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;1
+GBP_BBAMortgageApprovals;20100223;09:30;BBA Mortgage Approvals;United Kingdom;GBP;2
+GBP_CentralBankSpeech;20100223;09:15;BoE Governor King speech;United Kingdom;GBP;2
+EUR_GerIFOCurrentAssessment;20100223;09:00;IFO - Current Assessment;Germany;EUR;2
+EUR_GerIFOBusinessClimate;20100223;09:00;IFO - Business Climate;Germany;EUR;2
+EUR_GerIFOExpectations;20100223;09:00;IFO - Expectations;Germany;EUR;2
+CHF_UBSConsumptionIndicator;20100223;07:00;UBS Consumption Indicator;Switzerland;CHF;2
+NZD_RBNZInflationExpectations;20100223;02:00;RBNZ Inflation Expectations (QoQ);New Zealand;NZD;1

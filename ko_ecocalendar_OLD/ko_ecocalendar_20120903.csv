@@ -1,0 +1,40 @@
+JPY_MonetaryBase;20120903;23:50;Monetary Base (YoY);Japan;JPY;1
+GBP_RetailSales;20120903;23:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;1
+BRL_TradeBalance;20120903;18:00;Trade Balance;Brazil;BRL;1
+BRL_HSBCPMIManufacturing;20120903;12:00;HSBC PMI Manufacturing;Brazil;BRL;1
+CZK_BudgetBalance;20120903;12:00;Budget Balance;Czech Republic;CZK;1
+EUR_AusUnemployment;20120903;10:00;Unemployment;Austria;EUR;1
+EUR_AusUnemploymentRate;20120903;10:00;Unemployment Rate;Austria;EUR;1
+ZAR_PurchasingManagerIndex;20120903;09:00;Purchasing Manager Index;South Africa;ZAR;1
+GBP_MarkitManufacturingPMI;20120903;08:28;Markit Manufacturing PMI;United Kingdom;GBP;2
+NOK_CreditIndicator;20120903;08:00;Credit Indicator;Norway;NOK;1
+EUR_GreMarkitManufacturingPMI;20120903;07:58;Markit Manufacturing PMI;Greece;EUR;1
+EUR_EurMarkitManufacturingPMI;20120903;07:58;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_GerMarkitManufacturingPMI;20120903;07:53;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20120903;07:48;Markit Manufacturing PMI;France;EUR;1
+EUR_ItaMarkitManufacturingPMI;20120903;07:43;Markit Manufacturing PMI;Italy;EUR;1
+CHF_SVMEPurchasingManagers'Index;20120903;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;2
+CZK_MarkitPMI;20120903;07:30;Markit PMI;Czech Republic;CZK;1
+CHF_RetailSales;20120903;07:15;Real Retail Sales (YoY);Switzerland;CHF;2
+EUR_SpaMarkitManufacturingPMI;20120903;07:13;Markit Manufacturing PMI;Spain;EUR;1
+CHF_CentralBankSpeech;20120903;07:00;SNB Chairman Jordan speech;Switzerland;CHF;3
+TRY_ProducerPriceIndex;20120903;07:00;Producer Price Index (YoY);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20120903;07:00;Consumer Price Index (MoM);Turkey;TRY;1
+HUF_PurchasingManagerIndex;20120903;07:00;Purchasing Manager Index;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20120903;07:00;Purchasing Manager Index;Poland;PLN;1
+AUD_RBACommodityIndexSDR;20120903;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+SEK_PurchasingManagersIndexManufacturing;20120903;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+EUR_IrePurchasingManagerIndexManufacturing;20120903;05:58;Purchasing Manager Index Manufacturing;Ireland;EUR;1
+JPY_VehicleSales;20120903;05:00;Vehicle Sales (YoY);Japan;JPY;1
+RUB_HSBCManufacturingPMI;20120903;05:00;HSBC Manufacturing PMI	;Russia;RUB;1
+IDR_TradeBalance;20120903;03:00;Trade Balance;Indonesia;IDR;1
+CNY_CaixinManufacturingPMI;20120903;02:30;Caixin Manufacturing PMI;China;CNY;2
+IDR_Exports;20120903;02:00;Exports;Indonesia;IDR;1
+IDR_Imports;20120903;02:00;Imports;Indonesia;IDR;1
+IDR_Inflation;20120903;02:00;Inflation (YoY);Indonesia;IDR;1
+AUD_CompanyGrossOperatingProfits;20120903;01:30;Company Gross Operating Profits (QoQ);Australia;AUD;1
+AUD_ANZJobAdvertisements;20120903;01:30;ANZ Job Advertisements;Australia;AUD;1
+AUD_RetailSales;20120903;01:30;Retail Sales s.a. (MoM);Australia;AUD;2
+AUD_TDSecuritiesInflation;20120903;00:30;TD Securities Inflation (MoM);Australia;AUD;2
+CAD_LabourDay;20120903;00:00;Labour Day;Canada;CAD;0
+USD_LaborDay;20120903;00:00;Labor Day;United States;USD;0

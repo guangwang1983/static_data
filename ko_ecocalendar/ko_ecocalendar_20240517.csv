@@ -1,0 +1,26 @@
+CNY_HousePriceIndex;20240517;01:30;House Price Index ;China;CNY;1
+CNY_RetailSales;20240517;02:00;Retail Sales (YoY);China;CNY;3
+CNY_IndustrialProduction;20240517;02:00;Industrial Production (YoY);China;CNY;3
+CNY_FixedAssetInvestment;20240517;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+EUR_FraILOUnemployment;20240517;05:30;ILO Unemployment;France;EUR;1
+CHF_IndustrialProduction;20240517;06:30;Industrial Production (YoY);Switzerland;CHF;2
+EUR_EurCentralBankSpeech;20240517;07:20;ECB De Guindos speech;Eurozone;EUR;2
+GBP_CentralBankSpeech;20240517;08:00;BoE Mann speech;United Kingdom;GBP;2
+CNY_FDIForeignDirectInvestment;20240517;09:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;1
+EUR_EurHarmonizedIndexofConsumerPrices;20240517;09:00;Harmonized Index of Consumer Prices (YoY);Eurozone;EUR;1
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20240517;09:00;Core Harmonized Index of Consumer Prices (MoM);Eurozone;EUR;2
+ILS_M1MoneySupply;20240517;11:00;M1 Money Supply (YoY);Israel;ILS;1
+INR_BankLoanGrowth;20240517;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20240517;11:30;FX Reserves, USD;India;INR;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20240517;12:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20240517;12:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+RUB_ConsumerPriceIndex;20240517;16:00;Consumer Price Index (MoM);Russia;RUB;1
+USD_CentralBankSpeech;20240517;16:15;Fed Daly speech;United States;USD;2
+USD_BakerHughesUSOilRigCount;20240517;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20240517;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20240517;19:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20240517;19:30;CFTC Gold NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20240517;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20240517;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20240517;19:30;CFTC EUR NC Net Positions;Eurozone;EUR;1
+AUD_CFTCAUDNCNetPositions;20240517;19:30;CFTC AUD NC Net Positions;Australia;AUD;1

@@ -1,0 +1,35 @@
+AUD_WagePriceIndex;20170222;00:30;Wage Price Index (YoY);Australia;AUD;1
+AUD_ConstructionWorkDone;20170222;00:30;Construction Work Done;Australia;AUD;1
+CNY_HousePriceIndex;20170222;01:30;House Price Index ;China;CNY;1
+NOK_LabourForceSurvey;20170222;07:00;Labour Force Survey;Norway;NOK;1
+CHF_ZEWSurvey–Expectations;20170222;09:00;ZEW Survey – Expectations;Switzerland;CHF;2
+EUR_ItaConsumerPriceIndex;20170222;09:00;Consumer Price Index (EU Norm) (MoM);Italy;EUR;1
+EUR_GerIFO–BusinessClimate;20170222;09:00;IFO – Business Climate;Germany;EUR;2
+EUR_GerIFO–CurrentAssessment;20170222;09:00;IFO – Current Assessment;Germany;EUR;2
+EUR_GerIFO–Expectations;20170222;09:00;IFO – Expectations;Germany;EUR;2
+GBP_GrossDomesticProduct;20170222;09:30;Gross Domestic Product (YoY);United Kingdom;GBP;2
+GBP_TotalBusinessInvestment;20170222;09:30;Total Business Investment (QoQ);United Kingdom;GBP;1
+GBP_IndexofServices;20170222;09:30;Index of Services (3M/3M);United Kingdom;GBP;1
+EUR_EurHarmonizedIndexofConsumerPrices;20170222;10:00;Harmonized Index of Consumer Prices (MoM);European Monetary Union;EUR;2
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20170222;10:00;Core Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;2
+EUR_GerAuction;20170222;10:43;30-y Bond Auction;Germany;EUR;1
+GBP_CentralBankSpeech;20170222;11:00;BoE Cunliffe speech;United Kingdom;GBP;2
+TRY_ManufacturingConfidence;20170222;11:30;Manufacturing Confidence;Turkey;TRY;1
+TRY_CapacityUtilization;20170222;11:30;Capacity Utilization;Turkey;TRY;1
+USD_MBAMortgageApplications;20170222;12:00;MBA Mortgage Applications;United States;USD;1
+BRL_MidmonthInflation;20170222;12:00;Mid-month Inflation;Brazil;BRL;1
+RUB_CentralBankReserves;20170222;13:00;Central Bank Reserves $;Russia;RUB;1
+RUB_UnemploymentRate;20170222;13:00;Unemployment Rate;Russia;RUB;1
+CAD_RetailSales;20170222;13:30;Retail Sales (MoM);Canada;CAD;3
+USD_RedbookIndex;20170222;13:55;Redbook Index (YoY);United States;USD;1
+MXN_GrossDomesticProduct;20170222;14:00;Gross Domestic Product (YoY);Mexico;MXN;1
+USD_ExistingHomeSales;20170222;15:00;Existing Home Sales (MoM);United States;USD;1
+USD_ExistingHomeSalesChange;20170222;15:00;Existing Home Sales Change (MoM);United States;USD;1
+COP_GrossDomesticProduct;20170222;17:00;Gross Domestic Product (YoY);Colombia;COP;1
+USD_CentralBankSpeech;20170222;18:00;FOMC Member Powell speech (don't use);United States;USD;1
+USD_Auction;20170222;18:00;5-Year Note Auction;United States;USD;1
+USD_FOMCMinutes;20170222;19:00;FOMC Minutes;United States;USD;3
+USD_APIWeeklyCrudeOilStock;20170222;21:30;API Weekly Crude Oil Stock;United States;USD;1
+JPY_CorporateServicePriceIndex;20170222;23:50;Corporate Service Price Index (YoY);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20170222;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20170222;23:50;Foreign Bond Investment;Japan;JPY;2

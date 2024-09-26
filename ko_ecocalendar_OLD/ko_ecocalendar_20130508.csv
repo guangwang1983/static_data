@@ -1,0 +1,30 @@
+JPY_JPForeignReserves;20130508;23:50;JP Foreign Reserves;Japan;JPY;1
+NZD_UnemploymentRate;20130508;22:45;Unemployment Rate;New Zealand;NZD;2
+NZD_EmploymentChange;20130508;22:45;Employment Change;New Zealand;NZD;2
+USD_CentralBankSpeech;20130508;18:00;Treasury Sec Lew speech;United States;USD;2
+USD_Auction;20130508;17:00;10-Year Note Auction;United States;USD;2
+USD_EIACrudeOilStocksChange;20130508;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+TRY_TreasuryCashBalance;20130508;14:30;Treasury Cash Balance;Turkey;TRY;1
+CAD_HousingStarts;20130508;12:15;Housing Starts s.a (YoY);Canada;CAD;2
+BRL_IPCAInflation;20130508;12:00;IPCA Inflation;Brazil;BRL;1
+CLP_ConsumerPriceIndex;20130508;12:00;Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+NOK_NorgesBankInterestRateDecision;20130508;12:00;Norges Bank Interest Rate Decision;Norway;NOK;1
+EUR_EurECBDepositRateDecision;20130508;11:45;ECB Deposit Rate Decision;European Monetary Union;EUR;2
+USD_MBAMortgageApplications;20130508;11:00;MBA Mortgage Applications;United States;USD;1
+EUR_GerIndustrialProduction;20130508;10:00;Industrial Production s.a. (MoM);Germany;EUR;1
+NOK_ManufacturingOutput;20130508;08:00;Manufacturing Output;Norway;NOK;1
+EUR_NetManufacturingOutput;20130508;07:30;Manufacturing Output (MoM);Netherlands, The;EUR;1
+CHF_ConsumerPriceIndex;20130508;07:15;Consumer Price Index (YoY);Switzerland;CHF;2
+TRY_IndustrialProduction;20130508;07:00;Industrial Production (YoY);Turkey;TRY;1
+DKK_TradeBalance;20130508;07:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20130508;07:00;Current Account;Denmark;DKK;1
+GBP_HalifaxHousePrices;20130508;07:00;Halifax House Prices (3m/YoY);United Kingdom;GBP;1
+EUR_FinTradeBalance;20130508;06:00;Trade Balance;Finland;EUR;1
+ZAR_Net$Gold&ForexReserve;20130508;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+ZAR_Gross$Gold&ForexReserve;20130508;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+KRW_MoneySupplyGrowth;20130508;03:00;Money Supply Growth;South Korea;KRW;1
+CNY_Imports;20130508;01:50;Imports (YoY);China;CNY;1
+CNY_TradeBalanceUSD;20130508;01:50;Trade Balance USD;China;CNY;2
+CNY_Exports;20130508;01:50;Exports (YoY);China;CNY;1
+EUR_FraVictoryinEuropeDay;20130508;00:00;Victory in Europe Day;France;EUR;0
+CZK_LiberationDay;20130508;00:00;Liberation Day ;Czech Republic;CZK;0

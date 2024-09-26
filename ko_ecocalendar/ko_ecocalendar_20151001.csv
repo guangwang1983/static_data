@@ -1,0 +1,47 @@
+CNY_NationalDay;20151001;00:00;National Day;China;CNY;0
+CNY_NonManufacturingPMI;20151001;01:00;Non-Manufacturing PMI;China;CNY;2
+CNY_NBSManufacturingPMI;20151001;01:00;NBS Manufacturing PMI;China;CNY;2
+JPY_CentralBankSpeech;20151001;01:00;BoJ Governor Kuroda speech;Japan;JPY;3
+JPY_JibunBankManufacturingPMI;20151001;01:35;Jibun Bank Manufacturing PMI;Japan;JPY;1
+CNY_CaixinServicesPMI;20151001;01:45;Caixin Services PMI;China;CNY;2
+CNY_CaixinManufacturingPMI;20151001;01:45;Caixin Manufacturing PMI;China;CNY;2
+IDR_Inflation;20151001;04:00;Inflation (MoM);Indonesia;IDR;1
+IDR_CoreInflation;20151001;04:00;Core Inflation (YoY);Indonesia;IDR;1
+JPY_VehicleSales;20151001;05:00;Vehicle Sales (YoY);Japan;JPY;1
+RUB_S&PGlobalManufacturingPMI;20151001;06:00;S&P Global Manufacturing PMI;Russia;RUB;1
+HUF_PurchasingManagerIndex;20151001;07:00;Purchasing Manager Index;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20151001;07:00;Purchasing Manager Index;Poland;PLN;2
+AUD_RBACommodityIndexSDR;20151001;07:05;RBA Commodity Index SDR (YoY);Australia;AUD;1
+CHF_RetailSales;20151001;07:15;Real Retail Sales (YoY);Switzerland;CHF;3
+CHF_SVMEPurchasingManagers'Index;20151001;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_S&PGlobalPMI;20151001;07:30;S&P Global PMI;Czech Republic;CZK;1
+SEK_PurchasingManagersIndexManufacturing;20151001;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;2
+EUR_ItaHCOBManufacturingPMI;20151001;07:45;HCOB Manufacturing PMI;Italy;EUR;1
+EUR_FraHCOBManufacturingPMI;20151001;07:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerHCOBManufacturingPMI;20151001;07:55;HCOB Manufacturing PMI;Germany;EUR;2
+TRY_Exports;20151001;08:00;Exports;Turkey;TRY;1
+EUR_ItaPublicDeficitGDP;20151001;08:00;Public Deficit/GDP;Italy;EUR;1
+EUR_EurHCOBManufacturingPMI;20151001;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+GBP_S&PGlobalCIPSManufacturingPMI;20151001;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+ZAR_TotalNewVehicleSales;20151001;09:00;Total New Vehicle Sales;South Africa;ZAR;1
+EUR_FraAuction;20151001;10:47;10-y Bond Auction;France;EUR;1
+RUB_CentralBankReserves;20151001;11:00;Central Bank Reserves $;Russia;RUB;1
+USD_ChallengerJobCuts;20151001;11:30;Challenger Job Cuts;United States;USD;1
+CZK_BudgetBalance;20151001;12:00;Budget Balance;Czech Republic;CZK;1
+USD_JoblessClaims;20151001;12:30;Continuing Jobless Claims;United States;USD;1
+BRL_S&PGlobalManufacturingPMI;20151001;13:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+CAD_S&PGlobalManufacturingPMI;20151001;13:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20151001;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_ISMManufacturingPMI;20151001;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20151001;14:00;ISM Manufacturing Prices Paid;United States;USD;3
+USD_ConstructionSpending;20151001;14:00;Construction Spending (MoM);United States;USD;2
+USD_EIANaturalGasStorageChange;20151001;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_TotalVehicleSales;20151001;17:30;Total Vehicle Sales;United States;USD;1
+BRL_TradeBalance;20151001;18:00;Trade Balance;Brazil;BRL;1
+USD_CentralBankSpeech;20151001;18:30;Fed Williams speech;United States;USD;1
+KRW_CurrentAccount;20151001;23:00;Current Account Balance;South Korea;KRW;1
+KRW_ConsumerPriceIndex;20151001;23:00;Consumer Price Index Growth (MoM);South Korea;KRW;1
+JPY_JobsApplicantsRatio;20151001;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+JPY_UnemploymentRate;20151001;23:30;Unemployment Rate;Japan;JPY;2
+JPY_OverallHouseholdSpending;20151001;23:30;Overall Household Spending (YoY);Japan;JPY;2
+JPY_MonetaryBase;20151001;23:50;Monetary Base (YoY);Japan;JPY;1

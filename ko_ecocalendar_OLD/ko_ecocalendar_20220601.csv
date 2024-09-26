@@ -1,0 +1,45 @@
+JPY_JibunBankManufacturingPMI;20220601;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+AUD_GrossDomesticProduct;20220601;01:30;Gross Domestic Product (QoQ);Australia;AUD;3
+CNY_CaixinManufacturingPMI;20220601;01:45;Caixin Manufacturing PMI;China;CNY;2
+GBP_NationwideHousingPrices;20220601;06:00;Nationwide Housing Prices s.a (MoM);United Kingdom;GBP;1
+RUB_S&PGlobalManufacturingPMI;20220601;06:00;S&P Global Manufacturing PMI;Russia;RUB;1
+NOK_CurrentAccount;20220601;06:00;Current Account;Norway;NOK;1
+AUD_RBACommodityIndexSDR;20220601;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+SEK_PurchasingManagersIndexManufacturing;20220601;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+PLN_PurchasingManagerIndex;20220601;07:00;Purchasing Manager Index;Poland;PLN;2
+HUF_PurchasingManagerIndex;20220601;07:00;Purchasing Manager Index;Hungary;HUF;1
+HUF_GrossDomesticProduct;20220601;07:00;Gross Domestic Product (YoY);Hungary;HUF;1
+CZK_S&PGlobalPMI;20220601;07:30;S&P Global PMI;Czech Republic;CZK;1
+CHF_SVMEPurchasingManagers'Index;20220601;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+TRY_Exports;20220601;08:00;Exports;Turkey;TRY;1
+EUR_EurS&PGlobalManufacturingPMI;20220601;08:00;S&P Global Manufacturing PMI;European Monetary Union;EUR;1
+GBP_S&PGlobalCIPSManufacturingPMI;20220601;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+DKK_ManufacturingPMI;20220601;09:00;Manufacturing PMI;Denmark;DKK;1
+EUR_EurUnemploymentRate;20220601;09:00;Unemployment Rate;European Monetary Union;EUR;2
+USD_MBAMortgageApplications;20220601;11:00;MBA Mortgage Applications;United States;USD;1
+ZAR_TotalNewVehicleSales;20220601;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+CZK_BudgetBalance;20220601;12:00;Budget Balance;Czech Republic;CZK;1
+USD_RedbookIndex;20220601;12:55;Redbook Index (YoY);United States;USD;1
+CAD_S&PGlobalManufacturingPMI;20220601;13:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20220601;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_JOLTSJobOpenings;20220601;14:00;JOLTS Job Openings;United States;USD;1
+USD_ISMManufacturingNewOrdersIndex;20220601;14:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ISMManufacturingPMI;20220601;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20220601;14:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ISMManufacturingEmploymentIndex;20220601;14:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ConstructionSpending;20220601;14:00;Construction Spending (MoM);United States;USD;1
+CAD_BoCInterestRateDecision;20220601;14:00;BoC Interest Rate Decision;Canada;CAD;3
+CAD_BoCRateStatement;20220601;14:00;BoC Rate Statement;Canada;CAD;3
+USD_EIACrudeOilStocksChange;20220601;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+EUR_EurCentralBankSpeech;20220601;15:30;ECB Panetta speech;European Monetary Union;EUR;2
+RUB_UnemploymentRate;20220601;16:00;Unemployment Rate;Russia;RUB;1
+RUB_IndustrialOutput;20220601;16:00;Industrial Output;Russia;RUB;1
+USD_CentralBankSpeech;20220601;17:00;Fed Bullard speech;United States;USD;2
+USD_FedBeigeBook;20220601;18:00;Fed Beige Book;United States;USD;2
+USD_TotalVehicleSales;20220601;19:30;Total Vehicle Sales;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20220601;20:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_TermsofTradeIndex;20220601;22:45;Terms of Trade Index;New Zealand;NZD;1
+GBP_SpringBankHoliday;20220601;23:00;Spring Bank Holiday;United Kingdom;GBP;0
+JPY_MonetaryBase;20220601;23:50;Monetary Base (YoY);Japan;JPY;1
+JPY_ForeignBondInvestment;20220601;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20220601;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1

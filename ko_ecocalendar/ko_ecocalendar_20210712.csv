@@ -1,0 +1,21 @@
+EUR_EurEurogroupMeeting;20210712;00:00;Eurogroup Meeting;European Monetary Union;EUR;2
+RON_TradeBalance;20210712;06:00;Trade Balance;Romania;RON;1
+DKK_Inflation;20210712;06:00;Inflation (HICP) (YoY);Denmark;DKK;1
+DKK_ConsumerPriceIndex;20210712;06:00;Consumer Price Index (YoY);Denmark;DKK;1
+EUR_GerWholesalePriceIndex;20210712;06:00;Wholesale Price Index (MoM);Germany;EUR;1
+JPY_MachineToolOrders;20210712;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+TRY_UnemploymentRate;20210712;07:00;Unemployment Rate;Turkey;TRY;1
+EUR_EurCentralBankSpeech;20210712;09:00;ECB De Guindos speech;European Monetary Union;EUR;2
+MXN_IndustrialOutput;20210712;11:00;Industrial Output (MoM);Mexico;MXN;1
+ZAR_ManufacturingProductionIndex;20210712;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+INR_ManufacturingOutput;20210712;12:00;Manufacturing Output;India;INR;1
+INR_IndustrialOutput;20210712;12:00;Industrial Output;India;INR;1
+INR_ConsumerPriceIndex;20210712;12:00;Consumer Price Index (YoY);India;INR;1
+INR_CumulativeIndustrialOutput;20210712;12:00;Cumulative Industrial Output;India;INR;1
+RUB_ForeignTrade;20210712;13:00;Foreign Trade;Russia;RUB;1
+USD_CentralBankSpeech;20210712;13:30;Fed Williams speech;United States;USD;2
+USD_USDAWASDEReport;20210712;16:00;USDA WASDE Report;United States;USD;1
+USD_Auction;20210712;17:00;3-Year Note Auction;United States;USD;1
+NZD_REINZHousePriceIndex;20210712;21:00;REINZ House Price Index (MoM);New Zealand;NZD;2
+NZD_FoodPriceIndex;20210712;22:45;Food Price Index (MoM);New Zealand;NZD;1
+GBP_RetailSales;20210712;23:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2

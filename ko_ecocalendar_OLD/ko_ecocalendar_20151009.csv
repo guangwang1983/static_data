@@ -1,0 +1,35 @@
+USD_BakerHughesUSOilRigCount;20151009;19:00;Baker Hughes US Oil Rig Count;United States;USD;2
+CAD_BankofCanadaBusinessOutlookSurvey;20151009;14:30;Bank of Canada Business Outlook Survey;Canada;CAD;2
+USD_WholesaleInventories;20151009;14:00;Wholesale Inventories;United States;USD;1
+USD_CentralBankSpeech;20151009;13:10;Fed Lockhart speech;United States;USD;1
+USD_ImportPriceIndex;20151009;12:30;Import Price Index (MoM);United States;USD;2
+USD_ExportPriceIndex;20151009;12:30;Export Price Index (MoM);United States;USD;2
+CAD_ParticipationRate;20151009;12:30;Participation Rate;Canada;CAD;1
+CAD_NetChangeinEmployment;20151009;12:30;Net Change in Employment;Canada;CAD;3
+CAD_UnemploymentRate;20151009;12:30;Unemployment Rate;Canada;CAD;3
+EUR_EurIMFMeeting;20151009;12:00;IMF Meeting;European Monetary Union;EUR;2
+INR_FXReservesUSD;20151009;11:31;FX Reserves, USD;India;INR;1
+EUR_PorGlobalTradeBalance;20151009;10:14;Global Trade Balance;Portugal;EUR;1
+EUR_GreIndustrialProduction;20151009;09:00;Industrial Production (YoY);Greece;EUR;1
+EUR_GreConsumerPriceIndex;20151009;09:00;Consumer Price Index (YoY);Greece;EUR;1
+GBP_GoodsTradeBalance;20151009;08:30;Goods Trade Balance;United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20151009;08:30;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20151009;08:30;Total Trade Balance;United Kingdom;GBP;1
+NOK_ConsumerPriceIndex;20151009;08:00;Consumer Price Index (YoY);Norway;NOK;1
+NOK_CoreInflation;20151009;08:00;Core Inflation (MoM);Norway;NOK;1
+EUR_ItaIndustrialOutput;20151009;08:00;Industrial Output w.d.a (YoY);Italy;EUR;1
+NOK_ProducerPriceIndex;20151009;08:00;Producer Price Index (YoY);Norway;NOK;1
+EUR_SloForeignTradeBalance;20151009;07:00;Foreign Trade Balance;Slovakia;EUR;1
+CZK_ConsumerPriceIndex;20151009;07:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+EUR_SloIndustrialOutput;20151009;07:00;Industrial Output (YoY);Slovakia;EUR;1
+DKK_TradeBalance;20151009;07:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20151009;07:00;Current Account;Denmark;DKK;1
+EUR_AusTradeBalance;20151009;07:00;Trade Balance;Austria;EUR;1
+HUF_TradeBalance;20151009;07:00;Trade Balance;Hungary;HUF;1
+EUR_FraIndustrialOutput;20151009;06:45;Industrial Output (MoM);France;EUR;1
+EUR_FraBudget;20151009;06:45;Budget;France;EUR;1
+EUR_FinIndustrialOutput;20151009;06:00;Industrial Output (MoM);Finland;EUR;1
+AUD_RBAAnnualReport;20151009;05:00;RBA Annual Report;Australia;AUD;1
+AUD_InvestmentLendingforHomes;20151009;00:30;Investment Lending for Homes;Australia;AUD;2
+AUD_HomeLoans;20151009;00:30;Home Loans;Australia;AUD;2
+KRW_HangeulDay;20151009;00:00;Hangeul Day;South Korea;KRW;0

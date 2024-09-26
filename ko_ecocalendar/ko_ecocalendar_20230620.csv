@@ -1,0 +1,24 @@
+CNY_PBoCInterestRateDecision;20230620;01:15;PBoC Interest Rate Decision;China;CNY;3
+AUD_RBAMeetingMinutes;20230620;01:30;RBA Meeting Minutes;Australia;AUD;3
+AUD_CentralBankSpeech;20230620;03:30;RBA Bullock speech;Australia;AUD;2
+JPY_IndustrialProduction;20230620;04:30;Industrial Production (MoM);Japan;JPY;1
+JPY_CapacityUtilization;20230620;04:30;Capacity Utilization;Japan;JPY;1
+CHF_TradeBalance;20230620;06:00;Trade Balance;Switzerland;CHF;1
+CHF_Imports;20230620;06:00;Imports (MoM);Switzerland;CHF;1
+CHF_Exports;20230620;06:00;Exports (MoM);Switzerland;CHF;1
+EUR_GerProducerPriceIndex;20230620;06:00;Producer Price Index (YoY);Germany;EUR;1
+EUR_EurCurrentAccount;20230620;08:00;Current Account s.a;European Monetary Union;EUR;1
+EUR_EurConstructionOutput;20230620;09:00;Construction Output w.d.a (YoY);European Monetary Union;EUR;1
+MXN_RetailSales;20230620;12:00;Retail Sales (MoM);Mexico;MXN;1
+HUF_MNBInterestRateDecision;20230620;12:00;MNB Interest Rate Decision;Hungary;HUF;1
+USD_HousingStarts;20230620;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20230620;12:30;Building Permits (MoM);United States;USD;2
+USD_BuildingPermitsChange;20230620;12:30;Building Permits Change;United States;USD;1
+USD_HousingStartsChange;20230620;12:30;Housing Starts Change;United States;USD;1
+NZD_GDTPriceIndex;20230620;15:00;GDT Price Index;New Zealand;NZD;1
+USD_Auction;20230620;15:30;3-Month Bill Auction;United States;USD;1
+USD_CentralBankSpeech;20230620;15:45;Fed Williams speech;United States;USD;2
+EUR_EurCentralBankSpeech;20230620;17:10;ECB De Guindos speech;European Monetary Union;EUR;2
+KRW_ProducerPriceIndex;20230620;21:00;Producer Price Index Growth (YoY);South Korea;KRW;1
+NZD_WestpacConsumerSurvey;20230620;21:00;Westpac Consumer Survey;New Zealand;NZD;2
+JPY_BoJMonetaryPolicyMeetingMinutes;20230620;23:50;BoJ Monetary Policy Meeting Minutes;Japan;JPY;3

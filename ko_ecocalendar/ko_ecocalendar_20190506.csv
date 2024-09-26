@@ -1,0 +1,27 @@
+GBP_EarlyMay;20190506;00:00;Early May;United Kingdom;GBP;0
+JPY_ChildrenDay;20190506;00:00;Children Day (Observed);Japan;JPY;0
+NZD_ANZCommodityPrice;20190506;01:00;ANZ Commodity Price;New Zealand;NZD;1
+AUD_TDSecuritiesInflation;20190506;01:00;TD Securities Inflation (MoM);Australia;AUD;2
+AUD_ANZJobAdvertisements;20190506;01:30;ANZ Job Advertisements;Australia;AUD;1
+CNY_CaixinServicesPMI;20190506;01:45;Caixin Services PMI;China;CNY;2
+IDR_GrossDomesticProduct;20190506;04:00;Gross Domestic Product (YoY);Indonesia;IDR;1
+RUB_S&PGlobalServicesPMI;20190506;06:00;S&P Global Services PMI;Russia;RUB;1
+EUR_FraIndividualInvestment;20190506;06:45;Individual Investment (Current Year);France;EUR;1
+HUF_RetailSales;20190506;07:00;Retail Sales (YoY);Hungary;HUF;1
+EUR_ItaHCOBServicesPMI;20190506;07:45;HCOB Services PMI;Italy;EUR;1
+EUR_FraHCOBServicesPMI;20190506;07:50;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20190506;07:50;HCOB Composite PMI;France;EUR;1
+EUR_GerHCOBCompositePMI;20190506;07:55;HCOB Composite PMI;Germany;EUR;2
+EUR_GerHCOBServicesPMI;20190506;07:55;HCOB Services PMI;Germany;EUR;1
+EUR_EurHCOBServicesPMI;20190506;08:00;HCOB Services PMI;European Monetary Union;EUR;1
+EUR_EurHCOBCompositePMI;20190506;08:00;HCOB Composite PMI;European Monetary Union;EUR;2
+EUR_EurSentixInvestorConfidence;20190506;08:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+EUR_EurRetailSales;20190506;09:00;Retail Sales (YoY);European Monetary Union;EUR;2
+CLP_IMACEC;20190506;12:30;IMACEC;Chile;CLP;1
+MXN_ConsumerConfidence;20190506;13:00;Consumer Confidence;Mexico;MXN;1
+USD_CentralBankSpeech;20190506;14:00;Fed Williams speech;United States;USD;2
+EUR_EurCentralBankSpeech;20190506;15:00;ECB Praet speech;European Monetary Union;EUR;2
+USD_Auction;20190506;15:30;3-Month Bill Auction;United States;USD;1
+CAD_CentralBankSpeech;20190506;17:45;BoC Governor Poloz speech;Canada;CAD;3
+KRW_FXReserves;20190506;21:00;FX Reserves;South Korea;KRW;1
+AUD_AiGPerformanceofConstructionIndex;20190506;22:30;AiG Performance of Construction Index;Australia;AUD;2

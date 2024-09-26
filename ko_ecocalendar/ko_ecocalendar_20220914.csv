@@ -1,0 +1,33 @@
+AUD_HIANewHomeSales;20220914;02:10;HIA New Home Sales (MoM);Australia;AUD;2
+JPY_IndustrialProduction;20220914;04:30;Industrial Production (YoY);Japan;JPY;2
+JPY_CapacityUtilization;20220914;04:30;Capacity Utilization;Japan;JPY;1
+RON_IndustrialProduction;20220914;06:00;Industrial Production (MoM);Romania;RON;1
+GBP_RetailPriceIndex;20220914;06:00;Retail Price Index (YoY);United Kingdom;GBP;2
+SEK_ConsumerPriceIndex;20220914;06:00;Consumer Price Index (YoY);Sweden;SEK;1
+GBP_PPICoreOutput;20220914;06:00;PPI Core Output (YoY) n.s.a ;United Kingdom;GBP;2
+GBP_ProducerPriceIndex;20220914;06:00;Producer Price Index - Input (MoM) n.s.a;United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20220914;06:00;Core Consumer Price Index (YoY);United Kingdom;GBP;2
+INR_WPIInflation;20220914;06:30;WPI Inflation;India;INR;1
+HUF_IndustrialOutput;20220914;07:00;Industrial Output (YoY);Hungary;HUF;1
+GBP_DCLGHousePriceIndex;20220914;08:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+EUR_EurIndustrialProduction;20220914;09:00;Industrial Production s.a. (MoM);European Monetary Union;EUR;2
+EUR_GerAuction;20220914;09:30;30-y Bond Auction;Germany;EUR;1
+ILS_M1MoneySupply;20220914;10:00;M1 Money Supply (MoM);Israel;ILS;1
+ILS_TradeBalance;20220914;10:00;Trade Balance;Israel;ILS;1
+ILS_Exports;20220914;10:00;Exports;Israel;ILS;1
+ILS_Imports;20220914;10:00;Imports;Israel;ILS;1
+EUR_EurCentralBankSpeech;20220914;11:00;ECB Lane speech;European Monetary Union;EUR;2
+USD_MBAMortgageApplications;20220914;11:00;MBA Mortgage Applications;United States;USD;1
+ZAR_RetailSales;20220914;11:00;Retail Sales (YoY);South Africa;ZAR;1
+INR_TradeDeficitGovernment;20220914;11:30;Trade Deficit Government;India;INR;1
+BRL_RetailSales;20220914;12:00;Retail Sales (MoM);Brazil;BRL;1
+USD_ProducerPriceIndex;20220914;12:30;Producer Price Index (MoM);United States;USD;1
+CAD_ManufacturingSales;20220914;12:30;Manufacturing Sales (MoM);Canada;CAD;1
+USD_EIACrudeOilStocksChange;20220914;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+NZD_GrossDomesticProduct;20220914;22:45;Gross Domestic Product (QoQ);New Zealand;NZD;3
+JPY_AdjustedMerchandiseTradeBalance;20220914;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_MerchandiseTradeBalanceTotal;20220914;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Imports;20220914;23:50;Imports (YoY);Japan;JPY;2
+JPY_Exports;20220914;23:50;Exports (YoY);Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20220914;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20220914;23:50;Foreign Bond Investment;Japan;JPY;1

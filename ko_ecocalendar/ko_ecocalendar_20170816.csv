@@ -1,0 +1,32 @@
+AUD_WestpacLeadingIndex;20170816;00:30;Westpac Leading Index (MoM);Australia;AUD;1
+AUD_WagePriceIndex;20170816;01:30;Wage Price Index (YoY);Australia;AUD;1
+CNY_FDIForeignDirectInvestment;20170816;02:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+RON_GrossDomesticProduct;20170816;06:00;Gross Domestic Product;Romania;RON;1
+CZK_ProducerPriceIndex;20170816;07:00;Producer Price Index (YoY);Czech Republic;CZK;1
+CZK_GrossDomesticProduct;20170816;07:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+HUF_GrossDomesticProduct;20170816;07:00;Gross Domestic Product (YoY);Hungary;HUF;1
+PLN_GrossDomesticProduct;20170816;08:00;Gross Domestic Product Qtr (YoY);Poland;PLN;1
+EUR_ItaGrossDomesticProduct;20170816;08:00;Gross Domestic Product (YoY);Italy;EUR;2
+GBP_ClaimantCountChange;20170816;08:30;Claimant Count Change;United Kingdom;GBP;2
+GBP_ClaimantCountRate;20170816;08:30;Claimant Count Rate;United Kingdom;GBP;1
+GBP_ILOUnemploymentRate;20170816;08:30;ILO Unemployment Rate (3M);United Kingdom;GBP;2
+GBP_AverageEarningsExcludingBonus;20170816;08:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;1
+GBP_AverageEarningsIncludingBonus;20170816;08:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;1
+EUR_EurGrossDomesticProduct;20170816;09:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+USD_MBAMortgageApplications;20170816;11:00;MBA Mortgage Applications;United States;USD;1
+ZAR_RetailSales;20170816;11:00;Retail Sales (YoY);South Africa;ZAR;1
+USD_HousingStartsChange;20170816;12:30;Housing Starts Change;United States;USD;2
+USD_HousingStarts;20170816;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20170816;12:30;Building Permits (MoM);United States;USD;2
+USD_BuildingPermitsChange;20170816;12:30;Building Permits Change;United States;USD;2
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20170816;12:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20170816;12:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+USD_EIACrudeOilStocksChange;20170816;14:30;EIA Crude Oil Stocks Change;United States;USD;2
+USD_FOMCMinutes;20170816;18:00;FOMC Minutes;United States;USD;3
+NZD_ProducerPriceIndex;20170816;22:45;Producer Price Index - Output (QoQ);New Zealand;NZD;1
+JPY_Exports;20170816;23:50;Exports (YoY);Japan;JPY;2
+JPY_Imports;20170816;23:50;Imports (YoY);Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20170816;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;2
+JPY_MerchandiseTradeBalanceTotal;20170816;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20170816;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20170816;23:50;Foreign Bond Investment;Japan;JPY;2

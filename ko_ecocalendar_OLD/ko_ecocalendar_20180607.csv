@@ -1,0 +1,54 @@
+JPY_BankLending;20180607;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_GrossDomesticProduct;20180607;23:50;Gross Domestic Product (QoQ);Japan;JPY;1
+JPY_CurrentAccount;20180607;23:50;Current Account n.s.a.;Japan;JPY;1
+JPY_TradeBalanceBOPBasis;20180607;23:50;Trade Balance - BOP Basis;Japan;JPY;1
+PEN_Interestratedecision;20180607;22:00;Interest rate decision;Peru;PEN;1
+PEN_Tradebalance;20180607;20:00;Trade balance;Peru;PEN;1
+USD_ConsumerCreditChange;20180607;19:00;Consumer Credit Change;United States;USD;2
+CAD_CentralBankSpeech;20180607;15:15;BoC Governor Poloz speech;Canada;CAD;3
+GBP_CentralBankSpeech;20180607;15:00;BoE Ramsden speech;United Kingdom;GBP;2
+USD_EIANaturalGasStorageChange;20180607;14:30;EIA Natural Gas Storage Change;United States;USD;1
+TRY_TreasuryCashBalance;20180607;14:30;Treasury Cash Balance;Turkey;TRY;1
+CAD_FinancialSystemReview;20180607;14:30;Financial System Review;Canada;CAD;1
+MXN_12MonthInflation;20180607;13:00;12-Month Inflation;Mexico;MXN;1
+MXN_CoreInflation;20180607;13:00;Core Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20180607;13:00;Headline Inflation;Mexico;MXN;1
+RUB_CentralBankReserves;20180607;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_JoblessClaims;20180607;12:30;Initial Jobless Claims;United States;USD;2
+PLN_CentralBankFXReserves;20180607;12:00;Central Bank FX Reserves;Poland;PLN;1
+CLP_TradeBalance;20180607;11:30;Trade Balance;Chile;CLP;1
+TRY_CBRTInterestRateDecision;20180607;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+ZAR_ManufacturingProductionIndex;20180607;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+EUR_IreHICP;20180607;10:00;HICP (MoM);Ireland;EUR;1
+EUR_IreConsumerPriceIndex;20180607;10:00;Consumer Price Index (YoY);Ireland;EUR;1
+EUR_FraAuction;20180607;09:02;10-y Bond Auction;France;EUR;1
+EUR_SpaAuction;20180607;09:01;5-y Bond Auction;Spain;EUR;1
+EUR_EurGrossDomesticProduct;20180607;09:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+SGD_ForeignReserves;20180607;09:00;Foreign Reserves (MoM);Singapore;SGD;1
+EUR_GreUnemploymentRate;20180607;09:00;Unemployment Rate (MoM);Greece;EUR;1
+HUF_BudgetBalance;20180607;09:00;Budget Balance;Hungary;HUF;1
+EUR_ItaRetailSales;20180607;08:00;Retail Sales s.a. (MoM);Italy;EUR;1
+CNY_ForeignExchangeReserves;20180607;08:00;Foreign Exchange Reserves (MoM);China;CNY;1
+CZK_FXReserves;20180607;08:00;FX Reserves;Czech Republic;CZK;1
+GBP_HalifaxHousePrices;20180607;07:30;Halifax House Prices (3m/YoY);United Kingdom;GBP;1
+EUR_AusWholesalePrices;20180607;07:00;Wholesale Prices n.s.a (MoM);Austria;EUR;1
+CHF_ForeignCurrencyReserves;20180607;07:00;Foreign Currency Reserves;Switzerland;CHF;1
+EUR_SloGrossDomesticProduct;20180607;07:00;Gross Domestic Product Qtr Final (YoY);Slovakia;EUR;1
+EUR_FraTradeBalanceEUR;20180607;06:45;Trade Balance EUR;France;EUR;1
+EUR_FraImportsEUR;20180607;06:45;Imports, EUR;France;EUR;1
+EUR_FraExportsEUR;20180607;06:45;Exports, EUR;France;EUR;1
+EUR_FraCurrentAccount;20180607;06:45;Current Account;France;EUR;1
+RON_GrossDomesticProduct;20180607;06:00;Gross Domestic Product;Romania;RON;1
+EUR_FinTradeBalance;20180607;06:00;Trade Balance;Finland;EUR;1
+DKK_IndustrialProduction;20180607;06:00;Industrial Production (MoM);Denmark;DKK;1
+NOK_ManufacturingOutput;20180607;06:00;Manufacturing Output;Norway;NOK;1
+ZAR_Net$Gold&ForexReserve;20180607;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+ZAR_Gross$Gold&ForexReserve;20180607;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+EUR_GerFactoryOrders;20180607;06:00;Factory Orders s.a. (MoM);Germany;EUR;1
+CHF_UnemploymentRate;20180607;05:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+JPY_CoincidentIndex;20180607;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20180607;05:00;Leading Economic Index;Japan;JPY;2
+EUR_NetConsumerPriceIndex;20180607;04:30;Consumer Price Index n.s.a (YoY);Netherlands, The;EUR;1
+AUD_Imports;20180607;01:30;Imports;Australia;AUD;2
+AUD_TradeBalance;20180607;01:30;Trade Balance;Australia;AUD;2
+AUD_Exports;20180607;01:30;Exports;Australia;AUD;2

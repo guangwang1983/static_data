@@ -1,0 +1,48 @@
+AUD_CentralBankSpeech;20190305;22:10;RBA Governor Lowe speech;Australia;AUD;3
+USD_APIWeeklyCrudeOilStock;20190305;21:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_FXReserves;20190305;21:00;FX Reserves;South Korea;KRW;1
+USD_MonthlyBudgetStatement;20190305;19:00;Monthly Budget Statement;United States;USD;2
+NZD_GDTPriceIndex;20190305;17:15;GDT Price Index;New Zealand;NZD;2
+USD_CentralBankSpeech;20190305;16:30;Fed Barkin speech;United States;USD;1
+GBP_CentralBankSpeech;20190305;15:35;BoE Governor Carney speech;United Kingdom;GBP;3
+USD_IBDTIPPEconomicOptimism;20190305;15:07;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+USD_ISMNonManufacturingPMI;20190305;15:00;ISM Non-Manufacturing PMI;United States;USD;3
+USD_NewHomeSales;20190305;15:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20190305;15:00;New Home Sales Change (MoM);United States;USD;1
+USD_MarkitServicesPMI;20190305;14:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20190305;14:45;Markit PMI Composite;United States;USD;2
+MXN_ConsumerConfidence;20190305;14:00;Consumer Confidence s.a;Mexico;MXN;1
+USD_RedbookIndex;20190305;13:55;Redbook Index (MoM);United States;USD;1
+CLP_IMACEC;20190305;11:30;IMACEC;Chile;CLP;1
+EUR_EurRetailSales;20190305;10:00;Retail Sales (MoM);European Monetary Union;EUR;1
+EUR_SpaAuction;20190305;09:46;12-Month Letras Auction;Spain;EUR;1
+GBP_FPCStatement;20190305;09:30;FPC Statement;United Kingdom;GBP;1
+ZAR_GrossDomesticProduct;20190305;09:30;Gross Domestic Product (YoY);South Africa;ZAR;1
+GBP_MarkitServicesPMI;20190305;09:30;Markit Services PMI;United Kingdom;GBP;2
+CHF_CentralBankSpeech;20190305;09:00;SNB Zurbrugg speech;Switzerland;CHF;1
+EUR_ItaGrossDomesticProduct;20190305;09:00;Gross Domestic Product (YoY);Italy;EUR;2
+EUR_EurMarkitServicesPMI;20190305;09:00;Markit Services PMI;European Monetary Union;EUR;1
+EUR_EurMarkitPMIComposite;20190305;09:00;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_GerMarkitServicesPMI;20190305;08:55;Markit Services PMI;Germany;EUR;1
+EUR_GerMarkitPMIComposite;20190305;08:55;Markit PMI Composite;Germany;EUR;1
+EUR_FraMarkitServicesPMI;20190305;08:50;Markit Services PMI;France;EUR;1
+EUR_FraMarkitPMIComposite;20190305;08:50;Markit PMI Composite;France;EUR;1
+EUR_ItaMarkitServicesPMI;20190305;08:45;Markit Services PMI;Italy;EUR;1
+HKD_RetailSales;20190305;08:30;Retail Sales;Hong Kong SAR;HKD;1
+SEK_IndustrialProduction;20190305;08:30;Industrial Production (YoY);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20190305;08:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+EUR_SpaMarkitServicesPMI;20190305;08:15;Markit Services PMI;Spain;EUR;2
+HUF_RetailSales;20190305;08:00;Retail Sales (YoY);Hungary;HUF;1
+CHF_ConsumerPriceIndex;20190305;07:30;Consumer Price Index (YoY);Switzerland;CHF;2
+RUB_PurchasingManagerIndexServices;20190305;06:00;Purchasing Manager Index Services;Russia;RUB;1
+EUR_IrePurchasingManagerIndexServices;20190305;06:00;Purchasing Manager Index Services;Ireland;EUR;1
+AUD_RBAInterestRateDecision;20190305;03:30;RBA Interest Rate Decision;Australia;AUD;3
+AUD_RBARateStatement;20190305;03:30;RBA Rate Statement;Australia;AUD;3
+CNY_CaixinServicesPMI;20190305;01:45;Caixin Services PMI;China;CNY;2
+HKD_NikkeiManufacturingPMI;20190305;00:30;Nikkei Manufacturing PMI;Hong Kong SAR;HKD;1
+AUD_CurrentAccount;20190305;00:30;Current Account Balance;Australia;AUD;1
+JPY_MarkitServicesPMI;20190305;00:30;Markit Services PMI;Japan;JPY;1
+GBP_RetailSales;20190305;00:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+BRL_Carnival;20190305;00:00;Carnival;Brazil;BRL;0
+ARS_Carnival;20190305;00:00;Carnival;Argentina;ARS;0
+NZD_ANZCommodityPrice;20190305;00:00;ANZ Commodity Price;New Zealand;NZD;1

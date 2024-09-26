@@ -1,0 +1,47 @@
+AUD_WestpacLeadingIndex;20230816;00:30;Westpac Leading Index (MoM);Australia;AUD;1
+CNY_HousePriceIndex;20230816;01:30;House Price Index ;China;CNY;1
+NZD_RBNZRateStatement;20230816;02:00;RBNZ Rate Statement;New Zealand;NZD;3
+NZD_RBNZInterestRateDecision;20230816;02:00;RBNZ Interest Rate Decision;New Zealand;NZD;3
+NZD_MonetaryPolicyStatement;20230816;02:00;Monetary Policy Statement ;New Zealand;NZD;3
+NZD_RBNZPressConference;20230816;03:00;RBNZ Press Conference;New Zealand;NZD;3
+GBP_RetailPriceIndex;20230816;06:00;Retail Price Index (YoY);United Kingdom;GBP;2
+GBP_PPICoreOutput;20230816;06:00;PPI Core Output (YoY) n.s.a ;United Kingdom;GBP;2
+GBP_ProducerPriceIndex;20230816;06:00;Producer Price Index - Input (MoM) n.s.a;United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20230816;06:00;Core Consumer Price Index (YoY);United Kingdom;GBP;3
+RON_IndustrialProduction;20230816;06:00;Industrial Production (MoM);Romania;RON;1
+RON_GrossDomesticProduct;20230816;06:00;Gross Domestic Product;Romania;RON;1
+HUF_GrossDomesticProduct;20230816;07:00;Gross Domestic Product (YoY);Hungary;HUF;1
+CZK_ProducerPriceIndex;20230816;07:00;Producer Price Index (MoM);Czech Republic;CZK;1
+PLN_GrossDomesticProduct;20230816;08:00;Gross Domestic Product Qtr (YoY);Poland;PLN;1
+GBP_DCLGHousePriceIndex;20230816;08:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+EUR_EurGrossDomesticProduct;20230816;09:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+EUR_EurIndustrialProduction;20230816;09:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;1
+EUR_EurEmploymentChange;20230816;09:00;Employment Change (QoQ);European Monetary Union;EUR;2
+EUR_GerAuction;20230816;09:30;30-y Bond Auction;Germany;EUR;1
+ZAR_BusinessConfidenceIndex;20230816;09:30;Business Confidence Index;South Africa;ZAR;1
+ILS_GrossDomesticProduct;20230816;10:00;Gross Domestic Product (QoQ);Israel;ILS;1
+USD_MBAMortgageApplications;20230816;11:00;MBA Mortgage Applications;United States;USD;1
+ZAR_RetailSales;20230816;11:00;Retail Sales (YoY);South Africa;ZAR;1
+PLN_NetInflation;20230816;12:00;Net Inflation;Poland;PLN;1
+CAD_HousingStarts;20230816;12:15;Housing Starts s.a (YoY);Canada;CAD;1
+USD_BuildingPermitsChange;20230816;12:30;Building Permits Change;United States;USD;1
+USD_HousingStartsChange;20230816;12:30;Housing Starts Change;United States;USD;1
+USD_HousingStarts;20230816;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20230816;12:30;Building Permits (MoM);United States;USD;2
+CAD_WholesaleSales;20230816;12:30;Wholesale Sales (MoM);Canada;CAD;1
+USD_CapacityUtilization;20230816;13:15;Capacity Utilization;United States;USD;1
+USD_IndustrialProduction;20230816;13:15;Industrial Production (MoM);United States;USD;2
+USD_EIACrudeOilStocksChange;20230816;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+RUB_ProducerPriceIndex;20230816;16:00;Producer Price Index (YoY);Russia;RUB;1
+IDR_IndependenceDay;20230816;17:00;Independence Day;Indonesia;IDR;0
+USD_FOMCMinutes;20230816;18:00;FOMC Minutes;United States;USD;3
+KRW_ImportPriceGrowth;20230816;21:00;Import Price Growth (YoY);South Korea;KRW;1
+KRW_ExportPriceGrowth;20230816;21:00;Export Price Growth (YoY);South Korea;KRW;1
+NZD_ProducerPriceIndex;20230816;22:45;Producer Price Index - Input (QoQ);New Zealand;NZD;1
+JPY_Exports;20230816;23:50;Exports (YoY);Japan;JPY;2
+JPY_Imports;20230816;23:50;Imports (YoY);Japan;JPY;2
+JPY_MerchandiseTradeBalanceTotal;20230816;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20230816;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_ForeignBondInvestment;20230816;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20230816;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_MachineryOrders;20230816;23:50;Machinery Orders (MoM);Japan;JPY;1

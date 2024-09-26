@@ -1,0 +1,40 @@
+JPY_TankanLargeManufacturingOutlook;20181213;23:50;Tankan Large Manufacturing Outlook;Japan;JPY;2
+JPY_TankanLargeAllIndustryCapex;20181213;23:50;Tankan Large All Industry Capex;Japan;JPY;2
+JPY_TankanLargeManufacturingIndex;20181213;23:50;Tankan Large Manufacturing Index;Japan;JPY;2
+JPY_TankanNonManufacturingOutlook;20181213;23:50;Tankan Non - Manufacturing Outlook;Japan;JPY;1
+JPY_TankanNonManufacturingIndex;20181213;23:50;Tankan Non - Manufacturing Index;Japan;JPY;1
+NZD_BusinessNZPMI;20181213;21:30;Business NZ PMI;New Zealand;NZD;2
+ARS_ConsumerPriceIndex;20181213;19:00;Consumer Price Index (MoM);Argentina;ARS;1
+USD_MonthlyBudgetStatement;20181213;19:00;Monthly Budget Statement;United States;USD;2
+USD_Auction;20181213;18:00;30-Year Bond Auction;United States;USD;1
+USD_EIANaturalGasStorageChange;20181213;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_JoblessClaims;20181213;13:30;Initial Jobless Claims;United States;USD;2
+USD_ExportPriceIndex;20181213;13:30;Export Price Index (YoY);United States;USD;1
+USD_ImportPriceIndex;20181213;13:30;Import Price Index (MoM);United States;USD;1
+EUR_EurECBMonetaryPolicyStatementandPressConference;20181213;13:30;ECB Monetary Policy Statement and Press Conference;European Monetary Union;EUR;3
+CAD_NewHousingPriceIndex;20181213;13:30;New Housing Price Index (YoY);Canada;CAD;1
+RUB_CentralBankReserves;20181213;13:00;Central Bank Reserves $;Russia;RUB;1
+EUR_EurECBDepositRateDecision;20181213;12:45;ECB Deposit Rate Decision;European Monetary Union;EUR;3
+EUR_EurECBInterestRateDecision;20181213;12:45;ECB Interest Rate Decision;European Monetary Union;EUR;3
+RUB_BudgetFulfilment;20181213;12:00;Budget Fulfilment;Russia;RUB;1
+EUR_IreHICP;20181213;11:01;HICP (YoY);Ireland;EUR;1
+EUR_IreConsumerPriceIndex;20181213;11:01;Consumer Price Index (YoY);Ireland;EUR;1
+EUR_IreGrossDomesticProduct;20181213;11:00;Gross Domestic Product (YoY);Ireland;EUR;1
+TRY_CBRTInterestRateDecision;20181213;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+BRL_RetailSales;20181213;11:00;Retail Sales (MoM);Brazil;BRL;1
+ZAR_ProducerPriceIndex;20181213;09:30;Producer Price Index (MoM);South Africa;ZAR;1
+CHF_SNBPressConference;20181213;09:00;SNB Press Conference;Switzerland;CHF;3
+NOK_NorgesBankInterestRateDecision;20181213;09:00;Norges Bank Interest Rate Decision;Norway;NOK;1
+CHF_SNBInterestRateDecision;20181213;08:30;SNB Interest Rate Decision;Switzerland;CHF;3
+CHF_SNBMonetaryPolicyAssessment;20181213;08:30;SNB Monetary Policy Assessment;Switzerland;CHF;3
+SEK_UnemploymentRate;20181213;08:30;Unemployment Rate;Sweden;SEK;1
+CHF_ProducerandImportPrices;20181213;08:15;Producer and Import Prices (MoM);Switzerland;CHF;1
+EUR_FraConsumerPriceIndex;20181213;07:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+CNY_FDIForeignDirectInvestment;20181213;07:20;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+EUR_GerConsumerPriceIndex;20181213;07:00;Consumer Price Index (MoM);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20181213;07:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+SGD_Unemploymentrate;20181213;02:30;Unemployment rate;Singapore;SGD;1
+AUD_RBABulletin;20181213;00:30;RBA Bulletin;Australia;AUD;2
+GBP_RICSHousingPriceBalance;20181213;00:01;RICS Housing Price Balance;United Kingdom;GBP;1
+EUR_EurEUBrexitSummit;20181213;00:00;EU Brexit Summit;European Monetary Union;EUR;0
+AUD_ConsumerInflationExpectations;20181213;00:00;Consumer Inflation Expectations;Australia;AUD;2

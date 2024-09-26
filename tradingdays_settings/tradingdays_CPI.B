@@ -1,0 +1,1 @@
+USD_ConsumerPriceIndex 0

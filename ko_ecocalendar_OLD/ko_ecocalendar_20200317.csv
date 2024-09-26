@@ -1,0 +1,40 @@
+JPY_Imports;20200317;23:50;Imports (YoY);Japan;JPY;2
+JPY_Exports;20200317;23:50;Exports (YoY);Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20200317;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_MerchandiseTradeBalanceTotal;20200317;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+AUD_WestpacLeadingIndex;20200317;23:30;Westpac Leading Index (MoM);Australia;AUD;2
+AUD_CentralBankSpeech;20200317;23:00;RBA Ellis speech;Australia;AUD;2
+NZD_CurrentAccount;20200317;21:45;Current Account - GDP Ratio;New Zealand;NZD;1
+USD_APIWeeklyCrudeOilStock;20200317;20:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_WestpacConsumerSurvey;20200317;20:00;Westpac Consumer Survey;New Zealand;NZD;2
+NZD_GDTPriceIndex;20200317;15:20;GDT Price Index;New Zealand;NZD;2
+USD_JOLTSJobOpenings;20200317;14:00;JOLTS Job Openings;United States;USD;1
+USD_BusinessInventories;20200317;14:00;Business Inventories;United States;USD;1
+USD_NAHBHousingMarketIndex;20200317;14:00;NAHB Housing Market Index;United States;USD;1
+USD_IndustrialProduction;20200317;13:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20200317;13:15;Capacity Utilization;United States;USD;1
+RUB_IndustrialOutput;20200317;13:00;Industrial Output;Russia;RUB;1
+USD_RedbookIndex;20200317;12:55;Redbook Index (YoY);United States;USD;1
+USD_RetailSales;20200317;12:30;Retail Sales ex Autos (MoM);United States;USD;2
+CAD_ManufacturingSales;20200317;12:30;Manufacturing Sales (MoM);Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20200317;12:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20200317;12:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+GBP_Auction;20200317;10:30;30-y Bond Auction;United Kingdom;GBP;1
+EUR_EurLaborCost;20200317;10:00;Labor Cost;European Monetary Union;EUR;2
+EUR_EurConstructionOutput;20200317;10:00;Construction Output w.d.a (YoY);European Monetary Union;EUR;1
+EUR_GerZEWSurveyEconomicSentiment;20200317;10:00;ZEW Survey - Economic Sentiment;Germany;EUR;3
+EUR_EurZEWSurveyEconomicSentiment;20200317;10:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurveyCurrentSituation;20200317;10:00;ZEW Survey - Current Situation;Germany;EUR;2
+GBP_AverageEarningsExcludingBonus;20200317;09:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20200317;09:30;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_AverageEarningsIncludingBonus;20200317;09:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountRate;20200317;09:30;Claimant Count Rate;United Kingdom;GBP;1
+GBP_ClaimantCountChange;20200317;09:30;Claimant Count Change;United Kingdom;GBP;2
+HKD_Unemploymentrate;20200317;08:30;Unemployment rate;Hong Kong SAR;HKD;1
+EUR_EurEcoFinMeeting;20200317;07:00;EcoFin Meeting;European Monetary Union;EUR;2
+CHF_SECOEconomicForecasts;20200317;06:45;SECO Economic Forecasts;Switzerland;CHF;1
+JPY_IndustrialProduction;20200317;04:30;Industrial Production (YoY);Japan;JPY;2
+JPY_CapacityUtilization;20200317;04:30;Capacity Utilization;Japan;JPY;1
+KRW_MoneySupplyGrowth;20200317;03:00;Money Supply Growth;South Korea;KRW;1
+AUD_HousePriceIndex;20200317;00:30;House Price Index (QoQ);Australia;AUD;2
+AUD_RBAMeetingMinutes;20200317;00:30;RBA Meeting Minutes;Australia;AUD;3

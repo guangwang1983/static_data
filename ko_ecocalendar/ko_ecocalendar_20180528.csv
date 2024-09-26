@@ -1,0 +1,9 @@
+GBP_SpringBankHoliday;20180528;00:00;Spring Bank Holiday;United Kingdom;GBP;0
+USD_MemorialDay;20180528;05:00;Memorial Day;United States;USD;0
+SEK_RetailSales;20180528;07:30;Retail Sales (MoM);Sweden;SEK;1
+SEK_TradeBalance;20180528;07:30;Trade Balance (MoM);Sweden;SEK;1
+EUR_ItaProducerPriceIndex;20180528;08:09;Producer Price Index (YoY);Italy;EUR;1
+MXN_JoblessRate;20180528;14:00;Jobless Rate;Mexico;MXN;1
+KRW_ConsumerSentimentIndex;20180528;21:00;Consumer Sentiment Index;South Korea;KRW;1
+JPY_JobsApplicantsRatio;20180528;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+JPY_UnemploymentRate;20180528;23:30;Unemployment Rate;Japan;JPY;2

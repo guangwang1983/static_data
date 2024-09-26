@@ -1,0 +1,31 @@
+KRW_BoKInterestRateDecision;20240711;01:00;BoK Interest Rate Decision;South Korea;KRW;2
+AUD_ConsumerInflationExpectations;20240711;01:00;Consumer Inflation Expectations;Australia;AUD;2
+EUR_GerConsumerPriceIndex;20240711;06:00;Consumer Price Index (YoY);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20240711;06:00;Harmonized Index of Consumer Prices (MoM);Germany;EUR;2
+GBP_ManufacturingProduction;20240711;06:00;Manufacturing Production (MoM);United Kingdom;GBP;2
+GBP_IndustrialProduction;20240711;06:00;Industrial Production (MoM);United Kingdom;GBP;2
+GBP_IndexofServices;20240711;06:00;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20240711;06:00;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20240711;06:00;Total Trade Balance;United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20240711;06:00;Goods Trade Balance;United Kingdom;GBP;1
+GBP_GrossDomesticProduct;20240711;06:00;Gross Domestic Product (MoM);United Kingdom;GBP;2
+RON_ConsumerPriceIndex;20240711;06:00;Consumer Price Index;Romania;RON;1
+EUR_FraCurrentAccount;20240711;06:45;Current Account;France;EUR;1
+EUR_EurEurogroupMeeting;20240711;07:00;Eurogroup Meeting;Eurozone;EUR;2
+GBP_BoECreditConditionsSurvey;20240711;08:30;BoE Credit Conditions Survey;United Kingdom;GBP;1
+CNY_M2MoneySupply;20240711;10:00;M2 Money Supply (YoY);China;CNY;1
+CNY_NewLoans;20240711;10:00;New Loans;China;CNY;1
+ZAR_ManufacturingProductionIndex;20240711;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+GBP_NIESRGDPEstimate;20240711;11:00;NIESR GDP Estimate (3M);United Kingdom;GBP;1
+ILS_BudgetBalanceILS;20240711;11:00;Budget Balance - ILS;Israel;ILS;1
+ILS_M1MoneySupply;20240711;11:00;M1 Money Supply (YoY);Israel;ILS;1
+BRL_RetailSales;20240711;12:00;Retail Sales (MoM);Brazil;BRL;1
+USD_JoblessClaims;20240711;12:30;Initial Jobless Claims;United States;USD;2
+USD_ConsumerPriceIndex;20240711;12:30;Consumer Price Index n.s.a (MoM);United States;USD;1
+RUB_CentralBankReserves;20240711;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_EIANaturalGasStorageChange;20240711;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_CentralBankSpeech;20240711;15:30;Fed Bostic speech;United States;USD;1
+USD_Auction;20240711;17:00;30-Year Bond Auction;United States;USD;1
+USD_MonthlyBudgetStatement;20240711;18:00;Monthly Budget Statement;United States;USD;2
+NZD_BusinessNZPMI;20240711;22:30;Business NZ PMI;New Zealand;NZD;2
+NZD_RetailSales;20240711;22:45;Electronic Card Retail Sales (YoY);New Zealand;NZD;1

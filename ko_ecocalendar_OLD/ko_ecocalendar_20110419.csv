@@ -1,0 +1,24 @@
+JPY_MerchandiseTradeBalanceTotal;20110419;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20110419;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_TertiaryIndustryIndex;20110419;23:50;Tertiary Industry Index (MoM);Japan;JPY;1
+BRL_UnemploymentRate;20110419;12:30;Unemployment Rate;Brazil;BRL;1
+USD_HousingStarts;20110419;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20110419;12:30;Building Permits (MoM);United States;USD;1
+CAD_WholesaleSales;20110419;12:30;Wholesale Sales (MoM);Canada;CAD;1
+CAD_LeadingIndicators;20110419;12:30;Leading Indicators (MoM);Canada;CAD;2
+PLN_IndustrialOutput;20110419;12:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20110419;12:00;Producer Price Index (YoY);Poland;PLN;1
+CAD_ConsumerPriceIndex;20110419;11:00;Consumer Price Index (MoM);Canada;CAD;3
+EUR_EurConsumerConfidence;20110419;09:30;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurConstructionOutput;20110419;09:00;Construction Output  s.a (MoM);European Monetary Union;EUR;1
+EUR_EurCurrentAccount;20110419;08:00;Current Account s.a;European Monetary Union;EUR;1
+EUR_EurMarkitServicesPMI;20110419;08:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_EurMarkitManufacturingPMI;20110419;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_GerMarkitServicesPMI;20110419;07:30;Markit Services PMI;Germany;EUR;2
+EUR_GerMarkitManufacturingPMI;20110419;07:30;Markit Manufacturing PMI;Germany;EUR;2
+HUF_GrossWages;20110419;07:00;Gross Wages (YoY);Hungary;HUF;1
+JPY_ConsumerConfidenceIndex;20110419;05:00;Consumer Confidence Index;Japan;JPY;2
+CNY_CaixinManufacturingPMI;20110419;02:30;Caixin Manufacturing PMI;China;CNY;1
+CNY_FDIForeignDirectInvestment;20110419;01:43;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;1
+AUD_RBAMeetingMinutes;20110419;01:30;RBA Meeting Minutes;Australia;AUD;3
+RUB_UnemploymentRate;20110419;00:00;Unemployment Rate;Russia;RUB;1

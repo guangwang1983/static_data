@@ -1,0 +1,30 @@
+JPY_JibunBankServicesPMI;20230905;00:30;Jibun Bank Services PMI;Japan;JPY;1
+NZD_ANZCommodityPrice;20230905;01:00;ANZ Commodity Price;New Zealand;NZD;1
+AUD_CurrentAccount;20230905;01:30;Current Account Balance;Australia;AUD;1
+CNY_CaixinServicesPMI;20230905;01:45;Caixin Services PMI;China;CNY;3
+JPY_Auction;20230905;03:35;10-y Bond Auction;Japan;JPY;1
+AUD_RBARateStatement;20230905;04:30;RBA Rate Statement;Australia;AUD;3
+AUD_RBAInterestRateDecision;20230905;04:30;RBA Interest Rate Decision;Australia;AUD;3
+RUB_S&PGlobalServicesPMI;20230905;06:00;S&P Global Services PMI;Russia;RUB;1
+EUR_ItaHCOBServicesPMI;20230905;07:45;HCOB Services PMI;Italy;EUR;2
+EUR_FraHCOBCompositePMI;20230905;07:50;HCOB Composite PMI;France;EUR;1
+EUR_FraHCOBServicesPMI;20230905;07:50;HCOB Services PMI;France;EUR;1
+EUR_GerHCOBCompositePMI;20230905;07:55;HCOB Composite PMI;Germany;EUR;2
+EUR_GerHCOBServicesPMI;20230905;07:55;HCOB Services PMI;Germany;EUR;2
+EUR_EurCentralBankSpeech;20230905;08:00;ECB President Lagarde speech;European Monetary Union;EUR;3
+EUR_EurHCOBServicesPMI;20230905;08:00;HCOB Services PMI;European Monetary Union;EUR;1
+EUR_EurHCOBCompositePMI;20230905;08:00;HCOB Composite PMI;European Monetary Union;EUR;2
+GBP_S&PGlobalCIPSServicesPMI;20230905;08:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;1
+GBP_S&PGlobalCIPSCompositePMI;20230905;08:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;1
+EUR_EurProducerPriceIndex;20230905;09:00;Producer Price Index (YoY);European Monetary Union;EUR;2
+ZAR_GrossDomesticProduct;20230905;09:30;Gross Domestic Product (YoY);South Africa;ZAR;1
+BRL_IndustrialOutput;20230905;12:00;Industrial Output (YoY);Brazil;BRL;1
+MXN_ConsumerConfidence;20230905;12:00;Consumer Confidence s.a;Mexico;MXN;1
+USD_RedbookIndex;20230905;12:55;Redbook Index (YoY);United States;USD;1
+USD_FactoryOrders;20230905;14:00;Factory Orders (MoM);United States;USD;2
+USD_IBDTIPPEconomicOptimism;20230905;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+NZD_GDTPriceIndex;20230905;15:00;GDT Price Index;New Zealand;NZD;1
+USD_Auction;20230905;15:30;52-Week Bill Auction;United States;USD;1
+USD_TotalVehicleSales;20230905;19:30;Total Vehicle Sales;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20230905;20:30;API Weekly Crude Oil Stock;United States;USD;1
+CLP_BCCHInterestRate;20230905;21:00;BCCH Interest Rate;Chile;CLP;1

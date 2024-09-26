@@ -1,0 +1,29 @@
+JPY_JibunBankServicesPMI;20210705;00:30;Jibun Bank Services PMI;Japan;JPY;1
+NZD_ANZCommodityPrice;20210705;01:00;ANZ Commodity Price;New Zealand;NZD;1
+AUD_ANZJobAdvertisements;20210705;01:30;ANZ Job Advertisements;Australia;AUD;1
+AUD_RetailSales;20210705;01:30;Retail Sales s.a. (MoM);Australia;AUD;3
+AUD_BuildingPermits;20210705;01:30;Building Permits (YoY);Australia;AUD;1
+CNY_CaixinServicesPMI;20210705;01:45;Caixin Services PMI;China;CNY;2
+COP_SaintPeterandSaintPaul;20210705;05:00;Saint Peter and Saint Paul;Colombia;COP;0
+RUB_S&PGlobalServicesPMI;20210705;06:00;S&P Global Services PMI;Russia;RUB;1
+EUR_FraIndustrialOutput;20210705;06:45;Industrial Output (MoM);France;EUR;1
+TRY_ProducerPriceIndex;20210705;07:00;Producer Price Index (MoM);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20210705;07:00;Consumer Price Index (MoM);Turkey;TRY;1
+EUR_ItaHCOBServicesPMI;20210705;07:45;HCOB Services PMI;Italy;EUR;2
+EUR_FraHCOBServicesPMI;20210705;07:50;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20210705;07:50;HCOB Composite PMI;France;EUR;1
+EUR_GerHCOBCompositePMI;20210705;07:55;HCOB Composite PMI;Germany;EUR;2
+EUR_GerHCOBServicesPMI;20210705;07:55;HCOB Services PMI;Germany;EUR;1
+EUR_EurHCOBServicesPMI;20210705;08:00;HCOB Services PMI;European Monetary Union;EUR;1
+EUR_EurHCOBCompositePMI;20210705;08:00;HCOB Composite PMI;European Monetary Union;EUR;2
+EUR_EurSentixInvestorConfidence;20210705;08:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+GBP_S&PGlobalCIPSServicesPMI;20210705;08:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;1
+GBP_S&PGlobalCIPSCompositePMI;20210705;08:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;2
+MXN_ConsumerConfidence;20210705;11:00;Consumer Confidence;Mexico;MXN;1
+ILS_BoIInterestRateDecision;20210705;13:00;BoI Interest Rate Decision;Israel;ILS;1
+CAD_BankofCanadaBusinessOutlookSurvey;20210705;14:30;Bank of Canada Business Outlook Survey;Canada;CAD;2
+EUR_EurCentralBankSpeech;20210705;17:00;ECB De Guindos speech;European Monetary Union;EUR;2
+NZD_NZIERBusinessConfidence;20210705;22:00;NZIER Business Confidence (QoQ);New Zealand;NZD;2
+CZK_JanHusDay;20210705;22:00;Jan Hus Day ;Czech Republic;CZK;0
+JPY_LaborCashEarnings;20210705;23:30;Labor Cash Earnings (YoY);Japan;JPY;1
+JPY_OverallHouseholdSpending;20210705;23:30;Overall Household Spending (YoY);Japan;JPY;2

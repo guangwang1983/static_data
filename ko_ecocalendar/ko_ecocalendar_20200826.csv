@@ -1,0 +1,20 @@
+AUD_ConstructionWorkDone;20200826;01:30;Construction Work Done;Australia;AUD;1
+JPY_CoincidentIndex;20200826;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20200826;05:00;Leading Economic Index;Japan;JPY;2
+DKK_RetailSales;20200826;06:00;Retail Sales (YoY);Denmark;DKK;1
+NOK_LabourForceSurvey;20200826;06:00;Labour Force Survey;Norway;NOK;1
+EUR_FraConsumerConfidence;20200826;06:45;Consumer Confidence;France;EUR;1
+CHF_ZEWSurvey–Expectations;20200826;08:00;ZEW Survey – Expectations;Switzerland;CHF;2
+ZAR_ConsumerPriceIndex;20200826;08:00;Consumer Price Index (YoY);South Africa;ZAR;1
+GBP_Auction;20200826;09:30;10-y Bond Auction;United Kingdom;GBP;1
+MXN_GrossDomesticProduct;20200826;11:00;Gross Domestic Product (QoQ);Mexico;MXN;1
+USD_MBAMortgageApplications;20200826;11:00;MBA Mortgage Applications;United States;USD;1
+EUR_EurCentralBankSpeech;20200826;11:30;ECB Schnabel speech;European Monetary Union;EUR;2
+USD_DurableGoodsOrders;20200826;12:30;Durable Goods Orders ex Transportation;United States;USD;2
+USD_NondefenseCapitalGoodsOrdersexAircraft;20200826;12:30;Nondefense Capital Goods Orders ex Aircraft;United States;USD;3
+CAD_CentralBankSpeech;20200826;14:00;BoC Wilkins speech;Canada;CAD;2
+USD_EIACrudeOilStocksChange;20200826;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+GBP_CentralBankSpeech;20200826;16:00;BoE Haldane speech;United Kingdom;GBP;2
+USD_Auction;20200826;17:00;5-Year Note Auction;United States;USD;1
+JPY_ForeignInvestmentinJapanStocks;20200826;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20200826;23:50;Foreign Bond Investment;Japan;JPY;1

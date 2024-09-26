@@ -1,0 +1,41 @@
+CLP_BCCHInterestRate;20170119;21:00;BCCH Interest Rate;Chile;CLP;1
+USD_EIACrudeOilStocksChange;20170119;16:00;EIA Crude Oil Stocks Change;United States;USD;1
+USD_EIANaturalGasStorageChange;20170119;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_HousingStarts;20170119;13:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermitsChange;20170119;13:30;Building Permits Change;United States;USD;2
+USD_HousingStartsChange;20170119;13:30;Housing Starts Change;United States;USD;2
+USD_BuildingPermits;20170119;13:30;Building Permits (MoM);United States;USD;2
+USD_JoblessClaims;20170119;13:30;Initial Jobless Claims;United States;USD;2
+CAD_ManufacturingShipments;20170119;13:30;Manufacturing Shipments (MoM);Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20170119;13:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20170119;13:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+EUR_EurECBMonetaryPolicyStatementandPressConference;20170119;13:30;ECB Monetary Policy Statement and Press Conference;European Monetary Union;EUR;3
+USD_PhiladelphiaFedManufacturingSurvey;20170119;13:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+PLN_RetailSales;20170119;13:00;Retail Sales (YoY);Poland;PLN;1
+PLN_IndustrialOutput;20170119;13:00;Industrial Output (YoY);Poland;PLN;1
+RUB_CentralBankReserves;20170119;13:00;Central Bank Reserves $;Russia;RUB;1
+PLN_ProducerPriceIndex;20170119;13:00;Producer Price Index (YoY);Poland;PLN;1
+EUR_PorCurrentAccount;20170119;12:50;Current Account Balance;Portugal;EUR;1
+EUR_EurECBDepositRateDecision;20170119;12:45;ECB Deposit Rate Decision;European Monetary Union;EUR;3
+EUR_EurECBInterestRateDecision;20170119;12:45;ECB Interest Rate Decision;European Monetary Union;EUR;3
+EUR_NetUnemploymentRate;20170119;11:30;Unemployment Rate s.a (3M);Netherlands, The;EUR;1
+EUR_IreHICP;20170119;11:00;HICP (YoY);Ireland;EUR;1
+EUR_IreConsumerPriceIndex;20170119;11:00;Consumer Price Index (YoY);Ireland;EUR;1
+BRL_MidmonthInflation;20170119;11:00;Mid-month Inflation;Brazil;BRL;1
+EUR_SpaAuction;20170119;10:40;5-y Bond Auction;Spain;EUR;1
+EUR_EurCurrentAccount;20170119;09:00;Current Account n.s.a;European Monetary Union;EUR;1
+HKD_Unemploymentrate;20170119;08:30;Unemployment rate;Hong Kong SAR;HKD;1
+CHF_ProducerandImportPrices;20170119;08:15;Producer and Import Prices (MoM);Switzerland;CHF;1
+IDR_BankIndonesiaRate;20170119;07:00;Bank Indonesia Rate;Indonesia;IDR;1
+EUR_SpaTradeBalance;20170119;07:00;Trade Balance;Spain;EUR;1
+EUR_NetConsumerConfidenceAdj;20170119;05:30;Consumer Confidence Adj;Netherlands, The;EUR;1
+EUR_NetConsumerSpendingVolume;20170119;05:30;Consumer Spending Volume;Netherlands, The;EUR;1
+AUD_RBAForeignExchangeTransaction;20170119;00:30;RBA Foreign Exchange Transaction;Australia;AUD;1
+AUD_PartTimeEmployment;20170119;00:30;Part-Time Employment;Australia;AUD;2
+AUD_UnemploymentRate;20170119;00:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_FulltimeEmployment;20170119;00:30;Fulltime Employment;Australia;AUD;2
+AUD_EmploymentChange;20170119;00:30;Employment Change s.a.;Australia;AUD;3
+AUD_ParticipationRate;20170119;00:30;Participation Rate;Australia;AUD;1
+GBP_RICSHousingPriceBalance;20170119;00:01;RICS Housing Price Balance;United Kingdom;GBP;2
+CHF_WorldEconomicForumDavos;20170119;00:00;World Economic Forum - Davos;Switzerland;CHF;2
+AUD_ConsumerInflationExpectations;20170119;00:00;Consumer Inflation Expectations;Australia;AUD;2

@@ -1,0 +1,28 @@
+INR_HSBCCompositePMI;20240923;05:00;HSBC Composite PMI;India;INR;2
+INR_HSBCServicesPMI;20240923;05:00;HSBC Services PMI;India;INR;2
+INR_HSBCManufacturingPMI;20240923;05:00;HSBC Manufacturing PMI;India;INR;2
+HUF_GrossWages;20240923;06:30;Gross Wages (YoY);Hungary;HUF;1
+EUR_FraHCOBManufacturingPMIPreliminar;20240923;07:15;HCOB Manufacturing PMI;France;EUR;2
+EUR_FraHCOBServicesPMI;20240923;07:15;HCOB Services PMI;France;EUR;2
+EUR_FraHCOBCompositePMI;20240923;07:15;HCOB Composite PMI;France;EUR;2
+EUR_GerHCOBServicesPMI;20240923;07:30;HCOB Services PMI;Germany;EUR;3
+EUR_GerHCOBManufacturingPMIPreliminar;20240923;07:30;HCOB Manufacturing PMI;Germany;EUR;3
+EUR_GerHCOBCompositePMI;20240923;07:30;HCOB Composite PMI;Germany;EUR;3
+PLN_RetailSales;20240923;08:00;Retail Sales (YoY);Poland;PLN;1
+EUR_EurHCOBCompositePMI;20240923;08:00;HCOB Composite PMI;Eurozone;EUR;3
+EUR_EurHCOBServicesPMI;20240923;08:00;HCOB Services PMI;Eurozone;EUR;3
+EUR_EurHCOBManufacturingPMIPreliminar;20240923;08:00;HCOB Manufacturing PMI;Eurozone;EUR;3
+GBP_S&PGlobalCIPSManufacturingPMIPreliminar;20240923;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;3
+GBP_S&PGlobalCIPSServicesPMI;20240923;08:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;3
+GBP_S&PGlobalCIPSCompositePMI;20240923;08:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;3
+ILS_IndustrialProduction;20240923;10:00;Industrial Production (MoM);Israel;ILS;1
+PLN_M3MoneySupply;20240923;12:00;M3 Money Supply (YoY);Poland;PLN;1
+MXN_RetailSales;20240923;12:00;Retail Sales (MoM);Mexico;MXN;1
+CAD_NewHousingPriceIndex;20240923;12:30;New Housing Price Index (YoY);Canada;CAD;1
+USD_S&PGlobalCompositePMI;20240923;13:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20240923;13:45;S&P Global Services PMI;United States;USD;3
+USD_S&PGlobalManufacturingPMI;20240923;13:45;S&P Global Manufacturing PMI;United States;USD;3
+USD_Auction;20240923;15:30;3-Month Bill Auction;United States;USD;1
+USD_CentralBankSpeech;20240923;17:00;Fed Kashkari speech;United States;USD;2
+KRW_ProducerPriceIndex;20240923;21:00;Producer Price Index Growth (YoY);South Korea;KRW;1
+ZAR_HeritageDay;20240923;22:00;Heritage Day;South Africa;ZAR;0

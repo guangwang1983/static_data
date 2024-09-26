@@ -1,0 +1,35 @@
+JPY_JibunBankServicesPMI;20220405;00:30;Jibun Bank Services PMI;Japan;JPY;1
+JPY_Auction;20220405;03:35;10-y Bond Auction;Japan;JPY;1
+AUD_RBAInterestRateDecision;20220405;04:30;RBA Interest Rate Decision;Australia;AUD;3
+AUD_RBARateStatement;20220405;04:30;RBA Rate Statement;Australia;AUD;3
+RUB_S&PGlobalServicesPMI;20220405;06:00;S&P Global Services PMI;Russia;RUB;1
+EUR_FraIndustrialOutput;20220405;06:45;Industrial Output (MoM);France;EUR;1
+HUF_IndustrialOutput;20220405;07:00;Industrial Output (YoY);Hungary;HUF;1
+CZK_RetailSales;20220405;07:00;Retail Sales (YoY);Czech Republic;CZK;1
+EUR_EurEcoFinMeeting;20220405;07:00;EcoFin Meeting;European Monetary Union;EUR;2
+EUR_ItaHCOBServicesPMI;20220405;07:45;HCOB Services PMI;Italy;EUR;2
+EUR_FraHCOBServicesPMI;20220405;07:50;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20220405;07:50;HCOB Composite PMI;France;EUR;1
+EUR_GerHCOBServicesPMI;20220405;07:55;HCOB Services PMI;Germany;EUR;1
+EUR_GerHCOBCompositePMI;20220405;07:55;HCOB Composite PMI;Germany;EUR;2
+EUR_ItaPublicDeficitGDP;20220405;08:00;Public Deficit/GDP;Italy;EUR;1
+EUR_EurHCOBServicesPMI;20220405;08:00;HCOB Services PMI;European Monetary Union;EUR;1
+EUR_EurHCOBCompositePMI;20220405;08:00;HCOB Composite PMI;European Monetary Union;EUR;2
+GBP_S&PGlobalCIPSCompositePMI;20220405;08:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSServicesPMI;20220405;08:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;1
+RON_Interestratedecision;20220405;12:00;Interest rate decision;Romania;RON;1
+USD_GoodsandServicesTradeBalance;20220405;12:30;Goods and Services Trade Balance;United States;USD;2
+USD_GoodsTradeBalance;20220405;12:30;Goods Trade Balance;United States;USD;1
+CAD_InternationalMerchandiseTrade;20220405;12:30;International Merchandise Trade;Canada;CAD;2
+CAD_Imports;20220405;12:30;Imports;Canada;CAD;1
+CAD_Exports;20220405;12:30;Exports;Canada;CAD;1
+USD_RedbookIndex;20220405;12:55;Redbook Index (YoY);United States;USD;1
+USD_S&PGlobalCompositePMI;20220405;13:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20220405;13:45;S&P Global Services PMI;United States;USD;2
+USD_ISMServicesPricesPaid;20220405;14:00;ISM Services Prices Paid;United States;USD;2
+USD_ISMServicesEmploymentIndex;20220405;14:00;ISM Services Employment Index;United States;USD;2
+USD_ISMServicesNewOrdersIndex;20220405;14:00;ISM Services New Orders Index;United States;USD;2
+USD_ISMServicesPMI;20220405;14:00;ISM Services PMI;United States;USD;3
+NZD_GDTPriceIndex;20220405;15:40;GDT Price Index;New Zealand;NZD;1
+USD_CentralBankSpeech;20220405;18:00;Fed Williams speech;United States;USD;2
+USD_APIWeeklyCrudeOilStock;20220405;20:30;API Weekly Crude Oil Stock;United States;USD;1

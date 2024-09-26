@@ -1,0 +1,28 @@
+CNY_HousePriceIndex;20200615;01:30;House Price Index ;China;CNY;1
+CNY_RetailSales;20200615;02:00;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20200615;02:00;Industrial Production (YoY);China;CNY;2
+CNY_NBSPressConference;20200615;02:00;NBS Press Conference;China;CNY;2
+CNY_FixedAssetInvestment;20200615;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+KRW_TradeBalance;20200615;02:00;Trade Balance;South Korea;KRW;1
+IDR_Imports;20200615;04:00;Imports;Indonesia;IDR;1
+IDR_Exports;20200615;04:00;Exports;Indonesia;IDR;1
+IDR_TradeBalance;20200615;04:00;Trade Balance;Indonesia;IDR;1
+JPY_TertiaryIndustryIndex;20200615;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+COP_CorpusChristi;20200615;05:00;Corpus Christi;Colombia;COP;0
+NOK_TradeBalance;20200615;06:00;Trade Balance;Norway;NOK;1
+CHF_ProducerandImportPrices;20200615;06:30;Producer and Import Prices (MoM);Switzerland;CHF;1
+INR_WPIInflation;20200615;06:30;WPI Inflation;India;INR;1
+TRY_BudgetBalance;20200615;08:00;Budget Balance;Turkey;TRY;1
+EUR_ItaConsumerPriceIndex;20200615;08:00;Consumer Price Index (YoY);Italy;EUR;1
+CZK_CurrentAccount;20200615;08:00;Current Account (MoM);Czech Republic;CZK;1
+EUR_EurTradeBalance;20200615;09:00;Trade Balance n.s.a.;European Monetary Union;EUR;1
+PLN_CurrentAccount;20200615;12:00;Current Account;Poland;PLN;1
+INR_TradeDeficitGovernment;20200615;12:00;Trade Deficit Government;India;INR;1
+USD_NYEmpireStateManufacturingIndex;20200615;12:30;NY Empire State Manufacturing Index;United States;USD;1
+CAD_ManufacturingSales;20200615;12:30;Manufacturing Sales (MoM);Canada;CAD;1
+USD_Auction;20200615;15:30;3-Month Bill Auction;United States;USD;1
+ILS_ConsumerPriceIndex;20200615;15:30;Consumer Price Index (MoM);Israel;ILS;1
+USD_TotalNetTICFlows;20200615;20:00;Total Net TIC Flows;United States;USD;1
+USD_NetLongTermTICFlows;20200615;20:00;Net Long-Term TIC Flows;United States;USD;1
+NZD_WestpacConsumerSurvey;20200615;21:00;Westpac Consumer Survey;New Zealand;NZD;2
+ZAR_YouthDay;20200615;22:00;Youth Day;South Africa;ZAR;0

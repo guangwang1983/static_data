@@ -1,0 +1,21 @@
+JPY_DomesticCorporateGoodsPriceIndex;20110309;23:50;Domestic Corporate Goods Price Index (YoY);Japan;JPY;1
+JPY_GrossDomesticProduct;20110309;23:50;Gross Domestic Product (QoQ);Japan;JPY;2
+NZD_RBNZInterestRateDecision;20110309;20:00;RBNZ Interest Rate Decision;New Zealand;NZD;3
+USD_CentralBankSpeech;20110309;18:30;Treasury Geithner speech;United States;USD;2
+USD_EIACrudeOilStocksChange;20110309;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_WholesaleInventories;20110309;15:00;Wholesale Inventories;United States;USD;1
+AUD_CentralBankSpeech;20110309;13:45;RBA Governor Stevens speech;Australia;AUD;2
+CAD_NewHousingPriceIndex;20110309;13:30;New Housing Price Index (MoM);Canada;CAD;1
+USD_MBAMortgageApplications;20110309;12:00;MBA Mortgage Applications;United States;USD;1
+EUR_GerIndustrialProduction;20110309;11:00;Industrial Production s.a. (MoM);Germany;EUR;2
+GBP_GoodsTradeBalance;20110309;09:30;Goods Trade Balance;United Kingdom;GBP;2
+GBP_TradeBalancenonEU;20110309;09:30;Trade Balance non-EU;United Kingdom;GBP;1
+SEK_IndustrialProduction;20110309;08:30;Industrial Production (YoY);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20110309;08:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+CHF_ConsumerPriceIndex;20110309;08:15;Consumer Price Index (YoY);Switzerland;CHF;2
+CZK_ConsumerPriceIndex;20110309;08:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+RON_IndustrialProduction;20110309;08:00;Industrial Production (MoM);Romania;RON;1
+CZK_ForeignTradeBalance;20110309;08:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+AUD_InvestmentLendingforHomes;20110309;00:30;Investment Lending for Homes;Australia;AUD;1
+AUD_HomeLoans;20110309;00:30;Home Loans;Australia;AUD;2
+GBP_BRCShopPriceIndex;20110309;00:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1

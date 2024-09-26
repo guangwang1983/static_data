@@ -1,0 +1,38 @@
+SHELL=/bin/bash
+
+#45 06 CET
+45 04 * * 1-5 source /home/levelup/.bashrc ; sudo /usr/local/bin/get_lu_configs
+
+#################################################
+############# MultiBook Portfolio ###############
+#################################################
+
+#48 06 CET
+48 04 * * 1-5 source /home/levelup/.bashrc ; /home/levelup/script/productionscript/dailyProductionSetup.py --portfolioName productionportfolio_FX_MultiBook
+
+#49 06 CET
+49 04 * * 1-5 source /home/levelup/.bashrc ; /home/levelup/script/python/launchCronJob.py --command "/home/levelup/script/productionscript/tradingMonitor.py productionportfolio_FX_MultiBook sec" --subject "Trading Monitor Error SEC MultiBook" --sender "dailyCron@matterhorn"
+
+#50 06 CET
+50 04 * * 1-5 source /home/svc_matterhorn/.bashrc ; /home/levelup/script/productionscript/tradingStartUp.sh levelup_33
+
+#45 23 CET
+45 21 * * 1-5 source /home/svc_matterhorn/.bashrc ; /home/levelup/script/productionscript/EODCleanUp.sh productionportfolio_FX_MultiBook
+
+#################################################
+############### Main Portfolio ##################
+#################################################
+
+#48 06 CET
+48 04 * * 1-5 source /home/levelup/.bashrc ; /home/levelup/script/productionscript/dailyProductionSetup.py --portfolioName productionportfolio_FX
+
+#49 06 CET
+49 04 * * 1-5 source /home/levelup/.bashrc ; /home/levelup/script/python/launchCronJob.py --command "/home/levelup/script/productionscript/tradingMonitor.py productionportfolio_FX sec" --subject "Trading Monitor Error SEC MAIN" --sender "dailyCron@matterhorn"
+
+#50 06 CET
+#50 04 * * 1-5 source /home/svc_matterhorn/.bashrc ; /home/levelup/script/productionscript/tradingStartUp.sh levelup_32
+
+#45 23 CET
+45 21 * * 1-5 source /home/svc_matterhorn/.bashrc ; /home/levelup/script/productionscript/EODCleanUp.sh productionportfolio_FX
+
+

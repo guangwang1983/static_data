@@ -1,0 +1,28 @@
+AUD_CentralBankSpeech;20150209;00:15;RBA Governor Stevens speech;Australia;AUD;3
+AUD_ANZJobAdvertisements;20150209;00:30;ANZ Job Advertisements;Australia;AUD;1
+JPY_ConsumerConfidenceIndex;20150209;05:00;Consumer Confidence Index;Japan;JPY;2
+JPY_EcoWatchersSurvey:Outlook;20150209;06:00;Eco Watchers Survey: Outlook;Japan;JPY;2
+JPY_EcoWatchersSurvey:Current;20150209;06:00;Eco Watchers Survey: Current;Japan;JPY;2
+EUR_GerCurrentAccount;20150209;07:00;Current Account n.s.a.;Germany;EUR;1
+EUR_GerImports;20150209;07:00;Imports (MoM);Germany;EUR;1
+EUR_GerExports;20150209;07:00;Exports (MoM);Germany;EUR;1
+EUR_GerTradeBalance;20150209;07:00;Trade Balance s.a.;Germany;EUR;2
+CZK_ConsumerPriceIndex;20150209;08:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+CZK_UnemploymentRate;20150209;08:00;Unemployment Rate;Czech Republic;CZK;1
+RON_TradeBalance;20150209;08:00;Trade Balance;Romania;RON;1
+TRY_IndustrialProduction;20150209;08:00;Industrial Production (YoY);Turkey;TRY;1
+DKK_TradeBalance;20150209;08:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20150209;08:00;Current Account;Denmark;DKK;1
+HUF_TradeBalance;20150209;08:00;Trade Balance;Hungary;HUF;1
+EUR_EurSentixInvestorConfidence;20150209;09:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+EUR_EurG20Meeting;20150209;11:00;G20 Meeting;European Monetary Union;EUR;2
+CLP_TradeBalance;20150209;11:30;Trade Balance;Chile;CLP;1
+INR_GrossDomesticProduct;20150209;12:00;Gross Domestic Product Quarterly (YoY);India;INR;1
+CAD_HousingStarts;20150209;13:15;Housing Starts s.a (YoY);Canada;CAD;2
+MXN_HeadlineInflation;20150209;14:00;Headline Inflation;Mexico;MXN;1
+MXN_12MonthInflation;20150209;14:00;12-Month Inflation;Mexico;MXN;1
+MXN_CoreInflation;20150209;14:00;Core Inflation;Mexico;MXN;1
+USD_LaborMarketConditionsIndex;20150209;15:00;Labor Market Conditions Index;United States;USD;2
+USD_Auction;20150209;16:30;3-Month Bill Auction;United States;USD;1
+JPY_TertiaryIndustryIndex;20150209;23:50;Tertiary Industry Index (MoM);Japan;JPY;2
+JPY_MoneySupplyM2+CD;20150209;23:50;Money Supply M2+CD (YoY);Japan;JPY;1

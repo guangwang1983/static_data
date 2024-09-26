@@ -1,0 +1,19 @@
+CNY_HousePriceIndex;20180226;01:30;House Price Index ;China;CNY;1
+JPY_CoincidentIndex;20180226;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20180226;05:00;Leading Economic Index;Japan;JPY;2
+CHF_EmploymentLevel;20180226;08:15;Employment Level (QoQ);Switzerland;CHF;1
+GBP_BBAMortgageApprovals;20180226;09:30;BBA Mortgage Approvals;United Kingdom;GBP;1
+BRL_CurrentAccount;20180226;12:30;Current Account;Brazil;BRL;1
+USD_ChicagoFedNationalActivityIndex;20180226;13:30;Chicago Fed National Activity Index ;United States;USD;2
+MXN_RetailSales;20180226;14:00;Retail Sales (YoY);Mexico;MXN;1
+EUR_EurCentralBankSpeech;20180226;14:40;ECB President Draghi speech;European Monetary Union;EUR;3
+USD_NewHomeSales;20180226;15:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20180226;15:00;New Home Sales Change (MoM);United States;USD;2
+USD_DallasFedManufacturingBusinessIndex;20180226;15:30;Dallas Fed Manufacturing Business Index;United States;USD;2
+USD_Auction;20180226;16:30;3-Month Bill Auction;United States;USD;1
+GBP_CentralBankSpeech;20180226;18:00;BoE Cunliffe speech;United Kingdom;GBP;2
+USD_CentralBankSpeech;20180226;20:15;Fed Quarles speech;United States;USD;2
+KRW_ConsumerSentimentIndex;20180226;21:00;Consumer Sentiment Index;South Korea;KRW;1
+NZD_TradeBalanceNZD;20180226;21:45;Trade Balance NZD (YoY);New Zealand;NZD;2
+NZD_Imports;20180226;21:45;Imports;New Zealand;NZD;2
+NZD_Exports;20180226;21:45;Exports;New Zealand;NZD;2

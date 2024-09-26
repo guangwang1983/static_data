@@ -1,0 +1,34 @@
+EUR_ItaRepublicDay;20150602;00:00;Republic Day;Italy;EUR;0
+IDR_WaisakDay;20150602;00:00;Waisak Day;Indonesia;IDR;0
+AUD_CurrentAccount;20150602;01:30;Current Account Balance;Australia;AUD;1
+JPY_LaborCashEarnings;20150602;01:30;Labor Cash Earnings (YoY);Japan;JPY;1
+AUD_RBAInterestRateDecision;20150602;04:30;RBA Interest Rate Decision;Australia;AUD;3
+AUD_RBARateStatement;20150602;04:30;RBA Rate Statement;Australia;AUD;3
+INR_CashReserveRatio;20150602;05:30;Cash Reserve Ratio;India;INR;1
+INR_ReverseRepoRate;20150602;05:30;Reverse Repo Rate;India;INR;1
+INR_RBIInterestRateDecision;20150602;05:30;RBI Interest Rate Decision (Repo Rate);India;INR;1
+SEK_CurrentAccount;20150602;07:30;Current Account (QoQ);Sweden;SEK;1
+EUR_GerUnemploymentChange;20150602;07:55;Unemployment Change;Germany;EUR;3
+EUR_GerUnemploymentRate;20150602;07:55;Unemployment Rate s.a.;Germany;EUR;3
+GBP_NetLendingtoIndividuals;20150602;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_S&PGlobalConstructionPMI;20150602;08:30;S&P Global Construction PMI;United Kingdom;GBP;2
+GBP_ConsumerCredit;20150602;08:30;Consumer Credit;United Kingdom;GBP;2
+GBP_MortgageApprovals;20150602;08:30;Mortgage Approvals;United Kingdom;GBP;2
+GBP_M4MoneySupply;20150602;08:30;M4 Money Supply (MoM);United Kingdom;GBP;1
+EUR_EurHarmonizedIndexofConsumerPrices;20150602;09:00;Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20150602;09:00;Core Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_EurProducerPriceIndex;20150602;09:00;Producer Price Index (YoY);European Monetary Union;EUR;3
+BRL_FipeIPCInflation;20150602;11:00;Fipe IPC Inflation;Brazil;BRL;1
+GBP_Auction;20150602;11:29;10-y Bond Auction;United Kingdom;GBP;1
+BRL_IndustrialOutput;20150602;12:00;Industrial Output (MoM);Brazil;BRL;1
+USD_RedbookIndex;20150602;12:55;Redbook Index (YoY);United States;USD;1
+USD_ISMNYBusinessConditionsIndex;20150602;13:45;ISM-NY Business Conditions Index;United States;USD;1
+DKK_CurrencyReserves;20150602;14:00;Currency Reserves;Denmark;DKK;1
+USD_FactoryOrders;20150602;14:00;Factory Orders (MoM);United States;USD;2
+USD_IBDTIPPEconomicOptimism;20150602;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+NZD_GDTPriceIndex;20150602;14:22;GDT Price Index;New Zealand;NZD;1
+USD_Auction;20150602;15:30;4-Week Bill Auction;United States;USD;1
+USD_TotalVehicleSales;20150602;17:30;Total Vehicle Sales;United States;USD;1
+KRW_FXReserves;20150602;21:00;FX Reserves;South Korea;KRW;1
+GBP_BRCShopPriceIndex;20150602;23:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1
+AUD_AiGPerformanceofServicesIndex;20150602;23:30;AiG Performance of Services Index;Australia;AUD;1

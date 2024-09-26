@@ -1,0 +1,42 @@
+PLN_ConstitutionDay;20190503;00:00;Constitution Day ;Poland;PLN;0
+AUD_BuildingPermits;20190503;01:30;Building Permits (YoY);Australia;AUD;1
+CHF_SECOConsumerClimate;20190503;05:45;SECO Consumer Climate (3m);Switzerland;CHF;2
+DKK_UnemploymentRate;20190503;06:00;Unemployment Rate;Denmark;DKK;1
+NOK_CreditIndicator;20190503;06:00;Credit Indicator;Norway;NOK;1
+CHF_ConsumerPriceIndex;20190503;06:30;Consumer Price Index (YoY);Switzerland;CHF;2
+TRY_ProducerPriceIndex;20190503;07:00;Producer Price Index (YoY);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20190503;07:00;Consumer Price Index (MoM);Turkey;TRY;1
+NOK_RegisteredUnemployment;20190503;08:00;Registered Unemployment n.s.a;Norway;NOK;1
+EUR_GerCentralBankSpeech;20190503;08:00;German Buba President Weidmann speech;Germany;EUR;2
+GBP_S&PGlobalCIPSServicesPMI;20190503;08:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;2
+EUR_EurHarmonizedIndexofConsumerPrices;20190503;09:00;Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20190503;09:00;Core Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_EurProducerPriceIndex;20190503;09:00;Producer Price Index (YoY);European Monetary Union;EUR;1
+ILS_BudgetBalanceILS;20190503;10:00;Budget Balance - ILS;Israel;ILS;1
+INR_FXReservesUSD;20190503;11:30;FX Reserves, USD;India;INR;1
+BRL_IndustrialOutput;20190503;12:00;Industrial Output (MoM);Brazil;BRL;1
+USD_LaborForceParticipationRate;20190503;12:30;Labor Force Participation Rate;United States;USD;2
+USD_AverageHourlyEarnings;20190503;12:30;Average Hourly Earnings (MoM);United States;USD;2
+USD_U6UnderemploymentRate;20190503;12:30;U6 Underemployment Rate;United States;USD;1
+USD_UnemploymentRate;20190503;12:30;Unemployment Rate;United States;USD;2
+USD_NonfarmPayrolls;20190503;12:30;Nonfarm Payrolls;United States;USD;3
+USD_AverageWeeklyHours;20190503;12:30;Average Weekly Hours;United States;USD;1
+USD_WholesaleInventories;20190503;12:30;Wholesale Inventories;United States;USD;1
+USD_GoodsTradeBalance;20190503;12:30;Goods Trade Balance;United States;USD;1
+USD_S&PGlobalCompositePMI;20190503;13:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20190503;13:45;S&P Global Services PMI;United States;USD;2
+USD_ISMServicesEmploymentIndex;20190503;14:00;ISM Services Employment Index;United States;USD;2
+USD_ISMServicesPricesPaid;20190503;14:00;ISM Services Prices Paid;United States;USD;2
+USD_ISMServicesNewOrdersIndex;20190503;14:00;ISM Services New Orders Index;United States;USD;2
+USD_ISMServicesPMI;20190503;14:00;ISM Services PMI;United States;USD;3
+JPY_GreeneryDay;20190503;15:00;Greenery Day;Japan;JPY;0
+USD_BakerHughesUSOilRigCount;20190503;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CentralBankSpeech;20190503;19:00;Fed Bowman speech;United States;USD;2
+GBP_CFTCGBPNCNetPositions;20190503;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20190503;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20190503;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20190503;19:30;CFTC Oil NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20190503;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20190503;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20190503;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_TotalVehicleSales;20190503;19:30;Total Vehicle Sales;United States;USD;1

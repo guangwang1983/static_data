@@ -1,0 +1,35 @@
+JPY_JibunBankServicesPMI;20221024;00:30;Jibun Bank Services PMI;Japan;JPY;1
+JPY_JibunBankManufacturingPMI;20221024;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+CNY_HousePriceIndex;20221024;01:30;House Price Index ;China;CNY;1
+CNY_RetailSales;20221024;01:30;Retail Sales (YoY);China;CNY;3
+CNY_IndustrialProduction;20221024;01:30;Industrial Production (YoY);China;CNY;2
+CNY_NBSPressConference;20221024;01:30;NBS Press Conference;China;CNY;2
+CNY_FixedAssetInvestment;20221024;01:30;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+CNY_GrossDomesticProduct;20221024;01:30;Gross Domestic Product (YoY);China;CNY;3
+CNY_Exports;20221024;03:00;Exports (YoY);China;CNY;2
+CNY_Imports;20221024;03:00;Imports (YoY);China;CNY;2
+CNY_TradeBalanceUSD;20221024;03:00;Trade Balance USD;China;CNY;2
+CNY_TradeBalanceCNY;20221024;03:00;Trade Balance CNY;China;CNY;1
+HUF_GrossWages;20221024;07:00;Gross Wages (YoY);Hungary;HUF;1
+EUR_FraHCOBServicesPMI;20221024;07:15;HCOB Services PMI;France;EUR;2
+EUR_FraHCOBCompositePMI;20221024;07:15;HCOB Composite PMI;France;EUR;2
+EUR_FraHCOBManufacturingPMIPreliminar;20221024;07:15;HCOB Manufacturing PMI;France;EUR;2
+EUR_GerHCOBManufacturingPMIPreliminar;20221024;07:30;HCOB Manufacturing PMI;Germany;EUR;3
+EUR_GerHCOBServicesPMI;20221024;07:30;HCOB Services PMI;Germany;EUR;2
+EUR_GerHCOBCompositePMI;20221024;07:30;HCOB Composite PMI;Germany;EUR;3
+EUR_EurHCOBServicesPMI;20221024;08:00;HCOB Services PMI;European Monetary Union;EUR;2
+EUR_EurHCOBManufacturingPMIPreliminar;20221024;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurHCOBCompositePMI;20221024;08:00;HCOB Composite PMI;European Monetary Union;EUR;3
+GBP_S&PGlobalCIPSServicesPMI;20221024;08:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;3
+GBP_S&PGlobalCIPSCompositePMI;20221024;08:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSManufacturingPMIPreliminar;20221024;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+MXN_1sthalfmonthCoreInflation;20221024;11:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20221024;11:00;1st half-month Inflation;Mexico;MXN;1
+PLN_M3MoneySupply;20221024;12:00;M3 Money Supply (YoY);Poland;PLN;1
+USD_ChicagoFedNationalActivityIndex;20221024;12:30;Chicago Fed National Activity Index ;United States;USD;2
+BRL_CurrentAccount;20221024;13:30;Current Account;Brazil;BRL;1
+USD_S&PGlobalManufacturingPMI;20221024;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20221024;13:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20221024;13:45;S&P Global Services PMI;United States;USD;2
+USD_Auction;20221024;15:30;6-Month Bill Auction;United States;USD;1
+KRW_ConsumerSentimentIndex;20221024;21:00;Consumer Sentiment Index;South Korea;KRW;1

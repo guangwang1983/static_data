@@ -1,0 +1,34 @@
+JPY_ForeignBondInvestment;20150304;23:50;Foreign Bond Investment;Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20150304;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+USD_CentralBankSpeech;20150304;22:00;Fed Richard Fisher speech;United States;USD;2
+USD_FedBeigeBook;20150304;19:00;Fed Beige Book;United States;USD;2
+BRL_InterestRateDecision;20150304;17:00;Interest Rate Decision;Brazil;BRL;1
+USD_EIACrudeOilStocksChange;20150304;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_ISMNonManufacturingPMI;20150304;15:00;ISM Non-Manufacturing PMI;United States;USD;3
+CAD_BoCInterestRateDecision;20150304;15:00;BoC Interest Rate Decision;Canada;CAD;3
+CAD_BoCRateStatement;20150304;15:00;BoC Rate Statement;Canada;CAD;3
+USD_MarkitServicesPMI;20150304;14:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20150304;14:45;Markit PMI Composite;United States;USD;2
+USD_ADPEmploymentChange;20150304;13:15;ADP Employment Change;United States;USD;2
+PLN_NBPBaserate;20150304;12:56;NBP Base rate;Poland;PLN;1
+BRL_IndustrialOutput;20150304;12:00;Industrial Output (YoY);Brazil;BRL;1
+USD_MBAMortgageApplications;20150304;12:00;MBA Mortgage Applications;United States;USD;2
+EUR_EurRetailSales;20150304;10:00;Retail Sales (MoM);European Monetary Union;EUR;1
+GBP_MarkitServicesPMI;20150304;09:30;Markit Services PMI;United Kingdom;GBP;2
+NOK_CurrentAccount;20150304;09:00;Current Account;Norway;NOK;1
+EUR_EurMarkitPMIComposite;20150304;09:00;Markit PMI Composite;European Monetary Union;EUR;1
+EUR_EurMarkitServicesPMI;20150304;09:00;Markit Services PMI;European Monetary Union;EUR;1
+EUR_GerMarkitPMIComposite;20150304;08:55;Markit PMI Composite;Germany;EUR;1
+EUR_GerMarkitServicesPMI;20150304;08:55;Markit Services PMI;Germany;EUR;1
+EUR_FraMarkitPMIComposite;20150304;08:50;Markit PMI Composite;France;EUR;1
+EUR_FraMarkitServicesPMI;20150304;08:50;Markit Services PMI;France;EUR;1
+EUR_ItaMarkitServicesPMI;20150304;08:45;Markit Services PMI;Italy;EUR;1
+EUR_SpaMarkitServicesPMI;20150304;08:15;Markit Services PMI;Spain;EUR;1
+EUR_IrePurchasingManagerIndexServices;20150304;08:00;Purchasing Manager Index Services;Ireland;EUR;1
+HUF_RetailSales;20150304;08:00;Retail Sales (YoY);Hungary;HUF;1
+RUB_PurchasingManagerIndexServices;20150304;07:29;Purchasing Manager Index Services;Russia;RUB;1
+ZAR_PurchasingManagerIndex;20150304;07:15;Purchasing Manager Index;South Africa;ZAR;1
+CNY_CaixinServicesPMI;20150304;01:45;Caixin Services PMI;China;CNY;2
+JPY_MarkitServicesPMI;20150304;01:35;Markit Services PMI;Japan;JPY;2
+AUD_GrossDomesticProduct;20150304;00:30;Gross Domestic Product (YoY);Australia;AUD;3
+GBP_BRCShopPriceIndex;20150304;00:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1

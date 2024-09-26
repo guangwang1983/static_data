@@ -1,0 +1,30 @@
+NZD_ANZActivityOutlook;20221026;00:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20221026;00:00;ANZ Business Confidence;New Zealand;NZD;1
+AUD_ConsumerPriceIndex;20221026;00:30;Monthly Consumer Price Index (YoY);Australia;AUD;3
+AUD_RBATrimmedMeanCPI;20221026;00:30;RBA Trimmed Mean CPI (YoY);Australia;AUD;1
+JPY_CoincidentIndex;20221026;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20221026;05:00;Leading Economic Index;Japan;JPY;1
+SEK_TradeBalance;20221026;06:00;Trade Balance (MoM);Sweden;SEK;1
+EUR_FraConsumerConfidence;20221026;06:45;Consumer Confidence;France;EUR;1
+CHF_ZEWSurvey–Expectations;20221026;08:00;ZEW Survey – Expectations;Switzerland;CHF;2
+EUR_ItaTradeBalancenonEU;20221026;08:00;Trade Balance non-EU;Italy;EUR;1
+EUR_EurM3MoneySupply;20221026;08:00;M3 Money Supply (YoY);European Monetary Union;EUR;1
+EUR_EurPrivateLoans;20221026;08:00;Private Loans (YoY);European Monetary Union;EUR;1
+ILS_TradeBalance;20221026;10:19;Trade Balance;Israel;ILS;1
+ILS_Imports;20221026;10:19;Imports;Israel;ILS;1
+ILS_Exports;20221026;10:19;Exports;Israel;ILS;1
+USD_MBAMortgageApplications;20221026;11:00;MBA Mortgage Applications;United States;USD;1
+USD_WholesaleInventories;20221026;12:30;Wholesale Inventories;United States;USD;1
+USD_GoodsTradeBalance;20221026;12:30;Goods Trade Balance;United States;USD;1
+CAD_BankofCanadaMonetaryPolicyReport;20221026;14:00;Bank of Canada Monetary Policy Report;Canada;CAD;3
+USD_NewHomeSales;20221026;14:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20221026;14:00;New Home Sales Change (MoM);United States;USD;1
+CAD_BoCInterestRateDecision;20221026;14:00;BoC Interest Rate Decision;Canada;CAD;3
+CAD_BoCRateStatement;20221026;14:00;BoC Rate Statement;Canada;CAD;3
+USD_EIACrudeOilStocksChange;20221026;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+CAD_BoCPressConference;20221026;15:00;BoC Press Conference;Canada;CAD;3
+RUB_IndustrialOutput;20221026;16:00;Industrial Output;Russia;RUB;1
+USD_Auction;20221026;17:00;5-Year Note Auction;United States;USD;1
+KRW_GrossDomesticProduct;20221026;23:00;Gross Domestic Product Growth (QoQ) ;South Korea;KRW;1
+JPY_ForeignInvestmentinJapanStocks;20221026;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20221026;23:50;Foreign Bond Investment;Japan;JPY;1

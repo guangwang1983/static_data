@@ -1,0 +1,32 @@
+JPY_MerchandiseTradeBalanceTotal;20130219;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Imports;20130219;23:50;Imports (YoY);Japan;JPY;1
+JPY_AdjustedMerchandiseTradeBalance;20130219;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_Exports;20130219;23:50;Exports (YoY);Japan;JPY;1
+AUD_WestpacLeadingIndex;20130219;23:30;Westpac Leading Index (MoM);Australia;AUD;2
+NZD_ProducerPriceIndex;20130219;21:45;Producer Price Index - Output (QoQ);New Zealand;NZD;1
+ARS_UnemploymentRate;20130219;19:00;Unemployment Rate (QoQ)	;Argentina;ARS;1
+CHF_CentralBankSpeech;20130219;17:15;SNB Chairman Jordan speech;Switzerland;CHF;2
+USD_Auction;20130219;16:30;6-Month Bill Auction;United States;USD;1
+RUB_UnemploymentRate;20130219;15:11;Unemployment Rate;Russia;RUB;1
+USD_NAHBHousingMarketIndex;20130219;15:00;NAHB Housing Market Index;United States;USD;1
+EUR_BelConsumerConfidenceIndex;20130219;14:00;Consumer Confidence Index;Belgium;EUR;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20130219;13:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20130219;13:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_WholesaleSales;20130219;13:30;Wholesale Sales (MoM);Canada;CAD;1
+PLN_IndustrialOutput;20130219;13:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20130219;13:00;Producer Price Index (YoY);Poland;PLN;1
+TRY_CBRTInterestRateDecision;20130219;12:00;CBRT Interest Rate Decision;Turkey;TRY;1
+BRL_RetailSales;20130219;12:00;Retail Sales (MoM);Brazil;BRL;1
+EUR_EurConstructionOutput;20130219;10:00;Construction Output  s.a (MoM);European Monetary Union;EUR;1
+EUR_GerZEWSurveyEconomicSentiment;20130219;10:00;ZEW Survey - Economic Sentiment;Germany;EUR;3
+EUR_GerZEWSurveyCurrentSituation;20130219;10:00;ZEW Survey - Current Situation;Germany;EUR;2
+EUR_EurZEWSurveyEconomicSentiment;20130219;10:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;2
+EUR_SpaAuction;20130219;09:58;3-Month Letras Auction;Spain;EUR;1
+EUR_GreCurrentAccount;20130219;09:08;Current Account (YoY);Greece;EUR;1
+SEK_UnemploymentRate;20130219;08:30;Unemployment Rate;Sweden;SEK;1
+SEK_ConsumerPriceIndex;20130219;08:30;Consumer Price Index (MoM);Sweden;SEK;1
+EUR_FinConsumerPriceIndex;20130219;07:00;Consumer Price Index (YoY);Finland;EUR;1
+EUR_SpaTradeBalance;20130219;07:00;Trade Balance;Spain;EUR;1
+JPY_CoincidentIndex;20130219;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20130219;05:00;Leading Economic Index;Japan;JPY;2
+AUD_RBAMeetingMinutes;20130219;00:30;RBA Meeting Minutes;Australia;AUD;3

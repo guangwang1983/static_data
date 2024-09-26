@@ -1,0 +1,46 @@
+KRW_TradeBalance;20231101;00:00;Trade Balance;South Korea;KRW;1
+KRW_S&PGlobalManufacturingPMI;20231101;00:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+JPY_JibunBankManufacturingPMI;20231101;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+AUD_BuildingPermits;20231101;00:30;Building Permits (MoM);Australia;AUD;2
+CNY_CaixinManufacturingPMI;20231101;01:45;Caixin Manufacturing PMI;China;CNY;3
+BRL_AllSaints'Day;20231101;03:00;All Saints' Day;Brazil;BRL;0
+IDR_CoreInflation;20231101;04:00;Core Inflation (YoY);Indonesia;IDR;1
+IDR_Inflation;20231101;04:00;Inflation (YoY);Indonesia;IDR;1
+CLP_AllSaints'Day;20231101;04:00;All Saints' Day;Chile;CLP;0
+AUD_RBACommodityIndexSDR;20231101;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+RUB_S&PGlobalManufacturingPMI;20231101;06:00;S&P Global Manufacturing PMI;Russia;RUB;1
+GBP_NationwideHousingPrices;20231101;07:00;Nationwide Housing Prices s.a (MoM);United Kingdom;GBP;1
+SEK_PurchasingManagersIndexManufacturing;20231101;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+HUF_PurchasingManagerIndex;20231101;08:00;Purchasing Manager Index;Hungary;HUF;1
+CZK_S&PGlobalPMI;20231101;08:30;S&P Global PMI;Czech Republic;CZK;1
+CHF_SVMEPurchasingManagers'Index;20231101;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+EUR_FraHCOBServicesPMI;20231101;08:50;HCOB Services PMI;France;EUR;1
+GBP_S&PGlobalCIPSManufacturingPMI;20231101;09:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;1
+USD_MBAMortgageApplications;20231101;11:00;MBA Mortgage Applications;United States;USD;1
+INR_M3MoneySupply;20231101;11:30;M3 Money Supply;India;INR;1
+BRL_IndustrialOutput;20231101;12:00;Industrial Output (MoM);Brazil;BRL;1
+ZAR_TotalNewVehicleSales;20231101;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+USD_ADPEmploymentChange;20231101;12:15;ADP Employment Change;United States;USD;3
+CHF_CentralBankSpeech;20231101;12:40;SNB Chairman Jordan speech;Switzerland;CHF;3
+BRL_S&PGlobalManufacturingPMI;20231101;13:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+CZK_BudgetBalance;20231101;13:00;Budget Balance;Czech Republic;CZK;1
+CAD_S&PGlobalManufacturingPMI;20231101;13:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20231101;13:45;S&P Global Manufacturing PMI;United States;USD;1
+USD_JOLTSJobOpenings;20231101;14:00;JOLTS Job Openings;United States;USD;2
+USD_ISMManufacturingEmploymentIndex;20231101;14:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ISMManufacturingNewOrdersIndex;20231101;14:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ISMManufacturingPricesPaid;20231101;14:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ISMManufacturingPMI;20231101;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ConstructionSpending;20231101;14:00;Construction Spending (MoM);United States;USD;1
+USD_EIACrudeOilStocksChange;20231101;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+RUB_UnemploymentRate;20231101;16:00;Unemployment Rate;Russia;RUB;1
+USD_FedMonetaryPolicyStatement;20231101;18:00;Fed Monetary Policy Statement;United States;USD;3
+USD_FedInterestRateDecision;20231101;18:00;Fed Interest Rate Decision;United States;USD;3
+BRL_TradeBalance;20231101;18:00;Trade Balance;Brazil;BRL;1
+USD_FOMCPressConference;20231101;18:30;FOMC Press Conference;United States;USD;3
+CAD_CentralBankSpeech;20231101;20:15;BoC Rogers speech;Canada;CAD;2
+BRL_InterestRateDecision;20231101;21:00;Interest Rate Decision;Brazil;BRL;1
+KRW_ConsumerPriceIndex;20231101;23:00;Consumer Price Index Growth (YoY);South Korea;KRW;1
+JPY_MonetaryBase;20231101;23:50;Monetary Base (YoY);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20231101;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20231101;23:50;Foreign Bond Investment;Japan;JPY;1

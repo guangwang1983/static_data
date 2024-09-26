@@ -1,0 +1,16 @@
+JPY_TokyoCPIexFoodEnergy;20080424;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;1
+JPY_TokyoCPIexFreshFood;20080424;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;1
+JPY_ConsumerPriceIndex;20080424;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;1
+JPY_NationalCPIexFreshFood;20080424;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;1
+JPY_NationalCPIexFoodEnergy;20080424;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;1
+CAD_BankofCanadaMonetaryPolicyReport;20080424;14:30;Bank of Canada Monetary Policy Report;Canada;CAD;2
+EUR_EurCentralBankSpeech;20080424;14:00;ECB Stark speech;European Monetary Union;EUR;1
+USD_NewHomeSalesChange;20080424;14:00;New Home Sales Change (MoM);United States;USD;2
+USD_NewHomeSales;20080424;14:00;New Home Sales (MoM);United States;USD;2
+USD_JoblessClaims;20080424;12:30;Initial Jobless Claims;United States;USD;1
+USD_DurableGoodsOrders;20080424;12:30;Durable Goods Orders;United States;USD;2
+GBP_CBIIndustrialTrendsSurveyOrders;20080424;10:00;CBI Industrial Trends Survey - Orders (MoM);United Kingdom;GBP;2
+GBP_RetailSales;20080424;08:30;Retail Sales (MoM);United Kingdom;GBP;2
+EUR_EurCurrentAccount;20080424;08:00;Current Account n.s.a;European Monetary Union;EUR;1
+EUR_GerIFOBusinessClimate;20080424;08:00;IFO - Business Climate;Germany;EUR;3
+EUR_GerIFOExpectations;20080424;08:00;IFO - Expectations;Germany;EUR;2

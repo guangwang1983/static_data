@@ -1,0 +1,54 @@
+COP_MaundyThursday;20180329;00:00;Maundy Thursday;Colombia;COP;0
+MXN_MaundyThursday;20180329;00:00;Maundy Thursday ;Mexico;MXN;0
+DKK_MaundyThursday;20180329;00:00;Maundy Thursday ;Denmark;DKK;0
+NOK_MaundyThursday;20180329;00:00;Maundy Thursday;Norway;NOK;0
+AUD_PrivateSectorCredit;20180329;00:30;Private Sector Credit (YoY);Australia;AUD;1
+GBP_NationwideHousingPrices;20180329;06:00;Nationwide Housing Prices s.a (MoM);United Kingdom;GBP;1
+ZAR_M3MoneySupply;20180329;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+ZAR_PrivateSectorCredit;20180329;06:00;Private Sector Credit;South Africa;ZAR;1
+CHF_KOFLeadingIndicator;20180329;07:00;KOF Leading Indicator;Switzerland;CHF;2
+TRY_GrossDomesticProduct;20180329;07:00;Quarterly Gross Domestic Product;Turkey;TRY;1
+HUF_ProducerPriceIndex;20180329;07:00;Producer Price Index (YoY);Hungary;HUF;1
+HUF_TradeBalance;20180329;07:00;Trade Balance;Hungary;HUF;1
+EUR_ItaProducerPriceIndex;20180329;08:00;Producer Price Index (YoY);Italy;EUR;1
+EUR_GerUnemploymentRate;20180329;08:00;Unemployment Rate s.a.;Germany;EUR;2
+EUR_GerUnemploymentChange;20180329;08:00;Unemployment Change;Germany;EUR;2
+GBP_NetLendingtoIndividuals;20180329;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_GrossDomesticProduct;20180329;08:30;Gross Domestic Product (YoY);United Kingdom;GBP;2
+GBP_TotalBusinessInvestment;20180329;08:30;Total Business Investment (QoQ);United Kingdom;GBP;1
+GBP_ConsumerCredit;20180329;08:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20180329;08:30;Mortgage Approvals;United Kingdom;GBP;2
+GBP_IndexofServices;20180329;08:30;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_M4MoneySupply;20180329;08:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+GBP_CurrentAccount;20180329;08:30;Current Account;United Kingdom;GBP;1
+ZAR_ProducerPriceIndex;20180329;09:30;Producer Price Index (YoY);South Africa;ZAR;1
+CZK_CNBInterestRateDecision;20180329;11:00;CNB Interest Rate Decision;Czech Republic;CZK;1
+CLP_Unemploymentrate;20180329;11:00;Unemployment rate;Chile;CLP;1
+BRL_UnemploymentRate;20180329;12:00;Unemployment Rate;Brazil;BRL;1
+EUR_GerConsumerPriceIndex;20180329;12:00;Consumer Price Index (YoY);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20180329;12:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+ZAR_TradeBalance;20180329;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+CLP_IndustrialProduction;20180329;12:00;Industrial Production (YoY);Chile;CLP;1
+USD_CorePersonalConsumptionExpendituresPriceIndex;20180329;12:30;Core Personal Consumption Expenditures - Price Index (YoY);United States;USD;3
+USD_PersonalSpending;20180329;12:30;Personal Spending;United States;USD;2
+USD_PersonalConsumptionExpendituresPriceIndex;20180329;12:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;2
+USD_PersonalIncome;20180329;12:30;Personal Income (MoM);United States;USD;2
+CAD_RawMaterialPriceIndex;20180329;12:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20180329;12:30;Industrial Product Price (MoM);Canada;CAD;1
+USD_JoblessClaims;20180329;12:30;Continuing Jobless Claims;United States;USD;2
+CAD_GrossDomesticProduct;20180329;12:30;Gross Domestic Product (MoM);Canada;CAD;2
+RUB_CentralBankReserves;20180329;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_ChicagoPurchasingManagers'Index;20180329;13:45;Chicago Purchasing Managers' Index;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20180329;14:00;Michigan Consumer Sentiment Index;United States;USD;1
+USD_EIANaturalGasStorageChange;20180329;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_BakerHughesUSOilRigCount;20180329;17:00;Baker Hughes US Oil Rig Count;United States;USD;2
+USD_CentralBankSpeech;20180329;17:00;Fed Harker speech;United States;USD;2
+KRW_ServiceSectorOutput;20180329;23:00;Service Sector Output;South Korea;KRW;1
+KRW_IndustrialOutput;20180329;23:00;Industrial Output (YoY);South Korea;KRW;1
+KRW_IndustrialOutputGrowth;20180329;23:00;Industrial Output Growth;South Korea;KRW;1
+JPY_ConsumerPriceIndex;20180329;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;2
+JPY_TokyoCPIexFoodEnergy;20180329;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_TokyoCPIexFreshFood;20180329;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;3
+JPY_JobsApplicantsRatio;20180329;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+JPY_UnemploymentRate;20180329;23:30;Unemployment Rate;Japan;JPY;2
+JPY_IndustrialProduction;20180329;23:50;Industrial Production (MoM);Japan;JPY;1

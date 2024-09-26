@@ -1,0 +1,14 @@
+JPY_MoneySupplyM2+CD;20080110;23:50;Money Supply M2+CD (YoY);Japan;JPY;1
+USD_CentralBankSpeech;20080110;18:00;Former Fed Chair Bernanke speech;United States;USD;2
+GBP_GoodsTradeBalance;20080110;17:00;Goods Trade Balance;United Kingdom;GBP;0
+USD_WholesaleInventories;20080110;15:00;Wholesale Inventories;United States;USD;1
+USD_JoblessClaims;20080110;13:30;Initial Jobless Claims;United States;USD;1
+CAD_BuildingPermits;20080110;13:30;Building Permits (MoM);Canada;CAD;2
+CAD_DONOTINCLUDENewHousingPriceIndex;20080110;13:30;DO NOT INCLUDE - New Housing Price Index (YoY);Canada;CAD;2
+EUR_EurCentralBankSpeech;20080110;13:30;ECB President Trichet speech;European Monetary Union;EUR;2
+EUR_EurECBInterestRateDecision;20080110;12:45;ECB Interest Rate Decision;European Monetary Union;EUR;3
+GBP_BoEInterestRateDecision;20080110;12:00;BoE Interest Rate Decision;United Kingdom;GBP;3
+GBP_TradeBalancenonEU;20080110;09:30;Trade Balance non-EU;United Kingdom;GBP;2
+JPY_LeadingEconomicIndex;20080110;05:00;Leading Economic Index;Japan;JPY;1
+JPY_CoincidentIndex;20080110;05:00;Coincident Index;Japan;JPY;2
+AUD_TradeBalance;20080110;00:30;Trade Balance;Australia;AUD;2

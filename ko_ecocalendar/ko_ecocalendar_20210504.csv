@@ -1,0 +1,38 @@
+AUD_HomeLoans;20210504;01:30;Home Loans;Australia;AUD;1
+AUD_InvestmentLendingforHomes;20210504;01:30;Investment Lending for Homes;Australia;AUD;1
+AUD_TradeBalance;20210504;01:30;Trade Balance (MoM);Australia;AUD;3
+AUD_Imports;20210504;01:30;Imports (MoM);Australia;AUD;2
+AUD_Exports;20210504;01:30;Exports (MoM);Australia;AUD;2
+AUD_RBAInterestRateDecision;20210504;04:30;RBA Interest Rate Decision;Australia;AUD;3
+AUD_RBARateStatement;20210504;04:30;RBA Rate Statement;Australia;AUD;3
+RUB_S&PGlobalManufacturingPMI;20210504;06:00;S&P Global Manufacturing PMI;Russia;RUB;1
+EUR_FraBudgetBalance;20210504;06:45;Budget Balance;France;EUR;1
+PLN_PurchasingManagerIndex;20210504;07:00;Purchasing Manager Index;Poland;PLN;2
+CHF_SECOConsumerClimate;20210504;07:00;SECO Consumer Climate (3m);Switzerland;CHF;1
+GBP_NetLendingtoIndividuals;20210504;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20210504;08:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20210504;08:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_S&PGlobalCIPSManufacturingPMI;20210504;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+GBP_M4MoneySupply;20210504;08:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+USD_GoodsandServicesTradeBalance;20210504;12:30;Goods and Services Trade Balance;United States;USD;2
+CAD_BuildingPermits;20210504;12:30;Building Permits (MoM);Canada;CAD;1
+USD_GoodsTradeBalance;20210504;12:30;Goods Trade Balance;United States;USD;1
+CAD_InternationalMerchandiseTrade;20210504;12:30;International Merchandise Trade;Canada;CAD;2
+CAD_Exports;20210504;12:30;Exports;Canada;CAD;1
+CAD_Imports;20210504;12:30;Imports;Canada;CAD;1
+USD_RedbookIndex;20210504;12:55;Redbook Index (YoY);United States;USD;1
+USD_FactoryOrders;20210504;14:00;Factory Orders (MoM);United States;USD;2
+USD_IBDTIPPEconomicOptimism;20210504;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+NZD_GDTPriceIndex;20210504;14:20;GDT Price Index;New Zealand;NZD;1
+KRW_ChildrenDay;20210504;15:00;Children Day;South Korea;KRW;0
+DKK_CurrencyReserves;20210504;15:00;Currency Reserves;Denmark;DKK;1
+JPY_ChildrenDay;20210504;15:00;Children Day;Japan;JPY;0
+USD_APIWeeklyCrudeOilStock;20210504;20:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_RBNZFinancialStabilityReport;20210504;21:00;RBNZ Financial Stability Report;New Zealand;NZD;2
+AUD_AiGPerformanceofConstructionIndex;20210504;22:30;AiG Performance of Construction Index;Australia;AUD;2
+NZD_ParticipationRate;20210504;22:45;Participation Rate;New Zealand;NZD;2
+NZD_EmploymentChange;20210504;22:45;Employment Change;New Zealand;NZD;3
+NZD_UnemploymentRate;20210504;22:45;Unemployment Rate;New Zealand;NZD;3
+NZD_LabourCostIndex;20210504;22:45;Labour Cost Index (YoY);New Zealand;NZD;1
+AUD_S&PGlobalServicesPMI;20210504;23:00;S&P Global Services PMI;Australia;AUD;2
+AUD_S&PGlobalCompositePMI;20210504;23:00;S&P Global Composite PMI;Australia;AUD;1

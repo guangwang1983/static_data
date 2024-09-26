@@ -1,0 +1,43 @@
+JPY_NikkeiManufacturingPMI;20130730;23:13;Nikkei Manufacturing PMI;Japan;JPY;2
+GBP_BRCShopPriceIndex;20130730;23:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1
+MXN_FiscalBalancepesos;20130730;19:30;Fiscal Balance, pesos;Mexico;MXN;1
+ARS_UnemploymentRate;20130730;19:00;Unemployment Rate (QoQ)	;Argentina;ARS;1
+GBP_GfKConsumerConfidence;20130730;16:00;GfK Consumer Confidence;United Kingdom;GBP;2
+USD_Auction;20130730;15:30;4-Week Bill Auction;United States;USD;1
+USD_ConsumerConfidence;20130730;14:00;Consumer Confidence;United States;USD;2
+BRL_NominalBudgetBalance;20130730;13:30;Nominal Budget Balance;Brazil;BRL;1
+BRL_PrimaryBudgetSurplus;20130730;13:30;Primary Budget Surplus;Brazil;BRL;1
+USD_S&PCaseShillerHomePriceIndices;20130730;13:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;1
+USD_RedbookIndex;20130730;12:55;Redbook Index (MoM);United States;USD;1
+CAD_RawMaterialPriceIndex;20130730;12:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20130730;12:30;Industrial Product Price (MoM);Canada;CAD;1
+EUR_SloCurrentAccount;20130730;12:30;Current Account Balance EUR;Slovakia;EUR;1
+EUR_GerConsumerPriceIndex;20130730;12:00;Consumer Price Index (MoM);Germany;EUR;2
+EUR_GerHarmonizedIndexofConsumerPrices;20130730;12:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+CLP_IndustrialProduction;20130730;12:00;Industrial Production (YoY);Chile;CLP;1
+BRL_InflationIndexIGPM;20130730;11:00;Inflation Index/IGP-M;Brazil;BRL;1
+EUR_ItaAuction;20130730;10:10;10-y Bond Auction;Italy;EUR;1
+EUR_BelConsumerPriceIndex;20130730;09:30;Consumer Price Index (MoM);Belgium;EUR;1
+SEK_GrossDomesticProduct;20130730;09:30;Gross Domestic Product (QoQ);Sweden;SEK;1
+ZAR_UnemploymentRate;20130730;09:30;Unemployment Rate (%);South Africa;ZAR;1
+ZAR_UnemploymentTotal;20130730;09:30;Unemployment Total ;South Africa;ZAR;1
+EUR_PorBusinessConfidence;20130730;09:00;Business Confidence;Portugal;EUR;1
+EUR_PorConsumerConfidence;20130730;09:00;Consumer Confidence;Portugal;EUR;1
+EUR_EurConsumerConfidence;20130730;09:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurBusinessClimate;20130730;09:00;Business Climate;European Monetary Union;EUR;1
+EUR_EurIndustrialConfidence;20130730;09:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_EurEconomicSentimentIndicator;20130730;09:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+EUR_EurServicesSentiment;20130730;09:00;Services Sentiment;European Monetary Union;EUR;1
+EUR_AusPurchasingManagerIndex;20130730;08:00;Purchasing Manager Index;Austria;EUR;1
+EUR_AusProducerPriceIndex;20130730;08:00;Producer Price Index (MoM);Austria;EUR;1
+EUR_SpaHICP;20130730;07:00;HICP (YoY);Spain;EUR;1
+DKK_IndustrialOutlook;20130730;07:00;Industrial Outlook;Denmark;DKK;1
+HUF_UnemploymentRate;20130730;07:00;Unemployment Rate (3M);Hungary;HUF;1
+EUR_SpaGrossDomesticProduct;20130730;07:00;Gross Domestic Product - Estimated (YoY);Spain;EUR;1
+EUR_GerGfkConsumerConfidenceSurvey;20130730;06:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+INR_CashReserveRatio;20130730;05:30;Cash Reserve Ratio;India;INR;1
+INR_ReverseRepoRate;20130730;05:30;Reverse Repo Rate;India;INR;1
+INR_RBIInterestRateDecision;20130730;05:30;RBI Interest Rate Decision (Repo Rate);India;INR;1
+JPY_VehicleProduction;20130730;04:00;Vehicle Production (YoY);Japan;JPY;1
+AUD_CentralBankSpeech;20130730;03:05;RBA Governor Stevens speech;Australia;AUD;3
+AUD_BuildingPermits;20130730;01:30;Building Permits (YoY);Australia;AUD;1

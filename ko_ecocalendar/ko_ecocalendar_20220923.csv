@@ -1,0 +1,33 @@
+NOK_CreditIndicator;20220923;06:00;Credit Indicator;Norway;NOK;1
+HUF_GrossWages;20220923;07:00;Gross Wages (YoY);Hungary;HUF;1
+EUR_FraHCOBManufacturingPMIPreliminar;20220923;07:15;HCOB Manufacturing PMI;France;EUR;2
+EUR_FraHCOBServicesPMI;20220923;07:15;HCOB Services PMI;France;EUR;2
+EUR_FraHCOBCompositePMI;20220923;07:15;HCOB Composite PMI;France;EUR;2
+EUR_GerHCOBManufacturingPMIPreliminar;20220923;07:30;HCOB Manufacturing PMI;Germany;EUR;3
+EUR_GerHCOBServicesPMI;20220923;07:30;HCOB Services PMI;Germany;EUR;2
+EUR_GerHCOBCompositePMI;20220923;07:30;HCOB Composite PMI;Germany;EUR;3
+PLN_Unemployment;20220923;08:00;Unemployment (MoM);Poland;PLN;1
+TRY_ForeignArrivals;20220923;08:00;Foreign Arrivals;Turkey;TRY;1
+EUR_EurHCOBManufacturingPMIPreliminar;20220923;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurHCOBServicesPMI;20220923;08:00;HCOB Services PMI;European Monetary Union;EUR;2
+EUR_EurHCOBCompositePMI;20220923;08:00;HCOB Composite PMI;European Monetary Union;EUR;3
+GBP_S&PGlobalCIPSCompositePMI;20220923;08:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSServicesPMI;20220923;08:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;3
+GBP_S&PGlobalCIPSManufacturingPMIPreliminar;20220923;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+INR_BankLoanGrowth;20220923;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20220923;11:30;FX Reserves, USD;India;INR;1
+INR_M3MoneySupply;20220923;11:30;M3 Money Supply;India;INR;1
+CAD_RetailSales;20220923;12:30;Retail Sales ex Autos (MoM);Canada;CAD;2
+USD_S&PGlobalServicesPMI;20220923;13:45;S&P Global Services PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20220923;13:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalManufacturingPMI;20220923;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_BakerHughesUSOilRigCount;20220923;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CentralBankSpeech;20220923;18:00;Fed Chair Powell speech;United States;USD;3
+EUR_EurCFTCEURNCNetPositions;20220923;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20220923;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCS&P500NCNetPositions;20220923;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20220923;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+GBP_CFTCGBPNCNetPositions;20220923;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20220923;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20220923;19:30;CFTC Oil NC Net Positions;United States;USD;1
+ZAR_HeritageDay;20220923;22:00;Heritage Day;South Africa;ZAR;0

@@ -1,0 +1,21 @@
+NZD_FoodPriceIndex;20080116;21:45;Food Price Index (MoM);New Zealand;NZD;2
+NZD_ConsumerPriceIndex;20080116;21:45;Consumer Price Index (QoQ);New Zealand;NZD;2
+USD_FedBeigeBook;20080116;19:00;Fed Beige Book;United States;USD;2
+EUR_EurCentralBankSpeech;20080116;18:55;ECB President Trichet speech;European Monetary Union;EUR;1
+USD_NAHBHousingMarketIndex;20080116;18:00;NAHB Housing Market Index;United States;USD;3
+USD_EIACrudeOilStocksChange;20080116;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_IndustrialProduction;20080116;14:15;Industrial Production (MoM);United States;USD;1
+USD_CapacityUtilization;20080116;14:15;Capacity Utilization;United States;USD;1
+USD_NetLongTermTICFlows;20080116;14:00;Net Long-Term TIC Flows;United States;USD;2
+USD_ConsumerPriceIndex;20080116;13:30;Consumer Price Index ex Food & Energy (YoY);United States;USD;3
+USD_MBAMortgageApplications;20080116;12:00;MBA Mortgage Applications;United States;USD;1
+EUR_EurConsumerPriceIndex;20080116;10:00;Consumer Price Index (YoY);European Monetary Union;EUR;1
+GBP_AverageEarningsIncludingBonus;20080116;09:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;1
+GBP_ILOUnemploymentRate;20080116;09:30;ILO Unemployment Rate (3M);United Kingdom;GBP;2
+GBP_ClaimantCountRate;20080116;09:30;Claimant Count Rate;United Kingdom;GBP;1
+GBP_ClaimantCountChange;20080116;09:30;Claimant Count Change;United Kingdom;GBP;1
+GBP_AverageEarningsExcludingBonus;20080116;09:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;1
+EUR_GerConsumerPriceIndex;20080116;07:00;Consumer Price Index (YoY);Germany;EUR;2
+JPY_MachineToolOrders;20080116;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+AUD_HomeLoans;20080116;00:30;Home Loans;Australia;AUD;2
+GBP_RICSHousingPriceBalance;20080116;00:01;RICS Housing Price Balance;United Kingdom;GBP;2

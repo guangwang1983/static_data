@@ -1,0 +1,39 @@
+JPY_JibunBankServicesPMI;20190904;00:30;Jibun Bank Services PMI;Japan;JPY;1
+NZD_ANZCommodityPrice;20190904;01:00;ANZ Commodity Price;New Zealand;NZD;1
+AUD_GrossDomesticProduct;20190904;01:30;Gross Domestic Product (YoY);Australia;AUD;2
+JPY_CentralBankSpeech;20190904;01:30;BoJ Kataoka speech;Japan;JPY;2
+CNY_CaixinServicesPMI;20190904;01:45;Caixin Services PMI;China;CNY;2
+RUB_S&PGlobalServicesPMI;20190904;06:00;S&P Global Services PMI;Russia;RUB;1
+NOK_CurrentAccount;20190904;06:00;Current Account;Norway;NOK;1
+HUF_RetailSales;20190904;07:00;Retail Sales (YoY);Hungary;HUF;1
+EUR_ItaHCOBServicesPMI;20190904;07:45;HCOB Services PMI;Italy;EUR;1
+EUR_FraHCOBServicesPMI;20190904;07:50;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20190904;07:50;HCOB Composite PMI;France;EUR;1
+EUR_GerHCOBServicesPMI;20190904;07:55;HCOB Services PMI;Germany;EUR;1
+EUR_GerHCOBCompositePMI;20190904;07:55;HCOB Composite PMI;Germany;EUR;2
+EUR_EurHCOBServicesPMI;20190904;08:00;HCOB Services PMI;European Monetary Union;EUR;1
+EUR_EurHCOBCompositePMI;20190904;08:00;HCOB Composite PMI;European Monetary Union;EUR;2
+GBP_S&PGlobalCIPSServicesPMI;20190904;08:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;2
+ILS_BudgetBalanceILS;20190904;08:32;Budget Balance - ILS;Israel;ILS;1
+EUR_EurRetailSales;20190904;09:00;Retail Sales (MoM);European Monetary Union;EUR;1
+USD_MBAMortgageApplications;20190904;11:00;MBA Mortgage Applications;United States;USD;1
+CAD_LaborProductivity;20190904;12:30;Labor Productivity (QoQ);Canada;CAD;1
+USD_GoodsandServicesTradeBalance;20190904;12:30;Goods and Services Trade Balance;United States;USD;2
+CAD_Exports;20190904;12:30;Exports;Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20190904;12:30;International Merchandise Trade;Canada;CAD;2
+CAD_Imports;20190904;12:30;Imports;Canada;CAD;1
+USD_RedbookIndex;20190904;12:55;Redbook Index (YoY);United States;USD;1
+GBP_CentralBankSpeech;20190904;13:15;BoE Governor Carney speech;United Kingdom;GBP;3
+GBP_BoEMonetaryPolicyReportHearings;20190904;13:15;BoE Monetary Policy Report Hearings;United Kingdom;GBP;3
+USD_ISMNYBusinessConditionsIndex;20190904;13:45;ISM-NY Business Conditions Index;United States;USD;1
+CAD_BoCInterestRateDecision;20190904;14:00;BoC Interest Rate Decision;Canada;CAD;3
+CAD_BoCRateStatement;20190904;14:00;BoC Rate Statement;Canada;CAD;3
+USD_IBDTIPPEconomicOptimism;20190904;14:48;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+EUR_EurCentralBankSpeech;20190904;16:30;ECB De Guindos speech;European Monetary Union;EUR;2
+USD_FedBeigeBook;20190904;18:00;Fed Beige Book;United States;USD;2
+GBP_UKParliamentaryVoteonBrexit;20190904;18:00;UK Parliamentary Vote on Brexit;United Kingdom;GBP;3
+USD_CentralBankSpeech;20190904;19:15;Fed Evans speech;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20190904;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_CurrentAccount;20190904;23:00;Current Account Balance;South Korea;KRW;1
+JPY_ForeignInvestmentinJapanStocks;20190904;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20190904;23:50;Foreign Bond Investment;Japan;JPY;1

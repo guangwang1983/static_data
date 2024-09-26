@@ -1,0 +1,36 @@
+KRW_CurrentAccount;20180305;23:00;Current Account Balance;South Korea;KRW;1
+KRW_ConsumerPriceIndex;20180305;23:00;Consumer Price Index Growth (MoM);South Korea;KRW;1
+USD_CentralBankSpeech;20180305;18:15;Fed Quarles speech;United States;USD;2
+USD_Auction;20180305;16:30;6-Month Bill Auction;United States;USD;1
+USD_ISMNonManufacturingPMI;20180305;15:00;ISM Non-Manufacturing PMI;United States;USD;2
+USD_MarkitServicesPMI;20180305;14:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20180305;14:45;Markit PMI Composite;United States;USD;2
+CLP_IMACEC;20180305;11:30;IMACEC;Chile;CLP;1
+EUR_GreGrossDomesticProduct;20180305;10:00;Gross Domestic Product s.a (YoY);Greece;EUR;1
+EUR_EurRetailSales;20180305;10:00;Retail Sales (MoM);European Monetary Union;EUR;1
+EUR_EurSentixInvestorConfidence;20180305;09:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+GBP_MarkitServicesPMI;20180305;09:30;Markit Services PMI;United Kingdom;GBP;2
+EUR_EurMarkitPMIComposite;20180305;09:00;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20180305;09:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_GerMarkitPMIComposite;20180305;08:55;Markit PMI Composite;Germany;EUR;2
+EUR_GerMarkitServicesPMI;20180305;08:55;Markit Services PMI;Germany;EUR;2
+EUR_FraMarkitServicesPMI;20180305;08:50;Markit Services PMI;France;EUR;1
+EUR_FraMarkitPMIComposite;20180305;08:50;Markit PMI Composite;France;EUR;1
+EUR_ItaMarkitServicesPMI;20180305;08:45;Markit Services PMI;Italy;EUR;1
+SEK_CurrentAccount;20180305;08:30;Current Account (QoQ);Sweden;SEK;1
+EUR_SpaMarkitServicesPMI;20180305;08:15;Markit Services PMI;Spain;EUR;2
+HUF_RetailSales;20180305;08:00;Retail Sales (YoY);Hungary;HUF;1
+TRY_ProducerPriceIndex;20180305;07:00;Producer Price Index (YoY);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20180305;07:00;Consumer Price Index (YoY);Turkey;TRY;1
+RUB_PurchasingManagerIndexServices;20180305;06:00;Purchasing Manager Index Services;Russia;RUB;1
+EUR_IrePurchasingManagerIndexServices;20180305;06:00;Purchasing Manager Index Services;Ireland;EUR;1
+CNY_CaixinServicesPMI;20180305;01:45;Caixin Services PMI;China;CNY;2
+HKD_NikkeiManufacturingPMI;20180305;00:30;Nikkei Manufacturing PMI;Hong Kong SAR;HKD;1
+JPY_MarkitServicesPMI;20180305;00:30;Markit Services PMI;Japan;JPY;1
+AUD_CompanyGrossOperatingProfits;20180305;00:30;Company Gross Operating Profits (QoQ);Australia;AUD;1
+AUD_ANZJobAdvertisements;20180305;00:30;ANZ Job Advertisements;Australia;AUD;1
+AUD_BuildingPermits;20180305;00:30;Building Permits (MoM);Australia;AUD;2
+EUR_IreConsumerConfidence;20180305;00:01;Consumer Confidence;Ireland;EUR;1
+KRW_ChildrenDay;20180305;00:00;Children Day;South Korea;KRW;0
+NZD_ANZCommodityPrice;20180305;00:00;ANZ Commodity Price;New Zealand;NZD;1
+AUD_TDSecuritiesInflation;20180305;00:00;TD Securities Inflation (MoM);Australia;AUD;1

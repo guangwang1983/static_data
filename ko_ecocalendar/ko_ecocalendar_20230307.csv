@@ -1,0 +1,40 @@
+GBP_RetailSales;20230307;00:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+AUD_Imports;20230307;00:30;Imports (MoM);Australia;AUD;2
+AUD_Exports;20230307;00:30;Exports (MoM);Australia;AUD;2
+AUD_TradeBalance;20230307;00:30;Trade Balance (MoM);Australia;AUD;3
+AUD_RBAInterestRateDecision;20230307;03:30;RBA Interest Rate Decision;Australia;AUD;3
+AUD_RBARateStatement;20230307;03:30;RBA Rate Statement;Australia;AUD;3
+CNY_Exports;20230307;04:20;Exports (YoY);China;CNY;2
+CNY_Imports;20230307;04:20;Imports (YoY) CNY;China;CNY;1
+CNY_TradeBalanceUSD;20230307;04:20;Trade Balance USD;China;CNY;2
+CNY_TradeBalanceCNY;20230307;04:20;Trade Balance CNY;China;CNY;1
+ZAR_Gross$Gold&ForexReserve;20230307;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+ZAR_Net$Gold&ForexReserve;20230307;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+CHF_UnemploymentRate;20230307;06:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+DKK_IndustrialProduction;20230307;07:00;Industrial Production (MoM);Denmark;DKK;1
+NOK_ManufacturingOutput;20230307;07:00;Manufacturing Output;Norway;NOK;1
+GBP_HalifaxHousePrices;20230307;07:00;Halifax House Prices (YoY/3m);United Kingdom;GBP;1
+EUR_GerFactoryOrders;20230307;07:00;Factory Orders n.s.a. (YoY);Germany;EUR;1
+HUF_IndustrialOutput;20230307;07:30;Industrial Output (YoY);Hungary;HUF;1
+CHF_ForeignCurrencyReserves;20230307;08:00;Foreign Currency Reserves;Switzerland;CHF;1
+CNY_ForeignExchangeReserves;20230307;08:00;Foreign Exchange Reserves (MoM);China;CNY;1
+CZK_FXReserves;20230307;09:00;FX Reserves;Czech Republic;CZK;1
+ZAR_GrossDomesticProduct;20230307;09:30;Gross Domestic Product (YoY);South Africa;ZAR;1
+CLP_TradeBalance;20230307;11:30;Trade Balance;Chile;CLP;1
+MXN_ConsumerConfidence;20230307;12:00;Consumer Confidence;Mexico;MXN;1
+PLN_CentralBankFXReserves;20230307;13:00;Central Bank FX Reserves;Poland;PLN;1
+USD_RedbookIndex;20230307;13:55;Redbook Index (YoY);United States;USD;1
+NZD_GDTPriceIndex;20230307;14:20;GDT Price Index;New Zealand;NZD;1
+TRY_TreasuryCashBalance;20230307;14:30;Treasury Cash Balance;Turkey;TRY;1
+USD_FedChairPowelltestifies;20230307;15:00;Fed Chair Powell testifies;United States;USD;3
+USD_WholesaleInventories;20230307;15:00;Wholesale Inventories;United States;USD;1
+USD_IBDTIPPEconomicOptimism;20230307;15:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+USD_Auction;20230307;18:00;3-Year Note Auction;United States;USD;1
+INR_Holi;20230307;18:30;Holi ;India;INR;0
+USD_ConsumerCreditChange;20230307;20:00;Consumer Credit Change;United States;USD;1
+RUB_WomenDay;20230307;21:00;Women Day;Russia;RUB;0
+USD_APIWeeklyCrudeOilStock;20230307;21:30;API Weekly Crude Oil Stock;United States;USD;1
+AUD_CentralBankSpeech;20230307;21:55;RBA Governor Lowe speech;Australia;AUD;3
+JPY_BankLending;20230307;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_CurrentAccount;20230307;23:50;Current Account n.s.a.;Japan;JPY;2
+JPY_TradeBalanceBOPBasis;20230307;23:50;Trade Balance - BOP Basis;Japan;JPY;1

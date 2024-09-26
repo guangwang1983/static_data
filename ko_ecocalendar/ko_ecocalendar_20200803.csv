@@ -1,0 +1,41 @@
+KRW_S&PGlobalManufacturingPMI;20200803;00:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+JPY_JibunBankManufacturingPMI;20200803;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+AUD_TDSecuritiesInflation;20200803;01:00;TD Securities Inflation (MoM);Australia;AUD;2
+AUD_ANZJobAdvertisements;20200803;01:30;ANZ Job Advertisements;Australia;AUD;1
+CNY_CaixinManufacturingPMI;20200803;01:45;Caixin Manufacturing PMI;China;CNY;2
+IDR_Inflation;20200803;04:00;Inflation (MoM);Indonesia;IDR;1
+IDR_CoreInflation;20200803;04:00;Core Inflation (YoY);Indonesia;IDR;1
+CAD_AugustCivicHoliday;20200803;05:00;August Civic Holiday;Canada;CAD;0
+RUB_S&PGlobalManufacturingPMI;20200803;06:00;S&P Global Manufacturing PMI;Russia;RUB;1
+SEK_PurchasingManagersIndexManufacturing;20200803;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+CHF_ConsumerPriceIndex;20200803;06:30;Consumer Price Index (YoY);Switzerland;CHF;2
+CZK_UnemploymentRate;20200803;07:00;Unemployment Rate;Czech Republic;CZK;1
+HUF_PurchasingManagerIndex;20200803;07:00;Purchasing Manager Index;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20200803;07:00;Purchasing Manager Index;Poland;PLN;2
+CHF_SVMEPurchasingManagers'Index;20200803;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_S&PGlobalPMI;20200803;07:30;S&P Global PMI;Czech Republic;CZK;1
+EUR_ItaHCOBManufacturingPMI;20200803;07:45;HCOB Manufacturing PMI;Italy;EUR;2
+EUR_FraHCOBManufacturingPMI;20200803;07:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerHCOBManufacturingPMI;20200803;07:55;HCOB Manufacturing PMI;Germany;EUR;2
+EUR_EurHCOBManufacturingPMI;20200803;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;1
+GBP_S&PGlobalCIPSManufacturingPMI;20200803;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+DKK_ManufacturingPMI;20200803;09:00;Manufacturing PMI;Denmark;DKK;1
+BRL_TradeBalance;20200803;10:00;Trade Balance;Brazil;BRL;1
+CLP_IMACEC;20200803;10:30;IMACEC;Chile;CLP;1
+ZAR_TotalNewVehicleSales;20200803;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+CZK_BudgetBalance;20200803;12:00;Budget Balance;Czech Republic;CZK;1
+BRL_S&PGlobalManufacturingPMI;20200803;13:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+USD_S&PGlobalManufacturingPMI;20200803;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_ISMManufacturingNewOrdersIndex;20200803;14:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ISMManufacturingPMI;20200803;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20200803;14:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ISMManufacturingEmploymentIndex;20200803;14:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ConstructionSpending;20200803;14:00;Construction Spending (MoM);United States;USD;1
+USD_Auction;20200803;15:30;6-Month Bill Auction;United States;USD;1
+USD_LoanOfficerSurvey;20200803;18:00;Loan Officer Survey;United States;USD;1
+USD_TotalVehicleSales;20200803;19:30;Total Vehicle Sales;United States;USD;1
+KRW_ConsumerPriceIndex;20200803;23:00;Consumer Price Index Growth (YoY);South Korea;KRW;1
+JPY_TokyoCPIexFreshFood;20200803;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20200803;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;2
+JPY_TokyoCPIexFoodEnergy;20200803;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_MonetaryBase;20200803;23:50;Monetary Base (YoY);Japan;JPY;1

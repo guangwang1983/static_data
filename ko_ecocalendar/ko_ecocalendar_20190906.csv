@@ -1,0 +1,52 @@
+COP_ConsumerPriceIndex;20190906;00:00;Consumer Price Index (MoM);Colombia;COP;1
+JPY_LeadingEconomicIndex;20190906;05:00;Leading Economic Index;Japan;JPY;2
+JPY_CoincidentIndex;20190906;05:00;Coincident Index;Japan;JPY;1
+EUR_GerIndustrialProduction;20190906;06:00;Industrial Production s.a. (MoM);Germany;EUR;2
+RON_GrossDomesticProduct;20190906;06:00;Gross Domestic Product;Romania;RON;1
+DKK_IndustrialProduction;20190906;06:00;Industrial Production (MoM);Denmark;DKK;1
+NOK_ManufacturingOutput;20190906;06:00;Manufacturing Output;Norway;NOK;1
+ZAR_Gross$Gold&ForexReserve;20190906;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+ZAR_Net$Gold&ForexReserve;20190906;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+EUR_FraImportsEUR;20190906;06:45;Imports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20190906;06:45;Trade Balance EUR;France;EUR;1
+EUR_FraExportsEUR;20190906;06:45;Exports, EUR;France;EUR;1
+EUR_FraCurrentAccount;20190906;06:45;Current Account;France;EUR;1
+HUF_IndustrialOutput;20190906;07:00;Industrial Output (YoY);Hungary;HUF;1
+CZK_IndustrialProduction;20190906;07:00;Industrial Production (YoY);Czech Republic;CZK;1
+CZK_Constructionoutput;20190906;07:00;Construction output (YoY);Czech Republic;CZK;1
+HUF_TradeBalance;20190906;07:00;Trade Balance;Hungary;HUF;1
+CZK_ForeignTradeBalance;20190906;07:01;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+CHF_ForeignCurrencyReserves;20190906;07:14;Foreign Currency Reserves;Switzerland;CHF;1
+GBP_HalifaxHousePrices;20190906;07:30;Halifax House Prices (YoY/3m);United Kingdom;GBP;1
+EUR_ItaRetailSales;20190906;08:00;Retail Sales s.a. (MoM);Italy;EUR;1
+GBP_ConsumerInflationExpectations;20190906;08:30;Consumer Inflation Expectations;United Kingdom;GBP;1
+EUR_EurGrossDomesticProduct;20190906;09:00;Gross Domestic Product s.a. (QoQ);European Monetary Union;EUR;3
+EUR_EurEmploymentChange;20190906;09:00;Employment Change (YoY);European Monetary Union;EUR;1
+EUR_EurCentralBankSpeech;20190906;09:15;ECB De Guindos speech;European Monetary Union;EUR;2
+RUB_Interestratedecision;20190906;10:30;Interest rate decision;Russia;RUB;2
+INR_FXReservesUSD;20190906;11:30;FX Reserves, USD;India;INR;1
+BRL_IPCAInflation;20190906;12:00;IPCA Inflation;Brazil;BRL;1
+PLN_CentralBankFXReserves;20190906;12:00;Central Bank FX Reserves;Poland;PLN;1
+CLP_ConsumerPriceIndex;20190906;12:04;Core Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+USD_NonfarmPayrolls;20190906;12:30;Nonfarm Payrolls;United States;USD;3
+USD_AverageWeeklyHours;20190906;12:30;Average Weekly Hours;United States;USD;1
+USD_AverageHourlyEarnings;20190906;12:30;Average Hourly Earnings (YoY);United States;USD;3
+USD_LaborForceParticipationRate;20190906;12:30;Labor Force Participation Rate;United States;USD;2
+USD_U6UnderemploymentRate;20190906;12:30;U6 Underemployment Rate;United States;USD;1
+USD_UnemploymentRate;20190906;12:30;Unemployment Rate;United States;USD;2
+CAD_ParticipationRate;20190906;12:30;Participation Rate;Canada;CAD;2
+CAD_AverageHourlyWages;20190906;12:30;Average Hourly Wages (YoY);Canada;CAD;2
+CAD_NetChangeinEmployment;20190906;12:30;Net Change in Employment;Canada;CAD;3
+CAD_UnemploymentRate;20190906;12:30;Unemployment Rate;Canada;CAD;3
+CAD_IveyPurchasingManagersIndex;20190906;14:00;Ivey Purchasing Managers Index s.a;Canada;CAD;2
+TRY_TreasuryCashBalance;20190906;14:30;Treasury Cash Balance;Turkey;TRY;1
+CHF_CentralBankSpeech;20190906;16:30;SNB Chairman Jordan speech;Switzerland;CHF;3
+USD_CentralBankSpeech;20190906;16:30;Fed Chair Powell speech;United States;USD;3
+USD_BakerHughesUSOilRigCount;20190906;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20190906;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20190906;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCOilNCNetPositions;20190906;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20190906;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20190906;19:30;CFTC Gold NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20190906;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCS&P500NCNetPositions;20190906;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1

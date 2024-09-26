@@ -1,0 +1,20 @@
+EUR_GerGfkConsumerConfidenceSurvey;20230829;06:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+SEK_RetailSales;20230829;06:00;Retail Sales (YoY);Sweden;SEK;1
+SEK_GrossDomesticProduct;20230829;06:00;Gross Domestic Product (QoQ);Sweden;SEK;1
+SEK_TradeBalance;20230829;06:00;Trade Balance (MoM);Sweden;SEK;1
+EUR_FraConsumerConfidence;20230829;06:45;Consumer Confidence;France;EUR;1
+TRY_TradeBalance;20230829;07:00;Trade Balance;Turkey;TRY;1
+TRY_EconomicConfidenceIndex;20230829;07:00;Economic Confidence Index;Turkey;TRY;1
+CZK_GrossDomesticProduct;20230829;07:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+AUD_CentralBankSpeech;20230829;07:40;RBA Bullock speech;Australia;AUD;2
+MXN_GrossDomesticProduct;20230829;12:00;Gross Domestic Product (QoQ);Mexico;MXN;1
+HUF_MNBInterestRateDecision;20230829;12:00;MNB Interest Rate Decision;Hungary;HUF;1
+USD_RedbookIndex;20230829;12:55;Redbook Index (YoY);United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20230829;13:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;1
+USD_HousingPriceIndex;20230829;13:00;Housing Price Index (MoM);United States;USD;2
+USD_JOLTSJobOpenings;20230829;14:00;JOLTS Job Openings;United States;USD;2
+USD_ConsumerConfidence;20230829;14:00;Consumer Confidence;United States;USD;2
+USD_Auction;20230829;17:00;7-Year Note Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20230829;20:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_BuildingPermits;20230829;22:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+TRY_VictoryDay;20230829;23:00;Victory Day ;Turkey;TRY;0

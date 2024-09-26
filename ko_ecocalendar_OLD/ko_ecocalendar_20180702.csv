@@ -1,0 +1,48 @@
+JPY_MonetaryBase;20180702;23:50;Monetary Base (YoY);Japan;JPY;1
+KRW_ConsumerPriceIndex;20180702;23:00;Consumer Price Index Growth (MoM);South Korea;KRW;1
+NZD_NZIERBusinessConfidence;20180702;22:00;NZIER Business Confidence (QoQ);New Zealand;NZD;2
+ARS_TaxRevenue;20180702;20:00;Tax Revenue (MoM);Argentina;ARS;1
+USD_Auction;20180702;15:30;4-Week Bill Auction;United States;USD;1
+USD_ISMPricesPaid;20180702;14:00;ISM Prices Paid;United States;USD;2
+USD_ISMManufacturingPMI;20180702;14:00;ISM Manufacturing PMI;United States;USD;2
+USD_ConstructionSpending;20180702;14:00;Construction Spending (MoM);United States;USD;1
+USD_MarkitManufacturingPMI;20180702;13:45;Markit Manufacturing PMI;United States;USD;1
+BRL_HSBCPMIManufacturing;20180702;13:00;HSBC PMI Manufacturing;Brazil;BRL;1
+SGD_PurchasingManagersIndex;20180702;13:00;Purchasing Managers Index;Singapore;SGD;1
+ZAR_TotalNewVehicleSales;20180702;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+CZK_BudgetBalance;20180702;12:00;Budget Balance;Czech Republic;CZK;1
+INR_InfrastructureOutput;20180702;11:30;Infrastructure Output (YoY);India;INR;1
+TRY_Exports;20180702;09:00;Exports;Turkey;TRY;1
+EUR_EurUnemploymentRate;20180702;09:00;Unemployment Rate;European Monetary Union;EUR;2
+GBP_MarkitManufacturingPMI;20180702;08:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+PLN_ConsumerPriceIndex;20180702;08:00;Consumer Price Index (MoM);Poland;PLN;1
+EUR_ItaUnemployment;20180702;08:00;Unemployment;Italy;EUR;2
+EUR_GreMarkitManufacturingPMI;20180702;08:00;Markit Manufacturing PMI;Greece;EUR;1
+EUR_EurMarkitManufacturingPMI;20180702;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_GerMarkitManufacturingPMI;20180702;07:55;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20180702;07:50;Markit Manufacturing PMI;France;EUR;1
+EUR_ItaMarkitManufacturingPMI;20180702;07:45;Markit Manufacturing PMI;Italy;EUR;1
+CHF_SVMEPurchasingManagers'Index;20180702;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_MarkitPMI;20180702;07:30;Markit PMI;Czech Republic;CZK;1
+EUR_SpaMarkitManufacturingPMI;20180702;07:15;Markit Manufacturing PMI;Spain;EUR;1
+CHF_RetailSales;20180702;07:15;Real Retail Sales (YoY);Switzerland;CHF;2
+EUR_AusUnemployment;20180702;07:00;Unemployment;Austria;EUR;1
+EUR_AusUnemploymentRate;20180702;07:00;Unemployment Rate;Austria;EUR;1
+HUF_PurchasingManagerIndex;20180702;07:00;Purchasing Manager Index;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20180702;07:00;Purchasing Manager Index;Poland;PLN;2
+AUD_RBACommodityIndexSDR;20180702;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+SEK_PurchasingManagersIndexManufacturing;20180702;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+RUB_HSBCManufacturingPMI;20180702;06:00;HSBC Manufacturing PMI	;Russia;RUB;1
+EUR_IrePurchasingManagerIndexManufacturing;20180702;05:00;Purchasing Manager Index Manufacturing;Ireland;EUR;1
+IDR_CoreInflation;20180702;04:00;Core Inflation (YoY);Indonesia;IDR;1
+IDR_Inflation;20180702;04:00;Inflation (YoY);Indonesia;IDR;1
+CNY_CaixinManufacturingPMI;20180702;01:45;Caixin Manufacturing PMI;China;CNY;2
+AUD_ANZJobAdvertisements;20180702;01:30;ANZ Job Advertisements;Australia;AUD;1
+AUD_TDSecuritiesInflation;20180702;01:00;TD Securities Inflation (MoM);Australia;AUD;1
+KRW_NikkeiMarkitManufacturingPMI;20180702;00:30;Nikkei Markit Manufacturing PMI;South Korea;KRW;1
+JPY_NikkeiManufacturingPMI;20180702;00:30;Nikkei Manufacturing PMI;Japan;JPY;1
+COP_SaintPeterandSaintPaul;20180702;00:00;Saint Peter and Saint Paul;Colombia;COP;0
+CLP_SaintPeterandSaintPaul;20180702;00:00;Saint Peter and Saint Paul ;Chile;CLP;0
+KRW_TradeBalance;20180702;00:00;Trade Balance;South Korea;KRW;1
+HKD_HongKongSpecialAdministrativeRegionEstablishmentDay;20180702;00:00;Hong Kong Special Administrative Region Establishment Day;Hong Kong SAR;HKD;0
+CAD_CanadaDay;20180702;00:00;Canada Day;Canada;CAD;0

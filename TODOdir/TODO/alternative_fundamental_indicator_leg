@@ -1,0 +1,8 @@
+We can try to change the fundamental indicator leg function:
+
+Price - Price_mean_drift / Price_std_volawin , Price=Weighted MidPrice.
+
+to:
+    1)Volume Weighted
+    2)Relative change
+

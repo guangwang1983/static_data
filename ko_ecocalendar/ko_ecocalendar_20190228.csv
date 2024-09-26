@@ -1,0 +1,71 @@
+NZD_ANZActivityOutlook;20190228;00:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20190228;00:00;ANZ Business Confidence;New Zealand;NZD;1
+GBP_GfKConsumerConfidence;20190228;00:01;GfK Consumer Confidence;United Kingdom;GBP;2
+AUD_PrivateSectorCredit;20190228;00:30;Private Sector Credit (YoY);Australia;AUD;1
+AUD_PrivateCapitalExpenditure;20190228;00:30;Private Capital Expenditure;Australia;AUD;1
+CNY_NonManufacturingPMI;20190228;01:00;Non-Manufacturing PMI;China;CNY;2
+CNY_NBSManufacturingPMI;20190228;01:00;NBS Manufacturing PMI;China;CNY;2
+KRW_BoKInterestRateDecision;20190228;01:00;BoK Interest Rate Decision;South Korea;KRW;1
+JPY_VehicleProduction;20190228;04:00;Vehicle Production (YoY);Japan;JPY;1
+JPY_AnnualizedHousingStarts;20190228;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_HousingStarts;20190228;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_ConstructionOrders;20190228;05:00;Construction Orders (YoY);Japan;JPY;1
+ZAR_PrivateSectorCredit;20190228;06:00;Private Sector Credit;South Africa;ZAR;1
+ZAR_M3MoneySupply;20190228;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+CHF_GrossDomesticProduct;20190228;06:45;Gross Domestic Product s.a. (QoQ);Switzerland;CHF;2
+EUR_GerImportPriceIndex;20190228;07:00;Import Price Index (MoM);Germany;EUR;1
+TRY_TradeBalance;20190228;07:00;Trade Balance;Turkey;TRY;1
+DKK_UnemploymentRate;20190228;07:00;Unemployment Rate;Denmark;DKK;1
+DKK_GrossDomesticProduct;20190228;07:00;Gross Domestic Product (YoY);Denmark;DKK;1
+GBP_NationwideHousingPrices;20190228;07:00;Nationwide Housing Prices s.a (MoM);United Kingdom;GBP;1
+NOK_CreditIndicator;20190228;07:00;Credit Indicator;Norway;NOK;1
+TRY_ForeignArrivals;20190228;07:00;Foreign Arrivals;Turkey;TRY;1
+EUR_FraProducerPrices;20190228;07:45;Producer Prices (MoM);France;EUR;1
+EUR_FraConsumerPriceIndex;20190228;07:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraConsumerSpending;20190228;07:45;Consumer Spending (MoM);France;EUR;1
+EUR_FraGrossDomesticProduct;20190228;07:45;Gross Domestic Product (QoQ);France;EUR;1
+CHF_KOFLeadingIndicator;20190228;08:00;KOF Leading Indicator;Switzerland;CHF;2
+HUF_ProducerPriceIndex;20190228;08:00;Producer Price Index (YoY);Hungary;HUF;1
+SEK_RetailSales;20190228;08:30;Retail Sales (YoY);Sweden;SEK;1
+SEK_ProducerPriceIndex;20190228;08:30;Producer Price Index (YoY);Sweden;SEK;1
+SEK_GrossDomesticProduct;20190228;08:30;Gross Domestic Product (QoQ);Sweden;SEK;1
+PLN_GrossDomesticProduct;20190228;09:00;Gross Domestic Product Qtr (YoY);Poland;PLN;1
+ZAR_ProducerPriceIndex;20190228;09:30;Producer Price Index (YoY);South Africa;ZAR;1
+EUR_ItaConsumerPriceIndex;20190228;10:00;Consumer Price Index (YoY);Italy;EUR;1
+INR_InfrastructureOutput;20190228;11:30;Infrastructure Output (YoY);India;INR;1
+BRL_GrossDomesticProduct;20190228;12:00;Gross Domestic Product (YoY);Brazil;BRL;1
+INR_GrossDomesticProduct;20190228;12:00;Gross Domestic Product Quarterly (YoY);India;INR;1
+CLP_IndustrialProduction;20190228;12:00;Industrial Production (YoY);Chile;CLP;1
+ZAR_TradeBalance;20190228;12:03;Trade Balance (in Rands);South Africa;ZAR;1
+CLP_Unemploymentrate;20190228;12:16;Unemployment rate;Chile;CLP;1
+RUB_CentralBankReserves;20190228;13:00;Central Bank Reserves $;Russia;RUB;1
+EUR_GerConsumerPriceIndex;20190228;13:00;Consumer Price Index (YoY);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20190228;13:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+CAD_IndustrialProductPrice;20190228;13:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_RawMaterialPriceIndex;20190228;13:30;Raw Material Price Index;Canada;CAD;1
+CAD_CurrentAccount;20190228;13:30;Current Account;Canada;CAD;2
+USD_JoblessClaims;20190228;13:30;Continuing Jobless Claims;United States;USD;1
+USD_GrossDomesticProduct;20190228;13:30;Gross Domestic Product Annualized;United States;USD;3
+BRL_PrimaryBudgetSurplus;20190228;13:30;Primary Budget Surplus;Brazil;BRL;1
+BRL_NominalBudgetBalance;20190228;13:30;Nominal Budget Balance;Brazil;BRL;1
+USD_CorePersonalConsumptionExpenditures;20190228;13:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+USD_PersonalConsumptionExpendituresPrices;20190228;13:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+USD_CentralBankSpeech;20190228;13:50;Fed Bostic speech;United States;USD;2
+USD_ChicagoPurchasingManagers'Index;20190228;14:51;Chicago Purchasing Managers' Index;United States;USD;2
+COP_NationalJoblessRate;20190228;15:00;National Jobless Rate;Colombia;COP;1
+USD_EIANaturalGasStorageChange;20190228;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_KansasFedManufacturingActivity;20190228;16:00;Kansas Fed Manufacturing Activity;United States;USD;1
+COP_GrossDomesticProduct;20190228;16:00;Gross Domestic Product (YoY);Colombia;COP;1
+USD_Auction;20190228;16:30;4-Week Bill Auction;United States;USD;1
+COP_Interestrate;20190228;20:00;Interest rate;Colombia;COP;1
+NZD_ANZ–RoyMorganConsumerConfidence;20190228;21:00;ANZ – Roy Morgan Consumer Confidence;New Zealand;NZD;2
+AUD_AiGPerformanceofMfgIndex;20190228;21:30;AiG Performance of Mfg Index;Australia;AUD;2
+NZD_BuildingPermits;20190228;21:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+NZD_TermsofTradeIndex;20190228;21:45;Terms of Trade Index;New Zealand;NZD;1
+AUD_S&PGlobalManufacturingPMI;20190228;22:00;S&P Global Manufacturing PMI;Australia;AUD;2
+JPY_TokyoCPIexFreshFood;20190228;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;3
+JPY_ConsumerPriceIndex;20190228;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;2
+JPY_TokyoCPIexFoodEnergy;20190228;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_UnemploymentRate;20190228;23:30;Unemployment Rate;Japan;JPY;2
+JPY_JobsApplicantsRatio;20190228;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+JPY_CapitalSpending;20190228;23:50;Capital Spending;Japan;JPY;1

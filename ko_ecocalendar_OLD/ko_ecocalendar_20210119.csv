@@ -1,0 +1,25 @@
+AUD_WestpacConsumerConfidence;20210119;23:30;Westpac Consumer Confidence;Australia;AUD;2
+USD_NetLongTermTICFlows;20210119;21:00;Net Long-Term TIC Flows;United States;USD;1
+USD_TotalNetTICFlows;20210119;21:00;Total Net TIC Flows;United States;USD;1
+GBP_CentralBankSpeech;20210119;18:00;BoE Haldane speech;United Kingdom;GBP;2
+USD_Auction;20210119;16:30;3-Month Bill Auction;United States;USD;1
+NZD_GDTPriceIndex;20210119;15:00;GDT Price Index;New Zealand;NZD;1
+USD_RedbookIndex;20210119;13:55;Redbook Index (YoY);United States;USD;1
+CAD_ManufacturingSales;20210119;13:30;Manufacturing Sales (MoM);Canada;CAD;1
+CAD_WholesaleSales;20210119;13:30;Wholesale Sales (MoM);Canada;CAD;1
+EUR_EurConstructionOutput;20210119;10:00;Construction Output  s.a (MoM);European Monetary Union;EUR;1
+EUR_GerZEWSurvey–EconomicSentiment;20210119;10:00;ZEW Survey – Economic Sentiment;Germany;EUR;2
+EUR_EurZEWSurvey–EconomicSentiment;20210119;10:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurvey–CurrentSituation;20210119;10:00;ZEW Survey – Current Situation;Germany;EUR;2
+EUR_SpaAuction;20210119;09:40;3-Month Letras Auction;Spain;EUR;1
+EUR_EurECBBankLendingSurvey;20210119;09:00;ECB Bank Lending Survey;European Monetary Union;EUR;3
+EUR_ItaGlobalTradeBalance;20210119;09:00;Global Trade Balance;Italy;EUR;1
+EUR_ItaTradeBalanceEU;20210119;09:00;Trade Balance EU;Italy;EUR;1
+EUR_EurCurrentAccount;20210119;09:00;Current Account s.a;European Monetary Union;EUR;1
+HKD_Unemploymentrate;20210119;08:30;Unemployment rate;Hong Kong SAR;HKD;1
+CZK_ProducerPriceIndex;20210119;08:00;Producer Price Index (MoM);Czech Republic;CZK;1
+CHF_ProducerandImportPrices;20210119;07:30;Producer and Import Prices (YoY);Switzerland;CHF;1
+EUR_EurEcoFinMeeting;20210119;07:00;EcoFin Meeting;European Monetary Union;EUR;2
+EUR_GerConsumerPriceIndex;20210119;07:00;Consumer Price Index (YoY);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20210119;07:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+AUD_HIANewHomeSales;20210119;00:00;HIA New Home Sales (MoM);Australia;AUD;2

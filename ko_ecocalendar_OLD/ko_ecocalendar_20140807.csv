@@ -1,0 +1,48 @@
+JPY_BankLending;20140807;23:50;Bank Lending (YoY);Japan;JPY;2
+JPY_CurrentAccount;20140807;23:50;Current Account n.s.a.;Japan;JPY;1
+JPY_TradeBalanceBOPBasis;20140807;23:50;Trade Balance - BOP Basis;Japan;JPY;2
+USD_ConsumerCreditChange;20140807;19:00;Consumer Credit Change;United States;USD;2
+USD_EIANaturalGasStorageChange;20140807;14:30;EIA Natural Gas Storage Change;United States;USD;1
+TRY_TreasuryCashBalance;20140807;14:30;Treasury Cash Balance;Turkey;TRY;1
+CAD_IveyPurchasingManagersIndex;20140807;14:00;Ivey Purchasing Managers Index s.a;Canada;CAD;2
+HUF_BudgetBalance;20140807;14:00;Budget Balance;Hungary;HUF;1
+MXN_12MonthInflation;20140807;13:00;12-Month Inflation;Mexico;MXN;1
+MXN_CoreInflation;20140807;13:00;Core Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20140807;13:00;Headline Inflation;Mexico;MXN;1
+USD_JoblessClaims;20140807;12:30;Initial Jobless Claims;United States;USD;2
+CAD_BuildingPermits;20140807;12:30;Building Permits (MoM);Canada;CAD;1
+EUR_EurECBMonetaryPolicyStatementandPressConference;20140807;12:30;ECB Monetary Policy Statement and Press Conference;European Monetary Union;EUR;3
+CLP_TradeBalance;20140807;12:30;Trade Balance;Chile;CLP;1
+PLN_CentralBankFXReserves;20140807;12:00;Central Bank FX Reserves;Poland;PLN;1
+EUR_EurECBInterestRateDecision;20140807;11:45;ECB Interest Rate Decision;European Monetary Union;EUR;3
+INR_M3MoneySupply;20140807;11:30;M3 Money Supply;India;INR;1
+GBP_BoEAssetPurchaseFacility;20140807;11:00;BoE Asset Purchase Facility;United Kingdom;GBP;3
+GBP_BoEInterestRateDecision;20140807;11:00;BoE Interest Rate Decision;United Kingdom;GBP;3
+RUB_CentralBankReserves;20140807;11:00;Central Bank Reserves $;Russia;RUB;1
+ZAR_ManufacturingProductionIndex;20140807;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+EUR_IreHICP;20140807;10:00;HICP (YoY);Ireland;EUR;1
+EUR_IreConsumerPriceIndex;20140807;10:00;Consumer Price Index (YoY);Ireland;EUR;1
+ZAR_BusinessConfidenceIndex;20140807;09:30;Business Confidence Index;South Africa;ZAR;1
+EUR_SpaAuction;20140807;09:00;5-y Bond Auction;Spain;EUR;1
+SGD_ForeignReserves;20140807;09:00;Foreign Reserves (MoM);Singapore;SGD;1
+EUR_GreUnemploymentRate;20140807;09:00;Unemployment Rate (MoM);Greece;EUR;1
+NOK_ManufacturingOutput;20140807;08:00;Manufacturing Output;Norway;NOK;1
+CZK_FXReserves;20140807;08:00;FX Reserves;Czech Republic;CZK;1
+EUR_NetConsumerPriceIndex;20140807;07:30;Consumer Price Index n.s.a (YoY);Netherlands, The;EUR;1
+CHF_ForeignCurrencyReserves;20140807;07:00;Foreign Currency Reserves;Switzerland;CHF;1
+EUR_SpaIndustrialOutputCalAdjusted;20140807;07:00;Industrial Output Cal Adjusted (YoY);Spain;EUR;1
+HUF_TradeBalance;20140807;07:00;Trade Balance;Hungary;HUF;1
+EUR_FraImportsEUR;20140807;06:45;Imports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20140807;06:45;Trade Balance EUR;France;EUR;1
+EUR_FraExportsEUR;20140807;06:45;Exports, EUR;France;EUR;1
+EUR_GerIndustrialProduction;20140807;06:00;Industrial Production s.a. (MoM);Germany;EUR;1
+EUR_FinTradeBalance;20140807;06:00;Trade Balance;Finland;EUR;1
+ZAR_Net$Gold&ForexReserve;20140807;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+ZAR_Gross$Gold&ForexReserve;20140807;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+CHF_SECOConsumerClimate;20140807;05:45;SECO Consumer Climate (3m);Switzerland;CHF;1
+AUD_PartTimeEmployment;20140807;01:30;Part-Time Employment;Australia;AUD;1
+AUD_UnemploymentRate;20140807;01:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_EmploymentChange;20140807;01:30;Employment Change s.a.;Australia;AUD;3
+AUD_FulltimeEmployment;20140807;01:30;Fulltime Employment;Australia;AUD;2
+AUD_ParticipationRate;20140807;01:30;Participation Rate;Australia;AUD;2
+COP_BattleofBoyacaholiday;20140807;00:00;Battle of Boyaca holiday;Colombia;COP;0

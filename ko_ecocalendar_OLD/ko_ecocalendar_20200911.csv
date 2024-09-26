@@ -1,0 +1,39 @@
+USD_CFTCOilNCNetPositions;20200911;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20200911;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20200911;19:30;CFTC Gold NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20200911;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCS&P500NCNetPositions;20200911;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+AUD_CFTCAUDNCNetPositions;20200911;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20200911;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+USD_MonthlyBudgetStatement;20200911;18:00;Monthly Budget Statement;United States;USD;2
+USD_BakerHughesUSOilRigCount;20200911;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_USDAWASDEReport;20200911;16:00;USDA WASDE Report;United States;USD;1
+CAD_CapacityUtilization;20200911;14:30;Capacity Utilization;Canada;CAD;1
+RUB_ForeignTrade;20200911;13:00;Foreign Trade;Russia;RUB;1
+USD_ConsumerPriceIndex;20200911;12:30;Consumer Price Index Core s.a;United States;USD;2
+INR_CumulativeIndustrialOutput;20200911;12:00;Cumulative Industrial Output;India;INR;1
+INR_ManufacturingOutput;20200911;12:00;Manufacturing Output;India;INR;1
+INR_IndustrialOutput;20200911;12:00;Industrial Output;India;INR;1
+INR_BankLoanGrowth;20200911;11:30;Bank Loan Growth;India;INR;1
+GBP_NIESRGDPEstimate;20200911;11:00;NIESR GDP Estimate (3M);United Kingdom;GBP;2
+MXN_IndustrialOutput;20200911;11:00;Industrial Output (YoY);Mexico;MXN;1
+EUR_EurCentralBankSpeech;20200911;08:50;ECB Schnabel speech;European Monetary Union;EUR;2
+GBP_ConsumerInflationExpectations;20200911;08:30;Consumer Inflation Expectations;United Kingdom;GBP;1
+HUF_IndustrialOutput;20200911;07:00;Industrial Output (YoY);Hungary;HUF;1
+TRY_CurrentAccount;20200911;07:00;Current Account Balance;Turkey;TRY;1
+EUR_SpaIndustrialOutputCalAdjusted;20200911;07:00;Industrial Output Cal Adjusted (YoY);Spain;EUR;1
+EUR_SpaConsumerPriceIndex;20200911;07:00;Consumer Price Index (YoY);Spain;EUR;1
+EUR_SpaHICP;20200911;07:00;HICP (YoY);Spain;EUR;1
+GBP_IndustrialProduction;20200911;06:00;Industrial Production (YoY);United Kingdom;GBP;1
+GBP_ManufacturingProduction;20200911;06:00;Manufacturing Production (MoM);United Kingdom;GBP;2
+EUR_GerWholesalePriceIndex;20200911;06:00;Wholesale Price Index (MoM);Germany;EUR;1
+EUR_GerConsumerPriceIndex;20200911;06:00;Consumer Price Index (YoY);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20200911;06:00;Harmonized Index of Consumer Prices (MoM);Germany;EUR;1
+GBP_IndexofServices;20200911;06:00;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20200911;06:00;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20200911;06:00;Total Trade Balance;United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20200911;06:00;Goods Trade Balance;United Kingdom;GBP;1
+GBP_GrossDomesticProduct;20200911;06:00;Gross Domestic Product (MoM);United Kingdom;GBP;2
+EUR_FinCurrentAccount;20200911;05:00;Current Account;Finland;EUR;1
+KRW_MoneySupplyGrowth;20200911;03:00;Money Supply Growth;South Korea;KRW;1
+EUR_EurEurogroupMeeting;20200911;00:00;Eurogroup Meeting;European Monetary Union;EUR;2

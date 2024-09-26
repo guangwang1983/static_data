@@ -1,0 +1,52 @@
+JPY_ForeignInvestmentinJapanStocks;20190227;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20190227;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_IndustrialProduction;20190227;23:50;Industrial Production (YoY);Japan;JPY;2
+JPY_RetailTrade;20190227;23:50;Retail Trade s.a (MoM);Japan;JPY;2
+JPY_LargeRetailers'Sales;20190227;23:50;Large Retailers' Sales;Japan;JPY;2
+KRW_ServiceSectorOutput;20190227;23:00;Service Sector Output;South Korea;KRW;1
+KRW_IndustrialOutput;20190227;23:00;Industrial Output (YoY);South Korea;KRW;1
+KRW_IndustrialOutputGrowth;20190227;23:00;Industrial Output Growth;South Korea;KRW;1
+USD_EIACrudeOilStocksChange;20190227;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_PendingHomeSales;20190227;15:00;Pending Home Sales (YoY);United States;USD;1
+USD_FactoryOrders;20190227;15:00;Factory Orders (MoM);United States;USD;2
+MXN_TradeBalance;20190227;14:11;Trade Balance, $;Mexico;MXN;1
+MXN_TradeBalancesa;20190227;14:11;Trade Balance s/a, $;Mexico;MXN;1
+MXN_JoblessRate;20190227;14:02;Jobless Rate s.a;Mexico;MXN;1
+USD_FedChairPowelltestifies;20190227;14:00;Fed Chair Powell testifies;United States;USD;3
+USD_GoodsTradeBalance;20190227;13:30;Goods Trade Balance;United States;USD;1
+CAD_ConsumerPriceIndex;20190227;13:30;Consumer Price Index - Core (MoM);Canada;CAD;2
+INR_M3MoneySupply;20190227;12:10;M3 Money Supply;India;INR;1
+BRL_UnemploymentRate;20190227;12:00;Unemployment Rate;Brazil;BRL;1
+USD_MBAMortgageApplications;20190227;12:00;MBA Mortgage Applications;United States;USD;1
+BRL_InflationIndexIGPM;20190227;11:25;Inflation Index/IGP-M;Brazil;BRL;1
+EUR_GerAuction;20190227;10:40;10-y Bond Auction;Germany;EUR;2
+EUR_ItaAuction;20190227;10:30;10-y Bond Auction;Italy;EUR;1
+EUR_ItaTradeBalancenonEU;20190227;10:07;Trade Balance non-EU;Italy;EUR;1
+EUR_BelConsumerPriceIndex;20190227;10:00;Consumer Price Index (YoY);Belgium;EUR;1
+EUR_EurServicesSentiment;20190227;10:00;Services Sentiment;European Monetary Union;EUR;1
+EUR_EurConsumerConfidence;20190227;10:00;Consumer Confidence;European Monetary Union;EUR;1
+EUR_EurEconomicSentimentIndicator;20190227;10:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+EUR_EurBusinessClimate;20190227;10:00;Business Climate;European Monetary Union;EUR;1
+EUR_EurIndustrialConfidence;20190227;10:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_GerCentralBankSpeech;20190227;10:00;German Buba President Weidmann speech;Germany;EUR;2
+EUR_PorBusinessConfidence;20190227;09:30;Business Confidence;Portugal;EUR;1
+EUR_PorConsumerConfidence;20190227;09:30;Consumer Confidence;Portugal;EUR;1
+CHF_ZEWSurveyExpectations;20190227;09:00;ZEW Survey - Expectations;Switzerland;CHF;2
+EUR_ItaConsumerConfidence;20190227;09:00;Consumer Confidence;Italy;EUR;1
+EUR_ItaBusinessConfidence;20190227;09:00;Business Confidence;Italy;EUR;1
+ISK_ConsumerPriceIndex;20190227;09:00;Consumer Price Index (MoM);Iceland;ISK;1
+EUR_EurM3MoneySupply;20190227;09:00;M3 Money Supply (3m);European Monetary Union;EUR;1
+EUR_EurPrivateLoans;20190227;09:00;Private Loans (YoY);European Monetary Union;EUR;1
+EUR_EurCentralBankSpeech;20190227;08:30;ECB Cœuré speech;European Monetary Union;EUR;2
+SEK_TradeBalance;20190227;08:30;Trade Balance (MoM);Sweden;SEK;1
+HUF_UnemploymentRate;20190227;08:00;Unemployment Rate (3M);Hungary;HUF;1
+SEK_ConsumerConfidence;20190227;08:00;Consumer Confidence (MoM);Sweden;SEK;1
+DKK_IndustrialOutlook;20190227;07:00;Industrial Outlook;Denmark;DKK;1
+EUR_FinConsumerConfidence;20190227;07:00;Consumer Confidence;Finland;EUR;1
+EUR_FinIndustrialConfidence;20190227;07:00;Industrial Confidence;Finland;EUR;1
+TRY_Economicconfidenceindex;20190227;07:00;Economic confidence index;Turkey;TRY;1
+NOK_LabourForceSurvey;20190227;07:00;Labour Force Survey;Norway;NOK;1
+NOK_RetailSales;20190227;07:00;Retail Sales ;Norway;NOK;1
+HKD_GrossDomesticProduct;20190227;03:30;Gross Domestic Product (YoY);Hong Kong SAR;HKD;1
+AUD_ConstructionWorkDone;20190227;00:30;Construction Work Done;Australia;AUD;1
+GBP_BRCShopPriceIndex;20190227;00:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1

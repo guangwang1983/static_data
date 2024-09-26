@@ -1,0 +1,26 @@
+EUR_EurEurogroupMeeting;20190311;00:00;Eurogroup Meeting;European Monetary Union;EUR;2
+JPY_MachineToolOrders;20190311;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+NOK_ConsumerPriceIndex;20190311;07:00;Consumer Price Index (MoM);Norway;NOK;1
+NOK_CoreInflation;20190311;07:00;Core Inflation (MoM);Norway;NOK;1
+DKK_ConsumerPriceIndex;20190311;07:00;Consumer Price Index (YoY);Denmark;DKK;1
+DKK_Inflation;20190311;07:00;Inflation (HICP) (YoY);Denmark;DKK;1
+TRY_GrossDomesticProduct;20190311;07:00;Quarterly Gross Domestic Product;Turkey;TRY;1
+EUR_GerIndustrialProduction;20190311;07:00;Industrial Production s.a. (MoM);Germany;EUR;2
+TRY_CurrentAccount;20190311;07:00;Current Account Balance;Turkey;TRY;1
+DKK_TradeBalance;20190311;07:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20190311;07:00;Current Account;Denmark;DKK;1
+NOK_ProducerPriceIndex;20190311;07:00;Producer Price Index (YoY);Norway;NOK;1
+EUR_GerExports;20190311;07:00;Exports (MoM);Germany;EUR;1
+EUR_GerTradeBalance;20190311;07:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerCurrentAccount;20190311;07:00;Current Account n.s.a.;Germany;EUR;1
+EUR_GerImports;20190311;07:00;Imports (MoM);Germany;EUR;1
+CZK_ConsumerPriceIndex;20190311;08:00;Consumer Price Index (MoM);Czech Republic;CZK;1
+HUF_TradeBalance;20190311;08:00;Trade Balance;Hungary;HUF;1
+CZK_ForeignTradeBalance;20190311;08:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+IDR_RetailSales;20190311;09:00;Retail Sales (YoY);Indonesia;IDR;1
+USD_RetailSales;20190311;12:30;Retail Sales (MoM);United States;USD;2
+GBP_CentralBankSpeech;20190311;13:00;BoE Haskel speech;United Kingdom;GBP;2
+USD_BusinessInventories;20190311;14:00;Business Inventories;United States;USD;1
+USD_Auction;20190311;17:00;3-Year Note Auction;United States;USD;1
+USD_CentralBankSpeech;20190311;23:00;Fed Chair Powell speech;United States;USD;3
+JPY_BSILargeManufacturingConditionsIndex;20190311;23:50;BSI Large Manufacturing Conditions Index (QoQ);Japan;JPY;1

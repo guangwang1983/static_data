@@ -1,0 +1,24 @@
+USD_BankStressTestInfo;20170622;20:30;Bank Stress Test Info;United States;USD;3
+ARS_TradeBalance;20170622;19:00;Trade Balance (MoM);Argentina;ARS;1
+GBP_CentralBankSpeech;20170622;18:00;BoE Forbes speech;United Kingdom;GBP;1
+MXN_CentralBankInterestRate;20170622;18:00;Central Bank Interest Rate;Mexico;MXN;1
+USD_KansasFedManufacturingActivity;20170622;15:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_EIANaturalGasStorageChange;20170622;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_CentralBankSpeech;20170622;14:00;FOMC Member Powell speech (don't use);United States;USD;1
+EUR_EurConsumerConfidence;20170622;14:00;Consumer Confidence;European Monetary Union;EUR;2
+RUB_CentralBankReserves;20170622;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_HousingPriceIndex;20170622;13:00;Housing Price Index (MoM);United States;USD;2
+MXN_1sthalfmonthCoreInflation;20170622;13:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20170622;13:00;1st half-month Inflation;Mexico;MXN;1
+USD_JoblessClaims;20170622;12:30;Initial Jobless Claims;United States;USD;2
+CAD_RetailSales;20170622;12:30;Retail Sales ex Autos (MoM);Canada;CAD;1
+GBP_Auction;20170622;10:02;30-y Bond Auction;United Kingdom;GBP;1
+GBP_CBIIndustrialTrendsSurveyOrders;20170622;10:00;CBI Industrial Trends Survey - Orders (MoM);United Kingdom;GBP;1
+NOK_NorgesBankInterestRateDecision;20170622;09:00;Norges Bank Interest Rate Decision;Norway;NOK;1
+EUR_EurEconomicBulletin;20170622;08:00;Economic Bulletin;European Monetary Union;EUR;2
+TRY_ConsumerConfidence;20170622;07:00;Consumer Confidence;Turkey;TRY;1
+DKK_ConsumerConfidence;20170622;07:00;Consumer Confidence;Denmark;DKK;1
+EUR_FraBusinessClimate;20170622;06:45;Business Climate;France;EUR;1
+CHF_Exports;20170622;06:00;Exports (MoM);Switzerland;CHF;1
+CHF_Imports;20170622;06:00;Imports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20170622;06:00;Trade Balance;Switzerland;CHF;1

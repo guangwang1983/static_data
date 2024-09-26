@@ -1,0 +1,19 @@
+DKK_GeneralPrayerDay;20190517;00:00;General Prayer Day ;Denmark;DKK;0
+NOK_ConstitutionDay;20190517;00:00;Constitution Day;Norway;NOK;0
+JPY_TertiaryIndustryIndex;20190517;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+EUR_EurHarmonizedIndexofConsumerPrices;20190517;09:00;Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;2
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20190517;09:00;Core Harmonized Index of Consumer Prices (MoM);European Monetary Union;EUR;2
+EUR_EurConstructionOutput;20190517;09:00;Construction Output w.d.a (YoY);European Monetary Union;EUR;1
+INR_FXReservesUSD;20190517;11:30;FX Reserves, USD;India;INR;1
+RUB_ForeignTrade;20190517;13:00;Foreign Trade;Russia;RUB;1
+RUB_BudgetFulfilment;20190517;13:30;Budget Fulfilment;Russia;RUB;1
+USD_MichiganConsumerSentimentIndex;20190517;14:00;Michigan Consumer Sentiment Index;United States;USD;3
+USD_BakerHughesUSOilRigCount;20190517;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CentralBankSpeech;20190517;18:00;Fed Williams speech;United States;USD;2
+USD_CFTCOilNCNetPositions;20190517;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20190517;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20190517;19:30;CFTC Gold NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20190517;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCS&P500NCNetPositions;20190517;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20190517;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20190517;19:30;CFTC AUD NC Net Positions;Australia;AUD;1

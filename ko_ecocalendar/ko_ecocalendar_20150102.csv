@@ -1,0 +1,30 @@
+RUB_Bankholiday;20150102;00:00;Bank holiday;Russia;RUB;0
+CNY_NewYearsHoliday;20150102;00:00;New Years Holiday;China;CNY;0
+NZD_DayafterNewYearDay;20150102;00:00;Day after New Year Day ;New Zealand;NZD;0
+KRW_S&PGlobalManufacturingPMI;20150102;00:00;S&P Global Manufacturing PMI;South Korea;KRW;1
+JPY_BankHoliday;20150102;00:00;Bank Holiday;Japan;JPY;0
+RON_DayafterNewYearDay;20150102;00:00;Day after New Year Day;Romania;RON;0
+IDR_CoreInflation;20150102;02:00;Core Inflation (YoY);Indonesia;IDR;1
+IDR_Inflation;20150102;04:00;Inflation (MoM);Indonesia;IDR;1
+IDR_Imports;20150102;04:15;Imports;Indonesia;IDR;1
+IDR_Exports;20150102;04:15;Exports;Indonesia;IDR;1
+IDR_TradeBalance;20150102;04:15;Trade Balance;Indonesia;IDR;1
+AUD_RBACommodityIndexSDR;20150102;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+SEK_PurchasingManagersIndexManufacturing;20150102;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+CZK_S&PGlobalPMI;20150102;08:30;S&P Global PMI;Czech Republic;CZK;1
+EUR_ItaHCOBManufacturingPMI;20150102;08:45;HCOB Manufacturing PMI;Italy;EUR;1
+EUR_FraHCOBManufacturingPMI;20150102;08:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerHCOBManufacturingPMI;20150102;08:55;HCOB Manufacturing PMI;Germany;EUR;2
+EUR_EurHCOBManufacturingPMI;20150102;09:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+GBP_NetLendingtoIndividuals;20150102;09:30;Net Lending to Individuals (MoM);United Kingdom;GBP;2
+GBP_ConsumerCredit;20150102;09:30;Consumer Credit;United Kingdom;GBP;2
+GBP_MortgageApprovals;20150102;09:30;Mortgage Approvals;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSManufacturingPMI;20150102;09:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+GBP_M4MoneySupply;20150102;09:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+INR_FXReservesUSD;20150102;11:30;FX Reserves, USD;India;INR;1
+BRL_S&PGlobalManufacturingPMI;20150102;12:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+CAD_S&PGlobalManufacturingPMI;20150102;14:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20150102;14:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_ISMManufacturingPMI;20150102;15:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20150102;15:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ConstructionSpending;20150102;15:00;Construction Spending (MoM);United States;USD;2

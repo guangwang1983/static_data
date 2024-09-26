@@ -1,0 +1,32 @@
+USD_WholesaleInventories;20110909;14:00;Wholesale Inventories;United States;USD;1
+TRY_TreasuryCashBalance;20110909;14:00;Treasury Cash Balance;Turkey;TRY;1
+CAD_LaborProductivity;20110909;12:30;Labor Productivity (QoQ);Canada;CAD;1
+CAD_HousingStarts;20110909;12:15;Housing Starts s.a (YoY);Canada;CAD;2
+INR_BankLoanGrowth;20110909;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20110909;11:30;FX Reserves, USD;India;INR;1
+CAD_NetChangeinEmployment;20110909;11:00;Net Change in Employment;Canada;CAD;2
+CAD_UnemploymentRate;20110909;11:00;Unemployment Rate;Canada;CAD;2
+EUR_PorGlobalTradeBalance;20110909;10:00;Global Trade Balance;Portugal;EUR;1
+GBP_ProducerPriceIndex;20110909;08:30;Producer Price Index - Output (YoY) n.s.a;United Kingdom;GBP;2
+NOK_ConsumerPriceIndex;20110909;08:00;Consumer Price Index (YoY);Norway;NOK;1
+NOK_CoreInflation;20110909;08:00;Core Inflation (MoM);Norway;NOK;1
+EUR_ItaGrossDomesticProduct;20110909;08:00;Gross Domestic Product (QoQ);Italy;EUR;1
+NOK_ProducerPriceIndex;20110909;08:00;Producer Price Index (YoY);Norway;NOK;1
+SEK_IndustrialProduction;20110909;07:30;Industrial Production (YoY);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20110909;07:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+EUR_NetManufacturingOutput;20110909;07:30;Manufacturing Output (MoM);Netherlands, The;EUR;1
+CZK_ConsumerPriceIndex;20110909;07:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+RON_TradeBalance;20110909;07:00;Trade Balance;Romania;RON;1
+TRY_IndustrialProduction;20110909;07:00;Industrial Production (YoY);Turkey;TRY;1
+HUF_TradeBalance;20110909;07:00;Trade Balance;Hungary;HUF;1
+EUR_FraIndustrialOutput;20110909;06:45;Industrial Output (MoM);France;EUR;1
+EUR_FraBudget;20110909;06:45;Budget;France;EUR;1
+EUR_FinIndustrialOutput;20110909;06:00;Industrial Output (MoM);Finland;EUR;1
+EUR_GerWholesalePriceIndex;20110909;06:00;Wholesale Price Index (MoM);Germany;EUR;1
+EUR_GerConsumerPriceIndex;20110909;06:00;Consumer Price Index (MoM);Germany;EUR;2
+CNY_RetailSales;20110909;05:46;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20110909;05:46;Industrial Production (YoY);China;CNY;2
+JPY_ConsumerConfidenceIndex;20110909;05:00;Consumer Confidence Index;Japan;JPY;2
+CNY_ProducerPriceIndex;20110909;02:00;Producer Price Index (YoY);China;CNY;2
+CNY_ConsumerPriceIndex;20110909;01:30;Consumer Price Index (YoY);China;CNY;2
+EUR_EurG7Meeting;20110909;00:00;G7 Meeting;European Monetary Union;EUR;2

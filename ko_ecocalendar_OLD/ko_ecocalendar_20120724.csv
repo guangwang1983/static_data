@@ -1,0 +1,41 @@
+JPY_MerchandiseTradeBalanceTotal;20120724;23:50;Merchandise Trade Balance Total;Japan;JPY;1
+JPY_Imports;20120724;23:50;Imports (YoY);Japan;JPY;1
+JPY_AdjustedMerchandiseTradeBalance;20120724;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_Exports;20120724;23:50;Exports (YoY);Japan;JPY;1
+NZD_TradeBalance;20120724;22:45;Trade Balance (YoY);New Zealand;NZD;2
+NZD_Imports;20120724;22:45;Imports;New Zealand;NZD;1
+NZD_Exports;20120724;22:45;Exports;New Zealand;NZD;1
+EUR_AusIndustrialProduction;20120724;22:00;Industrial Production (YoY);Austria;EUR;1
+USD_Auction;20120724;18:00;2-Year Note Auction;United States;USD;1
+USD_HousingPriceIndex;20120724;14:00;Housing Price Index (MoM);United States;USD;1
+USD_RichmondFedManufacturingIndex;20120724;14:00;Richmond Fed Manufacturing Index;United States;USD;1
+BRL_CurrentAccount;20120724;13:30;Current Account;Brazil;BRL;1
+HUF_MNBInterestRateDecision;20120724;13:00;MNB Interest Rate Decision;Hungary;HUF;1
+MXN_1sthalfmonthCoreInflation;20120724;13:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20120724;13:00;1st half-month Inflation;Mexico;MXN;1
+USD_MarkitManufacturingPMI;20120724;12:58;Markit Manufacturing PMI;United States;USD;2
+USD_RedbookIndex;20120724;12:55;Redbook Index (YoY);United States;USD;1
+USD_CentralBankSpeech;20120724;12:45;Former Fed Chair Bernanke speech;United States;USD;1
+CAD_RetailSales;20120724;12:30;Retail Sales (MoM);Canada;CAD;2
+EUR_EurTroikavisitsGreece;20120724;09:00;Troika visits Greece;European Monetary Union;EUR;3
+EUR_SpaAuction;20120724;08:46;3-Month Letras Auction;Spain;EUR;1
+GBP_BBAMortgageApprovals;20120724;08:30;BBA Mortgage Approvals;United Kingdom;GBP;2
+EUR_ItaTradeBalancenonEU;20120724;08:00;Trade Balance non-EU;Italy;EUR;1
+EUR_EurMarkitPMIComposite;20120724;07:58;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitManufacturingPMI;20120724;07:58;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20120724;07:58;Markit Services PMI;European Monetary Union;EUR;2
+EUR_GerMarkitManufacturingPMI;20120724;07:28;Markit Manufacturing PMI;Germany;EUR;2
+EUR_GerMarkitServicesPMI;20120724;07:28;Markit Services PMI;Germany;EUR;2
+EUR_SpaProducerPriceIndex;20120724;07:00;Producer Price Index (YoY);Spain;EUR;1
+HUF_RetailSales;20120724;07:00;Retail Sales (YoY);Hungary;HUF;1
+EUR_FraMarkitManufacturingPMI;20120724;06:58;Markit Manufacturing PMI;France;EUR;1
+EUR_FraMarkitServicesPMI;20120724;06:58;Markit Services PMI;France;EUR;1
+EUR_FraBusinessClimate;20120724;06:45;Business Climate;France;EUR;1
+EUR_FinProducerPriceIndex;20120724;06:00;Producer Price Index (YoY);Finland;EUR;1
+EUR_FinUnemploymentRate;20120724;06:00;Unemployment Rate;Finland;EUR;1
+EUR_NetBusinessConfidence;20120724;06:00;Business Confidence;Netherlands, The;EUR;1
+EUR_FinImportPrices;20120724;06:00;Import Prices (YoY);Finland;EUR;1
+EUR_FinExportPrices;20120724;06:00;Export Prices (YoY);Finland;EUR;1
+AUD_CentralBankSpeech;20120724;03:05;RBA Governor Stevens speech;Australia;AUD;2
+CNY_CaixinManufacturingPMI;20120724;02:30;Caixin Manufacturing PMI;China;CNY;1
+AUD_RBATrimmedMeanCPI;20120724;00:30;RBA Trimmed Mean CPI (YoY);Australia;AUD;1

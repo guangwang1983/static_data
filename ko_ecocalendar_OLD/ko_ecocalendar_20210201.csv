@@ -1,0 +1,58 @@
+JPY_MonetaryBase;20210201;23:50;Monetary Base (YoY);Japan;JPY;1
+KRW_ConsumerPriceIndex;20210201;23:00;Consumer Price Index Growth (YoY);South Korea;KRW;1
+ARS_TaxRevenue;20210201;20:00;Tax Revenue (MoM);Argentina;ARS;1
+USD_CentralBankSpeech;20210201;19:10;Fed Rosengren speech;United States;USD;2
+USD_LoanOfficerSurvey;20210201;18:00;Loan Officer Survey;United States;USD;1
+BRL_TradeBalance;20210201;18:00;Trade Balance;Brazil;BRL;1
+USD_Auction;20210201;16:30;6-Month Bill Auction;United States;USD;1
+USD_ISMManufacturingPMI;20210201;15:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20210201;15:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ISMManufacturingEmploymentIndex;20210201;15:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ISMManufacturingNewOrdersIndex;20210201;15:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ConstructionSpending;20210201;15:00;Construction Spending (MoM);United States;USD;1
+USD_MarkitManufacturingPMI;20210201;14:45;Markit Manufacturing PMI;United States;USD;2
+CAD_MarkitManufacturingPMI;20210201;14:30;Markit Manufacturing PMI;Canada;CAD;2
+BRL_HSBCPMIManufacturing;20210201;13:00;HSBC PMI Manufacturing;Brazil;BRL;1
+CZK_BudgetBalance;20210201;13:00;Budget Balance;Czech Republic;CZK;1
+ZAR_TotalNewVehicleSales;20210201;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+CLP_IMACEC;20210201;11:30;IMACEC;Chile;CLP;1
+ILS_BudgetBalanceILS;20210201;11:00;Budget Balance - ILS;Israel;ILS;1
+ILS_FXReserves;20210201;11:00;FX Reserves;Israel;ILS;1
+EUR_EurUnemploymentRate;20210201;10:00;Unemployment Rate;European Monetary Union;EUR;2
+DKK_ManufacturingPMI;20210201;10:00;Manufacturing PMI;Denmark;DKK;1
+GBP_ConsumerCredit;20210201;09:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20210201;09:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_MarkitManufacturingPMI;20210201;09:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+GBP_M4MoneySupply;20210201;09:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+EUR_ItaUnemployment;20210201;09:00;Unemployment;Italy;EUR;2
+EUR_GreMarkitManufacturingPMI;20210201;09:00;Markit Manufacturing PMI;Greece;EUR;1
+EUR_EurMarkitManufacturingPMI;20210201;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;1
+EUR_GerMarkitManufacturingPMI;20210201;08:55;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20210201;08:50;Markit Manufacturing PMI;France;EUR;1
+EUR_ItaMarkitManufacturingPMI;20210201;08:45;Markit Manufacturing PMI;Italy;EUR;2
+CHF_SVMEPurchasingManagers'Index;20210201;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+SEK_GrossDomesticProduct;20210201;08:30;Gross Domestic Product (YoY);Sweden;SEK;1
+CZK_MarkitPMI;20210201;08:30;Markit PMI;Czech Republic;CZK;1
+EUR_SpaMarkitManufacturingPMI;20210201;08:15;Markit Manufacturing PMI;Spain;EUR;2
+EUR_AusUnemploymentRate;20210201;08:00;Unemployment Rate;Austria;EUR;1
+EUR_AusUnemployment;20210201;08:00;Unemployment;Austria;EUR;1
+TRY_Exports;20210201;08:00;Exports;Turkey;TRY;1
+HUF_PurchasingManagerIndex;20210201;08:00;Purchasing Manager Index;Hungary;HUF;1
+EUR_NetMarkitManufacturingPMI;20210201;08:00;Markit Manufacturing PMI;Netherlands, The;EUR;1
+HUF_TradeBalance;20210201;08:00;Trade Balance;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20210201;08:00;Purchasing Manager Index;Poland;PLN;2
+CHF_RetailSales;20210201;07:30;Real Retail Sales (YoY);Switzerland;CHF;2
+SEK_PurchasingManagersIndexManufacturing;20210201;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+EUR_GerRetailSales;20210201;07:00;Retail Sales (MoM);Germany;EUR;2
+RUB_HSBCManufacturingPMI;20210201;06:00;HSBC Manufacturing PMI	;Russia;RUB;1
+AUD_RBACommodityIndexSDR;20210201;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+IDR_Inflation;20210201;04:00;Inflation (MoM);Indonesia;IDR;1
+IDR_CoreInflation;20210201;04:00;Core Inflation (YoY);Indonesia;IDR;1
+CNY_CaixinManufacturingPMI;20210201;01:45;Caixin Manufacturing PMI;China;CNY;2
+EUR_IrePurchasingManagerIndexManufacturing;20210201;01:01;Purchasing Manager Index Manufacturing;Ireland;EUR;1
+AUD_HomeLoans;20210201;00:30;Home Loans;Australia;AUD;1
+AUD_ANZJobAdvertisements;20210201;00:30;ANZ Job Advertisements;Australia;AUD;1
+KRW_NikkeiMarkitManufacturingPMI;20210201;00:30;Nikkei Markit Manufacturing PMI;South Korea;KRW;1
+JPY_JibunBankManufacturingPMI;20210201;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+KRW_TradeBalance;20210201;00:00;Trade Balance;South Korea;KRW;1
+AUD_TDSecuritiesInflation;20210201;00:00;TD Securities Inflation (MoM);Australia;AUD;2

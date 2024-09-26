@@ -1,0 +1,33 @@
+AUD_HomeLoans;20210604;01:30;Home Loans;Australia;AUD;1
+AUD_InvestmentLendingforHomes;20210604;01:30;Investment Lending for Homes;Australia;AUD;1
+INR_ReverseRepoRate;20210604;06:00;Reverse Repo Rate;India;INR;1
+INR_RBIInterestRateDecision;20210604;06:00;RBI Interest Rate Decision (Repo Rate);India;INR;1
+HUF_RetailSales;20210604;07:00;Retail Sales (YoY);Hungary;HUF;1
+SEK_CurrentAccount;20210604;07:30;Current Account (QoQ);Sweden;SEK;1
+GBP_S&PGlobalConstructionPMI;20210604;08:30;S&P Global Construction PMI;United Kingdom;GBP;1
+EUR_EurRetailSales;20210604;09:00;Retail Sales (MoM);European Monetary Union;EUR;2
+INR_BankLoanGrowth;20210604;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20210604;11:30;FX Reserves, USD;India;INR;1
+CAD_LaborProductivity;20210604;12:30;Labor Productivity (QoQ);Canada;CAD;1
+USD_U6UnderemploymentRate;20210604;12:30;U6 Underemployment Rate;United States;USD;2
+USD_UnemploymentRate;20210604;12:30;Unemployment Rate;United States;USD;2
+USD_AverageWeeklyHours;20210604;12:30;Average Weekly Hours;United States;USD;1
+USD_LaborForceParticipationRate;20210604;12:30;Labor Force Participation Rate;United States;USD;2
+USD_AverageHourlyEarnings;20210604;12:30;Average Hourly Earnings (MoM);United States;USD;2
+USD_NonfarmPayrolls;20210604;12:30;Nonfarm Payrolls;United States;USD;3
+CAD_UnemploymentRate;20210604;12:30;Unemployment Rate;Canada;CAD;3
+CAD_ParticipationRate;20210604;12:30;Participation Rate;Canada;CAD;2
+CAD_AverageHourlyWages;20210604;12:30;Average Hourly Wages (YoY);Canada;CAD;2
+CAD_NetChangeinEmployment;20210604;12:30;Net Change in Employment;Canada;CAD;3
+USD_FactoryOrders;20210604;14:00;Factory Orders (MoM);United States;USD;2
+CAD_IveyPurchasingManagersIndex;20210604;14:00;Ivey Purchasing Managers Index s.a;Canada;CAD;2
+USD_CentralBankSpeech;20210604;14:15;President Biden speech;United States;USD;3
+USD_BakerHughesUSOilRigCount;20210604;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+AUD_CFTCAUDNCNetPositions;20210604;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20210604;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+USD_CFTCOilNCNetPositions;20210604;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20210604;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20210604;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20210604;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20210604;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+DKK_ConstitutionDay;20210604;22:00;Constitution Day ;Denmark;DKK;0

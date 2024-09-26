@@ -1,0 +1,29 @@
+JPY_MerchandiseTradeBalanceTotal;20191119;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Exports;20191119;23:50;Exports (YoY);Japan;JPY;2
+JPY_Imports;20191119;23:50;Imports (YoY);Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20191119;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+AUD_WestpacLeadingIndex;20191119;23:30;Westpac Leading Index (MoM);Australia;AUD;2
+USD_APIWeeklyCrudeOilStock;20191119;21:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_ProducerPriceIndex;20191119;21:00;Producer Price Index Growth (YoY);South Korea;KRW;1
+CAD_CentralBankSpeech;20191119;18:15;BoC Wilkins speech;Canada;CAD;2
+NZD_GDTPriceIndex;20191119;14:30;GDT Price Index;New Zealand;NZD;2
+USD_RedbookIndex;20191119;13:55;Redbook Index (YoY);United States;USD;1
+USD_HousingStarts;20191119;13:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20191119;13:30;Building Permits (MoM);United States;USD;2
+USD_HousingStartsChange;20191119;13:30;Housing Starts Change;United States;USD;1
+USD_BuildingPermitsChange;20191119;13:30;Building Permits Change;United States;USD;1
+CAD_ManufacturingShipments;20191119;13:30;Manufacturing Shipments (MoM);Canada;CAD;1
+EUR_SloCurrentAccount;20191119;13:30;Current Account Balance EUR;Slovakia;EUR;1
+HUF_MNBInterestRateDecision;20191119;13:00;MNB Interest Rate Decision;Hungary;HUF;1
+RUB_ProducerPriceIndex;20191119;13:00;Producer Price Index (MoM);Russia;RUB;1
+GBP_CBIIndustrialTrendsSurveyOrders;20191119;11:00;CBI Industrial Trends Survey - Orders (MoM);United Kingdom;GBP;1
+EUR_EurConstructionOutput;20191119;10:00;Construction Output  s.a (MoM);European Monetary Union;EUR;1
+EUR_SpaAuction;20191119;09:40;9-Month Letras Auction;Spain;EUR;1
+EUR_SloUnemploymentRate;20191119;09:30;Unemployment Rate;Slovakia;EUR;1
+EUR_EurCurrentAccount;20191119;09:00;Current Account n.s.a;European Monetary Union;EUR;1
+EUR_ItaIndustrialSales;20191119;09:00;Industrial Sales s.a. (MoM);Italy;EUR;1
+EUR_ItaIndustrialOrders;20191119;09:00;Industrial Orders s.a (MoM);Italy;EUR;1
+CHF_Exports;20191119;07:00;Exports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20191119;07:00;Trade Balance;Switzerland;CHF;1
+CHF_Imports;20191119;07:00;Imports (MoM);Switzerland;CHF;1
+AUD_RBAMeetingMinutes;20191119;00:30;RBA Meeting Minutes;Australia;AUD;3

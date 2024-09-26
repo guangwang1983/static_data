@@ -1,0 +1,52 @@
+NZD_ANZCommodityPrice;20230406;01:00;ANZ Commodity Price;New Zealand;NZD;1
+AUD_FinancialStabilityReview;20230406;01:30;Financial Stability Review;Australia;AUD;1
+AUD_Imports;20230406;01:30;Imports (MoM);Australia;AUD;2
+AUD_Exports;20230406;01:30;Exports (MoM);Australia;AUD;2
+AUD_TradeBalance;20230406;01:30;Trade Balance (MoM);Australia;AUD;3
+CNY_CaixinServicesPMI;20230406;01:45;Caixin Services PMI;China;CNY;2
+INR_ReverseRepoRate;20230406;04:30;Reverse Repo Rate;India;INR;1
+INR_RBIInterestRateDecision;20230406;04:30;RBI Interest Rate Decision (Repo Rate);India;INR;1
+COP_MaundyThursday;20230406;05:00;Maundy Thursday;Colombia;COP;0
+CHF_UnemploymentRate;20230406;05:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+EUR_GerIndustrialProduction;20230406;06:00;Industrial Production s.a. (MoM);Germany;EUR;1
+MXN_MaundyThursday;20230406;06:00;Maundy Thursday ;Mexico;MXN;0
+SEK_IndustrialProductionValue;20230406;06:00;Industrial Production Value (MoM);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20230406;06:00;New Orders Manufacturing (YoY);Sweden;SEK;1
+GBP_HalifaxHousePrices;20230406;06:00;Halifax House Prices (MoM);United Kingdom;GBP;1
+HUF_RetailSales;20230406;06:30;Retail Sales (YoY);Hungary;HUF;1
+HUF_TradeBalance;20230406;06:30;Trade Balance;Hungary;HUF;1
+CZK_IndustrialProduction;20230406;07:00;Industrial Production (YoY);Czech Republic;CZK;1
+CHF_ForeignCurrencyReserves;20230406;07:00;Foreign Currency Reserves;Switzerland;CHF;1
+CZK_Constructionoutput;20230406;07:00;Construction output (YoY);Czech Republic;CZK;1
+CZK_ForeignTradeBalance;20230406;07:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+GBP_S&PGlobalConstructionPMI;20230406;08:30;S&P Global Construction PMI;United Kingdom;GBP;1
+EUR_FraAuction;20230406;08:50;10-y Bond Auction;France;EUR;1
+USD_ChallengerJobCuts;20230406;11:30;Challenger Job Cuts;United States;USD;1
+CLP_ConsumerPriceIndex;20230406;12:00;Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+USD_JoblessClaims;20230406;12:30;Continuing Jobless Claims;United States;USD;1
+CAD_AverageHourlyWages;20230406;12:30;Average Hourly Wages (YoY);Canada;CAD;2
+CAD_NetChangeinEmployment;20230406;12:30;Net Change in Employment;Canada;CAD;3
+CAD_ParticipationRate;20230406;12:30;Participation Rate;Canada;CAD;2
+CAD_UnemploymentRate;20230406;12:30;Unemployment Rate;Canada;CAD;3
+RUB_CentralBankReserves;20230406;13:00;Central Bank Reserves $;Russia;RUB;1
+AUD_GoodFriday;20230406;14:00;Good Friday;Australia;AUD;0
+CAD_IveyPurchasingManagersIndex;20230406;14:00;Ivey Purchasing Managers Index s.a;Canada;CAD;2
+USD_CentralBankSpeech;20230406;14:00;Fed Bullard speech;United States;USD;2
+USD_EIANaturalGasStorageChange;20230406;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20230406;15:30;4-Week Bill Auction;United States;USD;1
+NZD_GoodFriday;20230406;16:00;Good Friday;New Zealand;NZD;0
+IDR_GoodFriday;20230406;17:00;Good Friday;Indonesia;IDR;0
+USD_BakerHughesUSOilRigCount;20230406;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+INR_GoodFriday;20230406;18:30;Good Friday ;India;INR;0
+EUR_GerGoodFriday;20230406;22:00;Good Friday;Germany;EUR;0
+CHF_GoodFriday;20230406;22:00;Good Friday;Switzerland;CHF;0
+NOK_GoodFriday;20230406;22:00;Good Friday;Norway;NOK;0
+DKK_GoodFriday;20230406;22:00;Good Friday ;Denmark;DKK;0
+SEK_GoodFriday;20230406;22:00;Good Friday;Sweden;SEK;0
+ZAR_GoodFriday;20230406;22:00;Good Friday;South Africa;ZAR;0
+KRW_CurrentAccount;20230406;23:00;Current Account Balance;South Korea;KRW;1
+EUR_EurGoodFridayBankHoliday;20230406;23:00;Good Friday Bank Holiday;European Monetary Union;EUR;0
+GBP_GoodFriday;20230406;23:00;Good Friday;United Kingdom;GBP;0
+JPY_LaborCashEarnings;20230406;23:30;Labor Cash Earnings (YoY);Japan;JPY;1
+JPY_OverallHouseholdSpending;20230406;23:30;Overall Household Spending (YoY);Japan;JPY;2
+JPY_JPForeignReserves;20230406;23:50;JP Foreign Reserves;Japan;JPY;1

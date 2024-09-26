@@ -1,0 +1,29 @@
+SEK_CurrentAccount;20220304;07:00;Current Account (QoQ);Sweden;SEK;1
+EUR_GerImports;20220304;07:00;Imports (MoM);Germany;EUR;1
+EUR_GerExports;20220304;07:00;Exports (MoM);Germany;EUR;1
+EUR_GerTradeBalance;20220304;07:00;Trade Balance s.a.;Germany;EUR;2
+EUR_FraIndustrialOutput;20220304;07:45;Industrial Output (MoM);France;EUR;1
+HUF_IndustrialOutput;20220304;08:00;Industrial Output (YoY);Hungary;HUF;1
+BRL_FipeIPCInflation;20220304;08:00;Fipe IPC Inflation;Brazil;BRL;1
+EUR_ItaGrossDomesticProduct;20220304;09:00;Gross Domestic Product (QoQ);Italy;EUR;2
+GBP_S&PGlobalConstructionPMI;20220304;09:30;S&P Global Construction PMI;United Kingdom;GBP;1
+EUR_EurRetailSales;20220304;10:00;Retail Sales (MoM);European Monetary Union;EUR;2
+INR_FXReservesUSD;20220304;11:30;FX Reserves, USD;India;INR;1
+BRL_GrossDomesticProduct;20220304;12:00;Gross Domestic Product (YoY);Brazil;BRL;1
+CAD_LaborProductivity;20220304;13:30;Labor Productivity (QoQ);Canada;CAD;1
+USD_U6UnderemploymentRate;20220304;13:30;U6 Underemployment Rate;United States;USD;2
+USD_UnemploymentRate;20220304;13:30;Unemployment Rate;United States;USD;2
+USD_LaborForceParticipationRate;20220304;13:30;Labor Force Participation Rate;United States;USD;2
+USD_AverageHourlyEarnings;20220304;13:30;Average Hourly Earnings (MoM);United States;USD;2
+USD_NonfarmPayrolls;20220304;13:30;Nonfarm Payrolls;United States;USD;3
+USD_AverageWeeklyHours;20220304;13:30;Average Weekly Hours;United States;USD;1
+CAD_BuildingPermits;20220304;13:30;Building Permits (MoM);Canada;CAD;1
+CAD_IveyPurchasingManagersIndex;20220304;15:00;Ivey Purchasing Managers Index s.a;Canada;CAD;2
+USD_BakerHughesUSOilRigCount;20220304;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20220304;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20220304;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCOilNCNetPositions;20220304;20:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20220304;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20220304;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20220304;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20220304;20:30;CFTC JPY NC Net Positions;Japan;JPY;1

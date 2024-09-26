@@ -1,0 +1,42 @@
+JPY_BoJMonetaryPolicyMeetingMinutes;20130124;23:50;BoJ Monetary Policy Meeting Minutes;Japan;JPY;3
+JPY_TokyoCPIexFreshFood;20130124;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;1
+JPY_ConsumerPriceIndex;20130124;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;1
+JPY_TokyoCPIexFoodEnergy;20130124;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;1
+JPY_NationalCPIexFoodEnergy;20130124;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20130124;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+ARS_IndustrialOutput;20130124;19:00;Industrial Output (12M);Argentina;ARS;1
+GBP_CentralBankSpeech;20130124;18:30;BoE Weale speech;United Kingdom;GBP;1
+USD_EIACrudeOilStocksChange;20130124;16:00;EIA Crude Oil Stocks Change;United States;USD;1
+USD_KansasFedManufacturingActivity;20130124;16:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_EIANaturalGasStorageChange;20130124;15:30;EIA Natural Gas Storage Change;United States;USD;1
+EUR_BelLeadingIndicator;20130124;14:00;Leading Indicator;Belgium;EUR;1
+MXN_1sthalfmonthCoreInflation;20130124;14:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20130124;14:00;1st half-month Inflation;Mexico;MXN;1
+USD_MarkitManufacturingPMI;20130124;13:58;Markit Manufacturing PMI;United States;USD;2
+USD_JoblessClaims;20130124;13:30;Initial Jobless Claims;United States;USD;1
+ZAR_SARBInterestRateDecision;20130124;13:00;SARB Interest Rate Decision;South Africa;ZAR;1
+RUB_CentralBankReserves;20130124;12:13;Central Bank Reserves $;Russia;RUB;1
+GBP_CBIDistributiveTradesSurveyRealized;20130124;11:00;CBI Distributive Trades Survey - Realized (MoM);United Kingdom;GBP;1
+GBP_BBAMortgageApprovals;20130124;09:30;BBA Mortgage Approvals;United Kingdom;GBP;2
+EUR_EurCurrentAccount;20130124;09:00;Current Account s.a;European Monetary Union;EUR;1
+PLN_Unemployment;20130124;09:00;Unemployment (MoM);Poland;PLN;1
+PLN_RetailSales;20130124;09:00;Retail Sales (YoY);Poland;PLN;1
+EUR_ItaRetailSales;20130124;09:00;Retail Sales n.s.a (YoY);Italy;EUR;1
+EUR_EurMarkitPMIComposite;20130124;08:58;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitManufacturingPMI;20130124;08:58;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20130124;08:58;Markit Services PMI;European Monetary Union;EUR;2
+EUR_NetConsumerSpendingVolume;20130124;08:30;Consumer Spending Volume;Netherlands, The;EUR;1
+SEK_UnemploymentRate;20130124;08:30;Unemployment Rate;Sweden;SEK;1
+SEK_ProducerPriceIndex;20130124;08:30;Producer Price Index (YoY);Sweden;SEK;1
+EUR_GerMarkitManufacturingPMI;20130124;08:28;Markit Manufacturing PMI;Germany;EUR;2
+EUR_GerMarkitServicesPMI;20130124;08:28;Markit Services PMI;Germany;EUR;2
+EUR_SpaUnemploymentSurvey;20130124;08:00;Unemployment Survey;Spain;EUR;1
+EUR_AusIndustrialProduction;20130124;08:00;Industrial Production (YoY);Austria;EUR;1
+EUR_FraMarkitManufacturingPMI;20130124;07:58;Markit Manufacturing PMI;France;EUR;1
+EUR_FraMarkitServicesPMI;20130124;07:58;Markit Services PMI;France;EUR;1
+EUR_FinProducerPriceIndex;20130124;07:00;Producer Price Index (YoY);Finland;EUR;1
+EUR_FinImportPrices;20130124;07:00;Import Prices (YoY);Finland;EUR;1
+EUR_FinExportPrices;20130124;07:00;Export Prices (YoY);Finland;EUR;1
+CNY_CaixinManufacturingPMI;20130124;01:45;Caixin Manufacturing PMI;China;CNY;2
+CHF_WorldEconomicForumDavos;20130124;00:00;World Economic Forum - Davos;Switzerland;CHF;2
+AED_Prophetbirthday;20130124;00:00;Prophet birthday ;United Arab Emirates;AED;0

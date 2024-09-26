@@ -1,0 +1,24 @@
+JPY_CoincidentIndex;20201109;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20201109;05:00;Leading Economic Index;Japan;JPY;2
+CHF_UnemploymentRate;20201109;06:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+RON_TradeBalance;20201109;07:00;Trade Balance;Romania;RON;1
+DKK_TradeBalance;20201109;07:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20201109;07:00;Current Account;Denmark;DKK;1
+EUR_GerTradeBalance;20201109;07:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerExports;20201109;07:00;Exports (MoM);Germany;EUR;1
+EUR_GerImports;20201109;07:00;Imports (MoM);Germany;EUR;1
+EUR_GerCurrentAccount;20201109;07:00;Current Account n.s.a.;Germany;EUR;1
+CZK_FXReserves;20201109;09:00;FX Reserves;Czech Republic;CZK;1
+EUR_EurSentixInvestorConfidence;20201109;09:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+HUF_BudgetBalance;20201109;10:00;Budget Balance;Hungary;HUF;1
+CLP_TradeBalance;20201109;11:30;Trade Balance;Chile;CLP;1
+MXN_12MonthInflation;20201109;12:00;12-Month Inflation;Mexico;MXN;1
+MXN_CoreInflation;20201109;12:00;Core Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20201109;12:00;Headline Inflation;Mexico;MXN;1
+EUR_EurCentralBankSpeech;20201109;12:00;ECB Mersch speech;European Monetary Union;EUR;2
+GBP_CentralBankSpeech;20201109;14:00;BoE Haldane speech;United Kingdom;GBP;2
+USD_Auction;20201109;18:00;3-Year Note Auction;United States;USD;1
+NZD_RetailSales;20201109;21:45;Electronic Card Retail Sales  (MoM);New Zealand;NZD;1
+JPY_BankLending;20201109;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_CurrentAccount;20201109;23:50;Current Account n.s.a.;Japan;JPY;2
+JPY_TradeBalanceBOPBasis;20201109;23:50;Trade Balance - BOP Basis;Japan;JPY;1

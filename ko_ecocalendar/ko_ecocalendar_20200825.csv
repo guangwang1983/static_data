@@ -1,0 +1,30 @@
+NOK_GrossDomesticProduct;20200825;06:00;Gross Domestic Product Growth Mainland;Norway;NOK;1
+EUR_GerGrossDomesticProduct;20200825;06:00;Gross Domestic Product w.d.a (YoY);Germany;EUR;2
+CHF_EmploymentLevel;20200825;06:30;Employment Level (QoQ);Switzerland;CHF;1
+TRY_CapacityUtilization;20200825;07:00;Capacity Utilization;Turkey;TRY;1
+TRY_ManufacturingConfidence;20200825;07:00;Manufacturing Confidence;Turkey;TRY;1
+SEK_ProducerPriceIndex;20200825;07:30;Producer Price Index (YoY);Sweden;SEK;1
+PLN_Unemployment;20200825;08:00;Unemployment (MoM);Poland;PLN;1
+EUR_GerIFO–BusinessClimate;20200825;08:00;IFO – Business Climate;Germany;EUR;2
+EUR_GerIFO–CurrentAssessment;20200825;08:00;IFO – Current Assessment;Germany;EUR;2
+EUR_GerIFO–Expectations;20200825;08:00;IFO – Expectations;Germany;EUR;2
+GBP_CBIDistributiveTradesSurvey–Realized;20200825;10:00;CBI Distributive Trades Survey – Realized (MoM);United Kingdom;GBP;1
+HUF_MNBInterestRateDecision;20200825;12:00;MNB Interest Rate Decision;Hungary;HUF;1
+BRL_CurrentAccount;20200825;12:31;Current Account;Brazil;BRL;1
+USD_RedbookIndex;20200825;12:55;Redbook Index (YoY);United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20200825;13:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;2
+USD_HousingPriceIndex;20200825;13:00;Housing Price Index (MoM);United States;USD;2
+BRL_MidmonthInflation;20200825;13:00;Mid-month Inflation;Brazil;BRL;1
+USD_ConsumerConfidence;20200825;14:00;Consumer Confidence;United States;USD;2
+MXN_CurrentAccount;20200825;14:00;Accumulated Current Account/GDP;Mexico;MXN;1
+USD_NewHomeSales;20200825;14:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20200825;14:00;New Home Sales Change (MoM);United States;USD;1
+USD_RichmondFedManufacturingIndex;20200825;14:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_Auction;20200825;17:00;2-Year Note Auction;United States;USD;1
+CAD_CentralBankSpeech;20200825;17:30;BoC Schembri speech;Canada;CAD;2
+USD_APIWeeklyCrudeOilStock;20200825;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_BOKManufacturingBSI;20200825;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+NZD_TradeBalanceNZD;20200825;22:45;Trade Balance NZD (MoM);New Zealand;NZD;1
+NZD_Imports;20200825;22:45;Imports;New Zealand;NZD;2
+NZD_Exports;20200825;22:45;Exports;New Zealand;NZD;2
+JPY_CorporateServicePriceIndex;20200825;23:50;Corporate Service Price Index (YoY);Japan;JPY;1

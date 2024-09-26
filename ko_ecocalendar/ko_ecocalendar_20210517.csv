@@ -1,0 +1,25 @@
+CNY_HousePriceIndex;20210517;01:30;House Price Index ;China;CNY;1
+CNY_RetailSales;20210517;02:00;Retail Sales (YoY);China;CNY;3
+CNY_IndustrialProduction;20210517;02:00;Industrial Production (YoY);China;CNY;2
+CNY_NBSPressConference;20210517;02:00;NBS Press Conference;China;CNY;2
+CNY_FixedAssetInvestment;20210517;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+KRW_TradeBalance;20210517;02:00;Trade Balance;South Korea;KRW;1
+COP_AscensionDay;20210517;05:00;Ascension Day;Colombia;COP;0
+JPY_MachineToolOrders;20210517;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+CHF_ProducerandImportPrices;20210517;06:30;Producer and Import Prices (MoM);Switzerland;CHF;1
+INR_WPIInflation;20210517;06:30;WPI Inflation;India;INR;1
+CZK_ProducerPriceIndex;20210517;07:00;Producer Price Index (YoY);Czech Republic;CZK;1
+TRY_BudgetBalance;20210517;08:00;Budget Balance;Turkey;TRY;1
+EUR_ItaConsumerPriceIndex;20210517;08:00;Consumer Price Index (YoY);Italy;EUR;1
+PLN_NetInflation;20210517;12:00;Net Inflation;Poland;PLN;1
+CAD_HousingStarts;20210517;12:15;Housing Starts s.a (YoY);Canada;CAD;1
+USD_NYEmpireStateManufacturingIndex;20210517;12:30;NY Empire State Manufacturing Index;United States;USD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20210517;12:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20210517;12:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+USD_NAHBHousingMarketIndex;20210517;14:00;NAHB Housing Market Index;United States;USD;1
+USD_CentralBankSpeech;20210517;14:05;Fed Clarida speech;United States;USD;2
+USD_Auction;20210517;15:30;6-Month Bill Auction;United States;USD;1
+GBP_CentralBankSpeech;20210517;16:30;BoE Haldane speech;United Kingdom;GBP;2
+USD_NetLongTermTICFlows;20210517;20:00;Net Long-Term TIC Flows;United States;USD;1
+USD_TotalNetTICFlows;20210517;20:00;Total Net TIC Flows;United States;USD;1
+JPY_GrossDomesticProduct;20210517;23:50;Gross Domestic Product (QoQ);Japan;JPY;3

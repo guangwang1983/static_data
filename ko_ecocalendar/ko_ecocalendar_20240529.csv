@@ -1,0 +1,33 @@
+NZD_ANZActivityOutlook;20240529;01:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20240529;01:00;ANZ Business Confidence;New Zealand;NZD;1
+AUD_WestpacLeadingIndex;20240529;01:00;Westpac Leading Index (MoM);Australia;AUD;1
+AUD_ConstructionWorkDone;20240529;01:30;Construction Work Done;Australia;AUD;1
+AUD_ConsumerPriceIndex;20240529;01:30;Monthly Consumer Price Index (YoY);Australia;AUD;3
+JPY_ConsumerConfidenceIndex;20240529;05:00;Consumer Confidence Index;Japan;JPY;1
+EUR_GerGfKConsumerConfidenceSurvey;20240529;06:00;GfK Consumer Confidence Survey;Germany;EUR;2
+SEK_RetailSales;20240529;06:00;Retail Sales (MoM);Sweden;SEK;1
+EUR_FraConsumerConfidence;20240529;06:45;Consumer Confidence;France;EUR;1
+EUR_ItaConsumerConfidence;20240529;08:00;Consumer Confidence;Italy;EUR;1
+EUR_ItaBusinessConfidence;20240529;08:00;Business Confidence;Italy;EUR;1
+EUR_EurPrivateLoans;20240529;08:00;Private Loans (YoY);Eurozone;EUR;1
+EUR_EurM3MoneySupply;20240529;08:00;M3 Money Supply (3m);Eurozone;EUR;1
+CHF_ZEWSurvey–Expectations;20240529;08:00;ZEW Survey – Expectations;Switzerland;CHF;2
+EUR_ItaTradeBalancenonEU;20240529;09:00;Trade Balance non-EU;Italy;EUR;1
+USD_MBAMortgageApplications;20240529;11:00;MBA Mortgage Applications;United States;USD;1
+BRL_PrimaryBudgetSurplus;20240529;11:30;Primary Budget Surplus;Brazil;BRL;1
+BRL_NominalBudgetBalance;20240529;11:30;Nominal Budget Balance;Brazil;BRL;1
+INR_M3MoneySupply;20240529;11:30;M3 Money Supply;India;INR;1
+EUR_GerConsumerPriceIndex;20240529;12:00;Consumer Price Index (YoY);Germany;EUR;3
+EUR_GerHarmonizedIndexofConsumerPrices;20240529;12:00;Harmonized Index of Consumer Prices (MoM);Germany;EUR;2
+BRL_UnemploymentRate;20240529;12:00;Unemployment Rate;Brazil;BRL;1
+USD_RedbookIndex;20240529;12:55;Redbook Index (YoY);United States;USD;1
+USD_RichmondFedManufacturingIndex;20240529;14:00;Richmond Fed Manufacturing Index;United States;USD;1
+RUB_IndustrialOutput;20240529;16:00;Industrial Output;Russia;RUB;1
+USD_Auction;20240529;17:00;7-Year Note Auction;United States;USD;1
+USD_FedBeigeBook;20240529;18:00;Fed Beige Book;United States;USD;2
+USD_APIWeeklyCrudeOilStock;20240529;20:30;API Weekly Crude Oil Stock;United States;USD;1
+PLN_CorpusChristi;20240529;22:00;Corpus Christi;Poland;PLN;0
+NZD_BuildingPermits;20240529;22:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+USD_CentralBankSpeech;20240529;23:00;Fed Bostic speech;United States;USD;2
+JPY_ForeignInvestmentinJapanStocks;20240529;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20240529;23:50;Foreign Bond Investment;Japan;JPY;1

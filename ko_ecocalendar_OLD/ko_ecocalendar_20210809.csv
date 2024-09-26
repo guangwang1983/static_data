@@ -1,0 +1,35 @@
+JPY_BankLending;20210809;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_CurrentAccount;20210809;23:50;Current Account n.s.a.;Japan;JPY;2
+JPY_TradeBalanceBOPBasis;20210809;23:50;Trade Balance - BOP Basis;Japan;JPY;1
+GBP_RetailSales;20210809;23:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+NZD_RetailSales;20210809;22:45;Electronic Card Retail Sales (YoY);New Zealand;NZD;1
+ARS_TaxRevenue;20210809;20:00;Tax Revenue (MoM);Argentina;ARS;1
+IDR_Muharram;20210809;17:00;Muharram;Indonesia;IDR;0
+USD_Auction;20210809;15:30;6-Month Bill Auction;United States;USD;1
+USD_JOLTSJobOpenings;20210809;14:00;JOLTS Job Openings;United States;USD;1
+CAD_HousingStarts;20210809;12:15;Housing Starts s.a (YoY);Canada;CAD;1
+CLP_TradeBalance;20210809;11:30;Trade Balance;Chile;CLP;1
+MXN_12MonthInflation;20210809;11:00;12-Month Inflation;Mexico;MXN;1
+MXN_CoreInflation;20210809;11:00;Core Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20210809;11:00;Headline Inflation;Mexico;MXN;1
+ILS_M1MoneySupply;20210809;10:00;M1 Money Supply (MoM);Israel;ILS;1
+ILS_BudgetBalanceILS;20210809;10:00;Budget Balance - ILS;Israel;ILS;1
+EUR_PorGlobalTradeBalance;20210809;10:00;Global Trade Balance;Portugal;EUR;1
+EUR_GreIndustrialProduction;20210809;09:00;Industrial Production (YoY);Greece;EUR;1
+EUR_GreConsumerPriceIndex;20210809;09:00;Consumer Price Index - Harmonized (YoY);Greece;EUR;1
+HUF_BudgetBalance;20210809;09:00;Budget Balance;Hungary;HUF;1
+EUR_EurSentixInvestorConfidence;20210809;08:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+CZK_UnemploymentRate;20210809;08:00;Unemployment Rate;Czech Republic;CZK;1
+CZK_FXReserves;20210809;08:00;FX Reserves;Czech Republic;CZK;1
+EUR_SloForeignTradeBalance;20210809;07:00;Foreign Trade Balance;Slovakia;EUR;1
+RON_TradeBalance;20210809;06:00;Trade Balance;Romania;RON;1
+DKK_TradeBalance;20210809;06:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20210809;06:00;Current Account;Denmark;DKK;1
+NOK_ManufacturingOutput;20210809;06:00;Manufacturing Output;Norway;NOK;1
+EUR_GerCurrentAccount;20210809;06:00;Current Account n.s.a.;Germany;EUR;1
+EUR_GerTradeBalance;20210809;06:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerExports;20210809;06:00;Exports (MoM);Germany;EUR;1
+EUR_GerImports;20210809;06:00;Imports (MoM);Germany;EUR;1
+CHF_UnemploymentRate;20210809;05:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+CNY_ConsumerPriceIndex;20210809;01:30;Consumer Price Index (YoY);China;CNY;3
+CNY_ProducerPriceIndex;20210809;01:30;Producer Price Index (YoY);China;CNY;2

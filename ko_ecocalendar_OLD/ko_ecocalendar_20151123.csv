@@ -1,0 +1,20 @@
+USD_Auction;20151123;18:00;2-Year Note Auction;United States;USD;1
+USD_FedAnnouncement;20151123;16:30;Fed Announcement;United States;USD;0
+USD_ExistingHomeSalesChange;20151123;15:00;Existing Home Sales Change (MoM);United States;USD;1
+USD_ExistingHomeSales;20151123;15:00;Existing Home Sales (MoM);United States;USD;1
+USD_MarkitManufacturingPMI;20151123;14:45;Markit Manufacturing PMI;United States;USD;2
+MXN_RetailSales;20151123;14:00;Retail Sales (YoY);Mexico;MXN;1
+USD_ChicagoFedNationalActivityIndex;20151123;13:30;Chicago Fed National Activity Index ;United States;USD;2
+EUR_EurEurogroupMeeting;20151123;12:00;Eurogroup Meeting;European Monetary Union;EUR;2
+EUR_EurMarkitPMIComposite;20151123;09:00;Markit PMI Composite;European Monetary Union;EUR;1
+EUR_EurMarkitManufacturingPMI;20151123;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;1
+EUR_EurMarkitServicesPMI;20151123;09:00;Markit Services PMI;European Monetary Union;EUR;1
+EUR_GerMarkitPMIComposite;20151123;08:30;Markit PMI Composite;Germany;EUR;2
+EUR_GerMarkitServicesPMI;20151123;08:30;Markit Services PMI;Germany;EUR;2
+EUR_GerMarkitManufacturingPMI;20151123;08:30;Markit Manufacturing PMI;Germany;EUR;2
+HKD_ConsumerPriceIndex;20151123;08:30;Consumer Price Index;Hong Kong SAR;HKD;1
+EUR_FraMarkitManufacturingPMI;20151123;08:00;Markit Manufacturing PMI;France;EUR;1
+EUR_FraMarkitPMIComposite;20151123;08:00;Markit PMI Composite;France;EUR;1
+EUR_FraMarkitServicesPMI;20151123;08:00;Markit Services PMI;France;EUR;1
+SGD_ConsumerPriceIndex;20151123;05:00;Consumer Price Index (YoY);Singapore;SGD;1
+JPY_LaborThanksgivingDay;20151123;00:00;Labor Thanksgiving Day;Japan;JPY;0

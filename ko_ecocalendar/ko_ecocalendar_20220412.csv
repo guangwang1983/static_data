@@ -1,0 +1,39 @@
+AUD_NationalAustraliaBankBusinessConfidence;20220412;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20220412;01:30;National Australia Bank Business Conditions;Australia;AUD;1
+KRW_MoneySupplyGrowth;20220412;03:00;Money Supply Growth;South Korea;KRW;1
+GBP_ClaimantCountChange;20220412;06:00;Claimant Count Change;United Kingdom;GBP;3
+GBP_ILOUnemploymentRate;20220412;06:00;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_AverageEarningsIncludingBonus;20220412;06:00;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountRate;20220412;06:00;Claimant Count Rate;United Kingdom;GBP;2
+GBP_AverageEarningsExcludingBonus;20220412;06:00;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+EUR_GerWholesalePriceIndex;20220412;06:00;Wholesale Price Index (MoM);Germany;EUR;1
+RON_ConsumerPriceIndex;20220412;06:00;Consumer Price Index;Romania;RON;1
+EUR_GerConsumerPriceIndex;20220412;06:00;Consumer Price Index (YoY);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20220412;06:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+EUR_FraImportsEUR;20220412;06:45;Imports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20220412;06:45;Trade Balance EUR;France;EUR;1
+EUR_FraExportsEUR;20220412;06:45;Exports, EUR;France;EUR;1
+EUR_FraCurrentAccount;20220412;06:45;Current Account;France;EUR;1
+TRY_IndustrialProduction;20220412;07:00;Industrial Production (YoY);Turkey;TRY;1
+EUR_EurECBBankLendingSurvey;20220412;08:00;ECB Bank Lending Survey;European Monetary Union;EUR;3
+EUR_EurZEWSurvey–EconomicSentiment;20220412;09:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurvey–EconomicSentiment;20220412;09:00;ZEW Survey – Economic Sentiment;Germany;EUR;2
+EUR_GerZEWSurvey–CurrentSituation;20220412;09:00;ZEW Survey – Current Situation;Germany;EUR;2
+GBP_Auction;20220412;09:30;10-y Bond Auction;United Kingdom;GBP;1
+USD_NFIBBusinessOptimismIndex;20220412;10:00;NFIB Business Optimism Index;United States;USD;1
+INR_IndustrialOutput;20220412;12:00;Industrial Output;India;INR;1
+INR_CumulativeIndustrialOutput;20220412;12:00;Cumulative Industrial Output;India;INR;1
+INR_ManufacturingOutput;20220412;12:00;Manufacturing Output;India;INR;1
+INR_ConsumerPriceIndex;20220412;12:00;Consumer Price Index (YoY);India;INR;1
+USD_ConsumerPriceIndex;20220412;12:30;Consumer Price Index (MoM);United States;USD;2
+USD_RedbookIndex;20220412;12:55;Redbook Index (YoY);United States;USD;1
+USD_IBDTIPPEconomicOptimism;20220412;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+EUR_GerCurrentAccount;20220412;14:00;Current Account n.s.a.;Germany;EUR;1
+USD_CentralBankSpeech;20220412;16:10;Fed Brainard speech;United States;USD;2
+USD_Auction;20220412;17:00;10-Year Note Auction;United States;USD;1
+USD_MonthlyBudgetStatement;20220412;18:00;Monthly Budget Statement;United States;USD;2
+USD_APIWeeklyCrudeOilStock;20220412;20:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_FoodPriceIndex;20220412;22:45;Food Price Index (MoM);New Zealand;NZD;1
+KRW_UnemploymentRate;20220412;23:00;Unemployment Rate;South Korea;KRW;1
+JPY_MoneySupplyM2+CD;20220412;23:50;Money Supply M2+CD (YoY);Japan;JPY;1
+JPY_MachineryOrders;20220412;23:50;Machinery Orders (MoM);Japan;JPY;1

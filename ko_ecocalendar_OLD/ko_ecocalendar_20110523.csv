@@ -1,0 +1,14 @@
+ARS_TradeBalance;20110523;19:00;Trade Balance (MoM);Argentina;ARS;1
+MXN_RetailSales;20110523;13:00;Retail Sales (YoY);Mexico;MXN;1
+EUR_ItaConsumerConfidence;20110523;08:00;Consumer Confidence;Italy;EUR;1
+EUR_EurMarkitManufacturingPMI;20110523;07:58;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20110523;07:58;Markit Services PMI;European Monetary Union;EUR;2
+EUR_GerMarkitManufacturingPMI;20110523;07:28;Markit Manufacturing PMI;Germany;EUR;2
+EUR_GerMarkitServicesPMI;20110523;07:28;Markit Services PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20110523;06:58;Markit Manufacturing PMI;France;EUR;1
+EUR_FraMarkitServicesPMI;20110523;06:58;Markit Services PMI;France;EUR;1
+JPY_CoincidentIndex;20110523;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20110523;05:00;Leading Economic Index;Japan;JPY;1
+JPY_BoJMonthlyEconomicSurvey;20110523;05:00;BoJ Monthly Economic Survey;Japan;JPY;2
+CNY_CaixinManufacturingPMI;20110523;02:30;Caixin Manufacturing PMI;China;CNY;2
+CAD_VictoriaDay;20110523;00:00;Victoria Day;Canada;CAD;0

@@ -1,0 +1,52 @@
+JPY_ConsumerPriceIndex;20190530;23:50;Tokyo Consumer Price Index (YoY);Japan;JPY;2
+JPY_TokyoCPIexFreshFood;20190530;23:50;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;3
+JPY_TokyoCPIexFoodEnergy;20190530;23:50;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;1
+JPY_IndustrialProduction;20190530;23:50;Industrial Production (MoM);Japan;JPY;1
+JPY_RetailTrade;20190530;23:50;Retail Trade (YoY);Japan;JPY;2
+JPY_LargeRetailers'Sales;20190530;23:50;Large Retailers' Sales;Japan;JPY;2
+JPY_UnemploymentRate;20190530;23:30;Unemployment Rate;Japan;JPY;2
+JPY_JobsApplicantsRatio;20190530;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+GBP_GfKConsumerConfidence;20190530;23:01;GfK Consumer Confidence;United Kingdom;GBP;2
+EUR_IreConsumerConfidence;20190530;23:01;Consumer Confidence;Ireland;EUR;1
+KRW_IndustrialOutputGrowth;20190530;23:00;Industrial Output Growth;South Korea;KRW;1
+KRW_ServiceSectorOutput;20190530;23:00;Service Sector Output;South Korea;KRW;1
+KRW_IndustrialOutput;20190530;23:00;Industrial Output (YoY);South Korea;KRW;1
+CAD_CentralBankSpeech;20190530;18:15;BoC Wilkins speech;Canada;CAD;2
+USD_CentralBankSpeech;20190530;16:00;Fed Clarida speech;United States;USD;2
+USD_Auction;20190530;15:30;4-Week Bill Auction;United States;USD;1
+USD_EIACrudeOilStocksChange;20190530;15:00;EIA Crude Oil Stocks Change;United States;USD;1
+USD_EIANaturalGasStorageChange;20190530;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_PendingHomeSales;20190530;14:00;Pending Home Sales (YoY);United States;USD;1
+RUB_CentralBankReserves;20190530;13:00;Central Bank Reserves $;Russia;RUB;1
+CAD_CurrentAccount;20190530;12:30;Current Account;Canada;CAD;2
+USD_JoblessClaims;20190530;12:30;Continuing Jobless Claims;United States;USD;2
+USD_GrossDomesticProduct;20190530;12:30;Gross Domestic Product Annualized;United States;USD;3
+USD_WholesaleInventories;20190530;12:30;Wholesale Inventories;United States;USD;1
+USD_GoodsTradeBalance;20190530;12:30;Goods Trade Balance;United States;USD;1
+USD_PersonalConsumptionExpendituresPrices;20190530;12:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+USD_CorePersonalConsumptionExpenditures;20190530;12:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+BRL_GrossDomesticProduct;20190530;12:00;Gross Domestic Product (QoQ);Brazil;BRL;1
+BRL_InflationIndexIGPM;20190530;11:00;Inflation Index/IGP-M;Brazil;BRL;1
+ZAR_ProducerPriceIndex;20190530;09:30;Producer Price Index (YoY);South Africa;ZAR;1
+EUR_GreProducerPriceIndex;20190530;09:00;Producer Price Index (YoY);Greece;EUR;1
+EUR_SpaRetailSales;20190530;08:00;Retail Sales (YoY);Spain;EUR;1
+GBP_CentralBankSpeech;20190530;07:30;BoE Ramsden speech;United Kingdom;GBP;2
+HUF_GrossWages;20190530;07:00;Gross Wages (YoY);Hungary;HUF;1
+EUR_SpaHICP;20190530;07:00;HICP (YoY);Spain;EUR;1
+EUR_SpaConsumerPriceIndex;20190530;07:00;Consumer Price Index (MoM);Spain;EUR;1
+ZAR_M3MoneySupply;20190530;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+ZAR_PrivateSectorCredit;20190530;06:00;Private Sector Credit;South Africa;ZAR;1
+AUD_HIANewHomeSales;20190530;04:15;HIA New Home Sales (MoM);Australia;AUD;2
+AUD_BuildingPermits;20190530;01:30;Building Permits (YoY);Australia;AUD;1
+AUD_PrivateCapitalExpenditure;20190530;01:30;Private Capital Expenditure;Australia;AUD;1
+EUR_GerAscensionDay;20190530;00:00;Ascension Day;Germany;EUR;0
+EUR_BelAscensionDay;20190530;00:00;Ascension Day;Belgium;EUR;0
+EUR_AusAscensionDay;20190530;00:00;Ascension Day;Austria;EUR;0
+EUR_FraAscensionDay;20190530;00:00;Ascension Day ;France;EUR;0
+SEK_AscensionDay;20190530;00:00;Ascension Day;Sweden;SEK;0
+DKK_AscensionDay;20190530;00:00;Ascension Day ;Denmark;DKK;0
+NOK_AscensionDay;20190530;00:00;Ascension Day;Norway;NOK;0
+EUR_FinAscensionDay;20190530;00:00;Ascension Day;Finland;EUR;0
+ISK_AscensionDay;20190530;00:00;Ascension Day ;Iceland;ISK;0
+EUR_NetAscensionDay;20190530;00:00;Ascension Day;Netherlands, The;EUR;0
+CHF_AscensionDay;20190530;00:00;Ascension Day;Switzerland;CHF;0

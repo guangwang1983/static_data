@@ -1,0 +1,49 @@
+CNY_NBSManufacturingPMI;20230731;01:00;NBS Manufacturing PMI;China;CNY;3
+CNY_NonManufacturingPMI;20230731;01:00;Non-Manufacturing PMI;China;CNY;3
+NZD_ANZActivityOutlook;20230731;01:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20230731;01:00;ANZ Business Confidence;New Zealand;NZD;1
+AUD_TDSecuritiesInflation;20230731;01:00;TD Securities Inflation (MoM);Australia;AUD;1
+AUD_PrivateSectorCredit;20230731;01:30;Private Sector Credit (MoM);Australia;AUD;1
+JPY_ConstructionOrders;20230731;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_HousingStarts;20230731;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_AnnualizedHousingStarts;20230731;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_ConsumerConfidenceIndex;20230731;05:00;Consumer Confidence Index;Japan;JPY;1
+EUR_GerImportPriceIndex;20230731;06:00;Import Price Index (YoY);Germany;EUR;1
+EUR_GerRetailSales;20230731;06:00;Retail Sales (YoY);Germany;EUR;3
+DKK_UnemploymentRate;20230731;06:00;Unemployment Rate;Denmark;DKK;1
+ZAR_PrivateSectorCredit;20230731;06:00;Private Sector Credit;South Africa;ZAR;1
+ZAR_M3MoneySupply;20230731;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+GBP_NationwideHousingPrices;20230731;06:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;1
+HUF_ProducerPriceIndex;20230731;07:00;Producer Price Index (YoY);Hungary;HUF;1
+CZK_GrossDomesticProduct;20230731;07:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+EUR_ItaGrossDomesticProduct;20230731;08:00;Gross Domestic Product (YoY);Italy;EUR;2
+TRY_ForeignArrivals;20230731;08:00;Foreign Arrivals;Turkey;TRY;1
+GBP_NetLendingtoIndividuals;20230731;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20230731;08:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20230731;08:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_M4MoneySupply;20230731;08:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+EUR_ItaConsumerPriceIndex;20230731;09:00;Consumer Price Index (YoY);Italy;EUR;2
+EUR_EurGrossDomesticProduct;20230731;09:00;Gross Domestic Product s.a. (QoQ);European Monetary Union;EUR;3
+EUR_EurHarmonizedIndexofConsumerPrices;20230731;09:00;Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20230731;09:00;Core Harmonized Index of Consumer Prices (MoM);European Monetary Union;EUR;3
+EUR_ItaTradeBalancenonEU;20230731;10:00;Trade Balance non-EU;Italy;EUR;1
+INR_FederalFiscalDeficitINR;20230731;10:00;Federal Fiscal Deficit, INR;India;INR;1
+INR_BankLoanGrowth;20230731;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20230731;11:30;FX Reserves, USD;India;INR;1
+ZAR_TradeBalance;20230731;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+INR_InfrastructureOutput;20230731;12:00;Infrastructure Output (YoY);India;INR;1
+CLP_IndustrialProduction;20230731;13:00;Industrial Production (YoY);Chile;CLP;1
+USD_ChicagoPurchasingManagers'Index;20230731;13:45;Chicago Purchasing Managers' Index;United States;USD;2
+USD_DallasFedManufacturingBusinessIndex;20230731;14:30;Dallas Fed Manufacturing Business Index;United States;USD;1
+COP_NationalJoblessRate;20230731;15:00;National Jobless Rate;Colombia;COP;1
+USD_Auction;20230731;15:30;3-Month Bill Auction;United States;USD;1
+USD_LoanOfficerSurvey;20230731;18:00;Loan Officer Survey;United States;USD;2
+COP_Interestrate;20230731;20:00;Interest rate;Colombia;COP;1
+CLP_BCCHInterestRate;20230731;21:00;BCCH Interest Rate;Chile;CLP;1
+MXN_FiscalBalancepesos;20230731;21:00;Fiscal Balance, pesos;Mexico;MXN;1
+CHF_NationalHoliday;20230731;22:00;National Holiday;Switzerland;CHF;0
+NZD_BuildingPermits;20230731;22:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+AUD_S&PGlobalManufacturingPMI;20230731;23:00;S&P Global Manufacturing PMI;Australia;AUD;1
+GBP_BRCShopPriceIndex;20230731;23:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1
+JPY_JobsApplicantsRatio;20230731;23:30;Jobs / Applicants Ratio;Japan;JPY;1
+JPY_UnemploymentRate;20230731;23:30;Unemployment Rate;Japan;JPY;2

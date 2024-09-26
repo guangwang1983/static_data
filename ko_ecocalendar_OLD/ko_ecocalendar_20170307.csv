@@ -1,0 +1,42 @@
+JPY_BankLending;20170307;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_GrossDomesticProduct;20170307;23:50;Gross Domestic Product Annualized;Japan;JPY;2
+JPY_CurrentAccount;20170307;23:50;Current Account n.s.a.;Japan;JPY;1
+JPY_TradeBalanceBOPBasis;20170307;23:50;Trade Balance - BOP Basis;Japan;JPY;1
+NZD_ManufacturingSales;20170307;21:45;Manufacturing Sales;New Zealand;NZD;1
+USD_APIWeeklyCrudeOilStock;20170307;21:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_ConsumerCreditChange;20170307;20:00;Consumer Credit Change;United States;USD;2
+USD_Auction;20170307;18:00;3-Year Note Auction;United States;USD;1
+CAD_IveyPurchasingManagersIndex;20170307;15:00;Ivey Purchasing Managers Index s.a;Canada;CAD;2
+USD_IBDTIPPEconomicOptimism;20170307;15:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+NZD_GDTPriceIndex;20170307;14:32;GDT Price Index;New Zealand;NZD;1
+TRY_TreasuryCashBalance;20170307;14:30;Treasury Cash Balance;Turkey;TRY;1
+USD_RedbookIndex;20170307;13:55;Redbook Index (MoM);United States;USD;1
+USD_TradeBalance;20170307;13:30;Trade Balance;United States;USD;2
+CAD_Imports;20170307;13:30;Imports;Canada;CAD;1
+CAD_Exports;20170307;13:30;Exports;Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20170307;13:30;International Merchandise Trade;Canada;CAD;1
+BRL_GrossDomesticProduct;20170307;12:00;Gross Domestic Product (YoY);Brazil;BRL;1
+CLP_TradeBalance;20170307;11:30;Trade Balance;Chile;CLP;1
+EUR_EurGrossDomesticProduct;20170307;10:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;2
+HUF_BudgetBalance;20170307;10:00;Budget Balance;Hungary;HUF;1
+EUR_SpaAuction;20170307;09:50;12-Month Letras Auction;Spain;EUR;1
+EUR_ItaProducerPriceIndex;20170307;09:00;Producer Price Index (MoM);Italy;EUR;1
+SGD_ForeignReserves;20170307;09:00;Foreign Reserves (MoM);Singapore;SGD;1
+CZK_FXReserves;20170307;09:00;FX Reserves;Czech Republic;CZK;1
+GBP_HalifaxHousePrices;20170307;08:30;Halifax House Prices (3m/YoY);United Kingdom;GBP;1
+CNY_ForeignExchangeReserves;20170307;08:06;Foreign Exchange Reserves (MoM);China;CNY;1
+HUF_IndustrialOutput;20170307;08:00;Industrial Output (YoY);Hungary;HUF;1
+DKK_IndustrialProduction;20170307;08:00;Industrial Production (MoM);Denmark;DKK;1
+HUF_GrossDomesticProduct;20170307;08:00;Gross Domestic Product (YoY);Hungary;HUF;1
+EUR_SloGrossDomesticProduct;20170307;08:00;Gross Domestic Product Qtr Final (YoY);Slovakia;EUR;1
+EUR_FraBudget;20170307;07:45;Budget;France;EUR;1
+ZAR_GrossDomesticProduct;20170307;07:30;Gross Domestic Product (YoY);South Africa;ZAR;1
+RON_GrossDomesticProduct;20170307;07:00;Gross Domestic Product;Romania;RON;1
+NOK_ManufacturingOutput;20170307;07:00;Manufacturing Output;Norway;NOK;1
+EUR_GerFactoryOrders;20170307;07:00;Factory Orders s.a. (MoM);Germany;EUR;1
+RUB_ConsumerPriceIndex;20170307;06:00;Consumer Price Index (MoM);Russia;RUB;1
+ZAR_Net$Gold&ForexReserve;20170307;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+ZAR_Gross$Gold&ForexReserve;20170307;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+AUD_RBARateStatement;20170307;03:30;RBA Rate Statement;Australia;AUD;3
+AUD_RBAInterestRateDecision;20170307;03:30;RBA Interest Rate Decision;Australia;AUD;3
+GBP_RetailSales;20170307;00:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2

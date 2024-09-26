@@ -1,0 +1,35 @@
+JPY_AutumnalEquinoxDay;20170922;00:00;Autumnal Equinox Day;Japan;JPY;0
+IDR_BankIndonesiaRate;20170922;04:00;Bank Indonesia Rate;Indonesia;IDR;1
+EUR_FraGrossDomesticProduct;20170922;06:45;Gross Domestic Product (QoQ);France;EUR;1
+EUR_FraHCOBManufacturingPMI;20170922;07:00;HCOB Manufacturing PMI;France;EUR;1
+EUR_FraHCOBServicesPMI;20170922;07:00;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20170922;07:00;HCOB Composite PMI;France;EUR;1
+EUR_GerHCOBServicesPMI;20170922;07:30;HCOB Services PMI;Germany;EUR;2
+EUR_GerHCOBManufacturingPMI;20170922;07:30;HCOB Manufacturing PMI;Germany;EUR;2
+EUR_GerHCOBCompositePMI;20170922;07:30;HCOB Composite PMI;Germany;EUR;2
+PLN_Unemployment;20170922;08:00;Unemployment (MoM);Poland;PLN;1
+EUR_EurHCOBServicesPMI;20170922;08:00;HCOB Services PMI;European Monetary Union;EUR;2
+EUR_EurHCOBManufacturingPMI;20170922;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurHCOBCompositePMI;20170922;08:00;HCOB Composite PMI;European Monetary Union;EUR;2
+GBP_CBIIndustrialTrendsSurvey–Orders;20170922;10:00;CBI Industrial Trends Survey – Orders (MoM);United Kingdom;GBP;1
+INR_FXReservesUSD;20170922;11:30;FX Reserves, USD;India;INR;1
+PLN_M3MoneySupply;20170922;12:00;M3 Money Supply (YoY);Poland;PLN;1
+CAD_RetailSales;20170922;12:30;Retail Sales (MoM);Canada;CAD;1
+CAD_ConsumerPriceIndex;20170922;12:30;Consumer Price Index (MoM);Canada;CAD;2
+MXN_PrivateSpending;20170922;13:00;Private Spending (YoY);Mexico;MXN;1
+MXN_1sthalfmonthInflation;20170922;13:00;1st half-month Inflation;Mexico;MXN;1
+MXN_1sthalfmonthCoreInflation;20170922;13:00;1st half-month Core Inflation;Mexico;MXN;1
+EUR_EurCentralBankSpeech;20170922;13:15;ECB Constancio speech;European Monetary Union;EUR;2
+GBP_CentralBankSpeech;20170922;13:15;UK Prime Minister Theresa May speech;United Kingdom;GBP;3
+USD_S&PGlobalManufacturingPMI;20170922;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20170922;13:45;S&P Global Services PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20170922;13:45;S&P Global Composite PMI;United States;USD;2
+USD_BakerHughesUSOilRigCount;20170922;17:00;Baker Hughes US Oil Rig Count;United States;USD;2
+USD_CentralBankSpeech;20170922;17:30;Fed Kaplan speech;United States;USD;2
+GBP_CFTCGBPNCNetPositions;20170922;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20170922;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20170922;19:30;CFTC Oil NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20170922;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCS&P500NCNetPositions;20170922;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+AUD_CFTCAUDNCNetPositions;20170922;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20170922;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1

@@ -1,0 +1,31 @@
+JPY_TankanLargeAllIndustryCapex;20090930;23:50;Tankan Large All Industry Capex;Japan;JPY;2
+JPY_TankanNonManufacturingIndex;20090930;23:50;Tankan Non - Manufacturing Index;Japan;JPY;1
+JPY_TankanLargeManufacturingIndex;20090930;23:50;Tankan Large Manufacturing Index;Japan;JPY;2
+JPY_TankanLargeManufacturingOutlook;20090930;23:50;Tankan Large Manufacturing Outlook;Japan;JPY;1
+JPY_TankanNonManufacturingOutlook;20090930;23:50;Tankan Non - Manufacturing Outlook;Japan;JPY;2
+JPY_RetailTrade;20090930;23:50;Retail Trade s.a (MoM);Japan;JPY;1
+JPY_LargeRetailers'Sales;20090930;23:50;Large Retailers' Sales;Japan;JPY;1
+AUD_AiGPerformanceofMfgIndex;20090930;21:30;AiG Performance of Mfg Index;Australia;AUD;1
+USD_CentralBankSpeech;20090930;14:30;Fed Lockhart speech;United States;USD;1
+USD_EIACrudeOilStocksChange;20090930;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_ChicagoPurchasingManagers'Index;20090930;13:45;Chicago Purchasing Managers' Index;United States;USD;1
+CAD_IndustrialProductPrice;20090930;12:30;Industrial Product Price (MoM);Canada;CAD;1
+USD_GrossDomesticProduct;20090930;12:30;Gross Domestic Product Annualized;United States;USD;2
+CAD_GrossDomesticProduct;20090930;12:30;Gross Domestic Product (MoM);Canada;CAD;2
+USD_CorePersonalConsumptionExpenditures;20090930;12:30;Core Personal Consumption Expenditures (QoQ);United States;USD;3
+USD_ADPEmploymentChange;20090930;12:15;ADP Employment Change;United States;USD;1
+PLN_NBPBaserate;20090930;12:00;NBP Base rate;Poland;PLN;1
+USD_MBAMortgageApplications;20090930;11:00;MBA Mortgage Applications;United States;USD;1
+CHF_KOFLeadingIndicator;20090930;09:30;KOF Leading Indicator;Switzerland;CHF;1
+EUR_EurConsumerPriceIndex;20090930;09:00;Consumer Price Index (YoY);European Monetary Union;EUR;2
+GBP_IndexofServices;20090930;08:30;Index of Services (3M/3M);United Kingdom;GBP;1
+EUR_GerUnemploymentRate;20090930;07:55;Unemployment Rate s.a.;Germany;EUR;2
+EUR_GerUnemploymentChange;20090930;07:55;Unemployment Change;Germany;EUR;2
+JPY_AnnualizedHousingStarts;20090930;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_HousingStarts;20090930;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_ConstructionOrders;20090930;05:00;Construction Orders (YoY);Japan;JPY;1
+NZD_ANZBusinessConfidence;20090930;02:00;ANZ Business Confidence;New Zealand;NZD;1
+JPY_LaborCashEarnings;20090930;01:30;Labor Cash Earnings (YoY);Japan;JPY;1
+AUD_PrivateSectorCredit;20090930;01:30;Private Sector Credit (MoM);Australia;AUD;1
+AUD_BuildingPermits;20090930;01:30;Building Permits (YoY);Australia;AUD;1
+AUD_RetailSales;20090930;00:00;Retail Sales s.a. (MoM);Australia;AUD;2

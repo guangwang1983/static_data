@@ -1,0 +1,36 @@
+CNY_ConsumerPriceIndex;20160510;01:30;Consumer Price Index (MoM);China;CNY;2
+CNY_ProducerPriceIndex;20160510;01:30;Producer Price Index (YoY);China;CNY;2
+CNY_FDIForeignDirectInvestment;20160510;02:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+CHF_UnemploymentRate;20160510;05:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+RON_TradeBalance;20160510;06:00;Trade Balance;Romania;RON;1
+EUR_GerIndustrialProduction;20160510;06:00;Industrial Production s.a. (MoM);Germany;EUR;1
+EUR_GerImports;20160510;06:00;Imports (MoM);Germany;EUR;2
+EUR_GerCurrentAccount;20160510;06:00;Current Account n.s.a.;Germany;EUR;2
+EUR_GerExports;20160510;06:00;Exports (MoM);Germany;EUR;2
+EUR_GerTradeBalance;20160510;06:00;Trade Balance s.a.;Germany;EUR;2
+EUR_FraIndustrialOutput;20160510;06:45;Industrial Output (MoM);France;EUR;1
+EUR_FraIndividualInvestment;20160510;06:45;Individual Investment (Current Year);France;EUR;1
+EUR_FraBudgetBalance;20160510;06:45;Budget Balance;France;EUR;1
+CZK_ConsumerPriceIndex;20160510;07:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+DKK_ConsumerPriceIndex;20160510;07:00;Consumer Price Index (YoY);Denmark;DKK;1
+DKK_Inflation;20160510;07:00;Inflation (HICP) (YoY);Denmark;DKK;1
+TRY_CurrentAccount;20160510;07:00;Current Account Balance;Turkey;TRY;1
+HUF_ConsumerPriceIndex;20160510;07:00;Consumer Price Index (YoY);Hungary;HUF;1
+USD_CentralBankSpeech;20160510;07:15;Fed Dudley speech;United States;USD;1
+NOK_ConsumerPriceIndex;20160510;08:00;Consumer Price Index (YoY);Norway;NOK;1
+NOK_CoreInflation;20160510;08:00;Core Inflation (MoM);Norway;NOK;1
+EUR_ItaIndustrialOutput;20160510;08:00;Industrial Output s.a. (MoM);Italy;EUR;1
+NOK_ManufacturingOutput;20160510;08:00;Manufacturing Output;Norway;NOK;1
+NOK_ProducerPriceIndex;20160510;08:00;Producer Price Index (YoY);Norway;NOK;1
+GBP_TradeBalancenonEU;20160510;08:30;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20160510;08:30;Total Trade Balance;United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20160510;08:30;Goods Trade Balance;United Kingdom;GBP;1
+USD_NFIBBusinessOptimismIndex;20160510;10:00;NFIB Business Optimism Index;United States;USD;1
+USD_JOLTSJobOpenings;20160510;14:00;JOLTS Job Openings;United States;USD;1
+USD_WholesaleInventories;20160510;14:00;Wholesale Inventories;United States;USD;1
+JPY_JPForeignReserves;20160510;15:00;JP Foreign Reserves;Japan;JPY;1
+USD_Auction;20160510;17:00;3-Year Note Auction;United States;USD;1
+NZD_RBNZFinancialStabilityReport;20160510;20:00;RBNZ Financial Stability Report;New Zealand;NZD;2
+USD_APIWeeklyCrudeOilStock;20160510;20:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_CentralBankSpeech;20160510;21:00;RBNZ Governor Wheeler Speech;New Zealand;NZD;2
+KRW_UnemploymentRate;20160510;23:00;Unemployment Rate;South Korea;KRW;1

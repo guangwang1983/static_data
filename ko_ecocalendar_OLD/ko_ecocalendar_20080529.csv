@@ -1,0 +1,26 @@
+JPY_IndustrialProduction;20080529;23:50;Industrial Production (MoM);Japan;JPY;1
+JPY_TokyoCPIexFreshFood;20080529;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;1
+JPY_TokyoCPIexFoodEnergy;20080529;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;1
+JPY_ConsumerPriceIndex;20080529;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;1
+JPY_NationalCPIexFreshFood;20080529;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;1
+JPY_NationalCPIexFoodEnergy;20080529;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;1
+JPY_UnemploymentRate;20080529;23:30;Unemployment Rate;Japan;JPY;2
+JPY_OverallHouseholdSpending;20080529;23:30;Overall Household Spending (YoY);Japan;JPY;1
+JPY_NikkeiManufacturingPMI;20080529;23:15;Nikkei Manufacturing PMI;Japan;JPY;1
+GBP_GfKConsumerConfidence;20080529;23:01;GfK Consumer Confidence;United Kingdom;GBP;3
+NZD_BuildingPermits;20080529;22:45;Building Permits s.a. (MoM);New Zealand;NZD;1
+USD_EIACrudeOilStocksChange;20080529;14:30;EIA Crude Oil Stocks Change;United States;USD;0
+USD_JoblessClaims;20080529;12:30;Initial Jobless Claims;United States;USD;1
+USD_GrossDomesticProduct;20080529;12:30;Gross Domestic Product Annualized;United States;USD;3
+USD_CorePersonalConsumptionExpenditures;20080529;12:30;Core Personal Consumption Expenditures (QoQ);United States;USD;3
+GBP_CBIDistributiveTradesSurveyRealized;20080529;10:00;CBI Distributive Trades Survey - Realized (MoM);United Kingdom;GBP;2
+EUR_EurEconomicSentimentIndicator;20080529;09:00;Economic Sentiment Indicator;European Monetary Union;EUR;2
+EUR_EurConsumerConfidence;20080529;09:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurM3MoneySupply;20080529;08:00;M3 Money Supply (YoY);European Monetary Union;EUR;1
+EUR_GerUnemploymentRate;20080529;07:55;Unemployment Rate s.a.;Germany;EUR;2
+EUR_GerUnemploymentChange;20080529;07:55;Unemployment Change;Germany;EUR;1
+CHF_EmploymentLevel;20080529;07:15;Employment Level (QoQ);Switzerland;CHF;2
+GBP_NationwideHousingPrices;20080529;06:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;2
+AUD_PrivateSectorCredit;20080529;01:30;Private Sector Credit (MoM);Australia;AUD;1
+USD_CentralBankSpeech;20080529;01:00;Fed Richard Fisher speech;United States;USD;1
+AUD_PrivateCapitalExpenditure;20080529;01:00;Private Capital Expenditure;Australia;AUD;1

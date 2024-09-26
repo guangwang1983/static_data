@@ -1,0 +1,23 @@
+JPY_IndustrialProduction;20100429;23:50;Industrial Production (MoM);Japan;JPY;2
+JPY_TokyoCPIexFreshFood;20100429;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;1
+JPY_ConsumerPriceIndex;20100429;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;1
+JPY_TokyoCPIexFoodEnergy;20100429;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;1
+JPY_NationalCPIexFoodEnergy;20100429;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20100429;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_UnemploymentRate;20100429;23:30;Unemployment Rate;Japan;JPY;2
+JPY_OverallHouseholdSpending;20100429;23:30;Overall Household Spending (YoY);Japan;JPY;2
+JPY_NikkeiManufacturingPMI;20100429;23:15;Nikkei Manufacturing PMI;Japan;JPY;2
+GBP_GfKConsumerConfidence;20100429;23:01;GfK Consumer Confidence;United Kingdom;GBP;2
+NZD_BuildingPermits;20100429;22:45;Building Permits s.a. (MoM);New Zealand;NZD;1
+USD_CentralBankSpeech;20100429;18:30;Treasury Geithner speech;United States;USD;1
+USD_JoblessClaims;20100429;12:30;Continuing Jobless Claims;United States;USD;1
+EUR_EurCentralBankSpeech;20100429;11:30;ECB President Trichet speech;European Monetary Union;EUR;2
+EUR_EurConsumerConfidence;20100429;09:00;Consumer Confidence;European Monetary Union;EUR;1
+EUR_EurEconomicSentimentIndicator;20100429;09:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+EUR_EurIndustrialConfidence;20100429;09:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_EurM3MoneySupply;20100429;08:00;M3 Money Supply (YoY);European Monetary Union;EUR;1
+EUR_GerUnemploymentChange;20100429;07:55;Unemployment Change;Germany;EUR;2
+EUR_GerUnemploymentRate;20100429;07:55;Unemployment Rate s.a.;Germany;EUR;2
+GBP_NationwideHousingPrices;20100429;06:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;2
+NZD_M3MoneySupply;20100429;03:00;M3 Money Supply (YoY);New Zealand;NZD;1
+JPY_ShowaDay;20100429;00:00;Showa Day;Japan;JPY;0

@@ -1,0 +1,38 @@
+JPY_ConsumerPriceIndex;20210325;23:50;Tokyo Consumer Price Index (YoY);Japan;JPY;2
+JPY_TokyoCPIexFoodEnergy;20210325;23:50;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_TokyoCPIexFreshFood;20210325;23:50;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;2
+KRW_ConsumerSentimentIndex;20210325;21:00;Consumer Sentiment Index;South Korea;KRW;1
+ARS_UnemploymentRate;20210325;19:00;Unemployment Rate (QoQ)	;Argentina;ARS;1
+MXN_CentralBankInterestRate;20210325;19:00;Central Bank Interest Rate;Mexico;MXN;1
+EUR_EurCentralBankSpeech;20210325;17:00;ECB Schnabel speech;European Monetary Union;EUR;2
+USD_Auction;20210325;15:30;4-Week Bill Auction;United States;USD;1
+USD_KansasFedManufacturingActivity;20210325;15:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_EIANaturalGasStorageChange;20210325;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_CentralBankSpeech;20210325;14:10;Fed Clarida speech;United States;USD;2
+EUR_BelLeadingIndicator;20210325;14:00;Leading Indicator;Belgium;EUR;1
+RUB_CentralBankReserves;20210325;13:00;Central Bank Reserves $;Russia;RUB;1
+ZAR_SARBInterestRateDecision;20210325;13:00;SARB Interest Rate Decision;South Africa;ZAR;1
+EUR_SloCurrentAccount;20210325;13:00;Current Account Balance EUR;Slovakia;EUR;1
+USD_JoblessClaims;20210325;12:30;Continuing Jobless Claims;United States;USD;2
+USD_GrossDomesticProduct;20210325;12:30;Gross Domestic Product Annualized;United States;USD;3
+CAD_EmploymentInsuranceBeneficiariesChange;20210325;12:30;Employment Insurance Beneficiaries Change (MoM);Canada;CAD;1
+USD_PersonalConsumptionExpendituresPrices;20210325;12:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+USD_CorePersonalConsumptionExpenditures;20210325;12:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+MXN_RetailSales;20210325;12:00;Retail Sales (YoY);Mexico;MXN;1
+BRL_MidmonthInflation;20210325;12:00;Mid-month Inflation;Brazil;BRL;1
+JPY_CentralBankSpeech;20210325;11:20;BoJ Governor Kuroda speech;Japan;JPY;3
+ZAR_ProducerPriceIndex;20210325;09:30;Producer Price Index (YoY);South Africa;ZAR;1
+GBP_CentralBankSpeech;20210325;09:30;BoE Governor Bailey speech;United Kingdom;GBP;3
+EUR_ItaTradeBalancenonEU;20210325;09:00;Trade Balance non-EU;Italy;EUR;1
+ISK_ConsumerPriceIndex;20210325;09:00;Consumer Price Index (YoY);Iceland;ISK;1
+EUR_EurM3MoneySupply;20210325;09:00;M3 Money Supply (3m);European Monetary Union;EUR;1
+EUR_EurPrivateLoans;20210325;09:00;Private Loans (YoY);European Monetary Union;EUR;1
+EUR_EurEconomicBulletin;20210325;09:00;Economic Bulletin;European Monetary Union;EUR;2
+CHF_SNBInterestRateDecision;20210325;08:30;SNB Interest Rate Decision;Switzerland;CHF;3
+CHF_SNBMonetaryPolicyAssessment;20210325;08:30;SNB Monetary Policy Assessment;Switzerland;CHF;3
+SEK_ProducerPriceIndex;20210325;08:30;Producer Price Index (YoY);Sweden;SEK;1
+PHP_BSPInterestratedecision;20210325;08:00;BSP Interest rate decision;Philippines;PHP;1
+EUR_AusIndustrialProduction;20210325;08:00;Industrial Production (YoY);Austria;EUR;1
+EUR_FraBusinessClimateinManufacturing;20210325;07:45;Business Climate in Manufacturing;France;EUR;1
+EUR_GerGfkConsumerConfidenceSurvey;20210325;07:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+EUR_EurEuropeanCouncilMeeting;20210325;00:00;European Council Meeting;European Monetary Union;EUR;3

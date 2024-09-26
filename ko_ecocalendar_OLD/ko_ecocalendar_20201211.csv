@@ -1,0 +1,35 @@
+AUD_CFTCAUDNCNetPositions;20201211;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20201211;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+USD_CFTCS&P500NCNetPositions;20201211;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20201211;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20201211;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20201211;20:30;CFTC Oil NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20201211;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_BakerHughesUSOilRigCount;20201211;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_MichiganConsumerSentimentIndex;20201211;15:00;Michigan Consumer Sentiment Index;United States;USD;3
+RUB_ForeignTrade;20201211;14:00;Foreign Trade;Russia;RUB;1
+USD_ProducerPriceIndex;20201211;13:30;Producer Price Index (MoM);United States;USD;1
+CAD_CapacityUtilization;20201211;13:30;Capacity Utilization;Canada;CAD;1
+MXN_IndustrialOutput;20201211;12:00;Industrial Output (MoM);Mexico;MXN;1
+INR_IndustrialOutput;20201211;12:00;Industrial Output;India;INR;1
+INR_ManufacturingOutput;20201211;12:00;Manufacturing Output;India;INR;1
+INR_CumulativeIndustrialOutput;20201211;12:00;Cumulative Industrial Output;India;INR;1
+INR_FXReservesUSD;20201211;11:30;FX Reserves, USD;India;INR;1
+GBP_ConsumerInflationExpectations;20201211;09:30;Consumer Inflation Expectations;United Kingdom;GBP;1
+GBP_FPCMeetingMinutes;20201211;09:30;FPC Meeting Minutes;United Kingdom;GBP;1
+EUR_ItaTradeBalanceEU;20201211;09:00;Trade Balance EU;Italy;EUR;1
+EUR_ItaGlobalTradeBalance;20201211;09:00;Global Trade Balance;Italy;EUR;1
+EUR_ItaIndustrialOutput;20201211;09:00;Industrial Output s.a. (MoM);Italy;EUR;1
+EUR_GreUnemploymentRate;20201211;09:00;Unemployment Rate (MoM);Greece;EUR;1
+HUF_IndustrialOutput;20201211;08:00;Industrial Output (YoY);Hungary;HUF;1
+TRY_CurrentAccount;20201211;08:00;Current Account Balance;Turkey;TRY;1
+EUR_SpaHICP;20201211;08:00;HICP (YoY);Spain;EUR;1
+EUR_SpaConsumerPriceIndex;20201211;08:00;Consumer Price Index (MoM);Spain;EUR;1
+RON_ConsumerPriceIndex;20201211;07:00;Consumer Price Index;Romania;RON;1
+EUR_GerConsumerPriceIndex;20201211;07:00;Consumer Price Index (YoY);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20201211;07:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+GBP_FinancialStabilityReport;20201211;07:00;Financial Stability Report;United Kingdom;GBP;2
+CNY_FDIForeignDirectInvestment;20201211;07:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+EUR_FinCurrentAccount;20201211;06:00;Current Account;Finland;EUR;1
+EUR_FinConsumerPriceIndex;20201211;06:00;Consumer Price Index (YoY);Finland;EUR;1
+EUR_EurEuropeanCouncilMeeting;20201211;00:00;European Council Meeting;European Monetary Union;EUR;3

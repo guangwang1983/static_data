@@ -1,0 +1,30 @@
+JPY_BoJMonetaryPolicyStatement;20220617;03:00;BoJ Monetary Policy Statement ;Japan;JPY;3
+JPY_BoJInterestRateDecision;20220617;03:00;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_BoJPressConference;20220617;06:00;BoJ Press Conference;Japan;JPY;3
+EUR_EurEcoFinMeeting;20220617;07:00;EcoFin Meeting;European Monetary Union;EUR;2
+GBP_CentralBankSpeech;20220617;08:30;BoE Pill speech;United Kingdom;GBP;2
+EUR_ItaGlobalTradeBalance;20220617;09:00;Global Trade Balance;Italy;EUR;1
+EUR_ItaTradeBalanceEU;20220617;09:00;Trade Balance EU;Italy;EUR;1
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20220617;09:00;Core Harmonized Index of Consumer Prices (MoM);European Monetary Union;EUR;2
+EUR_EurHarmonizedIndexofConsumerPrices;20220617;09:00;Harmonized Index of Consumer Prices (MoM);European Monetary Union;EUR;2
+GBP_BoEQuarterlyBulletin;20220617;11:00;BoE Quarterly Bulletin;United Kingdom;GBP;1
+INR_BankLoanGrowth;20220617;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20220617;11:30;FX Reserves, USD;India;INR;1
+PLN_NetInflation;20220617;12:00;Net Inflation;Poland;PLN;1
+CAD_IndustrialProductPrice;20220617;12:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_RawMaterialPriceIndex;20220617;12:30;Raw Material Price Index;Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20220617;12:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20220617;12:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+USD_CentralBankSpeech;20220617;12:45;Fed Chair Powell speech;United States;USD;3
+USD_CapacityUtilization;20220617;13:15;Capacity Utilization;United States;USD;1
+USD_IndustrialProduction;20220617;13:15;Industrial Production (MoM);United States;USD;1
+COP_TradeBalance;20220617;15:00;Trade Balance;Colombia;COP;1
+USD_FedMonetaryPolicyReport;20220617;15:00;Fed Monetary Policy Report;United States;USD;2
+USD_BakerHughesUSOilRigCount;20220617;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20220617;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20220617;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+JPY_CFTCJPYNCNetPositions;20220617;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+GBP_CFTCGBPNCNetPositions;20220617;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20220617;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20220617;19:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20220617;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1

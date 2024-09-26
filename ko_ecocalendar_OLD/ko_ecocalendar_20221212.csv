@@ -1,0 +1,29 @@
+AUD_ANZJobAdvertisements;20221212;00:30;ANZ Job Advertisements;Australia;AUD;1
+MXN_DayoftheVirginofGuadalupe;20221212;06:00;Day of the Virgin of Guadalupe ;Mexico;MXN;0
+JPY_MachineToolOrders;20221212;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+TRY_UnemploymentRate;20221212;07:00;Unemployment Rate;Turkey;TRY;1
+TRY_IndustrialProduction;20221212;07:00;Industrial Production (YoY);Turkey;TRY;1
+TRY_CurrentAccount;20221212;07:00;Current Account Balance;Turkey;TRY;1
+DKK_ConsumerPriceIndex;20221212;07:00;Consumer Price Index (YoY);Denmark;DKK;1
+DKK_Inflation;20221212;07:00;Inflation (HICP) (YoY);Denmark;DKK;1
+GBP_IndustrialProduction;20221212;07:00;Industrial Production (MoM);United Kingdom;GBP;2
+GBP_ManufacturingProduction;20221212;07:00;Manufacturing Production (YoY);United Kingdom;GBP;2
+GBP_IndexofServices;20221212;07:00;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_TotalTradeBalance;20221212;07:00;Total Trade Balance;United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20221212;07:00;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20221212;07:00;Goods Trade Balance;United Kingdom;GBP;1
+GBP_GrossDomesticProduct;20221212;07:00;Gross Domestic Product (MoM);United Kingdom;GBP;2
+RON_TradeBalance;20221212;07:00;Trade Balance;Romania;RON;1
+CZK_ConsumerPriceIndex;20221212;08:00;Consumer Price Index (MoM);Czech Republic;CZK;1
+ZAR_BusinessConfidenceIndex;20221212;09:30;Business Confidence Index;South Africa;ZAR;1
+MXN_IndustrialOutput;20221212;12:00;Industrial Output (MoM);Mexico;MXN;1
+GBP_NIESRGDPEstimate;20221212;12:00;NIESR GDP Estimate (3M);United Kingdom;GBP;2
+INR_ConsumerPriceIndex;20221212;12:00;Consumer Price Index (YoY);India;INR;1
+INR_ManufacturingOutput;20221212;12:00;Manufacturing Output;India;INR;1
+INR_IndustrialOutput;20221212;12:00;Industrial Output;India;INR;1
+INR_CumulativeIndustrialOutput;20221212;12:00;Cumulative Industrial Output;India;INR;1
+USD_Auction;20221212;18:00;3-Year Note Auction;United States;USD;1
+USD_MonthlyBudgetStatement;20221212;19:00;Monthly Budget Statement;United States;USD;2
+NZD_REINZHousePriceIndex;20221212;20:00;REINZ House Price Index (MoM);New Zealand;NZD;2
+CAD_CentralBankSpeech;20221212;20:25;BoC Governor Macklem speech;Canada;CAD;3
+NZD_FoodPriceIndex;20221212;21:45;Food Price Index (MoM);New Zealand;NZD;1

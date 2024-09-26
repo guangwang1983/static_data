@@ -1,0 +1,33 @@
+TRY_RamazanFeast;20190604;00:00;Ramazan Feast;Turkey;TRY;0
+AUD_CurrentAccount;20190604;01:30;Current Account Balance;Australia;AUD;1
+AUD_RetailSales;20190604;01:30;Retail Sales s.a. (MoM);Australia;AUD;2
+JPY_Auction;20190604;03:35;10-y Bond Auction;Japan;JPY;1
+AUD_RBAInterestRateDecision;20190604;04:30;RBA Interest Rate Decision;Australia;AUD;3
+AUD_RBARateStatement;20190604;04:30;RBA Rate Statement;Australia;AUD;3
+EUR_FraBudgetBalance;20190604;06:45;Budget Balance;France;EUR;1
+SEK_IndustrialProductionValue;20190604;07:30;Industrial Production Value (MoM);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20190604;07:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+SEK_CurrentAccount;20190604;07:31;Current Account (QoQ);Sweden;SEK;1
+PLN_ConsumerPriceIndex;20190604;08:00;Consumer Price Index (MoM);Poland;PLN;1
+EUR_ItaUnemployment;20190604;08:00;Unemployment;Italy;EUR;1
+BRL_FipeIPCInflation;20190604;08:00;Fipe IPC Inflation;Brazil;BRL;1
+GBP_S&PGlobalConstructionPMI;20190604;08:30;S&P Global Construction PMI;United Kingdom;GBP;1
+EUR_EurUnemploymentRate;20190604;09:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20190604;09:00;Core Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_EurHarmonizedIndexofConsumerPrices;20190604;09:00;Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+ZAR_GrossDomesticProduct;20190604;09:30;Gross Domestic Product (QoQ);South Africa;ZAR;1
+AUD_CentralBankSpeech;20190604;09:30;RBA Governor Lowe speech;Australia;AUD;3
+BRL_IndustrialOutput;20190604;12:00;Industrial Output (YoY);Brazil;BRL;1
+USD_RedbookIndex;20190604;12:55;Redbook Index (YoY);United States;USD;1
+MXN_ConsumerConfidence;20190604;13:00;Consumer Confidence;Mexico;MXN;1
+USD_ISMNYBusinessConditionsIndex;20190604;13:45;ISM-NY Business Conditions Index;United States;USD;1
+USD_CentralBankSpeech;20190604;13:45;Fed Chair Powell speech;United States;USD;3
+USD_FactoryOrders;20190604;14:00;Factory Orders (MoM);United States;USD;2
+NZD_GDTPriceIndex;20190604;14:22;GDT Price Index;New Zealand;NZD;2
+DKK_CurrencyReserves;20190604;15:00;Currency Reserves;Denmark;DKK;1
+USD_APIWeeklyCrudeOilStock;20190604;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_FXReserves;20190604;21:00;FX Reserves;South Korea;KRW;1
+AUD_AiGPerformanceofServicesIndex;20190604;22:30;AiG Performance of Services Index;Australia;AUD;1
+KRW_CurrentAccount;20190604;23:00;Current Account Balance;South Korea;KRW;1
+AUD_S&PGlobalServicesPMI;20190604;23:00;S&P Global Services PMI;Australia;AUD;1
+AUD_S&PGlobalCompositePMI;20190604;23:00;S&P Global Composite PMI;Australia;AUD;1

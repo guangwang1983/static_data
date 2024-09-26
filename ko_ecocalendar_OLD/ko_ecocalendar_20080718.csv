@@ -1,0 +1,10 @@
+CAD_WholesaleSales;20080718;12:30;Wholesale Sales (MoM);Canada;CAD;1
+CAD_LeadingIndicators;20080718;12:30;Leading Indicators (MoM);Canada;CAD;1
+EUR_EurTradeBalance;20080718;09:00;Trade Balance s.a.;European Monetary Union;EUR;1
+GBP_CMLGrossMortgageLending;20080718;08:30;CML Gross Mortgage Lending s.a.;United Kingdom;GBP;0
+GBP_M4SterlingLending;20080718;08:30;M4 Sterling Lending;United Kingdom;GBP;1
+GBP_M4MoneySupply;20080718;08:30;M4 Money Supply (MoM);United Kingdom;GBP;1
+GBP_PublicSectorNetBorrowing;20080718;08:30;Public Sector Net Borrowing;United Kingdom;GBP;1
+EUR_GerProducerPriceIndex;20080718;06:00;Producer Price Index (MoM);Germany;EUR;1
+AUD_ExportPriceIndex;20080718;01:30;Export Price Index (QoQ);Australia;AUD;1
+AUD_ImportPriceIndex;20080718;01:30;Import Price Index (QoQ);Australia;AUD;1

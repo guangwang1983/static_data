@@ -1,0 +1,86 @@
+#00 07 CET
+00 06 * * 1-5 source /home/svc_matterhorn/.bashrc ; cd $STATICDATAPATH ; git pull
+
+#################################################
+############### Main Portfolio ##################
+#################################################
+
+#30 07 CET
+30 06 * * 1-5 source /home/svc_matterhorn/.bashrc ; /export/home/scratch/matterhorn/productionScripts/dailyProductionSetup.py --portfolioName productionportfolio
+
+#31 07 CET
+31 06 * * 1-5 source /home/svc_matterhorn/.bashrc ; /export/home/scratch/matterhorn/productionScripts/launchCronJob.py --command "/export/home/scratch/matterhorn/productionScripts/tradingMonitor.py productionportfolio telcity" --subject "Trading Monitor Error - EU MAIN" --sender "dailyCron@matterhorn"
+
+#41 07 CET
+41 06 * * 1-5 source /home/svc_matterhorn/.bashrc ; /export/home/scratch/matterhorn/productionScripts/tradingStartUp.sh productionportfolio MatterhornRVStaticEU telcity
+
+#45 23 CET
+45 22 * * 1-5 source /home/svc_matterhorn/.bashrc ; /export/home/scratch/matterhorn/productionScripts/EODCleanUp.sh productionportfolio
+
+#59 23 CET
+59 22 * * 1-5 rsync --remove-source-files /export/home/scratch/matterhorn/productionportfolio/*.tar.gz pxvsmtwqipm001://dat/matterhorn/production/productionlog/productionportfolio/telcity/
+
+#################################################
+############### Curve Portfolio #################
+#################################################
+
+#30 07 CET
+#30 06 * * 1-5 source /home/svc_matterhorn/.bashrc ; /export/home/scratch/matterhorn/productionScripts/dailyProductionSetup.py --portfolioName productionportfolio_CURVE
+
+#31 07 CET
+#31 06 * * 1-5 source /home/svc_matterhorn/.bashrc ; /export/home/scratch/matterhorn/productionScripts/launchCronJob.py --command "/export/home/scratch/matterhorn/productionScripts/tradingMonitor.py productionportfolio_CURVE telcity" --subject "Trading Monitor Error - EU CURVE" --sender "dailyCron@matterhorn"
+
+#42 07 CET
+#42 06 * * 1-5 source /home/svc_matterhorn/.bashrc ; /export/home/scratch/matterhorn/productionScripts/tradingStartUp.sh productionportfolio_CURVE MatterhornCURVEEU telcity
+
+#45 23 CET
+#45 22 * * 1-5 source /home/svc_matterhorn/.bashrc ; /export/home/scratch/matterhorn/productionScripts/EODCleanUp.sh productionportfolio_CURVE
+
+#59 23 CET
+#59 22 * * 1-5 rsync --remove-source-files /export/home/scratch/matterhorn/productionportfolio_CURVE/*.tar.gz pxvsmtwqipm001://dat/matterhorn/production/productionlog/productionportfolio_CURVE/telcity/
+
+#################################################
+############### SLRL Portfolio ##################
+#################################################
+
+#30 07 CET
+30 06 * * 1-5 source /home/svc_matterhorn/.bashrc ; /export/home/scratch/matterhorn/productionScripts/dailyProductionSetup.py --portfolioName productionportfolio_SLRL
+
+#31 07 CET
+31 06 * * 1-5 source /home/svc_matterhorn/.bashrc ; launchCronJob.py --command "/export/home/scratch/matterhorn/productionScripts/tradingMonitor.py productionportfolio_SLRL telcity" --subject "Trading Monitor Error EU SLRL" --sender "dailyCron@matterhorn"
+
+#43 07 CET
+43 06 * * 1-5 source /home/svc_matterhorn/.bashrc ; /export/home/scratch/matterhorn/productionScripts/tradingStartUp.sh productionportfolio_SLRL MatterhornRVDynamicEU telcity
+
+#45 23 CET
+45 22 * * 1-5 source /home/svc_matterhorn/.bashrc ; /export/home/scratch/matterhorn/productionScripts/EODCleanUp.sh productionportfolio_SLRL
+
+#59 23 CET
+59 22 * * 1-5 rsync --remove-source-files /export/home/scratch/matterhorn/productionportfolio_SLRL/*.tar.gz pxvsmtwqipm001://dat/matterhorn/production/productionlog/productionportfolio_SLRL/telcity/
+
+#################################################
+############### Init Portfolio ##################
+#################################################
+
+#57 07 CET
+#57 06 * * 1-5 source /home/svc_matterhorn/.bashrc ; /export/home/scratch/matterhorn/productionScripts/dailyProductionSetup.py --portfolioName productionportfolio_INIT
+
+#58 07 CET
+#58 06 * * 1-5 source /home/svc_matterhorn/.bashrc ; /export/home/scratch/matterhorn/productionScripts/launchCronJob.py --command "/export/home/scratch/matterhorn/productionScripts/tradingMonitor.py productionportfolio_INIT telcity" --subject "Trading Monitor Error - EU INIT" --sender "dailyCron@matterhorn"
+
+#59 07 CET
+#59 06 * * 1-5 source /home/svc_matterhorn/.bashrc ; /export/home/scratch/matterhorn/productionScripts/tradingStartUp.sh productionportfolio_INIT MatterhornINITEU telcity
+
+#45 23 CET
+#45 22 * * 1-5 source /home/svc_matterhorn/.bashrc ; /export/home/scratch/matterhorn/productionScripts/EODCleanUp.sh productionportfolio_INIT
+
+#59 23 CET
+#59 22 * * 1-5 rsync --remove-source-files /export/home/scratch/matterhorn/productionportfolio_INIT/*.tar.gz pxvsmtwqipm001://dat/matterhorn/production/productionlog/productionportfolio_INIT/telcity/
+
+################################################
+
+#00 08 CET
+00 07 * * 1-5 source /home/svc_matterhorn/.bashrc ; /export/home/scratch/matterhorn/productionScripts/rsync_prodlog_telcity.sh
+
+
+

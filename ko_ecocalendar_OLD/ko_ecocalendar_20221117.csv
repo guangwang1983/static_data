@@ -1,0 +1,28 @@
+AUD_UnemploymentRate;20221117;00:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_ParticipationRate;20221117;00:30;Participation Rate;Australia;AUD;1
+AUD_EmploymentChange;20221117;00:30;Employment Change s.a.;Australia;AUD;3
+AUD_FullTimeEmployment;20221117;00:30;Full-Time Employment;Australia;AUD;2
+AUD_PartTimeEmployment;20221117;00:30;Part-Time Employment;Australia;AUD;1
+IDR_BankIndonesiaRate;20221117;07:00;Bank Indonesia Rate;Indonesia;IDR;1
+CHF_Exports;20221117;07:00;Exports (MoM);Switzerland;CHF;1
+CHF_Imports;20221117;07:00;Imports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20221117;07:00;Trade Balance;Switzerland;CHF;1
+EUR_EurHarmonizedIndexofConsumerPrices;20221117;10:00;Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;1
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20221117;10:00;Core Harmonized Index of Consumer Prices (MoM);European Monetary Union;EUR;2
+EUR_EurConstructionOutput;20221117;10:00;Construction Output  s.a (MoM);European Monetary Union;EUR;1
+RUB_CentralBankReserves;20221117;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_BuildingPermits;20221117;13:30;Building Permits (MoM);United States;USD;2
+USD_BuildingPermitsChange;20221117;13:30;Building Permits Change;United States;USD;1
+USD_HousingStartsChange;20221117;13:30;Housing Starts Change;United States;USD;1
+USD_HousingStarts;20221117;13:30;Housing Starts (MoM);United States;USD;2
+USD_JoblessClaims;20221117;13:30;Initial Jobless Claims;United States;USD;2
+USD_PhiladelphiaFedManufacturingSurvey;20221117;13:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+CAD_EmploymentInsuranceBeneficiariesChange;20221117;13:30;Employment Insurance Beneficiaries Change (MoM);Canada;CAD;1
+USD_EIANaturalGasStorageChange;20221117;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_CentralBankSpeech;20221117;15:40;Fed Jefferson speech;United States;USD;2
+USD_KansasFedManufacturingActivity;20221117;16:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_Auction;20221117;16:30;4-Week Bill Auction;United States;USD;1
+CHF_CentralBankSpeech;20221117;17:30;SNB Maechler speech;Switzerland;CHF;2
+JPY_ConsumerPriceIndex;20221117;23:30;National Consumer Price Index (YoY);Japan;JPY;2
+JPY_NationalCPIexFoodEnergy;20221117;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20221117;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2

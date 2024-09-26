@@ -1,0 +1,23 @@
+USD_IMFMeeting;20221010;00:00;IMF Meeting;United States;USD;2
+USD_ColumbusDay;20221010;05:00;Columbus Day;United States;USD;0
+CAD_ThanksgivingDay;20221010;05:00;Thanksgiving Day;Canada;CAD;0
+NOK_ConsumerPriceIndex;20221010;06:00;Consumer Price Index (YoY);Norway;NOK;1
+NOK_CoreInflation;20221010;06:00;Core Inflation (MoM);Norway;NOK;1
+RON_TradeBalance;20221010;06:00;Trade Balance;Romania;RON;1
+DKK_Inflation;20221010;06:00;Inflation (HICP) (YoY);Denmark;DKK;1
+DKK_ConsumerPriceIndex;20221010;06:00;Consumer Price Index (YoY);Denmark;DKK;1
+DKK_TradeBalance;20221010;06:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20221010;06:00;Current Account;Denmark;DKK;1
+NOK_ProducerPriceIndex;20221010;06:00;Producer Price Index (YoY);Norway;NOK;1
+TRY_UnemploymentRate;20221010;07:00;Unemployment Rate;Turkey;TRY;1
+CZK_UnemploymentRate;20221010;07:00;Unemployment Rate;Czech Republic;CZK;1
+HUF_TradeBalance;20221010;07:00;Trade Balance;Hungary;HUF;1
+EUR_EurSentixInvestorConfidence;20221010;08:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+HUF_BudgetBalance;20221010;09:00;Budget Balance;Hungary;HUF;1
+EUR_EurCentralBankSpeech;20221010;13:00;ECB Lane speech;European Monetary Union;EUR;2
+USD_CentralBankSpeech;20221010;17:35;Fed Brainard speech;United States;USD;2
+NZD_RetailSales;20221010;21:45;Electronic Card Retail Sales  (MoM);New Zealand;NZD;1
+GBP_RetailSales;20221010;23:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+AUD_WestpacConsumerConfidence;20221010;23:30;Westpac Consumer Confidence;Australia;AUD;2
+JPY_TradeBalanceBOPBasis;20221010;23:50;Trade Balance - BOP Basis;Japan;JPY;1
+JPY_CurrentAccount;20221010;23:50;Current Account n.s.a.;Japan;JPY;2

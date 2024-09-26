@@ -1,0 +1,24 @@
+AUD_WestpacLeadingIndex;20160622;00:30;Westpac Leading Index (MoM);Australia;AUD;1
+TRY_ConsumerConfidence;20160622;07:00;Consumer Confidence;Turkey;TRY;1
+DKK_ConsumerConfidence;20160622;07:00;Consumer Confidence;Denmark;DKK;1
+DKK_RetailSales;20160622;07:00;Retail Sales (YoY);Denmark;DKK;1
+EUR_EurNonMonetaryPolicyECBMeeting;20160622;07:00;Non-Monetary Policy ECB Meeting;European Monetary Union;EUR;3
+SEK_ConsumerConfidence;20160622;07:00;Consumer Confidence (MoM);Sweden;SEK;1
+SEK_UnemploymentRate;20160622;07:30;Unemployment Rate;Sweden;SEK;1
+ZAR_ConsumerPriceIndex;20160622;08:00;Consumer Price Index (YoY);South Africa;ZAR;1
+NOK_LabourForceSurvey;20160622;08:00;Labour Force Survey;Norway;NOK;1
+CHF_ZEWSurvey–Expectations;20160622;09:00;ZEW Survey – Expectations;Switzerland;CHF;2
+EUR_GerAuction;20160622;10:35;30-y Bond Auction;Germany;EUR;1
+USD_MBAMortgageApplications;20160622;11:00;MBA Mortgage Applications;United States;USD;1
+INR_M3MoneySupply;20160622;11:30;M3 Money Supply;India;INR;1
+CAD_RetailSales;20160622;12:30;Retail Sales (MoM);Canada;CAD;1
+CHF_SNBQuarterlyBulletin;20160622;13:00;SNB Quarterly Bulletin;Switzerland;CHF;2
+USD_HousingPriceIndex;20160622;13:00;Housing Price Index (MoM);United States;USD;2
+USD_ExistingHomeSales;20160622;14:00;Existing Home Sales (MoM);United States;USD;1
+USD_ExistingHomeSalesChange;20160622;14:00;Existing Home Sales Change (MoM);United States;USD;1
+EUR_EurConsumerConfidence;20160622;14:00;Consumer Confidence;European Monetary Union;EUR;1
+USD_FedChairYellentestifies;20160622;14:00;Fed Chair Yellen testifies;United States;USD;3
+USD_EIACrudeOilStocksChange;20160622;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+COP_Interestrate;20160622;22:00;Interest rate;Colombia;COP;1
+JPY_ForeignInvestmentinJapanStocks;20160622;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20160622;23:50;Foreign Bond Investment;Japan;JPY;2

@@ -1,0 +1,20 @@
+USD_MonthlyBudgetStatement;20110913;18:00;Monthly Budget Statement;United States;USD;2
+USD_IBDTIPPEconomicOptimism;20110913;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+USD_ImportPriceIndex;20110913;12:30;Import Price Index (MoM);United States;USD;1
+USD_ExportPriceIndex;20110913;12:30;Export Price Index (MoM);United States;USD;1
+PLN_ConsumerPriceIndex;20110913;12:00;Consumer Price Index (MoM);Poland;PLN;1
+BRL_RetailSales;20110913;11:00;Retail Sales (MoM);Brazil;BRL;0
+GBP_RetailPriceIndex;20110913;08:30;Retail Price Index (MoM);United Kingdom;GBP;1
+GBP_DCLGHousePriceIndex;20110913;08:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20110913;08:30;Goods Trade Balance;United Kingdom;GBP;2
+GBP_TradeBalancenonEU;20110913;08:30;Trade Balance non-EU;United Kingdom;GBP;2
+GBP_ConsumerPriceIndex;20110913;08:30;Core Consumer Price Index (YoY);United Kingdom;GBP;2
+SEK_ConsumerPriceIndex;20110913;07:30;Consumer Price Index (YoY);Sweden;SEK;1
+EUR_SpaHICP;20110913;07:00;HICP (YoY);Spain;EUR;1
+EUR_SpaConsumerPriceIndex;20110913;07:00;Consumer Price Index (MoM);Spain;EUR;1
+HUF_ConsumerPriceIndex;20110913;07:00;Consumer Price Index (YoY);Hungary;HUF;1
+EUR_FraCurrentAccount;20110913;06:45;Current Account;France;EUR;1
+EUR_FraConsumerPriceIndex;20110913;05:30;Consumer Price Index (EU norm) (YoY);France;EUR;1
+EUR_FraInflationextobacco;20110913;05:30;Inflation ex-tobacco (MoM);France;EUR;1
+AUD_NationalAustraliaBankBusinessConfidence;20110913;01:30;National Australia Bank Business Confidence;Australia;AUD;2
+AUD_NationalAustraliaBankBusinessConditions;20110913;01:30;National Australia Bank Business Conditions;Australia;AUD;1

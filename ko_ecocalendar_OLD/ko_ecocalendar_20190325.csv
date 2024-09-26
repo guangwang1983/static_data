@@ -1,0 +1,31 @@
+JPY_CorporateServicePrice;20190325;23:50;Corporate Service Price (YoY);Japan;JPY;1
+JPY_BoJSummaryofOpinions;20190325;23:50;BoJ Summary of Opinions;Japan;JPY;1
+NZD_Imports;20190325;21:45;Imports;New Zealand;NZD;2
+NZD_Exports;20190325;21:45;Exports;New Zealand;NZD;2
+NZD_TradeBalance;20190325;21:45;Trade Balance (YoY);New Zealand;NZD;2
+AUD_CentralBankSpeech;20190325;20:30;RBA Ellis speech;Australia;AUD;2
+USD_Auction;20190325;15:30;3-Month Bill Auction;United States;USD;1
+GBP_CentralBankSpeech;20190325;15:30;UK Prime Minister Theresa May speech;United Kingdom;GBP;3
+USD_DallasFedManufacturingBusinessIndex;20190325;14:30;Dallas Fed Manufacturing Business Index;United States;USD;1
+EUR_BelLeadingIndicator;20190325;14:00;Leading Indicator;Belgium;EUR;1
+BRL_CurrentAccount;20190325;13:37;Current Account;Brazil;BRL;1
+USD_ChicagoFedNationalActivityIndex;20190325;12:30;Chicago Fed National Activity Index ;United States;USD;2
+EUR_EurCentralBankSpeech;20190325;09:30;ECB Cœuré speech;European Monetary Union;EUR;2
+PLN_Unemployment;20190325;09:00;Unemployment (MoM);Poland;PLN;1
+EUR_GerIFOExpectations;20190325;09:00;IFO - Expectations;Germany;EUR;2
+EUR_GerIFOCurrentAssessment;20190325;09:00;IFO - Current Assessment;Germany;EUR;2
+EUR_GerIFOBusinessClimate;20190325;09:00;IFO - Business Climate;Germany;EUR;2
+CZK_ForeignDebt;20190325;09:00;Foreign Debt;Czech Republic;CZK;1
+EUR_AusIndustrialProduction;20190325;08:00;Industrial Production (YoY);Austria;EUR;1
+HUF_CurrentAccount;20190325;07:30;Current Account Balance (QoQ);Hungary;HUF;1
+TRY_ManufacturingConfidence;20190325;07:30;Manufacturing Confidence;Turkey;TRY;1
+TRY_CapacityUtilization;20190325;07:30;Capacity Utilization;Turkey;TRY;1
+EUR_FinProducerPriceIndex;20190325;07:00;Producer Price Index (YoY);Finland;EUR;1
+EUR_FinImportPrices;20190325;07:00;Import Prices (YoY);Finland;EUR;1
+EUR_FinExportPrices;20190325;07:00;Export Prices (YoY);Finland;EUR;1
+JPY_CentralBankSpeech;20190325;06:30;BoJ Harada speech;Japan;JPY;2
+SGD_ConsumerPriceIndex;20190325;05:00;Consumer Price Index (YoY);Singapore;SGD;1
+USD_CentralBankSpeech;20190325;05:00;Fed Evans speech;United States;USD;1
+JPY_AllIndustryActivityIndex;20190325;04:30;All Industry Activity Index (MoM);Japan;JPY;2
+EUR_GreIndependenceDay;20190325;00:00;Independence Day ;Greece;EUR;0
+COP_SaintJoseph;20190325;00:00;Saint Joseph;Colombia;COP;0

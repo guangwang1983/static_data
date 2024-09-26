@@ -1,0 +1,39 @@
+AUD_WestpacConsumerConfidence;20200812;00:30;Westpac Consumer Confidence;Australia;AUD;2
+AUD_WagePriceIndex;20200812;01:30;Wage Price Index (YoY);Australia;AUD;1
+NZD_RBNZInterestRateDecision;20200812;02:00;RBNZ Interest Rate Decision;New Zealand;NZD;3
+NZD_RBNZRateStatement;20200812;02:00;RBNZ Rate Statement;New Zealand;NZD;3
+NZD_MonetaryPolicyStatement;20200812;02:00;Monetary Policy Statement ;New Zealand;NZD;3
+CNY_M2MoneySupply;20200812;02:00;M2 Money Supply (YoY);China;CNY;1
+NZD_RBNZPressConference;20200812;03:00;RBNZ Press Conference;New Zealand;NZD;3
+GBP_GrossDomesticProduct;20200812;06:00;Gross Domestic Product (YoY);United Kingdom;GBP;2
+RON_IndustrialProduction;20200812;06:00;Industrial Production (MoM);Romania;RON;1
+GBP_IndustrialProduction;20200812;06:00;Industrial Production (MoM);United Kingdom;GBP;2
+GBP_ManufacturingProduction;20200812;06:00;Manufacturing Production (MoM);United Kingdom;GBP;2
+GBP_TotalBusinessInvestment;20200812;06:00;Total Business Investment (QoQ);United Kingdom;GBP;1
+RON_ConsumerPriceIndex;20200812;06:00;Consumer Price Index;Romania;RON;1
+GBP_IndexofServices;20200812;06:00;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20200812;06:00;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20200812;06:00;Total Trade Balance;United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20200812;06:00;Goods Trade Balance;United Kingdom;GBP;1
+HUF_IndustrialOutput;20200812;07:00;Industrial Output (YoY);Hungary;HUF;1
+SEK_ConsumerPriceIndex;20200812;07:30;Consumer Price Index (MoM);Sweden;SEK;1
+EUR_ItaConsumerPriceIndex;20200812;09:00;Consumer Price Index (MoM);Italy;EUR;1
+EUR_EurIndustrialProduction;20200812;09:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;1
+ZAR_BusinessConfidenceIndex;20200812;09:30;Business Confidence Index;South Africa;ZAR;1
+BRL_RetailSales;20200812;10:00;Retail Sales (MoM);Brazil;BRL;1
+ILS_Exports;20200812;10:01;Exports;Israel;ILS;1
+ILS_Imports;20200812;10:01;Imports;Israel;ILS;1
+ILS_TradeBalance;20200812;10:01;Trade Balance;Israel;ILS;1
+EUR_GerAuction;20200812;10:01;10-y Bond Auction;Germany;EUR;2
+USD_MBAMortgageApplications;20200812;11:00;MBA Mortgage Applications;United States;USD;1
+ZAR_RetailSales;20200812;11:00;Retail Sales (YoY);South Africa;ZAR;1
+INR_M3MoneySupply;20200812;11:30;M3 Money Supply;India;INR;1
+GBP_NIESRGDPEstimate;20200812;12:30;NIESR GDP Estimate (3M);United Kingdom;GBP;2
+USD_ConsumerPriceIndex;20200812;12:30;Consumer Price Index Core s.a;United States;USD;2
+USD_EIACrudeOilStocksChange;20200812;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_USDAWASDEReport;20200812;16:00;USDA WASDE Report;United States;USD;1
+USD_Auction;20200812;17:00;10-Year Note Auction;United States;USD;1
+USD_MonthlyBudgetStatement;20200812;18:00;Monthly Budget Statement;United States;USD;2
+NZD_FoodPriceIndex;20200812;22:45;Food Price Index (MoM);New Zealand;NZD;1
+GBP_RICSHousingPriceBalance;20200812;23:01;RICS Housing Price Balance;United Kingdom;GBP;1
+JPY_ProducerPriceIndex;20200812;23:50;Producer Price Index (MoM);Japan;JPY;1

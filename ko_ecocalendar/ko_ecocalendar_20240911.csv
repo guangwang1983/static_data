@@ -1,0 +1,28 @@
+USD_PresidentialDebate;20240911;01:00;Presidential Debate;United States;USD;3
+GBP_IndustrialProduction;20240911;06:00;Industrial Production (YoY);United Kingdom;GBP;1
+GBP_ManufacturingProduction;20240911;06:00;Manufacturing Production (YoY);United Kingdom;GBP;1
+GBP_IndexofServices;20240911;06:00;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20240911;06:00;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20240911;06:00;Goods Trade Balance;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20240911;06:00;Total Trade Balance;United Kingdom;GBP;1
+GBP_GrossDomesticProduct;20240911;06:00;Gross Domestic Product (MoM);United Kingdom;GBP;2
+RON_ConsumerPriceIndex;20240911;06:00;Consumer Price Index;Romania;RON;1
+EUR_GerAuction;20240911;09:30;10-y Bond Auction;Germany;EUR;1
+GBP_Auction;20240911;09:30;10-y Bond Auction;United Kingdom;GBP;1
+CNY_M2MoneySupply;20240911;10:00;M2 Money Supply (YoY);China;CNY;1
+CNY_NewLoans;20240911;10:00;New Loans;China;CNY;1
+USD_MBAMortgageApplications;20240911;11:00;MBA Mortgage Applications;United States;USD;1
+GBP_NIESRGDPEstimate;20240911;11:00;NIESR GDP Estimate (3M);United Kingdom;GBP;1
+MXN_IndustrialOutput;20240911;12:00;Industrial Output (MoM);Mexico;MXN;1
+USD_ConsumerPriceIndex;20240911;12:30;Consumer Price Index n.s.a (MoM);United States;USD;1
+RUB_ForeignTrade;20240911;13:00;Foreign Trade;Russia;RUB;1
+USD_EIACrudeOilStocksChange;20240911;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+RUB_ConsumerPriceIndex;20240911;16:00;Consumer Price Index (MoM);Russia;RUB;1
+USD_Auction;20240911;17:00;10-Year Note Auction;United States;USD;1
+NZD_FoodPriceIndex;20240911;22:45;Food Price Index (MoM);New Zealand;NZD;1
+NZD_RetailSales;20240911;22:45;Electronic Card Retail Sales  (MoM);New Zealand;NZD;1
+GBP_RICSHousingPriceBalance;20240911;23:01;RICS Housing Price Balance;United Kingdom;GBP;1
+JPY_ProducerPriceIndex;20240911;23:50;Producer Price Index (YoY);Japan;JPY;1
+JPY_BSILargeManufacturingConditionsIndex;20240911;23:50;BSI Large Manufacturing Conditions Index (QoQ);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20240911;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20240911;23:50;Foreign Bond Investment;Japan;JPY;1

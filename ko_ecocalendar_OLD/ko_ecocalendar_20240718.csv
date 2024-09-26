@@ -1,0 +1,41 @@
+AUD_NationalAustraliaBankBusinessConfidence;20240718;01:30;National Australia Bank Business Confidence (QoQ);Australia;AUD;2
+AUD_EmploymentChange;20240718;01:30;Employment Change s.a.;Australia;AUD;3
+AUD_FullTimeEmployment;20240718;01:30;Full-Time Employment;Australia;AUD;2
+AUD_PartTimeEmployment;20240718;01:30;Part-Time Employment;Australia;AUD;2
+AUD_UnemploymentRate;20240718;01:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_ParticipationRate;20240718;01:30;Participation Rate;Australia;AUD;2
+AUD_RBABulletin;20240718;01:30;RBA Bulletin;Australia;AUD;1
+GBP_EmploymentChange;20240718;06:00;Employment Change (3M);United Kingdom;GBP;3
+GBP_AverageEarningsIncludingBonus;20240718;06:00;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_AverageEarningsExcludingBonus;20240718;06:00;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20240718;06:00;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_ClaimantCountChange;20240718;06:00;Claimant Count Change;United Kingdom;GBP;3
+GBP_ClaimantCountRate;20240718;06:00;Claimant Count Rate;United Kingdom;GBP;2
+CHF_Exports;20240718;06:00;Exports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20240718;06:00;Trade Balance;Switzerland;CHF;1
+CHF_Imports;20240718;06:00;Imports (MoM);Switzerland;CHF;1
+EUR_EurEurogroupMeeting;20240718;07:00;Eurogroup Meeting;Eurozone;EUR;2
+PLN_IndustrialOutput;20240718;08:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20240718;08:00;Producer Price Index (YoY);Poland;PLN;1
+PLN_CorporateSectorWages;20240718;08:00;Corporate Sector Wages;Poland;PLN;1
+EUR_EurConstructionOutput;20240718;09:00;Construction Output w.d.a (YoY);Eurozone;EUR;1
+EUR_EurECBMainRefinancingOperationsRate;20240718;12:15;ECB Main Refinancing Operations Rate;Eurozone;EUR;3
+EUR_EurECBRateOnDepositFacility;20240718;12:15;ECB Rate On Deposit Facility;Eurozone;EUR;3
+EUR_EurECBMonetaryPolicyStatement;20240718;12:15;ECB Monetary Policy Statement;Eurozone;EUR;3
+USD_JoblessClaims;20240718;12:30;Continuing Jobless Claims;United States;USD;1
+USD_PhiladelphiaFedManufacturingSurvey;20240718;12:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+CAD_EmploymentInsuranceBeneficiariesChange;20240718;12:30;Employment Insurance Beneficiaries Change (MoM);Canada;CAD;1
+EUR_EurECBPressConference;20240718;12:45;ECB Press Conference;Eurozone;EUR;3
+ZAR_SARBInterestRateDecision;20240718;13:00;SARB Interest Rate Decision;South Africa;ZAR;1
+RUB_CentralBankReserves;20240718;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_EIANaturalGasStorageChange;20240718;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20240718;17:00;10-year TIPS Auction;United States;USD;1
+USD_TotalNetTICFlows;20240718;20:00;Total Net TIC Flows;United States;USD;1
+USD_NetLongTermTICFlows;20240718;20:00;Net Long-Term TIC Flows;United States;USD;1
+GBP_GfKConsumerConfidence;20240718;23:01;GfK Consumer Confidence;United Kingdom;GBP;2
+JPY_NationalCPIexFoodEnergy;20240718;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20240718;23:30;National Consumer Price Index (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20240718;23:30;National CPI ex Fresh Food (YoY);Japan;JPY;2
+USD_CentralBankSpeech;20240718;23:45;Fed Bowman speech;United States;USD;2
+JPY_ForeignInvestmentinJapanStocks;20240718;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20240718;23:50;Foreign Bond Investment;Japan;JPY;1

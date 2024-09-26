@@ -1,0 +1,27 @@
+AUD_RBAMeetingMinutes;20161220;00:30;RBA Meeting Minutes;Australia;AUD;3
+JPY_BoJMonetaryPolicyStatement;20161220;03:00;BoJ Monetary Policy Statement ;Japan;JPY;3
+JPY_BoJInterestRateDecision;20161220;03:00;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_BoJPressConference;20161220;06:00;BoJ Press Conference;Japan;JPY;3
+CHF_Exports;20161220;07:00;Exports (MoM);Switzerland;CHF;1
+CHF_Imports;20161220;07:00;Imports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20161220;07:00;Trade Balance;Switzerland;CHF;1
+EUR_GerProducerPriceIndex;20161220;07:00;Producer Price Index (MoM);Germany;EUR;2
+HUF_GrossWages;20161220;08:00;Gross Wages (YoY);Hungary;HUF;1
+SEK_ConsumerConfidence;20161220;08:00;Consumer Confidence (MoM);Sweden;SEK;1
+EUR_EurCurrentAccount;20161220;09:00;Current Account s.a;European Monetary Union;EUR;1
+CZK_ForeignDebt;20161220;09:00;Foreign Debt;Czech Republic;CZK;1
+TRY_CBRTInterestRateDecision;20161220;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+GBP_CBIDistributiveTradesSurvey–Realized;20161220;11:00;CBI Distributive Trades Survey – Realized (MoM);United Kingdom;GBP;1
+BRL_CurrentAccount;20161220;12:30;Current Account;Brazil;BRL;1
+HUF_MNBInterestRateDecision;20161220;13:00;MNB Interest Rate Decision;Hungary;HUF;1
+CAD_WholesaleSales;20161220;13:30;Wholesale Sales (MoM);Canada;CAD;1
+USD_RedbookIndex;20161220;13:55;Redbook Index (YoY);United States;USD;1
+MXN_RetailSales;20161220;14:00;Retail Sales (YoY);Mexico;MXN;1
+NZD_GDTPriceIndex;20161220;14:30;GDT Price Index;New Zealand;NZD;1
+USD_Auction;20161220;16:30;4-Week Bill Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20161220;21:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_VisitorArrivals;20161220;21:45;Visitor Arrivals (YoY);New Zealand;NZD;1
+NZD_TradeBalanceNZD;20161220;21:45;Trade Balance NZD (MoM);New Zealand;NZD;2
+NZD_Exports;20161220;21:45;Exports;New Zealand;NZD;2
+NZD_Imports;20161220;21:45;Imports;New Zealand;NZD;2
+AUD_WestpacLeadingIndex;20161220;23:30;Westpac Leading Index (MoM);Australia;AUD;1

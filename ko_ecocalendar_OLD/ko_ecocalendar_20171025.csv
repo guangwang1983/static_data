@@ -1,0 +1,36 @@
+JPY_CorporateServicePrice;20171025;23:50;Corporate Service Price (YoY);Japan;JPY;1
+JPY_ForeignBondInvestment;20171025;23:50;Foreign Bond Investment;Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20171025;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+KRW_GrossDomesticProduct;20171025;23:00;Gross Domestic Product Growth (YoY);South Korea;KRW;1
+NZD_Imports;20171025;21:45;Imports;New Zealand;NZD;2
+NZD_TradeBalance;20171025;21:45;Trade Balance (YoY);New Zealand;NZD;2
+NZD_Exports;20171025;21:45;Exports;New Zealand;NZD;2
+USD_Auction;20171025;17:00;5-Year Note Auction;United States;USD;1
+CAD_BoCPressConference;20171025;15:15;BoC Press Conference;Canada;CAD;3
+USD_EIACrudeOilStocksChange;20171025;14:30;EIA Crude Oil Stocks Change;United States;USD;2
+CAD_BankofCanadaMonetaryPolicyReport;20171025;14:00;Bank of Canada Monetary Policy Report;Canada;CAD;3
+USD_NewHomeSales;20171025;14:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20171025;14:00;New Home Sales Change (MoM);United States;USD;2
+CAD_BoCInterestRateDecision;20171025;14:00;BoC Interest Rate Decision;Canada;CAD;3
+CAD_BoCRateStatement;20171025;14:00;BoC Rate Statement;Canada;CAD;3
+MXN_RetailSales;20171025;13:00;Retail Sales (YoY);Mexico;MXN;1
+USD_HousingPriceIndex;20171025;13:00;Housing Price Index (MoM);United States;USD;2
+USD_DurableGoodsOrders;20171025;12:30;Durable Goods Orders ex Transportation;United States;USD;2
+INR_M3MoneySupply;20171025;11:30;M3 Money Supply;India;INR;1
+TRY_ManufacturingConfidence;20171025;11:30;Manufacturing Confidence;Turkey;TRY;1
+TRY_CapacityUtilization;20171025;11:30;Capacity Utilization;Turkey;TRY;1
+USD_MBAMortgageApplications;20171025;11:00;MBA Mortgage Applications;United States;USD;1
+EUR_GerAuction;20171025;09:35;10-y Bond Auction;Germany;EUR;2
+GBP_BBAMortgageApprovals;20171025;08:30;BBA Mortgage Approvals;United Kingdom;GBP;1
+GBP_GrossDomesticProduct;20171025;08:30;Gross Domestic Product (YoY);United Kingdom;GBP;2
+GBP_IndexofServices;20171025;08:30;Index of Services (3M/3M);United Kingdom;GBP;1
+CHF_ZEWSurveyExpectations;20171025;08:00;ZEW Survey - Expectations;Switzerland;CHF;2
+EUR_AusIndustrialProduction;20171025;08:00;Industrial Production (YoY);Austria;EUR;1
+EUR_GerIFOCurrentAssessment;20171025;08:00;IFO - Current Assessment;Germany;EUR;2
+EUR_GerIFOBusinessClimate;20171025;08:00;IFO - Business Climate;Germany;EUR;2
+EUR_GerIFOExpectations;20171025;08:00;IFO - Expectations;Germany;EUR;2
+EUR_ItaIndustrialOrders;20171025;08:00;Industrial Orders n.s.a (YoY);Italy;EUR;1
+EUR_ItaIndustrialSales;20171025;08:00;Industrial Sales n.s.a. (YoY);Italy;EUR;1
+CHF_UBSConsumptionIndicator;20171025;06:00;UBS Consumption Indicator;Switzerland;CHF;2
+AUD_RBATrimmedMeanCPI;20171025;00:30;RBA Trimmed Mean CPI (YoY);Australia;AUD;2
+AUD_ConsumerPriceIndex;20171025;00:30;Consumer Price Index (QoQ);Australia;AUD;3

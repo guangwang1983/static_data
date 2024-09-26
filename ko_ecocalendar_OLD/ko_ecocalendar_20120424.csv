@@ -1,0 +1,34 @@
+KRW_ConsumerSentimentIndex;20120424;21:00;Consumer Sentiment Index;South Korea;KRW;1
+USD_Auction;20120424;18:00;2-Year Note Auction;United States;USD;1
+USD_ConsumerConfidence;20120424;14:00;Consumer Confidence;United States;USD;2
+USD_NewHomeSales;20120424;14:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20120424;14:00;New Home Sales Change (MoM);United States;USD;2
+USD_HousingPriceIndex;20120424;14:00;Housing Price Index (MoM);United States;USD;1
+USD_RichmondFedManufacturingIndex;20120424;14:00;Richmond Fed Manufacturing Index;United States;USD;1
+BRL_CurrentAccount;20120424;13:30;Current Account;Brazil;BRL;1
+USD_S&PCaseShillerHomePriceIndices;20120424;13:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;1
+HUF_MNBInterestRateDecision;20120424;13:00;MNB Interest Rate Decision;Hungary;HUF;1
+EUR_BelLeadingIndicator;20120424;13:00;Leading Indicator;Belgium;EUR;1
+MXN_1sthalfmonthCoreInflation;20120424;13:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20120424;13:00;1st half-month Inflation;Mexico;MXN;1
+CAD_RetailSales;20120424;12:30;Retail Sales ex Autos (MoM);Canada;CAD;1
+BRL_MidmonthInflation;20120424;12:00;Mid-month Inflation;Brazil;BRL;1
+TRY_ManufacturingConfidence;20120424;11:30;Manufacturing Confidence;Turkey;TRY;1
+TRY_CapacityUtilization;20120424;11:30;Capacity Utilization;Turkey;TRY;1
+EUR_ItaWageInflation;20120424;09:00;Wage Inflation (MoM);Italy;EUR;1
+EUR_SpaAuction;20120424;08:30;3-Month Letras Auction;Spain;EUR;1
+GBP_PublicSectorNetBorrowing;20120424;08:30;Public Sector Net Borrowing;United Kingdom;GBP;2
+SEK_UnemploymentRate;20120424;07:30;Unemployment Rate;Sweden;SEK;1
+HUF_RetailSales;20120424;07:00;Retail Sales (YoY);Hungary;HUF;1
+EUR_FraConsumerConfidence;20120424;06:45;Consumer Confidence;France;EUR;1
+ARS_PrimaryBudgetBalance;20120424;06:10;Primary Budget Balance (MoM);Argentina;ARS;1
+CHF_Imports;20120424;06:00;Imports (MoM);Switzerland;CHF;1
+CHF_Exports;20120424;06:00;Exports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20120424;06:00;Trade Balance;Switzerland;CHF;2
+EUR_FinProducerPriceIndex;20120424;06:00;Producer Price Index (YoY);Finland;EUR;1
+EUR_FinUnemploymentRate;20120424;06:00;Unemployment Rate;Finland;EUR;1
+CHF_UBSConsumptionIndicator;20120424;06:00;UBS Consumption Indicator;Switzerland;CHF;2
+EUR_FinImportPrices;20120424;06:00;Import Prices (YoY);Finland;EUR;1
+EUR_FinExportPrices;20120424;06:00;Export Prices (YoY);Finland;EUR;1
+AUD_ConsumerPriceIndex;20120424;01:30;Consumer Price Index (YoY);Australia;AUD;3
+AUD_RBATrimmedMeanCPI;20120424;00:30;RBA Trimmed Mean CPI (YoY);Australia;AUD;1

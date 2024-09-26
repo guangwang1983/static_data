@@ -1,0 +1,32 @@
+USD_IMFMeeting;20240418;00:00;IMF Meeting;United States;USD;2
+EUR_EurEUleaderssummit;20240418;00:00;EU leaders summit;Eurozone;EUR;2
+AUD_NationalAustraliaBankBusinessConfidence;20240418;01:30;National Australia Bank Business Confidence (QoQ);Australia;AUD;2
+AUD_EmploymentChange;20240418;01:30;Employment Change s.a.;Australia;AUD;3
+AUD_FullTimeEmployment;20240418;01:30;Full-Time Employment;Australia;AUD;2
+AUD_PartTimeEmployment;20240418;01:30;Part-Time Employment;Australia;AUD;2
+AUD_UnemploymentRate;20240418;01:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_ParticipationRate;20240418;01:30;Participation Rate;Australia;AUD;2
+AUD_RBABulletin;20240418;01:30;RBA Bulletin;Australia;AUD;1
+JPY_TertiaryIndustryIndex;20240418;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+CHF_Imports;20240418;06:00;Imports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20240418;06:00;Trade Balance;Switzerland;CHF;1
+CHF_Exports;20240418;06:00;Exports (MoM);Switzerland;CHF;1
+EUR_EurEurogroupMeeting;20240418;07:00;Eurogroup Meeting;Eurozone;EUR;1
+EUR_EurCurrentAccount;20240418;08:00;Current Account n.s.a;Eurozone;EUR;1
+CNY_FDIForeignDirectInvestment;20240418;09:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;1
+EUR_EurConstructionOutput;20240418;09:00;Construction Output w.d.a (YoY);Eurozone;EUR;1
+INR_M3MoneySupply;20240418;11:30;M3 Money Supply;India;INR;1
+USD_JoblessClaims;20240418;12:30;Continuing Jobless Claims;United States;USD;1
+USD_PhiladelphiaFedManufacturingSurvey;20240418;12:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+CAD_EmploymentInsuranceBeneficiariesChange;20240418;12:30;Employment Insurance Beneficiaries Change (MoM);Canada;CAD;1
+RUB_CentralBankReserves;20240418;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_ExistingHomeSales;20240418;14:00;Existing Home Sales (MoM);United States;USD;1
+USD_ExistingHomeSalesChange;20240418;14:00;Existing Home Sales Change (MoM);United States;USD;2
+USD_EIANaturalGasStorageChange;20240418;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20240418;17:00;5-year TIPS Auction;United States;USD;1
+EUR_EurCentralBankSpeech;20240418;17:30;ECB Schnabel speech;Eurozone;EUR;2
+EUR_GerCentralBankSpeech;20240418;19:30;German Buba President Nagel speech;Germany;EUR;2
+USD_CentralBankSpeech;20240418;21:45;Fed Bostic speech;United States;USD;2
+JPY_NationalCPIexFoodEnergy;20240418;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20240418;23:30;National CPI ex Fresh Food (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20240418;23:30;National Consumer Price Index (YoY);Japan;JPY;2

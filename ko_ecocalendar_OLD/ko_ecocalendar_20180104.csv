@@ -1,0 +1,37 @@
+JPY_MonetaryBase;20180104;23:50;Monetary Base (YoY);Japan;JPY;1
+KRW_CurrentAccount;20180104;23:00;Current Account Balance;South Korea;KRW;1
+PEN_Tradebalance;20180104;20:00;Trade balance;Peru;PEN;1
+USD_CentralBankSpeech;20180104;18:30;Fed Bullard speech;United States;USD;1
+USD_EIACrudeOilStocksChange;20180104;16:00;EIA Crude Oil Stocks Change;United States;USD;1
+USD_EIANaturalGasStorageChange;20180104;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_MarkitServicesPMI;20180104;14:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20180104;14:45;Markit PMI Composite;United States;USD;2
+CAD_RawMaterialPriceIndex;20180104;13:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20180104;13:30;Industrial Product Price (MoM);Canada;CAD;1
+USD_JoblessClaims;20180104;13:30;Initial Jobless Claims;United States;USD;2
+USD_ADPEmploymentChange;20180104;13:15;ADP Employment Change;United States;USD;2
+USD_ChallengerJobCuts;20180104;12:30;Challenger Job Cuts;United States;USD;1
+EUR_SpaAuction;20180104;10:09;10-y Obligaciones Auction;Spain;EUR;1
+EUR_FraAuction;20180104;10:09;10-y Bond Auction;France;EUR;1
+GBP_NetLendingtoIndividuals;20180104;09:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20180104;09:30;Consumer Credit;United Kingdom;GBP;2
+GBP_MortgageApprovals;20180104;09:30;Mortgage Approvals;United Kingdom;GBP;2
+GBP_MarkitServicesPMI;20180104;09:30;Markit Services PMI;United Kingdom;GBP;1
+GBP_M4MoneySupply;20180104;09:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+EUR_EurMarkitPMIComposite;20180104;09:00;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20180104;09:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_GerMarkitPMIComposite;20180104;08:55;Markit PMI Composite;Germany;EUR;2
+EUR_GerMarkitServicesPMI;20180104;08:55;Markit Services PMI;Germany;EUR;2
+EUR_FraMarkitServicesPMI;20180104;08:50;Markit Services PMI;France;EUR;1
+EUR_FraMarkitPMIComposite;20180104;08:50;Markit PMI Composite;France;EUR;1
+EUR_ItaMarkitServicesPMI;20180104;08:45;Markit Services PMI;Italy;EUR;1
+EUR_SpaMarkitServicesPMI;20180104;08:15;Markit Services PMI;Spain;EUR;2
+HUF_UnemploymentRate;20180104;08:00;Unemployment Rate (3M);Hungary;HUF;1
+HUF_ProducerPriceIndex;20180104;08:00;Producer Price Index (YoY);Hungary;HUF;1
+DKK_IndustrialOutlook;20180104;07:00;Industrial Outlook;Denmark;DKK;1
+GBP_NationwideHousingPrices;20180104;07:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;1
+EUR_IrePurchasingManagerIndexServices;20180104;06:00;Purchasing Manager Index Services;Ireland;EUR;1
+CNY_CaixinServicesPMI;20180104;01:45;Caixin Services PMI;China;CNY;2
+HKD_NikkeiManufacturingPMI;20180104;00:30;Nikkei Manufacturing PMI;Hong Kong SAR;HKD;1
+JPY_NikkeiManufacturingPMI;20180104;00:30;Nikkei Manufacturing PMI;Japan;JPY;1
+RUB_Bankholiday;20180104;00:00;Bank holiday;Russia;RUB;0

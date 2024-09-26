@@ -1,0 +1,36 @@
+AUD_TradeBalance;20220908;01:30;Trade Balance (MoM);Australia;AUD;3
+AUD_Imports;20220908;01:30;Imports (MoM);Australia;AUD;2
+AUD_Exports;20220908;01:30;Exports (MoM);Australia;AUD;2
+AUD_CentralBankSpeech;20220908;03:05;RBA Governor Lowe speech;Australia;AUD;3
+JPY_EcoWatchersSurvey:Current;20220908;05:00;Eco Watchers Survey: Current;Japan;JPY;1
+JPY_EcoWatchersSurvey:Outlook;20220908;05:00;Eco Watchers Survey: Outlook;Japan;JPY;1
+CHF_UnemploymentRate;20220908;05:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+DKK_TradeBalance;20220908;06:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20220908;06:00;Current Account;Denmark;DKK;1
+HUF_ConsumerPriceIndex;20220908;07:00;Consumer Price Index (YoY);Hungary;HUF;1
+HUF_TradeBalance;20220908;07:00;Trade Balance;Hungary;HUF;1
+CZK_UnemploymentRate;20220908;08:00;Unemployment Rate;Czech Republic;CZK;1
+HUF_BudgetBalance;20220908;09:00;Budget Balance;Hungary;HUF;1
+ZAR_BusinessConfidenceIndex;20220908;09:30;Business Confidence Index;South Africa;ZAR;1
+ILS_BudgetBalanceILS;20220908;10:00;Budget Balance - ILS;Israel;ILS;1
+MXN_12MonthInflation;20220908;11:00;12-Month Inflation;Mexico;MXN;1
+MXN_CoreInflation;20220908;11:00;Core Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20220908;11:00;Headline Inflation;Mexico;MXN;1
+ZAR_ManufacturingProductionIndex;20220908;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+CLP_ConsumerPriceIndex;20220908;12:00;Core Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+EUR_EurECBrateonmainrefinancingoperations;20220908;12:15;ECB rate on main refinancing operations;European Monetary Union;EUR;3
+EUR_EurECBrateondepositfacility;20220908;12:15;ECB rate on deposit  facility;European Monetary Union;EUR;3
+EUR_EurECBMonetaryPolicyDecisionStatement;20220908;12:15;ECB Monetary Policy Decision Statement;European Monetary Union;EUR;3
+USD_JoblessClaims;20220908;12:30;Continuing Jobless Claims;United States;USD;1
+EUR_EurECBPressConference;20220908;12:45;ECB Press Conference;European Monetary Union;EUR;3
+RUB_CentralBankReserves;20220908;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_CentralBankSpeech;20220908;13:10;Fed Chair Powell speech;United States;USD;3
+EUR_EurCentralBankSpeech;20220908;14:15;ECB President Lagarde speech;European Monetary Union;EUR;3
+USD_EIANaturalGasStorageChange;20220908;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_EIACrudeOilStocksChange;20220908;15:00;EIA Crude Oil Stocks Change;United States;USD;1
+KRW_HarvestFestival;20220908;15:00;Harvest Festival ;South Korea;KRW;0
+CAD_CentralBankSpeech;20220908;15:25;BoC Rogers speech;Canada;CAD;2
+USD_Auction;20220908;15:30;4-Week Bill Auction;United States;USD;1
+USD_ConsumerCreditChange;20220908;19:00;Consumer Credit Change;United States;USD;1
+NZD_RetailSales;20220908;22:45;Electronic Card Retail Sales  (MoM);New Zealand;NZD;1
+JPY_MoneySupplyM2+CD;20220908;23:50;Money Supply M2+CD (YoY);Japan;JPY;1

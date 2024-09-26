@@ -1,0 +1,29 @@
+AUD_HIANewHomeSales;20220415;01:00;HIA New Home Sales (MoM);Australia;AUD;2
+CNY_HousePriceIndex;20220415;01:30;House Price Index ;China;CNY;1
+KRW_TradeBalance;20220415;02:00;Trade Balance;South Korea;KRW;1
+BRL_GoodFriday;20220415;03:00;Good Friday ;Brazil;BRL;0
+CLP_GoodFriday;20220415;04:00;Good Friday;Chile;CLP;0
+COP_Goodfriday;20220415;05:00;Good friday;Colombia;COP;0
+CAD_GoodFriday;20220415;05:00;Good Friday;Canada;CAD;0
+USD_GoodFriday;20220415;05:00;Good Friday;United States;USD;0
+MXN_GoodFriday;20220415;06:00;Good Friday ;Mexico;MXN;0
+EUR_FraConsumerPriceIndex;20220415;06:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraInflationextobacco;20220415;06:45;Inflation ex-tobacco (MoM);France;EUR;1
+PLN_ConsumerPriceIndex;20220415;08:00;Consumer Price Index (YoY);Poland;PLN;1
+TRY_BudgetBalance;20220415;08:00;Budget Balance;Turkey;TRY;1
+EUR_ItaConsumerPriceIndex;20220415;08:00;Consumer Price Index (MoM);Italy;EUR;1
+ILS_ConsumerPriceIndex;20220415;11:00;Consumer Price Index (MoM);Israel;ILS;1
+INR_FXReservesUSD;20220415;11:30;FX Reserves, USD;India;INR;1
+USD_NYEmpireStateManufacturingIndex;20220415;12:30;NY Empire State Manufacturing Index;United States;USD;1
+USD_IndustrialProduction;20220415;13:15;Industrial Production (MoM);United States;USD;1
+USD_CapacityUtilization;20220415;13:15;Capacity Utilization;United States;USD;1
+USD_FedIndexofCommonInflationExpectations;20220415;14:00;Fed Index of Common Inflation Expectations;United States;USD;2
+AUD_CFTCAUDNCNetPositions;20220415;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20220415;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+JPY_CFTCJPYNCNetPositions;20220415;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCOilNCNetPositions;20220415;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20220415;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20220415;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20220415;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_TotalNetTICFlows;20220415;20:00;Total Net TIC Flows;United States;USD;1
+USD_NetLongTermTICFlows;20220415;20:00;Net Long-Term TIC Flows;United States;USD;1

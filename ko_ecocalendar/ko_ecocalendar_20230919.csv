@@ -1,0 +1,27 @@
+AUD_RBAMeetingMinutes;20230919;01:30;RBA Meeting Minutes;Australia;AUD;3
+CLP_ArmyDay;20230919;04:00;Army Day;Chile;CLP;0
+CHF_TradeBalance;20230919;06:00;Trade Balance;Switzerland;CHF;1
+CHF_Exports;20230919;06:00;Exports (MoM);Switzerland;CHF;1
+CHF_Imports;20230919;06:00;Imports (MoM);Switzerland;CHF;1
+EUR_EurCurrentAccount;20230919;08:00;Current Account n.s.a;European Monetary Union;EUR;1
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20230919;09:00;Core Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;2
+EUR_EurHarmonizedIndexofConsumerPrices;20230919;09:00;Harmonized Index of Consumer Prices (MoM);European Monetary Union;EUR;2
+GBP_Auction;20230919;09:30;30-y Bond Auction;United Kingdom;GBP;1
+ILS_GrossDomesticProduct;20230919;10:00;Gross Domestic Product (QoQ);Israel;ILS;1
+USD_HousingStarts;20230919;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20230919;12:30;Building Permits (MoM);United States;USD;2
+USD_BuildingPermitsChange;20230919;12:30;Building Permits Change;United States;USD;1
+USD_HousingStartsChange;20230919;12:30;Housing Starts Change;United States;USD;1
+CAD_ConsumerPriceIndex;20230919;12:30;Consumer Price Index (MoM);Canada;CAD;2
+USD_RedbookIndex;20230919;12:55;Redbook Index (YoY);United States;USD;1
+COP_TradeBalance;20230919;15:00;Trade Balance;Colombia;COP;1
+NZD_GDTPriceIndex;20230919;15:00;GDT Price Index;New Zealand;NZD;1
+CAD_CentralBankSpeech;20230919;16:00;BoC Kozicki speech;Canada;CAD;2
+USD_Auction;20230919;17:00;20-Year Bond Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20230919;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_ProducerPriceIndex;20230919;21:00;Producer Price Index Growth (YoY);South Korea;KRW;1
+NZD_CurrentAccount;20230919;22:45;Current Account (QoQ);New Zealand;NZD;1
+JPY_AdjustedMerchandiseTradeBalance;20230919;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_MerchandiseTradeBalanceTotal;20230919;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Imports;20230919;23:50;Imports (YoY);Japan;JPY;2
+JPY_Exports;20230919;23:50;Exports (YoY);Japan;JPY;2

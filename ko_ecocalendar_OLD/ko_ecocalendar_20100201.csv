@@ -1,0 +1,21 @@
+JPY_MonetaryBase;20100201;23:50;Monetary Base (YoY);Japan;JPY;1
+USD_ISMManufacturingPMI;20100201;15:00;ISM Manufacturing PMI;United States;USD;2
+USD_ConstructionSpending;20100201;15:00;Construction Spending (MoM);United States;USD;1
+USD_PersonalConsumptionExpendituresPriceIndex;20100201;13:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;2
+USD_CorePersonalConsumptionExpenditurePriceIndex;20100201;13:30;Core Personal Consumption Expenditure - Price Index (MoM);United States;USD;2
+USD_PersonalIncome;20100201;13:30;Personal Income (MoM);United States;USD;1
+GBP_NetLendingtoIndividuals;20100201;09:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_MarkitManufacturingPMI;20100201;09:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+GBP_MortgageApprovals;20100201;09:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_M4MoneySupply;20100201;09:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+EUR_EurMarkitManufacturingPMI;20100201;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;1
+EUR_GerMarkitManufacturingPMI;20100201;08:55;Markit Manufacturing PMI;Germany;EUR;2
+CHF_SVMEPurchasingManagers'Index;20100201;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;2
+AUD_RBACommodityIndexSDR;20100201;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+JPY_VehicleSales;20100201;05:15;Vehicle Sales (YoY);Japan;JPY;1
+CNY_CaixinManufacturingPMI;20100201;02:30;Caixin Manufacturing PMI;China;CNY;0
+NZD_ANZCommodityPrice;20100201;02:00;ANZ Commodity Price;New Zealand;NZD;1
+AUD_HIANewHomeSales;20100201;01:00;HIA New Home Sales (MoM);Australia;AUD;1
+AUD_HousePriceIndex;20100201;00:30;House Price Index (QoQ);Australia;AUD;1
+AUD_ANZJobAdvertisements;20100201;00:30;ANZ Job Advertisements;Australia;AUD;1
+GBP_HometrackHousingPrices;20100201;00:01;Hometrack Housing Prices s.a (MoM);United Kingdom;GBP;1

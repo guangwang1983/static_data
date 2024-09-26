@@ -1,0 +1,17 @@
+JPY_MonetaryBase;20080901;23:30;Monetary Base (YoY);Japan;JPY;1
+GBP_NetLendingtoIndividuals;20080901;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_MarkitManufacturingPMI;20080901;08:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+GBP_ConsumerCredit;20080901;08:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20080901;08:30;Mortgage Approvals;United Kingdom;GBP;0
+GBP_M4SterlingLending;20080901;08:30;M4 Sterling Lending;United Kingdom;GBP;2
+GBP_M4MoneySupply;20080901;08:30;M4 Money Supply (MoM);United Kingdom;GBP;1
+EUR_EurMarkitManufacturingPMI;20080901;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;0
+EUR_GerMarkitManufacturingPMI;20080901;07:55;Markit Manufacturing PMI;Germany;EUR;1
+CHF_SVMEPurchasingManagers'Index;20080901;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+AUD_RBACommodityIndexSDR;20080901;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+EUR_GerRetailSales;20080901;06:00;Retail Sales (MoM);Germany;EUR;1
+JPY_VehicleSales;20080901;05:00;Vehicle Sales (YoY);Japan;JPY;0
+AUD_CurrentAccount;20080901;01:30;Current Account Balance;Australia;AUD;2
+JPY_LaborCashEarnings;20080901;01:30;Labor Cash Earnings (YoY);Japan;JPY;1
+AUD_CompanyGrossOperatingProfits;20080901;01:30;Company Gross Operating Profits (QoQ);Australia;AUD;1
+USD_LaborDay;20080901;00:00;Labor Day;United States;USD;0

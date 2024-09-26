@@ -1,0 +1,60 @@
+JPY_BoJInterestRateDecision;20230310;02:33;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_BoJMonetaryPolicyStatement;20230310;03:00;BoJ Monetary Policy Statement ;Japan;JPY;3
+JPY_BoJPressConference;20230310;06:00;BoJ Press Conference;Japan;JPY;3
+NOK_CoreInflation;20230310;07:00;Core Inflation (MoM);Norway;NOK;1
+NOK_ConsumerPriceIndex;20230310;07:00;Consumer Price Index (MoM);Norway;NOK;1
+TRY_UnemploymentRate;20230310;07:00;Unemployment Rate;Turkey;TRY;1
+DKK_Inflation;20230310;07:00;Inflation (HICP) (YoY);Denmark;DKK;1
+DKK_ConsumerPriceIndex;20230310;07:00;Consumer Price Index (YoY);Denmark;DKK;1
+GBP_ManufacturingProduction;20230310;07:00;Manufacturing Production (YoY);United Kingdom;GBP;2
+GBP_IndustrialProduction;20230310;07:00;Industrial Production (MoM);United Kingdom;GBP;2
+TRY_IndustrialProduction;20230310;07:00;Industrial Production (YoY);Turkey;TRY;1
+EUR_GerConsumerPriceIndex;20230310;07:00;Consumer Price Index (YoY);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20230310;07:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+GBP_IndexofServices;20230310;07:00;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20230310;07:00;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20230310;07:00;Total Trade Balance;United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20230310;07:00;Goods Trade Balance;United Kingdom;GBP;1
+GBP_GrossDomesticProduct;20230310;07:00;Gross Domestic Product (MoM);United Kingdom;GBP;2
+NOK_ProducerPriceIndex;20230310;07:00;Producer Price Index (YoY);Norway;NOK;1
+HUF_TradeBalance;20230310;07:30;Trade Balance;Hungary;HUF;1
+EUR_FraExportsEUR;20230310;07:45;Exports, EUR;France;EUR;1
+EUR_FraImportsEUR;20230310;07:45;Imports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20230310;07:45;Trade Balance EUR;France;EUR;1
+EUR_FraCurrentAccount;20230310;07:45;Current Account;France;EUR;1
+CZK_ConsumerPriceIndex;20230310;08:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+CZK_IndustrialProduction;20230310;08:00;Industrial Production (YoY);Czech Republic;CZK;1
+CZK_Constructionoutput;20230310;08:00;Construction output (YoY);Czech Republic;CZK;1
+CNY_M2MoneySupply;20230310;08:30;M2 Money Supply (YoY);China;CNY;1
+CNY_NewLoans;20230310;08:30;New Loans;China;CNY;1
+EUR_ItaProducerPriceIndex;20230310;09:00;Producer Price Index (YoY);Italy;EUR;1
+INR_BankLoanGrowth;20230310;11:45;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20230310;11:45;FX Reserves, USD;India;INR;1
+BRL_IPCAInflation;20230310;12:00;IPCA Inflation;Brazil;BRL;1
+GBP_NIESRGDPEstimate;20230310;12:00;NIESR GDP Estimate (3M);United Kingdom;GBP;2
+INR_IndustrialOutput;20230310;12:00;Industrial Output;India;INR;1
+INR_ManufacturingOutput;20230310;12:00;Manufacturing Output;India;INR;1
+INR_CumulativeIndustrialOutput;20230310;12:00;Cumulative Industrial Output;India;INR;1
+RUB_CentralBankReserves;20230310;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_NonfarmPayrolls;20230310;13:30;Nonfarm Payrolls;United States;USD;3
+USD_AverageHourlyEarnings;20230310;13:30;Average Hourly Earnings (YoY);United States;USD;2
+USD_AverageWeeklyHours;20230310;13:30;Average Weekly Hours;United States;USD;1
+USD_LaborForceParticipationRate;20230310;13:30;Labor Force Participation Rate;United States;USD;2
+USD_U6UnderemploymentRate;20230310;13:30;U6 Underemployment Rate;United States;USD;2
+USD_UnemploymentRate;20230310;13:30;Unemployment Rate;United States;USD;2
+CAD_CapacityUtilization;20230310;13:30;Capacity Utilization;Canada;CAD;1
+CAD_UnemploymentRate;20230310;13:30;Unemployment Rate;Canada;CAD;3
+CAD_NetChangeinEmployment;20230310;13:30;Net Change in Employment;Canada;CAD;3
+CAD_AverageHourlyWages;20230310;13:30;Average Hourly Wages (YoY);Canada;CAD;2
+CAD_ParticipationRate;20230310;13:30;Participation Rate;Canada;CAD;2
+EUR_EurCentralBankSpeech;20230310;15:00;ECB President Lagarde speech;European Monetary Union;EUR;3
+RUB_ConsumerPriceIndex;20230310;16:00;Consumer Price Index (MoM);Russia;RUB;1
+USD_BakerHughesUSOilRigCount;20230310;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_MonthlyBudgetStatement;20230310;19:00;Monthly Budget Statement;United States;USD;2
+GBP_CFTCGBPNCNetPositions;20230310;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20230310;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20230310;20:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20230310;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20230310;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+AUD_CFTCAUDNCNetPositions;20230310;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20230310;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1

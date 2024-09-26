@@ -1,0 +1,17 @@
+ARS_MonthlyEconActivity;20140516;19:00;Monthly Econ Activity (MoM);Argentina;ARS;1
+USD_CentralBankSpeech;20140516;15:50;Fed Bullard speech;United States;USD;1
+USD_MichiganConsumerSentimentIndex;20140516;13:55;Michigan Consumer Sentiment Index;United States;USD;2
+USD_HousingStarts;20140516;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20140516;12:30;Building Permits (MoM);United States;USD;2
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20140516;12:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20140516;12:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+INR_BankLoanGrowth;20140516;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20140516;11:30;FX Reserves, USD;India;INR;1
+EUR_EurTradeBalance;20140516;09:00;Trade Balance n.s.a.;European Monetary Union;EUR;2
+HKD_GrossDomesticProduct;20140516;08:30;Gross Domestic Product (QoQ);Hong Kong SAR;HKD;1
+EUR_ItaTradeBalanceEU;20140516;08:00;Trade Balance EU;Italy;EUR;1
+EUR_ItaGlobalTradeBalance;20140516;08:00;Global Trade Balance;Italy;EUR;1
+EUR_FraNonfarmPayrolls;20140516;06:45;Nonfarm Payrolls (QoQ);France;EUR;2
+JPY_IndustrialProduction;20140516;04:30;Industrial Production (MoM);Japan;JPY;2
+JPY_CapacityUtilization;20140516;04:30;Capacity Utilization;Japan;JPY;1
+CNY_FDIForeignDirectInvestment;20140516;02:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2

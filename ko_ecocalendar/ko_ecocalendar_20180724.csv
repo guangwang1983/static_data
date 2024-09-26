@@ -1,0 +1,33 @@
+JPY_JibunBankManufacturingPMI;20180724;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+JPY_LeadingEconomicIndex;20180724;05:00;Leading Economic Index;Japan;JPY;2
+JPY_CoincidentIndex;20180724;05:00;Coincident Index;Japan;JPY;1
+EUR_FraBusinessClimateinManufacturing;20180724;06:45;Business Climate in Manufacturing;France;EUR;1
+EUR_FraHCOBManufacturingPMI;20180724;07:00;HCOB Manufacturing PMI;France;EUR;1
+EUR_FraHCOBServicesPMI;20180724;07:00;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20180724;07:00;HCOB Composite PMI;France;EUR;1
+EUR_GerHCOBManufacturingPMI;20180724;07:30;HCOB Manufacturing PMI;Germany;EUR;3
+EUR_GerHCOBServicesPMI;20180724;07:30;HCOB Services PMI;Germany;EUR;2
+EUR_GerHCOBCompositePMI;20180724;07:30;HCOB Composite PMI;Germany;EUR;2
+EUR_ItaTradeBalancenonEU;20180724;08:00;Trade Balance non-EU;Italy;EUR;1
+PLN_Unemployment;20180724;08:00;Unemployment (MoM);Poland;PLN;1
+EUR_EurHCOBServicesPMI;20180724;08:00;HCOB Services PMI;European Monetary Union;EUR;2
+EUR_EurHCOBManufacturingPMI;20180724;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurHCOBCompositePMI;20180724;08:00;HCOB Composite PMI;European Monetary Union;EUR;2
+GBP_CBIIndustrialTrendsSurvey–Orders;20180724;10:00;CBI Industrial Trends Survey – Orders (MoM);United Kingdom;GBP;1
+TRY_CBRTInterestRateDecision;20180724;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+HUF_MNBInterestRateDecision;20180724;12:00;MNB Interest Rate Decision;Hungary;HUF;1
+USD_RedbookIndex;20180724;12:55;Redbook Index (YoY);United States;USD;1
+USD_HousingPriceIndex;20180724;13:00;Housing Price Index (MoM);United States;USD;2
+USD_S&PGlobalServicesPMI;20180724;13:45;S&P Global Services PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20180724;13:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalManufacturingPMI;20180724;13:45;S&P Global Manufacturing PMI;United States;USD;1
+MXN_1sthalfmonthInflation;20180724;14:00;1st half-month Inflation;Mexico;MXN;1
+MXN_1sthalfmonthCoreInflation;20180724;14:00;1st half-month Core Inflation;Mexico;MXN;1
+USD_RichmondFedManufacturingIndex;20180724;14:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_Auction;20180724;17:00;2-Year Note Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20180724;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_ConsumerSentimentIndex;20180724;21:00;Consumer Sentiment Index;South Korea;KRW;1
+CLP_BCCHInterestRate;20180724;22:00;BCCH Interest Rate;Chile;CLP;1
+NZD_TradeBalanceNZD;20180724;22:45;Trade Balance NZD (MoM);New Zealand;NZD;2
+NZD_Imports;20180724;22:45;Imports;New Zealand;NZD;2
+NZD_Exports;20180724;22:45;Exports;New Zealand;NZD;2

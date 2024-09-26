@@ -1,0 +1,16 @@
+CAD_BoxingDay;20211227;05:00;Boxing Day (observed);Canada;CAD;0
+TRY_CapacityUtilization;20211227;07:00;Capacity Utilization;Turkey;TRY;1
+TRY_ManufacturingConfidence;20211227;07:00;Manufacturing Confidence;Turkey;TRY;1
+NOK_RetailSales;20211227;07:00;Retail Sales ;Norway;NOK;1
+USD_DallasFedManufacturingBusinessIndex;20211227;15:30;Dallas Fed Manufacturing Business Index;United States;USD;1
+USD_Auction;20211227;18:00;2-Year Note Auction;United States;USD;1
+USD_CFTCOilNCNetPositions;20211227;20:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20211227;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20211227;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20211227;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20211227;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20211227;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20211227;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+JPY_JobsApplicantsRatio;20211227;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+JPY_UnemploymentRate;20211227;23:30;Unemployment Rate;Japan;JPY;2
+JPY_IndustrialProduction;20211227;23:50;Industrial Production (YoY);Japan;JPY;2

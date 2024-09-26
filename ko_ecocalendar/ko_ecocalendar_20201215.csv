@@ -1,0 +1,56 @@
+KRW_TradeBalance;20201215;00:00;Trade Balance;South Korea;KRW;1
+AUD_RBAMeetingMinutes;20201215;00:30;RBA Meeting Minutes;Australia;AUD;3
+CNY_RetailSales;20201215;02:00;Retail Sales (YoY);China;CNY;3
+CNY_IndustrialProduction;20201215;02:00;Industrial Production (YoY);China;CNY;2
+CNY_NBSPressConference;20201215;02:00;NBS Press Conference;China;CNY;2
+CNY_FixedAssetInvestment;20201215;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+KRW_MoneySupplyGrowth;20201215;03:00;Money Supply Growth;South Korea;KRW;1
+IDR_Imports;20201215;04:00;Imports;Indonesia;IDR;1
+IDR_Exports;20201215;04:00;Exports;Indonesia;IDR;1
+IDR_TradeBalance;20201215;04:00;Trade Balance;Indonesia;IDR;1
+CHF_SECOEconomicForecasts;20201215;06:45;SECO Economic Forecasts;Switzerland;CHF;1
+NOK_TradeBalance;20201215;07:00;Trade Balance;Norway;NOK;1
+GBP_ClaimantCountChange;20201215;07:00;Claimant Count Change;United Kingdom;GBP;3
+GBP_ClaimantCountRate;20201215;07:00;Claimant Count Rate;United Kingdom;GBP;2
+GBP_AverageEarningsIncludingBonus;20201215;07:00;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20201215;07:00;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_AverageEarningsExcludingBonus;20201215;07:00;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+CNY_FDIForeignDirectInvestment;20201215;07:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+CHF_ProducerandImportPrices;20201215;07:30;Producer and Import Prices (YoY);Switzerland;CHF;1
+EUR_FraConsumerPriceIndex;20201215;07:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraInflationextobacco;20201215;07:45;Inflation ex-tobacco (MoM);France;EUR;1
+EUR_ItaConsumerPriceIndex;20201215;09:00;Consumer Price Index (YoY);Italy;EUR;1
+TRY_BudgetBalance;20201215;09:08;Budget Balance;Turkey;TRY;1
+ZAR_ProducerPriceIndex;20201215;09:30;Producer Price Index (MoM);South Africa;ZAR;1
+EUR_ItaGlobalTradeBalance;20201215;10:00;Global Trade Balance;Italy;EUR;1
+EUR_ItaTradeBalanceEU;20201215;10:00;Trade Balance EU;Italy;EUR;1
+HUF_MNBInterestRateDecision;20201215;13:00;MNB Interest Rate Decision;Hungary;HUF;1
+CAD_HousingStarts;20201215;13:15;Housing Starts s.a (YoY);Canada;CAD;1
+USD_NYEmpireStateManufacturingIndex;20201215;13:30;NY Empire State Manufacturing Index;United States;USD;1
+CAD_ManufacturingSales;20201215;13:30;Manufacturing Sales (MoM);Canada;CAD;1
+USD_ImportPriceIndex;20201215;13:30;Import Price Index (MoM);United States;USD;1
+USD_ExportPriceIndex;20201215;13:30;Export Price Index (MoM);United States;USD;1
+INR_TradeDeficitGovernment;20201215;13:30;Trade Deficit Government;India;INR;1
+USD_RedbookIndex;20201215;13:55;Redbook Index (YoY);United States;USD;1
+USD_IndustrialProduction;20201215;14:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20201215;14:15;Capacity Utilization;United States;USD;1
+NZD_GDTPriceIndex;20201215;14:15;GDT Price Index;New Zealand;NZD;2
+USD_IBDTIPPEconomicOptimism;20201215;15:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+ILS_ConsumerPriceIndex;20201215;16:30;Consumer Price Index (YoY);Israel;ILS;1
+CAD_CentralBankSpeech;20201215;19:30;BoC Governor Macklem speech;Canada;CAD;3
+USD_TotalNetTICFlows;20201215;21:00;Total Net TIC Flows;United States;USD;1
+USD_NetLongTermTICFlows;20201215;21:00;Net Long-Term TIC Flows;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20201215;21:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_CurrentAccount;20201215;21:45;Current Account (QoQ);New Zealand;NZD;1
+KRW_ExportPriceGrowth;20201215;22:00;Export Price Growth (YoY);South Korea;KRW;1
+KRW_ImportPriceGrowth;20201215;22:00;Import Price Growth (YoY);South Korea;KRW;1
+ZAR_DayofReconciliation;20201215;22:00;Day of Reconciliation;South Africa;ZAR;0
+AUD_S&PGlobalServicesPMI;20201215;22:00;S&P Global Services PMI;Australia;AUD;2
+AUD_S&PGlobalManufacturingPMI;20201215;22:00;S&P Global Manufacturing PMI;Australia;AUD;2
+AUD_S&PGlobalCompositePMI;20201215;22:00;S&P Global Composite PMI;Australia;AUD;1
+KRW_UnemploymentRate;20201215;23:00;Unemployment Rate;South Korea;KRW;1
+AUD_WestpacLeadingIndex;20201215;23:30;Westpac Leading Index (MoM);Australia;AUD;2
+JPY_Exports;20201215;23:50;Exports (YoY);Japan;JPY;2
+JPY_Imports;20201215;23:50;Imports (YoY);Japan;JPY;2
+JPY_MerchandiseTradeBalanceTotal;20201215;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20201215;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1

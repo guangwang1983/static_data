@@ -1,0 +1,44 @@
+EUR_EurEcoFinMeeting;20181214;00:00;EcoFin Meeting;European Monetary Union;EUR;2
+JPY_JibunBankManufacturingPMI;20181214;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+CNY_RetailSales;20181214;02:00;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20181214;02:00;Industrial Production (YoY);China;CNY;2
+CNY_FixedAssetInvestment;20181214;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+JPY_IndustrialProduction;20181214;04:30;Industrial Production (YoY);Japan;JPY;1
+JPY_CapacityUtilization;20181214;04:30;Capacity Utilization;Japan;JPY;1
+INR_WPIInflation;20181214;06:30;WPI Inflation;India;INR;1
+EUR_GerWholesalePriceIndex;20181214;07:00;Wholesale Price Index (MoM);Germany;EUR;1
+EUR_FraHCOBManufacturingPMI;20181214;08:15;HCOB Manufacturing PMI;France;EUR;1
+EUR_FraHCOBServicesPMI;20181214;08:15;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20181214;08:15;HCOB Composite PMI;France;EUR;2
+EUR_GerHCOBCompositePMI;20181214;08:30;HCOB Composite PMI;Germany;EUR;2
+EUR_GerHCOBManufacturingPMI;20181214;08:30;HCOB Manufacturing PMI;Germany;EUR;3
+EUR_GerHCOBServicesPMI;20181214;08:30;HCOB Services PMI;Germany;EUR;2
+EUR_ItaIndustrialSales;20181214;09:00;Industrial Sales s.a. (MoM);Italy;EUR;1
+EUR_ItaIndustrialOrders;20181214;09:00;Industrial Orders s.a (MoM);Italy;EUR;1
+EUR_EurHCOBCompositePMI;20181214;09:00;HCOB Composite PMI;European Monetary Union;EUR;2
+EUR_EurHCOBServicesPMI;20181214;09:00;HCOB Services PMI;European Monetary Union;EUR;2
+EUR_EurHCOBManufacturingPMI;20181214;09:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+CZK_CurrentAccount;20181214;09:00;Current Account (MoM);Czech Republic;CZK;1
+ILS_M1MoneySupply;20181214;10:00;M1 Money Supply (MoM);Israel;ILS;1
+EUR_EurLaborCost;20181214;10:00;Labor Cost;European Monetary Union;EUR;2
+EUR_ItaConsumerPriceIndex;20181214;10:00;Consumer Price Index (YoY);Italy;EUR;1
+RUB_Interestratedecision;20181214;10:30;Interest rate decision;Russia;RUB;2
+INR_FXReservesUSD;20181214;11:30;FX Reserves, USD;India;INR;1
+ILS_ConsumerPriceIndex;20181214;12:00;Consumer Price Index (YoY);Israel;ILS;1
+PLN_CurrentAccount;20181214;13:00;Current Account;Poland;PLN;1
+INR_TradeDeficitGovernment;20181214;13:28;Trade Deficit Government;India;INR;1
+USD_RetailSales;20181214;13:30;Retail Sales ex Autos (MoM);United States;USD;3
+USD_CapacityUtilization;20181214;14:15;Capacity Utilization;United States;USD;2
+USD_IndustrialProduction;20181214;14:15;Industrial Production (MoM);United States;USD;2
+USD_S&PGlobalServicesPMI;20181214;14:45;S&P Global Services PMI;United States;USD;2
+USD_S&PGlobalManufacturingPMI;20181214;14:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20181214;14:45;S&P Global Composite PMI;United States;USD;2
+COP_RetailSales;20181214;15:00;Retail Sales (YoY);Colombia;COP;1
+COP_Industrialoutput;20181214;15:00;Industrial output (YoY);Colombia;COP;1
+USD_BusinessInventories;20181214;15:00;Business Inventories;United States;USD;1
+USD_BakerHughesUSOilRigCount;20181214;18:00;Baker Hughes US Oil Rig Count;United States;USD;2
+EUR_EurCFTCEURNCNetPositions;20181214;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20181214;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+GBP_CFTCGBPNCNetPositions;20181214;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20181214;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCS&P500NCNetPositions;20181214;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1

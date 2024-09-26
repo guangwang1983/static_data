@@ -1,0 +1,41 @@
+ARS_ConsumerPriceIndex;20151113;19:00;Consumer Price Index (MoM);Argentina;ARS;1
+USD_BakerHughesUSOilRigCount;20151113;19:00;Baker Hughes US Oil Rig Count;United States;USD;2
+USD_CentralBankSpeech;20151113;17:30;Fed Mester speech;United States;USD;1
+USD_EIANaturalGasStorageChange;20151113;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_MichiganConsumerSentimentIndex;20151113;15:00;Michigan Consumer Sentiment Index;United States;USD;1
+USD_BusinessInventories;20151113;15:00;Business Inventories;United States;USD;1
+USD_RetailSales;20151113;13:30;Retail Sales Control Group;United States;USD;2
+USD_ProducerPriceIndex;20151113;13:30;Producer Price Index ex Food & Energy (YoY);United States;USD;1
+PLN_ConsumerPriceIndex;20151113;13:00;Consumer Price Index (MoM);Poland;PLN;1
+PLN_CurrentAccount;20151113;13:00;Current Account;Poland;PLN;1
+PLN_M3MoneySupply;20151113;13:00;M3 Money Supply (YoY);Poland;PLN;1
+INR_BankLoanGrowth;20151113;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20151113;11:30;FX Reserves, USD;India;INR;1
+EUR_PorGrossDomesticProduct;20151113;10:02;Gross Domestic Product (YoY);Portugal;EUR;1
+EUR_EurTradeBalance;20151113;10:00;Trade Balance n.s.a.;European Monetary Union;EUR;1
+EUR_EurGrossDomesticProduct;20151113;10:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+EUR_ItaConsumerPriceIndex;20151113;10:00;Consumer Price Index (YoY);Italy;EUR;1
+EUR_GreGrossDomesticProduct;20151113;10:00;Gross Domestic Product s.a (YoY);Greece;EUR;1
+PLN_GrossDomesticProduct;20151113;09:00;Gross Domestic Product Qtr (YoY);Poland;PLN;1
+EUR_ItaGrossDomesticProduct;20151113;09:00;Gross Domestic Product (YoY);Italy;EUR;2
+CZK_CurrentAccount;20151113;09:00;Current Account (MoM);Czech Republic;CZK;1
+HKD_GrossDomesticProduct;20151113;08:30;Gross Domestic Product (QoQ);Hong Kong SAR;HKD;1
+EUR_NetGrossDomesticProduct;20151113;08:30;Gross Domestic Product n.s.a (YoY);Netherlands, The;EUR;1
+SEK_CapacityUtilization;20151113;08:30;Capacity Utilization;Sweden;SEK;1
+CHF_ProducerandImportPrices;20151113;08:15;Producer and Import Prices (MoM);Switzerland;CHF;1
+EUR_SpaHICP;20151113;08:00;HICP (YoY);Spain;EUR;1
+EUR_SpaConsumerPriceIndex;20151113;08:00;Consumer Price Index (MoM);Spain;EUR;1
+CZK_GrossDomesticProduct;20151113;08:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+HUF_GrossDomesticProduct;20151113;08:00;Gross Domestic Product (YoY);Hungary;HUF;1
+EUR_SloGrossDomesticProduct;20151113;08:00;Gross Domestic Product Prelim (YoY);Slovakia;EUR;1
+EUR_FraNonfarmPayrolls;20151113;07:45;Nonfarm Payrolls (QoQ);France;EUR;1
+EUR_FinGrossDomesticProduct;20151113;07:00;Gross Domestic Product (YoY);Finland;EUR;1
+EUR_FinCurrentAccount;20151113;07:00;Current Account;Finland;EUR;1
+RON_GrossDomesticProduct;20151113;07:00;Gross Domestic Product;Romania;RON;1
+EUR_GerGrossDomesticProduct;20151113;07:00;Gross Domestic Product (YoY);Germany;EUR;2
+EUR_FinConsumerPriceIndex;20151113;07:00;Consumer Price Index (YoY);Finland;EUR;1
+EUR_FraGrossDomesticProduct;20151113;06:30;Gross Domestic Product (YoY);France;EUR;1
+SGD_RetailSales;20151113;05:00;Retail Sales (MoM);Singapore;SGD;1
+JPY_TertiaryIndustryIndex;20151113;04:30;Tertiary Industry Index (MoM);Japan;JPY;2
+JPY_IndustrialProduction;20151113;04:30;Industrial Production (MoM);Japan;JPY;2
+JPY_CapacityUtilization;20151113;04:30;Capacity Utilization;Japan;JPY;1

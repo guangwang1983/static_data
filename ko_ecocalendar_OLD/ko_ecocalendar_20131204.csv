@@ -1,0 +1,43 @@
+JPY_ForeignBondInvestment;20131204;23:50;Foreign Bond Investment;Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20131204;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+KRW_GrossDomesticProduct;20131204;23:00;Gross Domestic Product Growth (YoY);South Korea;KRW;1
+USD_FedBeigeBook;20131204;19:00;Fed Beige Book;United States;USD;2
+USD_CentralBankSpeech;20131204;16:20;President Obama speech;United States;USD;2
+USD_EIACrudeOilStocksChange;20131204;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_ISMNonManufacturingPMI;20131204;15:00;ISM Non-Manufacturing PMI;United States;USD;2
+USD_NewHomeSales;20131204;15:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20131204;15:00;New Home Sales Change (MoM);United States;USD;1
+CAD_BoCInterestRateDecision;20131204;15:00;BoC Interest Rate Decision;Canada;CAD;3
+CAD_BoCRateStatement;20131204;15:00;BoC Rate Statement;Canada;CAD;3
+MXN_ConsumerConfidence;20131204;14:00;Consumer Confidence;Mexico;MXN;1
+USD_MarkitServicesPMI;20131204;13:58;Markit Services PMI;United States;USD;2
+USD_TradeBalance;20131204;13:30;Trade Balance;United States;USD;2
+CAD_Imports;20131204;13:30;Imports;Canada;CAD;1
+CAD_Exports;20131204;13:30;Exports;Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20131204;13:30;International Merchandise Trade;Canada;CAD;1
+SGD_PurchasingManagersIndex;20131204;13:30;Purchasing Managers Index;Singapore;SGD;1
+USD_ADPEmploymentChange;20131204;13:15;ADP Employment Change;United States;USD;2
+USD_MBAMortgageApplications;20131204;12:00;MBA Mortgage Applications;United States;USD;2
+BRL_IndustrialOutput;20131204;11:00;Industrial Output (YoY);Brazil;BRL;1
+PLN_NBPBaserate;20131204;10:30;NBP Base rate;Poland;PLN;1
+EUR_EurGrossDomesticProduct;20131204;10:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+EUR_EurRetailSales;20131204;10:00;Retail Sales (YoY);European Monetary Union;EUR;2
+GBP_MarkitServicesPMI;20131204;09:28;Markit Services PMI;United Kingdom;GBP;2
+NOK_CurrentAccount;20131204;09:00;Current Account;Norway;NOK;1
+EUR_EurMarkitPMIComposite;20131204;08:58;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20131204;08:58;Markit Services PMI;European Monetary Union;EUR;2
+EUR_GerMarkitServicesPMI;20131204;08:53;Markit Services PMI;Germany;EUR;2
+EUR_FraMarkitServicesPMI;20131204;08:48;Markit Services PMI;France;EUR;1
+EUR_ItaMarkitServicesPMI;20131204;08:43;Markit Services PMI;Italy;EUR;1
+CHF_IndustrialProduction;20131204;08:15;Industrial Production (QoQ);Switzerland;CHF;2
+EUR_SpaMarkitServicesPMI;20131204;08:13;Markit Services PMI;Spain;EUR;1
+RON_GrossDomesticProduct;20131204;08:00;Gross Domestic Product;Romania;RON;1
+HUF_RetailSales;20131204;08:00;Retail Sales (YoY);Hungary;HUF;1
+CZK_GrossDomesticProduct;20131204;08:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+EUR_SloGrossDomesticProduct;20131204;08:00;Gross Domestic Product Qtr Final (YoY);Slovakia;EUR;1
+EUR_IrePurchasingManagerIndexServices;20131204;05:58;Purchasing Manager Index Services;Ireland;EUR;1
+RUB_PurchasingManagerIndexServices;20131204;05:00;Purchasing Manager Index Services;Russia;RUB;1
+CNY_CaixinServicesPMI;20131204;01:45;Caixin Services PMI;China;CNY;2
+AUD_GrossDomesticProduct;20131204;00:30;Gross Domestic Product (QoQ);Australia;AUD;2
+GBP_BRCShopPriceIndex;20131204;00:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1
+USD_OPECMeeting;20131204;00:00;OPEC Meeting;United States;USD;1

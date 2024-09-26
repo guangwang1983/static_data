@@ -1,0 +1,36 @@
+EUR_EurEUleaderssummit;20231026;00:00;EU leaders summit;European Monetary Union;EUR;2
+AUD_ExportPriceIndex;20231026;00:30;Export Price Index (QoQ);Australia;AUD;1
+AUD_ImportPriceIndex;20231026;00:30;Import Price Index (QoQ);Australia;AUD;1
+SEK_TradeBalance;20231026;06:00;Trade Balance (MoM);Sweden;SEK;1
+SEK_ConsumerConfidence;20231026;07:00;Consumer Confidence (MoM);Sweden;SEK;1
+ZAR_ProducerPriceIndex;20231026;09:30;Producer Price Index (YoY);South Africa;ZAR;1
+TRY_CBRTInterestRateDecision;20231026;11:00;CBRT Interest Rate Decision;Turkey;TRY;2
+ILS_Imports;20231026;11:00;Imports;Israel;ILS;1
+ILS_Exports;20231026;11:00;Exports;Israel;ILS;1
+ILS_TradeBalance;20231026;11:00;Trade Balance;Israel;ILS;1
+BRL_MidmonthInflation;20231026;12:00;Mid-month Inflation;Brazil;BRL;1
+MXN_JoblessRate;20231026;12:00;Jobless Rate;Mexico;MXN;1
+EUR_EurECBRateOnMainRefinancingOperations;20231026;12:15;ECB Rate On Main Refinancing Operations;European Monetary Union;EUR;3
+EUR_EurECBRateOnDepositFacility;20231026;12:15;ECB Rate On Deposit Facility;European Monetary Union;EUR;3
+EUR_EurECBMonetaryPolicyStatement;20231026;12:15;ECB Monetary Policy Statement;European Monetary Union;EUR;3
+USD_JoblessClaims;20231026;12:30;Continuing Jobless Claims;United States;USD;1
+USD_GrossDomesticProduct;20231026;12:30;Gross Domestic Product Annualized;United States;USD;3
+USD_WholesaleInventories;20231026;12:30;Wholesale Inventories;United States;USD;1
+USD_GoodsTradeBalance;20231026;12:30;Goods Trade Balance;United States;USD;1
+USD_PersonalConsumptionExpendituresPrices;20231026;12:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+USD_CorePersonalConsumptionExpenditures;20231026;12:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+USD_DurableGoodsOrders;20231026;12:30;Durable Goods Orders ex Transportation;United States;USD;2
+USD_NondefenseCapitalGoodsOrdersexAircraft;20231026;12:30;Nondefense Capital Goods Orders ex Aircraft;United States;USD;2
+EUR_EurECBPressConference;20231026;12:45;ECB Press Conference;European Monetary Union;EUR;3
+USD_CentralBankSpeech;20231026;13:00;Fed Waller speech;United States;USD;2
+RUB_CentralBankReserves;20231026;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_PendingHomeSales;20231026;14:00;Pending Home Sales (MoM);United States;USD;2
+USD_EIANaturalGasStorageChange;20231026;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_KansasFedManufacturingActivity;20231026;15:00;Kansas Fed Manufacturing Activity;United States;USD;1
+GBP_CentralBankSpeech;20231026;16:45;BoE Cunliffe speech;United Kingdom;GBP;2
+USD_Auction;20231026;17:00;7-Year Note Auction;United States;USD;1
+CLP_BCCHInterestRate;20231026;21:00;BCCH Interest Rate;Chile;CLP;1
+NZD_ANZ–RoyMorganConsumerConfidence;20231026;21:00;ANZ – Roy Morgan Consumer Confidence;New Zealand;NZD;2
+JPY_TokyoCPIexFoodEnergy;20231026;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;3
+JPY_ConsumerPriceIndex;20231026;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;3
+JPY_TokyoCPIexFreshFood;20231026;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;2

@@ -1,0 +1,10 @@
+USD_MonthlyBudgetStatement;20101210;19:00;Monthly Budget Statement;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20101210;14:55;Michigan Consumer Sentiment Index;United States;USD;3
+USD_TradeBalance;20101210;13:30;Trade Balance;United States;USD;2
+USD_ImportPriceIndex;20101210;13:30;Import Price Index (MoM);United States;USD;1
+CAD_InternationalMerchandiseTrade;20101210;13:30;International Merchandise Trade;Canada;CAD;1
+GBP_ProducerPriceIndex;20101210;09:30;Producer Price Index - Output (YoY) n.s.a;United Kingdom;GBP;2
+HUF_ConsumerPriceIndex;20101210;08:00;Consumer Price Index (YoY);Hungary;HUF;1
+EUR_GerWholesalePriceIndex;20101210;07:00;Wholesale Price Index (MoM);Germany;EUR;1
+JPY_ConsumerConfidenceIndex;20101210;05:00;Consumer Confidence Index;Japan;JPY;2
+CNY_TradeBalanceUSD;20101210;02:00;Trade Balance USD;China;CNY;2

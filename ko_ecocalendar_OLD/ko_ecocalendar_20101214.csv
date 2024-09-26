@@ -1,0 +1,30 @@
+JPY_TertiaryIndustryIndex;20101214;23:50;Tertiary Industry Index (MoM);Japan;JPY;2
+JPY_TankanLargeManufacturingOutlook;20101214;23:50;Tankan Large Manufacturing Outlook;Japan;JPY;3
+JPY_TankanLargeAllIndustryCapex;20101214;23:50;Tankan Large All Industry Capex;Japan;JPY;2
+JPY_TankanNonManufacturingOutlook;20101214;23:50;Tankan Non - Manufacturing Outlook;Japan;JPY;2
+JPY_TankanLargeManufacturingIndex;20101214;23:50;Tankan Large Manufacturing Index;Japan;JPY;2
+JPY_TankanNonManufacturingIndex;20101214;23:50;Tankan Non - Manufacturing Index;Japan;JPY;2
+AUD_WestpacConsumerConfidence;20101214;23:30;Westpac Consumer Confidence;Australia;AUD;1
+USD_FedInterestRateDecision;20101214;19:15;Fed Interest Rate Decision;United States;USD;3
+USD_BusinessInventories;20101214;15:00;Business Inventories;United States;USD;1
+USD_IBDTIPPEconomicOptimism;20101214;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+CAD_NewMotorVehicleSales;20101214;13:30;New Motor Vehicle Sales (MoM);Canada;CAD;0
+USD_RetailSales;20101214;13:30;Retail Sales ex Autos (MoM);United States;USD;2
+CAD_LaborProductivity;20101214;13:30;Labor Productivity (QoQ);Canada;CAD;1
+USD_ProducerPriceIndex;20101214;13:30;Producer Price Index (MoM);United States;USD;1
+CAD_LeadingIndicators;20101214;13:30;Leading Indicators (MoM);Canada;CAD;0
+EUR_EurIndustrialProduction;20101214;10:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;1
+EUR_EurZEWSurveyEconomicSentiment;20101214;10:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;1
+EUR_GerZEWSurveyEconomicSentiment;20101214;10:00;ZEW Survey - Economic Sentiment;Germany;EUR;2
+EUR_GerZEWSurveyCurrentSituation;20101214;10:00;ZEW Survey - Current Situation;Germany;EUR;2
+GBP_RetailPriceIndex;20101214;09:30;Retail Price Index (MoM);United Kingdom;GBP;2
+GBP_DCLGHousePriceIndex;20101214;09:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20101214;09:30;Core Consumer Price Index (YoY);United Kingdom;GBP;2
+EUR_FinConsumerPriceIndex;20101214;07:00;Consumer Price Index (YoY);Finland;EUR;0
+CHF_SECOEconomicForecasts;20101214;06:45;SECO Economic Forecasts;Switzerland;CHF;2
+JPY_IndustrialProduction;20101214;04:30;Industrial Production (MoM);Japan;JPY;2
+JPY_CapacityUtilization;20101214;04:30;Capacity Utilization;Japan;JPY;1
+AUD_DwellingUnitStarts;20101214;00:30;Dwelling Unit Starts (QoQ);Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConfidence;20101214;00:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20101214;00:30;National Australia Bank Business Conditions;Australia;AUD;1
+GBP_RICSHousingPriceBalance;20101214;00:01;RICS Housing Price Balance;United Kingdom;GBP;0

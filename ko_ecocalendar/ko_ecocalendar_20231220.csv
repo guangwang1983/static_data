@@ -1,0 +1,37 @@
+AUD_WestpacLeadingIndex;20231220;00:00;Westpac Leading Index (MoM);Australia;AUD;1
+CNY_PBoCInterestRateDecision;20231220;01:15;PBoC Interest Rate Decision;China;CNY;2
+EUR_GerGfkConsumerConfidenceSurvey;20231220;07:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+EUR_GerProducerPriceIndex;20231220;07:00;Producer Price Index (YoY);Germany;EUR;2
+TRY_ConsumerConfidence;20231220;07:00;Consumer Confidence;Turkey;TRY;1
+DKK_ConsumerConfidence;20231220;07:00;Consumer Confidence;Denmark;DKK;1
+GBP_RetailPriceIndex;20231220;07:00;Retail Price Index (YoY);United Kingdom;GBP;2
+GBP_PPICoreOutput;20231220;07:00;PPI Core Output (YoY) n.s.a ;United Kingdom;GBP;2
+GBP_ProducerPriceIndex;20231220;07:00;Producer Price Index - Input (YoY) n.s.a;United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20231220;07:00;Consumer Price Index (MoM);United Kingdom;GBP;3
+CNY_FDIForeignDirectInvestment;20231220;09:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;1
+PLN_IndustrialOutput;20231220;09:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20231220;09:00;Producer Price Index (YoY);Poland;PLN;1
+PLN_CorporateSectorWages;20231220;09:00;Corporate Sector Wages;Poland;PLN;1
+EUR_EurCurrentAccount;20231220;09:00;Current Account s.a;Eurozone;EUR;1
+GBP_DCLGHousePriceIndex;20231220;09:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+EUR_EurConstructionOutput;20231220;10:00;Construction Output  s.a (MoM);Eurozone;EUR;1
+EUR_GerGermanBubaMonthlyReport;20231220;11:00;German Buba Monthly Report;Germany;EUR;2
+USD_MBAMortgageApplications;20231220;12:00;MBA Mortgage Applications;United States;USD;1
+MXN_RetailSales;20231220;12:00;Retail Sales (YoY);Mexico;MXN;1
+ILS_M1MoneySupply;20231220;12:30;M1 Money Supply (MoM);Israel;ILS;1
+USD_CurrentAccount;20231220;13:30;Current Account;United States;USD;1
+CAD_EmploymentInsuranceBeneficiariesChange;20231220;13:30;Employment Insurance Beneficiaries Change (MoM);Canada;CAD;1
+EUR_EurCentralBankSpeech;20231220;14:00;ECB Lane speech;Eurozone;EUR;2
+CHF_SNBQuarterlyBulletin;20231220;14:00;SNB Quarterly Bulletin;Switzerland;CHF;2
+USD_ExistingHomeSales;20231220;15:00;Existing Home Sales (MoM);United States;USD;1
+USD_ExistingHomeSalesChange;20231220;15:00;Existing Home Sales Change (MoM);United States;USD;2
+USD_ConsumerConfidence;20231220;15:00;Consumer Confidence;United States;USD;2
+COP_TradeBalance;20231220;15:00;Trade Balance;Colombia;COP;1
+EUR_EurConsumerConfidence;20231220;15:00;Consumer Confidence;Eurozone;EUR;2
+USD_EIACrudeOilStocksChange;20231220;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+RUB_ProducerPriceIndex;20231220;16:00;Producer Price Index (MoM);Russia;RUB;1
+USD_Auction;20231220;18:00;20-Year Bond Auction;United States;USD;1
+CAD_BoCSummaryofDeliberations;20231220;18:30;BoC Summary of Deliberations;Canada;CAD;2
+KRW_ProducerPriceIndex;20231220;21:00;Producer Price Index Growth (YoY);South Korea;KRW;1
+JPY_ForeignBondInvestment;20231220;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20231220;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1

@@ -1,0 +1,7 @@
+CAD_RetailSales;20100122;13:30;Retail Sales ex Autos (MoM);Canada;CAD;3
+EUR_EurIndustrialNewOrders;20100122;10:00;Industrial New Orders (YoY);European Monetary Union;EUR;1
+GBP_RetailSales;20100122;09:30;Retail Sales (YoY);United Kingdom;GBP;3
+JPY_AllIndustryActivityIndex;20100122;04:30;All Industry Activity Index (MoM);Japan;JPY;1
+AUD_ExportPriceIndex;20100122;01:30;Export Price Index (QoQ);Australia;AUD;1
+AUD_RBAForeignExchangeTransaction;20100122;01:30;RBA Foreign Exchange Transaction;Australia;AUD;1
+AUD_ImportPriceIndex;20100122;00:30;Import Price Index (QoQ);Australia;AUD;1

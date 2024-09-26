@@ -1,0 +1,32 @@
+JPY_MerchandiseTradeBalanceTotal;20140520;23:50;Merchandise Trade Balance Total;Japan;JPY;1
+JPY_Imports;20140520;23:50;Imports (YoY);Japan;JPY;1
+JPY_AdjustedMerchandiseTradeBalance;20140520;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_Exports;20140520;23:50;Exports (YoY);Japan;JPY;1
+NZD_VisitorArrivals;20140520;22:45;Visitor Arrivals (YoY);New Zealand;NZD;1
+GBP_CentralBankSpeech;20140520;17:30;BoE Bean speech;United Kingdom;GBP;1
+USD_CentralBankSpeech;20140520;17:00;Fed Dudley speech;United States;USD;1
+USD_Auction;20140520;15:30;4-Week Bill Auction;United States;USD;1
+RUB_IndustrialOutput;20140520;14:00;Industrial Output;Russia;RUB;1
+EUR_BelConsumerConfidenceIndex;20140520;13:00;Consumer Confidence Index;Belgium;EUR;1
+USD_RedbookIndex;20140520;12:55;Redbook Index (YoY);United States;USD;1
+CAD_WholesaleSales;20140520;12:30;Wholesale Sales (MoM);Canada;CAD;1
+PLN_IndustrialOutput;20140520;12:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20140520;12:00;Producer Price Index (YoY);Poland;PLN;1
+EUR_SloUnemploymentRate;20140520;10:00;Unemployment Rate;Slovakia;EUR;1
+EUR_SpaAuction;20140520;09:02;9-Month Letras Auction;Spain;EUR;1
+GBP_RetailPriceIndex;20140520;08:30;Retail Price Index (MoM);United Kingdom;GBP;1
+GBP_DCLGHousePriceIndex;20140520;08:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ProducerPriceIndex;20140520;08:30;Producer Price Index - Output (YoY) n.s.a;United Kingdom;GBP;2
+GBP_PPICoreOutput;20140520;08:30;PPI Core Output (YoY) n.s.a ;United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20140520;08:30;Core Consumer Price Index (YoY);United Kingdom;GBP;3
+NOK_GrossDomesticProduct;20140520;08:00;Gross Domestic Product Growth;Norway;NOK;1
+EUR_ItaIndustrialSales;20140520;08:00;Industrial Sales s.a. (MoM);Italy;EUR;1
+EUR_ItaIndustrialOrders;20140520;08:00;Industrial Orders n.s.a (YoY);Italy;EUR;1
+EUR_FinUnemploymentRate;20140520;06:00;Unemployment Rate;Finland;EUR;1
+EUR_GerProducerPriceIndex;20140520;06:00;Producer Price Index (MoM);Germany;EUR;2
+JPY_CoincidentIndex;20140520;05:00;Coincident Index;Japan;JPY;2
+JPY_LeadingEconomicIndex;20140520;05:00;Leading Economic Index;Japan;JPY;2
+JPY_AllIndustryActivityIndex;20140520;04:30;All Industry Activity Index (MoM);Japan;JPY;2
+AUD_CentralBankSpeech;20140520;03:15;RBA Debelle speech;Australia;AUD;2
+AUD_RBAMeetingMinutes;20140520;01:30;RBA Meeting Minutes;Australia;AUD;2
+SGD_GrossDomesticProduct;20140520;00:00;Gross Domestic Product (YoY);Singapore;SGD;1

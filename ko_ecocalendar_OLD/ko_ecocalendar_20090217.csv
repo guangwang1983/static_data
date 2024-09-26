@@ -1,0 +1,13 @@
+AUD_WestpacLeadingIndex;20090217;23:30;Westpac Leading Index (MoM);Australia;AUD;2
+USD_NAHBHousingMarketIndex;20090217;18:00;NAHB Housing Market Index;United States;USD;1
+USD_NetLongTermTICFlows;20090217;14:00;Net Long-Term TIC Flows;United States;USD;2
+USD_TotalNetTICFlows;20090217;14:00;Total Net TIC Flows;United States;USD;2
+USD_NYEmpireStateManufacturingIndex;20090217;13:30;NY Empire State Manufacturing Index;United States;USD;2
+EUR_EurTradeBalance;20090217;10:00;Trade Balance s.a.;European Monetary Union;EUR;1
+EUR_EurZEWSurveyEconomicSentiment;20090217;10:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;0
+EUR_GerZEWSurveyEconomicSentiment;20090217;10:00;ZEW Survey - Economic Sentiment;Germany;EUR;2
+GBP_RetailPriceIndex;20090217;09:30;Retail Price Index (MoM);United Kingdom;GBP;2
+GBP_DCLGHousePriceIndex;20090217;09:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20090217;09:30;Consumer Price Index (MoM);United Kingdom;GBP;2
+CHF_RetailSales;20090217;08:15;Real Retail Sales (YoY);Switzerland;CHF;1
+AUD_RBAMeetingMinutes;20090217;00:30;RBA Meeting Minutes;Australia;AUD;2

@@ -1,0 +1,28 @@
+USD_BusinessInventories;20110812;14:00;Business Inventories;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20110812;13:55;Michigan Consumer Sentiment Index;United States;USD;2
+USD_RetailSales;20110812;12:30;Retail Sales (MoM);United States;USD;3
+PLN_ConsumerPriceIndex;20110812;12:00;Consumer Price Index (MoM);Poland;PLN;1
+PLN_M3MoneySupply;20110812;12:00;M3 Money Supply (YoY);Poland;PLN;1
+INR_BankLoanGrowth;20110812;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20110812;11:30;FX Reserves, USD;India;INR;1
+EUR_ItaConsumerPriceIndex;20110812;09:00;Consumer Price Index (YoY);Italy;EUR;1
+EUR_EurIndustrialProduction;20110812;09:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;2
+HKD_GrossDomesticProduct;20110812;08:30;Gross Domestic Product (QoQ);Hong Kong SAR;HKD;1
+EUR_ItaTradeBalanceEU;20110812;08:00;Trade Balance EU;Italy;EUR;1
+EUR_ItaGlobalTradeBalance;20110812;08:00;Global Trade Balance;Italy;EUR;1
+NOK_RetailSales;20110812;08:00;Retail Sales ;Norway;NOK;1
+EUR_SpaHICP;20110812;07:00;HICP (YoY);Spain;EUR;1
+EUR_SloCoreInflation;20110812;07:00;Core Inflation (YoY);Slovakia;EUR;1
+EUR_SloHeadlineInflation;20110812;07:00;Headline Inflation (MoM);Slovakia;EUR;1
+EUR_SpaConsumerPriceIndex;20110812;07:00;Consumer Price Index (MoM);Spain;EUR;1
+EUR_FraNonfarmPayrolls;20110812;06:45;Nonfarm Payrolls (QoQ);France;EUR;1
+RUB_ForeignTrade;20110812;06:32;Foreign Trade;Russia;RUB;1
+EUR_FraConsumerPriceIndex;20110812;05:30;Consumer Price Index (EU norm) (YoY);France;EUR;1
+EUR_FraInflationextobacco;20110812;05:30;Inflation ex-tobacco (MoM);France;EUR;1
+EUR_FraGrossDomesticProduct;20110812;05:30;Gross Domestic Product (QoQ);France;EUR;1
+INR_ManufacturingOutput;20110812;05:30;Manufacturing Output;India;INR;1
+INR_IndustrialOutput;20110812;05:30;Industrial Output;India;INR;1
+INR_CumulativeIndustrialOutput;20110812;05:30;Cumulative Industrial Output;India;INR;1
+JPY_IndustrialProduction;20110812;04:30;Industrial Production (MoM);Japan;JPY;1
+JPY_CapacityUtilization;20110812;04:30;Capacity Utilization;Japan;JPY;1
+CNY_M2MoneySupply;20110812;02:00;M2 Money Supply (YoY);China;CNY;1

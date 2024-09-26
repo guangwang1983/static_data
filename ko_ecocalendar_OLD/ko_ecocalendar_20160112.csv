@@ -1,0 +1,30 @@
+JPY_MoneySupplyM2+CD;20160112;23:50;Money Supply M2+CD (YoY);Japan;JPY;1
+KRW_UnemploymentRate;20160112;23:00;Unemployment Rate;South Korea;KRW;1
+KRW_ExportPriceGrowth;20160112;22:00;Export Price Growth (YoY);South Korea;KRW;1
+USD_APIWeeklyCrudeOilStock;20160112;21:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_CentralBankSpeech;20160112;20:15;Fed Lacker speech;United States;USD;1
+USD_Auction;20160112;18:00;3-Year Note Auction;United States;USD;1
+USD_JOLTSJobOpenings;20160112;15:00;JOLTS Job Openings;United States;USD;1
+GBP_NIESRGDPEstimate;20160112;15:00;NIESR GDP Estimate (3M);United Kingdom;GBP;2
+USD_IBDTIPPEconomicOptimism;20160112;15:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+GBP_CentralBankSpeech;20160112;14:15;BoE Governor Carney speech;United Kingdom;GBP;3
+USD_RedbookIndex;20160112;13:55;Redbook Index (MoM);United States;USD;1
+USD_HousingStartsChange;20160112;13:30;Housing Starts Change;United States;USD;1
+EUR_IreConsumerConfidence;20160112;12:13;Consumer Confidence;Ireland;EUR;1
+INR_IndustrialOutput;20160112;12:00;Industrial Output;India;INR;1
+INR_ManufacturingOutput;20160112;12:00;Manufacturing Output;India;INR;1
+INR_CumulativeIndustrialOutput;20160112;12:00;Cumulative Industrial Output;India;INR;1
+USD_NFIBBusinessOptimismIndex;20160112;11:00;NFIB Business Optimism Index;United States;USD;1
+ZAR_ManufacturingProductionIndex;20160112;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+JPY_CentralBankSpeech;20160112;10:30;BoJ Governor Kuroda speech;Japan;JPY;3
+GBP_ManufacturingProduction;20160112;09:30;Manufacturing Production (MoM);United Kingdom;GBP;2
+GBP_IndustrialProduction;20160112;09:30;Industrial Production (YoY);United Kingdom;GBP;2
+CZK_ConsumerPriceIndex;20160112;08:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+CZK_RetailSales;20160112;08:00;Retail Sales (YoY);Czech Republic;CZK;1
+CZK_GrossDomesticProduct;20160112;08:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+JPY_EcoWatchersSurvey:Outlook;20160112;06:00;Eco Watchers Survey: Outlook;Japan;JPY;2
+JPY_EcoWatchersSurvey:Current;20160112;06:00;Eco Watchers Survey: Current;Japan;JPY;2
+JPY_ConsumerConfidenceIndex;20160112;05:00;Consumer Confidence Index;Japan;JPY;1
+GBP_RetailSales;20160112;00:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+KRW_ImportPriceGrowth;20160112;00:00;Import Price Growth (YoY);South Korea;KRW;1
+NZD_ANZCommodityPrice;20160112;00:00;ANZ Commodity Price;New Zealand;NZD;1

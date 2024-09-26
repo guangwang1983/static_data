@@ -1,0 +1,34 @@
+RON_Unificationday;20170124;00:00;Unification day;Romania;RON;0
+JPY_JibunBankManufacturingPMI;20170124;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+DKK_ConsumerConfidence;20170124;08:00;Consumer Confidence;Denmark;DKK;1
+EUR_FraHCOBServicesPMI;20170124;08:00;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20170124;08:00;HCOB Composite PMI;France;EUR;1
+EUR_FraHCOBManufacturingPMI;20170124;08:00;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerHCOBCompositePMI;20170124;08:30;HCOB Composite PMI;Germany;EUR;2
+EUR_GerHCOBManufacturingPMI;20170124;08:30;HCOB Manufacturing PMI;Germany;EUR;2
+EUR_GerHCOBServicesPMI;20170124;08:30;HCOB Services PMI;Germany;EUR;2
+EUR_EurHCOBServicesPMI;20170124;09:00;HCOB Services PMI;European Monetary Union;EUR;2
+EUR_EurHCOBManufacturingPMI;20170124;09:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurHCOBCompositePMI;20170124;09:00;HCOB Composite PMI;European Monetary Union;EUR;2
+GBP_EUMembershipCourtRuling;20170124;09:30;EU Membership Court Ruling;United Kingdom;GBP;3
+GBP_PublicSectorNetBorrowing;20170124;09:30;Public Sector Net Borrowing;United Kingdom;GBP;2
+TRY_CBRTInterestRateDecision;20170124;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+BRL_CurrentAccount;20170124;12:30;Current Account;Brazil;BRL;1
+HUF_MNBInterestRateDecision;20170124;13:00;MNB Interest Rate Decision;Hungary;HUF;1
+ZAR_SARBInterestRateDecision;20170124;13:00;SARB Interest Rate Decision;South Africa;ZAR;1
+USD_RedbookIndex;20170124;13:55;Redbook Index (YoY);United States;USD;1
+MXN_1sthalfmonthCoreInflation;20170124;14:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20170124;14:00;1st half-month Inflation;Mexico;MXN;1
+USD_S&PGlobalManufacturingPMI;20170124;14:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_ExistingHomeSales;20170124;15:00;Existing Home Sales (MoM);United States;USD;1
+USD_ExistingHomeSalesChange;20170124;15:00;Existing Home Sales Change (MoM);United States;USD;1
+USD_RichmondFedManufacturingIndex;20170124;15:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_Auction;20170124;18:00;2-Year Note Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20170124;21:30;API Weekly Crude Oil Stock;United States;USD;1
+COP_TradeBalance;20170124;22:00;Trade Balance;Colombia;COP;1
+KRW_GrossDomesticProduct;20170124;23:00;Gross Domestic Product Growth (YoY);South Korea;KRW;1
+AUD_WestpacLeadingIndex;20170124;23:30;Westpac Leading Index (MoM);Australia;AUD;1
+JPY_Exports;20170124;23:50;Exports (YoY);Japan;JPY;2
+JPY_MerchandiseTradeBalanceTotal;20170124;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Imports;20170124;23:50;Imports (YoY);Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20170124;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;2

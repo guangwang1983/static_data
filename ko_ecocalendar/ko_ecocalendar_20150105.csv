@@ -1,0 +1,20 @@
+RUB_Bankholiday;20150105;00:00;Bank holiday;Russia;RUB;0
+JPY_JibunBankManufacturingPMI;20150105;01:35;Jibun Bank Manufacturing PMI;Japan;JPY;1
+JPY_VehicleSales;20150105;05:00;Vehicle Sales (YoY);Japan;JPY;1
+TRY_ProducerPriceIndex;20150105;08:00;Producer Price Index (YoY);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20150105;08:00;Consumer Price Index (MoM);Turkey;TRY;1
+HUF_PurchasingManagerIndex;20150105;08:00;Purchasing Manager Index;Hungary;HUF;1
+CHF_SVMEPurchasingManagers'Index;20150105;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;2
+EUR_EurSentixInvestorConfidence;20150105;09:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+GBP_S&PGlobalConstructionPMI;20150105;09:30;S&P Global Construction PMI;United Kingdom;GBP;2
+CLP_IMACEC;20150105;11:30;IMACEC;Chile;CLP;1
+EUR_GerConsumerPriceIndex;20150105;13:00;Consumer Price Index (YoY);Germany;EUR;2
+EUR_GerHarmonizedIndexofConsumerPrices;20150105;13:00;Harmonized Index of Consumer Prices (MoM);Germany;EUR;2
+CZK_BudgetBalance;20150105;13:00;Budget Balance;Czech Republic;CZK;1
+USD_ISMNYBusinessConditionsIndex;20150105;14:45;ISM-NY Business Conditions Index;United States;USD;1
+DKK_CurrencyReserves;20150105;15:00;Currency Reserves;Denmark;DKK;1
+USD_Auction;20150105;16:30;3-Month Bill Auction;United States;USD;1
+BRL_TradeBalance;20150105;17:00;Trade Balance;Brazil;BRL;1
+KRW_FXReserves;20150105;21:00;FX Reserves;South Korea;KRW;1
+USD_TotalVehicleSales;20150105;22:24;Total Vehicle Sales;United States;USD;1
+JPY_MonetaryBase;20150105;23:50;Monetary Base (YoY);Japan;JPY;2

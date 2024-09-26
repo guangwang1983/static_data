@@ -1,0 +1,28 @@
+AUD_Imports;20240111;00:30;Imports (MoM);Australia;AUD;2
+AUD_Exports;20240111;00:30;Exports (MoM);Australia;AUD;2
+AUD_TradeBalance;20240111;00:30;Trade Balance (MoM);Australia;AUD;3
+KRW_BoKInterestRateDecision;20240111;01:00;BoK Interest Rate Decision;South Korea;KRW;2
+JPY_CoincidentIndex;20240111;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20240111;05:00;Leading Economic Index;Japan;JPY;1
+JPY_MachineToolOrders;20240111;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+TRY_CurrentAccount;20240111;07:00;Current Account Balance;Turkey;TRY;1
+RON_GrossDomesticProduct;20240111;07:00;Gross Domestic Product;Romania;RON;1
+CZK_ConsumerPriceIndex;20240111;08:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+CNY_FDIForeignDirectInvestment;20240111;09:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;1
+EUR_ItaIndustrialOutput;20240111;09:00;Industrial Output w.d.a (YoY);Italy;EUR;1
+EUR_EurEconomicBulletin;20240111;09:00;Economic Bulletin;Eurozone;EUR;2
+ZAR_ManufacturingProductionIndex;20240111;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+BRL_IPCAInflation;20240111;12:00;IPCA Inflation;Brazil;BRL;1
+MXN_IndustrialOutput;20240111;12:00;Industrial Output (YoY);Mexico;MXN;1
+RUB_CentralBankReserves;20240111;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_JoblessClaims;20240111;13:30;Initial Jobless Claims;United States;USD;2
+USD_ConsumerPriceIndex;20240111;13:30;Consumer Price Index n.s.a (MoM);United States;USD;1
+EUR_GerCurrentAccount;20240111;13:45;Current Account n.s.a.;Germany;EUR;1
+USD_EIANaturalGasStorageChange;20240111;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20240111;18:00;30-Year Bond Auction;United States;USD;1
+USD_MonthlyBudgetStatement;20240111;19:00;Monthly Budget Statement;United States;USD;2
+JPY_BankLending;20240111;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20240111;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20240111;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_TradeBalanceBOPBasis;20240111;23:50;Trade Balance - BOP Basis;Japan;JPY;1
+JPY_CurrentAccount;20240111;23:50;Current Account n.s.a.;Japan;JPY;2

@@ -1,0 +1,20 @@
+IDR_RetailSales;20230911;04:00;Retail Sales (YoY);Indonesia;IDR;1
+DKK_Inflation;20230911;06:00;Inflation (HICP) (YoY);Denmark;DKK;1
+DKK_ConsumerPriceIndex;20230911;06:00;Consumer Price Index (YoY);Denmark;DKK;1
+RON_TradeBalance;20230911;06:00;Trade Balance;Romania;RON;1
+JPY_MachineToolOrders;20230911;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+NOK_ConsumerPriceIndex;20230911;06:00;Consumer Price Index (MoM);Norway;NOK;1
+NOK_CoreInflation;20230911;06:00;Core Inflation (MoM);Norway;NOK;1
+NOK_ProducerPriceIndex;20230911;06:00;Producer Price Index (YoY);Norway;NOK;1
+TRY_UnemploymentRate;20230911;07:00;Unemployment Rate;Turkey;TRY;1
+TRY_IndustrialProduction;20230911;07:00;Industrial Production (YoY);Turkey;TRY;1
+TRY_CurrentAccount;20230911;07:00;Current Account Balance;Turkey;TRY;1
+CZK_ConsumerPriceIndex;20230911;07:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+EUR_ItaIndustrialOutput;20230911;08:00;Industrial Output s.a. (MoM);Italy;EUR;1
+MXN_IndustrialOutput;20230911;11:00;Industrial Output (MoM);Mexico;MXN;1
+ZAR_ManufacturingProductionIndex;20230911;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+RUB_ForeignTrade;20230911;13:00;Foreign Trade;Russia;RUB;1
+USD_Auction;20230911;17:00;3-Year Note Auction;United States;USD;1
+NZD_VisitorArrivals;20230911;22:45;Visitor Arrivals (YoY);New Zealand;NZD;1
+NZD_RetailSales;20230911;22:45;Electronic Card Retail Sales  (MoM);New Zealand;NZD;1
+GBP_CentralBankSpeech;20230911;23:00;BoE Mann speech;United Kingdom;GBP;2

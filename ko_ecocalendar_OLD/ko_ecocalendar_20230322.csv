@@ -1,0 +1,28 @@
+GBP_RetailPriceIndex;20230322;07:00;Retail Price Index (YoY);United Kingdom;GBP;2
+GBP_ProducerPriceIndex;20230322;07:00;Producer Price Index - Input (YoY) n.s.a;United Kingdom;GBP;1
+GBP_PPICoreOutput;20230322;07:00;PPI Core Output (MoM) n.s.a;United Kingdom;GBP;2
+GBP_ConsumerPriceIndex;20230322;07:00;Consumer Price Index (YoY);United Kingdom;GBP;3
+ZAR_ConsumerPriceIndex;20230322;08:00;Consumer Price Index (MoM);South Africa;ZAR;1
+EUR_EurCurrentAccount;20230322;09:00;Current Account n.s.a;European Monetary Union;EUR;1
+GBP_DCLGHousePriceIndex;20230322;09:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+USD_MBAMortgageApplications;20230322;11:00;MBA Mortgage Applications;United States;USD;1
+ILS_Exports;20230322;11:00;Exports;Israel;ILS;1
+ILS_Imports;20230322;11:00;Imports;Israel;ILS;1
+ILS_TradeBalance;20230322;11:00;Trade Balance;Israel;ILS;1
+INR_M3MoneySupply;20230322;11:30;M3 Money Supply;India;INR;1
+MXN_PrivateSpending;20230322;12:00;Private Spending (QoQ);Mexico;MXN;1
+CAD_NewHousingPriceIndex;20230322;12:30;New Housing Price Index (MoM);Canada;CAD;1
+PLN_M3MoneySupply;20230322;13:00;M3 Money Supply (YoY);Poland;PLN;1
+EUR_EurCentralBankSpeech;20230322;13:45;ECB Panetta speech;European Monetary Union;EUR;2
+USD_EIACrudeOilStocksChange;20230322;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+RUB_ProducerPriceIndex;20230322;16:00;Producer Price Index (YoY);Russia;RUB;1
+USD_FOMCEconomicProjections;20230322;18:00;FOMC Economic Projections;United States;USD;3
+USD_InterestRateProjections1styear;20230322;18:00;Interest Rate Projections - 1st year;United States;USD;3
+USD_InterestRateProjectionsLonger;20230322;18:00;Interest Rate Projections - Longer;United States;USD;3
+USD_FedMonetaryPolicyStatement;20230322;18:00;Fed Monetary Policy Statement;United States;USD;3
+USD_InterestRateProjections2ndyear;20230322;18:00;Interest Rate Projections - 2nd year;United States;USD;3
+USD_InterestRateProjectionsCurrent;20230322;18:00;Interest Rate Projections - Current;United States;USD;3
+USD_FedInterestRateDecision;20230322;18:00;Fed Interest Rate Decision;United States;USD;3
+USD_FOMCPressConference;20230322;18:30;FOMC Press Conference;United States;USD;3
+CAD_AnnualBudgetRelease;20230322;20:00;Annual Budget Release;Canada;CAD;1
+BRL_InterestRateDecision;20230322;21:00;Interest Rate Decision;Brazil;BRL;1

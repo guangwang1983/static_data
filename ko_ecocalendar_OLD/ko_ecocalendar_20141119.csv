@@ -1,0 +1,31 @@
+JPY_MerchandiseTradeBalanceTotal;20141119;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Imports;20141119;23:50;Imports (YoY);Japan;JPY;1
+JPY_Exports;20141119;23:50;Exports (YoY);Japan;JPY;1
+JPY_AdjustedMerchandiseTradeBalance;20141119;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20141119;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20141119;23:50;Foreign Bond Investment;Japan;JPY;2
+NZD_ProducerPriceIndex;20141119;21:45;Producer Price Index - Input (QoQ);New Zealand;NZD;1
+USD_FOMCMinutes;20141119;19:00;FOMC Minutes;United States;USD;3
+USD_EIACrudeOilStocksChange;20141119;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+RUB_IndustrialOutput;20141119;14:00;Industrial Output;Russia;RUB;1
+USD_HousingStarts;20141119;13:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20141119;13:30;Building Permits (MoM);United States;USD;2
+PLN_CorporateSectorWages;20141119;13:00;Corporate Sector Wages;Poland;PLN;1
+USD_MBAMortgageApplications;20141119;12:00;MBA Mortgage Applications;United States;USD;1
+BRL_UnemploymentRate;20141119;11:00;Unemployment Rate;Brazil;BRL;1
+BRL_MidmonthInflation;20141119;11:00;Mid-month Inflation;Brazil;BRL;1
+CHF_ZEWSurveyExpectations;20141119;10:00;ZEW Survey - Expectations;Switzerland;CHF;2
+EUR_EurConstructionOutput;20141119;10:00;Construction Output  s.a (MoM);European Monetary Union;EUR;1
+GBP_BoEMPCVoteUnchanged;20141119;09:30;BoE MPC Vote Unchanged;United Kingdom;GBP;3
+GBP_BoEMPCVoteCut;20141119;09:30;BoE MPC Vote Cut;United Kingdom;GBP;3
+GBP_BankofEnglandMinutes;20141119;09:30;Bank of England Minutes;United Kingdom;GBP;2
+GBP_BoEMPCVoteHike;20141119;09:30;BoE MPC Vote Hike;United Kingdom;GBP;3
+EUR_EurCurrentAccount;20141119;09:00;Current Account s.a;European Monetary Union;EUR;1
+ZAR_ConsumerPriceIndex;20141119;08:00;Consumer Price Index (MoM);South Africa;ZAR;1
+JPY_BoJPressConference;20141119;06:00;BoJ Press Conference;Japan;JPY;3
+JPY_CoincidentIndex;20141119;05:00;Coincident Index;Japan;JPY;2
+JPY_LeadingEconomicIndex;20141119;05:00;Leading Economic Index;Japan;JPY;2
+JPY_AllIndustryActivityIndex;20141119;04:30;All Industry Activity Index (MoM);Japan;JPY;2
+JPY_BoJInterestRateDecision;20141119;03:24;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_BoJMonetaryPolicyStatement;20141119;03:24;BoJ Monetary Policy Statement ;Japan;JPY;2
+CNY_MNIBusinessSentimentIndicator;20141119;01:45;MNI Business Sentiment Indicator;China;CNY;1

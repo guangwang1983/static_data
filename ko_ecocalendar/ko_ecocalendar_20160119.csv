@@ -1,0 +1,33 @@
+CNY_RetailSales;20160119;02:00;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20160119;02:00;Industrial Production (YoY);China;CNY;2
+CNY_NBSPressConference;20160119;02:00;NBS Press Conference;China;CNY;2
+CNY_FixedAssetInvestment;20160119;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+CNY_GrossDomesticProduct;20160119;02:00;Gross Domestic Product (YoY);China;CNY;3
+EUR_GerHarmonizedIndexofConsumerPrices;20160119;07:00;Harmonized Index of Consumer Prices (MoM);Germany;EUR;2
+EUR_GerConsumerPriceIndex;20160119;07:00;Consumer Price Index (YoY);Germany;EUR;2
+CHF_ProducerandImportPrices;20160119;08:15;Producer and Import Prices (MoM);Switzerland;CHF;2
+EUR_EurCurrentAccount;20160119;09:00;Current Account n.s.a;European Monetary Union;EUR;1
+GBP_RetailPriceIndex;20160119;09:30;Retail Price Index (YoY);United Kingdom;GBP;1
+GBP_DCLGHousePriceIndex;20160119;09:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ProducerPriceIndex;20160119;09:30;Producer Price Index - Output (MoM) n.s.a;United Kingdom;GBP;2
+GBP_PPICoreOutput;20160119;09:30;PPI Core Output (MoM) n.s.a;United Kingdom;GBP;2
+GBP_ConsumerPriceIndex;20160119;09:30;Consumer Price Index (MoM);United Kingdom;GBP;2
+EUR_EurHarmonizedIndexofConsumerPrices;20160119;10:00;Harmonized Index of Consumer Prices (MoM);European Monetary Union;EUR;2
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20160119;10:00;Core Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;2
+EUR_EurConstructionOutput;20160119;10:00;Construction Output w.d.a (YoY);European Monetary Union;EUR;1
+EUR_GerZEWSurvey–EconomicSentiment;20160119;10:00;ZEW Survey – Economic Sentiment;Germany;EUR;2
+EUR_EurZEWSurvey–EconomicSentiment;20160119;10:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurvey–CurrentSituation;20160119;10:00;ZEW Survey – Current Situation;Germany;EUR;2
+GBP_CentralBankSpeech;20160119;12:00;BoE Governor Carney speech;United Kingdom;GBP;3
+TRY_CBRTInterestRateDecision;20160119;12:00;CBRT Interest Rate Decision;Turkey;TRY;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20160119;13:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20160119;13:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+NZD_GDTPriceIndex;20160119;14:08;GDT Price Index;New Zealand;NZD;1
+USD_NAHBHousingMarketIndex;20160119;15:00;NAHB Housing Market Index;United States;USD;2
+USD_Auction;20160119;16:30;6-Month Bill Auction;United States;USD;1
+USD_TotalNetTICFlows;20160119;21:00;Total Net TIC Flows;United States;USD;1
+USD_NetLongTermTICFlows;20160119;21:00;Net Long-Term TIC Flows;United States;USD;1
+NZD_ConsumerPriceIndex;20160119;21:45;Consumer Price Index (QoQ);New Zealand;NZD;3
+COP_TradeBalance;20160119;22:00;Trade Balance;Colombia;COP;1
+AUD_WestpacConsumerConfidenceIndex;20160119;23:30;Westpac Consumer Confidence Index;Australia;AUD;1
+AUD_WestpacConsumerConfidence;20160119;23:30;Westpac Consumer Confidence;Australia;AUD;2

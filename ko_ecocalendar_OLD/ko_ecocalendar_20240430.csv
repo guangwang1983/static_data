@@ -1,0 +1,83 @@
+NZD_ANZActivityOutlook;20240430;01:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20240430;01:00;ANZ Business Confidence;New Zealand;NZD;1
+CNY_NBSNonManufacturingPMI;20240430;01:30;NBS Non-Manufacturing PMI;China;CNY;3
+CNY_NBSManufacturingPMI;20240430;01:30;NBS Manufacturing PMI;China;CNY;3
+AUD_PrivateSectorCredit;20240430;01:30;Private Sector Credit (MoM);Australia;AUD;1
+AUD_RetailSales;20240430;01:30;Retail Sales s.a. (MoM);Australia;AUD;3
+CNY_CaixinManufacturingPMI;20240430;01:45;Caixin Manufacturing PMI;China;CNY;3
+JPY_AnnualizedHousingStarts;20240430;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_ConstructionOrders;20240430;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_HousingStarts;20240430;05:00;Housing Starts (YoY);Japan;JPY;1
+EUR_FraConsumerSpending;20240430;05:30;Consumer Spending (MoM);France;EUR;1
+EUR_FraGrossDomesticProduct;20240430;05:30;Gross Domestic Product (QoQ);France;EUR;2
+EUR_GerImportPriceIndex;20240430;06:00;Import Price Index (MoM);Germany;EUR;1
+EUR_GerRetailSales;20240430;06:00;Retail Sales (MoM);Germany;EUR;2
+DKK_UnemploymentRate;20240430;06:00;Unemployment Rate;Denmark;DKK;1
+DKK_RetailSales;20240430;06:00;Retail Sales (YoY);Denmark;DKK;1
+ZAR_PrivateSectorCredit;20240430;06:00;Private Sector Credit;South Africa;ZAR;1
+ZAR_M3MoneySupply;20240430;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+NOK_CreditIndicator;20240430;06:00;Credit Indicator;Norway;NOK;1
+HUF_ProducerPriceIndex;20240430;06:30;Producer Price Index (YoY);Hungary;HUF;1
+HUF_GrossDomesticProduct;20240430;06:30;Gross Domestic Product (YoY);Hungary;HUF;1
+EUR_FraProducerPrices;20240430;06:45;Producer Prices (MoM);France;EUR;1
+EUR_FraConsumerPriceIndex;20240430;06:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+TRY_TradeBalance;20240430;07:00;Trade Balance;Turkey;TRY;1
+CZK_GrossDomesticProduct;20240430;07:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+CHF_KOFLeadingIndicator;20240430;07:00;KOF Leading Indicator;Switzerland;CHF;1
+EUR_GerUnemploymentChange;20240430;07:55;Unemployment Change;Germany;EUR;2
+EUR_GerUnemploymentRate;20240430;07:55;Unemployment Rate s.a.;Germany;EUR;2
+EUR_GerGrossDomesticProduct;20240430;08:00;Gross Domestic Product (YoY);Germany;EUR;3
+EUR_ItaGrossDomesticProduct;20240430;08:00;Gross Domestic Product (YoY);Italy;EUR;2
+TRY_ForeignArrivals;20240430;08:00;Foreign Arrivals;Turkey;TRY;1
+GBP_NetLendingtoIndividuals;20240430;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20240430;08:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20240430;08:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_M4MoneySupply;20240430;08:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+EUR_ItaConsumerPriceIndex;20240430;09:00;Consumer Price Index (YoY);Italy;EUR;2
+EUR_EurGrossDomesticProduct;20240430;09:00;Gross Domestic Product s.a. (YoY);Eurozone;EUR;3
+EUR_EurHarmonizedIndexofConsumerPrices;20240430;09:00;Harmonized Index of Consumer Prices (YoY);Eurozone;EUR;3
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20240430;09:00;Core Harmonized Index of Consumer Prices (MoM);Eurozone;EUR;3
+INR_FederalFiscalDeficitINR;20240430;10:00;Federal Fiscal Deficit, INR;India;INR;1
+ILS_IndustrialProduction;20240430;10:00;Industrial Production (MoM);Israel;ILS;1
+BRL_UnemploymentRate;20240430;12:00;Unemployment Rate;Brazil;BRL;1
+ZAR_TradeBalance;20240430;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+INR_InfrastructureOutput;20240430;12:00;Infrastructure Output (YoY);India;INR;1
+USD_EmploymentCostIndex;20240430;12:30;Employment Cost Index;United States;USD;2
+CAD_GrossDomesticProduct;20240430;12:30;Gross Domestic Product (MoM);Canada;CAD;2
+USD_RedbookIndex;20240430;12:55;Redbook Index (YoY);United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20240430;13:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;1
+USD_HousingPriceIndex;20240430;13:00;Housing Price Index (MoM);United States;USD;2
+CLP_Unemploymentrate;20240430;13:00;Unemployment rate;Chile;CLP;1
+CLP_IndustrialProduction;20240430;13:00;Industrial Production (YoY);Chile;CLP;1
+USD_ChicagoPurchasingManagers'Index;20240430;13:45;Chicago Purchasing Managers' Index;United States;USD;2
+USD_ConsumerConfidence;20240430;14:00;Consumer Confidence;United States;USD;2
+KRW_LabourDay;20240430;15:00;Labour Day ;South Korea;KRW;0
+COP_NationalJoblessRate;20240430;15:00;National Jobless Rate;Colombia;COP;1
+CNY_LabourDay;20240430;16:00;Labour Day;China;CNY;0
+IDR_LabourDay;20240430;17:00;Labour Day;Indonesia;IDR;0
+COP_Interestrate;20240430;19:00;Interest rate;Colombia;COP;1
+USD_APIWeeklyCrudeOilStock;20240430;20:30;API Weekly Crude Oil Stock;United States;USD;1
+MXN_FiscalBalancepesos;20240430;21:00;Fiscal Balance, pesos;Mexico;MXN;1
+NZD_RBNZFinancialStabilityReport;20240430;21:00;RBNZ Financial Stability Report;New Zealand;NZD;2
+RON_LaborDay;20240430;21:00;Labor Day;Romania;RON;0
+RUB_LabourDay;20240430;21:00;Labour Day;Russia;RUB;0
+EUR_GerLabourDay;20240430;22:00;Labour Day;Germany;EUR;0
+EUR_ItaLabourDay;20240430;22:00;Labour Day ;Italy;EUR;0
+ZAR_WorkersDay;20240430;22:00;Workers Day;South Africa;ZAR;0
+HUF_Labourday;20240430;22:00;Labour day;Hungary;HUF;0
+CZK_LabourDay;20240430;22:00;Labour Day;Czech Republic;CZK;0
+CHF_LabourDay;20240430;22:00;Labour Day;Switzerland;CHF;0
+NOK_LabourDay;20240430;22:00;Labour Day;Norway;NOK;0
+SEK_LabourDay;20240430;22:00;Labour Day;Sweden;SEK;0
+EUR_FraLabourDay;20240430;22:00;Labour Day ;France;EUR;0
+NZD_UnemploymentRate;20240430;22:45;Unemployment Rate;New Zealand;NZD;3
+NZD_EmploymentChange;20240430;22:45;Employment Change;New Zealand;NZD;3
+NZD_ParticipationRate;20240430;22:45;Participation Rate;New Zealand;NZD;2
+NZD_LabourCostIndex;20240430;22:45;Labour Cost Index (QoQ);New Zealand;NZD;2
+TRY_LabourDay;20240430;23:00;Labour Day;Turkey;TRY;0
+PLN_LabourDay;20240430;23:00;Labour Day ;Poland;PLN;0
+AUD_AiGIndustryIndex;20240430;23:00;AiG Industry Index;Australia;AUD;2
+AUD_AiGManufacturingPMI;20240430;23:00;AiG Manufacturing PMI;Australia;AUD;1
+AUD_JudoBankManufacturingPMI;20240430;23:00;Judo Bank Manufacturing PMI;Australia;AUD;1
+AUD_AiGConstructionPMI;20240430;23:00;AiG Construction PMI;Australia;AUD;1
+GBP_BRCShopPriceIndex;20240430;23:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1

@@ -1,0 +1,42 @@
+NZD_ANZCommodityPrice;20200304;00:00;ANZ Commodity Price;New Zealand;NZD;1
+AUD_GrossDomesticProduct;20200304;00:30;Gross Domestic Product (YoY);Australia;AUD;2
+JPY_JibunBankServicesPMI;20200304;00:30;Jibun Bank Services PMI;Japan;JPY;1
+CNY_CaixinServicesPMI;20200304;01:45;Caixin Services PMI;China;CNY;2
+RUB_S&PGlobalServicesPMI;20200304;06:00;S&P Global Services PMI;Russia;RUB;1
+EUR_GerRetailSales;20200304;07:00;Retail Sales (MoM);Germany;EUR;2
+NOK_CurrentAccount;20200304;07:00;Current Account;Norway;NOK;1
+CHF_ConsumerPriceIndex;20200304;07:30;Consumer Price Index (YoY);Switzerland;CHF;2
+HUF_RetailSales;20200304;08:00;Retail Sales (YoY);Hungary;HUF;1
+BRL_FipeIPCInflation;20200304;08:00;Fipe IPC Inflation;Brazil;BRL;1
+EUR_ItaHCOBServicesPMI;20200304;08:45;HCOB Services PMI;Italy;EUR;1
+EUR_FraHCOBServicesPMI;20200304;08:50;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20200304;08:50;HCOB Composite PMI;France;EUR;1
+EUR_GerHCOBCompositePMI;20200304;08:55;HCOB Composite PMI;Germany;EUR;2
+EUR_GerHCOBServicesPMI;20200304;08:55;HCOB Services PMI;Germany;EUR;1
+EUR_ItaGrossDomesticProduct;20200304;09:00;Gross Domestic Product (YoY);Italy;EUR;2
+EUR_EurHCOBCompositePMI;20200304;09:00;HCOB Composite PMI;European Monetary Union;EUR;2
+EUR_EurHCOBServicesPMI;20200304;09:00;HCOB Services PMI;European Monetary Union;EUR;1
+KRW_FXReserves;20200304;09:25;FX Reserves;South Korea;KRW;1
+GBP_S&PGlobalCIPSServicesPMI;20200304;09:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSCompositePMI;20200304;09:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;2
+EUR_EurRetailSales;20200304;10:00;Retail Sales (MoM);European Monetary Union;EUR;1
+BRL_GrossDomesticProduct;20200304;12:00;Gross Domestic Product (QoQ);Brazil;BRL;1
+USD_MBAMortgageApplications;20200304;12:00;MBA Mortgage Applications;United States;USD;1
+PLN_NBPBaserate;20200304;13:00;NBP Base rate;Poland;PLN;1
+USD_ADPEmploymentChange;20200304;13:15;ADP Employment Change;United States;USD;2
+CAD_LaborProductivity;20200304;13:30;Labor Productivity (QoQ);Canada;CAD;1
+USD_S&PGlobalCompositePMI;20200304;14:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20200304;14:45;S&P Global Services PMI;United States;USD;2
+USD_ISMServicesEmploymentIndex;20200304;15:00;ISM Services Employment Index;United States;USD;2
+USD_ISMServicesPricesPaid;20200304;15:00;ISM Services Prices Paid;United States;USD;2
+USD_ISMServicesPMI;20200304;15:00;ISM Services PMI;United States;USD;3
+USD_ISMServicesNewOrdersIndex;20200304;15:00;ISM Services New Orders Index;United States;USD;2
+CAD_BoCRateStatement;20200304;15:00;BoC Rate Statement;Canada;CAD;3
+CAD_BoCInterestRateDecision;20200304;15:00;BoC Interest Rate Decision;Canada;CAD;3
+USD_EIACrudeOilStocksChange;20200304;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+GBP_CentralBankSpeech;20200304;18:00;BoE Broadbent speech;United Kingdom;GBP;2
+EUR_GerCentralBankSpeech;20200304;18:30;German Buba President Weidmann speech;Germany;EUR;2
+USD_FedBeigeBook;20200304;19:00;Fed Beige Book;United States;USD;2
+KRW_CurrentAccount;20200304;23:00;Current Account Balance;South Korea;KRW;1
+JPY_ForeignInvestmentinJapanStocks;20200304;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20200304;23:50;Foreign Bond Investment;Japan;JPY;1

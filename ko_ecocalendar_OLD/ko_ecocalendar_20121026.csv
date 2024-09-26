@@ -1,0 +1,22 @@
+COP_Interestrate;20121026;16:00;Interest rate;Colombia;COP;1
+MXN_CentralBankInterestRate;20121026;14:00;Central Bank Interest Rate;Mexico;MXN;1
+USD_MichiganConsumerSentimentIndex;20121026;13:55;Michigan Consumer Sentiment Index;United States;USD;2
+USD_GrossDomesticProduct;20121026;12:30;Gross Domestic Product Annualized;United States;USD;3
+INR_FXReservesUSD;20121026;11:30;FX Reserves, USD;India;INR;1
+EUR_IreRetailSales;20121026;10:00;Retail Sales (MoM);Ireland;EUR;1
+EUR_ItaBusinessConfidence;20121026;08:00;Business Confidence;Italy;EUR;1
+SEK_TradeBalance;20121026;07:30;Trade Balance (MoM);Sweden;SEK;1
+CHF_KOFLeadingIndicator;20121026;07:00;KOF Leading Indicator;Switzerland;CHF;2
+EUR_SpaUnemploymentSurvey;20121026;07:00;Unemployment Survey;Spain;EUR;1
+EUR_FraConsumerConfidence;20121026;06:45;Consumer Confidence;France;EUR;1
+EUR_GerImportPriceIndex;20121026;06:00;Import Price Index (MoM);Germany;EUR;1
+EUR_GerGfkConsumerConfidenceSurvey;20121026;06:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+CNY_MNIBusinessSentimentIndicator;20121026;01:35;MNI Business Sentiment Indicator;China;CNY;1
+NZD_ANZActivityOutlook;20121026;01:00;ANZ Activity Outlook;New Zealand;NZD;1
+SGD_HariRayaHaji;20121026;00:00;Hari Raya Haji;Singapore;SGD;0
+EUR_AusNationalDay;20121026;00:00;National Day ;Austria;EUR;0
+IDR_IdulAdha;20121026;00:00;Idul Adha;Indonesia;IDR;0
+QAR_Eidaladha;20121026;00:00;Eid al-adha;Qatar;QAR;0
+TRY_SacrificeFeast;20121026;00:00;Sacrifice Feast;Turkey;TRY;0
+INR_IdulJuha;20121026;00:00;Idul Juha;India;INR;0
+NZD_ANZBusinessConfidence;20121026;00:00;ANZ Business Confidence;New Zealand;NZD;2

@@ -1,0 +1,48 @@
+JPY_IndustrialProduction;20110929;23:50;Industrial Production (MoM);Japan;JPY;1
+JPY_TokyoCPIexFreshFood;20110929;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;1
+JPY_TokyoCPIexFoodEnergy;20110929;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;1
+JPY_ConsumerPriceIndex;20110929;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;1
+JPY_NationalCPIexFoodEnergy;20110929;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20110929;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_UnemploymentRate;20110929;23:30;Unemployment Rate;Japan;JPY;2
+JPY_OverallHouseholdSpending;20110929;23:30;Overall Household Spending (YoY);Japan;JPY;2
+JPY_NikkeiManufacturingPMI;20110929;23:15;Nikkei Manufacturing PMI;Japan;JPY;2
+GBP_GfKConsumerConfidence;20110929;23:01;GfK Consumer Confidence;United Kingdom;GBP;2
+KRW_IndustrialOutputGrowth;20110929;23:00;Industrial Output Growth;South Korea;KRW;1
+KRW_ServiceSectorOutput;20110929;23:00;Service Sector Output;South Korea;KRW;1
+KRW_IndustrialOutput;20110929;23:00;Industrial Output (YoY);South Korea;KRW;1
+NZD_BuildingPermits;20110929;21:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+USD_PendingHomeSales;20110929;14:00;Pending Home Sales (MoM);United States;USD;2
+CAD_RawMaterialPriceIndex;20110929;12:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20110929;12:30;Industrial Product Price (MoM);Canada;CAD;1
+USD_JoblessClaims;20110929;12:30;Continuing Jobless Claims;United States;USD;1
+USD_GrossDomesticProduct;20110929;12:30;Gross Domestic Product Annualized;United States;USD;3
+USD_CorePersonalConsumptionExpenditures;20110929;12:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+BRL_InflationIndexIGPM;20110929;11:00;Inflation Index/IGP-M;Brazil;BRL;1
+EUR_IreConsumerConfidence;20110929;11:00;Consumer Confidence;Ireland;EUR;1
+ZAR_ProducerPriceIndex;20110929;09:30;Producer Price Index (MoM);South Africa;ZAR;1
+EUR_BelConsumerPriceIndex;20110929;09:30;Consumer Price Index (MoM);Belgium;EUR;1
+EUR_PorBusinessConfidence;20110929;09:00;Business Confidence;Portugal;EUR;0
+EUR_PorConsumerConfidence;20110929;09:00;Consumer Confidence;Portugal;EUR;0
+EUR_EurConsumerConfidence;20110929;09:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurIndustrialConfidence;20110929;09:00;Industrial Confidence;European Monetary Union;EUR;2
+EUR_EurEconomicSentimentIndicator;20110929;09:00;Economic Sentiment Indicator;European Monetary Union;EUR;2
+GBP_NetLendingtoIndividuals;20110929;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;2
+GBP_ConsumerCredit;20110929;08:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20110929;08:30;Mortgage Approvals;United Kingdom;GBP;2
+GBP_M4MoneySupply;20110929;08:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+EUR_ItaPublicDeficitGDP;20110929;08:00;Public Deficit/GDP;Italy;EUR;1
+RUB_CentralBankReserves;20110929;08:00;Central Bank Reserves $;Russia;RUB;0
+CZK_ForeignDebt;20110929;08:00;Foreign Debt;Czech Republic;CZK;1
+NOK_RetailSales;20110929;08:00;Retail Sales ;Norway;NOK;1
+EUR_GerUnemploymentChange;20110929;07:55;Unemployment Change;Germany;EUR;1
+EUR_GerUnemploymentRate;20110929;07:55;Unemployment Rate s.a.;Germany;EUR;1
+SEK_RetailSales;20110929;07:30;Retail Sales (MoM);Sweden;SEK;1
+EUR_SpaHICP;20110929;07:00;HICP (YoY);Spain;EUR;1
+DKK_IndustrialOutlook;20110929;07:00;Industrial Outlook;Denmark;DKK;1
+DKK_UnemploymentRate;20110929;07:00;Unemployment Rate;Denmark;DKK;1
+HUF_ProducerPriceIndex;20110929;07:00;Producer Price Index (YoY);Hungary;HUF;1
+EUR_SpaRetailSales;20110929;07:00;Retail Sales (YoY);Spain;EUR;1
+GBP_NationwideHousingPrices;20110929;06:04;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;1
+ZAR_PrivateSectorCredit;20110929;06:00;Private Sector Credit;South Africa;ZAR;1
+ZAR_M3MoneySupply;20110929;06:00;M3 Money Supply (YoY);South Africa;ZAR;1

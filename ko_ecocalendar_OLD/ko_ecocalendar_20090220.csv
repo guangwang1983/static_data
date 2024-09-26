@@ -1,0 +1,9 @@
+USD_ConsumerPriceIndex;20090220;13:30;Consumer Price Index ex Food & Energy (YoY);United States;USD;3
+CAD_ConsumerPriceIndex;20090220;12:00;BoC Consumer Price Index Core (YoY);Canada;CAD;2
+GBP_RetailSales;20090220;09:30;Retail Sales (YoY);United Kingdom;GBP;2
+EUR_EurMarkitServicesPMI;20090220;09:00;Markit Services PMI;European Monetary Union;EUR;1
+EUR_EurMarkitManufacturingPMI;20090220;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;1
+EUR_GerMarkitManufacturingPMI;20090220;08:30;Markit Manufacturing PMI;Germany;EUR;2
+EUR_GerMarkitServicesPMI;20090220;08:30;Markit Services PMI;Germany;EUR;1
+TRY_CBRTInterestRateDecision;20090220;08:00;CBRT Interest Rate Decision;Turkey;TRY;1
+JPY_BoJMonthlyEconomicSurvey;20090220;05:00;BoJ Monthly Economic Survey;Japan;JPY;2

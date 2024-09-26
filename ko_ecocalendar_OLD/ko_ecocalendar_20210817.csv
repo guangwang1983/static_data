@@ -1,0 +1,36 @@
+JPY_Exports;20210817;23:50;Exports (YoY);Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20210817;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_MerchandiseTradeBalanceTotal;20210817;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Imports;20210817;23:50;Imports (YoY);Japan;JPY;2
+JPY_MachineryOrders;20210817;23:50;Machinery Orders (MoM);Japan;JPY;1
+NZD_ProducerPriceIndex;20210817;22:45;Producer Price Index - Input (QoQ);New Zealand;NZD;1
+NZD_REINZHousePriceIndex;20210817;21:00;REINZ House Price Index (MoM);New Zealand;NZD;2
+USD_APIWeeklyCrudeOilStock;20210817;20:30;API Weekly Crude Oil Stock;United States;USD;1
+COP_GrossDomesticProduct;20210817;16:00;Gross Domestic Product (YoY);Colombia;COP;1
+USD_BusinessInventories;20210817;14:00;Business Inventories;United States;USD;1
+USD_NAHBHousingMarketIndex;20210817;14:00;NAHB Housing Market Index;United States;USD;1
+NZD_GDTPriceIndex;20210817;14:00;GDT Price Index;New Zealand;NZD;1
+USD_IndustrialProduction;20210817;13:15;Industrial Production (MoM);United States;USD;1
+USD_CapacityUtilization;20210817;13:15;Capacity Utilization;United States;USD;1
+USD_RedbookIndex;20210817;12:55;Redbook Index (YoY);United States;USD;1
+USD_RetailSales;20210817;12:30;Retail Sales Control Group;United States;USD;3
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20210817;12:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20210817;12:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_HousingStarts;20210817;12:15;Housing Starts s.a (YoY);Canada;CAD;1
+EUR_EurGrossDomesticProduct;20210817;09:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+EUR_EurConstructionOutput;20210817;09:00;Construction Output w.d.a (YoY);European Monetary Union;EUR;1
+EUR_EurEmploymentChange;20210817;09:00;Employment Change (QoQ);European Monetary Union;EUR;1
+EUR_SpaAuction;20210817;08:40;9-Month Letras Auction;Spain;EUR;1
+EUR_NetConsumerSpendingVolume;20210817;07:30;Consumer Spending Volume;Netherlands, The;EUR;1
+EUR_NetGrossDomesticProduct;20210817;07:30;Gross Domestic Product s.a (QoQ) ;Netherlands, The;EUR;1
+HUF_GrossDomesticProduct;20210817;07:00;Gross Domestic Product (YoY);Hungary;HUF;1
+EUR_SloGrossDomesticProduct;20210817;07:00;Gross Domestic Product Prelim (YoY);Slovakia;EUR;1
+GBP_AverageEarningsExcludingBonus;20210817;06:00;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_AverageEarningsIncludingBonus;20210817;06:00;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountRate;20210817;06:00;Claimant Count Rate;United Kingdom;GBP;2
+GBP_ClaimantCountChange;20210817;06:00;Claimant Count Change;United Kingdom;GBP;3
+GBP_ILOUnemploymentRate;20210817;06:00;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+RON_GrossDomesticProduct;20210817;06:00;Gross Domestic Product;Romania;RON;1
+EUR_FinGrossDomesticProduct;20210817;05:00;Gross Domestic Product (YoY);Finland;EUR;1
+JPY_TertiaryIndustryIndex;20210817;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+AUD_RBAMeetingMinutes;20210817;01:30;RBA Meeting Minutes;Australia;AUD;3

@@ -1,0 +1,16 @@
+NZD_CentralBankSpeech;20240212;00:30;RBNZ Governor Orr speech;New Zealand;NZD;3
+TRY_UnemploymentRate;20240212;07:00;Unemployment Rate;Turkey;TRY;1
+DKK_Inflation;20240212;07:00;Inflation (HICP) (YoY);Denmark;DKK;1
+DKK_ConsumerPriceIndex;20240212;07:00;Consumer Price Index (YoY);Denmark;DKK;1
+INR_ConsumerPriceIndex;20240212;12:00;Consumer Price Index (YoY);India;INR;1
+INR_ManufacturingOutput;20240212;12:00;Manufacturing Output;India;INR;1
+INR_IndustrialOutput;20240212;12:00;Industrial Output;India;INR;1
+INR_CumulativeIndustrialOutput;20240212;12:00;Cumulative Industrial Output;India;INR;1
+RUB_ForeignTrade;20240212;13:00;Foreign Trade;Russia;RUB;1
+EUR_EurCentralBankSpeech;20240212;15:00;ECB Cipollone speech;Eurozone;EUR;2
+USD_Auction;20240212;16:30;3-Month Bill Auction;United States;USD;1
+USD_CentralBankSpeech;20240212;18:00;Fed Kashkari speech;United States;USD;2
+GBP_CentralBankSpeech;20240212;18:00;BoE Governor Bailey speech;United Kingdom;GBP;3
+USD_MonthlyBudgetStatement;20240212;19:00;Monthly Budget Statement;United States;USD;2
+AUD_WestpacConsumerConfidence;20240212;23:30;Westpac Consumer Confidence;Australia;AUD;2
+JPY_ProducerPriceIndex;20240212;23:50;Producer Price Index (YoY);Japan;JPY;1

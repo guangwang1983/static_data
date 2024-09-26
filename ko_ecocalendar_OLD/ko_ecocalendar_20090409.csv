@@ -1,0 +1,22 @@
+JPY_MoneySupplyM2+CD;20090409;23:50;Money Supply M2+CD (YoY);Japan;JPY;1
+JPY_BoJMonetaryPolicyMeetingMinutes;20090409;23:50;BoJ Monetary Policy Meeting Minutes;Japan;JPY;2
+USD_TradeBalance;20090409;12:30;Trade Balance;United States;USD;3
+USD_JoblessClaims;20090409;12:30;Initial Jobless Claims;United States;USD;1
+USD_ImportPriceIndex;20090409;12:30;Import Price Index (MoM);United States;USD;2
+CAD_DONOTINCLUDENewHousingPriceIndex;20090409;12:30;DO NOT INCLUDE - New Housing Price Index (YoY);Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20090409;12:30;International Merchandise Trade;Canada;CAD;2
+CAD_NewHousingPriceIndex;20090409;12:30;New Housing Price Index (MoM);Canada;CAD;2
+GBP_BoEInterestRateDecision;20090409;11:00;BoE Interest Rate Decision;United Kingdom;GBP;3
+CAD_UnemploymentRate;20090409;11:00;Unemployment Rate;Canada;CAD;2
+CAD_NetChangeinEmployment;20090409;11:00;Net Change in Employment;Canada;CAD;2
+EUR_GerIndustrialProduction;20090409;10:00;Industrial Production s.a. (MoM);Germany;EUR;2
+GBP_ProducerPriceIndex;20090409;08:30;Producer Price Index - Input (YoY) n.s.a;United Kingdom;GBP;2
+GBP_TradeBalancenonEU;20090409;08:30;Trade Balance non-EU;United Kingdom;GBP;2
+GBP_GoodsTradeBalance;20090409;08:30;Goods Trade Balance;United Kingdom;GBP;3
+EUR_EurECBMonthlyReport;20090409;08:00;ECB Monthly Report;European Monetary Union;EUR;2
+EUR_GerConsumerPriceIndex;20090409;06:00;Consumer Price Index (YoY);Germany;EUR;1
+JPY_MachineToolOrders;20090409;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+CHF_UnemploymentRate;20090409;05:45;Unemployment Rate s.a (MoM);Switzerland;CHF;1
+AUD_UnemploymentRate;20090409;01:30;Unemployment Rate s.a.;Australia;AUD;2
+AUD_EmploymentChange;20090409;01:30;Employment Change s.a.;Australia;AUD;2
+AUD_ConsumerInflationExpectations;20090409;01:00;Consumer Inflation Expectations;Australia;AUD;2

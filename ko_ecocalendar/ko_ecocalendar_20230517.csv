@@ -1,0 +1,39 @@
+CNY_HousePriceIndex;20230517;01:30;House Price Index ;China;CNY;1
+AUD_WagePriceIndex;20230517;01:30;Wage Price Index (QoQ);Australia;AUD;2
+JPY_IndustrialProduction;20230517;04:30;Industrial Production (YoY);Japan;JPY;2
+JPY_CapacityUtilization;20230517;04:30;Capacity Utilization;Japan;JPY;1
+EUR_FraILOUnemployment;20230517;05:30;ILO Unemployment;France;EUR;1
+CNY_FDIForeignDirectInvestment;20230517;07:50;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+EUR_ItaGlobalTradeBalance;20230517;08:00;Global Trade Balance;Italy;EUR;1
+EUR_ItaTradeBalanceEU;20230517;08:00;Trade Balance EU;Italy;EUR;1
+EUR_EurHarmonizedIndexofConsumerPrices;20230517;09:00;Harmonized Index of Consumer Prices (MoM);European Monetary Union;EUR;2
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20230517;09:00;Core Harmonized Index of Consumer Prices (MoM);European Monetary Union;EUR;2
+EUR_GerAuction;20230517;09:30;10-y Bond Auction;Germany;EUR;2
+GBP_CentralBankSpeech;20230517;09:50;BoE Governor Bailey speech;United Kingdom;GBP;3
+USD_MBAMortgageApplications;20230517;11:00;MBA Mortgage Applications;United States;USD;1
+ZAR_RetailSales;20230517;11:00;Retail Sales (YoY);South Africa;ZAR;1
+INR_M3MoneySupply;20230517;11:30;M3 Money Supply;India;INR;1
+BRL_RetailSales;20230517;12:00;Retail Sales (MoM);Brazil;BRL;1
+USD_HousingStartsChange;20230517;12:30;Housing Starts Change;United States;USD;1
+USD_HousingStarts;20230517;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20230517;12:30;Building Permits (MoM);United States;USD;2
+USD_BuildingPermitsChange;20230517;12:30;Building Permits Change;United States;USD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20230517;12:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20230517;12:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+USD_EIACrudeOilStocksChange;20230517;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+EUR_EurCentralBankSpeech;20230517;15:15;ECB De Guindos speech;European Monetary Union;EUR;2
+USD_Auction;20230517;17:00;20-Year Bond Auction;United States;USD;1
+IDR_AscensionDay;20230517;17:00;Ascension Day;Indonesia;IDR;0
+EUR_GerAscensionDay;20230517;22:00;Ascension Day;Germany;EUR;0
+SEK_AscensionDay;20230517;22:00;Ascension Day;Sweden;SEK;0
+DKK_AscensionDay;20230517;22:00;Ascension Day ;Denmark;DKK;0
+NOK_AscensionDay;20230517;22:00;Ascension Day;Norway;NOK;0
+CHF_AscensionDay;20230517;22:00;Ascension Day;Switzerland;CHF;0
+NZD_ProducerPriceIndex;20230517;22:45;Producer Price Index - Output (QoQ);New Zealand;NZD;1
+EUR_FraAscensionDay;20230517;23:00;Ascension Day ;France;EUR;0
+JPY_Exports;20230517;23:50;Exports (YoY);Japan;JPY;2
+JPY_Imports;20230517;23:50;Imports (YoY);Japan;JPY;2
+JPY_MerchandiseTradeBalanceTotal;20230517;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20230517;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20230517;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20230517;23:50;Foreign Bond Investment;Japan;JPY;1

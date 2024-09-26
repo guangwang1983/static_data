@@ -1,0 +1,27 @@
+CAD_LaborDay;20150907;00:00;Labor Day;Canada;CAD;0
+USD_LaborDay;20150907;00:00;Labor Day;United States;USD;0
+BRL_IndependenceDay;20150907;00:00;Independence Day;Brazil;BRL;0
+AUD_ANZJobAdvertisements;20150907;01:30;ANZ Job Advertisements;Australia;AUD;1
+JPY_CoincidentIndex;20150907;05:00;Coincident Index;Japan;JPY;2
+JPY_LeadingEconomicIndex;20150907;05:00;Leading Economic Index;Japan;JPY;2
+EUR_GerIndustrialProduction;20150907;06:00;Industrial Production n.s.a. w.d.a. (YoY);Germany;EUR;2
+ZAR_Gross$Gold&ForexReserve;20150907;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+ZAR_Net$Gold&ForexReserve;20150907;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+CZK_IndustrialProduction;20150907;07:00;Industrial Production (YoY);Czech Republic;CZK;1
+CHF_ForeignCurrencyReserves;20150907;07:00;Foreign Currency Reserves;Switzerland;CHF;1
+DKK_IndustrialProduction;20150907;07:00;Industrial Production (MoM);Denmark;DKK;1
+CZK_Constructionoutput;20150907;07:00;Construction output (YoY);Czech Republic;CZK;1
+CZK_ForeignTradeBalance;20150907;07:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+NOK_ManufacturingOutput;20150907;08:00;Manufacturing Output;Norway;NOK;1
+EUR_EurSentixInvestorConfidence;20150907;08:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+CLP_IMACEC;20150907;11:30;IMACEC;Chile;CLP;1
+PLN_CentralBankFXReserves;20150907;12:00;Central Bank FX Reserves;Poland;PLN;1
+CLP_TradeBalance;20150907;12:30;Trade Balance;Chile;CLP;1
+TRY_TreasuryCashBalance;20150907;14:30;Treasury Cash Balance;Turkey;TRY;1
+HUF_BudgetBalance;20150907;14:30;Budget Balance;Hungary;HUF;1
+NZD_ManufacturingSales;20150907;22:45;Manufacturing Sales;New Zealand;NZD;1
+GBP_RetailSales;20150907;23:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+JPY_BankLending;20150907;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_GrossDomesticProduct;20150907;23:50;Gross Domestic Product (QoQ);Japan;JPY;1
+JPY_TradeBalanceBOPBasis;20150907;23:50;Trade Balance - BOP Basis;Japan;JPY;1
+JPY_CurrentAccount;20150907;23:50;Current Account n.s.a.;Japan;JPY;1

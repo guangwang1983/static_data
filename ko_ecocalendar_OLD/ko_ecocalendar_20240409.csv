@@ -1,0 +1,31 @@
+AUD_WestpacConsumerConfidence;20240409;00:30;Westpac Consumer Confidence;Australia;AUD;2
+AUD_NationalAustraliaBankBusinessConditions;20240409;01:30;National Australia Bank Business Conditions;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConfidence;20240409;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+JPY_ConsumerConfidenceIndex;20240409;05:00;Consumer Confidence Index;Japan;JPY;1
+DKK_TradeBalance;20240409;06:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20240409;06:00;Current Account;Denmark;DKK;1
+RON_TradeBalance;20240409;06:00;Trade Balance;Romania;RON;1
+RON_GrossDomesticProduct;20240409;06:00;Gross Domestic Product;Romania;RON;1
+JPY_MachineToolOrders;20240409;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+EUR_FraExportsEUR;20240409;06:45;Exports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20240409;06:45;Trade Balance EUR;France;EUR;1
+EUR_FraImportsEUR;20240409;06:45;Imports, EUR;France;EUR;1
+EUR_FraCurrentAccount;20240409;06:45;Current Account;France;EUR;1
+CZK_UnemploymentRate;20240409;07:00;Unemployment Rate;Czech Republic;CZK;1
+CZK_FXReserves;20240409;08:00;FX Reserves;Czech Republic;CZK;1
+EUR_EurECBBankLendingSurvey;20240409;08:00;ECB Bank Lending Survey;Eurozone;EUR;3
+HUF_BudgetBalance;20240409;09:00;Budget Balance;Hungary;HUF;1
+EUR_GerAuction;20240409;09:30;5-y Note Auction;Germany;EUR;1
+USD_NFIBBusinessOptimismIndex;20240409;10:00;NFIB Business Optimism Index;United States;USD;1
+MXN_12MonthInflation;20240409;12:00;12-Month Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20240409;12:00;Headline Inflation;Mexico;MXN;2
+MXN_CoreInflation;20240409;12:00;Core Inflation;Mexico;MXN;1
+USD_RedbookIndex;20240409;12:55;Redbook Index (YoY);United States;USD;1
+USD_RealClearMarketsTIPPEconomicOptimism;20240409;14:00;RealClearMarkets/TIPP Economic Optimism (MoM);United States;USD;1
+USD_Auction;20240409;17:00;3-Year Note Auction;United States;USD;1
+IDR_EidAlFitr;20240409;17:00;Eid Al Fitr;Indonesia;IDR;0
+INR_IdulFitr;20240409;18:30;Idul Fitr ;India;INR;0
+USD_APIWeeklyCrudeOilStock;20240409;20:30;API Weekly Crude Oil Stock;United States;USD;1
+TRY_RamazanFeast;20240409;23:00;Ramazan Feast;Turkey;TRY;0
+JPY_BankLending;20240409;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_ProducerPriceIndex;20240409;23:50;Producer Price Index (MoM);Japan;JPY;1

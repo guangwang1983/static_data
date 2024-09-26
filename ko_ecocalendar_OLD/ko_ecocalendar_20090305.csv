@@ -1,0 +1,15 @@
+USD_FactoryOrders;20090305;15:00;Factory Orders (MoM);United States;USD;2
+CAD_IveyPurchasingManagersIndex;20090305;15:00;Ivey Purchasing Managers Index;Canada;CAD;2
+USD_JoblessClaims;20090305;13:30;Initial Jobless Claims;United States;USD;3
+USD_UnitLaborCosts;20090305;13:30;Unit Labor Costs;United States;USD;1
+USD_NonfarmProductivity;20090305;13:30;Nonfarm Productivity;United States;USD;2
+EUR_EurCentralBankSpeech;20090305;13:30;ECB President Trichet speech;European Monetary Union;EUR;2
+EUR_EurECBInterestRateDecision;20090305;12:45;ECB Interest Rate Decision;European Monetary Union;EUR;3
+INR_RBIInterestRateDecision;20090305;12:30;RBI Interest Rate Decision (Repo Rate);India;INR;1
+CAD_BuildingPermits;20090305;12:30;Building Permits (MoM);Canada;CAD;1
+GBP_BoEInterestRateDecision;20090305;12:00;BoE Interest Rate Decision;United Kingdom;GBP;3
+EUR_EurGrossDomesticProduct;20090305;10:00;Gross Domestic Product s.a. (QoQ);European Monetary Union;EUR;2
+GBP_HalifaxHousePrices;20090305;09:00;Halifax House Prices (3m/YoY);United Kingdom;GBP;1
+EUR_GerRetailSales;20090305;07:00;Retail Sales (YoY);Germany;EUR;1
+AUD_BuildingPermits;20090305;00:30;Building Permits (YoY);Australia;AUD;1
+AUD_TradeBalance;20090305;00:30;Trade Balance;Australia;AUD;2

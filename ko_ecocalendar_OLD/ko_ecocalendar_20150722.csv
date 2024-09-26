@@ -1,0 +1,31 @@
+JPY_MerchandiseTradeBalanceTotal;20150722;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Imports;20150722;23:50;Imports (YoY);Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20150722;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;2
+JPY_Exports;20150722;23:50;Exports (YoY);Japan;JPY;2
+KRW_GrossDomesticProduct;20150722;23:00;Gross Domestic Product Growth (YoY);South Korea;KRW;1
+NZD_RBNZInterestRateDecision;20150722;21:00;RBNZ Interest Rate Decision;New Zealand;NZD;3
+NZD_MonetaryPolicyStatement;20150722;21:00;Monetary Policy Statement ;New Zealand;NZD;3
+ARS_TradeBalance;20150722;19:00;Trade Balance (MoM);Argentina;ARS;1
+USD_EIACrudeOilStocksChange;20150722;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_ExistingHomeSalesChange;20150722;14:00;Existing Home Sales Change (MoM);United States;USD;1
+USD_ExistingHomeSales;20150722;14:00;Existing Home Sales (MoM);United States;USD;1
+BRL_CurrentAccount;20150722;13:30;Current Account;Brazil;BRL;1
+MXN_RetailSales;20150722;13:00;Retail Sales (YoY);Mexico;MXN;1
+USD_HousingPriceIndex;20150722;13:00;Housing Price Index (MoM);United States;USD;2
+BRL_MidmonthInflation;20150722;12:00;Mid-month Inflation;Brazil;BRL;1
+INR_M3MoneySupply;20150722;11:00;M3 Money Supply;India;INR;1
+USD_MBAMortgageApplications;20150722;11:00;MBA Mortgage Applications;United States;USD;1
+EUR_ItaRetailSales;20150722;09:00;Retail Sales s.a. (MoM);Italy;EUR;1
+GBP_BoEMPCVoteCut;20150722;08:30;BoE MPC Vote Cut;United Kingdom;GBP;3
+GBP_BoEMPCVoteUnchanged;20150722;08:30;BoE MPC Vote Unchanged;United Kingdom;GBP;3
+GBP_BankofEnglandMinutes;20150722;08:30;Bank of England Minutes;United Kingdom;GBP;2
+GBP_BoEMPCVoteHike;20150722;08:30;BoE MPC Vote Hike;United Kingdom;GBP;3
+ZAR_ConsumerPriceIndex;20150722;08:00;Consumer Price Index (YoY);South Africa;ZAR;1
+EUR_ItaIndustrialOrders;20150722;08:00;Industrial Orders n.s.a (YoY);Italy;EUR;1
+EUR_ItaIndustrialSales;20150722;08:00;Industrial Sales n.s.a. (YoY);Italy;EUR;1
+EUR_FraBusinessClimate;20150722;06:45;Business Climate;France;EUR;1
+JPY_AllIndustryActivityIndex;20150722;04:30;All Industry Activity Index (MoM);Japan;JPY;2
+AUD_CentralBankSpeech;20150722;03:05;RBA Governor Stevens speech;Australia;AUD;3
+AUD_RBATrimmedMeanCPI;20150722;01:30;RBA Trimmed Mean CPI (YoY);Australia;AUD;3
+AUD_ConsumerPriceIndex;20150722;01:30;Consumer Price Index (QoQ);Australia;AUD;3
+AUD_WestpacLeadingIndex;20150722;00:30;Westpac Leading Index (MoM);Australia;AUD;1

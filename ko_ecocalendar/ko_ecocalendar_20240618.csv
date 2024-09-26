@@ -1,0 +1,31 @@
+AUD_RBAInterestRateDecision;20240618;04:30;RBA Interest Rate Decision;Australia;AUD;3
+AUD_RBARateStatement;20240618;04:30;RBA Rate Statement;Australia;AUD;3
+AUD_RBAPressConference;20240618;05:30;RBA Press Conference;Australia;AUD;3
+EUR_EurEurogroupMeeting;20240618;07:00;Eurogroup Meeting;Eurozone;EUR;2
+CNY_FDIForeignDirectInvestment;20240618;09:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;1
+EUR_GerZEWSurvey–CurrentSituation;20240618;09:00;ZEW Survey – Current Situation;Germany;EUR;2
+EUR_GerZEWSurvey–EconomicSentiment;20240618;09:00;ZEW Survey – Economic Sentiment;Germany;EUR;2
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20240618;09:00;Core Harmonized Index of Consumer Prices (YoY);Eurozone;EUR;2
+EUR_EurHarmonizedIndexofConsumerPrices;20240618;09:00;Harmonized Index of Consumer Prices (MoM);Eurozone;EUR;2
+EUR_EurZEWSurvey–EconomicSentiment;20240618;09:00;ZEW Survey – Economic Sentiment;Eurozone;EUR;2
+MXN_PrivateSpending;20240618;12:00;Private Spending (YoY);Mexico;MXN;1
+HUF_MNBInterestRateDecision;20240618;12:00;MNB Interest Rate Decision;Hungary;HUF;1
+USD_RetailSales;20240618;12:30;Retail Sales ex Autos (MoM);United States;USD;2
+USD_RedbookIndex;20240618;12:55;Redbook Index (YoY);United States;USD;1
+USD_IndustrialProduction;20240618;13:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20240618;13:15;Capacity Utilization;United States;USD;1
+EUR_EurCentralBankSpeech;20240618;13:30;ECB De Guindos speech;Eurozone;EUR;2
+USD_BusinessInventories;20240618;14:00;Business Inventories;United States;USD;1
+NZD_GDTPriceIndex;20240618;15:00;GDT Price Index;New Zealand;NZD;1
+USD_Auction;20240618;17:00;20-Year Bond Auction;United States;USD;1
+USD_CentralBankSpeech;20240618;18:00;Fed Goolsbee speech;United States;USD;2
+USD_TotalNetTICFlows;20240618;20:00;Total Net TIC Flows;United States;USD;1
+USD_NetLongTermTICFlows;20240618;20:00;Net Long-Term TIC Flows;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20240618;20:30;API Weekly Crude Oil Stock;United States;USD;1
+CLP_BCCHInterestRate;20240618;21:00;BCCH Interest Rate;Chile;CLP;1
+NZD_CurrentAccount;20240618;22:45;Current Account (QoQ);New Zealand;NZD;1
+JPY_AdjustedMerchandiseTradeBalance;20240618;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_MerchandiseTradeBalanceTotal;20240618;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Exports;20240618;23:50;Exports (YoY);Japan;JPY;2
+JPY_Imports;20240618;23:50;Imports (YoY);Japan;JPY;2
+JPY_BoJMonetaryPolicyMeetingMinutes;20240618;23:50;BoJ Monetary Policy Meeting Minutes;Japan;JPY;2

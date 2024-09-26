@@ -1,0 +1,59 @@
+JPY_BoJSummaryofOpinions;20170928;23:50;BoJ Summary of Opinions;Japan;JPY;1
+JPY_IndustrialProduction;20170928;23:50;Industrial Production (MoM);Japan;JPY;1
+JPY_RetailTrade;20170928;23:50;Retail Trade (YoY);Japan;JPY;2
+JPY_LargeRetailers'Sales;20170928;23:50;Large Retailers' Sales;Japan;JPY;2
+JPY_TokyoCPIexFreshFood;20170928;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;1
+JPY_TokyoCPIexFoodEnergy;20170928;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;1
+JPY_ConsumerPriceIndex;20170928;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;1
+JPY_NationalCPIexFoodEnergy;20170928;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20170928;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_UnemploymentRate;20170928;23:30;Unemployment Rate;Japan;JPY;2
+JPY_JobsApplicantsRatio;20170928;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+JPY_OverallHouseholdSpending;20170928;23:30;Overall Household Spending (YoY);Japan;JPY;2
+GBP_GfKConsumerConfidence;20170928;23:01;GfK Consumer Confidence;United Kingdom;GBP;2
+KRW_CurrentAccount;20170928;23:00;Current Account Balance;South Korea;KRW;1
+KRW_IndustrialOutputGrowth;20170928;23:00;Industrial Output Growth;South Korea;KRW;1
+KRW_IndustrialOutput;20170928;23:00;Industrial Output (YoY);South Korea;KRW;1
+KRW_ServiceSectorOutput;20170928;23:00;Service Sector Output;South Korea;KRW;1
+NZD_BuildingPermits;20170928;21:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+KRW_BOKManufacturingBSI;20170928;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+ARS_IndustrialOutput;20170928;19:00;Industrial Output n.s.a (YoY);Argentina;ARS;1
+MXN_CentralBankInterestRate;20170928;18:00;Central Bank Interest Rate;Mexico;MXN;1
+USD_Auction;20170928;17:00;7-Year Note Auction;United States;USD;1
+USD_KansasFedManufacturingActivity;20170928;15:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_EIANaturalGasStorageChange;20170928;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_CentralBankSpeech;20170928;13:45;Fed George speech;United States;USD;2
+RUB_CentralBankReserves;20170928;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_JoblessClaims;20170928;12:30;Initial Jobless Claims;United States;USD;2
+USD_GrossDomesticProduct;20170928;12:30;Gross Domestic Product Annualized;United States;USD;3
+USD_WholesaleInventories;20170928;12:30;Wholesale Inventories;United States;USD;1
+USD_GoodsTradeBalance;20170928;12:30;Goods Trade Balance;United States;USD;1
+USD_CorePersonalConsumptionExpenditures;20170928;12:30;Core Personal Consumption Expenditures (QoQ);United States;USD;3
+USD_PersonalConsumptionExpendituresPrices;20170928;12:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+EUR_GerConsumerPriceIndex;20170928;12:00;Consumer Price Index (MoM);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20170928;12:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;1
+EUR_PorConsumerConfidence;20170928;11:11;Consumer Confidence;Portugal;EUR;1
+EUR_PorBusinessConfidence;20170928;11:11;Business Confidence;Portugal;EUR;1
+EUR_EurCentralBankSpeech;20170928;11:10;ECB Lautenschläger speech;European Monetary Union;EUR;2
+BRL_InflationIndexIGPM;20170928;11:00;Inflation Index/IGP-M;Brazil;BRL;1
+EUR_IreRetailSales;20170928;10:00;Retail Sales (MoM);Ireland;EUR;1
+EUR_ItaAuction;20170928;09:41;5-y Bond Auction;Italy;EUR;1
+ZAR_ProducerPriceIndex;20170928;09:30;Producer Price Index (YoY);South Africa;ZAR;1
+EUR_BelConsumerPriceIndex;20170928;09:00;Consumer Price Index (YoY);Belgium;EUR;1
+EUR_EurBusinessClimate;20170928;09:00;Business Climate;European Monetary Union;EUR;2
+EUR_EurConsumerConfidence;20170928;09:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurIndustrialConfidence;20170928;09:00;Industrial Confidence;European Monetary Union;EUR;2
+EUR_EurEconomicSentimentIndicator;20170928;09:00;Economic Sentiment Indicator;European Monetary Union;EUR;2
+EUR_EurServicesSentiment;20170928;09:00;Services Sentiment;European Monetary Union;EUR;2
+AUD_CentralBankSpeech;20170928;09:00;RBA Debelle speech;Australia;AUD;2
+GBP_CentralBankSpeech;20170928;09:00;UK Prime Minister Theresa May speech;United Kingdom;GBP;3
+EUR_AusPurchasingManagerIndex;20170928;08:00;Purchasing Manager Index;Austria;EUR;1
+SEK_RetailSales;20170928;07:30;Retail Sales (YoY);Sweden;SEK;1
+EUR_SpaHICP;20170928;07:00;HICP (YoY);Spain;EUR;1
+DKK_IndustrialOutlook;20170928;07:00;Industrial Outlook;Denmark;DKK;1
+TRY_Economicconfidenceindex;20170928;07:00;Economic confidence index;Turkey;TRY;1
+EUR_SpaRetailSales;20170928;07:00;Retail Sales (YoY);Spain;EUR;1
+JPY_CentralBankSpeech;20170928;06:35;BoJ Governor Kuroda speech;Japan;JPY;3
+EUR_GerGfkConsumerConfidenceSurvey;20170928;06:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+NOK_CreditIndicator;20170928;06:00;Credit Indicator;Norway;NOK;1
+CZK_StWenceslasDay;20170928;00:00;St Wenceslas Day ;Czech Republic;CZK;0

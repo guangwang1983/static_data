@@ -1,0 +1,32 @@
+CNY_RetailSales;20230117;02:00;Retail Sales (YoY);China;CNY;3
+CNY_IndustrialProduction;20230117;02:00;Industrial Production (YoY);China;CNY;2
+CNY_FixedAssetInvestment;20230117;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+CNY_GrossDomesticProduct;20230117;02:00;Gross Domestic Product (YoY);China;CNY;3
+KRW_MoneySupplyGrowth;20230117;03:00;Money Supply Growth;South Korea;KRW;1
+JPY_TertiaryIndustryIndex;20230117;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+EUR_EurEurogroupMeeting;20230117;07:00;Eurogroup Meeting;European Monetary Union;EUR;2
+GBP_ClaimantCountChange;20230117;07:00;Claimant Count Change;United Kingdom;GBP;3
+GBP_ClaimantCountRate;20230117;07:00;Claimant Count Rate;United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20230117;07:00;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_AverageEarningsExcludingBonus;20230117;07:00;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_AverageEarningsIncludingBonus;20230117;07:00;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+EUR_GerConsumerPriceIndex;20230117;07:00;Consumer Price Index (MoM);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20230117;07:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+GBP_RightmoveHousePriceIndex;20230117;08:00;Rightmove House Price Index (MoM);United Kingdom;GBP;1
+EUR_ItaConsumerPriceIndex;20230117;09:00;Consumer Price Index (YoY);Italy;EUR;1
+EUR_GerZEWSurvey–EconomicSentiment;20230117;10:00;ZEW Survey – Economic Sentiment;Germany;EUR;2
+EUR_EurZEWSurvey–EconomicSentiment;20230117;10:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurvey–CurrentSituation;20230117;10:00;ZEW Survey – Current Situation;Germany;EUR;2
+CAD_HousingStarts;20230117;13:15;Housing Starts s.a (YoY);Canada;CAD;1
+USD_NYEmpireStateManufacturingIndex;20230117;13:30;NY Empire State Manufacturing Index;United States;USD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20230117;13:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20230117;13:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_ConsumerPriceIndex;20230117;13:30;BoC Consumer Price Index Core (YoY);Canada;CAD;3
+NZD_GDTPriceIndex;20230117;14:00;GDT Price Index;New Zealand;NZD;1
+COP_RetailSales;20230117;15:00;Retail Sales (YoY);Colombia;COP;1
+COP_Industrialoutput;20230117;16:00;Industrial output (YoY);Colombia;COP;1
+USD_Auction;20230117;16:30;3-Month Bill Auction;United States;USD;1
+NZD_RetailSales;20230117;21:45;Electronic Card Retail Sales (YoY);New Zealand;NZD;1
+NZD_REINZHousePriceIndex;20230117;21:45;REINZ House Price Index (MoM);New Zealand;NZD;2
+CHF_WorldEconomicForumDavos;20230117;23:00;World Economic Forum - Davos;Switzerland;CHF;2
+JPY_MachineryOrders;20230117;23:50;Machinery Orders (YoY);Japan;JPY;1

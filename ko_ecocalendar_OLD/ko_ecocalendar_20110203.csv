@@ -1,0 +1,22 @@
+NZD_VisitorArrivals;20110203;21:45;Visitor Arrivals (YoY);New Zealand;NZD;1
+USD_CentralBankSpeech;20110203;18:00;Former Fed Chair Bernanke speech;United States;USD;1
+USD_ISMNonManufacturingPMI;20110203;15:00;ISM Non-Manufacturing PMI;United States;USD;0
+USD_FactoryOrders;20110203;15:00;Factory Orders (MoM);United States;USD;2
+USD_JoblessClaims;20110203;13:30;Continuing Jobless Claims;United States;USD;1
+USD_NonfarmProductivity;20110203;13:30;Nonfarm Productivity;United States;USD;1
+USD_UnitLaborCosts;20110203;13:30;Unit Labor Costs;United States;USD;1
+EUR_EurCentralBankSpeech;20110203;13:30;ECB President Trichet speech;European Monetary Union;EUR;2
+EUR_EurECBInterestRateDecision;20110203;12:45;ECB Interest Rate Decision;European Monetary Union;EUR;3
+CZK_CNBInterestRateDecision;20110203;12:00;CNB Interest Rate Decision;Czech Republic;CZK;1
+EUR_EurRetailSales;20110203;10:00;Retail Sales (MoM);European Monetary Union;EUR;1
+ZAR_ReutersEconometer;20110203;09:30;Reuters Econometer;South Africa;ZAR;0
+GBP_MarkitServicesPMI;20110203;09:28;Markit Services PMI;United Kingdom;GBP;1
+RUB_CentralBankReserves;20110203;09:13;Central Bank Reserves $;Russia;RUB;1
+EUR_EurMarkitServicesPMI;20110203;09:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_GerMarkitServicesPMI;20110203;08:53;Markit Services PMI;Germany;EUR;1
+CHF_TradeBalance;20110203;07:15;Trade Balance;Switzerland;CHF;2
+RUB_PurchasingManagerIndexServices;20110203;05:00;Purchasing Manager Index Services;Russia;RUB;2
+AUD_RBAMonetaryPolicyStatement;20110203;01:30;RBA Monetary Policy Statement;Australia;AUD;3
+AUD_InvestmentLendingforHomes;20110203;00:30;Investment Lending for Homes;Australia;AUD;1
+AUD_BuildingPermits;20110203;00:30;Building Permits (MoM);Australia;AUD;1
+AUD_TradeBalance;20110203;00:30;Trade Balance;Australia;AUD;2

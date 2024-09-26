@@ -1,0 +1,39 @@
+NZD_BusinessNZPMI;20210916;22:30;Business NZ PMI;New Zealand;NZD;2
+USD_NetLongTermTICFlows;20210916;20:00;Net Long-Term TIC Flows;United States;USD;1
+USD_TotalNetTICFlows;20210916;20:00;Total Net TIC Flows;United States;USD;1
+EGP_CBEInterestRateDecision;20210916;17:00;CBE Interest Rate Decision;Egypt;EGP;1
+USD_Auction;20210916;15:30;4-Week Bill Auction;United States;USD;1
+USD_EIANaturalGasStorageChange;20210916;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_BusinessInventories;20210916;14:00;Business Inventories;United States;USD;1
+RUB_CentralBankReserves;20210916;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_RetailSales;20210916;12:30;Retail Sales (MoM);United States;USD;3
+USD_JoblessClaims;20210916;12:30;Continuing Jobless Claims;United States;USD;1
+CAD_ADPEmploymentChange;20210916;12:30;ADP Employment Change;Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20210916;12:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20210916;12:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_WholesaleSales;20210916;12:30;Wholesale Sales (MoM);Canada;CAD;1
+USD_PhiladelphiaFedManufacturingSurvey;20210916;12:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+CAD_HousingStarts;20210916;12:15;Housing Starts s.a (YoY);Canada;CAD;1
+EUR_EurCentralBankSpeech;20210916;12:00;ECB President Lagarde speech;European Monetary Union;EUR;3
+PLN_NetInflation;20210916;12:00;Net Inflation;Poland;PLN;1
+ILS_M1MoneySupply;20210916;10:00;M1 Money Supply (MoM);Israel;ILS;1
+EUR_EurTradeBalance;20210916;09:00;Trade Balance n.s.a.;European Monetary Union;EUR;1
+EUR_GreUnemploymentRate;20210916;09:00;Unemployment Rate (QoQ);Greece;EUR;1
+EUR_SpaAuction;20210916;08:40;10-y Obligaciones Auction;Spain;EUR;1
+HKD_Unemploymentrate;20210916;08:30;Unemployment rate;Hong Kong SAR;HKD;1
+EUR_ItaGlobalTradeBalance;20210916;08:00;Global Trade Balance;Italy;EUR;1
+EUR_ItaTradeBalanceEU;20210916;08:00;Trade Balance EU;Italy;EUR;1
+EUR_ItaTradeBalancenonEU;20210916;08:00;Trade Balance non-EU;Italy;EUR;1
+CZK_ProducerPriceIndex;20210916;07:00;Producer Price Index (MoM);Czech Republic;CZK;1
+MXN_IndependenceDay;20210916;06:00;Independence Day ;Mexico;MXN;0
+GBP_FPCMeetingMinutes;20210916;06:00;FPC Meeting Minutes;United Kingdom;GBP;2
+CHF_SECOEconomicForecasts;20210916;05:45;SECO Economic Forecasts;Switzerland;CHF;1
+EUR_NetUnemploymentRate;20210916;04:30;Unemployment Rate s.a (3M);Netherlands, The;EUR;1
+AUD_UnemploymentRate;20210916;01:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_ParticipationRate;20210916;01:30;Participation Rate;Australia;AUD;1
+AUD_PartTimeEmployment;20210916;01:30;Part-Time Employment;Australia;AUD;1
+AUD_FulltimeEmployment;20210916;01:30;Fulltime Employment;Australia;AUD;2
+AUD_EmploymentChange;20210916;01:30;Employment Change s.a.;Australia;AUD;3
+AUD_RBABulletin;20210916;01:30;RBA Bulletin;Australia;AUD;1
+AUD_HIANewHomeSales;20210916;01:00;HIA New Home Sales (MoM);Australia;AUD;2
+AUD_ConsumerInflationExpectations;20210916;01:00;Consumer Inflation Expectations;Australia;AUD;2

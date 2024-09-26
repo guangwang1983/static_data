@@ -1,0 +1,34 @@
+GBP_RetailSales;20240206;00:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+AUD_RetailSales;20240206;00:30;Retail Sales (QoQ);Australia;AUD;2
+AUD_RBAMonetaryPolicyStatement;20240206;03:30;RBA Monetary Policy Statement;Australia;AUD;3
+AUD_RBARateStatement;20240206;03:30;RBA Rate Statement;Australia;AUD;3
+AUD_RBAInterestRateDecision;20240206;03:30;RBA Interest Rate Decision;Australia;AUD;3
+AUD_RBAPressConference;20240206;04:30;RBA Press Conference;Australia;AUD;3
+EUR_GerFactoryOrders;20240206;07:00;Factory Orders n.s.a. (YoY);Germany;EUR;2
+HUF_IndustrialOutput;20240206;07:30;Industrial Output (YoY);Hungary;HUF;1
+HUF_RetailSales;20240206;07:30;Retail Sales (YoY);Hungary;HUF;1
+CZK_IndustrialProduction;20240206;08:00;Industrial Production (YoY);Czech Republic;CZK;1
+CZK_Constructionoutput;20240206;08:00;Construction output (YoY);Czech Republic;CZK;1
+CZK_ForeignTradeBalance;20240206;08:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+EUR_ItaBusinessConfidence;20240206;09:00;Business Confidence;Italy;EUR;1
+EUR_ItaConsumerConfidence;20240206;09:00;Consumer Confidence;Italy;EUR;1
+GBP_S&PGlobalCIPSConstructionPMI;20240206;09:30;S&P Global/CIPS Construction PMI;United Kingdom;GBP;1
+EUR_EurRetailSales;20240206;10:00;Retail Sales (YoY);Eurozone;EUR;3
+CAD_BuildingPermits;20240206;13:30;Building Permits (MoM);Canada;CAD;1
+USD_RedbookIndex;20240206;13:55;Redbook Index (YoY);United States;USD;1
+USD_RealClearMarketsTIPPEconomicOptimism;20240206;15:00;RealClearMarkets/TIPP Economic Optimism (MoM);United States;USD;1
+CAD_IveyPurchasingManagersIndex;20240206;15:00;Ivey Purchasing Managers Index;Canada;CAD;2
+NZD_GDTPriceIndex;20240206;15:20;GDT Price Index;New Zealand;NZD;1
+USD_CentralBankSpeech;20240206;17:00;Fed Mester speech;United States;USD;2
+CAD_CentralBankSpeech;20240206;17:45;BoC Governor Macklem speech;Canada;CAD;3
+USD_Auction;20240206;18:00;3-Year Note Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20240206;21:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_UnemploymentRate;20240206;21:45;Unemployment Rate;New Zealand;NZD;3
+NZD_EmploymentChange;20240206;21:45;Employment Change;New Zealand;NZD;3
+NZD_ParticipationRate;20240206;21:45;Participation Rate;New Zealand;NZD;2
+NZD_LabourCostIndex;20240206;21:45;Labour Cost Index (QoQ);New Zealand;NZD;2
+AUD_AiGIndustryIndex;20240206;22:00;AiG Industry Index;Australia;AUD;2
+AUD_AiGManufacturingPMI;20240206;22:00;AiG Manufacturing PMI;Australia;AUD;1
+AUD_AiGConstructionPMI;20240206;22:00;AiG Construction PMI;Australia;AUD;1
+KRW_CurrentAccount;20240206;23:00;Current Account Balance;South Korea;KRW;1
+JPY_JPForeignReserves;20240206;23:50;JP Foreign Reserves;Japan;JPY;1

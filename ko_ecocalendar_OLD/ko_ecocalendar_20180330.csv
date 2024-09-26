@@ -1,0 +1,46 @@
+USD_CFTCGoldNCNetPositions;20180330;19:30;CFTC Gold NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20180330;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCUSDNCNetPositions;20180330;19:30;CFTC USD NC Net Positions;United States;USD;1
+AUD_CFTCAUDNCNetPositions;20180330;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCOilNCNetPositions;20180330;19:30;CFTC Oil NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20180330;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+GBP_CFTCGBPNCNetPositions;20180330;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+INR_BankLoanGrowth;20180330;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20180330;11:30;FX Reserves, USD;India;INR;1
+EUR_ItaConsumerPriceIndex;20180330;09:00;Consumer Price Index (YoY);Italy;EUR;1
+EUR_GreRetailSales;20180330;09:00;Retail Sales (YoY);Greece;EUR;1
+EUR_GreProducerPriceIndex;20180330;09:00;Producer Price Index (YoY);Greece;EUR;1
+TRY_TradeBalance;20180330;07:00;Trade Balance;Turkey;TRY;1
+TRY_ForeignArrivals;20180330;07:00;Foreign Arrivals;Turkey;TRY;1
+EUR_FraProducerPrices;20180330;06:45;Producer Prices (MoM);France;EUR;1
+EUR_FraConsumerPriceIndex;20180330;06:45;Consumer Price Index (EU norm) (YoY);France;EUR;2
+EUR_FraConsumerSpending;20180330;06:45;Consumer Spending (MoM);France;EUR;1
+JPY_HousingStarts;20180330;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_AnnualizedHousingStarts;20180330;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_ConstructionOrders;20180330;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_VehicleProduction;20180330;04:00;Vehicle Production (YoY);Japan;JPY;1
+EUR_GerGoodFriday;20180330;00:00;Good Friday;Germany;EUR;0
+AUD_GoodFriday;20180330;00:00;Good Friday;Australia;AUD;0
+BRL_GoodFriday;20180330;00:00;Good Friday ;Brazil;BRL;0
+EUR_SpaGoodFriday;20180330;00:00;Good Friday;Spain;EUR;0
+CHF_GoodFriday;20180330;00:00;Good Friday;Switzerland;CHF;0
+NOK_GoodFriday;20180330;00:00;Good Friday;Norway;NOK;0
+DKK_GoodFriday;20180330;00:00;Good Friday ;Denmark;DKK;0
+MXN_GoodFriday;20180330;00:00;Good Friday ;Mexico;MXN;0
+NZD_GoodFriday;20180330;00:00;Good Friday;New Zealand;NZD;0
+IDR_GoodFriday;20180330;00:00;Good Friday;Indonesia;IDR;0
+COP_Goodfriday;20180330;00:00;Good friday;Colombia;COP;0
+SEK_GoodFriday;20180330;00:00;Good Friday;Sweden;SEK;0
+ZAR_GoodFriday;20180330;00:00;Good Friday;South Africa;ZAR;0
+EUR_SloGoodFriday;20180330;00:00;Good Friday ;Slovakia;EUR;0
+EUR_FinGoodFriday;20180330;00:00;Good Friday;Finland;EUR;0
+CLP_GoodFriday;20180330;00:00;Good Friday;Chile;CLP;0
+CAD_GoodFriday;20180330;00:00;Good Friday;Canada;CAD;0
+SGD_GoodFriday;20180330;00:00;Good Friday;Singapore;SGD;0
+HKD_Goodfriday;20180330;00:00;Good friday;Hong Kong SAR;HKD;0
+EUR_NetGoodFriday;20180330;00:00;Good Friday ;Netherlands, The;EUR;0
+KRW_TradeBalance;20180330;00:00;Trade Balance;South Korea;KRW;1
+EUR_PorGoodFriday;20180330;00:00;Good Friday;Portugal;EUR;0
+ISK_GoodFriday;20180330;00:00;Good Friday ;Iceland;ISK;0
+GBP_GoodFriday;20180330;00:00;Good Friday;United Kingdom;GBP;0
+USD_GoodFriday;20180330;00:00;Good Friday;United States;USD;0

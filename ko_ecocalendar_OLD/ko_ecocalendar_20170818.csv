@@ -1,0 +1,22 @@
+JPY_CFTCJPYNCNetPositions;20170818;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+AUD_CFTCAUDNCNetPositions;20170818;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCGoldNCNetPositions;20170818;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCUSDNCNetPositions;20170818;19:30;CFTC USD NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20170818;19:30;CFTC Oil NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20170818;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+GBP_CFTCGBPNCNetPositions;20170818;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_BakerHughesUSOilRigCount;20170818;17:00;Baker Hughes US Oil Rig Count;United States;USD;2
+USD_CentralBankSpeech;20170818;14:15;Fed Kaplan speech;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20170818;14:00;Michigan Consumer Sentiment Index;United States;USD;1
+CAD_ConsumerPriceIndex;20170818;12:30;Consumer Price Index (MoM);Canada;CAD;2
+PLN_RetailSales;20170818;12:00;Retail Sales (YoY);Poland;PLN;1
+EUR_SloUnemploymentRate;20170818;12:00;Unemployment Rate;Slovakia;EUR;1
+PLN_IndustrialOutput;20170818;12:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20170818;12:00;Producer Price Index (YoY);Poland;PLN;1
+CLP_GrossDomesticProduct;20170818;11:30;Gross Domestic Product (YoY);Chile;CLP;1
+INR_BankLoanGrowth;20170818;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20170818;11:30;FX Reserves, USD;India;INR;1
+EUR_EurConstructionOutput;20170818;09:00;Construction Output  s.a (MoM);European Monetary Union;EUR;1
+EUR_EurCurrentAccount;20170818;08:00;Current Account n.s.a;European Monetary Union;EUR;1
+EUR_GerProducerPriceIndex;20170818;06:00;Producer Price Index (MoM);Germany;EUR;2
+CNY_HousePriceIndex;20170818;01:30;House Price Index ;China;CNY;1

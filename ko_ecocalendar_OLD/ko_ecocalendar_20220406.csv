@@ -1,0 +1,21 @@
+NZD_ANZCommodityPrice;20220406;01:00;ANZ Commodity Price;New Zealand;NZD;1
+CNY_CaixinServicesPMI;20220406;01:45;Caixin Services PMI;China;CNY;2
+SEK_IndustrialProductionValue;20220406;06:00;Industrial Production Value (MoM);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20220406;06:00;New Orders Manufacturing (YoY);Sweden;SEK;1
+HUF_RetailSales;20220406;07:00;Retail Sales (YoY);Hungary;HUF;1
+CZK_IndustrialProduction;20220406;07:00;Industrial Production (YoY);Czech Republic;CZK;1
+CZK_Constructionoutput;20220406;07:00;Construction output (YoY);Czech Republic;CZK;1
+CZK_ForeignTradeBalance;20220406;07:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+GBP_S&PGlobalConstructionPMI;20220406;08:30;S&P Global Construction PMI;United Kingdom;GBP;1
+EUR_EurProducerPriceIndex;20220406;09:00;Producer Price Index (MoM);European Monetary Union;EUR;1
+AUD_CentralBankSpeech;20220406;09:30;RBA Kent speech;Australia;AUD;2
+EUR_EurCentralBankSpeech;20220406;10:45;ECB Lane speech;European Monetary Union;EUR;2
+USD_MBAMortgageApplications;20220406;11:00;MBA Mortgage Applications;United States;USD;1
+PLN_NBPBaserate;20220406;12:30;NBP Base rate;Poland;PLN;1
+CAD_IveyPurchasingManagersIndex;20220406;14:00;Ivey Purchasing Managers Index;Canada;CAD;2
+USD_EIACrudeOilStocksChange;20220406;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_FOMCMinutes;20220406;18:00;FOMC Minutes;United States;USD;3
+AUD_AiGPerformanceofServicesIndex;20220406;22:30;AiG Performance of Services Index;Australia;AUD;1
+JPY_JPForeignReserves;20220406;23:50;JP Foreign Reserves;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20220406;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20220406;23:50;Foreign Bond Investment;Japan;JPY;1

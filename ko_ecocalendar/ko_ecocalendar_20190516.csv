@@ -1,0 +1,40 @@
+EUR_EurEurogroupMeeting;20190516;00:00;Eurogroup Meeting;European Monetary Union;EUR;2
+AUD_ConsumerInflationExpectations;20190516;01:00;Consumer Inflation Expectations;Australia;AUD;2
+CNY_HousePriceIndex;20190516;01:30;House Price Index ;China;CNY;1
+AUD_EmploymentChange;20190516;01:30;Employment Change s.a.;Australia;AUD;3
+AUD_PartTimeEmployment;20190516;01:30;Part-Time Employment;Australia;AUD;1
+AUD_FullTimeEmployment;20190516;01:30;Full-Time Employment;Australia;AUD;2
+AUD_ParticipationRate;20190516;01:30;Participation Rate;Australia;AUD;1
+AUD_UnemploymentRate;20190516;01:30;Unemployment Rate s.a.;Australia;AUD;3
+CNY_FDIForeignDirectInvestment;20190516;02:15;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+AUD_CentralBankSpeech;20190516;02:45;RBA Bullock speech;Australia;AUD;2
+EUR_FraILOUnemployment;20190516;06:45;ILO Unemployment;France;EUR;1
+IDR_BankIndonesiaRate;20190516;07:30;Bank Indonesia Rate;Indonesia;IDR;1
+EUR_ItaConsumerPriceIndex;20190516;08:03;Consumer Price Index (EU Norm) (YoY);Italy;EUR;1
+EUR_GerCentralBankSpeech;20190516;08:15;German Buba President Weidmann speech;Germany;EUR;2
+EUR_EurTradeBalance;20190516;09:00;Trade Balance n.s.a.;European Monetary Union;EUR;1
+EUR_ItaTradeBalanceEU;20190516;09:00;Trade Balance EU;Italy;EUR;1
+EUR_ItaGlobalTradeBalance;20190516;09:00;Global Trade Balance;Italy;EUR;1
+ILS_GrossDomesticProduct;20190516;10:00;Gross Domestic Product (QoQ);Israel;ILS;1
+PLN_NetInflation;20190516;12:00;Net Inflation;Poland;PLN;1
+USD_HousingStarts;20190516;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20190516;12:30;Building Permits (MoM);United States;USD;2
+USD_BuildingPermitsChange;20190516;12:30;Building Permits Change;United States;USD;1
+USD_HousingStartsChange;20190516;12:30;Housing Starts Change;United States;USD;1
+USD_JoblessClaims;20190516;12:30;Initial Jobless Claims 4-week average;United States;USD;2
+CAD_ManufacturingSales;20190516;12:30;Manufacturing Sales (MoM);Canada;CAD;1
+CAD_ADPEmploymentChange;20190516;12:30;ADP Employment Change;Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20190516;12:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20190516;12:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+USD_PhiladelphiaFedManufacturingSurvey;20190516;12:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+RUB_CentralBankReserves;20190516;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_EIANaturalGasStorageChange;20190516;14:30;EIA Natural Gas Storage Change;United States;USD;1
+CAD_FinancialSystemReview;20190516;14:30;Financial System Review;Canada;CAD;1
+CAD_CentralBankSpeech;20190516;15:15;BoC Governor Poloz speech;Canada;CAD;3
+USD_Auction;20190516;15:30;4-Week Bill Auction;United States;USD;1
+USD_CentralBankSpeech;20190516;16:15;Fed Brainard speech;United States;USD;2
+GBP_CentralBankSpeech;20190516;17:30;BoE Haskel speech;United Kingdom;GBP;2
+EUR_EurCentralBankSpeech;20190516;18:00;ECB Cœuré speech;European Monetary Union;EUR;2
+MXN_CentralBankInterestRate;20190516;19:00;Central Bank Interest Rate;Mexico;MXN;1
+NZD_BusinessNZPMI;20190516;22:30;Business NZ PMI;New Zealand;NZD;2
+NZD_ProducerPriceIndex;20190516;22:45;Producer Price Index - Output (QoQ);New Zealand;NZD;1

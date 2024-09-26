@@ -1,0 +1,121 @@
+#00 07 CET
+00 01 * * 1-5 source /home/svc_matterhorn/.bashrc ; cd $STATICDATAPATH ; git pull
+
+#################################################
+############### Main Portfolio ##################
+#################################################
+
+#30 07 CET
+30 01 * * 1-5 source /home/svc_matterhorn/.bashrc ; /export/home/scratch/matterhorn/productionScripts/dailyProductionSetup.py --portfolioName productionportfolio
+
+#31 07 CET
+31 01 * * 1-5 source /home/svc_matterhorn/.bashrc ; launchCronJob.py --command "/export/home/scratch/matterhorn/productionScripts/tradingMonitor.py productionportfolio ny4" --subject "Trading Monitor Error US MAIN" --sender "dailyCron@matterhorn"
+
+#41 07 CET
+41 01 * * 1-5 source /home/svc_matterhorn/.bashrc ; /export/home/scratch/matterhorn/productionScripts/tradingStartUp.sh productionportfolio MatterhornRVStaticUS ny4
+
+#45 23 CET
+45 17 * * 1-5 source /home/svc_matterhorn/.bashrc ; /export/home/scratch/matterhorn/productionScripts/EODCleanUp.sh productionportfolio
+
+#59 23 CET
+59 17 * * 1-5 rsync --remove-source-files /export/home/scratch/matterhorn/productionportfolio/*.tar.gz pxvsmtwqipm001://dat/matterhorn/production/productionlog/productionportfolio/ny4/
+
+#################################################
+############### FX Portfolio #################
+#################################################
+
+#57 07 CET
+#57 01 * * 1-5 source /home/svc_matterhorn/.bashrc ; /export/home/scratch/matterhorn/productionScripts/dailyProductionSetup.py --portfolioName productionportfolio_FX
+
+#58 07 CET
+#58 01 * * 1-5 source /home/svc_matterhorn/.bashrc ; launchCronJob.py --command "/export/home/scratch/matterhorn/productionScripts/tradingMonitor.py productionportfolio_FX ny4" --subject "Trading Monitor Error US FX" --sender "dailyCron@matterhorn"
+
+#59 07 CET
+#59 01 * * 1-5 source /home/svc_matterhorn/.bashrc ; /export/home/scratch/matterhorn/productionScripts/tradingStartUp.sh productionportfolio_FX MatterhornCURVEUS ny4
+
+#45 23 CET
+#45 17 * * 1-5 source /home/svc_matterhorn/.bashrc ; /export/home/scratch/matterhorn/productionScripts/EODCleanUp.sh productionportfolio_FX
+
+#59 23 CET
+#59 17 * * 1-5 rsync --remove-source-files /export/home/scratch/matterhorn/productionportfolio_FX/*.tar.gz pxvsmtwqipm001://dat/matterhorn/production/productionlog/productionportfolio_FX/ny4/
+
+#################################################
+############### Curve Portfolio #################
+#################################################
+
+#30 07 CET
+#30 01 * * 1-5 source /home/svc_matterhorn/.bashrc ; /export/home/scratch/matterhorn/productionScripts/dailyProductionSetup.py --portfolioName productionportfolio_CURVE
+
+#31 07 CET
+#31 01 * * 1-5 source /home/svc_matterhorn/.bashrc ; launchCronJob.py --command "/export/home/scratch/matterhorn/productionScripts/tradingMonitor.py productionportfolio_CURVE ny4" --subject "Trading Monitor Error US CURVE" --sender "dailyCron@matterhorn"
+
+#42 07 CET
+#42 01 * * 1-5 source /home/svc_matterhorn/.bashrc ; /export/home/scratch/matterhorn/productionScripts/tradingStartUp.sh productionportfolio_CURVE MatterhornCURVEUS ny4
+
+#45 23 CET
+#45 17 * * 1-5 source /home/svc_matterhorn/.bashrc ; /export/home/scratch/matterhorn/productionScripts/EODCleanUp.sh productionportfolio_CURVE
+
+#59 23 CET
+#59 17 * * 1-5 rsync --remove-source-files /export/home/scratch/matterhorn/productionportfolio_CURVE/*.tar.gz pxvsmtwqipm001://dat/matterhorn/production/productionlog/productionportfolio_CURVE/ny4/
+
+#################################################
+############### SLRL Portfolio ##################
+#################################################
+
+#30 07 CET
+30 01 * * 1-5 source /home/svc_matterhorn/.bashrc ; /export/home/scratch/matterhorn/productionScripts/dailyProductionSetup.py --portfolioName productionportfolio_SLRL
+
+#31 07 CET
+31 01 * * 1-5 source /home/svc_matterhorn/.bashrc ; launchCronJob.py --command "/export/home/scratch/matterhorn/productionScripts/tradingMonitor.py productionportfolio_SLRL ny4" --subject "Trading Monitor Error US SLRL" --sender "dailyCron@matterhorn"
+
+#32 07 CET
+32 01 * * 1-5 source /home/svc_matterhorn/.bashrc ; launchCronJob.py --command "/export/home/scratch/matterhorn/productionScripts/tradingMonitor.py productionportfolio_SLRL amr" --subject "Trading Monitor Error AMR SLRL" --sender "dailyCron@matterhorn"
+
+#43 07 CET
+43 01 * * 1-5 source /home/svc_matterhorn/.bashrc ; /export/home/scratch/matterhorn/productionScripts/tradingStartUp.sh productionportfolio_SLRL MatterhornRVDynamicUS ny4
+
+#59 11 CET
+59 05 * * 1-5 source /home/svc_matterhorn/.bashrc ; /export/home/scratch/matterhorn/productionScripts/tradingStartUp.sh productionportfolio_SLRL MatterhornRVDynamicAMR amr
+
+#45 23 CET
+45 17 * * 1-5 source /home/svc_matterhorn/.bashrc ; /export/home/scratch/matterhorn/productionScripts/EODCleanUp.sh productionportfolio_SLRL
+
+#59 23 CET
+59 17 * * 1-5 rsync --remove-source-files /export/home/scratch/matterhorn/productionportfolio_SLRL/*.tar.gz pxvsmtwqipm001://dat/matterhorn/production/productionlog/productionportfolio_SLRL/ny4/
+
+#################################################
+################ CAD Portfolio ##################
+#################################################
+
+#57 11 CET
+57 05 * * 1-5 source /home/svc_matterhorn/.bashrc ; /export/home/scratch/matterhorn/productionScripts/dailyProductionSetup.py --portfolioName productionportfolio_CAD
+
+#58 11 CET
+58 05 * * 1-5 source /home/svc_matterhorn/.bashrc ; launchCronJob.py --command "/export/home/scratch/matterhorn/productionScripts/tradingMonitor.py productionportfolio_CAD amr" --subject "Trading Monitor Error AMR CAD" --sender "dailyCron@matterhorn"
+
+#58 11 CET
+58 05 * * 1-5 source /home/svc_matterhorn/.bashrc ; launchCronJob.py --command "/export/home/scratch/matterhorn/productionScripts/tradingMonitor.py productionportfolio_CAD ny4" --subject "Trading Monitor Error US CAD" --sender "dailyCron@matterhorn"
+
+#59 11 CET
+59 05 * * 1-5 source /home/svc_matterhorn/.bashrc ; /export/home/scratch/matterhorn/productionScripts/tradingStartUp.sh productionportfolio_CAD MatterhornCADUS ny4
+
+#59 11 CET
+59 05 * * 1-5 source /home/svc_matterhorn/.bashrc ; /export/home/scratch/matterhorn/productionScripts/tradingStartUp.sh productionportfolio_CAD MatterhornCADAMR amr
+
+#45 23 CET
+45 17 * * 1-5 source /home/svc_matterhorn/.bashrc ; /export/home/scratch/matterhorn/productionScripts/EODCleanUp.sh productionportfolio_CAD
+
+#59 23 CET
+59 17 * * 1-5 rsync --remove-source-files /export/home/scratch/matterhorn/productionportfolio_CAD/*.tar.gz pxvsmtwqipm001://dat/matterhorn/production/productionlog/productionportfolio_CAD/ny4/
+
+#################################################
+
+#00 08 CET
+00 02 * * 1-5 source /home/svc_matterhorn/.bashrc ; /export/home/scratch/matterhorn/productionScripts/rsync_prodlog_ny4.sh
+
+
+#45 13 * * 1-5 source /home/svc_matterhorn/.bashrc ; /export/home/scratch/matterhorn/productionScripts/LIMLIQProduct.sh ZN
+#46 13 * * 1-5 source /home/svc_matterhorn/.bashrc ; /export/home/scratch/matterhorn/productionScripts/LIMLIQProduct.sh ZF
+#47 13 * * 1-5 source /home/svc_matterhorn/.bashrc ; /export/home/scratch/matterhorn/productionScripts/LIMLIQProduct.sh ZB
+#48 13 * * 1-5 source /home/svc_matterhorn/.bashrc ; /export/home/scratch/matterhorn/productionScripts/LIMLIQProduct.sh ES
+

@@ -1,0 +1,34 @@
+NZD_ANZCommodityPrice;20201104;00:00;ANZ Commodity Price;New Zealand;NZD;1
+AUD_RetailSales;20201104;00:30;Retail Sales (QoQ);Australia;AUD;2
+CNY_CaixinServicesPMI;20201104;01:45;Caixin Services PMI;China;CNY;2
+JPY_Auction;20201104;03:35;10-y Bond Auction;Japan;JPY;1
+EUR_EurEcoFinMeeting;20201104;07:00;EcoFin Meeting;European Monetary Union;EUR;2
+BRL_FipeIPCInflation;20201104;08:00;Fipe IPC Inflation;Brazil;BRL;1
+EUR_ItaHCOBServicesPMI;20201104;08:45;HCOB Services PMI;Italy;EUR;2
+EUR_FraHCOBServicesPMI;20201104;08:50;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20201104;08:50;HCOB Composite PMI;France;EUR;1
+EUR_GerHCOBServicesPMI;20201104;08:55;HCOB Services PMI;Germany;EUR;1
+EUR_GerHCOBCompositePMI;20201104;08:55;HCOB Composite PMI;Germany;EUR;2
+CZK_UnemploymentRate;20201104;09:00;Unemployment Rate;Czech Republic;CZK;1
+EUR_EurHCOBServicesPMI;20201104;09:00;HCOB Services PMI;European Monetary Union;EUR;1
+EUR_EurHCOBCompositePMI;20201104;09:00;HCOB Composite PMI;European Monetary Union;EUR;2
+GBP_S&PGlobalCIPSServicesPMI;20201104;09:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;1
+GBP_S&PGlobalCIPSCompositePMI;20201104;09:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;2
+EUR_EurProducerPriceIndex;20201104;10:00;Producer Price Index (YoY);European Monetary Union;EUR;1
+INR_M3MoneySupply;20201104;11:30;M3 Money Supply;India;INR;1
+BRL_IndustrialOutput;20201104;12:00;Industrial Output (YoY);Brazil;BRL;1
+USD_MBAMortgageApplications;20201104;12:00;MBA Mortgage Applications;United States;USD;1
+USD_ADPEmploymentChange;20201104;13:15;ADP Employment Change;United States;USD;3
+USD_GoodsandServicesTradeBalance;20201104;13:30;Goods and Services Trade Balance;United States;USD;2
+CAD_Exports;20201104;13:30;Exports;Canada;CAD;1
+CAD_Imports;20201104;13:30;Imports;Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20201104;13:30;International Merchandise Trade;Canada;CAD;2
+USD_S&PGlobalServicesPMI;20201104;14:45;S&P Global Services PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20201104;14:45;S&P Global Composite PMI;United States;USD;2
+EUR_EurCentralBankSpeech;20201104;15:00;ECB Schnabel speech;European Monetary Union;EUR;2
+USD_ISMServicesEmploymentIndex;20201104;15:00;ISM Services Employment Index;United States;USD;2
+USD_ISMServicesPricesPaid;20201104;15:00;ISM Services Prices Paid;United States;USD;2
+USD_ISMServicesPMI;20201104;15:00;ISM Services PMI;United States;USD;3
+USD_ISMServicesNewOrdersIndex;20201104;15:00;ISM Services New Orders Index;United States;USD;2
+USD_EIACrudeOilStocksChange;20201104;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+KRW_CurrentAccount;20201104;23:00;Current Account Balance;South Korea;KRW;1

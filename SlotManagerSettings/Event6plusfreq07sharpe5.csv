@@ -1,0 +1,7 @@
+NSHOW,50
+DWBOUND,0.7
+SW,6
+SWBOUND,0.7
+DW,6
+OBJFUNC,ko_plusfreq_sharpe5
+TFB,30

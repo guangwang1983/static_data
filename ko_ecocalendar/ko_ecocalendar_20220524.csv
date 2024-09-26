@@ -1,0 +1,37 @@
+JPY_JibunBankServicesPMI;20220524;00:30;Jibun Bank Services PMI;Japan;JPY;1
+JPY_JibunBankManufacturingPMI;20220524;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+GBP_PublicSectorNetBorrowing;20220524;06:00;Public Sector Net Borrowing;United Kingdom;GBP;1
+EUR_FraBusinessClimateinManufacturing;20220524;06:45;Business Climate in Manufacturing;France;EUR;1
+HUF_GrossWages;20220524;07:00;Gross Wages (YoY);Hungary;HUF;1
+EUR_EurEcoFinMeeting;20220524;07:00;EcoFin Meeting;European Monetary Union;EUR;2
+IDR_BankIndonesiaRate;20220524;07:00;Bank Indonesia Rate;Indonesia;IDR;1
+EUR_FraHCOBManufacturingPMIPreliminar;20220524;07:15;HCOB Manufacturing PMI;France;EUR;2
+EUR_FraHCOBServicesPMI;20220524;07:15;HCOB Services PMI;France;EUR;2
+EUR_FraHCOBCompositePMI;20220524;07:15;HCOB Composite PMI;France;EUR;2
+EUR_GerHCOBManufacturingPMIPreliminar;20220524;07:30;HCOB Manufacturing PMI;Germany;EUR;3
+EUR_GerHCOBServicesPMI;20220524;07:30;HCOB Services PMI;Germany;EUR;2
+EUR_GerHCOBCompositePMI;20220524;07:30;HCOB Composite PMI;Germany;EUR;3
+EUR_EurHCOBManufacturingPMIPreliminar;20220524;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurHCOBServicesPMI;20220524;08:00;HCOB Services PMI;European Monetary Union;EUR;2
+EUR_EurHCOBCompositePMI;20220524;08:00;HCOB Composite PMI;European Monetary Union;EUR;3
+GBP_S&PGlobalCIPSManufacturingPMIPreliminar;20220524;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSCompositePMI;20220524;08:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSServicesPMI;20220524;08:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;3
+MXN_1sthalfmonthInflation;20220524;11:00;1st half-month Inflation;Mexico;MXN;1
+MXN_1sthalfmonthCoreInflation;20220524;11:00;1st half-month Core Inflation;Mexico;MXN;1
+PLN_M3MoneySupply;20220524;12:00;M3 Money Supply (YoY);Poland;PLN;1
+BRL_MidmonthInflation;20220524;12:00;Mid-month Inflation;Brazil;BRL;1
+USD_RedbookIndex;20220524;12:55;Redbook Index (YoY);United States;USD;1
+USD_S&PGlobalManufacturingPMI;20220524;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20220524;13:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20220524;13:45;S&P Global Services PMI;United States;USD;2
+USD_NewHomeSales;20220524;14:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20220524;14:00;New Home Sales Change (MoM);United States;USD;1
+USD_RichmondFedManufacturingIndex;20220524;14:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_CentralBankSpeech;20220524;16:20;Fed Chair Powell speech;United States;USD;3
+USD_Auction;20220524;17:00;2-Year Note Auction;United States;USD;1
+EUR_EurCentralBankSpeech;20220524;18:00;ECB President Lagarde speech;European Monetary Union;EUR;3
+USD_APIWeeklyCrudeOilStock;20220524;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_BOKManufacturingBSI;20220524;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+CHF_WorldEconomicForumDavos;20220524;23:00;World Economic Forum - Davos;Switzerland;CHF;2
+AUD_CentralBankSpeech;20220524;23:45;RBA Ellis speech;Australia;AUD;2

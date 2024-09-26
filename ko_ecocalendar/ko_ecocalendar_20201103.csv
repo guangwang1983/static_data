@@ -1,0 +1,30 @@
+EUR_EurEurogroupMeeting;20201103;00:00;Eurogroup Meeting;European Monetary Union;EUR;2
+AUD_RBARateStatement;20201103;03:30;RBA Rate Statement;Australia;AUD;3
+AUD_RBAInterestRateDecision;20201103;03:30;RBA Interest Rate Decision;Australia;AUD;3
+AUD_CentralBankSpeech;20201103;05:00;RBA Governor Lowe speech;Australia;AUD;3
+TRY_ProducerPriceIndex;20201103;07:00;Producer Price Index (YoY);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20201103;07:00;Consumer Price Index (MoM);Turkey;TRY;1
+CHF_ConsumerPriceIndex;20201103;07:30;Consumer Price Index (YoY);Switzerland;CHF;2
+EUR_FraBudgetBalance;20201103;07:45;Budget Balance;France;EUR;1
+BRL_S&PGlobalManufacturingPMI;20201103;13:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+USD_PresidentialElection;20201103;13:00;Presidential Election;United States;USD;3
+USD_RedbookIndex;20201103;13:55;Redbook Index (YoY);United States;USD;1
+NZD_GDTPriceIndex;20201103;14:10;GDT Price Index;New Zealand;NZD;2
+USD_ISMNYBusinessConditionsIndex;20201103;14:45;ISM-NY Business Conditions Index;United States;USD;1
+USD_FactoryOrders;20201103;15:00;Factory Orders (MoM);United States;USD;2
+DKK_CurrencyReserves;20201103;16:00;Currency Reserves;Denmark;DKK;1
+USD_Auction;20201103;18:00;52-Week Bill Auction;United States;USD;1
+BRL_TradeBalance;20201103;19:00;Trade Balance;Brazil;BRL;1
+USD_TotalVehicleSales;20201103;20:30;Total Vehicle Sales;United States;USD;1
+RUB_DayofUnity;20201103;21:00;Day of Unity ;Russia;RUB;0
+KRW_FXReserves;20201103;21:00;FX Reserves;South Korea;KRW;1
+AUD_AiGPerformanceofConstructionIndex;20201103;21:30;AiG Performance of Construction Index;Australia;AUD;2
+USD_APIWeeklyCrudeOilStock;20201103;21:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_UnemploymentRate;20201103;21:45;Unemployment Rate;New Zealand;NZD;3
+NZD_EmploymentChange;20201103;21:45;Employment Change;New Zealand;NZD;3
+NZD_ParticipationRate;20201103;21:45;Participation Rate;New Zealand;NZD;2
+NZD_LabourCostIndex;20201103;21:45;Labour Cost Index (QoQ);New Zealand;NZD;2
+AUD_S&PGlobalCompositePMI;20201103;22:00;S&P Global Composite PMI;Australia;AUD;1
+AUD_S&PGlobalServicesPMI;20201103;22:00;S&P Global Services PMI;Australia;AUD;2
+JPY_MonetaryBase;20201103;23:50;Monetary Base (YoY);Japan;JPY;1
+JPY_BoJMonetaryPolicyMeetingMinutes;20201103;23:50;BoJ Monetary Policy Meeting Minutes;Japan;JPY;3

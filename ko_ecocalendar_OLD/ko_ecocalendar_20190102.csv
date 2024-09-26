@@ -1,0 +1,32 @@
+BRL_TradeBalance;20190102;18:00;Trade Balance;Brazil;BRL;1
+NZD_GDTPriceIndex;20190102;14:51;GDT Price Index;New Zealand;NZD;2
+USD_MarkitManufacturingPMI;20190102;14:45;Markit Manufacturing PMI;United States;USD;2
+CAD_MarkitManufacturingPMI;20190102;14:30;Markit Manufacturing PMI;Canada;CAD;2
+USD_RedbookIndex;20190102;13:55;Redbook Index (YoY);United States;USD;1
+BRL_HSBCPMIManufacturing;20190102;12:00;HSBC PMI Manufacturing;Brazil;BRL;1
+INR_M3MoneySupply;20190102;11:30;M3 Money Supply;India;INR;1
+GBP_MarkitManufacturingPMI;20190102;09:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+EUR_GreMarkitManufacturingPMI;20190102;09:00;Markit Manufacturing PMI;Greece;EUR;1
+EUR_EurMarkitManufacturingPMI;20190102;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_GerMarkitManufacturingPMI;20190102;08:55;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20190102;08:50;Markit Manufacturing PMI;France;EUR;1
+EUR_ItaMarkitManufacturingPMI;20190102;08:45;Markit Manufacturing PMI;Italy;EUR;1
+CZK_MarkitPMI;20190102;08:30;Markit PMI;Czech Republic;CZK;1
+EUR_SpaMarkitManufacturingPMI;20190102;08:15;Markit Manufacturing PMI;Spain;EUR;1
+EUR_AusUnemploymentRate;20190102;08:00;Unemployment Rate;Austria;EUR;1
+EUR_AusUnemployment;20190102;08:00;Unemployment;Austria;EUR;1
+HUF_UnemploymentRate;20190102;08:00;Unemployment Rate (3M);Hungary;HUF;1
+HUF_PurchasingManagerIndex;20190102;08:00;Purchasing Manager Index;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20190102;08:00;Purchasing Manager Index;Poland;PLN;2
+SEK_PurchasingManagersIndexManufacturing;20190102;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+TRY_Exports;20190102;07:00;Exports;Turkey;TRY;1
+EUR_IrePurchasingManagerIndexManufacturing;20190102;06:00;Purchasing Manager Index Manufacturing;Ireland;EUR;1
+AUD_RBACommodityIndexSDR;20190102;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+IDR_Inflation;20190102;04:00;Inflation (YoY);Indonesia;IDR;1
+IDR_CoreInflation;20190102;04:00;Core Inflation (YoY);Indonesia;IDR;1
+CNY_CaixinManufacturingPMI;20190102;01:45;Caixin Manufacturing PMI;China;CNY;2
+KRW_NikkeiMarkitManufacturingPMI;20190102;00:30;Nikkei Markit Manufacturing PMI;South Korea;KRW;1
+NZD_DayafterNewYearDay;20190102;00:00;Day after New Year Day ;New Zealand;NZD;0
+JPY_BankHoliday;20190102;00:00;Bank Holiday;Japan;JPY;0
+RON_DayafterNewYearDay;20190102;00:00;Day after New Year Day;Romania;RON;0
+SGD_GrossDomesticProduct;20190102;00:00;Gross Domestic Product (QoQ);Singapore;SGD;1

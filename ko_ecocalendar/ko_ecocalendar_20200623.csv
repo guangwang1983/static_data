@@ -1,0 +1,30 @@
+JPY_JibunBankManufacturingPMI;20200623;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+EUR_FraHCOBServicesPMI;20200623;07:15;HCOB Services PMI;France;EUR;2
+EUR_FraHCOBCompositePMI;20200623;07:15;HCOB Composite PMI;France;EUR;2
+EUR_FraHCOBManufacturingPMI;20200623;07:15;HCOB Manufacturing PMI;France;EUR;2
+EUR_GerHCOBCompositePMI;20200623;07:30;HCOB Composite PMI;Germany;EUR;3
+EUR_GerHCOBManufacturingPMI;20200623;07:30;HCOB Manufacturing PMI;Germany;EUR;3
+EUR_GerHCOBServicesPMI;20200623;07:30;HCOB Services PMI;Germany;EUR;2
+EUR_EurHCOBServicesPMI;20200623;08:00;HCOB Services PMI;European Monetary Union;EUR;2
+EUR_EurHCOBManufacturingPMI;20200623;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurHCOBCompositePMI;20200623;08:00;HCOB Composite PMI;European Monetary Union;EUR;3
+GBP_S&PGlobalCIPSCompositePMI;20200623;08:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSServicesPMI;20200623;08:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;3
+GBP_S&PGlobalCIPSManufacturingPMI;20200623;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+GBP_CentralBankSpeech;20200623;08:45;BoE Governor Bailey speech;United Kingdom;GBP;3
+ZAR_UnemploymentRate;20200623;09:30;Unemployment Rate (%);South Africa;ZAR;1
+ZAR_UnemploymentTotal;20200623;09:30;Unemployment Total ;South Africa;ZAR;1
+GBP_Auction;20200623;09:40;10-y Bond Auction;United Kingdom;GBP;1
+HUF_MNBInterestRateDecision;20200623;12:00;MNB Interest Rate Decision;Hungary;HUF;1
+USD_RedbookIndex;20200623;12:55;Redbook Index (YoY);United States;USD;1
+PLN_M3MoneySupply;20200623;13:00;M3 Money Supply (YoY);Poland;PLN;1
+USD_S&PGlobalManufacturingPMI;20200623;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20200623;13:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20200623;13:45;S&P Global Services PMI;United States;USD;2
+USD_NewHomeSales;20200623;14:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20200623;14:00;New Home Sales Change (MoM);United States;USD;1
+USD_RichmondFedManufacturingIndex;20200623;14:00;Richmond Fed Manufacturing Index;United States;USD;2
+USD_Auction;20200623;17:00;2-Year Note Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20200623;20:30;API Weekly Crude Oil Stock;United States;USD;1
+JPY_CorporateServicePriceIndex;20200623;23:50;Corporate Service Price Index (YoY);Japan;JPY;1
+JPY_BoJSummaryofOpinions;20200623;23:50;BoJ Summary of Opinions;Japan;JPY;1

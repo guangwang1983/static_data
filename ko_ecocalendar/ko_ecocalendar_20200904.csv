@@ -1,0 +1,31 @@
+AUD_RetailSales;20200904;01:30;Retail Sales s.a. (MoM);Australia;AUD;3
+EUR_GerFactoryOrders;20200904;06:00;Factory Orders s.a. (MoM);Germany;EUR;2
+EUR_FraBudgetBalance;20200904;06:45;Budget Balance;France;EUR;1
+HUF_IndustrialOutput;20200904;07:00;Industrial Output (YoY);Hungary;HUF;1
+CZK_RetailSales;20200904;07:00;Retail Sales (YoY);Czech Republic;CZK;1
+GBP_S&PGlobalConstructionPMI;20200904;08:30;S&P Global Construction PMI;United Kingdom;GBP;1
+GBP_CentralBankSpeech;20200904;09:30;BoE Saunders speech;United Kingdom;GBP;2
+ILS_BudgetBalanceILS;20200904;10:00;Budget Balance - ILS;Israel;ILS;1
+MXN_ConsumerConfidence;20200904;11:00;Consumer Confidence;Mexico;MXN;1
+INR_FXReservesUSD;20200904;11:30;FX Reserves, USD;India;INR;1
+RUB_ConsumerPriceIndex;20200904;12:00;Consumer Price Index (MoM);Russia;RUB;1
+USD_LaborForceParticipationRate;20200904;12:30;Labor Force Participation Rate;United States;USD;2
+USD_AverageHourlyEarnings;20200904;12:30;Average Hourly Earnings (MoM);United States;USD;2
+USD_U6UnderemploymentRate;20200904;12:30;U6 Underemployment Rate;United States;USD;2
+USD_UnemploymentRate;20200904;12:30;Unemployment Rate;United States;USD;2
+USD_AverageWeeklyHours;20200904;12:30;Average Weekly Hours;United States;USD;1
+USD_NonfarmPayrolls;20200904;12:30;Nonfarm Payrolls;United States;USD;3
+CAD_UnemploymentRate;20200904;12:30;Unemployment Rate;Canada;CAD;3
+CAD_ParticipationRate;20200904;12:30;Participation Rate;Canada;CAD;2
+CAD_AverageHourlyWages;20200904;12:30;Average Hourly Wages (YoY);Canada;CAD;2
+CAD_NetChangeinEmployment;20200904;12:30;Net Change in Employment;Canada;CAD;3
+CAD_IveyPurchasingManagersIndex;20200904;14:00;Ivey Purchasing Managers Index s.a;Canada;CAD;2
+EUR_EurCentralBankSpeech;20200904;15:00;ECB Lane speech;European Monetary Union;EUR;2
+USD_BakerHughesUSOilRigCount;20200904;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20200904;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20200904;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCOilNCNetPositions;20200904;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20200904;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20200904;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20200904;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20200904;19:30;CFTC JPY NC Net Positions;Japan;JPY;1

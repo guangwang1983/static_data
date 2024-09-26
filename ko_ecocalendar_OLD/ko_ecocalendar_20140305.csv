@@ -1,0 +1,39 @@
+JPY_ForeignInvestmentinJapanStocks;20140305;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20140305;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_MarkitServicesPMI;20140305;23:15;Markit Services PMI;Japan;JPY;1
+USD_FedBeigeBook;20140305;19:00;Fed Beige Book;United States;USD;2
+USD_EIACrudeOilStocksChange;20140305;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_ISMNonManufacturingPMI;20140305;15:00;ISM Non-Manufacturing PMI;United States;USD;3
+CAD_BoCInterestRateDecision;20140305;15:00;BoC Interest Rate Decision;Canada;CAD;3
+CAD_BoCRateStatement;20140305;15:00;BoC Rate Statement;Canada;CAD;3
+MXN_ConsumerConfidence;20140305;14:00;Consumer Confidence;Mexico;MXN;1
+USD_MarkitServicesPMI;20140305;13:58;Markit Services PMI;United States;USD;2
+USD_ADPEmploymentChange;20140305;13:15;ADP Employment Change;United States;USD;2
+USD_MBAMortgageApplications;20140305;12:00;MBA Mortgage Applications;United States;USD;2
+PLN_NBPBaserate;20140305;11:45;NBP Base rate;Poland;PLN;1
+CLP_IMACEC;20140305;11:30;IMACEC;Chile;CLP;1
+INR_TradeDeficitRBI;20140305;11:30;Trade Deficit - RBI;India;INR;1
+INR_BalancePayment;20140305;11:30;Balance Payment $;India;INR;1
+INR_CurrentAccount;20140305;11:30;Current Account Balance $;India;INR;1
+EUR_EurGrossDomesticProduct;20140305;10:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+EUR_EurRetailSales;20140305;10:00;Retail Sales (YoY);European Monetary Union;EUR;2
+GBP_MarkitServicesPMI;20140305;09:28;Markit Services PMI;United Kingdom;GBP;2
+NOK_CurrentAccount;20140305;09:00;Current Account;Norway;NOK;1
+EUR_EurMarkitPMIComposite;20140305;08:58;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20140305;08:58;Markit Services PMI;European Monetary Union;EUR;2
+EUR_GerMarkitServicesPMI;20140305;08:53;Markit Services PMI;Germany;EUR;2
+EUR_FraMarkitServicesPMI;20140305;08:48;Markit Services PMI;France;EUR;2
+EUR_ItaMarkitServicesPMI;20140305;08:43;Markit Services PMI;Italy;EUR;2
+INR_M3MoneySupply;20140305;08:30;M3 Money Supply;India;INR;1
+SEK_IndustrialProduction;20140305;08:30;Industrial Production (YoY);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20140305;08:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+EUR_SpaMarkitServicesPMI;20140305;08:13;Markit Services PMI;Spain;EUR;1
+HUF_RetailSales;20140305;08:00;Retail Sales (YoY);Hungary;HUF;1
+EUR_SloGrossDomesticProduct;20140305;08:00;Gross Domestic Product Qtr Final (YoY);Slovakia;EUR;1
+EUR_IrePurchasingManagerIndexServices;20140305;05:58;Purchasing Manager Index Services;Ireland;EUR;1
+RUB_PurchasingManagerIndexServices;20140305;05:00;Purchasing Manager Index Services;Russia;RUB;1
+HKD_NikkeiManufacturingPMI;20140305;02:30;Nikkei Manufacturing PMI;Hong Kong SAR;HKD;1
+CNY_CaixinServicesPMI;20140305;01:45;Caixin Services PMI;China;CNY;2
+AUD_GrossDomesticProduct;20140305;00:30;Gross Domestic Product (YoY);Australia;AUD;3
+GBP_BRCShopPriceIndex;20140305;00:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1
+BRL_AshWednesday;20140305;00:00;Ash Wednesday;Brazil;BRL;0

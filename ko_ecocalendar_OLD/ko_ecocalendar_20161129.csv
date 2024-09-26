@@ -1,0 +1,50 @@
+JPY_IndustrialProduction;20161129;23:50;Industrial Production (MoM);Japan;JPY;2
+KRW_IndustrialOutputGrowth;20161129;23:00;Industrial Output Growth;South Korea;KRW;1
+KRW_IndustrialOutput;20161129;23:00;Industrial Output (YoY);South Korea;KRW;1
+KRW_ServiceSectorOutput;20161129;23:00;Service Sector Output;South Korea;KRW;1
+USD_APIWeeklyCrudeOilStock;20161129;21:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_RBNZFinancialStabilityReport;20161129;20:00;RBNZ Financial Stability Report;New Zealand;NZD;2
+USD_CentralBankSpeech;20161129;17:40;FOMC Member Powell speech (don't use);United States;USD;1
+USD_Auction;20161129;16:30;4-Week Bill Auction;United States;USD;1
+USD_ConsumerConfidence;20161129;15:00;Consumer Confidence;United States;USD;2
+USD_S&PCaseShillerHomePriceIndices;20161129;14:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;2
+USD_RedbookIndex;20161129;13:55;Redbook Index (MoM);United States;USD;1
+CAD_CurrentAccount;20161129;13:30;Current Account;Canada;CAD;2
+USD_GrossDomesticProduct;20161129;13:30;Gross Domestic Product Annualized;United States;USD;3
+USD_CorePersonalConsumptionExpenditures;20161129;13:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+USD_PersonalConsumptionExpendituresPrices;20161129;13:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+EUR_ItaAuction;20161129;13:01;5-y Bond Auction;Italy;EUR;1
+EUR_GerConsumerPriceIndex;20161129;13:00;Consumer Price Index (MoM);Germany;EUR;2
+EUR_GerHarmonizedIndexofConsumerPrices;20161129;13:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;2
+CLP_IndustrialProduction;20161129;12:00;Industrial Production (YoY);Chile;CLP;1
+BRL_UnemploymentRate;20161129;11:00;Unemployment Rate;Brazil;BRL;1
+EUR_BelConsumerPriceIndex;20161129;10:30;Consumer Price Index (YoY);Belgium;EUR;1
+EUR_EurConsumerConfidence;20161129;10:00;Consumer Confidence;European Monetary Union;EUR;1
+EUR_EurServicesSentiment;20161129;10:00;Services Sentiment;European Monetary Union;EUR;1
+EUR_EurIndustrialConfidence;20161129;10:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_EurEconomicSentimentIndicator;20161129;10:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+EUR_EurBusinessClimate;20161129;10:00;Business Climate;European Monetary Union;EUR;1
+BRL_InflationIndexIGPM;20161129;10:00;Inflation Index/IGP-M;Brazil;BRL;1
+EUR_GreGrossDomesticProduct;20161129;10:00;Gross Domestic Product s.a (YoY);Greece;EUR;1
+EUR_PorBusinessConfidence;20161129;09:39;Business Confidence;Portugal;EUR;1
+EUR_PorConsumerConfidence;20161129;09:39;Consumer Confidence;Portugal;EUR;1
+GBP_NetLendingtoIndividuals;20161129;09:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20161129;09:30;Consumer Credit;United Kingdom;GBP;2
+GBP_MortgageApprovals;20161129;09:30;Mortgage Approvals;United Kingdom;GBP;2
+GBP_M4MoneySupply;20161129;09:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+TRY_ForeignArrivals;20161129;09:00;Foreign Arrivals;Turkey;TRY;1
+EUR_AusPurchasingManagerIndex;20161129;09:00;Purchasing Manager Index;Austria;EUR;1
+SEK_GrossDomesticProduct;20161129;08:30;Gross Domestic Product (YoY);Sweden;SEK;1
+CHF_EmploymentLevel;20161129;08:15;Employment Level (QoQ);Switzerland;CHF;1
+EUR_SpaHICP;20161129;08:00;HICP (YoY);Spain;EUR;1
+DKK_IndustrialOutlook;20161129;08:00;Industrial Outlook;Denmark;DKK;1
+HUF_UnemploymentRate;20161129;08:00;Unemployment Rate (3M);Hungary;HUF;1
+EUR_AusGrossDomesticProduct;20161129;08:00;Gross Domestic Product (QoQ);Austria;EUR;1
+EUR_FraGrossDomesticProduct;20161129;07:45;Gross Domestic Product (YoY);France;EUR;2
+EUR_FraConsumerSpending;20161129;07:45;Consumer Spending (MoM);France;EUR;1
+EUR_GerImportPriceIndex;20161129;07:00;Import Price Index (MoM);Germany;EUR;1
+ZAR_M3MoneySupply;20161129;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+ZAR_PrivateSectorCredit;20161129;06:00;Private Sector Credit;South Africa;ZAR;1
+EUR_NetBusinessConfidence;20161129;05:30;Business Confidence;Netherlands, The;EUR;1
+CAD_CentralBankSpeech;20161129;01:00;BoC Governor Poloz speech;Canada;CAD;2
+AUD_HIANewHomeSales;20161129;00:00;HIA New Home Sales (MoM);Australia;AUD;2

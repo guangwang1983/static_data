@@ -1,0 +1,27 @@
+JPY_MonetaryBase;20100301;23:50;Monetary Base (YoY);Japan;JPY;1
+JPY_UnemploymentRate;20100301;23:30;Unemployment Rate;Japan;JPY;2
+JPY_OverallHouseholdSpending;20100301;23:30;Overall Household Spending (YoY);Japan;JPY;2
+USD_ISMManufacturingPMI;20100301;15:00;ISM Manufacturing PMI;United States;USD;2
+USD_ISMPricesPaid;20100301;15:00;ISM Prices Paid;United States;USD;1
+USD_ConstructionSpending;20100301;15:00;Construction Spending (MoM);United States;USD;1
+USD_PersonalConsumptionExpendituresPriceIndex;20100301;13:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;1
+USD_CorePersonalConsumptionExpenditurePriceIndex;20100301;13:30;Core Personal Consumption Expenditure - Price Index (YoY);United States;USD;2
+USD_PersonalIncome;20100301;13:30;Personal Income (MoM);United States;USD;1
+CAD_RawMaterialPriceIndex;20100301;13:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20100301;13:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_GrossDomesticProduct;20100301;13:30;Gross Domestic Product Annualized (QoQ);Canada;CAD;3
+EUR_EurUnemploymentRate;20100301;10:00;Unemployment Rate;European Monetary Union;EUR;2
+GBP_NetLendingtoIndividuals;20100301;09:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_MarkitManufacturingPMI;20100301;09:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+GBP_MortgageApprovals;20100301;09:30;Mortgage Approvals;United Kingdom;GBP;2
+GBP_M4MoneySupply;20100301;09:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+EUR_EurMarkitManufacturingPMI;20100301;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_GerMarkitManufacturingPMI;20100301;08:55;Markit Manufacturing PMI;Germany;EUR;2
+CHF_SVMEPurchasingManagers'Index;20100301;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+AUD_RBACommodityIndexSDR;20100301;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+CNY_CaixinManufacturingPMI;20100301;02:30;Caixin Manufacturing PMI;China;CNY;0
+NZD_ANZCommodityPrice;20100301;02:00;ANZ Commodity Price;New Zealand;NZD;1
+AUD_HIANewHomeSales;20100301;01:00;HIA New Home Sales (MoM);Australia;AUD;1
+CNY_NBSManufacturingPMI;20100301;01:00;NBS Manufacturing PMI;China;CNY;1
+AUD_CurrentAccount;20100301;00:30;Current Account Balance;Australia;AUD;1
+AUD_CompanyGrossOperatingProfits;20100301;00:30;Company Gross Operating Profits (QoQ);Australia;AUD;2

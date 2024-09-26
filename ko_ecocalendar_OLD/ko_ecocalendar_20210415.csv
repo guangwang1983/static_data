@@ -1,0 +1,48 @@
+NZD_BusinessNZPMI;20210415;22:30;Business NZ PMI;New Zealand;NZD;2
+NZD_REINZHousePriceIndex;20210415;21:00;REINZ House Price Index (MoM);New Zealand;NZD;2
+USD_TotalNetTICFlows;20210415;20:00;Total Net TIC Flows;United States;USD;1
+USD_NetLongTermTICFlows;20210415;20:00;Net Long-Term TIC Flows;United States;USD;1
+ARS_ConsumerPriceIndex;20210415;19:00;Consumer Price Index (MoM);Argentina;ARS;1
+USD_Auction;20210415;15:30;4-Week Bill Auction;United States;USD;1
+COP_RetailSales;20210415;15:00;Retail Sales (YoY);Colombia;COP;1
+COP_Industrialoutput;20210415;15:00;Industrial output (YoY);Colombia;COP;1
+USD_EIANaturalGasStorageChange;20210415;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_BusinessInventories;20210415;14:00;Business Inventories;United States;USD;1
+USD_NAHBHousingMarketIndex;20210415;14:00;NAHB Housing Market Index;United States;USD;1
+CHF_CentralBankSpeech;20210415;14:00;SNB Maechler speech;Switzerland;CHF;2
+USD_CapacityUtilization;20210415;13:15;Capacity Utilization;United States;USD;1
+USD_IndustrialProduction;20210415;13:15;Industrial Production (MoM);United States;USD;1
+RUB_CentralBankReserves;20210415;13:00;Central Bank Reserves $;Russia;RUB;1
+RUB_IndustrialOutput;20210415;13:00;Industrial Output;Russia;RUB;1
+USD_NYEmpireStateManufacturingIndex;20210415;12:30;NY Empire State Manufacturing Index;United States;USD;1
+USD_RetailSales;20210415;12:30;Retail Sales ex Autos (MoM);United States;USD;2
+USD_JoblessClaims;20210415;12:30;Initial Jobless Claims;United States;USD;2
+CAD_ManufacturingSales;20210415;12:30;Manufacturing Sales (MoM);Canada;CAD;1
+CAD_ADPEmploymentChange;20210415;12:30;ADP Employment Change;Canada;CAD;1
+USD_PhiladelphiaFedManufacturingSurvey;20210415;12:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+INR_TradeDeficitGovernment;20210415;11:30;Trade Deficit Government;India;INR;1
+TRY_CBRTInterestRateDecision;20210415;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+EUR_GreUnemploymentRate;20210415;09:00;Unemployment Rate (MoM);Greece;EUR;1
+GBP_BoECreditConditionsSurvey;20210415;08:30;BoE Credit Conditions Survey;United Kingdom;GBP;1
+PLN_ConsumerPriceIndex;20210415;08:00;Consumer Price Index (YoY);Poland;PLN;1
+TRY_BudgetBalance;20210415;08:00;Budget Balance;Turkey;TRY;1
+EUR_ItaConsumerPriceIndex;20210415;08:00;Consumer Price Index (YoY);Italy;EUR;1
+EUR_FraConsumerPriceIndex;20210415;06:45;Consumer Price Index (EU norm) (YoY);France;EUR;1
+EUR_FraInflationextobacco;20210415;06:45;Inflation ex-tobacco (MoM);France;EUR;1
+NOK_TradeBalance;20210415;06:00;Trade Balance;Norway;NOK;1
+EUR_GerConsumerPriceIndex;20210415;06:00;Consumer Price Index (MoM);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20210415;06:00;Harmonized Index of Consumer Prices (MoM);Germany;EUR;1
+EUR_FinGrossDomesticProduct;20210415;05:00;Gross Domestic Product (YoY);Finland;EUR;1
+IDR_TradeBalance;20210415;04:00;Trade Balance;Indonesia;IDR;1
+IDR_Exports;20210415;04:00;Exports;Indonesia;IDR;1
+IDR_Imports;20210415;04:00;Imports;Indonesia;IDR;1
+AUD_HIANewHomeSales;20210415;03:00;HIA New Home Sales (MoM);Australia;AUD;2
+KRW_TradeBalance;20210415;02:00;Trade Balance;South Korea;KRW;1
+AUD_FulltimeEmployment;20210415;01:30;Fulltime Employment;Australia;AUD;2
+AUD_PartTimeEmployment;20210415;01:30;Part-Time Employment;Australia;AUD;1
+AUD_EmploymentChange;20210415;01:30;Employment Change s.a.;Australia;AUD;3
+AUD_ParticipationRate;20210415;01:30;Participation Rate;Australia;AUD;1
+AUD_UnemploymentRate;20210415;01:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_ConsumerInflationExpectations;20210415;01:00;Consumer Inflation Expectations;Australia;AUD;2
+KRW_BoKInterestRateDecision;20210415;01:00;BoK Interest Rate Decision;South Korea;KRW;1
+JPY_CentralBankSpeech;20210415;01:00;BoJ Governor Kuroda speech;Japan;JPY;3

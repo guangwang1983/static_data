@@ -1,0 +1,39 @@
+JPY_DomesticCorporateGoodsPriceIndex;20130212;23:50;Domestic Corporate Goods Price Index (YoY);Japan;JPY;1
+JPY_TertiaryIndustryIndex;20130212;23:50;Tertiary Industry Index (MoM);Japan;JPY;2
+AUD_WestpacConsumerConfidence;20130212;23:30;Westpac Consumer Confidence;Australia;AUD;2
+KRW_UnemploymentRate;20130212;23:00;Unemployment Rate;South Korea;KRW;1
+KRW_ExportPriceGrowth;20130212;21:00;Export Price Growth (YoY);South Korea;KRW;1
+USD_MonthlyBudgetStatement;20130212;19:00;Monthly Budget Statement;United States;USD;2
+USD_Auction;20130212;18:00;3-Year Note Auction;United States;USD;1
+USD_CentralBankSpeech;20130212;16:30;Fed George speech;United States;USD;1
+EUR_EurRajoyDraghiMeeting;20130212;15:30;Rajoy - Draghi Meeting;European Monetary Union;EUR;2
+EUR_EurCentralBankSpeech;20130212;14:30;ECB President Draghi speech;European Monetary Union;EUR;3
+USD_RedbookIndex;20130212;13:55;Redbook Index (YoY);United States;USD;1
+CAD_CentralBankSpeech;20130212;13:45;BoC Governor Carney speech;Canada;CAD;2
+PLN_CurrentAccount;20130212;13:00;Current Account;Poland;PLN;1
+USD_NFIBBusinessOptimismIndex;20130212;12:30;NFIB Business Optimism Index;United States;USD;1
+EUR_PorConsumerPriceIndex;20130212;11:00;Consumer Price Index (YoY);Portugal;EUR;1
+CHF_CentralBankSpeech;20130212;10:00;SNB Chairman Jordan speech;Switzerland;CHF;2
+EUR_SpaAuction;20130212;09:53;6-Month Letras Auction;Spain;EUR;1
+GBP_RetailPriceIndex;20130212;09:30;Retail Price Index (MoM);United Kingdom;GBP;1
+GBP_DCLGHousePriceIndex;20130212;09:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ProducerPriceIndex;20130212;09:30;Producer Price Index - Output (YoY) n.s.a;United Kingdom;GBP;2
+GBP_PPICoreOutput;20130212;09:30;PPI Core Output (MoM) n.s.a;United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20130212;09:30;Core Consumer Price Index (YoY);United Kingdom;GBP;3
+CZK_CurrentAccount;20130212;09:00;Current Account (MoM);Czech Republic;CZK;1
+CHF_ConsumerPriceIndex;20130212;08:15;Consumer Price Index (YoY);Switzerland;CHF;2
+RON_ConsumerPriceIndex;20130212;08:00;Consumer Price Index;Romania;RON;1
+EUR_FraCurrentAccount;20130212;07:45;Current Account;France;EUR;1
+JPY_MachineToolOrders;20130212;06:00;Machine Tool Orders (YoY);Japan;JPY;2
+INR_ManufacturingOutput;20130212;05:30;Manufacturing Output;India;INR;1
+INR_IndustrialOutput;20130212;05:30;Industrial Output;India;INR;1
+INR_CumulativeIndustrialOutput;20130212;05:30;Cumulative Industrial Output;India;INR;1
+JPY_ConsumerConfidenceIndex;20130212;05:00;Consumer Confidence Index;Japan;JPY;2
+IDR_BankIndonesiaRate;20130212;04:00;Bank Indonesia Rate;Indonesia;IDR;1
+AUD_NationalAustraliaBankBusinessConfidence;20130212;00:30;National Australia Bank Business Confidence;Australia;AUD;2
+AUD_NationalAustraliaBankBusinessConditions;20130212;00:30;National Australia Bank Business Conditions;Australia;AUD;1
+GBP_RICSHousingPriceBalance;20130212;00:01;RICS Housing Price Balance;United Kingdom;GBP;2
+HKD_LunarNewYear;20130212;00:00;Lunar New Year;Hong Kong SAR;HKD;0
+BRL_Carnival;20130212;00:00;Carnival;Brazil;BRL;0
+CNY_ChineseNewYear;20130212;00:00;Chinese New Year;China;CNY;0
+EUR_EurEcoFinMeeting;20130212;00:00;EcoFin Meeting;European Monetary Union;EUR;2

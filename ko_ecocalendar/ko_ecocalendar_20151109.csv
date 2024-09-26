@@ -1,0 +1,29 @@
+AUD_ANZJobAdvertisements;20151109;00:30;ANZ Job Advertisements;Australia;AUD;1
+JPY_LaborCashEarnings;20151109;01:30;Labor Cash Earnings (YoY);Japan;JPY;1
+CZK_UnemploymentRate;20151109;07:00;Unemployment Rate;Czech Republic;CZK;1
+RON_TradeBalance;20151109;07:00;Trade Balance;Romania;RON;1
+EUR_GerTradeBalance;20151109;07:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerExports;20151109;07:00;Exports (MoM);Germany;EUR;2
+EUR_GerImports;20151109;07:00;Imports (MoM);Germany;EUR;2
+EUR_GerCurrentAccount;20151109;07:00;Current Account n.s.a.;Germany;EUR;2
+CZK_ConsumerPriceIndex;20151109;08:00;Consumer Price Index (MoM);Czech Republic;CZK;2
+TRY_IndustrialProduction;20151109;08:00;Industrial Production (YoY);Turkey;TRY;1
+DKK_TradeBalance;20151109;08:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20151109;08:00;Current Account;Denmark;DKK;1
+HUF_TradeBalance;20151109;08:00;Trade Balance;Hungary;HUF;1
+EUR_EurSentixInvestorConfidence;20151109;09:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+EUR_EurOECDEconomicOutlook;20151109;10:30;OECD Economic Outlook;European Monetary Union;EUR;1
+CLP_TradeBalance;20151109;11:30;Trade Balance;Chile;CLP;1
+MXN_12MonthInflation;20151109;13:00;12-Month Inflation;Mexico;MXN;1
+MXN_CoreInflation;20151109;13:00;Core Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20151109;13:00;Headline Inflation;Mexico;MXN;1
+CAD_HousingStarts;20151109;13:15;Housing Starts s.a (YoY);Canada;CAD;2
+USD_LaborMarketConditionsIndex;20151109;15:00;Labor Market Conditions Index;United States;USD;2
+USD_CentralBankSpeech;20151109;17:00;Fed Rosengren speech;United States;USD;1
+USD_Auction;20151109;18:00;3-Year Note Auction;United States;USD;1
+KRW_ExportPriceGrowth;20151109;21:00;Export Price Growth (YoY);South Korea;KRW;1
+KRW_ImportPriceGrowth;20151109;21:00;Import Price Growth (YoY);South Korea;KRW;1
+NZD_RetailSales;20151109;21:45;Electronic Card Retail Sales (YoY);New Zealand;NZD;2
+JPY_BankLending;20151109;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_CurrentAccount;20151109;23:50;Current Account n.s.a.;Japan;JPY;1
+JPY_TradeBalanceBOPBasis;20151109;23:50;Trade Balance - BOP Basis;Japan;JPY;1

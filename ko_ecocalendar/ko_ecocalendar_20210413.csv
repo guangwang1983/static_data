@@ -1,0 +1,37 @@
+AUD_NationalAustraliaBankBusinessConfidence;20210413;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20210413;01:30;National Australia Bank Business Conditions;Australia;AUD;1
+CNY_Imports;20210413;03:00;Imports (YoY);China;CNY;2
+CNY_TradeBalanceCNY;20210413;03:00;Trade Balance CNY;China;CNY;1
+CNY_Exports;20210413;03:00;Exports (YoY) CNY;China;CNY;1
+CNY_TradeBalanceUSD;20210413;03:00;Trade Balance USD;China;CNY;2
+KRW_MoneySupplyGrowth;20210413;03:00;Money Supply Growth;South Korea;KRW;1
+RON_IndustrialProduction;20210413;06:00;Industrial Production (MoM);Romania;RON;1
+GBP_ManufacturingProduction;20210413;06:00;Manufacturing Production (MoM);United Kingdom;GBP;2
+GBP_IndustrialProduction;20210413;06:00;Industrial Production (YoY);United Kingdom;GBP;1
+EUR_GerWholesalePriceIndex;20210413;06:00;Wholesale Price Index (MoM);Germany;EUR;1
+RON_ConsumerPriceIndex;20210413;06:00;Consumer Price Index;Romania;RON;1
+GBP_IndexofServices;20210413;06:00;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20210413;06:00;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20210413;06:00;Total Trade Balance;United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20210413;06:00;Goods Trade Balance;United Kingdom;GBP;1
+GBP_GrossDomesticProduct;20210413;06:00;Gross Domestic Product (MoM);United Kingdom;GBP;2
+CZK_ConsumerPriceIndex;20210413;07:00;Consumer Price Index (MoM);Czech Republic;CZK;1
+TRY_IndustrialProduction;20210413;07:00;Industrial Production (YoY);Turkey;TRY;1
+EUR_ItaIndustrialOutput;20210413;08:00;Industrial Output w.d.a (YoY);Italy;EUR;1
+CZK_CurrentAccount;20210413;08:00;Current Account (MoM);Czech Republic;CZK;1
+EUR_GerZEWSurvey–EconomicSentiment;20210413;09:00;ZEW Survey – Economic Sentiment;Germany;EUR;2
+EUR_EurZEWSurvey–EconomicSentiment;20210413;09:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurvey–CurrentSituation;20210413;09:00;ZEW Survey – Current Situation;Germany;EUR;2
+USD_NFIBBusinessOptimismIndex;20210413;10:00;NFIB Business Optimism Index;United States;USD;1
+GBP_NIESRGDPEstimate;20210413;11:00;NIESR GDP Estimate (3M);United Kingdom;GBP;2
+PLN_CurrentAccount;20210413;12:00;Current Account;Poland;PLN;1
+BRL_RetailSales;20210413;12:00;Retail Sales (MoM);Brazil;BRL;1
+USD_ConsumerPriceIndex;20210413;12:30;Consumer Price Index (MoM);United States;USD;2
+USD_RedbookIndex;20210413;12:55;Redbook Index (YoY);United States;USD;1
+USD_Auction;20210413;17:00;30-Year Bond Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20210413;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_ExportPriceGrowth;20210413;21:00;Export Price Growth (YoY);South Korea;KRW;1
+KRW_ImportPriceGrowth;20210413;21:00;Import Price Growth (YoY);South Korea;KRW;1
+NZD_VisitorArrivals;20210413;22:45;Visitor Arrivals (YoY);New Zealand;NZD;1
+KRW_UnemploymentRate;20210413;23:00;Unemployment Rate;South Korea;KRW;1
+JPY_MachineryOrders;20210413;23:50;Machinery Orders (YoY);Japan;JPY;1

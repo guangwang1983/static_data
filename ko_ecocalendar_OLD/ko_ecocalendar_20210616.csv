@@ -1,0 +1,41 @@
+JPY_ForeignBondInvestment;20210616;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20210616;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+NZD_GrossDomesticProduct;20210616;22:45;Gross Domestic Product (YoY);New Zealand;NZD;3
+CAD_CentralBankSpeech;20210616;22:30;BoC Governor Macklem speech;Canada;CAD;3
+BRL_InterestRateDecision;20210616;21:00;Interest Rate Decision;Brazil;BRL;1
+NZD_WestpacConsumerSurvey;20210616;21:00;Westpac Consumer Survey;New Zealand;NZD;2
+ARS_ConsumerPriceIndex;20210616;19:00;Consumer Price Index (MoM);Argentina;ARS;1
+ARS_UnemploymentRate;20210616;19:00;Unemployment Rate (QoQ)	;Argentina;ARS;1
+USD_FOMCPressConference;20210616;18:30;FOMC Press Conference;United States;USD;3
+USD_FOMCEconomicProjections;20210616;18:00;FOMC Economic Projections;United States;USD;3
+USD_FedMonetaryPolicyStatement;20210616;18:00;Fed Monetary Policy Statement;United States;USD;3
+USD_FedInterestRateDecision;20210616;18:00;Fed Interest Rate Decision;United States;USD;3
+RUB_IndustrialOutput;20210616;16:00;Industrial Output;Russia;RUB;1
+USD_EIACrudeOilStocksChange;20210616;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_HousingStarts;20210616;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20210616;12:30;Building Permits (MoM);United States;USD;2
+USD_BuildingPermitsChange;20210616;12:30;Building Permits Change;United States;USD;1
+USD_HousingStartsChange;20210616;12:30;Housing Starts Change;United States;USD;1
+USD_ImportPriceIndex;20210616;12:30;Import Price Index (YoY);United States;USD;1
+USD_ExportPriceIndex;20210616;12:30;Export Price Index (MoM);United States;USD;1
+CAD_WholesaleSales;20210616;12:30;Wholesale Sales (MoM);Canada;CAD;1
+CAD_ConsumerPriceIndex;20210616;12:30;Consumer Price Index - Core (MoM);Canada;CAD;2
+PLN_NetInflation;20210616;12:00;Net Inflation;Poland;PLN;1
+INR_M3MoneySupply;20210616;11:30;M3 Money Supply;India;INR;1
+USD_MBAMortgageApplications;20210616;11:00;MBA Mortgage Applications;United States;USD;1
+ILS_GrossDomesticProduct;20210616;10:00;Gross Domestic Product (QoQ);Israel;ILS;1
+EUR_GerAuction;20210616;09:30;10-y Bond Auction;Germany;EUR;2
+EUR_EurLaborCost;20210616;09:00;Labor Cost;European Monetary Union;EUR;2
+EUR_EurCentralBankSpeech;20210616;09:00;ECB De Guindos speech;European Monetary Union;EUR;3
+GBP_DCLGHousePriceIndex;20210616;08:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+CZK_ProducerPriceIndex;20210616;07:00;Producer Price Index (MoM);Czech Republic;CZK;1
+GBP_RetailPriceIndex;20210616;06:00;Retail Price Index (MoM);United Kingdom;GBP;2
+GBP_PPICoreOutput;20210616;06:00;PPI Core Output (YoY) n.s.a ;United Kingdom;GBP;2
+GBP_ProducerPriceIndex;20210616;06:00;Producer Price Index - Input (YoY) n.s.a;United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20210616;06:00;Consumer Price Index (MoM);United Kingdom;GBP;2
+SGD_Unemploymentrate;20210616;02:30;Unemployment rate;Singapore;SGD;1
+CNY_RetailSales;20210616;02:00;Retail Sales (YoY);China;CNY;3
+CNY_IndustrialProduction;20210616;02:00;Industrial Production (YoY);China;CNY;2
+CNY_NBSPressConference;20210616;02:00;NBS Press Conference;China;CNY;2
+CNY_FixedAssetInvestment;20210616;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+AUD_WestpacLeadingIndex;20210616;00:30;Westpac Leading Index (MoM);Australia;AUD;2

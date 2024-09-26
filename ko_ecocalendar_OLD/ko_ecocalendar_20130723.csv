@@ -1,0 +1,26 @@
+JPY_MerchandiseTradeBalanceTotal;20130723;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Imports;20130723;23:50;Imports (YoY);Japan;JPY;1
+JPY_Exports;20130723;23:50;Exports (YoY);Japan;JPY;1
+JPY_AdjustedMerchandiseTradeBalance;20130723;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+NZD_Imports;20130723;22:45;Imports;New Zealand;NZD;1
+NZD_TradeBalance;20130723;22:45;Trade Balance (YoY);New Zealand;NZD;1
+NZD_Exports;20130723;22:45;Exports;New Zealand;NZD;1
+ARS_TradeBalance;20130723;19:00;Trade Balance (MoM);Argentina;ARS;1
+USD_Auction;20130723;17:00;2-Year Note Auction;United States;USD;1
+EUR_EurConsumerConfidence;20130723;14:00;Consumer Confidence;European Monetary Union;EUR;2
+USD_RichmondFedManufacturingIndex;20130723;14:00;Richmond Fed Manufacturing Index;United States;USD;1
+BRL_CurrentAccount;20130723;13:30;Current Account;Brazil;BRL;1
+USD_HousingPriceIndex;20130723;13:00;Housing Price Index (MoM);United States;USD;2
+USD_RedbookIndex;20130723;12:55;Redbook Index (MoM);United States;USD;1
+CAD_RetailSales;20130723;12:30;Retail Sales ex Autos (MoM);Canada;CAD;1
+HUF_MNBInterestRateDecision;20130723;12:00;MNB Interest Rate Decision;Hungary;HUF;1
+TRY_CBRTInterestRateDecision;20130723;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+EUR_SpaAuction;20130723;08:48;3-Month Letras Auction;Spain;EUR;1
+GBP_BBAMortgageApprovals;20130723;08:30;BBA Mortgage Approvals;United Kingdom;GBP;2
+PLN_Unemployment;20130723;08:00;Unemployment (MoM);Poland;PLN;1
+PLN_RetailSales;20130723;08:00;Retail Sales (YoY);Poland;PLN;1
+TRY_ForeignArrivals;20130723;08:00;Foreign Arrivals;Turkey;TRY;1
+DKK_ConsumerConfidence;20130723;07:00;Consumer Confidence;Denmark;DKK;1
+EUR_FraBusinessClimate;20130723;06:45;Business Climate;France;EUR;1
+EUR_FinUnemploymentRate;20130723;06:00;Unemployment Rate;Finland;EUR;1
+SGD_ConsumerPriceIndex;20130723;05:00;Consumer Price Index (YoY);Singapore;SGD;1

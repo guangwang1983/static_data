@@ -1,0 +1,35 @@
+NZD_ANZCommodityPrice;20210505;01:00;ANZ Commodity Price;New Zealand;NZD;1
+AUD_BuildingPermits;20210505;01:30;Building Permits (YoY);Australia;AUD;1
+IDR_GrossDomesticProduct;20210505;04:00;Gross Domestic Product (QoQ);Indonesia;IDR;1
+NOK_LabourForceSurvey;20210505;06:00;Labour Force Survey;Norway;NOK;1
+MXN_CincodeMayo;20210505;06:00;Cinco de Mayo ;Mexico;MXN;0
+CHF_ConsumerPriceIndex;20210505;06:30;Consumer Price Index (YoY);Switzerland;CHF;1
+SEK_IndustrialProductionValue;20210505;07:30;Industrial Production Value (YoY);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20210505;07:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+EUR_ItaHCOBServicesPMI;20210505;07:45;HCOB Services PMI;Italy;EUR;2
+EUR_FraHCOBServicesPMI;20210505;07:50;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20210505;07:50;HCOB Composite PMI;France;EUR;1
+EUR_GerHCOBServicesPMI;20210505;07:55;HCOB Services PMI;Germany;EUR;1
+EUR_GerHCOBCompositePMI;20210505;07:55;HCOB Composite PMI;Germany;EUR;2
+EUR_EurHCOBServicesPMI;20210505;08:00;HCOB Services PMI;European Monetary Union;EUR;1
+EUR_EurHCOBCompositePMI;20210505;08:00;HCOB Composite PMI;European Monetary Union;EUR;2
+EUR_EurProducerPriceIndex;20210505;09:00;Producer Price Index (MoM);European Monetary Union;EUR;1
+PLN_NBPBaserate;20210505;09:00;NBP Base rate;Poland;PLN;1
+GBP_Auction;20210505;10:30;10-y Bond Auction;United Kingdom;GBP;1
+USD_MBAMortgageApplications;20210505;11:00;MBA Mortgage Applications;United States;USD;1
+BRL_IndustrialOutput;20210505;12:00;Industrial Output (YoY);Brazil;BRL;1
+USD_ADPEmploymentChange;20210505;12:15;ADP Employment Change;United States;USD;3
+USD_S&PGlobalCompositePMI;20210505;13:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20210505;13:45;S&P Global Services PMI;United States;USD;2
+USD_ISMServicesPricesPaid;20210505;14:00;ISM Services Prices Paid;United States;USD;2
+USD_ISMServicesEmploymentIndex;20210505;14:00;ISM Services Employment Index;United States;USD;2
+USD_ISMServicesPMI;20210505;14:00;ISM Services PMI;United States;USD;3
+USD_ISMServicesNewOrdersIndex;20210505;14:00;ISM Services New Orders Index;United States;USD;2
+EUR_EurCentralBankSpeech;20210505;14:00;ECB Lane speech;European Monetary Union;EUR;2
+USD_EIACrudeOilStocksChange;20210505;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+BRL_InterestRateDecision;20210505;18:00;Interest Rate Decision;Brazil;BRL;1
+USD_CentralBankSpeech;20210505;19:00;Fed Evans speech;United States;USD;1
+KRW_FXReserves;20210505;21:00;FX Reserves;South Korea;KRW;1
+CAD_CentralBankSpeech;20210505;22:30;BoC Governor Macklem speech;Canada;CAD;3
+NZD_BuildingPermits;20210505;22:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+JPY_BoJMonetaryPolicyMeetingMinutes;20210505;23:50;BoJ Monetary Policy Meeting Minutes;Japan;JPY;3

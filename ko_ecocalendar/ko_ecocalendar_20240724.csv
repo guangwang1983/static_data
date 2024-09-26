@@ -1,0 +1,49 @@
+JPY_JibunBankServicesPMI;20240724;00:30;Jibun Bank Services PMI;Japan;JPY;1
+JPY_JibunBankManufacturingPMI;20240724;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+INR_HSBCCompositePMI;20240724;05:00;HSBC Composite PMI;India;INR;2
+INR_HSBCServicesPMI;20240724;05:00;HSBC Services PMI;India;INR;2
+INR_HSBCManufacturingPMI;20240724;05:00;HSBC Manufacturing PMI;India;INR;2
+EUR_GerGfKConsumerConfidenceSurvey;20240724;06:00;GfK Consumer Confidence Survey;Germany;EUR;2
+DKK_IndustrialOutlook;20240724;06:00;Industrial Outlook;Denmark;DKK;1
+HUF_GrossWages;20240724;06:30;Gross Wages (YoY);Hungary;HUF;1
+EUR_EurEurogroupMeeting;20240724;07:00;Eurogroup Meeting;Eurozone;EUR;2
+EUR_FraHCOBManufacturingPMIPreliminar;20240724;07:15;HCOB Manufacturing PMI;France;EUR;2
+EUR_FraHCOBCompositePMI;20240724;07:15;HCOB Composite PMI;France;EUR;2
+EUR_FraHCOBServicesPMI;20240724;07:15;HCOB Services PMI;France;EUR;2
+EUR_GerHCOBCompositePMI;20240724;07:30;HCOB Composite PMI;Germany;EUR;3
+EUR_GerHCOBManufacturingPMIPreliminar;20240724;07:30;HCOB Manufacturing PMI;Germany;EUR;3
+EUR_GerHCOBServicesPMI;20240724;07:30;HCOB Services PMI;Germany;EUR;3
+ZAR_ConsumerPriceIndex;20240724;08:00;Consumer Price Index (YoY);South Africa;ZAR;1
+EUR_EurHCOBCompositePMI;20240724;08:00;HCOB Composite PMI;Eurozone;EUR;3
+EUR_EurHCOBServicesPMI;20240724;08:00;HCOB Services PMI;Eurozone;EUR;3
+EUR_EurHCOBManufacturingPMIPreliminar;20240724;08:00;HCOB Manufacturing PMI;Eurozone;EUR;3
+GBP_S&PGlobalCIPSManufacturingPMIPreliminar;20240724;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;3
+GBP_S&PGlobalCIPSServicesPMI;20240724;08:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;3
+GBP_S&PGlobalCIPSCompositePMI;20240724;08:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;3
+GBP_Auction;20240724;09:30;30-y Bond Auction;United Kingdom;GBP;2
+USD_MBAMortgageApplications;20240724;11:00;MBA Mortgage Applications;United States;USD;1
+INR_M3MoneySupply;20240724;11:30;M3 Money Supply;India;INR;1
+MXN_1sthalfmonthCoreInflation;20240724;12:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20240724;12:00;1st half-month Inflation;Mexico;MXN;1
+EUR_EurCentralBankSpeech;20240724;12:00;ECB Lane speech;Eurozone;EUR;2
+USD_WholesaleInventories;20240724;12:30;Wholesale Inventories;United States;USD;1
+USD_GoodsTradeBalance;20240724;12:30;Goods Trade Balance;United States;USD;1
+CAD_NewHousingPriceIndex;20240724;12:30;New Housing Price Index (YoY);Canada;CAD;1
+USD_S&PGlobalCompositePMI;20240724;13:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20240724;13:45;S&P Global Services PMI;United States;USD;3
+USD_S&PGlobalManufacturingPMI;20240724;13:45;S&P Global Manufacturing PMI;United States;USD;3
+CAD_BoCMonetaryPolicyReport;20240724;13:45;BoC Monetary Policy Report;Canada;CAD;3
+CAD_BoCMonetaryPolicyStatement;20240724;13:45;BoC Monetary Policy Statement;Canada;CAD;3
+CAD_BoCInterestRateDecision;20240724;13:45;BoC Interest Rate Decision;Canada;CAD;3
+USD_NewHomeSales;20240724;14:00;New Home Sales (MoM);United States;USD;1
+USD_NewHomeSalesChange;20240724;14:00;New Home Sales Change (MoM);United States;USD;2
+USD_EIACrudeOilStocksChange;20240724;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+CAD_BoCPressConference;20240724;14:30;BoC Press Conference;Canada;CAD;3
+RUB_IndustrialOutput;20240724;16:00;Industrial Output;Russia;RUB;1
+USD_Auction;20240724;17:00;5-Year Note Auction;United States;USD;1
+USD_CentralBankSpeech;20240724;20:05;Fed Bowman speech;United States;USD;2
+KRW_BOKManufacturingBSI;20240724;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+KRW_GrossDomesticProduct;20240724;23:00;Gross Domestic Product Growth (YoY);South Korea;KRW;1
+JPY_CorporateServicePriceIndex;20240724;23:50;Corporate Service Price Index (YoY);Japan;JPY;1
+JPY_ForeignBondInvestment;20240724;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20240724;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1

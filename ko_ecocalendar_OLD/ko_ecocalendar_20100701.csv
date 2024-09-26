@@ -1,0 +1,19 @@
+JPY_MonetaryBase;20100701;23:50;Monetary Base (YoY);Japan;JPY;1
+USD_TotalVehicleSales;20100701;21:00;Total Vehicle Sales;United States;USD;1
+USD_PendingHomeSales;20100701;14:00;Pending Home Sales (MoM);United States;USD;2
+USD_ISMManufacturingPMI;20100701;14:00;ISM Manufacturing PMI;United States;USD;2
+USD_ISMPricesPaid;20100701;14:00;ISM Prices Paid;United States;USD;1
+USD_ConstructionSpending;20100701;14:00;Construction Spending (MoM);United States;USD;1
+USD_JoblessClaims;20100701;12:30;Continuing Jobless Claims;United States;USD;1
+GBP_BankofEnglandCreditConditionsReport;20100701;08:30;Bank of England Credit Conditions Report (QoQ);United Kingdom;GBP;2
+GBP_MarkitManufacturingPMI;20100701;08:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+EUR_EurMarkitManufacturingPMI;20100701;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;1
+EUR_GerMarkitManufacturingPMI;20100701;07:55;Markit Manufacturing PMI;Germany;EUR;1
+CHF_SVMEPurchasingManagers'Index;20100701;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;2
+JPY_VehicleSales;20100701;05:00;Vehicle Sales (YoY);Japan;JPY;1
+NZD_ANZCommodityPrice;20100701;03:00;ANZ Commodity Price;New Zealand;NZD;2
+CNY_CaixinManufacturingPMI;20100701;02:30;Caixin Manufacturing PMI;China;CNY;0
+CNY_NBSManufacturingPMI;20100701;02:00;NBS Manufacturing PMI;China;CNY;1
+AUD_RetailSales;20100701;01:30;Retail Sales s.a. (MoM);Australia;AUD;0
+AUD_BuildingPermits;20100701;01:30;Building Permits (YoY);Australia;AUD;1
+CAD_CanadaDay;20100701;00:00;Canada Day;Canada;CAD;0

@@ -1,0 +1,29 @@
+CNY_NationalDay;20151005;00:00;National Day;China;CNY;0
+AUD_ANZJobAdvertisements;20151005;00:30;ANZ Job Advertisements;Australia;AUD;1
+JPY_LaborCashEarnings;20151005;01:30;Labor Cash Earnings (YoY);Japan;JPY;1
+JPY_JibunBankServicesPMI;20151005;01:35;Jibun Bank Services PMI;Japan;JPY;1
+RUB_S&PGlobalServicesPMI;20151005;06:11;S&P Global Services PMI;Russia;RUB;1
+TRY_ProducerPriceIndex;20151005;07:00;Producer Price Index (MoM);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20151005;07:00;Consumer Price Index (YoY);Turkey;TRY;1
+HUF_RetailSales;20151005;07:00;Retail Sales (YoY);Hungary;HUF;1
+SEK_IndustrialProductionValue;20151005;07:30;Industrial Production Value (YoY);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20151005;07:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+EUR_ItaHCOBServicesPMI;20151005;07:45;HCOB Services PMI;Italy;EUR;1
+EUR_FraHCOBServicesPMI;20151005;07:50;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20151005;07:50;HCOB Composite PMI;France;EUR;1
+EUR_GerHCOBCompositePMI;20151005;07:55;HCOB Composite PMI;Germany;EUR;1
+EUR_GerHCOBServicesPMI;20151005;07:55;HCOB Services PMI;Germany;EUR;1
+EUR_EurHCOBServicesPMI;20151005;08:00;HCOB Services PMI;European Monetary Union;EUR;1
+EUR_EurHCOBCompositePMI;20151005;08:00;HCOB Composite PMI;European Monetary Union;EUR;1
+EUR_EurSentixInvestorConfidence;20151005;08:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+GBP_S&PGlobalCIPSServicesPMI;20151005;08:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;1
+EUR_EurRetailSales;20151005;09:00;Retail Sales (MoM);European Monetary Union;EUR;1
+CLP_IMACEC;20151005;11:30;IMACEC;Chile;CLP;1
+EUR_EurEurogroupMeeting;20151005;12:00;Eurogroup Meeting;European Monetary Union;EUR;2
+RUB_ConsumerPriceIndex;20151005;13:00;Consumer Price Index (MoM);Russia;RUB;1
+USD_S&PGlobalServicesPMI;20151005;13:45;S&P Global Services PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20151005;13:45;S&P Global Composite PMI;United States;USD;2
+USD_LaborMarketConditionsIndex;20151005;14:00;Labor Market Conditions Index;United States;USD;2
+USD_ISMServicesPMI;20151005;14:00;ISM Services PMI;United States;USD;2
+USD_Auction;20151005;15:30;3-Month Bill Auction;United States;USD;1
+NZD_NZIERBusinessConfidence;20151005;22:00;NZIER Business Confidence (QoQ);New Zealand;NZD;2

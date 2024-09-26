@@ -1,0 +1,41 @@
+JPY_IndustrialProduction;20210330;23:50;Industrial Production (YoY);Japan;JPY;2
+KRW_IndustrialOutputGrowth;20210330;23:00;Industrial Output Growth;South Korea;KRW;1
+KRW_IndustrialOutput;20210330;23:00;Industrial Output (YoY);South Korea;KRW;1
+KRW_ServiceSectorOutput;20210330;23:00;Service Sector Output;South Korea;KRW;1
+KRW_BOKManufacturingBSI;20210330;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+CLP_BCCHInterestRate;20210330;21:00;BCCH Interest Rate;Chile;CLP;1
+MXN_FiscalBalancepesos;20210330;21:00;Fiscal Balance, pesos;Mexico;MXN;1
+USD_APIWeeklyCrudeOilStock;20210330;20:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_CentralBankSpeech;20210330;18:30;Fed Williams speech;United States;USD;2
+USD_ConsumerConfidence;20210330;14:00;Consumer Confidence;United States;USD;2
+USD_S&PCaseShillerHomePriceIndices;20210330;13:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;2
+USD_HousingPriceIndex;20210330;13:00;Housing Price Index (MoM);United States;USD;2
+USD_RedbookIndex;20210330;12:55;Redbook Index (MoM);United States;USD;1
+EUR_GerConsumerPriceIndex;20210330;12:00;Consumer Price Index (YoY);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20210330;12:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+BRL_InflationIndexIGPM;20210330;11:00;Inflation Index/IGP-M;Brazil;BRL;1
+EUR_BelConsumerPriceIndex;20210330;10:30;Consumer Price Index (MoM);Belgium;EUR;1
+EUR_ItaAuction;20210330;09:30;10-y Bond Auction;Italy;EUR;1
+EUR_EurConsumerConfidence;20210330;09:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurServicesSentiment;20210330;09:00;Services Sentiment;European Monetary Union;EUR;1
+EUR_EurEconomicSentimentIndicator;20210330;09:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+EUR_EurIndustrialConfidence;20210330;09:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_EurBusinessClimate;20210330;09:00;Business Climate;European Monetary Union;EUR;2
+EUR_GreProducerPriceIndex;20210330;09:00;Producer Price Index (YoY);Greece;EUR;1
+EUR_PorConsumerConfidence;20210330;08:30;Consumer Confidence;Portugal;EUR;1
+EUR_PorBusinessConfidence;20210330;08:30;Business Confidence;Portugal;EUR;1
+HKD_RetailSales;20210330;08:30;Retail Sales;Hong Kong SAR;HKD;1
+EUR_ItaProducerPriceIndex;20210330;08:00;Producer Price Index (YoY);Italy;EUR;1
+EUR_AusProducerPriceIndex;20210330;08:00;Producer Price Index (YoY);Austria;EUR;1
+CHF_KOFLeadingIndicator;20210330;07:00;KOF Leading Indicator;Switzerland;CHF;2
+HUF_UnemploymentRate;20210330;07:00;Unemployment Rate (3M);Hungary;HUF;1
+SEK_ConsumerConfidence;20210330;07:00;Consumer Confidence (MoM);Sweden;SEK;1
+EUR_SpaHICP;20210330;07:00;HICP (MoM);Spain;EUR;1
+EUR_SpaConsumerPriceIndex;20210330;07:00;Consumer Price Index (MoM);Spain;EUR;1
+EUR_SpaRetailSales;20210330;07:00;Retail Sales (YoY);Spain;EUR;1
+NOK_RetailSales;20210330;07:00;Retail Sales ;Norway;NOK;1
+EUR_FraConsumerConfidence;20210330;06:45;Consumer Confidence;France;EUR;1
+EUR_GerImportPriceIndex;20210330;06:00;Import Price Index (YoY);Germany;EUR;1
+DKK_IndustrialOutlook;20210330;06:00;Industrial Outlook;Denmark;DKK;1
+ZAR_M3MoneySupply;20210330;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+ZAR_PrivateSectorCredit;20210330;06:00;Private Sector Credit;South Africa;ZAR;1

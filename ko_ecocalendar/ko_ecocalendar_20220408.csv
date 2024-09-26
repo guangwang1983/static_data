@@ -1,0 +1,34 @@
+AUD_FinancialStabilityReview;20220408;01:30;Financial Stability Review;Australia;AUD;1
+INR_ReverseRepoRate;20220408;04:30;Reverse Repo Rate;India;INR;1
+INR_RBIInterestRateDecision;20220408;04:30;RBI Interest Rate Decision (Repo Rate);India;INR;1
+JPY_ConsumerConfidenceIndex;20220408;05:00;Consumer Confidence Index;Japan;JPY;1
+JPY_EcoWatchersSurvey:Outlook;20220408;06:00;Eco Watchers Survey: Outlook;Japan;JPY;1
+JPY_EcoWatchersSurvey:Current;20220408;06:00;Eco Watchers Survey: Current;Japan;JPY;1
+RON_GrossDomesticProduct;20220408;06:00;Gross Domestic Product;Romania;RON;1
+DKK_IndustrialProduction;20220408;06:00;Industrial Production (MoM);Denmark;DKK;1
+CZK_UnemploymentRate;20220408;07:00;Unemployment Rate;Czech Republic;CZK;1
+HUF_ConsumerPriceIndex;20220408;07:00;Consumer Price Index (YoY);Hungary;HUF;1
+EUR_ItaRetailSales;20220408;08:00;Retail Sales n.s.a (YoY);Italy;EUR;1
+HUF_BudgetBalance;20220408;09:00;Budget Balance;Hungary;HUF;1
+RUB_Interestratedecision;20220408;09:30;Interest rate decision;Russia;RUB;2
+ZAR_BusinessConfidenceIndex;20220408;09:30;Business Confidence Index;South Africa;ZAR;1
+EUR_EurCentralBankSpeech;20220408;11:10;ECB Panetta speech;European Monetary Union;EUR;2
+INR_BankLoanGrowth;20220408;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20220408;11:30;FX Reserves, USD;India;INR;1
+BRL_IPCAInflation;20220408;12:00;IPCA Inflation;Brazil;BRL;1
+CLP_ConsumerPriceIndex;20220408;12:00;Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+CAD_UnemploymentRate;20220408;12:30;Unemployment Rate;Canada;CAD;3
+CAD_ParticipationRate;20220408;12:30;Participation Rate;Canada;CAD;2
+CAD_AverageHourlyWages;20220408;12:30;Average Hourly Wages (YoY);Canada;CAD;2
+CAD_NetChangeinEmployment;20220408;12:30;Net Change in Employment;Canada;CAD;3
+USD_WholesaleInventories;20220408;14:00;Wholesale Inventories;United States;USD;1
+RUB_ConsumerPriceIndex;20220408;16:00;Consumer Price Index (MoM);Russia;RUB;1
+USD_USDAWASDEReport;20220408;16:00;USDA WASDE Report;United States;USD;1
+USD_BakerHughesUSOilRigCount;20220408;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+AUD_CFTCAUDNCNetPositions;20220408;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCS&P500NCNetPositions;20220408;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20220408;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20220408;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20220408;19:30;CFTC Oil NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20220408;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20220408;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1

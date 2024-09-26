@@ -1,0 +1,24 @@
+COP_TradeBalance;20170217;22:00;Trade Balance;Colombia;COP;1
+AUD_CFTCAUDNCNetPositions;20170217;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+JPY_CFTCJPYNCNetPositions;20170217;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCGoldNCNetPositions;20170217;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCUSDNCNetPositions;20170217;20:30;CFTC USD NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20170217;20:30;CFTC Oil NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20170217;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+GBP_CFTCGBPNCNetPositions;20170217;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_BakerHughesUSOilRigCount;20170217;18:00;Baker Hughes US Oil Rig Count;United States;USD;2
+EUR_BelConsumerConfidenceIndex;20170217;14:00;Consumer Confidence Index;Belgium;EUR;1
+RUB_IndustrialOutput;20170217;14:00;Industrial Output;Russia;RUB;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20170217;13:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20170217;13:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+PLN_RetailSales;20170217;13:00;Retail Sales (YoY);Poland;PLN;1
+PLN_IndustrialOutput;20170217;13:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20170217;13:00;Producer Price Index (YoY);Poland;PLN;1
+RUB_ProducerPriceIndex;20170217;13:00;Producer Price Index (MoM);Russia;RUB;1
+BRL_CurrentAccount;20170217;12:30;Current Account;Brazil;BRL;1
+INR_BankLoanGrowth;20170217;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20170217;11:30;FX Reserves, USD;India;INR;1
+EUR_EurConstructionOutput;20170217;10:00;Construction Output  s.a (MoM);European Monetary Union;EUR;1
+GBP_RetailSales;20170217;09:30;Retail Sales (YoY);United Kingdom;GBP;2
+EUR_EurCurrentAccount;20170217;09:00;Current Account s.a;European Monetary Union;EUR;1
+SEK_ConsumerPriceIndex;20170217;08:30;Consumer Price Index (YoY);Sweden;SEK;1

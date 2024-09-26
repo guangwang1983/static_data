@@ -1,0 +1,25 @@
+AUD_RBAMeetingMinutes;20160719;01:30;RBA Meeting Minutes;Australia;AUD;3
+GBP_RetailPriceIndex;20160719;08:30;Retail Price Index (YoY);United Kingdom;GBP;1
+GBP_DCLGHousePriceIndex;20160719;08:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ProducerPriceIndex;20160719;08:30;Producer Price Index - Output (MoM) n.s.a;United Kingdom;GBP;2
+GBP_PPICoreOutput;20160719;08:30;PPI Core Output (MoM) n.s.a;United Kingdom;GBP;2
+GBP_ConsumerPriceIndex;20160719;08:30;Consumer Price Index (YoY);United Kingdom;GBP;3
+EUR_EurConstructionOutput;20160719;09:00;Construction Output w.d.a (YoY);European Monetary Union;EUR;1
+EUR_GerZEWSurvey–EconomicSentiment;20160719;09:00;ZEW Survey – Economic Sentiment;Germany;EUR;2
+EUR_EurZEWSurvey–EconomicSentiment;20160719;09:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurvey–CurrentSituation;20160719;09:00;ZEW Survey – Current Situation;Germany;EUR;2
+TRY_CBRTInterestRateDecision;20160719;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+PLN_RetailSales;20160719;12:00;Retail Sales (YoY);Poland;PLN;1
+PLN_IndustrialOutput;20160719;12:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20160719;12:00;Producer Price Index (YoY);Poland;PLN;1
+USD_BuildingPermitsChange;20160719;12:30;Building Permits Change;United States;USD;1
+USD_HousingStarts;20160719;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20160719;12:30;Building Permits (MoM);United States;USD;2
+USD_RedbookIndex;20160719;12:55;Redbook Index (MoM);United States;USD;1
+RUB_UnemploymentRate;20160719;13:00;Unemployment Rate;Russia;RUB;1
+USD_HousingStartsChange;20160719;13:30;Housing Starts Change;United States;USD;1
+GBP_CentralBankSpeech;20160719;14:05;BoE Broadbent speech;United Kingdom;GBP;1
+RUB_ProducerPriceIndex;20160719;14:18;Producer Price Index (YoY);Russia;RUB;1
+NZD_GDTPriceIndex;20160719;14:38;GDT Price Index;New Zealand;NZD;1
+USD_Auction;20160719;15:30;52-Week Bill Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20160719;20:30;API Weekly Crude Oil Stock;United States;USD;1

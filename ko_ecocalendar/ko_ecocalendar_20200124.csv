@@ -1,0 +1,34 @@
+JPY_JibunBankManufacturingPMI;20200124;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+NZD_CreditCardSpending;20200124;02:00;Credit Card Spending (YoY);New Zealand;NZD;1
+EUR_FraHCOBManufacturingPMI;20200124;08:15;HCOB Manufacturing PMI;France;EUR;1
+EUR_FraHCOBServicesPMI;20200124;08:15;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20200124;08:15;HCOB Composite PMI;France;EUR;2
+EUR_GerHCOBCompositePMI;20200124;08:30;HCOB Composite PMI;Germany;EUR;3
+EUR_GerHCOBManufacturingPMI;20200124;08:30;HCOB Manufacturing PMI;Germany;EUR;3
+EUR_GerHCOBServicesPMI;20200124;08:30;HCOB Services PMI;Germany;EUR;2
+EUR_ItaTradeBalancenonEU;20200124;09:00;Trade Balance non-EU;Italy;EUR;1
+EUR_EurHCOBCompositePMI;20200124;09:00;HCOB Composite PMI;European Monetary Union;EUR;3
+EUR_EurHCOBServicesPMI;20200124;09:00;HCOB Services PMI;European Monetary Union;EUR;2
+EUR_EurHCOBManufacturingPMI;20200124;09:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+GBP_S&PGlobalCIPSManufacturingPMI;20200124;09:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSServicesPMI;20200124;09:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;3
+GBP_S&PGlobalCIPSCompositePMI;20200124;09:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;2
+EUR_EurCentralBankSpeech;20200124;10:30;ECB President Lagarde speech;European Monetary Union;EUR;3
+INR_FXReservesUSD;20200124;11:30;FX Reserves, USD;India;INR;1
+RUB_ProducerPriceIndex;20200124;13:00;Producer Price Index (MoM);Russia;RUB;1
+PLN_M3MoneySupply;20200124;13:00;M3 Money Supply (YoY);Poland;PLN;1
+CAD_RetailSales;20200124;13:30;Retail Sales ex Autos (MoM);Canada;CAD;2
+USD_S&PGlobalServicesPMI;20200124;14:45;S&P Global Services PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20200124;14:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalManufacturingPMI;20200124;14:45;S&P Global Manufacturing PMI;United States;USD;2
+KRW_KoreanNewYear;20200124;15:00;Korean New Year ;South Korea;KRW;0
+CNY_ChineseNewYear;20200124;16:00;Chinese New Year;China;CNY;0
+IDR_ChineseNewYear;20200124;17:00;Chinese New Year;Indonesia;IDR;0
+USD_BakerHughesUSOilRigCount;20200124;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20200124;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20200124;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+JPY_CFTCJPYNCNetPositions;20200124;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCS&P500NCNetPositions;20200124;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20200124;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20200124;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20200124;20:30;CFTC Oil NC Net Positions;United States;USD;1

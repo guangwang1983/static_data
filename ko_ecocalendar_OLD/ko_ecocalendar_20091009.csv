@@ -1,0 +1,11 @@
+USD_CentralBankSpeech;20091009;16:15;Fed Kohn speech ;United States;USD;2
+USD_TradeBalance;20091009;12:30;Trade Balance;United States;USD;3
+CAD_InternationalMerchandiseTrade;20091009;12:30;International Merchandise Trade;Canada;CAD;2
+CAD_UnemploymentRate;20091009;11:00;Unemployment Rate;Canada;CAD;2
+CAD_NetChangeinEmployment;20091009;11:00;Net Change in Employment;Canada;CAD;2
+EUR_EurCentralBankSpeech;20091009;09:30;ECB President Trichet speech;European Monetary Union;EUR;2
+GBP_ProducerPriceIndex;20091009;08:30;Producer Price Index - Input (YoY) n.s.a;United Kingdom;GBP;2
+GBP_TradeBalancenonEU;20091009;08:30;Trade Balance non-EU;United Kingdom;GBP;2
+GBP_GoodsTradeBalance;20091009;08:30;Goods Trade Balance;United Kingdom;GBP;2
+EUR_GerConsumerPriceIndex;20091009;06:00;Consumer Price Index (YoY);Germany;EUR;2
+EUR_GerTradeBalance;20091009;06:00;Trade Balance s.a.;Germany;EUR;2

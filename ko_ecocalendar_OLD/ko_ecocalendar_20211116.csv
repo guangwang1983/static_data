@@ -1,0 +1,37 @@
+AUD_RBAMeetingMinutes;20211116;00:30;RBA Meeting Minutes;Australia;AUD;3
+AUD_CentralBankSpeech;20211116;02:30;RBA Governor Lowe speech;Australia;AUD;3
+JPY_TertiaryIndustryIndex;20211116;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+GBP_AverageEarningsExcludingBonus;20211116;07:00;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20211116;07:00;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_AverageEarningsIncludingBonus;20211116;07:00;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountRate;20211116;07:00;Claimant Count Rate;United Kingdom;GBP;2
+GBP_ClaimantCountChange;20211116;07:00;Claimant Count Change;United Kingdom;GBP;3
+RON_GrossDomesticProduct;20211116;07:00;Gross Domestic Product;Romania;RON;1
+CZK_ProducerPriceIndex;20211116;08:00;Producer Price Index (MoM);Czech Republic;CZK;1
+EUR_EurGrossDomesticProduct;20211116;10:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+EUR_EurEmploymentChange;20211116;10:00;Employment Change (YoY);European Monetary Union;EUR;1
+PLN_NetInflation;20211116;13:00;Net Inflation;Poland;PLN;1
+CAD_HousingStarts;20211116;13:15;Housing Starts s.a (YoY);Canada;CAD;1
+USD_RetailSales;20211116;13:30;Retail Sales Control Group;United States;USD;3
+USD_ImportPriceIndex;20211116;13:30;Import Price Index (MoM);United States;USD;1
+USD_ExportPriceIndex;20211116;13:30;Export Price Index (MoM);United States;USD;1
+USD_RedbookIndex;20211116;13:55;Redbook Index (YoY);United States;USD;1
+USD_IndustrialProduction;20211116;14:15;Industrial Production (MoM);United States;USD;1
+USD_CapacityUtilization;20211116;14:15;Capacity Utilization;United States;USD;1
+USD_BusinessInventories;20211116;15:00;Business Inventories;United States;USD;1
+USD_NAHBHousingMarketIndex;20211116;15:00;NAHB Housing Market Index;United States;USD;1
+NZD_GDTPriceIndex;20211116;15:00;GDT Price Index;New Zealand;NZD;1
+EUR_EurCentralBankSpeech;20211116;16:10;ECB President Lagarde speech;European Monetary Union;EUR;3
+CAD_CentralBankSpeech;20211116;17:00;BoC Schembri speech;Canada;CAD;2
+USD_TotalNetTICFlows;20211116;20:00;Total Net TIC Flows;United States;USD;1
+USD_NetLongTermTICFlows;20211116;20:00;Net Long-Term TIC Flows;United States;USD;1
+USD_CentralBankSpeech;20211116;20:30;Fed Daly speech;United States;USD;2
+USD_APIWeeklyCrudeOilStock;20211116;21:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_ProducerPriceIndex;20211116;21:45;Producer Price Index - Input (QoQ);New Zealand;NZD;1
+CZK_StruggleforFreedomandDemocracyDay;20211116;23:00;Struggle for Freedom and Democracy Day ;Czech Republic;CZK;0
+AUD_WestpacLeadingIndex;20211116;23:30;Westpac Leading Index (MoM);Australia;AUD;2
+JPY_Exports;20211116;23:50;Exports (YoY);Japan;JPY;2
+JPY_Imports;20211116;23:50;Imports (YoY);Japan;JPY;2
+JPY_MerchandiseTradeBalanceTotal;20211116;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20211116;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_MachineryOrders;20211116;23:50;Machinery Orders (MoM);Japan;JPY;1

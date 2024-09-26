@@ -1,0 +1,38 @@
+RUB_DayofUnity;20151104;00:00;Day of Unity ;Russia;RUB;0
+GBP_BRCShopPriceIndex;20151104;00:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1
+AUD_RetailSales;20151104;00:30;Retail Sales s.a. (MoM);Australia;AUD;2
+AUD_Imports;20151104;00:30;Imports (MoM);Australia;AUD;2
+AUD_Exports;20151104;00:30;Exports (MoM);Australia;AUD;2
+AUD_TradeBalance;20151104;00:30;Trade Balance (MoM);Australia;AUD;2
+JPY_JibunBankServicesPMI;20151104;01:35;Jibun Bank Services PMI;Japan;JPY;1
+CNY_CaixinServicesPMI;20151104;01:45;Caixin Services PMI;China;CNY;2
+JPY_ConsumerConfidenceIndex;20151104;05:00;Consumer Confidence Index;Japan;JPY;1
+EUR_EurCentralBankSpeech;20151104;08:00;ECB President Draghi speech;European Monetary Union;EUR;3
+EUR_EurNonMonetaryPolicyECBMeeting;20151104;08:00;Non-Monetary Policy ECB Meeting;European Monetary Union;EUR;2
+EUR_ItaHCOBServicesPMI;20151104;08:45;HCOB Services PMI;Italy;EUR;1
+EUR_FraHCOBServicesPMI;20151104;08:50;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20151104;08:50;HCOB Composite PMI;France;EUR;1
+EUR_GerHCOBServicesPMI;20151104;08:55;HCOB Services PMI;Germany;EUR;1
+EUR_GerHCOBCompositePMI;20151104;08:55;HCOB Composite PMI;Germany;EUR;1
+EUR_EurHCOBServicesPMI;20151104;09:00;HCOB Services PMI;European Monetary Union;EUR;2
+EUR_EurHCOBCompositePMI;20151104;09:00;HCOB Composite PMI;European Monetary Union;EUR;2
+ZAR_BusinessConfidenceIndex;20151104;09:30;Business Confidence Index;South Africa;ZAR;1
+GBP_S&PGlobalCIPSServicesPMI;20151104;09:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;1
+EUR_EurProducerPriceIndex;20151104;10:00;Producer Price Index (YoY);European Monetary Union;EUR;1
+BRL_IndustrialOutput;20151104;12:00;Industrial Output (YoY);Brazil;BRL;1
+USD_MBAMortgageApplications;20151104;12:00;MBA Mortgage Applications;United States;USD;1
+PLN_NBPBaserate;20151104;12:00;NBP Base rate;Poland;PLN;1
+USD_ADPEmploymentChange;20151104;13:15;ADP Employment Change;United States;USD;2
+USD_GoodsandServicesTradeBalance;20151104;13:30;Goods and Services Trade Balance;United States;USD;2
+CAD_InternationalMerchandiseTrade;20151104;13:30;International Merchandise Trade;Canada;CAD;1
+CAD_Exports;20151104;13:30;Exports;Canada;CAD;1
+CAD_Imports;20151104;13:30;Imports;Canada;CAD;1
+USD_S&PGlobalCompositePMI;20151104;14:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20151104;14:45;S&P Global Services PMI;United States;USD;2
+USD_ISMServicesPMI;20151104;15:00;ISM Services PMI;United States;USD;2
+USD_FedChairYellentestifies;20151104;15:00;Fed Chair Yellen testifies;United States;USD;3
+USD_EIACrudeOilStocksChange;20151104;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_Auction;20151104;18:00;2-Year Note Auction;United States;USD;1
+USD_CentralBankSpeech;20151104;19:30;Fed Dudley speech;United States;USD;1
+AUD_CentralBankSpeech;20151104;22:25;RBA Governor Stevens speech;Australia;AUD;3
+JPY_BoJMonetaryPolicyMeetingMinutes;20151104;23:50;BoJ Monetary Policy Meeting Minutes;Japan;JPY;2

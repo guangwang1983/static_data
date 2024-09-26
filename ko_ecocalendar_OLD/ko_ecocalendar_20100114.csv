@@ -1,0 +1,10 @@
+USD_BusinessInventories;20100114;15:00;Business Inventories;United States;USD;1
+USD_RetailSales;20100114;13:30;Retail Sales ex Autos (MoM);United States;USD;3
+USD_JoblessClaims;20100114;13:30;Initial Jobless Claims;United States;USD;2
+USD_ImportPriceIndex;20100114;13:30;Import Price Index (MoM);United States;USD;2
+EUR_EurCentralBankSpeech;20100114;13:30;ECB President Trichet speech;European Monetary Union;EUR;3
+EUR_EurECBInterestRateDecision;20100114;12:45;ECB Interest Rate Decision;European Monetary Union;EUR;3
+EUR_EurIndustrialProduction;20100114;10:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;2
+EUR_GerConsumerPriceIndex;20100114;07:00;Consumer Price Index (MoM);Germany;EUR;2
+AUD_UnemploymentRate;20100114;00:30;Unemployment Rate s.a.;Australia;AUD;2
+AUD_EmploymentChange;20100114;00:30;Employment Change s.a.;Australia;AUD;2

@@ -1,0 +1,30 @@
+AUD_ConsumerInflationExpectations;20170216;00:00;Consumer Inflation Expectations;Australia;AUD;2
+USD_CentralBankSpeech;20170216;00:15;Fed Dudley speech;United States;USD;1
+AUD_RBAForeignExchangeTransaction;20170216;00:30;RBA Foreign Exchange Transaction;Australia;AUD;1
+AUD_PartTimeEmployment;20170216;00:30;Part-Time Employment;Australia;AUD;1
+AUD_FullTimeEmployment;20170216;00:30;Full-Time Employment;Australia;AUD;1
+AUD_ParticipationRate;20170216;00:30;Participation Rate;Australia;AUD;2
+AUD_UnemploymentRate;20170216;00:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_EmploymentChange;20170216;00:30;Employment Change s.a.;Australia;AUD;3
+CNY_FDIForeignDirectInvestment;20170216;03:40;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+IDR_TradeBalance;20170216;04:00;Trade Balance;Indonesia;IDR;1
+IDR_Exports;20170216;04:00;Exports;Indonesia;IDR;1
+IDR_Imports;20170216;04:00;Imports;Indonesia;IDR;1
+ZAR_RetailSales;20170216;04:00;Retail Sales (YoY);South Africa;ZAR;1
+EUR_FraILOUnemployment;20170216;06:30;ILO Unemployment;France;EUR;1
+SEK_UnemploymentRate;20170216;08:30;Unemployment Rate;Sweden;SEK;1
+EUR_ItaGlobalTradeBalance;20170216;09:00;Global Trade Balance;Italy;EUR;1
+EUR_ItaTradeBalanceEU;20170216;09:00;Trade Balance EU;Italy;EUR;1
+IDR_BankIndonesiaRate;20170216;10:00;Bank Indonesia Rate;Indonesia;IDR;1
+EUR_EurECBMonetaryPolicyMeetingAccounts;20170216;12:30;ECB Monetary Policy Meeting Accounts;European Monetary Union;EUR;3
+RUB_CentralBankReserves;20170216;13:00;Central Bank Reserves $;Russia;RUB;1
+PLN_CorporateSectorWages;20170216;13:00;Corporate Sector Wages;Poland;PLN;1
+USD_BuildingPermitsChange;20170216;13:30;Building Permits Change;United States;USD;2
+USD_HousingStartsChange;20170216;13:30;Housing Starts Change;United States;USD;2
+USD_HousingStarts;20170216;13:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20170216;13:30;Building Permits (MoM);United States;USD;2
+USD_JoblessClaims;20170216;13:30;Continuing Jobless Claims;United States;USD;1
+USD_PhiladelphiaFedManufacturingSurvey;20170216;13:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+USD_EIANaturalGasStorageChange;20170216;15:30;EIA Natural Gas Storage Change;United States;USD;1
+NZD_BusinessNZPMI;20170216;21:30;Business NZ PMI;New Zealand;NZD;2
+NZD_RetailSales;20170216;21:45;Retail Sales ex Autos (QoQ);New Zealand;NZD;2

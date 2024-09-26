@@ -1,0 +1,58 @@
+AUD_BuildingPermits;20231207;00:30;Building Permits (YoY);Australia;AUD;1
+AUD_Exports;20231207;00:30;Exports (MoM);Australia;AUD;2
+AUD_Imports;20231207;00:30;Imports (MoM);Australia;AUD;2
+AUD_TradeBalance;20231207;00:30;Trade Balance (MoM);Australia;AUD;3
+CNY_Exports;20231207;03:00;Exports (YoY);China;CNY;2
+CNY_Imports;20231207;03:00;Imports (YoY) CNY;China;CNY;2
+CNY_TradeBalanceUSD;20231207;03:00;Trade Balance USD;China;CNY;2
+CNY_TradeBalanceCNY;20231207;03:00;Trade Balance CNY;China;CNY;2
+JPY_CoincidentIndex;20231207;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20231207;05:00;Leading Economic Index;Japan;JPY;1
+ZAR_Gross$Gold&ForexReserve;20231207;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+ZAR_Net$Gold&ForexReserve;20231207;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+CHF_UnemploymentRate;20231207;06:45;Unemployment Rate s.a (MoM);Switzerland;CHF;1
+EUR_GerIndustrialProduction;20231207;07:00;Industrial Production n.s.a. w.d.a. (YoY);Germany;EUR;2
+GBP_HalifaxHousePrices;20231207;07:00;Halifax House Prices (MoM);United Kingdom;GBP;1
+RON_GrossDomesticProduct;20231207;07:00;Gross Domestic Product;Romania;RON;1
+EUR_EurEurogroupMeeting;20231207;07:00;Eurogroup Meeting;Eurozone;EUR;1
+NOK_ManufacturingOutput;20231207;07:00;Manufacturing Output;Norway;NOK;1
+EUR_FraExportsEUR;20231207;07:45;Exports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20231207;07:45;Trade Balance EUR;France;EUR;1
+EUR_FraImportsEUR;20231207;07:45;Imports, EUR;France;EUR;1
+EUR_FraCurrentAccount;20231207;07:45;Current Account;France;EUR;1
+CNY_ForeignExchangeReserves;20231207;08:00;Foreign Exchange Reserves (MoM);China;CNY;1
+CZK_IndustrialProduction;20231207;08:00;Industrial Production (YoY);Czech Republic;CZK;1
+CZK_Constructionoutput;20231207;08:00;Construction output (YoY);Czech Republic;CZK;1
+CHF_ForeignCurrencyReserves;20231207;08:00;Foreign Currency Reserves;Switzerland;CHF;1
+EUR_ItaIndustrialOutput;20231207;09:00;Industrial Output w.d.a (YoY);Italy;EUR;1
+CZK_FXReserves;20231207;09:00;FX Reserves;Czech Republic;CZK;1
+EUR_ItaRetailSales;20231207;10:00;Retail Sales s.a. (MoM);Italy;EUR;1
+EUR_EurGrossDomesticProduct;20231207;10:00;Gross Domestic Product s.a. (YoY);Eurozone;EUR;3
+EUR_EurEmploymentChange;20231207;10:00;Employment Change (QoQ);Eurozone;EUR;2
+CLP_TradeBalance;20231207;11:30;Trade Balance;Chile;CLP;1
+CLP_ConsumerPriceIndex;20231207;12:00;Core Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+MXN_CoreInflation;20231207;12:00;Core Inflation;Mexico;MXN;1
+MXN_12MonthInflation;20231207;12:00;12-Month Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20231207;12:00;Headline Inflation;Mexico;MXN;2
+USD_ChallengerJobCuts;20231207;12:30;Challenger Job Cuts;United States;USD;2
+PLN_CentralBankFXReserves;20231207;13:00;Central Bank FX Reserves;Poland;PLN;1
+RUB_CentralBankReserves;20231207;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_JoblessClaims;20231207;13:30;Continuing Jobless Claims;United States;USD;1
+CAD_BuildingPermits;20231207;13:30;Building Permits (MoM);Canada;CAD;1
+TRY_TreasuryCashBalance;20231207;14:30;Treasury Cash Balance;Turkey;TRY;1
+USD_WholesaleInventories;20231207;15:00;Wholesale Inventories;United States;USD;1
+USD_EIANaturalGasStorageChange;20231207;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20231207;16:30;4-Week Bill Auction;United States;USD;1
+CAD_CentralBankSpeech;20231207;17:40;BoC Governor Macklem speech;Canada;CAD;3
+USD_ConsumerCreditChange;20231207;20:00;Consumer Credit Change;United States;USD;1
+RON_ConstitutionDay;20231207;21:00;Constitution Day;Romania;RON;0
+NZD_ManufacturingSales;20231207;21:45;Manufacturing Sales;New Zealand;NZD;1
+EUR_ItaImmaculateConceptionDay;20231207;22:00;Immaculate Conception Day;Italy;EUR;0
+KRW_CurrentAccount;20231207;23:00;Current Account Balance;South Korea;KRW;1
+COP_ConsumerPriceIndex;20231207;23:00;Consumer Price Index (MoM);Colombia;COP;1
+JPY_LaborCashEarnings;20231207;23:30;Labor Cash Earnings (YoY);Japan;JPY;2
+JPY_OverallHouseholdSpending;20231207;23:30;Overall Household Spending (YoY);Japan;JPY;1
+JPY_BankLending;20231207;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_GrossDomesticProduct;20231207;23:50;Gross Domestic Product Deflator (YoY);Japan;JPY;2
+JPY_TradeBalanceBOPBasis;20231207;23:50;Trade Balance - BOP Basis;Japan;JPY;1
+JPY_CurrentAccount;20231207;23:50;Current Account n.s.a.;Japan;JPY;2

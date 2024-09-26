@@ -1,0 +1,23 @@
+GBP_RetailSales;20230818;06:00;Retail Sales (YoY);United Kingdom;GBP;2
+NOK_GrossDomesticProduct;20230818;06:00;Gross Domestic Product Growth Mainland;Norway;NOK;1
+SEK_CapacityUtilization;20230818;06:00;Capacity Utilization;Sweden;SEK;1
+CHF_IndustrialProduction;20230818;06:30;Industrial Production (YoY);Switzerland;CHF;2
+CNY_FDIForeignDirectInvestment;20230818;07:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;1
+EUR_EurCentralBankSpeech;20230818;08:00;ECB Lane speech;European Monetary Union;EUR;2
+EUR_EurHarmonizedIndexofConsumerPrices;20230818;09:00;Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;1
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20230818;09:00;Core Harmonized Index of Consumer Prices (MoM);European Monetary Union;EUR;2
+EUR_EurConstructionOutput;20230818;09:00;Construction Output w.d.a (YoY);European Monetary Union;EUR;1
+INR_FXReservesUSD;20230818;11:30;FX Reserves, USD;India;INR;1
+MXN_RetailSales;20230818;12:00;Retail Sales (YoY);Mexico;MXN;1
+CLP_GrossDomesticProduct;20230818;12:30;Gross Domestic Product (YoY);Chile;CLP;1
+CAD_RawMaterialPriceIndex;20230818;12:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20230818;12:30;Industrial Product Price (MoM);Canada;CAD;1
+USD_Auction;20230818;17:00;30-year TIPS Auction;United States;USD;1
+USD_BakerHughesUSOilRigCount;20230818;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20230818;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20230818;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20230818;20:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20230818;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20230818;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20230818;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20230818;20:30;CFTC AUD NC Net Positions;Australia;AUD;1

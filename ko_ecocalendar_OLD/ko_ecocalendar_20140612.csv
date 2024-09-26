@@ -1,0 +1,46 @@
+PEN_Interestratedecision;20140612;23:00;Interest rate decision;Peru;PEN;1
+NZD_FoodPriceIndex;20140612;22:45;Food Price Index (MoM);New Zealand;NZD;1
+NZD_BusinessNZPMI;20140612;22:30;Business NZ PMI;New Zealand;NZD;2
+CLP_BCCHInterestRate;20140612;22:00;BCCH Interest Rate;Chile;CLP;1
+GBP_CentralBankSpeech;20140612;20:00;BoE Governor Carney speech;United Kingdom;GBP;3
+EUR_GerCentralBankSpeech;20140612;18:00;German Buba President Weidmann speech;Germany;EUR;2
+USD_Auction;20140612;17:00;30-Year Bond Auction;United States;USD;1
+USD_EIANaturalGasStorageChange;20140612;14:30;EIA Natural Gas Storage Change;United States;USD;1
+CAD_FinancialSystemReview;20140612;14:30;Financial System Review;Canada;CAD;1
+USD_BusinessInventories;20140612;14:00;Business Inventories;United States;USD;2
+USD_RetailSales;20140612;12:30;Retail Sales ex Autos (MoM);United States;USD;2
+USD_JoblessClaims;20140612;12:30;Initial Jobless Claims;United States;USD;2
+USD_ImportPriceIndex;20140612;12:30;Import Price Index (MoM);United States;USD;1
+USD_ExportPriceIndex;20140612;12:30;Export Price Index (MoM);United States;USD;1
+CAD_CapacityUtilization;20140612;12:30;Capacity Utilization;Canada;CAD;1
+CAD_NewHousingPriceIndex;20140612;12:30;New Housing Price Index (YoY);Canada;CAD;2
+BRL_RetailSales;20140612;12:00;Retail Sales (MoM);Brazil;BRL;1
+INR_IndustrialOutput;20140612;12:00;Industrial Output;India;INR;1
+INR_ManufacturingOutput;20140612;12:00;Manufacturing Output;India;INR;1
+EUR_ItaAuction;20140612;10:40;3-y Bond Auction;Italy;EUR;1
+EUR_IreHICP;20140612;10:00;HICP (YoY);Ireland;EUR;1
+EUR_IreConsumerPriceIndex;20140612;10:00;Consumer Price Index (YoY);Ireland;EUR;1
+EUR_PorConsumerPriceIndex;20140612;10:00;Consumer Price Index (MoM);Portugal;EUR;1
+EUR_GreUnemploymentRate;20140612;09:00;Unemployment Rate (QoQ);Greece;EUR;1
+EUR_EurIndustrialProduction;20140612;09:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;2
+EUR_EurECBMonthlyReport;20140612;08:00;ECB Monthly Report;European Monetary Union;EUR;2
+SEK_ConsumerPriceIndex;20140612;07:30;Consumer Price Index (YoY);Sweden;SEK;1
+EUR_SloCoreInflation;20140612;07:00;Core Inflation (YoY);Slovakia;EUR;1
+EUR_SloHeadlineInflation;20140612;07:00;Headline Inflation (MoM);Slovakia;EUR;1
+RON_ConsumerPriceIndex;20140612;07:00;Consumer Price Index;Romania;RON;1
+TRY_CurrentAccount;20140612;07:00;Current Account Balance;Turkey;TRY;1
+EUR_FraConsumerPriceIndex;20140612;06:45;Consumer Price Index (EU norm) (MoM);France;EUR;2
+EUR_FraCurrentAccount;20140612;06:45;Current Account;France;EUR;1
+EUR_FraInflationextobacco;20140612;06:45;Inflation ex-tobacco (MoM);France;EUR;2
+EUR_GerWholesalePriceIndex;20140612;06:00;Wholesale Price Index (MoM);Germany;EUR;1
+IDR_BankIndonesiaRate;20140612;06:00;Bank Indonesia Rate;Indonesia;IDR;1
+CNY_M2MoneySupply;20140612;02:00;M2 Money Supply (YoY);China;CNY;1
+CNY_NewLoans;20140612;02:00;New Loans;China;CNY;2
+AUD_PartTimeEmployment;20140612;01:30;Part-Time Employment;Australia;AUD;1
+AUD_UnemploymentRate;20140612;01:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_EmploymentChange;20140612;01:30;Employment Change s.a.;Australia;AUD;3
+AUD_FulltimeEmployment;20140612;01:30;Fulltime Employment;Australia;AUD;2
+AUD_ParticipationRate;20140612;01:30;Participation Rate;Australia;AUD;2
+AUD_ConsumerInflationExpectations;20140612;01:00;Consumer Inflation Expectations;Australia;AUD;2
+KRW_BoKInterestRateDecision;20140612;01:00;BoK Interest Rate Decision;South Korea;KRW;1
+RUB_NationalDay;20140612;00:00;National Day ;Russia;RUB;0

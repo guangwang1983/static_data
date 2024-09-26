@@ -1,0 +1,18 @@
+JPY_MonetaryBase;20100401;23:50;Monetary Base (YoY);Japan;JPY;1
+AUD_TDSecuritiesInflation;20100401;23:30;TD Securities Inflation (MoM);Australia;AUD;1
+USD_TotalVehicleSales;20100401;21:00;Total Vehicle Sales;United States;USD;1
+USD_ISMManufacturingPMI;20100401;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMPricesPaid;20100401;14:00;ISM Prices Paid;United States;USD;1
+USD_ConstructionSpending;20100401;14:00;Construction Spending (MoM);United States;USD;1
+USD_JoblessClaims;20100401;12:30;Continuing Jobless Claims;United States;USD;1
+GBP_BankofEnglandCreditConditionsReport;20100401;09:30;Bank of England Credit Conditions Report (QoQ);United Kingdom;GBP;2
+GBP_MarkitManufacturingPMI;20100401;08:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+EUR_EurMarkitManufacturingPMI;20100401;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_GerMarkitManufacturingPMI;20100401;07:55;Markit Manufacturing PMI;Germany;EUR;2
+CHF_SVMEPurchasingManagers'Index;20100401;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+EUR_GerRetailSales;20100401;06:00;Retail Sales (YoY);Germany;EUR;2
+AUD_RBACommodityIndexSDR;20100401;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;2
+JPY_VehicleSales;20100401;05:00;Vehicle Sales (YoY);Japan;JPY;0
+CNY_CaixinManufacturingPMI;20100401;02:30;Caixin Manufacturing PMI;China;CNY;0
+CNY_NBSManufacturingPMI;20100401;01:00;NBS Manufacturing PMI;China;CNY;1
+AUD_TradeBalance;20100401;00:30;Trade Balance;Australia;AUD;2

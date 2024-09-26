@@ -1,0 +1,23 @@
+EUR_EurEurogroupMeeting;20211004;00:00;Eurogroup Meeting;European Monetary Union;EUR;2
+CHF_RetailSales;20211004;06:30;Real Retail Sales (YoY);Switzerland;CHF;2
+CHF_ConsumerPriceIndex;20211004;06:30;Consumer Price Index (YoY);Switzerland;CHF;1
+TRY_ProducerPriceIndex;20211004;07:00;Producer Price Index (YoY);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20211004;07:00;Consumer Price Index (MoM);Turkey;TRY;1
+EUR_EurCentralBankSpeech;20211004;07:30;ECB De Guindos speech;European Monetary Union;EUR;2
+USD_OPECMeeting;20211004;08:00;OPEC Meeting;United States;USD;2
+BRL_FipeIPCInflation;20211004;08:00;Fipe IPC Inflation;Brazil;BRL;1
+EUR_EurSentixInvestorConfidence;20211004;08:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+MXN_ConsumerConfidence;20211004;11:00;Consumer Confidence s.a;Mexico;MXN;1
+CAD_BuildingPermits;20211004;12:30;Building Permits (MoM);Canada;CAD;1
+USD_FactoryOrders;20211004;14:00;Factory Orders (MoM);United States;USD;2
+DKK_CurrencyReserves;20211004;15:00;Currency Reserves;Denmark;DKK;1
+USD_Auction;20211004;15:30;6-Month Bill Auction;United States;USD;1
+CNY_NationalDay;20211004;16:00;National Day;China;CNY;0
+AUD_TDSecuritiesInflation;20211004;20:00;TD Securities Inflation (YoY);Australia;AUD;2
+NZD_NZIERBusinessConfidence;20211004;21:00;NZIER Business Confidence (QoQ);New Zealand;NZD;2
+AUD_AiGPerformanceofConstructionIndex;20211004;21:30;AiG Performance of Construction Index;Australia;AUD;2
+AUD_S&PGlobalServicesPMI;20211004;22:00;S&P Global Services PMI;Australia;AUD;2
+AUD_S&PGlobalCompositePMI;20211004;22:00;S&P Global Composite PMI;Australia;AUD;1
+JPY_TokyoCPIexFoodEnergy;20211004;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20211004;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;2
+JPY_TokyoCPIexFreshFood;20211004;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;2

@@ -1,0 +1,12 @@
+GBP_SpringBankHoliday;20190527;00:00;Spring Bank Holiday;United Kingdom;GBP;0
+JPY_CentralBankSpeech;20190527;03:00;BoJ Governor Kuroda speech;Japan;JPY;3
+JPY_CoincidentIndex;20190527;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20190527;05:00;Leading Economic Index;Japan;JPY;2
+USD_MemorialDay;20190527;05:00;Memorial Day;United States;USD;0
+DKK_RetailSales;20190527;06:00;Retail Sales (YoY);Denmark;DKK;1
+CHF_EmploymentLevel;20190527;06:30;Employment Level (QoQ);Switzerland;CHF;1
+PLN_Unemployment;20190527;08:00;Unemployment (MoM);Poland;PLN;1
+EUR_EurCentralBankSpeech;20190527;08:40;ECB Cœuré speech;European Monetary Union;EUR;2
+BRL_CurrentAccount;20190527;13:30;Current Account;Brazil;BRL;1
+KRW_ConsumerSentimentIndex;20190527;21:00;Consumer Sentiment Index;South Korea;KRW;1
+JPY_CorporateServicePriceIndex;20190527;23:50;Corporate Service Price Index (YoY);Japan;JPY;1

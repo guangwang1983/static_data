@@ -1,0 +1,37 @@
+COP_ConsumerPriceIndex;20180906;00:00;Consumer Price Index (MoM);Colombia;COP;1
+AUD_TradeBalance;20180906;01:30;Trade Balance (MoM);Australia;AUD;2
+AUD_Exports;20180906;01:30;Exports (MoM);Australia;AUD;2
+AUD_Imports;20180906;01:30;Imports (MoM);Australia;AUD;2
+CHF_GrossDomesticProduct;20180906;05:45;Gross Domestic Product s.a. (QoQ);Switzerland;CHF;2
+EUR_GerFactoryOrders;20180906;06:00;Factory Orders n.s.a. (YoY);Germany;EUR;1
+HUF_IndustrialOutput;20180906;07:00;Industrial Output (YoY);Hungary;HUF;1
+CZK_IndustrialProduction;20180906;07:00;Industrial Production (YoY);Czech Republic;CZK;1
+CZK_Constructionoutput;20180906;07:00;Construction output (YoY);Czech Republic;CZK;1
+CZK_ForeignTradeBalance;20180906;07:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+SEK_RiksbankInterestRateDecision;20180906;07:30;Riksbank Interest Rate Decision;Sweden;SEK;1
+EUR_FraAuction;20180906;10:16;10-y Bond Auction;France;EUR;1
+USD_ChallengerJobCuts;20180906;11:30;Challenger Job Cuts;United States;USD;1
+BRL_IPCAInflation;20180906;12:00;IPCA Inflation;Brazil;BRL;1
+USD_ADPEmploymentChange;20180906;12:15;ADP Employment Change;United States;USD;2
+USD_JoblessClaims;20180906;12:30;Continuing Jobless Claims;United States;USD;2
+USD_NonfarmProductivity;20180906;12:30;Nonfarm Productivity;United States;USD;2
+USD_UnitLaborCosts;20180906;12:30;Unit Labor Costs;United States;USD;2
+CAD_BuildingPermits;20180906;12:30;Building Permits (MoM);Canada;CAD;1
+EUR_EurCentralBankSpeech;20180906;12:45;ECB Lautenschläger speech;European Monetary Union;EUR;2
+RUB_CentralBankReserves;20180906;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_S&PGlobalCompositePMI;20180906;13:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20180906;13:45;S&P Global Services PMI;United States;USD;2
+USD_CentralBankSpeech;20180906;14:00;Fed Williams speech;United States;USD;2
+USD_ISMServicesPMI;20180906;14:00;ISM Services PMI;United States;USD;2
+USD_ISMServicesNewOrdersIndex;20180906;14:00;ISM Services New Orders Index;United States;USD;2
+USD_ISMServicesEmploymentIndex;20180906;14:00;ISM Services Employment Index;United States;USD;2
+USD_ISMServicesPricesPaid;20180906;14:00;ISM Services Prices Paid;United States;USD;2
+USD_FactoryOrders;20180906;14:00;Factory Orders (MoM);United States;USD;2
+USD_EIANaturalGasStorageChange;20180906;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_EIACrudeOilStocksChange;20180906;15:00;EIA Crude Oil Stocks Change;United States;USD;1
+CHF_CentralBankSpeech;20180906;16:30;SNB Zurbrugg speech;Switzerland;CHF;2
+CAD_CentralBankSpeech;20180906;18:30;BoC Wilkins speech;Canada;CAD;2
+NZD_CentralBankSpeech;20180906;21:30;RBNZ Governor Orr speech;New Zealand;NZD;3
+AUD_AiGPerformanceofConstructionIndex;20180906;22:30;AiG Performance of Construction Index;Australia;AUD;2
+JPY_OverallHouseholdSpending;20180906;23:30;Overall Household Spending (YoY);Japan;JPY;2
+JPY_JPForeignReserves;20180906;23:50;JP Foreign Reserves;Japan;JPY;1

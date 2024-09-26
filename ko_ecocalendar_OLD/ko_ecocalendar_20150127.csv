@@ -1,0 +1,27 @@
+AUD_WestpacLeadingIndex;20150127;23:30;Westpac Leading Index (MoM);Australia;AUD;1
+USD_ConsumerConfidence;20150127;15:00;Consumer Confidence;United States;USD;3
+USD_NewHomeSales;20150127;15:00;New Home Sales (MoM);United States;USD;1
+USD_NewHomeSalesChange;20150127;15:00;New Home Sales Change (MoM);United States;USD;2
+USD_RichmondFedManufacturingIndex;20150127;15:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_MarkitServicesPMI;20150127;14:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20150127;14:45;Markit PMI Composite;United States;USD;2
+USD_S&PCaseShillerHomePriceIndices;20150127;14:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;1
+MXN_TradeBalance;20150127;14:00;Trade Balance, $;Mexico;MXN;1
+MXN_TradeBalancesa;20150127;14:00;Trade Balance s/a, $;Mexico;MXN;1
+USD_RedbookIndex;20150127;13:55;Redbook Index (MoM);United States;USD;1
+USD_DurableGoodsOrders;20150127;13:30;Durable Goods Orders ex Transportation;United States;USD;2
+EUR_SloCurrentAccount;20150127;13:30;Current Account Balance EUR;Slovakia;EUR;1
+PLN_Unemployment;20150127;13:00;Unemployment (MoM);Poland;PLN;1
+HUF_MNBInterestRateDecision;20150127;13:00;MNB Interest Rate Decision;Hungary;HUF;1
+EUR_SpaAuction;20150127;09:56;9-Month Letras Auction;Spain;EUR;1
+GBP_BBAMortgageApprovals;20150127;09:30;BBA Mortgage Approvals;United Kingdom;GBP;2
+GBP_GrossDomesticProduct;20150127;09:30;Gross Domestic Product (YoY);United Kingdom;GBP;3
+GBP_IndexofServices;20150127;09:30;Index of Services (3M/3M);United Kingdom;GBP;1
+PLN_RetailSales;20150127;09:00;Retail Sales (YoY);Poland;PLN;1
+SEK_ProducerPriceIndex;20150127;08:30;Producer Price Index (MoM);Sweden;SEK;1
+SEK_TradeBalance;20150127;08:30;Trade Balance (MoM);Sweden;SEK;1
+EUR_FinIndustrialConfidence;20150127;07:00;Industrial Confidence;Finland;EUR;1
+EUR_FinConsumerConfidence;20150127;07:00;Consumer Confidence;Finland;EUR;1
+AUD_NationalAustraliaBankBusinessConfidence;20150127;00:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20150127;00:30;National Australia Bank Business Conditions;Australia;AUD;1
+EUR_EurEcoFinMeeting;20150127;00:00;EcoFin Meeting;European Monetary Union;EUR;2

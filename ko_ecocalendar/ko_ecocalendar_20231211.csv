@@ -1,0 +1,23 @@
+IDR_RetailSales;20231211;04:00;Retail Sales (YoY);Indonesia;IDR;1
+JPY_MachineToolOrders;20231211;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+TRY_UnemploymentRate;20231211;07:00;Unemployment Rate;Turkey;TRY;1
+TRY_IndustrialProduction;20231211;07:00;Industrial Production (YoY);Turkey;TRY;1
+TRY_CurrentAccount;20231211;07:00;Current Account Balance;Turkey;TRY;1
+DKK_ConsumerPriceIndex;20231211;07:00;Consumer Price Index (YoY);Denmark;DKK;1
+DKK_Inflation;20231211;07:00;Inflation (HICP) (YoY);Denmark;DKK;1
+DKK_TradeBalance;20231211;07:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20231211;07:00;Current Account;Denmark;DKK;1
+RON_TradeBalance;20231211;07:00;Trade Balance;Romania;RON;1
+NOK_ConsumerPriceIndex;20231211;07:00;Consumer Price Index (YoY);Norway;NOK;1
+NOK_CoreInflation;20231211;07:00;Core Inflation (MoM);Norway;NOK;1
+NOK_ProducerPriceIndex;20231211;07:00;Producer Price Index (YoY);Norway;NOK;1
+CZK_ConsumerPriceIndex;20231211;08:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+ILS_BudgetBalanceILS;20231211;11:00;Budget Balance - ILS;Israel;ILS;1
+ILS_M1MoneySupply;20231211;12:30;M1 Money Supply (MoM);Israel;ILS;1
+USD_Auction;20231211;18:00;3-Year Note Auction;United States;USD;1
+NZD_VisitorArrivals;20231211;21:45;Visitor Arrivals (YoY);New Zealand;NZD;1
+NZD_RetailSales;20231211;21:45;Electronic Card Retail Sales (YoY);New Zealand;NZD;1
+AUD_CentralBankSpeech;20231211;22:20;RBA Governor Bullock speech;Australia;AUD;3
+AUD_WestpacConsumerConfidence;20231211;23:30;Westpac Consumer Confidence;Australia;AUD;2
+JPY_ProducerPriceIndex;20231211;23:50;Producer Price Index (YoY);Japan;JPY;1
+JPY_TradeBalanceBOPBasis;20231211;23:50;Trade Balance - BOP Basis;Japan;JPY;1

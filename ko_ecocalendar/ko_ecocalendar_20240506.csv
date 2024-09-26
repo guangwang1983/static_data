@@ -1,0 +1,27 @@
+NZD_ANZCommodityPrice;20240506;01:00;ANZ Commodity Price;New Zealand;NZD;1
+AUD_TDSecuritiesInflation;20240506;01:00;TD Securities Inflation (MoM);Australia;AUD;1
+AUD_ANZJobAdvertisements;20240506;01:30;ANZ Job Advertisements;Australia;AUD;1
+CNY_CaixinServicesPMI;20240506;01:45;Caixin Services PMI;China;CNY;3
+IDR_GrossDomesticProduct;20240506;04:00;Gross Domestic Product (YoY);Indonesia;IDR;1
+INR_HSBCCompositePMI;20240506;05:00;HSBC Composite PMI;India;INR;2
+INR_HSBCServicesPMI;20240506;05:00;HSBC Services PMI;India;INR;2
+RUB_S&PGlobalServicesPMI;20240506;06:00;S&P Global Services PMI;Russia;RUB;1
+HUF_TradeBalance;20240506;06:30;Trade Balance;Hungary;HUF;1
+CZK_UnemploymentRate;20240506;07:00;Unemployment Rate;Czech Republic;CZK;1
+EUR_ItaHCOBServicesPMI;20240506;07:45;HCOB Services PMI;Italy;EUR;1
+EUR_FraHCOBServicesPMI;20240506;07:50;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20240506;07:50;HCOB Composite PMI;France;EUR;1
+EUR_GerHCOBCompositePMI;20240506;07:55;HCOB Composite PMI;Germany;EUR;2
+EUR_GerHCOBServicesPMI;20240506;07:55;HCOB Services PMI;Germany;EUR;2
+EUR_EurHCOBServicesPMI;20240506;08:00;HCOB Services PMI;Eurozone;EUR;1
+EUR_EurHCOBCompositePMI;20240506;08:00;HCOB Composite PMI;Eurozone;EUR;2
+EUR_EurSentixInvestorConfidence;20240506;08:30;Sentix Investor Confidence;Eurozone;EUR;2
+EUR_EurProducerPriceIndex;20240506;09:00;Producer Price Index (YoY);Eurozone;EUR;2
+BRL_PrimaryBudgetSurplus;20240506;11:30;Primary Budget Surplus;Brazil;BRL;1
+BRL_NominalBudgetBalance;20240506;11:30;Nominal Budget Balance;Brazil;BRL;1
+CHF_CentralBankSpeech;20240506;12:25;SNB Chairman Jordan speech;Switzerland;CHF;3
+USD_Auction;20240506;15:30;6-Month Bill Auction;United States;USD;1
+USD_CentralBankSpeech;20240506;17:00;Fed Williams speech;United States;USD;2
+USD_LoanOfficerSurvey;20240506;18:00;Loan Officer Survey;United States;USD;2
+KRW_FXReserves;20240506;21:00;FX Reserves;South Korea;KRW;1
+GBP_RetailSales;20240506;23:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2

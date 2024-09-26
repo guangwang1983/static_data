@@ -1,0 +1,28 @@
+CNY_FDIForeignDirectInvestment;20231117;07:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;1
+GBP_RetailSales;20231117;07:00;Retail Sales ex-Fuel (YoY);United Kingdom;GBP;2
+SEK_UnemploymentRate;20231117;07:00;Unemployment Rate;Sweden;SEK;1
+CHF_IndustrialProduction;20231117;07:30;Industrial Production (YoY);Switzerland;CHF;2
+EUR_EurCentralBankSpeech;20231117;08:30;ECB President Lagarde speech;Eurozone;EUR;3
+EUR_EurCurrentAccount;20231117;09:00;Current Account n.s.a;Eurozone;EUR;1
+EUR_EurHarmonizedIndexofConsumerPrices;20231117;10:00;Harmonized Index of Consumer Prices (YoY);Eurozone;EUR;1
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20231117;10:00;Core Harmonized Index of Consumer Prices (MoM);Eurozone;EUR;2
+ILS_M1MoneySupply;20231117;10:00;M1 Money Supply (MoM);Israel;ILS;1
+INR_BankLoanGrowth;20231117;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20231117;11:30;FX Reserves, USD;India;INR;1
+GBP_CentralBankSpeech;20231117;13:10;BoE Ramsden speech;United Kingdom;GBP;2
+USD_HousingStarts;20231117;13:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20231117;13:30;Building Permits (MoM);United States;USD;2
+USD_BuildingPermitsChange;20231117;13:30;Building Permits Change;United States;USD;1
+USD_HousingStartsChange;20231117;13:30;Housing Starts Change;United States;USD;1
+CAD_RawMaterialPriceIndex;20231117;13:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20231117;13:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20231117;13:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20231117;13:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+USD_BakerHughesUSOilRigCount;20231117;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20231117;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20231117;20:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20231117;20:30;CFTC Gold NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20231117;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20231117;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20231117;20:30;CFTC EUR NC Net Positions;Eurozone;EUR;1
+AUD_CFTCAUDNCNetPositions;20231117;20:30;CFTC AUD NC Net Positions;Australia;AUD;1

@@ -1,0 +1,23 @@
+AUD_WestpacConsumerConfidence;20120117;23:30;Westpac Consumer Confidence;Australia;AUD;2
+NZD_REINZHousePriceIndex;20120117;21:00;REINZ House Price Index (MoM);New Zealand;NZD;2
+CAD_BoCInterestRateDecision;20120117;14:00;BoC Interest Rate Decision;Canada;CAD;3
+USD_NYEmpireStateManufacturingIndex;20120117;13:30;NY Empire State Manufacturing Index;United States;USD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20120117;13:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20120117;13:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+EUR_ItaQuarterlyeconomicbulletin;20120117;11:00;Quarterly economic bulletin;Italy;EUR;1
+EUR_SpaHousePriceIndex;20120117;10:00;House Price Index (QoQ);Spain;EUR;1
+EUR_EurConsumerPriceIndex;20120117;10:00;Consumer Price Index (YoY);European Monetary Union;EUR;2
+EUR_GerZEWSurveyEconomicSentiment;20120117;10:00;ZEW Survey - Economic Sentiment;Germany;EUR;2
+EUR_GerZEWSurveyCurrentSituation;20120117;10:00;ZEW Survey - Current Situation;Germany;EUR;2
+EUR_EurZEWSurveyEconomicSentiment;20120117;10:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;2
+GBP_CentralBankSpeech;20120117;10:00;BoE Governor King speech;United Kingdom;GBP;3
+GBP_RetailPriceIndex;20120117;09:30;Retail Price Index (MoM);United Kingdom;GBP;1
+GBP_DCLGHousePriceIndex;20120117;09:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20120117;09:30;Core Consumer Price Index (YoY);United Kingdom;GBP;3
+EUR_AusHICP;20120117;09:00;HICP (YoY);Austria;EUR;1
+EUR_FinProducerPriceIndex;20120117;07:00;Producer Price Index (YoY);Finland;EUR;1
+CNY_RetailSales;20120117;02:00;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20120117;02:00;Industrial Production (YoY);China;CNY;2
+CNY_NBSPressConference;20120117;02:00;NBS Press Conference;China;CNY;2
+CNY_FixedAssetInvestment;20120117;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+CNY_GrossDomesticProduct;20120117;02:00;Gross Domestic Product (YoY);China;CNY;3

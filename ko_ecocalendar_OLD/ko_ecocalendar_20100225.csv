@@ -1,0 +1,28 @@
+JPY_IndustrialProduction;20100225;23:50;Industrial Production (MoM);Japan;JPY;1
+JPY_LargeRetailers'Sales;20100225;23:50;Large Retailers' Sales;Japan;JPY;1
+JPY_RetailTrade;20100225;23:50;Retail Trade (YoY);Japan;JPY;2
+JPY_TokyoCPIexFreshFood;20100225;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20100225;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;3
+JPY_TokyoCPIexFoodEnergy;20100225;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_NationalCPIexFoodEnergy;20100225;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20100225;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+NZD_BuildingPermits;20100225;21:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+NZD_TradeBalance;20100225;21:45;Trade Balance (MoM);New Zealand;NZD;2
+USD_CentralBankSpeech;20100225;18:00;Fed Bullard speech;United States;USD;1
+USD_HousingPriceIndex;20100225;15:04;Housing Price Index (MoM);United States;USD;1
+USD_FedChairBernanketestifies;20100225;14:00;Fed Chair Bernanke testifies;United States;USD;3
+USD_JoblessClaims;20100225;13:30;Continuing Jobless Claims;United States;USD;1
+USD_DurableGoodsOrders;20100225;13:30;Durable Goods Orders ex Transportation;United States;USD;3
+GBP_CBIDistributiveTradesSurveyRealized;20100225;12:45;CBI Distributive Trades Survey - Realized (MoM);United Kingdom;GBP;1
+EUR_EurConsumerConfidence;20100225;10:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurEconomicSentimentIndicator;20100225;10:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+EUR_EurIndustrialConfidence;20100225;10:00;Industrial Confidence;European Monetary Union;EUR;1
+GBP_TotalBusinessInvestment;20100225;09:30;Total Business Investment (QoQ);United Kingdom;GBP;1
+GBP_CentralBankSpeech;20100225;09:30;BoE Governor King speech;United Kingdom;GBP;2
+EUR_EurM3MoneySupply;20100225;09:00;M3 Money Supply (YoY);European Monetary Union;EUR;1
+EUR_GerUnemploymentChange;20100225;08:55;Unemployment Change;Germany;EUR;3
+EUR_GerUnemploymentRate;20100225;08:55;Unemployment Rate s.a.;Germany;EUR;3
+CHF_EmploymentLevel;20100225;08:15;Employment Level (QoQ);Switzerland;CHF;2
+NZD_M3MoneySupply;20100225;02:00;M3 Money Supply (YoY);New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20100225;02:00;ANZ Business Confidence;New Zealand;NZD;2
+AUD_PrivateCapitalExpenditure;20100225;00:30;Private Capital Expenditure;Australia;AUD;1

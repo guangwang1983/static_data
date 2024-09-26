@@ -1,0 +1,22 @@
+BRL_Carnival;20200225;03:00;Carnival;Brazil;BRL;0
+JPY_CoincidentIndex;20200225;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20200225;05:00;Leading Economic Index;Japan;JPY;2
+EUR_GerGrossDomesticProduct;20200225;07:00;Gross Domestic Product (QoQ);Germany;EUR;2
+CHF_EmploymentLevel;20200225;07:30;Employment Level (QoQ);Switzerland;CHF;1
+EUR_FraBusinessClimateinManufacturing;20200225;07:45;Business Climate in Manufacturing;France;EUR;1
+PLN_Unemployment;20200225;09:00;Unemployment (MoM);Poland;PLN;1
+GBP_Auction;20200225;10:30;10-y Bond Auction;United Kingdom;GBP;1
+GBP_CBIDistributiveTradesSurvey–Realized;20200225;11:00;CBI Distributive Trades Survey – Realized (MoM);United Kingdom;GBP;1
+MXN_GrossDomesticProduct;20200225;12:00;Gross Domestic Product (QoQ);Mexico;MXN;1
+HUF_MNBInterestRateDecision;20200225;13:00;MNB Interest Rate Decision;Hungary;HUF;1
+USD_RedbookIndex;20200225;13:55;Redbook Index (YoY);United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20200225;14:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;2
+USD_HousingPriceIndex;20200225;14:00;Housing Price Index (MoM);United States;USD;2
+USD_ConsumerConfidence;20200225;15:00;Consumer Confidence;United States;USD;2
+MXN_CurrentAccount;20200225;15:00;Accumulated Current Account/GDP;Mexico;MXN;1
+USD_RichmondFedManufacturingIndex;20200225;15:00;Richmond Fed Manufacturing Index;United States;USD;1
+CAD_CentralBankSpeech;20200225;17:45;BoC Lane speech;Canada;CAD;2
+USD_Auction;20200225;18:00;2-Year Note Auction;United States;USD;1
+USD_CentralBankSpeech;20200225;20:00;Fed Clarida speech;United States;USD;2
+KRW_BOKManufacturingBSI;20200225;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+USD_APIWeeklyCrudeOilStock;20200225;21:30;API Weekly Crude Oil Stock;United States;USD;1

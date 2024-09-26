@@ -1,0 +1,36 @@
+JPY_MerchandiseTradeBalanceTotal;20121218;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Imports;20121218;23:50;Imports (YoY);Japan;JPY;1
+JPY_AdjustedMerchandiseTradeBalance;20121218;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_Exports;20121218;23:50;Exports (YoY);Japan;JPY;1
+AUD_WestpacLeadingIndex;20121218;23:30;Westpac Leading Index (MoM);Australia;AUD;1
+NZD_CurrentAccount;20121218;21:45;Current Account (QoQ);New Zealand;NZD;1
+USD_CentralBankSpeech;20121218;18:15;Fed Richard Fisher speech;United States;USD;1
+USD_Auction;20121218;18:00;5-Year Note Auction;United States;USD;1
+USD_NAHBHousingMarketIndex;20121218;15:00;NAHB Housing Market Index;United States;USD;1
+RUB_ProducerPriceIndex;20121218;14:12;Producer Price Index (YoY);Russia;RUB;1
+EUR_BelConsumerConfidenceIndex;20121218;14:00;Consumer Confidence Index;Belgium;EUR;1
+USD_RedbookIndex;20121218;13:55;Redbook Index (MoM);United States;USD;1
+USD_CurrentAccount;20121218;13:30;Current Account;United States;USD;1
+TRY_CBRTInterestRateDecision;20121218;13:00;CBRT Interest Rate Decision;Turkey;TRY;1
+HUF_MNBInterestRateDecision;20121218;13:00;MNB Interest Rate Decision;Hungary;HUF;1
+PLN_CorporateSectorWages;20121218;13:00;Corporate Sector Wages;Poland;PLN;1
+BRL_CurrentAccount;20121218;12:30;Current Account;Brazil;BRL;1
+GBP_BoEQuarterlyBulletin;20121218;11:00;BoE Quarterly Bulletin;United Kingdom;GBP;2
+EUR_IreGrossDomesticProduct;20121218;11:00;Gross Domestic Product (QoQ);Ireland;EUR;1
+EUR_SpaAuction;20121218;09:53;6-Month Letras Auction;Spain;EUR;1
+GBP_RetailPriceIndex;20121218;09:30;Retail Price Index (MoM);United Kingdom;GBP;1
+GBP_DCLGHousePriceIndex;20121218;09:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ProducerPriceIndex;20121218;09:30;Producer Price Index - Output (YoY) n.s.a;United Kingdom;GBP;2
+GBP_PPICoreOutput;20121218;09:30;PPI Core Output (MoM) n.s.a;United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20121218;09:30;Core Consumer Price Index (YoY);United Kingdom;GBP;3
+HKD_Unemploymentrate;20121218;08:30;Unemployment rate;Hong Kong SAR;HKD;1
+SEK_RiksbankInterestRateDecision;20121218;08:30;Riksbank Interest Rate Decision;Sweden;SEK;1
+HUF_GrossWages;20121218;08:00;Gross Wages (YoY);Hungary;HUF;1
+INR_CashReserveRatio;20121218;05:30;Cash Reserve Ratio;India;INR;1
+INR_ReverseRepoRate;20121218;05:30;Reverse Repo Rate;India;INR;1
+INR_RBIInterestRateDecision;20121218;05:30;RBI Interest Rate Decision (Repo Rate);India;INR;1
+CNY_FDIForeignDirectInvestment;20121218;02:42;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;1
+CNY_HousePriceIndex;20121218;00:30;House Price Index ;China;CNY;1
+AUD_RBAMeetingMinutes;20121218;00:30;RBA Meeting Minutes;Australia;AUD;3
+QAR_NationalDay;20121218;00:00;National Day;Qatar;QAR;0
+USD_LameDuckPeriodends;20121218;00:00;Lame Duck Period ends;United States;USD;1

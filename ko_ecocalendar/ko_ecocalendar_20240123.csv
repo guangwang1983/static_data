@@ -1,0 +1,28 @@
+AUD_NationalAustraliaBankBusinessConfidence;20240123;00:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20240123;00:30;National Australia Bank Business Conditions;Australia;AUD;1
+JPY_BoJMonetaryPolicyStatement;20240123;03:00;BoJ Monetary Policy Statement;Japan;JPY;3
+JPY_BoJOutlookReport;20240123;03:00;BoJ Outlook Report;Japan;JPY;2
+JPY_BoJInterestRateDecision;20240123;03:09;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_BoJPressConference;20240123;06:00;BoJ Press Conference;Japan;JPY;3
+TRY_ConsumerConfidence;20240123;07:00;Consumer Confidence;Turkey;TRY;1
+DKK_ConsumerConfidence;20240123;07:00;Consumer Confidence;Denmark;DKK;1
+GBP_PublicSectorNetBorrowing;20240123;07:00;Public Sector Net Borrowing;United Kingdom;GBP;1
+HUF_GrossWages;20240123;07:30;Gross Wages (YoY);Hungary;HUF;1
+EUR_EurECBBankLendingSurvey;20240123;09:00;ECB Bank Lending Survey;Eurozone;EUR;3
+EUR_GerAuction;20240123;10:30;30-y Bond Auction;Germany;EUR;1
+CAD_NewHousingPriceIndex;20240123;13:30;New Housing Price Index (YoY);Canada;CAD;1
+USD_RedbookIndex;20240123;14:55;Redbook Index (YoY);United States;USD;1
+USD_RichmondFedManufacturingIndex;20240123;15:00;Richmond Fed Manufacturing Index;United States;USD;1
+EUR_EurConsumerConfidence;20240123;15:00;Consumer Confidence;Eurozone;EUR;2
+USD_Auction;20240123;18:00;2-Year Note Auction;United States;USD;1
+KRW_ConsumerSentimentIndex;20240123;21:00;Consumer Sentiment Index;South Korea;KRW;1
+RON_Unificationday;20240123;21:00;Unification day;Romania;RON;0
+USD_APIWeeklyCrudeOilStock;20240123;21:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_ConsumerPriceIndex;20240123;21:45;Consumer Price Index (YoY);New Zealand;NZD;3
+AUD_JudoBankManufacturingPMI;20240123;22:00;Judo Bank Manufacturing PMI;Australia;AUD;2
+AUD_JudoBankServicesPMI;20240123;22:00;Judo Bank Services PMI;Australia;AUD;2
+AUD_JudoBankCompositePMI;20240123;22:00;Judo Bank Composite PMI;Australia;AUD;2
+JPY_Exports;20240123;23:50;Exports (YoY);Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20240123;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_MerchandiseTradeBalanceTotal;20240123;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Imports;20240123;23:50;Imports (YoY);Japan;JPY;2

@@ -1,0 +1,38 @@
+JPY_JPForeignReserves;20180206;23:50;JP Foreign Reserves;Japan;JPY;1
+AUD_AiGPerformanceofConstructionIndex;20180206;22:30;AiG Performance of Construction Index;Australia;AUD;2
+NZD_ParticipationRate;20180206;21:45;Participation Rate;New Zealand;NZD;2
+NZD_UnemploymentRate;20180206;21:45;Unemployment Rate;New Zealand;NZD;3
+NZD_EmploymentChange;20180206;21:45;Employment Change;New Zealand;NZD;3
+NZD_LabourCostIndex;20180206;21:45;Labour Cost Index (QoQ);New Zealand;NZD;2
+USD_APIWeeklyCrudeOilStock;20180206;21:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_Auction;20180206;16:30;4-Week Bill Auction;United States;USD;1
+USD_IBDTIPPEconomicOptimism;20180206;15:01;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+USD_JOLTSJobOpenings;20180206;15:00;JOLTS Job Openings;United States;USD;1
+CAD_IveyPurchasingManagersIndex;20180206;15:00;Ivey Purchasing Managers Index;Canada;CAD;2
+NZD_GDTPriceIndex;20180206;14:43;GDT Price Index;New Zealand;NZD;1
+MXN_ConsumerConfidence;20180206;14:00;Consumer Confidence;Mexico;MXN;1
+USD_RedbookIndex;20180206;13:55;Redbook Index (YoY);United States;USD;1
+USD_CentralBankSpeech;20180206;13:50;Fed Bullard speech;United States;USD;2
+USD_TradeBalance;20180206;13:30;Trade Balance;United States;USD;2
+CAD_Imports;20180206;13:30;Imports;Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20180206;13:30;International Merchandise Trade;Canada;CAD;2
+CAD_Exports;20180206;13:30;Exports;Canada;CAD;1
+ZAR_BusinessConfidenceIndex;20180206;09:30;Business Confidence Index;South Africa;ZAR;1
+EUR_GerCentralBankSpeech;20180206;09:00;German Buba President Weidmann speech;Germany;EUR;2
+SEK_IndustrialProduction;20180206;08:30;Industrial Production (MoM);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20180206;08:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+CZK_RetailSales;20180206;08:00;Retail Sales (YoY);Czech Republic;CZK;1
+CZK_IndustrialProduction;20180206;08:00;Industrial Production (YoY);Czech Republic;CZK;1
+EUR_AusTradeBalance;20180206;08:00;Trade Balance;Austria;EUR;1
+CZK_Constructionoutput;20180206;08:00;Construction output (YoY);Czech Republic;CZK;1
+EUR_FraIndividualInvestment;20180206;07:45;Individual Investment (Current Year);France;EUR;1
+EUR_FraBudget;20180206;07:45;Budget;France;EUR;1
+EUR_GerFactoryOrders;20180206;07:00;Factory Orders s.a. (MoM);Germany;EUR;1
+AUD_RBAInterestRateDecision;20180206;03:30;RBA Interest Rate Decision;Australia;AUD;3
+AUD_RBARateStatement;20180206;03:30;RBA Rate Statement;Australia;AUD;3
+AUD_RetailSales;20180206;00:30;Retail Sales s.a. (MoM);Australia;AUD;2
+AUD_Imports;20180206;00:30;Imports;Australia;AUD;2
+AUD_TradeBalance;20180206;00:30;Trade Balance;Australia;AUD;2
+AUD_Exports;20180206;00:30;Exports;Australia;AUD;2
+GBP_RetailSales;20180206;00:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+COP_ConsumerPriceIndex;20180206;00:00;Consumer Price Index (YoY);Colombia;COP;1

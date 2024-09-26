@@ -1,0 +1,35 @@
+ARS_GrossDomesticProduct;20161222;19:00;Gross Domestic Product (YoY)	;Argentina;ARS;1
+ARS_TradeBalance;20161222;19:00;Trade Balance (MoM);Argentina;ARS;1
+USD_KansasFedManufacturingActivity;20161222;16:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_EIANaturalGasStorageChange;20161222;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_PersonalConsumptionExpendituresPriceIndex;20161222;15:00;Personal Consumption Expenditures - Price Index (MoM);United States;USD;2
+USD_PersonalSpending;20161222;15:00;Personal Spending;United States;USD;2
+USD_CorePersonalConsumptionExpenditurePriceIndex;20161222;15:00;Core Personal Consumption Expenditure - Price Index (MoM);United States;USD;2
+USD_PersonalIncome;20161222;15:00;Personal Income (MoM);United States;USD;2
+USD_HousingPriceIndex;20161222;14:00;Housing Price Index (MoM);United States;USD;2
+MXN_1sthalfmonthCoreInflation;20161222;14:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20161222;14:00;1st half-month Inflation;Mexico;MXN;1
+USD_ChicagoFedNationalActivityIndex;20161222;13:30;Chicago Fed National Activity Index ;United States;USD;2
+USD_JoblessClaims;20161222;13:30;Initial Jobless Claims;United States;USD;2
+USD_GrossDomesticProduct;20161222;13:30;Gross Domestic Product Annualized;United States;USD;3
+USD_CorePersonalConsumptionExpenditures;20161222;13:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+USD_PersonalConsumptionExpendituresPrices;20161222;13:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+CAD_RetailSales;20161222;13:30;Retail Sales ex Autos (MoM);Canada;CAD;1
+USD_DurableGoodsOrders;20161222;13:30;Durable Goods Orders ex Transportation;United States;USD;3
+CAD_ConsumerPriceIndex;20161222;13:30;Consumer Price Index (MoM);Canada;CAD;1
+CZK_CNBInterestRateDecision;20161222;12:00;CNB Interest Rate Decision;Czech Republic;CZK;0
+RUB_CentralBankReserves;20161222;12:00;Central Bank Reserves $;Russia;RUB;1
+EUR_ItaTradeBalancenonEU;20161222;11:00;Trade Balance non-EU;Italy;EUR;1
+EUR_ItaRetailSales;20161222;10:00;Retail Sales s.a. (MoM);Italy;EUR;1
+ISK_ConsumerPriceIndex;20161222;09:00;Consumer Price Index (YoY);Iceland;ISK;1
+EUR_ItaIndustrialOrders;20161222;09:00;Industrial Orders n.s.a (YoY);Italy;EUR;1
+EUR_ItaIndustrialSales;20161222;09:00;Industrial Sales n.s.a. (YoY);Italy;EUR;1
+EUR_EurEconomicBulletin;20161222;09:00;Economic Bulletin;European Monetary Union;EUR;2
+SEK_RetailSales;20161222;08:30;Retail Sales (YoY);Sweden;SEK;1
+SEK_ProducerPriceIndex;20161222;08:30;Producer Price Index (MoM);Sweden;SEK;1
+DKK_RetailSales;20161222;08:00;Retail Sales (YoY);Denmark;DKK;1
+EUR_GerImportPriceIndex;20161222;07:00;Import Price Index (YoY);Germany;EUR;1
+DKK_GrossDomesticProduct;20161222;07:00;Gross Domestic Product - Revised (YoY);Denmark;DKK;1
+EUR_SpaTradeBalance;20161222;07:00;Trade Balance;Spain;EUR;1
+NZD_M3MoneySupply;20161222;02:00;M3 Money Supply (YoY);New Zealand;NZD;1
+GBP_GfKConsumerConfidence;20161222;00:01;GfK Consumer Confidence;United Kingdom;GBP;2

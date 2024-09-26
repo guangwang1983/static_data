@@ -1,0 +1,29 @@
+USD_EIACrudeOilStocksChange;20160121;16:00;EIA Crude Oil Stocks Change;United States;USD;2
+USD_EIANaturalGasStorageChange;20160121;15:30;EIA Natural Gas Storage Change;United States;USD;1
+EUR_EurConsumerConfidence;20160121;15:00;Consumer Confidence;European Monetary Union;EUR;1
+EUR_BelConsumerConfidenceIndex;20160121;14:00;Consumer Confidence Index;Belgium;EUR;1
+USD_JoblessClaims;20160121;13:30;Initial Jobless Claims;United States;USD;2
+EUR_EurECBMonetaryPolicyStatementandPressConference;20160121;13:30;ECB Monetary Policy Statement and Press Conference;European Monetary Union;EUR;3
+USD_PhiladelphiaFedManufacturingSurvey;20160121;13:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+PLN_RetailSales;20160121;13:00;Retail Sales (YoY);Poland;PLN;1
+PLN_IndustrialOutput;20160121;13:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20160121;13:00;Producer Price Index (YoY);Poland;PLN;1
+EUR_EurECBDepositRateDecision;20160121;12:45;ECB Deposit Rate Decision;European Monetary Union;EUR;2
+EUR_EurECBInterestRateDecision;20160121;12:45;ECB Interest Rate Decision;European Monetary Union;EUR;3
+EUR_PorCurrentAccount;20160121;10:27;Current Account Balance;Portugal;EUR;1
+EUR_SpaAuction;20160121;10:10;3-y Bond Auction;Spain;EUR;1
+EUR_SpaTradeBalance;20160121;09:00;Trade Balance;Spain;EUR;1
+HKD_ConsumerPriceIndex;20160121;08:30;Consumer Price Index;Hong Kong SAR;HKD;1
+HUF_GrossWages;20160121;08:00;Gross Wages (YoY);Hungary;HUF;1
+TRY_ConsumerConfidence;20160121;08:00;Consumer Confidence;Turkey;TRY;1
+DKK_ConsumerConfidence;20160121;08:00;Consumer Confidence;Denmark;DKK;1
+EUR_FraBusinessClimate;20160121;07:45;Business Climate;France;EUR;1
+EUR_NetUnemploymentRate;20160121;06:30;Unemployment Rate s.a (3M);Netherlands, The;EUR;1
+EUR_NetConsumerConfidenceAdj;20160121;06:30;Consumer Confidence Adj;Netherlands, The;EUR;1
+EUR_NetConsumerSpendingVolume;20160121;06:30;Consumer Spending Volume;Netherlands, The;EUR;1
+JPY_AllIndustryActivityIndex;20160121;04:30;All Industry Activity Index (MoM);Japan;JPY;2
+AUD_RBAForeignExchangeTransaction;20160121;03:00;RBA Foreign Exchange Transaction;Australia;AUD;1
+GBP_RICSHousingPriceBalance;20160121;00:01;RICS Housing Price Balance;United Kingdom;GBP;2
+AUD_HIANewHomeSales;20160121;00:00;HIA New Home Sales (MoM);Australia;AUD;2
+CHF_WorldEconomicForumDavos;20160121;00:00;World Economic Forum - Davos;Switzerland;CHF;2
+AUD_ConsumerInflationExpectations;20160121;00:00;Consumer Inflation Expectations;Australia;AUD;2

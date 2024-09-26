@@ -1,0 +1,25 @@
+AUD_BuildingPermits;20190402;00:30;Building Permits (YoY);Australia;AUD;1
+AUD_RBAInterestRateDecision;20190402;03:30;RBA Interest Rate Decision;Australia;AUD;3
+AUD_RBARateStatement;20190402;03:30;RBA Rate Statement;Australia;AUD;3
+JPY_Auction;20190402;03:45;10-y Bond Auction;Japan;JPY;1
+CHF_ConsumerPriceIndex;20190402;06:30;Consumer Price Index (YoY);Switzerland;CHF;2
+EUR_EurCentralBankSpeech;20190402;07:00;ECB Praet speech;European Monetary Union;EUR;2
+CZK_GrossDomesticProduct;20190402;07:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+AUD_BudgetRelease;20190402;08:30;Budget Release;Australia;AUD;3
+GBP_S&PGlobalConstructionPMI;20190402;08:30;S&P Global Construction PMI;United Kingdom;GBP;1
+EUR_EurProducerPriceIndex;20190402;09:00;Producer Price Index (MoM);European Monetary Union;EUR;1
+RON_Interestratedecision;20190402;09:00;Interest rate decision;Romania;RON;1
+BRL_IndustrialOutput;20190402;12:00;Industrial Output (MoM);Brazil;BRL;1
+USD_DurableGoodsOrders;20190402;12:30;Durable Goods Orders;United States;USD;2
+USD_NondefenseCapitalGoodsOrdersexAircraft;20190402;12:30;Nondefense Capital Goods Orders ex Aircraft;United States;USD;3
+USD_RedbookIndex;20190402;12:55;Redbook Index (YoY);United States;USD;1
+USD_ISMNYBusinessConditionsIndex;20190402;13:45;ISM-NY Business Conditions Index;United States;USD;1
+DKK_CurrencyReserves;20190402;15:00;Currency Reserves;Denmark;DKK;1
+NZD_GDTPriceIndex;20190402;18:29;GDT Price Index;New Zealand;NZD;2
+USD_TotalVehicleSales;20190402;19:30;Total Vehicle Sales;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20190402;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_FXReserves;20190402;21:00;FX Reserves;South Korea;KRW;1
+AUD_AiGPerformanceofServicesIndex;20190402;21:30;AiG Performance of Services Index;Australia;AUD;1
+AUD_S&PGlobalServicesPMI;20190402;22:00;S&P Global Services PMI;Australia;AUD;1
+AUD_S&PGlobalCompositePMI;20190402;22:00;S&P Global Composite PMI;Australia;AUD;1
+GBP_BRCShopPriceIndex;20190402;23:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1

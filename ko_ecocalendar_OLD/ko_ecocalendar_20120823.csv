@@ -1,0 +1,36 @@
+JPY_CorporateServicePrice;20120823;23:50;Corporate Service Price (YoY);Japan;JPY;1
+AUD_CentralBankSpeech;20120823;23:30;RBA Governor Stevens speech;Australia;AUD;1
+NZD_TradeBalance;20120823;22:45;Trade Balance (YoY);New Zealand;NZD;2
+NZD_Imports;20120823;22:45;Imports;New Zealand;NZD;1
+NZD_Exports;20120823;22:45;Exports;New Zealand;NZD;1
+EUR_EurHollandeMerkelMeeting;20120823;17:00;Hollande - Merkel Meeting;European Monetary Union;EUR;1
+USD_EIANaturalGasStorageChange;20120823;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_NewHomeSales;20120823;14:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20120823;14:00;New Home Sales Change (MoM);United States;USD;1
+EUR_EurConsumerConfidence;20120823;14:00;Consumer Confidence;European Monetary Union;EUR;2
+USD_HousingPriceIndex;20120823;14:00;Housing Price Index (MoM);United States;USD;1
+BRL_CurrentAccount;20120823;13:30;Current Account;Brazil;BRL;1
+ARS_IndustrialOutput;20120823;13:30;Industrial Output n.s.a (YoY);Argentina;ARS;1
+MXN_1sthalfmonthCoreInflation;20120823;13:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20120823;13:00;1st half-month Inflation;Mexico;MXN;1
+USD_MarkitManufacturingPMI;20120823;12:58;Markit Manufacturing PMI;United States;USD;2
+USD_JoblessClaims;20120823;12:30;Initial Jobless Claims;United States;USD;2
+GBP_CBIDistributiveTradesSurveyRealized;20120823;10:00;CBI Distributive Trades Survey - Realized (MoM);United Kingdom;GBP;1
+GBP_BBAMortgageApprovals;20120823;08:30;BBA Mortgage Approvals;United Kingdom;GBP;2
+NOK_GrossDomesticProduct;20120823;08:00;Gross Domestic Product Growth;Norway;NOK;1
+EUR_EurMarkitPMIComposite;20120823;07:58;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitManufacturingPMI;20120823;07:58;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20120823;07:58;Markit Services PMI;European Monetary Union;EUR;2
+SEK_UnemploymentRate;20120823;07:30;Unemployment Rate;Sweden;SEK;1
+EUR_GerMarkitManufacturingPMI;20120823;07:28;Markit Manufacturing PMI;Germany;EUR;2
+EUR_GerMarkitServicesPMI;20120823;07:28;Markit Services PMI;Germany;EUR;2
+DKK_ConsumerConfidence;20120823;07:00;Consumer Confidence;Denmark;DKK;1
+EUR_FraMarkitServicesPMI;20120823;06:58;Markit Services PMI;France;EUR;1
+EUR_FraMarkitManufacturingPMI;20120823;06:58;Markit Manufacturing PMI;France;EUR;1
+CHF_Exports;20120823;06:00;Exports (MoM);Switzerland;CHF;1
+CHF_Imports;20120823;06:00;Imports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20120823;06:00;Trade Balance;Switzerland;CHF;2
+EUR_GerGrossDomesticProduct;20120823;06:00;Gross Domestic Product (QoQ);Germany;EUR;3
+SGD_ConsumerPriceIndex;20120823;05:00;Consumer Price Index (YoY);Singapore;SGD;1
+CNY_CaixinManufacturingPMI;20120823;02:30;Caixin Manufacturing PMI;China;CNY;2
+RUB_CentralBankReserves;20120823;00:00;Central Bank Reserves $;Russia;RUB;1

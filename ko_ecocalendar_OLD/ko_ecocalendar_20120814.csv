@@ -1,0 +1,43 @@
+USD_Auction;20120814;15:30;4-Week Bill Auction;United States;USD;1
+USD_BusinessInventories;20120814;14:00;Business Inventories;United States;USD;2
+USD_IBDTIPPEconomicOptimism;20120814;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+USD_RedbookIndex;20120814;12:55;Redbook Index (YoY);United States;USD;1
+USD_RetailSales;20120814;12:30;Retail Sales ex Autos (MoM);United States;USD;2
+USD_ProducerPriceIndex;20120814;12:30;Producer Price Index ex Food & Energy (YoY);United States;USD;2
+PLN_ConsumerPriceIndex;20120814;12:00;Consumer Price Index (MoM);Poland;PLN;1
+PLN_M3MoneySupply;20120814;12:00;M3 Money Supply (YoY);Poland;PLN;1
+USD_NFIBBusinessOptimismIndex;20120814;11:30;NFIB Business Optimism Index;United States;USD;1
+EUR_PorUnemploymentRate;20120814;10:00;Unemployment Rate;Portugal;EUR;1
+EUR_EurGrossDomesticProduct;20120814;09:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+EUR_PorGrossDomesticProduct;20120814;09:00;Gross Domestic Product (YoY);Portugal;EUR;1
+EUR_EurIndustrialProduction;20120814;09:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;2
+EUR_GerZEWSurveyEconomicSentiment;20120814;09:00;ZEW Survey - Economic Sentiment;Germany;EUR;3
+EUR_GerZEWSurveyCurrentSituation;20120814;09:00;ZEW Survey - Current Situation;Germany;EUR;2
+EUR_EurZEWSurveyEconomicSentiment;20120814;09:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;2
+GBP_RetailPriceIndex;20120814;08:30;Retail Price Index (MoM);United Kingdom;GBP;1
+GBP_DCLGHousePriceIndex;20120814;08:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20120814;08:30;Core Consumer Price Index (YoY);United Kingdom;GBP;3
+SEK_IndustrialProduction;20120814;07:30;Industrial Production (MoM);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20120814;07:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+EUR_NetGrossDomesticProduct;20120814;07:30;Gross Domestic Product n.s.a (YoY);Netherlands, The;EUR;1
+SEK_ConsumerPriceIndex;20120814;07:30;Consumer Price Index (MoM);Sweden;SEK;1
+CHF_ProducerandImportPrices;20120814;07:15;Producer and Import Prices (MoM);Switzerland;CHF;1
+EUR_SpaHICP;20120814;07:00;HICP (YoY);Spain;EUR;1
+EUR_AusGrossDomesticProduct;20120814;07:00;Gross Domestic Product (QoQ);Austria;EUR;1
+RON_GrossDomesticProduct;20120814;07:00;Gross Domestic Product;Romania;RON;1
+EUR_SpaConsumerPriceIndex;20120814;07:00;Consumer Price Index (MoM);Spain;EUR;1
+HUF_ConsumerPriceIndex;20120814;07:00;Consumer Price Index (YoY);Hungary;HUF;1
+CZK_GrossDomesticProduct;20120814;07:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+HUF_GrossDomesticProduct;20120814;07:00;Gross Domestic Product (YoY);Hungary;HUF;1
+EUR_SloGrossDomesticProduct;20120814;07:00;Gross Domestic Product Prelim (YoY);Slovakia;EUR;1
+EUR_FraNonfarmPayrolls;20120814;06:45;Nonfarm Payrolls (QoQ);France;EUR;1
+INR_WPIInflation;20120814;06:30;WPI Inflation;India;INR;1
+EUR_FinGrossDomesticProduct;20120814;06:00;Gross Domestic Product (YoY);Finland;EUR;1
+EUR_GerGrossDomesticProduct;20120814;06:00;Gross Domestic Product (YoY);Germany;EUR;3
+EUR_FinConsumerPriceIndex;20120814;06:00;Consumer Price Index (YoY);Finland;EUR;1
+EUR_FraConsumerPriceIndex;20120814;05:30;Consumer Price Index (EU norm) (YoY);France;EUR;1
+EUR_FraInflationextobacco;20120814;05:30;Inflation ex-tobacco (MoM);France;EUR;1
+EUR_FraGrossDomesticProduct;20120814;05:30;Gross Domestic Product (QoQ);France;EUR;1
+AUD_NewMotorVehicleSales;20120814;01:30;New Motor Vehicle Sales (MoM);Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConfidence;20120814;01:30;National Australia Bank Business Confidence;Australia;AUD;2
+AUD_NationalAustraliaBankBusinessConditions;20120814;01:30;National Australia Bank Business Conditions;Australia;AUD;1

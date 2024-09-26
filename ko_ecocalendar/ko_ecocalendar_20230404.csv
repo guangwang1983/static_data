@@ -1,0 +1,29 @@
+JPY_Auction;20230404;03:35;10-y Bond Auction;Japan;JPY;1
+AUD_RBAInterestRateDecision;20230404;04:30;RBA Interest Rate Decision;Australia;AUD;3
+AUD_RBARateStatement;20230404;04:30;RBA Rate Statement;Australia;AUD;3
+EUR_GerTradeBalance;20230404;06:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerExports;20230404;06:00;Exports (MoM);Germany;EUR;1
+EUR_GerImports;20230404;06:00;Imports (MoM);Germany;EUR;1
+TRY_Exports;20230404;08:00;Exports;Turkey;TRY;1
+BRL_FipeIPCInflation;20230404;08:00;Fipe IPC Inflation;Brazil;BRL;1
+EUR_EurProducerPriceIndex;20230404;09:00;Producer Price Index (MoM);European Monetary Union;EUR;1
+ILS_FXReserves;20230404;11:00;FX Reserves;Israel;ILS;1
+RON_Interestratedecision;20230404;12:00;Interest rate decision;Romania;RON;1
+CAD_BuildingPermits;20230404;12:30;Building Permits (MoM);Canada;CAD;1
+USD_RedbookIndex;20230404;12:55;Redbook Index (YoY);United States;USD;1
+USD_JOLTSJobOpenings;20230404;14:00;JOLTS Job Openings;United States;USD;1
+USD_FactoryOrders;20230404;14:00;Factory Orders (MoM);United States;USD;2
+USD_IBDTIPPEconomicOptimism;20230404;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+DKK_CurrencyReserves;20230404;15:00;Currency Reserves;Denmark;DKK;1
+NZD_GDTPriceIndex;20230404;15:00;GDT Price Index;New Zealand;NZD;1
+CNY_TombSweepingDay;20230404;16:00;Tomb Sweeping Day;China;CNY;0
+GBP_CentralBankSpeech;20230404;16:30;BoE Pill speech;United Kingdom;GBP;2
+USD_CentralBankSpeech;20230404;17:30;Fed Cook speech;United States;USD;2
+USD_APIWeeklyCrudeOilStock;20230404;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_FXReserves;20230404;21:00;FX Reserves;South Korea;KRW;1
+CLP_BCCHInterestRate;20230404;22:00;BCCH Interest Rate;Chile;CLP;1
+AUD_AiGIndustryIndex;20230404;23:00;AiG Industry Index;Australia;AUD;2
+AUD_AiGManufacturingPMI;20230404;23:00;AiG Manufacturing PMI;Australia;AUD;1
+AUD_S&PGlobalServicesPMI;20230404;23:00;S&P Global Services PMI;Australia;AUD;2
+AUD_S&PGlobalCompositePMI;20230404;23:00;S&P Global Composite PMI;Australia;AUD;1
+AUD_AiGConstructionPMI;20230404;23:00;AiG Construction PMI;Australia;AUD;1

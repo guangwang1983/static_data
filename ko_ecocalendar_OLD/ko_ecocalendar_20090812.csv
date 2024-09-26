@@ -1,0 +1,20 @@
+USD_FedInterestRateDecision;20090812;18:15;Fed Interest Rate Decision;United States;USD;3
+USD_MonthlyBudgetStatement;20090812;18:00;Monthly Budget Statement;United States;USD;1
+USD_EIACrudeOilStocksChange;20090812;14:30;EIA Crude Oil Stocks Change;United States;USD;2
+USD_TradeBalance;20090812;12:30;Trade Balance;United States;USD;3
+CAD_DONOTINCLUDENewHousingPriceIndex;20090812;12:30;DO NOT INCLUDE - New Housing Price Index (YoY);Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20090812;12:30;International Merchandise Trade;Canada;CAD;2
+CAD_NewHousingPriceIndex;20090812;12:30;New Housing Price Index (MoM);Canada;CAD;1
+USD_MBAMortgageApplications;20090812;11:00;MBA Mortgage Applications;United States;USD;1
+GBP_BankofEnglandQuarterlyInflationReport;20090812;09:30;Bank of England Quarterly Inflation Report;United Kingdom;GBP;2
+GBP_CentralBankSpeech;20090812;09:30;BoE Governor King speech;United Kingdom;GBP;2
+EUR_EurIndustrialProduction;20090812;09:00;Industrial Production s.a. (MoM);European Monetary Union;EUR;1
+GBP_AverageEarningsIncludingBonus;20090812;08:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;1
+GBP_ILOUnemploymentRate;20090812;08:30;ILO Unemployment Rate (3M);United Kingdom;GBP;2
+GBP_ClaimantCountChange;20090812;08:30;Claimant Count Change;United Kingdom;GBP;1
+GBP_ClaimantCountRate;20090812;08:30;Claimant Count Rate;United Kingdom;GBP;1
+GBP_AverageEarningsExcludingBonus;20090812;08:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;1
+JPY_IndustrialProduction;20090812;04:30;Industrial Production (MoM);Japan;JPY;1
+JPY_CapacityUtilization;20090812;04:30;Capacity Utilization;Japan;JPY;1
+AUD_WagePriceIndex;20090812;01:30;Wage Price Index (YoY);Australia;AUD;1
+AUD_WestpacConsumerConfidence;20090812;01:00;Westpac Consumer Confidence;Australia;AUD;1

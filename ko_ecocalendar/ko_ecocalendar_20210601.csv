@@ -1,0 +1,62 @@
+KRW_TradeBalance;20210601;00:00;Trade Balance;South Korea;KRW;1
+KRW_S&PGlobalManufacturingPMI;20210601;00:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+JPY_JibunBankManufacturingPMI;20210601;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+AUD_CurrentAccount;20210601;01:30;Current Account Balance;Australia;AUD;1
+AUD_CompanyGrossOperatingProfits;20210601;01:30;Company Gross Operating Profits (QoQ);Australia;AUD;1
+AUD_BuildingPermits;20210601;01:30;Building Permits (YoY);Australia;AUD;1
+CNY_CaixinManufacturingPMI;20210601;01:45;Caixin Manufacturing PMI;China;CNY;2
+AUD_RBAInterestRateDecision;20210601;04:30;RBA Interest Rate Decision;Australia;AUD;3
+AUD_RBARateStatement;20210601;04:30;RBA Rate Statement;Australia;AUD;3
+GBP_NationwideHousingPrices;20210601;06:00;Nationwide Housing Prices s.a (MoM);United Kingdom;GBP;1
+RUB_S&PGlobalManufacturingPMI;20210601;06:00;S&P Global Manufacturing PMI;Russia;RUB;1
+CHF_RetailSales;20210601;06:30;Real Retail Sales (YoY);Switzerland;CHF;2
+AUD_RBACommodityIndexSDR;20210601;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+SEK_PurchasingManagersIndexManufacturing;20210601;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+CHF_GrossDomesticProduct;20210601;07:00;Gross Domestic Product s.a. (QoQ);Switzerland;CHF;3
+HUF_PurchasingManagerIndex;20210601;07:00;Purchasing Manager Index;Hungary;HUF;1
+CZK_GrossDomesticProduct;20210601;07:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+HUF_TradeBalance;20210601;07:00;Trade Balance;Hungary;HUF;1
+HUF_GrossDomesticProduct;20210601;07:00;Gross Domestic Product (YoY);Hungary;HUF;1
+PLN_PurchasingManagerIndex;20210601;07:00;Purchasing Manager Index;Poland;PLN;2
+CHF_SVMEPurchasingManagers'Index;20210601;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_S&PGlobalPMI;20210601;07:30;S&P Global PMI;Czech Republic;CZK;1
+EUR_ItaHCOBManufacturingPMI;20210601;07:45;HCOB Manufacturing PMI;Italy;EUR;2
+EUR_FraHCOBManufacturingPMI;20210601;07:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerUnemploymentRate;20210601;07:55;Unemployment Rate s.a.;Germany;EUR;2
+EUR_GerUnemploymentChange;20210601;07:55;Unemployment Change;Germany;EUR;2
+EUR_GerHCOBManufacturingPMI;20210601;07:55;HCOB Manufacturing PMI;Germany;EUR;2
+EUR_ItaUnemployment;20210601;08:00;Unemployment;Italy;EUR;2
+EUR_EurHCOBManufacturingPMI;20210601;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;1
+GBP_S&PGlobalCIPSManufacturingPMI;20210601;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+EUR_EurUnemploymentRate;20210601;09:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_EurHarmonizedIndexofConsumerPrices;20210601;09:00;Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20210601;09:00;Core Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_ItaGrossDomesticProduct;20210601;09:00;Gross Domestic Product (YoY);Italy;EUR;2
+DKK_ManufacturingPMI;20210601;09:00;Manufacturing PMI;Denmark;DKK;1
+ZAR_UnemploymentRate;20210601;09:30;Unemployment Rate (%);South Africa;ZAR;1
+ZAR_UnemploymentTotal;20210601;09:30;Unemployment Total ;South Africa;ZAR;1
+USD_OPECMeeting;20210601;10:00;OPEC Meeting;United States;USD;2
+CLP_IMACEC;20210601;10:30;IMACEC;Chile;CLP;1
+ZAR_TotalNewVehicleSales;20210601;11:00;Total New Vehicle Sales;South Africa;ZAR;1
+BRL_GrossDomesticProduct;20210601;12:00;Gross Domestic Product (QoQ);Brazil;BRL;1
+CZK_BudgetBalance;20210601;12:00;Budget Balance;Czech Republic;CZK;1
+BRL_S&PGlobalManufacturingPMI;20210601;13:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+CAD_S&PGlobalManufacturingPMI;20210601;13:30;S&P Global Manufacturing PMI;Canada;CAD;2
+CAD_GrossDomesticProduct;20210601;13:30;Gross Domestic Product (QoQ);Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20210601;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_ISMManufacturingPMI;20210601;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20210601;14:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ISMManufacturingNewOrdersIndex;20210601;14:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ISMManufacturingEmploymentIndex;20210601;14:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ConstructionSpending;20210601;14:00;Construction Spending (MoM);United States;USD;1
+NZD_GDTPriceIndex;20210601;14:10;GDT Price Index;New Zealand;NZD;1
+USD_DallasFedManufacturingBusinessIndex;20210601;14:30;Dallas Fed Manufacturing Business Index;United States;USD;1
+GBP_CentralBankSpeech;20210601;15:00;BoE Governor Bailey speech;United Kingdom;GBP;3
+USD_Auction;20210601;15:30;6-Month Bill Auction;United States;USD;1
+BRL_TradeBalance;20210601;18:00;Trade Balance;Brazil;BRL;1
+USD_CentralBankSpeech;20210601;18:00;Fed Brainard speech;United States;USD;2
+EUR_ItaRepublicDay;20210601;22:00;Republic Day;Italy;EUR;0
+NZD_TermsofTradeIndex;20210601;22:45;Terms of Trade Index;New Zealand;NZD;1
+KRW_ConsumerPriceIndex;20210601;23:00;Consumer Price Index Growth (YoY);South Korea;KRW;1
+GBP_BRCShopPriceIndex;20210601;23:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1
+JPY_MonetaryBase;20210601;23:50;Monetary Base (YoY);Japan;JPY;1

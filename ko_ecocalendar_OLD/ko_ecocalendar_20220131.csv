@@ -1,0 +1,27 @@
+AUD_PrivateSectorCredit;20220131;00:30;Private Sector Credit (MoM);Australia;AUD;1
+JPY_HousingStarts;20220131;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_ConstructionOrders;20220131;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_AnnualizedHousingStarts;20220131;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_ConsumerConfidenceIndex;20220131;05:00;Consumer Confidence Index;Japan;JPY;1
+ZAR_PrivateSectorCredit;20220131;06:00;Private Sector Credit;South Africa;ZAR;1
+ZAR_M3MoneySupply;20220131;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+TRY_TradeBalance;20220131;07:00;Trade Balance;Turkey;TRY;1
+DKK_UnemploymentRate;20220131;07:00;Unemployment Rate;Denmark;DKK;1
+NOK_CreditIndicator;20220131;07:00;Credit Indicator;Norway;NOK;1
+TRY_ForeignArrivals;20220131;08:00;Foreign Arrivals;Turkey;TRY;1
+EUR_EurGrossDomesticProduct;20220131;10:00;Gross Domestic Product s.a. (QoQ);European Monetary Union;EUR;3
+ZAR_TradeBalance;20220131;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+CAD_RawMaterialPriceIndex;20220131;13:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20220131;13:30;Industrial Product Price (MoM);Canada;CAD;1
+USD_ChicagoPurchasingManagers'Index;20220131;14:45;Chicago Purchasing Managers' Index;United States;USD;2
+USD_DallasFedManufacturingBusinessIndex;20220131;15:30;Dallas Fed Manufacturing Business Index;United States;USD;1
+CNY_ChineseNewYear;20220131;16:00;Chinese New Year;China;CNY;0
+USD_Auction;20220131;16:30;6-Month Bill Auction;United States;USD;1
+USD_LoanOfficerSurvey;20220131;18:00;Loan Officer Survey;United States;USD;1
+AUD_AiGPerformanceofMfgIndex;20220131;21:30;AiG Performance of Mfg Index;Australia;AUD;2
+NZD_TradeBalanceNZD;20220131;21:45;Trade Balance NZD (MoM);New Zealand;NZD;1
+NZD_Exports;20220131;21:45;Exports;New Zealand;NZD;2
+NZD_Imports;20220131;21:45;Imports;New Zealand;NZD;2
+AUD_CommonwealthBankManufacturingPMI;20220131;22:00;Commonwealth Bank Manufacturing PMI;Australia;AUD;1
+JPY_JobsApplicantsRatio;20220131;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+JPY_UnemploymentRate;20220131;23:30;Unemployment Rate;Japan;JPY;2

@@ -1,0 +1,54 @@
+JPY_MerchandiseTradeBalanceTotal;20141216;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Imports;20141216;23:50;Imports (YoY);Japan;JPY;1
+JPY_Exports;20141216;23:50;Exports (YoY);Japan;JPY;1
+JPY_AdjustedMerchandiseTradeBalance;20141216;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;2
+AUD_WestpacLeadingIndex;20141216;23:30;Westpac Leading Index (MoM);Australia;AUD;1
+NZD_CurrentAccount;20141216;21:45;Current Account (QoQ);New Zealand;NZD;1
+KRW_ProducerPriceIndex;20141216;21:00;Producer Price Index Growth (YoY);South Korea;KRW;1
+USD_Auction;20141216;16:30;4-Week Bill Auction;United States;USD;1
+NZD_GDTPriceIndex;20141216;15:00;GDT Price Index;New Zealand;NZD;1
+USD_MarkitManufacturingPMI;20141216;14:45;Markit Manufacturing PMI;United States;USD;2
+USD_RedbookIndex;20141216;13:55;Redbook Index (MoM);United States;USD;1
+USD_HousingStarts;20141216;13:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20141216;13:30;Building Permits (MoM);United States;USD;2
+CAD_ManufacturingShipments;20141216;13:30;Manufacturing Shipments (MoM);Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20141216;13:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20141216;13:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+EUR_SloCurrentAccount;20141216;13:30;Current Account Balance EUR;Slovakia;EUR;1
+PLN_NetInflation;20141216;13:00;Net Inflation;Poland;PLN;1
+HUF_MNBInterestRateDecision;20141216;13:00;MNB Interest Rate Decision;Hungary;HUF;1
+PLN_CorporateSectorWages;20141216;13:00;Corporate Sector Wages;Poland;PLN;1
+EUR_SpaAuction;20141216;10:09;9-Month Letras Auction;Spain;EUR;1
+EUR_EurTradeBalance;20141216;10:00;Trade Balance n.s.a.;European Monetary Union;EUR;1
+EUR_EurZEWSurveyEconomicSentiment;20141216;10:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurveyEconomicSentiment;20141216;10:00;ZEW Survey - Economic Sentiment;Germany;EUR;3
+EUR_GerZEWSurveyCurrentSituation;20141216;10:00;ZEW Survey - Current Situation;Germany;EUR;2
+GBP_RetailPriceIndex;20141216;09:30;Retail Price Index (MoM);United Kingdom;GBP;1
+GBP_DCLGHousePriceIndex;20141216;09:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ProducerPriceIndex;20141216;09:30;Producer Price Index - Input (YoY) n.s.a;United Kingdom;GBP;1
+GBP_PPICoreOutput;20141216;09:30;PPI Core Output (YoY) n.s.a ;United Kingdom;GBP;2
+GBP_ConsumerPriceIndex;20141216;09:30;Core Consumer Price Index (YoY);United Kingdom;GBP;3
+EUR_ItaTradeBalanceEU;20141216;09:00;Trade Balance EU;Italy;EUR;1
+EUR_ItaGlobalTradeBalance;20141216;09:00;Global Trade Balance;Italy;EUR;1
+GBP_CentralBankSpeech;20141216;09:00;BoE Governor Carney speech;United Kingdom;GBP;3
+EUR_EurMarkitPMIComposite;20141216;09:00;Markit PMI Composite;European Monetary Union;EUR;1
+EUR_EurMarkitManufacturingPMI;20141216;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20141216;09:00;Markit Services PMI;European Monetary Union;EUR;1
+GBP_FPCStatement;20141216;08:30;FPC Statement;United Kingdom;GBP;1
+EUR_GerMarkitManufacturingPMI;20141216;08:30;Markit Manufacturing PMI;Germany;EUR;2
+EUR_GerMarkitServicesPMI;20141216;08:30;Markit Services PMI;Germany;EUR;1
+SEK_RiksbankInterestRateDecision;20141216;08:30;Riksbank Interest Rate Decision;Sweden;SEK;1
+CZK_ProducerPriceIndex;20141216;08:00;Producer Price Index (YoY);Czech Republic;CZK;1
+EUR_FraMarkitManufacturingPMI;20141216;08:00;Markit Manufacturing PMI;France;EUR;1
+EUR_FraMarkitPMIComposite;20141216;08:00;Markit PMI Composite;France;EUR;1
+EUR_FraMarkitServicesPMI;20141216;08:00;Markit Services PMI;France;EUR;1
+GBP_BankStressTestResults;20141216;07:00;Bank Stress Test Results;United Kingdom;GBP;2
+EUR_FinGrossDomesticProduct;20141216;07:00;Gross Domestic Product (YoY);Finland;EUR;1
+GBP_FinancialStabilityReport;20141216;07:00;Financial Stability Report;United Kingdom;GBP;2
+INR_TradeDeficitGovernment;20141216;06:30;Trade Deficit Government;India;INR;1
+CNY_FDIForeignDirectInvestment;20141216;02:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+CNY_CaixinManufacturingPMI;20141216;01:45;Caixin Manufacturing PMI;China;CNY;1
+JPY_NikkeiManufacturingPMI;20141216;01:35;Nikkei Manufacturing PMI;Japan;JPY;1
+AUD_CentralBankSpeech;20141216;01:15;RBA Debelle speech;Australia;AUD;2
+AUD_RBAMeetingMinutes;20141216;00:30;RBA Meeting Minutes;Australia;AUD;2
+ZAR_DayofReconciliation;20141216;00:00;Day of Reconciliation;South Africa;ZAR;0

@@ -1,0 +1,26 @@
+AUD_ConsumerInflationExpectations;20230914;01:00;Consumer Inflation Expectations;Australia;AUD;2
+AUD_ParticipationRate;20230914;01:30;Participation Rate;Australia;AUD;2
+AUD_UnemploymentRate;20230914;01:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_PartTimeEmployment;20230914;01:30;Part-Time Employment;Australia;AUD;2
+AUD_FullTimeEmployment;20230914;01:30;Full-Time Employment;Australia;AUD;2
+AUD_EmploymentChange;20230914;01:30;Employment Change s.a.;Australia;AUD;3
+JPY_IndustrialProduction;20230914;04:30;Industrial Production (MoM);Japan;JPY;1
+JPY_CapacityUtilization;20230914;04:30;Capacity Utilization;Japan;JPY;1
+SEK_ConsumerPriceIndex;20230914;06:00;Consumer Price Index (MoM);Sweden;SEK;1
+INR_WPIInflation;20230914;06:30;WPI Inflation;India;INR;1
+CHF_ProducerandImportPrices;20230914;06:30;Producer and Import Prices (MoM);Switzerland;CHF;1
+ZAR_BusinessConfidenceIndex;20230914;09:30;Business Confidence Index;South Africa;ZAR;1
+ILS_M1MoneySupply;20230914;10:00;M1 Money Supply (MoM);Israel;ILS;1
+EUR_EurECBRateOnDepositFacility;20230914;12:15;ECB Rate On Deposit Facility;European Monetary Union;EUR;3
+EUR_EurECBRateOnMainRefinancingOperations;20230914;12:15;ECB Rate On Main Refinancing Operations;European Monetary Union;EUR;3
+EUR_EurECBMonetaryPolicyDecisionStatement;20230914;12:15;ECB Monetary Policy Decision Statement;European Monetary Union;EUR;3
+USD_RetailSales;20230914;12:30;Retail Sales ex Autos (MoM);United States;USD;2
+USD_ProducerPriceIndex;20230914;12:30;Producer Price Index (MoM);United States;USD;2
+USD_JoblessClaims;20230914;12:30;Continuing Jobless Claims;United States;USD;1
+CAD_WholesaleSales;20230914;12:30;Wholesale Sales (MoM);Canada;CAD;1
+EUR_EurECBPressConference;20230914;12:45;ECB Press Conference;European Monetary Union;EUR;3
+RUB_CentralBankReserves;20230914;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_BusinessInventories;20230914;14:00;Business Inventories;United States;USD;1
+USD_EIANaturalGasStorageChange;20230914;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20230914;15:30;4-Week Bill Auction;United States;USD;1
+NZD_BusinessNZPMI;20230914;22:30;Business NZ PMI;New Zealand;NZD;2

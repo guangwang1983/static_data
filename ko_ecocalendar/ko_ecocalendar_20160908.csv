@@ -1,0 +1,39 @@
+AUD_Imports;20160908;01:30;Imports (MoM);Australia;AUD;2
+AUD_Exports;20160908;01:30;Exports (MoM);Australia;AUD;2
+AUD_TradeBalance;20160908;01:30;Trade Balance (MoM);Australia;AUD;2
+CNY_TradeBalanceCNY;20160908;02:45;Trade Balance CNY;China;CNY;2
+CNY_TradeBalanceUSD;20160908;02:46;Trade Balance USD;China;CNY;2
+CNY_Exports;20160908;02:47;Exports (YoY);China;CNY;2
+CNY_Imports;20160908;02:47;Imports (YoY);China;CNY;2
+KRW_MoneySupplyGrowth;20160908;03:00;Money Supply Growth;South Korea;KRW;1
+JPY_CentralBankSpeech;20160908;04:30;BoJ Nakaso speech;Japan;JPY;1
+JPY_EcoWatchersSurvey:Outlook;20160908;05:00;Eco Watchers Survey: Outlook;Japan;JPY;2
+JPY_EcoWatchersSurvey:Current;20160908;05:00;Eco Watchers Survey: Current;Japan;JPY;2
+EUR_FraNonfarmPayrolls;20160908;05:30;Nonfarm Payrolls (QoQ);France;EUR;1
+CZK_UnemploymentRate;20160908;07:00;Unemployment Rate;Czech Republic;CZK;1
+TRY_IndustrialProduction;20160908;07:00;Industrial Production (YoY);Turkey;TRY;1
+DKK_TradeBalance;20160908;07:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20160908;07:00;Current Account;Denmark;DKK;1
+HUF_ConsumerPriceIndex;20160908;07:00;Consumer Price Index (YoY);Hungary;HUF;1
+HUF_TradeBalance;20160908;07:00;Trade Balance;Hungary;HUF;1
+DKK_IndustrialProduction;20160908;11:00;Industrial Production (MoM);Denmark;DKK;1
+ZAR_ManufacturingProductionIndex;20160908;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+EUR_EurECBRateOnDepositFacility;20160908;11:45;ECB Rate On Deposit Facility;European Monetary Union;EUR;3
+EUR_EurECBRateOnMainRefinancingOperations;20160908;11:45;ECB Rate On Main Refinancing Operations;European Monetary Union;EUR;3
+CLP_ConsumerPriceIndex;20160908;12:00;Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+CAD_HousingStarts;20160908;12:15;Housing Starts s.a (YoY);Canada;CAD;2
+USD_JoblessClaims;20160908;12:30;Initial Jobless Claims;United States;USD;2
+CAD_BuildingPermits;20160908;12:30;Building Permits (MoM);Canada;CAD;1
+EUR_EurECBPressConference;20160908;12:30;ECB Press Conference;European Monetary Union;EUR;3
+CAD_CapacityUtilization;20160908;12:30;Capacity Utilization;Canada;CAD;1
+CAD_NewHousingPriceIndex;20160908;12:30;New Housing Price Index (YoY);Canada;CAD;2
+MXN_HeadlineInflation;20160908;13:00;Headline Inflation;Mexico;MXN;1
+MXN_CoreInflation;20160908;13:00;Core Inflation;Mexico;MXN;1
+MXN_12MonthInflation;20160908;13:00;12-Month Inflation;Mexico;MXN;1
+RUB_CentralBankReserves;20160908;13:05;Central Bank Reserves $;Russia;RUB;1
+USD_EIANaturalGasStorageChange;20160908;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_EIACrudeOilStocksChange;20160908;15:00;EIA Crude Oil Stocks Change;United States;USD;2
+CAD_CentralBankSpeech;20160908;16:20;BoC Lane speech;Canada;CAD;1
+USD_ConsumerCreditChange;20160908;19:00;Consumer Credit Change;United States;USD;2
+NZD_RetailSales;20160908;22:45;Electronic Card Retail Sales  (MoM);New Zealand;NZD;2
+JPY_MoneySupplyM2+CD;20160908;23:50;Money Supply M2+CD (YoY);Japan;JPY;1

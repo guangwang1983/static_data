@@ -1,0 +1,38 @@
+CNY_NBSManufacturingPMI;20220831;01:00;NBS Manufacturing PMI;China;CNY;3
+CNY_NonManufacturingPMI;20220831;01:00;Non-Manufacturing PMI;China;CNY;3
+NZD_ANZActivityOutlook;20220831;01:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20220831;01:00;ANZ Business Confidence;New Zealand;NZD;1
+AUD_PrivateSectorCredit;20220831;01:30;Private Sector Credit (YoY);Australia;AUD;1
+AUD_ConstructionWorkDone;20220831;01:30;Construction Work Done;Australia;AUD;1
+JPY_ConstructionOrders;20220831;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_HousingStarts;20220831;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_AnnualizedHousingStarts;20220831;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_ConsumerConfidenceIndex;20220831;05:00;Consumer Confidence Index;Japan;JPY;1
+DKK_UnemploymentRate;20220831;06:00;Unemployment Rate;Denmark;DKK;1
+DKK_GrossDomesticProduct;20220831;06:00;Gross Domestic Product (YoY);Denmark;DKK;1
+TRY_GrossDomesticProduct;20220831;07:00;Quarterly Gross Domestic Product;Turkey;TRY;1
+HUF_ProducerPriceIndex;20220831;07:00;Producer Price Index (YoY);Hungary;HUF;1
+PLN_GrossDomesticProduct;20220831;08:00;Gross Domestic Product Qtr (YoY);Poland;PLN;1
+CHF_ZEWSurvey–Expectations;20220831;08:00;ZEW Survey – Expectations;Switzerland;CHF;2
+EUR_EurHICPXFEAT;20220831;09:00;HICP-X F,E,A,T (YoY);European Monetary Union;EUR;3
+EUR_EurHICP;20220831;09:00;HICP (MoM);European Monetary Union;EUR;2
+INR_FederalFiscalDeficitINR;20220831;10:00;Federal Fiscal Deficit, INR;India;INR;1
+USD_MBAMortgageApplications;20220831;11:00;MBA Mortgage Applications;United States;USD;1
+BRL_UnemploymentRate;20220831;12:00;Unemployment Rate;Brazil;BRL;1
+ZAR_TradeBalance;20220831;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+INR_InfrastructureOutput;20220831;12:00;Infrastructure Output (YoY);India;INR;1
+INR_GrossDomesticProduct;20220831;12:00;Gross Domestic Product Quarterly (YoY);India;INR;1
+USD_ADPEmploymentChange;20220831;12:15;ADP Employment Change;United States;USD;3
+BRL_NominalBudgetBalance;20220831;12:30;Nominal Budget Balance;Brazil;BRL;1
+BRL_PrimaryBudgetSurplus;20220831;12:30;Primary Budget Surplus;Brazil;BRL;1
+CAD_GrossDomesticProduct;20220831;12:30;Gross Domestic Product Annualized (QoQ);Canada;CAD;3
+CLP_IndustrialProduction;20220831;13:00;Industrial Production (YoY);Chile;CLP;1
+USD_ChicagoPurchasingManagers'Index;20220831;13:45;Chicago Purchasing Managers' Index;United States;USD;2
+USD_EIACrudeOilStocksChange;20220831;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+RUB_UnemploymentRate;20220831;16:00;Unemployment Rate;Russia;RUB;1
+AUD_AiGPerformanceofMfgIndex;20220831;22:30;AiG Performance of Mfg Index;Australia;AUD;2
+KRW_GrossDomesticProduct;20220831;23:00;Gross Domestic Product Growth (YoY);South Korea;KRW;1
+AUD_S&PGlobalManufacturingPMI;20220831;23:00;S&P Global Manufacturing PMI;Australia;AUD;1
+JPY_CapitalSpending;20220831;23:50;Capital Spending;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20220831;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20220831;23:50;Foreign Bond Investment;Japan;JPY;1

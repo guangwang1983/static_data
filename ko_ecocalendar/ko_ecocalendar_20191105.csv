@@ -1,0 +1,35 @@
+NZD_ANZCommodityPrice;20191105;00:00;ANZ Commodity Price;New Zealand;NZD;1
+GBP_RetailSales;20191105;00:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+CNY_CaixinServicesPMI;20191105;01:45;Caixin Services PMI;China;CNY;2
+AUD_RBARateStatement;20191105;03:30;RBA Rate Statement;Australia;AUD;3
+AUD_RBAInterestRateDecision;20191105;03:30;RBA Interest Rate Decision;Australia;AUD;3
+IDR_GrossDomesticProduct;20191105;04:00;Gross Domestic Product (YoY);Indonesia;IDR;1
+EUR_FraBudgetBalance;20191105;07:45;Budget Balance;France;EUR;1
+SEK_IndustrialProductionValue;20191105;08:30;Industrial Production Value (MoM);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20191105;08:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+GBP_S&PGlobalCIPSServicesPMI;20191105;09:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;2
+EUR_EurProducerPriceIndex;20191105;10:00;Producer Price Index (YoY);European Monetary Union;EUR;1
+GBP_Auction;20191105;10:30;10-y Bond Auction;United Kingdom;GBP;1
+USD_GoodsandServicesTradeBalance;20191105;13:30;Goods and Services Trade Balance;United States;USD;2
+CAD_InternationalMerchandiseTrade;20191105;13:30;International Merchandise Trade;Canada;CAD;2
+CAD_Exports;20191105;13:32;Exports;Canada;CAD;1
+CAD_Imports;20191105;13:32;Imports;Canada;CAD;1
+USD_RedbookIndex;20191105;13:55;Redbook Index (YoY);United States;USD;1
+USD_S&PGlobalServicesPMI;20191105;14:45;S&P Global Services PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20191105;14:45;S&P Global Composite PMI;United States;USD;2
+USD_JOLTSJobOpenings;20191105;15:00;JOLTS Job Openings;United States;USD;1
+USD_ISMServicesPMI;20191105;15:00;ISM Services PMI;United States;USD;3
+USD_ISMServicesNewOrdersIndex;20191105;15:00;ISM Services New Orders Index;United States;USD;2
+USD_ISMServicesPricesPaid;20191105;15:00;ISM Services Prices Paid;United States;USD;2
+USD_ISMServicesEmploymentIndex;20191105;15:00;ISM Services Employment Index;United States;USD;2
+USD_IBDTIPPEconomicOptimism;20191105;15:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+NZD_GDTPriceIndex;20191105;15:00;GDT Price Index;New Zealand;NZD;2
+USD_Auction;20191105;18:00;3-Year Note Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20191105;21:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_UnemploymentRate;20191105;21:45;Unemployment Rate;New Zealand;NZD;3
+NZD_EmploymentChange;20191105;21:45;Employment Change;New Zealand;NZD;3
+NZD_ParticipationRate;20191105;21:45;Participation Rate;New Zealand;NZD;2
+NZD_LabourCostIndex;20191105;21:45;Labour Cost Index (YoY);New Zealand;NZD;1
+KRW_CurrentAccount;20191105;23:00;Current Account Balance;South Korea;KRW;1
+USD_CentralBankSpeech;20191105;23:00;Fed Kashkari speech;United States;USD;2
+JPY_BoJMonetaryPolicyMeetingMinutes;20191105;23:50;BoJ Monetary Policy Meeting Minutes;Japan;JPY;3

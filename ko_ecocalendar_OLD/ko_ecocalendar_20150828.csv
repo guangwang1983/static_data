@@ -1,0 +1,54 @@
+MXN_FiscalBalancepesos;20150828;19:30;Fiscal Balance, pesos;Mexico;MXN;1
+USD_BakerHughesUSOilRigCount;20150828;19:00;Baker Hughes US Oil Rig Count;United States;USD;2
+USD_CentralBankSpeech;20150828;18:15;Fed Lockhart speech;United States;USD;2
+CHF_CentralBankSpeech;20150828;16:25;SNB Chairman Jordan speech;Switzerland;CHF;3
+USD_MichiganConsumerSentimentIndex;20150828;14:00;Michigan Consumer Sentiment Index;United States;USD;2
+BRL_NominalBudgetBalance;20150828;13:30;Nominal Budget Balance;Brazil;BRL;1
+BRL_PrimaryBudgetSurplus;20150828;13:30;Primary Budget Surplus;Brazil;BRL;1
+MXN_JoblessRate;20150828;13:00;Jobless Rate s.a;Mexico;MXN;1
+USD_PersonalConsumptionExpendituresPriceIndex;20150828;12:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;1
+USD_PersonalSpending;20150828;12:30;Personal Spending;United States;USD;2
+USD_CorePersonalConsumptionExpenditurePriceIndex;20150828;12:30;Core Personal Consumption Expenditure - Price Index (MoM);United States;USD;1
+USD_PersonalIncome;20150828;12:30;Personal Income (MoM);United States;USD;2
+CAD_RawMaterialPriceIndex;20150828;12:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20150828;12:30;Industrial Product Price (MoM);Canada;CAD;1
+USD_GoodsTradeBalance;20150828;12:30;Goods Trade Balance;United States;USD;1
+BRL_GrossDomesticProduct;20150828;12:00;Gross Domestic Product (YoY);Brazil;BRL;1
+EUR_GerConsumerPriceIndex;20150828;12:00;Consumer Price Index (MoM);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20150828;12:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;1
+INR_FXReservesUSD;20150828;11:30;FX Reserves, USD;India;INR;1
+BRL_InflationIndexIGPM;20150828;11:00;Inflation Index/IGP-M;Brazil;BRL;1
+EUR_IreRetailSales;20150828;10:00;Retail Sales (MoM);Ireland;EUR;1
+EUR_ItaAuction;20150828;09:49;5-y Bond Auction;Italy;EUR;1
+EUR_BelConsumerPriceIndex;20150828;09:30;Consumer Price Index (YoY);Belgium;EUR;1
+EUR_ItaWageInflation;20150828;09:00;Wage Inflation (YoY);Italy;EUR;1
+EUR_EurBusinessClimate;20150828;09:00;Business Climate;European Monetary Union;EUR;2
+EUR_EurConsumerConfidence;20150828;09:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurEconomicSentimentIndicator;20150828;09:00;Economic Sentiment Indicator;European Monetary Union;EUR;2
+EUR_EurServicesSentiment;20150828;09:00;Services Sentiment;European Monetary Union;EUR;2
+EUR_EurIndustrialConfidence;20150828;09:00;Industrial Confidence;European Monetary Union;EUR;2
+EUR_GreProducerPriceIndex;20150828;09:00;Producer Price Index (YoY);Greece;EUR;1
+EUR_GreGrossDomesticProduct;20150828;09:00;Gross Domestic Product s.a (YoY);Greece;EUR;1
+EUR_PorBusinessConfidence;20150828;08:40;Business Confidence;Portugal;EUR;1
+EUR_PorConsumerConfidence;20150828;08:40;Consumer Confidence;Portugal;EUR;1
+GBP_GrossDomesticProduct;20150828;08:30;Gross Domestic Product (YoY);United Kingdom;GBP;3
+GBP_TotalBusinessInvestment;20150828;08:30;Total Business Investment (QoQ);United Kingdom;GBP;1
+GBP_IndexofServices;20150828;08:30;Index of Services (3M/3M);United Kingdom;GBP;1
+EUR_ItaConsumerConfidence;20150828;08:00;Consumer Confidence;Italy;EUR;1
+EUR_ItaBusinessConfidence;20150828;08:00;Business Confidence;Italy;EUR;1
+PLN_GrossDomesticProduct;20150828;08:00;Gross Domestic Product Qtr (YoY);Poland;PLN;1
+EUR_AusPurchasingManagerIndex;20150828;08:00;Purchasing Manager Index;Austria;EUR;1
+NOK_RetailSales;20150828;08:00;Retail Sales ;Norway;NOK;1
+NOK_RegisteredUnemployment;20150828;08:00;Registered Unemployment n.s.a;Norway;NOK;1
+SEK_RetailSales;20150828;07:30;Retail Sales (YoY);Sweden;SEK;1
+EUR_SpaHICP;20150828;07:00;HICP (YoY);Spain;EUR;1
+DKK_IndustrialOutlook;20150828;07:00;Industrial Outlook;Denmark;DKK;1
+HUF_UnemploymentRate;20150828;07:00;Unemployment Rate (3M);Hungary;HUF;1
+EUR_AusGrossDomesticProduct;20150828;07:00;Gross Domestic Product (QoQ);Austria;EUR;1
+TRY_Economicconfidenceindex;20150828;07:00;Economic confidence index;Turkey;TRY;1
+EUR_SpaRetailSales;20150828;07:00;Retail Sales (YoY);Spain;EUR;1
+CZK_GrossDomesticProduct;20150828;07:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+EUR_AusProducerPriceIndex;20150828;07:00;Producer Price Index (MoM);Austria;EUR;1
+EUR_FraProducerPrices;20150828;06:45;Producer Prices (MoM);France;EUR;1
+CHF_GrossDomesticProduct;20150828;05:45;Gross Domestic Product (YoY);Switzerland;CHF;3
+USD_JacksonHoleSymposium;20150828;00:00;Jackson Hole Symposium;United States;USD;3

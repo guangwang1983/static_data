@@ -1,0 +1,48 @@
+KRW_TradeBalance;20150701;00:00;Trade Balance;South Korea;KRW;1
+CAD_CanadaDay;20150701;00:00;Canada Day;Canada;CAD;0
+KRW_S&PGlobalManufacturingPMI;20150701;01:00;S&P Global Manufacturing PMI;South Korea;KRW;1
+CNY_NonManufacturingPMI;20150701;01:00;Non-Manufacturing PMI;China;CNY;2
+CNY_NBSManufacturingPMI;20150701;01:00;NBS Manufacturing PMI;China;CNY;2
+AUD_BuildingPermits;20150701;01:30;Building Permits (YoY);Australia;AUD;1
+JPY_JibunBankManufacturingPMI;20150701;01:35;Jibun Bank Manufacturing PMI;Japan;JPY;1
+CNY_CaixinManufacturingPMI;20150701;01:45;Caixin Manufacturing PMI;China;CNY;2
+IDR_Inflation;20150701;04:00;Inflation (MoM);Indonesia;IDR;1
+IDR_CoreInflation;20150701;04:00;Core Inflation (YoY);Indonesia;IDR;1
+JPY_VehicleSales;20150701;05:00;Vehicle Sales (YoY);Japan;JPY;1
+RUB_S&PGlobalManufacturingPMI;20150701;06:00;S&P Global Manufacturing PMI;Russia;RUB;1
+AUD_RBACommodityIndexSDR;20150701;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+SEK_PurchasingManagersIndexManufacturing;20150701;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;2
+HUF_PurchasingManagerIndex;20150701;07:00;Purchasing Manager Index;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20150701;07:00;Purchasing Manager Index;Poland;PLN;2
+CHF_SVMEPurchasingManagers'Index;20150701;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_S&PGlobalPMI;20150701;07:30;S&P Global PMI;Czech Republic;CZK;1
+EUR_ItaHCOBManufacturingPMI;20150701;07:45;HCOB Manufacturing PMI;Italy;EUR;1
+EUR_FraHCOBManufacturingPMI;20150701;07:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerHCOBManufacturingPMI;20150701;07:55;HCOB Manufacturing PMI;Germany;EUR;2
+TRY_Exports;20150701;08:00;Exports;Turkey;TRY;1
+EUR_ItaPublicDeficitGDP;20150701;08:00;Public Deficit/GDP;Italy;EUR;1
+RON_Interestratedecision;20150701;08:00;Interest rate decision;Romania;RON;1
+EUR_EurHCOBManufacturingPMI;20150701;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+GBP_FPCStatement;20150701;08:30;FPC Statement;United Kingdom;GBP;1
+GBP_S&PGlobalCIPSManufacturingPMI;20150701;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+ZAR_TotalNewVehicleSales;20150701;09:00;Total New Vehicle Sales;South Africa;ZAR;1
+GBP_CentralBankSpeech;20150701;09:30;BoE Governor Carney speech;United Kingdom;GBP;2
+GBP_FinancialStabilityReport;20150701;09:30;Financial Stability Report;United Kingdom;GBP;2
+USD_MBAMortgageApplications;20150701;11:00;MBA Mortgage Applications;United States;USD;1
+USD_ChallengerJobCuts;20150701;11:30;Challenger Job Cuts;United States;USD;1
+CZK_BudgetBalance;20150701;12:00;Budget Balance;Czech Republic;CZK;1
+USD_ADPEmploymentChange;20150701;12:15;ADP Employment Change;United States;USD;2
+BRL_S&PGlobalManufacturingPMI;20150701;13:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+USD_S&PGlobalManufacturingPMI;20150701;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_ISMManufacturingPMI;20150701;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20150701;14:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ConstructionSpending;20150701;14:00;Construction Spending (MoM);United States;USD;2
+NZD_GDTPriceIndex;20150701;14:15;GDT Price Index;New Zealand;NZD;1
+USD_EIACrudeOilStocksChange;20150701;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+EUR_EurEurogroupMeeting;20150701;15:30;Eurogroup Meeting;European Monetary Union;EUR;2
+USD_TotalVehicleSales;20150701;17:30;Total Vehicle Sales;United States;USD;1
+BRL_TradeBalance;20150701;18:00;Trade Balance;Brazil;BRL;1
+KRW_CurrentAccount;20150701;23:00;Current Account Balance;South Korea;KRW;1
+JPY_MonetaryBase;20150701;23:50;Monetary Base (YoY);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20150701;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20150701;23:50;Foreign Bond Investment;Japan;JPY;2

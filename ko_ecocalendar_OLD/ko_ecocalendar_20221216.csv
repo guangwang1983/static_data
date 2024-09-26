@@ -1,0 +1,37 @@
+EUR_EurEUleaderssummit;20221216;00:00;EU leaders summit;European Monetary Union;EUR;2
+GBP_GfKConsumerConfidence;20221216;00:01;GfK Consumer Confidence;United Kingdom;GBP;2
+JPY_JibunBankServicesPMI;20221216;00:30;Jibun Bank Services PMI;Japan;JPY;1
+JPY_JibunBankManufacturingPMI;20221216;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+GBP_RetailSales;20221216;07:00;Retail Sales ex-Fuel (MoM);United Kingdom;GBP;2
+SEK_UnemploymentRate;20221216;07:00;Unemployment Rate;Sweden;SEK;1
+CZK_ProducerPriceIndex;20221216;08:00;Producer Price Index (YoY);Czech Republic;CZK;1
+EUR_EurS&PGlobalManufacturingPMI;20221216;09:00;S&P Global Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurS&PGlobalServicesPMI;20221216;09:00;S&P Global Services PMI;European Monetary Union;EUR;2
+EUR_EurS&PGlobalCompositePMI;20221216;09:00;S&P Global Composite PMI;European Monetary Union;EUR;3
+GBP_S&PGlobalCIPSManufacturingPMI;20221216;09:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSServicesPMI;20221216;09:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;3
+GBP_S&PGlobalCIPSCompositePMI;20221216;09:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;2
+EUR_EurTradeBalance;20221216;10:00;Trade Balance n.s.a.;European Monetary Union;EUR;1
+EUR_EurHarmonizedIndexofConsumerPrices;20221216;10:00;Harmonized Index of Consumer Prices (MoM);European Monetary Union;EUR;2
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20221216;10:00;Core Harmonized Index of Consumer Prices (MoM);European Monetary Union;EUR;2
+RUB_Interestratedecision;20221216;10:30;Interest rate decision;Russia;RUB;2
+INR_BankLoanGrowth;20221216;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20221216;11:30;FX Reserves, USD;India;INR;1
+GBP_BoEQuarterlyBulletin;20221216;12:00;BoE Quarterly Bulletin;United Kingdom;GBP;1
+PLN_NetInflation;20221216;13:00;Net Inflation;Poland;PLN;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20221216;13:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20221216;13:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_WholesaleSales;20221216;13:30;Wholesale Sales (MoM);Canada;CAD;1
+CAD_NewHousingPriceIndex;20221216;13:30;New Housing Price Index (MoM);Canada;CAD;1
+USD_S&PGlobalManufacturingPMI;20221216;14:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20221216;14:45;S&P Global Services PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20221216;14:45;S&P Global Composite PMI;United States;USD;2
+USD_BakerHughesUSOilRigCount;20221216;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+COP_Interestrate;20221216;20:00;Interest rate;Colombia;COP;1
+USD_CFTCOilNCNetPositions;20221216;20:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20221216;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20221216;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20221216;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20221216;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20221216;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20221216;20:30;CFTC AUD NC Net Positions;Australia;AUD;1

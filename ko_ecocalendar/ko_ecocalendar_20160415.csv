@@ -1,0 +1,40 @@
+USD_IMFMeeting;20160415;00:00;IMF Meeting;United States;USD;2
+KRW_TradeBalance;20160415;00:00;Trade Balance;South Korea;KRW;1
+INR_RamNavami;20160415;00:00;Ram Navami ;India;INR;0
+AUD_FinancialStabilityReview;20160415;01:30;Financial Stability Review;Australia;AUD;1
+CNY_RetailSales;20160415;02:00;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20160415;02:00;Industrial Production (YoY);China;CNY;2
+CNY_NBSPressConference;20160415;02:00;NBS Press Conference;China;CNY;2
+CNY_FixedAssetInvestment;20160415;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+CNY_GrossDomesticProduct;20160415;02:00;Gross Domestic Product (YoY);China;CNY;3
+CNY_NewLoans;20160415;02:03;New Loans;China;CNY;1
+CNY_M2MoneySupply;20160415;02:06;M2 Money Supply (YoY);China;CNY;1
+CNY_FDIForeignDirectInvestment;20160415;03:49;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+JPY_IndustrialProduction;20160415;04:30;Industrial Production (YoY);Japan;JPY;2
+JPY_CapacityUtilization;20160415;04:30;Capacity Utilization;Japan;JPY;1
+TRY_UnemploymentRate;20160415;07:00;Unemployment Rate;Turkey;TRY;1
+NOK_TradeBalance;20160415;08:00;Trade Balance;Norway;NOK;1
+EUR_ItaGlobalTradeBalance;20160415;08:00;Global Trade Balance;Italy;EUR;1
+EUR_ItaTradeBalanceEU;20160415;08:00;Trade Balance EU;Italy;EUR;1
+TRY_BudgetBalance;20160415;08:00;Budget Balance;Turkey;TRY;1
+EUR_EurTradeBalance;20160415;09:00;Trade Balance n.s.a.;European Monetary Union;EUR;2
+INR_BankLoanGrowth;20160415;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20160415;11:30;FX Reserves, USD;India;INR;1
+EUR_EurG20Meeting;20160415;12:00;G20 Meeting;European Monetary Union;EUR;2
+USD_NYEmpireStateManufacturingIndex;20160415;12:30;NY Empire State Manufacturing Index;United States;USD;1
+CAD_ManufacturingSales;20160415;12:30;Manufacturing Sales (MoM);Canada;CAD;1
+RUB_IndustrialOutput;20160415;13:00;Industrial Output;Russia;RUB;1
+USD_IndustrialProduction;20160415;13:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20160415;13:15;Capacity Utilization;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20160415;14:00;Michigan Consumer Sentiment Index;United States;USD;1
+USD_CentralBankSpeech;20160415;16:30;Fed Evans speech;United States;USD;1
+USD_BakerHughesUSOilRigCount;20160415;17:00;Baker Hughes US Oil Rig Count;United States;USD;2
+AUD_CFTCAUDNCNetPositions;20160415;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20160415;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+GBP_CFTCGBPNCNetPositions;20160415;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20160415;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20160415;19:30;CFTC Oil NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20160415;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCS&P500NCNetPositions;20160415;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_TotalNetTICFlows;20160415;20:00;Total Net TIC Flows;United States;USD;1
+USD_NetLongTermTICFlows;20160415;20:00;Net Long-Term TIC Flows;United States;USD;1

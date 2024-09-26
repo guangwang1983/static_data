@@ -1,0 +1,40 @@
+JPY_MerchandiseTradeBalanceTotal;20170124;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Imports;20170124;23:50;Imports (YoY);Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20170124;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;2
+JPY_Exports;20170124;23:50;Exports (YoY);Japan;JPY;2
+AUD_WestpacLeadingIndex;20170124;23:30;Westpac Leading Index (MoM);Australia;AUD;1
+KRW_GrossDomesticProduct;20170124;23:00;Gross Domestic Product Growth (YoY);South Korea;KRW;1
+COP_TradeBalance;20170124;22:00;Trade Balance;Colombia;COP;1
+USD_APIWeeklyCrudeOilStock;20170124;21:30;API Weekly Crude Oil Stock;United States;USD;1
+ARS_TradeBalance;20170124;19:00;Trade Balance (MoM);Argentina;ARS;1
+USD_Auction;20170124;18:00;2-Year Note Auction;United States;USD;1
+USD_ExistingHomeSalesChange;20170124;15:00;Existing Home Sales Change (MoM);United States;USD;1
+USD_ExistingHomeSales;20170124;15:00;Existing Home Sales (MoM);United States;USD;1
+USD_RichmondFedManufacturingIndex;20170124;15:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_MarkitManufacturingPMI;20170124;14:45;Markit Manufacturing PMI;United States;USD;2
+MXN_1sthalfmonthCoreInflation;20170124;14:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20170124;14:00;1st half-month Inflation;Mexico;MXN;1
+USD_RedbookIndex;20170124;13:55;Redbook Index (MoM);United States;USD;1
+HUF_MNBInterestRateDecision;20170124;13:00;MNB Interest Rate Decision;Hungary;HUF;1
+ZAR_SARBInterestRateDecision;20170124;13:00;SARB Interest Rate Decision;South Africa;ZAR;1
+BRL_CurrentAccount;20170124;12:30;Current Account;Brazil;BRL;1
+TRY_CBRTInterestRateDecision;20170124;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+EUR_SpaAuction;20170124;10:00;9-Month Letras Auction;Spain;EUR;1
+GBP_EUMembershipCourtRuling;20170124;09:30;EU Membership Court Ruling;United Kingdom;GBP;3
+GBP_PublicSectorNetBorrowing;20170124;09:30;Public Sector Net Borrowing;United Kingdom;GBP;2
+EUR_EurMarkitPMIComposite;20170124;09:00;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitManufacturingPMI;20170124;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20170124;09:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_GerMarkitPMIComposite;20170124;08:30;Markit PMI Composite;Germany;EUR;2
+EUR_GerMarkitManufacturingPMI;20170124;08:30;Markit Manufacturing PMI;Germany;EUR;2
+EUR_GerMarkitServicesPMI;20170124;08:30;Markit Services PMI;Germany;EUR;2
+DKK_ConsumerConfidence;20170124;08:00;Consumer Confidence;Denmark;DKK;1
+EUR_FraMarkitManufacturingPMI;20170124;08:00;Markit Manufacturing PMI;France;EUR;1
+EUR_FraMarkitPMIComposite;20170124;08:00;Markit PMI Composite;France;EUR;1
+EUR_FraMarkitServicesPMI;20170124;08:00;Markit Services PMI;France;EUR;1
+EUR_FinProducerPriceIndex;20170124;07:00;Producer Price Index (YoY);Finland;EUR;1
+EUR_FinUnemploymentRate;20170124;07:00;Unemployment Rate;Finland;EUR;1
+EUR_FinImportPrices;20170124;07:00;Import Prices (YoY);Finland;EUR;1
+EUR_FinExportPrices;20170124;07:00;Export Prices (YoY);Finland;EUR;1
+JPY_NikkeiManufacturingPMI;20170124;00:30;Nikkei Manufacturing PMI;Japan;JPY;1
+RON_Unificationday;20170124;00:00;Unification day;Romania;RON;0

@@ -1,0 +1,42 @@
+JPY_BankLending;20120112;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_MoneySupplyM2+CD;20120112;23:50;Money Supply M2+CD (YoY);Japan;JPY;1
+CLP_BCCHInterestRate;20120112;22:00;BCCH Interest Rate;Chile;CLP;1
+USD_MonthlyBudgetStatement;20120112;19:00;Monthly Budget Statement;United States;USD;2
+GBP_NIESRGDPEstimate;20120112;15:00;NIESR GDP Estimate (3M);United Kingdom;GBP;2
+USD_BusinessInventories;20120112;15:00;Business Inventories;United States;USD;2
+USD_RetailSales;20120112;13:30;Retail Sales ex Autos (MoM);United States;USD;2
+EUR_EurCentralBankSpeech;20120112;13:30;ECB President Draghi speech;European Monetary Union;EUR;3
+USD_JoblessClaims;20120112;13:30;Initial Jobless Claims;United States;USD;1
+CAD_NewHousingPriceIndex;20120112;13:30;New Housing Price Index (MoM);Canada;CAD;1
+EUR_EurECBInterestRateDecision;20120112;12:45;ECB Interest Rate Decision;European Monetary Union;EUR;3
+GBP_BoEAssetPurchaseFacility;20120112;12:00;BoE Asset Purchase Facility;United Kingdom;GBP;3
+GBP_BoEInterestRateDecision;20120112;12:00;BoE Interest Rate Decision;United Kingdom;GBP;3
+BRL_RetailSales;20120112;11:00;Retail Sales (MoM);Brazil;BRL;1
+ZAR_ManufacturingProductionIndex;20120112;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+EUR_EurIndustrialProduction;20120112;10:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;2
+EUR_GreUnemploymentRate;20120112;10:00;Unemployment Rate (MoM);Greece;EUR;1
+GBP_ManufacturingProduction;20120112;09:30;Manufacturing Production (MoM);United Kingdom;GBP;1
+GBP_IndustrialProduction;20120112;09:30;Industrial Production (YoY);United Kingdom;GBP;2
+ZAR_ReutersEconometer;20120112;09:30;Reuters Econometer;South Africa;ZAR;1
+EUR_ItaIndustrialOutput;20120112;09:00;Industrial Output w.d.a (YoY);Italy;EUR;1
+RUB_CentralBankReserves;20120112;08:38;Central Bank Reserves $;Russia;RUB;1
+HKD_ConsumerPriceIndex;20120112;08:30;Consumer Price Index;Hong Kong SAR;HKD;2
+SEK_ConsumerPriceIndex;20120112;08:30;Consumer Price Index (YoY);Sweden;SEK;1
+EUR_NetRetailSales;20120112;08:30;Retail Sales (YoY);Netherlands, The;EUR;1
+DKK_IndustrialProduction;20120112;08:00;Industrial Production (MoM);Denmark;DKK;1
+EUR_FraCurrentAccount;20120112;07:45;Current Account;France;EUR;1
+EUR_FraBudget;20120112;07:45;Budget;France;EUR;1
+EUR_GerConsumerPriceIndex;20120112;07:00;Consumer Price Index (MoM);Germany;EUR;2
+NZD_ANZCommodityPrice;20120112;07:00;ANZ Commodity Price;New Zealand;NZD;1
+EUR_FraConsumerPriceIndex;20120112;06:30;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraInflationextobacco;20120112;06:30;Inflation ex-tobacco (MoM);France;EUR;1
+JPY_MachineToolOrders;20120112;06:00;Machine Tool Orders (YoY);Japan;JPY;2
+INR_IndustrialOutput;20120112;05:30;Industrial Output;India;INR;1
+INR_ManufacturingOutput;20120112;05:30;Manufacturing Output;India;INR;1
+INR_CumulativeIndustrialOutput;20120112;05:30;Cumulative Industrial Output;India;INR;1
+JPY_EcoWatchersSurvey:Outlook;20120112;05:00;Eco Watchers Survey: Outlook;Japan;JPY;2
+JPY_EcoWatchersSurvey:Current;20120112;05:00;Eco Watchers Survey: Current;Japan;JPY;2
+IDR_BankIndonesiaRate;20120112;05:00;Bank Indonesia Rate;Indonesia;IDR;1
+KRW_MoneySupplyGrowth;20120112;03:00;Money Supply Growth;South Korea;KRW;1
+CNY_ConsumerPriceIndex;20120112;01:30;Consumer Price Index (YoY);China;CNY;2
+CNY_ProducerPriceIndex;20120112;01:30;Producer Price Index (YoY);China;CNY;2

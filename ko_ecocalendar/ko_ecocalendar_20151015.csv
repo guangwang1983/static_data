@@ -1,0 +1,38 @@
+AUD_ConsumerInflationExpectations;20151015;00:00;Consumer Inflation Expectations;Australia;AUD;2
+AUD_NewMotorVehicleSales;20151015;00:30;New Motor Vehicle Sales (YoY);Australia;AUD;1
+AUD_RBAForeignExchangeTransaction;20151015;00:30;RBA Foreign Exchange Transaction;Australia;AUD;1
+AUD_PartTimeEmployment;20151015;00:30;Part-Time Employment;Australia;AUD;2
+AUD_FullTimeEmployment;20151015;00:30;Full-Time Employment;Australia;AUD;2
+AUD_EmploymentChange;20151015;00:30;Employment Change s.a.;Australia;AUD;3
+AUD_ParticipationRate;20151015;00:30;Participation Rate;Australia;AUD;1
+AUD_UnemploymentRate;20151015;00:30;Unemployment Rate s.a.;Australia;AUD;3
+KRW_BoKInterestRateDecision;20151015;00:59;BoK Interest Rate Decision;South Korea;KRW;1
+IDR_TradeBalance;20151015;04:00;Trade Balance;Indonesia;IDR;1
+IDR_Exports;20151015;04:00;Exports;Indonesia;IDR;1
+IDR_Imports;20151015;04:00;Imports;Indonesia;IDR;1
+JPY_TertiaryIndustryIndex;20151015;04:30;Tertiary Industry Index (MoM);Japan;JPY;2
+JPY_IndustrialProduction;20151015;04:30;Industrial Production (MoM);Japan;JPY;1
+JPY_CapacityUtilization;20151015;04:30;Capacity Utilization;Japan;JPY;1
+TRY_UnemploymentRate;20151015;07:00;Unemployment Rate;Turkey;TRY;1
+SEK_UnemploymentRate;20151015;07:30;Unemployment Rate;Sweden;SEK;1
+NOK_TradeBalance;20151015;08:00;Trade Balance;Norway;NOK;1
+CNY_M2MoneySupply;20151015;08:00;M2 Money Supply (YoY);China;CNY;1
+CNY_NewLoans;20151015;08:00;New Loans;China;CNY;1
+IDR_BankIndonesiaRate;20151015;10:47;Bank Indonesia Rate;Indonesia;IDR;1
+RUB_CentralBankReserves;20151015;11:00;Central Bank Reserves $;Russia;RUB;1
+PLN_ConsumerPriceIndex;20151015;12:00;Consumer Price Index (YoY);Poland;PLN;1
+USD_NYEmpireStateManufacturingIndex;20151015;12:30;NY Empire State Manufacturing Index;United States;USD;1
+USD_JoblessClaims;20151015;12:30;Initial Jobless Claims;United States;USD;2
+USD_ConsumerPriceIndex;20151015;12:30;Consumer Price Index n.s.a (MoM);United States;USD;1
+KRW_TradeBalance;20151015;13:00;Trade Balance;South Korea;KRW;1
+RUB_IndustrialOutput;20151015;13:00;Industrial Output;Russia;RUB;1
+INR_TradeDeficitGovernment;20151015;13:09;Trade Deficit Government;India;INR;1
+USD_PhiladelphiaFedManufacturingSurvey;20151015;14:00;Philadelphia Fed Manufacturing Survey;United States;USD;2
+USD_EIANaturalGasStorageChange;20151015;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_EIACrudeOilStocksChange;20151015;15:00;EIA Crude Oil Stocks Change;United States;USD;1
+USD_MonthlyBudgetStatement;20151015;19:30;Monthly Budget Statement;United States;USD;2
+USD_CentralBankSpeech;20151015;20:30;Fed Mester speech;United States;USD;1
+CLP_BCCHInterestRate;20151015;21:00;BCCH Interest Rate;Chile;CLP;1
+NZD_ConsumerPriceIndex;20151015;21:45;Consumer Price Index (YoY);New Zealand;NZD;3
+JPY_ForeignInvestmentinJapanStocks;20151015;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20151015;23:50;Foreign Bond Investment;Japan;JPY;2

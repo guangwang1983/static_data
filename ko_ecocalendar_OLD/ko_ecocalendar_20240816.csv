@@ -1,0 +1,30 @@
+NZD_CentralBankSpeech;20240816;00:45;RBNZ Governor Orr speech;New Zealand;NZD;3
+KRW_TradeBalance;20240816;02:00;Trade Balance;South Korea;KRW;1
+JPY_TertiaryIndustryIndex;20240816;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+GBP_RetailSales;20240816;06:00;Retail Sales ex-Fuel (YoY);United Kingdom;GBP;2
+CHF_IndustrialProduction;20240816;06:30;Industrial Production (YoY);Switzerland;CHF;2
+CZK_ProducerPriceIndex;20240816;07:00;Producer Price Index (YoY);Czech Republic;CZK;1
+EUR_EurTradeBalance;20240816;09:00;Trade Balance s.a.;Eurozone;EUR;1
+INR_FXReservesUSD;20240816;11:30;FX Reserves, USD;India;INR;1
+PLN_NetInflation;20240816;12:00;Net Inflation;Poland;PLN;1
+CAD_HousingStarts;20240816;12:15;Housing Starts s.a (YoY);Canada;CAD;1
+USD_BuildingPermits;20240816;12:30;Building Permits (MoM);United States;USD;2
+USD_HousingStartsChange;20240816;12:30;Housing Starts Change;United States;USD;1
+USD_HousingStarts;20240816;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermitsChange;20240816;12:30;Building Permits Change;United States;USD;1
+CAD_ManufacturingSales;20240816;12:30;Manufacturing Sales (MoM);Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20240816;12:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20240816;12:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+USD_UoM5yearConsumerInflationExpectation;20240816;14:00;UoM 5-year Consumer Inflation Expectation;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20240816;14:00;Michigan Consumer Sentiment Index;United States;USD;3
+COP_TradeBalance;20240816;15:00;Trade Balance;Colombia;COP;1
+USD_BakerHughesUSOilRigCount;20240816;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+IDR_IndependenceDay;20240816;17:00;Independence Day;Indonesia;IDR;0
+USD_CentralBankSpeech;20240816;17:25;Fed Goolsbee speech;United States;USD;2
+USD_CFTCOilNCNetPositions;20240816;19:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20240816;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20240816;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20240816;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20240816;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20240816;19:30;CFTC EUR NC Net Positions;Eurozone;EUR;1
+AUD_CFTCAUDNCNetPositions;20240816;19:30;CFTC AUD NC Net Positions;Australia;AUD;1

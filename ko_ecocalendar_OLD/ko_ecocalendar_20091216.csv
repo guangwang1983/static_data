@@ -1,0 +1,21 @@
+USD_FedInterestRateDecision;20091216;19:15;Fed Interest Rate Decision;United States;USD;3
+USD_EIACrudeOilStocksChange;20091216;15:30;EIA Crude Oil Stocks Change;United States;USD;2
+USD_HousingStarts;20091216;13:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20091216;13:30;Building Permits (MoM);United States;USD;1
+USD_CurrentAccount;20091216;13:30;Current Account;United States;USD;1
+CAD_ManufacturingShipments;20091216;13:30;Manufacturing Shipments (MoM);Canada;CAD;1
+USD_ConsumerPriceIndex;20091216;13:30;Consumer Price Index ex Food & Energy (YoY);United States;USD;2
+USD_MBAMortgageApplications;20091216;12:00;MBA Mortgage Applications;United States;USD;1
+NOK_NorgesBankInterestRateDecision;20091216;12:00;Norges Bank Interest Rate Decision;Norway;NOK;0
+EUR_EurConsumerPriceIndex;20091216;10:00;Consumer Price Index (YoY);European Monetary Union;EUR;2
+CZK_CNBInterestRateDecision;20091216;10:00;CNB Interest Rate Decision;Czech Republic;CZK;1
+GBP_AverageEarningsIncludingBonus;20091216;09:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20091216;09:30;ILO Unemployment Rate (3M);United Kingdom;GBP;2
+GBP_ClaimantCountChange;20091216;09:30;Claimant Count Change;United Kingdom;GBP;2
+GBP_ClaimantCountRate;20091216;09:30;Claimant Count Rate;United Kingdom;GBP;3
+GBP_AverageEarningsExcludingBonus;20091216;09:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+EUR_EurMarkitServicesPMI;20091216;09:00;Markit Services PMI;European Monetary Union;EUR;1
+EUR_EurMarkitManufacturingPMI;20091216;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;1
+EUR_GerMarkitServicesPMI;20091216;08:30;Markit Services PMI;Germany;EUR;1
+EUR_GerMarkitManufacturingPMI;20091216;08:30;Markit Manufacturing PMI;Germany;EUR;2
+AUD_GrossDomesticProduct;20091216;00:30;Gross Domestic Product (YoY);Australia;AUD;3

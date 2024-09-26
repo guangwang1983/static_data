@@ -1,0 +1,37 @@
+AUD_WestpacConsumerConfidence;20210714;00:30;Westpac Consumer Confidence;Australia;AUD;2
+NZD_RBNZRateStatement;20210714;02:00;RBNZ Rate Statement;New Zealand;NZD;3
+NZD_RBNZInterestRateDecision;20210714;02:00;RBNZ Interest Rate Decision;New Zealand;NZD;3
+JPY_IndustrialProduction;20210714;04:30;Industrial Production (YoY);Japan;JPY;2
+JPY_CapacityUtilization;20210714;04:30;Capacity Utilization;Japan;JPY;1
+GBP_RetailPriceIndex;20210714;06:00;Retail Price Index (YoY);United Kingdom;GBP;2
+GBP_ProducerPriceIndex;20210714;06:00;Producer Price Index - Output (MoM) n.s.a;United Kingdom;GBP;1
+GBP_PPICoreOutput;20210714;06:00;PPI Core Output (YoY) n.s.a ;United Kingdom;GBP;2
+GBP_ConsumerPriceIndex;20210714;06:00;Consumer Price Index (MoM);United Kingdom;GBP;2
+INR_WPIInflation;20210714;06:30;WPI Inflation;India;INR;1
+HUF_IndustrialOutput;20210714;07:00;Industrial Output (YoY);Hungary;HUF;1
+CNY_FDIForeignDirectInvestment;20210714;07:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+SEK_ConsumerPriceIndex;20210714;07:30;Consumer Price Index (YoY);Sweden;SEK;1
+CZK_CurrentAccount;20210714;08:00;Current Account (MoM);Czech Republic;CZK;1
+GBP_DCLGHousePriceIndex;20210714;08:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+EUR_EurIndustrialProduction;20210714;09:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;1
+EUR_GerAuction;20210714;09:30;10-y Bond Auction;Germany;EUR;2
+TRY_CBRTInterestRateDecision;20210714;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+USD_MBAMortgageApplications;20210714;11:00;MBA Mortgage Applications;United States;USD;1
+ZAR_RetailSales;20210714;11:00;Retail Sales (YoY);South Africa;ZAR;1
+INR_M3MoneySupply;20210714;11:30;M3 Money Supply;India;INR;1
+PLN_CurrentAccount;20210714;12:00;Current Account;Poland;PLN;1
+USD_ProducerPriceIndex;20210714;12:30;Producer Price Index ex Food & Energy (YoY);United States;USD;2
+CAD_ManufacturingSales;20210714;12:30;Manufacturing Sales (MoM);Canada;CAD;1
+EUR_EurCentralBankSpeech;20210714;12:45;ECB Schnabel speech;European Monetary Union;EUR;2
+CAD_BankofCanadaMonetaryPolicyReport;20210714;14:00;Bank of Canada Monetary Policy Report;Canada;CAD;3
+CAD_BoCRateStatement;20210714;14:00;BoC Rate Statement;Canada;CAD;3
+CAD_BoCInterestRateDecision;20210714;14:00;BoC Interest Rate Decision;Canada;CAD;3
+CAD_BoCPressConference;20210714;15:15;BoC Press Conference;Canada;CAD;3
+USD_EIACrudeOilStocksChange;20210714;15:55;EIA Crude Oil Stocks Change;United States;USD;1
+USD_FedChairPowelltestifies;20210714;16:00;Fed Chair Powell testifies;United States;USD;3
+GBP_CentralBankSpeech;20210714;17:00;BoE Ramsden speech;United Kingdom;GBP;2
+USD_FedBeigeBook;20210714;18:00;Fed Beige Book;United States;USD;2
+TRY_DemocracyandNationalSolidarityDay;20210714;21:00;Democracy and National Solidarity Day;Turkey;TRY;0
+CLP_BCCHInterestRate;20210714;22:00;BCCH Interest Rate;Chile;CLP;1
+JPY_ForeignInvestmentinJapanStocks;20210714;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20210714;23:50;Foreign Bond Investment;Japan;JPY;1

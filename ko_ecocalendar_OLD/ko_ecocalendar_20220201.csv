@@ -1,0 +1,49 @@
+JPY_JibunBankManufacturingPMI;20220201;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+AUD_InvestmentLendingforHomes;20220201;00:30;Investment Lending for Homes;Australia;AUD;1
+AUD_HomeLoans;20220201;00:30;Home Loans;Australia;AUD;1
+AUD_RetailSales;20220201;00:30;Retail Sales s.a. (MoM);Australia;AUD;3
+AUD_RBAInterestRateDecision;20220201;03:30;RBA Interest Rate Decision;Australia;AUD;3
+AUD_RBARateStatement;20220201;03:30;RBA Rate Statement;Australia;AUD;3
+JPY_Auction;20220201;03:35;10-y Bond Auction;Japan;JPY;1
+AUD_RBACommodityIndexSDR;20220201;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+RUB_HSBCManufacturingPMI;20220201;06:00;HSBC Manufacturing PMI	;Russia;RUB;1
+GBP_NationwideHousingPrices;20220201;07:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;1
+CHF_RetailSales;20220201;07:30;Real Retail Sales (YoY);Switzerland;CHF;2
+SEK_PurchasingManagersIndexManufacturing;20220201;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+PLN_PurchasingManagerIndex;20220201;08:00;Purchasing Manager Index;Poland;PLN;2
+HUF_PurchasingManagerIndex;20220201;08:00;Purchasing Manager Index;Hungary;HUF;1
+HUF_TradeBalance;20220201;08:00;Trade Balance;Hungary;HUF;1
+CZK_GrossDomesticProduct;20220201;08:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+CHF_SECOConsumerClimate;20220201;08:00;SECO Consumer Climate (3m);Switzerland;CHF;1
+CZK_MarkitPMI;20220201;08:30;Markit PMI;Czech Republic;CZK;1
+CHF_SVMEPurchasingManagers'Index;20220201;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+EUR_EurECBBankLendingSurvey;20220201;09:00;ECB Bank Lending Survey;European Monetary Union;EUR;3
+EUR_EurMarkitManufacturingPMI;20220201;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;1
+GBP_NetLendingtoIndividuals;20220201;09:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20220201;09:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20220201;09:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_MarkitManufacturingPMI;20220201;09:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+GBP_M4MoneySupply;20220201;09:30;M4 Money Supply (MoM);United Kingdom;GBP;1
+DKK_ManufacturingPMI;20220201;10:00;Manufacturing PMI;Denmark;DKK;1
+EUR_EurUnemploymentRate;20220201;10:00;Unemployment Rate;European Monetary Union;EUR;2
+ZAR_TotalNewVehicleSales;20220201;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+CZK_BudgetBalance;20220201;13:00;Budget Balance;Czech Republic;CZK;1
+CAD_GrossDomesticProduct;20220201;13:30;Gross Domestic Product (MoM);Canada;CAD;2
+USD_RedbookIndex;20220201;13:55;Redbook Index (YoY);United States;USD;1
+NZD_GDTPriceIndex;20220201;14:30;GDT Price Index;New Zealand;NZD;1
+CAD_MarkitManufacturingPMI;20220201;14:30;Markit Manufacturing PMI;Canada;CAD;2
+USD_MarkitManufacturingPMI;20220201;14:45;Markit Manufacturing PMI;United States;USD;2
+USD_JOLTSJobOpenings;20220201;15:00;JOLTS Job Openings;United States;USD;1
+USD_ISMManufacturingNewOrdersIndex;20220201;15:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ISMManufacturingPricesPaid;20220201;15:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ISMManufacturingPMI;20220201;15:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingEmploymentIndex;20220201;15:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ConstructionSpending;20220201;15:00;Construction Spending (MoM);United States;USD;1
+CNY_ChineseNewYear;20220201;16:00;Chinese New Year;China;CNY;0
+USD_TotalVehicleSales;20220201;20:30;Total Vehicle Sales;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20220201;21:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_EmploymentChange;20220201;21:45;Employment Change;New Zealand;NZD;3
+NZD_UnemploymentRate;20220201;21:45;Unemployment Rate;New Zealand;NZD;3
+NZD_ParticipationRate;20220201;21:45;Participation Rate;New Zealand;NZD;2
+NZD_LabourCostIndex;20220201;21:45;Labour Cost Index (QoQ);New Zealand;NZD;2
+JPY_MonetaryBase;20220201;23:50;Monetary Base (YoY);Japan;JPY;1

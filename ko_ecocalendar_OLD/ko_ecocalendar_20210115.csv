@@ -1,0 +1,46 @@
+AUD_CFTCAUDNCNetPositions;20210115;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20210115;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+USD_CFTCS&P500NCNetPositions;20210115;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20210115;20:30;CFTC Gold NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20210115;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCOilNCNetPositions;20210115;20:30;CFTC Oil NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20210115;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_BakerHughesUSOilRigCount;20210115;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_MichiganConsumerSentimentIndex;20210115;15:00;Michigan Consumer Sentiment Index;United States;USD;3
+USD_BusinessInventories;20210115;15:00;Business Inventories;United States;USD;1
+USD_IndustrialProduction;20210115;14:15;Industrial Production (MoM);United States;USD;1
+USD_CapacityUtilization;20210115;14:15;Capacity Utilization;United States;USD;1
+USD_NYEmpireStateManufacturingIndex;20210115;13:30;NY Empire State Manufacturing Index;United States;USD;1
+USD_RetailSales;20210115;13:30;Retail Sales ex Autos (MoM);United States;USD;2
+USD_ProducerPriceIndex;20210115;13:30;Producer Price Index (MoM);United States;USD;1
+RUB_ForeignTrade;20210115;13:00;Foreign Trade;Russia;RUB;1
+GBP_NIESRGDPEstimate;20210115;13:00;NIESR GDP Estimate (3M);United Kingdom;GBP;2
+BRL_RetailSales;20210115;12:00;Retail Sales (MoM);Brazil;BRL;1
+ILS_ConsumerPriceIndex;20210115;12:00;Consumer Price Index (MoM);Israel;ILS;1
+INR_BankLoanGrowth;20210115;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20210115;11:30;FX Reserves, USD;India;INR;1
+EUR_EurTradeBalance;20210115;10:00;Trade Balance n.s.a.;European Monetary Union;EUR;1
+EUR_GreUnemploymentRate;20210115;10:00;Unemployment Rate (MoM);Greece;EUR;1
+SEK_ConsumerPriceIndex;20210115;08:30;Consumer Price Index (MoM);Sweden;SEK;1
+TRY_BudgetBalance;20210115;08:00;Budget Balance;Turkey;TRY;1
+EUR_SpaHICP;20210115;08:00;HICP (MoM);Spain;EUR;1
+EUR_SpaConsumerPriceIndex;20210115;08:00;Consumer Price Index (MoM);Spain;EUR;1
+EUR_FraConsumerPriceIndex;20210115;07:45;Consumer Price Index (EU norm) (YoY);France;EUR;1
+EUR_FraInflationextobacco;20210115;07:45;Inflation ex-tobacco (MoM);France;EUR;1
+EUR_FraBudget;20210115;07:45;Budget;France;EUR;1
+GBP_ManufacturingProduction;20210115;07:00;Manufacturing Production (YoY);United Kingdom;GBP;2
+GBP_IndustrialProduction;20210115;07:00;Industrial Production (MoM);United Kingdom;GBP;2
+GBP_IndexofServices;20210115;07:00;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20210115;07:00;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20210115;07:00;Total Trade Balance;United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20210115;07:00;Goods Trade Balance;United Kingdom;GBP;1
+GBP_GrossDomesticProduct;20210115;07:00;Gross Domestic Product (MoM);United Kingdom;GBP;2
+EUR_FinGrossDomesticProduct;20210115;06:00;Gross Domestic Product (YoY);Finland;EUR;1
+JPY_TertiaryIndustryIndex;20210115;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+IDR_Exports;20210115;04:00;Exports;Indonesia;IDR;1
+IDR_TradeBalance;20210115;04:00;Trade Balance;Indonesia;IDR;1
+IDR_Imports;20210115;04:00;Imports;Indonesia;IDR;1
+CNY_HousePriceIndex;20210115;01:30;House Price Index ;China;CNY;1
+KRW_BoKInterestRateDecision;20210115;01:00;BoK Interest Rate Decision;South Korea;KRW;1
+AUD_InvestmentLendingforHomes;20210115;00:30;Investment Lending for Homes;Australia;AUD;1
+AUD_HomeLoans;20210115;00:30;Home Loans;Australia;AUD;1

@@ -1,0 +1,43 @@
+AUD_WestpacConsumerConfidenceIndex;20121009;23:30;Westpac Consumer Confidence Index;Australia;AUD;1
+AUD_WestpacConsumerConfidence;20121009;23:30;Westpac Consumer Confidence;Australia;AUD;2
+GBP_CentralBankSpeech;20121009;17:30;BoE Governor King speech;United Kingdom;GBP;2
+USD_Auction;20121009;17:00;3-Year Note Auction;United States;USD;1
+GBP_NIESRGDPEstimate;20121009;14:00;NIESR GDP Estimate (3M);United Kingdom;GBP;3
+USD_IBDTIPPEconomicOptimism;20121009;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+MXN_12MonthInflation;20121009;13:00;12-Month Inflation;Mexico;MXN;1
+MXN_CoreInflation;20121009;13:00;Core Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20121009;13:00;Headline Inflation;Mexico;MXN;1
+USD_RedbookIndex;20121009;12:55;Redbook Index (YoY);United States;USD;1
+CAD_HousingStarts;20121009;12:15;Housing Starts s.a (YoY);Canada;CAD;2
+USD_NFIBBusinessOptimismIndex;20121009;11:30;NFIB Business Optimism Index;United States;USD;1
+EUR_EurEcoFinMeeting;20121009;10:00;EcoFin Meeting;European Monetary Union;EUR;2
+EUR_EurSamarasMerkelMeeting;20121009;10:00;Samaras - Merkel Meeting;European Monetary Union;EUR;2
+EUR_GreConsumerPriceIndex;20121009;09:00;Consumer Price Index (YoY);Greece;EUR;1
+EUR_ItaPublicDeficitGDP;20121009;08:30;Public Deficit/GDP;Italy;EUR;1
+GBP_ManufacturingProduction;20121009;08:30;Manufacturing Production (MoM);United Kingdom;GBP;1
+GBP_IndustrialProduction;20121009;08:30;Industrial Production (YoY);United Kingdom;GBP;2
+EUR_ItaGrossDomesticProduct;20121009;08:30;Gross Domestic Product (QoQ);Italy;EUR;1
+GBP_GoodsTradeBalance;20121009;08:30;Goods Trade Balance;United Kingdom;GBP;2
+GBP_TotalTradeBalance;20121009;08:30;Total Trade Balance;United Kingdom;GBP;2
+GBP_TradeBalancenonEU;20121009;08:30;Trade Balance non-EU;United Kingdom;GBP;1
+EUR_EurCentralBankSpeech;20121009;07:30;ECB President Draghi speech;European Monetary Union;EUR;3
+EUR_NetManufacturingOutput;20121009;07:30;Manufacturing Output (MoM);Netherlands, The;EUR;1
+EUR_SloForeignTradeBalance;20121009;07:00;Foreign Trade Balance;Slovakia;EUR;1
+CZK_ConsumerPriceIndex;20121009;07:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+EUR_SloIndustrialOutput;20121009;07:00;Industrial Output (YoY);Slovakia;EUR;1
+TRY_IndustrialProduction;20121009;07:00;Industrial Production (YoY);Turkey;TRY;1
+DKK_TradeBalance;20121009;07:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20121009;07:00;Current Account;Denmark;DKK;1
+HUF_TradeBalance;20121009;07:00;Trade Balance;Hungary;HUF;1
+EUR_FraImportsEUR;20121009;06:45;Imports, EUR;France;EUR;1
+EUR_FraExportsEUR;20121009;06:45;Exports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20121009;06:45;Trade Balance EUR;France;EUR;1
+EUR_FraBudget;20121009;06:45;Budget;France;EUR;1
+EUR_FinGrossDomesticProduct;20121009;06:00;Gross Domestic Product (YoY);Finland;EUR;1
+JPY_EcoWatchersSurvey:Outlook;20121009;05:00;Eco Watchers Survey: Outlook;Japan;JPY;2
+JPY_EcoWatchersSurvey:Current;20121009;05:00;Eco Watchers Survey: Current;Japan;JPY;2
+JPY_BoJMonthlyEconomicSurvey;20121009;05:00;BoJ Monthly Economic Survey;Japan;JPY;2
+AUD_CentralBankSpeech;20121009;01:00;OUTDATED - RBA Deputy Governor Lowe Speech;Australia;AUD;1
+JPY_CentralBankSpeech;20121009;01:00;BoJ Governor Shirakawa speech;Japan;JPY;2
+AUD_NationalAustraliaBankBusinessConfidence;20121009;00:30;National Australia Bank Business Confidence;Australia;AUD;2
+AUD_NationalAustraliaBankBusinessConditions;20121009;00:30;National Australia Bank Business Conditions;Australia;AUD;1

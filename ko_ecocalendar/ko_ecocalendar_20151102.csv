@@ -1,0 +1,34 @@
+MXN_DayoftheDead;20151102;00:00;Day of the Dead ;Mexico;MXN;0
+COP_AllSaints'Day;20151102;00:00;All Saints' Day;Colombia;COP;0
+BRL_AllSoulsDay;20151102;00:00;All Souls Day;Brazil;BRL;0
+AUD_BuildingPermits;20151102;00:30;Building Permits (YoY);Australia;AUD;1
+JPY_JibunBankManufacturingPMI;20151102;01:35;Jibun Bank Manufacturing PMI;Japan;JPY;1
+CNY_CaixinManufacturingPMI;20151102;01:45;Caixin Manufacturing PMI;China;CNY;2
+IDR_Inflation;20151102;04:00;Inflation (MoM);Indonesia;IDR;1
+IDR_CoreInflation;20151102;04:00;Core Inflation (YoY);Indonesia;IDR;1
+JPY_VehicleSales;20151102;05:00;Vehicle Sales (YoY);Japan;JPY;1
+AUD_RBACommodityIndexSDR;20151102;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+RUB_S&PGlobalManufacturingPMI;20151102;06:00;S&P Global Manufacturing PMI;Russia;RUB;1
+HUF_TradeBalance;20151102;07:00;Trade Balance;Hungary;HUF;1
+SEK_PurchasingManagersIndexManufacturing;20151102;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;2
+HUF_PurchasingManagerIndex;20151102;08:00;Purchasing Manager Index;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20151102;08:00;Purchasing Manager Index;Poland;PLN;2
+CHF_RetailSales;20151102;08:15;Real Retail Sales (YoY);Switzerland;CHF;2
+CHF_SVMEPurchasingManagers'Index;20151102;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_S&PGlobalPMI;20151102;08:30;S&P Global PMI;Czech Republic;CZK;1
+EUR_ItaHCOBManufacturingPMI;20151102;08:45;HCOB Manufacturing PMI;Italy;EUR;1
+EUR_FraHCOBManufacturingPMI;20151102;08:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerHCOBManufacturingPMI;20151102;08:55;HCOB Manufacturing PMI;Germany;EUR;2
+NOK_CreditIndicator;20151102;09:00;Credit Indicator;Norway;NOK;1
+EUR_EurHCOBManufacturingPMI;20151102;09:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+GBP_S&PGlobalCIPSManufacturingPMI;20151102;09:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+ZAR_TotalNewVehicleSales;20151102;10:00;Total New Vehicle Sales;South Africa;ZAR;1
+CZK_BudgetBalance;20151102;13:00;Budget Balance;Czech Republic;CZK;1
+CAD_S&PGlobalManufacturingPMI;20151102;14:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20151102;14:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_ISMManufacturingPMI;20151102;15:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20151102;15:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ConstructionSpending;20151102;15:00;Construction Spending (MoM);United States;USD;2
+USD_Auction;20151102;16:30;6-Month Bill Auction;United States;USD;1
+USD_LoanOfficerSurvey;20151102;19:00;Loan Officer Survey;United States;USD;1
+KRW_ConsumerPriceIndex;20151102;23:00;Consumer Price Index Growth (YoY);South Korea;KRW;1

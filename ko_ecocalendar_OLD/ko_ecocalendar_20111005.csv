@@ -1,0 +1,20 @@
+USD_EIACrudeOilStocksChange;20111005;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_ISMNonManufacturingPMI;20111005;14:00;ISM Non-Manufacturing PMI;United States;USD;2
+USD_ADPEmploymentChange;20111005;12:15;ADP Employment Change;United States;USD;2
+INR_M3MoneySupply;20111005;11:30;M3 Money Supply;India;INR;1
+USD_MBAMortgageApplications;20111005;11:00;MBA Mortgage Applications;United States;USD;1
+EUR_EurGrossDomesticProduct;20111005;09:18;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;2
+PLN_NBPBaserate;20111005;09:00;NBP Base rate;Poland;PLN;1
+EUR_EurRetailSales;20111005;09:00;Retail Sales (YoY);European Monetary Union;EUR;2
+GBP_GrossDomesticProduct;20111005;08:30;Gross Domestic Product (YoY);United Kingdom;GBP;2
+GBP_TotalBusinessInvestment;20111005;08:30;Total Business Investment (QoQ);United Kingdom;GBP;1
+GBP_MarkitServicesPMI;20111005;08:30;Markit Services PMI;United Kingdom;GBP;2
+EUR_EurMarkitServicesPMI;20111005;08:00;Markit Services PMI;European Monetary Union;EUR;1
+EUR_GerMarkitServicesPMI;20111005;07:55;Markit Services PMI;Germany;EUR;2
+EUR_FraMarkitServicesPMI;20111005;07:50;Markit Services PMI;France;EUR;1
+EUR_ItaMarkitServicesPMI;20111005;07:45;Markit Services PMI;Italy;EUR;1
+EUR_SpaMarkitServicesPMI;20111005;07:15;Markit Services PMI;Spain;EUR;1
+EUR_IrePurchasingManagerIndexServices;20111005;07:00;Purchasing Manager Index Services;Ireland;EUR;1
+RUB_ConsumerPriceIndex;20111005;05:05;Consumer Price Index (MoM);Russia;RUB;1
+RUB_PurchasingManagerIndexServices;20111005;04:00;Purchasing Manager Index Services;Russia;RUB;1
+AUD_RetailSales;20111005;00:30;Retail Sales s.a. (MoM);Australia;AUD;2

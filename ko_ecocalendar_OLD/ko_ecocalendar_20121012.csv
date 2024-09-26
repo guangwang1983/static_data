@@ -1,0 +1,25 @@
+ARS_ConsumerPriceIndex;20121012;19:00;Consumer Price Index (MoM);Argentina;ARS;1
+USD_MonthlyBudgetStatement;20121012;19:00;Monthly Budget Statement;United States;USD;2
+USD_CentralBankSpeech;20121012;16:35;Fed Lacker speech;United States;USD;1
+USD_MichiganConsumerSentimentIndex;20121012;13:55;Michigan Consumer Sentiment Index;United States;USD;3
+MXN_IndustrialOutput;20121012;13:00;Industrial Output (YoY);Mexico;MXN;1
+USD_ProducerPriceIndex;20121012;12:30;Producer Price Index ex Food & Energy (YoY);United States;USD;3
+PLN_M3MoneySupply;20121012;12:00;M3 Money Supply (YoY);Poland;PLN;1
+INR_FXReservesUSD;20121012;11:30;FX Reserves, USD;India;INR;1
+EUR_EurIndustrialProduction;20121012;09:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;2
+EUR_ItaConsumerPriceIndex;20121012;08:00;Consumer Price Index (YoY);Italy;EUR;1
+EUR_SloCoreInflation;20121012;07:00;Core Inflation (YoY);Slovakia;EUR;1
+EUR_SloHeadlineInflation;20121012;07:00;Headline Inflation (MoM);Slovakia;EUR;1
+HUF_IndustrialOutput;20121012;07:00;Industrial Output (YoY);Hungary;HUF;1
+EUR_FraCurrentAccount;20121012;06:45;Current Account;France;EUR;1
+GBP_CentralBankSpeech;20121012;05:45;BoE Tucker speech;United Kingdom;GBP;2
+INR_ManufacturingOutput;20121012;05:30;Manufacturing Output;India;INR;1
+INR_IndustrialOutput;20121012;05:30;Industrial Output;India;INR;1
+INR_CumulativeIndustrialOutput;20121012;05:30;Cumulative Industrial Output;India;INR;1
+SGD_GrossDomesticProduct;20121012;01:45;Gross Domestic Product (QoQ);Singapore;SGD;1
+JPY_CentralBankSpeech;20121012;01:00;BoJ Governor Shirakawa speech;Japan;JPY;2
+ARS_ColumbusDay;20121012;00:00;Columbus Day;Argentina;ARS;0
+EUR_EurIMFMeeting;20121012;00:00;IMF Meeting;European Monetary Union;EUR;2
+BRL_LadyofAparecida;20121012;00:00;Lady of Aparecida ;Brazil;BRL;0
+MXN_ColumbusDay;20121012;00:00;Columbus Day ;Mexico;MXN;0
+EUR_SpaSpanishNationalDay;20121012;00:00;Spanish National Day;Spain;EUR;0

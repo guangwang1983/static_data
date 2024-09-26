@@ -1,0 +1,12 @@
+JPY_GrossDomesticProduct;20090519;23:50;Gross Domestic Product Annualized;Japan;JPY;2
+USD_CentralBankSpeech;20090519;17:15;Fed Minneapolis Kocherlakota speech;United States;USD;1
+USD_HousingStarts;20090519;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20090519;12:30;Building Permits (MoM);United States;USD;1
+EUR_EurZEWSurveyEconomicSentiment;20090519;09:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;0
+EUR_GerZEWSurveyEconomicSentiment;20090519;09:00;ZEW Survey - Economic Sentiment;Germany;EUR;3
+GBP_RetailPriceIndex;20090519;08:30;Retail Price Index (MoM);United Kingdom;GBP;2
+GBP_ConsumerPriceIndex;20090519;08:30;Core Consumer Price Index (YoY);United Kingdom;GBP;2
+JPY_MachineToolOrders;20090519;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+JPY_IndustrialProduction;20090519;04:30;Industrial Production (MoM);Japan;JPY;1
+JPY_CapacityUtilization;20090519;04:30;Capacity Utilization;Japan;JPY;1
+AUD_RBAMeetingMinutes;20090519;01:30;RBA Meeting Minutes;Australia;AUD;2

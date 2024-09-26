@@ -1,0 +1,17 @@
+USD_MichiganConsumerSentimentIndex;20100430;13:55;Michigan Consumer Sentiment Index;United States;USD;2
+USD_ChicagoPurchasingManagers'Index;20100430;13:45;Chicago Purchasing Managers' Index;United States;USD;2
+CAD_RawMaterialPriceIndex;20100430;12:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20100430;12:30;Industrial Product Price (MoM);Canada;CAD;1
+USD_GrossDomesticProduct;20100430;12:30;Gross Domestic Product Annualized;United States;USD;3
+CAD_GrossDomesticProduct;20100430;12:30;Gross Domestic Product (MoM);Canada;CAD;3
+USD_CorePersonalConsumptionExpenditures;20100430;12:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+CHF_KOFLeadingIndicator;20100430;09:30;KOF Leading Indicator;Switzerland;CHF;2
+EUR_EurUnemploymentRate;20100430;09:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_EurConsumerPriceIndex;20100430;09:00;Consumer Price Index (YoY);European Monetary Union;EUR;2
+JPY_HousingStarts;20100430;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_AnnualizedHousingStarts;20100430;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_BoJInterestRateDecision;20100430;04:28;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_VehicleProduction;20100430;04:00;Vehicle Production (YoY);Japan;JPY;1
+AUD_PrivateSectorCredit;20100430;01:30;Private Sector Credit (YoY);Australia;AUD;2
+AUD_HIANewHomeSales;20100430;01:21;HIA New Home Sales (MoM);Australia;AUD;1
+EUR_GerLabourDayObserved;20100430;00:00;Labour Day Observed;Germany;EUR;0

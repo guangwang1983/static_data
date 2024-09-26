@@ -1,0 +1,41 @@
+EUR_EurG20Meeting;20221116;00:00;G20 Meeting;European Monetary Union;EUR;2
+AUD_WagePriceIndex;20221116;00:30;Wage Price Index (QoQ);Australia;AUD;2
+CNY_HousePriceIndex;20221116;01:30;House Price Index ;China;CNY;1
+JPY_TertiaryIndustryIndex;20221116;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+GBP_RetailPriceIndex;20221116;07:00;Retail Price Index (MoM);United Kingdom;GBP;2
+GBP_PPICoreOutput;20221116;07:00;PPI Core Output (YoY) n.s.a ;United Kingdom;GBP;2
+GBP_ProducerPriceIndex;20221116;07:00;Producer Price Index - Input (MoM) n.s.a;United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20221116;07:00;Core Consumer Price Index (YoY);United Kingdom;GBP;2
+CZK_ProducerPriceIndex;20221116;08:00;Producer Price Index (YoY);Czech Republic;CZK;1
+EUR_ItaConsumerPriceIndex;20221116;09:00;Consumer Price Index (YoY);Italy;EUR;1
+EUR_EurEUFinancialStabilityReview;20221116;09:00;EU Financial Stability Review;European Monetary Union;EUR;2
+GBP_DCLGHousePriceIndex;20221116;09:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+ILS_GrossDomesticProduct;20221116;11:00;Gross Domestic Product (QoQ);Israel;ILS;1
+ZAR_RetailSales;20221116;11:00;Retail Sales (YoY);South Africa;ZAR;1
+INR_M3MoneySupply;20221116;11:30;M3 Money Supply;India;INR;1
+USD_MBAMortgageApplications;20221116;12:00;MBA Mortgage Applications;United States;USD;1
+PLN_NetInflation;20221116;13:00;Net Inflation;Poland;PLN;1
+CAD_HousingStarts;20221116;13:15;Housing Starts s.a (YoY);Canada;CAD;1
+USD_RetailSales;20221116;13:30;Retail Sales Control Group;United States;USD;3
+USD_ImportPriceIndex;20221116;13:30;Import Price Index (MoM);United States;USD;1
+USD_ExportPriceIndex;20221116;13:30;Export Price Index (MoM);United States;USD;1
+CAD_ConsumerPriceIndex;20221116;13:30;Consumer Price Index (MoM);Canada;CAD;2
+GBP_BoEMonetaryPolicyReportHearings;20221116;14:15;BoE Monetary Policy Report Hearings;United Kingdom;GBP;3
+USD_IndustrialProduction;20221116;14:15;Industrial Production (MoM);United States;USD;1
+USD_CapacityUtilization;20221116;14:15;Capacity Utilization;United States;USD;1
+USD_BusinessInventories;20221116;15:00;Business Inventories;United States;USD;1
+USD_NAHBHousingMarketIndex;20221116;15:00;NAHB Housing Market Index;United States;USD;1
+USD_EIACrudeOilStocksChange;20221116;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+EUR_EurCentralBankSpeech;20221116;17:00;ECB President Lagarde speech;European Monetary Union;EUR;3
+USD_Auction;20221116;18:00;20-Year Bond Auction;United States;USD;1
+USD_CentralBankSpeech;20221116;19:35;Fed Waller speech;United States;USD;2
+USD_NetLongTermTICFlows;20221116;21:00;Net Long-Term TIC Flows;United States;USD;1
+USD_TotalNetTICFlows;20221116;21:00;Total Net TIC Flows;United States;USD;1
+NZD_ProducerPriceIndex;20221116;21:45;Producer Price Index - Input (QoQ);New Zealand;NZD;1
+CZK_StruggleforFreedomandDemocracyDay;20221116;22:00;Struggle for Freedom and Democracy Day ;Czech Republic;CZK;0
+JPY_MerchandiseTradeBalanceTotal;20221116;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Imports;20221116;23:50;Imports (YoY);Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20221116;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_Exports;20221116;23:50;Exports (YoY);Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20221116;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20221116;23:50;Foreign Bond Investment;Japan;JPY;1

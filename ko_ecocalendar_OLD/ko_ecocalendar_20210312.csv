@@ -1,0 +1,48 @@
+AUD_CFTCAUDNCNetPositions;20210312;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20210312;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+USD_CFTCS&P500NCNetPositions;20210312;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20210312;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20210312;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20210312;20:30;CFTC Oil NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20210312;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_BakerHughesUSOilRigCount;20210312;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_MichiganConsumerSentimentIndex;20210312;15:00;Michigan Consumer Sentiment Index;United States;USD;3
+USD_ProducerPriceIndex;20210312;13:30;Producer Price Index (MoM);United States;USD;1
+CAD_CapacityUtilization;20210312;13:30;Capacity Utilization;Canada;CAD;1
+CAD_WholesaleSales;20210312;13:30;Wholesale Sales (MoM);Canada;CAD;1
+CAD_UnemploymentRate;20210312;13:30;Unemployment Rate;Canada;CAD;3
+CAD_ParticipationRate;20210312;13:30;Participation Rate;Canada;CAD;2
+CAD_NetChangeinEmployment;20210312;13:30;Net Change in Employment;Canada;CAD;3
+CAD_AverageHourlyWages;20210312;13:30;Average Hourly Wages (YoY);Canada;CAD;2
+GBP_NIESRGDPEstimate;20210312;12:00;NIESR GDP Estimate (3M);United Kingdom;GBP;2
+BRL_RetailSales;20210312;12:00;Retail Sales (MoM);Brazil;BRL;1
+MXN_IndustrialOutput;20210312;12:00;Industrial Output (MoM);Mexico;MXN;1
+INR_IndustrialOutput;20210312;12:00;Industrial Output;India;INR;1
+INR_ManufacturingOutput;20210312;12:00;Manufacturing Output;India;INR;1
+INR_CumulativeIndustrialOutput;20210312;12:00;Cumulative Industrial Output;India;INR;1
+INR_BankLoanGrowth;20210312;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20210312;11:30;FX Reserves, USD;India;INR;1
+EUR_PorGlobalTradeBalance;20210312;11:00;Global Trade Balance;Portugal;EUR;1
+EUR_EurIndustrialProduction;20210312;10:00;Industrial Production s.a. (MoM);European Monetary Union;EUR;2
+GBP_ConsumerInflationExpectations;20210312;09:30;Consumer Inflation Expectations;United Kingdom;GBP;1
+HUF_IndustrialOutput;20210312;08:00;Industrial Output (YoY);Hungary;HUF;1
+CZK_IndustrialProduction;20210312;08:00;Industrial Production (YoY);Czech Republic;CZK;1
+EUR_SpaConsumerPriceIndex;20210312;08:00;Consumer Price Index (YoY);Spain;EUR;1
+EUR_SpaHICP;20210312;08:00;HICP (YoY);Spain;EUR;1
+EUR_SpaRetailSales;20210312;08:00;Retail Sales (YoY);Spain;EUR;1
+CZK_Constructionoutput;20210312;08:00;Construction output (YoY);Czech Republic;CZK;1
+RON_TradeBalance;20210312;07:00;Trade Balance;Romania;RON;1
+RON_IndustrialProduction;20210312;07:00;Industrial Production (MoM);Romania;RON;1
+GBP_IndustrialProduction;20210312;07:00;Industrial Production (MoM);United Kingdom;GBP;2
+GBP_ManufacturingProduction;20210312;07:00;Manufacturing Production (MoM);United Kingdom;GBP;2
+TRY_IndustrialProduction;20210312;07:00;Industrial Production (YoY);Turkey;TRY;1
+EUR_GerConsumerPriceIndex;20210312;07:00;Consumer Price Index (MoM);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20210312;07:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+GBP_IndexofServices;20210312;07:00;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20210312;07:00;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20210312;07:00;Total Trade Balance;United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20210312;07:00;Goods Trade Balance;United Kingdom;GBP;1
+GBP_GrossDomesticProduct;20210312;07:00;Gross Domestic Product (MoM);United Kingdom;GBP;2
+EUR_FinCurrentAccount;20210312;06:00;Current Account;Finland;EUR;1
+AUD_HIANewHomeSales;20210312;04:00;HIA New Home Sales (MoM);Australia;AUD;2
+USD_CentralBankSpeech;20210312;01:00;President Biden speech;United States;USD;2

@@ -1,0 +1,45 @@
+JPY_IndustrialProduction;20170227;23:50;Industrial Production (MoM);Japan;JPY;2
+JPY_RetailTrade;20170227;23:50;Retail Trade (YoY);Japan;JPY;2
+JPY_LargeRetailers'Sales;20170227;23:50;Large Retailers' Sales;Japan;JPY;2
+GBP_GfKConsumerConfidence;20170227;23:05;GfK Consumer Confidence;United Kingdom;GBP;2
+NZD_TradeBalance;20170227;21:45;Trade Balance (YoY);New Zealand;NZD;2
+NZD_Imports;20170227;21:45;Imports;New Zealand;NZD;2
+NZD_Exports;20170227;21:45;Exports;New Zealand;NZD;2
+USD_Auction;20170227;16:30;6-Month Bill Auction;United States;USD;1
+USD_CentralBankSpeech;20170227;16:00;Fed Kaplan speech;United States;USD;1
+USD_DallasFedManufacturingBusinessIndex;20170227;15:30;Dallas Fed Manufacturing Business Index;United States;USD;2
+USD_PendingHomeSales;20170227;15:00;Pending Home Sales (YoY);United States;USD;2
+MXN_JoblessRate;20170227;14:00;Jobless Rate s.a;Mexico;MXN;1
+MXN_TradeBalance;20170227;14:00;Trade Balance, $;Mexico;MXN;1
+MXN_TradeBalancesa;20170227;14:00;Trade Balance s/a, $;Mexico;MXN;1
+USD_DurableGoodsOrders;20170227;13:30;Durable Goods Orders ex Transportation;United States;USD;3
+CHF_CentralBankSpeech;20170227;12:30;SNB Zurbrugg speech;Switzerland;CHF;1
+EUR_ItaAuction;20170227;10:51;5-y Bond Auction;Italy;EUR;1
+EUR_PorBusinessConfidence;20170227;10:30;Business Confidence;Portugal;EUR;1
+EUR_PorConsumerConfidence;20170227;10:30;Consumer Confidence;Portugal;EUR;1
+EUR_BelConsumerPriceIndex;20170227;10:00;Consumer Price Index (YoY);Belgium;EUR;1
+ISK_ConsumerPriceIndex;20170227;10:00;Consumer Price Index (YoY);Iceland;ISK;1
+EUR_EurBusinessClimate;20170227;10:00;Business Climate;European Monetary Union;EUR;2
+EUR_EurConsumerConfidence;20170227;10:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurEconomicSentimentIndicator;20170227;10:00;Economic Sentiment Indicator;European Monetary Union;EUR;2
+EUR_EurIndustrialConfidence;20170227;10:00;Industrial Confidence;European Monetary Union;EUR;2
+EUR_EurServicesSentiment;20170227;10:00;Services Sentiment;European Monetary Union;EUR;2
+EUR_ItaTradeBalancenonEU;20170227;09:00;Trade Balance non-EU;Italy;EUR;1
+EUR_AusPurchasingManagerIndex;20170227;09:00;Purchasing Manager Index;Austria;EUR;1
+EUR_EurM3MoneySupply;20170227;09:00;M3 Money Supply (YoY);European Monetary Union;EUR;1
+EUR_EurPrivateLoans;20170227;09:00;Private Loans (YoY);European Monetary Union;EUR;1
+CHF_EmploymentLevel;20170227;08:15;Employment Level (QoQ);Switzerland;CHF;1
+EUR_SpaHICP;20170227;08:00;HICP (YoY);Spain;EUR;1
+DKK_IndustrialOutlook;20170227;08:00;Industrial Outlook;Denmark;DKK;1
+HUF_UnemploymentRate;20170227;08:00;Unemployment Rate (3M);Hungary;HUF;1
+EUR_FinProducerPriceIndex;20170227;07:00;Producer Price Index (YoY);Finland;EUR;1
+EUR_FinIndustrialConfidence;20170227;07:00;Industrial Confidence;Finland;EUR;1
+EUR_FinConsumerConfidence;20170227;07:00;Consumer Confidence;Finland;EUR;1
+TRY_Economicconfidenceindex;20170227;07:00;Economic confidence index;Turkey;TRY;1
+EUR_FinExportPrices;20170227;07:00;Export Prices (YoY);Finland;EUR;1
+EUR_FinImportPrices;20170227;06:00;Import Prices (YoY);Finland;EUR;1
+AUD_CompanyGrossOperatingProfits;20170227;00:30;Company Gross Operating Profits (QoQ);Australia;AUD;1
+BRL_Carnival;20170227;00:00;Carnival;Brazil;BRL;0
+ARS_Carnival;20170227;00:00;Carnival;Argentina;ARS;0
+EUR_GreAshMonday;20170227;00:00;Ash Monday ;Greece;EUR;0
+EUR_IreConsumerConfidence;20170227;00:00;Consumer Confidence;Ireland;EUR;1

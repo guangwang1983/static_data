@@ -1,0 +1,15 @@
+NZD_FoodPriceIndex;20081020;21:45;Food Price Index (MoM);New Zealand;NZD;1
+NZD_ConsumerPriceIndex;20081020;21:45;Consumer Price Index (QoQ);New Zealand;NZD;1
+USD_FedChairBernanketestifies;20081020;14:00;Fed Chair Bernanke testifies;United States;USD;2
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20081020;12:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;0
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20081020;12:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_WholesaleSales;20081020;12:30;Wholesale Sales (MoM);Canada;CAD;1
+INR_RBIInterestRateDecision;20081020;09:00;RBI Interest Rate Decision (Repo Rate);India;INR;1
+GBP_CMLGrossMortgageLending;20081020;08:30;CML Gross Mortgage Lending s.a.;United Kingdom;GBP;0
+GBP_M4SterlingLending;20081020;08:30;M4 Sterling Lending;United Kingdom;GBP;0
+GBP_M4MoneySupply;20081020;08:30;M4 Money Supply (MoM);United Kingdom;GBP;1
+GBP_PublicSectorNetBorrowing;20081020;08:30;Public Sector Net Borrowing;United Kingdom;GBP;1
+EUR_GerProducerPriceIndex;20081020;06:00;Producer Price Index (YoY);Germany;EUR;1
+JPY_LeadingEconomicIndex;20081020;05:00;Leading Economic Index;Japan;JPY;1
+JPY_CoincidentIndex;20081020;05:00;Coincident Index;Japan;JPY;1
+AUD_ProducerPriceIndex;20081020;00:30;Producer Price Index (QoQ);Australia;AUD;1

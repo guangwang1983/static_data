@@ -1,0 +1,36 @@
+JPY_DomesticCorporateGoodsPriceIndex;20130709;23:50;Domestic Corporate Goods Price Index (YoY);Japan;JPY;1
+JPY_TertiaryIndustryIndex;20130709;23:50;Tertiary Industry Index (MoM);Japan;JPY;2
+KRW_UnemploymentRate;20130709;23:00;Unemployment Rate;South Korea;KRW;1
+KRW_ImportPriceGrowth;20130709;21:00;Import Price Growth (YoY);South Korea;KRW;1
+KRW_ExportPriceGrowth;20130709;21:00;Export Price Growth (YoY);South Korea;KRW;1
+USD_Auction;20130709;17:00;3-Year Note Auction;United States;USD;1
+EUR_EurIMFGlobalEconomicOutlook;20130709;14:00;IMF Global Economic Outlook;European Monetary Union;EUR;2
+GBP_NIESRGDPEstimate;20130709;14:00;NIESR GDP Estimate (3M);United Kingdom;GBP;3
+MXN_12MonthInflation;20130709;13:00;12-Month Inflation;Mexico;MXN;1
+MXN_CoreInflation;20130709;13:00;Core Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20130709;13:00;Headline Inflation;Mexico;MXN;1
+USD_RedbookIndex;20130709;12:55;Redbook Index (MoM);United States;USD;1
+CAD_HousingStarts;20130709;12:15;Housing Starts s.a (YoY);Canada;CAD;2
+USD_NFIBBusinessOptimismIndex;20130709;11:30;NFIB Business Optimism Index;United States;USD;1
+EUR_EurEcoFinMeeting;20130709;10:00;EcoFin Meeting;European Monetary Union;EUR;2
+GBP_ManufacturingProduction;20130709;08:30;Manufacturing Production (MoM);United Kingdom;GBP;1
+GBP_IndustrialProduction;20130709;08:30;Industrial Production (YoY);United Kingdom;GBP;2
+GBP_GoodsTradeBalance;20130709;08:30;Goods Trade Balance;United Kingdom;GBP;2
+GBP_TradeBalancenonEU;20130709;08:30;Trade Balance non-EU;United Kingdom;GBP;2
+GBP_TotalTradeBalance;20130709;08:30;Total Trade Balance;United Kingdom;GBP;1
+CHF_RetailSales;20130709;07:15;Real Retail Sales (YoY);Switzerland;CHF;2
+EUR_SloForeignTradeBalance;20130709;07:00;Foreign Trade Balance;Slovakia;EUR;1
+CZK_ConsumerPriceIndex;20130709;07:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+CZK_UnemploymentRate;20130709;07:00;Unemployment Rate;Czech Republic;CZK;1
+DKK_TradeBalance;20130709;07:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20130709;07:00;Current Account;Denmark;DKK;1
+HUF_TradeBalance;20130709;07:00;Trade Balance;Hungary;HUF;1
+EUR_FraBudget;20130709;06:45;Budget;France;EUR;1
+EUR_FinGrossDomesticProduct;20130709;06:00;Gross Domestic Product (YoY);Finland;EUR;1
+JPY_MachineToolOrders;20130709;06:00;Machine Tool Orders (YoY);Japan;JPY;2
+AUD_NationalAustraliaBankBusinessConfidence;20130709;01:30;National Australia Bank Business Confidence;Australia;AUD;2
+AUD_NationalAustraliaBankBusinessConditions;20130709;01:30;National Australia Bank Business Conditions;Australia;AUD;1
+CNY_ConsumerPriceIndex;20130709;01:30;Consumer Price Index (YoY);China;CNY;1
+CNY_ProducerPriceIndex;20130709;01:30;Producer Price Index (YoY);China;CNY;2
+ARS_IndependenceDay;20130709;00:00;Independence Day;Argentina;ARS;0
+QAR_Ramadan;20130709;00:00;Ramadan;Qatar;QAR;0

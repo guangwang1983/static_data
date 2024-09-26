@@ -1,0 +1,32 @@
+BRL_CorpusChristi;20160526;00:00;Corpus Christi ;Brazil;BRL;0
+EUR_EurG7Meeting;20160526;00:00;G7 Meeting;European Monetary Union;EUR;3
+RUB_CentralBankReserves;20160526;00:00;Central Bank Reserves $;Russia;RUB;1
+PLN_CorpusChristi;20160526;00:00;Corpus Christi;Poland;PLN;0
+AUD_PrivateCapitalExpenditure;20160526;01:30;Private Capital Expenditure;Australia;AUD;1
+NZD_BudgetRelease;20160526;02:00;Budget Release;New Zealand;NZD;2
+HUF_UnemploymentRate;20160526;07:00;Unemployment Rate (3M);Hungary;HUF;1
+SEK_ConsumerConfidence;20160526;07:00;Consumer Confidence (MoM);Sweden;SEK;1
+CHF_IndustrialProduction;20160526;07:15;Industrial Production (YoY);Switzerland;CHF;2
+SEK_ProducerPriceIndex;20160526;07:30;Producer Price Index (YoY);Sweden;SEK;1
+EUR_ItaRetailSales;20160526;08:00;Retail Sales s.a. (MoM);Italy;EUR;1
+GBP_BBAMortgageApprovals;20160526;08:30;BBA Mortgage Approvals;United Kingdom;GBP;1
+GBP_GrossDomesticProduct;20160526;08:30;Gross Domestic Product (QoQ);United Kingdom;GBP;2
+GBP_TotalBusinessInvestment;20160526;08:30;Total Business Investment (YoY);United Kingdom;GBP;1
+GBP_IndexofServices;20160526;08:30;Index of Services (3M/3M);United Kingdom;GBP;1
+SEK_TradeBalance;20160526;08:30;Trade Balance (MoM);Sweden;SEK;1
+EUR_ItaWageInflation;20160526;09:00;Wage Inflation (MoM);Italy;EUR;1
+ZAR_ProducerPriceIndex;20160526;09:30;Producer Price Index (YoY);South Africa;ZAR;1
+USD_JoblessClaims;20160526;12:30;Continuing Jobless Claims;United States;USD;1
+USD_DurableGoodsOrders;20160526;12:30;Durable Goods Orders;United States;USD;3
+USD_PendingHomeSales;20160526;14:00;Pending Home Sales (YoY);United States;USD;2
+USD_EIANaturalGasStorageChange;20160526;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_KansasFedManufacturingActivity;20160526;15:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_CentralBankSpeech;20160526;16:00;FOMC Member Powell speech (don't use);United States;USD;1
+USD_Auction;20160526;17:00;7-Year Note Auction;United States;USD;1
+AUD_CentralBankSpeech;20160526;22:30;RBA Debelle speech;Australia;AUD;2
+GBP_GfKConsumerConfidence;20160526;23:05;GfK Consumer Confidence;United Kingdom;GBP;2
+JPY_TokyoCPIexFreshFood;20160526;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;1
+JPY_ConsumerPriceIndex;20160526;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;1
+JPY_TokyoCPIexFoodEnergy;20160526;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;1
+JPY_NationalCPIexFreshFood;20160526;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_NationalCPIexFoodEnergy;20160526;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2

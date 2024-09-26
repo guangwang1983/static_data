@@ -1,0 +1,31 @@
+AUD_WestpacConsumerConfidence;20230515;01:30;Westpac Consumer Confidence;Australia;AUD;2
+KRW_TradeBalance;20230515;02:00;Trade Balance;South Korea;KRW;1
+IDR_Exports;20230515;04:00;Exports;Indonesia;IDR;1
+IDR_TradeBalance;20230515;04:00;Trade Balance;Indonesia;IDR;1
+IDR_Imports;20230515;04:00;Imports;Indonesia;IDR;1
+JPY_MachineToolOrders;20230515;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+NOK_TradeBalance;20230515;06:00;Trade Balance;Norway;NOK;1
+SEK_ConsumerPriceIndex;20230515;06:00;Consumer Price Index (YoY);Sweden;SEK;1
+INR_WPIInflation;20230515;06:30;WPI Inflation;India;INR;1
+CHF_ProducerandImportPrices;20230515;06:30;Producer and Import Prices (MoM);Switzerland;CHF;1
+EUR_EurEurogroupMeeting;20230515;07:00;Eurogroup Meeting;European Monetary Union;EUR;2
+TRY_BudgetBalance;20230515;08:00;Budget Balance;Turkey;TRY;1
+PLN_ConsumerPriceIndex;20230515;08:00;Consumer Price Index (MoM);Poland;PLN;1
+GBP_BoEMonetaryPolicyReportHearings;20230515;08:30;BoE Monetary Policy Report Hearings;United Kingdom;GBP;3
+EUR_EurEuropeanCommissionreleasesEconomicGrowthForecasts;20230515;09:00;European Commission releases Economic Growth Forecasts;European Monetary Union;EUR;2
+EUR_EurIndustrialProduction;20230515;09:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;1
+ILS_TradeBalance;20230515;10:00;Trade Balance;Israel;ILS;1
+ILS_Exports;20230515;10:00;Exports;Israel;ILS;1
+ILS_Imports;20230515;10:00;Imports;Israel;ILS;1
+PLN_CurrentAccount;20230515;12:00;Current Account;Poland;PLN;1
+CAD_HousingStarts;20230515;12:15;Housing Starts s.a (YoY);Canada;CAD;1
+USD_NYEmpireStateManufacturingIndex;20230515;12:30;NY Empire State Manufacturing Index;United States;USD;1
+CAD_WholesaleSales;20230515;12:30;Wholesale Sales (MoM);Canada;CAD;1
+RUB_CentralBankReserves;20230515;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_Auction;20230515;15:30;3-Month Bill Auction;United States;USD;1
+ILS_ConsumerPriceIndex;20230515;15:30;Consumer Price Index (MoM);Israel;ILS;1
+COP_GrossDomesticProduct;20230515;16:00;Gross Domestic Product (YoY);Colombia;COP;1
+USD_TotalNetTICFlows;20230515;20:00;Total Net TIC Flows;United States;USD;1
+USD_NetLongTermTICFlows;20230515;20:00;Net Long-Term TIC Flows;United States;USD;1
+KRW_ExportPriceGrowth;20230515;21:00;Export Price Growth (YoY);South Korea;KRW;1
+KRW_ImportPriceGrowth;20230515;21:00;Import Price Growth (YoY);South Korea;KRW;1

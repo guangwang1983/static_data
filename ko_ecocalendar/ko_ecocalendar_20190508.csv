@@ -1,0 +1,32 @@
+EUR_FraVictoryinEuropeDay;20190508;00:00;Victory in Europe Day;France;EUR;0
+JPY_JibunBankServicesPMI;20190508;00:30;Jibun Bank Services PMI;Japan;JPY;1
+NZD_RBNZRateStatement;20190508;02:00;RBNZ Rate Statement;New Zealand;NZD;3
+NZD_RBNZInterestRateDecision;20190508;02:00;RBNZ Interest Rate Decision;New Zealand;NZD;3
+NZD_MonetaryPolicyStatement;20190508;02:00;Monetary Policy Statement ;New Zealand;NZD;3
+CNY_TradeBalanceCNY;20190508;03:00;Trade Balance CNY;China;CNY;1
+NZD_RBNZPressConference;20190508;03:00;RBNZ Press Conference;New Zealand;NZD;3
+CNY_Exports;20190508;03:06;Exports (YoY);China;CNY;2
+CNY_Imports;20190508;03:06;Imports (YoY);China;CNY;2
+CNY_TradeBalanceUSD;20190508;03:06;Trade Balance USD;China;CNY;2
+JPY_Auction;20190508;03:35;10-y Bond Auction;Japan;JPY;1
+CHF_UnemploymentRate;20190508;05:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+EUR_GerIndustrialProduction;20190508;06:00;Industrial Production s.a. (MoM);Germany;EUR;2
+NOK_ManufacturingOutput;20190508;06:00;Manufacturing Output;Norway;NOK;1
+HUF_IndustrialOutput;20190508;07:00;Industrial Output (YoY);Hungary;HUF;1
+TRY_Exports;20190508;07:20;Exports;Turkey;TRY;1
+GBP_HalifaxHousePrices;20190508;07:30;Halifax House Prices (YoY/3m);United Kingdom;GBP;1
+GBP_CentralBankSpeech;20190508;08:15;BoE Ramsden speech;United Kingdom;GBP;2
+EUR_EurNonMonetaryPolicyECBMeeting;20190508;08:45;Non-Monetary Policy ECB Meeting;European Monetary Union;EUR;1
+USD_MBAMortgageApplications;20190508;11:00;MBA Mortgage Applications;United States;USD;1
+EUR_EurCentralBankSpeech;20190508;11:30;ECB President Draghi speech;European Monetary Union;EUR;3
+INR_M3MoneySupply;20190508;12:00;M3 Money Supply;India;INR;1
+CAD_HousingStarts;20190508;12:19;Housing Starts s.a (YoY);Canada;CAD;1
+USD_CentralBankSpeech;20190508;12:30;Fed Brainard speech;United States;USD;2
+CLP_ConsumerPriceIndex;20190508;13:03;Core Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+USD_EIACrudeOilStocksChange;20190508;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+RUB_CentralBankReserves;20190508;16:00;Central Bank Reserves $;Russia;RUB;1
+TRY_TreasuryCashBalance;20190508;16:30;Treasury Cash Balance;Turkey;TRY;1
+USD_Auction;20190508;17:00;10-Year Note Auction;United States;USD;1
+NZD_CentralBankSpeech;20190508;20:00;RBNZ Governor Orr speech;New Zealand;NZD;3
+BRL_InterestRateDecision;20190508;21:00;Interest Rate Decision;Brazil;BRL;1
+GBP_RICSHousingPriceBalance;20190508;23:01;RICS Housing Price Balance;United Kingdom;GBP;1

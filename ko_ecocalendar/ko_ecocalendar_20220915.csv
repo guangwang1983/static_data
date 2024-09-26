@@ -1,0 +1,41 @@
+AUD_ConsumerInflationExpectations;20220915;01:00;Consumer Inflation Expectations;Australia;AUD;2
+AUD_ParticipationRate;20220915;01:30;Participation Rate;Australia;AUD;1
+AUD_UnemploymentRate;20220915;01:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_PartTimeEmployment;20220915;01:30;Part-Time Employment;Australia;AUD;1
+AUD_FullTimeEmployment;20220915;01:30;Full-Time Employment;Australia;AUD;2
+AUD_EmploymentChange;20220915;01:30;Employment Change s.a.;Australia;AUD;3
+AUD_RBABulletin;20220915;01:30;RBA Bulletin;Australia;AUD;1
+KRW_TradeBalance;20220915;02:00;Trade Balance;South Korea;KRW;1
+IDR_Imports;20220915;04:00;Imports;Indonesia;IDR;1
+IDR_TradeBalance;20220915;04:00;Trade Balance;Indonesia;IDR;1
+IDR_Exports;20220915;04:00;Exports;Indonesia;IDR;1
+JPY_TertiaryIndustryIndex;20220915;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+NOK_TradeBalance;20220915;06:00;Trade Balance;Norway;NOK;1
+EUR_GerWholesalePriceIndex;20220915;06:00;Wholesale Price Index (YoY);Germany;EUR;1
+EUR_FraConsumerPriceIndex;20220915;06:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraInflationextobacco;20220915;06:45;Inflation ex-tobacco (MoM);France;EUR;1
+PLN_ConsumerPriceIndex;20220915;08:00;Consumer Price Index (YoY);Poland;PLN;1
+TRY_BudgetBalance;20220915;08:00;Budget Balance;Turkey;TRY;1
+GBP_ConsumerInflationExpectations;20220915;08:30;Consumer Inflation Expectations;United Kingdom;GBP;1
+EUR_EurTradeBalance;20220915;09:00;Trade Balance n.s.a.;European Monetary Union;EUR;1
+EUR_EurLaborCost;20220915;09:00;Labor Cost;European Monetary Union;EUR;2
+EUR_EurCentralBankSpeech;20220915;09:15;ECB De Guindos speech;European Monetary Union;EUR;2
+USD_NYEmpireStateManufacturingIndex;20220915;12:30;NY Empire State Manufacturing Index;United States;USD;1
+USD_RetailSales;20220915;12:30;Retail Sales ex Autos (MoM);United States;USD;2
+USD_JoblessClaims;20220915;12:30;Initial Jobless Claims 4-week average;United States;USD;2
+USD_ImportPriceIndex;20220915;12:30;Import Price Index (YoY);United States;USD;1
+USD_ExportPriceIndex;20220915;12:30;Export Price Index (MoM);United States;USD;1
+USD_PhiladelphiaFedManufacturingSurvey;20220915;12:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+RUB_CentralBankReserves;20220915;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_IndustrialProduction;20220915;13:15;Industrial Production (MoM);United States;USD;1
+USD_CapacityUtilization;20220915;13:15;Capacity Utilization;United States;USD;1
+USD_BusinessInventories;20220915;14:00;Business Inventories;United States;USD;1
+USD_EIANaturalGasStorageChange;20220915;14:30;EIA Natural Gas Storage Change;United States;USD;1
+COP_RetailSales;20220915;15:00;Retail Sales (YoY);Colombia;COP;1
+COP_Industrialoutput;20220915;15:00;Industrial output (YoY);Colombia;COP;1
+USD_Auction;20220915;15:30;4-Week Bill Auction;United States;USD;1
+ILS_ConsumerPriceIndex;20220915;15:30;Consumer Price Index (MoM);Israel;ILS;1
+KRW_ImportPriceGrowth;20220915;21:00;Import Price Growth (YoY);South Korea;KRW;1
+KRW_ExportPriceGrowth;20220915;21:00;Export Price Growth (YoY);South Korea;KRW;1
+NZD_BusinessNZPMI;20220915;22:30;Business NZ PMI;New Zealand;NZD;2
+KRW_UnemploymentRate;20220915;23:00;Unemployment Rate;South Korea;KRW;1

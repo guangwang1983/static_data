@@ -1,0 +1,42 @@
+AUD_HIANewHomeSales;20200514;01:00;HIA New Home Sales (MoM);Australia;AUD;2
+AUD_ConsumerInflationExpectations;20200514;01:00;Consumer Inflation Expectations;Australia;AUD;2
+AUD_ParticipationRate;20200514;01:30;Participation Rate;Australia;AUD;1
+AUD_UnemploymentRate;20200514;01:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_PartTimeEmployment;20200514;01:30;Part-Time Employment;Australia;AUD;1
+AUD_FullTimeEmployment;20200514;01:30;Full-Time Employment;Australia;AUD;2
+AUD_EmploymentChange;20200514;01:30;Employment Change s.a.;Australia;AUD;3
+NZD_BudgetRelease;20200514;02:00;Budget Release;New Zealand;NZD;3
+EUR_FraILOUnemployment;20200514;05:30;ILO Unemployment;France;EUR;1
+EUR_GerWholesalePriceIndex;20200514;06:00;Wholesale Price Index (YoY);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20200514;06:00;Harmonized Index of Consumer Prices (MoM);Germany;EUR;1
+EUR_GerConsumerPriceIndex;20200514;06:00;Consumer Price Index (YoY);Germany;EUR;1
+JPY_MachineToolOrders;20200514;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+CHF_ProducerandImportPrices;20200514;06:30;Producer and Import Prices (YoY);Switzerland;CHF;1
+TRY_IndustrialProduction;20200514;07:00;Industrial Production (YoY);Turkey;TRY;1
+CNY_FDIForeignDirectInvestment;20200514;07:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+EUR_ItaGlobalTradeBalance;20200514;08:00;Global Trade Balance;Italy;EUR;1
+EUR_ItaTradeBalanceEU;20200514;08:00;Trade Balance EU;Italy;EUR;1
+EUR_EurEconomicBulletin;20200514;08:00;Economic Bulletin;European Monetary Union;EUR;2
+CZK_CurrentAccount;20200514;08:00;Current Account (MoM);Czech Republic;CZK;1
+ILS_M1MoneySupply;20200514;10:00;M1 Money Supply (MoM);Israel;ILS;1
+ZAR_SARBInterestRateDecision;20200514;10:00;SARB Interest Rate Decision;South Africa;ZAR;1
+PLN_CurrentAccount;20200514;12:00;Current Account;Poland;PLN;1
+USD_JoblessClaims;20200514;12:30;Continuing Jobless Claims;United States;USD;1
+CAD_ManufacturingSales;20200514;12:30;Manufacturing Sales (MoM);Canada;CAD;1
+USD_ImportPriceIndex;20200514;12:30;Import Price Index (MoM);United States;USD;1
+USD_ExportPriceIndex;20200514;12:30;Export Price Index (YoY);United States;USD;1
+RUB_CentralBankReserves;20200514;13:00;Central Bank Reserves $;Russia;RUB;1
+CAD_FinancialSystemReview;20200514;14:00;Financial System Review;Canada;CAD;1
+USD_EIANaturalGasStorageChange;20200514;14:30;EIA Natural Gas Storage Change;United States;USD;1
+COP_RetailSales;20200514;15:00;Retail Sales (YoY);Colombia;COP;1
+COP_TradeBalance;20200514;15:00;Trade Balance;Colombia;COP;1
+COP_Industrialoutput;20200514;15:00;Industrial output (YoY);Colombia;COP;1
+EUR_EurCentralBankSpeech;20200514;15:00;ECB De Guindos speech;European Monetary Union;EUR;2
+USD_Auction;20200514;15:30;4-Week Bill Auction;United States;USD;1
+USD_CentralBankSpeech;20200514;17:00;Fed Kashkari speech;United States;USD;2
+MXN_CentralBankInterestRate;20200514;18:00;Central Bank Interest Rate;Mexico;MXN;1
+KRW_ImportPriceGrowth;20200514;21:00;Import Price Growth (YoY);South Korea;KRW;1
+KRW_ExportPriceGrowth;20200514;21:00;Export Price Growth (YoY);South Korea;KRW;1
+NZD_REINZHousePriceIndex;20200514;21:00;REINZ House Price Index (MoM);New Zealand;NZD;2
+NZD_BusinessNZPMI;20200514;22:30;Business NZ PMI;New Zealand;NZD;2
+JPY_ProducerPriceIndex;20200514;23:50;Producer Price Index (MoM);Japan;JPY;1

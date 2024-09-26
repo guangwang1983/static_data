@@ -1,0 +1,27 @@
+JPY_ForeignInvestmentinJapanStocks;20150128;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20150128;23:50;Foreign Bond Investment;Japan;JPY;2
+JPY_RetailTrade;20150128;23:50;Retail Trade (YoY);Japan;JPY;2
+JPY_LargeRetailers'Sales;20150128;23:50;Large Retailers' Sales;Japan;JPY;2
+NZD_TradeBalance;20150128;21:45;Trade Balance (YoY);New Zealand;NZD;2
+NZD_Imports;20150128;21:45;Imports;New Zealand;NZD;1
+NZD_Exports;20150128;21:45;Exports;New Zealand;NZD;1
+NZD_RBNZInterestRateDecision;20150128;20:00;RBNZ Interest Rate Decision;New Zealand;NZD;3
+NZD_MonetaryPolicyStatement;20150128;20:00;Monetary Policy Statement ;New Zealand;NZD;3
+USD_FedMonetaryPolicyStatement;20150128;19:00;Fed Monetary Policy Statement;United States;USD;3
+USD_FedInterestRateDecision;20150128;19:00;Fed Interest Rate Decision;United States;USD;3
+GBP_CentralBankSpeech;20150128;18:50;BoE Governor Carney speech;United Kingdom;GBP;3
+USD_Auction;20150128;18:00;2-Year Note Auction;United States;USD;1
+USD_EIACrudeOilStocksChange;20150128;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+RUB_UnemploymentRate;20150128;14:00;Unemployment Rate;Russia;RUB;1
+RUB_ProducerPriceIndex;20150128;12:00;Producer Price Index (MoM);Russia;RUB;1
+USD_MBAMortgageApplications;20150128;12:00;MBA Mortgage Applications;United States;USD;2
+EUR_IreRetailSales;20150128;11:02;Retail Sales (MoM);Ireland;EUR;1
+EUR_GerAuction;20150128;10:52;30-y Bond Auction;Germany;EUR;1
+NOK_LabourForceSurvey;20150128;09:00;Labour Force Survey;Norway;NOK;1
+HUF_UnemploymentRate;20150128;08:00;Unemployment Rate (3M);Hungary;HUF;1
+EUR_FraConsumerConfidence;20150128;07:45;Consumer Confidence;France;EUR;1
+EUR_GerImportPriceIndex;20150128;07:00;Import Price Index (YoY);Germany;EUR;1
+EUR_GerGfkConsumerConfidenceSurvey;20150128;07:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+CHF_UBSConsumptionIndicator;20150128;07:00;UBS Consumption Indicator;Switzerland;CHF;2
+AUD_RBATrimmedMeanCPI;20150128;00:30;RBA Trimmed Mean CPI (YoY);Australia;AUD;1
+AUD_ConsumerPriceIndex;20150128;00:30;Consumer Price Index (QoQ);Australia;AUD;2

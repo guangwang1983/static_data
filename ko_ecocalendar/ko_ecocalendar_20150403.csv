@@ -1,0 +1,30 @@
+EUR_GerGoodFriday;20150403;00:00;Good Friday;Germany;EUR;0
+AUD_GoodFriday;20150403;00:00;Good Friday;Australia;AUD;0
+BRL_GoodFriday;20150403;00:00;Good Friday ;Brazil;BRL;0
+CHF_GoodFriday;20150403;00:00;Good Friday;Switzerland;CHF;0
+NOK_GoodFriday;20150403;00:00;Good Friday;Norway;NOK;0
+DKK_GoodFriday;20150403;00:00;Good Friday ;Denmark;DKK;0
+MXN_GoodFriday;20150403;00:00;Good Friday ;Mexico;MXN;0
+NZD_GoodFriday;20150403;00:00;Good Friday;New Zealand;NZD;0
+IDR_GoodFriday;20150403;00:00;Good Friday;Indonesia;IDR;0
+COP_Goodfriday;20150403;00:00;Good friday;Colombia;COP;0
+SEK_GoodFriday;20150403;00:00;Good Friday;Sweden;SEK;0
+ZAR_GoodFriday;20150403;00:00;Good Friday;South Africa;ZAR;0
+CLP_GoodFriday;20150403;00:00;Good Friday;Chile;CLP;0
+CAD_GoodFriday;20150403;00:00;Good Friday;Canada;CAD;0
+GBP_GoodFriday;20150403;00:00;Good Friday;United Kingdom;GBP;0
+JPY_JibunBankServicesPMI;20150403;01:35;Jibun Bank Services PMI;Japan;JPY;2
+CNY_CaixinServicesPMI;20150403;01:45;Caixin Services PMI;China;CNY;2
+JPY_LaborCashEarnings;20150403;05:30;Labor Cash Earnings (YoY);Japan;JPY;2
+RUB_S&PGlobalServicesPMI;20150403;06:04;S&P Global Services PMI;Russia;RUB;1
+TRY_ProducerPriceIndex;20150403;07:00;Producer Price Index (MoM);Turkey;TRY;1
+CZK_RetailSales;20150403;07:00;Retail Sales (YoY);Czech Republic;CZK;1
+TRY_ConsumerPriceIndex;20150403;07:00;Consumer Price Index (MoM);Turkey;TRY;1
+INR_BankLoanGrowth;20150403;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20150403;11:30;FX Reserves, USD;India;INR;1
+USD_CentralBankSpeech;20150403;12:30;Fed Minneapolis Kocherlakota speech;United States;USD;1
+USD_AverageHourlyEarnings;20150403;12:30;Average Hourly Earnings (YoY);United States;USD;2
+USD_NonfarmPayrolls;20150403;12:30;Nonfarm Payrolls;United States;USD;3
+USD_AverageWeeklyHours;20150403;12:30;Average Weekly Hours;United States;USD;2
+USD_LaborForceParticipationRate;20150403;12:30;Labor Force Participation Rate;United States;USD;2
+USD_UnemploymentRate;20150403;12:30;Unemployment Rate;United States;USD;3

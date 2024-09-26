@@ -1,0 +1,49 @@
+NZD_FoodPriceIndex;20201112;21:45;Food Price Index (MoM);New Zealand;NZD;1
+NZD_BusinessNZPMI;20201112;21:30;Business NZ PMI;New Zealand;NZD;2
+ARS_ConsumerPriceIndex;20201112;20:00;Consumer Price Index (MoM);Argentina;ARS;1
+USD_CentralBankSpeech;20201112;19:00;Fed Williams speech;United States;USD;2
+MXN_CentralBankInterestRate;20201112;19:00;Central Bank Interest Rate;Mexico;MXN;1
+USD_MonthlyBudgetStatement;20201112;19:00;Monthly Budget Statement;United States;USD;2
+CAD_CentralBankSpeech;20201112;18:30;BoC Wilkins speech;Canada;CAD;2
+USD_Auction;20201112;18:00;30-Year Bond Auction;United States;USD;1
+EGP_CBEInterestRateDecision;20201112;17:00;CBE Interest Rate Decision;Egypt;EGP;1
+EUR_EurCentralBankSpeech;20201112;16:45;ECB President Lagarde speech;European Monetary Union;EUR;3
+COP_TradeBalance;20201112;16:00;Trade Balance;Colombia;COP;1
+USD_EIACrudeOilStocksChange;20201112;16:00;EIA Crude Oil Stocks Change;United States;USD;1
+USD_JoblessClaims;20201112;13:30;Continuing Jobless Claims;United States;USD;2
+USD_ConsumerPriceIndex;20201112;13:30;Consumer Price Index (YoY);United States;USD;2
+RUB_CentralBankReserves;20201112;13:00;Central Bank Reserves $;Russia;RUB;1
+INR_CumulativeIndustrialOutput;20201112;12:00;Cumulative Industrial Output;India;INR;1
+INR_ManufacturingOutput;20201112;12:00;Manufacturing Output;India;INR;1
+INR_IndustrialOutput;20201112;12:00;Industrial Output;India;INR;1
+EUR_IreConsumerPriceIndex;20201112;11:00;Consumer Price Index (MoM);Ireland;EUR;1
+EUR_IreHICP;20201112;11:00;HICP (YoY);Ireland;EUR;1
+ILS_TradeBalance;20201112;11:00;Trade Balance;Israel;ILS;1
+ILS_Imports;20201112;11:00;Imports;Israel;ILS;1
+ILS_Exports;20201112;11:00;Exports;Israel;ILS;1
+EUR_EurIndustrialProduction;20201112;10:00;Industrial Production s.a. (MoM);European Monetary Union;EUR;2
+ZAR_UnemploymentRate;20201112;09:30;Unemployment Rate (%);South Africa;ZAR;1
+ZAR_UnemploymentTotal;20201112;09:30;Unemployment Total ;South Africa;ZAR;1
+EUR_EurEconomicBulletin;20201112;09:00;Economic Bulletin;European Monetary Union;EUR;2
+SEK_ConsumerPriceIndex;20201112;08:30;Consumer Price Index (MoM);Sweden;SEK;1
+EUR_SloHeadlineInflation;20201112;08:00;Headline Inflation (YoY);Slovakia;EUR;1
+EUR_SloCoreInflation;20201112;08:00;Core Inflation (YoY);Slovakia;EUR;1
+HUF_IndustrialOutput;20201112;08:00;Industrial Output (YoY);Hungary;HUF;1
+GBP_CentralBankSpeech;20201112;08:00;BoE Governor Bailey speech;United Kingdom;GBP;3
+GBP_GrossDomesticProduct;20201112;07:00;Gross Domestic Product (QoQ);United Kingdom;GBP;3
+RON_IndustrialProduction;20201112;07:00;Industrial Production (MoM);Romania;RON;1
+GBP_IndustrialProduction;20201112;07:00;Industrial Production (MoM);United Kingdom;GBP;2
+GBP_ManufacturingProduction;20201112;07:00;Manufacturing Production (MoM);United Kingdom;GBP;2
+GBP_TotalBusinessInvestment;20201112;07:00;Total Business Investment (QoQ);United Kingdom;GBP;1
+NOK_GrossDomesticProduct;20201112;07:00;Gross Domestic Product Growth Mainland;Norway;NOK;1
+EUR_GerHarmonizedIndexofConsumerPrices;20201112;07:00;Harmonized Index of Consumer Prices (MoM);Germany;EUR;1
+EUR_GerConsumerPriceIndex;20201112;07:00;Consumer Price Index (MoM);Germany;EUR;1
+GBP_IndexofServices;20201112;07:00;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20201112;07:00;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20201112;07:00;Total Trade Balance;United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20201112;07:00;Goods Trade Balance;United Kingdom;GBP;1
+JPY_TertiaryIndustryIndex;20201112;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+CNY_FDIForeignDirectInvestment;20201112;02:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+JPY_CentralBankSpeech;20201112;01:30;BoJ Adachi speech;Japan;JPY;2
+GBP_RICSHousingPriceBalance;20201112;00:01;RICS Housing Price Balance;United Kingdom;GBP;1
+AUD_ConsumerInflationExpectations;20201112;00:00;Consumer Inflation Expectations;Australia;AUD;2

@@ -1,0 +1,44 @@
+JPY_CFTCJPYNCNetPositions;20160325;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+AUD_CFTCAUDNCNetPositions;20160325;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCGoldNCNetPositions;20160325;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCUSDNCNetPositions;20160325;19:30;CFTC USD NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20160325;19:30;CFTC Oil NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20160325;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+GBP_CFTCGBPNCNetPositions;20160325;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_GrossDomesticProduct;20160325;12:30;Gross Domestic Product Annualized;United States;USD;2
+USD_CorePersonalConsumptionExpenditures;20160325;12:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+USD_PersonalConsumptionExpendituresPrices;20160325;12:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+INR_FXReservesUSD;20160325;11:30;FX Reserves, USD;India;INR;1
+EUR_NetGrossDomesticProduct;20160325;08:30;Gross Domestic Product n.s.a (YoY);Netherlands, The;EUR;1
+TRY_Economicconfidenceindex;20160325;08:00;Economic confidence index;Turkey;TRY;1
+EUR_FraConsumerConfidence;20160325;07:45;Consumer Confidence;France;EUR;1
+EUR_FraGrossDomesticProduct;20160325;07:45;Gross Domestic Product (QoQ);France;EUR;1
+EUR_AusIndustrialProduction;20160325;07:00;Industrial Production (YoY);Austria;EUR;1
+JPY_CoincidentIndex;20160325;05:00;Coincident Index;Japan;JPY;2
+JPY_LeadingEconomicIndex;20160325;05:00;Leading Economic Index;Japan;JPY;2
+EUR_GerGoodFriday;20160325;00:00;Good Friday;Germany;EUR;0
+EUR_GreIndependenceDay;20160325;00:00;Independence Day ;Greece;EUR;0
+KRW_GrossDomesticProduct;20160325;00:00;Gross Domestic Product Growth (YoY);South Korea;KRW;1
+AUD_GoodFriday;20160325;00:00;Good Friday;Australia;AUD;0
+BRL_GoodFriday;20160325;00:00;Good Friday ;Brazil;BRL;0
+EUR_SpaGoodFriday;20160325;00:00;Good Friday;Spain;EUR;0
+ARS_GoodFriday;20160325;00:00;Good Friday;Argentina;ARS;0
+CHF_GoodFriday;20160325;00:00;Good Friday;Switzerland;CHF;0
+NOK_GoodFriday;20160325;00:00;Good Friday;Norway;NOK;0
+DKK_GoodFriday;20160325;00:00;Good Friday ;Denmark;DKK;0
+MXN_GoodFriday;20160325;00:00;Good Friday ;Mexico;MXN;0
+NZD_GoodFriday;20160325;00:00;Good Friday;New Zealand;NZD;0
+IDR_GoodFriday;20160325;00:00;Good Friday;Indonesia;IDR;0
+COP_Goodfriday;20160325;00:00;Good friday;Colombia;COP;0
+SEK_GoodFriday;20160325;00:00;Good Friday;Sweden;SEK;0
+ZAR_GoodFriday;20160325;00:00;Good Friday;South Africa;ZAR;0
+EUR_SloGoodFriday;20160325;00:00;Good Friday ;Slovakia;EUR;0
+EUR_FinGoodFriday;20160325;00:00;Good Friday;Finland;EUR;0
+CLP_GoodFriday;20160325;00:00;Good Friday;Chile;CLP;0
+CAD_GoodFriday;20160325;00:00;Good Friday;Canada;CAD;0
+SGD_GoodFriday;20160325;00:00;Good Friday;Singapore;SGD;0
+HKD_Goodfriday;20160325;00:00;Good friday;Hong Kong SAR;HKD;0
+EUR_NetGoodFriday;20160325;00:00;Good Friday ;Netherlands, The;EUR;0
+EUR_PorGoodFriday;20160325;00:00;Good Friday;Portugal;EUR;0
+ISK_GoodFriday;20160325;00:00;Good Friday ;Iceland;ISK;0
+INR_GoodFriday;20160325;00:00;Good Friday ;India;INR;0

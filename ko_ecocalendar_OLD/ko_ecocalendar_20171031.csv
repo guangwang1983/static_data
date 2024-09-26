@@ -1,0 +1,57 @@
+KRW_ConsumerPriceIndex;20171031;23:00;Consumer Price Index Growth (MoM);South Korea;KRW;1
+AUD_AiGPerformanceofMfgIndex;20171031;22:30;AiG Performance of Mfg Index;Australia;AUD;2
+NZD_EmploymentChange;20171031;21:45;Employment Change;New Zealand;NZD;3
+NZD_ParticipationRate;20171031;21:45;Participation Rate;New Zealand;NZD;2
+NZD_UnemploymentRate;20171031;21:45;Unemployment Rate;New Zealand;NZD;3
+NZD_LabourCostIndex;20171031;21:45;Labour Cost Index (YoY);New Zealand;NZD;1
+USD_APIWeeklyCrudeOilStock;20171031;20:30;API Weekly Crude Oil Stock;United States;USD;1
+CAD_CentralBankSpeech;20171031;19:30;BoC Governor Poloz speech;Canada;CAD;3
+ARS_IndustrialOutput;20171031;19:00;Industrial Output n.s.a (YoY);Argentina;ARS;1
+USD_Auction;20171031;15:30;4-Week Bill Auction;United States;USD;1
+USD_ChicagoPurchasingManagers'Index;20171031;13:45;Chicago Purchasing Managers' Index;United States;USD;2
+PLN_ConsumerPriceIndex;20171031;13:00;Consumer Price Index (MoM);Poland;PLN;1
+USD_S&PCaseShillerHomePriceIndices;20171031;13:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;2
+USD_RedbookIndex;20171031;12:55;Redbook Index (MoM);United States;USD;1
+CAD_RawMaterialPriceIndex;20171031;12:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20171031;12:30;Industrial Product Price (MoM);Canada;CAD;1
+USD_EmploymentCostIndex;20171031;12:30;Employment Cost Index;United States;USD;1
+CAD_GrossDomesticProduct;20171031;12:30;Gross Domestic Product (MoM);Canada;CAD;2
+BRL_UnemploymentRate;20171031;12:00;Unemployment Rate;Brazil;BRL;1
+CLP_Unemploymentrate;20171031;12:00;Unemployment rate;Chile;CLP;1
+ZAR_TradeBalance;20171031;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+INR_InfrastructureOutput;20171031;11:30;Infrastructure Output (YoY);India;INR;1
+EUR_ItaProducerPriceIndex;20171031;11:06;Producer Price Index (YoY);Italy;EUR;1
+EUR_EurGrossDomesticProduct;20171031;10:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+EUR_EurUnemploymentRate;20171031;10:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_EurConsumerPriceIndex;20171031;10:00;Consumer Price Index (YoY);European Monetary Union;EUR;3
+EUR_ItaConsumerPriceIndex;20171031;10:00;Consumer Price Index (YoY);Italy;EUR;1
+EUR_GreRetailSales;20171031;10:00;Retail Sales (YoY);Greece;EUR;1
+INR_FederalFiscalDeficitINR;20171031;10:00;Federal Fiscal Deficit, INR;India;INR;1
+ZAR_UnemploymentRate;20171031;09:30;Unemployment Rate (%);South Africa;ZAR;1
+ZAR_UnemploymentTotal;20171031;09:30;Unemployment Total ;South Africa;ZAR;1
+EUR_AusGrossDomesticProduct;20171031;09:00;Gross Domestic Product (QoQ);Austria;EUR;1
+EUR_ItaUnemployment;20171031;09:00;Unemployment;Italy;EUR;2
+EUR_SpaCurrentAccount;20171031;09:00;Current Account Balance;Spain;EUR;1
+HUF_ProducerPriceIndex;20171031;08:00;Producer Price Index (YoY);Hungary;HUF;1
+EUR_FraProducerPrices;20171031;07:45;Producer Prices (MoM);France;EUR;1
+EUR_FraConsumerPriceIndex;20171031;07:45;Consumer Price Index (EU norm) (YoY);France;EUR;2
+EUR_FraConsumerSpending;20171031;07:45;Consumer Spending (MoM);France;EUR;1
+TRY_TradeBalance;20171031;07:00;Trade Balance;Turkey;TRY;1
+NOK_CreditIndicator;20171031;07:00;Credit Indicator;Norway;NOK;1
+JPY_BoJPressConference;20171031;06:30;BoJ Press Conference;Japan;JPY;3
+EUR_FraGrossDomesticProduct;20171031;06:30;Gross Domestic Product (QoQ);France;EUR;1
+JPY_AnnualizedHousingStarts;20171031;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_HousingStarts;20171031;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_ConstructionOrders;20171031;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_BoJInterestRateDecision;20171031;03:07;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_BoJMonetaryPolicyStatement;20171031;03:00;BoJ Monetary Policy Statement ;Japan;JPY;3
+JPY_BoJOutlookReport;20171031;03:00;BoJ Outlook Report;Japan;JPY;2
+CNY_NonManufacturingPMI;20171031;01:00;Non-Manufacturing PMI;China;CNY;2
+CNY_NBSManufacturingPMI;20171031;01:00;NBS Manufacturing PMI;China;CNY;2
+AUD_PrivateSectorCredit;20171031;00:30;Private Sector Credit (YoY);Australia;AUD;1
+GBP_GfKConsumerConfidence;20171031;00:01;GfK Consumer Confidence;United Kingdom;GBP;2
+AUD_HIANewHomeSales;20171031;00:00;HIA New Home Sales (MoM);Australia;AUD;2
+EUR_GerDayofReformation;20171031;00:00;Day of Reformation;Germany;EUR;0
+CLP_EvangelicalChurchesDay;20171031;00:00;Evangelical Churches Day;Chile;CLP;0
+NZD_ANZActivityOutlook;20171031;00:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20171031;00:00;ANZ Business Confidence;New Zealand;NZD;1

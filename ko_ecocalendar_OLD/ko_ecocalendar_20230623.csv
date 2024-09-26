@@ -1,0 +1,29 @@
+JPY_JibunBankServicesPMI;20230623;00:30;Jibun Bank Services PMI;Japan;JPY;1
+JPY_JibunBankManufacturingPMI;20230623;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+GBP_RetailSales;20230623;06:00;Retail Sales (MoM);United Kingdom;GBP;2
+HUF_UnemploymentRate;20230623;06:30;Unemployment Rate (3M);Hungary;HUF;1
+TRY_TradeBalance;20230623;07:00;Trade Balance;Turkey;TRY;1
+TRY_EconomicConfidenceIndex;20230623;07:00;Economic Confidence Index;Turkey;TRY;1
+TRY_ForeignArrivals;20230623;08:00;Foreign Arrivals;Turkey;TRY;1
+EUR_EurHCOBServicesPMI;20230623;08:00;HCOB Services PMI;European Monetary Union;EUR;2
+EUR_EurHCOBManufacturingPMI;20230623;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurHCOBCompositePMI;20230623;08:00;HCOB Composite PMI;European Monetary Union;EUR;3
+GBP_S&PGlobalCIPSCompositePMI;20230623;08:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSManufacturingPMI;20230623;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSServicesPMI;20230623;08:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;3
+INR_FXReservesUSD;20230623;11:30;FX Reserves, USD;India;INR;1
+PLN_M3MoneySupply;20230623;12:00;M3 Money Supply (YoY);Poland;PLN;1
+EUR_EurCentralBankSpeech;20230623;12:45;ECB Panetta speech;European Monetary Union;EUR;2
+USD_S&PGlobalServicesPMI;20230623;13:45;S&P Global Services PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20230623;13:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalManufacturingPMI;20230623;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_BakerHughesUSOilRigCount;20230623;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CentralBankSpeech;20230623;17:40;Fed Mester speech;United States;USD;2
+USD_CFTCGoldNCNetPositions;20230623;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20230623;20:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20230623;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20230623;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20230623;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20230623;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20230623;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+SEK_MidsummerDay;20230623;22:00;Midsummer Day;Sweden;SEK;0

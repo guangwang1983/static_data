@@ -1,0 +1,47 @@
+CNY_HousePriceIndex;20240117;01:30;House Price Index ;China;CNY;1
+CNY_RetailSales;20240117;02:00;Retail Sales (YoY);China;CNY;3
+CNY_IndustrialProduction;20240117;02:00;Industrial Production (YoY);China;CNY;3
+CNY_FixedAssetInvestment;20240117;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+CNY_GrossDomesticProduct;20240117;02:00;Gross Domestic Product (QoQ);China;CNY;3
+KRW_MoneySupplyGrowth;20240117;03:00;Money Supply Growth;South Korea;KRW;1
+GBP_RetailPriceIndex;20240117;07:00;Retail Price Index (MoM);United Kingdom;GBP;2
+GBP_ProducerPriceIndex;20240117;07:00;Producer Price Index - Input (YoY) n.s.a;United Kingdom;GBP;1
+GBP_PPICoreOutput;20240117;07:00;PPI Core Output (YoY) n.s.a ;United Kingdom;GBP;2
+GBP_ConsumerPriceIndex;20240117;07:00;Core Consumer Price Index (YoY);United Kingdom;GBP;3
+IDR_BankIndonesiaRate;20240117;07:30;Bank Indonesia Rate;Indonesia;IDR;1
+EUR_FraBudgetBalance;20240117;07:45;Budget Balance;France;EUR;1
+CZK_ProducerPriceIndex;20240117;08:00;Producer Price Index (YoY);Czech Republic;CZK;1
+GBP_DCLGHousePriceIndex;20240117;09:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+EUR_EurHarmonizedIndexofConsumerPrices;20240117;10:00;Harmonized Index of Consumer Prices (MoM);Eurozone;EUR;2
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20240117;10:00;Core Harmonized Index of Consumer Prices (YoY);Eurozone;EUR;2
+EUR_GerAuction;20240117;10:30;30-y Bond Auction;Germany;EUR;1
+ZAR_RetailSales;20240117;11:00;Retail Sales (YoY);South Africa;ZAR;1
+GBP_Auction;20240117;11:30;10-y Bond Auction;United Kingdom;GBP;1
+USD_MBAMortgageApplications;20240117;12:00;MBA Mortgage Applications;United States;USD;1
+USD_OPECMonthlyMarketReport;20240117;12:00;OPEC Monthly Market Report;United States;USD;1
+BRL_RetailSales;20240117;12:00;Retail Sales (MoM);Brazil;BRL;1
+USD_RetailSales;20240117;13:30;Retail Sales ex Autos (MoM);United States;USD;2
+USD_ExportPriceIndex;20240117;13:30;Export Price Index (MoM);United States;USD;1
+USD_ImportPriceIndex;20240117;13:30;Import Price Index (YoY);United States;USD;1
+CAD_IndustrialProductPrice;20240117;13:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_RawMaterialPriceIndex;20240117;13:30;Raw Material Price Index;Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20240117;13:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20240117;13:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+USD_RedbookIndex;20240117;14:10;Redbook Index (YoY);United States;USD;1
+USD_IndustrialProduction;20240117;14:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20240117;14:15;Capacity Utilization;United States;USD;1
+USD_BusinessInventories;20240117;15:00;Business Inventories;United States;USD;1
+USD_NAHBHousingMarketIndex;20240117;15:00;NAHB Housing Market Index;United States;USD;1
+COP_RetailSales;20240117;15:00;Retail Sales (YoY);Colombia;COP;1
+COP_Industrialoutput;20240117;15:00;Industrial output (YoY);Colombia;COP;1
+EUR_EurCentralBankSpeech;20240117;15:15;ECB President Lagarde speech;Eurozone;EUR;3
+USD_Auction;20240117;18:00;20-Year Bond Auction;United States;USD;1
+EUR_GerCentralBankSpeech;20240117;18:30;German Buba President Nagel speech;Germany;EUR;2
+USD_FedBeigeBook;20240117;19:00;Fed Beige Book;United States;USD;2
+USD_CentralBankSpeech;20240117;20:00;Fed Williams speech;United States;USD;2
+USD_APIWeeklyCrudeOilStock;20240117;21:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_FoodPriceIndex;20240117;21:45;Food Price Index (MoM);New Zealand;NZD;1
+CHF_WorldEconomicForumDavos;20240117;23:00;World Economic Forum - Davos;Switzerland;CHF;2
+JPY_ForeignInvestmentinJapanStocks;20240117;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20240117;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_MachineryOrders;20240117;23:50;Machinery Orders (MoM);Japan;JPY;1

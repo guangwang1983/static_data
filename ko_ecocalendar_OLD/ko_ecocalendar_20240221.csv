@@ -1,0 +1,30 @@
+AUD_WestpacLeadingIndex;20240221;00:00;Westpac Leading Index (MoM);Australia;AUD;1
+AUD_WagePriceIndex;20240221;00:30;Wage Price Index (QoQ);Australia;AUD;2
+TRY_ConsumerConfidence;20240221;07:00;Consumer Confidence;Turkey;TRY;1
+IDR_BankIndonesiaRate;20240221;07:00;Bank Indonesia Rate;Indonesia;IDR;1
+DKK_ConsumerConfidence;20240221;07:00;Consumer Confidence;Denmark;DKK;1
+GBP_PublicSectorNetBorrowing;20240221;07:00;Public Sector Net Borrowing;United Kingdom;GBP;1
+ZAR_ConsumerPriceIndex;20240221;08:00;Consumer Price Index (YoY);South Africa;ZAR;1
+EUR_EurNonMonetaryPolicyECBMeeting;20240221;08:00;Non-Monetary Policy ECB Meeting;Eurozone;EUR;1
+EUR_GerCentralBankSpeech;20240221;10:00;German Buba President Nagel speech;Germany;EUR;2
+EUR_GerAuction;20240221;10:30;10-y Bond Auction;Germany;EUR;1
+INR_M3MoneySupply;20240221;11:30;M3 Money Supply;India;INR;1
+USD_MBAMortgageApplications;20240221;12:00;MBA Mortgage Applications;United States;USD;1
+MXN_RetailSales;20240221;12:00;Retail Sales (MoM);Mexico;MXN;1
+USD_RedbookIndex;20240221;13:55;Redbook Index (YoY);United States;USD;1
+GBP_CentralBankSpeech;20240221;14:00;BoE Dhingra speech;United Kingdom;GBP;2
+EUR_EurConsumerConfidence;20240221;15:00;Consumer Confidence;Eurozone;EUR;2
+USD_EIACrudeOilStocksChange;20240221;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+RUB_ProducerPriceIndex;20240221;16:00;Producer Price Index (YoY);Russia;RUB;1
+USD_Auction;20240221;18:00;20-Year Bond Auction;United States;USD;1
+USD_CentralBankSpeech;20240221;18:00;Fed Bowman speech;United States;USD;2
+USD_FOMCMinutes;20240221;19:00;FOMC Minutes;United States;USD;3
+USD_APIWeeklyCrudeOilStock;20240221;21:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_TradeBalanceNZD;20240221;21:45;Trade Balance NZD (MoM);New Zealand;NZD;1
+NZD_Exports;20240221;21:45;Exports;New Zealand;NZD;2
+NZD_Imports;20240221;21:45;Imports;New Zealand;NZD;2
+AUD_JudoBankManufacturingPMI;20240221;22:00;Judo Bank Manufacturing PMI;Australia;AUD;2
+AUD_JudoBankServicesPMI;20240221;22:00;Judo Bank Services PMI;Australia;AUD;2
+AUD_JudoBankCompositePMI;20240221;22:00;Judo Bank Composite PMI;Australia;AUD;2
+JPY_ForeignInvestmentinJapanStocks;20240221;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20240221;23:50;Foreign Bond Investment;Japan;JPY;1

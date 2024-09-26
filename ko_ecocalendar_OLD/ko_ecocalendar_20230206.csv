@@ -1,0 +1,29 @@
+AUD_TDSecuritiesInflation;20230206;00:00;TD Securities Inflation (MoM);Australia;AUD;1
+AUD_RetailSales;20230206;00:30;Retail Sales (QoQ);Australia;AUD;2
+AUD_ANZJobAdvertisements;20230206;00:30;ANZ Job Advertisements;Australia;AUD;1
+IDR_GrossDomesticProduct;20230206;04:00;Gross Domestic Product (YoY);Indonesia;IDR;1
+HUF_RetailSales;20230206;07:30;Retail Sales (YoY);Hungary;HUF;1
+CZK_IndustrialProduction;20230206;08:00;Industrial Production (YoY);Czech Republic;CZK;1
+CZK_Constructionoutput;20230206;08:00;Construction output (YoY);Czech Republic;CZK;1
+CZK_ForeignTradeBalance;20230206;08:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+GBP_S&PGlobalConstructionPMI;20230206;09:30;S&P Global Construction PMI;United Kingdom;GBP;1
+EUR_EurSentixInvestorConfidence;20230206;09:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+EUR_EurRetailSales;20230206;10:00;Retail Sales (YoY);European Monetary Union;EUR;3
+CAD_IveyPurchasingManagersIndex;20230206;15:00;Ivey Purchasing Managers Index s.a;Canada;CAD;2
+USD_Auction;20230206;16:30;3-Month Bill Auction;United States;USD;1
+GBP_CentralBankSpeech;20230206;17:00;BoE Mann speech;United Kingdom;GBP;2
+USD_LoanOfficerSurvey;20230206;18:00;Loan Officer Survey;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20230206;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20230206;20:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20230206;20:30;CFTC Gold NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20230206;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20230206;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20230206;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20230206;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+CLP_BCCHInterestRate;20230206;21:00;BCCH Interest Rate;Chile;CLP;1
+AUD_AiGPerformanceofConstructionIndex;20230206;21:30;AiG Performance of Construction Index;Australia;AUD;2
+AUD_AiGPerformanceofServicesIndex;20230206;21:30;AiG Performance of Services Index;Australia;AUD;1
+AUD_AiGPerformanceofMfgIndex;20230206;21:30;AiG Performance of Mfg Index;Australia;AUD;2
+JPY_LaborCashEarnings;20230206;23:30;Labor Cash Earnings (YoY);Japan;JPY;1
+JPY_OverallHouseholdSpending;20230206;23:30;Overall Household Spending (YoY);Japan;JPY;2
+JPY_JPForeignReserves;20230206;23:50;JP Foreign Reserves;Japan;JPY;1

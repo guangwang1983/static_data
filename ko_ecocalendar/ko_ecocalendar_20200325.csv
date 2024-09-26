@@ -1,0 +1,27 @@
+GBP_RetailPriceIndex;20200325;07:00;Retail Price Index (YoY);United Kingdom;GBP;2
+TRY_ManufacturingConfidence;20200325;07:00;Manufacturing Confidence;Turkey;TRY;1
+TRY_CapacityUtilization;20200325;07:00;Capacity Utilization;Turkey;TRY;1
+GBP_ProducerPriceIndex;20200325;07:00;Producer Price Index - Input (MoM) n.s.a;United Kingdom;GBP;1
+GBP_PPICoreOutput;20200325;07:00;PPI Core Output (YoY) n.s.a ;United Kingdom;GBP;2
+NOK_LabourForceSurvey;20200325;07:00;Labour Force Survey;Norway;NOK;1
+GBP_ConsumerPriceIndex;20200325;07:00;Consumer Price Index (YoY);United Kingdom;GBP;3
+SEK_ProducerPriceIndex;20200325;08:30;Producer Price Index (MoM);Sweden;SEK;1
+EUR_GerIFO–BusinessClimate;20200325;09:00;IFO – Business Climate;Germany;EUR;2
+EUR_GerIFO–Expectations;20200325;09:00;IFO – Expectations;Germany;EUR;2
+EUR_GerIFO–CurrentAssessment;20200325;09:00;IFO – Current Assessment;Germany;EUR;2
+CHF_ZEWSurvey–Expectations;20200325;09:00;ZEW Survey – Expectations;Switzerland;CHF;2
+GBP_DCLGHousePriceIndex;20200325;09:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+USD_MBAMortgageApplications;20200325;11:00;MBA Mortgage Applications;United States;USD;1
+GBP_CBIDistributiveTradesSurvey–Realized;20200325;11:00;CBI Distributive Trades Survey – Realized (MoM);United Kingdom;GBP;1
+MXN_RetailSales;20200325;12:00;Retail Sales (MoM);Mexico;MXN;1
+BRL_MidmonthInflation;20200325;12:00;Mid-month Inflation;Brazil;BRL;1
+BRL_CurrentAccount;20200325;12:30;Current Account;Brazil;BRL;1
+USD_NondefenseCapitalGoodsOrdersexAircraft;20200325;12:30;Nondefense Capital Goods Orders ex Aircraft;United States;USD;3
+USD_DurableGoodsOrders;20200325;12:30;Durable Goods Orders;United States;USD;2
+USD_HousingPriceIndex;20200325;13:00;Housing Price Index (MoM);United States;USD;2
+CHF_SNBQuarterlyBulletin;20200325;14:00;SNB Quarterly Bulletin;Switzerland;CHF;2
+USD_EIACrudeOilStocksChange;20200325;14:30;EIA Crude Oil Stocks Change;United States;USD;2
+USD_Auction;20200325;17:00;5-Year Note Auction;United States;USD;1
+JPY_CorporateServicePriceIndex;20200325;23:50;Corporate Service Price Index (YoY);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20200325;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20200325;23:50;Foreign Bond Investment;Japan;JPY;1

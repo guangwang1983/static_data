@@ -1,0 +1,44 @@
+AUD_NationalAustraliaBankBusinessConfidence;20200714;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20200714;01:30;National Australia Bank Business Conditions;Australia;AUD;1
+CNY_Imports;20200714;02:00;Imports (YoY);China;CNY;2
+CNY_TradeBalanceCNY;20200714;02:00;Trade Balance CNY;China;CNY;1
+CNY_Exports;20200714;02:00;Exports (YoY);China;CNY;2
+CNY_TradeBalanceUSD;20200714;02:00;Trade Balance USD;China;CNY;2
+NZD_ANZMonthlyInflationGauge;20200714;02:00;ANZ Monthly Inflation Gauge (MoM);New Zealand;NZD;1
+JPY_IndustrialProduction;20200714;04:30;Industrial Production (YoY);Japan;JPY;2
+JPY_CapacityUtilization;20200714;04:30;Capacity Utilization;Japan;JPY;1
+RON_IndustrialProduction;20200714;06:00;Industrial Production (MoM);Romania;RON;1
+GBP_IndustrialProduction;20200714;06:00;Industrial Production (MoM);United Kingdom;GBP;2
+GBP_ManufacturingProduction;20200714;06:00;Manufacturing Production (MoM);United Kingdom;GBP;2
+EUR_GerHarmonizedIndexofConsumerPrices;20200714;06:00;Harmonized Index of Consumer Prices (MoM);Germany;EUR;1
+EUR_GerConsumerPriceIndex;20200714;06:00;Consumer Price Index (YoY);Germany;EUR;1
+GBP_IndexofServices;20200714;06:00;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20200714;06:00;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20200714;06:00;Goods Trade Balance;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20200714;06:00;Total Trade Balance;United Kingdom;GBP;1
+GBP_GrossDomesticProduct;20200714;06:00;Gross Domestic Product (MoM);United Kingdom;GBP;3
+CHF_ProducerandImportPrices;20200714;06:30;Producer and Import Prices (YoY);Switzerland;CHF;1
+INR_WPIInflation;20200714;06:30;WPI Inflation;India;INR;1
+HUF_IndustrialOutput;20200714;07:00;Industrial Output (YoY);Hungary;HUF;1
+SEK_ConsumerPriceIndex;20200714;07:30;Consumer Price Index (MoM);Sweden;SEK;1
+EUR_EurECBBankLendingSurvey;20200714;08:00;ECB Bank Lending Survey;European Monetary Union;EUR;3
+CZK_CurrentAccount;20200714;08:00;Current Account (MoM);Czech Republic;CZK;1
+EUR_EurIndustrialProduction;20200714;09:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;1
+EUR_GerZEWSurvey–EconomicSentiment;20200714;09:00;ZEW Survey – Economic Sentiment;Germany;EUR;3
+EUR_GerZEWSurvey–CurrentSituation;20200714;09:00;ZEW Survey – Current Situation;Germany;EUR;2
+EUR_EurZEWSurvey–EconomicSentiment;20200714;09:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;2
+USD_NFIBBusinessOptimismIndex;20200714;10:00;NFIB Business Optimism Index;United States;USD;1
+GBP_Auction;20200714;10:30;10-y Bond Auction;United Kingdom;GBP;1
+PLN_CurrentAccount;20200714;12:00;Current Account;Poland;PLN;1
+USD_ConsumerPriceIndex;20200714;12:30;Consumer Price Index n.s.a (MoM);United States;USD;1
+PLN_NBPBaserate;20200714;12:30;NBP Base rate;Poland;PLN;1
+USD_RedbookIndex;20200714;12:55;Redbook Index (YoY);United States;USD;1
+GBP_NIESRGDPEstimate;20200714;13:30;NIESR GDP Estimate (3M);United Kingdom;GBP;1
+CHF_CentralBankSpeech;20200714;13:30;SNB Chairman Jordan speech;Switzerland;CHF;3
+USD_Auction;20200714;17:00;52-Week Bill Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20200714;20:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_CentralBankSpeech;20200714;21:00;President Trump speech;United States;USD;2
+TRY_DemocracyandNationalSolidarityDay;20200714;21:00;Democracy and National Solidarity Day;Turkey;TRY;0
+KRW_ExportPriceGrowth;20200714;21:00;Export Price Growth (YoY);South Korea;KRW;1
+KRW_ImportPriceGrowth;20200714;21:00;Import Price Growth (YoY);South Korea;KRW;1
+KRW_UnemploymentRate;20200714;23:00;Unemployment Rate;South Korea;KRW;1

@@ -1,0 +1,43 @@
+JPY_NationalCPIexFoodEnergy;20210422;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20210422;23:30;National Consumer Price Index (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20210422;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+GBP_GfKConsumerConfidence;20210422;23:01;GfK Consumer Confidence;United Kingdom;GBP;2
+AUD_CommonwealthBankCompositePMI;20210422;23:00;Commonwealth Bank Composite PMI;Australia;AUD;1
+AUD_CommonwealthBankManufacturingPMI;20210422;23:00;Commonwealth Bank Manufacturing PMI;Australia;AUD;2
+AUD_CommonwealthBankServicesPMI;20210422;23:00;Commonwealth Bank Services PMI;Australia;AUD;2
+TRY_NationalSovereigntyandChildrenDay;20210422;21:00;National Sovereignty and Children Day ;Turkey;TRY;0
+ARS_TradeBalance;20210422;19:00;Trade Balance (MoM);Argentina;ARS;1
+USD_Auction;20210422;15:30;4-Week Bill Auction;United States;USD;1
+USD_KansasFedManufacturingActivity;20210422;15:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_EIANaturalGasStorageChange;20210422;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_ExistingHomeSales;20210422;14:00;Existing Home Sales (MoM);United States;USD;1
+USD_ExistingHomeSalesChange;20210422;14:00;Existing Home Sales Change (MoM);United States;USD;1
+EUR_EurConsumerConfidence;20210422;14:00;Consumer Confidence;European Monetary Union;EUR;2
+RUB_CentralBankReserves;20210422;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_ChicagoFedNationalActivityIndex;20210422;12:30;Chicago Fed National Activity Index ;United States;USD;2
+USD_JoblessClaims;20210422;12:30;Initial Jobless Claims;United States;USD;2
+EUR_EurECBMonetaryPolicyStatementandPressConference;20210422;12:30;ECB Monetary Policy Statement and Press Conference;European Monetary Union;EUR;3
+CAD_EmploymentInsuranceBeneficiariesChange;20210422;12:30;Employment Insurance Beneficiaries Change (MoM);Canada;CAD;1
+CAD_NewHousingPriceIndex;20210422;12:30;New Housing Price Index (YoY);Canada;CAD;1
+MXN_JoblessRate;20210422;12:00;Jobless Rate s.a;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20210422;12:00;1st half-month Inflation;Mexico;MXN;1
+MXN_1sthalfmonthCoreInflation;20210422;12:00;1st half-month Core Inflation;Mexico;MXN;1
+EUR_EurECBDepositRateDecision;20210422;11:45;ECB Deposit Rate Decision;European Monetary Union;EUR;3
+EUR_EurECBInterestRateDecision;20210422;11:45;ECB Interest Rate Decision;European Monetary Union;EUR;3
+EUR_BelConsumerConfidenceIndex;20210422;09:00;Consumer Confidence Index;Belgium;EUR;1
+EUR_SpaAuction;20210422;08:40;10-y Obligaciones Auction;Spain;EUR;1
+HKD_Unemploymentrate;20210422;08:30;Unemployment rate;Hong Kong SAR;HKD;1
+PLN_RetailSales;20210422;08:00;Retail Sales (YoY);Poland;PLN;1
+EUR_ItaIndustrialSales;20210422;08:00;Industrial Sales n.s.a. (YoY);Italy;EUR;1
+TRY_ConsumerConfidence;20210422;07:00;Consumer Confidence;Turkey;TRY;1
+EUR_FraBusinessClimateinManufacturing;20210422;06:45;Business Climate in Manufacturing;France;EUR;1
+DKK_ConsumerConfidence;20210422;06:00;Consumer Confidence;Denmark;DKK;1
+CHF_TradeBalance;20210422;06:00;Trade Balance;Switzerland;CHF;1
+CHF_Imports;20210422;06:00;Imports (MoM);Switzerland;CHF;1
+CHF_Exports;20210422;06:00;Exports (MoM);Switzerland;CHF;1
+EUR_NetUnemploymentRate;20210422;04:30;Unemployment Rate s.a (3M);Netherlands, The;EUR;1
+EUR_NetConsumerSpendingVolume;20210422;04:30;Consumer Spending Volume;Netherlands, The;EUR;1
+EUR_NetConsumerConfidenceAdj;20210422;04:30;Consumer Confidence Adj;Netherlands, The;EUR;1
+SGD_Unemploymentrate;20210422;02:30;Unemployment rate;Singapore;SGD;1
+AUD_NationalAustraliaBankBusinessConfidence;20210422;01:30;National Australia Bank Business Confidence (QoQ);Australia;AUD;2
+ISK_FirstDayofSummer;20210422;00:00;First Day of Summer ;Iceland;ISK;0

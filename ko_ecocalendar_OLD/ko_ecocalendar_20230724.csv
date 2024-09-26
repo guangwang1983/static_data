@@ -1,0 +1,18 @@
+JPY_JibunBankServicesPMI;20230724;00:30;Jibun Bank Services PMI;Japan;JPY;1
+JPY_JibunBankManufacturingPMI;20230724;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+NZD_CreditCardSpending;20230724;03:00;Credit Card Spending (YoY);New Zealand;NZD;1
+EUR_EurHCOBManufacturingPMI;20230724;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;3
+EUR_EurHCOBServicesPMI;20230724;08:00;HCOB Services PMI;European Monetary Union;EUR;3
+EUR_EurHCOBCompositePMI;20230724;08:00;HCOB Composite PMI;European Monetary Union;EUR;3
+GBP_S&PGlobalCIPSCompositePMI;20230724;08:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;3
+GBP_S&PGlobalCIPSServicesPMI;20230724;08:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;3
+GBP_S&PGlobalCIPSManufacturingPMI;20230724;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;3
+PLN_M3MoneySupply;20230724;12:00;M3 Money Supply (YoY);Poland;PLN;1
+MXN_1sthalfmonthInflation;20230724;12:00;1st half-month Inflation;Mexico;MXN;1
+MXN_1sthalfmonthCoreInflation;20230724;12:00;1st half-month Core Inflation;Mexico;MXN;1
+USD_ChicagoFedNationalActivityIndex;20230724;12:30;Chicago Fed National Activity Index ;United States;USD;1
+USD_S&PGlobalCompositePMI;20230724;13:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20230724;13:45;S&P Global Services PMI;United States;USD;3
+USD_S&PGlobalManufacturingPMI;20230724;13:45;S&P Global Manufacturing PMI;United States;USD;3
+USD_Auction;20230724;17:00;2-Year Note Auction;United States;USD;1
+KRW_GrossDomesticProduct;20230724;23:00;Gross Domestic Product Growth (QoQ) ;South Korea;KRW;2

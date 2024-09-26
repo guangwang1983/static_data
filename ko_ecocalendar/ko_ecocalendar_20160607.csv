@@ -1,0 +1,45 @@
+AUD_RBAInterestRateDecision;20160607;04:30;RBA Interest Rate Decision;Australia;AUD;3
+AUD_RBARateStatement;20160607;04:30;RBA Rate Statement;Australia;AUD;3
+JPY_CoincidentIndex;20160607;05:00;Coincident Index;Japan;JPY;2
+JPY_LeadingEconomicIndex;20160607;05:00;Leading Economic Index;Japan;JPY;2
+INR_CashReserveRatio;20160607;05:30;Cash Reserve Ratio;India;INR;1
+INR_ReverseRepoRate;20160607;05:30;Reverse Repo Rate;India;INR;1
+INR_RBIInterestRateDecision;20160607;05:30;RBI Interest Rate Decision (Repo Rate);India;INR;1
+EUR_GerIndustrialProduction;20160607;06:00;Industrial Production s.a. (MoM);Germany;EUR;1
+ZAR_Gross$Gold&ForexReserve;20160607;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+ZAR_Net$Gold&ForexReserve;20160607;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+EUR_FraImportsEUR;20160607;06:45;Imports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20160607;06:45;Trade Balance EUR;France;EUR;1
+EUR_FraExportsEUR;20160607;06:45;Exports, EUR;France;EUR;1
+EUR_FraCurrentAccount;20160607;06:45;Current Account;France;EUR;1
+EUR_FraBudgetBalance;20160607;06:45;Budget Balance;France;EUR;1
+CZK_IndustrialProduction;20160607;07:00;Industrial Production (YoY);Czech Republic;CZK;1
+CHF_ForeignCurrencyReserves;20160607;07:00;Foreign Currency Reserves;Switzerland;CHF;1
+DKK_IndustrialProduction;20160607;07:00;Industrial Production (MoM);Denmark;DKK;1
+CZK_Constructionoutput;20160607;07:00;Construction output (YoY);Czech Republic;CZK;1
+HUF_GrossDomesticProduct;20160607;07:00;Gross Domestic Product (YoY);Hungary;HUF;1
+CZK_ForeignTradeBalance;20160607;07:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+GBP_HalifaxHousePrices;20160607;07:30;Halifax House Prices (YoY/3m);United Kingdom;GBP;1
+NOK_ManufacturingOutput;20160607;08:00;Manufacturing Output;Norway;NOK;1
+CZK_FXReserves;20160607;08:00;FX Reserves;Czech Republic;CZK;1
+CNY_ForeignExchangeReserves;20160607;08:09;Foreign Exchange Reserves (MoM);China;CNY;1
+EUR_EurGrossDomesticProduct;20160607;09:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+HUF_BudgetBalance;20160607;09:00;Budget Balance;Hungary;HUF;1
+ZAR_BusinessConfidenceIndex;20160607;09:30;Business Confidence Index;South Africa;ZAR;1
+GBP_Auction;20160607;10:10;30-y Bond Auction;United Kingdom;GBP;1
+PLN_CentralBankFXReserves;20160607;12:00;Central Bank FX Reserves;Poland;PLN;1
+USD_NonfarmProductivity;20160607;12:30;Nonfarm Productivity;United States;USD;2
+USD_UnitLaborCosts;20160607;12:30;Unit Labor Costs;United States;USD;2
+CLP_TradeBalance;20160607;12:30;Trade Balance;Chile;CLP;1
+USD_RedbookIndex;20160607;12:55;Redbook Index (YoY);United States;USD;1
+CAD_IveyPurchasingManagersIndex;20160607;14:00;Ivey Purchasing Managers Index s.a;Canada;CAD;2
+USD_IBDTIPPEconomicOptimism;20160607;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+TRY_TreasuryCashBalance;20160607;14:30;Treasury Cash Balance;Turkey;TRY;1
+USD_Auction;20160607;17:00;3-Year Note Auction;United States;USD;1
+USD_ConsumerCreditChange;20160607;19:00;Consumer Credit Change;United States;USD;2
+USD_APIWeeklyCrudeOilStock;20160607;20:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_ManufacturingSales;20160607;22:45;Manufacturing Sales;New Zealand;NZD;1
+JPY_BankLending;20160607;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_GrossDomesticProduct;20160607;23:50;Gross Domestic Product Deflator (YoY);Japan;JPY;1
+JPY_TradeBalanceBOPBasis;20160607;23:50;Trade Balance - BOP Basis;Japan;JPY;1
+JPY_CurrentAccount;20160607;23:50;Current Account n.s.a.;Japan;JPY;1

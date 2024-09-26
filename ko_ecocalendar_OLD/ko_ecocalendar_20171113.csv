@@ -1,0 +1,29 @@
+JPY_CFTCJPYNCNetPositions;20171113;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+AUD_CFTCAUDNCNetPositions;20171113;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCGoldNCNetPositions;20171113;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCUSDNCNetPositions;20171113;20:30;CFTC USD NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20171113;20:30;CFTC Oil NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20171113;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+GBP_CFTCGBPNCNetPositions;20171113;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_MonthlyBudgetStatement;20171113;19:00;Monthly Budget Statement;United States;USD;2
+JPY_CentralBankSpeech;20171113;17:45;BoJ Governor Kuroda speech;Japan;JPY;3
+USD_Auction;20171113;16:30;6-Month Bill Auction;United States;USD;1
+PLN_ConsumerPriceIndex;20171113;13:00;Consumer Price Index (MoM);Poland;PLN;1
+PLN_CurrentAccount;20171113;13:00;Current Account;Poland;PLN;1
+RUB_GrossDomesticProduct;20171113;13:00;Gross Domestic Product Quarterly (YoY);Russia;RUB;1
+EUR_PorConsumerPriceIndex;20171113;11:02;Consumer Price Index (MoM);Portugal;EUR;1
+EUR_EurCentralBankSpeech;20171113;09:00;ECB Constancio speech;European Monetary Union;EUR;2
+CZK_CurrentAccount;20171113;09:00;Current Account (MoM);Czech Republic;CZK;1
+EUR_SloCoreInflation;20171113;08:00;Core Inflation (YoY);Slovakia;EUR;1
+EUR_SloHeadlineInflation;20171113;08:00;Headline Inflation (MoM);Slovakia;EUR;1
+RON_IndustrialProduction;20171113;07:00;Industrial Production (MoM);Romania;RON;1
+EUR_GerWholesalePriceIndex;20171113;07:00;Wholesale Price Index (MoM);Germany;EUR;2
+TRY_CurrentAccount;20171113;07:00;Current Account Balance;Turkey;TRY;1
+JPY_MachineToolOrders;20171113;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+EUR_NetRetailSales;20171113;05:30;Retail Sales (YoY);Netherlands, The;EUR;1
+CNY_M2MoneySupply;20171113;02:00;M2 Money Supply (YoY);China;CNY;1
+CNY_NewLoans;20171113;02:00;New Loans;China;CNY;1
+USD_CentralBankSpeech;20171113;00:10;Fed Harker speech;United States;USD;2
+GBP_RightmoveHousePriceIndex;20171113;00:01;Rightmove House Price Index (MoM);United Kingdom;GBP;1
+CAD_RemembranceDay;20171113;00:00;Remembrance Day;Canada;CAD;0
+COP_IndependenceofCartagenaDay;20171113;00:00;Independence of Cartagena Day;Colombia;COP;0

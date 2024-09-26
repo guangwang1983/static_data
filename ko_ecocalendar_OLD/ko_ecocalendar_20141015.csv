@@ -1,0 +1,44 @@
+KRW_UnemploymentRate;20141015;23:00;Unemployment Rate;South Korea;KRW;1
+NZD_BusinessNZPMI;20141015;21:30;Business NZ PMI;New Zealand;NZD;2
+ARS_ConsumerPriceIndex;20141015;19:00;Consumer Price Index (MoM);Argentina;ARS;1
+EUR_EurCentralBankSpeech;20141015;18:00;ECB President Draghi speech;European Monetary Union;EUR;3
+USD_FedBeigeBook;20141015;18:00;Fed Beige Book;United States;USD;2
+USD_Auction;20141015;15:30;52-Week Bill Auction;United States;USD;1
+NZD_GDTPriceIndex;20141015;15:00;GDT Price Index;New Zealand;NZD;1
+USD_MonthlyBudgetStatement;20141015;15:00;Monthly Budget Statement;United States;USD;2
+PEN_GrossDomesticProduct;20141015;15:00;Gross Domestic Product;Peru;PEN;1
+USD_BusinessInventories;20141015;14:00;Business Inventories;United States;USD;2
+RUB_IndustrialOutput;20141015;14:00;Industrial Output;Russia;RUB;1
+USD_NYEmpireStateManufacturingIndex;20141015;12:30;NY Empire State Manufacturing Index;United States;USD;1
+USD_RetailSales;20141015;12:30;Retail Sales ex Autos (MoM);United States;USD;2
+USD_ProducerPriceIndex;20141015;12:30;Producer Price Index (MoM);United States;USD;1
+EUR_GerCentralBankSpeech;20141015;12:00;German Buba President Weidmann speech;Germany;EUR;2
+PLN_ConsumerPriceIndex;20141015;12:00;Consumer Price Index (YoY);Poland;PLN;1
+BRL_RetailSales;20141015;12:00;Retail Sales (MoM);Brazil;BRL;1
+USD_MBAMortgageApplications;20141015;11:00;MBA Mortgage Applications;United States;USD;2
+ZAR_RetailSales;20141015;11:00;Retail Sales (YoY);South Africa;ZAR;1
+EUR_GerAuction;20141015;10:00;2-year Notes Auction;Germany;EUR;1
+CHF_ZEWSurveyExpectations;20141015;09:00;ZEW Survey - Expectations;Switzerland;CHF;2
+EUR_ItaPublicDeficitGDP;20141015;09:00;Public Deficit/GDP;Italy;EUR;1
+EUR_SpaCurrentAccount;20141015;08:44;Current Account Balance;Spain;EUR;1
+GBP_AverageEarningsExcludingBonus;20141015;08:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_AverageEarningsIncludingBonus;20141015;08:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20141015;08:30;ILO Unemployment Rate (3M);United Kingdom;GBP;2
+GBP_ClaimantCountRate;20141015;08:30;Claimant Count Rate;United Kingdom;GBP;2
+GBP_ClaimantCountChange;20141015;08:30;Claimant Count Change;United Kingdom;GBP;2
+NOK_TradeBalance;20141015;08:00;Trade Balance;Norway;NOK;1
+TRY_BudgetBalance;20141015;08:00;Budget Balance;Turkey;TRY;1
+EUR_NetRetailSales;20141015;07:30;Retail Sales (YoY);Netherlands, The;EUR;1
+TRY_3mthquarterlyjoblessaverage;20141015;07:00;3mth quarterly jobless average;Turkey;TRY;1
+TRY_CurrentAccount;20141015;07:00;Current Account Balance;Turkey;TRY;1
+EUR_FinGrossDomesticProduct;20141015;06:00;Gross Domestic Product (YoY);Finland;EUR;1
+EUR_FinCurrentAccount;20141015;06:00;Current Account;Finland;EUR;1
+EUR_GerConsumerPriceIndex;20141015;06:00;Consumer Price Index (MoM);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20141015;06:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;2
+SGD_RetailSales;20141015;05:00;Retail Sales (MoM);Singapore;SGD;1
+JPY_IndustrialProduction;20141015;04:30;Industrial Production (MoM);Japan;JPY;1
+JPY_CapacityUtilization;20141015;04:30;Capacity Utilization;Japan;JPY;1
+CNY_ConsumerPriceIndex;20141015;01:30;Consumer Price Index (YoY);China;CNY;3
+CNY_ProducerPriceIndex;20141015;01:30;Producer Price Index (YoY);China;CNY;3
+KRW_BoKInterestRateDecision;20141015;01:00;BoK Interest Rate Decision;South Korea;KRW;1
+AUD_NewMotorVehicleSales;20141015;00:30;New Motor Vehicle Sales (MoM);Australia;AUD;1

@@ -1,0 +1,33 @@
+AUD_CurrentAccount;20190903;01:30;Current Account Balance;Australia;AUD;1
+AUD_RetailSales;20190903;01:30;Retail Sales s.a. (MoM);Australia;AUD;2
+JPY_Auction;20190903;03:35;10-y Bond Auction;Japan;JPY;1
+AUD_RBAInterestRateDecision;20190903;04:30;RBA Interest Rate Decision;Australia;AUD;3
+AUD_RBARateStatement;20190903;04:30;RBA Rate Statement;Australia;AUD;3
+CHF_ConsumerPriceIndex;20190903;06:30;Consumer Price Index (YoY);Switzerland;CHF;2
+TRY_ProducerPriceIndex;20190903;07:00;Producer Price Index (YoY);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20190903;07:00;Consumer Price Index (MoM);Turkey;TRY;1
+GBP_UKcourthearingonforcingnodealBrexit;20190903;07:00;UK court  hearing on forcing no-deal Brexit;United Kingdom;GBP;2
+HUF_TradeBalance;20190903;07:00;Trade Balance;Hungary;HUF;1
+SEK_CurrentAccount;20190903;07:30;Current Account (QoQ);Sweden;SEK;1
+BRL_FipeIPCInflation;20190903;08:00;Fipe IPC Inflation;Brazil;BRL;1
+GBP_S&PGlobalConstructionPMI;20190903;08:30;S&P Global Construction PMI;United Kingdom;GBP;1
+EUR_EurProducerPriceIndex;20190903;09:00;Producer Price Index (YoY);European Monetary Union;EUR;1
+ZAR_GrossDomesticProduct;20190903;09:30;Gross Domestic Product (YoY);South Africa;ZAR;1
+BRL_IndustrialOutput;20190903;12:00;Industrial Output (YoY);Brazil;BRL;1
+CAD_S&PGlobalManufacturingPMI;20190903;13:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20190903;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_ISMManufacturingPMI;20190903;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20190903;14:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ISMManufacturingEmploymentIndex;20190903;14:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ISMManufacturingNewOrdersIndex;20190903;14:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ConstructionSpending;20190903;14:00;Construction Spending (MoM);United States;USD;1
+DKK_CurrencyReserves;20190903;15:00;Currency Reserves;Denmark;DKK;1
+NZD_GDTPriceIndex;20190903;15:00;GDT Price Index;New Zealand;NZD;2
+USD_Auction;20190903;15:30;3-Month Bill Auction;United States;USD;1
+CLP_BCCHInterestRate;20190903;21:00;BCCH Interest Rate;Chile;CLP;1
+USD_CentralBankSpeech;20190903;21:00;Fed Rosengren speech;United States;USD;2
+GBP_UKParliamentaryVoteonBrexit;20190903;21:00;UK Parliamentary Vote on Brexit;United Kingdom;GBP;3
+KRW_FXReserves;20190903;21:00;FX Reserves;South Korea;KRW;1
+AUD_AiGPerformanceofServicesIndex;20190903;22:30;AiG Performance of Services Index;Australia;AUD;1
+AUD_S&PGlobalServicesPMI;20190903;23:00;S&P Global Services PMI;Australia;AUD;1
+AUD_S&PGlobalCompositePMI;20190903;23:00;S&P Global Composite PMI;Australia;AUD;1

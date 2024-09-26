@@ -1,0 +1,30 @@
+CAD_CentralBankSpeech;20130503;17:05;BoC Governor Carney speech;Canada;CAD;2
+USD_CentralBankSpeech;20130503;16:45;Fed Lacker speech;United States;USD;1
+USD_ISMNonManufacturingPMI;20130503;14:00;ISM Non-Manufacturing PMI;United States;USD;2
+USD_FactoryOrders;20130503;14:00;Factory Orders (MoM);United States;USD;2
+EUR_BelGrossDomesticProduct;20130503;13:00;Gross Domestic Product (QoQ);Belgium;EUR;1
+USD_UnemploymentRate;20130503;12:30;Unemployment Rate;United States;USD;3
+USD_AverageHourlyEarnings;20130503;12:30;Average Hourly Earnings (MoM);United States;USD;2
+USD_NonfarmPayrolls;20130503;12:30;Nonfarm Payrolls;United States;USD;3
+USD_AverageWeeklyHours;20130503;12:30;Average Weekly Hours;United States;USD;1
+BRL_IndustrialOutput;20130503;12:00;Industrial Output (YoY);Brazil;BRL;1
+INR_BankLoanGrowth;20130503;11:30;Bank Loan Growth;India;INR;1
+BRL_FipeIPCInflation;20130503;11:00;Fipe IPC Inflation;Brazil;BRL;1
+ZAR_TotalNewVehicleSales;20130503;09:00;Total New Vehicle Sales;South Africa;ZAR;1
+EUR_EurEuropeanCommissionreleasesEconomicGrowthForecasts;20130503;09:00;European Commission releases Economic Growth Forecasts;European Monetary Union;EUR;2
+EUR_EurProducerPriceIndex;20130503;09:00;Producer Price Index (MoM);European Monetary Union;EUR;2
+GBP_MarkitServicesPMI;20130503;08:28;Markit Services PMI;United Kingdom;GBP;2
+INR_RBIInterestRateDecision;20130503;08:00;RBI Interest Rate Decision (Repo Rate);India;INR;1
+DKK_DanmarksNationalbankinterestratechange;20130503;08:00;Danmarks Nationalbank interest rate change;Denmark;DKK;1
+NOK_RegisteredUnemployment;20130503;08:00;Registered Unemployment n.s.a;Norway;NOK;1
+TRY_ProducerPriceIndex;20130503;07:00;Producer Price Index (YoY);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20130503;07:00;Consumer Price Index (MoM);Turkey;TRY;1
+EUR_IrePurchasingManagerIndexServices;20130503;05:58;Purchasing Manager Index Services;Ireland;EUR;1
+INR_CashReserveRatio;20130503;05:30;Cash Reserve Ratio;India;INR;1
+INR_ReverseRepoRate;20130503;05:30;Reverse Repo Rate;India;INR;1
+HKD_NikkeiManufacturingPMI;20130503;02:30;Nikkei Manufacturing PMI;Hong Kong SAR;HKD;1
+AUD_ProducerPriceIndex;20130503;01:30;Producer Price Index (QoQ);Australia;AUD;2
+CNY_NonManufacturingPMI;20130503;01:00;Non-Manufacturing PMI;China;CNY;2
+EUR_GreOrthodoxGoodFriday;20130503;00:00;Orthodox Good Friday ;Greece;EUR;0
+JPY_ConstitutionDay;20130503;00:00;Constitution Day;Japan;JPY;0
+PLN_ConstitutionDay;20130503;00:00;Constitution Day ;Poland;PLN;0

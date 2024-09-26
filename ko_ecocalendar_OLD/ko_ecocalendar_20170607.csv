@@ -1,0 +1,47 @@
+JPY_BankLending;20170607;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_GrossDomesticProduct;20170607;23:50;Gross Domestic Product Annualized;Japan;JPY;1
+JPY_ForeignBondInvestment;20170607;23:50;Foreign Bond Investment;Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20170607;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_CurrentAccount;20170607;23:50;Current Account n.s.a.;Japan;JPY;1
+JPY_TradeBalanceBOPBasis;20170607;23:50;Trade Balance - BOP Basis;Japan;JPY;1
+GBP_RICSHousingPriceBalance;20170607;23:01;RICS Housing Price Balance;United Kingdom;GBP;2
+USD_ConsumerCreditChange;20170607;19:00;Consumer Credit Change;United States;USD;2
+USD_EIACrudeOilStocksChange;20170607;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+TRY_TreasuryCashBalance;20170607;14:30;Treasury Cash Balance;Turkey;TRY;1
+CAD_FinancialSystemReview;20170607;14:30;Financial System Review;Canada;CAD;1
+CLP_TradeBalance;20170607;12:32;Trade Balance;Chile;CLP;1
+CAD_BuildingPermits;20170607;12:30;Building Permits (MoM);Canada;CAD;1
+PLN_CentralBankFXReserves;20170607;12:02;Central Bank FX Reserves;Poland;PLN;1
+PLN_NBPBaserate;20170607;11:40;NBP Base rate;Poland;PLN;1
+INR_M3MoneySupply;20170607;11:30;M3 Money Supply;India;INR;1
+USD_MBAMortgageApplications;20170607;11:00;MBA Mortgage Applications;United States;USD;1
+ZAR_BusinessConfidenceIndex;20170607;09:30;Business Confidence Index;South Africa;ZAR;1
+INR_RBIInterestRateDecision;20170607;09:02;RBI Interest Rate Decision (Repo Rate);India;INR;1
+INR_ReverseRepoRate;20170607;09:02;Reverse Repo Rate;India;INR;1
+INR_CashReserveRatio;20170607;09:00;Cash Reserve Ratio;India;INR;1
+SGD_ForeignReserves;20170607;09:00;Foreign Reserves (MoM);Singapore;SGD;1
+HUF_BudgetBalance;20170607;09:00;Budget Balance;Hungary;HUF;1
+EUR_ItaRetailSales;20170607;08:00;Retail Sales s.a. (MoM);Italy;EUR;1
+CZK_FXReserves;20170607;08:00;FX Reserves;Czech Republic;CZK;1
+SEK_IndustrialProduction;20170607;07:30;Industrial Production (YoY);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20170607;07:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+GBP_HalifaxHousePrices;20170607;07:30;Halifax House Prices (3m/YoY);United Kingdom;GBP;1
+EUR_SloGrossDomesticProduct;20170607;07:08;Gross Domestic Product Qtr Final (YoY);Slovakia;EUR;1
+DKK_IndustrialProduction;20170607;07:02;Industrial Production (MoM);Denmark;DKK;1
+HUF_IndustrialOutput;20170607;07:00;Industrial Output (YoY);Hungary;HUF;1
+EUR_AusWholesalePrices;20170607;07:00;Wholesale Prices n.s.a (MoM);Austria;EUR;1
+CZK_IndustrialProduction;20170607;07:00;Industrial Production (YoY);Czech Republic;CZK;1
+CHF_ForeignCurrencyReserves;20170607;07:00;Foreign Currency Reserves;Switzerland;CHF;1
+EUR_SpaIndustrialOutputCalAdjusted;20170607;07:00;Industrial Output Cal Adjusted (YoY);Spain;EUR;1
+CZK_Constructionoutput;20170607;07:00;Construction output (YoY);Czech Republic;CZK;1
+HUF_GrossDomesticProduct;20170607;07:00;Gross Domestic Product (YoY);Hungary;HUF;1
+NOK_CurrentAccount;20170607;06:02;Current Account;Norway;NOK;1
+RON_GrossDomesticProduct;20170607;06:00;Gross Domestic Product;Romania;RON;1
+EUR_FinTradeBalance;20170607;06:00;Trade Balance;Finland;EUR;1
+ZAR_Net$Gold&ForexReserve;20170607;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+ZAR_Gross$Gold&ForexReserve;20170607;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+EUR_GerFactoryOrders;20170607;06:00;Factory Orders s.a. (MoM);Germany;EUR;1
+JPY_CoincidentIndex;20170607;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20170607;05:00;Leading Economic Index;Japan;JPY;1
+CNY_ForeignExchangeReserves;20170607;02:00;Foreign Exchange Reserves (MoM);China;CNY;1
+AUD_GrossDomesticProduct;20170607;01:30;Gross Domestic Product (QoQ);Australia;AUD;2

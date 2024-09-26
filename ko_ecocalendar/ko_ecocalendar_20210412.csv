@@ -1,0 +1,25 @@
+IDR_RetailSales;20210412;04:00;Retail Sales (YoY);Indonesia;IDR;1
+DKK_ConsumerPriceIndex;20210412;06:00;Consumer Price Index (YoY);Denmark;DKK;1
+DKK_Inflation;20210412;06:00;Inflation (HICP) (YoY);Denmark;DKK;1
+DKK_IndustrialProduction;20210412;06:00;Industrial Production (MoM);Denmark;DKK;1
+JPY_MachineToolOrders;20210412;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+TRY_UnemploymentRate;20210412;07:00;Unemployment Rate;Turkey;TRY;1
+TRY_CurrentAccount;20210412;07:00;Current Account Balance;Turkey;TRY;1
+EUR_EurCentralBankSpeech;20210412;07:45;ECB Panetta speech;European Monetary Union;EUR;2
+CNY_M2MoneySupply;20210412;08:00;M2 Money Supply (YoY);China;CNY;1
+CNY_NewLoans;20210412;08:00;New Loans;China;CNY;1
+EUR_EurRetailSales;20210412;09:00;Retail Sales (YoY);European Monetary Union;EUR;3
+ILS_BudgetBalanceILS;20210412;10:00;Budget Balance - ILS;Israel;ILS;1
+INR_CumulativeIndustrialOutput;20210412;12:00;Cumulative Industrial Output;India;INR;1
+INR_ConsumerPriceIndex;20210412;12:00;Consumer Price Index (YoY);India;INR;1
+INR_ManufacturingOutput;20210412;12:00;Manufacturing Output;India;INR;1
+INR_IndustrialOutput;20210412;12:00;Industrial Output;India;INR;1
+GBP_CentralBankSpeech;20210412;13:00;BoE Tenreyro speech;United Kingdom;GBP;2
+CAD_BankofCanadaBusinessOutlookSurvey;20210412;14:30;Bank of Canada Business Outlook Survey;Canada;CAD;2
+USD_Auction;20210412;17:00;3-Year Note Auction;United States;USD;1
+USD_CentralBankSpeech;20210412;17:00;Fed Rosengren speech;United States;USD;2
+USD_MonthlyBudgetStatement;20210412;18:00;Monthly Budget Statement;United States;USD;2
+NZD_NZIERBusinessConfidence;20210412;22:00;NZIER Business Confidence (QoQ);New Zealand;NZD;2
+NZD_RetailSales;20210412;22:45;Electronic Card Retail Sales  (MoM);New Zealand;NZD;1
+GBP_RetailSales;20210412;23:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+JPY_MoneySupplyM2+CD;20210412;23:50;Money Supply M2+CD (YoY);Japan;JPY;1

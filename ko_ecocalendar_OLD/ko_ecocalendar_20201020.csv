@@ -1,0 +1,26 @@
+AUD_WestpacLeadingIndex;20201020;23:30;Westpac Leading Index (MoM);Australia;AUD;2
+KRW_ProducerPriceIndex;20201020;21:00;Producer Price Index Growth (YoY);South Korea;KRW;1
+USD_APIWeeklyCrudeOilStock;20201020;20:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_CentralBankSpeech;20201020;14:50;Fed Quarles speech;United States;USD;2
+NZD_GDTPriceIndex;20201020;14:30;GDT Price Index;New Zealand;NZD;2
+RUB_UnemploymentRate;20201020;13:00;Unemployment Rate;Russia;RUB;1
+USD_RedbookIndex;20201020;12:55;Redbook Index (MoM);United States;USD;1
+USD_HousingStarts;20201020;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20201020;12:30;Building Permits (MoM);United States;USD;2
+USD_HousingStartsChange;20201020;12:30;Housing Starts Change;United States;USD;1
+USD_BuildingPermitsChange;20201020;12:30;Building Permits Change;United States;USD;1
+HUF_MNBInterestRateDecision;20201020;12:00;MNB Interest Rate Decision;Hungary;HUF;1
+HKD_Unemploymentrate;20201020;08:30;Unemployment rate;Hong Kong SAR;HKD;1
+EUR_EurCurrentAccount;20201020;08:00;Current Account s.a;European Monetary Union;EUR;1
+EUR_FinUnemploymentRate;20201020;08:00;Unemployment Rate;Finland;EUR;1
+PLN_IndustrialOutput;20201020;08:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20201020;08:00;Producer Price Index (YoY);Poland;PLN;1
+EUR_SloUnemploymentRate;20201020;07:00;Unemployment Rate;Slovakia;EUR;1
+CHF_TradeBalance;20201020;06:00;Trade Balance;Switzerland;CHF;1
+CHF_Imports;20201020;06:00;Imports (MoM);Switzerland;CHF;1
+CHF_Exports;20201020;06:00;Exports (MoM);Switzerland;CHF;1
+EUR_GerProducerPriceIndex;20201020;06:00;Producer Price Index (YoY);Germany;EUR;1
+CNY_HousePriceIndex;20201020;01:30;House Price Index ;China;CNY;1
+CNY_PBoCInterestRateDecision;20201020;01:30;PBoC Interest Rate Decision;China;CNY;3
+AUD_RBAMeetingMinutes;20201020;00:30;RBA Meeting Minutes;Australia;AUD;3
+AUD_HIANewHomeSales;20201020;00:00;HIA New Home Sales (MoM);Australia;AUD;2

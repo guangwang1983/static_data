@@ -1,0 +1,45 @@
+JPY_ProducerPriceIndex;20200514;23:50;Producer Price Index (MoM);Japan;JPY;1
+NZD_BusinessNZPMI;20200514;22:30;Business NZ PMI;New Zealand;NZD;2
+KRW_ImportPriceGrowth;20200514;21:00;Import Price Growth (YoY);South Korea;KRW;1
+KRW_ExportPriceGrowth;20200514;21:00;Export Price Growth (YoY);South Korea;KRW;1
+ARS_ConsumerPriceIndex;20200514;19:00;Consumer Price Index (MoM);Argentina;ARS;1
+MXN_CentralBankInterestRate;20200514;18:00;Central Bank Interest Rate;Mexico;MXN;1
+EGP_CBEInterestRateDecision;20200514;17:00;CBE Interest Rate Decision;Egypt;EGP;1
+USD_Auction;20200514;15:30;4-Week Bill Auction;United States;USD;1
+COP_RetailSales;20200514;15:00;Retail Sales (YoY);Colombia;COP;1
+COP_TradeBalance;20200514;15:00;Trade Balance;Colombia;COP;1
+COP_Industrialoutput;20200514;15:00;Industrial output (YoY);Colombia;COP;1
+USD_EIANaturalGasStorageChange;20200514;14:30;EIA Natural Gas Storage Change;United States;USD;1
+CAD_FinancialSystemReview;20200514;14:00;Financial System Review;Canada;CAD;1
+RUB_CentralBankReserves;20200514;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_JoblessClaims;20200514;12:30;Continuing Jobless Claims;United States;USD;1
+CAD_ManufacturingSales;20200514;12:30;Manufacturing Sales (MoM);Canada;CAD;1
+USD_ImportPriceIndex;20200514;12:30;Import Price Index (MoM);United States;USD;1
+USD_ExportPriceIndex;20200514;12:30;Export Price Index (YoY);United States;USD;1
+PLN_CurrentAccount;20200514;12:00;Current Account;Poland;PLN;1
+EUR_IreConsumerPriceIndex;20200514;10:00;Consumer Price Index (MoM);Ireland;EUR;1
+EUR_IreHICP;20200514;10:00;HICP (YoY);Ireland;EUR;1
+EUR_ItaTradeBalanceEU;20200514;08:00;Trade Balance EU;Italy;EUR;1
+EUR_ItaGlobalTradeBalance;20200514;08:00;Global Trade Balance;Italy;EUR;1
+EUR_EurEconomicBulletin;20200514;08:00;Economic Bulletin;European Monetary Union;EUR;2
+CZK_CurrentAccount;20200514;08:00;Current Account (MoM);Czech Republic;CZK;1
+EUR_SloHeadlineInflation;20200514;07:00;Headline Inflation (YoY);Slovakia;EUR;1
+EUR_SloCoreInflation;20200514;07:00;Core Inflation (MoM);Slovakia;EUR;1
+TRY_IndustrialProduction;20200514;07:00;Industrial Production (YoY);Turkey;TRY;1
+EUR_SpaConsumerPriceIndex;20200514;07:00;Consumer Price Index (MoM);Spain;EUR;1
+EUR_SpaHICP;20200514;07:00;HICP (MoM);Spain;EUR;1
+CHF_ProducerandImportPrices;20200514;06:30;Producer and Import Prices (MoM);Switzerland;CHF;1
+INR_WPIInflation;20200514;06:30;WPI Inflation;India;INR;1
+EUR_GerConsumerPriceIndex;20200514;06:00;Consumer Price Index (YoY);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20200514;06:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+JPY_MachineToolOrders;20200514;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+EUR_FraILOUnemployment;20200514;05:30;ILO Unemployment;France;EUR;2
+EUR_FinConsumerPriceIndex;20200514;05:00;Consumer Price Index (YoY);Finland;EUR;1
+NZD_BudgetRelease;20200514;02:00;Budget Release;New Zealand;NZD;3
+NZD_ANZMonthlyInflationGauge;20200514;02:00;ANZ Monthly Inflation Gauge (YoY);New Zealand;NZD;1
+AUD_ParticipationRate;20200514;01:30;Participation Rate;Australia;AUD;3
+AUD_UnemploymentRate;20200514;01:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_EmploymentChange;20200514;01:30;Employment Change s.a.;Australia;AUD;3
+AUD_PartTimeEmployment;20200514;01:30;Part-Time Employment;Australia;AUD;1
+AUD_FulltimeEmployment;20200514;01:30;Fulltime Employment;Australia;AUD;2
+AUD_ConsumerInflationExpectations;20200514;01:00;Consumer Inflation Expectations;Australia;AUD;2

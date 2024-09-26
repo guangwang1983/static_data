@@ -1,0 +1,33 @@
+AUD_CurrentAccount;20200602;01:30;Current Account Balance;Australia;AUD;1
+AUD_CompanyGrossOperatingProfits;20200602;01:30;Company Gross Operating Profits (QoQ);Australia;AUD;1
+JPY_Auction;20200602;03:35;10-y Bond Auction;Japan;JPY;1
+IDR_CoreInflation;20200602;04:00;Core Inflation (YoY);Indonesia;IDR;1
+IDR_Inflation;20200602;04:00;Inflation (YoY);Indonesia;IDR;1
+AUD_RBARateStatement;20200602;04:30;RBA Rate Statement;Australia;AUD;3
+AUD_RBAInterestRateDecision;20200602;04:30;RBA Interest Rate Decision;Australia;AUD;3
+GBP_NationwideHousingPrices;20200602;06:00;Nationwide Housing Prices s.a (MoM);United Kingdom;GBP;1
+CHF_RetailSales;20200602;06:30;Real Retail Sales (YoY);Switzerland;CHF;2
+EUR_FraBudgetBalance;20200602;06:45;Budget Balance;France;EUR;1
+HUF_ProducerPriceIndex;20200602;07:00;Producer Price Index (YoY);Hungary;HUF;1
+CZK_GrossDomesticProduct;20200602;07:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+HUF_TradeBalance;20200602;07:00;Trade Balance;Hungary;HUF;1
+HUF_PurchasingManagerIndex;20200602;07:00;Purchasing Manager Index;Hungary;HUF;1
+CHF_SVMEPurchasingManagers'Index;20200602;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+ILS_IndustrialProduction;20200602;08:00;Industrial Production (MoM);Israel;ILS;1
+GBP_NetLendingtoIndividuals;20200602;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20200602;08:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20200602;08:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_M4MoneySupply;20200602;08:30;M4 Money Supply (MoM);United Kingdom;GBP;1
+TRY_Exports;20200602;08:30;Exports;Turkey;TRY;1
+DKK_ManufacturingPMI;20200602;09:00;Manufacturing PMI;Denmark;DKK;1
+GBP_Auction;20200602;09:30;10-y Bond Auction;United Kingdom;GBP;1
+USD_RedbookIndex;20200602;12:55;Redbook Index (YoY);United States;USD;1
+USD_ISMNYBusinessConditionsIndex;20200602;13:45;ISM-NY Business Conditions Index;United States;USD;1
+NZD_GDTPriceIndex;20200602;14:30;GDT Price Index;New Zealand;NZD;2
+USD_TotalVehicleSales;20200602;19:30;Total Vehicle Sales;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20200602;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_FXReserves;20200602;21:00;FX Reserves;South Korea;KRW;1
+AUD_AiGPerformanceofConstructionIndex;20200602;22:30;AiG Performance of Construction Index;Australia;AUD;2
+AUD_S&PGlobalServicesPMI;20200602;23:00;S&P Global Services PMI;Australia;AUD;1
+AUD_S&PGlobalCompositePMI;20200602;23:00;S&P Global Composite PMI;Australia;AUD;1
+GBP_BRCShopPriceIndex;20200602;23:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1

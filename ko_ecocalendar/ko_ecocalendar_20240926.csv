@@ -1,0 +1,34 @@
+EUR_GerGfKConsumerConfidenceSurvey;20240926;06:00;GfK Consumer Confidence Survey;Germany;EUR;2
+SEK_TradeBalance;20240926;06:00;Trade Balance (MoM);Sweden;SEK;1
+SEK_ConsumerConfidence;20240926;07:00;Consumer Confidence (MoM);Sweden;SEK;1
+CHF_SNBInterestRateDecision;20240926;07:30;SNB Interest Rate Decision;Switzerland;CHF;3
+CHF_SNBMonetaryPolicyAssessment;20240926;07:30;SNB Monetary Policy Assessment;Switzerland;CHF;3
+EUR_ItaBusinessConfidence;20240926;08:00;Business Confidence;Italy;EUR;1
+EUR_ItaConsumerConfidence;20240926;08:00;Consumer Confidence;Italy;EUR;1
+EUR_EurM3MoneySupply;20240926;08:00;M3 Money Supply (YoY);Eurozone;EUR;1
+EUR_EurPrivateLoans;20240926;08:00;Private Loans (YoY);Eurozone;EUR;1
+EUR_EurEconomicBulletin;20240926;08:00;Economic Bulletin;Eurozone;EUR;2
+CHF_SNBPressConference;20240926;08:00;SNB Press Conference;Switzerland;CHF;3
+ZAR_ProducerPriceIndex;20240926;09:30;Producer Price Index (MoM);South Africa;ZAR;1
+USD_JoblessClaims;20240926;12:30;Initial Jobless Claims 4-week average;United States;USD;1
+USD_GrossDomesticProduct;20240926;12:30;Gross Domestic Product Price Index;United States;USD;2
+USD_PersonalConsumptionExpendituresPrices;20240926;12:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+USD_CorePersonalConsumptionExpenditures;20240926;12:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+USD_NondefenseCapitalGoodsOrdersexAircraft;20240926;12:30;Nondefense Capital Goods Orders ex Aircraft;United States;USD;2
+USD_DurableGoodsOrders;20240926;12:30;Durable Goods Orders;United States;USD;2
+RUB_CentralBankReserves;20240926;13:00;Central Bank Reserves $;Russia;RUB;1
+GBP_BoEMonetaryPolicyReportHearings;20240926;13:15;BoE Monetary Policy Report Hearings;United Kingdom;GBP;3
+USD_PendingHomeSales;20240926;14:00;Pending Home Sales (YoY);United States;USD;1
+USD_EIANaturalGasStorageChange;20240926;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_KansasFedManufacturingActivity;20240926;15:00;Kansas Fed Manufacturing Activity;United States;USD;1
+EUR_EurCentralBankSpeech;20240926;16:00;ECB Schnabel speech;Eurozone;EUR;2
+USD_Auction;20240926;17:00;7-Year Note Auction;United States;USD;1
+MXN_CentralBankInterestRate;20240926;19:00;Central Bank Interest Rate;Mexico;MXN;2
+KRW_BOKManufacturingBSI;20240926;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+USD_CentralBankSpeech;20240926;22:00;Fed Cook speech;United States;USD;2
+NZD_ANZ–RoyMorganConsumerConfidence;20240926;22:00;ANZ – Roy Morgan Consumer Confidence;New Zealand;NZD;2
+JPY_TokyoCPIexFoodEnergy;20240926;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;3
+JPY_ConsumerPriceIndex;20240926;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;3
+JPY_TokyoCPIexFreshFood;20240926;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20240926;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20240926;23:50;Foreign Bond Investment;Japan;JPY;1

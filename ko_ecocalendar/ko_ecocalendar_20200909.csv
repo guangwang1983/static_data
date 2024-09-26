@@ -1,0 +1,32 @@
+AUD_WestpacConsumerConfidence;20200909;00:30;Westpac Consumer Confidence;Australia;AUD;2
+NZD_ANZActivityOutlook;20200909;01:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20200909;01:00;ANZ Business Confidence;New Zealand;NZD;1
+AUD_HomeLoans;20200909;01:30;Home Loans;Australia;AUD;1
+AUD_InvestmentLendingforHomes;20200909;01:30;Investment Lending for Homes;Australia;AUD;1
+CNY_ProducerPriceIndex;20200909;01:30;Producer Price Index (YoY);China;CNY;2
+CNY_ConsumerPriceIndex;20200909;01:30;Consumer Price Index (MoM);China;CNY;2
+IDR_RetailSales;20200909;03:00;Retail Sales (YoY);Indonesia;IDR;1
+CHF_UnemploymentRate;20200909;05:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+RON_TradeBalance;20200909;06:00;Trade Balance;Romania;RON;1
+JPY_MachineToolOrders;20200909;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+HUF_ConsumerPriceIndex;20200909;07:00;Consumer Price Index (YoY);Hungary;HUF;1
+CZK_FXReserves;20200909;08:00;FX Reserves;Czech Republic;CZK;1
+HUF_BudgetBalance;20200909;09:00;Budget Balance;Hungary;HUF;1
+EUR_GerAuction;20200909;09:30;10-y Bond Auction;Germany;EUR;2
+MXN_HeadlineInflation;20200909;11:00;Headline Inflation;Mexico;MXN;1
+MXN_CoreInflation;20200909;11:00;Core Inflation;Mexico;MXN;1
+MXN_12MonthInflation;20200909;11:00;12-Month Inflation;Mexico;MXN;1
+USD_MBAMortgageApplications;20200909;11:00;MBA Mortgage Applications;United States;USD;1
+BRL_IPCAInflation;20200909;12:00;IPCA Inflation;Brazil;BRL;1
+CAD_HousingStarts;20200909;12:15;Housing Starts s.a (YoY);Canada;CAD;1
+USD_RedbookIndex;20200909;12:55;Redbook Index (YoY);United States;USD;1
+USD_JOLTSJobOpenings;20200909;14:00;JOLTS Job Openings;United States;USD;1
+CAD_BoCInterestRateDecision;20200909;14:00;BoC Interest Rate Decision;Canada;CAD;3
+CAD_BoCRateStatement;20200909;14:00;BoC Rate Statement;Canada;CAD;3
+USD_Auction;20200909;17:00;10-Year Note Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20200909;20:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_RetailSales;20200909;22:45;Electronic Card Retail Sales  (MoM);New Zealand;NZD;1
+GBP_RICSHousingPriceBalance;20200909;23:01;RICS Housing Price Balance;United Kingdom;GBP;1
+JPY_ForeignInvestmentinJapanStocks;20200909;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20200909;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_MachineryOrders;20200909;23:50;Machinery Orders (YoY);Japan;JPY;1

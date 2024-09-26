@@ -1,0 +1,29 @@
+CNY_ConsumerPriceIndex;20230710;01:30;Consumer Price Index (MoM);China;CNY;2
+CNY_ProducerPriceIndex;20230710;01:30;Producer Price Index (YoY);China;CNY;2
+JPY_EcoWatchersSurvey:Outlook;20230710;05:00;Eco Watchers Survey: Outlook;Japan;JPY;1
+JPY_EcoWatchersSurvey:Current;20230710;05:00;Eco Watchers Survey: Current;Japan;JPY;1
+NOK_CoreInflation;20230710;06:00;Core Inflation (MoM);Norway;NOK;1
+NOK_ConsumerPriceIndex;20230710;06:00;Consumer Price Index (MoM);Norway;NOK;1
+RON_TradeBalance;20230710;06:00;Trade Balance;Romania;RON;1
+DKK_ConsumerPriceIndex;20230710;06:00;Consumer Price Index (YoY);Denmark;DKK;1
+DKK_Inflation;20230710;06:00;Inflation (HICP) (YoY);Denmark;DKK;1
+DKK_TradeBalance;20230710;06:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20230710;06:00;Current Account;Denmark;DKK;1
+NOK_ProducerPriceIndex;20230710;06:00;Producer Price Index (YoY);Norway;NOK;1
+HUF_TradeBalance;20230710;06:30;Trade Balance;Hungary;HUF;1
+TRY_UnemploymentRate;20230710;07:00;Unemployment Rate;Turkey;TRY;1
+CZK_RetailSales;20230710;07:00;Retail Sales (YoY);Czech Republic;CZK;1
+CZK_FXReserves;20230710;08:00;FX Reserves;Czech Republic;CZK;1
+EUR_EurSentixInvestorConfidence;20230710;08:30;Sentix Investor Confidence;European Monetary Union;EUR;2
+HUF_BudgetBalance;20230710;09:00;Budget Balance;Hungary;HUF;1
+CAD_BuildingPermits;20230710;12:30;Building Permits (MoM);Canada;CAD;1
+ILS_BoIInterestRateDecision;20230710;13:00;BoI Interest Rate Decision;Israel;ILS;1
+USD_WholesaleInventories;20230710;14:00;Wholesale Inventories;United States;USD;1
+GBP_CentralBankSpeech;20230710;15:00;BoE Governor Bailey speech;United Kingdom;GBP;3
+USD_Auction;20230710;15:30;3-Month Bill Auction;United States;USD;1
+USD_CentralBankSpeech;20230710;16:00;Fed Bostic speech;United States;USD;2
+EUR_GerCentralBankSpeech;20230710;16:00;German Buba President Nagel speech;Germany;EUR;2
+USD_ConsumerCreditChange;20230710;19:00;Consumer Credit Change;United States;USD;1
+COP_ConsumerPriceIndex;20230710;23:00;Consumer Price Index (YoY);Colombia;COP;1
+GBP_RetailSales;20230710;23:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+JPY_MoneySupplyM2+CD;20230710;23:50;Money Supply M2+CD (YoY);Japan;JPY;1

@@ -1,0 +1,34 @@
+JPY_CentralBankSpeech;20180412;00:30;BoJ Governor Kuroda speech;Japan;JPY;2
+AUD_ConsumerInflationExpectations;20180412;01:00;Consumer Inflation Expectations;Australia;AUD;2
+KRW_BoKInterestRateDecision;20180412;01:00;BoK Interest Rate Decision;South Korea;KRW;1
+AUD_HomeLoans;20180412;01:30;Home Loans;Australia;AUD;2
+AUD_InvestmentLendingforHomes;20180412;01:30;Investment Lending for Homes;Australia;AUD;2
+CNY_FDIForeignDirectInvestment;20180412;02:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+RON_IndustrialProduction;20180412;06:00;Industrial Production (MoM);Romania;RON;1
+RON_ConsumerPriceIndex;20180412;06:00;Consumer Price Index;Romania;RON;1
+EUR_FraConsumerPriceIndex;20180412;06:45;Consumer Price Index (EU norm) (YoY);France;EUR;2
+EUR_FraInflationextobacco;20180412;06:45;Inflation ex-tobacco (MoM);France;EUR;1
+SEK_ConsumerPriceIndex;20180412;07:30;Consumer Price Index (MoM);Sweden;SEK;1
+GBP_BoECreditConditionsSurvey;20180412;08:30;BoE Credit Conditions Survey;United Kingdom;GBP;2
+EUR_EurIndustrialProduction;20180412;09:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;1
+INR_CumulativeIndustrialOutput;20180412;11:30;Cumulative Industrial Output;India;INR;1
+INR_ManufacturingOutput;20180412;11:30;Manufacturing Output;India;INR;1
+INR_IndustrialOutput;20180412;11:30;Industrial Output;India;INR;1
+EUR_EurECBMonetaryPolicyMeetingAccounts;20180412;11:30;ECB Monetary Policy Meeting Accounts;European Monetary Union;EUR;3
+BRL_RetailSales;20180412;12:00;Retail Sales (MoM);Brazil;BRL;1
+EUR_EurCentralBankSpeech;20180412;12:15;ECB Cœuré speech;European Monetary Union;EUR;2
+USD_JoblessClaims;20180412;12:30;Continuing Jobless Claims;United States;USD;2
+USD_ExportPriceIndex;20180412;12:30;Export Price Index (MoM);United States;USD;1
+USD_ImportPriceIndex;20180412;12:30;Import Price Index (YoY);United States;USD;1
+CAD_NewHousingPriceIndex;20180412;12:30;New Housing Price Index (YoY);Canada;CAD;1
+RUB_CentralBankReserves;20180412;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_EIANaturalGasStorageChange;20180412;14:30;EIA Natural Gas Storage Change;United States;USD;1
+INR_TradeDeficitGovernment;20180412;15:00;Trade Deficit Government;India;INR;1
+EUR_GerCentralBankSpeech;20180412;16:00;German Buba President Weidmann speech;Germany;EUR;2
+USD_Auction;20180412;17:00;30-Year Bond Auction;United States;USD;1
+GBP_CentralBankSpeech;20180412;19:00;BoE Governor Carney speech;United Kingdom;GBP;3
+MXN_CentralBankInterestRate;20180412;19:00;Central Bank Interest Rate;Mexico;MXN;1
+USD_CentralBankSpeech;20180412;21:00;Fed Kashkari speech;United States;USD;2
+KRW_ExportPriceGrowth;20180412;21:00;Export Price Growth (YoY);South Korea;KRW;1
+KRW_ImportPriceGrowth;20180412;21:00;Import Price Growth (YoY);South Korea;KRW;1
+NZD_BusinessNZPMI;20180412;22:30;Business NZ PMI;New Zealand;NZD;2

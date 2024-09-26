@@ -1,0 +1,44 @@
+JPY_ForeignBondInvestment;20180905;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20180905;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+EUR_IreConsumerConfidence;20180905;23:01;Consumer Confidence;Ireland;EUR;1
+KRW_CurrentAccount;20180905;23:00;Current Account Balance;South Korea;KRW;1
+USD_CentralBankSpeech;20180905;22:30;Fed Bostic speech;United States;USD;2
+USD_APIWeeklyCrudeOilStock;20180905;20:30;API Weekly Crude Oil Stock;United States;USD;1
+CAD_BoCInterestRateDecision;20180905;14:00;BoC Interest Rate Decision;Canada;CAD;3
+CAD_BoCRateStatement;20180905;14:00;BoC Rate Statement;Canada;CAD;3
+USD_ISMNYBusinessConditionsIndex;20180905;13:45;ISM-NY Business Conditions Index;United States;USD;1
+RUB_ConsumerPriceIndex;20180905;13:00;Consumer Price Index (MoM);Russia;RUB;1
+MXN_ConsumerConfidence;20180905;13:00;Consumer Confidence;Mexico;MXN;1
+USD_RedbookIndex;20180905;12:55;Redbook Index (YoY);United States;USD;1
+CAD_LaborProductivity;20180905;12:30;Labor Productivity (QoQ);Canada;CAD;1
+USD_TradeBalance;20180905;12:30;Trade Balance;United States;USD;2
+CAD_InternationalMerchandiseTrade;20180905;12:30;International Merchandise Trade;Canada;CAD;2
+CAD_Exports;20180905;12:30;Exports;Canada;CAD;1
+CAD_Imports;20180905;12:30;Imports;Canada;CAD;1
+PLN_NBPBaserate;20180905;12:00;NBP Base rate;Poland;PLN;1
+CLP_IMACEC;20180905;11:30;IMACEC;Chile;CLP;1
+USD_MBAMortgageApplications;20180905;11:00;MBA Mortgage Applications;United States;USD;1
+EUR_EurCentralBankSpeech;20180905;09:30;ECB Praet speech;European Monetary Union;EUR;2
+EUR_EurRetailSales;20180905;09:00;Retail Sales (MoM);European Monetary Union;EUR;1
+GBP_MarkitServicesPMI;20180905;08:30;Markit Services PMI;United Kingdom;GBP;2
+EUR_EurMarkitPMIComposite;20180905;08:00;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20180905;08:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_GerMarkitPMIComposite;20180905;07:55;Markit PMI Composite;Germany;EUR;2
+EUR_GerMarkitServicesPMI;20180905;07:55;Markit Services PMI;Germany;EUR;2
+EUR_FraMarkitServicesPMI;20180905;07:50;Markit Services PMI;France;EUR;1
+EUR_FraMarkitPMIComposite;20180905;07:50;Markit PMI Composite;France;EUR;1
+EUR_ItaMarkitServicesPMI;20180905;07:45;Markit Services PMI;Italy;EUR;1
+SEK_IndustrialProduction;20180905;07:30;Industrial Production (MoM);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20180905;07:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+EUR_SpaMarkitServicesPMI;20180905;07:15;Markit Services PMI;Spain;EUR;2
+CZK_RetailSales;20180905;07:00;Retail Sales (YoY);Czech Republic;CZK;1
+NOK_CurrentAccount;20180905;07:00;Current Account;Norway;NOK;1
+HUF_RetailSales;20180905;07:00;Retail Sales (YoY);Hungary;HUF;1
+HUF_GrossDomesticProduct;20180905;07:00;Gross Domestic Product (YoY);Hungary;HUF;1
+RUB_PurchasingManagerIndexServices;20180905;06:00;Purchasing Manager Index Services;Russia;RUB;1
+EUR_IrePurchasingManagerIndexServices;20180905;05:00;Purchasing Manager Index Services;Ireland;EUR;1
+CNY_CaixinServicesPMI;20180905;01:45;Caixin Services PMI;China;CNY;2
+AUD_GrossDomesticProduct;20180905;01:30;Gross Domestic Product (YoY);Australia;AUD;2
+NZD_ANZCommodityPrice;20180905;01:00;ANZ Commodity Price;New Zealand;NZD;1
+HKD_NikkeiManufacturingPMI;20180905;00:30;Nikkei Manufacturing PMI;Hong Kong SAR;HKD;1
+JPY_MarkitServicesPMI;20180905;00:30;Markit Services PMI;Japan;JPY;1

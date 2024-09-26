@@ -1,0 +1,46 @@
+COP_NationalJoblessRate;20141031;17:00;National Jobless Rate;Colombia;COP;1
+MXN_CentralBankInterestRate;20141031;15:00;Central Bank Interest Rate;Mexico;MXN;1
+USD_MichiganConsumerSentimentIndex;20141031;13:55;Michigan Consumer Sentiment Index;United States;USD;2
+USD_ChicagoPurchasingManagers'Index;20141031;13:45;Chicago Purchasing Managers' Index;United States;USD;2
+RUB_Interestratedecision;20141031;13:00;Interest rate decision;Russia;RUB;0
+USD_PersonalConsumptionExpendituresPriceIndex;20141031;12:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;1
+USD_PersonalSpending;20141031;12:30;Personal Spending;United States;USD;2
+USD_CorePersonalConsumptionExpenditurePriceIndex;20141031;12:30;Core Personal Consumption Expenditure - Price Index (MoM);United States;USD;1
+USD_PersonalIncome;20141031;12:30;Personal Income (MoM);United States;USD;2
+USD_EmploymentCostIndex;20141031;12:30;Employment Cost Index;United States;USD;1
+BRL_NominalBudgetBalance;20141031;12:30;Nominal Budget Balance;Brazil;BRL;1
+BRL_PrimaryBudgetSurplus;20141031;12:30;Primary Budget Surplus;Brazil;BRL;1
+INR_InfrastructureOutput;20141031;12:30;Infrastructure Output (YoY);India;INR;1
+CAD_GrossDomesticProduct;20141031;12:30;Gross Domestic Product (MoM);Canada;CAD;2
+ZAR_TradeBalance;20141031;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+INR_BankLoanGrowth;20141031;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20141031;11:30;FX Reserves, USD;India;INR;1
+EUR_ItaProducerPriceIndex;20141031;11:00;Producer Price Index (MoM);Italy;EUR;1
+EUR_GreRetailSales;20141031;10:51;Retail Sales (YoY);Greece;EUR;1
+INR_FederalFiscalDeficitINR;20141031;10:30;Federal Fiscal Deficit, INR;India;INR;1
+EUR_EurUnemploymentRate;20141031;10:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_EurConsumerPriceIndex;20141031;10:00;Consumer Price Index (YoY);European Monetary Union;EUR;3
+EUR_ItaConsumerPriceIndex;20141031;10:00;Consumer Price Index (EU Norm) (MoM);Italy;EUR;1
+CZK_M2MoneySupply;20141031;09:00;M2 Money Supply (YoY);Czech Republic;CZK;1
+EUR_ItaUnemployment;20141031;09:00;Unemployment;Italy;EUR;2
+NOK_CreditIndicator;20141031;09:00;Credit Indicator;Norway;NOK;1
+NOK_RegisteredUnemployment;20141031;09:00;Registered Unemployment n.s.a;Norway;NOK;1
+EUR_SpaCurrentAccount;20141031;09:00;Current Account Balance;Spain;EUR;1
+TRY_TradeBalance;20141031;08:00;Trade Balance;Turkey;TRY;1
+HUF_ProducerPriceIndex;20141031;08:00;Producer Price Index (YoY);Hungary;HUF;1
+EUR_FraProducerPrices;20141031;07:45;Producer Prices (MoM);France;EUR;1
+EUR_FraConsumerSpending;20141031;07:45;Consumer Spending (MoM);France;EUR;1
+EUR_GerRetailSales;20141031;07:00;Retail Sales (YoY);Germany;EUR;2
+JPY_BoJPressConference;20141031;06:30;BoJ Press Conference;Japan;JPY;2
+JPY_BoJOutlookReport;20141031;06:00;BoJ Outlook Report;Japan;JPY;2
+JPY_ConstructionOrders;20141031;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_HousingStarts;20141031;05:00;Housing Starts (YoY);Japan;JPY;2
+JPY_AnnualizedHousingStarts;20141031;05:00;Annualized Housing Starts;Japan;JPY;2
+JPY_BoJInterestRateDecision;20141031;04:47;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_BoJMonetaryPolicyStatement;20141031;04:47;BoJ Monetary Policy Statement ;Japan;JPY;2
+SGD_Unemploymentrate;20141031;02:00;Unemployment rate;Singapore;SGD;1
+NZD_M3MoneySupply;20141031;02:00;M3 Money Supply (YoY);New Zealand;NZD;1
+AUD_PrivateSectorCredit;20141031;00:30;Private Sector Credit (MoM);Australia;AUD;1
+AUD_ProducerPriceIndex;20141031;00:30;Producer Price Index (QoQ);Australia;AUD;1
+GBP_GfKConsumerConfidence;20141031;00:05;GfK Consumer Confidence;United Kingdom;GBP;2
+CLP_EvangelicalChurchesDay;20141031;00:00;Evangelical Churches Day;Chile;CLP;0

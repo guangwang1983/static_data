@@ -1,0 +1,16 @@
+JPY_MonetaryBase;20100802;23:50;Monetary Base (YoY);Japan;JPY;1
+USD_ISMManufacturingPMI;20100802;14:00;ISM Manufacturing PMI;United States;USD;2
+USD_ISMPricesPaid;20100802;14:00;ISM Prices Paid;United States;USD;1
+USD_ConstructionSpending;20100802;14:00;Construction Spending (MoM);United States;USD;1
+GBP_MarkitManufacturingPMI;20100802;08:30;Markit Manufacturing PMI;United Kingdom;GBP;1
+EUR_EurMarkitManufacturingPMI;20100802;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;1
+EUR_GerMarkitManufacturingPMI;20100802;07:55;Markit Manufacturing PMI;Germany;EUR;1
+CHF_SVMEPurchasingManagers'Index;20100802;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CHF_RetailSales;20100802;07:15;Real Retail Sales (YoY);Switzerland;CHF;2
+JPY_VehicleSales;20100802;05:00;Vehicle Sales (YoY);Japan;JPY;1
+NZD_ANZCommodityPrice;20100802;03:00;ANZ Commodity Price;New Zealand;NZD;1
+CNY_CaixinManufacturingPMI;20100802;02:30;Caixin Manufacturing PMI;China;CNY;1
+JPY_LaborCashEarnings;20100802;01:30;Labor Cash Earnings (YoY);Japan;JPY;1
+AUD_HIANewHomeSales;20100802;01:01;HIA New Home Sales (MoM);Australia;AUD;2
+AUD_TDSecuritiesInflation;20100802;00:30;TD Securities Inflation (MoM);Australia;AUD;1
+AUD_BankHoliday;20100802;00:00;Bank Holiday;Australia;AUD;0

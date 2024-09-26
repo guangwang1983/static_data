@@ -1,0 +1,20 @@
+JPY_MonetaryBase;20091001;23:50;Monetary Base (YoY);Japan;JPY;1
+JPY_UnemploymentRate;20091001;23:30;Unemployment Rate;Japan;JPY;2
+JPY_OverallHouseholdSpending;20091001;23:30;Overall Household Spending (YoY);Japan;JPY;1
+USD_CentralBankSpeech;20091001;21:30;Fed Lockhart speech;United States;USD;1
+USD_PendingHomeSales;20091001;14:00;Pending Home Sales (MoM);United States;USD;2
+USD_ISMManufacturingPMI;20091001;14:00;ISM Manufacturing PMI;United States;USD;2
+USD_ConstructionSpending;20091001;14:00;Construction Spending (MoM);United States;USD;1
+USD_FedChairBernanketestifies;20091001;13:00;Fed Chair Bernanke testifies;United States;USD;3
+USD_PersonalConsumptionExpendituresPriceIndex;20091001;12:30;Personal Consumption Expenditures - Price Index (YoY);United States;USD;2
+USD_PersonalIncome;20091001;12:30;Personal Income (MoM);United States;USD;2
+USD_CorePersonalConsumptionExpenditurePriceIndex;20091001;12:30;Core Personal Consumption Expenditure - Price Index (MoM);United States;USD;2
+USD_JoblessClaims;20091001;12:30;Initial Jobless Claims;United States;USD;2
+EUR_EurUnemploymentRate;20091001;09:00;Unemployment Rate;European Monetary Union;EUR;2
+GBP_MarkitManufacturingPMI;20091001;08:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+EUR_EurMarkitManufacturingPMI;20091001;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_GerMarkitManufacturingPMI;20091001;07:55;Markit Manufacturing PMI;Germany;EUR;2
+CHF_SVMEPurchasingManagers'Index;20091001;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;2
+AUD_RBACommodityIndexSDR;20091001;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+EUR_GerRetailSales;20091001;06:00;Retail Sales (YoY);Germany;EUR;2
+JPY_VehicleSales;20091001;05:30;Vehicle Sales (YoY);Japan;JPY;1

@@ -1,0 +1,32 @@
+JPY_BankLending;20200113;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_CurrentAccount;20200113;23:50;Current Account n.s.a.;Japan;JPY;1
+JPY_TradeBalanceBOPBasis;20200113;23:50;Trade Balance - BOP Basis;Japan;JPY;1
+NZD_BuildingPermits;20200113;21:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+NZD_NZIERBusinessConfidence;20200113;21:00;NZIER Business Confidence (QoQ);New Zealand;NZD;2
+USD_Auction;20200113;16:30;6-Month Bill Auction;United States;USD;1
+CAD_BankofCanadaBusinessOutlookSurvey;20200113;15:30;Bank of Canada Business Outlook Survey;Canada;CAD;2
+COP_TradeBalance;20200113;15:00;Trade Balance;Colombia;COP;1
+PLN_CurrentAccount;20200113;13:00;Current Account;Poland;PLN;1
+ILS_Exports;20200113;11:00;Exports;Israel;ILS;1
+ILS_Imports;20200113;11:00;Imports;Israel;ILS;1
+ILS_TradeBalance;20200113;11:00;Trade Balance;Israel;ILS;1
+GBP_NIESRGDPEstimate;20200113;11:00;NIESR GDP Estimate (3M);United Kingdom;GBP;1
+EUR_PorConsumerPriceIndex;20200113;11:00;Consumer Price Index (YoY);Portugal;EUR;1
+EUR_GreConsumerPriceIndex;20200113;10:00;Consumer Price Index - Harmonized (YoY);Greece;EUR;1
+GBP_ManufacturingProduction;20200113;09:30;Manufacturing Production (YoY);United Kingdom;GBP;2
+GBP_IndustrialProduction;20200113;09:30;Industrial Production (MoM);United Kingdom;GBP;2
+GBP_TotalBusinessInvestment;20200113;09:30;Total Business Investment (YoY);United Kingdom;GBP;1
+GBP_IndexofServices;20200113;09:30;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20200113;09:30;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20200113;09:30;Total Trade Balance;United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20200113;09:30;Goods Trade Balance;United Kingdom;GBP;1
+GBP_GrossDomesticProduct;20200113;09:30;Gross Domestic Product (MoM);United Kingdom;GBP;2
+EUR_ItaRetailSales;20200113;09:00;Retail Sales s.a. (MoM);Italy;EUR;1
+CZK_CurrentAccount;20200113;09:00;Current Account (MoM);Czech Republic;CZK;1
+CZK_ConsumerPriceIndex;20200113;08:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+CZK_RetailSales;20200113;08:00;Retail Sales (YoY);Czech Republic;CZK;1
+EUR_GerWholesalePriceIndex;20200113;07:00;Wholesale Price Index (MoM);Germany;EUR;1
+TRY_CurrentAccount;20200113;07:00;Current Account Balance;Turkey;TRY;1
+EUR_FinGrossDomesticProduct;20200113;06:00;Gross Domestic Product (YoY);Finland;EUR;1
+EUR_FinConsumerPriceIndex;20200113;05:00;Consumer Price Index (YoY);Finland;EUR;1
+AUD_TDSecuritiesInflation;20200113;00:00;TD Securities Inflation (MoM);Australia;AUD;2

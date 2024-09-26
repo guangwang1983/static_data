@@ -1,0 +1,44 @@
+NZD_CreditCardSpending;20230622;03:00;Credit Card Spending (YoY);New Zealand;NZD;1
+CHF_SNBFinancialStabilityReport;20230622;04:30;SNB Financial Stability Report;Switzerland;CHF;2
+DKK_ConsumerConfidence;20230622;06:00;Consumer Confidence;Denmark;DKK;1
+NOK_CreditIndicator;20230622;06:00;Credit Indicator;Norway;NOK;1
+HUF_GrossWages;20230622;06:30;Gross Wages (YoY);Hungary;HUF;1
+IDR_BankIndonesiaRate;20230622;07:00;Bank Indonesia Rate;Indonesia;IDR;1
+CHF_SNBInterestRateDecision;20230622;07:30;SNB Interest Rate Decision;Switzerland;CHF;3
+CHF_SNBMonetaryPolicyAssessment;20230622;07:30;SNB Monetary Policy Assessment;Switzerland;CHF;3
+PLN_RetailSales;20230622;08:00;Retail Sales (YoY);Poland;PLN;1
+CHF_SNBPressConference;20230622;08:00;SNB Press Conference;Switzerland;CHF;3
+NOK_NorgesBankInterestRateDecision;20230622;08:00;Norges Bank Interest Rate Decision;Norway;NOK;1
+ILS_M1MoneySupply;20230622;10:00;M1 Money Supply (MoM);Israel;ILS;1
+TRY_CBRTInterestRateDecision;20230622;11:00;CBRT Interest Rate Decision;Turkey;TRY;3
+GBP_BoEAssetPurchaseFacility;20230622;11:00;BoE Asset Purchase Facility;United Kingdom;GBP;3
+GBP_BoEInterestRateDecision;20230622;11:00;BoE Interest Rate Decision;United Kingdom;GBP;3
+GBP_MonetaryPolicySummary;20230622;11:00;Monetary Policy Summary;United Kingdom;GBP;3
+GBP_BoEMPCVoteRateCut;20230622;11:00;BoE MPC Vote Rate Cut;United Kingdom;GBP;3
+GBP_BoEMPCVoteRateUnchanged;20230622;11:00;BoE MPC Vote Rate Unchanged;United Kingdom;GBP;3
+GBP_BoEMPCVoteRateHike;20230622;11:00;BoE MPC Vote Rate Hike;United Kingdom;GBP;3
+GBP_BankofEnglandMinutes;20230622;11:00;Bank of England Minutes;United Kingdom;GBP;3
+MXN_1sthalfmonthInflation;20230622;12:00;1st half-month Inflation;Mexico;MXN;1
+MXN_1sthalfmonthCoreInflation;20230622;12:00;1st half-month Core Inflation;Mexico;MXN;1
+USD_ChicagoFedNationalActivityIndex;20230622;12:30;Chicago Fed National Activity Index ;United States;USD;2
+USD_CurrentAccount;20230622;12:30;Current Account;United States;USD;1
+USD_JoblessClaims;20230622;12:30;Initial Jobless Claims;United States;USD;2
+CAD_EmploymentInsuranceBeneficiariesChange;20230622;12:30;Employment Insurance Beneficiaries Change (MoM);Canada;CAD;1
+RUB_CentralBankReserves;20230622;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_ExistingHomeSales;20230622;14:00;Existing Home Sales (MoM);United States;USD;1
+USD_ExistingHomeSalesChange;20230622;14:00;Existing Home Sales Change (MoM);United States;USD;1
+USD_FedChairPowelltestifies;20230622;14:00;Fed Chair Powell testifies;United States;USD;3
+EUR_EurConsumerConfidence;20230622;14:00;Consumer Confidence;European Monetary Union;EUR;2
+USD_EIANaturalGasStorageChange;20230622;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_EIACrudeOilStocksChange;20230622;15:00;EIA Crude Oil Stocks Change;United States;USD;1
+USD_KansasFedManufacturingActivity;20230622;15:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_Auction;20230622;17:00;5-year TIPS Auction;United States;USD;1
+MXN_CentralBankInterestRate;20230622;19:00;Central Bank Interest Rate;Mexico;MXN;1
+USD_CentralBankSpeech;20230622;20:30;Fed Barkin speech;United States;USD;2
+AUD_S&PGlobalCompositePMI;20230622;23:00;S&P Global Composite PMI;Australia;AUD;1
+AUD_S&PGlobalManufacturingPMI;20230622;23:00;S&P Global Manufacturing PMI;Australia;AUD;2
+AUD_S&PGlobalServicesPMI;20230622;23:00;S&P Global Services PMI;Australia;AUD;2
+GBP_GfKConsumerConfidence;20230622;23:01;GfK Consumer Confidence;United Kingdom;GBP;2
+JPY_ConsumerPriceIndex;20230622;23:30;National Consumer Price Index (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20230622;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_NationalCPIexFoodEnergy;20230622;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2

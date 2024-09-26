@@ -1,0 +1,41 @@
+JPY_JPForeignReserves;20190904;23:50;JP Foreign Reserves;Japan;JPY;1
+JPY_ForeignBondInvestment;20190904;23:50;Foreign Bond Investment;Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20190904;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+KRW_CurrentAccount;20190904;23:00;Current Account Balance;South Korea;KRW;1
+USD_CentralBankSpeech;20190904;19:15;Fed Evans speech;United States;USD;2
+USD_FedBeigeBook;20190904;18:00;Fed Beige Book;United States;USD;2
+CAD_BoCPressConference;20190904;15:15;BoC Press Conference;Canada;CAD;3
+CAD_BankofCanadaMonetaryPolicyReport;20190904;14:00;Bank of Canada Monetary Policy Report;Canada;CAD;3
+CAD_BoCInterestRateDecision;20190904;14:00;BoC Interest Rate Decision;Canada;CAD;3
+CAD_BoCRateStatement;20190904;14:00;BoC Rate Statement;Canada;CAD;3
+USD_ISMNYBusinessConditionsIndex;20190904;13:45;ISM-NY Business Conditions Index;United States;USD;1
+USD_MarkitPMIComposite;20190904;13:45;Markit PMI Composite;United States;USD;2
+USD_RedbookIndex;20190904;12:55;Redbook Index (YoY);United States;USD;1
+CAD_LaborProductivity;20190904;12:30;Labor Productivity (QoQ);Canada;CAD;1
+USD_TradeBalance;20190904;12:30;Trade Balance;United States;USD;2
+CAD_Exports;20190904;12:30;Exports;Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20190904;12:30;International Merchandise Trade;Canada;CAD;2
+CAD_Imports;20190904;12:30;Imports;Canada;CAD;1
+EUR_EurCentralBankSpeech;20190904;11:00;ECB Lane speech;European Monetary Union;EUR;2
+USD_MBAMortgageApplications;20190904;11:00;MBA Mortgage Applications;United States;USD;1
+EUR_GreGrossDomesticProduct;20190904;09:00;Gross Domestic Product s.a (YoY);Greece;EUR;1
+EUR_EurRetailSales;20190904;09:00;Retail Sales (MoM);European Monetary Union;EUR;1
+GBP_MarkitServicesPMI;20190904;08:30;Markit Services PMI;United Kingdom;GBP;2
+EUR_EurMarkitServicesPMI;20190904;08:00;Markit Services PMI;European Monetary Union;EUR;1
+EUR_EurMarkitPMIComposite;20190904;08:00;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_GerMarkitServicesPMI;20190904;07:55;Markit Services PMI;Germany;EUR;1
+EUR_GerMarkitPMIComposite;20190904;07:55;Markit PMI Composite;Germany;EUR;2
+EUR_FraMarkitServicesPMI;20190904;07:50;Markit Services PMI;France;EUR;1
+EUR_FraMarkitPMIComposite;20190904;07:50;Markit PMI Composite;France;EUR;1
+EUR_ItaMarkitServicesPMI;20190904;07:45;Markit Services PMI;Italy;EUR;1
+EUR_SpaMarkitServicesPMI;20190904;07:15;Markit Services PMI;Spain;EUR;1
+HUF_RetailSales;20190904;07:00;Retail Sales (YoY);Hungary;HUF;1
+RUB_PurchasingManagerIndexServices;20190904;06:00;Purchasing Manager Index Services;Russia;RUB;1
+NOK_CurrentAccount;20190904;06:00;Current Account;Norway;NOK;1
+CNY_CaixinServicesPMI;20190904;01:45;Caixin Services PMI;China;CNY;2
+AUD_GrossDomesticProduct;20190904;01:30;Gross Domestic Product (QoQ);Australia;AUD;3
+JPY_CentralBankSpeech;20190904;01:30;BoJ Kataoka speech;Japan;JPY;2
+HKD_NikkeiManufacturingPMI;20190904;00:30;Nikkei Manufacturing PMI;Hong Kong SAR;HKD;1
+JPY_MarkitServicesPMI;20190904;00:30;Markit Services PMI;Japan;JPY;1
+EUR_IrePurchasingManagerIndexServices;20190904;00:01;Purchasing Manager Index Services;Ireland;EUR;1
+NZD_ANZCommodityPrice;20190904;00:00;ANZ Commodity Price;New Zealand;NZD;1

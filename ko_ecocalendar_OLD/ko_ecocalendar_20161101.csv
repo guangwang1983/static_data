@@ -1,0 +1,62 @@
+JPY_MonetaryBase;20161101;23:50;Monetary Base (YoY);Japan;JPY;1
+NZD_EmploymentChange;20161101;21:45;Employment Change;New Zealand;NZD;2
+NZD_ParticipationRate;20161101;21:45;Participation Rate;New Zealand;NZD;2
+NZD_UnemploymentRate;20161101;21:45;Unemployment Rate;New Zealand;NZD;2
+NZD_LabourCostIndex;20161101;21:45;Labour Cost Index (YoY);New Zealand;NZD;1
+USD_APIWeeklyCrudeOilStock;20161101;20:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_TotalVehicleSales;20161101;19:30;Total Vehicle Sales;United States;USD;1
+ARS_TaxRevenue;20161101;19:00;Tax Revenue (MoM);Argentina;ARS;1
+BRL_TradeBalance;20161101;17:00;Trade Balance;Brazil;BRL;1
+CAD_CentralBankSpeech;20161101;16:00;BoC Governor Poloz speech;Canada;CAD;3
+USD_Auction;20161101;15:30;4-Week Bill Auction;United States;USD;1
+EUR_GerGermanBubaMonthlyReport;20161101;15:00;German Buba Monthly Report;Germany;EUR;1
+NZD_GDTPriceIndex;20161101;14:45;GDT Price Index;New Zealand;NZD;1
+USD_IBDTIPPEconomicOptimism;20161101;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+USD_ISMManufacturingPMI;20161101;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMPricesPaid;20161101;14:00;ISM Prices Paid;United States;USD;3
+USD_ConstructionSpending;20161101;14:00;Construction Spending (MoM);United States;USD;2
+USD_MarkitManufacturingPMI;20161101;13:45;Markit Manufacturing PMI;United States;USD;2
+CAD_MarkitManufacturingPMI;20161101;13:30;Markit Manufacturing PMI;Canada;CAD;2
+CZK_BudgetBalance;20161101;13:00;Budget Balance;Czech Republic;CZK;1
+USD_RedbookIndex;20161101;12:55;Redbook Index (MoM);United States;USD;1
+CAD_GrossDomesticProduct;20161101;12:30;Gross Domestic Product (MoM);Canada;CAD;2
+BRL_HSBCPMIManufacturing;20161101;12:00;HSBC PMI Manufacturing;Brazil;BRL;1
+BRL_IndustrialOutput;20161101;11:00;Industrial Output (YoY);Brazil;BRL;1
+GBP_MarkitManufacturingPMI;20161101;09:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+EUR_EurEuropeanCommissionreleasesEconomicGrowthForecasts;20161101;09:30;European Commission releases Economic Growth Forecasts;European Monetary Union;EUR;2
+TRY_Exports;20161101;09:00;Exports;Turkey;TRY;1
+EUR_GreMarkitManufacturingPMI;20161101;09:00;Markit Manufacturing PMI;Greece;EUR;1
+CHF_SVMEPurchasingManagers'Index;20161101;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_MarkitPMI;20161101;08:30;Markit PMI;Czech Republic;CZK;1
+CHF_RetailSales;20161101;08:15;Real Retail Sales (YoY);Switzerland;CHF;2
+SEK_PurchasingManagersIndexManufacturing;20161101;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;2
+PEN_Inflation;20161101;06:00;Inflation;Peru;PEN;1
+EUR_IrePurchasingManagerIndexManufacturing;20161101;06:00;Purchasing Manager Index Manufacturing;Ireland;EUR;1
+AUD_RBACommodityIndexSDR;20161101;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+JPY_VehicleSales;20161101;05:00;Vehicle Sales (YoY);Japan;JPY;1
+JPY_BoJOutlookReport;20161101;05:00;BoJ Outlook Report;Japan;JPY;2
+IDR_Inflation;20161101;04:00;Inflation (YoY);Indonesia;IDR;1
+IDR_CoreInflation;20161101;04:00;Core Inflation (YoY);Indonesia;IDR;1
+AUD_RBARateStatement;20161101;03:30;RBA Rate Statement;Australia;AUD;3
+AUD_RBAInterestRateDecision;20161101;03:30;RBA Interest Rate Decision;Australia;AUD;3
+JPY_BoJPressConference;20161101;03:00;BoJ Press Conference;Japan;JPY;3
+JPY_BoJInterestRateDecision;20161101;03:00;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_BoJMonetaryPolicyStatement;20161101;03:00;BoJ Monetary Policy Statement ;Japan;JPY;3
+CNY_CaixinManufacturingPMI;20161101;01:45;Caixin Manufacturing PMI;China;CNY;2
+CNY_NBSManufacturingPMI;20161101;01:00;NBS Manufacturing PMI;China;CNY;2
+CNY_NonManufacturingPMI;20161101;01:00;Non-Manufacturing PMI;China;CNY;2
+KRW_NikkeiMarkitManufacturingPMI;20161101;00:30;Nikkei Markit Manufacturing PMI;South Korea;KRW;1
+JPY_NikkeiManufacturingPMI;20161101;00:30;Nikkei Manufacturing PMI;Japan;JPY;1
+HUF_AllSaintsDay;20161101;00:00;All Saints Day ;Hungary;HUF;0
+EUR_AusAllSaints'Day;20161101;00:00;All Saints' Day ;Austria;EUR;0
+EUR_SpaAllSaints'Day;20161101;00:00;All Saints' Day;Spain;EUR;0
+PLN_AllSaintsDay;20161101;00:00;All Saints Day ;Poland;PLN;0
+EUR_ItaAllSaintsDay;20161101;00:00;All Saints Day;Italy;EUR;0
+RUB_HSBCManufacturingPMI;20161101;00:00;HSBC Manufacturing PMI	;Russia;RUB;1
+EUR_BelAllSaintsDay;20161101;00:00;All Saints Day ;Belgium;EUR;0
+SEK_AllSaintsDay;20161101;00:00;All Saints Day;Sweden;SEK;0
+KRW_TradeBalance;20161101;00:00;Trade Balance;South Korea;KRW;1
+CLP_AllSaintsDay;20161101;00:00;All Saints Day;Chile;CLP;0
+EUR_SloAllSaintsDay;20161101;00:00;All Saints Day;Slovakia;EUR;0
+BRL_AllSaintsDay;20161101;00:00;All Saints Day;Brazil;BRL;0
+EUR_FraAllSaintsDay;20161101;00:00;All Saints Day;France;EUR;0

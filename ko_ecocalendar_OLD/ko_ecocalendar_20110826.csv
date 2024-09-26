@@ -1,0 +1,18 @@
+MXN_CentralBankInterestRate;20110826;14:00;Central Bank Interest Rate;Mexico;MXN;1
+USD_CentralBankSpeech;20110826;14:00;Former Fed Chair Bernanke speech;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20110826;13:55;Michigan Consumer Sentiment Index;United States;USD;2
+BRL_NominalBudgetBalance;20110826;13:30;Nominal Budget Balance;Brazil;BRL;1
+BRL_PrimaryBudgetSurplus;20110826;13:30;Primary Budget Surplus;Brazil;BRL;1
+USD_GrossDomesticProduct;20110826;12:30;Gross Domestic Product Annualized;United States;USD;2
+USD_CorePersonalConsumptionExpenditures;20110826;12:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+INR_FXReservesUSD;20110826;11:30;FX Reserves, USD;India;INR;1
+INR_BankLoanGrowth;20110826;10:30;Bank Loan Growth;India;INR;1
+CHF_KOFLeadingIndicator;20110826;09:30;KOF Leading Indicator;Switzerland;CHF;2
+EUR_FraIndividualInvestment;20110826;08:45;Individual Investment (Current Year);France;EUR;1
+GBP_GrossDomesticProduct;20110826;08:30;Gross Domestic Product (YoY);United Kingdom;GBP;2
+GBP_IndexofServices;20110826;08:30;Index of Services (3M/3M);United Kingdom;GBP;1
+TRY_ForeignArrivals;20110826;08:00;Foreign Arrivals;Turkey;TRY;1
+EUR_EurM3MoneySupply;20110826;08:00;M3 Money Supply (YoY);European Monetary Union;EUR;1
+SEK_TradeBalance;20110826;07:30;Trade Balance (MoM);Sweden;SEK;1
+TRY_TradeBalance;20110826;07:00;Trade Balance;Turkey;TRY;1
+EUR_SpaGrossDomesticProduct;20110826;07:00;Gross Domestic Product (QoQ);Spain;EUR;1

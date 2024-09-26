@@ -1,0 +1,56 @@
+JPY_MonetaryBase;20190701;23:50;Monetary Base (YoY);Japan;JPY;1
+KRW_ConsumerPriceIndex;20190701;23:00;Consumer Price Index Growth (YoY);South Korea;KRW;1
+NZD_BuildingPermits;20190701;22:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+NZD_NZIERBusinessConfidence;20190701;22:00;NZIER Business Confidence (QoQ);New Zealand;NZD;2
+ARS_TaxRevenue;20190701;20:00;Tax Revenue (MoM);Argentina;ARS;1
+BRL_TradeBalance;20190701;19:00;Trade Balance;Brazil;BRL;1
+USD_Auction;20190701;15:30;3-Month Bill Auction;United States;USD;1
+USD_ISMPricesPaid;20190701;14:00;ISM Prices Paid;United States;USD;2
+USD_ISMManufacturingPMI;20190701;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ConstructionSpending;20190701;14:00;Construction Spending (MoM);United States;USD;1
+USD_MarkitManufacturingPMI;20190701;13:45;Markit Manufacturing PMI;United States;USD;2
+BRL_HSBCPMIManufacturing;20190701;13:00;HSBC PMI Manufacturing;Brazil;BRL;1
+ZAR_TotalNewVehicleSales;20190701;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+CZK_BudgetBalance;20190701;12:00;Budget Balance;Czech Republic;CZK;1
+EUR_EurCentralBankSpeech;20190701;10:15;ECB Lane speech;European Monetary Union;EUR;2
+ZAR_BusinessConfidenceIndex;20190701;09:30;Business Confidence Index;South Africa;ZAR;1
+EUR_EurUnemploymentRate;20190701;09:00;Unemployment Rate;European Monetary Union;EUR;2
+GBP_MarkitManufacturingPMI;20190701;08:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+GBP_ConsumerCredit;20190701;08:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20190701;08:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_M4MoneySupply;20190701;08:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+TRY_Exports;20190701;08:00;Exports;Turkey;TRY;1
+EUR_ItaUnemployment;20190701;08:00;Unemployment;Italy;EUR;1
+EUR_GreMarkitManufacturingPMI;20190701;08:00;Markit Manufacturing PMI;Greece;EUR;1
+EUR_EurPrivateLoans;20190701;08:00;Private Loans (YoY);European Monetary Union;EUR;1
+EUR_EurM3MoneySupply;20190701;08:00;M3 Money Supply (3m);European Monetary Union;EUR;1
+EUR_EurMarkitManufacturingPMI;20190701;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;1
+EUR_GerUnemploymentChange;20190701;07:55;Unemployment Change;Germany;EUR;2
+EUR_GerUnemploymentRate;20190701;07:55;Unemployment Rate s.a.;Germany;EUR;2
+EUR_GerMarkitManufacturingPMI;20190701;07:55;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20190701;07:50;Markit Manufacturing PMI;France;EUR;1
+EUR_ItaMarkitManufacturingPMI;20190701;07:45;Markit Manufacturing PMI;Italy;EUR;1
+EUR_AusUnemploymentRate;20190701;07:30;Unemployment Rate;Austria;EUR;1
+EUR_AusUnemployment;20190701;07:30;Unemployment;Austria;EUR;1
+CZK_MarkitPMI;20190701;07:30;Markit PMI;Czech Republic;CZK;1
+EUR_SpaMarkitManufacturingPMI;20190701;07:15;Markit Manufacturing PMI;Spain;EUR;1
+HUF_PurchasingManagerIndex;20190701;07:00;Purchasing Manager Index;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20190701;07:00;Purchasing Manager Index;Poland;PLN;1
+CHF_RetailSales;20190701;06:30;Real Retail Sales (YoY);Switzerland;CHF;2
+AUD_RBACommodityIndexSDR;20190701;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+SEK_PurchasingManagersIndexManufacturing;20190701;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;2
+RUB_HSBCManufacturingPMI;20190701;06:00;HSBC Manufacturing PMI	;Russia;RUB;1
+JPY_ConsumerConfidenceIndex;20190701;05:00;Consumer Confidence Index;Japan;JPY;1
+IDR_Inflation;20190701;04:00;Inflation (MoM);Indonesia;IDR;1
+IDR_CoreInflation;20190701;04:00;Core Inflation (YoY);Indonesia;IDR;1
+CNY_CaixinManufacturingPMI;20190701;01:45;Caixin Manufacturing PMI;China;CNY;3
+AUD_TDSecuritiesInflation;20190701;01:00;TD Securities Inflation (MoM);Australia;AUD;1
+KRW_NikkeiMarkitManufacturingPMI;20190701;00:30;Nikkei Markit Manufacturing PMI;South Korea;KRW;1
+JPY_NikkeiManufacturingPMI;20190701;00:30;Nikkei Manufacturing PMI;Japan;JPY;1
+EUR_IrePurchasingManagerIndexManufacturing;20190701;00:01;Purchasing Manager Index Manufacturing;Ireland;EUR;1
+COP_SaintPeterandSaintPaul;20190701;00:00;Saint Peter and Saint Paul;Colombia;COP;0
+USD_OPECMeeting;20190701;00:00;OPEC Meeting;United States;USD;2
+KRW_TradeBalance;20190701;00:00;Trade Balance;South Korea;KRW;1
+COP_SacredHeart;20190701;00:00;Sacred Heart;Colombia;COP;0
+HKD_HongKongSpecialAdministrativeRegionEstablishmentDay;20190701;00:00;Hong Kong Special Administrative Region Establishment Day;Hong Kong SAR;HKD;0
+CAD_CanadaDay;20190701;00:00;Canada Day;Canada;CAD;0

@@ -1,0 +1,29 @@
+JPY_JibunBankManufacturingPMI;20240104;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+CNY_CaixinServicesPMI;20240104;01:45;Caixin Services PMI;China;CNY;3
+HUF_TradeBalance;20240104;07:30;Trade Balance;Hungary;HUF;1
+EUR_FraConsumerPriceIndex;20240104;07:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_ItaHCOBServicesPMI;20240104;08:45;HCOB Services PMI;Italy;EUR;1
+EUR_FraHCOBServicesPMI;20240104;08:50;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20240104;08:50;HCOB Composite PMI;France;EUR;1
+EUR_GerHCOBCompositePMI;20240104;08:55;HCOB Composite PMI;Germany;EUR;2
+EUR_GerHCOBServicesPMI;20240104;08:55;HCOB Services PMI;Germany;EUR;2
+EUR_EurHCOBCompositePMI;20240104;09:00;HCOB Composite PMI;Eurozone;EUR;2
+EUR_EurHCOBServicesPMI;20240104;09:00;HCOB Services PMI;Eurozone;EUR;1
+GBP_NetLendingtoIndividuals;20240104;09:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20240104;09:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20240104;09:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_S&PGlobalCIPSServicesPMI;20240104;09:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;1
+GBP_S&PGlobalCIPSCompositePMI;20240104;09:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;1
+GBP_M4MoneySupply;20240104;09:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+USD_ChallengerJobCuts;20240104;12:30;Challenger Job Cuts;United States;USD;2
+EUR_GerHarmonizedIndexofConsumerPrices;20240104;13:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+EUR_GerConsumerPriceIndex;20240104;13:00;Consumer Price Index (MoM);Germany;EUR;3
+RUB_CentralBankReserves;20240104;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_ADPEmploymentChange;20240104;13:15;ADP Employment Change;United States;USD;3
+USD_JoblessClaims;20240104;13:30;Continuing Jobless Claims;United States;USD;1
+USD_S&PGlobalServicesPMI;20240104;14:45;S&P Global Services PMI;United States;USD;1
+USD_S&PGlobalCompositePMI;20240104;14:45;S&P Global Composite PMI;United States;USD;2
+USD_EIANaturalGasStorageChange;20240104;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_EIACrudeOilStocksChange;20240104;16:00;EIA Crude Oil Stocks Change;United States;USD;1
+USD_Auction;20240104;16:30;4-Week Bill Auction;United States;USD;1
+JPY_MonetaryBase;20240104;23:50;Monetary Base (YoY);Japan;JPY;1

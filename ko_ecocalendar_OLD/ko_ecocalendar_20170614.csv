@@ -1,0 +1,39 @@
+JPY_ForeignBondInvestment;20170614;23:50;Foreign Bond Investment;Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20170614;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+NZD_GrossDomesticProduct;20170614;22:45;Gross Domestic Product (QoQ);New Zealand;NZD;2
+ARS_UnemploymentRate;20170614;19:00;Unemployment Rate (QoQ)	;Argentina;ARS;1
+USD_FOMCPressConference;20170614;18:30;FOMC Press Conference;United States;USD;3
+USD_FOMCEconomicProjections;20170614;18:00;FOMC Economic Projections;United States;USD;3
+USD_FedMonetaryPolicyStatement;20170614;18:00;Fed Monetary Policy Statement;United States;USD;3
+USD_FedInterestRateDecision;20170614;18:00;Fed Interest Rate Decision;United States;USD;3
+USD_EIACrudeOilStocksChange;20170614;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_BusinessInventories;20170614;14:00;Business Inventories;United States;USD;1
+USD_RetailSales;20170614;12:30;Retail Sales Control Group;United States;USD;2
+USD_ConsumerPriceIndex;20170614;12:30;Consumer Price Index n.s.a (MoM);United States;USD;1
+PLN_M3MoneySupply;20170614;12:30;M3 Money Supply (YoY);Poland;PLN;1
+USD_MBAMortgageApplications;20170614;11:00;MBA Mortgage Applications;United States;USD;1
+ZAR_RetailSales;20170614;11:00;Retail Sales (YoY);South Africa;ZAR;1
+EUR_GerAuction;20170614;09:30;10-y Bond Auction;Germany;EUR;2
+EUR_EurIndustrialProduction;20170614;09:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;2
+EUR_EurEmploymentChange;20170614;09:00;Employment Change (QoQ);European Monetary Union;EUR;1
+GBP_AverageEarningsExcludingBonus;20170614;08:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_AverageEarningsIncludingBonus;20170614;08:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountChange;20170614;08:30;Claimant Count Change;United Kingdom;GBP;2
+GBP_ClaimantCountRate;20170614;08:30;Claimant Count Rate;United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20170614;08:30;ILO Unemployment Rate (3M);United Kingdom;GBP;2
+ISK_CBIInterestRateDecision;20170614;07:55;CBI Interest Rate Decision;Iceland;ISK;1
+EUR_SloHeadlineInflation;20170614;07:00;Headline Inflation (MoM);Slovakia;EUR;1
+EUR_SloCoreInflation;20170614;07:00;Core Inflation (YoY);Slovakia;EUR;1
+INR_WPIInflation;20170614;06:30;WPI Inflation;India;INR;1
+RON_IndustrialProduction;20170614;06:00;Industrial Production (MoM);Romania;RON;2
+EUR_GerConsumerPriceIndex;20170614;06:00;Consumer Price Index (MoM);Germany;EUR;2
+EUR_GerHarmonizedIndexofConsumerPrices;20170614;06:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;2
+EUR_FinConsumerPriceIndex;20170614;06:00;Consumer Price Index (YoY);Finland;EUR;0
+JPY_IndustrialProduction;20170614;04:30;Industrial Production (MoM);Japan;JPY;1
+JPY_CapacityUtilization;20170614;04:30;Capacity Utilization;Japan;JPY;1
+CNY_M2MoneySupply;20170614;02:00;M2 Money Supply (YoY);China;CNY;1
+CNY_RetailSales;20170614;02:00;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20170614;02:00;Industrial Production (YoY);China;CNY;2
+CNY_FixedAssetInvestment;20170614;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+CNY_NewLoans;20170614;02:00;New Loans;China;CNY;1
+AUD_WestpacConsumerConfidence;20170614;00:30;Westpac Consumer Confidence;Australia;AUD;2

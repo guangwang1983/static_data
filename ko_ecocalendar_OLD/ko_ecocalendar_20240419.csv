@@ -1,0 +1,18 @@
+USD_IMFMeeting;20240419;00:00;IMF Meeting;United States;USD;2
+EUR_GerProducerPriceIndex;20240419;06:00;Producer Price Index (YoY);Germany;EUR;2
+GBP_RetailSales;20240419;06:00;Retail Sales ex-Fuel (YoY);United Kingdom;GBP;2
+ILS_M1MoneySupply;20240419;11:00;M1 Money Supply (YoY);Israel;ILS;1
+INR_BankLoanGrowth;20240419;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20240419;11:30;FX Reserves, USD;India;INR;1
+MXN_RetailSales;20240419;12:00;Retail Sales (YoY);Mexico;MXN;1
+GBP_CentralBankSpeech;20240419;14:15;BoE Ramsden speech;United Kingdom;GBP;2
+USD_CentralBankSpeech;20240419;14:30;Fed Goolsbee speech;United States;USD;2
+COP_TradeBalance;20240419;15:00;Trade Balance;Colombia;COP;1
+USD_BakerHughesUSOilRigCount;20240419;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CFTCGoldNCNetPositions;20240419;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20240419;19:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20240419;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20240419;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20240419;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20240419;19:30;CFTC EUR NC Net Positions;Eurozone;EUR;1
+AUD_CFTCAUDNCNetPositions;20240419;19:30;CFTC AUD NC Net Positions;Australia;AUD;1

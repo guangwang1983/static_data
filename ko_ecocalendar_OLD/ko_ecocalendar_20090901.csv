@@ -1,0 +1,20 @@
+JPY_MonetaryBase;20090901;23:50;Monetary Base (YoY);Japan;JPY;1
+USD_PendingHomeSales;20090901;14:00;Pending Home Sales (MoM);United States;USD;2
+USD_ISMManufacturingPMI;20090901;14:00;ISM Manufacturing PMI;United States;USD;2
+USD_ConstructionSpending;20090901;14:00;Construction Spending (MoM);United States;USD;1
+EUR_EurUnemploymentRate;20090901;09:00;Unemployment Rate;European Monetary Union;EUR;2
+AUD_RBACommodityIndexSDR;20090901;08:43;RBA Commodity Index SDR (YoY);Australia;AUD;1
+GBP_NetLendingtoIndividuals;20090901;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_MarkitManufacturingPMI;20090901;08:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+GBP_MortgageApprovals;20090901;08:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_M4MoneySupply;20090901;08:30;M4 Money Supply (MoM);United Kingdom;GBP;1
+JPY_VehicleSales;20090901;08:03;Vehicle Sales (YoY);Japan;JPY;0
+EUR_EurMarkitManufacturingPMI;20090901;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;1
+EUR_GerUnemploymentRate;20090901;07:55;Unemployment Rate s.a.;Germany;EUR;1
+EUR_GerUnemploymentChange;20090901;07:55;Unemployment Change;Germany;EUR;1
+EUR_GerMarkitManufacturingPMI;20090901;07:55;Markit Manufacturing PMI;Germany;EUR;1
+CHF_SVMEPurchasingManagers'Index;20090901;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;2
+EUR_GerRetailSales;20090901;06:00;Retail Sales (YoY);Germany;EUR;1
+CHF_GrossDomesticProduct;20090901;05:45;Gross Domestic Product s.a. (QoQ);Switzerland;CHF;1
+AUD_RBAInterestRateDecision;20090901;04:30;RBA Interest Rate Decision;Australia;AUD;3
+AUD_BuildingPermits;20090901;01:30;Building Permits (YoY);Australia;AUD;1

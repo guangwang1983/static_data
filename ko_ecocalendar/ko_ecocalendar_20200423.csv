@@ -1,0 +1,47 @@
+EUR_EurEuropeanCouncilMeeting;20200423;00:00;European Council Meeting;European Monetary Union;EUR;3
+JPY_JibunBankManufacturingPMI;20200423;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+AUD_Imports;20200423;01:30;Imports (MoM);Australia;AUD;2
+AUD_Exports;20200423;01:30;Exports (MoM);Australia;AUD;2
+NZD_CreditCardSpending;20200423;03:00;Credit Card Spending (YoY);New Zealand;NZD;1
+JPY_LeadingEconomicIndex;20200423;05:00;Leading Economic Index;Japan;JPY;2
+JPY_CoincidentIndex;20200423;05:00;Coincident Index;Japan;JPY;1
+EUR_FraBusinessClimateinManufacturing;20200423;05:30;Business Climate in Manufacturing;France;EUR;1
+EUR_GerGfkConsumerConfidenceSurvey;20200423;06:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+NOK_LabourForceSurvey;20200423;06:00;Labour Force Survey;Norway;NOK;1
+GBP_PublicSectorNetBorrowing;20200423;06:00;Public Sector Net Borrowing;United Kingdom;GBP;2
+SEK_ConsumerConfidence;20200423;07:00;Consumer Confidence (MoM);Sweden;SEK;1
+EUR_FraHCOBServicesPMI;20200423;07:15;HCOB Services PMI;France;EUR;2
+EUR_FraHCOBCompositePMI;20200423;07:15;HCOB Composite PMI;France;EUR;2
+EUR_FraHCOBManufacturingPMI;20200423;07:15;HCOB Manufacturing PMI;France;EUR;2
+EUR_GerHCOBCompositePMI;20200423;07:30;HCOB Composite PMI;Germany;EUR;3
+EUR_GerHCOBManufacturingPMI;20200423;07:30;HCOB Manufacturing PMI;Germany;EUR;3
+EUR_GerHCOBServicesPMI;20200423;07:30;HCOB Services PMI;Germany;EUR;2
+EUR_ItaTradeBalancenonEU;20200423;08:00;Trade Balance non-EU;Italy;EUR;1
+EUR_EurHCOBCompositePMI;20200423;08:00;HCOB Composite PMI;European Monetary Union;EUR;3
+EUR_EurHCOBServicesPMI;20200423;08:00;HCOB Services PMI;European Monetary Union;EUR;2
+EUR_EurHCOBManufacturingPMI;20200423;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+INR_M3MoneySupply;20200423;08:25;M3 Money Supply;India;INR;1
+GBP_S&PGlobalCIPSManufacturingPMI;20200423;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSServicesPMI;20200423;08:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;3
+GBP_S&PGlobalCIPSCompositePMI;20200423;08:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;2
+GBP_CBIIndustrialTrendsSurvey–Orders;20200423;10:00;CBI Industrial Trends Survey – Orders (MoM);United Kingdom;GBP;1
+MXN_RetailSales;20200423;11:00;Retail Sales (MoM);Mexico;MXN;1
+MXN_1sthalfmonthCoreInflation;20200423;11:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20200423;11:00;1st half-month Inflation;Mexico;MXN;1
+USD_JoblessClaims;20200423;12:30;Continuing Jobless Claims;United States;USD;1
+RUB_CentralBankReserves;20200423;13:00;Central Bank Reserves $;Russia;RUB;1
+RUB_ProducerPriceIndex;20200423;13:00;Producer Price Index (MoM);Russia;RUB;1
+PLN_M3MoneySupply;20200423;13:00;M3 Money Supply (YoY);Poland;PLN;1
+USD_S&PGlobalManufacturingPMI;20200423;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20200423;13:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20200423;13:45;S&P Global Services PMI;United States;USD;2
+USD_NewHomeSales;20200423;14:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20200423;14:00;New Home Sales Change (MoM);United States;USD;1
+USD_EIANaturalGasStorageChange;20200423;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_KansasFedManufacturingActivity;20200423;15:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_Auction;20200423;15:30;4-Week Bill Auction;United States;USD;1
+GBP_GfKConsumerConfidence;20200423;23:01;GfK Consumer Confidence;United Kingdom;GBP;2
+JPY_NationalCPIexFoodEnergy;20200423;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20200423;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20200423;23:30;National Consumer Price Index (YoY);Japan;JPY;2
+JPY_CorporateServicePriceIndex;20200423;23:50;Corporate Service Price Index (YoY);Japan;JPY;1

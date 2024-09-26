@@ -1,0 +1,47 @@
+EUR_EurCFTCEURNCNetPositions;20210709;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20210709;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCS&P500NCNetPositions;20210709;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20210709;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+GBP_CFTCGBPNCNetPositions;20210709;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20210709;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20210709;19:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_BakerHughesUSOilRigCount;20210709;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_FedMonetaryPolicyReport;20210709;16:00;Fed Monetary Policy Report;United States;USD;2
+USD_WholesaleInventories;20210709;14:00;Wholesale Inventories;United States;USD;1
+CAD_UnemploymentRate;20210709;12:30;Unemployment Rate;Canada;CAD;3
+CAD_NetChangeinEmployment;20210709;12:30;Net Change in Employment;Canada;CAD;3
+CAD_AverageHourlyWages;20210709;12:30;Average Hourly Wages (YoY);Canada;CAD;2
+CAD_ParticipationRate;20210709;12:30;Participation Rate;Canada;CAD;2
+INR_FXReservesUSD;20210709;11:30;FX Reserves, USD;India;INR;1
+EUR_EurCentralBankSpeech;20210709;10:00;ECB President Lagarde speech;European Monetary Union;EUR;3
+ILS_M1MoneySupply;20210709;10:00;M1 Money Supply (MoM);Israel;ILS;1
+EUR_PorGlobalTradeBalance;20210709;10:00;Global Trade Balance;Portugal;EUR;1
+EUR_GreIndustrialProduction;20210709;09:00;Industrial Production (YoY);Greece;EUR;1
+EUR_GreConsumerPriceIndex;20210709;09:00;Consumer Price Index - Harmonized (YoY);Greece;EUR;1
+HUF_BudgetBalance;20210709;09:00;Budget Balance;Hungary;HUF;1
+GBP_NIESRGDPEstimate;20210709;08:00;NIESR GDP Estimate (3M);United Kingdom;GBP;2
+EUR_ItaIndustrialOutput;20210709;08:00;Industrial Output s.a. (MoM);Italy;EUR;1
+CZK_FXReserves;20210709;08:00;FX Reserves;Czech Republic;CZK;1
+EUR_SloForeignTradeBalance;20210709;07:00;Foreign Trade Balance;Slovakia;EUR;1
+EUR_SloIndustrialOutput;20210709;07:00;Industrial Output (YoY);Slovakia;EUR;1
+EUR_AusIndustrialProduction;20210709;07:00;Industrial Production (YoY);Austria;EUR;1
+TRY_CurrentAccount;20210709;07:00;Current Account Balance;Turkey;TRY;1
+HUF_TradeBalance;20210709;07:00;Trade Balance;Hungary;HUF;1
+NOK_ConsumerPriceIndex;20210709;06:00;Consumer Price Index (YoY);Norway;NOK;1
+NOK_CoreInflation;20210709;06:00;Core Inflation (MoM);Norway;NOK;1
+GBP_ManufacturingProduction;20210709;06:00;Manufacturing Production (YoY);United Kingdom;GBP;2
+GBP_IndustrialProduction;20210709;06:00;Industrial Production (YoY);United Kingdom;GBP;1
+DKK_TradeBalance;20210709;06:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20210709;06:00;Current Account;Denmark;DKK;1
+GBP_IndexofServices;20210709;06:00;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20210709;06:00;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20210709;06:00;Total Trade Balance;United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20210709;06:00;Goods Trade Balance;United Kingdom;GBP;1
+GBP_GrossDomesticProduct;20210709;06:00;Gross Domestic Product (MoM);United Kingdom;GBP;2
+NOK_ProducerPriceIndex;20210709;06:00;Producer Price Index (YoY);Norway;NOK;1
+EUR_FinIndustrialOutput;20210709;05:00;Industrial Output (MoM);Finland;EUR;1
+EUR_NetManufacturingOutput;20210709;04:30;Manufacturing Output (MoM);Netherlands, The;EUR;1
+IDR_RetailSales;20210709;04:00;Retail Sales (YoY);Indonesia;IDR;1
+ARS_IndependenceDay;20210709;03:00;Independence Day;Argentina;ARS;0
+CNY_ProducerPriceIndex;20210709;01:30;Producer Price Index (YoY);China;CNY;2
+CNY_ConsumerPriceIndex;20210709;01:30;Consumer Price Index (MoM);China;CNY;2

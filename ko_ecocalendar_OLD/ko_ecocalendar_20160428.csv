@@ -1,0 +1,57 @@
+GBP_GfKConsumerConfidence;20160428;23:05;GfK Consumer Confidence;United Kingdom;GBP;2
+KRW_IndustrialOutputGrowth;20160428;23:00;Industrial Output Growth;South Korea;KRW;1
+KRW_IndustrialOutput;20160428;23:00;Industrial Output (YoY);South Korea;KRW;1
+KRW_ServiceSectorOutput;20160428;23:00;Service Sector Output;South Korea;KRW;1
+NZD_BuildingPermits;20160428;22:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+KRW_BOKManufacturingBSI;20160428;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+USD_Auction;20160428;17:00;7-Year Note Auction;United States;USD;1
+USD_KansasFedManufacturingActivity;20160428;15:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_EIANaturalGasStorageChange;20160428;14:30;EIA Natural Gas Storage Change;United States;USD;1
+RUB_CentralBankReserves;20160428;13:02;Central Bank Reserves $;Russia;RUB;1
+USD_JoblessClaims;20160428;12:30;Initial Jobless Claims;United States;USD;2
+USD_GrossDomesticProduct;20160428;12:30;Gross Domestic Product Annualized;United States;USD;2
+USD_CorePersonalConsumptionExpenditures;20160428;12:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+USD_PersonalConsumptionExpendituresPrices;20160428;12:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+BRL_InflationIndexIGPM;20160428;12:00;Inflation Index/IGP-M;Brazil;BRL;1
+EUR_GerConsumerPriceIndex;20160428;12:00;Consumer Price Index (MoM);Germany;EUR;2
+EUR_GerHarmonizedIndexofConsumerPrices;20160428;12:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;2
+RUB_GrossDomesticProduct;20160428;12:00;Gross Domestic Product Monthly (YoY);Russia;RUB;1
+EUR_ItaAuction;20160428;10:50;10-y Bond Auction;Italy;EUR;1
+EUR_IreRetailSales;20160428;10:00;Retail Sales (MoM);Ireland;EUR;1
+EUR_PorConsumerConfidence;20160428;09:31;Consumer Confidence;Portugal;EUR;1
+EUR_PorBusinessConfidence;20160428;09:31;Business Confidence;Portugal;EUR;1
+ZAR_ProducerPriceIndex;20160428;09:30;Producer Price Index (YoY);South Africa;ZAR;1
+EUR_BelConsumerPriceIndex;20160428;09:30;Consumer Price Index (YoY);Belgium;EUR;1
+ISK_ConsumerPriceIndex;20160428;09:00;Consumer Price Index (YoY);Iceland;ISK;1
+EUR_EurBusinessClimate;20160428;09:00;Business Climate;European Monetary Union;EUR;2
+EUR_EurConsumerConfidence;20160428;09:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurEconomicSentimentIndicator;20160428;09:00;Economic Sentiment Indicator;European Monetary Union;EUR;2
+EUR_EurIndustrialConfidence;20160428;09:00;Industrial Confidence;European Monetary Union;EUR;2
+EUR_EurServicesSentiment;20160428;09:00;Services Sentiment;European Monetary Union;EUR;2
+EUR_GreRetailSales;20160428;09:00;Retail Sales (YoY);Greece;EUR;1
+EUR_GreProducerPriceIndex;20160428;09:00;Producer Price Index (YoY);Greece;EUR;1
+TRY_ForeignArrivals;20160428;08:00;Foreign Arrivals;Turkey;TRY;1
+EUR_ItaWageInflation;20160428;08:00;Wage Inflation (MoM);Italy;EUR;1
+EUR_AusPurchasingManagerIndex;20160428;08:00;Purchasing Manager Index;Austria;EUR;1
+NOK_LabourForceSurvey;20160428;08:00;Labour Force Survey;Norway;NOK;1
+NOK_RetailSales;20160428;08:00;Retail Sales ;Norway;NOK;1
+EUR_GerUnemploymentChange;20160428;07:55;Unemployment Change;Germany;EUR;2
+EUR_GerUnemploymentRate;20160428;07:55;Unemployment Rate s.a.;Germany;EUR;2
+SEK_RetailSales;20160428;07:30;Retail Sales (YoY);Sweden;SEK;1
+EUR_SpaHICP;20160428;07:00;HICP (YoY);Spain;EUR;1
+DKK_IndustrialOutlook;20160428;07:00;Industrial Outlook;Denmark;DKK;1
+HUF_UnemploymentRate;20160428;07:00;Unemployment Rate (3M);Hungary;HUF;1
+EUR_SpaUnemploymentSurvey;20160428;07:00;Unemployment Survey;Spain;EUR;1
+TRY_Economicconfidenceindex;20160428;07:00;Economic confidence index;Turkey;TRY;1
+GBP_NationwideHousingPrices;20160428;06:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;1
+JPY_BoJPressConference;20160428;05:30;BoJ Press Conference;Japan;JPY;3
+JPY_AnnualizedHousingStarts;20160428;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_HousingStarts;20160428;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_ConstructionOrders;20160428;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_VehicleProduction;20160428;04:00;Vehicle Production (YoY);Japan;JPY;1
+JPY_BoJMonetaryPolicyStatement;20160428;03:00;BoJ Monetary Policy Statement ;Japan;JPY;3
+JPY_BoJInterestRateDecision;20160428;03:00;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_BoJOutlookReport;20160428;03:00;BoJ Outlook Report;Japan;JPY;2
+SGD_Unemploymentrate;20160428;02:30;Unemployment rate;Singapore;SGD;1
+AUD_ExportPriceIndex;20160428;01:30;Export Price Index (QoQ);Australia;AUD;1
+AUD_ImportPriceIndex;20160428;01:30;Import Price Index (QoQ);Australia;AUD;1

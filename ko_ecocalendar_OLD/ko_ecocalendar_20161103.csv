@@ -1,0 +1,47 @@
+JPY_ForeignInvestmentinJapanStocks;20161103;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20161103;23:50;Foreign Bond Investment;Japan;JPY;2
+GBP_CentralBankSpeech;20161103;20:55;BoE Cunliffe speech;United Kingdom;GBP;2
+USD_EIANaturalGasStorageChange;20161103;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_ISMNonManufacturingPMI;20161103;14:00;ISM Non-Manufacturing PMI;United States;USD;2
+USD_FactoryOrders;20161103;14:00;Factory Orders (MoM);United States;USD;2
+USD_MarkitServicesPMI;20161103;13:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20161103;13:45;Markit PMI Composite;United States;USD;2
+RUB_ConsumerPriceIndex;20161103;13:00;Consumer Price Index (MoM);Russia;RUB;1
+USD_JoblessClaims;20161103;12:30;Initial Jobless Claims;United States;USD;2
+USD_UnitLaborCosts;20161103;12:30;Unit Labor Costs;United States;USD;2
+USD_NonfarmProductivity;20161103;12:30;Nonfarm Productivity;United States;USD;2
+GBP_BoEAssetPurchaseFacility;20161103;12:00;BoE Asset Purchase Facility;United Kingdom;GBP;3
+GBP_BoEInterestRateDecision;20161103;12:00;BoE Interest Rate Decision;United Kingdom;GBP;3
+GBP_MonetaryPolicySummary;20161103;12:00;Monetary Policy Summary;United Kingdom;GBP;3
+GBP_BankofEnglandQuarterlyInflationReport;20161103;12:00;Bank of England Quarterly Inflation Report;United Kingdom;GBP;2
+GBP_BoEMPCVoteCut;20161103;12:00;BoE MPC Vote Cut;United Kingdom;GBP;3
+GBP_BoEMPCVoteUnchanged;20161103;12:00;BoE MPC Vote Unchanged;United Kingdom;GBP;3
+GBP_BankofEnglandMinutes;20161103;12:00;Bank of England Minutes;United Kingdom;GBP;3
+GBP_BoEMPCVoteHike;20161103;12:00;BoE MPC Vote Hike;United Kingdom;GBP;3
+CZK_CNBInterestRateDecision;20161103;12:00;CNB Interest Rate Decision;Czech Republic;CZK;0
+USD_ChallengerJobCuts;20161103;11:30;Challenger Job Cuts;United States;USD;1
+RUB_PurchasingManagerIndexServices;20161103;11:00;Purchasing Manager Index Services;Russia;RUB;1
+RUB_CentralBankReserves;20161103;11:00;Central Bank Reserves $;Russia;RUB;1
+EUR_FraAuction;20161103;10:29;10-y Bond Auction;France;EUR;1
+GBP_EUMembershipCourtRuling;20161103;10:00;EU Membership Court Ruling;United Kingdom;GBP;3
+EUR_SpaAuction;20161103;10:00;10-y Obligaciones Auction;Spain;EUR;1
+EUR_EurUnemploymentRate;20161103;10:00;Unemployment Rate;European Monetary Union;EUR;2
+GBP_MarkitServicesPMI;20161103;09:30;Markit Services PMI;United Kingdom;GBP;2
+EUR_ItaUnemployment;20161103;09:00;Unemployment;Italy;EUR;2
+EUR_EurEconomicBulletin;20161103;09:00;Economic Bulletin;European Monetary Union;EUR;2
+HKD_RetailSales;20161103;08:30;Retail Sales;Hong Kong SAR;HKD;1
+SEK_IndustrialProduction;20161103;08:30;Industrial Production (YoY);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20161103;08:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+TRY_ProducerPriceIndex;20161103;08:00;Producer Price Index (YoY);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20161103;08:00;Consumer Price Index (MoM);Turkey;TRY;1
+EUR_SpaUnemploymentChange;20161103;08:00;Unemployment Change;Spain;EUR;1
+CHF_SECOConsumerClimate;20161103;06:45;SECO Consumer Climate (3m);Switzerland;CHF;2
+EUR_IrePurchasingManagerIndexServices;20161103;06:00;Purchasing Manager Index Services;Ireland;EUR;1
+EGP_CBEInterestRateDecision;20161103;04:30;CBE Interest Rate Decision;Egypt;EGP;0
+HKD_NikkeiManufacturingPMI;20161103;03:30;Nikkei Manufacturing PMI;Hong Kong SAR;HKD;1
+CNY_CaixinServicesPMI;20161103;01:45;Caixin Services PMI;China;CNY;2
+AUD_Imports;20161103;00:30;Imports;Australia;AUD;2
+AUD_TradeBalance;20161103;00:30;Trade Balance;Australia;AUD;2
+AUD_Exports;20161103;00:30;Exports;Australia;AUD;2
+NZD_ANZCommodityPrice;20161103;00:00;ANZ Commodity Price;New Zealand;NZD;1
+JPY_CultureDay;20161103;00:00;Culture Day;Japan;JPY;0

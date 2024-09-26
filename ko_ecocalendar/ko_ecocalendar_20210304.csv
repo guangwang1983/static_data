@@ -1,0 +1,27 @@
+AUD_RetailSales;20210304;00:30;Retail Sales s.a. (MoM);Australia;AUD;3
+AUD_Imports;20210304;00:30;Imports (MoM);Australia;AUD;2
+AUD_Exports;20210304;00:30;Exports (MoM);Australia;AUD;2
+AUD_TradeBalance;20210304;00:30;Trade Balance (MoM);Australia;AUD;3
+NZD_CentralBankSpeech;20210304;01:00;RBNZ Governor Orr speech;New Zealand;NZD;2
+JPY_ConsumerConfidenceIndex;20210304;05:00;Consumer Confidence Index;Japan;JPY;1
+DKK_UnemploymentRate;20210304;07:00;Unemployment Rate;Denmark;DKK;1
+HUF_RetailSales;20210304;08:00;Retail Sales (YoY);Hungary;HUF;1
+HUF_TradeBalance;20210304;08:00;Trade Balance;Hungary;HUF;1
+GBP_S&PGlobalConstructionPMI;20210304;09:30;S&P Global Construction PMI;United Kingdom;GBP;1
+EUR_FraAuction;20210304;09:50;10-y Bond Auction;France;EUR;1
+EUR_EurUnemploymentRate;20210304;10:00;Unemployment Rate;European Monetary Union;EUR;2
+USD_OPECMeeting;20210304;10:00;OPEC Meeting;United States;USD;2
+EUR_EurRetailSales;20210304;10:00;Retail Sales (YoY);European Monetary Union;EUR;3
+GBP_Auction;20210304;10:30;10-y Bond Auction;United Kingdom;GBP;1
+USD_ChallengerJobCuts;20210304;12:30;Challenger Job Cuts;United States;USD;1
+RUB_CentralBankReserves;20210304;13:00;Central Bank Reserves $;Russia;RUB;1
+CAD_LaborProductivity;20210304;13:30;Labor Productivity (QoQ);Canada;CAD;1
+USD_JoblessClaims;20210304;13:30;Initial Jobless Claims 4-week average;United States;USD;2
+USD_NonfarmProductivity;20210304;13:30;Nonfarm Productivity;United States;USD;2
+USD_UnitLaborCosts;20210304;13:30;Unit Labor Costs;United States;USD;2
+USD_FactoryOrders;20210304;15:00;Factory Orders (MoM);United States;USD;2
+USD_EIANaturalGasStorageChange;20210304;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20210304;16:30;4-Week Bill Auction;United States;USD;1
+USD_CentralBankSpeech;20210304;17:05;Fed Chair Powell speech;United States;USD;3
+AUD_AiGPerformanceofServicesIndex;20210304;21:30;AiG Performance of Services Index;Australia;AUD;1
+JPY_JPForeignReserves;20210304;23:50;JP Foreign Reserves;Japan;JPY;1

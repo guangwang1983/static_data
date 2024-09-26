@@ -1,0 +1,18 @@
+COP_CorpusChristi;20230612;05:00;Corpus Christi;Colombia;COP;0
+DKK_Inflation;20230612;06:00;Inflation (HICP) (YoY);Denmark;DKK;1
+DKK_ConsumerPriceIndex;20230612;06:00;Consumer Price Index (YoY);Denmark;DKK;1
+JPY_MachineToolOrders;20230612;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+CNY_M2MoneySupply;20230612;07:00;M2 Money Supply (YoY);China;CNY;1
+CNY_NewLoans;20230612;07:00;New Loans;China;CNY;1
+CNY_FDIForeignDirectInvestment;20230612;07:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+TRY_UnemploymentRate;20230612;07:00;Unemployment Rate;Turkey;TRY;1
+TRY_CurrentAccount;20230612;07:00;Current Account Balance;Turkey;TRY;1
+CZK_ConsumerPriceIndex;20230612;07:00;Consumer Price Index (MoM);Czech Republic;CZK;1
+INR_ConsumerPriceIndex;20230612;12:00;Consumer Price Index (YoY);India;INR;1
+INR_ManufacturingOutput;20230612;12:00;Manufacturing Output;India;INR;1
+INR_IndustrialOutput;20230612;12:00;Industrial Output;India;INR;1
+INR_CumulativeIndustrialOutput;20230612;12:00;Cumulative Industrial Output;India;INR;1
+USD_Auction;20230612;17:00;3-Year Note Auction;United States;USD;1
+USD_MonthlyBudgetStatement;20230612;18:00;Monthly Budget Statement;United States;USD;2
+NZD_VisitorArrivals;20230612;22:45;Visitor Arrivals (YoY);New Zealand;NZD;1
+JPY_BSILargeManufacturingConditionsIndex;20230612;23:50;BSI Large Manufacturing Conditions Index (QoQ);Japan;JPY;1

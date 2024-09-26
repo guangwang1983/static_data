@@ -1,0 +1,37 @@
+JPY_NationalCPIexFoodEnergy;20191121;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20191121;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20191121;23:30;National Consumer Price Index (YoY);Japan;JPY;2
+AUD_CommonwealthBankCompositePMI;20191121;22:00;Commonwealth Bank Composite PMI;Australia;AUD;1
+AUD_CommonwealthBankServicesPMI;20191121;22:00;Commonwealth Bank Services PMI;Australia;AUD;1
+AUD_CommonwealthBankManufacturingPMI;20191121;22:00;Commonwealth Bank Manufacturing PMI;Australia;AUD;2
+ARS_TradeBalance;20191121;20:00;Trade Balance (MoM);Argentina;ARS;1
+USD_Auction;20191121;16:30;4-Week Bill Auction;United States;USD;1
+USD_EIANaturalGasStorageChange;20191121;15:30;EIA Natural Gas Storage Change;United States;USD;1
+CAD_FinancialSystemReview;20191121;15:30;Financial System Review;Canada;CAD;1
+USD_ExistingHomeSales;20191121;15:00;Existing Home Sales (MoM);United States;USD;2
+USD_ExistingHomeSalesChange;20191121;15:00;Existing Home Sales Change (MoM);United States;USD;1
+EUR_EurConsumerConfidence;20191121;15:00;Consumer Confidence;European Monetary Union;EUR;1
+EUR_BelConsumerConfidenceIndex;20191121;14:00;Consumer Confidence Index;Belgium;EUR;1
+RUB_CentralBankReserves;20191121;14:00;Central Bank Reserves $;Russia;RUB;1
+USD_JoblessClaims;20191121;13:30;Initial Jobless Claims 4-week average;United States;USD;2
+CAD_ADPEmploymentChange;20191121;13:30;ADP Employment Change;Canada;CAD;1
+USD_PhiladelphiaFedManufacturingSurvey;20191121;13:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+ZAR_SARBInterestRateDecision;20191121;13:00;SARB Interest Rate Decision;South Africa;ZAR;1
+EUR_EurECBMonetaryPolicyMeetingAccounts;20191121;12:30;ECB Monetary Policy Meeting Accounts;European Monetary Union;EUR;3
+EUR_SpaAuction;20191121;09:40;10-y Obligaciones Auction;Spain;EUR;1
+GBP_PublicSectorNetBorrowing;20191121;09:30;Public Sector Net Borrowing;United Kingdom;GBP;2
+PLN_CorporateSectorWages;20191121;09:00;Corporate Sector Wages;Poland;PLN;1
+HKD_ConsumerPriceIndex;20191121;08:30;Consumer Price Index;Hong Kong SAR;HKD;1
+SEK_ProducerPriceIndex;20191121;08:30;Producer Price Index (MoM);Sweden;SEK;1
+EUR_EurCentralBankSpeech;20191121;08:10;ECB Mersch speech;European Monetary Union;EUR;2
+EUR_FraBusinessClimate;20191121;07:45;Business Climate;France;EUR;1
+CHF_IndustrialProduction;20191121;07:30;Industrial Production (YoY);Switzerland;CHF;2
+IDR_BankIndonesiaRate;20191121;07:30;Bank Indonesia Rate;Indonesia;IDR;1
+TRY_ConsumerConfidence;20191121;07:00;Consumer Confidence;Turkey;TRY;1
+DKK_ConsumerConfidence;20191121;07:00;Consumer Confidence;Denmark;DKK;1
+EUR_NetUnemploymentRate;20191121;05:30;Unemployment Rate s.a (3M);Netherlands, The;EUR;1
+EUR_NetConsumerSpendingVolume;20191121;05:30;Consumer Spending Volume;Netherlands, The;EUR;1
+EUR_NetConsumerConfidenceAdj;20191121;05:30;Consumer Confidence Adj;Netherlands, The;EUR;1
+JPY_AllIndustryActivityIndex;20191121;04:30;All Industry Activity Index (MoM);Japan;JPY;2
+NZD_CreditCardSpending;20191121;02:00;Credit Card Spending (YoY);New Zealand;NZD;1
+SGD_GrossDomesticProduct;20191121;00:00;Gross Domestic Product (QoQ);Singapore;SGD;1

@@ -1,0 +1,41 @@
+EUR_EurEurogroupMeeting;20200508;00:00;Eurogroup Meeting;European Monetary Union;EUR;2
+JPY_JibunBankServicesPMI;20200508;00:30;Jibun Bank Services PMI;Japan;JPY;1
+AUD_RBAMonetaryPolicyStatement;20200508;01:30;RBA Monetary Policy Statement;Australia;AUD;3
+NOK_ManufacturingOutput;20200508;06:00;Manufacturing Output;Norway;NOK;1
+EUR_GerCurrentAccount;20200508;06:00;Current Account n.s.a.;Germany;EUR;1
+EUR_GerImports;20200508;06:00;Imports (MoM);Germany;EUR;1
+EUR_GerExports;20200508;06:00;Exports (MoM);Germany;EUR;1
+EUR_GerTradeBalance;20200508;06:00;Trade Balance s.a.;Germany;EUR;2
+ZAR_Gross$Gold&ForexReserve;20200508;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+ZAR_Net$Gold&ForexReserve;20200508;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+HUF_ConsumerPriceIndex;20200508;07:00;Core Consumer Price Index (YoY);Hungary;HUF;1
+HUF_TradeBalance;20200508;07:00;Trade Balance;Hungary;HUF;1
+HUF_BudgetBalance;20200508;09:00;Budget Balance;Hungary;HUF;1
+EUR_EurCentralBankSpeech;20200508;11:00;ECB President Lagarde speech;European Monetary Union;EUR;3
+INR_FXReservesUSD;20200508;11:30;FX Reserves, USD;India;INR;1
+INR_BankLoanGrowth;20200508;11:30;Bank Loan Growth;India;INR;1
+BRL_IPCAInflation;20200508;12:00;IPCA Inflation;Brazil;BRL;1
+CLP_ConsumerPriceIndex;20200508;12:00;Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+CAD_HousingStarts;20200508;12:15;Housing Starts s.a (YoY);Canada;CAD;1
+USD_AverageHourlyEarnings;20200508;12:30;Average Hourly Earnings (MoM);United States;USD;2
+USD_LaborForceParticipationRate;20200508;12:30;Labor Force Participation Rate;United States;USD;2
+USD_AverageWeeklyHours;20200508;12:30;Average Weekly Hours;United States;USD;1
+USD_NonfarmPayrolls;20200508;12:30;Nonfarm Payrolls;United States;USD;3
+USD_U6UnderemploymentRate;20200508;12:30;U6 Underemployment Rate;United States;USD;2
+USD_UnemploymentRate;20200508;12:30;Unemployment Rate;United States;USD;2
+CAD_BuildingPermits;20200508;12:30;Building Permits (MoM);Canada;CAD;1
+CAD_ParticipationRate;20200508;12:30;Participation Rate;Canada;CAD;2
+CAD_UnemploymentRate;20200508;12:30;Unemployment Rate;Canada;CAD;3
+CAD_AverageHourlyWages;20200508;12:30;Average Hourly Wages (YoY);Canada;CAD;2
+CAD_NetChangeinEmployment;20200508;12:30;Net Change in Employment;Canada;CAD;3
+USD_WholesaleInventories;20200508;14:00;Wholesale Inventories;United States;USD;1
+TRY_TreasuryCashBalance;20200508;14:30;Treasury Cash Balance;Turkey;TRY;1
+USD_BakerHughesUSOilRigCount;20200508;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20200508;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20200508;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+JPY_CFTCJPYNCNetPositions;20200508;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCS&P500NCNetPositions;20200508;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20200508;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20200508;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20200508;19:30;CFTC Gold NC Net Positions;United States;USD;1
+RUB_VictoryDay;20200508;21:00;Victory Day ;Russia;RUB;0

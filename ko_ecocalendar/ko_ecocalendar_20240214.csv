@@ -1,0 +1,33 @@
+BRL_AshWednesday;20240214;03:00;Ash Wednesday;Brazil;BRL;0
+INR_WPIInflation;20240214;06:30;WPI Inflation;India;INR;1
+GBP_RetailPriceIndex;20240214;07:00;Retail Price Index (YoY);United Kingdom;GBP;2
+GBP_PPICoreOutput;20240214;07:00;PPI Core Output (YoY) n.s.a ;United Kingdom;GBP;2
+GBP_ProducerPriceIndex;20240214;07:00;Producer Price Index - Input (MoM) n.s.a;United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20240214;07:00;Consumer Price Index (YoY);United Kingdom;GBP;3
+RON_IndustrialProduction;20240214;07:00;Industrial Production (MoM);Romania;RON;1
+RON_GrossDomesticProduct;20240214;07:00;Gross Domestic Product;Romania;RON;1
+RON_ConsumerPriceIndex;20240214;07:00;Consumer Price Index;Romania;RON;1
+NOK_GrossDomesticProduct;20240214;07:00;Gross Domestic Product Growth;Norway;NOK;1
+HUF_GrossDomesticProduct;20240214;07:30;Gross Domestic Product (YoY);Hungary;HUF;1
+PLN_GrossDomesticProduct;20240214;09:00;Gross Domestic Product Qtr (YoY);Poland;PLN;1
+ILS_M1MoneySupply;20240214;09:00;M1 Money Supply (YoY);Israel;ILS;1
+GBP_DCLGHousePriceIndex;20240214;09:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+EUR_EurGrossDomesticProduct;20240214;10:00;Gross Domestic Product s.a. (YoY);Eurozone;EUR;3
+EUR_EurIndustrialProduction;20240214;10:00;Industrial Production s.a. (MoM);Eurozone;EUR;2
+EUR_EurEmploymentChange;20240214;10:00;Employment Change (QoQ);Eurozone;EUR;2
+EUR_GerAuction;20240214;10:35;30-y Bond Auction;Germany;EUR;1
+ZAR_RetailSales;20240214;11:00;Retail Sales (YoY);South Africa;ZAR;1
+GBP_Auction;20240214;11:30;10-y Bond Auction;United Kingdom;GBP;1
+USD_MBAMortgageApplications;20240214;12:00;MBA Mortgage Applications;United States;USD;1
+EUR_EurCentralBankSpeech;20240214;14:00;ECB Cipollone speech;Eurozone;EUR;2
+COP_RetailSales;20240214;14:35;Retail Sales (YoY);Colombia;COP;1
+COP_Industrialoutput;20240214;14:35;Industrial output (YoY);Colombia;COP;1
+COP_TradeBalance;20240214;14:40;Trade Balance;Colombia;COP;1
+GBP_CentralBankSpeech;20240214;15:00;BoE Governor Bailey speech;United Kingdom;GBP;3
+USD_EIACrudeOilStocksChange;20240214;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+RUB_ConsumerPriceIndex;20240214;16:00;Consumer Price Index (MoM);Russia;RUB;1
+EUR_GerCentralBankSpeech;20240214;17:00;German Buba President Nagel speech;Germany;EUR;2
+USD_CentralBankSpeech;20240214;21:00;Fed Barr speech;United States;USD;2
+NZD_VisitorArrivals;20240214;21:45;Visitor Arrivals (YoY);New Zealand;NZD;1
+AUD_CentralBankSpeech;20240214;22:00;RBA Governor Bullock speech;Australia;AUD;3
+JPY_GrossDomesticProduct;20240214;23:50;Gross Domestic Product Deflator (YoY);Japan;JPY;2

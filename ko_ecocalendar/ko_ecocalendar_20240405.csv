@@ -1,0 +1,46 @@
+AUD_TradeBalance;20240405;00:30;Trade Balance (MoM);Australia;AUD;3
+AUD_Exports;20240405;00:30;Exports (MoM);Australia;AUD;2
+AUD_Imports;20240405;00:30;Imports (MoM);Australia;AUD;2
+INR_ReverseRepoRate;20240405;04:30;Reverse Repo Rate;India;INR;1
+INR_RBIInterestRateDecision;20240405;04:30;RBI Interest Rate Decision (Repo Rate);India;INR;2
+JPY_LeadingEconomicIndex;20240405;05:00;Leading Economic Index;Japan;JPY;1
+JPY_CoincidentIndex;20240405;05:00;Coincident Index;Japan;JPY;1
+EUR_GerImportPriceIndex;20240405;06:00;Import Price Index (YoY);Germany;EUR;1
+EUR_GerFactoryOrders;20240405;06:00;Factory Orders n.s.a. (YoY);Germany;EUR;2
+GBP_HalifaxHousePrices;20240405;06:00;Halifax House Prices (MoM);United Kingdom;GBP;1
+HUF_IndustrialOutput;20240405;06:30;Industrial Output (YoY);Hungary;HUF;1
+HUF_RetailSales;20240405;06:30;Retail Sales (YoY);Hungary;HUF;1
+EUR_FraIndustrialOutput;20240405;06:45;Industrial Output (MoM);France;EUR;1
+CZK_RetailSales;20240405;07:00;Retail Sales (YoY);Czech Republic;CZK;1
+CHF_ForeignCurrencyReserves;20240405;07:00;Foreign Currency Reserves;Switzerland;CHF;1
+GBP_S&PGlobalCIPSConstructionPMI;20240405;08:30;S&P Global/CIPS Construction PMI;United Kingdom;GBP;1
+EUR_ItaPublicDeficitGDP;20240405;09:00;Public Deficit/GDP;Italy;EUR;1
+EUR_EurRetailSales;20240405;09:00;Retail Sales (MoM);Eurozone;EUR;2
+BRL_NominalBudgetBalance;20240405;11:30;Nominal Budget Balance;Brazil;BRL;1
+BRL_PrimaryBudgetSurplus;20240405;11:30;Primary Budget Surplus;Brazil;BRL;1
+INR_BankLoanGrowth;20240405;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20240405;11:30;FX Reserves, USD;India;INR;1
+PLN_CentralBankFXReserves;20240405;12:00;Central Bank FX Reserves;Poland;PLN;1
+USD_NonfarmPayrolls;20240405;12:30;Nonfarm Payrolls;United States;USD;3
+USD_AverageWeeklyHours;20240405;12:30;Average Weekly Hours;United States;USD;1
+USD_AverageHourlyEarnings;20240405;12:30;Average Hourly Earnings (YoY);United States;USD;3
+USD_U6UnderemploymentRate;20240405;12:30;U6 Underemployment Rate;United States;USD;2
+USD_UnemploymentRate;20240405;12:30;Unemployment Rate;United States;USD;2
+USD_LaborForceParticipationRate;20240405;12:30;Labor Force Participation Rate;United States;USD;2
+CAD_ParticipationRate;20240405;12:30;Participation Rate;Canada;CAD;1
+CAD_NetChangeinEmployment;20240405;12:30;Net Change in Employment;Canada;CAD;3
+CAD_AverageHourlyWages;20240405;12:30;Average Hourly Wages (YoY);Canada;CAD;2
+CAD_UnemploymentRate;20240405;12:30;Unemployment Rate;Canada;CAD;3
+CAD_IveyPurchasingManagersIndex;20240405;14:00;Ivey Purchasing Managers Index;Canada;CAD;2
+TRY_TreasuryCashBalance;20240405;14:30;Treasury Cash Balance;Turkey;TRY;1
+USD_CentralBankSpeech;20240405;16:15;Fed Bowman speech;United States;USD;2
+USD_BakerHughesUSOilRigCount;20240405;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_ConsumerCreditChange;20240405;19:00;Consumer Credit Change;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20240405;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20240405;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20240405;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20240405;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20240405;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20240405;19:30;CFTC EUR NC Net Positions;Eurozone;EUR;1
+AUD_CFTCAUDNCNetPositions;20240405;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+COP_ConsumerPriceIndex;20240405;23:00;Consumer Price Index (MoM);Colombia;COP;1

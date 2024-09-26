@@ -1,0 +1,40 @@
+JPY_DomesticCorporateGoodsPriceIndex;20111110;23:50;Domestic Corporate Goods Price Index (YoY);Japan;JPY;1
+JPY_TertiaryIndustryIndex;20111110;23:50;Tertiary Industry Index (MoM);Japan;JPY;2
+NZD_FoodPriceIndex;20111110;21:45;Food Price Index (MoM);New Zealand;NZD;1
+USD_MonthlyBudgetStatement;20111110;19:00;Monthly Budget Statement;United States;USD;2
+USD_TradeBalance;20111110;13:30;Trade Balance;United States;USD;2
+USD_JoblessClaims;20111110;13:30;Initial Jobless Claims;United States;USD;1
+USD_ImportPriceIndex;20111110;13:30;Import Price Index (MoM);United States;USD;1
+CAD_InternationalMerchandiseTrade;20111110;13:30;International Merchandise Trade;Canada;CAD;1
+ZAR_SARBInterestRateDecision;20111110;13:00;SARB Interest Rate Decision;South Africa;ZAR;1
+USD_ExportPriceIndex;20111110;12:30;Export Price Index (MoM);United States;USD;1
+GBP_BoEAssetPurchaseFacility;20111110;12:00;BoE Asset Purchase Facility;United Kingdom;GBP;3
+GBP_BoEInterestRateDecision;20111110;12:00;BoE Interest Rate Decision;United Kingdom;GBP;3
+EUR_IreConsumerPriceIndex;20111110;11:00;Consumer Price Index (YoY);Ireland;EUR;1
+BRL_RetailSales;20111110;11:00;Retail Sales (MoM);Brazil;BRL;1
+EUR_IreHICP;20111110;10:00;HICP (YoY);Ireland;EUR;1
+EUR_GreUnemploymentRate;20111110;10:00;Unemployment Rate (MoM);Greece;EUR;1
+ZAR_ReutersEconometer;20111110;09:30;Reuters Econometer;South Africa;ZAR;1
+NOK_CoreInflation;20111110;09:00;Core Inflation (MoM);Norway;NOK;1
+NOK_ConsumerPriceIndex;20111110;09:00;Consumer Price Index (YoY);Norway;NOK;1
+EUR_ItaIndustrialOutput;20111110;09:00;Industrial Output w.d.a (YoY);Italy;EUR;1
+EUR_EurECBMonthlyReport;20111110;09:00;ECB Monthly Report;European Monetary Union;EUR;2
+NOK_ProducerPriceIndex;20111110;09:00;Producer Price Index (YoY);Norway;NOK;1
+SEK_ConsumerPriceIndex;20111110;08:30;Consumer Price Index (MoM);Sweden;SEK;1
+EUR_NetConsumerPriceIndex;20111110;08:30;Consumer Price Index n.s.a (YoY);Netherlands, The;EUR;1
+EUR_GreCreditExpansion;20111110;08:00;Credit Expansion (YoY);Greece;EUR;0
+EUR_FraIndustrialOutput;20111110;07:45;Industrial Output (MoM);France;EUR;1
+EUR_FinIndustrialOutput;20111110;07:00;Industrial Output (MoM);Finland;EUR;1
+EUR_GerWholesalePriceIndex;20111110;07:00;Wholesale Price Index (MoM);Germany;EUR;1
+EUR_GerConsumerPriceIndex;20111110;07:00;Consumer Price Index (MoM);Germany;EUR;2
+EUR_FraConsumerPriceIndex;20111110;06:30;Consumer Price Index (EU norm) (YoY);France;EUR;1
+EUR_FraInflationextobacco;20111110;06:30;Inflation ex-tobacco (MoM);France;EUR;1
+JPY_MachineToolOrders;20111110;06:00;Machine Tool Orders (YoY);Japan;JPY;2
+JPY_ConsumerConfidenceIndex;20111110;05:00;Consumer Confidence Index;Japan;JPY;2
+KRW_MoneySupplyGrowth;20111110;03:00;Money Supply Growth;South Korea;KRW;1
+CNY_TradeBalanceUSD;20111110;02:30;Trade Balance USD;China;CNY;2
+AUD_EmploymentChange;20111110;00:30;Employment Change s.a.;Australia;AUD;3
+AUD_UnemploymentRate;20111110;00:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_ConsumerInflationExpectations;20111110;00:00;Consumer Inflation Expectations;Australia;AUD;1
+RUB_ForeignTrade;20111110;00:00;Foreign Trade;Russia;RUB;1
+RUB_CentralBankReserves;20111110;00:00;Central Bank Reserves $;Russia;RUB;1

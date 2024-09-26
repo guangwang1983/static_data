@@ -1,0 +1,51 @@
+JPY_TokyoCPIexFreshFood;20190124;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;3
+JPY_ConsumerPriceIndex;20190124;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;2
+JPY_TokyoCPIexFoodEnergy;20190124;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;2
+NZD_VisitorArrivals;20190124;21:45;Visitor Arrivals (YoY);New Zealand;NZD;1
+KRW_ConsumerSentimentIndex;20190124;21:00;Consumer Sentiment Index;South Korea;KRW;1
+USD_SenatevotesonGovernmentShutdown;20190124;17:00;Senate votes on Government Shutdown;United States;USD;2
+USD_Auction;20190124;16:30;4-Week Bill Auction;United States;USD;1
+USD_EIACrudeOilStocksChange;20190124;16:00;EIA Crude Oil Stocks Change;United States;USD;1
+USD_KansasFedManufacturingActivity;20190124;16:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_EIANaturalGasStorageChange;20190124;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_MarkitManufacturingPMI;20190124;14:45;Markit Manufacturing PMI;United States;USD;2
+USD_MarkitPMIComposite;20190124;14:45;Markit PMI Composite;United States;USD;2
+USD_MarkitServicesPMI;20190124;14:45;Markit Services PMI;United States;USD;2
+MXN_1sthalfmonthCoreInflation;20190124;14:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20190124;14:00;1st half-month Inflation;Mexico;MXN;1
+USD_JoblessClaims;20190124;13:30;Continuing Jobless Claims;United States;USD;2
+EUR_EurECBMonetaryPolicyStatementandPressConference;20190124;13:30;ECB Monetary Policy Statement and Press Conference;European Monetary Union;EUR;3
+RUB_CentralBankReserves;20190124;13:00;Central Bank Reserves $;Russia;RUB;1
+RUB_ProducerPriceIndex;20190124;13:00;Producer Price Index (MoM);Russia;RUB;1
+EUR_EurECBInterestRateDecision;20190124;12:45;ECB Interest Rate Decision;European Monetary Union;EUR;3
+EUR_EurECBDepositRateDecision;20190124;12:45;ECB Deposit Rate Decision;European Monetary Union;EUR;3
+EUR_ItaTradeBalancenonEU;20190124;09:00;Trade Balance non-EU;Italy;EUR;1
+PLN_Unemployment;20190124;09:00;Unemployment (MoM);Poland;PLN;1
+EUR_EurMarkitManufacturingPMI;20190124;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20190124;09:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_EurMarkitPMIComposite;20190124;09:00;Markit PMI Composite;European Monetary Union;EUR;2
+NOK_NorgesBankInterestRateDecision;20190124;09:00;Norges Bank Interest Rate Decision;Norway;NOK;1
+SEK_UnemploymentRate;20190124;08:30;Unemployment Rate;Sweden;SEK;1
+EUR_GerMarkitPMIComposite;20190124;08:30;Markit PMI Composite;Germany;EUR;1
+EUR_GerMarkitManufacturingPMI;20190124;08:30;Markit Manufacturing PMI;Germany;EUR;2
+EUR_GerMarkitServicesPMI;20190124;08:30;Markit Services PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20190124;08:15;Markit Manufacturing PMI;France;EUR;1
+EUR_FraMarkitServicesPMI;20190124;08:15;Markit Services PMI;France;EUR;1
+EUR_FraMarkitPMIComposite;20190124;08:15;Markit PMI Composite;France;EUR;1
+EUR_FinProducerPriceIndex;20190124;07:00;Producer Price Index (YoY);Finland;EUR;1
+EUR_FinUnemploymentRate;20190124;07:00;Unemployment Rate;Finland;EUR;1
+NOK_LabourForceSurvey;20190124;07:00;Labour Force Survey;Norway;NOK;1
+EUR_FinImportPrices;20190124;07:00;Import Prices (YoY);Finland;EUR;1
+EUR_FinExportPrices;20190124;07:00;Export Prices (YoY);Finland;EUR;1
+JPY_CoincidentIndex;20190124;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20190124;05:00;Leading Economic Index;Japan;JPY;2
+NZD_CreditCardSpending;20190124;02:00;Credit Card Spending (YoY);New Zealand;NZD;1
+KRW_BoKInterestRateDecision;20190124;01:00;BoK Interest Rate Decision;South Korea;KRW;1
+AUD_EmploymentChange;20190124;00:30;Employment Change s.a.;Australia;AUD;3
+AUD_PartTimeEmployment;20190124;00:30;Part-Time Employment;Australia;AUD;1
+AUD_FulltimeEmployment;20190124;00:30;Fulltime Employment;Australia;AUD;1
+AUD_UnemploymentRate;20190124;00:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_ParticipationRate;20190124;00:30;Participation Rate;Australia;AUD;3
+JPY_NikkeiManufacturingPMI;20190124;00:30;Nikkei Manufacturing PMI;Japan;JPY;1
+CHF_WorldEconomicForumDavos;20190124;00:00;World Economic Forum - Davos;Switzerland;CHF;2
+RON_Unificationday;20190124;00:00;Unification day;Romania;RON;0

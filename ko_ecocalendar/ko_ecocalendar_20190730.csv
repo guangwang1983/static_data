@@ -1,0 +1,40 @@
+AUD_BuildingPermits;20190730;01:30;Building Permits (YoY);Australia;AUD;1
+JPY_BoJMonetaryPolicyStatement;20190730;02:00;BoJ Monetary Policy Statement ;Japan;JPY;3
+JPY_BoJInterestRateDecision;20190730;02:00;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_BoJOutlookReport;20190730;02:00;BoJ Outlook Report;Japan;JPY;2
+EUR_FraGrossDomesticProduct;20190730;05:30;Gross Domestic Product (QoQ);France;EUR;1
+DKK_IndustrialOutlook;20190730;06:00;Industrial Outlook;Denmark;DKK;1
+EUR_GerGfkConsumerConfidenceSurvey;20190730;06:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+NOK_RetailSales;20190730;06:00;Retail Sales ;Norway;NOK;1
+JPY_BoJPressConference;20190730;06:30;BoJ Press Conference;Japan;JPY;3
+EUR_FraConsumerSpending;20190730;06:45;Consumer Spending (MoM);France;EUR;1
+EUR_FraBudgetBalance;20190730;06:45;Budget Balance;France;EUR;1
+HUF_GrossWages;20190730;07:00;Gross Wages (YoY);Hungary;HUF;1
+CHF_KOFLeadingIndicator;20190730;07:00;KOF Leading Indicator;Switzerland;CHF;2
+TRY_EconomicConfidenceIndex;20190730;07:00;Economic Confidence Index;Turkey;TRY;1
+SEK_GrossDomesticProduct;20190730;07:30;Gross Domestic Product (YoY);Sweden;SEK;1
+EUR_EurServicesSentiment;20190730;09:00;Services Sentiment;European Monetary Union;EUR;1
+EUR_EurConsumerConfidence;20190730;09:00;Consumer Confidence;European Monetary Union;EUR;1
+EUR_EurEconomicSentimentIndicator;20190730;09:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+EUR_EurBusinessClimate;20190730;09:00;Business Climate;European Monetary Union;EUR;2
+EUR_EurIndustrialConfidence;20190730;09:00;Industrial Confidence;European Monetary Union;EUR;1
+ZAR_UnemploymentTotal;20190730;09:30;Unemployment Total ;South Africa;ZAR;1
+ZAR_UnemploymentRate;20190730;09:30;Unemployment Rate (%);South Africa;ZAR;1
+EUR_ItaAuction;20190730;09:45;10-y Bond Auction;Italy;EUR;1
+BRL_InflationIndexIGPM;20190730;11:00;Inflation Index/IGP-M;Brazil;BRL;1
+EUR_GerConsumerPriceIndex;20190730;12:00;Consumer Price Index (YoY);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20190730;12:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+USD_PersonalSpending;20190730;12:30;Personal Spending;United States;USD;2
+USD_CorePersonalConsumptionExpendituresPriceIndex;20190730;12:30;Core Personal Consumption Expenditures - Price Index (YoY);United States;USD;2
+USD_PersonalConsumptionExpendituresPriceIndex;20190730;12:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;1
+USD_PersonalIncome;20190730;12:30;Personal Income (MoM);United States;USD;2
+USD_RedbookIndex;20190730;12:55;Redbook Index (YoY);United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20190730;13:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;2
+USD_ConsumerConfidence;20190730;14:00;Consumer Confidence;United States;USD;2
+USD_PendingHomeSales;20190730;14:00;Pending Home Sales (MoM);United States;USD;2
+USD_APIWeeklyCrudeOilStock;20190730;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_IndustrialOutputGrowth;20190730;23:00;Industrial Output Growth;South Korea;KRW;1
+KRW_IndustrialOutput;20190730;23:00;Industrial Output (YoY);South Korea;KRW;1
+KRW_ServiceSectorOutput;20190730;23:00;Service Sector Output;South Korea;KRW;1
+GBP_BRCShopPriceIndex;20190730;23:00;BRC Shop Price Index (YoY);United Kingdom;GBP;1
+GBP_GfKConsumerConfidence;20190730;23:01;GfK Consumer Confidence;United Kingdom;GBP;2

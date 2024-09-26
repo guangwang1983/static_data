@@ -1,0 +1,46 @@
+JPY_JibunBankManufacturingPMI;20220301;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+AUD_CurrentAccount;20220301;00:30;Current Account Balance;Australia;AUD;1
+AUD_InvestmentLendingforHomes;20220301;00:30;Investment Lending for Homes;Australia;AUD;1
+AUD_HomeLoans;20220301;00:30;Home Loans;Australia;AUD;1
+CNY_NonManufacturingPMI;20220301;01:30;Non-Manufacturing PMI;China;CNY;3
+CNY_NBSManufacturingPMI;20220301;01:30;NBS Manufacturing PMI;China;CNY;3
+CNY_CaixinManufacturingPMI;20220301;01:45;Caixin Manufacturing PMI;China;CNY;2
+AUD_RBAInterestRateDecision;20220301;03:30;RBA Interest Rate Decision;Australia;AUD;3
+AUD_RBARateStatement;20220301;03:30;RBA Rate Statement;Australia;AUD;3
+JPY_Auction;20220301;03:35;10-y Bond Auction;Japan;JPY;1
+AUD_RBACommodityIndexSDR;20220301;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+RUB_HSBCManufacturingPMI;20220301;06:00;HSBC Manufacturing PMI	;Russia;RUB;1
+SEK_PurchasingManagersIndexManufacturing;20220301;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+PLN_PurchasingManagerIndex;20220301;08:00;Purchasing Manager Index;Poland;PLN;2
+HUF_PurchasingManagerIndex;20220301;08:00;Purchasing Manager Index;Hungary;HUF;1
+HUF_ProducerPriceIndex;20220301;08:00;Producer Price Index (YoY);Hungary;HUF;1
+CZK_GrossDomesticProduct;20220301;08:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+CZK_MarkitPMI;20220301;08:30;Markit PMI;Czech Republic;CZK;1
+CHF_SVMEPurchasingManagers'Index;20220301;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+EUR_EurMarkitManufacturingPMI;20220301;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;1
+GBP_NetLendingtoIndividuals;20220301;09:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20220301;09:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20220301;09:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_MarkitManufacturingPMI;20220301;09:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+GBP_M4MoneySupply;20220301;09:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+DKK_ManufacturingPMI;20220301;10:00;Manufacturing PMI;Denmark;DKK;1
+ZAR_TotalNewVehicleSales;20220301;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+CZK_BudgetBalance;20220301;13:00;Budget Balance;Czech Republic;CZK;1
+EUR_EurCentralBankSpeech;20220301;13:00;ECB President Lagarde speech;European Monetary Union;EUR;3
+CAD_GrossDomesticProduct;20220301;13:30;Gross Domestic Product Annualized (QoQ);Canada;CAD;3
+USD_RedbookIndex;20220301;13:55;Redbook Index (YoY);United States;USD;1
+CAD_MarkitManufacturingPMI;20220301;14:30;Markit Manufacturing PMI;Canada;CAD;2
+USD_MarkitManufacturingPMI;20220301;14:45;Markit Manufacturing PMI;United States;USD;2
+NZD_GDTPriceIndex;20220301;14:50;GDT Price Index;New Zealand;NZD;1
+USD_ISMManufacturingEmploymentIndex;20220301;15:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ISMManufacturingPricesPaid;20220301;15:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ISMManufacturingPMI;20220301;15:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingNewOrdersIndex;20220301;15:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ConstructionSpending;20220301;15:00;Construction Spending (MoM);United States;USD;1
+GBP_CentralBankSpeech;20220301;19:00;BoE Mann speech;United Kingdom;GBP;2
+USD_TotalVehicleSales;20220301;20:30;Total Vehicle Sales;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20220301;21:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_BuildingPermits;20220301;21:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+NZD_TermsofTradeIndex;20220301;21:45;Terms of Trade Index;New Zealand;NZD;1
+JPY_CapitalSpending;20220301;23:50;Capital Spending;Japan;JPY;1
+JPY_MonetaryBase;20220301;23:50;Monetary Base (YoY);Japan;JPY;1

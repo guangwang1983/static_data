@@ -1,0 +1,28 @@
+KRW_UnemploymentRate;20110510;23:00;Unemployment Rate;South Korea;KRW;1
+KRW_ProducerPriceIndex;20110510;21:00;Producer Price Index Growth (YoY);South Korea;KRW;1
+USD_WholesaleInventories;20110510;14:00;Wholesale Inventories;United States;USD;1
+USD_IBDTIPPEconomicOptimism;20110510;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+USD_ExportPriceIndex;20110510;12:30;Export Price Index (MoM);United States;USD;1
+USD_ImportPriceIndex;20110510;12:30;Import Price Index (MoM);United States;USD;2
+EUR_PorGlobalTradeBalance;20110510;10:00;Global Trade Balance;Portugal;EUR;1
+RUB_ForeignTrade;20110510;09:14;Foreign Trade;Russia;RUB;1
+SEK_IndustrialProduction;20110510;08:30;Industrial Production (YoY);Sweden;SEK;1
+NOK_ConsumerPriceIndex;20110510;08:00;Consumer Price Index (YoY);Norway;NOK;1
+NOK_CoreInflation;20110510;08:00;Core Inflation (MoM);Norway;NOK;1
+NOK_ProducerPriceIndex;20110510;08:00;Producer Price Index (YoY);Norway;NOK;1
+DKK_Inflation;20110510;07:30;Inflation (HICP) (YoY);Denmark;DKK;1
+DKK_ConsumerPriceIndex;20110510;07:30;Consumer Price Index (YoY);Denmark;DKK;1
+EUR_NetManufacturingOutput;20110510;07:30;Manufacturing Output (MoM);Netherlands, The;EUR;1
+EUR_NetConsumerPriceIndex;20110510;07:30;Consumer Price Index n.s.a (YoY);Netherlands, The;EUR;1
+CHF_ConsumerPriceIndex;20110510;07:15;Consumer Price Index (YoY);Switzerland;CHF;3
+CZK_ConsumerPriceIndex;20110510;07:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+RON_TradeBalance;20110510;07:00;Trade Balance;Romania;RON;1
+EUR_FinIndustrialOutput;20110510;07:00;Industrial Output (MoM);Finland;EUR;1
+RON_ConsumerPriceIndex;20110510;07:00;Consumer Price Index;Romania;RON;1
+EUR_ItaIndustrialOutput;20110510;07:00;Industrial Output s.a. (MoM);Italy;EUR;1
+HUF_TradeBalance;20110510;07:00;Trade Balance;Hungary;HUF;1
+CZK_ForeignTradeBalance;20110510;07:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+EUR_FraIndustrialOutput;20110510;06:45;Industrial Output (MoM);France;EUR;1
+CHF_SECOConsumerClimate;20110510;05:45;SECO Consumer Climate (3m);Switzerland;CHF;1
+CNY_TradeBalanceUSD;20110510;02:00;Trade Balance USD;China;CNY;1
+AUD_TradeBalance;20110510;01:30;Trade Balance;Australia;AUD;1

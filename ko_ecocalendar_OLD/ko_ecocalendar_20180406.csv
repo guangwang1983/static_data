@@ -1,0 +1,47 @@
+USD_CFTCUSDNCNetPositions;20180406;19:30;CFTC USD NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20180406;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCGoldNCNetPositions;20180406;19:30;CFTC Gold NC Net Positions;United States;USD;1
+AUD_CFTCAUDNCNetPositions;20180406;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCOilNCNetPositions;20180406;19:30;CFTC Oil NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20180406;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+GBP_CFTCGBPNCNetPositions;20180406;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_ConsumerCreditChange;20180406;19:00;Consumer Credit Change;United States;USD;2
+USD_CentralBankSpeech;20180406;17:30;Fed Chair Powell speech;United States;USD;3
+USD_BakerHughesUSOilRigCount;20180406;17:00;Baker Hughes US Oil Rig Count;United States;USD;2
+GBP_CentralBankSpeech;20180406;15:15;BoE Governor Carney speech;United Kingdom;GBP;3
+TRY_TreasuryCashBalance;20180406;14:30;Treasury Cash Balance;Turkey;TRY;1
+CAD_IveyPurchasingManagersIndex;20180406;14:00;Ivey Purchasing Managers Index;Canada;CAD;2
+RUB_ConsumerPriceIndex;20180406;13:00;Consumer Price Index (MoM);Russia;RUB;1
+USD_NonfarmPayrolls;20180406;12:30;Nonfarm Payrolls;United States;USD;3
+USD_AverageHourlyEarnings;20180406;12:30;Average Hourly Earnings (YoY);United States;USD;3
+USD_UnemploymentRate;20180406;12:30;Unemployment Rate;United States;USD;2
+USD_AverageWeeklyHours;20180406;12:30;Average Weekly Hours;United States;USD;1
+USD_LaborForceParticipationRate;20180406;12:30;Labor Force Participation Rate;United States;USD;2
+CAD_UnemploymentRate;20180406;12:30;Unemployment Rate;Canada;CAD;3
+CAD_ParticipationRate;20180406;12:30;Participation Rate;Canada;CAD;2
+CAD_AverageHourlyWages;20180406;12:30;Average Hourly Wages (YoY);Canada;CAD;2
+CAD_NetChangeinEmployment;20180406;12:30;Net Change in Employment;Canada;CAD;3
+PLN_CentralBankFXReserves;20180406;12:00;Central Bank FX Reserves;Poland;PLN;1
+INR_FXReservesUSD;20180406;11:30;FX Reserves, USD;India;INR;1
+CLP_ConsumerPriceIndex;20180406;11:00;Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+CZK_FXReserves;20180406;08:00;FX Reserves;Czech Republic;CZK;1
+EUR_EurCentralBankSpeech;20180406;07:45;ECB Cœuré speech;European Monetary Union;EUR;2
+HUF_IndustrialOutput;20180406;07:00;Industrial Output (YoY);Hungary;HUF;1
+EUR_AusWholesalePrices;20180406;07:00;Wholesale Prices n.s.a (MoM);Austria;EUR;1
+CZK_RetailSales;20180406;07:00;Retail Sales (YoY);Czech Republic;CZK;1
+CZK_IndustrialProduction;20180406;07:00;Industrial Production (YoY);Czech Republic;CZK;1
+CHF_ForeignCurrencyReserves;20180406;07:00;Foreign Currency Reserves;Switzerland;CHF;1
+EUR_SpaIndustrialOutputCalAdjusted;20180406;07:00;Industrial Output Cal Adjusted (YoY);Spain;EUR;1
+CZK_Constructionoutput;20180406;07:00;Construction output (YoY);Czech Republic;CZK;1
+EUR_FraTradeBalanceEUR;20180406;06:45;Trade Balance EUR;France;EUR;1
+EUR_FraImportsEUR;20180406;06:45;Imports, EUR;France;EUR;1
+EUR_FraExportsEUR;20180406;06:45;Exports, EUR;France;EUR;1
+EUR_FraCurrentAccount;20180406;06:45;Current Account;France;EUR;1
+EUR_GerIndustrialProduction;20180406;06:00;Industrial Production s.a. (MoM);Germany;EUR;1
+DKK_IndustrialProduction;20180406;06:00;Industrial Production (MoM);Denmark;DKK;1
+JPY_LeadingEconomicIndex;20180406;05:00;Leading Economic Index;Japan;JPY;2
+JPY_CoincidentIndex;20180406;05:00;Coincident Index;Japan;JPY;1
+HKD_NikkeiManufacturingPMI;20180406;00:30;Nikkei Manufacturing PMI;Hong Kong SAR;HKD;1
+JPY_LaborCashEarnings;20180406;00:00;Labor Cash Earnings (YoY);Japan;JPY;1
+CNY_TombSweepingDay;20180406;00:00;Tomb Sweeping Day;China;CNY;0
+COP_ConsumerPriceIndex;20180406;00:00;Consumer Price Index (YoY);Colombia;COP;1

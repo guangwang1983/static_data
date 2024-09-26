@@ -1,0 +1,40 @@
+AUD_WestpacConsumerConfidenceIndex;20160615;00:30;Westpac Consumer Confidence Index;Australia;AUD;1
+AUD_WestpacConsumerConfidence;20160615;00:30;Westpac Consumer Confidence;Australia;AUD;2
+KRW_TradeBalance;20160615;00:32;Trade Balance;South Korea;KRW;1
+IDR_Imports;20160615;04:00;Imports;Indonesia;IDR;1
+IDR_Exports;20160615;04:00;Exports;Indonesia;IDR;1
+IDR_TradeBalance;20160615;04:00;Trade Balance;Indonesia;IDR;1
+RUB_GrossDomesticProduct;20160615;06:00;Gross Domestic Product Quarterly (YoY);Russia;RUB;1
+EUR_FraConsumerPriceIndex;20160615;06:45;Consumer Price Index (EU norm) (YoY);France;EUR;1
+EUR_FraInflationextobacco;20160615;06:45;Inflation ex-tobacco (MoM);France;EUR;1
+TRY_UnemploymentRate;20160615;07:00;Unemployment Rate;Turkey;TRY;1
+TRY_BudgetBalance;20160615;08:00;Budget Balance;Turkey;TRY;1
+GBP_ClaimantCountRate;20160615;08:30;Claimant Count Rate;United Kingdom;GBP;1
+GBP_ClaimantCountChange;20160615;08:30;Claimant Count Change;United Kingdom;GBP;1
+GBP_ILOUnemploymentRate;20160615;08:30;ILO Unemployment Rate (3M);United Kingdom;GBP;1
+GBP_AverageEarningsIncludingBonus;20160615;08:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;1
+GBP_AverageEarningsExcludingBonus;20160615;08:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;1
+EUR_EurTradeBalance;20160615;09:00;Trade Balance s.a.;European Monetary Union;EUR;2
+CNY_M2MoneySupply;20160615;11:00;M2 Money Supply (YoY);China;CNY;1
+USD_MBAMortgageApplications;20160615;11:00;MBA Mortgage Applications;United States;USD;1
+ZAR_RetailSales;20160615;11:00;Retail Sales (YoY);South Africa;ZAR;1
+CNY_NewLoans;20160615;11:00;New Loans;China;CNY;1
+EUR_GerAuction;20160615;12:28;10-y Bond Auction;Germany;EUR;2
+USD_NYEmpireStateManufacturingIndex;20160615;12:30;NY Empire State Manufacturing Index;United States;USD;1
+USD_ProducerPriceIndex;20160615;12:30;Producer Price Index (YoY);United States;USD;1
+CAD_ManufacturingSales;20160615;12:30;Manufacturing Sales (MoM);Canada;CAD;1
+USD_IndustrialProduction;20160615;13:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20160615;13:15;Capacity Utilization;United States;USD;2
+EUR_GerCentralBankSpeech;20160615;14:00;German Buba President Weidmann speech;Germany;EUR;2
+NZD_GDTPriceIndex;20160615;14:28;GDT Price Index;New Zealand;NZD;1
+USD_EIACrudeOilStocksChange;20160615;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_FOMCEconomicProjections;20160615;18:00;FOMC Economic Projections;United States;USD;3
+USD_FedMonetaryPolicyStatement;20160615;18:00;Fed Monetary Policy Statement;United States;USD;3
+USD_FedInterestRateDecision;20160615;18:00;Fed Interest Rate Decision;United States;USD;3
+USD_FOMCPressConference;20160615;18:30;FOMC Press Conference;United States;USD;3
+USD_NetLongTermTICFlows;20160615;20:00;Net Long-Term TIC Flows;United States;USD;1
+USD_TotalNetTICFlows;20160615;20:00;Total Net TIC Flows;United States;USD;1
+NZD_GrossDomesticProduct;20160615;22:45;Gross Domestic Product (QoQ);New Zealand;NZD;2
+CAD_CentralBankSpeech;20160615;23:40;BoC Governor Poloz speech;Canada;CAD;3
+JPY_ForeignInvestmentinJapanStocks;20160615;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20160615;23:50;Foreign Bond Investment;Japan;JPY;2

@@ -1,0 +1,40 @@
+AUD_CFTCAUDNCNetPositions;20210423;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20210423;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+USD_CFTCS&P500NCNetPositions;20210423;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20210423;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCOilNCNetPositions;20210423;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20210423;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20210423;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_BakerHughesUSOilRigCount;20210423;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+EUR_EurCentralBankSpeech;20210423;14:30;ECB President Lagarde speech;European Monetary Union;EUR;3
+USD_NewHomeSales;20210423;14:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20210423;14:00;New Home Sales Change (MoM);United States;USD;1
+USD_MarkitPMIComposite;20210423;13:45;Markit PMI Composite;United States;USD;2
+USD_MarkitServicesPMI;20210423;13:45;Markit Services PMI;United States;USD;2
+USD_MarkitManufacturingPMI;20210423;13:45;Markit Manufacturing PMI;United States;USD;2
+EUR_SloCurrentAccount;20210423;13:00;Current Account Balance EUR;Slovakia;EUR;1
+PLN_M3MoneySupply;20210423;12:00;M3 Money Supply (YoY);Poland;PLN;1
+INR_BankLoanGrowth;20210423;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20210423;11:30;FX Reserves, USD;India;INR;1
+MXN_RetailSales;20210423;11:00;Retail Sales (MoM);Mexico;MXN;1
+RUB_Interestratedecision;20210423;10:30;Interest rate decision;Russia;RUB;2
+HKD_ConsumerPriceIndex;20210423;09:00;Consumer Price Index;Hong Kong SAR;HKD;1
+GBP_MarkitManufacturingPMI;20210423;08:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+GBP_MarkitServicesPMI;20210423;08:30;Markit Services PMI;United Kingdom;GBP;3
+EUR_AusIndustrialProduction;20210423;08:00;Industrial Production (YoY);Austria;EUR;1
+EUR_EurMarkitPMIComposite;20210423;08:00;Markit PMI Composite;European Monetary Union;EUR;3
+EUR_EurMarkitManufacturingPMI;20210423;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20210423;08:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_GerMarkitServicesPMI;20210423;07:30;Markit Services PMI;Germany;EUR;2
+EUR_GerMarkitManufacturingPMI;20210423;07:30;Markit Manufacturing PMI;Germany;EUR;3
+EUR_GerMarkitPMIComposite;20210423;07:30;Markit PMI Composite;Germany;EUR;3
+EUR_FraMarkitManufacturingPMI;20210423;07:15;Markit Manufacturing PMI;France;EUR;2
+EUR_FraMarkitServicesPMI;20210423;07:15;Markit Services PMI;France;EUR;1
+EUR_FraMarkitPMIComposite;20210423;07:15;Markit PMI Composite;France;EUR;1
+GBP_RetailSales;20210423;06:00;Retail Sales (MoM);United Kingdom;GBP;2
+GBP_PublicSectorNetBorrowing;20210423;06:00;Public Sector Net Borrowing;United Kingdom;GBP;1
+SGD_ConsumerPriceIndex;20210423;05:00;Consumer Price Index (YoY);Singapore;SGD;1
+EUR_IreConsumerConfidence;20210423;05:00;Consumer Confidence;Ireland;EUR;1
+NZD_CreditCardSpending;20210423;03:00;Credit Card Spending (YoY);New Zealand;NZD;1
+SGD_Unemploymentrate;20210423;02:30;Unemployment rate;Singapore;SGD;1
+JPY_JibunBankManufacturingPMI;20210423;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1

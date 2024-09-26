@@ -1,0 +1,26 @@
+AUD_HousePriceIndex;20160920;01:30;House Price Index (QoQ);Australia;AUD;2
+AUD_RBAMeetingMinutes;20160920;01:30;RBA Meeting Minutes;Australia;AUD;3
+CHF_SECOEconomicForecasts;20160920;05:45;SECO Economic Forecasts;Switzerland;CHF;2
+CHF_TradeBalance;20160920;06:00;Trade Balance;Switzerland;CHF;1
+CHF_Exports;20160920;06:00;Exports (MoM);Switzerland;CHF;1
+CHF_Imports;20160920;06:00;Imports (MoM);Switzerland;CHF;1
+EUR_GerProducerPriceIndex;20160920;06:00;Producer Price Index (YoY);Germany;EUR;2
+HUF_GrossWages;20160920;07:00;Gross Wages (YoY);Hungary;HUF;1
+CZK_ForeignDebt;20160920;08:00;Foreign Debt;Czech Republic;CZK;1
+GBP_Auction;20160920;10:35;30-y Bond Auction;United Kingdom;GBP;1
+HUF_MNBInterestRateDecision;20160920;12:00;MNB Interest Rate Decision;Hungary;HUF;0
+USD_HousingStarts;20160920;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20160920;12:30;Building Permits (MoM);United States;USD;2
+USD_BuildingPermitsChange;20160920;12:30;Building Permits Change;United States;USD;1
+USD_HousingStartsChange;20160920;12:30;Housing Starts Change;United States;USD;1
+USD_RedbookIndex;20160920;12:55;Redbook Index (YoY);United States;USD;1
+NZD_GDTPriceIndex;20160920;14:12;GDT Price Index;New Zealand;NZD;3
+USD_Auction;20160920;15:30;4-Week Bill Auction;United States;USD;1
+CAD_CentralBankSpeech;20160920;16:45;BoC Governor Poloz speech;Canada;CAD;1
+USD_APIWeeklyCrudeOilStock;20160920;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_ProducerPriceIndex;20160920;21:00;Producer Price Index Growth (YoY);South Korea;KRW;1
+NZD_VisitorArrivals;20160920;22:45;Visitor Arrivals (YoY);New Zealand;NZD;1
+JPY_Imports;20160920;23:50;Imports (YoY);Japan;JPY;2
+JPY_Exports;20160920;23:50;Exports (YoY);Japan;JPY;2
+JPY_MerchandiseTradeBalanceTotal;20160920;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20160920;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;2

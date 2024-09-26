@@ -1,0 +1,50 @@
+GBP_RetailSales;20170207;00:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+NZD_RBNZInflationExpectations;20170207;02:00;RBNZ Inflation Expectations (QoQ);New Zealand;NZD;2
+AUD_RBARateStatement;20170207;03:30;RBA Rate Statement;Australia;AUD;3
+AUD_RBAInterestRateDecision;20170207;03:30;RBA Interest Rate Decision;Australia;AUD;3
+JPY_CoincidentIndex;20170207;05:00;Coincident Index;Japan;JPY;2
+JPY_LeadingEconomicIndex;20170207;05:00;Leading Economic Index;Japan;JPY;2
+RUB_ConsumerPriceIndex;20170207;06:00;Consumer Price Index (MoM);Russia;RUB;1
+ZAR_Gross$Gold&ForexReserve;20170207;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+ZAR_Net$Gold&ForexReserve;20170207;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+CHF_SECOConsumerClimate;20170207;06:45;SECO Consumer Climate (3m);Switzerland;CHF;2
+EUR_GerIndustrialProduction;20170207;07:00;Industrial Production n.s.a. w.d.a. (YoY);Germany;EUR;1
+EUR_FraTradeBalanceEUR;20170207;07:45;Trade Balance EUR;France;EUR;1
+EUR_FraExportsEUR;20170207;07:45;Exports, EUR;France;EUR;1
+EUR_FraImportsEUR;20170207;07:45;Imports, EUR;France;EUR;1
+EUR_FraCurrentAccount;20170207;07:45;Current Account;France;EUR;1
+EUR_FraIndividualInvestment;20170207;07:45;Individual Investment (Current Year);France;EUR;1
+EUR_FraBudgetBalance;20170207;07:45;Budget Balance;France;EUR;1
+HUF_IndustrialOutput;20170207;08:00;Industrial Output (YoY);Hungary;HUF;1
+CZK_IndustrialProduction;20170207;08:00;Industrial Production (YoY);Czech Republic;CZK;1
+CHF_ForeignCurrencyReserves;20170207;08:00;Foreign Currency Reserves;Switzerland;CHF;1
+DKK_IndustrialProduction;20170207;08:00;Industrial Production (MoM);Denmark;DKK;1
+CNY_ForeignExchangeReserves;20170207;08:00;Foreign Exchange Reserves (MoM);China;CNY;1
+CZK_Constructionoutput;20170207;08:00;Construction output (YoY);Czech Republic;CZK;1
+CZK_ForeignTradeBalance;20170207;08:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+GBP_HalifaxHousePrices;20170207;08:30;Halifax House Prices (MoM);United Kingdom;GBP;1
+CZK_FXReserves;20170207;09:00;FX Reserves;Czech Republic;CZK;1
+HUF_BudgetBalance;20170207;10:00;Budget Balance;Hungary;HUF;1
+CLP_TradeBalance;20170207;11:30;Trade Balance;Chile;CLP;1
+RON_Interestratedecision;20170207;12:00;Interest rate decision;Romania;RON;1
+PLN_CentralBankFXReserves;20170207;13:00;Central Bank FX Reserves;Poland;PLN;1
+USD_GoodsandServicesTradeBalance;20170207;13:30;Goods and Services Trade Balance;United States;USD;2
+CAD_BuildingPermits;20170207;13:30;Building Permits (MoM);Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20170207;13:30;International Merchandise Trade;Canada;CAD;1
+CAD_Exports;20170207;13:30;Exports;Canada;CAD;1
+CAD_Imports;20170207;13:30;Imports;Canada;CAD;1
+USD_RedbookIndex;20170207;13:55;Redbook Index (YoY);United States;USD;1
+NZD_GDTPriceIndex;20170207;14:02;GDT Price Index;New Zealand;NZD;1
+TRY_TreasuryCashBalance;20170207;14:30;Treasury Cash Balance;Turkey;TRY;1
+USD_JOLTSJobOpenings;20170207;15:00;JOLTS Job Openings;United States;USD;1
+CAD_IveyPurchasingManagersIndex;20170207;15:00;Ivey Purchasing Managers Index;Canada;CAD;2
+USD_IBDTIPPEconomicOptimism;20170207;15:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+EUR_GerCentralBankSpeech;20170207;16:35;German Buba President Weidmann speech;Germany;EUR;2
+USD_Auction;20170207;18:00;3-Year Note Auction;United States;USD;1
+USD_ConsumerCreditChange;20170207;20:00;Consumer Credit Change;United States;USD;2
+USD_APIWeeklyCrudeOilStock;20170207;21:30;API Weekly Crude Oil Stock;United States;USD;1
+JPY_BankLending;20170207;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_JPForeignReserves;20170207;23:50;JP Foreign Reserves;Japan;JPY;1
+JPY_BoJSummaryofOpinions;20170207;23:50;BoJ Summary of Opinions;Japan;JPY;1
+JPY_TradeBalanceBOPBasis;20170207;23:50;Trade Balance - BOP Basis;Japan;JPY;1
+JPY_CurrentAccount;20170207;23:50;Current Account n.s.a.;Japan;JPY;1

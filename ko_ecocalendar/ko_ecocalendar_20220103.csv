@@ -1,0 +1,32 @@
+KRW_S&PGlobalManufacturingPMI;20220103;00:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+IDR_Inflation;20220103;04:00;Inflation (MoM);Indonesia;IDR;1
+IDR_CoreInflation;20220103;04:00;Core Inflation (YoY);Indonesia;IDR;1
+TRY_ProducerPriceIndex;20220103;07:00;Producer Price Index (MoM);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20220103;07:00;Consumer Price Index (YoY);Turkey;TRY;1
+SEK_PurchasingManagersIndexManufacturing;20220103;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+TRY_Exports;20220103;08:00;Exports;Turkey;TRY;1
+HUF_PurchasingManagerIndex;20220103;08:00;Purchasing Manager Index;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20220103;08:00;Purchasing Manager Index;Poland;PLN;2
+CHF_SVMEPurchasingManagers'Index;20220103;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_S&PGlobalPMI;20220103;08:30;S&P Global PMI;Czech Republic;CZK;1
+EUR_ItaHCOBManufacturingPMI;20220103;08:45;HCOB Manufacturing PMI;Italy;EUR;2
+EUR_FraHCOBManufacturingPMI;20220103;08:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerHCOBManufacturingPMI;20220103;08:55;HCOB Manufacturing PMI;Germany;EUR;2
+EUR_EurHCOBManufacturingPMI;20220103;09:00;HCOB Manufacturing PMI;European Monetary Union;EUR;1
+DKK_ManufacturingPMI;20220103;10:00;Manufacturing PMI;Denmark;DKK;1
+CLP_IMACEC;20220103;11:30;IMACEC;Chile;CLP;1
+CLP_Unemploymentrate;20220103;11:50;Unemployment rate;Chile;CLP;1
+BRL_S&PGlobalManufacturingPMI;20220103;13:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+ILS_BoIInterestRateDecision;20220103;14:00;BoI Interest Rate Decision;Israel;ILS;1
+USD_S&PGlobalManufacturingPMI;20220103;14:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_ConstructionSpending;20220103;15:00;Construction Spending (MoM);United States;USD;1
+USD_Auction;20220103;16:30;3-Month Bill Auction;United States;USD;1
+BRL_TradeBalance;20220103;18:00;Trade Balance;Brazil;BRL;1
+AUD_CFTCAUDNCNetPositions;20220103;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20220103;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+USD_CFTCS&P500NCNetPositions;20220103;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20220103;20:30;CFTC Oil NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20220103;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+GBP_CFTCGBPNCNetPositions;20220103;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20220103;20:30;CFTC Gold NC Net Positions;United States;USD;1
+AUD_S&PGlobalManufacturingPMI;20220103;22:00;S&P Global Manufacturing PMI;Australia;AUD;1

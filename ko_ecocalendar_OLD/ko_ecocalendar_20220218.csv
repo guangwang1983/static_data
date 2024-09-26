@@ -1,0 +1,25 @@
+TRY_ConsumerConfidence;20220218;07:00;Consumer Confidence;Turkey;TRY;1
+DKK_ConsumerConfidence;20220218;07:00;Consumer Confidence;Denmark;DKK;1
+GBP_RetailSales;20220218;07:00;Retail Sales ex-Fuel (YoY);United Kingdom;GBP;2
+SEK_ConsumerPriceIndex;20220218;07:00;Consumer Price Index (MoM);Sweden;SEK;1
+CHF_IndustrialProduction;20220218;07:30;Industrial Production (YoY);Switzerland;CHF;2
+PLN_IndustrialOutput;20220218;09:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20220218;09:00;Producer Price Index (YoY);Poland;PLN;1
+PLN_CorporateSectorWages;20220218;09:00;Corporate Sector Wages;Poland;PLN;1
+EUR_EurCurrentAccount;20220218;09:00;Current Account s.a;European Monetary Union;EUR;1
+EUR_EurConstructionOutput;20220218;10:00;Construction Output  s.a (MoM);European Monetary Union;EUR;1
+CAD_NewHousingPriceIndex;20220218;13:30;New Housing Price Index (YoY);Canada;CAD;1
+CAD_RetailSales;20220218;13:30;Retail Sales ex Autos (MoM);Canada;CAD;2
+USD_ExistingHomeSales;20220218;15:00;Existing Home Sales (MoM);United States;USD;1
+USD_ExistingHomeSalesChange;20220218;15:00;Existing Home Sales Change (MoM);United States;USD;1
+EUR_EurConsumerConfidence;20220218;15:00;Consumer Confidence;European Monetary Union;EUR;2
+USD_BakerHughesUSOilRigCount;20220218;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CentralBankSpeech;20220218;18:30;Fed Brainard speech;United States;USD;2
+EUR_EurCentralBankSpeech;20220218;18:30;ECB Panetta speech;European Monetary Union;EUR;2
+USD_CFTCOilNCNetPositions;20220218;20:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20220218;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20220218;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20220218;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20220218;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20220218;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20220218;20:30;CFTC AUD NC Net Positions;Australia;AUD;1

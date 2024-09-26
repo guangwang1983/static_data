@@ -1,0 +1,25 @@
+JPY_CoincidentIndex;20211108;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20211108;05:00;Leading Economic Index;Japan;JPY;2
+ZAR_Gross$Gold&ForexReserve;20211108;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+ZAR_Net$Gold&ForexReserve;20211108;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+CHF_UnemploymentRate;20211108;06:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+NOK_ManufacturingOutput;20211108;07:00;Manufacturing Output;Norway;NOK;1
+CZK_IndustrialProduction;20211108;08:00;Industrial Production (YoY);Czech Republic;CZK;1
+CZK_Constructionoutput;20211108;08:00;Construction output (YoY);Czech Republic;CZK;1
+CZK_ForeignTradeBalance;20211108;08:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+CZK_UnemploymentRate;20211108;09:00;Unemployment Rate;Czech Republic;CZK;1
+EUR_EurSentixInvestorConfidence;20211108;09:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+EUR_EurEurogroupMeeting;20211108;10:00;Eurogroup Meeting;European Monetary Union;EUR;2
+RUB_CentralBankReserves;20211108;13:00;Central Bank Reserves $;Russia;RUB;1
+EUR_EurCentralBankSpeech;20211108;14:00;ECB Lane speech;European Monetary Union;EUR;2
+GBP_CentralBankSpeech;20211108;17:00;BoE Governor Bailey speech;United Kingdom;GBP;3
+USD_LoanOfficerSurvey;20211108;18:00;Loan Officer Survey;United States;USD;1
+USD_Auction;20211108;18:00;3-Year Note Auction;United States;USD;1
+USD_CentralBankSpeech;20211108;18:50;Fed Evans speech;United States;USD;2
+AUD_NationalAustraliaBankBusinessConfidence;20211108;20:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20211108;20:30;National Australia Bank Business Conditions;Australia;AUD;1
+NZD_RetailSales;20211108;21:45;Electronic Card Retail Sales (YoY);New Zealand;NZD;1
+JPY_LaborCashEarnings;20211108;23:30;Labor Cash Earnings (YoY);Japan;JPY;1
+JPY_BankLending;20211108;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_CurrentAccount;20211108;23:50;Current Account n.s.a.;Japan;JPY;2
+JPY_TradeBalanceBOPBasis;20211108;23:50;Trade Balance - BOP Basis;Japan;JPY;1

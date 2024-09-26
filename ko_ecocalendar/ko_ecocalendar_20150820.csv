@@ -1,0 +1,23 @@
+HUF_SaintStephenDay;20150820;00:00;Saint Stephen Day;Hungary;HUF;0
+AUD_RBAForeignExchangeTransaction;20150820;01:30;RBA Foreign Exchange Transaction;Australia;AUD;1
+CNY_MNIBusinessSentimentIndicator;20150820;01:45;MNI Business Sentiment Indicator;China;CNY;1
+CHF_TradeBalance;20150820;06:00;Trade Balance;Switzerland;CHF;2
+CHF_Exports;20150820;06:00;Exports (MoM);Switzerland;CHF;1
+CHF_Imports;20150820;06:00;Imports (MoM);Switzerland;CHF;1
+EUR_GerProducerPriceIndex;20150820;06:00;Producer Price Index (YoY);Germany;EUR;1
+USD_CentralBankSpeech;20150820;06:45;Fed Williams speech;United States;USD;1
+DKK_RetailSales;20150820;07:00;Retail Sales (YoY);Denmark;DKK;1
+SEK_UnemploymentRate;20150820;07:30;Unemployment Rate;Sweden;SEK;1
+NOK_GrossDomesticProduct;20150820;08:00;Gross Domestic Product Growth;Norway;NOK;1
+GBP_RetailSales;20150820;08:30;Retail Sales ex-Fuel (YoY);United Kingdom;GBP;2
+GBP_CBIIndustrialTrendsSurvey–Orders;20150820;10:00;CBI Industrial Trends Survey – Orders (MoM);United Kingdom;GBP;1
+RUB_CentralBankReserves;20150820;12:01;Central Bank Reserves $;Russia;RUB;1
+BRL_UnemploymentRate;20150820;12:30;Unemployment Rate;Brazil;BRL;1
+USD_JoblessClaims;20150820;12:30;Continuing Jobless Claims;United States;USD;2
+CAD_WholesaleSales;20150820;12:30;Wholesale Sales (MoM);Canada;CAD;1
+MXN_GrossDomesticProduct;20150820;13:00;Gross Domestic Product (QoQ);Mexico;MXN;1
+USD_ExistingHomeSales;20150820;14:00;Existing Home Sales (MoM);United States;USD;1
+USD_ExistingHomeSalesChange;20150820;14:00;Existing Home Sales Change (MoM);United States;USD;2
+USD_PhiladelphiaFedManufacturingSurvey;20150820;14:00;Philadelphia Fed Manufacturing Survey;United States;USD;2
+USD_EIANaturalGasStorageChange;20150820;14:30;EIA Natural Gas Storage Change;United States;USD;1
+NZD_VisitorArrivals;20150820;22:45;Visitor Arrivals (YoY);New Zealand;NZD;1

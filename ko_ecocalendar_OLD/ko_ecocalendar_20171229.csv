@@ -1,0 +1,31 @@
+MXN_FiscalBalancepesos;20171229;21:00;Fiscal Balance, pesos;Mexico;MXN;1
+AUD_CFTCAUDNCNetPositions;20171229;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+JPY_CFTCJPYNCNetPositions;20171229;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCGoldNCNetPositions;20171229;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCUSDNCNetPositions;20171229;20:30;CFTC USD NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20171229;20:30;CFTC Oil NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20171229;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+GBP_CFTCGBPNCNetPositions;20171229;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_BakerHughesUSOilRigCount;20171229;18:00;Baker Hughes US Oil Rig Count;United States;USD;2
+COP_NationalJoblessRate;20171229;15:00;National Jobless Rate;Colombia;COP;1
+EUR_GerConsumerPriceIndex;20171229;13:00;Consumer Price Index (MoM);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20171229;13:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+TRY_ForeignArrivals;20171229;12:00;Foreign Arrivals;Turkey;TRY;1
+CLP_Unemploymentrate;20171229;12:00;Unemployment rate;Chile;CLP;1
+CLP_IndustrialProduction;20171229;12:00;Industrial Production (YoY);Chile;CLP;1
+INR_FXReservesUSD;20171229;11:30;FX Reserves, USD;India;INR;1
+BRL_UnemploymentRate;20171229;11:00;Unemployment Rate;Brazil;BRL;1
+EUR_GreRetailSales;20171229;10:00;Retail Sales (YoY);Greece;EUR;1
+EUR_GreProducerPriceIndex;20171229;10:00;Producer Price Index (YoY);Greece;EUR;1
+INR_FederalFiscalDeficitINR;20171229;10:00;Federal Fiscal Deficit, INR;India;INR;1
+EUR_ItaProducerPriceIndex;20171229;09:16;Producer Price Index (YoY);Italy;EUR;1
+EUR_EurM3MoneySupply;20171229;09:00;M3 Money Supply (YoY);European Monetary Union;EUR;1
+EUR_EurPrivateLoans;20171229;09:00;Private Loans (YoY);European Monetary Union;EUR;1
+EUR_SpaCurrentAccount;20171229;09:00;Current Account Balance;Spain;EUR;1
+EUR_SpaHICP;20171229;08:00;HICP (YoY);Spain;EUR;1
+EUR_AusProducerPriceIndex;20171229;08:00;Producer Price Index (MoM);Austria;EUR;1
+TRY_TradeBalance;20171229;07:00;Trade Balance;Turkey;TRY;1
+RUB_PurchasingManagerIndexServices;20171229;06:00;Purchasing Manager Index Services;Russia;RUB;1
+ZAR_PrivateSectorCredit;20171229;06:00;Private Sector Credit;South Africa;ZAR;1
+ZAR_M3MoneySupply;20171229;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+AUD_PrivateSectorCredit;20171229;00:30;Private Sector Credit (YoY);Australia;AUD;1

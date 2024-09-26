@@ -1,0 +1,41 @@
+AUD_RBABulletin;20240125;00:30;RBA Bulletin;Australia;AUD;1
+TRY_ManufacturingConfidence;20240125;07:00;Manufacturing Confidence;Turkey;TRY;1
+TRY_CapacityUtilization;20240125;07:00;Capacity Utilization;Turkey;TRY;1
+SEK_ProducerPriceIndex;20240125;07:00;Producer Price Index (MoM);Sweden;SEK;1
+EUR_FraBusinessClimateinManufacturing;20240125;07:45;Business Climate in Manufacturing;France;EUR;1
+EUR_GerIFO–CurrentAssessment;20240125;09:00;IFO – Current Assessment;Germany;EUR;2
+EUR_GerIFO–BusinessClimate;20240125;09:00;IFO – Business Climate;Germany;EUR;2
+EUR_GerIFO–Expectations;20240125;09:00;IFO – Expectations;Germany;EUR;2
+NOK_NorgesBankInterestRateDecision;20240125;09:00;Norges Bank Interest Rate Decision;Norway;NOK;2
+ZAR_ProducerPriceIndex;20240125;09:30;Producer Price Index (YoY);South Africa;ZAR;1
+TRY_CBRTInterestRateDecision;20240125;11:00;CBRT Interest Rate Decision;Turkey;TRY;2
+INR_M3MoneySupply;20240125;11:30;M3 Money Supply;India;INR;1
+MXN_JoblessRate;20240125;12:00;Jobless Rate s.a;Mexico;MXN;1
+BRL_CurrentAccount;20240125;12:30;Current Account;Brazil;BRL;1
+ZAR_SARBInterestRateDecision;20240125;13:00;SARB Interest Rate Decision;South Africa;ZAR;1
+RUB_CentralBankReserves;20240125;13:00;Central Bank Reserves $;Russia;RUB;1
+EUR_EurECBMainRefinancingOperationsRate;20240125;13:15;ECB Main Refinancing Operations Rate;Eurozone;EUR;3
+EUR_EurECBRateOnDepositFacility;20240125;13:15;ECB Rate On Deposit Facility;Eurozone;EUR;3
+EUR_EurECBMonetaryPolicyStatement;20240125;13:15;ECB Monetary Policy Statement;Eurozone;EUR;3
+USD_ChicagoFedNationalActivityIndex;20240125;13:30;Chicago Fed National Activity Index ;United States;USD;1
+USD_JoblessClaims;20240125;13:30;Initial Jobless Claims;United States;USD;2
+USD_GrossDomesticProduct;20240125;13:30;Gross Domestic Product Price Index;United States;USD;2
+USD_WholesaleInventories;20240125;13:30;Wholesale Inventories;United States;USD;1
+USD_GoodsTradeBalance;20240125;13:30;Goods Trade Balance;United States;USD;1
+USD_PersonalConsumptionExpendituresPrices;20240125;13:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+USD_CorePersonalConsumptionExpenditures;20240125;13:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+USD_DurableGoodsOrders;20240125;13:30;Durable Goods Orders ex Transportation;United States;USD;2
+USD_NondefenseCapitalGoodsOrdersexAircraft;20240125;13:30;Nondefense Capital Goods Orders ex Aircraft;United States;USD;2
+EUR_EurECBPressConference;20240125;13:45;ECB Press Conference;Eurozone;EUR;3
+AUD_AustraliaDay;20240125;14:00;Australia Day;Australia;AUD;0
+USD_NewHomeSales;20240125;15:00;New Home Sales (MoM);United States;USD;1
+USD_NewHomeSalesChange;20240125;15:00;New Home Sales Change (MoM);United States;USD;2
+USD_EIANaturalGasStorageChange;20240125;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_KansasFedManufacturingActivity;20240125;16:00;Kansas Fed Manufacturing Activity;United States;USD;1
+EUR_EurCentralBankSpeech;20240125;16:00;ECB President Lagarde speech;Eurozone;EUR;2
+USD_Auction;20240125;18:00;7-Year Note Auction;United States;USD;1
+INR_RepublicDay;20240125;18:30;Republic Day ;India;INR;0
+JPY_TokyoCPIexFoodEnergy;20240125;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;3
+JPY_ConsumerPriceIndex;20240125;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;3
+JPY_TokyoCPIexFreshFood;20240125;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;2
+JPY_CorporateServicePriceIndex;20240125;23:50;Corporate Service Price Index (YoY);Japan;JPY;1

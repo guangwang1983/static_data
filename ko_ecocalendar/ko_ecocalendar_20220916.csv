@@ -1,0 +1,37 @@
+CNY_HousePriceIndex;20220916;01:30;House Price Index ;China;CNY;1
+CNY_RetailSales;20220916;02:00;Retail Sales (YoY);China;CNY;3
+CNY_IndustrialProduction;20220916;02:00;Industrial Production (YoY);China;CNY;2
+CNY_NBSPressConference;20220916;02:00;NBS Press Conference;China;CNY;2
+CNY_FixedAssetInvestment;20220916;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+KRW_MoneySupplyGrowth;20220916;03:00;Money Supply Growth;South Korea;KRW;1
+MXN_IndependenceDay;20220916;06:00;Independence Day ;Mexico;MXN;0
+GBP_RetailSales;20220916;06:00;Retail Sales ex-Fuel (MoM);United Kingdom;GBP;2
+CZK_ProducerPriceIndex;20220916;07:00;Producer Price Index (YoY);Czech Republic;CZK;1
+EUR_ItaTradeBalanceEU;20220916;08:00;Trade Balance EU;Italy;EUR;1
+EUR_ItaGlobalTradeBalance;20220916;08:00;Global Trade Balance;Italy;EUR;1
+EUR_ItaTradeBalancenonEU;20220916;08:00;Trade Balance non-EU;Italy;EUR;1
+EUR_EurCentralBankSpeech;20220916;08:30;ECB President Lagarde speech;European Monetary Union;EUR;3
+EUR_EurHarmonizedIndexofConsumerPrices;20220916;09:00;Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;1
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20220916;09:00;Core Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;2
+EUR_ItaConsumerPriceIndex;20220916;09:00;Consumer Price Index (YoY);Italy;EUR;1
+RUB_Interestratedecision;20220916;10:30;Interest rate decision;Russia;RUB;2
+INR_FXReservesUSD;20220916;11:30;FX Reserves, USD;India;INR;1
+PLN_NetInflation;20220916;12:00;Net Inflation;Poland;PLN;1
+AUD_CentralBankSpeech;20220916;12:00;RBA Governor Lowe speech;Australia;AUD;3
+CAD_HousingStarts;20220916;12:15;Housing Starts s.a (YoY);Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20220916;12:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20220916;12:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_WholesaleSales;20220916;12:30;Wholesale Sales (MoM);Canada;CAD;1
+USD_UoM5yearConsumerInflationExpectation;20220916;14:00;UoM 5-year Consumer Inflation Expectation;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20220916;14:00;Michigan Consumer Sentiment Index;United States;USD;3
+COP_TradeBalance;20220916;15:00;Trade Balance;Colombia;COP;1
+USD_BakerHughesUSOilRigCount;20220916;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20220916;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20220916;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+GBP_CFTCGBPNCNetPositions;20220916;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20220916;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20220916;19:30;CFTC Oil NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20220916;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCS&P500NCNetPositions;20220916;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_TotalNetTICFlows;20220916;20:00;Total Net TIC Flows;United States;USD;1
+USD_NetLongTermTICFlows;20220916;20:00;Net Long-Term TIC Flows;United States;USD;1

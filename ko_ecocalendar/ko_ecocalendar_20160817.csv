@@ -1,0 +1,23 @@
+IDR_IndependenceDay;20160817;00:00;Independence Day;Indonesia;IDR;0
+AUD_WestpacLeadingIndex;20160817;00:30;Westpac Leading Index (MoM);Australia;AUD;1
+AUD_WagePriceIndex;20160817;01:30;Wage Price Index (YoY);Australia;AUD;1
+GBP_AverageEarningsIncludingBonus;20160817;08:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;1
+GBP_ClaimantCountChange;20160817;08:30;Claimant Count Change;United Kingdom;GBP;1
+GBP_ClaimantCountRate;20160817;08:30;Claimant Count Rate;United Kingdom;GBP;1
+GBP_ILOUnemploymentRate;20160817;08:30;ILO Unemployment Rate (3M);United Kingdom;GBP;1
+GBP_AverageEarningsExcludingBonus;20160817;08:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;1
+CHF_ZEWSurvey–Expectations;20160817;09:00;ZEW Survey – Expectations;Switzerland;CHF;2
+USD_MBAMortgageApplications;20160817;11:00;MBA Mortgage Applications;United States;USD;1
+ZAR_RetailSales;20160817;11:00;Retail Sales (YoY);South Africa;ZAR;1
+PLN_CorporateSectorWages;20160817;12:00;Corporate Sector Wages;Poland;PLN;1
+RUB_UnemploymentRate;20160817;13:00;Unemployment Rate;Russia;RUB;1
+RUB_ProducerPriceIndex;20160817;13:00;Producer Price Index (MoM);Russia;RUB;1
+USD_EIACrudeOilStocksChange;20160817;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_CentralBankSpeech;20160817;17:00;Fed Bullard speech;United States;USD;1
+USD_FOMCMinutes;20160817;18:00;FOMC Minutes;United States;USD;3
+JPY_AdjustedMerchandiseTradeBalance;20160817;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;2
+JPY_MerchandiseTradeBalanceTotal;20160817;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Imports;20160817;23:50;Imports (YoY);Japan;JPY;2
+JPY_Exports;20160817;23:50;Exports (YoY);Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20160817;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20160817;23:50;Foreign Bond Investment;Japan;JPY;2

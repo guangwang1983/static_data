@@ -1,0 +1,9 @@
+USD_ExistingHomeSalesChange;20081024;14:00;Existing Home Sales Change (MoM);United States;USD;1
+USD_ExistingHomeSales;20081024;14:00;Existing Home Sales (MoM);United States;USD;1
+CAD_ConsumerPriceIndex;20081024;11:00;Consumer Price Index (MoM);Canada;CAD;2
+GBP_GrossDomesticProduct;20081024;08:30;Gross Domestic Product (QoQ);United Kingdom;GBP;2
+GBP_IndexofServices;20081024;08:30;Index of Services (3M/3M);United Kingdom;GBP;1
+EUR_EurMarkitServicesPMI;20081024;08:00;Markit Services PMI;European Monetary Union;EUR;1
+EUR_EurMarkitManufacturingPMI;20081024;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;1
+EUR_GerMarkitManufacturingPMI;20081024;07:30;Markit Manufacturing PMI;Germany;EUR;2
+EUR_GerMarkitServicesPMI;20081024;07:30;Markit Services PMI;Germany;EUR;1

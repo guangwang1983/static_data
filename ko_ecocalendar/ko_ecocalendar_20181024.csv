@@ -1,0 +1,45 @@
+JPY_JibunBankManufacturingPMI;20181024;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+JPY_CoincidentIndex;20181024;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20181024;05:00;Leading Economic Index;Japan;JPY;2
+EUR_FraBusinessClimateinManufacturing;20181024;06:45;Business Climate in Manufacturing;France;EUR;1
+EUR_FraHCOBManufacturingPMI;20181024;07:15;HCOB Manufacturing PMI;France;EUR;1
+EUR_FraHCOBServicesPMI;20181024;07:15;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20181024;07:15;HCOB Composite PMI;France;EUR;1
+EUR_GerHCOBCompositePMI;20181024;07:30;HCOB Composite PMI;Germany;EUR;2
+EUR_GerHCOBManufacturingPMI;20181024;07:30;HCOB Manufacturing PMI;Germany;EUR;3
+EUR_GerHCOBServicesPMI;20181024;07:30;HCOB Services PMI;Germany;EUR;2
+SEK_RiksbankInterestRateDecision;20181024;07:30;Riksbank Interest Rate Decision;Sweden;SEK;1
+EUR_EurM3MoneySupply;20181024;08:00;M3 Money Supply (3m);European Monetary Union;EUR;1
+EUR_EurPrivateLoans;20181024;08:00;Private Loans (YoY);European Monetary Union;EUR;1
+ZAR_ConsumerPriceIndex;20181024;08:00;Consumer Price Index (YoY);South Africa;ZAR;1
+EUR_EurHCOBCompositePMI;20181024;08:00;HCOB Composite PMI;European Monetary Union;EUR;2
+EUR_EurHCOBManufacturingPMI;20181024;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurHCOBServicesPMI;20181024;08:00;HCOB Services PMI;European Monetary Union;EUR;2
+GBP_BBAMortgageApprovals;20181024;08:30;BBA Mortgage Approvals;United Kingdom;GBP;1
+EUR_ItaTradeBalancenonEU;20181024;10:00;Trade Balance non-EU;Italy;EUR;1
+USD_MBAMortgageApplications;20181024;11:00;MBA Mortgage Applications;United States;USD;1
+INR_M3MoneySupply;20181024;11:30;M3 Money Supply;India;INR;1
+MXN_JoblessRate;20181024;13:00;Jobless Rate;Mexico;MXN;1
+USD_HousingPriceIndex;20181024;13:00;Housing Price Index (MoM);United States;USD;2
+MXN_1sthalfmonthCoreInflation;20181024;13:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20181024;13:00;1st half-month Inflation;Mexico;MXN;1
+USD_S&PGlobalCompositePMI;20181024;13:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalManufacturingPMI;20181024;13:45;S&P Global Manufacturing PMI;United States;USD;1
+USD_S&PGlobalServicesPMI;20181024;13:45;S&P Global Services PMI;United States;USD;2
+CAD_BankofCanadaMonetaryPolicyReport;20181024;14:00;Bank of Canada Monetary Policy Report;Canada;CAD;3
+USD_NewHomeSales;20181024;14:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20181024;14:00;New Home Sales Change (MoM);United States;USD;1
+CAD_BoCInterestRateDecision;20181024;14:00;BoC Interest Rate Decision;Canada;CAD;3
+CAD_BoCRateStatement;20181024;14:00;BoC Rate Statement;Canada;CAD;3
+USD_EIACrudeOilStocksChange;20181024;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+CAD_BoCPressConference;20181024;15:15;BoC Press Conference;Canada;CAD;3
+USD_Auction;20181024;17:00;5-Year Note Auction;United States;USD;1
+USD_FedBeigeBook;20181024;18:00;Fed Beige Book;United States;USD;2
+NZD_TradeBalanceNZD;20181024;21:45;Trade Balance NZD (YoY);New Zealand;NZD;2
+NZD_Exports;20181024;21:45;Exports;New Zealand;NZD;2
+NZD_Imports;20181024;21:45;Imports;New Zealand;NZD;2
+KRW_GrossDomesticProduct;20181024;23:00;Gross Domestic Product Growth (YoY);South Korea;KRW;1
+USD_CentralBankSpeech;20181024;23:00;Fed Brainard speech;United States;USD;2
+JPY_CorporateServicePriceIndex;20181024;23:50;Corporate Service Price Index (YoY);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20181024;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20181024;23:50;Foreign Bond Investment;Japan;JPY;1

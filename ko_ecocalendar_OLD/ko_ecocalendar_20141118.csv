@@ -1,0 +1,29 @@
+AUD_WestpacLeadingIndex;20141118;23:30;Westpac Leading Index (MoM);Australia;AUD;1
+COP_TradeBalance;20141118;22:00;Trade Balance;Colombia;COP;1
+USD_NetLongTermTICFlows;20141118;21:00;Net Long-Term TIC Flows;United States;USD;2
+USD_TotalNetTICFlows;20141118;21:00;Total Net TIC Flows;United States;USD;1
+CLP_BCCHInterestRate;20141118;21:00;BCCH Interest Rate;Chile;CLP;1
+KRW_ProducerPriceIndex;20141118;21:00;Producer Price Index Growth (YoY);South Korea;KRW;1
+CAD_CentralBankSpeech;20141118;19:05;BoC Cote speech;Canada;CAD;1
+USD_CentralBankSpeech;20141118;18:30;Fed Minneapolis Kocherlakota speech;United States;USD;1
+USD_Auction;20141118;16:30;4-Week Bill Auction;United States;USD;1
+USD_NAHBHousingMarketIndex;20141118;15:00;NAHB Housing Market Index;United States;USD;2
+NZD_GDTPriceIndex;20141118;15:00;GDT Price Index;New Zealand;NZD;1
+USD_RedbookIndex;20141118;13:55;Redbook Index (MoM);United States;USD;1
+USD_ProducerPriceIndex;20141118;13:30;Producer Price Index (MoM);United States;USD;1
+CLP_GrossDomesticProduct;20141118;11:30;Gross Domestic Product (YoY);Chile;CLP;1
+EUR_EurZEWSurveyEconomicSentiment;20141118;10:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurveyEconomicSentiment;20141118;10:00;ZEW Survey - Economic Sentiment;Germany;EUR;3
+EUR_GerZEWSurveyCurrentSituation;20141118;10:00;ZEW Survey - Current Situation;Germany;EUR;2
+EUR_SpaAuction;20141118;09:58;12-Month Letras Auction;Spain;EUR;1
+GBP_RetailPriceIndex;20141118;09:30;Retail Price Index (MoM);United Kingdom;GBP;1
+GBP_DCLGHousePriceIndex;20141118;09:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ProducerPriceIndex;20141118;09:30;Producer Price Index - Input (YoY) n.s.a;United Kingdom;GBP;1
+GBP_PPICoreOutput;20141118;09:30;PPI Core Output (MoM) n.s.a;United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20141118;09:30;Core Consumer Price Index (YoY);United Kingdom;GBP;3
+AUD_CentralBankSpeech;20141118;08:25;RBA Governor Stevens speech;Australia;AUD;3
+CZK_ProducerPriceIndex;20141118;08:00;Producer Price Index (YoY);Czech Republic;CZK;1
+IDR_BankIndonesiaRate;20141118;07:00;Bank Indonesia Rate;Indonesia;IDR;1
+CNY_FDIForeignDirectInvestment;20141118;02:08;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+CNY_HousePriceIndex;20141118;01:30;House Price Index ;China;CNY;2
+AUD_RBAMeetingMinutes;20141118;00:30;RBA Meeting Minutes;Australia;AUD;2

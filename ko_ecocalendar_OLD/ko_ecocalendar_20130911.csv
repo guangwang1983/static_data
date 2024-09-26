@@ -1,0 +1,32 @@
+JPY_ForeignBondInvestment;20130911;23:50;Foreign Bond Investment;Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20130911;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_MachineryOrders;20130911;23:50;Machinery Orders (YoY);Japan;JPY;2
+NZD_RBNZInterestRateDecision;20130911;21:00;RBNZ Interest Rate Decision;New Zealand;NZD;3
+NZD_MonetaryPolicyStatement;20130911;21:00;Monetary Policy Statement ;New Zealand;NZD;3
+USD_Auction;20130911;17:00;10-Year Note Auction;United States;USD;1
+GBP_CentralBankSpeech;20130911;15:30;BoE Miles speech;United Kingdom;GBP;2
+USD_EIACrudeOilStocksChange;20130911;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_WholesaleInventories;20130911;14:00;Wholesale Inventories;United States;USD;1
+MXN_IndustrialOutput;20130911;13:00;Industrial Output (YoY);Mexico;MXN;1
+PLN_CurrentAccount;20130911;12:00;Current Account;Poland;PLN;1
+USD_MBAMortgageApplications;20130911;11:00;MBA Mortgage Applications;United States;USD;1
+ZAR_ManufacturingProductionIndex;20130911;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+EUR_PorConsumerPriceIndex;20130911;10:00;Consumer Price Index (MoM);Portugal;EUR;1
+EUR_GerAuction;20130911;09:42;10-y Bond Auction;Germany;EUR;2
+GBP_AverageEarningsExcludingBonus;20130911;08:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;1
+GBP_AverageEarningsIncludingBonus;20130911;08:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountRate;20130911;08:30;Claimant Count Rate;United Kingdom;GBP;2
+GBP_ClaimantCountChange;20130911;08:30;Claimant Count Change;United Kingdom;GBP;3
+GBP_ILOUnemploymentRate;20130911;08:30;ILO Unemployment Rate (3M);United Kingdom;GBP;2
+CZK_CurrentAccount;20130911;08:00;Current Account (MoM);Czech Republic;CZK;1
+RON_ConsumerPriceIndex;20130911;07:00;Consumer Price Index;Romania;RON;1
+HUF_ConsumerPriceIndex;20130911;07:00;Consumer Price Index (YoY);Hungary;HUF;1
+EUR_FraCurrentAccount;20130911;06:45;Current Account;France;EUR;1
+EUR_GerConsumerPriceIndex;20130911;06:00;Consumer Price Index (MoM);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20130911;06:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;2
+EUR_FraNonfarmPayrolls;20130911;05:30;Nonfarm Payrolls (QoQ);France;EUR;1
+KRW_MoneySupplyGrowth;20130911;03:00;Money Supply Growth;South Korea;KRW;1
+JPY_CentralBankSpeech;20130911;01:30;BoJ Ishida speech;Japan;JPY;1
+USD_CentralBankSpeech;20130911;01:00;President Obama speech;United States;USD;3
+AUD_WestpacConsumerConfidenceIndex;20130911;00:30;Westpac Consumer Confidence Index;Australia;AUD;1
+AUD_WestpacConsumerConfidence;20130911;00:30;Westpac Consumer Confidence;Australia;AUD;2

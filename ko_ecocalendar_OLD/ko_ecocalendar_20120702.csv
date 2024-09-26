@@ -1,0 +1,49 @@
+JPY_MonetaryBase;20120702;23:50;Monetary Base (YoY);Japan;JPY;1
+KRW_FXReserves;20120702;21:00;FX Reserves;South Korea;KRW;1
+USD_CentralBankSpeech;20120702;17:15;Fed Williams speech;United States;USD;2
+USD_Auction;20120702;15:30;6-Month Bill Auction;United States;USD;1
+BRL_TradeBalance;20120702;14:00;Trade Balance;Brazil;BRL;1
+USD_ISMManufacturingPMI;20120702;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMPricesPaid;20120702;14:00;ISM Prices Paid;United States;USD;2
+USD_ConstructionSpending;20120702;14:00;Construction Spending (MoM);United States;USD;2
+USD_MarkitManufacturingPMI;20120702;12:58;Markit Manufacturing PMI;United States;USD;2
+BRL_HSBCPMIManufacturing;20120702;12:00;HSBC PMI Manufacturing;Brazil;BRL;1
+CZK_BudgetBalance;20120702;12:00;Budget Balance;Czech Republic;CZK;1
+EUR_AusUnemployment;20120702;10:00;Unemployment;Austria;EUR;1
+EUR_AusUnemploymentRate;20120702;10:00;Unemployment Rate;Austria;EUR;1
+TRY_Exports;20120702;09:00;Exports;Turkey;TRY;1
+EUR_EurUnemploymentRate;20120702;09:00;Unemployment Rate;European Monetary Union;EUR;2
+ZAR_PurchasingManagerIndex;20120702;09:00;Purchasing Manager Index;South Africa;ZAR;1
+GBP_MarkitManufacturingPMI;20120702;08:28;Markit Manufacturing PMI;United Kingdom;GBP;2
+EUR_ItaUnemployment;20120702;08:00;Unemployment;Italy;EUR;1
+NOK_CreditIndicator;20120702;08:00;Credit Indicator;Norway;NOK;1
+EUR_EurMarkitManufacturingPMI;20120702;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_GerMarkitManufacturingPMI;20120702;07:53;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20120702;07:48;Markit Manufacturing PMI;France;EUR;1
+EUR_ItaMarkitManufacturingPMI;20120702;07:43;Markit Manufacturing PMI;Italy;EUR;1
+CHF_SVMEPurchasingManagers'Index;20120702;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;2
+CZK_MarkitPMI;20120702;07:30;Markit PMI;Czech Republic;CZK;1
+CHF_RetailSales;20120702;07:15;Real Retail Sales (YoY);Switzerland;CHF;2
+EUR_SpaMarkitManufacturingPMI;20120702;07:13;Markit Manufacturing PMI;Spain;EUR;1
+TRY_GrossDomesticProduct;20120702;07:00;Quarterly Gross Domestic Product;Turkey;TRY;1
+HUF_PurchasingManagerIndex;20120702;07:00;Purchasing Manager Index;Hungary;HUF;1
+EUR_SpaUnemploymentChange;20120702;07:00;Unemployment Change;Spain;EUR;1
+PLN_PurchasingManagerIndex;20120702;07:00;Purchasing Manager Index;Poland;PLN;1
+AUD_RBACommodityIndexSDR;20120702;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+SEK_PurchasingManagersIndexManufacturing;20120702;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+KRW_ExportPriceGrowth;20120702;06:05;Export Price Growth (YoY);South Korea;KRW;1
+KRW_ImportPriceGrowth;20120702;06:05;Import Price Growth (YoY);South Korea;KRW;1
+EUR_IrePurchasingManagerIndexManufacturing;20120702;05:58;Purchasing Manager Index Manufacturing;Ireland;EUR;1
+JPY_VehicleSales;20120702;05:00;Vehicle Sales (YoY);Japan;JPY;1
+RUB_HSBCManufacturingPMI;20120702;05:00;HSBC Manufacturing PMI	;Russia;RUB;1
+IDR_TradeBalance;20120702;04:00;Trade Balance;Indonesia;IDR;1
+IDR_Exports;20120702;04:00;Exports;Indonesia;IDR;1
+IDR_Imports;20120702;04:00;Imports;Indonesia;IDR;1
+IDR_Inflation;20120702;04:00;Inflation (YoY);Indonesia;IDR;1
+CNY_CaixinManufacturingPMI;20120702;02:30;Caixin Manufacturing PMI;China;CNY;2
+AUD_TDSecuritiesInflation;20120702;00:30;TD Securities Inflation (MoM);Australia;AUD;1
+COP_SaintPeterandSaintPaul;20120702;00:00;Saint Peter and Saint Paul;Colombia;COP;0
+CLP_SaintPeterandSaintPaul;20120702;00:00;Saint Peter and Saint Paul ;Chile;CLP;0
+ARS_TaxRevenue;20120702;00:00;Tax Revenue (MoM);Argentina;ARS;1
+HKD_HongKongSpecialAdministrativeRegionEstablishmentDay;20120702;00:00;Hong Kong Special Administrative Region Establishment Day;Hong Kong SAR;HKD;0
+CAD_CanadaDay;20120702;00:00;Canada Day;Canada;CAD;0

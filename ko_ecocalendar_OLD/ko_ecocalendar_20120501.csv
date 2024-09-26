@@ -1,0 +1,50 @@
+JPY_MonetaryBase;20120501;23:50;Monetary Base (YoY);Japan;JPY;1
+NZD_LabourCostIndex;20120501;22:45;Labour Cost Index (YoY);New Zealand;NZD;2
+USD_TotalVehicleSales;20120501;21:00;Total Vehicle Sales;United States;USD;1
+USD_CentralBankSpeech;20120501;19:00;Philadelphia Fed Plosser speech;United States;USD;1
+CAD_CentralBankSpeech;20120501;17:05;BoC Governor Carney speech;Canada;CAD;2
+USD_Auction;20120501;15:30;52-Week Bill Auction;United States;USD;1
+USD_ISMManufacturingPMI;20120501;14:00;ISM Manufacturing PMI;United States;USD;2
+USD_ISMPricesPaid;20120501;14:00;ISM Prices Paid;United States;USD;2
+USD_ConstructionSpending;20120501;14:00;Construction Spending (MoM);United States;USD;2
+GBP_MarkitManufacturingPMI;20120501;08:28;Markit Manufacturing PMI;United Kingdom;GBP;2
+TRY_Exports;20120501;08:00;Exports;Turkey;TRY;1
+DKK_RetailSales;20120501;07:00;Retail Sales (YoY);Denmark;DKK;1
+PEN_Inflation;20120501;07:00;Inflation;Peru;PEN;1
+AUD_RBACommodityIndexSDR;20120501;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+INR_TradeDeficitGovernment;20120501;06:30;Trade Deficit Government;India;INR;1
+IDR_Inflation;20120501;06:00;Inflation (YoY);Indonesia;IDR;1
+AUD_RBARateStatement;20120501;04:30;RBA Rate Statement;Australia;AUD;3
+AUD_RBAInterestRateDecision;20120501;04:30;RBA Interest Rate Decision;Australia;AUD;3
+IDR_Exports;20120501;02:00;Exports;Indonesia;IDR;1
+AUD_HousePriceIndex;20120501;01:30;House Price Index (QoQ);Australia;AUD;2
+CNY_NBSManufacturingPMI;20120501;01:00;NBS Manufacturing PMI;China;CNY;2
+KRW_TradeBalance;20120501;00:05;Trade Balance;South Korea;KRW;1
+EUR_GerLabourDay;20120501;00:00;Labour Day;Germany;EUR;0
+SGD_Labourday;20120501;00:00;Labour day;Singapore;SGD;0
+EUR_FraLabourDay;20120501;00:00;Labour Day ;France;EUR;0
+EUR_PorLabourDay;20120501;00:00;Labour Day;Portugal;EUR;0
+HUF_Labourday;20120501;00:00;Labour day;Hungary;HUF;0
+CZK_LabourDay;20120501;00:00;Labour Day;Czech Republic;CZK;0
+NOK_LabourDay;20120501;00:00;Labour Day;Norway;NOK;0
+PLN_LabourDay;20120501;00:00;Labour Day ;Poland;PLN;0
+EUR_EstSpringDay;20120501;00:00;Spring Day;Estonia;EUR;0
+ARS_LabourDay;20120501;00:00;Labour Day;Argentina;ARS;0
+EUR_ItaLabourDay;20120501;00:00;Labour Day ;Italy;EUR;0
+EUR_SpaLabourDay;20120501;00:00;Labour Day;Spain;EUR;0
+KRW_LabourDay;20120501;00:00;Labour Day ;South Korea;KRW;0
+SEK_LabourDay;20120501;00:00;Labour Day;Sweden;SEK;0
+COP_LabourDay;20120501;00:00;Labour Day;Colombia;COP;0
+RON_LaborDay;20120501;00:00;Labor Day;Romania;RON;0
+CNY_LabourDay;20120501;00:00;Labour Day;China;CNY;0
+LVL_LabourDay;20120501;00:00;Labour Day;Latvia;LVL;0
+EUR_AusLabourDay;20120501;00:00;Labour Day;Austria;EUR;0
+BRL_LabourDay;20120501;00:00;Labour Day;Brazil;BRL;0
+EUR_BelLabourDay;20120501;00:00;Labour Day;Belgium;EUR;0
+EUR_FinMayDay;20120501;00:00;May Day;Finland;EUR;0
+CLP_LabourDay;20120501;00:00;Labour Day;Chile;CLP;0
+ISK_MayDay;20120501;00:00;May Day ;Iceland;ISK;0
+LTL_LabourDay;20120501;00:00;Labour Day ;Lithuania;LTL;0
+EUR_GreLabourDay;20120501;00:00;Labour Day;Greece;EUR;0
+TRY_LabourDay;20120501;00:00;Labour Day;Turkey;TRY;0
+MXN_LabourDay;20120501;00:00;Labour Day ;Mexico;MXN;0

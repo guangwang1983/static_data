@@ -1,0 +1,14 @@
+USD_FactoryOrders;20080502;14:00;Factory Orders (MoM);United States;USD;2
+USD_AverageHourlyEarnings;20080502;12:30;Average Hourly Earnings (MoM);United States;USD;3
+USD_UnemploymentRate;20080502;12:30;Unemployment Rate;United States;USD;3
+USD_NonfarmPayrolls;20080502;12:30;Nonfarm Payrolls;United States;USD;3
+USD_AverageWeeklyHours;20080502;12:30;Average Weekly Hours;United States;USD;2
+HKD_HKMAInterestRateDecision;20080502;11:00;HKMA Interest Rate Decision;Hong Kong SAR;HKD;0
+GBP_MarkitConstructionPMI;20080502;08:30;Markit Construction PMI;United Kingdom;GBP;1
+EUR_EurMarkitManufacturingPMI;20080502;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;1
+EUR_GerMarkitManufacturingPMI;20080502;07:55;Markit Manufacturing PMI;Germany;EUR;1
+CHF_SVMEPurchasingManagers'Index;20080502;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+GBP_HalifaxHousePrices;20080502;07:00;Halifax House Prices (3m/YoY);United Kingdom;GBP;1
+AUD_RBACommodityIndexSDR;20080502;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;2
+EUR_GerRetailSales;20080502;06:00;Retail Sales (YoY);Germany;EUR;1
+AUD_RetailSales;20080502;01:30;Retail Sales s.a. (MoM);Australia;AUD;2

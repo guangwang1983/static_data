@@ -1,0 +1,37 @@
+JPY_JibunBankServicesPMI;20230922;00:30;Jibun Bank Services PMI;Japan;JPY;1
+JPY_JibunBankManufacturingPMI;20230922;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+JPY_BoJInterestRateDecision;20230922;03:00;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_BoJMonetaryPolicyStatement;20230922;03:00;BoJ Monetary Policy Statement ;Japan;JPY;3
+GBP_RetailSales;20230922;06:00;Retail Sales (YoY);United Kingdom;GBP;2
+JPY_BoJPressConference;20230922;06:00;BoJ Press Conference;Japan;JPY;3
+EUR_FraHCOBCompositePMI;20230922;07:15;HCOB Composite PMI;France;EUR;2
+EUR_FraHCOBServicesPMI;20230922;07:15;HCOB Services PMI;France;EUR;2
+EUR_FraHCOBManufacturingPMI;20230922;07:15;HCOB Manufacturing PMI;France;EUR;2
+EUR_GerHCOBServicesPMI;20230922;07:30;HCOB Services PMI;Germany;EUR;3
+EUR_GerHCOBCompositePMI;20230922;07:30;HCOB Composite PMI;Germany;EUR;3
+EUR_GerHCOBManufacturingPMI;20230922;07:30;HCOB Manufacturing PMI;Germany;EUR;3
+TRY_ForeignArrivals;20230922;08:00;Foreign Arrivals;Turkey;TRY;1
+EUR_EurHCOBServicesPMI;20230922;08:00;HCOB Services PMI;European Monetary Union;EUR;3
+EUR_EurHCOBManufacturingPMI;20230922;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;3
+EUR_EurHCOBCompositePMI;20230922;08:00;HCOB Composite PMI;European Monetary Union;EUR;3
+GBP_S&PGlobalCIPSCompositePMI;20230922;08:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;3
+GBP_S&PGlobalCIPSManufacturingPMI;20230922;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;3
+GBP_S&PGlobalCIPSServicesPMI;20230922;08:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;3
+MXN_1sthalfmonthCoreInflation;20230922;11:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20230922;11:00;1st half-month Inflation;Mexico;MXN;1
+INR_BalancePayment;20230922;11:30;Balance Payment $;India;INR;1
+INR_BankLoanGrowth;20230922;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20230922;11:30;FX Reserves, USD;India;INR;1
+PLN_M3MoneySupply;20230922;12:00;M3 Money Supply (YoY);Poland;PLN;1
+CAD_RetailSales;20230922;12:30;Retail Sales ex Autos (MoM);Canada;CAD;2
+USD_S&PGlobalServicesPMI;20230922;13:45;S&P Global Services PMI;United States;USD;3
+USD_S&PGlobalCompositePMI;20230922;13:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalManufacturingPMI;20230922;13:45;S&P Global Manufacturing PMI;United States;USD;3
+USD_BakerHughesUSOilRigCount;20230922;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20230922;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20230922;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20230922;20:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20230922;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20230922;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20230922;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20230922;20:30;CFTC AUD NC Net Positions;Australia;AUD;1

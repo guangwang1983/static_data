@@ -1,0 +1,31 @@
+#59 23 CET
+59 17 * * 1-5 source /home/svc_matterhorn/.bashrc ; launchCronJob.py --command addnewdynamicdate.sh --subject "Daily Dynamic Dates Update" --sender "dailyCron@matterhorn"
+
+#01 01 CET
+01 19 * * 1,2,3,4,7 source /home/svc_matterhorn/.bashrc ; launchCronJob.py --command dailyRollAndExpiryUpdate.sh --subject "Daily Roll and Expiry Update" --sender "dailyCron@matterhorn"
+
+#01 01 CET
+01 19 * * 1,2,3,4,7 source /home/svc_matterhorn/.bashrc ; dailyTickSizeUpdate.sh
+
+#00 09 CET
+00 03 * * 2-6 source /home/svc_matterhorn/.bashrc ; dailyDataUpdate.sh
+
+#00 12 CET
+00 06 * * 2-6 source /home/svc_matterhorn/.bashrc ; launchCronJob.py --command dailyDataCheck.sh --subject "Daily Market Data Check" --sender "dailyCron@matterhorn"
+
+#01 09 CET
+01 06 * * 2-6 source /home/svc_matterhorn/.bashrc ; dailyFXPriceUpdate.sh
+
+#02 09 CET
+02 06 * * 2-6 source /home/svc_matterhorn/.bashrc ; dailyClosePriceUpdate.sh
+
+#05 09 CET
+05 06 * * 2-6 source /home/svc_matterhorn/.bashrc ; launchCronJob.py --command dailyClosePriceCheck.sh --subject "Daily Close Price Check" --sender "dailyCron@matterhorn"
+
+#10 09 CET
+#10 03 * * 2-6 source /home/svc_matterhorn/.bashrc ; launchCronJob.py --command crontab_check.sh --subject "Crontab Changed" --sender "dailyCron@matterhorn"
+
+#00 22 CET
+00 16 * * 1-5 source /home/svc_matterhorn/.bashrc ; dailyStaticDataCommit.sh
+
+

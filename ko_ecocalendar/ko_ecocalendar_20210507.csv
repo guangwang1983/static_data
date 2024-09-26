@@ -1,0 +1,71 @@
+JPY_JibunBankServicesPMI;20210507;00:30;Jibun Bank Services PMI;Japan;JPY;1
+AUD_RBAMonetaryPolicyStatement;20210507;01:30;RBA Monetary Policy Statement;Australia;AUD;3
+CNY_CaixinServicesPMI;20210507;01:45;Caixin Services PMI;China;CNY;2
+CNY_Exports;20210507;03:00;Exports (YoY);China;CNY;2
+CNY_Imports;20210507;03:00;Imports (YoY) CNY;China;CNY;1
+CNY_TradeBalanceUSD;20210507;03:00;Trade Balance USD;China;CNY;2
+CNY_TradeBalanceCNY;20210507;03:00;Trade Balance CNY;China;CNY;1
+NZD_RBNZInflationExpectations;20210507;03:00;RBNZ Inflation Expectations (QoQ);New Zealand;NZD;2
+CHF_UnemploymentRate;20210507;05:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+EUR_GerIndustrialProduction;20210507;06:00;Industrial Production n.s.a. w.d.a. (YoY);Germany;EUR;1
+DKK_IndustrialProduction;20210507;06:00;Industrial Production (MoM);Denmark;DKK;1
+EUR_GerCurrentAccount;20210507;06:00;Current Account n.s.a.;Germany;EUR;1
+EUR_GerImports;20210507;06:00;Imports (MoM);Germany;EUR;1
+EUR_GerExports;20210507;06:00;Exports (MoM);Germany;EUR;1
+EUR_GerTradeBalance;20210507;06:00;Trade Balance s.a.;Germany;EUR;2
+ZAR_Gross$Gold&ForexReserve;20210507;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+ZAR_Net$Gold&ForexReserve;20210507;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+EUR_FraImportsEUR;20210507;06:45;Imports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20210507;06:45;Trade Balance EUR;France;EUR;1
+EUR_FraExportsEUR;20210507;06:45;Exports, EUR;France;EUR;1
+EUR_FraIndustrialOutput;20210507;06:45;Industrial Output (MoM);France;EUR;1
+EUR_FraCurrentAccount;20210507;06:45;Current Account;France;EUR;1
+EUR_FraNonfarmPayrolls;20210507;06:45;Nonfarm Payrolls (QoQ);France;EUR;1
+CZK_IndustrialProduction;20210507;07:00;Industrial Production (YoY);Czech Republic;CZK;1
+CHF_ForeignCurrencyReserves;20210507;07:00;Foreign Currency Reserves;Switzerland;CHF;1
+CZK_Constructionoutput;20210507;07:00;Construction output (YoY);Czech Republic;CZK;1
+HUF_TradeBalance;20210507;07:00;Trade Balance;Hungary;HUF;1
+CZK_ForeignTradeBalance;20210507;07:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+EUR_ItaRetailSales;20210507;08:00;Retail Sales n.s.a (YoY);Italy;EUR;1
+CZK_FXReserves;20210507;08:00;FX Reserves;Czech Republic;CZK;1
+CNY_ForeignExchangeReserves;20210507;08:00;Foreign Exchange Reserves (MoM);China;CNY;1
+GBP_S&PGlobalConstructionPMI;20210507;08:30;S&P Global Construction PMI;United Kingdom;GBP;1
+CZK_UnemploymentRate;20210507;08:45;Unemployment Rate;Czech Republic;CZK;1
+EUR_EurCentralBankSpeech;20210507;10:00;ECB President Lagarde speech;European Monetary Union;EUR;3
+MXN_12MonthInflation;20210507;11:00;12-Month Inflation;Mexico;MXN;1
+MXN_CoreInflation;20210507;11:00;Core Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20210507;11:00;Headline Inflation;Mexico;MXN;1
+ILS_BudgetBalanceILS;20210507;11:00;Budget Balance - ILS;Israel;ILS;1
+MXN_ConsumerConfidence;20210507;11:00;Consumer Confidence;Mexico;MXN;1
+INR_BankLoanGrowth;20210507;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20210507;11:30;FX Reserves, USD;India;INR;1
+PLN_CentralBankFXReserves;20210507;12:00;Central Bank FX Reserves;Poland;PLN;1
+BRL_RetailSales;20210507;12:00;Retail Sales (MoM);Brazil;BRL;1
+CLP_ConsumerPriceIndex;20210507;12:02;Core Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+USD_NonfarmPayrolls;20210507;12:30;Nonfarm Payrolls;United States;USD;3
+USD_AverageHourlyEarnings;20210507;12:30;Average Hourly Earnings (YoY);United States;USD;2
+USD_AverageWeeklyHours;20210507;12:30;Average Weekly Hours;United States;USD;1
+USD_LaborForceParticipationRate;20210507;12:30;Labor Force Participation Rate;United States;USD;2
+USD_U6UnderemploymentRate;20210507;12:30;U6 Underemployment Rate;United States;USD;2
+USD_UnemploymentRate;20210507;12:30;Unemployment Rate;United States;USD;2
+CLP_TradeBalance;20210507;12:30;Trade Balance;Chile;CLP;1
+CAD_UnemploymentRate;20210507;12:30;Unemployment Rate;Canada;CAD;3
+CAD_ParticipationRate;20210507;12:30;Participation Rate;Canada;CAD;2
+CAD_AverageHourlyWages;20210507;12:30;Average Hourly Wages (YoY);Canada;CAD;2
+CAD_NetChangeinEmployment;20210507;12:30;Net Change in Employment;Canada;CAD;3
+USD_WholesaleInventories;20210507;14:00;Wholesale Inventories;United States;USD;1
+CAD_IveyPurchasingManagersIndex;20210507;14:00;Ivey Purchasing Managers Index s.a;Canada;CAD;2
+TRY_TreasuryCashBalance;20210507;14:30;Treasury Cash Balance;Turkey;TRY;1
+USD_CentralBankSpeech;20210507;15:00;President Biden speech;United States;USD;3
+RUB_ConsumerPriceIndex;20210507;16:00;Consumer Price Index (MoM);Russia;RUB;1
+USD_BakerHughesUSOilRigCount;20210507;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_ConsumerCreditChange;20210507;19:00;Consumer Credit Change;United States;USD;1
+AUD_CFTCAUDNCNetPositions;20210507;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCOilNCNetPositions;20210507;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20210507;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20210507;19:30;CFTC Gold NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20210507;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCS&P500NCNetPositions;20210507;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20210507;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+EUR_FraVictoryinEuropeDay;20210507;22:00;Victory in Europe Day;France;EUR;0
+CZK_LiberationDay;20210507;22:00;Liberation Day ;Czech Republic;CZK;0

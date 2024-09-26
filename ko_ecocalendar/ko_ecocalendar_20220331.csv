@@ -1,0 +1,62 @@
+AUD_PrivateSectorCredit;20220331;00:30;Private Sector Credit (MoM);Australia;AUD;1
+AUD_BuildingPermits;20220331;00:30;Building Permits (YoY);Australia;AUD;1
+CNY_NonManufacturingPMI;20220331;01:30;Non-Manufacturing PMI;China;CNY;3
+CNY_NBSManufacturingPMI;20220331;01:30;NBS Manufacturing PMI;China;CNY;3
+JPY_AnnualizedHousingStarts;20220331;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_HousingStarts;20220331;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_ConstructionOrders;20220331;05:00;Construction Orders (YoY);Japan;JPY;1
+GBP_GrossDomesticProduct;20220331;06:00;Gross Domestic Product (QoQ);United Kingdom;GBP;3
+DKK_UnemploymentRate;20220331;06:00;Unemployment Rate;Denmark;DKK;1
+GBP_TotalBusinessInvestment;20220331;06:00;Total Business Investment (QoQ);United Kingdom;GBP;1
+DKK_GrossDomesticProduct;20220331;06:00;Gross Domestic Product (YoY);Denmark;DKK;1
+GBP_NationwideHousingPrices;20220331;06:00;Nationwide Housing Prices s.a (MoM);United Kingdom;GBP;1
+EUR_GerRetailSales;20220331;06:00;Retail Sales (MoM);Germany;EUR;2
+GBP_CurrentAccount;20220331;06:00;Current Account;United Kingdom;GBP;1
+CHF_RetailSales;20220331;06:30;Real Retail Sales (YoY);Switzerland;CHF;2
+EUR_FraProducerPrices;20220331;06:45;Producer Prices (MoM);France;EUR;1
+EUR_FraConsumerPriceIndex;20220331;06:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraConsumerSpending;20220331;06:45;Consumer Spending (MoM);France;EUR;1
+TRY_TradeBalance;20220331;07:00;Trade Balance;Turkey;TRY;1
+HUF_ProducerPriceIndex;20220331;07:00;Producer Price Index (YoY);Hungary;HUF;1
+CZK_GrossDomesticProduct;20220331;07:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+EUR_GerUnemploymentChange;20220331;07:55;Unemployment Change;Germany;EUR;2
+EUR_GerUnemploymentRate;20220331;07:55;Unemployment Rate s.a.;Germany;EUR;2
+EUR_ItaUnemployment;20220331;08:00;Unemployment;Italy;EUR;2
+USD_OPECMeeting;20220331;08:00;OPEC Meeting;United States;USD;2
+EUR_EurUnemploymentRate;20220331;09:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_ItaConsumerPriceIndex;20220331;09:00;Consumer Price Index (MoM);Italy;EUR;1
+ZAR_ProducerPriceIndex;20220331;09:30;Producer Price Index (YoY);South Africa;ZAR;1
+EUR_EurCentralBankSpeech;20220331;10:00;ECB De Guindos speech;European Monetary Union;EUR;2
+INR_FederalFiscalDeficitINR;20220331;10:00;Federal Fiscal Deficit, INR;India;INR;1
+INR_TradeDeficit–RBI;20220331;11:30;Trade Deficit – RBI;India;INR;1
+USD_ChallengerJobCuts;20220331;11:30;Challenger Job Cuts;United States;USD;1
+INR_BalancePayment;20220331;11:30;Balance Payment $;India;INR;1
+INR_CurrentAccount;20220331;11:30;Current Account Balance $;India;INR;1
+BRL_UnemploymentRate;20220331;12:00;Unemployment Rate;Brazil;BRL;1
+INR_InfrastructureOutput;20220331;12:00;Infrastructure Output (YoY);India;INR;1
+ZAR_TradeBalance;20220331;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+CLP_IndustrialProduction;20220331;12:00;Industrial Production (YoY);Chile;CLP;1
+USD_PersonalSpending;20220331;12:30;Personal Spending;United States;USD;2
+USD_PersonalConsumptionExpendituresPriceIndex;20220331;12:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;1
+USD_CorePersonalConsumptionExpendituresPriceIndex;20220331;12:30;Core Personal Consumption Expenditures - Price Index (MoM);United States;USD;2
+USD_PersonalIncome;20220331;12:30;Personal Income (MoM);United States;USD;2
+USD_JoblessClaims;20220331;12:30;Initial Jobless Claims 4-week average;United States;USD;2
+CZK_CNBInterestRateDecision;20220331;12:30;CNB Interest Rate Decision;Czech Republic;CZK;1
+CAD_GrossDomesticProduct;20220331;12:30;Gross Domestic Product (MoM);Canada;CAD;2
+USD_CentralBankSpeech;20220331;13:00;Fed Williams speech;United States;USD;2
+RUB_CentralBankReserves;20220331;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_ChicagoPurchasingManagers'Index;20220331;13:45;Chicago Purchasing Managers' Index;United States;USD;2
+CHF_CentralBankSpeech;20220331;14:00;SNB Maechler speech;Switzerland;CHF;2
+USD_EIANaturalGasStorageChange;20220331;14:30;EIA Natural Gas Storage Change;United States;USD;1
+COP_NationalJoblessRate;20220331;15:00;National Jobless Rate;Colombia;COP;1
+USD_Auction;20220331;15:30;4-Week Bill Auction;United States;USD;1
+USD_GrainStockReport;20220331;16:00;Grain Stock Report;United States;USD;1
+COP_Interestrate;20220331;20:00;Interest rate;Colombia;COP;1
+NZD_ANZ–RoyMorganConsumerConfidence;20220331;21:00;ANZ – Roy Morgan Consumer Confidence;New Zealand;NZD;2
+AUD_AiGPerformanceofMfgIndex;20220331;21:30;AiG Performance of Mfg Index;Australia;AUD;2
+AUD_S&PGlobalManufacturingPMI;20220331;22:00;S&P Global Manufacturing PMI;Australia;AUD;1
+JPY_TankanLargeManufacturingOutlook;20220331;23:50;Tankan Large Manufacturing Outlook;Japan;JPY;2
+JPY_TankanNonManufacturingOutlook;20220331;23:50;Tankan Non - Manufacturing Outlook;Japan;JPY;1
+JPY_TankanLargeManufacturingIndex;20220331;23:50;Tankan Large Manufacturing Index;Japan;JPY;3
+JPY_TankanLargeAllIndustryCapex;20220331;23:50;Tankan Large All Industry Capex;Japan;JPY;2
+JPY_TankanNonManufacturingIndex;20220331;23:50;Tankan Non - Manufacturing Index;Japan;JPY;1

@@ -1,0 +1,15 @@
+CAD_BoCInterestRateDecision;20110719;13:00;BoC Interest Rate Decision;Canada;CAD;3
+BRL_UnemploymentRate;20110719;12:30;Unemployment Rate;Brazil;BRL;1
+USD_HousingStarts;20110719;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20110719;12:30;Building Permits (MoM);United States;USD;2
+CAD_LeadingIndicators;20110719;12:30;Leading Indicators (MoM);Canada;CAD;2
+PLN_IndustrialOutput;20110719;12:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20110719;12:00;Producer Price Index (YoY);Poland;PLN;1
+EUR_EurConstructionOutput;20110719;09:00;Construction Output  s.a (MoM);European Monetary Union;EUR;2
+EUR_EurZEWSurveyEconomicSentiment;20110719;09:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurveyEconomicSentiment;20110719;09:00;ZEW Survey - Economic Sentiment;Germany;EUR;2
+EUR_GerZEWSurveyCurrentSituation;20110719;09:00;ZEW Survey - Current Situation;Germany;EUR;2
+EUR_GreUnemploymentRate;20110719;09:00;Unemployment Rate (MoM);Greece;EUR;1
+HUF_GrossWages;20110719;07:00;Gross Wages (YoY);Hungary;HUF;1
+AUD_RBAMeetingMinutes;20110719;01:30;RBA Meeting Minutes;Australia;AUD;3
+ARS_PrimaryBudgetBalance;20110719;00:49;Primary Budget Balance (MoM);Argentina;ARS;1

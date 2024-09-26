@@ -1,0 +1,31 @@
+KRW_BoKInterestRateDecision;20230525;01:00;BoK Interest Rate Decision;South Korea;KRW;1
+NOK_CreditIndicator;20230525;06:00;Credit Indicator;Norway;NOK;1
+SEK_UnemploymentRate;20230525;06:00;Unemployment Rate;Sweden;SEK;1
+IDR_BankIndonesiaRate;20230525;07:00;Bank Indonesia Rate;Indonesia;IDR;1
+PLN_Unemployment;20230525;08:00;Unemployment (MoM);Poland;PLN;1
+EUR_EurCentralBankSpeech;20230525;09:00;ECB De Guindos speech;European Monetary Union;EUR;2
+ZAR_ProducerPriceIndex;20230525;09:30;Producer Price Index (MoM);South Africa;ZAR;1
+TRY_CBRTInterestRateDecision;20230525;11:00;CBRT Interest Rate Decision;Turkey;TRY;3
+BRL_MidmonthInflation;20230525;12:00;Mid-month Inflation;Brazil;BRL;1
+MXN_TradeBalancesa;20230525;12:00;Trade Balance s/a, $;Mexico;MXN;1
+MXN_TradeBalance;20230525;12:00;Trade Balance, $;Mexico;MXN;1
+USD_ChicagoFedNationalActivityIndex;20230525;12:30;Chicago Fed National Activity Index ;United States;USD;2
+USD_JoblessClaims;20230525;12:30;Initial Jobless Claims;United States;USD;2
+USD_GrossDomesticProduct;20230525;12:30;Gross Domestic Product Price Index;United States;USD;2
+USD_PersonalConsumptionExpendituresPrices;20230525;12:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+USD_CorePersonalConsumptionExpenditures;20230525;12:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+ZAR_SARBInterestRateDecision;20230525;13:00;SARB Interest Rate Decision;South Africa;ZAR;1
+RUB_CentralBankReserves;20230525;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_PendingHomeSales;20230525;14:00;Pending Home Sales (YoY);United States;USD;1
+MXN_CurrentAccount;20230525;14:00;Accumulated Current Account/GDP;Mexico;MXN;1
+USD_EIANaturalGasStorageChange;20230525;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_CentralBankSpeech;20230525;14:30;Fed Collins speech;United States;USD;2
+USD_KansasFedManufacturingActivity;20230525;15:00;Kansas Fed Manufacturing Activity;United States;USD;1
+KRW_BuddhasBirthday;20230525;16:00;Buddhas Birthday;South Korea;KRW;0
+GBP_CentralBankSpeech;20230525;16:30;BoE Haskel speech;United Kingdom;GBP;2
+USD_Auction;20230525;17:00;7-Year Note Auction;United States;USD;1
+NZD_ANZ–RoyMorganConsumerConfidence;20230525;22:00;ANZ – Roy Morgan Consumer Confidence;New Zealand;NZD;2
+JPY_TokyoCPIexFreshFood;20230525;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20230525;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;2
+JPY_TokyoCPIexFoodEnergy;20230525;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_CorporateServicePriceIndex;20230525;23:50;Corporate Service Price Index (YoY);Japan;JPY;1

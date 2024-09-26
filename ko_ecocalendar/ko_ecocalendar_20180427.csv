@@ -1,0 +1,57 @@
+DKK_GeneralPrayerDay;20180427;00:00;General Prayer Day ;Denmark;DKK;0
+EUR_EurEurogroupMeeting;20180427;00:00;Eurogroup Meeting;European Monetary Union;EUR;2
+ZAR_FreedomDay;20180427;00:00;Freedom Day;South Africa;ZAR;0
+KRW_NorthandSouthKoreasummit;20180427;00:00;North and South Korea summit;South Korea;KRW;3
+AUD_ProducerPriceIndex;20180427;01:30;Producer Price Index (YoY);Australia;AUD;1
+JPY_BoJMonetaryPolicyStatement;20180427;02:00;BoJ Monetary Policy Statement ;Japan;JPY;3
+JPY_BoJOutlookReport;20180427;02:00;BoJ Outlook Report;Japan;JPY;2
+JPY_BoJInterestRateDecision;20180427;03:05;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_AnnualizedHousingStarts;20180427;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_ConstructionOrders;20180427;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_HousingStarts;20180427;05:00;Housing Starts (YoY);Japan;JPY;1
+EUR_FraGrossDomesticProduct;20180427;05:30;Gross Domestic Product (QoQ);France;EUR;1
+EUR_GerImportPriceIndex;20180427;06:00;Import Price Index (YoY);Germany;EUR;1
+GBP_NationwideHousingPrices;20180427;06:00;Nationwide Housing Prices s.a (MoM);United Kingdom;GBP;1
+JPY_BoJPressConference;20180427;06:30;BoJ Press Conference;Japan;JPY;3
+EUR_FraProducerPrices;20180427;06:45;Producer Prices (MoM);France;EUR;1
+EUR_FraConsumerPriceIndex;20180427;06:45;Consumer Price Index (EU norm) (YoY);France;EUR;2
+EUR_FraConsumerSpending;20180427;06:45;Consumer Spending (MoM);France;EUR;1
+HUF_UnemploymentRate;20180427;07:00;Unemployment Rate (3M);Hungary;HUF;1
+TRY_EconomicConfidenceIndex;20180427;07:00;Economic Confidence Index;Turkey;TRY;1
+SEK_RetailSales;20180427;07:30;Retail Sales (YoY);Sweden;SEK;1
+EUR_ItaProducerPriceIndex;20180427;08:00;Producer Price Index (MoM);Italy;EUR;1
+EUR_EurCentralBankSpeech;20180427;08:00;ECB Mersch speech;European Monetary Union;EUR;2
+EUR_GerUnemploymentRate;20180427;08:00;Unemployment Rate s.a.;Germany;EUR;2
+EUR_GerUnemploymentChange;20180427;08:00;Unemployment Change;Germany;EUR;2
+CHF_CentralBankSpeech;20180427;08:00;SNB Chairman Jordan speech;Switzerland;CHF;2
+NOK_RegisteredUnemployment;20180427;08:00;Registered Unemployment n.s.a;Norway;NOK;1
+GBP_GrossDomesticProduct;20180427;08:30;Gross Domestic Product (YoY);United Kingdom;GBP;2
+GBP_IndexofServices;20180427;08:30;Index of Services (3M/3M);United Kingdom;GBP;1
+EUR_EurConsumerConfidence;20180427;09:00;Consumer Confidence;European Monetary Union;EUR;1
+EUR_EurServicesSentiment;20180427;09:00;Services Sentiment;European Monetary Union;EUR;1
+EUR_EurEconomicSentimentIndicator;20180427;09:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+EUR_EurBusinessClimate;20180427;09:00;Business Climate;European Monetary Union;EUR;2
+EUR_EurIndustrialConfidence;20180427;09:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_ItaAuction;20180427;10:04;10-y Bond Auction;Italy;EUR;1
+RUB_Interestratedecision;20180427;10:30;Interest rate decision;Russia;RUB;2
+BRL_InflationIndexIGPM;20180427;11:00;Inflation Index/IGP-M;Brazil;BRL;1
+INR_BankLoanGrowth;20180427;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20180427;11:30;FX Reserves, USD;India;INR;1
+BRL_UnemploymentRate;20180427;12:00;Unemployment Rate;Brazil;BRL;1
+USD_GrossDomesticProduct;20180427;12:30;Gross Domestic Product Price Index;United States;USD;2
+USD_EmploymentCostIndex;20180427;12:30;Employment Cost Index;United States;USD;1
+USD_PersonalConsumptionExpendituresPrices;20180427;12:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+USD_CorePersonalConsumptionExpenditures;20180427;12:30;Core Personal Consumption Expenditures (QoQ);United States;USD;3
+MXN_TradeBalance;20180427;14:00;Trade Balance, $;Mexico;MXN;1
+MXN_TradeBalancesa;20180427;14:00;Trade Balance s/a, $;Mexico;MXN;1
+USD_MichiganConsumerSentimentIndex;20180427;14:00;Michigan Consumer Sentiment Index;United States;USD;1
+GBP_CentralBankSpeech;20180427;14:15;BoE Haldane speech;United Kingdom;GBP;2
+USD_BakerHughesUSOilRigCount;20180427;17:00;Baker Hughes US Oil Rig Count;United States;USD;2
+AUD_CFTCAUDNCNetPositions;20180427;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20180427;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+USD_CFTCS&P500NCNetPositions;20180427;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20180427;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20180427;19:30;CFTC Gold NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20180427;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCOilNCNetPositions;20180427;19:30;CFTC Oil NC Net Positions;United States;USD;1
+COP_Interestrate;20180427;20:00;Interest rate;Colombia;COP;1

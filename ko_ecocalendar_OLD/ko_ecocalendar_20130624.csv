@@ -1,0 +1,30 @@
+JPY_CorporateServicePrice;20130624;23:50;Corporate Service Price (YoY);Japan;JPY;1
+KRW_ConsumerSentimentIndex;20130624;21:00;Consumer Sentiment Index;South Korea;KRW;1
+ARS_CurrentAccount;20130624;19:00;Current Account BOP (MoM);Argentina;ARS;1
+ARS_GrossDomesticProduct;20130624;19:00;Gross Domestic Product (QoQ);Argentina;ARS;1
+ARS_IndustrialOutput;20130624;19:00;Industrial Output n.s.a (YoY);Argentina;ARS;1
+USD_Auction;20130624;15:30;6-Month Bill Auction;United States;USD;1
+USD_DallasFedManufacturingBusinessIndex;20130624;14:30;Dallas Fed Manufacturing Business Index;United States;USD;1
+MXN_JoblessRate;20130624;13:00;Jobless Rate s.a;Mexico;MXN;1
+USD_CentralBankSpeech;20130624;13:00;Fed Dudley speech;United States;USD;1
+EUR_BelLeadingIndicator;20130624;13:00;Leading Indicator;Belgium;EUR;1
+MXN_1sthalfmonthCoreInflation;20130624;13:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20130624;13:00;1st half-month Inflation;Mexico;MXN;1
+USD_ChicagoFedNationalActivityIndex;20130624;12:30;Chicago Fed National Activity Index ;United States;USD;2
+TRY_ManufacturingConfidence;20130624;11:30;Manufacturing Confidence;Turkey;TRY;1
+TRY_CapacityUtilization;20130624;11:30;Capacity Utilization;Turkey;TRY;1
+EUR_ItaTradeBalancenonEU;20130624;09:00;Trade Balance non-EU;Italy;EUR;1
+EUR_ItaConsumerConfidence;20130624;08:00;Consumer Confidence;Italy;EUR;1
+EUR_GerIFOCurrentAssessment;20130624;08:00;IFO - Current Assessment;Germany;EUR;2
+EUR_GerIFOExpectations;20130624;08:00;IFO - Expectations;Germany;EUR;2
+EUR_GerIFOBusinessClimate;20130624;08:00;IFO - Business Climate;Germany;EUR;2
+EUR_NetBusinessConfidence;20130624;07:30;Business Confidence;Netherlands, The;EUR;1
+EUR_FinProducerPriceIndex;20130624;06:00;Producer Price Index (YoY);Finland;EUR;1
+EUR_FinImportPrices;20130624;06:00;Import Prices (YoY);Finland;EUR;1
+EUR_FinExportPrices;20130624;06:00;Export Prices (YoY);Finland;EUR;1
+SGD_ConsumerPriceIndex;20130624;05:00;Consumer Price Index (YoY);Singapore;SGD;1
+LTL_StJohn'sDay;20130624;00:00;St. John' s Day;Lithuania;LTL;0
+EUR_GreHolySpiritMonday;20130624;00:00;Holy Spirit Monday ;Greece;EUR;0
+RON_OrthodoxWhitMonday;20130624;00:00;Orthodox Whit Monday;Romania;RON;0
+LVL_StJohn'sDay;20130624;00:00;St. John' s Day;Latvia;LVL;0
+EUR_EstMidsummerDay;20130624;00:00;Midsummer Day;Estonia;EUR;0

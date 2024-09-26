@@ -1,0 +1,25 @@
+AUD_HousePriceIndex;20160621;01:30;House Price Index (QoQ);Australia;AUD;2
+AUD_RBAMeetingMinutes;20160621;01:30;RBA Meeting Minutes;Australia;AUD;3
+JPY_AllIndustryActivityIndex;20160621;04:30;All Industry Activity Index (MoM);Japan;JPY;2
+CHF_TradeBalance;20160621;06:00;Trade Balance;Switzerland;CHF;1
+CHF_Exports;20160621;06:00;Exports (MoM);Switzerland;CHF;1
+CHF_Imports;20160621;06:00;Imports (MoM);Switzerland;CHF;1
+HUF_GrossWages;20160621;07:00;Gross Wages (YoY);Hungary;HUF;1
+EUR_GerGermanConstitutionalCourtRuling;20160621;08:00;German Constitutional Court Ruling;Germany;EUR;2
+CZK_ForeignDebt;20160621;08:00;Foreign Debt;Czech Republic;CZK;1
+GBP_PublicSectorNetBorrowing;20160621;08:30;Public Sector Net Borrowing;United Kingdom;GBP;2
+EUR_GerZEWSurvey–CurrentSituation;20160621;09:00;ZEW Survey – Current Situation;Germany;EUR;2
+EUR_EurZEWSurvey–EconomicSentiment;20160621;09:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurvey–EconomicSentiment;20160621;09:00;ZEW Survey – Economic Sentiment;Germany;EUR;2
+GBP_CBIIndustrialTrendsSurvey–Orders;20160621;10:00;CBI Industrial Trends Survey – Orders (MoM);United Kingdom;GBP;1
+TRY_CBRTInterestRateDecision;20160621;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+HUF_MNBInterestRateDecision;20160621;12:00;MNB Interest Rate Decision;Hungary;HUF;1
+BRL_MidmonthInflation;20160621;12:00;Mid-month Inflation;Brazil;BRL;1
+USD_RedbookIndex;20160621;12:55;Redbook Index (YoY);United States;USD;1
+EUR_EurCentralBankSpeech;20160621;13:00;ECB President Draghi speech;European Monetary Union;EUR;3
+USD_FedChairYellentestifies;20160621;14:00;Fed Chair Yellen testifies;United States;USD;3
+USD_FedMonetaryPolicyReport;20160621;15:00;Fed Monetary Policy Report;United States;USD;2
+USD_Auction;20160621;17:00;5-Year Note Auction;United States;USD;1
+USD_CentralBankSpeech;20160621;18:30;FOMC Member Powell speech (don't use);United States;USD;1
+USD_APIWeeklyCrudeOilStock;20160621;20:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_VisitorArrivals;20160621;22:45;Visitor Arrivals (YoY);New Zealand;NZD;1

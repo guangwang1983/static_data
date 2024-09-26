@@ -1,0 +1,44 @@
+CNY_Exports;20190308;03:00;Exports (YoY) CNY;China;CNY;2
+CNY_Imports;20190308;03:00;Imports (YoY) CNY;China;CNY;2
+CNY_TradeBalanceUSD;20190308;03:00;Trade Balance USD;China;CNY;2
+CNY_TradeBalanceCNY;20190308;03:00;Trade Balance CNY;China;CNY;1
+JPY_EcoWatchersSurvey:Outlook;20190308;05:00;Eco Watchers Survey: Outlook;Japan;JPY;1
+JPY_EcoWatchersSurvey:Current;20190308;05:00;Eco Watchers Survey: Current;Japan;JPY;1
+EUR_GerFactoryOrders;20190308;07:00;Factory Orders n.s.a. (YoY);Germany;EUR;1
+EUR_FraExportsEUR;20190308;07:45;Exports, EUR;France;EUR;1
+EUR_FraImportsEUR;20190308;07:45;Imports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20190308;07:45;Trade Balance EUR;France;EUR;1
+EUR_FraIndustrialOutput;20190308;07:45;Industrial Output (MoM);France;EUR;1
+EUR_FraCurrentAccount;20190308;07:45;Current Account;France;EUR;1
+CZK_UnemploymentRate;20190308;08:00;Unemployment Rate;Czech Republic;CZK;1
+HUF_ConsumerPriceIndex;20190308;08:00;Consumer Price Index (YoY);Hungary;HUF;1
+EUR_ItaIndustrialOutput;20190308;09:00;Industrial Output w.d.a (YoY);Italy;EUR;1
+HUF_BudgetBalance;20190308;10:00;Budget Balance;Hungary;HUF;1
+EUR_ItaProducerPriceIndex;20190308;10:13;Producer Price Index (MoM);Italy;EUR;1
+CLP_ConsumerPriceIndex;20190308;11:00;Core Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+INR_FXReservesUSD;20190308;11:30;FX Reserves, USD;India;INR;1
+CAD_HousingStarts;20190308;13:15;Housing Starts s.a (YoY);Canada;CAD;1
+USD_HousingStartsChange;20190308;13:30;Housing Starts Change;United States;USD;1
+USD_BuildingPermits;20190308;13:30;Building Permits (MoM);United States;USD;2
+USD_HousingStarts;20190308;13:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermitsChange;20190308;13:30;Building Permits Change;United States;USD;1
+USD_LaborForceParticipationRate;20190308;13:30;Labor Force Participation Rate;United States;USD;2
+USD_AverageHourlyEarnings;20190308;13:30;Average Hourly Earnings (MoM);United States;USD;2
+USD_AverageWeeklyHours;20190308;13:30;Average Weekly Hours;United States;USD;1
+USD_NonfarmPayrolls;20190308;13:30;Nonfarm Payrolls;United States;USD;3
+USD_U6UnderemploymentRate;20190308;13:30;U6 Underemployment Rate;United States;USD;1
+USD_UnemploymentRate;20190308;13:30;Unemployment Rate;United States;USD;2
+CAD_CapacityUtilization;20190308;13:30;Capacity Utilization;Canada;CAD;1
+CAD_UnemploymentRate;20190308;13:30;Unemployment Rate;Canada;CAD;3
+CAD_ParticipationRate;20190308;13:30;Participation Rate;Canada;CAD;2
+CAD_NetChangeinEmployment;20190308;13:30;Net Change in Employment;Canada;CAD;3
+CAD_AverageHourlyWages;20190308;13:45;Average Hourly Wages (YoY);Canada;CAD;2
+EUR_EurCentralBankSpeech;20190308;16:30;ECB Mersch speech;European Monetary Union;EUR;2
+USD_BakerHughesUSOilRigCount;20190308;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+AUD_CFTCAUDNCNetPositions;20190308;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20190308;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+USD_CFTCS&P500NCNetPositions;20190308;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20190308;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20190308;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20190308;20:30;CFTC Oil NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20190308;20:30;CFTC JPY NC Net Positions;Japan;JPY;1

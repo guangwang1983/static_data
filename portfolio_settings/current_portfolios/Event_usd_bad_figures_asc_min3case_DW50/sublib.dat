@@ -1,0 +1,5 @@
+/apps/levelup/production/library/SLSL_FITRANS_10LOT Sharpe20sw500dw50_3m.csv modelconfigs_SLSL_FITRANS_10LOT.csv CASE
+/apps/levelup/production/library/SLSL_FI_10LOT Sharpe20sw500dw50_3m.csv modelconfigs_SLSL_FI_10LOT.csv CASE
+/apps/levelup/production/library/SLSL_IDX_5LOT Sharpe20sw500dw50_3m.csv modelconfigs_SLSL_IDX_5LOT.csv CASE
+/apps/levelup/production/library/Finished_New_SL3L_ir Sharpe20sw500dw50_3m.csv modelconfigs_EQSL3L_FX_10LOT_ir.csv FULL
+/apps/levelup/production/library/Finished_New_SL3L_fi Sharpe20sw500dw50_3m.csv modelconfigs_EQSL3L_FX_10LOT_fi.csv FULL

@@ -1,0 +1,30 @@
+AUD_ProducerPriceIndex;20220128;00:30;Producer Price Index (QoQ);Australia;AUD;1
+TRY_EconomicConfidenceIndex;20220128;07:00;Economic Confidence Index;Turkey;TRY;1
+DKK_IndustrialOutlook;20220128;07:00;Industrial Outlook;Denmark;DKK;1
+NOK_RetailSales;20220128;07:00;Retail Sales ;Norway;NOK;1
+SEK_RetailSales;20220128;07:00;Retail Sales (MoM);Sweden;SEK;1
+SEK_UnemploymentRate;20220128;07:00;Unemployment Rate;Sweden;SEK;1
+CHF_KOFLeadingIndicator;20220128;08:00;KOF Leading Indicator;Switzerland;CHF;2
+SEK_ConsumerConfidence;20220128;08:00;Consumer Confidence (MoM);Sweden;SEK;1
+EUR_EurM3MoneySupply;20220128;09:00;M3 Money Supply (YoY);European Monetary Union;EUR;1
+EUR_EurPrivateLoans;20220128;09:00;Private Loans (YoY);European Monetary Union;EUR;1
+NOK_RegisteredUnemployment;20220128;09:00;Registered Unemployment n.s.a;Norway;NOK;1
+EUR_EurIndustrialConfidence;20220128;10:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_EurServicesSentiment;20220128;10:00;Services Sentiment;European Monetary Union;EUR;1
+EUR_EurBusinessClimate;20220128;10:00;Business Climate;European Monetary Union;EUR;2
+EUR_EurConsumerConfidence;20220128;10:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurEconomicSentimentIndicator;20220128;10:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+USD_PersonalSpending;20220128;13:30;Personal Spending;United States;USD;2
+USD_PersonalConsumptionExpendituresPriceIndex;20220128;13:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;1
+USD_PersonalIncome;20220128;13:30;Personal Income (MoM);United States;USD;2
+USD_CorePersonalConsumptionExpendituresPriceIndex;20220128;13:30;Core Personal Consumption Expenditures - Price Index (YoY);United States;USD;2
+USD_EmploymentCostIndex;20220128;13:30;Employment Cost Index;United States;USD;1
+USD_MichiganConsumerSentimentIndex;20220128;15:00;Michigan Consumer Sentiment Index;United States;USD;2
+USD_BakerHughesUSOilRigCount;20220128;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CFTCGoldNCNetPositions;20220128;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20220128;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20220128;20:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20220128;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20220128;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20220128;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20220128;20:30;CFTC AUD NC Net Positions;Australia;AUD;1

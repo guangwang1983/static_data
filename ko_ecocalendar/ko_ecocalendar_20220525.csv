@@ -1,0 +1,41 @@
+AUD_ConstructionWorkDone;20220525;01:30;Construction Work Done;Australia;AUD;1
+NZD_RBNZRateStatement;20220525;02:00;RBNZ Rate Statement;New Zealand;NZD;3
+NZD_RBNZInterestRateDecision;20220525;02:00;RBNZ Interest Rate Decision;New Zealand;NZD;3
+NZD_MonetaryPolicyStatement;20220525;02:00;Monetary Policy Statement ;New Zealand;NZD;3
+NZD_RBNZPressConference;20220525;03:00;RBNZ Press Conference;New Zealand;NZD;3
+JPY_LeadingEconomicIndex;20220525;05:00;Leading Economic Index;Japan;JPY;1
+JPY_CoincidentIndex;20220525;05:00;Coincident Index;Japan;JPY;1
+EUR_GerGfkConsumerConfidenceSurvey;20220525;06:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+SEK_UnemploymentRate;20220525;06:00;Unemployment Rate;Sweden;SEK;1
+SEK_ProducerPriceIndex;20220525;06:00;Producer Price Index (MoM);Sweden;SEK;1
+EUR_GerGrossDomesticProduct;20220525;06:00;Gross Domestic Product w.d.a (YoY);Germany;EUR;2
+EUR_FraConsumerConfidence;20220525;06:45;Consumer Confidence;France;EUR;1
+SEK_ConsumerConfidence;20220525;07:00;Consumer Confidence (MoM);Sweden;SEK;1
+CHF_ZEWSurvey–Expectations;20220525;08:00;ZEW Survey – Expectations;Switzerland;CHF;2
+PLN_Unemployment;20220525;08:00;Unemployment (MoM);Poland;PLN;1
+EUR_EurEUFinancialStabilityReview;20220525;08:00;EU Financial Stability Review;European Monetary Union;EUR;2
+EUR_EurCentralBankSpeech;20220525;09:45;ECB Lane speech;European Monetary Union;EUR;2
+MXN_TradeBalancesa;20220525;11:00;Trade Balance s/a, $;Mexico;MXN;1
+MXN_TradeBalance;20220525;11:00;Trade Balance, $;Mexico;MXN;1
+MXN_GrossDomesticProduct;20220525;11:00;Gross Domestic Product (YoY);Mexico;MXN;1
+USD_MBAMortgageApplications;20220525;11:00;MBA Mortgage Applications;United States;USD;1
+JPY_CentralBankSpeech;20220525;11:05;BoJ Governor Kuroda speech;Japan;JPY;3
+USD_DurableGoodsOrders;20220525;12:30;Durable Goods Orders ex Transportation;United States;USD;2
+USD_NondefenseCapitalGoodsOrdersexAircraft;20220525;12:30;Nondefense Capital Goods Orders ex Aircraft;United States;USD;3
+MXN_CurrentAccount;20220525;14:00;Accumulated Current Account/GDP;Mexico;MXN;1
+USD_EIACrudeOilStocksChange;20220525;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+RUB_ProducerPriceIndex;20220525;16:00;Producer Price Index (YoY);Russia;RUB;1
+USD_CentralBankSpeech;20220525;16:15;Fed Brainard speech;United States;USD;2
+USD_Auction;20220525;17:00;5-Year Note Auction;United States;USD;1
+IDR_AscensionDay;20220525;17:00;Ascension Day;Indonesia;IDR;0
+USD_FOMCMinutes;20220525;18:00;FOMC Minutes;United States;USD;3
+EUR_GerAscensionDay;20220525;22:00;Ascension Day;Germany;EUR;0
+EUR_FraAscensionDay;20220525;22:00;Ascension Day ;France;EUR;0
+SEK_AscensionDay;20220525;22:00;Ascension Day;Sweden;SEK;0
+DKK_AscensionDay;20220525;22:00;Ascension Day ;Denmark;DKK;0
+NOK_AscensionDay;20220525;22:00;Ascension Day;Norway;NOK;0
+CHF_AscensionDay;20220525;22:00;Ascension Day;Switzerland;CHF;0
+CHF_WorldEconomicForumDavos;20220525;23:00;World Economic Forum - Davos;Switzerland;CHF;2
+JPY_CorporateServicePriceIndex;20220525;23:50;Corporate Service Price Index (YoY);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20220525;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20220525;23:50;Foreign Bond Investment;Japan;JPY;1

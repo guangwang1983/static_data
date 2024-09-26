@@ -1,0 +1,52 @@
+JPY_CentralBankSpeech;20200409;00:30;BoJ Governor Kuroda speech;Japan;JPY;3
+KRW_BoKInterestRateDecision;20200409;01:00;BoK Interest Rate Decision;South Korea;KRW;1
+AUD_FinancialStabilityReview;20200409;01:30;Financial Stability Review;Australia;AUD;1
+COP_MaundyThursday;20200409;05:00;Maundy Thursday;Colombia;COP;0
+RON_TradeBalance;20200409;06:00;Trade Balance;Romania;RON;1
+GBP_ManufacturingProduction;20200409;06:00;Manufacturing Production (MoM);United Kingdom;GBP;2
+GBP_IndustrialProduction;20200409;06:00;Industrial Production (MoM);United Kingdom;GBP;2
+GBP_IndexofServices;20200409;06:00;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20200409;06:00;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20200409;06:00;Total Trade Balance;United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20200409;06:00;Goods Trade Balance;United Kingdom;GBP;1
+GBP_GrossDomesticProduct;20200409;06:00;Gross Domestic Product (MoM);United Kingdom;GBP;2
+EUR_GerImports;20200409;06:00;Imports (MoM);Germany;EUR;1
+EUR_GerCurrentAccount;20200409;06:00;Current Account n.s.a.;Germany;EUR;1
+EUR_GerTradeBalance;20200409;06:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerExports;20200409;06:00;Exports (MoM);Germany;EUR;1
+EUR_ItaIndustrialOutput;20200409;08:00;Industrial Output s.a. (MoM);Italy;EUR;1
+EUR_EurECBMonetaryPolicyMeetingAccounts;20200409;11:30;ECB Monetary Policy Meeting Accounts;European Monetary Union;EUR;3
+NZD_GoodFriday;20200409;12:00;Good Friday;New Zealand;NZD;0
+BRL_IPCAInflation;20200409;12:00;IPCA Inflation;Brazil;BRL;1
+INR_CumulativeIndustrialOutput;20200409;12:00;Cumulative Industrial Output;India;INR;1
+INR_ManufacturingOutput;20200409;12:00;Manufacturing Output;India;INR;1
+INR_IndustrialOutput;20200409;12:00;Industrial Output;India;INR;1
+USD_ProducerPriceIndex;20200409;12:30;Producer Price Index ex Food & Energy (YoY);United States;USD;2
+USD_JoblessClaims;20200409;12:30;Initial Jobless Claims;United States;USD;3
+CAD_UnemploymentRate;20200409;12:30;Unemployment Rate;Canada;CAD;3
+CAD_AverageHourlyWages;20200409;12:30;Average Hourly Wages (YoY);Canada;CAD;2
+CAD_NetChangeinEmployment;20200409;12:30;Net Change in Employment;Canada;CAD;3
+CAD_ParticipationRate;20200409;12:30;Participation Rate;Canada;CAD;2
+RUB_CentralBankReserves;20200409;13:00;Central Bank Reserves $;Russia;RUB;1
+GBP_NIESRGDPEstimate;20200409;13:30;NIESR GDP Estimate (3M);United Kingdom;GBP;1
+AUD_GoodFriday;20200409;14:00;Good Friday;Australia;AUD;0
+USD_UoM5yearConsumerInflationExpectation;20200409;14:00;UoM 5-year Consumer Inflation Expectation;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20200409;14:00;Michigan Consumer Sentiment Index;United States;USD;3
+USD_WholesaleInventories;20200409;14:00;Wholesale Inventories;United States;USD;1
+USD_CentralBankSpeech;20200409;14:00;Fed Chair Powell speech;United States;USD;3
+USD_OPECMeeting;20200409;14:00;OPEC Meeting;United States;USD;3
+USD_EIANaturalGasStorageChange;20200409;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20200409;15:30;4-Week Bill Auction;United States;USD;1
+USD_USDAWASDEReport;20200409;16:00;USDA WASDE Report;United States;USD;1
+IDR_GoodFriday;20200409;17:00;Good Friday;Indonesia;IDR;0
+USD_BakerHughesUSOilRigCount;20200409;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+INR_GoodFriday;20200409;18:30;Good Friday ;India;INR;0
+EUR_GerGoodFriday;20200409;22:00;Good Friday;Germany;EUR;0
+CHF_GoodFriday;20200409;22:00;Good Friday;Switzerland;CHF;0
+DKK_GoodFriday;20200409;22:00;Good Friday ;Denmark;DKK;0
+SEK_GoodFriday;20200409;22:00;Good Friday;Sweden;SEK;0
+ZAR_GoodFriday;20200409;22:00;Good Friday;South Africa;ZAR;0
+EUR_EurGoodFridayBankHoliday;20200409;23:00;Good Friday Bank Holiday;European Monetary Union;EUR;0
+GBP_GoodFriday;20200409;23:00;Good Friday;United Kingdom;GBP;0
+JPY_BankLending;20200409;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_ProducerPriceIndex;20200409;23:50;Producer Price Index (MoM);Japan;JPY;1

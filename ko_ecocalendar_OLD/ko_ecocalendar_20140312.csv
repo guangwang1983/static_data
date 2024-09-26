@@ -1,0 +1,37 @@
+JPY_ForeignBondInvestment;20140312;23:50;Foreign Bond Investment;Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20140312;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_MachineryOrders;20140312;23:50;Machinery Orders (YoY);Japan;JPY;2
+COP_TradeBalance;20140312;22:00;Trade Balance;Colombia;COP;1
+NZD_FoodPriceIndex;20140312;21:45;Food Price Index (MoM);New Zealand;NZD;1
+NZD_MonetaryPolicyStatement;20140312;21:00;Monetary Policy Statement ;New Zealand;NZD;3
+NZD_RBNZInterestRateDecision;20140312;20:00;RBNZ Interest Rate Decision;New Zealand;NZD;3
+NZD_RBNZPressConference;20140312;20:00;RBNZ Press Conference;New Zealand;NZD;3
+USD_CentralBankSpeech;20140312;18:00;Treasury Sec Lew speech;United States;USD;2
+USD_Auction;20140312;17:00;10-Year Note Auction;United States;USD;1
+USD_EIACrudeOilStocksChange;20140312;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+BRL_IPCAInflation;20140312;12:00;IPCA Inflation;Brazil;BRL;1
+INR_IndustrialOutput;20140312;12:00;Industrial Output;India;INR;1
+INR_ManufacturingOutput;20140312;12:00;Manufacturing Output;India;INR;1
+INR_CumulativeIndustrialOutput;20140312;12:00;Cumulative Industrial Output;India;INR;1
+EUR_PorGlobalTradeBalance;20140312;11:00;Global Trade Balance;Portugal;EUR;1
+USD_MBAMortgageApplications;20140312;11:00;MBA Mortgage Applications;United States;USD;2
+EUR_PorConsumerPriceIndex;20140312;11:00;Consumer Price Index (MoM);Portugal;EUR;1
+EUR_GerAuction;20140312;10:40;2-year Notes Auction;Germany;EUR;1
+EUR_EurTradeBalance;20140312;10:00;Trade Balance s.a.;European Monetary Union;EUR;2
+EUR_GreIndustrialProduction;20140312;10:00;Industrial Production (YoY);Greece;EUR;1
+EUR_EurIndustrialProduction;20140312;10:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;2
+EUR_NetManufacturingOutput;20140312;08:30;Manufacturing Output (MoM);Netherlands, The;EUR;1
+EUR_SpaHICP;20140312;08:00;HICP (YoY);Spain;EUR;1
+EUR_SloIndustrialOutput;20140312;08:00;Industrial Output (YoY);Slovakia;EUR;1
+EUR_SloCoreInflation;20140312;08:00;Core Inflation (YoY);Slovakia;EUR;1
+EUR_SloHeadlineInflation;20140312;08:00;Headline Inflation (MoM);Slovakia;EUR;1
+RON_TradeBalance;20140312;08:00;Trade Balance;Romania;RON;1
+TRY_CurrentAccount;20140312;08:00;Current Account Balance;Turkey;TRY;1
+EUR_SpaConsumerPriceIndex;20140312;08:00;Consumer Price Index (MoM);Spain;EUR;1
+HUF_TradeBalance;20140312;08:00;Trade Balance;Hungary;HUF;1
+EUR_FraNonfarmPayrolls;20140312;06:30;Nonfarm Payrolls (QoQ);France;EUR;1
+JPY_BoJMonthlyEconomicSurvey;20140312;05:00;BoJ Monthly Economic Survey;Japan;JPY;2
+JPY_ConsumerConfidenceIndex;20140312;05:00;Consumer Confidence Index;Japan;JPY;2
+KRW_MoneySupplyGrowth;20140312;03:00;Money Supply Growth;South Korea;KRW;1
+AUD_InvestmentLendingforHomes;20140312;00:30;Investment Lending for Homes;Australia;AUD;1
+AUD_HomeLoans;20140312;00:30;Home Loans;Australia;AUD;2

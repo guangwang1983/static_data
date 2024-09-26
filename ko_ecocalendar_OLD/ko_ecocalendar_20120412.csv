@@ -1,0 +1,37 @@
+KRW_UnemploymentRate;20120412;23:00;Unemployment Rate;South Korea;KRW;1
+USD_CentralBankSpeech;20120412;17:00;Fed Minneapolis Kocherlakota speech;United States;USD;1
+USD_Auction;20120412;17:00;30-Year Bond Auction;United States;USD;1
+USD_EIANaturalGasStorageChange;20120412;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_ProducerPriceIndex;20120412;12:30;Producer Price Index ex Food & Energy (YoY);United States;USD;2
+USD_TradeBalance;20120412;12:30;Trade Balance;United States;USD;2
+USD_JoblessClaims;20120412;12:30;Continuing Jobless Claims;United States;USD;1
+CAD_InternationalMerchandiseTrade;20120412;12:30;International Merchandise Trade;Canada;CAD;1
+CAD_NewHousingPriceIndex;20120412;12:30;New Housing Price Index (YoY);Canada;CAD;1
+PLN_CurrentAccount;20120412;12:00;Current Account;Poland;PLN;1
+EUR_ItaAuction;20120412;10:10;10-y Bond Auction;Italy;EUR;1
+EUR_IreHICP;20120412;10:00;HICP (YoY);Ireland;EUR;1
+EUR_IreConsumerPriceIndex;20120412;10:00;Consumer Price Index (YoY);Ireland;EUR;1
+EUR_EurIndustrialProduction;20120412;09:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;2
+EUR_PorConsumerPriceIndex;20120412;09:00;Consumer Price Index (MoM);Portugal;EUR;1
+EUR_GreUnemploymentRate;20120412;09:00;Unemployment Rate (MoM);Greece;EUR;1
+CNY_M2MoneySupply;20120412;08:45;M2 Money Supply (YoY);China;CNY;1
+GBP_GoodsTradeBalance;20120412;08:30;Goods Trade Balance;United Kingdom;GBP;2
+GBP_TradeBalancenonEU;20120412;08:30;Trade Balance non-EU;United Kingdom;GBP;1
+EUR_EurECBMonthlyReport;20120412;08:00;ECB Monthly Report;European Monetary Union;EUR;3
+CZK_CurrentAccount;20120412;08:00;Current Account (MoM);Czech Republic;CZK;1
+RUB_CentralBankReserves;20120412;07:55;Central Bank Reserves $;Russia;RUB;1
+SEK_ConsumerPriceIndex;20120412;07:30;Consumer Price Index (YoY);Sweden;SEK;1
+EUR_NetRetailSales;20120412;07:30;Retail Sales (YoY);Netherlands, The;EUR;1
+EUR_FraCurrentAccount;20120412;06:45;Current Account;France;EUR;1
+EUR_FraConsumerPriceIndex;20120412;05:30;Consumer Price Index (EU norm) (YoY);France;EUR;1
+EUR_FraInflationextobacco;20120412;05:30;Inflation ex-tobacco (MoM);France;EUR;1
+INR_ManufacturingOutput;20120412;05:30;Manufacturing Output;India;INR;1
+INR_IndustrialOutput;20120412;05:30;Industrial Output;India;INR;1
+INR_CumulativeIndustrialOutput;20120412;05:30;Cumulative Industrial Output;India;INR;1
+IDR_BankIndonesiaRate;20120412;05:00;Bank Indonesia Rate;Indonesia;IDR;1
+KRW_MoneySupplyGrowth;20120412;03:00;Money Supply Growth;South Korea;KRW;1
+CNY_NewLoans;20120412;02:00;New Loans;China;CNY;2
+AUD_EmploymentChange;20120412;01:30;Employment Change s.a.;Australia;AUD;3
+AUD_UnemploymentRate;20120412;01:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_ConsumerInflationExpectations;20120412;01:00;Consumer Inflation Expectations;Australia;AUD;1
+AUD_FulltimeEmployment;20120412;00:30;Fulltime Employment;Australia;AUD;1

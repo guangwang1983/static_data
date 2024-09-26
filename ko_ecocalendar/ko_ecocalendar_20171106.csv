@@ -1,0 +1,33 @@
+RUB_Publicholiday;20171106;00:00;Public holiday;Russia;RUB;0
+COP_AllSaints'Day;20171106;00:00;All Saints' Day (Observed);Colombia;COP;0
+NZD_ANZCommodityPrice;20171106;00:00;ANZ Commodity Price;New Zealand;NZD;1
+AUD_TDSecuritiesInflation;20171106;00:00;TD Securities Inflation (MoM);Australia;AUD;2
+AUD_ANZJobAdvertisements;20171106;00:30;ANZ Job Advertisements;Australia;AUD;1
+JPY_CentralBankSpeech;20171106;01:00;BoJ Governor Kuroda speech;Japan;JPY;3
+NZD_RBNZInflationExpectations;20171106;02:00;RBNZ Inflation Expectations (QoQ);New Zealand;NZD;2
+IDR_GrossDomesticProduct;20171106;04:00;Gross Domestic Product (QoQ);Indonesia;IDR;1
+CZK_RetailSales;20171106;07:00;Retail Sales (YoY);Czech Republic;CZK;1
+CZK_IndustrialProduction;20171106;07:00;Industrial Production (YoY);Czech Republic;CZK;1
+CZK_Constructionoutput;20171106;07:00;Construction output (YoY);Czech Republic;CZK;1
+EUR_GerFactoryOrders;20171106;07:00;Factory Orders n.s.a. (YoY);Germany;EUR;1
+SEK_IndustrialProductionValue;20171106;07:30;Industrial Production Value (YoY);Sweden;SEK;1
+BRL_FipeIPCInflation;20171106;08:00;Fipe IPC Inflation;Brazil;BRL;1
+CHF_ConsumerPriceIndex;20171106;08:15;Consumer Price Index (YoY);Switzerland;CHF;2
+SEK_NewOrdersManufacturing;20171106;08:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+EUR_ItaHCOBServicesPMI;20171106;08:45;HCOB Services PMI;Italy;EUR;1
+EUR_FraHCOBCompositePMI;20171106;08:50;HCOB Composite PMI;France;EUR;1
+EUR_FraHCOBServicesPMI;20171106;08:50;HCOB Services PMI;France;EUR;1
+EUR_GerHCOBCompositePMI;20171106;08:55;HCOB Composite PMI;Germany;EUR;2
+EUR_GerHCOBServicesPMI;20171106;08:55;HCOB Services PMI;Germany;EUR;2
+EUR_EurHCOBServicesPMI;20171106;09:00;HCOB Services PMI;European Monetary Union;EUR;2
+EUR_EurHCOBCompositePMI;20171106;09:00;HCOB Composite PMI;European Monetary Union;EUR;2
+EUR_EurSentixInvestorConfidence;20171106;09:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+EUR_EurProducerPriceIndex;20171106;10:00;Producer Price Index (YoY);European Monetary Union;EUR;2
+CLP_IMACEC;20171106;11:30;IMACEC;Chile;CLP;1
+EUR_EurEurogroupMeeting;20171106;12:00;Eurogroup Meeting;European Monetary Union;EUR;2
+GBP_CentralBankSpeech;20171106;12:00;UK Prime Minister Theresa May speech;United Kingdom;GBP;2
+CAD_IveyPurchasingManagersIndex;20171106;15:00;Ivey Purchasing Managers Index;Canada;CAD;2
+USD_Auction;20171106;16:30;3-Month Bill Auction;United States;USD;1
+USD_CentralBankSpeech;20171106;17:00;Fed Dudley speech;United States;USD;1
+USD_LoanOfficerSurvey;20171106;18:00;Loan Officer Survey;United States;USD;1
+AUD_AiGPerformanceofConstructionIndex;20171106;22:30;AiG Performance of Construction Index;Australia;AUD;2

@@ -1,0 +1,24 @@
+USD_BakerHughesUSOilRigCount;20200703;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+SGD_PurchasingManagersIndex;20200703;13:00;Purchasing Managers Index;Singapore;SGD;1
+MXN_ConsumerConfidence;20200703;12:00;Consumer Confidence;Mexico;MXN;1
+INR_BankLoanGrowth;20200703;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20200703;11:30;FX Reserves, USD;India;INR;1
+GBP_MarkitServicesPMI;20200703;08:30;Markit Services PMI;United Kingdom;GBP;2
+NOK_RegisteredUnemployment;20200703;08:00;Registered Unemployment n.s.a;Norway;NOK;1
+EUR_EurMarkitServicesPMI;20200703;08:00;Markit Services PMI;European Monetary Union;EUR;1
+EUR_EurMarkitPMIComposite;20200703;08:00;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_GerMarkitServicesPMI;20200703;07:55;Markit Services PMI;Germany;EUR;1
+EUR_GerMarkitPMIComposite;20200703;07:55;Markit PMI Composite;Germany;EUR;2
+EUR_FraMarkitServicesPMI;20200703;07:50;Markit Services PMI;France;EUR;1
+EUR_FraMarkitPMIComposite;20200703;07:50;Markit PMI Composite;France;EUR;1
+EUR_ItaMarkitServicesPMI;20200703;07:45;Markit Services PMI;Italy;EUR;1
+EUR_SpaMarkitServicesPMI;20200703;07:15;Markit Services PMI;Spain;EUR;1
+TRY_ProducerPriceIndex;20200703;07:00;Producer Price Index (MoM);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20200703;07:00;Consumer Price Index (YoY);Turkey;TRY;1
+EUR_FraBudget;20200703;06:45;Budget;France;EUR;1
+RUB_PurchasingManagerIndexServices;20200703;06:00;Purchasing Manager Index Services;Russia;RUB;1
+SGD_RetailSales;20200703;05:00;Retail Sales (YoY);Singapore;SGD;1
+CNY_CaixinServicesPMI;20200703;01:45;Caixin Services PMI;China;CNY;2
+JPY_JibunBankServicesPMI;20200703;00:30;Jibun Bank Services PMI;Japan;JPY;1
+AUD_RetailSales;20200703;00:30;Retail Sales s.a. (MoM);Australia;AUD;2
+EUR_IrePurchasingManagerIndexServices;20200703;00:01;Purchasing Manager Index Services;Ireland;EUR;1

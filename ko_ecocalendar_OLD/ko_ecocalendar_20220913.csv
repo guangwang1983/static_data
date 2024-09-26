@@ -1,0 +1,22 @@
+AUD_NationalAustraliaBankBusinessConfidence;20220913;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20220913;01:30;National Australia Bank Business Conditions;Australia;AUD;1
+GBP_AverageEarningsIncludingBonus;20220913;06:00;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20220913;06:00;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_AverageEarningsExcludingBonus;20220913;06:00;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountChange;20220913;06:00;Claimant Count Change;United Kingdom;GBP;3
+GBP_ClaimantCountRate;20220913;06:00;Claimant Count Rate;United Kingdom;GBP;2
+CHF_ProducerandImportPrices;20220913;06:30;Producer and Import Prices (YoY);Switzerland;CHF;1
+TRY_IndustrialProduction;20220913;07:00;Industrial Production (YoY);Turkey;TRY;1
+CZK_CurrentAccount;20220913;08:00;Current Account (MoM);Czech Republic;CZK;1
+EUR_EurZEWSurvey–EconomicSentiment;20220913;09:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;2
+ZAR_BusinessConfidenceIndex;20220913;09:30;Business Confidence Index;South Africa;ZAR;1
+USD_NFIBBusinessOptimismIndex;20220913;10:00;NFIB Business Optimism Index;United States;USD;1
+PLN_CurrentAccount;20220913;12:00;Current Account;Poland;PLN;1
+USD_ConsumerPriceIndex;20220913;12:30;Consumer Price Index (MoM);United States;USD;2
+USD_RedbookIndex;20220913;12:55;Redbook Index (YoY);United States;USD;1
+USD_IBDTIPPEconomicOptimism;20220913;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+USD_Auction;20220913;17:00;30-Year Bond Auction;United States;USD;1
+USD_MonthlyBudgetStatement;20220913;18:00;Monthly Budget Statement;United States;USD;2
+USD_APIWeeklyCrudeOilStock;20220913;20:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_CurrentAccount;20220913;22:45;Current Account - GDP Ratio;New Zealand;NZD;1
+JPY_MachineryOrders;20220913;23:50;Machinery Orders (MoM);Japan;JPY;1

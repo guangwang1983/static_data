@@ -1,0 +1,37 @@
+USD_ThanksgivingDay;20231123;05:00;Thanksgiving Day;United States;USD;0
+IDR_BankIndonesiaRate;20231123;07:00;Bank Indonesia Rate;Indonesia;IDR;1
+DKK_IndustrialOutlook;20231123;07:00;Industrial Outlook;Denmark;DKK;1
+NOK_GrossDomesticProduct;20231123;07:00;Gross Domestic Product Growth;Norway;NOK;1
+NOK_CreditIndicator;20231123;07:00;Credit Indicator;Norway;NOK;1
+HUF_GrossWages;20231123;07:30;Gross Wages (YoY);Hungary;HUF;1
+EUR_FraBusinessClimateinManufacturing;20231123;07:45;Business Climate in Manufacturing;France;EUR;1
+EUR_FraHCOBManufacturingPMIPreliminar;20231123;08:15;HCOB Manufacturing PMI;France;EUR;2
+EUR_FraHCOBCompositePMI;20231123;08:15;HCOB Composite PMI;France;EUR;2
+EUR_FraHCOBServicesPMI;20231123;08:15;HCOB Services PMI;France;EUR;2
+EUR_GerHCOBCompositePMI;20231123;08:30;HCOB Composite PMI;Germany;EUR;3
+EUR_GerHCOBServicesPMI;20231123;08:30;HCOB Services PMI;Germany;EUR;3
+EUR_GerHCOBManufacturingPMIPreliminar;20231123;08:30;HCOB Manufacturing PMI;Germany;EUR;3
+SEK_RiksbankInterestRateDecision;20231123;08:30;Riksbank Interest Rate Decision;Sweden;SEK;2
+EUR_EurHCOBServicesPMI;20231123;09:00;HCOB Services PMI;Eurozone;EUR;3
+EUR_EurHCOBManufacturingPMIPreliminar;20231123;09:00;HCOB Manufacturing PMI;Eurozone;EUR;3
+EUR_EurHCOBCompositePMI;20231123;09:00;HCOB Composite PMI;Eurozone;EUR;3
+GBP_S&PGlobalCIPSCompositePMI;20231123;09:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;3
+GBP_S&PGlobalCIPSManufacturingPMIPreliminar;20231123;09:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;3
+GBP_S&PGlobalCIPSServicesPMI;20231123;09:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;3
+TRY_CBRTInterestRateDecision;20231123;11:00;CBRT Interest Rate Decision;Turkey;TRY;2
+ILS_IndustrialProduction;20231123;11:00;Industrial Production (MoM);Israel;ILS;1
+MXN_1sthalfmonthCoreInflation;20231123;12:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20231123;12:00;1st half-month Inflation;Mexico;MXN;1
+EUR_EurECBMonetaryPolicyMeetingAccounts;20231123;12:30;ECB Monetary Policy Meeting Accounts;Eurozone;EUR;2
+PLN_M3MoneySupply;20231123;13:00;M3 Money Supply (YoY);Poland;PLN;1
+ZAR_SARBInterestRateDecision;20231123;13:00;SARB Interest Rate Decision;South Africa;ZAR;1
+RUB_CentralBankReserves;20231123;13:00;Central Bank Reserves $;Russia;RUB;1
+EUR_GerCentralBankSpeech;20231123;16:00;German Buba President Nagel speech;Germany;EUR;2
+NZD_ANZ–RoyMorganConsumerConfidence;20231123;21:00;ANZ – Roy Morgan Consumer Confidence;New Zealand;NZD;2
+NZD_RetailSales;20231123;21:45;Retail Sales ex Autos (QoQ);New Zealand;NZD;2
+EUR_EurCentralBankSpeech;20231123;22:00;ECB Schnabel speech;Eurozone;EUR;2
+JPY_ConsumerPriceIndex;20231123;23:30;National Consumer Price Index (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20231123;23:30;National CPI ex Fresh Food (YoY);Japan;JPY;2
+JPY_NationalCPIexFoodEnergy;20231123;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20231123;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20231123;23:50;Foreign Bond Investment;Japan;JPY;1

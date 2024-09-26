@@ -1,0 +1,26 @@
+PEN_Interestratedecision;20130614;23:00;Interest rate decision;Peru;PEN;1
+ARS_ConsumerPriceIndex;20130614;19:00;Consumer Price Index (MoM);Argentina;ARS;1
+PEN_GrossDomesticProduct;20130614;15:00;Gross Domestic Product;Peru;PEN;1
+USD_MichiganConsumerSentimentIndex;20130614;13:55;Michigan Consumer Sentiment Index;United States;USD;2
+USD_IndustrialProduction;20130614;13:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20130614;13:15;Capacity Utilization;United States;USD;1
+USD_NetLongTermTICFlows;20130614;13:00;Net Long-Term TIC Flows;United States;USD;2
+USD_TotalNetTICFlows;20130614;13:00;Total Net TIC Flows;United States;USD;1
+USD_CurrentAccount;20130614;12:30;Current Account;United States;USD;1
+USD_ProducerPriceIndex;20130614;12:30;Producer Price Index ex Food & Energy (YoY);United States;USD;2
+CAD_ManufacturingShipments;20130614;12:30;Manufacturing Shipments (MoM);Canada;CAD;1
+PLN_NetInflation;20130614;12:00;Net Inflation;Poland;PLN;1
+PLN_M3MoneySupply;20130614;12:00;M3 Money Supply (YoY);Poland;PLN;1
+INR_BankLoanGrowth;20130614;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20130614;11:30;FX Reserves, USD;India;INR;1
+EUR_EurConsumerPriceIndex;20130614;09:00;Consumer Price Index (YoY);European Monetary Union;EUR;3
+EUR_EurEmploymentChange;20130614;09:00;Employment Change (YoY);European Monetary Union;EUR;1
+EUR_AusHICP;20130614;08:00;HICP (YoY);Austria;EUR;1
+HUF_IndustrialOutput;20130614;07:00;Industrial Output (YoY);Hungary;HUF;1
+EUR_FinCurrentAccount;20130614;07:00;Current Account;Finland;EUR;1
+EUR_SloEUNormInflation;20130614;07:00;EU Norm Inflation (MoM);Slovakia;EUR;1
+RUB_BudgetFulfilment;20130614;06:30;Budget Fulfilment;Russia;RUB;1
+INR_WPIInflation;20130614;06:30;WPI Inflation;India;INR;1
+EUR_FinConsumerPriceIndex;20130614;06:00;Consumer Price Index (YoY);Finland;EUR;1
+SGD_RetailSales;20130614;05:00;Retail Sales (MoM);Singapore;SGD;1
+SGD_Unemploymentrate;20130614;02:00;Unemployment rate;Singapore;SGD;1

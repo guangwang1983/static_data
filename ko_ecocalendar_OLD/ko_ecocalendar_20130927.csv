@@ -1,0 +1,42 @@
+ARS_MonthlyEconActivity;20130927;19:00;Monthly Econ Activity (MoM);Argentina;ARS;1
+COP_Interestrate;20130927;18:00;Interest rate;Colombia;COP;1
+USD_CentralBankSpeech;20130927;18:00;Fed Dudley speech;United States;USD;1
+RUB_GrossDomesticProduct;20130927;15:00;Gross Domestic Product Monthly (YoY);Russia;RUB;1
+USD_MichiganConsumerSentimentIndex;20130927;13:55;Michigan Consumer Sentiment Index;United States;USD;2
+USD_PersonalConsumptionExpendituresPriceIndex;20130927;12:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;1
+USD_PersonalSpending;20130927;12:30;Personal Spending;United States;USD;2
+USD_CorePersonalConsumptionExpenditurePriceIndex;20130927;12:30;Core Personal Consumption Expenditure - Price Index (MoM);United States;USD;1
+USD_PersonalIncome;20130927;12:30;Personal Income (MoM);United States;USD;2
+EUR_GerConsumerPriceIndex;20130927;12:00;Consumer Price Index (MoM);Germany;EUR;2
+EUR_GerHarmonizedIndexofConsumerPrices;20130927;12:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+INR_FXReservesUSD;20130927;11:30;FX Reserves, USD;India;INR;1
+BRL_InflationIndexIGPM;20130927;11:00;Inflation Index/IGP-M;Brazil;BRL;1
+EUR_PorBusinessConfidence;20130927;10:00;Business Confidence;Portugal;EUR;1
+EUR_PorConsumerConfidence;20130927;10:00;Consumer Confidence;Portugal;EUR;1
+EUR_IreRetailSales;20130927;10:00;Retail Sales (MoM);Ireland;EUR;1
+EUR_BelConsumerPriceIndex;20130927;09:30;Consumer Price Index (MoM);Belgium;EUR;1
+EUR_ItaAuction;20130927;09:21;5-y Bond Auction;Italy;EUR;1
+EUR_EurCentralBankSpeech;20130927;09:00;ECB President Draghi speech;European Monetary Union;EUR;3
+EUR_EurConsumerConfidence;20130927;09:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurBusinessClimate;20130927;09:00;Business Climate;European Monetary Union;EUR;2
+EUR_EurIndustrialConfidence;20130927;09:00;Industrial Confidence;European Monetary Union;EUR;2
+EUR_EurServicesSentiment;20130927;09:00;Services Sentiment;European Monetary Union;EUR;2
+EUR_EurEconomicSentimentIndicator;20130927;09:00;Economic Sentiment Indicator;European Monetary Union;EUR;2
+EUR_GreProducerPriceIndex;20130927;09:00;Producer Price Index (YoY);Greece;EUR;1
+GBP_IndexofServices;20130927;08:30;Index of Services (3M/3M);United Kingdom;GBP;1
+EUR_ItaBusinessConfidence;20130927;08:00;Business Confidence;Italy;EUR;1
+EUR_AusPurchasingManagerIndex;20130927;08:00;Purchasing Manager Index;Austria;EUR;1
+NOK_RegisteredUnemployment;20130927;08:00;Registered Unemployment n.s.a;Norway;NOK;1
+SEK_RetailSales;20130927;07:30;Retail Sales (MoM);Sweden;SEK;1
+CHF_KOFLeadingIndicator;20130927;07:00;KOF Leading Indicator;Switzerland;CHF;2
+EUR_SpaHICP;20130927;07:00;HICP (YoY);Spain;EUR;1
+TRY_ConsumerConfidence;20130927;07:00;Consumer Confidence;Turkey;TRY;1
+DKK_IndustrialOutlook;20130927;07:00;Industrial Outlook;Denmark;DKK;1
+HUF_UnemploymentRate;20130927;07:00;Unemployment Rate (3M);Hungary;HUF;1
+EUR_SpaRetailSales;20130927;07:00;Retail Sales (YoY);Spain;EUR;1
+EUR_FraConsumerSpending;20130927;06:45;Consumer Spending (MoM);France;EUR;1
+EUR_FraGrossDomesticProduct;20130927;06:45;Gross Domestic Product (QoQ);France;EUR;1
+HUF_CurrentAccount;20130927;06:30;Current Account Balance (QoQ);Hungary;HUF;1
+EUR_FinConsumerConfidence;20130927;06:00;Consumer Confidence;Finland;EUR;1
+EUR_FinIndustrialConfidence;20130927;06:00;Industrial Confidence;Finland;EUR;1
+GBP_NationwideHousingPrices;20130927;06:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;2

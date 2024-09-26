@@ -1,0 +1,43 @@
+CNY_FDIForeignDirectInvestment;20230118;02:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+JPY_BoJMonetaryPolicyStatement;20230118;02:30;BoJ Monetary Policy Statement ;Japan;JPY;3
+JPY_BoJInterestRateDecision;20230118;02:30;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_BoJOutlookReport;20230118;02:30;BoJ Outlook Report;Japan;JPY;2
+JPY_IndustrialProduction;20230118;04:30;Industrial Production (MoM);Japan;JPY;1
+JPY_CapacityUtilization;20230118;04:30;Capacity Utilization;Japan;JPY;1
+JPY_BoJPressConference;20230118;06:30;BoJ Press Conference;Japan;JPY;3
+GBP_RetailPriceIndex;20230118;07:00;Retail Price Index (MoM);United Kingdom;GBP;2
+GBP_ConsumerPriceIndex;20230118;07:00;Consumer Price Index (MoM);United Kingdom;GBP;2
+ZAR_ConsumerPriceIndex;20230118;08:00;Consumer Price Index (YoY);South Africa;ZAR;1
+EUR_ItaGlobalTradeBalance;20230118;09:00;Global Trade Balance;Italy;EUR;1
+EUR_ItaTradeBalanceEU;20230118;09:00;Trade Balance EU;Italy;EUR;1
+GBP_DCLGHousePriceIndex;20230118;09:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+EUR_EurHarmonizedIndexofConsumerPrices;20230118;10:00;Harmonized Index of Consumer Prices (MoM);European Monetary Union;EUR;2
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20230118;10:00;Core Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;2
+EUR_EurConstructionOutput;20230118;10:00;Construction Output w.d.a (YoY);European Monetary Union;EUR;1
+EUR_EurCentralBankSpeech;20230118;10:30;ECB Schnabel speech;European Monetary Union;EUR;2
+EUR_GerAuction;20230118;10:30;30-y Bond Auction;Germany;EUR;1
+ZAR_RetailSales;20230118;11:00;Retail Sales (YoY);South Africa;ZAR;1
+USD_MBAMortgageApplications;20230118;12:00;MBA Mortgage Applications;United States;USD;1
+USD_RetailSales;20230118;13:30;Retail Sales ex Autos (MoM);United States;USD;2
+USD_ProducerPriceIndex;20230118;13:30;Producer Price Index (MoM);United States;USD;1
+CAD_RawMaterialPriceIndex;20230118;13:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20230118;13:30;Industrial Product Price (MoM);Canada;CAD;1
+USD_RedbookIndex;20230118;13:55;Redbook Index (YoY);United States;USD;1
+USD_IndustrialProduction;20230118;14:15;Industrial Production (MoM);United States;USD;1
+USD_CapacityUtilization;20230118;14:15;Capacity Utilization;United States;USD;1
+USD_BusinessInventories;20230118;15:00;Business Inventories;United States;USD;1
+USD_NAHBHousingMarketIndex;20230118;15:00;NAHB Housing Market Index;United States;USD;1
+USD_Auction;20230118;18:00;20-Year Bond Auction;United States;USD;1
+USD_FedBeigeBook;20230118;19:00;Fed Beige Book;United States;USD;2
+USD_CentralBankSpeech;20230118;20:00;Fed Harker speech;United States;USD;2
+USD_TotalNetTICFlows;20230118;21:00;Total Net TIC Flows;United States;USD;1
+USD_NetLongTermTICFlows;20230118;21:00;Net Long-Term TIC Flows;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20230118;21:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_FoodPriceIndex;20230118;21:45;Food Price Index (MoM);New Zealand;NZD;1
+CHF_WorldEconomicForumDavos;20230118;23:00;World Economic Forum - Davos;Switzerland;CHF;2
+JPY_MerchandiseTradeBalanceTotal;20230118;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20230118;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_Exports;20230118;23:50;Exports (YoY);Japan;JPY;2
+JPY_Imports;20230118;23:50;Imports (YoY);Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20230118;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20230118;23:50;Foreign Bond Investment;Japan;JPY;1

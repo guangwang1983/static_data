@@ -1,0 +1,38 @@
+JPY_MoneySupplyM2+CD;20170308;23:50;Money Supply M2+CD (YoY);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20170308;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20170308;23:50;Foreign Bond Investment;Japan;JPY;2
+USD_Auction;20170308;18:00;10-Year Note Auction;United States;USD;2
+USD_EIACrudeOilStocksChange;20170308;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_WholesaleInventories;20170308;15:00;Wholesale Inventories;United States;USD;1
+CAD_LaborProductivity;20170308;13:30;Labor Productivity (QoQ);Canada;CAD;1
+USD_NonfarmProductivity;20170308;13:30;Nonfarm Productivity;United States;USD;2
+USD_UnitLaborCosts;20170308;13:30;Unit Labor Costs;United States;USD;2
+CAD_BuildingPermits;20170308;13:30;Building Permits (MoM);Canada;CAD;1
+CAD_HousingStarts;20170308;13:15;Housing Starts s.a (YoY);Canada;CAD;2
+USD_ADPEmploymentChange;20170308;13:15;ADP Employment Change;United States;USD;2
+PLN_CentralBankFXReserves;20170308;13:00;Central Bank FX Reserves;Poland;PLN;1
+GBP_BudgetReport;20170308;12:30;Budget Report;United Kingdom;GBP;2
+USD_MBAMortgageApplications;20170308;12:00;MBA Mortgage Applications;United States;USD;1
+BRL_IndustrialOutput;20170308;11:00;Industrial Output (YoY);Brazil;BRL;1
+CLP_ConsumerPriceIndex;20170308;11:00;Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+PLN_NBPBaserate;20170308;11:00;NBP Base rate;Poland;PLN;1
+ZAR_BusinessConfidenceIndex;20170308;09:30;Business Confidence Index;South Africa;ZAR;1
+CHF_ConsumerPriceIndex;20170308;08:15;Consumer Price Index (YoY);Switzerland;CHF;2
+CNY_TradeBalanceUSD;20170308;08:13;Trade Balance USD;China;CNY;0
+EUR_SpaIndustrialOutputCalAdjusted;20170308;08:00;Industrial Output Cal Adjusted (YoY);Spain;EUR;1
+HUF_ConsumerPriceIndex;20170308;08:00;Consumer Price Index (YoY);Hungary;HUF;1
+CNY_Exports;20170308;07:56;Exports (YoY);China;CNY;0
+CNY_Imports;20170308;07:56;Imports (YoY);China;CNY;0
+EUR_FraImportsEUR;20170308;07:45;Imports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20170308;07:45;Trade Balance EUR;France;EUR;1
+EUR_FraExportsEUR;20170308;07:45;Exports, EUR;France;EUR;1
+EUR_FraCurrentAccount;20170308;07:45;Current Account;France;EUR;1
+CZK_UnemploymentRate;20170308;07:00;Unemployment Rate;Czech Republic;CZK;1
+EUR_GerIndustrialProduction;20170308;07:00;Industrial Production s.a. (MoM);Germany;EUR;1
+TRY_IndustrialProduction;20170308;07:00;Industrial Production (YoY);Turkey;TRY;1
+JPY_EcoWatchersSurvey:Outlook;20170308;06:00;Eco Watchers Survey: Outlook;Japan;JPY;2
+JPY_EcoWatchersSurvey:Current;20170308;06:00;Eco Watchers Survey: Current;Japan;JPY;2
+JPY_CoincidentIndex;20170308;05:00;Coincident Index;Japan;JPY;2
+JPY_LeadingEconomicIndex;20170308;05:00;Leading Economic Index;Japan;JPY;2
+CNY_TradeBalanceCNY;20170308;03:43;Trade Balance CNY;China;CNY;0
+RUB_WomenDay;20170308;00:00;Women Day;Russia;RUB;0

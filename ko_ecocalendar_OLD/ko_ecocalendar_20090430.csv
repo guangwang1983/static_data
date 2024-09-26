@@ -1,0 +1,26 @@
+JPY_TokyoCPIexFreshFood;20090430;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;1
+JPY_TokyoCPIexFoodEnergy;20090430;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20090430;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;1
+JPY_NationalCPIexFreshFood;20090430;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_NationalCPIexFoodEnergy;20090430;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_UnemploymentRate;20090430;23:30;Unemployment Rate;Japan;JPY;2
+JPY_OverallHouseholdSpending;20090430;23:30;Overall Household Spending (YoY);Japan;JPY;1
+USD_ChicagoPurchasingManagers'Index;20090430;13:45;Chicago Purchasing Managers' Index;United States;USD;2
+USD_PersonalConsumptionExpendituresPriceIndex;20090430;12:30;Personal Consumption Expenditures - Price Index (YoY);United States;USD;2
+USD_PersonalIncome;20090430;12:30;Personal Income (MoM);United States;USD;1
+USD_CorePersonalConsumptionExpenditurePriceIndex;20090430;12:30;Core Personal Consumption Expenditure - Price Index (MoM);United States;USD;3
+CAD_IndustrialProductPrice;20090430;12:30;Industrial Product Price (MoM);Canada;CAD;1
+USD_JoblessClaims;20090430;12:30;Initial Jobless Claims;United States;USD;1
+CAD_GrossDomesticProduct;20090430;12:30;Gross Domestic Product (MoM);Canada;CAD;2
+PLN_NBPBaserate;20090430;12:00;NBP Base rate;Poland;PLN;1
+EUR_EurUnemploymentRate;20090430;09:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_EurConsumerPriceIndex;20090430;09:00;Consumer Price Index (YoY);European Monetary Union;EUR;2
+NZD_RBNZInterestRateDecision;20090430;08:00;RBNZ Interest Rate Decision;New Zealand;NZD;0
+EUR_GerUnemploymentRate;20090430;07:55;Unemployment Rate s.a.;Germany;EUR;1
+EUR_GerUnemploymentChange;20090430;07:55;Unemployment Change;Germany;EUR;1
+GBP_NationwideHousingPrices;20090430;06:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;2
+JPY_BoJInterestRateDecision;20090430;05:03;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_AnnualizedHousingStarts;20090430;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_HousingStarts;20090430;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_ConstructionOrders;20090430;05:00;Construction Orders (YoY);Japan;JPY;1
+AUD_PrivateSectorCredit;20090430;01:30;Private Sector Credit (MoM);Australia;AUD;1

@@ -1,0 +1,33 @@
+AUD_FinancialStabilityReview;20190412;01:30;Financial Stability Review;Australia;AUD;1
+RON_IndustrialProduction;20190412;06:00;Industrial Production (MoM);Romania;RON;1
+EUR_GerWholesalePriceIndex;20190412;06:00;Wholesale Price Index (YoY);Germany;EUR;1
+CNY_TradeBalanceUSD;20190412;06:49;Trade Balance USD;China;CNY;2
+CNY_TradeBalanceCNY;20190412;06:49;Trade Balance CNY;China;CNY;1
+CNY_Exports;20190412;06:50;Exports (YoY) CNY;China;CNY;2
+CNY_Imports;20190412;06:50;Imports (YoY) CNY;China;CNY;2
+HUF_IndustrialOutput;20190412;07:00;Industrial Output (YoY);Hungary;HUF;1
+CZK_CurrentAccount;20190412;08:00;Current Account (MoM);Czech Republic;CZK;1
+CNY_M2MoneySupply;20190412;09:00;M2 Money Supply (YoY);China;CNY;1
+EUR_EurIndustrialProduction;20190412;09:00;Industrial Production s.a. (MoM);European Monetary Union;EUR;2
+CNY_NewLoans;20190412;09:00;New Loans;China;CNY;1
+INR_BankLoanGrowth;20190412;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20190412;11:30;FX Reserves, USD;India;INR;1
+PLN_CurrentAccount;20190412;12:00;Current Account;Poland;PLN;1
+INR_IndustrialOutput;20190412;12:00;Industrial Output;India;INR;1
+INR_ManufacturingOutput;20190412;12:00;Manufacturing Output;India;INR;1
+INR_CumulativeIndustrialOutput;20190412;12:00;Cumulative Industrial Output;India;INR;1
+USD_ImportPriceIndex;20190412;12:30;Import Price Index (YoY);United States;USD;1
+USD_ExportPriceIndex;20190412;12:30;Export Price Index (MoM);United States;USD;1
+RUB_BudgetFulfilment;20190412;13:42;Budget Fulfilment;Russia;RUB;1
+USD_MichiganConsumerSentimentIndex;20190412;14:00;Michigan Consumer Sentiment Index;United States;USD;3
+COP_RetailSales;20190412;15:00;Retail Sales (YoY);Colombia;COP;1
+COP_Industrialoutput;20190412;15:00;Industrial output (YoY);Colombia;COP;1
+USD_BakerHughesUSOilRigCount;20190412;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+CAD_CentralBankSpeech;20190412;18:00;BoC Lane speech;Canada;CAD;2
+GBP_CFTCGBPNCNetPositions;20190412;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20190412;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20190412;19:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20190412;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20190412;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+AUD_CFTCAUDNCNetPositions;20190412;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20190412;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1

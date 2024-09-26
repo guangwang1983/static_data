@@ -1,0 +1,30 @@
+AUD_ANZJobAdvertisements;20240108;00:30;ANZ Job Advertisements;Australia;AUD;1
+ZAR_Net$Gold&ForexReserve;20240108;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+ZAR_Gross$Gold&ForexReserve;20240108;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+EUR_GerTradeBalance;20240108;07:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerExports;20240108;07:00;Exports (MoM);Germany;EUR;1
+EUR_GerImports;20240108;07:00;Imports (MoM);Germany;EUR;1
+EUR_GerFactoryOrders;20240108;07:00;Factory Orders s.a. (MoM);Germany;EUR;2
+NOK_ManufacturingOutput;20240108;07:00;Manufacturing Output;Norway;NOK;1
+HUF_RetailSales;20240108;07:30;Retail Sales (YoY);Hungary;HUF;1
+CHF_RetailSales;20240108;07:30;Real Retail Sales (YoY);Switzerland;CHF;2
+CHF_ConsumerPriceIndex;20240108;07:30;Consumer Price Index (MoM);Switzerland;CHF;2
+CZK_Constructionoutput;20240108;08:00;Construction output (YoY);Czech Republic;CZK;1
+CZK_ForeignTradeBalance;20240108;08:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+EUR_EurSentixInvestorConfidence;20240108;09:30;Sentix Investor Confidence;Eurozone;EUR;2
+HUF_BudgetBalance;20240108;10:00;Budget Balance;Hungary;HUF;1
+EUR_EurIndustrialConfidence;20240108;10:00;Industrial Confidence;Eurozone;EUR;1
+EUR_EurEconomicSentimentIndicator;20240108;10:00;Economic Sentiment Indicator;Eurozone;EUR;2
+EUR_EurServicesSentiment;20240108;10:00;Services Sentiment;Eurozone;EUR;1
+EUR_EurConsumerConfidence;20240108;10:00;Consumer Confidence;Eurozone;EUR;2
+EUR_EurBusinessClimate;20240108;10:00;Business Climate;Eurozone;EUR;2
+EUR_EurRetailSales;20240108;10:00;Retail Sales (MoM);Eurozone;EUR;2
+CLP_ConsumerPriceIndex;20240108;11:00;Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+CLP_TradeBalance;20240108;11:30;Trade Balance;Chile;CLP;1
+MXN_ConsumerConfidence;20240108;12:00;Consumer Confidence s.a;Mexico;MXN;1
+USD_Auction;20240108;15:30;3-Month Bill Auction;United States;USD;1
+USD_ConsumerCreditChange;20240108;20:00;Consumer Credit Change;United States;USD;1
+KRW_CurrentAccount;20240108;23:00;Current Account Balance;South Korea;KRW;1
+JPY_TokyoCPIexFreshFood;20240108;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;2
+JPY_TokyoCPIexFoodEnergy;20240108;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;3
+JPY_ConsumerPriceIndex;20240108;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;3

@@ -1,0 +1,35 @@
+EUR_EurEUleaderssummit;20221020;00:00;EU leaders summit;European Monetary Union;EUR;2
+AUD_NationalAustraliaBankBusinessConfidence;20221020;00:30;National Australia Bank Business Confidence (QoQ);Australia;AUD;2
+AUD_FullTimeEmployment;20221020;00:30;Full-Time Employment;Australia;AUD;2
+AUD_PartTimeEmployment;20221020;00:30;Part-Time Employment;Australia;AUD;1
+AUD_EmploymentChange;20221020;00:30;Employment Change s.a.;Australia;AUD;3
+AUD_UnemploymentRate;20221020;00:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_ParticipationRate;20221020;00:30;Participation Rate;Australia;AUD;1
+CNY_PBoCInterestRateDecision;20221020;01:30;PBoC Interest Rate Decision;China;CNY;3
+CHF_TradeBalance;20221020;06:00;Trade Balance;Switzerland;CHF;1
+CHF_Exports;20221020;06:00;Exports (MoM);Switzerland;CHF;1
+CHF_Imports;20221020;06:00;Imports (MoM);Switzerland;CHF;1
+IDR_BankIndonesiaRate;20221020;07:00;Bank Indonesia Rate;Indonesia;IDR;1
+PLN_IndustrialOutput;20221020;08:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20221020;08:00;Producer Price Index (YoY);Poland;PLN;1
+PLN_CorporateSectorWages;20221020;08:00;Corporate Sector Wages;Poland;PLN;1
+EUR_EurCurrentAccount;20221020;08:00;Current Account s.a;European Monetary Union;EUR;1
+TRY_CBRTInterestRateDecision;20221020;11:00;CBRT Interest Rate Decision;Turkey;TRY;3
+USD_JoblessClaims;20221020;12:30;Initial Jobless Claims 4-week average;United States;USD;2
+USD_PhiladelphiaFedManufacturingSurvey;20221020;12:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+CAD_EmploymentInsuranceBeneficiariesChange;20221020;12:30;Employment Insurance Beneficiaries Change (MoM);Canada;CAD;1
+RUB_CentralBankReserves;20221020;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_ExistingHomeSales;20221020;14:00;Existing Home Sales (MoM);United States;USD;1
+USD_ExistingHomeSalesChange;20221020;14:00;Existing Home Sales Change (MoM);United States;USD;1
+USD_EIANaturalGasStorageChange;20221020;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20221020;15:30;4-Week Bill Auction;United States;USD;1
+USD_MonthlyBudgetStatement;20221020;18:00;Monthly Budget Statement;United States;USD;2
+USD_CentralBankSpeech;20221020;18:05;Fed Bowman speech;United States;USD;2
+KRW_ProducerPriceIndex;20221020;21:00;Producer Price Index Growth (MoM);South Korea;KRW;1
+NZD_TradeBalanceNZD;20221020;21:45;Trade Balance NZD (MoM);New Zealand;NZD;1
+NZD_Imports;20221020;21:45;Imports;New Zealand;NZD;2
+NZD_Exports;20221020;21:45;Exports;New Zealand;NZD;2
+GBP_GfKConsumerConfidence;20221020;23:01;GfK Consumer Confidence;United Kingdom;GBP;2
+JPY_NationalCPIexFreshFood;20221020;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20221020;23:30;National Consumer Price Index (YoY);Japan;JPY;2
+JPY_NationalCPIexFoodEnergy;20221020;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2

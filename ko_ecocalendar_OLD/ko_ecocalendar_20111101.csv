@@ -1,0 +1,38 @@
+JPY_MonetaryBase;20111101;23:50;Monetary Base (YoY);Japan;JPY;1
+USD_TotalVehicleSales;20111101;21:00;Total Vehicle Sales;United States;USD;1
+USD_ISMManufacturingPMI;20111101;14:00;ISM Manufacturing PMI;United States;USD;2
+USD_ISMPricesPaid;20111101;14:00;ISM Prices Paid;United States;USD;2
+USD_ConstructionSpending;20111101;14:00;Construction Spending (MoM);United States;USD;2
+CZK_BudgetBalance;20111101;13:00;Budget Balance;Czech Republic;CZK;1
+BRL_TradeBalance;20111101;12:30;Trade Balance;Brazil;BRL;1
+BRL_IndustrialOutput;20111101;11:00;Industrial Output (YoY);Brazil;BRL;1
+ZAR_UnemploymentRate;20111101;11:00;Unemployment Rate (%);South Africa;ZAR;1
+ZAR_UnemploymentTotal;20111101;11:00;Unemployment Total ;South Africa;ZAR;1
+GBP_GrossDomesticProduct;20111101;09:30;Gross Domestic Product (YoY);United Kingdom;GBP;2
+DKK_RetailSales;20111101;09:30;Retail Sales (YoY);Denmark;DKK;0
+GBP_IndexofServices;20111101;09:30;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_MarkitManufacturingPMI;20111101;09:28;Markit Manufacturing PMI;United Kingdom;GBP;2
+ZAR_PurchasingManagerIndex;20111101;09:00;Purchasing Manager Index;South Africa;ZAR;1
+CHF_SVMEPurchasingManagers'Index;20111101;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;2
+SEK_PurchasingManagersIndexManufacturing;20111101;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+GBP_NationwideHousingPrices;20111101;07:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;1
+INR_TradeDeficitGovernment;20111101;06:30;Trade Deficit Government;India;INR;1
+AUD_RBACommodityIndexSDR;20111101;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+IDR_TradeBalance;20111101;05:10;Trade Balance;Indonesia;IDR;1
+IDR_Inflation;20111101;05:10;Inflation (YoY);Indonesia;IDR;1
+IDR_Exports;20111101;05:10;Exports;Indonesia;IDR;1
+IDR_Imports;20111101;05:09;Imports;Indonesia;IDR;1
+IDR_CoreInflation;20111101;05:09;Core Inflation (YoY);Indonesia;IDR;1
+JPY_VehicleSales;20111101;05:00;Vehicle Sales (YoY);Japan;JPY;1
+RUB_HSBCManufacturingPMI;20111101;05:00;HSBC Manufacturing PMI	;Russia;RUB;1
+AUD_RBAInterestRateDecision;20111101;03:30;RBA Interest Rate Decision;Australia;AUD;3
+CNY_CaixinManufacturingPMI;20111101;02:30;Caixin Manufacturing PMI;China;CNY;1
+JPY_LaborCashEarnings;20111101;01:30;Labor Cash Earnings (YoY);Japan;JPY;2
+CNY_NBSManufacturingPMI;20111101;01:00;NBS Manufacturing PMI;China;CNY;3
+AUD_HousePriceIndex;20111101;00:30;House Price Index (QoQ);Australia;AUD;2
+AUD_RBARateStatement;20111101;00:30;RBA Rate Statement;Australia;AUD;2
+KRW_ExportPriceGrowth;20111101;00:07;Export Price Growth (YoY);South Korea;KRW;1
+KRW_ImportPriceGrowth;20111101;00:07;Import Price Growth (YoY);South Korea;KRW;1
+KRW_TradeBalance;20111101;00:06;Trade Balance;South Korea;KRW;1
+KRW_NikkeiMarkitManufacturingPMI;20111101;00:00;Nikkei Markit Manufacturing PMI;South Korea;KRW;1
+NZD_ANZCommodityPrice;20111101;00:00;ANZ Commodity Price;New Zealand;NZD;1

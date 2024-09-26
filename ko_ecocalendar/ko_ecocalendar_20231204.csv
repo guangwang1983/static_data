@@ -1,0 +1,28 @@
+AUD_TDSecuritiesInflation;20231204;00:00;TD Securities Inflation (MoM);Australia;AUD;1
+AUD_HomeLoans;20231204;00:30;Home Loans;Australia;AUD;1
+AUD_InvestmentLendingforHomes;20231204;00:30;Investment Lending for Homes;Australia;AUD;1
+AUD_CompanyGrossOperatingProfits;20231204;00:30;Company Gross Operating Profits (QoQ);Australia;AUD;1
+AUD_ANZJobAdvertisements;20231204;00:30;ANZ Job Advertisements;Australia;AUD;1
+EUR_GerExports;20231204;07:00;Exports (MoM);Germany;EUR;1
+EUR_GerTradeBalance;20231204;07:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerImports;20231204;07:00;Imports (MoM);Germany;EUR;1
+TRY_ProducerPriceIndex;20231204;07:00;Producer Price Index (MoM);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20231204;07:00;Consumer Price Index (YoY);Turkey;TRY;2
+CHF_ConsumerPriceIndex;20231204;07:30;Consumer Price Index (MoM);Switzerland;CHF;2
+TRY_Exports;20231204;08:00;Exports;Turkey;TRY;1
+BRL_FipeIPCInflation;20231204;08:00;Fipe IPC Inflation;Brazil;BRL;1
+EUR_EurSentixInvestorConfidence;20231204;09:30;Sentix Investor Confidence;Eurozone;EUR;2
+BRL_CurrentAccount;20231204;11:30;Current Account;Brazil;BRL;1
+ILS_M1MoneySupply;20231204;12:30;M1 Money Supply (MoM);Israel;ILS;1
+EUR_EurCentralBankSpeech;20231204;14:30;ECB Elderson speech;Eurozone;EUR;2
+USD_FactoryOrders;20231204;15:00;Factory Orders (MoM);United States;USD;2
+DKK_CurrencyReserves;20231204;16:00;Currency Reserves;Denmark;DKK;1
+USD_Auction;20231204;16:30;3-Month Bill Auction;United States;USD;1
+KRW_FXReserves;20231204;21:00;FX Reserves;South Korea;KRW;1
+AUD_JudoBankServicesPMI;20231204;22:00;Judo Bank Services PMI;Australia;AUD;2
+AUD_JudoBankCompositePMI;20231204;22:00;Judo Bank Composite PMI;Australia;AUD;2
+KRW_GrossDomesticProduct;20231204;23:00;Gross Domestic Product Growth (QoQ) ;South Korea;KRW;2
+KRW_ConsumerPriceIndex;20231204;23:00;Consumer Price Index Growth (MoM);South Korea;KRW;1
+JPY_ConsumerPriceIndex;20231204;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;3
+JPY_TokyoCPIexFoodEnergy;20231204;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;3
+JPY_TokyoCPIexFreshFood;20231204;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;2

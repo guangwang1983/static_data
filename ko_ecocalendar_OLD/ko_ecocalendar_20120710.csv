@@ -1,0 +1,42 @@
+JPY_DomesticCorporateGoodsPriceIndex;20120710;23:50;Domestic Corporate Goods Price Index (YoY);Japan;JPY;2
+JPY_TertiaryIndustryIndex;20120710;23:50;Tertiary Industry Index (MoM);Japan;JPY;2
+AUD_CentralBankSpeech;20120710;23:00;OUTDATED - RBA Deputy Governor Lowe Speech;Australia;AUD;2
+KRW_UnemploymentRate;20120710;23:00;Unemployment Rate;South Korea;KRW;1
+USD_Auction;20120710;17:00;3-Year Note Auction;United States;USD;1
+USD_IBDTIPPEconomicOptimism;20120710;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+MXN_GrossDomesticProduct;20120710;13:00;Gross Domestic Product (MoM);Mexico;MXN;1
+USD_RedbookIndex;20120710;12:55;Redbook Index (YoY);United States;USD;1
+CAD_HousingStarts;20120710;12:15;Housing Starts s.a (YoY);Canada;CAD;2
+USD_NFIBBusinessOptimismIndex;20120710;11:30;NFIB Business Optimism Index;United States;USD;1
+USD_CentralBankSpeech;20120710;10:05;Fed Bullard speech;United States;USD;1
+EUR_PorGlobalTradeBalance;20120710;10:00;Global Trade Balance;Portugal;EUR;1
+EUR_GreIndustrialProduction;20120710;09:00;Industrial Production (YoY);Greece;EUR;1
+GBP_ManufacturingProduction;20120710;08:30;Manufacturing Production (MoM);United Kingdom;GBP;1
+GBP_IndustrialProduction;20120710;08:30;Industrial Production (YoY);United Kingdom;GBP;2
+GBP_GoodsTradeBalance;20120710;08:30;Goods Trade Balance;United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20120710;08:30;Trade Balance non-EU;United Kingdom;GBP;1
+EUR_ItaIndustrialOutput;20120710;08:00;Industrial Output s.a. (MoM);Italy;EUR;1
+EUR_GerGermanConstitutionalCourtdiscussesMotionstostopESM;20120710;08:00;German Constitutional Court discusses Motions to stop ESM;Germany;EUR;2
+NOK_ConsumerPriceIndex;20120710;08:00;Consumer Price Index (YoY);Norway;NOK;1
+NOK_CoreInflation;20120710;08:00;Core Inflation (MoM);Norway;NOK;1
+CZK_FXReserves;20120710;08:00;FX Reserves;Czech Republic;CZK;1
+NOK_ProducerPriceIndex;20120710;08:00;Producer Price Index (YoY);Norway;NOK;1
+SEK_IndustrialProduction;20120710;07:30;Industrial Production (YoY);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20120710;07:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+EUR_NetManufacturingOutput;20120710;07:30;Manufacturing Output (MoM);Netherlands, The;EUR;1
+EUR_SloIndustrialOutput;20120710;07:00;Industrial Output (YoY);Slovakia;EUR;1
+RON_TradeBalance;20120710;07:00;Trade Balance;Romania;RON;1
+DKK_ConsumerPriceIndex;20120710;07:00;Consumer Price Index (YoY);Denmark;DKK;1
+DKK_Inflation;20120710;07:00;Inflation (HICP) (YoY);Denmark;DKK;1
+RON_IndustrialProduction;20120710;07:00;Industrial Production (MoM);Romania;RON;1
+RON_ConsumerPriceIndex;20120710;07:00;Consumer Price Index;Romania;RON;1
+EUR_FraIndustrialOutput;20120710;06:45;Industrial Output (MoM);France;EUR;1
+EUR_FinIndustrialOutput;20120710;06:00;Industrial Output (MoM);Finland;EUR;1
+EUR_EurCentralBankSpeech;20120710;05:00;ECB Noyer speech;European Monetary Union;EUR;1
+JPY_ConsumerConfidenceIndex;20120710;05:00;Consumer Confidence Index;Japan;JPY;2
+AUD_NationalAustraliaBankBusinessConfidence;20120710;01:30;National Australia Bank Business Confidence;Australia;AUD;2
+AUD_NationalAustraliaBankBusinessConditions;20120710;01:30;National Australia Bank Business Conditions;Australia;AUD;1
+CNY_Imports;20120710;01:00;Imports (YoY);China;CNY;1
+CNY_Exports;20120710;01:00;Exports (YoY);China;CNY;1
+CNY_TradeBalanceUSD;20120710;01:00;Trade Balance USD;China;CNY;2
+EUR_EurEcoFinMeeting;20120710;00:00;EcoFin Meeting;European Monetary Union;EUR;2

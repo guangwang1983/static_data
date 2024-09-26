@@ -1,0 +1,37 @@
+AUD_WestpacConsumerConfidenceIndex;20150210;23:30;Westpac Consumer Confidence Index;Australia;AUD;1
+AUD_WestpacConsumerConfidence;20150210;23:30;Westpac Consumer Confidence;Australia;AUD;1
+KRW_UnemploymentRate;20150210;23:00;Unemployment Rate;South Korea;KRW;1
+NZD_RetailSales;20150210;21:45;Electronic Card Retail Sales  (MoM);New Zealand;NZD;1
+KRW_ImportPriceGrowth;20150210;21:00;Import Price Growth (YoY);South Korea;KRW;1
+KRW_ExportPriceGrowth;20150210;21:00;Export Price Growth (YoY);South Korea;KRW;1
+USD_Auction;20150210;18:00;3-Year Note Auction;United States;USD;1
+USD_IBDTIPPEconomicOptimism;20150210;15:15;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+USD_JOLTSJobOpenings;20150210;15:00;JOLTS Job Openings;United States;USD;1
+GBP_NIESRGDPEstimate;20150210;15:00;NIESR GDP Estimate (3M);United Kingdom;GBP;2
+USD_WholesaleInventories;20150210;15:00;Wholesale Inventories;United States;USD;2
+USD_NFIBBusinessOptimismIndex;20150210;14:00;NFIB Business Optimism Index;United States;USD;1
+USD_RedbookIndex;20150210;13:55;Redbook Index (MoM);United States;USD;1
+USD_CentralBankSpeech;20150210;13:20;Fed Lacker speech;United States;USD;1
+ZAR_ManufacturingProductionIndex;20150210;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+EUR_EurG20Meeting;20150210;11:00;G20 Meeting;European Monetary Union;EUR;2
+GBP_ManufacturingProduction;20150210;09:30;Manufacturing Production (MoM);United Kingdom;GBP;1
+GBP_IndustrialProduction;20150210;09:30;Industrial Production (YoY);United Kingdom;GBP;2
+ZAR_UnemploymentRate;20150210;09:30;Unemployment Rate (%);South Africa;ZAR;1
+ZAR_UnemploymentTotal;20150210;09:30;Unemployment Total ;South Africa;ZAR;1
+NOK_ConsumerPriceIndex;20150210;09:00;Consumer Price Index (YoY);Norway;NOK;1
+NOK_CoreInflation;20150210;09:00;Core Inflation (MoM);Norway;NOK;1
+EUR_ItaIndustrialOutput;20150210;09:00;Industrial Output w.d.a (YoY);Italy;EUR;1
+NOK_ProducerPriceIndex;20150210;09:00;Producer Price Index (YoY);Norway;NOK;1
+CHF_ConsumerPriceIndex;20150210;08:15;Consumer Price Index (YoY);Switzerland;CHF;2
+EUR_SloIndustrialOutput;20150210;08:00;Industrial Output (YoY);Slovakia;EUR;1
+EUR_FraIndustrialOutput;20150210;07:45;Industrial Output (MoM);France;EUR;1
+DKK_ConsumerPriceIndex;20150210;07:00;Consumer Price Index (YoY);Denmark;DKK;1
+DKK_Inflation;20150210;07:00;Inflation (HICP) (YoY);Denmark;DKK;1
+EUR_FinIndustrialOutput;20150210;07:00;Industrial Output (MoM);Finland;EUR;1
+CHF_UnemploymentRate;20150210;06:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+CNY_ConsumerPriceIndex;20150210;01:30;Consumer Price Index (YoY);China;CNY;3
+CNY_ProducerPriceIndex;20150210;01:30;Producer Price Index (YoY);China;CNY;3
+AUD_HousePriceIndex;20150210;00:30;House Price Index (QoQ);Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConfidence;20150210;00:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20150210;00:30;National Australia Bank Business Conditions;Australia;AUD;1
+GBP_RetailSales;20150210;00:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;1

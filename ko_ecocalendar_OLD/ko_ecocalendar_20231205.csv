@@ -1,0 +1,38 @@
+NZD_ANZCommodityPrice;20231205;00:00;ANZ Commodity Price;New Zealand;NZD;1
+GBP_RetailSales;20231205;00:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+JPY_JibunBankServicesPMI;20231205;00:30;Jibun Bank Services PMI;Japan;JPY;1
+AUD_CurrentAccount;20231205;01:30;Current Account Balance;Australia;AUD;1
+CNY_CaixinServicesPMI;20231205;01:45;Caixin Services PMI;China;CNY;3
+AUD_RBARateStatement;20231205;03:30;RBA Rate Statement;Australia;AUD;3
+AUD_RBAInterestRateDecision;20231205;03:30;RBA Interest Rate Decision;Australia;AUD;3
+JPY_Auction;20231205;03:35;10-y Bond Auction;Japan;JPY;1
+JPY_ConsumerConfidenceIndex;20231205;05:00;Consumer Confidence Index;Japan;JPY;1
+RUB_S&PGlobalServicesPMI;20231205;06:00;S&P Global Services PMI;Russia;RUB;1
+SEK_CurrentAccount;20231205;07:00;Current Account (QoQ);Sweden;SEK;1
+EUR_FraIndustrialOutput;20231205;07:45;Industrial Output (MoM);France;EUR;1
+EUR_ItaHCOBServicesPMI;20231205;08:45;HCOB Services PMI;Italy;EUR;2
+EUR_FraHCOBCompositePMI;20231205;08:50;HCOB Composite PMI;France;EUR;1
+EUR_FraHCOBServicesPMI;20231205;08:50;HCOB Services PMI;France;EUR;1
+EUR_GerHCOBServicesPMI;20231205;08:55;HCOB Services PMI;Germany;EUR;2
+EUR_GerHCOBCompositePMI;20231205;08:55;HCOB Composite PMI;Germany;EUR;2
+EUR_EurHCOBServicesPMI;20231205;09:00;HCOB Services PMI;Eurozone;EUR;1
+EUR_EurHCOBCompositePMI;20231205;09:00;HCOB Composite PMI;Eurozone;EUR;2
+ZAR_GrossDomesticProduct;20231205;09:30;Gross Domestic Product (YoY);South Africa;ZAR;1
+GBP_S&PGlobalCIPSServicesPMI;20231205;09:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;1
+GBP_S&PGlobalCIPSCompositePMI;20231205;09:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;1
+EUR_EurProducerPriceIndex;20231205;10:00;Producer Price Index (YoY);Eurozone;EUR;2
+BRL_GrossDomesticProduct;20231205;12:00;Gross Domestic Product (QoQ);Brazil;BRL;1
+USD_RedbookIndex;20231205;13:55;Redbook Index (YoY);United States;USD;1
+NZD_GDTPriceIndex;20231205;14:00;GDT Price Index;New Zealand;NZD;1
+USD_S&PGlobalServicesPMI;20231205;14:45;S&P Global Services PMI;United States;USD;1
+USD_S&PGlobalCompositePMI;20231205;14:45;S&P Global Composite PMI;United States;USD;2
+USD_JOLTSJobOpenings;20231205;15:00;JOLTS Job Openings;United States;USD;2
+USD_ISMServicesEmploymentIndex;20231205;15:00;ISM Services Employment Index;United States;USD;2
+USD_ISMServicesPricesPaid;20231205;15:00;ISM Services Prices Paid;United States;USD;2
+USD_ISMServicesPMI;20231205;15:00;ISM Services PMI;United States;USD;3
+USD_ISMServicesNewOrdersIndex;20231205;15:00;ISM Services New Orders Index;United States;USD;2
+USD_RealClearMarketsTIPPEconomicOptimism;20231205;15:00;RealClearMarkets/TIPP Economic Optimism (MoM);United States;USD;1
+USD_APIWeeklyCrudeOilStock;20231205;21:30;API Weekly Crude Oil Stock;United States;USD;1
+AUD_AiGIndustryIndex;20231205;22:00;AiG Industry Index;Australia;AUD;2
+AUD_AiGManufacturingPMI;20231205;22:00;AiG Manufacturing PMI;Australia;AUD;1
+AUD_AiGConstructionPMI;20231205;22:00;AiG Construction PMI;Australia;AUD;1

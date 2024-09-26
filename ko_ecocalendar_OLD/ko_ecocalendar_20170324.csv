@@ -1,0 +1,42 @@
+JPY_CFTCJPYNCNetPositions;20170324;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+AUD_CFTCAUDNCNetPositions;20170324;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCGoldNCNetPositions;20170324;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCUSDNCNetPositions;20170324;20:30;CFTC USD NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20170324;20:30;CFTC Oil NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20170324;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+GBP_CFTCGBPNCNetPositions;20170324;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_USCongressvotesHealthCareBill;20170324;20:15;US Congress votes Health Care Bill;United States;USD;3
+USD_BakerHughesUSOilRigCount;20170324;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+MXN_RetailSales;20170324;14:00;Retail Sales (YoY);Mexico;MXN;1
+USD_MarkitManufacturingPMI;20170324;13:45;Markit Manufacturing PMI;United States;USD;2
+USD_MarkitServicesPMI;20170324;13:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20170324;13:45;Markit PMI Composite;United States;USD;2
+BRL_CurrentAccount;20170324;13:30;Current Account;Brazil;BRL;1
+INR_CurrentAccount;20170324;13:07;Current Account Balance $;India;INR;1
+INR_BalancePayment;20170324;13:07;Balance Payment $;India;INR;1
+USD_DurableGoodsOrders;20170324;12:30;Durable Goods Orders ex Transportation;United States;USD;2
+CAD_ConsumerPriceIndex;20170324;12:30;Consumer Price Index (MoM);Canada;CAD;2
+USD_CentralBankSpeech;20170324;12:00;Fed Evans speech;United States;USD;1
+INR_TradeDeficitRBI;20170324;11:30;Trade Deficit - RBI;India;INR;1
+INR_FXReservesUSD;20170324;11:30;FX Reserves, USD;India;INR;1
+EUR_ItaTradeBalancenonEU;20170324;11:00;Trade Balance non-EU;Italy;EUR;1
+GBP_BBAMortgageApprovals;20170324;09:30;BBA Mortgage Approvals;United Kingdom;GBP;1
+EUR_EurMarkitPMIComposite;20170324;09:00;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitManufacturingPMI;20170324;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20170324;09:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_GerMarkitPMIComposite;20170324;08:30;Markit PMI Composite;Germany;EUR;2
+EUR_GerMarkitManufacturingPMI;20170324;08:30;Markit Manufacturing PMI;Germany;EUR;2
+EUR_GerMarkitServicesPMI;20170324;08:30;Markit Services PMI;Germany;EUR;2
+EUR_NetGrossDomesticProduct;20170324;08:30;Gross Domestic Product n.s.a (YoY);Netherlands, The;EUR;1
+EUR_FraMarkitManufacturingPMI;20170324;08:00;Markit Manufacturing PMI;France;EUR;1
+EUR_FraMarkitPMIComposite;20170324;08:00;Markit PMI Composite;France;EUR;1
+EUR_FraMarkitServicesPMI;20170324;08:00;Markit Services PMI;France;EUR;1
+EUR_AusIndustrialProduction;20170324;08:00;Industrial Production (YoY);Austria;EUR;1
+EUR_FraGrossDomesticProduct;20170324;07:45;Gross Domestic Product (YoY);France;EUR;2
+EUR_FinProducerPriceIndex;20170324;07:00;Producer Price Index (YoY);Finland;EUR;1
+EUR_FinExportPrices;20170324;07:00;Export Prices (YoY);Finland;EUR;1
+EUR_FinImportPrices;20170324;06:00;Import Prices (YoY);Finland;EUR;1
+JPY_CoincidentIndex;20170324;05:00;Coincident Index;Japan;JPY;2
+JPY_LeadingEconomicIndex;20170324;05:00;Leading Economic Index;Japan;JPY;2
+JPY_NikkeiManufacturingPMI;20170324;00:30;Nikkei Manufacturing PMI;Japan;JPY;1
+ARS_DayofRemembranceforTruthandJustice;20170324;00:00;Day of Remembrance for Truth and Justice;Argentina;ARS;0

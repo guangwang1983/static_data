@@ -1,0 +1,39 @@
+JPY_MachineryOrders;20201208;23:50;Machinery Orders (YoY);Japan;JPY;1
+AUD_WestpacConsumerConfidence;20201208;23:30;Westpac Consumer Confidence;Australia;AUD;2
+NZD_ManufacturingSales;20201208;21:45;Manufacturing Sales;New Zealand;NZD;1
+USD_APIWeeklyCrudeOilStock;20201208;21:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_Auction;20201208;18:00;3-Year Note Auction;United States;USD;1
+USD_RedbookIndex;20201208;13:55;Redbook Index (YoY);United States;USD;1
+USD_UnitLaborCosts;20201208;13:30;Unit Labor Costs;United States;USD;2
+USD_NonfarmProductivity;20201208;13:30;Nonfarm Productivity;United States;USD;2
+USD_NFIBBusinessOptimismIndex;20201208;11:00;NFIB Business Optimism Index;United States;USD;1
+GBP_Auction;20201208;10:30;10-y Bond Auction;United Kingdom;GBP;1
+EUR_EurGrossDomesticProduct;20201208;10:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+EUR_GerZEWSurvey–EconomicSentiment;20201208;10:00;ZEW Survey – Economic Sentiment;Germany;EUR;2
+EUR_EurZEWSurvey–EconomicSentiment;20201208;10:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurvey–CurrentSituation;20201208;10:00;ZEW Survey – Current Situation;Germany;EUR;2
+EUR_EurEmploymentChange;20201208;10:00;Employment Change (YoY);European Monetary Union;EUR;1
+HUF_BudgetBalance;20201208;10:00;Budget Balance;Hungary;HUF;1
+ZAR_GrossDomesticProduct;20201208;09:30;Gross Domestic Product (QoQ);South Africa;ZAR;1
+GBP_FPCMeetingMinutes;20201208;09:30;FPC Meeting Minutes;United Kingdom;GBP;1
+EUR_ItaIndustrialOutput;20201208;09:00;Industrial Output s.a. (MoM);Italy;EUR;1
+CZK_IndustrialProduction;20201208;08:00;Industrial Production (YoY);Czech Republic;CZK;1
+HUF_ConsumerPriceIndex;20201208;08:00;Core Consumer Price Index (YoY);Hungary;HUF;1
+CZK_ForeignTradeBalance;20201208;08:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+EUR_FraExportsEUR;20201208;07:45;Exports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20201208;07:45;Trade Balance EUR;France;EUR;1
+EUR_FraImportsEUR;20201208;07:45;Imports, EUR;France;EUR;1
+EUR_FraCurrentAccount;20201208;07:45;Current Account;France;EUR;1
+RON_GrossDomesticProduct;20201208;07:00;Gross Domestic Product;Romania;RON;1
+CHF_UnemploymentRate;20201208;06:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+EUR_FraNonfarmPayrolls;20201208;06:30;Nonfarm Payrolls (QoQ);France;EUR;1
+JPY_MachineToolOrders;20201208;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+EUR_NetConsumerPriceIndex;20201208;05:30;Consumer Price Index n.s.a (YoY);Netherlands, The;EUR;1
+JPY_EcoWatchersSurvey:Current;20201208;05:00;Eco Watchers Survey: Current;Japan;JPY;1
+JPY_EcoWatchersSurvey:Outlook;20201208;05:00;Eco Watchers Survey: Outlook;Japan;JPY;1
+COP_ImmaculateConception;20201208;05:00;Immaculate Conception;Colombia;COP;0
+CLP_ImmaculateConception;20201208;04:00;Immaculate Conception;Chile;CLP;0
+ARS_ImmaculateConception;20201208;03:00;Immaculate Conception;Argentina;ARS;0
+AUD_HousePriceIndex;20201208;00:30;House Price Index (QoQ);Australia;AUD;2
+AUD_NationalAustraliaBankBusinessConfidence;20201208;00:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20201208;00:30;National Australia Bank Business Conditions;Australia;AUD;1

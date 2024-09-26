@@ -1,0 +1,25 @@
+AUD_WagePriceIndex;20220223;00:30;Wage Price Index (YoY);Australia;AUD;1
+AUD_ConstructionWorkDone;20220223;00:30;Construction Work Done;Australia;AUD;1
+NZD_RBNZRateStatement;20220223;01:00;RBNZ Rate Statement;New Zealand;NZD;3
+NZD_RBNZInterestRateDecision;20220223;01:00;RBNZ Interest Rate Decision;New Zealand;NZD;3
+NZD_MonetaryPolicyStatement;20220223;01:00;Monetary Policy Statement ;New Zealand;NZD;3
+NZD_RBNZPressConference;20220223;02:00;RBNZ Press Conference;New Zealand;NZD;3
+EUR_GerGfkConsumerConfidenceSurvey;20220223;07:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+EUR_FraBusinessClimateinManufacturing;20220223;07:45;Business Climate in Manufacturing;France;EUR;1
+HUF_GrossWages;20220223;08:00;Gross Wages (YoY);Hungary;HUF;1
+CZK_ProducerPriceIndex;20220223;08:00;Producer Price Index (YoY);Czech Republic;CZK;1
+CHF_ZEWSurvey–Expectations;20220223;09:00;ZEW Survey – Expectations;Switzerland;CHF;2
+PLN_Unemployment;20220223;09:00;Unemployment (MoM);Poland;PLN;1
+GBP_BoEMonetaryPolicyReportHearings;20220223;09:30;BoE Monetary Policy Report Hearings;United Kingdom;GBP;3
+EUR_EurHarmonizedIndexofConsumerPrices;20220223;10:00;Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;1
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20220223;10:00;Core Harmonized Index of Consumer Prices (MoM);European Monetary Union;EUR;2
+INR_M3MoneySupply;20220223;11:30;M3 Money Supply;India;INR;1
+EUR_EurCentralBankSpeech;20220223;11:30;ECB De Guindos speech;European Monetary Union;EUR;2
+USD_MBAMortgageApplications;20220223;12:00;MBA Mortgage Applications;United States;USD;1
+BRL_MidmonthInflation;20220223;12:00;Mid-month Inflation;Brazil;BRL;1
+BRL_CurrentAccount;20220223;12:30;Current Account;Brazil;BRL;1
+USD_RedbookIndex;20220223;13:55;Redbook Index (YoY);United States;USD;1
+GBP_CentralBankSpeech;20220223;17:00;BoE Tenreyro speech;United Kingdom;GBP;2
+USD_Auction;20220223;18:00;5-Year Note Auction;United States;USD;1
+KRW_ProducerPriceIndex;20220223;21:00;Producer Price Index Growth (YoY);South Korea;KRW;1
+USD_APIWeeklyCrudeOilStock;20220223;21:30;API Weekly Crude Oil Stock;United States;USD;1

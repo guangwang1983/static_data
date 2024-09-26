@@ -1,0 +1,32 @@
+EUR_GerGfkConsumerConfidenceSurvey;20190226;07:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+EUR_FraConsumerConfidence;20190226;07:45;Consumer Confidence;France;EUR;1
+GBP_BoEMonetaryPolicyReportHearings;20190226;10:00;BoE Monetary Policy Report Hearings;United Kingdom;GBP;3
+INR_FederalFiscalDeficitINR;20190226;10:00;Federal Fiscal Deficit, INR;India;INR;1
+GBP_CentralBankSpeech;20190226;12:30;UK Prime Minister Theresa May speech;United Kingdom;GBP;3
+HUF_MNBInterestRateDecision;20190226;13:00;MNB Interest Rate Decision;Hungary;HUF;1
+USD_HousingStarts;20190226;13:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20190226;13:30;Building Permits (MoM);United States;USD;2
+USD_BuildingPermitsChange;20190226;13:30;Building Permits Change;United States;USD;1
+USD_HousingStartsChange;20190226;13:30;Housing Starts Change;United States;USD;1
+GBP_BBAMortgageApprovals;20190226;13:43;BBA Mortgage Approvals;United Kingdom;GBP;1
+USD_RedbookIndex;20190226;13:55;Redbook Index (YoY);United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20190226;14:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;2
+MXN_RetailSales;20190226;14:00;Retail Sales (YoY);Mexico;MXN;1
+USD_HousingPriceIndex;20190226;14:03;Housing Price Index (MoM);United States;USD;2
+EUR_EurCentralBankSpeech;20190226;14:30;ECB Mersch speech;European Monetary Union;EUR;2
+USD_FedChairPowelltestifies;20190226;14:45;Fed Chair Powell testifies;United States;USD;3
+USD_ConsumerConfidence;20190226;15:00;Consumer Confidence;United States;USD;2
+USD_RichmondFedManufacturingIndex;20190226;15:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_Auction;20190226;18:00;7-Year Note Auction;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20190226;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20190226;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+GBP_CFTCGBPNCNetPositions;20190226;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCOilNCNetPositions;20190226;20:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20190226;20:30;CFTC Gold NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20190226;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCS&P500NCNetPositions;20190226;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+KRW_BOKManufacturingBSI;20190226;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+USD_APIWeeklyCrudeOilStock;20190226;21:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_TradeBalanceNZD;20190226;21:45;Trade Balance NZD (MoM);New Zealand;NZD;1
+NZD_Imports;20190226;21:45;Imports;New Zealand;NZD;1
+NZD_Exports;20190226;21:45;Exports;New Zealand;NZD;2

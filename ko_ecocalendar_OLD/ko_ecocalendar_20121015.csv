@@ -1,0 +1,33 @@
+NZD_ConsumerPriceIndex;20121015;21:45;Consumer Price Index (QoQ);New Zealand;NZD;2
+CAD_CentralBankSpeech;20121015;19:20;BoC Governor Carney speech;Canada;CAD;2
+USD_CentralBankSpeech;20121015;16:45;Fed Lacker speech;United States;USD;1
+USD_Auction;20121015;15:30;3-Month Bill Auction;United States;USD;1
+CAD_BankofCanadaBusinessOutlookSurvey;20121015;14:30;Bank of Canada Business Outlook Survey;Canada;CAD;2
+USD_BusinessInventories;20121015;14:00;Business Inventories;United States;USD;1
+PEN_GrossDomesticProduct;20121015;14:00;Gross Domestic Product;Peru;PEN;1
+RUB_ProducerPriceIndex;20121015;12:47;Producer Price Index (MoM);Russia;RUB;1
+RUB_IndustrialOutput;20121015;12:47;Industrial Output;Russia;RUB;1
+USD_NYEmpireStateManufacturingIndex;20121015;12:30;NY Empire State Manufacturing Index;United States;USD;1
+USD_RetailSales;20121015;12:30;Retail Sales (MoM);United States;USD;2
+PLN_ConsumerPriceIndex;20121015;12:00;Consumer Price Index (MoM);Poland;PLN;1
+PLN_CurrentAccount;20121015;12:00;Current Account;Poland;PLN;1
+NOK_TradeBalance;20121015;08:00;Trade Balance;Norway;NOK;1
+CZK_CurrentAccount;20121015;08:00;Current Account (MoM);Czech Republic;CZK;1
+CHF_ProducerandImportPrices;20121015;07:15;Producer and Import Prices (MoM);Switzerland;CHF;1
+TRY_3mthquarterlyjoblessaverage;20121015;07:00;3mth quarterly jobless average;Turkey;TRY;1
+CZK_ProducerPriceIndex;20121015;07:00;Producer Price Index (YoY);Czech Republic;CZK;1
+EUR_FinCurrentAccount;20121015;07:00;Current Account;Finland;EUR;1
+INR_WPIInflation;20121015;06:30;WPI Inflation;India;INR;1
+EUR_FinConsumerPriceIndex;20121015;06:00;Consumer Price Index (YoY);Finland;EUR;1
+SGD_RetailSales;20121015;05:00;Retail Sales (YoY);Singapore;SGD;1
+JPY_IndustrialProduction;20121015;04:30;Industrial Production (MoM);Japan;JPY;1
+JPY_CapacityUtilization;20121015;04:30;Capacity Utilization;Japan;JPY;1
+KRW_TradeBalance;20121015;03:00;Trade Balance;South Korea;KRW;1
+CNY_ConsumerPriceIndex;20121015;01:30;Consumer Price Index (YoY);China;CNY;3
+CNY_ProducerPriceIndex;20121015;01:30;Producer Price Index (YoY);China;CNY;2
+JPY_CentralBankSpeech;20121015;01:20;BoJ Yamaguchi speech;Japan;JPY;1
+AUD_InvestmentLendingforHomes;20121015;00:30;Investment Lending for Homes;Australia;AUD;1
+AUD_HomeLoans;20121015;00:30;Home Loans;Australia;AUD;2
+AUD_NewMotorVehicleSales;20121015;00:30;New Motor Vehicle Sales (MoM);Australia;AUD;1
+COP_ColumbusDay;20121015;00:00;Columbus Day;Colombia;COP;0
+CLP_ColumbusDay;20121015;00:00;Columbus Day ;Chile;CLP;0

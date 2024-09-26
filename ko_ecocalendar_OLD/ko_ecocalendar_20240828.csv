@@ -1,0 +1,21 @@
+AUD_ConstructionWorkDone;20240828;01:30;Construction Work Done;Australia;AUD;1
+AUD_ConsumerPriceIndex;20240828;01:30;Monthly Consumer Price Index (YoY);Australia;AUD;3
+DKK_RetailSales;20240828;06:00;Retail Sales (YoY);Denmark;DKK;1
+SEK_TradeBalance;20240828;06:00;Trade Balance (MoM);Sweden;SEK;1
+EUR_FraConsumerConfidence;20240828;06:45;Consumer Confidence;France;EUR;1
+TRY_TradeBalance;20240828;07:00;Trade Balance;Turkey;TRY;1
+EUR_EurEurogroupMeeting;20240828;07:00;Eurogroup Meeting;Eurozone;EUR;2
+EUR_ItaIndustrialSales;20240828;08:00;Industrial Sales s.a. (MoM);Italy;EUR;1
+EUR_EurPrivateLoans;20240828;08:00;Private Loans (YoY);Eurozone;EUR;1
+EUR_EurM3MoneySupply;20240828;08:00;M3 Money Supply (YoY);Eurozone;EUR;1
+CHF_ZEWSurvey–Expectations;20240828;08:00;ZEW Survey – Expectations;Switzerland;CHF;2
+USD_MBAMortgageApplications;20240828;11:00;MBA Mortgage Applications;United States;USD;1
+GBP_CentralBankSpeech;20240828;12:15;BoE Mann speech;United Kingdom;GBP;2
+ILS_BoIInterestRateDecision;20240828;13:00;BoI Interest Rate Decision;Israel;ILS;1
+USD_EIACrudeOilStocksChange;20240828;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+RUB_UnemploymentRate;20240828;16:00;Unemployment Rate;Russia;RUB;1
+RUB_IndustrialOutput;20240828;16:00;Industrial Output;Russia;RUB;1
+USD_Auction;20240828;17:00;5-Year Note Auction;United States;USD;1
+USD_CentralBankSpeech;20240828;22:00;Fed Bostic speech;United States;USD;2
+JPY_ForeignInvestmentinJapanStocks;20240828;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20240828;23:50;Foreign Bond Investment;Japan;JPY;1

@@ -1,0 +1,11 @@
+NZD_FoodPriceIndex;20090611;22:45;Food Price Index (MoM);New Zealand;NZD;1
+NZD_RetailSales;20090611;22:45;Retail Sales ex Autos (QoQ);New Zealand;NZD;2
+USD_CentralBankSpeech;20090611;17:05;Fed Lockhart speech;United States;USD;1
+USD_BusinessInventories;20090611;14:00;Business Inventories;United States;USD;1
+USD_RetailSales;20090611;12:30;Retail Sales ex Autos (MoM);United States;USD;3
+USD_JoblessClaims;20090611;12:30;Initial Jobless Claims;United States;USD;1
+CAD_CapacityUtilization;20090611;12:30;Capacity Utilization;Canada;CAD;1
+EUR_EurECBMonthlyReport;20090611;08:00;ECB Monthly Report;European Monetary Union;EUR;2
+AUD_UnemploymentRate;20090611;01:30;Unemployment Rate s.a.;Australia;AUD;2
+AUD_EmploymentChange;20090611;01:30;Employment Change s.a.;Australia;AUD;2
+AUD_ConsumerInflationExpectations;20090611;01:00;Consumer Inflation Expectations;Australia;AUD;2

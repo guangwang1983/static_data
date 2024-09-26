@@ -1,0 +1,31 @@
+AUD_ConsumerPriceIndex;20231025;00:30;Monthly Consumer Price Index (YoY);Australia;AUD;3
+AUD_RBATrimmedMeanCPI;20231025;00:30;RBA Trimmed Mean CPI (YoY);Australia;AUD;3
+JPY_CoincidentIndex;20231025;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20231025;05:00;Leading Economic Index;Japan;JPY;1
+SEK_ProducerPriceIndex;20231025;06:00;Producer Price Index (YoY);Sweden;SEK;1
+TRY_CapacityUtilization;20231025;07:00;Capacity Utilization;Turkey;TRY;1
+TRY_ManufacturingConfidence;20231025;07:00;Manufacturing Confidence;Turkey;TRY;1
+EUR_GerIFO–CurrentAssessment;20231025;08:00;IFO – Current Assessment;Germany;EUR;2
+EUR_GerIFO–BusinessClimate;20231025;08:00;IFO – Business Climate;Germany;EUR;2
+EUR_GerIFO–Expectations;20231025;08:00;IFO – Expectations;Germany;EUR;2
+EUR_EurPrivateLoans;20231025;08:00;Private Loans (YoY);European Monetary Union;EUR;1
+EUR_EurM3MoneySupply;20231025;08:00;M3 Money Supply (3m);European Monetary Union;EUR;1
+CHF_ZEWSurvey–Expectations;20231025;08:00;ZEW Survey – Expectations;Switzerland;CHF;2
+USD_MBAMortgageApplications;20231025;11:00;MBA Mortgage Applications;United States;USD;1
+USD_NewHomeSales;20231025;14:00;New Home Sales (MoM);United States;USD;1
+USD_NewHomeSalesChange;20231025;14:00;New Home Sales Change (MoM);United States;USD;2
+CAD_BoCMonetaryPolicyReport;20231025;14:00;BoC Monetary Policy Report;Canada;CAD;3
+CAD_BoCInterestRateDecision;20231025;14:00;BoC Interest Rate Decision;Canada;CAD;3
+CAD_BoCMonetaryPolicyStatement;20231025;14:00;BoC Monetary Policy Statement;Canada;CAD;3
+USD_EIACrudeOilStocksChange;20231025;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+CAD_BoCPressConference;20231025;15:00;BoC Press Conference;Canada;CAD;3
+RUB_IndustrialOutput;20231025;16:00;Industrial Output;Russia;RUB;1
+USD_Auction;20231025;17:00;5-Year Note Auction;United States;USD;1
+EUR_EurCentralBankSpeech;20231025;17:00;ECB President Lagarde speech;European Monetary Union;EUR;3
+USD_CentralBankSpeech;20231025;20:35;Fed Chair Powell speech;United States;USD;3
+KRW_BOKManufacturingBSI;20231025;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+AUD_CentralBankSpeech;20231025;22:00;RBA Governor Bullock speech;Australia;AUD;2
+KRW_GrossDomesticProduct;20231025;23:00;Gross Domestic Product Growth (QoQ) ;South Korea;KRW;2
+JPY_CorporateServicePriceIndex;20231025;23:50;Corporate Service Price Index (YoY);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20231025;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20231025;23:50;Foreign Bond Investment;Japan;JPY;1

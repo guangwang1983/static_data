@@ -1,0 +1,42 @@
+CNY_ConsumerPriceIndex;20170510;01:30;Consumer Price Index (MoM);China;CNY;2
+CNY_ProducerPriceIndex;20170510;01:30;Producer Price Index (YoY);China;CNY;2
+JPY_CoincidentIndex;20170510;05:00;Coincident Index;Japan;JPY;2
+JPY_LeadingEconomicIndex;20170510;05:00;Leading Economic Index;Japan;JPY;2
+NOK_ConsumerPriceIndex;20170510;06:00;Consumer Price Index (MoM);Norway;NOK;1
+NOK_CoreInflation;20170510;06:00;Core Inflation (MoM);Norway;NOK;1
+RON_TradeBalance;20170510;06:00;Trade Balance;Romania;RON;1
+NOK_ProducerPriceIndex;20170510;06:00;Producer Price Index (YoY);Norway;NOK;1
+EUR_FraExportsEUR;20170510;06:45;Exports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20170510;06:45;Trade Balance EUR;France;EUR;1
+EUR_FraImportsEUR;20170510;06:45;Imports, EUR;France;EUR;1
+EUR_FraIndustrialOutput;20170510;06:45;Industrial Output (MoM);France;EUR;1
+EUR_FraCurrentAccount;20170510;06:45;Current Account;France;EUR;1
+CZK_ConsumerPriceIndex;20170510;07:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+CZK_UnemploymentRate;20170510;07:00;Unemployment Rate;Czech Republic;CZK;1
+DKK_Inflation;20170510;07:00;Inflation (HICP) (YoY);Denmark;DKK;1
+DKK_ConsumerPriceIndex;20170510;07:00;Consumer Price Index (YoY);Denmark;DKK;1
+CZK_IndustrialProduction;20170510;07:00;Industrial Production (YoY);Czech Republic;CZK;1
+HUF_ConsumerPriceIndex;20170510;07:00;Core Consumer Price Index (YoY);Hungary;HUF;1
+CZK_Constructionoutput;20170510;07:00;Construction output (YoY);Czech Republic;CZK;1
+EUR_ItaIndustrialOutput;20170510;08:00;Industrial Output w.d.a (YoY);Italy;EUR;1
+INR_CashReserveRatio;20170510;09:00;Cash Reserve Ratio;India;INR;1
+USD_MBAMortgageApplications;20170510;11:00;MBA Mortgage Applications;United States;USD;1
+EUR_EurCentralBankSpeech;20170510;12:00;ECB President Draghi speech;European Monetary Union;EUR;3
+BRL_IPCAInflation;20170510;12:00;IPCA Inflation;Brazil;BRL;1
+USD_ExportPriceIndex;20170510;12:30;Export Price Index (YoY);United States;USD;1
+USD_ImportPriceIndex;20170510;12:30;Import Price Index (YoY);United States;USD;1
+USD_EIACrudeOilStocksChange;20170510;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_CentralBankSpeech;20170510;16:00;Fed Rosengren speech;United States;USD;1
+USD_Auction;20170510;17:00;10-Year Note Auction;United States;USD;1
+USD_MonthlyBudgetStatement;20170510;18:00;Monthly Budget Statement;United States;USD;2
+NZD_RBNZRateStatement;20170510;21:00;RBNZ Rate Statement;New Zealand;NZD;3
+NZD_RBNZInterestRateDecision;20170510;21:00;RBNZ Interest Rate Decision;New Zealand;NZD;3
+NZD_MonetaryPolicyStatement;20170510;21:00;Monetary Policy Statement ;New Zealand;NZD;3
+NZD_RBNZPressConference;20170510;22:00;RBNZ Press Conference;New Zealand;NZD;3
+NZD_FoodPriceIndex;20170510;22:45;Food Price Index (MoM);New Zealand;NZD;1
+GBP_RICSHousingPriceBalance;20170510;23:01;RICS Housing Price Balance;United Kingdom;GBP;2
+JPY_BankLending;20170510;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20170510;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20170510;23:50;Foreign Bond Investment;Japan;JPY;2
+JPY_CurrentAccount;20170510;23:50;Current Account n.s.a.;Japan;JPY;1
+JPY_TradeBalanceBOPBasis;20170510;23:50;Trade Balance - BOP Basis;Japan;JPY;1

@@ -1,0 +1,15 @@
+GBP_CentralBankSpeech;20130422;18:30;BoE Tucker speech;United Kingdom;GBP;1
+EUR_EurCentralBankSpeech;20130422;17:00;ECB Noyer speech;European Monetary Union;EUR;1
+USD_Auction;20130422;15:30;6-Month Bill Auction;United States;USD;1
+USD_ExistingHomeSalesChange;20130422;14:00;Existing Home Sales Change (MoM);United States;USD;2
+USD_ExistingHomeSales;20130422;14:00;Existing Home Sales (MoM);United States;USD;1
+EUR_EurConsumerConfidence;20130422;14:00;Consumer Confidence;European Monetary Union;EUR;2
+MXN_RetailSales;20130422;13:00;Retail Sales (YoY);Mexico;MXN;1
+USD_CentralBankSpeech;20130422;12:30;Fed Dudley speech;United States;USD;1
+USD_ChicagoFedNationalActivityIndex;20130422;12:30;Chicago Fed National Activity Index ;United States;USD;2
+EUR_SloUnemploymentRate;20130422;10:00;Unemployment Rate;Slovakia;EUR;1
+HKD_ConsumerPriceIndex;20130422;08:30;Consumer Price Index;Hong Kong SAR;HKD;1
+EUR_GreCurrentAccount;20130422;08:10;Current Account (YoY);Greece;EUR;1
+CHF_MonthlyStatisticalBulletin;20130422;08:00;Monthly Statistical Bulletin;Switzerland;CHF;2
+DKK_ConsumerConfidence;20130422;07:00;Consumer Confidence;Denmark;DKK;1
+DKK_RetailSales;20130422;07:00;Retail Sales (YoY);Denmark;DKK;1

@@ -1,0 +1,30 @@
+INR_GuruNanakBirthday;20161114;00:00;Guru Nanak Birthday ;India;INR;0
+COP_IndependenceofCartagenaDay;20161114;00:00;Independence of Cartagena Day;Colombia;COP;0
+GBP_RightmoveHousePriceIndex;20161114;00:01;Rightmove House Price Index (MoM);United Kingdom;GBP;1
+JPY_CentralBankSpeech;20161114;01:00;BoJ Governor Kuroda speech;Japan;JPY;1
+CNY_RetailSales;20161114;02:00;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20161114;02:00;Industrial Production (YoY);China;CNY;2
+CNY_FixedAssetInvestment;20161114;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+JPY_IndustrialProduction;20161114;04:30;Industrial Production (YoY);Japan;JPY;2
+JPY_CapacityUtilization;20161114;04:30;Capacity Utilization;Japan;JPY;1
+RON_IndustrialProduction;20161114;07:00;Industrial Production (MoM);Romania;RON;2
+HUF_IndustrialOutput;20161114;08:00;Industrial Output (YoY);Hungary;HUF;1
+CHF_ProducerandImportPrices;20161114;08:15;Producer and Import Prices (MoM);Switzerland;CHF;1
+EUR_ItaConsumerPriceIndex;20161114;09:00;Consumer Price Index (EU Norm) (YoY);Italy;EUR;1
+CZK_CurrentAccount;20161114;09:00;Current Account (MoM);Czech Republic;CZK;1
+EUR_EurIndustrialProduction;20161114;10:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;2
+INR_TradeDeficitGovernment;20161114;12:00;Trade Deficit Government;India;INR;1
+PLN_ConsumerPriceIndex;20161114;13:00;Consumer Price Index (MoM);Poland;PLN;1
+PLN_CurrentAccount;20161114;13:00;Current Account;Poland;PLN;1
+PLN_M3MoneySupply;20161114;13:00;M3 Money Supply (YoY);Poland;PLN;1
+EUR_EurCentralBankSpeech;20161114;15:00;ECB President Draghi speech;European Monetary Union;EUR;3
+GBP_CentralBankSpeech;20161114;16:00;UK Prime Minister Theresa May speech;United Kingdom;GBP;3
+USD_Auction;20161114;16:30;6-Month Bill Auction;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20161114;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCS&P500NCNetPositions;20161114;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20161114;20:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20161114;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20161114;20:30;CFTC Gold NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20161114;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20161114;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CentralBankSpeech;20161114;23:30;Fed Williams speech;United States;USD;1

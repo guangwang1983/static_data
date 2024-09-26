@@ -1,0 +1,46 @@
+AUD_HIANewHomeSales;20170330;00:00;HIA New Home Sales (MoM);Australia;AUD;2
+ZAR_M3MoneySupply;20170330;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+ZAR_PrivateSectorCredit;20170330;06:00;Private Sector Credit;South Africa;ZAR;1
+CHF_KOFLeadingIndicator;20170330;07:00;KOF Leading Indicator;Switzerland;CHF;2
+TRY_EconomicConfidenceIndex;20170330;07:00;Economic Confidence Index;Turkey;TRY;1
+DKK_IndustrialOutlook;20170330;08:00;Industrial Outlook;Denmark;DKK;1
+NOK_RetailSales;20170330;08:00;Retail Sales ;Norway;NOK;1
+EUR_EurIndustrialConfidence;20170330;09:00;Industrial Confidence;European Monetary Union;EUR;2
+EUR_EurConsumerConfidence;20170330;09:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurServicesSentiment;20170330;09:00;Services Sentiment;European Monetary Union;EUR;2
+EUR_EurEconomicSentimentIndicator;20170330;09:00;Economic Sentiment Indicator;European Monetary Union;EUR;2
+EUR_EurBusinessClimate;20170330;09:00;Business Climate;European Monetary Union;EUR;2
+ZAR_ProducerPriceIndex;20170330;09:30;Producer Price Index (MoM);South Africa;ZAR;1
+EUR_ItaAuction;20170330;09:45;10-y Bond Auction;Italy;EUR;1
+BRL_InflationIndexIGPM;20170330;12:00;Inflation Index/IGP-M;Brazil;BRL;1
+TRY_ForeignArrivals;20170330;12:00;Foreign Arrivals;Turkey;TRY;1
+CZK_CNBInterestRateDecision;20170330;12:00;CNB Interest Rate Decision;Czech Republic;CZK;1
+EUR_GerConsumerPriceIndex;20170330;12:00;Consumer Price Index (MoM);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20170330;12:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;1
+BRL_RetailSales;20170330;12:00;Retail Sales (MoM);Brazil;BRL;1
+CAD_IndustrialProductPrice;20170330;12:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_RawMaterialPriceIndex;20170330;12:30;Raw Material Price Index;Canada;CAD;1
+USD_JoblessClaims;20170330;12:30;Continuing Jobless Claims;United States;USD;1
+USD_GrossDomesticProduct;20170330;12:30;Gross Domestic Product Annualized;United States;USD;3
+USD_PersonalConsumptionExpendituresPrices;20170330;12:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+USD_CorePersonalConsumptionExpenditures;20170330;12:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+RUB_CentralBankReserves;20170330;13:00;Central Bank Reserves $;Russia;RUB;1
+ZAR_SARBInterestRateDecision;20170330;13:00;SARB Interest Rate Decision;South Africa;ZAR;1
+USD_EIANaturalGasStorageChange;20170330;14:30;EIA Natural Gas Storage Change;United States;USD;1
+MXN_CentralBankInterestRate;20170330;19:00;Central Bank Interest Rate;Mexico;MXN;1
+MXN_FiscalBalancepesos;20170330;20:00;Fiscal Balance, pesos;Mexico;MXN;1
+USD_CentralBankSpeech;20170330;20:30;Fed Dudley speech;United States;USD;2
+NZD_BuildingPermits;20170330;21:45;Building Permits s.a. (MoM);New Zealand;NZD;1
+KRW_IndustrialOutputGrowth;20170330;23:00;Industrial Output Growth;South Korea;KRW;1
+KRW_IndustrialOutput;20170330;23:00;Industrial Output (YoY);South Korea;KRW;1
+KRW_ServiceSectorOutput;20170330;23:00;Service Sector Output;South Korea;KRW;1
+GBP_GfKConsumerConfidence;20170330;23:01;GfK Consumer Confidence;United Kingdom;GBP;2
+JPY_TokyoCPIexFreshFood;20170330;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;1
+JPY_ConsumerPriceIndex;20170330;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;1
+JPY_TokyoCPIexFoodEnergy;20170330;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;1
+JPY_NationalCPIexFreshFood;20170330;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_NationalCPIexFoodEnergy;20170330;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_JobsApplicantsRatio;20170330;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+JPY_UnemploymentRate;20170330;23:30;Unemployment Rate;Japan;JPY;2
+JPY_OverallHouseholdSpending;20170330;23:30;Overall Household Spending (YoY);Japan;JPY;2
+JPY_IndustrialProduction;20170330;23:50;Industrial Production (MoM);Japan;JPY;2

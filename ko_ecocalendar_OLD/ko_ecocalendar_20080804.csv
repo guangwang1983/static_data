@@ -1,0 +1,9 @@
+USD_FactoryOrders;20080804;14:00;Factory Orders (MoM);United States;USD;2
+USD_PersonalIncome;20080804;12:30;Personal Income (MoM);United States;USD;3
+USD_CorePersonalConsumptionExpenditurePriceIndex;20080804;12:30;Core Personal Consumption Expenditure - Price Index (MoM);United States;USD;3
+USD_PersonalConsumptionExpendituresPriceIndex;20080804;12:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;3
+EUR_EurProducerPriceIndex;20080804;09:00;Producer Price Index (YoY);European Monetary Union;EUR;2
+EUR_EurSentixInvestorConfidence;20080804;08:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+GBP_MarkitConstructionPMI;20080804;08:30;Markit Construction PMI;United Kingdom;GBP;1
+CHF_SVMEPurchasingManagers'Index;20080804;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+AUD_HousePriceIndex;20080804;01:30;House Price Index (YoY);Australia;AUD;1

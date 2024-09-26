@@ -1,0 +1,38 @@
+KRW_ConsumerPriceIndex;20160303;00:00;Consumer Price Index Growth (MoM);South Korea;KRW;1
+NZD_ANZCommodityPrice;20160303;00:00;ANZ Commodity Price;New Zealand;NZD;1
+AUD_Exports;20160303;00:30;Exports (MoM);Australia;AUD;2
+AUD_Imports;20160303;00:30;Imports (MoM);Australia;AUD;2
+AUD_TradeBalance;20160303;00:30;Trade Balance (MoM);Australia;AUD;2
+JPY_JibunBankServicesPMI;20160303;00:35;Jibun Bank Services PMI;Japan;JPY;1
+CNY_CaixinServicesPMI;20160303;01:45;Caixin Services PMI;China;CNY;2
+EUR_FraILOUnemployment;20160303;06:30;ILO Unemployment;France;EUR;1
+GBP_NationwideHousingPrices;20160303;07:00;Nationwide Housing Prices s.a (MoM);United Kingdom;GBP;1
+TRY_ProducerPriceIndex;20160303;08:00;Producer Price Index (YoY);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20160303;08:00;Consumer Price Index (YoY);Turkey;TRY;1
+HUF_RetailSales;20160303;08:00;Retail Sales (YoY);Hungary;HUF;1
+HUF_TradeBalance;20160303;08:00;Trade Balance;Hungary;HUF;1
+GBP_HalifaxHousePrices;20160303;08:30;Halifax House Prices (MoM);United Kingdom;GBP;1
+EUR_ItaHCOBServicesPMI;20160303;08:45;HCOB Services PMI;Italy;EUR;2
+EUR_FraHCOBServicesPMI;20160303;08:50;HCOB Services PMI;France;EUR;2
+EUR_FraHCOBCompositePMI;20160303;08:50;HCOB Composite PMI;France;EUR;2
+EUR_GerHCOBServicesPMI;20160303;08:55;HCOB Services PMI;Germany;EUR;2
+EUR_GerHCOBCompositePMI;20160303;08:55;HCOB Composite PMI;Germany;EUR;2
+RUB_S&PGlobalServicesPMI;20160303;09:00;S&P Global Services PMI;Russia;RUB;1
+EUR_EurHCOBServicesPMI;20160303;09:00;HCOB Services PMI;European Monetary Union;EUR;2
+EUR_EurHCOBCompositePMI;20160303;09:00;HCOB Composite PMI;European Monetary Union;EUR;2
+GBP_S&PGlobalCIPSServicesPMI;20160303;09:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;2
+EUR_EurRetailSales;20160303;10:00;Retail Sales (MoM);European Monetary Union;EUR;1
+EUR_FraAuction;20160303;10:13;10-y Bond Auction;France;EUR;1
+BRL_GrossDomesticProduct;20160303;12:00;Gross Domestic Product (QoQ);Brazil;BRL;1
+USD_ChallengerJobCuts;20160303;12:30;Challenger Job Cuts;United States;USD;1
+USD_JoblessClaims;20160303;13:30;Continuing Jobless Claims;United States;USD;1
+USD_UnitLaborCosts;20160303;13:30;Unit Labor Costs;United States;USD;1
+USD_NonfarmProductivity;20160303;13:30;Nonfarm Productivity;United States;USD;1
+RUB_CentralBankReserves;20160303;14:05;Central Bank Reserves $;Russia;RUB;1
+USD_S&PGlobalServicesPMI;20160303;14:45;S&P Global Services PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20160303;14:45;S&P Global Composite PMI;United States;USD;2
+USD_ISMServicesPMI;20160303;15:00;ISM Services PMI;United States;USD;2
+USD_FactoryOrders;20160303;15:00;Factory Orders (MoM);United States;USD;2
+USD_EIANaturalGasStorageChange;20160303;15:30;EIA Natural Gas Storage Change;United States;USD;1
+GBP_CentralBankSpeech;20160303;17:45;BoE Haldane speech;United Kingdom;GBP;1
+KRW_FXReserves;20160303;21:40;FX Reserves;South Korea;KRW;1

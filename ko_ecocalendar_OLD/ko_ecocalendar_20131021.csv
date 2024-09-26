@@ -1,0 +1,19 @@
+USD_Auction;20131021;15:30;6-Month Bill Auction;United States;USD;1
+USD_EIACrudeOilStocksChange;20131021;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_ExistingHomeSalesChange;20131021;14:00;Existing Home Sales Change (MoM);United States;USD;1
+USD_ExistingHomeSales;20131021;14:00;Existing Home Sales (MoM);United States;USD;2
+MXN_RetailSales;20131021;13:00;Retail Sales (YoY);Mexico;MXN;1
+CAD_WholesaleSales;20131021;12:30;Wholesale Sales (MoM);Canada;CAD;1
+EUR_PorCurrentAccount;20131021;12:00;Current Account Balance;Portugal;EUR;1
+USD_CentralBankSpeech;20131021;12:00;Fed Evans speech;United States;USD;1
+EUR_SloUnemploymentRate;20131021;10:00;Unemployment Rate;Slovakia;EUR;1
+RUB_GrossDomesticProduct;20131021;10:00;Gross Domestic Product Monthly (YoY);Russia;RUB;1
+PLN_GrossDomesticProduct;20131021;09:00;Gross Domestic Product Qtr (YoY);Poland;PLN;1
+HKD_ConsumerPriceIndex;20131021;08:30;Consumer Price Index;Hong Kong SAR;HKD;1
+EUR_ItaIndustrialOrders;20131021;08:00;Industrial Orders n.s.a (YoY);Italy;EUR;1
+EUR_ItaIndustrialSales;20131021;08:00;Industrial Sales n.s.a. (YoY);Italy;EUR;1
+EUR_GerProducerPriceIndex;20131021;06:00;Producer Price Index (YoY);Germany;EUR;1
+JPY_CoincidentIndex;20131021;05:00;Coincident Index;Japan;JPY;2
+JPY_LeadingEconomicIndex;20131021;05:00;Leading Economic Index;Japan;JPY;2
+JPY_AllIndustryActivityIndex;20131021;04:30;All Industry Activity Index (MoM);Japan;JPY;2
+JPY_CentralBankSpeech;20131021;00:30;BoJ Governor Kuroda speech;Japan;JPY;2

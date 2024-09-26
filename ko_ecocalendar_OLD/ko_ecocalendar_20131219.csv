@@ -1,0 +1,37 @@
+NZD_VisitorArrivals;20131219;21:45;Visitor Arrivals (YoY);New Zealand;NZD;1
+NZD_TradeBalance;20131219;21:45;Trade Balance (YoY);New Zealand;NZD;2
+COP_Industrialouput;20131219;18:00;Industrial ouput (YoY);Colombia;COP;1
+USD_Auction;20131219;18:00;7-Year Note Auction;United States;USD;1
+COP_GrossDomesticProduct;20131219;17:00;Gross Domestic Product (YoY);Colombia;COP;1
+USD_EIANaturalGasStorageChange;20131219;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_AmericanPetroleumInstituteMonthlyReport;20131219;15:00;American Petroleum Institute Monthly Report ;United States;USD;1
+USD_ExistingHomeSalesChange;20131219;15:00;Existing Home Sales Change (MoM);United States;USD;2
+USD_ExistingHomeSales;20131219;15:00;Existing Home Sales (MoM);United States;USD;1
+USD_PhiladelphiaFedManufacturingSurvey;20131219;15:00;Philadelphia Fed Manufacturing Survey;United States;USD;2
+CHF_SNBQuarterlyBulletin;20131219;14:00;SNB Quarterly Bulletin;Switzerland;CHF;2
+MXN_RetailSales;20131219;14:00;Retail Sales (YoY);Mexico;MXN;1
+USD_JoblessClaims;20131219;13:30;Initial Jobless Claims;United States;USD;2
+BRL_CurrentAccount;20131219;12:30;Current Account;Brazil;BRL;1
+EUR_PorCurrentAccount;20131219;12:00;Current Account Balance;Portugal;EUR;1
+BRL_UnemploymentRate;20131219;11:00;Unemployment Rate;Brazil;BRL;1
+EUR_IreGrossDomesticProduct;20131219;11:00;Gross Domestic Product (QoQ);Ireland;EUR;1
+BRL_MidmonthInflation;20131219;11:00;Mid-month Inflation;Brazil;BRL;1
+EUR_GreUnemploymentRate;20131219;10:00;Unemployment Rate (QoQ);Greece;EUR;1
+EUR_SpaAuction;20131219;09:48;10-y Obligaciones Auction;Spain;EUR;1
+GBP_RetailSales;20131219;09:30;Retail Sales (YoY);United Kingdom;GBP;2
+EUR_EurCurrentAccount;20131219;09:00;Current Account s.a;European Monetary Union;EUR;1
+EUR_ItaWageInflation;20131219;09:00;Wage Inflation (MoM);Italy;EUR;1
+EUR_NetUnemploymentRate;20131219;08:30;Unemployment Rate s.a (3M);Netherlands, The;EUR;1
+EUR_NetConsumerConfidenceAdj;20131219;08:30;Consumer Confidence Adj;Netherlands, The;EUR;1
+HUF_GrossWages;20131219;08:00;Gross Wages (YoY);Hungary;HUF;1
+CHF_Imports;20131219;07:00;Imports (MoM);Switzerland;CHF;1
+CHF_Exports;20131219;07:00;Exports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20131219;07:00;Trade Balance;Switzerland;CHF;2
+CHF_SECOEconomicForecasts;20131219;06:45;SECO Economic Forecasts;Switzerland;CHF;2
+JPY_CoincidentIndex;20131219;05:00;Coincident Index;Japan;JPY;2
+JPY_LeadingEconomicIndex;20131219;05:00;Leading Economic Index;Japan;JPY;2
+JPY_AllIndustryActivityIndex;20131219;04:30;All Industry Activity Index (MoM);Japan;JPY;2
+NZD_Imports;20131219;01:00;Imports;New Zealand;NZD;1
+NZD_Exports;20131219;01:00;Exports;New Zealand;NZD;1
+AUD_RBABulletin;20131219;00:30;RBA Bulletin;Australia;AUD;2
+EUR_EurEuropeanCouncilMeeting;20131219;00:00;European Council Meeting;European Monetary Union;EUR;2

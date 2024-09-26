@@ -1,0 +1,39 @@
+TRY_NewYearDay;20160101;00:00;New Year Day;Turkey;TRY;0
+EUR_FraNewYearDay;20160101;00:00;New Year Day;France;EUR;0
+JPY_NewYearDay;20160101;00:00;New Year Day;Japan;JPY;0
+RUB_NewYearDay;20160101;00:00;New Year Day;Russia;RUB;0
+KRW_NewYearDay;20160101;00:00;New Year Day;South Korea;KRW;0
+EUR_ItaNewYearDay;20160101;00:00;New Year Day;Italy;EUR;0
+BRL_NewYearDay;20160101;00:00;New Year Day;Brazil;BRL;0
+CNY_NewYearDay;20160101;00:00;New Year Day;China;CNY;0
+CAD_NewYearDay;20160101;00:00;New Year Day;Canada;CAD;0
+ZAR_NewYearsDay;20160101;00:00;New Years Day;South Africa;ZAR;0
+CHF_NewYearDay;20160101;00:00;New Year Day;Switzerland;CHF;0
+HUF_NewYearDay;20160101;00:00;New Year Day;Hungary;HUF;0
+NZD_NewYearDay;20160101;00:00;New Year Day ;New Zealand;NZD;0
+USD_NewYearDay;20160101;00:00;New Year Day;United States;USD;0
+CLP_NewYearday;20160101;00:00;New Year day;Chile;CLP;0
+COP_NewYearDay;20160101;00:00;New Year Day;Colombia;COP;0
+NOK_NewYearDay;20160101;00:00;New Year Day;Norway;NOK;0
+KRW_TradeBalance;20160101;00:00;Trade Balance;South Korea;KRW;1
+RON_NewYear’sDay;20160101;00:00;New Year’s Day;Romania;RON;0
+EUR_GerNewYearDay;20160101;00:00;New Year Day;Germany;EUR;0
+MXN_NewYearDay;20160101;00:00;New Year Day;Mexico;MXN;0
+SEK_NewYearDay;20160101;00:00;New Year Day;Sweden;SEK;0
+DKK_NewYearDay;20160101;00:00;New Year Day;Denmark;DKK;0
+IDR_NewYearDay;20160101;00:00;New Year Day;Indonesia;IDR;0
+CZK_RestorationDayoftheIndependentCzechState;20160101;00:00;Restoration Day of the Independent Czech State;Czech Republic;CZK;0
+PLN_NewYearDay;20160101;00:00;New Year Day;Poland;PLN;0
+AUD_WestpacConsumerConfidenceIndex;20160101;00:30;Westpac Consumer Confidence Index;Australia;AUD;1
+AUD_WestpacConsumerConfidence;20160101;00:30;Westpac Consumer Confidence;Australia;AUD;2
+JPY_JibunBankManufacturingPMI;20160101;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+CNY_NBSManufacturingPMI;20160101;01:00;NBS Manufacturing PMI;China;CNY;2
+CNY_NonManufacturingPMI;20160101;01:00;Non-Manufacturing PMI;China;CNY;2
+CNY_MNIBusinessSentimentIndicator;20160101;02:00;MNI Business Sentiment Indicator;China;CNY;1
+JPY_VehicleSales;20160101;05:00;Vehicle Sales (YoY);Japan;JPY;1
+EUR_EurEurozoneEconomicOutlook;20160101;09:00;Eurozone Economic Outlook;European Monetary Union;EUR;1
+TRY_Exports;20160101;09:00;Exports;Turkey;TRY;1
+GBP_FinancialStabilityReport;20160101;10:30;Financial Stability Report;United Kingdom;GBP;2
+CZK_BudgetBalance;20160101;13:00;Budget Balance;Czech Republic;CZK;1
+EUR_EurCentralBankSpeech;20160101;13:30;ECB President Draghi speech;European Monetary Union;EUR;3
+DKK_CurrencyReserves;20160101;15:00;Currency Reserves;Denmark;DKK;1

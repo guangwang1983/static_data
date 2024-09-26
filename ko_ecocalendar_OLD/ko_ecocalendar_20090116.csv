@@ -1,0 +1,10 @@
+USD_MichiganConsumerSentimentIndex;20090116;15:00;Michigan Consumer Sentiment Index;United States;USD;1
+USD_IndustrialProduction;20090116;14:15;Industrial Production (MoM);United States;USD;1
+USD_CapacityUtilization;20090116;14:15;Capacity Utilization;United States;USD;1
+USD_NetLongTermTICFlows;20090116;14:00;Net Long-Term TIC Flows;United States;USD;2
+USD_TotalNetTICFlows;20090116;14:00;Total Net TIC Flows;United States;USD;2
+USD_ConsumerPriceIndex;20090116;13:30;Consumer Price Index ex Food & Energy (YoY);United States;USD;3
+EUR_EurTradeBalance;20090116;10:00;Trade Balance s.a.;European Monetary Union;EUR;1
+CHF_ProducerandImportPrices;20090116;08:15;Producer and Import Prices (MoM);Switzerland;CHF;2
+DKK_DanmarksNationalbankinterestratechange;20090116;08:00;Danmarks Nationalbank interest rate change;Denmark;DKK;0
+TRY_CBRTInterestRateDecision;20090116;08:00;CBRT Interest Rate Decision;Turkey;TRY;1

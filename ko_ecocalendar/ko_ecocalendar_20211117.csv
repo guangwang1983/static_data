@@ -1,0 +1,28 @@
+AUD_WagePriceIndex;20211117;00:30;Wage Price Index (YoY);Australia;AUD;1
+GBP_RetailPriceIndex;20211117;07:00;Retail Price Index (YoY);United Kingdom;GBP;2
+GBP_ProducerPriceIndex;20211117;07:00;Producer Price Index - Input (MoM) n.s.a;United Kingdom;GBP;1
+GBP_PPICoreOutput;20211117;07:00;PPI Core Output (MoM) n.s.a;United Kingdom;GBP;2
+GBP_ConsumerPriceIndex;20211117;07:00;Consumer Price Index (YoY);United Kingdom;GBP;3
+ZAR_ConsumerPriceIndex;20211117;08:00;Consumer Price Index (YoY);South Africa;ZAR;1
+EUR_ItaGlobalTradeBalance;20211117;09:00;Global Trade Balance;Italy;EUR;1
+EUR_ItaTradeBalanceEU;20211117;09:00;Trade Balance EU;Italy;EUR;1
+EUR_EurEUFinancialStabilityReview;20211117;09:00;EU Financial Stability Review;European Monetary Union;EUR;2
+GBP_DCLGHousePriceIndex;20211117;09:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20211117;10:00;Core Harmonized Index of Consumer Prices (MoM);European Monetary Union;EUR;2
+EUR_EurHarmonizedIndexofConsumerPrices;20211117;10:00;Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;1
+EUR_EurConstructionOutput;20211117;10:00;Construction Output w.d.a (YoY);European Monetary Union;EUR;1
+EUR_GerAuction;20211117;10:40;30-y Bond Auction;Germany;EUR;1
+ZAR_RetailSales;20211117;11:00;Retail Sales (YoY);South Africa;ZAR;1
+INR_M3MoneySupply;20211117;11:30;M3 Money Supply;India;INR;1
+USD_MBAMortgageApplications;20211117;12:00;MBA Mortgage Applications;United States;USD;1
+USD_HousingStarts;20211117;13:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20211117;13:30;Building Permits (MoM);United States;USD;2
+USD_BuildingPermitsChange;20211117;13:30;Building Permits Change;United States;USD;1
+USD_HousingStartsChange;20211117;13:30;Housing Starts Change;United States;USD;1
+CAD_ConsumerPriceIndex;20211117;13:30;Consumer Price Index (MoM);Canada;CAD;2
+USD_EIACrudeOilStocksChange;20211117;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_Auction;20211117;18:00;20-Year Bond Auction;United States;USD;1
+EUR_EurCentralBankSpeech;20211117;18:30;ECB President Lagarde speech;European Monetary Union;EUR;2
+USD_CentralBankSpeech;20211117;21:10;Fed Bostic speech;United States;USD;2
+JPY_ForeignInvestmentinJapanStocks;20211117;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20211117;23:50;Foreign Bond Investment;Japan;JPY;1

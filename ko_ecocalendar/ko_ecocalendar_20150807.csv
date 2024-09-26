@@ -1,0 +1,52 @@
+COP_BattleofBoyacaholiday;20150807;00:00;Battle of Boyaca holiday;Colombia;COP;0
+AUD_HomeLoans;20150807;01:30;Home Loans;Australia;AUD;2
+AUD_InvestmentLendingforHomes;20150807;01:30;Investment Lending for Homes;Australia;AUD;1
+AUD_RBAMonetaryPolicyStatement;20150807;01:30;RBA Monetary Policy Statement;Australia;AUD;3
+JPY_BoJMonetaryPolicyStatement;20150807;03:00;BoJ Monetary Policy Statement ;Japan;JPY;3
+JPY_CentralBankSpeech;20150807;03:00;BoJ Governor Kuroda speech;Japan;JPY;3
+JPY_BoJInterestRateDecision;20150807;03:20;BoJ Interest Rate Decision;Japan;JPY;1
+CHF_UnemploymentRate;20150807;05:45;Unemployment Rate s.a (MoM);Switzerland;CHF;3
+JPY_BoJPressConference;20150807;06:00;BoJ Press Conference;Japan;JPY;3
+EUR_GerIndustrialProduction;20150807;06:00;Industrial Production n.s.a. w.d.a. (YoY);Germany;EUR;1
+EUR_GerCurrentAccount;20150807;06:00;Current Account n.s.a.;Germany;EUR;2
+EUR_GerTradeBalance;20150807;06:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerExports;20150807;06:00;Exports (MoM);Germany;EUR;2
+EUR_GerImports;20150807;06:00;Imports (MoM);Germany;EUR;2
+ZAR_Net$Gold&ForexReserve;20150807;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+ZAR_Gross$Gold&ForexReserve;20150807;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+EUR_FraImportsEUR;20150807;06:45;Imports, EUR;France;EUR;1
+EUR_FraExportsEUR;20150807;06:45;Exports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20150807;06:45;Trade Balance EUR;France;EUR;1
+EUR_FraIndustrialOutput;20150807;06:45;Industrial Output (MoM);France;EUR;1
+EUR_FraBudgetBalance;20150807;06:45;Budget Balance;France;EUR;1
+HUF_IndustrialOutput;20150807;07:00;Industrial Output (YoY);Hungary;HUF;1
+TRY_IndustrialProduction;20150807;07:00;Industrial Production (YoY);Turkey;TRY;1
+CHF_ForeignCurrencyReserves;20150807;07:00;Foreign Currency Reserves;Switzerland;CHF;1
+NOK_CreditIndicator;20150807;08:00;Credit Indicator;Norway;NOK;1
+NOK_ManufacturingOutput;20150807;08:00;Manufacturing Output;Norway;NOK;1
+CZK_FXReserves;20150807;08:00;FX Reserves;Czech Republic;CZK;1
+GBP_GoodsTradeBalance;20150807;08:30;Goods Trade Balance;United Kingdom;GBP;2
+GBP_TotalTradeBalance;20150807;08:30;Total Trade Balance;United Kingdom;GBP;2
+GBP_TradeBalancenonEU;20150807;08:30;Trade Balance non-EU;United Kingdom;GBP;1
+CLP_ConsumerPriceIndex;20150807;11:00;Core Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+CLP_TradeBalance;20150807;11:30;Trade Balance;Chile;CLP;1
+INR_FXReservesUSD;20150807;11:30;FX Reserves, USD;India;INR;1
+BRL_IPCAInflation;20150807;12:00;IPCA Inflation;Brazil;BRL;1
+PLN_CentralBankFXReserves;20150807;12:00;Central Bank FX Reserves;Poland;PLN;1
+USD_NonfarmPayrolls;20150807;12:30;Nonfarm Payrolls;United States;USD;3
+USD_AverageHourlyEarnings;20150807;12:30;Average Hourly Earnings (YoY);United States;USD;2
+USD_AverageWeeklyHours;20150807;12:30;Average Weekly Hours;United States;USD;2
+USD_UnemploymentRate;20150807;12:30;Unemployment Rate;United States;USD;3
+USD_LaborForceParticipationRate;20150807;12:30;Labor Force Participation Rate;United States;USD;2
+CAD_BuildingPermits;20150807;12:30;Building Permits (MoM);Canada;CAD;2
+CAD_UnemploymentRate;20150807;12:30;Unemployment Rate;Canada;CAD;3
+CAD_ParticipationRate;20150807;12:30;Participation Rate;Canada;CAD;1
+CAD_NetChangeinEmployment;20150807;12:30;Net Change in Employment;Canada;CAD;3
+MXN_HeadlineInflation;20150807;13:00;Headline Inflation;Mexico;MXN;1
+MXN_CoreInflation;20150807;13:00;Core Inflation;Mexico;MXN;1
+MXN_12MonthInflation;20150807;13:00;12-Month Inflation;Mexico;MXN;1
+INR_BankLoanGrowth;20150807;13:30;Bank Loan Growth;India;INR;1
+CAD_IveyPurchasingManagersIndex;20150807;14:00;Ivey Purchasing Managers Index s.a;Canada;CAD;2
+TRY_TreasuryCashBalance;20150807;14:30;Treasury Cash Balance;Turkey;TRY;1
+USD_BakerHughesUSOilRigCount;20150807;19:00;Baker Hughes US Oil Rig Count;United States;USD;2
+USD_ConsumerCreditChange;20150807;19:00;Consumer Credit Change;United States;USD;2

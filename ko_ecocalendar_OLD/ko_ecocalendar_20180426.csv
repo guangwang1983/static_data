@@ -1,0 +1,43 @@
+JPY_IndustrialProduction;20180426;23:50;Industrial Production (YoY);Japan;JPY;1
+JPY_RetailTrade;20180426;23:50;Retail Trade (YoY);Japan;JPY;2
+JPY_LargeRetailers'Sales;20180426;23:50;Large Retailers' Sales;Japan;JPY;2
+JPY_TokyoCPIexFoodEnergy;20180426;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20180426;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;2
+JPY_TokyoCPIexFreshFood;20180426;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;3
+JPY_UnemploymentRate;20180426;23:30;Unemployment Rate;Japan;JPY;2
+JPY_JobsApplicantsRatio;20180426;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+NZD_Imports;20180426;22:45;Imports;New Zealand;NZD;2
+NZD_TradeBalance;20180426;22:45;Trade Balance (YoY);New Zealand;NZD;2
+NZD_Exports;20180426;22:45;Exports;New Zealand;NZD;2
+GBP_GfKConsumerConfidence;20180426;22:05;GfK Consumer Confidence;United Kingdom;GBP;2
+KRW_BOKManufacturingBSI;20180426;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+USD_Auction;20180426;17:00;7-Year Note Auction;United States;USD;1
+COP_NationalJoblessRate;20180426;15:00;National Jobless Rate;Colombia;COP;1
+USD_KansasFedManufacturingActivity;20180426;15:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_EIANaturalGasStorageChange;20180426;14:30;EIA Natural Gas Storage Change;United States;USD;1
+MXN_JoblessRate;20180426;14:00;Jobless Rate s.a;Mexico;MXN;1
+USD_NondefenseCapitalGoodsOrdersexAircraft;20180426;13:30;Nondefense Capital Goods Orders ex Aircraft;United States;USD;3
+RUB_CentralBankReserves;20180426;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_JoblessClaims;20180426;12:30;Initial Jobless Claims;United States;USD;2
+USD_WholesaleInventories;20180426;12:30;Wholesale Inventories;United States;USD;1
+EUR_EurECBMonetaryPolicyStatementandPressConference;20180426;12:30;ECB Monetary Policy Statement and Press Conference;European Monetary Union;EUR;3
+USD_GoodsTradeBalance;20180426;12:30;Goods Trade Balance;United States;USD;1
+USD_DurableGoodsOrders;20180426;12:30;Durable Goods Orders ex Transportation;United States;USD;2
+EUR_EurECBDepositRateDecision;20180426;11:45;ECB Deposit Rate Decision;European Monetary Union;EUR;3
+EUR_EurECBInterestRateDecision;20180426;11:45;ECB Interest Rate Decision;European Monetary Union;EUR;3
+INR_M3MoneySupply;20180426;11:30;M3 Money Supply;India;INR;1
+GBP_CBIDistributiveTradesSurveyRealized;20180426;10:00;CBI Distributive Trades Survey - Realized (MoM);United Kingdom;GBP;1
+ZAR_ProducerPriceIndex;20180426;09:30;Producer Price Index (MoM);South Africa;ZAR;1
+EUR_AusPurchasingManagerIndex;20180426;09:00;Purchasing Manager Index;Austria;EUR;1
+GBP_BBAMortgageApprovals;20180426;08:30;BBA Mortgage Approvals;United Kingdom;GBP;1
+SEK_ProducerPriceIndex;20180426;07:30;Producer Price Index (YoY);Sweden;SEK;1
+SEK_RiksbankInterestRateDecision;20180426;07:30;Riksbank Interest Rate Decision;Sweden;SEK;1
+SEK_TradeBalance;20180426;07:30;Trade Balance (MoM);Sweden;SEK;1
+EUR_SpaUnemploymentSurvey;20180426;07:00;Unemployment Survey;Spain;EUR;1
+SEK_ConsumerConfidence;20180426;07:00;Consumer Confidence (MoM);Sweden;SEK;1
+DKK_IndustrialOutlook;20180426;06:00;Industrial Outlook;Denmark;DKK;1
+EUR_GerGfkConsumerConfidenceSurvey;20180426;06:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+NOK_LabourForceSurvey;20180426;06:00;Labour Force Survey;Norway;NOK;1
+SGD_IndustrialProduction;20180426;05:00;Industrial Production (YoY);Singapore;SGD;1
+AUD_ExportPriceIndex;20180426;01:30;Export Price Index (QoQ);Australia;AUD;1
+AUD_ImportPriceIndex;20180426;01:30;Import Price Index (QoQ);Australia;AUD;1

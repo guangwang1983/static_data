@@ -1,0 +1,32 @@
+EUR_GerGfkConsumerConfidenceSurvey;20190926;06:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+DKK_RetailSales;20190926;06:00;Retail Sales (YoY);Denmark;DKK;1
+SEK_ConsumerConfidence;20190926;07:00;Consumer Confidence (MoM);Sweden;SEK;1
+SEK_ProducerPriceIndex;20190926;07:30;Producer Price Index (MoM);Sweden;SEK;1
+SEK_TradeBalance;20190926;07:30;Trade Balance (MoM);Sweden;SEK;1
+EUR_ItaTradeBalancenonEU;20190926;08:00;Trade Balance non-EU;Italy;EUR;1
+EUR_EurPrivateLoans;20190926;08:00;Private Loans (YoY);European Monetary Union;EUR;1
+EUR_EurM3MoneySupply;20190926;08:00;M3 Money Supply (3m);European Monetary Union;EUR;1
+EUR_EurEconomicBulletin;20190926;08:00;Economic Bulletin;European Monetary Union;EUR;2
+ZAR_ProducerPriceIndex;20190926;09:30;Producer Price Index (YoY);South Africa;ZAR;1
+USD_JoblessClaims;20190926;12:30;Initial Jobless Claims;United States;USD;2
+USD_GrossDomesticProduct;20190926;12:30;Gross Domestic Product Annualized;United States;USD;3
+USD_WholesaleInventories;20190926;12:30;Wholesale Inventories;United States;USD;1
+USD_GoodsTradeBalance;20190926;12:30;Goods Trade Balance;United States;USD;1
+USD_PersonalConsumptionExpendituresPrices;20190926;12:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+USD_CorePersonalConsumptionExpenditures;20190926;12:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+RUB_CentralBankReserves;20190926;13:00;Central Bank Reserves $;Russia;RUB;1
+EUR_EurCentralBankSpeech;20190926;13:30;ECB President Draghi speech;European Monetary Union;EUR;3
+GBP_CentralBankSpeech;20190926;13:45;BoE Cunliffe speech;United Kingdom;GBP;2
+USD_PendingHomeSales;20190926;14:00;Pending Home Sales (YoY);United States;USD;1
+USD_EIANaturalGasStorageChange;20190926;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_KansasFedManufacturingActivity;20190926;15:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_CentralBankSpeech;20190926;15:45;Fed Clarida speech;United States;USD;2
+USD_Auction;20190926;17:00;7-Year Note Auction;United States;USD;1
+MXN_CentralBankInterestRate;20190926;18:00;Central Bank Interest Rate;Mexico;MXN;1
+NZD_ANZ–RoyMorganConsumerConfidence;20190926;21:00;ANZ – Roy Morgan Consumer Confidence;New Zealand;NZD;2
+GBP_GfKConsumerConfidence;20190926;23:01;GfK Consumer Confidence;United Kingdom;GBP;2
+JPY_TokyoCPIexFreshFood;20190926;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;3
+JPY_ConsumerPriceIndex;20190926;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;2
+JPY_TokyoCPIexFoodEnergy;20190926;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20190926;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20190926;23:50;Foreign Bond Investment;Japan;JPY;1

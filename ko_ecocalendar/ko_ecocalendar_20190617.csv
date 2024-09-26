@@ -1,0 +1,17 @@
+NOK_TradeBalance;20190617;06:00;Trade Balance;Norway;NOK;1
+TRY_UnemploymentRate;20190617;07:00;Unemployment Rate;Turkey;TRY;1
+CZK_ProducerPriceIndex;20190617;07:00;Producer Price Index (YoY);Czech Republic;CZK;1
+EUR_EurLaborCost;20190617;09:00;Labor Cost;European Monetary Union;EUR;2
+EUR_GerGermanBubaMonthlyReport;20190617;10:00;German Buba Monthly Report;Germany;EUR;1
+TRY_BudgetBalance;20190617;11:15;Budget Balance;Turkey;TRY;1
+PLN_NetInflation;20190617;12:00;Net Inflation;Poland;PLN;1
+USD_NYEmpireStateManufacturingIndex;20190617;12:30;NY Empire State Manufacturing Index;United States;USD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20190617;12:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20190617;12:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+USD_NAHBHousingMarketIndex;20190617;14:00;NAHB Housing Market Index;United States;USD;1
+USD_Auction;20190617;15:30;3-Month Bill Auction;United States;USD;1
+EUR_EurCentralBankSpeech;20190617;18:00;ECB President Draghi speech;European Monetary Union;EUR;3
+CAD_CentralBankSpeech;20190617;18:30;BoC Schembri speech;Canada;CAD;2
+USD_NetLongTermTICFlows;20190617;20:00;Net Long-Term TIC Flows;United States;USD;1
+USD_TotalNetTICFlows;20190617;20:00;Total Net TIC Flows;United States;USD;1
+NZD_WestpacConsumerSurvey;20190617;21:00;Westpac Consumer Survey;New Zealand;NZD;2

@@ -1,0 +1,24 @@
+KRW_TradeBalance;20230501;00:00;Trade Balance;South Korea;KRW;1
+JPY_JibunBankManufacturingPMI;20230501;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+AUD_TDSecuritiesInflation;20230501;01:00;TD Securities Inflation (MoM);Australia;AUD;1
+BRL_LabourDay;20230501;03:00;Labour Day;Brazil;BRL;0
+CLP_LabourDay;20230501;04:00;Labour Day;Chile;CLP;0
+COP_LabourDay;20230501;05:00;Labour Day;Colombia;COP;0
+JPY_ConsumerConfidenceIndex;20230501;05:00;Consumer Confidence Index;Japan;JPY;1
+MXN_LabourDay;20230501;06:00;Labour Day ;Mexico;MXN;0
+AUD_RBACommodityIndexSDR;20230501;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+HUF_PurchasingManagerIndex;20230501;07:00;Purchasing Manager Index;Hungary;HUF;1
+DKK_ManufacturingPMI;20230501;09:00;Manufacturing PMI;Denmark;DKK;1
+CLP_IMACEC;20230501;11:30;IMACEC;Chile;CLP;1
+CLP_Unemploymentrate;20230501;13:00;Unemployment rate;Chile;CLP;1
+CAD_S&PGlobalManufacturingPMI;20230501;13:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20230501;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_ISMManufacturingEmploymentIndex;20230501;14:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ISMManufacturingPMI;20230501;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20230501;14:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ISMManufacturingNewOrdersIndex;20230501;14:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ConstructionSpending;20230501;14:00;Construction Spending (MoM);United States;USD;1
+USD_Auction;20230501;15:30;6-Month Bill Auction;United States;USD;1
+BRL_TradeBalance;20230501;18:00;Trade Balance;Brazil;BRL;1
+KRW_ConsumerPriceIndex;20230501;23:00;Consumer Price Index Growth (YoY);South Korea;KRW;1
+JPY_MonetaryBase;20230501;23:50;Monetary Base (YoY);Japan;JPY;1

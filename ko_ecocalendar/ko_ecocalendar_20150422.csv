@@ -1,0 +1,27 @@
+AUD_WestpacLeadingIndex;20150422;00:30;Westpac Leading Index (MoM);Australia;AUD;1
+AUD_RBATrimmedMeanCPI;20150422;01:30;RBA Trimmed Mean CPI (YoY);Australia;AUD;1
+AUD_ConsumerPriceIndex;20150422;01:30;Consumer Price Index (QoQ);Australia;AUD;2
+TRY_ConsumerConfidence;20150422;07:00;Consumer Confidence;Turkey;TRY;1
+DKK_ConsumerConfidence;20150422;07:00;Consumer Confidence;Denmark;DKK;1
+DKK_RetailSales;20150422;07:00;Retail Sales (YoY);Denmark;DKK;1
+ZAR_ConsumerPriceIndex;20150422;08:00;Consumer Price Index (YoY);South Africa;ZAR;1
+EUR_ItaIndustrialOrders;20150422;08:00;Industrial Orders n.s.a (YoY);Italy;EUR;1
+EUR_ItaIndustrialSales;20150422;08:00;Industrial Sales n.s.a. (YoY);Italy;EUR;1
+GBP_BoEMPCVoteRateUnchanged;20150422;08:30;BoE MPC Vote Rate Unchanged;United Kingdom;GBP;3
+GBP_BankofEnglandMinutes;20150422;08:30;Bank of England Minutes;United Kingdom;GBP;2
+GBP_BoEMPCVoteRateHike;20150422;08:30;BoE MPC Vote Rate Hike;United Kingdom;GBP;3
+GBP_BoEMPCVoteRateCut;20150422;08:30;BoE MPC Vote Rate Cut;United Kingdom;GBP;3
+CHF_ZEWSurvey–Expectations;20150422;09:00;ZEW Survey – Expectations;Switzerland;CHF;2
+EUR_ItaRetailSales;20150422;09:00;Retail Sales n.s.a (YoY);Italy;EUR;1
+TRY_CBRTInterestRateDecision;20150422;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+USD_MBAMortgageApplications;20150422;11:00;MBA Mortgage Applications;United States;USD;2
+BRL_CurrentAccount;20150422;12:30;Current Account;Brazil;BRL;1
+USD_HousingPriceIndex;20150422;13:00;Housing Price Index (MoM);United States;USD;1
+USD_ExistingHomeSales;20150422;14:00;Existing Home Sales (MoM);United States;USD;1
+USD_ExistingHomeSalesChange;20150422;14:00;Existing Home Sales Change (MoM);United States;USD;2
+EUR_EurConsumerConfidence;20150422;14:00;Consumer Confidence;European Monetary Union;EUR;2
+USD_EIACrudeOilStocksChange;20150422;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+NZD_VisitorArrivals;20150422;22:45;Visitor Arrivals (YoY);New Zealand;NZD;1
+KRW_GrossDomesticProduct;20150422;23:00;Gross Domestic Product Growth (QoQ) ;South Korea;KRW;1
+JPY_ForeignInvestmentinJapanStocks;20150422;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20150422;23:50;Foreign Bond Investment;Japan;JPY;2

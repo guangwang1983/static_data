@@ -1,0 +1,58 @@
+JPY_ForeignInvestmentinJapanStocks;20180131;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20180131;23:50;Foreign Bond Investment;Japan;JPY;2
+KRW_ConsumerPriceIndex;20180131;23:00;Consumer Price Index Growth (MoM);South Korea;KRW;1
+AUD_AiGPerformanceofMfgIndex;20180131;22:30;AiG Performance of Mfg Index;Australia;AUD;2
+MXN_FiscalBalancepesos;20180131;21:00;Fiscal Balance, pesos;Mexico;MXN;1
+ARS_IndustrialOutput;20180131;19:00;Industrial Output n.s.a (YoY);Argentina;ARS;1
+USD_FedMonetaryPolicyStatement;20180131;19:00;Fed Monetary Policy Statement;United States;USD;3
+USD_FedInterestRateDecision;20180131;19:00;Fed Interest Rate Decision;United States;USD;3
+USD_EIACrudeOilStocksChange;20180131;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+COP_NationalJoblessRate;20180131;15:00;National Jobless Rate;Colombia;COP;1
+USD_PendingHomeSales;20180131;15:00;Pending Home Sales (YoY);United States;USD;2
+USD_ChicagoPurchasingManagers'Index;20180131;14:45;Chicago Purchasing Managers' Index;United States;USD;2
+CAD_RawMaterialPriceIndex;20180131;13:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20180131;13:30;Industrial Product Price (MoM);Canada;CAD;1
+USD_EmploymentCostIndex;20180131;13:30;Employment Cost Index;United States;USD;1
+CAD_GrossDomesticProduct;20180131;13:30;Gross Domestic Product (MoM);Canada;CAD;2
+USD_ADPEmploymentChange;20180131;13:15;ADP Employment Change;United States;USD;2
+BRL_NominalBudgetBalance;20180131;12:30;Nominal Budget Balance;Brazil;BRL;1
+BRL_PrimaryBudgetSurplus;20180131;12:30;Primary Budget Surplus;Brazil;BRL;1
+CLP_Unemploymentrate;20180131;12:00;Unemployment rate;Chile;CLP;1
+USD_MBAMortgageApplications;20180131;12:00;MBA Mortgage Applications;United States;USD;1
+ZAR_TradeBalance;20180131;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+CLP_IndustrialProduction;20180131;12:00;Industrial Production (YoY);Chile;CLP;1
+INR_M3MoneySupply;20180131;11:30;M3 Money Supply;India;INR;1
+INR_InfrastructureOutput;20180131;11:30;Infrastructure Output (YoY);India;INR;1
+BRL_UnemploymentRate;20180131;11:00;Unemployment Rate;Brazil;BRL;1
+EUR_EurUnemploymentRate;20180131;10:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_EurConsumerPriceIndex;20180131;10:00;Consumer Price Index (YoY);European Monetary Union;EUR;3
+EUR_GreRetailSales;20180131;10:00;Retail Sales (YoY);Greece;EUR;1
+EUR_EurCentralBankSpeech;20180131;09:50;ECB Cœuré speech;European Monetary Union;EUR;2
+CHF_ZEWSurveyExpectations;20180131;09:00;ZEW Survey - Expectations;Switzerland;CHF;2
+EUR_GerUnemploymentChange;20180131;09:00;Unemployment Change;Germany;EUR;2
+EUR_GerUnemploymentRate;20180131;09:00;Unemployment Rate s.a.;Germany;EUR;2
+EUR_ItaUnemployment;20180131;09:00;Unemployment;Italy;EUR;2
+EUR_SpaCurrentAccount;20180131;09:00;Current Account Balance;Spain;EUR;1
+EUR_SpaHICP;20180131;08:00;HICP (YoY);Spain;EUR;1
+EUR_AusGrossDomesticProduct;20180131;08:00;Gross Domestic Product (QoQ);Austria;EUR;1
+HUF_ProducerPriceIndex;20180131;08:00;Producer Price Index (YoY);Hungary;HUF;1
+EUR_FraProducerPrices;20180131;07:45;Producer Prices (MoM);France;EUR;1
+EUR_FraConsumerPriceIndex;20180131;07:45;Consumer Price Index (EU norm) (YoY);France;EUR;2
+TRY_TradeBalance;20180131;07:00;Trade Balance;Turkey;TRY;1
+DKK_UnemploymentRate;20180131;07:00;Unemployment Rate;Denmark;DKK;1
+CHF_UBSConsumptionIndicator;20180131;07:00;UBS Consumption Indicator;Switzerland;CHF;2
+TRY_ForeignArrivals;20180131;07:00;Foreign Arrivals;Turkey;TRY;1
+EUR_GerRetailSales;20180131;07:00;Retail Sales (YoY);Germany;EUR;2
+NOK_CreditIndicator;20180131;07:00;Credit Indicator;Norway;NOK;1
+JPY_HousingStarts;20180131;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_AnnualizedHousingStarts;20180131;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_ConstructionOrders;20180131;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_ConsumerConfidenceIndex;20180131;05:00;Consumer Confidence Index;Japan;JPY;1
+USD_CentralBankSpeech;20180131;02:00;President Trump speech;United States;USD;3
+CNY_NonManufacturingPMI;20180131;01:00;Non-Manufacturing PMI;China;CNY;2
+CNY_NBSManufacturingPMI;20180131;01:00;NBS Manufacturing PMI;China;CNY;2
+AUD_PrivateSectorCredit;20180131;00:30;Private Sector Credit (YoY);Australia;AUD;1
+AUD_RBATrimmedMeanCPI;20180131;00:30;RBA Trimmed Mean CPI (QoQ);Australia;AUD;3
+AUD_ConsumerPriceIndex;20180131;00:30;Consumer Price Index (QoQ);Australia;AUD;3
+GBP_GfKConsumerConfidence;20180131;00:01;GfK Consumer Confidence;United Kingdom;GBP;2
+GBP_BRCShopPriceIndex;20180131;00:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1

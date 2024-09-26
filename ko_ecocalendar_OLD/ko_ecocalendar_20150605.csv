@@ -1,0 +1,38 @@
+USD_ConsumerCreditChange;20150605;19:00;Consumer Credit Change;United States;USD;2
+USD_CentralBankSpeech;20150605;16:30;Fed Dudley speech;United States;USD;1
+EUR_GreCentralBankSpeech;20150605;16:00;Greece Prime Minister Alexis Tsipras Speech;Greece;EUR;2
+TRY_TreasuryCashBalance;20150605;14:30;Treasury Cash Balance;Turkey;TRY;1
+MXN_ConsumerConfidence;20150605;13:00;Consumer Confidence;Mexico;MXN;1
+CLP_IMACEC;20150605;12:30;IMACEC;Chile;CLP;1
+CAD_LaborProductivity;20150605;12:30;Labor Productivity (QoQ);Canada;CAD;1
+USD_UnemploymentRate;20150605;12:30;Unemployment Rate;United States;USD;3
+USD_AverageHourlyEarnings;20150605;12:30;Average Hourly Earnings (MoM);United States;USD;1
+USD_NonfarmPayrolls;20150605;12:30;Nonfarm Payrolls;United States;USD;3
+USD_LaborForceParticipationRate;20150605;12:30;Labor Force Participation Rate;United States;USD;2
+USD_AverageWeeklyHours;20150605;12:30;Average Weekly Hours;United States;USD;2
+CAD_ParticipationRate;20150605;12:30;Participation Rate;Canada;CAD;1
+CAD_NetChangeinEmployment;20150605;12:30;Net Change in Employment;Canada;CAD;3
+CAD_UnemploymentRate;20150605;12:30;Unemployment Rate;Canada;CAD;3
+PLN_CentralBankFXReserves;20150605;12:00;Central Bank FX Reserves;Poland;PLN;1
+INR_FXReservesUSD;20150605;11:30;FX Reserves, USD;India;INR;1
+GBP_ConsumerInflationExpectations;20150605;08:30;Consumer Inflation Expectations;United Kingdom;GBP;3
+NOK_ManufacturingOutput;20150605;08:00;Manufacturing Output;Norway;NOK;1
+EUR_SloGrossDomesticProduct;20150605;08:00;Gross Domestic Product Qtr Final (YoY);Slovakia;EUR;1
+HUF_IndustrialOutput;20150605;07:00;Industrial Output (YoY);Hungary;HUF;1
+EUR_AusWholesalePrices;20150605;07:00;Wholesale Prices n.s.a (MoM);Austria;EUR;1
+CZK_RetailSales;20150605;07:00;Retail Sales (YoY);Czech Republic;CZK;1
+RON_GrossDomesticProduct;20150605;07:00;Gross Domestic Product;Romania;RON;1
+CHF_ForeignCurrencyReserves;20150605;07:00;Foreign Currency Reserves;Switzerland;CHF;1
+EUR_SpaIndustrialOutputCalAdjusted;20150605;07:00;Industrial Output Cal Adjusted (YoY);Spain;EUR;1
+GBP_HalifaxHousePrices;20150605;07:00;Halifax House Prices (MoM);United Kingdom;GBP;1
+HUF_GrossDomesticProduct;20150605;07:00;Gross Domestic Product (YoY);Hungary;HUF;1
+EUR_FraImportsEUR;20150605;06:45;Imports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20150605;06:45;Trade Balance EUR;France;EUR;1
+EUR_FraExportsEUR;20150605;06:45;Exports, EUR;France;EUR;1
+ZAR_Net$Gold&ForexReserve;20150605;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+ZAR_Gross$Gold&ForexReserve;20150605;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+EUR_GerFactoryOrders;20150605;06:00;Factory Orders s.a. (MoM);Germany;EUR;1
+JPY_CoincidentIndex;20150605;05:00;Coincident Index;Japan;JPY;2
+JPY_LeadingEconomicIndex;20150605;05:00;Leading Economic Index;Japan;JPY;2
+DKK_ConstitutionDay;20150605;00:00;Constitution Day ;Denmark;DKK;0
+USD_OPECMeeting;20150605;00:00;OPEC Meeting;United States;USD;2

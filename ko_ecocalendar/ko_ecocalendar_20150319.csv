@@ -1,0 +1,24 @@
+AUD_RBAForeignExchangeTransaction;20150319;00:30;RBA Foreign Exchange Transaction;Australia;AUD;1
+AUD_RBABulletin;20150319;00:30;RBA Bulletin;Australia;AUD;2
+JPY_AllIndustryActivityIndex;20150319;04:30;All Industry Activity Index (MoM);Japan;JPY;2
+CHF_SECOEconomicForecasts;20150319;06:45;SECO Economic Forecasts;Switzerland;CHF;2
+CHF_TradeBalance;20150319;07:00;Trade Balance;Switzerland;CHF;2
+CHF_Exports;20150319;07:00;Exports (MoM);Switzerland;CHF;1
+CHF_Imports;20150319;07:00;Imports (MoM);Switzerland;CHF;1
+CHF_SNBInterestRateDecision;20150319;08:30;SNB Interest Rate Decision;Switzerland;CHF;3
+EUR_EurEconomicBulletin;20150319;09:00;Economic Bulletin;European Monetary Union;EUR;2
+NOK_NorgesBankInterestRateDecision;20150319;09:00;Norges Bank Interest Rate Decision;Norway;NOK;1
+EUR_EurLaborCost;20150319;10:00;Labor Cost;European Monetary Union;EUR;1
+EUR_EurTargetedLTRO;20150319;10:15;Targeted LTRO;European Monetary Union;EUR;3
+GBP_Auction;20150319;10:45;10-y Bond Auction;United Kingdom;GBP;1
+RUB_CentralBankReserves;20150319;11:00;Central Bank Reserves $;Russia;RUB;1
+EUR_EurEUExtraordinaryEconomicSummit;20150319;12:00;EU Extraordinary Economic Summit;European Monetary Union;EUR;3
+USD_CurrentAccount;20150319;12:30;Current Account;United States;USD;1
+USD_JoblessClaims;20150319;12:30;Continuing Jobless Claims;United States;USD;2
+USD_CentralBankSpeech;20150319;14:00;Fed Tarullo speech;United States;USD;1
+RUB_UnemploymentRate;20150319;14:00;Unemployment Rate;Russia;RUB;1
+USD_PhiladelphiaFedManufacturingSurvey;20150319;14:00;Philadelphia Fed Manufacturing Survey;United States;USD;2
+USD_EIANaturalGasStorageChange;20150319;14:30;EIA Natural Gas Storage Change;United States;USD;1
+CLP_BCCHInterestRate;20150319;21:00;BCCH Interest Rate;Chile;CLP;1
+NZD_VisitorArrivals;20150319;21:45;Visitor Arrivals (YoY);New Zealand;NZD;1
+JPY_BoJMonetaryPolicyMeetingMinutes;20150319;23:50;BoJ Monetary Policy Meeting Minutes;Japan;JPY;2

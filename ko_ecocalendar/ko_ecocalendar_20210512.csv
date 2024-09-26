@@ -1,0 +1,56 @@
+JPY_CoincidentIndex;20210512;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20210512;05:00;Leading Economic Index;Japan;JPY;2
+GBP_GrossDomesticProduct;20210512;06:00;Gross Domestic Product (QoQ);United Kingdom;GBP;3
+RON_IndustrialProduction;20210512;06:00;Industrial Production (MoM);Romania;RON;1
+GBP_IndustrialProduction;20210512;06:00;Industrial Production (MoM);United Kingdom;GBP;2
+GBP_ManufacturingProduction;20210512;06:00;Manufacturing Production (MoM);United Kingdom;GBP;2
+GBP_TotalBusinessInvestment;20210512;06:00;Total Business Investment (YoY);United Kingdom;GBP;1
+NOK_GrossDomesticProduct;20210512;06:00;Gross Domestic Product Growth Mainland;Norway;NOK;1
+EUR_GerConsumerPriceIndex;20210512;06:00;Consumer Price Index (YoY);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20210512;06:00;Harmonized Index of Consumer Prices (MoM);Germany;EUR;1
+GBP_IndexofServices;20210512;06:00;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20210512;06:00;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20210512;06:00;Total Trade Balance;United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20210512;06:00;Goods Trade Balance;United Kingdom;GBP;1
+EUR_FraConsumerPriceIndex;20210512;06:45;Consumer Price Index (EU norm) (YoY);France;EUR;1
+EUR_FraInflationextobacco;20210512;06:45;Inflation ex-tobacco (MoM);France;EUR;1
+CNY_M2MoneySupply;20210512;07:00;M2 Money Supply (YoY);China;CNY;1
+HUF_IndustrialOutput;20210512;07:00;Industrial Output (YoY);Hungary;HUF;1
+CNY_NewLoans;20210512;07:00;New Loans;China;CNY;1
+SEK_ConsumerPriceIndex;20210512;07:30;Consumer Price Index (YoY);Sweden;SEK;1
+EUR_EurNonMonetaryPolicyECBMeeting;20210512;08:00;Non-Monetary Policy ECB Meeting;European Monetary Union;EUR;1
+EUR_EurEuropeanCommissionreleasesEconomicGrowthForecasts;20210512;08:40;European Commission releases Economic Growth Forecasts;European Monetary Union;EUR;2
+EUR_EurIndustrialProduction;20210512;09:00;Industrial Production s.a. (MoM);European Monetary Union;EUR;2
+GBP_NIESRGDPEstimate;20210512;11:00;NIESR GDP Estimate (3M);United Kingdom;GBP;2
+USD_MBAMortgageApplications;20210512;11:00;MBA Mortgage Applications;United States;USD;1
+MXN_IndustrialOutput;20210512;11:00;Industrial Output (YoY);Mexico;MXN;1
+RON_Interestratedecision;20210512;12:00;Interest rate decision;Romania;RON;1
+INR_ConsumerPriceIndex;20210512;12:00;Consumer Price Index (YoY);India;INR;1
+INR_IndustrialOutput;20210512;12:00;Industrial Output;India;INR;1
+INR_ManufacturingOutput;20210512;12:00;Manufacturing Output;India;INR;1
+INR_CumulativeIndustrialOutput;20210512;12:00;Cumulative Industrial Output;India;INR;1
+USD_ConsumerPriceIndex;20210512;12:30;Consumer Price Index (YoY);United States;USD;2
+RUB_ForeignTrade;20210512;13:00;Foreign Trade;Russia;RUB;1
+USD_CentralBankSpeech;20210512;13:00;Fed Clarida speech;United States;USD;2
+GBP_CentralBankSpeech;20210512;14:00;BoE Governor Bailey speech;United Kingdom;GBP;3
+USD_EIACrudeOilStocksChange;20210512;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_USDAWASDEReport;20210512;16:00;USDA WASDE Report;United States;USD;1
+USD_Auction;20210512;17:00;10-Year Note Auction;United States;USD;1
+IDR_AscensionDay;20210512;17:00;Ascension Day;Indonesia;IDR;0
+USD_MonthlyBudgetStatement;20210512;18:00;Monthly Budget Statement;United States;USD;2
+INR_IdulFitr;20210512;18:30;Idul Fitr ;India;INR;0
+NZD_REINZHousePriceIndex;20210512;21:00;REINZ House Price Index (MoM);New Zealand;NZD;2
+TRY_RamazanFeast;20210512;21:00;Ramazan Feast;Turkey;TRY;0
+NZD_FoodPriceIndex;20210512;21:45;Food Price Index (MoM);New Zealand;NZD;1
+EUR_GerAscensionDay;20210512;22:00;Ascension Day;Germany;EUR;0
+EUR_FraAscensionDay;20210512;22:00;Ascension Day ;France;EUR;0
+SEK_AscensionDay;20210512;22:00;Ascension Day;Sweden;SEK;0
+DKK_AscensionDay;20210512;22:00;Ascension Day ;Denmark;DKK;0
+NOK_AscensionDay;20210512;22:00;Ascension Day;Norway;NOK;0
+CHF_AscensionDay;20210512;22:00;Ascension Day;Switzerland;CHF;0
+GBP_RICSHousingPriceBalance;20210512;23:01;RICS Housing Price Balance;United Kingdom;GBP;1
+JPY_BankLending;20210512;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_ForeignBondInvestment;20210512;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20210512;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_CurrentAccount;20210512;23:50;Current Account n.s.a.;Japan;JPY;2
+JPY_TradeBalanceBOPBasis;20210512;23:50;Trade Balance - BOP Basis;Japan;JPY;1

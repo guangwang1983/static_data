@@ -1,0 +1,46 @@
+JPY_DomesticCorporateGoodsPriceIndex;20141209;23:50;Domestic Corporate Goods Price Index (YoY);Japan;JPY;1
+JPY_BSILargeManufacturingConditionsIndex;20141209;23:50;BSI Large Manufacturing Conditions Index (QoQ);Japan;JPY;2
+AUD_WestpacConsumerConfidenceIndex;20141209;23:30;Westpac Consumer Confidence Index;Australia;AUD;1
+AUD_WestpacConsumerConfidence;20141209;23:30;Westpac Consumer Confidence;Australia;AUD;1
+KRW_UnemploymentRate;20141209;23:00;Unemployment Rate;South Korea;KRW;1
+KRW_ImportPriceGrowth;20141209;21:00;Import Price Growth (YoY);South Korea;KRW;1
+KRW_ExportPriceGrowth;20141209;21:00;Export Price Growth (YoY);South Korea;KRW;1
+NZD_REINZHousePriceIndex;20141209;21:00;REINZ House Price Index (MoM);New Zealand;NZD;2
+USD_Auction;20141209;18:00;3-Year Note Auction;United States;USD;1
+USD_JOLTSJobOpenings;20141209;15:00;JOLTS Job Openings;United States;USD;1
+GBP_NIESRGDPEstimate;20141209;15:00;NIESR GDP Estimate (3M);United Kingdom;GBP;2
+USD_WholesaleInventories;20141209;15:00;Wholesale Inventories;United States;USD;2
+USD_IBDTIPPEconomicOptimism;20141209;15:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+MXN_12MonthInflation;20141209;14:00;12-Month Inflation;Mexico;MXN;1
+MXN_CoreInflation;20141209;14:00;Core Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20141209;14:00;Headline Inflation;Mexico;MXN;1
+USD_RedbookIndex;20141209;13:55;Redbook Index (MoM);United States;USD;1
+EUR_EurEcoFinMeeting;20141209;13:00;EcoFin Meeting;European Monetary Union;EUR;2
+USD_NFIBBusinessOptimismIndex;20141209;12:30;NFIB Business Optimism Index;United States;USD;1
+INR_TradeDeficitRBI;20141209;11:30;Trade Deficit - RBI;India;INR;1
+INR_CurrentAccount;20141209;11:30;Current Account Balance $;India;INR;1
+CLP_TradeBalance;20141209;11:30;Trade Balance;Chile;CLP;1
+ZAR_ManufacturingProductionIndex;20141209;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+GBP_Auction;20141209;10:42;30-y Bond Auction;United Kingdom;GBP;1
+EUR_GreConsumerPriceIndex;20141209;10:00;Consumer Price Index (YoY);Greece;EUR;1
+EUR_SpaAuction;20141209;09:53;12-Month Letras Auction;Spain;EUR;1
+GBP_ManufacturingProduction;20141209;09:30;Manufacturing Production (MoM);United Kingdom;GBP;1
+GBP_IndustrialProduction;20141209;09:30;Industrial Production (YoY);United Kingdom;GBP;2
+EUR_SloForeignTradeBalance;20141209;08:00;Foreign Trade Balance;Slovakia;EUR;1
+CZK_ConsumerPriceIndex;20141209;08:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+DKK_TradeBalance;20141209;08:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20141209;08:00;Current Account;Denmark;DKK;1
+HUF_TradeBalance;20141209;08:00;Trade Balance;Hungary;HUF;1
+EUR_FraImportsEUR;20141209;07:45;Imports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20141209;07:45;Trade Balance EUR;France;EUR;1
+EUR_FraExportsEUR;20141209;07:45;Exports, EUR;France;EUR;1
+EUR_FraBudget;20141209;07:45;Budget;France;EUR;1
+EUR_GerCurrentAccount;20141209;07:00;Current Account n.s.a.;Germany;EUR;1
+EUR_GerExports;20141209;07:00;Exports (MoM);Germany;EUR;1
+EUR_GerTradeBalance;20141209;07:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerImports;20141209;07:00;Imports (MoM);Germany;EUR;1
+CHF_UnemploymentRate;20141209;06:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+JPY_MachineToolOrders;20141209;06:00;Machine Tool Orders (YoY);Japan;JPY;2
+AUD_NationalAustraliaBankBusinessConfidence;20141209;00:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20141209;00:30;National Australia Bank Business Conditions;Australia;AUD;1
+GBP_RetailSales;20141209;00:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;1

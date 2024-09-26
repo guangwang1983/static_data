@@ -1,0 +1,39 @@
+GBP_RetailSales;20231107;00:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+CNY_TradeBalanceCNY;20231107;03:00;Trade Balance CNY;China;CNY;2
+CNY_Imports;20231107;03:00;Imports (YoY);China;CNY;2
+CNY_Exports;20231107;03:00;Exports (YoY);China;CNY;2
+CNY_TradeBalanceUSD;20231107;03:00;Trade Balance USD;China;CNY;2
+AUD_RBAInterestRateDecision;20231107;03:30;RBA Interest Rate Decision;Australia;AUD;3
+AUD_RBARateStatement;20231107;03:30;RBA Rate Statement;Australia;AUD;3
+ZAR_Gross$Gold&ForexReserve;20231107;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+ZAR_Net$Gold&ForexReserve;20231107;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+CHF_UnemploymentRate;20231107;06:45;Unemployment Rate s.a (MoM);Switzerland;CHF;1
+EUR_GerIndustrialProduction;20231107;07:00;Industrial Production n.s.a. w.d.a. (YoY);Germany;EUR;2
+DKK_IndustrialProduction;20231107;07:00;Industrial Production (MoM);Denmark;DKK;1
+GBP_HalifaxHousePrices;20231107;07:00;Halifax House Prices (MoM);United Kingdom;GBP;1
+NOK_ManufacturingOutput;20231107;07:00;Manufacturing Output;Norway;NOK;1
+HUF_IndustrialOutput;20231107;07:30;Industrial Output (YoY);Hungary;HUF;1
+CNY_ForeignExchangeReserves;20231107;08:00;Foreign Exchange Reserves (MoM);China;CNY;1
+CZK_RetailSales;20231107;08:00;Retail Sales (YoY);Czech Republic;CZK;1
+CHF_ForeignCurrencyReserves;20231107;08:00;Foreign Currency Reserves;Switzerland;CHF;1
+CZK_FXReserves;20231107;09:00;FX Reserves;Czech Republic;CZK;1
+EUR_EurProducerPriceIndex;20231107;10:00;Producer Price Index (YoY);European Monetary Union;EUR;2
+RUB_Interestratedecision;20231107;10:30;Interest rate decision;Russia;RUB;2
+CLP_TradeBalance;20231107;11:30;Trade Balance;Chile;CLP;1
+CAD_Exports;20231107;12:30;Exports;Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20231107;12:30;International Merchandise Trade;Canada;CAD;1
+CAD_Imports;20231107;12:30;Imports;Canada;CAD;1
+PLN_CentralBankFXReserves;20231107;13:00;Central Bank FX Reserves;Poland;PLN;1
+USD_GoodsandServicesTradeBalance;20231107;13:30;Goods and Services Trade Balance;United States;USD;1
+USD_GoodsTradeBalance;20231107;13:30;Goods Trade Balance;United States;USD;1
+USD_RedbookIndex;20231107;13:55;Redbook Index (YoY);United States;USD;1
+USD_IBDTIPPEconomicOptimism;20231107;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+NZD_GDTPriceIndex;20231107;14:00;GDT Price Index;New Zealand;NZD;1
+TRY_TreasuryCashBalance;20231107;14:30;Treasury Cash Balance;Turkey;TRY;1
+CAD_CentralBankSpeech;20231107;16:00;BoC Kozicki speech;Canada;CAD;2
+USD_CentralBankSpeech;20231107;17:00;Fed Williams speech;United States;USD;2
+USD_Auction;20231107;18:00;3-Year Note Auction;United States;USD;1
+USD_ConsumerCreditChange;20231107;20:00;Consumer Credit Change;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20231107;21:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_CurrentAccount;20231107;23:00;Current Account Balance;South Korea;KRW;1
+JPY_JPForeignReserves;20231107;23:50;JP Foreign Reserves;Japan;JPY;1

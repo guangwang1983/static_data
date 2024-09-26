@@ -1,0 +1,47 @@
+AUD_CFTCAUDNCNetPositions;20210521;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20210521;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+JPY_CFTCJPYNCNetPositions;20210521;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCOilNCNetPositions;20210521;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20210521;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20210521;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20210521;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_BakerHughesUSOilRigCount;20210521;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_ExistingHomeSales;20210521;14:00;Existing Home Sales (MoM);United States;USD;1
+USD_ExistingHomeSalesChange;20210521;14:00;Existing Home Sales Change (MoM);United States;USD;1
+EUR_EurConsumerConfidence;20210521;14:00;Consumer Confidence;European Monetary Union;EUR;2
+USD_MarkitServicesPMI;20210521;13:45;Markit Services PMI;United States;USD;2
+USD_MarkitManufacturingPMI;20210521;13:45;Markit Manufacturing PMI;United States;USD;2
+USD_MarkitPMIComposite;20210521;13:45;Markit PMI Composite;United States;USD;2
+CAD_RetailSales;20210521;12:30;Retail Sales (MoM);Canada;CAD;3
+RUB_BudgetFulfilment;20210521;12:00;Budget Fulfilment;Russia;RUB;1
+INR_BankLoanGrowth;20210521;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20210521;11:30;FX Reserves, USD;India;INR;1
+MXN_RetailSales;20210521;11:00;Retail Sales (YoY);Mexico;MXN;1
+EUR_GerGermanBubaMonthlyReport;20210521;10:00;German Buba Monthly Report;Germany;EUR;1
+EUR_BelConsumerConfidenceIndex;20210521;09:00;Consumer Confidence Index;Belgium;EUR;1
+HKD_ConsumerPriceIndex;20210521;09:00;Consumer Price Index;Hong Kong SAR;HKD;1
+EUR_GreCurrentAccount;20210521;09:00;Current Account (YoY);Greece;EUR;1
+GBP_MarkitServicesPMI;20210521;08:30;Markit Services PMI;United Kingdom;GBP;3
+GBP_MarkitManufacturingPMI;20210521;08:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+PLN_ProducerPriceIndex;20210521;08:00;Producer Price Index (YoY);Poland;PLN;1
+EUR_ItaIndustrialSales;20210521;08:00;Industrial Sales n.s.a. (YoY);Italy;EUR;1
+EUR_EurMarkitManufacturingPMI;20210521;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20210521;08:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_EurMarkitPMIComposite;20210521;08:00;Markit PMI Composite;European Monetary Union;EUR;3
+EUR_GerMarkitPMIComposite;20210521;07:30;Markit PMI Composite;Germany;EUR;3
+EUR_GerMarkitManufacturingPMI;20210521;07:30;Markit Manufacturing PMI;Germany;EUR;3
+EUR_GerMarkitServicesPMI;20210521;07:30;Markit Services PMI;Germany;EUR;2
+SEK_CapacityUtilization;20210521;07:30;Capacity Utilization;Sweden;SEK;1
+EUR_FraMarkitPMIComposite;20210521;07:15;Markit PMI Composite;France;EUR;2
+EUR_FraMarkitServicesPMI;20210521;07:15;Markit Services PMI;France;EUR;2
+EUR_FraMarkitManufacturingPMI;20210521;07:15;Markit Manufacturing PMI;France;EUR;2
+TRY_ConsumerConfidence;20210521;07:00;Consumer Confidence;Turkey;TRY;1
+CHF_IndustrialProduction;20210521;06:30;Industrial Production (YoY);Switzerland;CHF;2
+GBP_RetailSales;20210521;06:00;Retail Sales ex-Fuel (MoM);United Kingdom;GBP;2
+DKK_ConsumerConfidence;20210521;06:00;Consumer Confidence;Denmark;DKK;1
+EUR_NetConsumerConfidenceAdj;20210521;04:30;Consumer Confidence Adj;Netherlands, The;EUR;1
+CLP_NavyDay;20210521;04:00;Navy Day ;Chile;CLP;0
+NZD_CreditCardSpending;20210521;03:00;Credit Card Spending (YoY);New Zealand;NZD;1
+AUD_RetailSales;20210521;01:30;Retail Sales s.a. (MoM);Australia;AUD;3
+JPY_JibunBankManufacturingPMI;20210521;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+EUR_EurEurogroupMeeting;20210521;00:00;Eurogroup Meeting;European Monetary Union;EUR;2

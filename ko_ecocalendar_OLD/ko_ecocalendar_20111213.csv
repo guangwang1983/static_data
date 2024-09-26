@@ -1,0 +1,31 @@
+AUD_WestpacConsumerConfidence;20111213;23:30;Westpac Consumer Confidence;Australia;AUD;2
+KRW_UnemploymentRate;20111213;23:00;Unemployment Rate;South Korea;KRW;1
+CLP_BCCHInterestRate;20111213;21:00;BCCH Interest Rate;Chile;CLP;0
+USD_FedInterestRateDecision;20111213;19:15;Fed Interest Rate Decision;United States;USD;3
+USD_BusinessInventories;20111213;15:00;Business Inventories;United States;USD;1
+USD_IBDTIPPEconomicOptimism;20111213;15:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+USD_RetailSales;20111213;13:30;Retail Sales ex Autos (MoM);United States;USD;2
+PLN_ConsumerPriceIndex;20111213;13:00;Consumer Price Index (MoM);Poland;PLN;1
+PLN_CurrentAccount;20111213;13:00;Current Account;Poland;PLN;1
+BRL_RetailSales;20111213;11:00;Retail Sales (MoM);Brazil;BRL;1
+EUR_GerZEWSurveyEconomicSentiment;20111213;10:00;ZEW Survey - Economic Sentiment;Germany;EUR;3
+EUR_EurZEWSurveyEconomicSentiment;20111213;10:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurveyCurrentSituation;20111213;10:00;ZEW Survey - Current Situation;Germany;EUR;2
+GBP_RetailPriceIndex;20111213;09:30;Retail Price Index (MoM);United Kingdom;GBP;1
+GBP_DCLGHousePriceIndex;20111213;09:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20111213;09:30;Core Consumer Price Index (YoY);United Kingdom;GBP;3
+RUB_BudgetFulfilment;20111213;09:03;Budget Fulfilment;Russia;RUB;1
+RUB_ForeignTrade;20111213;09:02;Foreign Trade;Russia;RUB;1
+CZK_CurrentAccount;20111213;09:00;Current Account (MoM);Czech Republic;CZK;1
+SEK_ConsumerPriceIndex;20111213;08:30;Consumer Price Index (MoM);Sweden;SEK;1
+EUR_SloCoreInflation;20111213;08:00;Core Inflation (YoY);Slovakia;EUR;1
+EUR_SloHeadlineInflation;20111213;08:00;Headline Inflation (MoM);Slovakia;EUR;1
+HUF_ConsumerPriceIndex;20111213;08:00;Consumer Price Index (YoY);Hungary;HUF;1
+CHF_SECOEconomicForecasts;20111213;06:45;SECO Economic Forecasts;Switzerland;CHF;2
+EUR_FraConsumerPriceIndex;20111213;06:30;Consumer Price Index (EU norm) (YoY);France;EUR;1
+EUR_FraInflationextobacco;20111213;06:30;Inflation ex-tobacco (MoM);France;EUR;1
+JPY_BoJMonthlyEconomicSurvey;20111213;05:00;BoJ Monthly Economic Survey;Japan;JPY;1
+AUD_DwellingUnitStarts;20111213;00:30;Dwelling Unit Starts (QoQ);Australia;AUD;2
+AUD_NationalAustraliaBankBusinessConfidence;20111213;00:30;National Australia Bank Business Confidence;Australia;AUD;2
+AUD_NationalAustraliaBankBusinessConditions;20111213;00:30;National Australia Bank Business Conditions;Australia;AUD;1
+GBP_RICSHousingPriceBalance;20111213;00:01;RICS Housing Price Balance;United Kingdom;GBP;2

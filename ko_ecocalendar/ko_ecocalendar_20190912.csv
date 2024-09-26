@@ -1,0 +1,32 @@
+AUD_ConsumerInflationExpectations;20190912;01:00;Consumer Inflation Expectations;Australia;AUD;2
+NZD_ANZMonthlyInflationGauge;20190912;01:00;ANZ Monthly Inflation Gauge (YoY);New Zealand;NZD;1
+CNY_FDIForeignDirectInvestment;20190912;02:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+JPY_TertiaryIndustryIndex;20190912;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+RON_IndustrialProduction;20190912;06:00;Industrial Production (MoM);Romania;RON;1
+EUR_GerConsumerPriceIndex;20190912;06:00;Consumer Price Index (YoY);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20190912;06:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+CHF_ProducerandImportPrices;20190912;06:30;Producer and Import Prices (YoY);Switzerland;CHF;1
+EUR_FraConsumerPriceIndex;20190912;06:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraInflationextobacco;20190912;06:45;Inflation ex-tobacco (MoM);France;EUR;1
+HUF_IndustrialOutput;20190912;07:00;Industrial Output (YoY);Hungary;HUF;1
+EUR_EurIndustrialProduction;20190912;09:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;1
+TRY_CBRTInterestRateDecision;20190912;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+EUR_EurECBRateOnDepositFacility;20190912;11:45;ECB Rate On Deposit Facility;European Monetary Union;EUR;3
+EUR_EurECBRateOnMainRefinancingOperations;20190912;11:45;ECB Rate On Main Refinancing Operations;European Monetary Union;EUR;3
+USD_OPECMeeting;20190912;12:00;OPEC Meeting;United States;USD;2
+INR_TradeDeficitGovernment;20190912;12:00;Trade Deficit Government;India;INR;1
+INR_IndustrialOutput;20190912;12:00;Industrial Output;India;INR;1
+INR_ManufacturingOutput;20190912;12:00;Manufacturing Output;India;INR;1
+INR_CumulativeIndustrialOutput;20190912;12:00;Cumulative Industrial Output;India;INR;1
+USD_JoblessClaims;20190912;12:30;Initial Jobless Claims 4-week average;United States;USD;2
+USD_ConsumerPriceIndex;20190912;12:30;Consumer Price Index (MoM);United States;USD;2
+EUR_EurECBPressConference;20190912;12:30;ECB Press Conference;European Monetary Union;EUR;3
+CAD_NewHousingPriceIndex;20190912;12:30;New Housing Price Index (YoY);Canada;CAD;1
+RUB_CentralBankReserves;20190912;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_EIANaturalGasStorageChange;20190912;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_USDAWASDEReport;20190912;16:00;USDA WASDE Report;United States;USD;1
+CNY_MidAutumnFestival;20190912;16:00;Mid-Autumn Festival;China;CNY;0
+USD_Auction;20190912;17:00;30-Year Bond Auction;United States;USD;1
+USD_MonthlyBudgetStatement;20190912;18:00;Monthly Budget Statement;United States;USD;2
+NZD_REINZHousePriceIndex;20190912;21:00;REINZ House Price Index (MoM);New Zealand;NZD;2
+NZD_BusinessNZPMI;20190912;22:30;Business NZ PMI;New Zealand;NZD;2

@@ -1,0 +1,28 @@
+CNY_PBoCInterestRateDecision;20240820;01:15;PBoC Interest Rate Decision;China;CNY;2
+AUD_RBAMeetingMinutes;20240820;01:30;RBA Meeting Minutes;Australia;AUD;3
+EUR_GerProducerPriceIndex;20240820;06:00;Producer Price Index (YoY);Germany;EUR;2
+DKK_GrossDomesticProduct;20240820;06:00;Gross Domestic Product (YoY);Denmark;DKK;1
+CHF_Imports;20240820;06:00;Imports (MoM);Switzerland;CHF;1
+CHF_Exports;20240820;06:00;Exports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20240820;06:00;Trade Balance;Switzerland;CHF;1
+SEK_CapacityUtilization;20240820;06:00;Capacity Utilization;Sweden;SEK;1
+SEK_RiksbankInterestRateDecision;20240820;07:30;Riksbank Interest Rate Decision;Sweden;SEK;2
+EUR_EurCurrentAccount;20240820;08:00;Current Account s.a;Eurozone;EUR;1
+EUR_EurNegotiatedWageRates;20240820;09:00;Negotiated Wage Rates (QoQ);Eurozone;EUR;1
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20240820;09:00;Core Harmonized Index of Consumer Prices (YoY);Eurozone;EUR;2
+EUR_EurHarmonizedIndexofConsumerPrices;20240820;09:00;Harmonized Index of Consumer Prices (MoM);Eurozone;EUR;2
+EUR_EurConstructionOutput;20240820;09:00;Construction Output w.d.a (YoY);Eurozone;EUR;1
+EUR_GerGermanBubaMonthlyReport;20240820;10:00;German Buba Monthly Report;Germany;EUR;2
+TRY_CBRTInterestRateDecision;20240820;11:00;CBRT Interest Rate Decision;Turkey;TRY;2
+MXN_RetailSales;20240820;12:00;Retail Sales (YoY);Mexico;MXN;1
+CAD_ConsumerPriceIndex;20240820;12:30;Consumer Price Index - Core (MoM);Canada;CAD;1
+USD_RedbookIndex;20240820;12:55;Redbook Index (YoY);United States;USD;1
+NZD_GDTPriceIndex;20240820;15:00;GDT Price Index;New Zealand;NZD;1
+USD_CentralBankSpeech;20240820;17:45;Fed Barr speech;United States;USD;2
+USD_APIWeeklyCrudeOilStock;20240820;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_BOKManufacturingBSI;20240820;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+KRW_ProducerPriceIndex;20240820;21:00;Producer Price Index Growth (YoY);South Korea;KRW;1
+JPY_Exports;20240820;23:50;Exports (YoY);Japan;JPY;2
+JPY_MerchandiseTradeBalanceTotal;20240820;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Imports;20240820;23:50;Imports (YoY);Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20240820;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1

@@ -1,0 +1,53 @@
+AUD_ConsumerInflationExpectations;20240815;01:00;Consumer Inflation Expectations;Australia;AUD;2
+CNY_HousePriceIndex;20240815;01:30;House Price Index ;China;CNY;1
+AUD_FullTimeEmployment;20240815;01:30;Full-Time Employment;Australia;AUD;2
+AUD_PartTimeEmployment;20240815;01:30;Part-Time Employment;Australia;AUD;2
+AUD_EmploymentChange;20240815;01:30;Employment Change s.a.;Australia;AUD;3
+AUD_UnemploymentRate;20240815;01:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_ParticipationRate;20240815;01:30;Participation Rate;Australia;AUD;2
+CNY_RetailSales;20240815;02:00;Retail Sales (YoY);China;CNY;3
+CNY_IndustrialProduction;20240815;02:00;Industrial Production (YoY);China;CNY;3
+CNY_FixedAssetInvestment;20240815;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+IDR_Imports;20240815;04:00;Imports;Indonesia;IDR;1
+IDR_Exports;20240815;04:00;Exports;Indonesia;IDR;1
+IDR_TradeBalance;20240815;04:00;Trade Balance;Indonesia;IDR;1
+CLP_AssumptionDay;20240815;04:00;Assumption Day;Chile;CLP;0
+JPY_IndustrialProduction;20240815;04:30;Industrial Production (YoY);Japan;JPY;1
+JPY_CapacityUtilization;20240815;04:30;Capacity Utilization;Japan;JPY;1
+GBP_GrossDomesticProduct;20240815;06:00;Gross Domestic Product (YoY);United Kingdom;GBP;3
+GBP_ManufacturingProduction;20240815;06:00;Manufacturing Production (YoY);United Kingdom;GBP;1
+GBP_IndustrialProduction;20240815;06:00;Industrial Production (MoM);United Kingdom;GBP;2
+GBP_TotalBusinessInvestment;20240815;06:00;Total Business Investment (QoQ);United Kingdom;GBP;1
+GBP_IndexofServices;20240815;06:00;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20240815;06:00;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20240815;06:00;Total Trade Balance;United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20240815;06:00;Goods Trade Balance;United Kingdom;GBP;1
+NOK_TradeBalance;20240815;06:00;Trade Balance;Norway;NOK;1
+CHF_ProducerandImportPrices;20240815;06:30;Producer and Import Prices (YoY);Switzerland;CHF;1
+TRY_BudgetBalance;20240815;08:00;Budget Balance;Turkey;TRY;1
+NOK_NorgesBankInterestRateDecision;20240815;08:00;Norges Bank Interest Rate Decision;Norway;NOK;2
+GBP_NIESRGDPEstimate;20240815;11:00;NIESR GDP Estimate (3M);United Kingdom;GBP;1
+USD_NYEmpireStateManufacturingIndex;20240815;12:30;NY Empire State Manufacturing Index;United States;USD;2
+USD_RetailSales;20240815;12:30;Retail Sales Control Group;United States;USD;3
+USD_JoblessClaims;20240815;12:30;Initial Jobless Claims;United States;USD;2
+USD_ImportPriceIndex;20240815;12:30;Import Price Index (MoM);United States;USD;1
+USD_ExportPriceIndex;20240815;12:30;Export Price Index (MoM);United States;USD;1
+USD_PhiladelphiaFedManufacturingSurvey;20240815;12:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+CAD_WholesaleSales;20240815;12:30;Wholesale Sales (MoM);Canada;CAD;1
+RUB_CentralBankReserves;20240815;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_IndustrialProduction;20240815;13:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20240815;13:15;Capacity Utilization;United States;USD;1
+USD_BusinessInventories;20240815;14:00;Business Inventories;United States;USD;1
+USD_NAHBHousingMarketIndex;20240815;14:00;NAHB Housing Market Index;United States;USD;1
+USD_EIANaturalGasStorageChange;20240815;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20240815;15:30;4-Week Bill Auction;United States;USD;1
+ILS_ConsumerPriceIndex;20240815;15:30;Consumer Price Index (YoY);Israel;ILS;1
+COP_GrossDomesticProduct;20240815;16:00;Gross Domestic Product (YoY);Colombia;COP;1
+USD_CentralBankSpeech;20240815;17:10;Fed Harker speech;United States;USD;2
+USD_NetLongTermTICFlows;20240815;20:00;Net Long-Term TIC Flows;United States;USD;1
+USD_TotalNetTICFlows;20240815;20:00;Total Net TIC Flows;United States;USD;1
+NZD_BusinessNZPMI;20240815;22:30;Business NZ PMI;New Zealand;NZD;2
+NZD_ProducerPriceIndex;20240815;22:45;Producer Price Index - Input (QoQ);New Zealand;NZD;1
+AUD_CentralBankSpeech;20240815;23:30;RBA Governor Bullock speech;Australia;AUD;3
+JPY_ForeignInvestmentinJapanStocks;20240815;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20240815;23:50;Foreign Bond Investment;Japan;JPY;1

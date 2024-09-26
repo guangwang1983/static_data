@@ -1,0 +1,47 @@
+AUD_HousePriceIndex;20220315;00:30;House Price Index (QoQ);Australia;AUD;2
+AUD_RBAMeetingMinutes;20220315;00:30;RBA Meeting Minutes;Australia;AUD;3
+CNY_RetailSales;20220315;02:00;Retail Sales (YoY);China;CNY;3
+CNY_IndustrialProduction;20220315;02:00;Industrial Production (YoY);China;CNY;2
+CNY_NBSPressConference;20220315;02:00;NBS Press Conference;China;CNY;2
+CNY_FixedAssetInvestment;20220315;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+KRW_TradeBalance;20220315;02:00;Trade Balance;South Korea;KRW;1
+IDR_Imports;20220315;04:00;Imports;Indonesia;IDR;1
+IDR_Exports;20220315;04:00;Exports;Indonesia;IDR;1
+IDR_TradeBalance;20220315;04:00;Trade Balance;Indonesia;IDR;1
+NOK_TradeBalance;20220315;07:00;Trade Balance;Norway;NOK;1
+GBP_ClaimantCountRate;20220315;07:00;Claimant Count Rate;United Kingdom;GBP;2
+GBP_AverageEarningsIncludingBonus;20220315;07:00;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountChange;20220315;07:00;Claimant Count Change;United Kingdom;GBP;3
+GBP_ILOUnemploymentRate;20220315;07:00;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_AverageEarningsExcludingBonus;20220315;07:00;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+EUR_EurEcoFinMeeting;20220315;07:00;EcoFin Meeting;European Monetary Union;EUR;2
+CHF_ProducerandImportPrices;20220315;07:30;Producer and Import Prices (MoM);Switzerland;CHF;1
+EUR_FraConsumerPriceIndex;20220315;07:45;Consumer Price Index (EU norm) (YoY);France;EUR;1
+EUR_FraInflationextobacco;20220315;07:45;Inflation ex-tobacco (MoM);France;EUR;1
+CZK_ProducerPriceIndex;20220315;08:00;Producer Price Index (YoY);Czech Republic;CZK;1
+TRY_BudgetBalance;20220315;08:00;Budget Balance;Turkey;TRY;1
+PLN_ConsumerPriceIndex;20220315;09:00;Consumer Price Index (MoM);Poland;PLN;1
+EUR_EurIndustrialProduction;20220315;10:00;Industrial Production s.a. (MoM);European Monetary Union;EUR;2
+EUR_GerZEWSurvey–EconomicSentiment;20220315;10:00;ZEW Survey – Economic Sentiment;Germany;EUR;2
+EUR_EurZEWSurvey–EconomicSentiment;20220315;10:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurvey–CurrentSituation;20220315;10:00;ZEW Survey – Current Situation;Germany;EUR;2
+CAD_HousingStarts;20220315;12:15;Housing Starts s.a (YoY);Canada;CAD;1
+USD_NYEmpireStateManufacturingIndex;20220315;12:30;NY Empire State Manufacturing Index;United States;USD;1
+USD_ProducerPriceIndex;20220315;12:30;Producer Price Index (YoY);United States;USD;1
+CAD_ManufacturingSales;20220315;12:30;Manufacturing Sales (MoM);Canada;CAD;1
+USD_RedbookIndex;20220315;12:55;Redbook Index (YoY);United States;USD;1
+NZD_GDTPriceIndex;20220315;14:45;GDT Price Index;New Zealand;NZD;1
+EUR_EurCentralBankSpeech;20220315;15:15;ECB President Lagarde speech;European Monetary Union;EUR;3
+ILS_ConsumerPriceIndex;20220315;16:30;Consumer Price Index (YoY);Israel;ILS;1
+COP_RetailSales;20220315;17:00;Retail Sales (YoY);Colombia;COP;1
+COP_Industrialoutput;20220315;17:00;Industrial output (YoY);Colombia;COP;1
+USD_TotalNetTICFlows;20220315;20:00;Total Net TIC Flows;United States;USD;1
+USD_NetLongTermTICFlows;20220315;20:00;Net Long-Term TIC Flows;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20220315;20:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_CurrentAccount;20220315;21:45;Current Account (QoQ);New Zealand;NZD;1
+KRW_UnemploymentRate;20220315;23:00;Unemployment Rate;South Korea;KRW;1
+AUD_WestpacLeadingIndex;20220315;23:30;Westpac Leading Index (MoM);Australia;AUD;1
+JPY_AdjustedMerchandiseTradeBalance;20220315;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_MerchandiseTradeBalanceTotal;20220315;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Imports;20220315;23:50;Imports (YoY);Japan;JPY;2
+JPY_Exports;20220315;23:50;Exports (YoY);Japan;JPY;2

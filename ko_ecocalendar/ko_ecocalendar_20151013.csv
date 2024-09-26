@@ -1,0 +1,33 @@
+AUD_NationalAustraliaBankBusinessConfidence;20151013;00:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20151013;00:30;National Australia Bank Business Conditions;Australia;AUD;1
+CNY_Imports;20151013;02:00;Imports (YoY);China;CNY;2
+CNY_TradeBalanceCNY;20151013;02:00;Trade Balance CNY;China;CNY;2
+CNY_Exports;20151013;02:00;Exports (YoY);China;CNY;2
+CNY_TradeBalanceUSD;20151013;02:00;Trade Balance USD;China;CNY;2
+JPY_ConsumerConfidenceIndex;20151013;05:00;Consumer Confidence Index;Japan;JPY;1
+EUR_GerConsumerPriceIndex;20151013;06:00;Consumer Price Index (MoM);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20151013;06:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;1
+JPY_MachineToolOrders;20151013;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+EUR_GerWholesalePriceIndex;20151013;06:00;Wholesale Price Index (MoM);Germany;EUR;2
+CHF_ProducerandImportPrices;20151013;07:15;Producer and Import Prices (MoM);Switzerland;CHF;2
+SEK_ConsumerPriceIndex;20151013;07:30;Consumer Price Index (MoM);Sweden;SEK;1
+GBP_RetailPriceIndex;20151013;08:30;Retail Price Index (MoM);United Kingdom;GBP;1
+GBP_DCLGHousePriceIndex;20151013;08:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ProducerPriceIndex;20151013;08:30;Producer Price Index - Output (YoY) n.s.a;United Kingdom;GBP;2
+GBP_PPICoreOutput;20151013;08:30;PPI Core Output (MoM) n.s.a;United Kingdom;GBP;2
+GBP_BoECreditConditionsSurvey;20151013;08:30;BoE Credit Conditions Survey;United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20151013;08:30;Core Consumer Price Index (YoY);United Kingdom;GBP;2
+EUR_EurZEWSurvey–EconomicSentiment;20151013;09:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurvey–CurrentSituation;20151013;09:00;ZEW Survey – Current Situation;Germany;EUR;2
+EUR_GerZEWSurvey–EconomicSentiment;20151013;09:00;ZEW Survey – Economic Sentiment;Germany;EUR;3
+USD_NFIBBusinessOptimismIndex;20151013;10:00;NFIB Business Optimism Index;United States;USD;1
+USD_CentralBankSpeech;20151013;12:00;Fed Bullard speech;United States;USD;1
+USD_RedbookIndex;20151013;12:55;Redbook Index (YoY);United States;USD;1
+USD_Auction;20151013;15:30;3-Month Bill Auction;United States;USD;1
+NZD_CentralBankSpeech;20151013;20:10;RBNZ Governor Wheeler Speech;New Zealand;NZD;2
+COP_Industrialoutput;20151013;22:00;Industrial output (YoY);Colombia;COP;1
+KRW_UnemploymentRate;20151013;23:00;Unemployment Rate;South Korea;KRW;1
+AUD_WestpacConsumerConfidenceIndex;20151013;23:30;Westpac Consumer Confidence Index;Australia;AUD;1
+AUD_WestpacConsumerConfidence;20151013;23:30;Westpac Consumer Confidence;Australia;AUD;2
+JPY_ProducerPriceIndex;20151013;23:50;Producer Price Index (YoY);Japan;JPY;1
+JPY_MoneySupplyM2+CD;20151013;23:50;Money Supply M2+CD (YoY);Japan;JPY;1

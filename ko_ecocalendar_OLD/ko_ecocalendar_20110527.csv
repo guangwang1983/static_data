@@ -1,0 +1,23 @@
+USD_PendingHomeSales;20110527;14:00;Pending Home Sales (MoM);United States;USD;2
+MXN_CentralBankInterestRate;20110527;14:00;Central Bank Interest Rate;Mexico;MXN;1
+USD_MichiganConsumerSentimentIndex;20110527;13:55;Michigan Consumer Sentiment Index;United States;USD;1
+USD_PersonalConsumptionExpendituresPriceIndex;20110527;12:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;2
+USD_CorePersonalConsumptionExpenditurePriceIndex;20110527;12:30;Core Personal Consumption Expenditure - Price Index (MoM);United States;USD;2
+USD_PersonalIncome;20110527;12:30;Personal Income (MoM);United States;USD;2
+EUR_GerConsumerPriceIndex;20110527;12:00;Consumer Price Index (MoM);Germany;EUR;1
+INR_FXReservesUSD;20110527;11:30;FX Reserves, USD;India;INR;1
+CHF_KOFLeadingIndicator;20110527;09:30;KOF Leading Indicator;Switzerland;CHF;1
+EUR_PorBusinessConfidence;20110527;09:00;Business Confidence;Portugal;EUR;1
+EUR_PorConsumerConfidence;20110527;09:00;Consumer Confidence;Portugal;EUR;1
+EUR_EurConsumerConfidence;20110527;09:00;Consumer Confidence;European Monetary Union;EUR;1
+EUR_EurIndustrialConfidence;20110527;09:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_EurEconomicSentimentIndicator;20110527;09:00;Economic Sentiment Indicator;European Monetary Union;EUR;2
+EUR_ItaWageInflation;20110527;08:00;Wage Inflation (YoY);Italy;EUR;1
+EUR_EurM3MoneySupply;20110527;08:00;M3 Money Supply (YoY);European Monetary Union;EUR;1
+DKK_UnemploymentRate;20110527;07:30;Unemployment Rate;Denmark;DKK;1
+SEK_GrossDomesticProduct;20110527;07:30;Gross Domestic Product (QoQ);Sweden;SEK;1
+EUR_SpaRetailSales;20110527;07:00;Retail Sales (YoY);Spain;EUR;1
+EUR_FinConsumerConfidence;20110527;06:00;Consumer Confidence;Finland;EUR;1
+EUR_FinIndustrialConfidence;20110527;06:00;Industrial Confidence;Finland;EUR;1
+GBP_NationwideHousingPrices;20110527;06:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;1
+EUR_EurG8Meeting;20110527;00:00;G8 Meeting;European Monetary Union;EUR;2

@@ -1,0 +1,27 @@
+ZAR_M3MoneySupply;20231229;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+ZAR_PrivateSectorCredit;20231229;06:00;Private Sector Credit;South Africa;ZAR;1
+TRY_TradeBalance;20231229;07:00;Trade Balance;Turkey;TRY;1
+GBP_NationwideHousingPrices;20231229;07:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;1
+CHF_KOFLeadingIndicator;20231229;08:00;KOF Leading Indicator;Switzerland;CHF;1
+INR_FederalFiscalDeficitINR;20231229;10:00;Federal Fiscal Deficit, INR;India;INR;1
+INR_TradeDeficit–RBI;20231229;11:30;Trade Deficit – RBI;India;INR;1
+INR_M3MoneySupply;20231229;11:30;M3 Money Supply;India;INR;1
+INR_BalancePayment;20231229;11:30;Balance Payment $;India;INR;1
+INR_BankLoanGrowth;20231229;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20231229;11:30;FX Reserves, USD;India;INR;1
+BRL_UnemploymentRate;20231229;12:00;Unemployment Rate;Brazil;BRL;1
+CLP_Unemploymentrate;20231229;12:00;Unemployment rate;Chile;CLP;1
+CLP_IndustrialProduction;20231229;12:00;Industrial Production (YoY);Chile;CLP;1
+ZAR_TradeBalance;20231229;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+INR_InfrastructureOutput;20231229;12:00;Infrastructure Output (YoY);India;INR;1
+USD_ChicagoPurchasingManagers'Index;20231229;14:45;Chicago Purchasing Managers' Index;United States;USD;2
+COP_NationalJoblessRate;20231229;15:00;National Jobless Rate;Colombia;COP;1
+USD_BakerHughesUSOilRigCount;20231229;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20231229;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20231229;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20231229;20:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20231229;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20231229;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20231229;20:30;CFTC EUR NC Net Positions;Eurozone;EUR;1
+AUD_CFTCAUDNCNetPositions;20231229;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+MXN_FiscalBalancepesos;20231229;21:00;Fiscal Balance, pesos;Mexico;MXN;1

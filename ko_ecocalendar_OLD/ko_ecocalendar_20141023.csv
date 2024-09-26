@@ -1,0 +1,44 @@
+KRW_GrossDomesticProduct;20141023;23:00;Gross Domestic Product Growth (YoY);South Korea;KRW;1
+NZD_TradeBalance;20141023;21:45;Trade Balance (YoY);New Zealand;NZD;2
+NZD_Imports;20141023;21:45;Imports;New Zealand;NZD;1
+NZD_Exports;20141023;21:45;Exports;New Zealand;NZD;1
+ARS_MonthlyEconActivity;20141023;19:00;Monthly Econ Activity (MoM);Argentina;ARS;1
+USD_KansasFedManufacturingActivity;20141023;15:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_EIANaturalGasStorageChange;20141023;14:30;EIA Natural Gas Storage Change;United States;USD;1
+EUR_EurConsumerConfidence;20141023;14:00;Consumer Confidence;European Monetary Union;EUR;1
+USD_MarkitManufacturingPMI;20141023;13:45;Markit Manufacturing PMI;United States;USD;2
+USD_HousingPriceIndex;20141023;13:00;Housing Price Index (MoM);United States;USD;2
+MXN_1sthalfmonthCoreInflation;20141023;13:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20141023;13:00;1st half-month Inflation;Mexico;MXN;1
+USD_ChicagoFedNationalActivityIndex;20141023;12:30;Chicago Fed National Activity Index ;United States;USD;1
+USD_JoblessClaims;20141023;12:30;Continuing Jobless Claims;United States;USD;2
+BRL_UnemploymentRate;20141023;12:00;Unemployment Rate;Brazil;BRL;1
+RUB_CentralBankReserves;20141023;11:00;Central Bank Reserves $;Russia;RUB;1
+TRY_CBRTInterestRateDecision;20141023;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+GBP_CBIIndustrialTrendsSurveyOrders;20141023;10:00;CBI Industrial Trends Survey - Orders (MoM);United Kingdom;GBP;1
+GBP_RetailSales;20141023;08:30;Retail Sales (YoY);United Kingdom;GBP;2
+GBP_BBAMortgageApprovals;20141023;08:30;BBA Mortgage Approvals;United Kingdom;GBP;1
+EUR_ItaTradeBalancenonEU;20141023;08:00;Trade Balance non-EU;Italy;EUR;1
+PLN_Unemployment;20141023;08:00;Unemployment (MoM);Poland;PLN;1
+PLN_RetailSales;20141023;08:00;Retail Sales (YoY);Poland;PLN;1
+TRY_ForeignArrivals;20141023;08:00;Foreign Arrivals;Turkey;TRY;1
+EUR_EurMarkitPMIComposite;20141023;08:00;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20141023;08:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_EurMarkitManufacturingPMI;20141023;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+NOK_NorgesBankInterestRateDecision;20141023;08:00;Norges Bank Interest Rate Decision;Norway;NOK;1
+SEK_UnemploymentRate;20141023;07:30;Unemployment Rate;Sweden;SEK;1
+EUR_GerMarkitServicesPMI;20141023;07:30;Markit Services PMI;Germany;EUR;2
+EUR_GerMarkitManufacturingPMI;20141023;07:30;Markit Manufacturing PMI;Germany;EUR;2
+GBP_CentralBankSpeech;20141023;07:10;BoE Broadbent speech;United Kingdom;GBP;1
+DKK_ConsumerConfidence;20141023;07:00;Consumer Confidence;Denmark;DKK;1
+EUR_FraMarkitManufacturingPMI;20141023;07:00;Markit Manufacturing PMI;France;EUR;1
+EUR_FraMarkitServicesPMI;20141023;07:00;Markit Services PMI;France;EUR;1
+EUR_SpaUnemploymentSurvey;20141023;07:00;Unemployment Survey;Spain;EUR;1
+EUR_FraBusinessClimate;20141023;06:45;Business Climate;France;EUR;1
+SGD_ConsumerPriceIndex;20141023;05:00;Consumer Price Index (YoY);Singapore;SGD;1
+CNY_CaixinManufacturingPMI;20141023;01:45;Caixin Manufacturing PMI;China;CNY;2
+JPY_NikkeiManufacturingPMI;20141023;01:35;Nikkei Manufacturing PMI;Japan;JPY;2
+AUD_NationalAustraliaBankBusinessConfidence;20141023;00:30;National Australia Bank Business Confidence (QoQ);Australia;AUD;2
+SGD_Deepavali;20141023;00:00;Deepavali;Singapore;SGD;0
+HUF_RepublicDay;20141023;00:00;Republic Day ;Hungary;HUF;0
+INR_Deewali;20141023;00:00;Deewali;India;INR;0

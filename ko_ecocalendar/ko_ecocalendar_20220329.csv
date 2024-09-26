@@ -1,0 +1,26 @@
+AUD_RetailSales;20220329;00:30;Retail Sales s.a. (MoM);Australia;AUD;3
+EUR_GerImportPriceIndex;20220329;06:00;Import Price Index (YoY);Germany;EUR;1
+EUR_GerGfkConsumerConfidenceSurvey;20220329;06:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+EUR_FraConsumerConfidence;20220329;06:45;Consumer Confidence;France;EUR;1
+GBP_NetLendingtoIndividuals;20220329;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+AUD_BudgetRelease;20220329;08:30;Budget Release;Australia;AUD;3
+GBP_ConsumerCredit;20220329;08:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20220329;08:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_M4MoneySupply;20220329;08:30;M4 Money Supply (MoM);United Kingdom;GBP;1
+ZAR_UnemploymentRate;20220329;09:30;Unemployment Rate (%);South Africa;ZAR;1
+ZAR_UnemploymentTotal;20220329;09:30;Unemployment Total ;South Africa;ZAR;1
+GBP_BoEQuarterlyBulletin;20220329;11:00;BoE Quarterly Bulletin;United Kingdom;GBP;1
+USD_RedbookIndex;20220329;12:55;Redbook Index (YoY);United States;USD;1
+USD_CentralBankSpeech;20220329;13:00;Fed Williams speech;United States;USD;2
+USD_S&PCaseShillerHomePriceIndices;20220329;13:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;2
+USD_HousingPriceIndex;20220329;13:00;Housing Price Index (MoM);United States;USD;2
+USD_JOLTSJobOpenings;20220329;14:00;JOLTS Job Openings;United States;USD;1
+USD_ConsumerConfidence;20220329;14:00;Consumer Confidence;United States;USD;2
+CHF_CentralBankSpeech;20220329;16:30;SNB Zurbrugg speech;Switzerland;CHF;2
+USD_Auction;20220329;17:00;7-Year Note Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20220329;20:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_BuildingPermits;20220329;21:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+CLP_BCCHInterestRate;20220329;22:00;BCCH Interest Rate;Chile;CLP;1
+GBP_BRCShopPriceIndex;20220329;23:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1
+JPY_RetailTrade;20220329;23:50;Retail Trade (YoY);Japan;JPY;2
+JPY_LargeRetailerSales;20220329;23:50;Large Retailer Sales;Japan;JPY;2

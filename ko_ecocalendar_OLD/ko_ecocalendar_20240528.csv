@@ -1,0 +1,18 @@
+AUD_RetailSales;20240528;01:30;Retail Sales s.a. (MoM);Australia;AUD;3
+EUR_EurCentralBankSpeech;20240528;04:55;ECB Schnabel speech;Eurozone;EUR;2
+CHF_CentralBankSpeech;20240528;04:55;SNB Chairman Jordan speech;Switzerland;CHF;3
+EUR_GerWholesalePriceIndex;20240528;06:00;Wholesale Price Index (YoY);Germany;EUR;1
+DKK_RetailSales;20240528;06:00;Retail Sales (YoY);Denmark;DKK;1
+NOK_RetailSales;20240528;06:00;Retail Sales ;Norway;NOK;1
+SEK_TradeBalance;20240528;06:00;Trade Balance (MoM);Sweden;SEK;1
+EUR_EurEurogroupMeeting;20240528;07:00;Eurogroup Meeting;Eurozone;EUR;2
+BRL_MidmonthInflation;20240528;12:00;Mid-month Inflation;Brazil;BRL;1
+CAD_RawMaterialPriceIndex;20240528;12:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20240528;12:30;Industrial Product Price (MoM);Canada;CAD;1
+USD_RedbookIndex;20240528;12:55;Redbook Index (YoY);United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20240528;13:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;1
+USD_HousingPriceIndex;20240528;13:00;Housing Price Index (MoM);United States;USD;2
+USD_ConsumerConfidence;20240528;14:00;Consumer Confidence;United States;USD;2
+USD_DallasFedManufacturingBusinessIndex;20240528;14:30;Dallas Fed Manufacturing Business Index;United States;USD;1
+USD_Auction;20240528;17:00;5-Year Note Auction;United States;USD;1
+USD_CentralBankSpeech;20240528;17:05;Fed Cook speech;United States;USD;2

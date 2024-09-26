@@ -1,0 +1,31 @@
+EUR_AusEpiphany;20210105;23:00;Epiphany;Austria;EUR;0
+PLN_Epiphany;20210105;23:00;Epiphany;Poland;PLN;0
+EUR_SloEpiphany;20210105;23:00;Epiphany;Slovakia;EUR;0
+EUR_ItaEpiphany;20210105;22:00;Epiphany;Italy;EUR;0
+EUR_FinEpiphany;20210105;22:00;Epiphany;Finland;EUR;0
+EUR_SpaEpiphany;20210105;22:00;Epiphany;Spain;EUR;0
+SEK_Epiphany;20210105;22:00;Epiphany;Sweden;SEK;0
+AUD_CommonwealthBankServicesPMI;20210105;22:00;Commonwealth Bank Services PMI;Australia;AUD;2
+AUD_CommonwealthBankCompositePMI;20210105;22:00;Commonwealth Bank Composite PMI;Australia;AUD;1
+EUR_GreEpiphany;20210105;21:00;Epiphany;Greece;EUR;0
+KRW_FXReserves;20210105;21:00;FX Reserves;South Korea;KRW;1
+USD_CentralBankSpeech;20210105;20:45;Fed Williams speech;United States;USD;2
+USD_TotalVehicleSales;20210105;20:30;Total Vehicle Sales;United States;USD;1
+DKK_CurrencyReserves;20210105;16:00;Currency Reserves;Denmark;DKK;1
+TRY_TreasuryCashBalance;20210105;15:30;Treasury Cash Balance;Turkey;TRY;1
+USD_ISMManufacturingEmploymentIndex;20210105;15:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ISMManufacturingNewOrdersIndex;20210105;15:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ISMManufacturingPMI;20210105;15:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20210105;15:00;ISM Manufacturing Prices Paid;United States;USD;2
+NZD_GDTPriceIndex;20210105;15:00;GDT Price Index;New Zealand;NZD;1
+CAD_IndustrialProductPrice;20210105;13:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_RawMaterialPriceIndex;20210105;13:30;Raw Material Price Index;Canada;CAD;1
+EUR_EurPrivateLoans;20210105;09:00;Private Loans (YoY);European Monetary Union;EUR;1
+EUR_EurM3MoneySupply;20210105;09:00;M3 Money Supply (3m);European Monetary Union;EUR;1
+EUR_GerUnemploymentChange;20210105;08:55;Unemployment Change;Germany;EUR;2
+EUR_GerUnemploymentRate;20210105;08:55;Unemployment Rate s.a.;Germany;EUR;2
+HUF_UnemploymentRate;20210105;08:00;Unemployment Rate (3M);Hungary;HUF;1
+CHF_ConsumerPriceIndex;20210105;07:30;Consumer Price Index (YoY);Switzerland;CHF;2
+EUR_GerRetailSales;20210105;07:00;Retail Sales (YoY);Germany;EUR;3
+SGD_RetailSales;20210105;05:00;Retail Sales (MoM);Singapore;SGD;1
+IDR_RetailSales;20210105;04:00;Retail Sales (YoY);Indonesia;IDR;1

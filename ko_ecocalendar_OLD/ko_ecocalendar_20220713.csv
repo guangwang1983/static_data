@@ -1,0 +1,39 @@
+AUD_WestpacConsumerConfidence;20220713;00:30;Westpac Consumer Confidence;Australia;AUD;2
+AUD_HIANewHomeSales;20220713;01:00;HIA New Home Sales (MoM);Australia;AUD;2
+CNY_Imports;20220713;02:00;Imports (YoY);China;CNY;2
+CNY_TradeBalanceCNY;20220713;02:00;Trade Balance CNY;China;CNY;1
+CNY_Exports;20220713;02:00;Exports (YoY);China;CNY;2
+CNY_TradeBalanceUSD;20220713;02:00;Trade Balance USD;China;CNY;2
+NZD_RBNZRateStatement;20220713;02:00;RBNZ Rate Statement;New Zealand;NZD;3
+NZD_RBNZInterestRateDecision;20220713;02:00;RBNZ Interest Rate Decision;New Zealand;NZD;3
+GBP_IndustrialProduction;20220713;06:00;Industrial Production (MoM);United Kingdom;GBP;2
+GBP_ManufacturingProduction;20220713;06:00;Manufacturing Production (MoM);United Kingdom;GBP;2
+GBP_IndexofServices;20220713;06:00;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20220713;06:00;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20220713;06:00;Goods Trade Balance;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20220713;06:00;Total Trade Balance;United Kingdom;GBP;1
+GBP_GrossDomesticProduct;20220713;06:00;Gross Domestic Product (MoM);United Kingdom;GBP;2
+RON_IndustrialProduction;20220713;06:00;Industrial Production (MoM);Romania;RON;1
+CNY_FDIForeignDirectInvestment;20220713;07:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+TRY_UnemploymentRate;20220713;07:00;Unemployment Rate;Turkey;TRY;1
+HUF_IndustrialOutput;20220713;07:00;Industrial Output (YoY);Hungary;HUF;1
+CZK_ConsumerPriceIndex;20220713;07:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+EUR_EurIndustrialProduction;20220713;09:00;Industrial Production s.a. (MoM);European Monetary Union;EUR;2
+ILS_TradeBalance;20220713;10:00;Trade Balance;Israel;ILS;1
+ILS_Imports;20220713;10:00;Imports;Israel;ILS;1
+ILS_Exports;20220713;10:00;Exports;Israel;ILS;1
+USD_MBAMortgageApplications;20220713;11:00;MBA Mortgage Applications;United States;USD;1
+ZAR_RetailSales;20220713;11:00;Retail Sales (YoY);South Africa;ZAR;1
+GBP_NIESRGDPEstimate;20220713;11:00;NIESR GDP Estimate (3M);United Kingdom;GBP;2
+USD_ConsumerPriceIndex;20220713;12:30;Consumer Price Index (YoY);United States;USD;2
+CAD_BankofCanadaMonetaryPolicyReport;20220713;14:00;Bank of Canada Monetary Policy Report;Canada;CAD;3
+CAD_BoCInterestRateDecision;20220713;14:00;BoC Interest Rate Decision;Canada;CAD;3
+CAD_BoCRateStatement;20220713;14:00;BoC Rate Statement;Canada;CAD;3
+USD_EIACrudeOilStocksChange;20220713;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+CAD_BoCPressConference;20220713;15:00;BoC Press Conference;Canada;CAD;3
+USD_Auction;20220713;17:00;30-Year Bond Auction;United States;USD;1
+USD_MonthlyBudgetStatement;20220713;18:00;Monthly Budget Statement;United States;USD;2
+USD_FedBeigeBook;20220713;18:00;Fed Beige Book;United States;USD;2
+GBP_RICSHousingPriceBalance;20220713;23:01;RICS Housing Price Balance;United Kingdom;GBP;1
+JPY_ForeignBondInvestment;20220713;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20220713;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1

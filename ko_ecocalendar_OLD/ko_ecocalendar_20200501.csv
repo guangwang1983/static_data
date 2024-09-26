@@ -1,0 +1,45 @@
+ARS_TaxRevenue;20200501;20:00;Tax Revenue (MoM);Argentina;ARS;1
+AUD_CFTCAUDNCNetPositions;20200501;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20200501;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+USD_CFTCOilNCNetPositions;20200501;19:30;CFTC Oil NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20200501;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCGoldNCNetPositions;20200501;19:30;CFTC Gold NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20200501;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCUSDNCNetPositions;20200501;19:30;CFTC USD NC Net Positions;United States;USD;1
+USD_TotalVehicleSales;20200501;19:30;Total Vehicle Sales;United States;USD;1
+USD_BakerHughesUSOilRigCount;20200501;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_ISMManufacturingEmploymentIndex;20200501;14:00;ISM Manufacturing Employment Index;United States;USD;3
+USD_ISMManufacturingNewOrdersIndex;20200501;14:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ISMManufacturingPricesPaid;20200501;14:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ISMManufacturingPMI;20200501;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ConstructionSpending;20200501;14:00;Construction Spending (MoM);United States;USD;1
+USD_MarkitManufacturingPMI;20200501;13:45;Markit Manufacturing PMI;United States;USD;2
+CAD_MarkitManufacturingPMI;20200501;13:30;Markit Manufacturing PMI;Canada;CAD;2
+ZAR_TotalNewVehicleSales;20200501;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+INR_BankLoanGrowth;20200501;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20200501;11:30;FX Reserves, USD;India;INR;1
+ILS_FXReserves;20200501;11:00;FX Reserves;Israel;ILS;1
+ZAR_BusinessConfidenceIndex;20200501;09:30;Business Confidence Index;South Africa;ZAR;1
+TRY_Exports;20200501;09:00;Exports;Turkey;TRY;1
+DKK_ManufacturingPMI;20200501;09:00;Manufacturing PMI;Denmark;DKK;1
+GBP_NetLendingtoIndividuals;20200501;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_MarkitManufacturingPMI;20200501;08:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+GBP_ConsumerCredit;20200501;08:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20200501;08:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_M4MoneySupply;20200501;08:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+EUR_AusUnemploymentRate;20200501;08:00;Unemployment Rate;Austria;EUR;1
+EUR_AusUnemployment;20200501;08:00;Unemployment;Austria;EUR;1
+EUR_NetMarkitManufacturingPMI;20200501;07:00;Markit Manufacturing PMI;Netherlands, The;EUR;1
+AUD_RBACommodityIndexSDR;20200501;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+GBP_NationwideHousingPrices;20200501;06:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;1
+MXN_LabourDay;20200501;06:00;Labour Day ;Mexico;MXN;0
+COP_LabourDay;20200501;05:00;Labour Day;Colombia;COP;0
+CLP_LabourDay;20200501;04:00;Labour Day;Chile;CLP;0
+ARS_LabourDay;20200501;03:00;Labour Day;Argentina;ARS;0
+BRL_LabourDay;20200501;03:00;Labour Day;Brazil;BRL;0
+AUD_ProducerPriceIndex;20200501;01:30;Producer Price Index (YoY);Australia;AUD;1
+AUD_HIANewHomeSales;20200501;01:00;HIA New Home Sales (MoM);Australia;AUD;2
+JPY_JibunBankManufacturingPMI;20200501;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+EUR_IrePurchasingManagerIndexManufacturing;20200501;00:01;Purchasing Manager Index Manufacturing;Ireland;EUR;1
+KRW_TradeBalance;20200501;00:00;Trade Balance;South Korea;KRW;1
+ISK_MayDay;20200501;00:00;May Day ;Iceland;ISK;0

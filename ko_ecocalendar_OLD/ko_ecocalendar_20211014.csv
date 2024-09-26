@@ -1,0 +1,37 @@
+NZD_BusinessNZPMI;20211014;22:30;Business NZ PMI;New Zealand;NZD;2
+ARS_ConsumerPriceIndex;20211014;19:00;Consumer Price Index (MoM);Argentina;ARS;1
+INR_Dussehra;20211014;18:30;Dussehra;India;INR;0
+USD_Auction;20211014;15:30;4-Week Bill Auction;United States;USD;1
+USD_EIACrudeOilStocksChange;20211014;15:00;EIA Crude Oil Stocks Change;United States;USD;1
+USD_EIANaturalGasStorageChange;20211014;14:30;EIA Natural Gas Storage Change;United States;USD;1
+RUB_CentralBankReserves;20211014;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_ProducerPriceIndex;20211014;12:30;Producer Price Index ex Food & Energy (MoM);United States;USD;1
+USD_JoblessClaims;20211014;12:30;Initial Jobless Claims;United States;USD;2
+CAD_ManufacturingSales;20211014;12:30;Manufacturing Sales (MoM);Canada;CAD;1
+PLN_CurrentAccount;20211014;12:00;Current Account;Poland;PLN;1
+ILS_M1MoneySupply;20211014;10:00;M1 Money Supply (MoM);Israel;ILS;1
+EUR_IreConsumerPriceIndex;20211014;10:00;Consumer Price Index (MoM);Ireland;EUR;1
+EUR_IreHICP;20211014;10:00;HICP (MoM);Ireland;EUR;1
+GBP_BoECreditConditionsSurvey;20211014;08:30;BoE Credit Conditions Survey;United Kingdom;GBP;1
+CZK_CurrentAccount;20211014;08:00;Current Account (MoM);Czech Republic;CZK;1
+SEK_ConsumerPriceIndex;20211014;07:30;Consumer Price Index (MoM);Sweden;SEK;1
+EUR_SloHeadlineInflation;20211014;07:00;Headline Inflation (YoY);Slovakia;EUR;1
+EUR_SloCoreInflation;20211014;07:00;Core Inflation (YoY);Slovakia;EUR;1
+EUR_SpaHICP;20211014;07:00;HICP (MoM);Spain;EUR;1
+EUR_SpaConsumerPriceIndex;20211014;07:00;Consumer Price Index (MoM);Spain;EUR;1
+CHF_ProducerandImportPrices;20211014;06:30;Producer and Import Prices (MoM);Switzerland;CHF;1
+INR_WPIInflation;20211014;06:30;WPI Inflation;India;INR;1
+RON_IndustrialProduction;20211014;06:00;Industrial Production (MoM);Romania;RON;1
+EUR_FinConsumerPriceIndex;20211014;05:00;Consumer Price Index (YoY);Finland;EUR;1
+JPY_IndustrialProduction;20211014;04:30;Industrial Production (MoM);Japan;JPY;1
+JPY_CapacityUtilization;20211014;04:30;Capacity Utilization;Japan;JPY;1
+CNY_ProducerPriceIndex;20211014;01:30;Producer Price Index (YoY);China;CNY;2
+CNY_ConsumerPriceIndex;20211014;01:30;Consumer Price Index (MoM);China;CNY;2
+AUD_UnemploymentRate;20211014;00:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_ParticipationRate;20211014;00:30;Participation Rate;Australia;AUD;1
+AUD_EmploymentChange;20211014;00:30;Employment Change s.a.;Australia;AUD;3
+AUD_FulltimeEmployment;20211014;00:30;Fulltime Employment;Australia;AUD;2
+AUD_PartTimeEmployment;20211014;00:30;Part-Time Employment;Australia;AUD;1
+AUD_ConsumerInflationExpectations;20211014;00:00;Consumer Inflation Expectations;Australia;AUD;2
+USD_CentralBankSpeech;20211014;00:00;Fed Bowman speech;United States;USD;2
+SGD_GrossDomesticProduct;20211014;00:00;Gross Domestic Product (QoQ);Singapore;SGD;1

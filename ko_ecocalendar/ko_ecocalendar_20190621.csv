@@ -1,0 +1,37 @@
+SEK_Midsummer´sEve;20190621;00:00;Midsummer´s Eve;Sweden;SEK;0
+JPY_JibunBankManufacturingPMI;20190621;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+HUF_CurrentAccount;20190621;06:30;Current Account Balance (QoQ);Hungary;HUF;1
+EUR_FraHCOBManufacturingPMI;20190621;07:15;HCOB Manufacturing PMI;France;EUR;1
+EUR_FraHCOBServicesPMI;20190621;07:15;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20190621;07:15;HCOB Composite PMI;France;EUR;2
+EUR_GerHCOBCompositePMI;20190621;07:30;HCOB Composite PMI;Germany;EUR;3
+EUR_GerHCOBManufacturingPMI;20190621;07:30;HCOB Manufacturing PMI;Germany;EUR;3
+EUR_GerHCOBServicesPMI;20190621;07:30;HCOB Services PMI;Germany;EUR;2
+PLN_IndustrialOutput;20190621;08:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20190621;08:00;Producer Price Index (YoY);Poland;PLN;1
+CZK_ForeignDebt;20190621;08:00;Foreign Debt;Czech Republic;CZK;1
+EUR_EurHCOBServicesPMI;20190621;08:00;HCOB Services PMI;European Monetary Union;EUR;2
+EUR_EurHCOBManufacturingPMI;20190621;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurHCOBCompositePMI;20190621;08:00;HCOB Composite PMI;European Monetary Union;EUR;3
+GBP_PublicSectorNetBorrowing;20190621;08:30;Public Sector Net Borrowing;United Kingdom;GBP;2
+INR_BankLoanGrowth;20190621;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20190621;11:30;FX Reserves, USD;India;INR;1
+GBP_BoEQuarterlyBulletin;20190621;12:00;BoE Quarterly Bulletin;United Kingdom;GBP;1
+CAD_RetailSales;20190621;12:30;Retail Sales (MoM);Canada;CAD;3
+GBP_CentralBankSpeech;20190621;12:30;BoE Tenreyro speech;United Kingdom;GBP;2
+MXN_PrivateSpending;20190621;13:00;Private Spending (YoY);Mexico;MXN;1
+USD_S&PGlobalManufacturingPMI;20190621;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20190621;13:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20190621;13:45;S&P Global Services PMI;United States;USD;2
+USD_ExistingHomeSales;20190621;14:00;Existing Home Sales (MoM);United States;USD;2
+USD_ExistingHomeSalesChange;20190621;14:00;Existing Home Sales Change (MoM);United States;USD;1
+USD_BakerHughesUSOilRigCount;20190621;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CentralBankSpeech;20190621;19:00;Fed Daly speech;United States;USD;2
+USD_CFTCS&P500NCNetPositions;20190621;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20190621;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20190621;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20190621;19:30;CFTC Gold NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20190621;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20190621;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20190621;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+COP_Interestrate;20190621;20:00;Interest rate;Colombia;COP;1

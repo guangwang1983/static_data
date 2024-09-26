@@ -1,0 +1,38 @@
+JPY_JibunBankServicesPMI;20231024;00:30;Jibun Bank Services PMI;Japan;JPY;1
+JPY_JibunBankManufacturingPMI;20231024;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+EUR_GerGfkConsumerConfidenceSurvey;20231024;06:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+DKK_IndustrialOutlook;20231024;06:00;Industrial Outlook;Denmark;DKK;1
+GBP_EmploymentChange;20231024;06:00;Employment Change;United Kingdom;GBP;3
+GBP_ILOUnemploymentRate;20231024;06:00;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_ClaimantCountChange;20231024;06:00;Claimant Count Change;United Kingdom;GBP;3
+GBP_ClaimantCountRate;20231024;06:00;Claimant Count Rate;United Kingdom;GBP;2
+HUF_GrossWages;20231024;06:30;Gross Wages (YoY);Hungary;HUF;1
+EUR_FraHCOBManufacturingPMI;20231024;07:15;HCOB Manufacturing PMI;France;EUR;2
+EUR_FraHCOBCompositePMI;20231024;07:15;HCOB Composite PMI;France;EUR;2
+EUR_FraHCOBServicesPMI;20231024;07:15;HCOB Services PMI;France;EUR;2
+EUR_GerHCOBCompositePMI;20231024;07:30;HCOB Composite PMI;Germany;EUR;3
+EUR_GerHCOBServicesPMI;20231024;07:30;HCOB Services PMI;Germany;EUR;3
+EUR_GerHCOBManufacturingPMI;20231024;07:30;HCOB Manufacturing PMI;Germany;EUR;3
+PLN_Unemployment;20231024;08:00;Unemployment (MoM);Poland;PLN;1
+EUR_EurECBBankLendingSurvey;20231024;08:00;ECB Bank Lending Survey;European Monetary Union;EUR;3
+EUR_EurHCOBCompositePMI;20231024;08:00;HCOB Composite PMI;European Monetary Union;EUR;3
+EUR_EurHCOBManufacturingPMI;20231024;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;3
+EUR_EurHCOBServicesPMI;20231024;08:00;HCOB Services PMI;European Monetary Union;EUR;3
+AUD_CentralBankSpeech;20231024;08:00;RBA Governor Bullock speech;Australia;AUD;3
+GBP_S&PGlobalCIPSServicesPMI;20231024;08:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;3
+GBP_S&PGlobalCIPSManufacturingPMI;20231024;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;3
+GBP_S&PGlobalCIPSCompositePMI;20231024;08:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;3
+MXN_1sthalfmonthCoreInflation;20231024;12:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20231024;12:00;1st half-month Inflation;Mexico;MXN;1
+HUF_MNBInterestRateDecision;20231024;12:00;MNB Interest Rate Decision;Hungary;HUF;1
+EUR_EurCentralBankSpeech;20231024;12:30;ECB President Lagarde speech;European Monetary Union;EUR;3
+CAD_NewHousingPriceIndex;20231024;12:30;New Housing Price Index (YoY);Canada;CAD;1
+USD_RedbookIndex;20231024;12:55;Redbook Index (YoY);United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20231024;13:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;1
+USD_S&PGlobalManufacturingPMI;20231024;13:45;S&P Global Manufacturing PMI;United States;USD;3
+USD_S&PGlobalCompositePMI;20231024;13:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20231024;13:45;S&P Global Services PMI;United States;USD;3
+USD_RichmondFedManufacturingIndex;20231024;14:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_Auction;20231024;17:00;2-Year Note Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20231024;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_ConsumerSentimentIndex;20231024;21:00;Consumer Sentiment Index;South Korea;KRW;1

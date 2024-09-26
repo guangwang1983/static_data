@@ -1,0 +1,20 @@
+AUD_TDSecuritiesInflation;20240304;00:00;TD Securities Inflation (MoM);Australia;AUD;1
+KRW_S&PGlobalManufacturingPMI;20240304;00:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+AUD_CompanyGrossOperatingProfits;20240304;00:30;Company Gross Operating Profits (QoQ);Australia;AUD;1
+AUD_ANZJobAdvertisements;20240304;00:30;ANZ Job Advertisements;Australia;AUD;1
+AUD_BuildingPermits;20240304;00:30;Building Permits (MoM);Australia;AUD;2
+TRY_ProducerPriceIndex;20240304;07:00;Producer Price Index (MoM);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20240304;07:00;Consumer Price Index (YoY);Turkey;TRY;2
+CHF_ConsumerPriceIndex;20240304;07:30;Consumer Price Index (MoM);Switzerland;CHF;2
+EUR_FraBudgetBalance;20240304;07:45;Budget Balance;France;EUR;1
+TRY_Exports;20240304;08:00;Exports;Turkey;TRY;1
+BRL_FipeIPCInflation;20240304;08:00;Fipe IPC Inflation;Brazil;BRL;1
+EUR_EurSentixInvestorConfidence;20240304;09:30;Sentix Investor Confidence;Eurozone;EUR;2
+DKK_CurrencyReserves;20240304;16:00;Currency Reserves;Denmark;DKK;1
+USD_Auction;20240304;16:30;6-Month Bill Auction;United States;USD;1
+AUD_JudoBankServicesPMI;20240304;22:00;Judo Bank Services PMI;Australia;AUD;2
+AUD_JudoBankCompositePMI;20240304;22:00;Judo Bank Composite PMI;Australia;AUD;2
+KRW_GrossDomesticProduct;20240304;23:00;Gross Domestic Product Growth (YoY);South Korea;KRW;1
+JPY_TokyoCPIexFoodEnergy;20240304;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;3
+JPY_ConsumerPriceIndex;20240304;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;3
+JPY_TokyoCPIexFreshFood;20240304;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;2

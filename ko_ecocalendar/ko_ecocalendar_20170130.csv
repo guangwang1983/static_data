@@ -1,0 +1,30 @@
+KRW_KoreanNewYear;20170130;00:00;Korean New Year ;South Korea;KRW;0
+CNY_ChineseNewYear;20170130;00:00;Chinese New Year;China;CNY;0
+TRY_EconomicConfidenceIndex;20170130;07:00;Economic Confidence Index;Turkey;TRY;1
+NOK_RetailSales;20170130;07:00;Retail Sales ;Norway;NOK;1
+AUD_CentralBankSpeech;20170130;07:45;RBA Debelle speech;Australia;AUD;2
+CHF_KOFLeadingIndicator;20170130;08:00;KOF Leading Indicator;Switzerland;CHF;2
+DKK_IndustrialOutlook;20170130;08:00;Industrial Outlook;Denmark;DKK;1
+HUF_UnemploymentRate;20170130;08:00;Unemployment Rate (3M);Hungary;HUF;1
+BRL_InflationIndexIGPM;20170130;10:00;Inflation Index/IGP-M;Brazil;BRL;1
+EUR_EurConsumerConfidence;20170130;10:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurServicesSentiment;20170130;10:00;Services Sentiment;European Monetary Union;EUR;2
+EUR_EurIndustrialConfidence;20170130;10:00;Industrial Confidence;European Monetary Union;EUR;2
+EUR_EurBusinessClimate;20170130;10:00;Business Climate;European Monetary Union;EUR;2
+EUR_EurEconomicSentimentIndicator;20170130;10:00;Economic Sentiment Indicator;European Monetary Union;EUR;2
+EUR_ItaAuction;20170130;10:29;10-y Bond Auction;Italy;EUR;1
+CLP_IndustrialProduction;20170130;12:00;Industrial Production (YoY);Chile;CLP;1
+EUR_GerConsumerPriceIndex;20170130;13:00;Consumer Price Index (YoY);Germany;EUR;2
+EUR_GerHarmonizedIndexofConsumerPrices;20170130;13:00;Harmonized Index of Consumer Prices (MoM);Germany;EUR;2
+USD_PersonalConsumptionExpendituresPriceIndex;20170130;13:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;2
+USD_PersonalSpending;20170130;13:30;Personal Spending;United States;USD;2
+USD_CorePersonalConsumptionExpendituresPriceIndex;20170130;13:30;Core Personal Consumption Expenditures - Price Index (MoM);United States;USD;2
+USD_PersonalIncome;20170130;13:30;Personal Income (MoM);United States;USD;2
+USD_PendingHomeSales;20170130;15:00;Pending Home Sales (YoY);United States;USD;2
+USD_DallasFedManufacturingBusinessIndex;20170130;15:30;Dallas Fed Manufacturing Business Index;United States;USD;2
+USD_Auction;20170130;16:30;3-Month Bill Auction;United States;USD;1
+NZD_VisitorArrivals;20170130;21:45;Visitor Arrivals (YoY);New Zealand;NZD;1
+JPY_UnemploymentRate;20170130;23:30;Unemployment Rate;Japan;JPY;2
+JPY_JobsApplicantsRatio;20170130;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+JPY_OverallHouseholdSpending;20170130;23:30;Overall Household Spending (YoY);Japan;JPY;2
+JPY_IndustrialProduction;20170130;23:50;Industrial Production (YoY);Japan;JPY;2

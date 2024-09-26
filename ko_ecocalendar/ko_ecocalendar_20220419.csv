@@ -1,0 +1,24 @@
+USD_IMFMeeting;20220419;00:00;IMF Meeting;United States;USD;2
+AUD_RBAMeetingMinutes;20220419;01:30;RBA Meeting Minutes;Australia;AUD;3
+JPY_IndustrialProduction;20220419;04:30;Industrial Production (YoY);Japan;JPY;2
+JPY_CapacityUtilization;20220419;04:30;Capacity Utilization;Japan;JPY;1
+NOK_TradeBalance;20220419;06:00;Trade Balance;Norway;NOK;1
+IDR_BankIndonesiaRate;20220419;07:00;Bank Indonesia Rate;Indonesia;IDR;1
+PLN_NetInflation;20220419;12:00;Net Inflation;Poland;PLN;1
+CAD_HousingStarts;20220419;12:15;Housing Starts s.a (YoY);Canada;CAD;1
+USD_HousingStartsChange;20220419;12:30;Housing Starts Change;United States;USD;1
+USD_BuildingPermitsChange;20220419;12:30;Building Permits Change;United States;USD;1
+USD_HousingStarts;20220419;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20220419;12:30;Building Permits (MoM);United States;USD;2
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20220419;12:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20220419;12:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+USD_RedbookIndex;20220419;12:55;Redbook Index (YoY);United States;USD;1
+NZD_GDTPriceIndex;20220419;14:40;GDT Price Index;New Zealand;NZD;1
+USD_Auction;20220419;15:30;52-Week Bill Auction;United States;USD;1
+USD_CentralBankSpeech;20220419;16:05;Fed Evans speech;United States;USD;2
+CHF_CentralBankSpeech;20220419;16:30;SNB Chairman Jordan speech;Switzerland;CHF;3
+USD_APIWeeklyCrudeOilStock;20220419;20:30;API Weekly Crude Oil Stock;United States;USD;1
+JPY_Exports;20220419;23:50;Exports (YoY);Japan;JPY;2
+JPY_MerchandiseTradeBalanceTotal;20220419;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Imports;20220419;23:50;Imports (YoY);Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20220419;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1

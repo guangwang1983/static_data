@@ -1,0 +1,33 @@
+AUD_NationalAustraliaBankBusinessConfidence;20240312;00:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20240312;00:30;National Australia Bank Business Conditions;Australia;AUD;1
+EUR_GerConsumerPriceIndex;20240312;07:00;Consumer Price Index (MoM);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20240312;07:00;Harmonized Index of Consumer Prices (MoM);Germany;EUR;2
+TRY_IndustrialProduction;20240312;07:00;Industrial Production (YoY);Turkey;TRY;1
+TRY_CurrentAccount;20240312;07:00;Current Account Balance;Turkey;TRY;1
+GBP_EmploymentChange;20240312;07:00;Employment Change;United Kingdom;GBP;3
+GBP_ILOUnemploymentRate;20240312;07:00;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_ClaimantCountRate;20240312;07:00;Claimant Count Rate;United Kingdom;GBP;2
+GBP_ClaimantCountChange;20240312;07:00;Claimant Count Change;United Kingdom;GBP;3
+GBP_AverageEarningsExcludingBonus;20240312;07:00;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_AverageEarningsIncludingBonus;20240312;07:00;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+EUR_EurEcoFinMeeting;20240312;07:00;EcoFin Meeting;Eurozone;EUR;2
+CZK_RetailSales;20240312;08:00;Retail Sales (YoY);Czech Republic;CZK;1
+CNY_M2MoneySupply;20240312;10:00;M2 Money Supply (YoY);China;CNY;1
+CNY_NewLoans;20240312;10:00;New Loans;China;CNY;1
+USD_NFIBBusinessOptimismIndex;20240312;10:00;NFIB Business Optimism Index;United States;USD;1
+GBP_Auction;20240312;10:00;10-y Bond Auction;United Kingdom;GBP;1
+GBP_CentralBankSpeech;20240312;11:00;BoE Mann speech;United Kingdom;GBP;2
+USD_OPECMonthlyMarketReport;20240312;12:00;OPEC Monthly Market Report;United States;USD;1
+BRL_IPCAInflation;20240312;12:00;IPCA Inflation;Brazil;BRL;1
+MXN_IndustrialOutput;20240312;12:00;Industrial Output (MoM);Mexico;MXN;1
+INR_ConsumerPriceIndex;20240312;12:00;Consumer Price Index (YoY);India;INR;1
+INR_CumulativeIndustrialOutput;20240312;12:00;Cumulative Industrial Output;India;INR;1
+INR_IndustrialOutput;20240312;12:00;Industrial Output;India;INR;1
+INR_ManufacturingOutput;20240312;12:00;Manufacturing Output;India;INR;1
+USD_ConsumerPriceIndex;20240312;12:30;Consumer Price Index ex Food & Energy (MoM);United States;USD;3
+USD_RedbookIndex;20240312;12:55;Redbook Index (YoY);United States;USD;1
+USD_Auction;20240312;17:00;10-Year Note Auction;United States;USD;1
+USD_MonthlyBudgetStatement;20240312;18:00;Monthly Budget Statement;United States;USD;2
+USD_APIWeeklyCrudeOilStock;20240312;20:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_FoodPriceIndex;20240312;21:45;Food Price Index (MoM);New Zealand;NZD;1
+KRW_UnemploymentRate;20240312;23:00;Unemployment Rate;South Korea;KRW;1

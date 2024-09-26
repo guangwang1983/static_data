@@ -1,0 +1,17 @@
+USD_MichiganConsumerSentimentIndex;20090130;15:00;Michigan Consumer Sentiment Index;United States;USD;1
+USD_ChicagoPurchasingManagers'Index;20090130;14:45;Chicago Purchasing Managers' Index;United States;USD;1
+USD_GrossDomesticProduct;20090130;13:30;Gross Domestic Product Annualized;United States;USD;3
+CAD_GrossDomesticProduct;20090130;13:30;Gross Domestic Product (MoM);Canada;CAD;2
+USD_CorePersonalConsumptionExpenditures;20090130;13:30;Core Personal Consumption Expenditures (QoQ);United States;USD;0
+EUR_EurUnemploymentRate;20090130;10:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_EurConsumerPriceIndex;20090130;10:00;Consumer Price Index (YoY);European Monetary Union;EUR;2
+GBP_NetLendingtoIndividuals;20090130;09:30;Net Lending to Individuals (MoM);United Kingdom;GBP;2
+GBP_ConsumerCredit;20090130;09:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20090130;09:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_M4SterlingLending;20090130;09:30;M4 Sterling Lending;United Kingdom;GBP;1
+GBP_M4MoneySupply;20090130;09:30;M4 Money Supply (MoM);United Kingdom;GBP;1
+JPY_AnnualizedHousingStarts;20090130;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_HousingStarts;20090130;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_ConstructionOrders;20090130;05:00;Construction Orders (YoY);Japan;JPY;1
+AUD_PrivateSectorCredit;20090130;00:30;Private Sector Credit (MoM);Australia;AUD;1
+GBP_GfKConsumerConfidence;20090130;00:01;GfK Consumer Confidence;United Kingdom;GBP;2

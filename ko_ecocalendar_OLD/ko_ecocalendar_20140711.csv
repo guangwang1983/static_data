@@ -1,0 +1,25 @@
+PEN_Interestratedecision;20140711;23:00;Interest rate decision;Peru;PEN;1
+USD_CentralBankSpeech;20140711;18:45;Fed Lockhart speech;United States;USD;1
+USD_MonthlyBudgetStatement;20140711;18:00;Monthly Budget Statement;United States;USD;2
+MXN_CentralBankInterestRate;20140711;14:00;Central Bank Interest Rate;Mexico;MXN;1
+MXN_IndustrialOutput;20140711;13:00;Industrial Output (YoY);Mexico;MXN;1
+CAD_ParticipationRate;20140711;12:30;Participation Rate;Canada;CAD;2
+CAD_NetChangeinEmployment;20140711;12:30;Net Change in Employment;Canada;CAD;3
+CAD_UnemploymentRate;20140711;12:30;Unemployment Rate;Canada;CAD;3
+INR_IndustrialOutput;20140711;12:00;Industrial Output;India;INR;1
+INR_ManufacturingOutput;20140711;12:00;Manufacturing Output;India;INR;1
+INR_CumulativeIndustrialOutput;20140711;12:00;Cumulative Industrial Output;India;INR;1
+INR_FXReservesUSD;20140711;11:30;FX Reserves, USD;India;INR;1
+INR_BankLoanGrowth;20140711;11:30;Bank Loan Growth;India;INR;1
+RUB_ForeignTrade;20140711;10:00;Foreign Trade;Russia;RUB;1
+EUR_SpaHICP;20140711;07:00;HICP (YoY);Spain;EUR;1
+TRY_CurrentAccount;20140711;07:00;Current Account Balance;Turkey;TRY;1
+EUR_SpaConsumerPriceIndex;20140711;07:00;Consumer Price Index (MoM);Spain;EUR;1
+HUF_ConsumerPriceIndex;20140711;07:00;Consumer Price Index (YoY);Hungary;HUF;1
+EUR_FraCurrentAccount;20140711;06:45;Current Account;France;EUR;1
+EUR_FinCurrentAccount;20140711;06:00;Current Account;Finland;EUR;1
+EUR_GerWholesalePriceIndex;20140711;06:00;Wholesale Price Index (MoM);Germany;EUR;1
+EUR_GerConsumerPriceIndex;20140711;06:00;Consumer Price Index (MoM);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20140711;06:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;2
+AUD_InvestmentLendingforHomes;20140711;01:30;Investment Lending for Homes;Australia;AUD;1
+AUD_HomeLoans;20140711;01:30;Home Loans;Australia;AUD;2

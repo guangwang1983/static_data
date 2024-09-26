@@ -1,0 +1,48 @@
+USD_ConsumerCreditChange;20140307;20:00;Consumer Credit Change;United States;USD;2
+USD_CentralBankSpeech;20140307;17:00;Fed Dudley speech;United States;USD;1
+TRY_TreasuryCashBalance;20140307;15:30;Treasury Cash Balance;Turkey;TRY;1
+MXN_12MonthInflation;20140307;14:00;12-Month Inflation;Mexico;MXN;1
+MXN_CoreInflation;20140307;14:00;Core Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20140307;14:00;Headline Inflation;Mexico;MXN;1
+CAD_LaborProductivity;20140307;13:30;Labor Productivity (QoQ);Canada;CAD;1
+USD_AverageHourlyEarnings;20140307;13:30;Average Hourly Earnings (MoM);United States;USD;2
+USD_NonfarmPayrolls;20140307;13:30;Nonfarm Payrolls;United States;USD;3
+USD_UnemploymentRate;20140307;13:30;Unemployment Rate;United States;USD;3
+USD_LaborForceParticipationRate;20140307;13:30;Labor Force Participation Rate;United States;USD;2
+USD_AverageWeeklyHours;20140307;13:30;Average Weekly Hours;United States;USD;1
+USD_TradeBalance;20140307;13:30;Trade Balance;United States;USD;2
+CAD_Exports;20140307;13:30;Exports;Canada;CAD;1
+CAD_Imports;20140307;13:30;Imports;Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20140307;13:30;International Merchandise Trade;Canada;CAD;1
+CAD_ParticipationRate;20140307;13:30;Participation Rate;Canada;CAD;2
+CAD_NetChangeinEmployment;20140307;13:30;Net Change in Employment;Canada;CAD;3
+CAD_UnemploymentRate;20140307;13:30;Unemployment Rate;Canada;CAD;3
+PLN_CentralBankFXReserves;20140307;13:00;Central Bank FX Reserves;Poland;PLN;1
+INR_FXReservesUSD;20140307;11:30;FX Reserves, USD;India;INR;1
+INR_BankLoanGrowth;20140307;11:30;Bank Loan Growth;India;INR;1
+CLP_TradeBalance;20140307;11:30;Trade Balance;Chile;CLP;1
+EUR_GerIndustrialProduction;20140307;11:00;Industrial Production s.a. (MoM);Germany;EUR;1
+BRL_FipeIPCInflation;20140307;11:00;Fipe IPC Inflation;Brazil;BRL;1
+CLP_ConsumerPriceIndex;20140307;11:00;Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+GBP_ConsumerInflationExpectations;20140307;09:30;Consumer Inflation Expectations;United Kingdom;GBP;2
+ISK_GrossDomesticProduct;20140307;09:00;Gross Domestic Product (QoQ);Iceland;ISK;1
+EUR_ItaProducerPriceIndex;20140307;09:00;Producer Price Index (MoM);Italy;EUR;1
+SGD_ForeignReserves;20140307;09:00;Foreign Reserves (MoM);Singapore;SGD;1
+NOK_ManufacturingOutput;20140307;09:00;Manufacturing Output;Norway;NOK;1
+CZK_FXReserves;20140307;09:00;FX Reserves;Czech Republic;CZK;1
+EUR_AusProducerPriceIndex;20140307;09:00;Producer Price Index (MoM);Austria;EUR;1
+EUR_AusWholesalePrices;20140307;08:30;Wholesale Prices n.s.a (MoM);Austria;EUR;1
+CHF_ConsumerPriceIndex;20140307;08:15;Consumer Price Index (MoM);Switzerland;CHF;1
+CHF_ForeignCurrencyReserves;20140307;08:00;Foreign Currency Reserves;Switzerland;CHF;1
+DKK_IndustrialProduction;20140307;08:00;Industrial Production (MoM);Denmark;DKK;1
+EUR_AusTradeBalance;20140307;08:00;Trade Balance;Austria;EUR;1
+EUR_FraImportsEUR;20140307;07:45;Imports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20140307;07:45;Trade Balance EUR;France;EUR;1
+EUR_FraExportsEUR;20140307;07:45;Exports, EUR;France;EUR;1
+EUR_FraBudget;20140307;07:45;Budget;France;EUR;1
+EUR_GerWholesalePriceIndex;20140307;07:00;Wholesale Price Index (MoM);Germany;EUR;1
+CHF_UnemploymentRate;20140307;06:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+ZAR_Net$Gold&ForexReserve;20140307;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+ZAR_Gross$Gold&ForexReserve;20140307;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+JPY_CoincidentIndex;20140307;05:00;Coincident Index;Japan;JPY;2
+JPY_LeadingEconomicIndex;20140307;05:00;Leading Economic Index;Japan;JPY;2

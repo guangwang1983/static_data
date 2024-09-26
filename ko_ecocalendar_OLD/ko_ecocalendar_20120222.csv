@@ -1,0 +1,27 @@
+ARS_PrimaryBudgetBalance;20120222;21:00;Primary Budget Balance (MoM);Argentina;ARS;1
+ARS_UnemploymentRate;20120222;19:00;Unemployment Rate (QoQ)	;Argentina;ARS;1
+USD_ExistingHomeSales;20120222;15:00;Existing Home Sales (MoM);United States;USD;2
+USD_ExistingHomeSalesChange;20120222;15:00;Existing Home Sales Change (MoM);United States;USD;2
+MXN_RetailSales;20120222;14:00;Retail Sales (YoY);Mexico;MXN;1
+EUR_BelLeadingIndicator;20120222;14:00;Leading Indicator;Belgium;EUR;1
+USD_MBAMortgageApplications;20120222;12:00;MBA Mortgage Applications;United States;USD;1
+INR_M3MoneySupply;20120222;11:30;M3 Money Supply;India;INR;1
+EUR_EurIndustrialNewOrders;20120222;10:00;Industrial New Orders (YoY);European Monetary Union;EUR;2
+GBP_BankofEnglandMinutes;20120222;09:30;Bank of England Minutes;United Kingdom;GBP;3
+EUR_ItaConsumerPriceIndex;20120222;09:00;Consumer Price Index (YoY);Italy;EUR;1
+NOK_LabourForceSurvey;20120222;09:00;Labour Force Survey;Norway;NOK;1
+EUR_EurMarkitManufacturingPMI;20120222;08:58;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20120222;08:58;Markit Services PMI;European Monetary Union;EUR;2
+SEK_UnemploymentRate;20120222;08:30;Unemployment Rate;Sweden;SEK;1
+EUR_GerMarkitManufacturingPMI;20120222;08:28;Markit Manufacturing PMI;Germany;EUR;2
+EUR_GerMarkitServicesPMI;20120222;08:28;Markit Services PMI;Germany;EUR;2
+CZK_ProducerPriceIndex;20120222;08:00;Producer Price Index (YoY);Czech Republic;CZK;1
+ZAR_ConsumerPriceIndex;20120222;08:00;Consumer Price Index (MoM);South Africa;ZAR;1
+EUR_FraMarkitManufacturingPMI;20120222;07:58;Markit Manufacturing PMI;France;EUR;1
+EUR_SpaTradeBalance;20120222;07:00;Trade Balance;Spain;EUR;1
+EUR_FraConsumerPriceIndex;20120222;06:30;Consumer Price Index (EU norm) (YoY);France;EUR;1
+EUR_FraMarkitServicesPMI;20120222;06:30;Markit Services PMI;France;EUR;1
+EUR_FraInflationextobacco;20120222;06:30;Inflation ex-tobacco (MoM);France;EUR;1
+CNY_CaixinManufacturingPMI;20120222;02:30;Caixin Manufacturing PMI;China;CNY;1
+AUD_WagePriceIndex;20120222;00:30;Wage Price Index (QoQ);Australia;AUD;1
+BRL_AshWednesday;20120222;00:00;Ash Wednesday;Brazil;BRL;0

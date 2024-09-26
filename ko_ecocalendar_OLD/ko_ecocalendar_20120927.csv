@@ -1,0 +1,57 @@
+JPY_IndustrialProduction;20120927;23:50;Industrial Production (MoM);Japan;JPY;1
+JPY_LargeRetailers'Sales;20120927;23:50;Large Retailers' Sales;Japan;JPY;2
+JPY_RetailTrade;20120927;23:50;Retail Trade (YoY);Japan;JPY;2
+JPY_TokyoCPIexFreshFood;20120927;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;1
+JPY_ConsumerPriceIndex;20120927;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;1
+JPY_TokyoCPIexFoodEnergy;20120927;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;1
+JPY_NationalCPIexFoodEnergy;20120927;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20120927;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_UnemploymentRate;20120927;23:30;Unemployment Rate;Japan;JPY;2
+JPY_OverallHouseholdSpending;20120927;23:30;Overall Household Spending (YoY);Japan;JPY;2
+JPY_NikkeiManufacturingPMI;20120927;23:13;Nikkei Manufacturing PMI;Japan;JPY;2
+GBP_GfKConsumerConfidence;20120927;23:01;GfK Consumer Confidence;United Kingdom;GBP;2
+KRW_CurrentAccount;20120927;23:00;Current Account Balance;South Korea;KRW;1
+KRW_IndustrialOutputGrowth;20120927;23:00;Industrial Output Growth;South Korea;KRW;1
+KRW_ServiceSectorOutput;20120927;23:00;Service Sector Output;South Korea;KRW;1
+KRW_IndustrialOutput;20120927;23:00;Industrial Output (YoY);South Korea;KRW;1
+NZD_BuildingPermits;20120927;22:45;Building Permits s.a. (MoM);New Zealand;NZD;1
+USD_Auction;20120927;17:00;7-Year Note Auction;United States;USD;1
+USD_KansasFedManufacturingActivity;20120927;15:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_EIANaturalGasStorageChange;20120927;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_PendingHomeSales;20120927;14:00;Pending Home Sales (YoY);United States;USD;1
+USD_JoblessClaims;20120927;12:30;Initial Jobless Claims;United States;USD;2
+USD_GrossDomesticProduct;20120927;12:30;Gross Domestic Product Annualized;United States;USD;3
+USD_DurableGoodsOrders;20120927;12:30;Durable Goods Orders ex Transportation;United States;USD;2
+BRL_InflationIndexIGPM;20120927;11:00;Inflation Index/IGP-M;Brazil;BRL;1
+EUR_ItaAuction;20120927;10:10;10-y Bond Auction;Italy;EUR;1
+CZK_CNBInterestRateDecision;20120927;10:00;CNB Interest Rate Decision;Czech Republic;CZK;1
+ZAR_ProducerPriceIndex;20120927;09:30;Producer Price Index (MoM);South Africa;ZAR;1
+EUR_BelConsumerPriceIndex;20120927;09:30;Consumer Price Index (MoM);Belgium;EUR;1
+EUR_PorBusinessConfidence;20120927;09:00;Business Confidence;Portugal;EUR;1
+EUR_PorConsumerConfidence;20120927;09:00;Consumer Confidence;Portugal;EUR;1
+EUR_ItaBusinessConfidence;20120927;09:00;Business Confidence;Italy;EUR;1
+ISK_ConsumerPriceIndex;20120927;09:00;Consumer Price Index (YoY);Iceland;ISK;1
+EUR_EurConsumerConfidence;20120927;09:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurBusinessClimate;20120927;09:00;Business Climate;European Monetary Union;EUR;2
+EUR_EurIndustrialConfidence;20120927;09:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_EurEconomicSentimentIndicator;20120927;09:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+EUR_EurServicesSentiment;20120927;09:00;Services Sentiment;European Monetary Union;EUR;1
+GBP_GrossDomesticProduct;20120927;08:30;Gross Domestic Product (YoY);United Kingdom;GBP;3
+GBP_TotalBusinessInvestment;20120927;08:30;Total Business Investment (QoQ);United Kingdom;GBP;1
+GBP_CurrentAccount;20120927;08:30;Current Account;United Kingdom;GBP;2
+CZK_M2MoneySupply;20120927;08:00;M2 Money Supply (YoY);Czech Republic;CZK;1
+EUR_AusPurchasingManagerIndex;20120927;08:00;Purchasing Manager Index;Austria;EUR;1
+CZK_ForeignDebt;20120927;08:00;Foreign Debt;Czech Republic;CZK;1
+EUR_EurM3MoneySupply;20120927;08:00;M3 Money Supply (YoY);European Monetary Union;EUR;1
+EUR_EurPrivateLoans;20120927;08:00;Private Loans (YoY);European Monetary Union;EUR;1
+EUR_GerUnemploymentChange;20120927;07:55;Unemployment Change;Germany;EUR;3
+EUR_GerUnemploymentRate;20120927;07:55;Unemployment Rate s.a.;Germany;EUR;2
+DKK_IndustrialOutlook;20120927;07:00;Industrial Outlook;Denmark;DKK;1
+DKK_UnemploymentRate;20120927;07:00;Unemployment Rate;Denmark;DKK;1
+RON_Interestratedecision;20120927;07:00;Interest rate decision;Romania;RON;1
+EUR_SpaRetailSales;20120927;07:00;Retail Sales (YoY);Spain;EUR;1
+EUR_GerImportPriceIndex;20120927;06:00;Import Price Index (MoM);Germany;EUR;1
+EUR_FinIndustrialConfidence;20120927;06:00;Industrial Confidence;Finland;EUR;1
+EUR_FinConsumerConfidence;20120927;06:00;Consumer Confidence;Finland;EUR;1
+NZD_ANZActivityOutlook;20120927;01:00;ANZ Activity Outlook;New Zealand;NZD;2
+NZD_ANZBusinessConfidence;20120927;01:00;ANZ Business Confidence;New Zealand;NZD;2

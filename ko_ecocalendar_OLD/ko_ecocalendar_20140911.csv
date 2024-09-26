@@ -1,0 +1,42 @@
+NZD_FoodPriceIndex;20140911;22:45;Food Price Index (MoM);New Zealand;NZD;1
+NZD_BusinessNZPMI;20140911;22:30;Business NZ PMI;New Zealand;NZD;2
+CLP_BCCHInterestRate;20140911;22:00;BCCH Interest Rate;Chile;CLP;1
+EUR_EurCentralBankSpeech;20140911;19:00;ECB President Draghi speech;European Monetary Union;EUR;3
+USD_MonthlyBudgetStatement;20140911;18:00;Monthly Budget Statement;United States;USD;2
+USD_Auction;20140911;17:00;30-Year Bond Auction;United States;USD;1
+USD_EIANaturalGasStorageChange;20140911;14:30;EIA Natural Gas Storage Change;United States;USD;1
+MXN_IndustrialOutput;20140911;13:00;Industrial Output (YoY);Mexico;MXN;1
+GBP_Auction;20140911;12:32;30-y Bond Auction;United Kingdom;GBP;1
+USD_JoblessClaims;20140911;12:30;Initial Jobless Claims;United States;USD;2
+CAD_NewHousingPriceIndex;20140911;12:30;New Housing Price Index (YoY);Canada;CAD;2
+BRL_RetailSales;20140911;12:00;Retail Sales (MoM);Brazil;BRL;1
+RUB_CentralBankReserves;20140911;11:00;Central Bank Reserves $;Russia;RUB;1
+ZAR_ManufacturingProductionIndex;20140911;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+EUR_ItaAuction;20140911;10:30;3-y Bond Auction;Italy;EUR;1
+EUR_IreHICP;20140911;10:00;HICP (YoY);Ireland;EUR;1
+EUR_IreConsumerPriceIndex;20140911;10:00;Consumer Price Index (YoY);Ireland;EUR;1
+EUR_SpaHousePriceIndex;20140911;10:00;House Price Index (QoQ);Spain;EUR;1
+RUB_ForeignTrade;20140911;10:00;Foreign Trade;Russia;RUB;1
+EUR_GreUnemploymentRate;20140911;09:00;Unemployment Rate (MoM);Greece;EUR;1
+EUR_EurECBMonthlyReport;20140911;08:00;ECB Monthly Report;European Monetary Union;EUR;2
+SEK_UnemploymentRate;20140911;07:30;Unemployment Rate;Sweden;SEK;1
+SEK_ConsumerPriceIndex;20140911;07:30;Consumer Price Index (MoM);Sweden;SEK;1
+EUR_SloIndustrialOutput;20140911;07:00;Industrial Output (YoY);Slovakia;EUR;1
+RON_IndustrialProduction;20140911;07:00;Industrial Production (MoM);Romania;RON;1
+TRY_CurrentAccount;20140911;07:00;Current Account Balance;Turkey;TRY;1
+HUF_ConsumerPriceIndex;20140911;07:00;Consumer Price Index (YoY);Hungary;HUF;1
+EUR_FraConsumerPriceIndex;20140911;06:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraInflationextobacco;20140911;06:45;Inflation ex-tobacco (MoM);France;EUR;2
+EUR_GerConsumerPriceIndex;20140911;06:00;Consumer Price Index (MoM);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20140911;06:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;2
+IDR_BankIndonesiaRate;20140911;04:00;Bank Indonesia Rate;Indonesia;IDR;1
+KRW_MoneySupplyGrowth;20140911;03:00;Money Supply Growth;South Korea;KRW;1
+CNY_M2MoneySupply;20140911;02:00;M2 Money Supply (YoY);China;CNY;1
+AUD_PartTimeEmployment;20140911;01:30;Part-Time Employment;Australia;AUD;1
+AUD_FulltimeEmployment;20140911;01:30;Fulltime Employment;Australia;AUD;2
+AUD_EmploymentChange;20140911;01:30;Employment Change s.a.;Australia;AUD;3
+AUD_UnemploymentRate;20140911;01:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_ParticipationRate;20140911;01:30;Participation Rate;Australia;AUD;1
+CNY_ConsumerPriceIndex;20140911;01:30;Consumer Price Index (YoY);China;CNY;3
+CNY_ProducerPriceIndex;20140911;01:30;Producer Price Index (YoY);China;CNY;3
+AUD_ConsumerInflationExpectations;20140911;01:00;Consumer Inflation Expectations;Australia;AUD;2

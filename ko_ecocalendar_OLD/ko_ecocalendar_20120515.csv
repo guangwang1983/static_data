@@ -1,0 +1,44 @@
+JPY_TertiaryIndustryIndex;20120515;23:50;Tertiary Industry Index (MoM);Japan;JPY;2
+JPY_MachineryOrders;20120515;23:50;Machinery Orders (MoM);Japan;JPY;2
+KRW_UnemploymentRate;20120515;23:00;Unemployment Rate;South Korea;KRW;1
+USD_BusinessInventories;20120515;14:00;Business Inventories;United States;USD;2
+USD_NAHBHousingMarketIndex;20120515;14:00;NAHB Housing Market Index;United States;USD;1
+PEN_GrossDomesticProduct;20120515;14:00;Gross Domestic Product;Peru;PEN;1
+USD_CentralBankSpeech;20120515;13:30;Fed Duke speech;United States;USD;1
+USD_NetLongTermTICFlows;20120515;13:00;Net Long-Term TIC Flows;United States;USD;2
+USD_TotalNetTICFlows;20120515;13:00;Total Net TIC Flows;United States;USD;1
+USD_NYEmpireStateManufacturingIndex;20120515;12:30;NY Empire State Manufacturing Index;United States;USD;1
+USD_RetailSales;20120515;12:30;Retail Sales (MoM);United States;USD;2
+USD_ConsumerPriceIndex;20120515;12:30;Consumer Price Index n.s.a (MoM);United States;USD;1
+PLN_ConsumerPriceIndex;20120515;12:00;Consumer Price Index (MoM);Poland;PLN;1
+EUR_EurGrossDomesticProduct;20120515;09:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+EUR_PorGrossDomesticProduct;20120515;09:00;Gross Domestic Product (YoY);Portugal;EUR;1
+EUR_GerZEWSurveyEconomicSentiment;20120515;09:00;ZEW Survey - Economic Sentiment;Germany;EUR;2
+EUR_EurZEWSurveyEconomicSentiment;20120515;09:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurveyCurrentSituation;20120515;09:00;ZEW Survey - Current Situation;Germany;EUR;2
+GBP_GoodsTradeBalance;20120515;08:30;Goods Trade Balance;United Kingdom;GBP;2
+GBP_TradeBalancenonEU;20120515;08:30;Trade Balance non-EU;United Kingdom;GBP;1
+NOK_TradeBalance;20120515;08:00;Trade Balance;Norway;NOK;1
+TRY_BudgetBalance;20120515;08:00;Budget Balance;Turkey;TRY;1
+EUR_ItaGrossDomesticProduct;20120515;08:00;Gross Domestic Product (QoQ);Italy;EUR;1
+EUR_NetGrossDomesticProduct;20120515;07:30;Gross Domestic Product s.a (QoQ) ;Netherlands, The;EUR;1
+TRY_3mthquarterlyjoblessaverage;20120515;07:00;3mth quarterly jobless average;Turkey;TRY;1
+HUF_IndustrialOutput;20120515;07:00;Industrial Output (YoY);Hungary;HUF;1
+EUR_AusGrossDomesticProduct;20120515;07:00;Gross Domestic Product (QoQ);Austria;EUR;1
+EUR_FinCurrentAccount;20120515;07:00;Current Account;Finland;EUR;1
+RON_GrossDomesticProduct;20120515;07:00;Gross Domestic Product;Romania;RON;1
+CZK_GrossDomesticProduct;20120515;07:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+HUF_GrossDomesticProduct;20120515;07:00;Gross Domestic Product (YoY);Hungary;HUF;1
+EUR_SloGrossDomesticProduct;20120515;07:00;Gross Domestic Product Prelim (YoY);Slovakia;EUR;1
+EUR_FraNonfarmPayrolls;20120515;06:45;Nonfarm Payrolls (QoQ);France;EUR;1
+EUR_FinGrossDomesticProduct;20120515;06:00;Gross Domestic Product (YoY);Finland;EUR;1
+EUR_GerGrossDomesticProduct;20120515;06:00;Gross Domestic Product (QoQ);Germany;EUR;3
+EUR_FraConsumerPriceIndex;20120515;05:30;Consumer Price Index (EU norm) (YoY);France;EUR;1
+EUR_FraInflationextobacco;20120515;05:30;Inflation ex-tobacco (MoM);France;EUR;1
+EUR_FraGrossDomesticProduct;20120515;05:30;Gross Domestic Product (QoQ);France;EUR;1
+SGD_RetailSales;20120515;05:00;Retail Sales (MoM);Singapore;SGD;1
+JPY_ConsumerConfidenceIndex;20120515;05:00;Consumer Confidence Index;Japan;JPY;2
+AUD_NewMotorVehicleSales;20120515;01:30;New Motor Vehicle Sales (MoM);Australia;AUD;1
+AUD_RBAMeetingMinutes;20120515;01:30;RBA Meeting Minutes;Australia;AUD;3
+CNY_FDIForeignDirectInvestment;20120515;01:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;1
+EUR_EurEcoFinMeeting;20120515;00:00;EcoFin Meeting;European Monetary Union;EUR;2

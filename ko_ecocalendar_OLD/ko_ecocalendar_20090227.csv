@@ -1,0 +1,15 @@
+USD_MichiganConsumerSentimentIndex;20090227;14:55;Michigan Consumer Sentiment Index;United States;USD;1
+USD_ChicagoPurchasingManagers'Index;20090227;14:45;Chicago Purchasing Managers' Index;United States;USD;1
+CAD_IndustrialProductPrice;20090227;13:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_CurrentAccount;20090227;13:30;Current Account;Canada;CAD;2
+USD_GrossDomesticProduct;20090227;13:30;Gross Domestic Product Annualized;United States;USD;3
+USD_CorePersonalConsumptionExpenditures;20090227;13:30;Core Personal Consumption Expenditures (QoQ);United States;USD;3
+EUR_GerConsumerPriceIndex;20090227;10:40;Consumer Price Index (YoY);Germany;EUR;2
+CHF_KOFLeadingIndicator;20090227;10:30;KOF Leading Indicator;Switzerland;CHF;1
+EUR_EurUnemploymentRate;20090227;10:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_EurConsumerPriceIndex;20090227;10:00;Consumer Price Index (YoY);European Monetary Union;EUR;2
+JPY_AnnualizedHousingStarts;20090227;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_HousingStarts;20090227;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_ConstructionOrders;20090227;05:00;Construction Orders (YoY);Japan;JPY;1
+AUD_PrivateSectorCredit;20090227;00:30;Private Sector Credit (MoM);Australia;AUD;1
+GBP_GfKConsumerConfidence;20090227;00:01;GfK Consumer Confidence;United Kingdom;GBP;2

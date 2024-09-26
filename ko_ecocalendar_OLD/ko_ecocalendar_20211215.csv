@@ -1,0 +1,46 @@
+CNY_HousePriceIndex;20211215;01:30;House Price Index ;China;CNY;1
+CNY_RetailSales;20211215;02:00;Retail Sales (YoY);China;CNY;3
+CNY_IndustrialProduction;20211215;02:00;Industrial Production (YoY);China;CNY;2
+CNY_NBSPressConference;20211215;02:00;NBS Press Conference;China;CNY;2
+CNY_FixedAssetInvestment;20211215;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+JPY_TertiaryIndustryIndex;20211215;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+GBP_RetailPriceIndex;20211215;07:00;Retail Price Index (YoY);United Kingdom;GBP;2
+GBP_ProducerPriceIndex;20211215;07:00;Producer Price Index - Input (YoY) n.s.a;United Kingdom;GBP;1
+GBP_PPICoreOutput;20211215;07:00;PPI Core Output (MoM) n.s.a;United Kingdom;GBP;2
+GBP_ConsumerPriceIndex;20211215;07:00;Core Consumer Price Index (YoY);United Kingdom;GBP;2
+NOK_TradeBalance;20211215;07:00;Trade Balance;Norway;NOK;1
+TRY_BudgetBalance;20211215;08:00;Budget Balance;Turkey;TRY;1
+ZAR_ConsumerPriceIndex;20211215;08:00;Consumer Price Index (MoM);South Africa;ZAR;1
+PLN_ConsumerPriceIndex;20211215;09:00;Consumer Price Index (YoY);Poland;PLN;1
+ZAR_ProducerPriceIndex;20211215;09:30;Producer Price Index (MoM);South Africa;ZAR;1
+GBP_DCLGHousePriceIndex;20211215;09:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+USD_MBAMortgageApplications;20211215;12:00;MBA Mortgage Applications;United States;USD;1
+CAD_HousingStarts;20211215;13:15;Housing Starts s.a (YoY);Canada;CAD;1
+USD_NYEmpireStateManufacturingIndex;20211215;13:30;NY Empire State Manufacturing Index;United States;USD;1
+USD_RetailSales;20211215;13:30;Retail Sales ex Autos (MoM);United States;USD;2
+USD_ImportPriceIndex;20211215;13:30;Import Price Index (MoM);United States;USD;1
+USD_ExportPriceIndex;20211215;13:30;Export Price Index (MoM);United States;USD;1
+CAD_ManufacturingSales;20211215;13:30;Manufacturing Sales (MoM);Canada;CAD;1
+CAD_ConsumerPriceIndex;20211215;13:30;Consumer Price Index (MoM);Canada;CAD;2
+USD_BusinessInventories;20211215;15:00;Business Inventories;United States;USD;1
+USD_NAHBHousingMarketIndex;20211215;15:00;NAHB Housing Market Index;United States;USD;1
+USD_EIACrudeOilStocksChange;20211215;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+CAD_CentralBankSpeech;20211215;17:00;BoC Governor Macklem speech;Canada;CAD;3
+USD_FOMCEconomicProjections;20211215;19:00;FOMC Economic Projections;United States;USD;3
+USD_FedMonetaryPolicyStatement;20211215;19:00;Fed Monetary Policy Statement;United States;USD;3
+USD_FedInterestRateDecision;20211215;19:00;Fed Interest Rate Decision;United States;USD;3
+USD_FOMCPressConference;20211215;19:30;FOMC Press Conference;United States;USD;3
+USD_TotalNetTICFlows;20211215;20:00;Total Net TIC Flows;United States;USD;1
+USD_NetLongTermTICFlows;20211215;20:00;Net Long-Term TIC Flows;United States;USD;1
+NZD_GrossDomesticProduct;20211215;21:45;Gross Domestic Product (QoQ);New Zealand;NZD;3
+ZAR_DayofReconciliation;20211215;22:00;Day of Reconciliation;South Africa;ZAR;0
+AUD_CommonwealthBankManufacturingPMI;20211215;22:00;Commonwealth Bank Manufacturing PMI;Australia;AUD;2
+AUD_CommonwealthBankServicesPMI;20211215;22:00;Commonwealth Bank Services PMI;Australia;AUD;2
+AUD_CommonwealthBankCompositePMI;20211215;22:00;Commonwealth Bank Composite PMI;Australia;AUD;1
+AUD_CentralBankSpeech;20211215;23:30;RBA Governor Lowe speech;Australia;AUD;3
+JPY_AdjustedMerchandiseTradeBalance;20211215;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_MerchandiseTradeBalanceTotal;20211215;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Exports;20211215;23:50;Exports (YoY);Japan;JPY;2
+JPY_Imports;20211215;23:50;Imports (YoY);Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20211215;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20211215;23:50;Foreign Bond Investment;Japan;JPY;1

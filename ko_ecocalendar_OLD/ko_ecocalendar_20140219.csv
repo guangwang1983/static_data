@@ -1,0 +1,44 @@
+JPY_MerchandiseTradeBalanceTotal;20140219;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Exports;20140219;23:50;Exports (YoY);Japan;JPY;1
+JPY_AdjustedMerchandiseTradeBalance;20140219;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_Imports;20140219;23:50;Imports (YoY);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20140219;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20140219;23:50;Foreign Bond Investment;Japan;JPY;1
+NZD_ProducerPriceIndex;20140219;21:45;Producer Price Index - Output (QoQ);New Zealand;NZD;1
+ARS_UnemploymentRate;20140219;19:00;Unemployment Rate (QoQ)	;Argentina;ARS;1
+USD_FOMCMinutes;20140219;19:00;FOMC Minutes;United States;USD;3
+USD_CentralBankSpeech;20140219;18:00;Fed Bullard speech;United States;USD;1
+USD_Auction;20140219;16:30;4-Week Bill Auction;United States;USD;1
+USD_RedbookIndex;20140219;13:55;Redbook Index (MoM);United States;USD;1
+USD_HousingStarts;20140219;13:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20140219;13:30;Building Permits (MoM);United States;USD;2
+USD_ProducerPriceIndex;20140219;13:30;Producer Price Index ex Food & Energy (YoY);United States;USD;1
+CAD_WholesaleSales;20140219;13:30;Wholesale Sales (MoM);Canada;CAD;1
+PLN_IndustrialOutput;20140219;13:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20140219;13:00;Producer Price Index (YoY);Poland;PLN;1
+USD_MBAMortgageApplications;20140219;12:00;MBA Mortgage Applications;United States;USD;2
+RUB_ProducerPriceIndex;20140219;12:00;Producer Price Index (MoM);Russia;RUB;1
+EUR_GerAuction;20140219;10:45;10-y Bond Auction;Germany;EUR;2
+CHF_ZEWSurveyExpectations;20140219;10:00;ZEW Survey - Expectations;Switzerland;CHF;2
+EUR_GreCurrentAccount;20140219;10:00;Current Account (YoY);Greece;EUR;1
+EUR_EurConstructionOutput;20140219;10:00;Construction Output  s.a (MoM);European Monetary Union;EUR;1
+GBP_BoEMPCVoteCut;20140219;09:30;BoE MPC Vote Cut;United Kingdom;GBP;3
+GBP_BoEMPCVoteUnchanged;20140219;09:30;BoE MPC Vote Unchanged;United Kingdom;GBP;3
+GBP_BoEMPCVoteHike;20140219;09:30;BoE MPC Vote Hike;United Kingdom;GBP;3
+GBP_BankofEnglandMinutes;20140219;09:30;Bank of England Minutes;United Kingdom;GBP;3
+GBP_AverageEarningsExcludingBonus;20140219;09:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_AverageEarningsIncludingBonus;20140219;09:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountChange;20140219;09:30;Claimant Count Change;United Kingdom;GBP;2
+GBP_ClaimantCountRate;20140219;09:30;Claimant Count Rate;United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20140219;09:30;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+EUR_SpaTradeBalance;20140219;09:00;Trade Balance;Spain;EUR;1
+EUR_NetConsumerSpendingVolume;20140219;08:30;Consumer Spending Volume;Netherlands, The;EUR;1
+ZAR_ConsumerPriceIndex;20140219;08:00;Consumer Price Index (MoM);South Africa;ZAR;1
+RUB_UnemploymentRate;20140219;07:00;Unemployment Rate;Russia;RUB;1
+EUR_FinConsumerPriceIndex;20140219;07:00;Consumer Price Index (YoY);Finland;EUR;1
+JPY_CoincidentIndex;20140219;05:00;Coincident Index;Japan;JPY;2
+JPY_LeadingEconomicIndex;20140219;05:00;Leading Economic Index;Japan;JPY;2
+JPY_BoJMonthlyEconomicSurvey;20140219;05:00;BoJ Monthly Economic Survey;Japan;JPY;2
+JPY_AllIndustryActivityIndex;20140219;04:30;All Industry Activity Index (MoM);Japan;JPY;2
+CNY_MNIBusinessSentimentIndicator;20140219;02:09;MNI Business Sentiment Indicator;China;CNY;1
+AUD_WagePriceIndex;20140219;00:30;Wage Price Index (YoY);Australia;AUD;1

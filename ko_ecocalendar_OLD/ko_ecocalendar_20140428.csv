@@ -1,0 +1,19 @@
+KRW_CurrentAccount;20140428;23:00;Current Account Balance;South Korea;KRW;1
+NZD_Imports;20140428;22:45;Imports;New Zealand;NZD;1
+NZD_TradeBalance;20140428;22:45;Trade Balance (YoY);New Zealand;NZD;2
+NZD_Exports;20140428;22:45;Exports;New Zealand;NZD;1
+COP_TradeBalance;20140428;22:00;Trade Balance;Colombia;COP;1
+USD_Auction;20140428;15:30;6-Month Bill Auction;United States;USD;1
+USD_DallasFedManufacturingBusinessIndex;20140428;14:30;Dallas Fed Manufacturing Business Index;United States;USD;2
+USD_PendingHomeSales;20140428;14:00;Pending Home Sales (YoY);United States;USD;2
+MXN_TradeBalance;20140428;13:00;Trade Balance, $;Mexico;MXN;1
+MXN_TradeBalancesa;20140428;13:00;Trade Balance s/a, $;Mexico;MXN;1
+EUR_IreRetailSales;20140428;10:00;Retail Sales (YoY);Ireland;EUR;1
+EUR_ItaConsumerConfidence;20140428;08:00;Consumer Confidence;Italy;EUR;1
+SEK_RetailSales;20140428;07:30;Retail Sales (MoM);Sweden;SEK;1
+SEK_ProducerPriceIndex;20140428;07:30;Producer Price Index (MoM);Sweden;SEK;1
+SEK_TradeBalance;20140428;07:30;Trade Balance (MoM);Sweden;SEK;1
+TRY_ConsumerConfidence;20140428;07:00;Consumer Confidence;Turkey;TRY;1
+EUR_GerImportPriceIndex;20140428;06:00;Import Price Index (MoM);Germany;EUR;1
+EUR_FinIndustrialConfidence;20140428;06:00;Industrial Confidence;Finland;EUR;1
+EUR_FinConsumerConfidence;20140428;06:00;Consumer Confidence;Finland;EUR;1

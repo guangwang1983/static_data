@@ -1,0 +1,20 @@
+RON_IndustrialProduction;20211213;07:00;Industrial Production (MoM);Romania;RON;1
+TRY_IndustrialProduction;20211213;07:00;Industrial Production (YoY);Turkey;TRY;1
+EUR_GerWholesalePriceIndex;20211213;07:00;Wholesale Price Index (MoM);Germany;EUR;1
+RON_ConsumerPriceIndex;20211213;07:00;Consumer Price Index;Romania;RON;1
+TRY_CurrentAccount;20211213;07:00;Current Account Balance;Turkey;TRY;1
+ILS_TradeBalance;20211213;11:00;Trade Balance;Israel;ILS;1
+ILS_Imports;20211213;11:00;Imports;Israel;ILS;1
+ILS_Exports;20211213;11:00;Exports;Israel;ILS;1
+INR_ConsumerPriceIndex;20211213;12:00;Consumer Price Index (YoY);India;INR;1
+CAD_BoCMonetaryPolicyFramework;20211213;15:00;BoC Monetary Policy Framework;Canada;CAD;3
+CAD_CentralBankSpeech;20211213;15:30;BoC Governor Macklem speech;Canada;CAD;3
+USD_Auction;20211213;16:30;3-Month Bill Auction;United States;USD;1
+GBP_FPCStatement;20211213;17:00;FPC Statement;United Kingdom;GBP;1
+GBP_BankStressTestResults;20211213;17:00;Bank Stress Test Results;United Kingdom;GBP;2
+GBP_FinancialStabilityReport;20211213;17:00;Financial Stability Report;United Kingdom;GBP;2
+GBP_FPCMeetingMinutes;20211213;17:00;FPC Meeting Minutes;United Kingdom;GBP;1
+NZD_REINZHousePriceIndex;20211213;20:00;REINZ House Price Index (MoM);New Zealand;NZD;2
+KRW_ExportPriceGrowth;20211213;21:00;Export Price Growth (YoY);South Korea;KRW;1
+KRW_ImportPriceGrowth;20211213;21:00;Import Price Growth (YoY);South Korea;KRW;1
+NZD_FoodPriceIndex;20211213;21:45;Food Price Index (MoM);New Zealand;NZD;1

@@ -1,0 +1,42 @@
+AUD_NationalAustraliaBankBusinessConfidence;20210608;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20210608;01:30;National Australia Bank Business Conditions;Australia;AUD;1
+JPY_EcoWatchersSurvey:Current;20210608;05:00;Eco Watchers Survey: Current;Japan;JPY;1
+JPY_EcoWatchersSurvey:Outlook;20210608;05:00;Eco Watchers Survey: Outlook;Japan;JPY;1
+EUR_GerIndustrialProduction;20210608;06:00;Industrial Production s.a. (MoM);Germany;EUR;2
+RON_GrossDomesticProduct;20210608;06:00;Gross Domestic Product;Romania;RON;1
+DKK_IndustrialProduction;20210608;06:00;Industrial Production (MoM);Denmark;DKK;1
+EUR_FraImportsEUR;20210608;06:45;Imports, EUR;France;EUR;1
+EUR_FraExportsEUR;20210608;06:45;Exports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20210608;06:45;Trade Balance EUR;France;EUR;1
+EUR_FraCurrentAccount;20210608;06:45;Current Account;France;EUR;1
+HUF_IndustrialOutput;20210608;07:00;Industrial Output (YoY);Hungary;HUF;1
+CZK_RetailSales;20210608;07:00;Retail Sales (YoY);Czech Republic;CZK;1
+SEK_IndustrialProductionValue;20210608;07:30;Industrial Production Value (MoM);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20210608;07:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+EUR_ItaRetailSales;20210608;08:00;Retail Sales n.s.a (YoY);Italy;EUR;1
+CZK_FXReserves;20210608;08:00;FX Reserves;Czech Republic;CZK;1
+EUR_EurGrossDomesticProduct;20210608;09:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+EUR_GerZEWSurvey–EconomicSentiment;20210608;09:00;ZEW Survey – Economic Sentiment;Germany;EUR;2
+EUR_GerZEWSurvey–CurrentSituation;20210608;09:00;ZEW Survey – Current Situation;Germany;EUR;2
+EUR_EurZEWSurvey–EconomicSentiment;20210608;09:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;2
+EUR_EurEmploymentChange;20210608;09:00;Employment Change (YoY);European Monetary Union;EUR;1
+HUF_BudgetBalance;20210608;09:00;Budget Balance;Hungary;HUF;1
+ZAR_GrossDomesticProduct;20210608;09:30;Gross Domestic Product (QoQ);South Africa;ZAR;1
+USD_NFIBBusinessOptimismIndex;20210608;10:00;NFIB Business Optimism Index;United States;USD;1
+ILS_BudgetBalanceILS;20210608;10:00;Budget Balance - ILS;Israel;ILS;1
+BRL_RetailSales;20210608;12:00;Retail Sales (MoM);Brazil;BRL;1
+CLP_ConsumerPriceIndex;20210608;12:00;Core Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+USD_GoodsandServicesTradeBalance;20210608;12:30;Goods and Services Trade Balance;United States;USD;2
+USD_GoodsTradeBalance;20210608;12:30;Goods Trade Balance;United States;USD;1
+CAD_InternationalMerchandiseTrade;20210608;12:30;International Merchandise Trade;Canada;CAD;2
+CAD_Exports;20210608;12:30;Exports;Canada;CAD;1
+CAD_Imports;20210608;12:30;Imports;Canada;CAD;1
+USD_RedbookIndex;20210608;12:55;Redbook Index (YoY);United States;USD;1
+USD_JOLTSJobOpenings;20210608;14:00;JOLTS Job Openings;United States;USD;1
+USD_Auction;20210608;17:00;3-Year Note Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20210608;20:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_ManufacturingSales;20210608;22:45;Manufacturing Sales;New Zealand;NZD;1
+KRW_GrossDomesticProduct;20210608;23:00;Gross Domestic Product Growth (QoQ) ;South Korea;KRW;1
+KRW_UnemploymentRate;20210608;23:00;Unemployment Rate;South Korea;KRW;1
+AUD_CentralBankSpeech;20210608;23:30;RBA Kent speech;Australia;AUD;2
+JPY_MoneySupplyM2+CD;20210608;23:50;Money Supply M2+CD (YoY);Japan;JPY;1

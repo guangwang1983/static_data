@@ -1,0 +1,40 @@
+JPY_JibunBankServicesPMI;20230605;00:30;Jibun Bank Services PMI;Japan;JPY;1
+AUD_TDSecuritiesInflation;20230605;01:00;TD Securities Inflation (MoM);Australia;AUD;1
+AUD_CompanyGrossOperatingProfits;20230605;01:30;Company Gross Operating Profits (QoQ);Australia;AUD;1
+CNY_CaixinServicesPMI;20230605;01:45;Caixin Services PMI;China;CNY;2
+IDR_Inflation;20230605;04:00;Inflation (MoM);Indonesia;IDR;1
+IDR_CoreInflation;20230605;04:00;Core Inflation (YoY);Indonesia;IDR;1
+RUB_S&PGlobalServicesPMI;20230605;06:00;S&P Global Services PMI;Russia;RUB;1
+EUR_GerTradeBalance;20230605;06:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerExports;20230605;06:00;Exports (MoM);Germany;EUR;1
+EUR_GerImports;20230605;06:00;Imports (MoM);Germany;EUR;1
+CHF_ConsumerPriceIndex;20230605;06:30;Consumer Price Index (YoY);Switzerland;CHF;1
+TRY_ProducerPriceIndex;20230605;07:00;Producer Price Index (YoY);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20230605;07:00;Consumer Price Index (YoY);Turkey;TRY;1
+EUR_ItaHCOBServicesPMI;20230605;07:45;HCOB Services PMI;Italy;EUR;2
+EUR_FraHCOBServicesPMI;20230605;07:50;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20230605;07:50;HCOB Composite PMI;France;EUR;1
+EUR_GerHCOBCompositePMI;20230605;07:55;HCOB Composite PMI;Germany;EUR;2
+EUR_GerHCOBServicesPMI;20230605;07:55;HCOB Services PMI;Germany;EUR;1
+EUR_EurHCOBServicesPMI;20230605;08:00;HCOB Services PMI;European Monetary Union;EUR;1
+EUR_EurHCOBCompositePMI;20230605;08:00;HCOB Composite PMI;European Monetary Union;EUR;2
+EUR_EurSentixInvestorConfidence;20230605;08:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+GBP_S&PGlobalCIPSCompositePMI;20230605;08:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSServicesPMI;20230605;08:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;1
+EUR_EurProducerPriceIndex;20230605;09:00;Producer Price Index (YoY);European Monetary Union;EUR;1
+MXN_ConsumerConfidence;20230605;12:00;Consumer Confidence s.a;Mexico;MXN;1
+EUR_EurCentralBankSpeech;20230605;13:00;ECB President Lagarde speech;European Monetary Union;EUR;3
+USD_S&PGlobalServicesPMI;20230605;13:45;S&P Global Services PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20230605;13:45;S&P Global Composite PMI;United States;USD;2
+USD_ISMServicesEmploymentIndex;20230605;14:00;ISM Services Employment Index;United States;USD;2
+USD_ISMServicesPricesPaid;20230605;14:00;ISM Services Prices Paid;United States;USD;2
+USD_ISMServicesPMI;20230605;14:00;ISM Services PMI;United States;USD;3
+USD_ISMServicesNewOrdersIndex;20230605;14:00;ISM Services New Orders Index;United States;USD;2
+USD_FactoryOrders;20230605;14:00;Factory Orders (MoM);United States;USD;2
+EUR_GerCentralBankSpeech;20230605;14:00;German Buba President Nagel speech;Germany;EUR;2
+KRW_MemorialDay;20230605;15:00;Memorial Day ;South Korea;KRW;0
+USD_Auction;20230605;15:30;6-Month Bill Auction;United States;USD;1
+SEK_NationalDay;20230605;22:00;National Day;Sweden;SEK;0
+GBP_RetailSales;20230605;23:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+JPY_LaborCashEarnings;20230605;23:30;Labor Cash Earnings (YoY);Japan;JPY;1
+JPY_OverallHouseholdSpending;20230605;23:30;Overall Household Spending (YoY);Japan;JPY;2

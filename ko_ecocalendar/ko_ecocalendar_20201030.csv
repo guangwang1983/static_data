@@ -1,0 +1,64 @@
+AUD_PrivateSectorCredit;20201030;00:30;Private Sector Credit (MoM);Australia;AUD;1
+AUD_ProducerPriceIndex;20201030;00:30;Producer Price Index (YoY);Australia;AUD;1
+JPY_AnnualizedHousingStarts;20201030;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_ConstructionOrders;20201030;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_HousingStarts;20201030;05:00;Housing Starts (YoY);Japan;JPY;1
+EUR_FraConsumerSpending;20201030;06:30;Consumer Spending (MoM);France;EUR;1
+EUR_FraGrossDomesticProduct;20201030;06:30;Gross Domestic Product (QoQ);France;EUR;2
+TRY_TradeBalance;20201030;07:00;Trade Balance;Turkey;TRY;1
+DKK_UnemploymentRate;20201030;07:00;Unemployment Rate;Denmark;DKK;1
+GBP_NationwideHousingPrices;20201030;07:00;Nationwide Housing Prices s.a (MoM);United Kingdom;GBP;1
+EUR_GerRetailSales;20201030;07:00;Retail Sales (MoM);Germany;EUR;2
+NOK_CreditIndicator;20201030;07:00;Credit Indicator;Norway;NOK;1
+CHF_RetailSales;20201030;07:30;Real Retail Sales (YoY);Switzerland;CHF;2
+EUR_FraConsumerPriceIndex;20201030;07:45;Consumer Price Index (EU norm) (YoY);France;EUR;1
+HUF_GrossWages;20201030;08:00;Gross Wages (YoY);Hungary;HUF;1
+CHF_KOFLeadingIndicator;20201030;08:00;KOF Leading Indicator;Switzerland;CHF;2
+TRY_ForeignArrivals;20201030;08:00;Foreign Arrivals;Turkey;TRY;1
+EUR_ItaUnemployment;20201030;08:00;Unemployment;Italy;EUR;1
+CZK_GrossDomesticProduct;20201030;08:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+HUF_TradeBalance;20201030;08:00;Trade Balance;Hungary;HUF;1
+PLN_ConsumerPriceIndex;20201030;09:00;Consumer Price Index (YoY);Poland;PLN;1
+EUR_GerGrossDomesticProduct;20201030;09:00;Gross Domestic Product (YoY);Germany;EUR;2
+NOK_RegisteredUnemployment;20201030;09:00;Registered Unemployment s.a;Norway;NOK;1
+EUR_ItaGrossDomesticProduct;20201030;09:00;Gross Domestic Product (QoQ);Italy;EUR;2
+EUR_EurGrossDomesticProduct;20201030;10:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+EUR_EurUnemploymentRate;20201030;10:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_EurHarmonizedIndexofConsumerPrices;20201030;10:00;Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20201030;10:00;Core Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_ItaConsumerPriceIndex;20201030;10:00;Consumer Price Index (YoY);Italy;EUR;1
+INR_FederalFiscalDeficitINR;20201030;11:00;Federal Fiscal Deficit, INR;India;INR;1
+INR_FXReservesUSD;20201030;11:30;FX Reserves, USD;India;INR;1
+EUR_EurCentralBankSpeech;20201030;12:00;ECB De Guindos speech;European Monetary Union;EUR;2
+ZAR_TradeBalance;20201030;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+INR_InfrastructureOutput;20201030;12:00;Infrastructure Output (YoY);India;INR;1
+BRL_UnemploymentRate;20201030;12:00;Unemployment Rate;Brazil;BRL;1
+CLP_Unemploymentrate;20201030;12:00;Unemployment rate;Chile;CLP;1
+USD_PersonalConsumptionExpendituresPriceIndex;20201030;12:30;Personal Consumption Expenditures - Price Index (YoY);United States;USD;1
+USD_CorePersonalConsumptionExpendituresPriceIndex;20201030;12:30;Core Personal Consumption Expenditures - Price Index (MoM);United States;USD;2
+USD_PersonalIncome;20201030;12:30;Personal Income (MoM);United States;USD;2
+USD_PersonalSpending;20201030;12:30;Personal Spending;United States;USD;2
+CAD_IndustrialProductPrice;20201030;12:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_RawMaterialPriceIndex;20201030;12:30;Raw Material Price Index;Canada;CAD;1
+USD_EmploymentCostIndex;20201030;12:30;Employment Cost Index;United States;USD;1
+CAD_GrossDomesticProduct;20201030;12:30;Gross Domestic Product (MoM);Canada;CAD;2
+CLP_IndustrialProduction;20201030;13:00;Industrial Production (YoY);Chile;CLP;1
+BRL_NominalBudgetBalance;20201030;13:30;Nominal Budget Balance;Brazil;BRL;1
+BRL_PrimaryBudgetSurplus;20201030;13:30;Primary Budget Surplus;Brazil;BRL;1
+USD_ChicagoPurchasingManagers'Index;20201030;13:45;Chicago Purchasing Managers' Index;United States;USD;2
+USD_UoM5yearConsumerInflationExpectation;20201030;14:00;UoM 5-year Consumer Inflation Expectation;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20201030;14:00;Michigan Consumer Sentiment Index;United States;USD;2
+EUR_GerCentralBankSpeech;20201030;14:30;German Buba President Weidmann speech;Germany;EUR;2
+COP_NationalJoblessRate;20201030;16:00;National Jobless Rate;Colombia;COP;1
+USD_BakerHughesUSOilRigCount;20201030;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20201030;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+USD_CFTCOilNCNetPositions;20201030;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20201030;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20201030;19:30;CFTC Gold NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20201030;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCS&P500NCNetPositions;20201030;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+AUD_CFTCAUDNCNetPositions;20201030;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+COP_Interestrate;20201030;20:00;Interest rate;Colombia;COP;1
+MXN_FiscalBalancepesos;20201030;22:00;Fiscal Balance, pesos;Mexico;MXN;1
+EUR_GerDayofReformation;20201030;22:00;Day of Reformation;Germany;EUR;0
+SEK_AllSaints'Day;20201030;22:00;All Saints' Day;Sweden;SEK;0

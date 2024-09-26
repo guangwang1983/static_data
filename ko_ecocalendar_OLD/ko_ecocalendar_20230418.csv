@@ -1,0 +1,25 @@
+AUD_RBAMeetingMinutes;20230418;01:30;RBA Meeting Minutes;Australia;AUD;3
+CNY_RetailSales;20230418;02:00;Retail Sales (YoY);China;CNY;3
+CNY_IndustrialProduction;20230418;02:00;Industrial Production (YoY);China;CNY;2
+CNY_FixedAssetInvestment;20230418;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+CNY_GrossDomesticProduct;20230418;02:00;Gross Domestic Product (YoY);China;CNY;3
+GBP_AverageEarningsIncludingBonus;20230418;06:00;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20230418;06:00;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_AverageEarningsExcludingBonus;20230418;06:00;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountRate;20230418;06:00;Claimant Count Rate;United Kingdom;GBP;2
+GBP_ClaimantCountChange;20230418;06:00;Claimant Count Change;United Kingdom;GBP;3
+IDR_BankIndonesiaRate;20230418;07:00;Bank Indonesia Rate;Indonesia;IDR;1
+EUR_EurZEWSurvey–EconomicSentiment;20230418;09:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;2
+GBP_Auction;20230418;09:30;30-y Bond Auction;United Kingdom;GBP;1
+USD_BuildingPermits;20230418;12:30;Building Permits (MoM);United States;USD;2
+USD_HousingStarts;20230418;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermitsChange;20230418;12:30;Building Permits Change;United States;USD;1
+USD_HousingStartsChange;20230418;12:30;Housing Starts Change;United States;USD;1
+CAD_ConsumerPriceIndex;20230418;12:30;Consumer Price Index (MoM);Canada;CAD;2
+USD_RedbookIndex;20230418;12:55;Redbook Index (YoY);United States;USD;1
+EUR_EurCentralBankSpeech;20230418;13:00;ECB Elderson speech;European Monetary Union;EUR;2
+NZD_GDTPriceIndex;20230418;15:00;GDT Price Index;New Zealand;NZD;1
+USD_Auction;20230418;15:30;52-Week Bill Auction;United States;USD;1
+CAD_CentralBankSpeech;20230418;15:30;BoC Rogers speech;Canada;CAD;2
+USD_CentralBankSpeech;20230418;17:00;Fed Bowman speech;United States;USD;2
+USD_APIWeeklyCrudeOilStock;20230418;20:30;API Weekly Crude Oil Stock;United States;USD;1

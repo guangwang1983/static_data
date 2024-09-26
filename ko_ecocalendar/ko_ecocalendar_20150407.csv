@@ -1,0 +1,34 @@
+AUD_ANZJobAdvertisements;20150407;01:30;ANZ Job Advertisements;Australia;AUD;1
+AUD_RetailSales;20150407;01:30;Retail Sales s.a. (MoM);Australia;AUD;2
+AUD_RBARateStatement;20150407;04:30;RBA Rate Statement;Australia;AUD;3
+AUD_RBAInterestRateDecision;20150407;04:30;RBA Interest Rate Decision;Australia;AUD;3
+INR_CashReserveRatio;20150407;05:30;Cash Reserve Ratio;India;INR;1
+INR_ReverseRepoRate;20150407;05:30;Reverse Repo Rate;India;INR;1
+INR_RBIInterestRateDecision;20150407;05:30;RBI Interest Rate Decision (Repo Rate);India;INR;1
+CHF_ForeignCurrencyReserves;20150407;07:00;Foreign Currency Reserves;Switzerland;CHF;1
+ZAR_PurchasingManagerIndex;20150407;07:15;Purchasing Manager Index;South Africa;ZAR;1
+SEK_IndustrialProductionValue;20150407;07:30;Industrial Production Value (MoM);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20150407;07:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+EUR_ItaHCOBServicesPMI;20150407;07:45;HCOB Services PMI;Italy;EUR;1
+EUR_FraHCOBServicesPMI;20150407;07:50;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20150407;07:50;HCOB Composite PMI;France;EUR;1
+EUR_GerHCOBCompositePMI;20150407;07:55;HCOB Composite PMI;Germany;EUR;1
+EUR_GerHCOBServicesPMI;20150407;07:55;HCOB Services PMI;Germany;EUR;1
+EUR_EurHCOBServicesPMI;20150407;08:00;HCOB Services PMI;European Monetary Union;EUR;1
+EUR_EurHCOBCompositePMI;20150407;08:00;HCOB Composite PMI;European Monetary Union;EUR;1
+EUR_EurSentixInvestorConfidence;20150407;08:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+GBP_S&PGlobalCIPSServicesPMI;20150407;08:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;2
+EUR_EurProducerPriceIndex;20150407;09:00;Producer Price Index (YoY);European Monetary Union;EUR;1
+PLN_CentralBankFXReserves;20150407;12:00;Central Bank FX Reserves;Poland;PLN;1
+CLP_TradeBalance;20150407;12:30;Trade Balance;Chile;CLP;1
+USD_CentralBankSpeech;20150407;12:50;Fed Minneapolis Kocherlakota speech;United States;USD;1
+USD_RedbookIndex;20150407;12:55;Redbook Index (YoY);United States;USD;1
+USD_JOLTSJobOpenings;20150407;14:00;JOLTS Job Openings;United States;USD;1
+DKK_CurrencyReserves;20150407;14:00;Currency Reserves;Denmark;DKK;1
+USD_IBDTIPPEconomicOptimism;20150407;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+TRY_TreasuryCashBalance;20150407;14:30;Treasury Cash Balance;Turkey;TRY;1
+USD_Auction;20150407;17:00;3-Year Note Auction;United States;USD;1
+USD_ConsumerCreditChange;20150407;19:00;Consumer Credit Change;United States;USD;2
+GBP_BRCShopPriceIndex;20150407;23:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1
+JPY_CurrentAccount;20150407;23:50;Current Account n.s.a.;Japan;JPY;1
+JPY_TradeBalanceBOPBasis;20150407;23:50;Trade Balance - BOP Basis;Japan;JPY;2

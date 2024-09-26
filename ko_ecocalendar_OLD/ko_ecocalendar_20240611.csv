@@ -1,0 +1,28 @@
+AUD_NationalAustraliaBankBusinessConfidence;20240611;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20240611;01:30;National Australia Bank Business Conditions;Australia;AUD;1
+IDR_RetailSales;20240611;04:00;Retail Sales (YoY);Indonesia;IDR;1
+GBP_EmploymentChange;20240611;06:00;Employment Change (3M);United Kingdom;GBP;3
+GBP_ILOUnemploymentRate;20240611;06:00;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_AverageEarningsExcludingBonus;20240611;06:00;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_AverageEarningsIncludingBonus;20240611;06:00;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountChange;20240611;06:00;Claimant Count Change;United Kingdom;GBP;3
+GBP_ClaimantCountRate;20240611;06:00;Claimant Count Rate;United Kingdom;GBP;2
+JPY_MachineToolOrders;20240611;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+CZK_ConsumerPriceIndex;20240611;07:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+USD_NFIBBusinessOptimismIndex;20240611;10:00;NFIB Business Optimism Index;United States;USD;1
+ZAR_ManufacturingProductionIndex;20240611;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+ILS_BudgetBalanceILS;20240611;11:00;Budget Balance - ILS;Israel;ILS;1
+USD_OPECMonthlyMarketReport;20240611;12:00;OPEC Monthly Market Report;United States;USD;1
+BRL_IPCAInflation;20240611;12:00;IPCA Inflation;Brazil;BRL;1
+MXN_IndustrialOutput;20240611;12:00;Industrial Output (YoY);Mexico;MXN;1
+CAD_BuildingPermits;20240611;12:30;Building Permits (MoM);Canada;CAD;1
+USD_RedbookIndex;20240611;12:55;Redbook Index (YoY);United States;USD;1
+EUR_EurCentralBankSpeech;20240611;16:45;ECB Elderson speech;Eurozone;EUR;2
+USD_Auction;20240611;17:00;10-Year Note Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20240611;20:30;API Weekly Crude Oil Stock;United States;USD;1
+ILS_Pentecost;20240611;21:00;Pentecost;Israel;ILS;0
+RUB_NationalDay;20240611;21:00;National Day ;Russia;RUB;0
+NZD_VisitorArrivals;20240611;22:45;Visitor Arrivals (YoY);New Zealand;NZD;1
+KRW_UnemploymentRate;20240611;23:00;Unemployment Rate;South Korea;KRW;1
+COP_ConsumerPriceIndex;20240611;23:00;Consumer Price Index (YoY);Colombia;COP;1
+JPY_ProducerPriceIndex;20240611;23:50;Producer Price Index (MoM);Japan;JPY;1

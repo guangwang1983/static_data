@@ -1,0 +1,29 @@
+CNY_HousePriceIndex;20150818;01:30;House Price Index ;China;CNY;1
+AUD_NewMotorVehicleSales;20150818;01:30;New Motor Vehicle Sales (MoM);Australia;AUD;1
+AUD_RBAMeetingMinutes;20150818;01:30;RBA Meeting Minutes;Australia;AUD;3
+IDR_Exports;20150818;03:00;Exports;Indonesia;IDR;1
+IDR_TradeBalance;20150818;03:00;Trade Balance;Indonesia;IDR;1
+IDR_Imports;20150818;03:00;Imports;Indonesia;IDR;1
+CZK_ProducerPriceIndex;20150818;07:00;Producer Price Index (YoY);Czech Republic;CZK;1
+GBP_RetailPriceIndex;20150818;08:30;Retail Price Index (MoM);United Kingdom;GBP;1
+GBP_DCLGHousePriceIndex;20150818;08:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ProducerPriceIndex;20150818;08:30;Producer Price Index - Output (YoY) n.s.a;United Kingdom;GBP;1
+GBP_PPICoreOutput;20150818;08:30;PPI Core Output (MoM) n.s.a;United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20150818;08:30;Consumer Price Index (MoM);United Kingdom;GBP;3
+IDR_BankIndonesiaRate;20150818;09:01;Bank Indonesia Rate;Indonesia;IDR;1
+TRY_CBRTInterestRateDecision;20150818;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+CLP_GrossDomesticProduct;20150818;11:30;Gross Domestic Product (YoY);Chile;CLP;1
+PLN_CorporateSectorWages;20150818;12:00;Corporate Sector Wages;Poland;PLN;1
+USD_BuildingPermits;20150818;12:30;Building Permits (MoM);United States;USD;2
+USD_HousingStarts;20150818;12:30;Housing Starts (MoM);United States;USD;2
+USD_RedbookIndex;20150818;12:55;Redbook Index (YoY);United States;USD;1
+RUB_ProducerPriceIndex;20150818;13:00;Producer Price Index (MoM);Russia;RUB;1
+NZD_GDTPriceIndex;20150818;15:26;GDT Price Index;New Zealand;NZD;1
+USD_Auction;20150818;15:30;52-Week Bill Auction;United States;USD;1
+KRW_ProducerPriceIndex;20150818;21:00;Producer Price Index Growth (MoM);South Korea;KRW;1
+USD_APIWeeklyCrudeOilStock;20150818;21:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_ProducerPriceIndex;20150818;22:45;Producer Price Index - Input (QoQ);New Zealand;NZD;1
+JPY_Exports;20150818;23:50;Exports (YoY);Japan;JPY;2
+JPY_Imports;20150818;23:50;Imports (YoY);Japan;JPY;2
+JPY_MerchandiseTradeBalanceTotal;20150818;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20150818;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;2

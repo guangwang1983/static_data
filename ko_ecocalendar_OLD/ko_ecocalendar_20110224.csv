@@ -1,0 +1,27 @@
+JPY_TokyoCPIexFreshFood;20110224;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;2
+JPY_TokyoCPIexFoodEnergy;20110224;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20110224;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;2
+JPY_NationalCPIexFoodEnergy;20110224;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20110224;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+GBP_CentralBankSpeech;20110224;18:30;BoE Sentance Speech;United Kingdom;GBP;2
+USD_EIACrudeOilStocksChange;20110224;16:00;EIA Crude Oil Stocks Change;United States;USD;1
+ISK_ConsumerPriceIndex;20110224;15:09;Consumer Price Index (YoY);Iceland;ISK;2
+USD_NewHomeSales;20110224;15:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20110224;14:00;New Home Sales Change (MoM);United States;USD;2
+USD_HousingPriceIndex;20110224;14:00;Housing Price Index (MoM);United States;USD;2
+USD_JoblessClaims;20110224;13:30;Continuing Jobless Claims;United States;USD;1
+USD_DurableGoodsOrders;20110224;13:30;Durable Goods Orders ex Transportation;United States;USD;2
+BRL_UnemploymentRate;20110224;12:30;Unemployment Rate;Brazil;BRL;1
+GBP_CBIDistributiveTradesSurveyRealized;20110224;11:00;CBI Distributive Trades Survey - Realized (MoM);United Kingdom;GBP;1
+ZAR_ProducerPriceIndex;20110224;10:30;Producer Price Index (MoM);South Africa;ZAR;1
+EUR_EurConsumerConfidence;20110224;10:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurEconomicSentimentIndicator;20110224;10:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+EUR_EurIndustrialConfidence;20110224;10:00;Industrial Confidence;European Monetary Union;EUR;1
+PLN_Unemployment;20110224;09:00;Unemployment (MoM);Poland;PLN;3
+PLN_RetailSales;20110224;09:00;Retail Sales (YoY);Poland;PLN;2
+SEK_ConsumerConfidence;20110224;08:15;Consumer Confidence (MoM);Sweden;SEK;2
+CHF_EmploymentLevel;20110224;08:15;Employment Level (QoQ);Switzerland;CHF;1
+EUR_FinIndustrialConfidence;20110224;07:00;Industrial Confidence;Finland;EUR;2
+EUR_FinConsumerConfidence;20110224;07:00;Consumer Confidence;Finland;EUR;2
+EUR_GerGrossDomesticProduct;20110224;07:00;Gross Domestic Product (QoQ);Germany;EUR;2
+AUD_PrivateCapitalExpenditure;20110224;00:30;Private Capital Expenditure;Australia;AUD;1

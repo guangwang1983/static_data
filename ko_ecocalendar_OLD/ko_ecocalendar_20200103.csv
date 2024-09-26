@@ -1,0 +1,34 @@
+USD_TotalVehicleSales;20200103;20:30;Total Vehicle Sales;United States;USD;1
+USD_FOMCMinutes;20200103;19:00;FOMC Minutes;United States;USD;3
+CAD_CentralBankSpeech;20200103;18:15;BoC Wilkins speech;Canada;CAD;2
+USD_BakerHughesUSOilRigCount;20200103;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_EIACrudeOilStocksChange;20200103;16:00;EIA Crude Oil Stocks Change;United States;USD;1
+USD_EIANaturalGasStorageChange;20200103;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_ISMManufacturingPMI;20200103;15:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMPricesPaid;20200103;15:00;ISM Prices Paid;United States;USD;2
+USD_ConstructionSpending;20200103;15:00;Construction Spending (MoM);United States;USD;1
+USD_ISMNYBusinessConditionsIndex;20200103;14:45;ISM-NY Business Conditions Index;United States;USD;1
+EUR_GerConsumerPriceIndex;20200103;13:00;Consumer Price Index (YoY);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20200103;13:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+SGD_PurchasingManagersIndex;20200103;13:00;Purchasing Managers Index;Singapore;SGD;1
+CZK_BudgetBalance;20200103;13:00;Budget Balance;Czech Republic;CZK;1
+INR_BankLoanGrowth;20200103;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20200103;11:30;FX Reserves, USD;India;INR;1
+GBP_NetLendingtoIndividuals;20200103;09:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_MarkitConstructionPMI;20200103;09:30;Markit Construction PMI;United Kingdom;GBP;1
+GBP_ConsumerCredit;20200103;09:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20200103;09:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_M4MoneySupply;20200103;09:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+EUR_EurPrivateLoans;20200103;09:00;Private Loans (YoY);European Monetary Union;EUR;1
+EUR_EurM3MoneySupply;20200103;09:00;M3 Money Supply (3m);European Monetary Union;EUR;1
+EUR_GerUnemploymentRate;20200103;08:55;Unemployment Rate s.a.;Germany;EUR;2
+EUR_GerUnemploymentChange;20200103;08:55;Unemployment Change;Germany;EUR;2
+HKD_RetailSales;20200103;08:30;Retail Sales;Hong Kong SAR;HKD;1
+CHF_SVMEPurchasingManagers'Index;20200103;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+EUR_SpaUnemploymentChange;20200103;08:00;Unemployment Change;Spain;EUR;1
+EUR_FraConsumerPriceIndex;20200103;07:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+TRY_ProducerPriceIndex;20200103;07:00;Producer Price Index (MoM);Turkey;TRY;1
+GBP_NationwideHousingPrices;20200103;07:00;Nationwide Housing Prices s.a (MoM);United Kingdom;GBP;1
+TRY_ConsumerPriceIndex;20200103;07:00;Consumer Price Index (YoY);Turkey;TRY;1
+AUD_ANZJobAdvertisements;20200103;00:30;ANZ Job Advertisements;Australia;AUD;1
+GBP_BRCShopPriceIndex;20200103;00:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1

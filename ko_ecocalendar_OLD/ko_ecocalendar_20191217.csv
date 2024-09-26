@@ -1,0 +1,37 @@
+JPY_AdjustedMerchandiseTradeBalance;20191217;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_MerchandiseTradeBalanceTotal;20191217;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Imports;20191217;23:50;Imports (YoY);Japan;JPY;2
+JPY_Exports;20191217;23:50;Exports (YoY);Japan;JPY;2
+NZD_CurrentAccount;20191217;21:45;Current Account (QoQ);New Zealand;NZD;1
+USD_APIWeeklyCrudeOilStock;20191217;21:30;API Weekly Crude Oil Stock;United States;USD;1
+ARS_GrossDomesticProduct;20191217;19:00;Gross Domestic Product (YoY)	;Argentina;ARS;1
+USD_CentralBankSpeech;20191217;17:30;Fed Rosengren speech;United States;USD;2
+NZD_GDTPriceIndex;20191217;15:20;GDT Price Index;New Zealand;NZD;2
+USD_JOLTSJobOpenings;20191217;15:00;JOLTS Job Openings;United States;USD;1
+USD_IBDTIPPEconomicOptimism;20191217;15:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+USD_IndustrialProduction;20191217;14:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20191217;14:15;Capacity Utilization;United States;USD;1
+USD_RedbookIndex;20191217;13:55;Redbook Index (YoY);United States;USD;1
+USD_HousingStarts;20191217;13:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20191217;13:30;Building Permits (MoM);United States;USD;2
+USD_HousingStartsChange;20191217;13:30;Housing Starts Change;United States;USD;1
+USD_BuildingPermitsChange;20191217;13:30;Building Permits Change;United States;USD;1
+CAD_ManufacturingShipments;20191217;13:30;Manufacturing Shipments (MoM);Canada;CAD;1
+EUR_SloCurrentAccount;20191217;13:30;Current Account Balance EUR;Slovakia;EUR;1
+HUF_MNBInterestRateDecision;20191217;13:00;MNB Interest Rate Decision;Hungary;HUF;1
+RUB_ProducerPriceIndex;20191217;13:00;Producer Price Index (YoY);Russia;RUB;1
+GBP_CBIIndustrialTrendsSurveyOrders;20191217;11:00;CBI Industrial Trends Survey - Orders (MoM);United Kingdom;GBP;1
+EUR_EurTradeBalance;20191217;10:00;Trade Balance s.a.;European Monetary Union;EUR;1
+GBP_ClaimantCountChange;20191217;09:30;Claimant Count Change;United Kingdom;GBP;2
+GBP_ClaimantCountRate;20191217;09:30;Claimant Count Rate;United Kingdom;GBP;1
+GBP_AverageEarningsExcludingBonus;20191217;09:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20191217;09:30;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_AverageEarningsIncludingBonus;20191217;09:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+EUR_ItaGlobalTradeBalance;20191217;09:00;Global Trade Balance;Italy;EUR;1
+EUR_ItaTradeBalanceEU;20191217;09:00;Trade Balance EU;Italy;EUR;1
+HKD_Unemploymentrate;20191217;08:30;Unemployment rate;Hong Kong SAR;HKD;1
+AUD_HomeLoans;20191217;00:30;Home Loans;Australia;AUD;2
+AUD_InvestmentLendingforHomes;20191217;00:30;Investment Lending for Homes;Australia;AUD;2
+AUD_RBAMeetingMinutes;20191217;00:30;RBA Meeting Minutes;Australia;AUD;3
+NZD_ANZActivityOutlook;20191217;00:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20191217;00:00;ANZ Business Confidence;New Zealand;NZD;1

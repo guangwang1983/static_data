@@ -1,0 +1,8 @@
+1) Let SlotManager check if you want 30 min warmup. by looking at if SW period is negative for first 30 min. 
+if yes, then change starttime to starttime + 30 min.
+
+2) Let SlotManager check if you want to trade last segment of a multi segment portfolio. So for ABC check 18.30-21.30 by looking at if SW period is negative. 
+if yes, then change endtime to 1830.
+Must be customized for each segment.
+
+

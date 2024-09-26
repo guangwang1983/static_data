@@ -1,0 +1,44 @@
+NZD_BusinessNZPMI;20131212;21:30;Business NZ PMI;New Zealand;NZD;2
+CLP_BCCHInterestRate;20131212;21:00;BCCH Interest Rate;Chile;CLP;1
+CAD_CentralBankSpeech;20131212;18:05;BoC Governor Poloz speech;Canada;CAD;3
+USD_Auction;20131212;18:00;30-Year Bond Auction;United States;USD;1
+USD_EIANaturalGasStorageChange;20131212;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_BusinessInventories;20131212;15:00;Business Inventories;United States;USD;2
+MXN_IndustrialOutput;20131212;14:00;Industrial Output (YoY);Mexico;MXN;1
+USD_RetailSales;20131212;13:30;Retail Sales ex Autos (MoM);United States;USD;2
+USD_JoblessClaims;20131212;13:30;Initial Jobless Claims;United States;USD;2
+USD_ExportPriceIndex;20131212;13:30;Export Price Index (MoM);United States;USD;1
+USD_ImportPriceIndex;20131212;13:30;Import Price Index (MoM);United States;USD;1
+CAD_CapacityUtilization;20131212;13:30;Capacity Utilization;Canada;CAD;1
+CAD_NewHousingPriceIndex;20131212;13:30;New Housing Price Index (YoY);Canada;CAD;2
+RUB_CentralBankReserves;20131212;12:00;Central Bank Reserves $;Russia;RUB;1
+INR_IndustrialOutput;20131212;12:00;Industrial Output;India;INR;1
+INR_CumulativeIndustrialOutput;20131212;12:00;Cumulative Industrial Output;India;INR;1
+EUR_IreHICP;20131212;11:00;HICP (YoY);Ireland;EUR;1
+EUR_IreConsumerPriceIndex;20131212;11:00;Consumer Price Index (YoY);Ireland;EUR;1
+BRL_RetailSales;20131212;11:00;Retail Sales (MoM);Brazil;BRL;1
+RUB_ForeignTrade;20131212;10:00;Foreign Trade;Russia;RUB;1
+EUR_EurIndustrialProduction;20131212;10:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;2
+ZAR_ProducerPriceIndex;20131212;09:30;Producer Price Index (MoM);South Africa;ZAR;1
+EUR_ItaConsumerPriceIndex;20131212;09:00;Consumer Price Index (YoY);Italy;EUR;1
+CHF_SNBPressConference;20131212;09:00;SNB Press Conference;Switzerland;CHF;3
+EUR_EurECBMonthlyReport;20131212;09:00;ECB Monthly Report;European Monetary Union;EUR;3
+CHF_SNBInterestRateDecision;20131212;08:30;SNB Interest Rate Decision;Switzerland;CHF;3
+SEK_UnemploymentRate;20131212;08:30;Unemployment Rate;Sweden;SEK;1
+SEK_ConsumerPriceIndex;20131212;08:30;Consumer Price Index (MoM);Sweden;SEK;1
+EUR_NetRetailSales;20131212;08:30;Retail Sales (YoY);Netherlands, The;EUR;1
+EUR_SloCoreInflation;20131212;08:00;Core Inflation (YoY);Slovakia;EUR;1
+EUR_SloHeadlineInflation;20131212;08:00;Headline Inflation (MoM);Slovakia;EUR;1
+EUR_EurCentralBankSpeech;20131212;08:00;ECB President Draghi speech;European Monetary Union;EUR;2
+EUR_FraConsumerPriceIndex;20131212;07:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraInflationextobacco;20131212;07:45;Inflation ex-tobacco (MoM);France;EUR;1
+INR_ManufacturingOutput;20131212;05:30;Manufacturing Output;India;INR;1
+IDR_BankIndonesiaRate;20131212;04:00;Bank Indonesia Rate;Indonesia;IDR;1
+KRW_BoKInterestRateDecision;20131212;01:08;BoK Interest Rate Decision;South Korea;KRW;1
+AUD_PartTimeEmployment;20131212;00:30;Part-Time Employment;Australia;AUD;1
+AUD_UnemploymentRate;20131212;00:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_EmploymentChange;20131212;00:30;Employment Change s.a.;Australia;AUD;3
+AUD_FulltimeEmployment;20131212;00:30;Fulltime Employment;Australia;AUD;2
+AUD_ParticipationRate;20131212;00:30;Participation Rate;Australia;AUD;2
+MXN_DayoftheVirginofGuadalupe;20131212;00:00;Day of the Virgin of Guadalupe ;Mexico;MXN;0
+AUD_ConsumerInflationExpectations;20131212;00:00;Consumer Inflation Expectations;Australia;AUD;2

@@ -1,0 +1,37 @@
+KRW_UnemploymentRate;20180614;23:00;Unemployment Rate;South Korea;KRW;1
+NZD_BusinessNZPMI;20180614;22:30;Business NZ PMI;New Zealand;NZD;2
+ARS_ConsumerPriceIndex;20180614;19:00;Consumer Price Index (MoM);Argentina;ARS;1
+USD_EIANaturalGasStorageChange;20180614;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_BusinessInventories;20180614;14:00;Business Inventories;United States;USD;1
+USD_RetailSales;20180614;12:30;Retail Sales Control Group;United States;USD;3
+USD_JoblessClaims;20180614;12:30;Initial Jobless Claims;United States;USD;2
+USD_ExportPriceIndex;20180614;12:30;Export Price Index (MoM);United States;USD;1
+USD_ImportPriceIndex;20180614;12:30;Import Price Index (MoM);United States;USD;1
+EUR_EurECBMonetaryPolicyStatementandPressConference;20180614;12:30;ECB Monetary Policy Statement and Press Conference;European Monetary Union;EUR;3
+CAD_NewHousingPriceIndex;20180614;12:30;New Housing Price Index (YoY);Canada;CAD;1
+EUR_EurECBDepositRateDecision;20180614;11:45;ECB Deposit Rate Decision;European Monetary Union;EUR;3
+EUR_EurECBInterestRateDecision;20180614;11:45;ECB Interest Rate Decision;European Monetary Union;EUR;3
+EUR_GreUnemploymentRate;20180614;09:00;Unemployment Rate (QoQ);Greece;EUR;1
+GBP_RetailSales;20180614;08:30;Retail Sales ex-Fuel (MoM);United Kingdom;GBP;2
+SEK_ConsumerPriceIndex;20180614;07:30;Consumer Price Index (YoY);Sweden;SEK;1
+EUR_SloCoreInflation;20180614;07:00;Core Inflation (YoY);Slovakia;EUR;1
+EUR_SloHeadlineInflation;20180614;07:00;Headline Inflation (YoY);Slovakia;EUR;1
+EUR_FraConsumerPriceIndex;20180614;06:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraInflationextobacco;20180614;06:45;Inflation ex-tobacco (MoM);France;EUR;1
+INR_WPIInflation;20180614;06:30;WPI Inflation;India;INR;1
+EUR_GerConsumerPriceIndex;20180614;06:00;Consumer Price Index (MoM);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20180614;06:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+EUR_FinConsumerPriceIndex;20180614;06:00;Consumer Price Index (YoY);Finland;EUR;1
+JPY_IndustrialProduction;20180614;04:30;Industrial Production (YoY);Japan;JPY;1
+JPY_CapacityUtilization;20180614;04:30;Capacity Utilization;Japan;JPY;1
+CNY_RetailSales;20180614;02:00;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20180614;02:00;Industrial Production (YoY);China;CNY;2
+CNY_FixedAssetInvestment;20180614;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+CNY_FDIForeignDirectInvestment;20180614;02:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+AUD_PartTimeEmployment;20180614;01:30;Part-Time Employment;Australia;AUD;1
+AUD_UnemploymentRate;20180614;01:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_EmploymentChange;20180614;01:30;Employment Change s.a.;Australia;AUD;3
+AUD_FulltimeEmployment;20180614;01:30;Fulltime Employment;Australia;AUD;1
+AUD_ParticipationRate;20180614;01:30;Participation Rate;Australia;AUD;2
+AUD_ConsumerInflationExpectations;20180614;01:00;Consumer Inflation Expectations;Australia;AUD;2
+EUR_EurEcoFinMeeting;20180614;00:00;EcoFin Meeting;European Monetary Union;EUR;2

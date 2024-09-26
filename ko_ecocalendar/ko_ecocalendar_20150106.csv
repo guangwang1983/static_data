@@ -1,0 +1,38 @@
+RUB_Bankholiday;20150106;00:00;Bank holiday;Russia;RUB;0
+COP_Epiphany;20150106;00:00;Epiphany;Colombia;COP;0
+EUR_ItaEpiphany;20150106;00:00;Epiphany;Italy;EUR;0
+SEK_Epiphany;20150106;00:00;Epiphany;Sweden;SEK;0
+PLN_Epiphany;20150106;00:00;Epiphany;Poland;PLN;0
+AUD_TradeBalance;20150106;00:30;Trade Balance (MoM);Australia;AUD;2
+AUD_Imports;20150106;00:30;Imports (MoM);Australia;AUD;1
+AUD_Exports;20150106;00:30;Exports (MoM);Australia;AUD;1
+COP_ConsumerPriceIndex;20150106;01:00;Consumer Price Index (MoM);Colombia;COP;1
+JPY_JibunBankServicesPMI;20150106;01:35;Jibun Bank Services PMI;Japan;JPY;2
+CNY_CaixinServicesPMI;20150106;01:45;Caixin Services PMI;China;CNY;2
+RUB_S&PGlobalServicesPMI;20150106;05:00;S&P Global Services PMI;Russia;RUB;1
+DKK_IndustrialOutlook;20150106;07:00;Industrial Outlook;Denmark;DKK;1
+IDR_BankIndonesiaRate;20150106;07:00;Bank Indonesia Rate;Indonesia;IDR;1
+ZAR_PurchasingManagerIndex;20150106;07:15;Purchasing Manager Index;South Africa;ZAR;1
+EUR_FraConsumerConfidence;20150106;07:45;Consumer Confidence;France;EUR;1
+HUF_UnemploymentRate;20150106;08:00;Unemployment Rate (3M);Hungary;HUF;1
+DKK_UnemploymentRate;20150106;08:00;Unemployment Rate;Denmark;DKK;1
+EUR_ItaHCOBServicesPMI;20150106;08:45;HCOB Services PMI;Italy;EUR;1
+EUR_FraHCOBServicesPMI;20150106;08:50;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20150106;08:50;HCOB Composite PMI;France;EUR;1
+EUR_GerHCOBCompositePMI;20150106;08:55;HCOB Composite PMI;Germany;EUR;1
+EUR_GerHCOBServicesPMI;20150106;08:55;HCOB Services PMI;Germany;EUR;1
+EUR_EurHCOBServicesPMI;20150106;09:00;HCOB Services PMI;European Monetary Union;EUR;1
+EUR_EurHCOBCompositePMI;20150106;09:00;HCOB Composite PMI;European Monetary Union;EUR;1
+GBP_BoECreditConditionsSurvey;20150106;09:30;BoE Credit Conditions Survey;United Kingdom;GBP;1
+GBP_S&PGlobalCIPSServicesPMI;20150106;09:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;2
+GBP_Auction;20150106;11:19;10-y Bond Auction;United Kingdom;GBP;1
+CAD_IndustrialProductPrice;20150106;13:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_RawMaterialPriceIndex;20150106;13:30;Raw Material Price Index;Canada;CAD;1
+USD_RedbookIndex;20150106;13:55;Redbook Index (YoY);United States;USD;1
+USD_S&PGlobalCompositePMI;20150106;14:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20150106;14:45;S&P Global Services PMI;United States;USD;2
+USD_ISMServicesPMI;20150106;15:00;ISM Services PMI;United States;USD;3
+USD_FactoryOrders;20150106;15:00;Factory Orders (MoM);United States;USD;2
+NZD_GDTPriceIndex;20150106;15:00;GDT Price Index;New Zealand;NZD;1
+USD_Auction;20150106;16:30;52-Week Bill Auction;United States;USD;1
+AUD_AiGPerformanceofServicesIndex;20150106;22:30;AiG Performance of Services Index;Australia;AUD;2

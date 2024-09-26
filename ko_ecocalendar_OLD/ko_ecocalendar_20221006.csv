@@ -1,0 +1,25 @@
+NZD_ANZCommodityPrice;20221006;00:00;ANZ Commodity Price;New Zealand;NZD;1
+AUD_TradeBalance;20221006;00:30;Trade Balance (MoM);Australia;AUD;3
+AUD_Imports;20221006;00:30;Imports (MoM);Australia;AUD;2
+AUD_Exports;20221006;00:30;Exports (MoM);Australia;AUD;2
+SEK_NewOrdersManufacturing;20221006;06:00;New Orders Manufacturing (YoY);Sweden;SEK;1
+HUF_IndustrialOutput;20221006;07:00;Industrial Output (YoY);Hungary;HUF;1
+HUF_RetailSales;20221006;07:00;Retail Sales (YoY);Hungary;HUF;1
+CZK_RetailSales;20221006;07:00;Retail Sales (YoY);Czech Republic;CZK;1
+GBP_S&PGlobalConstructionPMI;20221006;08:30;S&P Global Construction PMI;United Kingdom;GBP;1
+EUR_EurRetailSales;20221006;09:00;Retail Sales (YoY);European Monetary Union;EUR;3
+USD_ChallengerJobCuts;20221006;11:30;Challenger Job Cuts;United States;USD;1
+EUR_EurECBMonetaryPolicyMeetingAccounts;20221006;11:30;ECB Monetary Policy Meeting Accounts;European Monetary Union;EUR;2
+USD_JoblessClaims;20221006;12:30;Continuing Jobless Claims;United States;USD;1
+RUB_CentralBankReserves;20221006;13:00;Central Bank Reserves $;Russia;RUB;1
+CAD_IveyPurchasingManagersIndex;20221006;14:00;Ivey Purchasing Managers Index;Canada;CAD;2
+USD_EIANaturalGasStorageChange;20221006;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20221006;15:30;4-Week Bill Auction;United States;USD;1
+CAD_CentralBankSpeech;20221006;15:35;BoC Governor Macklem speech;Canada;CAD;3
+CNY_NationalDay;20221006;16:00;National Day;China;CNY;0
+USD_TotalVehicleSales;20221006;19:30;Total Vehicle Sales;United States;USD;1
+USD_CentralBankSpeech;20221006;21:00;Fed Waller speech;United States;USD;2
+KRW_CurrentAccount;20221006;23:00;Current Account Balance;South Korea;KRW;1
+JPY_LaborCashEarnings;20221006;23:30;Labor Cash Earnings (YoY);Japan;JPY;1
+JPY_OverallHouseholdSpending;20221006;23:30;Overall Household Spending (YoY);Japan;JPY;2
+JPY_JPForeignReserves;20221006;23:50;JP Foreign Reserves;Japan;JPY;1

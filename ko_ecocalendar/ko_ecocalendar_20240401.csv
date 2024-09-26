@@ -1,0 +1,27 @@
+KRW_TradeBalance;20240401;00:00;Trade Balance;South Korea;KRW;1
+IDR_S&PGlobalManufacturingPMI;20240401;00:30;S&P Global Manufacturing PMI;Indonesia;IDR;1
+KRW_S&PGlobalManufacturingPMI;20240401;00:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+JPY_JibunBankManufacturingPMI;20240401;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+CNY_CaixinManufacturingPMI;20240401;01:45;Caixin Manufacturing PMI;China;CNY;3
+IDR_Inflation;20240401;04:00;Inflation (MoM);Indonesia;IDR;1
+IDR_CoreInflation;20240401;04:00;Core Inflation (YoY);Indonesia;IDR;1
+CAD_EasterMonday;20240401;05:00;Easter Monday;Canada;CAD;0
+RUB_S&PGlobalManufacturingPMI;20240401;06:00;S&P Global Manufacturing PMI;Russia;RUB;1
+SEK_PurchasingManagersIndexManufacturing;20240401;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+GBP_NationwideHousingPrices;20240401;07:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;1
+CLP_IMACEC;20240401;11:30;IMACEC;Chile;CLP;1
+ZAR_TotalNewVehicleSales;20240401;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+BRL_S&PGlobalManufacturingPMI;20240401;13:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+CAD_S&PGlobalManufacturingPMI;20240401;13:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20240401;13:45;S&P Global Manufacturing PMI;United States;USD;1
+USD_ISMManufacturingPMI;20240401;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20240401;14:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ISMManufacturingNewOrdersIndex;20240401;14:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ISMManufacturingEmploymentIndex;20240401;14:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ConstructionSpending;20240401;14:00;Construction Spending (MoM);United States;USD;1
+CAD_BankofCanadaBusinessOutlookSurvey;20240401;14:30;Bank of Canada Business Outlook Survey;Canada;CAD;2
+USD_Auction;20240401;15:30;6-Month Bill Auction;United States;USD;1
+AUD_JudoBankManufacturingPMI;20240401;22:00;Judo Bank Manufacturing PMI;Australia;AUD;1
+KRW_ConsumerPriceIndex;20240401;23:00;Consumer Price Index Growth (MoM);South Korea;KRW;1
+GBP_BRCShopPriceIndex;20240401;23:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1
+JPY_MonetaryBase;20240401;23:50;Monetary Base (YoY);Japan;JPY;1

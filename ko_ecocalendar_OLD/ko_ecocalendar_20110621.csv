@@ -1,0 +1,16 @@
+NZD_CurrentAccount;20110621;22:45;Current Account (QoQ);New Zealand;NZD;2
+USD_ExistingHomeSalesChange;20110621;14:00;Existing Home Sales Change (MoM);United States;USD;2
+USD_ExistingHomeSales;20110621;14:00;Existing Home Sales (MoM);United States;USD;2
+MXN_PrivateSpending;20110621;13:00;Private Spending (YoY);Mexico;MXN;1
+CAD_RetailSales;20110621;12:30;Retail Sales ex Autos (MoM);Canada;CAD;1
+CAD_LeadingIndicators;20110621;12:30;Leading Indicators (MoM);Canada;CAD;2
+BRL_MidmonthInflation;20110621;12:00;Mid-month Inflation;Brazil;BRL;1
+GBP_CBIIndustrialTrendsSurveyOrders;20110621;10:00;CBI Industrial Trends Survey - Orders (MoM);United Kingdom;GBP;1
+EUR_FinUnemploymentRate;20110621;09:00;Unemployment Rate;Finland;EUR;1
+EUR_EurZEWSurveyEconomicSentiment;20110621;09:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurveyEconomicSentiment;20110621;09:00;ZEW Survey - Economic Sentiment;Germany;EUR;2
+EUR_GerZEWSurveyCurrentSituation;20110621;09:00;ZEW Survey - Current Situation;Germany;EUR;2
+GBP_PublicSectorNetBorrowing;20110621;08:30;Public Sector Net Borrowing;United Kingdom;GBP;2
+JPY_AllIndustryActivityIndex;20110621;04:30;All Industry Activity Index (MoM);Japan;JPY;2
+AUD_RBAMeetingMinutes;20110621;01:30;RBA Meeting Minutes;Australia;AUD;3
+RUB_UnemploymentRate;20110621;00:00;Unemployment Rate;Russia;RUB;1

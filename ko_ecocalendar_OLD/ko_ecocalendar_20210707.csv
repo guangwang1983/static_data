@@ -1,0 +1,45 @@
+JPY_BankLending;20210707;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20210707;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20210707;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_CurrentAccount;20210707;23:50;Current Account n.s.a.;Japan;JPY;2
+JPY_TradeBalanceBOPBasis;20210707;23:50;Trade Balance - BOP Basis;Japan;JPY;1
+GBP_RICSHousingPriceBalance;20210707;23:01;RICS Housing Price Balance;United Kingdom;GBP;1
+USD_APIWeeklyCrudeOilStock;20210707;20:30;API Weekly Crude Oil Stock;United States;USD;1
+ARS_IndustrialOutput;20210707;19:00;Industrial Output n.s.a (YoY);Argentina;ARS;1
+USD_FOMCMinutes;20210707;18:00;FOMC Minutes;United States;USD;3
+RUB_ConsumerPriceIndex;20210707;16:00;Consumer Price Index (MoM);Russia;RUB;1
+USD_FedMonetaryPolicyReport;20210707;15:00;Fed Monetary Policy Report;United States;USD;2
+USD_JOLTSJobOpenings;20210707;14:00;JOLTS Job Openings;United States;USD;1
+CAD_IveyPurchasingManagersIndex;20210707;14:00;Ivey Purchasing Managers Index;Canada;CAD;2
+USD_RedbookIndex;20210707;12:55;Redbook Index (YoY);United States;USD;1
+PLN_CentralBankFXReserves;20210707;12:00;Central Bank FX Reserves;Poland;PLN;1
+RON_Interestratedecision;20210707;12:00;Interest rate decision;Romania;RON;1
+BRL_RetailSales;20210707;12:00;Retail Sales (MoM);Brazil;BRL;1
+CLP_TradeBalance;20210707;11:30;Trade Balance;Chile;CLP;1
+USD_MBAMortgageApplications;20210707;11:00;MBA Mortgage Applications;United States;USD;1
+EUR_EurEuropeanCommissionreleasesEconomicGrowthForecasts;20210707;09:00;European Commission releases Economic Growth Forecasts;European Monetary Union;EUR;2
+SGD_ForeignReserves;20210707;09:00;Foreign Reserves (MoM);Singapore;SGD;1
+EUR_GreUnemploymentRate;20210707;09:00;Unemployment Rate (MoM);Greece;EUR;1
+EUR_ItaRetailSales;20210707;08:00;Retail Sales n.s.a (YoY);Italy;EUR;1
+CNY_ForeignExchangeReserves;20210707;08:00;Foreign Exchange Reserves (MoM);China;CNY;1
+SEK_IndustrialProductionValue;20210707;07:30;Industrial Production Value (MoM);Sweden;SEK;1
+HUF_IndustrialOutput;20210707;07:00;Industrial Output (YoY);Hungary;HUF;1
+EUR_AusWholesalePrices;20210707;07:00;Wholesale Prices n.s.a (YoY);Austria;EUR;1
+CZK_IndustrialProduction;20210707;07:00;Industrial Production (YoY);Czech Republic;CZK;1
+CHF_ForeignCurrencyReserves;20210707;07:00;Foreign Currency Reserves;Switzerland;CHF;1
+CZK_Constructionoutput;20210707;07:00;Construction output (YoY);Czech Republic;CZK;1
+CZK_ForeignTradeBalance;20210707;07:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+EUR_FraImportsEUR;20210707;06:45;Imports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20210707;06:45;Trade Balance EUR;France;EUR;1
+EUR_FraExportsEUR;20210707;06:45;Exports, EUR;France;EUR;1
+EUR_FraCurrentAccount;20210707;06:45;Current Account;France;EUR;1
+EUR_GerIndustrialProduction;20210707;06:00;Industrial Production n.s.a. w.d.a. (YoY);Germany;EUR;1
+DKK_IndustrialProduction;20210707;06:00;Industrial Production (MoM);Denmark;DKK;1
+NOK_ManufacturingOutput;20210707;06:00;Manufacturing Output;Norway;NOK;1
+GBP_HalifaxHousePrices;20210707;06:00;Halifax House Prices (YoY/3m);United Kingdom;GBP;1
+ZAR_Net$Gold&ForexReserve;20210707;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+ZAR_Gross$Gold&ForexReserve;20210707;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+JPY_LeadingEconomicIndex;20210707;05:00;Leading Economic Index;Japan;JPY;2
+JPY_CoincidentIndex;20210707;05:00;Coincident Index;Japan;JPY;1
+IDR_RetailSales;20210707;04:00;Retail Sales (YoY);Indonesia;IDR;1
+AUD_ANZJobAdvertisements;20210707;01:30;ANZ Job Advertisements;Australia;AUD;1

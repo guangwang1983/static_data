@@ -1,0 +1,30 @@
+COP_ConsumerPriceIndex;20130705;18:00;Consumer Price Index (YoY);Colombia;COP;1
+JPY_JPForeignReserves;20130705;15:00;JP Foreign Reserves;Japan;JPY;1
+CAD_IveyPurchasingManagersIndex;20130705;14:00;Ivey Purchasing Managers Index s.a;Canada;CAD;2
+CLP_IMACEC;20130705;12:30;IMACEC;Chile;CLP;1
+USD_NonfarmPayrolls;20130705;12:30;Nonfarm Payrolls;United States;USD;3
+USD_AverageHourlyEarnings;20130705;12:30;Average Hourly Earnings (MoM);United States;USD;2
+USD_UnemploymentRate;20130705;12:30;Unemployment Rate;United States;USD;3
+USD_AverageWeeklyHours;20130705;12:30;Average Weekly Hours;United States;USD;1
+CAD_ParticipationRate;20130705;12:30;Participation Rate;Canada;CAD;2
+CAD_NetChangeinEmployment;20130705;12:30;Net Change in Employment;Canada;CAD;3
+CAD_UnemploymentRate;20130705;12:30;Unemployment Rate;Canada;CAD;3
+BRL_IPCAInflation;20130705;12:00;IPCA Inflation;Brazil;BRL;1
+INR_FXReservesUSD;20130705;11:30;FX Reserves, USD;India;INR;1
+EUR_GerFactoryOrders;20130705;10:00;Factory Orders s.a. (MoM);Germany;EUR;1
+NOK_ManufacturingOutput;20130705;08:00;Manufacturing Output;Norway;NOK;1
+EUR_AusWholesalePrices;20130705;07:30;Wholesale Prices n.s.a (MoM);Austria;EUR;1
+CHF_ConsumerPriceIndex;20130705;07:15;Consumer Price Index (MoM);Switzerland;CHF;1
+HUF_IndustrialOutput;20130705;07:00;Industrial Output (YoY);Hungary;HUF;1
+CHF_ForeignCurrencyReserves;20130705;07:00;Foreign Currency Reserves;Switzerland;CHF;1
+EUR_SpaIndustrialOutputCalAdjusted;20130705;07:00;Industrial Output Cal Adjusted (YoY);Spain;EUR;1
+DKK_IndustrialProduction;20130705;07:00;Industrial Production (MoM);Denmark;DKK;1
+EUR_AusTradeBalance;20130705;07:00;Trade Balance;Austria;EUR;1
+EUR_FraImportsEUR;20130705;06:45;Imports, EUR;France;EUR;1
+EUR_FraExportsEUR;20130705;06:45;Exports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20130705;06:45;Trade Balance EUR;France;EUR;1
+ZAR_Net$Gold&ForexReserve;20130705;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+ZAR_Gross$Gold&ForexReserve;20130705;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+JPY_CoincidentIndex;20130705;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20130705;05:00;Leading Economic Index;Japan;JPY;2
+CZK_StCyrilandMethodiusDay;20130705;00:00;St Cyril and Methodius Day;Czech Republic;CZK;0

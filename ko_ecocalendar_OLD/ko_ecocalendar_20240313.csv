@@ -1,0 +1,27 @@
+GBP_ManufacturingProduction;20240313;07:00;Manufacturing Production (MoM);United Kingdom;GBP;2
+GBP_IndustrialProduction;20240313;07:00;Industrial Production (MoM);United Kingdom;GBP;2
+GBP_IndexofServices;20240313;07:00;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_TotalTradeBalance;20240313;07:00;Total Trade Balance;United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20240313;07:00;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20240313;07:00;Goods Trade Balance;United Kingdom;GBP;1
+GBP_GrossDomesticProduct;20240313;07:00;Gross Domestic Product (MoM);United Kingdom;GBP;2
+RON_IndustrialProduction;20240313;07:00;Industrial Production (MoM);Romania;RON;1
+RON_ConsumerPriceIndex;20240313;07:00;Consumer Price Index;Romania;RON;1
+HUF_IndustrialOutput;20240313;07:30;Industrial Output (YoY);Hungary;HUF;1
+CNY_M2MoneySupply;20240313;10:00;M2 Money Supply (YoY);China;CNY;1
+CNY_NewLoans;20240313;10:00;New Loans;China;CNY;1
+EUR_EurIndustrialProduction;20240313;10:00;Industrial Production w.d.a. (YoY);Eurozone;EUR;1
+EUR_GerAuction;20240313;10:30;10-y Bond Auction;Germany;EUR;2
+USD_MBAMortgageApplications;20240313;11:00;MBA Mortgage Applications;United States;USD;1
+ILS_Imports;20240313;11:00;Imports;Israel;ILS;1
+ILS_TradeBalance;20240313;11:00;Trade Balance;Israel;ILS;1
+ILS_Exports;20240313;11:00;Exports;Israel;ILS;1
+EUR_EurCentralBankSpeech;20240313;11:45;ECB Cipollone speech;Eurozone;EUR;2
+GBP_NIESRGDPEstimate;20240313;12:00;NIESR GDP Estimate (3M);United Kingdom;GBP;1
+RUB_ForeignTrade;20240313;14:00;Foreign Trade;Russia;RUB;1
+USD_EIACrudeOilStocksChange;20240313;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+RUB_ConsumerPriceIndex;20240313;16:00;Consumer Price Index (MoM);Russia;RUB;1
+USD_Auction;20240313;17:00;30-Year Bond Auction;United States;USD;1
+NZD_VisitorArrivals;20240313;21:45;Visitor Arrivals (YoY);New Zealand;NZD;1
+JPY_ForeignInvestmentinJapanStocks;20240313;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20240313;23:50;Foreign Bond Investment;Japan;JPY;1

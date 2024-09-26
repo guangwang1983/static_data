@@ -1,0 +1,19 @@
+JPY_MerchandiseTradeBalanceTotal;20080220;23:50;Merchandise Trade Balance Total;Japan;JPY;1
+JPY_AdjustedMerchandiseTradeBalance;20080220;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_AllIndustryActivityIndex;20080220;23:50;All Industry Activity Index (MoM);Japan;JPY;1
+USD_FOMCMinutes;20080220;19:00;FOMC Minutes;United States;USD;2
+USD_HousingStarts;20080220;13:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20080220;13:30;Building Permits (MoM);United States;USD;2
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20080220;13:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;2
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20080220;13:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+USD_ConsumerPriceIndex;20080220;13:30;Consumer Price Index ex Food & Energy (YoY);United States;USD;3
+CAD_LeadingIndicators;20080220;13:30;Leading Indicators (MoM);Canada;CAD;1
+USD_MBAMortgageApplications;20080220;12:00;MBA Mortgage Applications;United States;USD;2
+GBP_CBIIndustrialTrendsSurveyOrders;20080220;11:00;CBI Industrial Trends Survey - Orders (MoM);United Kingdom;GBP;2
+GBP_BankofEnglandMinutes;20080220;09:30;Bank of England Minutes;United Kingdom;GBP;2
+GBP_CMLGrossMortgageLending;20080220;09:30;CML Gross Mortgage Lending s.a.;United Kingdom;GBP;0
+GBP_M4SterlingLending;20080220;09:30;M4 Sterling Lending;United Kingdom;GBP;1
+GBP_M4MoneySupply;20080220;09:30;M4 Money Supply (MoM);United Kingdom;GBP;1
+GBP_PublicSectorNetBorrowing;20080220;09:30;Public Sector Net Borrowing;United Kingdom;GBP;1
+EUR_GerProducerPriceIndex;20080220;07:00;Producer Price Index (YoY);Germany;EUR;2
+AUD_WagePriceIndex;20080220;00:30;Wage Price Index (YoY);Australia;AUD;1

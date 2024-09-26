@@ -1,0 +1,37 @@
+AUD_TDSecuritiesInflation;20221031;00:00;TD Securities Inflation (MoM);Australia;AUD;2
+AUD_PrivateSectorCredit;20221031;00:30;Private Sector Credit (MoM);Australia;AUD;1
+AUD_RetailSales;20221031;00:30;Retail Sales s.a. (MoM);Australia;AUD;3
+CNY_NonManufacturingPMI;20221031;01:00;Non-Manufacturing PMI;China;CNY;3
+CNY_NBSManufacturingPMI;20221031;01:00;NBS Manufacturing PMI;China;CNY;3
+CLP_EvangelicalChurchesDay;20221031;04:00;Evangelical Churches Day;Chile;CLP;0
+JPY_AnnualizedHousingStarts;20221031;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_HousingStarts;20221031;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_ConstructionOrders;20221031;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_ConsumerConfidenceIndex;20221031;05:00;Consumer Confidence Index;Japan;JPY;1
+ZAR_M3MoneySupply;20221031;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+ZAR_PrivateSectorCredit;20221031;06:00;Private Sector Credit;South Africa;ZAR;1
+DKK_UnemploymentRate;20221031;07:00;Unemployment Rate;Denmark;DKK;1
+NOK_CreditIndicator;20221031;07:00;Credit Indicator;Norway;NOK;1
+CHF_RetailSales;20221031;07:30;Real Retail Sales (YoY);Switzerland;CHF;2
+GBP_NetLendingtoIndividuals;20221031;09:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20221031;09:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20221031;09:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_M4MoneySupply;20221031;09:30;M4 Money Supply (MoM);United Kingdom;GBP;1
+INR_FederalFiscalDeficitINR;20221031;10:00;Federal Fiscal Deficit, INR;India;INR;1
+EUR_EurGrossDomesticProduct;20221031;10:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+EUR_EurHICP;20221031;10:00;HICP (YoY);European Monetary Union;EUR;3
+EUR_EurHICPXFEAT;20221031;10:00;HICP-X F,E,A,T (MoM);European Monetary Union;EUR;2
+ILS_IndustrialProduction;20221031;11:00;Industrial Production (MoM);Israel;ILS;1
+ZAR_TradeBalance;20221031;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+INR_InfrastructureOutput;20221031;12:00;Infrastructure Output (YoY);India;INR;1
+BRL_PrimaryBudgetSurplus;20221031;12:30;Primary Budget Surplus;Brazil;BRL;1
+BRL_NominalBudgetBalance;20221031;12:30;Nominal Budget Balance;Brazil;BRL;1
+USD_ChicagoPurchasingManagers'Index;20221031;13:45;Chicago Purchasing Managers' Index;United States;USD;2
+USD_DallasFedManufacturingBusinessIndex;20221031;14:30;Dallas Fed Manufacturing Business Index;United States;USD;1
+COP_NationalJoblessRate;20221031;15:00;National Jobless Rate;Colombia;COP;1
+USD_Auction;20221031;15:30;3-Month Bill Auction;United States;USD;1
+AUD_CentralBankSpeech;20221031;20:20;RBA Governor Lowe speech;Australia;AUD;3
+NZD_BuildingPermits;20221031;21:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+HUF_AllSaints'Day;20221031;22:00;All Saints' Day;Hungary;HUF;0
+AUD_S&PGlobalManufacturingPMI;20221031;22:00;S&P Global Manufacturing PMI;Australia;AUD;1
+PLN_AllSaints'Day;20221031;23:00;All Saints' Day;Poland;PLN;0

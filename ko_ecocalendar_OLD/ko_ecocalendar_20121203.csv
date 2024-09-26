@@ -1,0 +1,50 @@
+JPY_MonetaryBase;20121203;23:50;Monetary Base (YoY);Japan;JPY;1
+USD_TotalVehicleSales;20121203;22:00;Total Vehicle Sales;United States;USD;1
+ARS_TaxRevenue;20121203;21:00;Tax Revenue (MoM);Argentina;ARS;1
+USD_CentralBankSpeech;20121203;18:40;Fed Bullard speech;United States;USD;1
+BRL_TradeBalance;20121203;17:00;Trade Balance;Brazil;BRL;1
+USD_Auction;20121203;16:30;6-Month Bill Auction;United States;USD;1
+USD_ISMManufacturingPMI;20121203;15:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMPricesPaid;20121203;15:00;ISM Prices Paid;United States;USD;2
+USD_ConstructionSpending;20121203;15:00;Construction Spending (MoM);United States;USD;2
+USD_MarkitManufacturingPMI;20121203;13:58;Markit Manufacturing PMI;United States;USD;2
+CZK_BudgetBalance;20121203;13:00;Budget Balance;Czech Republic;CZK;1
+BRL_HSBCPMIManufacturing;20121203;12:00;HSBC PMI Manufacturing;Brazil;BRL;1
+EUR_IreConsumerConfidence;20121203;12:00;Consumer Confidence;Ireland;EUR;1
+EUR_AusUnemploymentRate;20121203;11:00;Unemployment Rate;Austria;EUR;1
+EUR_AusUnemployment;20121203;11:00;Unemployment;Austria;EUR;1
+GBP_MarkitManufacturingPMI;20121203;09:28;Markit Manufacturing PMI;United Kingdom;GBP;2
+EUR_EurEurogroupMeeting;20121203;09:00;Eurogroup Meeting;European Monetary Union;EUR;2
+NOK_CreditIndicator;20121203;09:00;Credit Indicator;Norway;NOK;1
+ZAR_PurchasingManagerIndex;20121203;09:00;Purchasing Manager Index;South Africa;ZAR;1
+EUR_GreMarkitManufacturingPMI;20121203;08:58;Markit Manufacturing PMI;Greece;EUR;1
+EUR_EurMarkitManufacturingPMI;20121203;08:58;Markit Manufacturing PMI;European Monetary Union;EUR;1
+EUR_GerMarkitManufacturingPMI;20121203;08:53;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20121203;08:48;Markit Manufacturing PMI;France;EUR;1
+EUR_ItaMarkitManufacturingPMI;20121203;08:43;Markit Manufacturing PMI;Italy;EUR;1
+CHF_SVMEPurchasingManagers'Index;20121203;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_MarkitPMI;20121203;08:30;Markit PMI;Czech Republic;CZK;1
+CHF_RetailSales;20121203;08:15;Real Retail Sales (YoY);Switzerland;CHF;2
+EUR_SpaMarkitManufacturingPMI;20121203;08:13;Markit Manufacturing PMI;Spain;EUR;1
+TRY_ProducerPriceIndex;20121203;08:00;Producer Price Index (YoY);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20121203;08:00;Consumer Price Index (MoM);Turkey;TRY;1
+HUF_PurchasingManagerIndex;20121203;08:00;Purchasing Manager Index;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20121203;08:00;Purchasing Manager Index;Poland;PLN;1
+SEK_PurchasingManagersIndexManufacturing;20121203;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+KRW_TradeBalance;20121203;07:12;Trade Balance;South Korea;KRW;1
+EUR_IrePurchasingManagerIndexManufacturing;20121203;06:58;Purchasing Manager Index Manufacturing;Ireland;EUR;1
+KRW_NikkeiMarkitManufacturingPMI;20121203;06:04;Nikkei Markit Manufacturing PMI;South Korea;KRW;1
+AUD_RBACommodityIndexSDR;20121203;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+JPY_VehicleSales;20121203;05:00;Vehicle Sales (YoY);Japan;JPY;1
+RUB_HSBCManufacturingPMI;20121203;05:00;HSBC Manufacturing PMI	;Russia;RUB;1
+IDR_TradeBalance;20121203;04:00;Trade Balance;Indonesia;IDR;1
+IDR_Exports;20121203;04:00;Exports;Indonesia;IDR;1
+IDR_Imports;20121203;04:00;Imports;Indonesia;IDR;1
+JPY_CentralBankSpeech;20121203;04:00;BoJ Governor Shirakawa speech;Japan;JPY;1
+IDR_Inflation;20121203;04:00;Inflation (YoY);Indonesia;IDR;1
+IDR_CoreInflation;20121203;04:00;Core Inflation (YoY);Indonesia;IDR;1
+CNY_CaixinManufacturingPMI;20121203;01:45;Caixin Manufacturing PMI;China;CNY;1
+CNY_NonManufacturingPMI;20121203;01:00;Non-Manufacturing PMI;China;CNY;1
+AUD_CompanyGrossOperatingProfits;20121203;00:30;Company Gross Operating Profits (QoQ);Australia;AUD;1
+AUD_ANZJobAdvertisements;20121203;00:30;ANZ Job Advertisements;Australia;AUD;1
+AUD_RetailSales;20121203;00:30;Retail Sales s.a. (MoM);Australia;AUD;1

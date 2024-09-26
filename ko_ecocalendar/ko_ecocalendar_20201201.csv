@@ -1,0 +1,61 @@
+KRW_TradeBalance;20201201;00:00;Trade Balance;South Korea;KRW;1
+AUD_CurrentAccount;20201201;00:30;Current Account Balance;Australia;AUD;1
+KRW_S&PGlobalManufacturingPMI;20201201;00:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+AUD_BuildingPermits;20201201;00:30;Building Permits (YoY);Australia;AUD;1
+JPY_JibunBankManufacturingPMI;20201201;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+CNY_CaixinManufacturingPMI;20201201;01:45;Caixin Manufacturing PMI;China;CNY;2
+AUD_RBARateStatement;20201201;03:30;RBA Rate Statement;Australia;AUD;3
+AUD_RBAInterestRateDecision;20201201;03:30;RBA Interest Rate Decision;Australia;AUD;3
+JPY_Auction;20201201;03:35;10-y Bond Auction;Japan;JPY;1
+IDR_Inflation;20201201;04:06;Inflation (MoM);Indonesia;IDR;1
+IDR_CoreInflation;20201201;04:26;Core Inflation (YoY);Indonesia;IDR;1
+AUD_RBACommodityIndexSDR;20201201;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+RUB_S&PGlobalManufacturingPMI;20201201;06:00;S&P Global Manufacturing PMI;Russia;RUB;1
+CHF_GrossDomesticProduct;20201201;06:45;Gross Domestic Product (YoY);Switzerland;CHF;2
+GBP_NationwideHousingPrices;20201201;07:00;Nationwide Housing Prices s.a (MoM);United Kingdom;GBP;1
+EUR_EurEcoFinMeeting;20201201;07:00;EcoFin Meeting;European Monetary Union;EUR;2
+SEK_PurchasingManagersIndexManufacturing;20201201;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+HUF_PurchasingManagerIndex;20201201;08:00;Purchasing Manager Index;Hungary;HUF;1
+HUF_ProducerPriceIndex;20201201;08:00;Producer Price Index (YoY);Hungary;HUF;1
+CZK_GrossDomesticProduct;20201201;08:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+HUF_GrossDomesticProduct;20201201;08:00;Gross Domestic Product (YoY);Hungary;HUF;1
+PLN_PurchasingManagerIndex;20201201;08:00;Purchasing Manager Index;Poland;PLN;2
+CHF_SVMEPurchasingManagers'Index;20201201;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_S&PGlobalPMI;20201201;08:30;S&P Global PMI;Czech Republic;CZK;1
+EUR_ItaHCOBManufacturingPMI;20201201;08:45;HCOB Manufacturing PMI;Italy;EUR;2
+EUR_FraHCOBManufacturingPMI;20201201;08:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerUnemploymentChange;20201201;08:55;Unemployment Change;Germany;EUR;2
+EUR_GerUnemploymentRate;20201201;08:55;Unemployment Rate s.a.;Germany;EUR;2
+EUR_GerHCOBManufacturingPMI;20201201;08:55;HCOB Manufacturing PMI;Germany;EUR;2
+PLN_ConsumerPriceIndex;20201201;09:00;Consumer Price Index (YoY);Poland;PLN;1
+TRY_Exports;20201201;09:00;Exports;Turkey;TRY;1
+EUR_ItaGrossDomesticProduct;20201201;09:00;Gross Domestic Product (QoQ);Italy;EUR;2
+EUR_EurHCOBManufacturingPMI;20201201;09:00;HCOB Manufacturing PMI;European Monetary Union;EUR;1
+GBP_S&PGlobalCIPSManufacturingPMI;20201201;09:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20201201;10:00;Core Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_EurHarmonizedIndexofConsumerPrices;20201201;10:00;Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+DKK_ManufacturingPMI;20201201;10:00;Manufacturing PMI;Denmark;DKK;1
+CLP_IMACEC;20201201;11:30;IMACEC;Chile;CLP;1
+ZAR_TotalNewVehicleSales;20201201;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+BRL_S&PGlobalManufacturingPMI;20201201;13:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+CZK_BudgetBalance;20201201;13:00;Budget Balance;Czech Republic;CZK;1
+CAD_GrossDomesticProduct;20201201;13:30;Gross Domestic Product Annualized;Canada;CAD;3
+USD_RedbookIndex;20201201;13:55;Redbook Index (YoY);United States;USD;1
+CAD_S&PGlobalManufacturingPMI;20201201;14:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20201201;14:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_FedChairPowelltestifies;20201201;15:00;Fed Chair Powell testifies;United States;USD;3
+USD_ISMManufacturingEmploymentIndex;20201201;15:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ISMManufacturingPMI;20201201;15:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20201201;15:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ISMManufacturingNewOrdersIndex;20201201;15:00;ISM Manufacturing New Orders Index;United States;USD;2
+NZD_GDTPriceIndex;20201201;15:00;GDT Price Index;New Zealand;NZD;2
+USD_ConstructionSpending;20201201;15:00;Construction Spending (MoM);United States;USD;1
+USD_Auction;20201201;16:30;52-Week Bill Auction;United States;USD;1
+EUR_EurCentralBankSpeech;20201201;17:00;ECB President Lagarde speech;European Monetary Union;EUR;3
+USD_CentralBankSpeech;20201201;17:00;Fed Brainard speech;United States;USD;2
+BRL_TradeBalance;20201201;18:00;Trade Balance;Brazil;BRL;1
+USD_TotalVehicleSales;20201201;20:30;Total Vehicle Sales;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20201201;21:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_TermsofTradeIndex;20201201;21:45;Terms of Trade Index;New Zealand;NZD;1
+KRW_ConsumerPriceIndex;20201201;23:00;Consumer Price Index Growth (YoY);South Korea;KRW;1
+JPY_MonetaryBase;20201201;23:50;Monetary Base (YoY);Japan;JPY;1

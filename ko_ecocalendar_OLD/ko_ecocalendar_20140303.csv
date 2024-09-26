@@ -1,0 +1,60 @@
+JPY_MonetaryBase;20140303;23:50;Monetary Base (YoY);Japan;JPY;1
+USD_TotalVehicleSales;20140303;23:50;Total Vehicle Sales;United States;USD;1
+KRW_ConsumerPriceIndex;20140303;23:00;Consumer Price Index Growth (MoM);South Korea;KRW;1
+USD_Auction;20140303;16:30;6-Month Bill Auction;United States;USD;1
+USD_ISMManufacturingPMI;20140303;15:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMPricesPaid;20140303;15:00;ISM Prices Paid;United States;USD;2
+USD_ConstructionSpending;20140303;15:00;Construction Spending (MoM);United States;USD;2
+EUR_EurCentralBankSpeech;20140303;14:00;ECB President Draghi speech;European Monetary Union;EUR;3
+USD_MarkitManufacturingPMI;20140303;13:58;Markit Manufacturing PMI;United States;USD;1
+USD_PersonalConsumptionExpendituresPriceIndex;20140303;13:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;1
+USD_PersonalSpending;20140303;13:30;Personal Spending;United States;USD;2
+USD_PersonalIncome;20140303;13:30;Personal Income (MoM);United States;USD;2
+USD_CorePersonalConsumptionExpenditurePriceIndex;20140303;13:30;Core Personal Consumption Expenditure - Price Index (YoY);United States;USD;2
+CAD_RawMaterialPriceIndex;20140303;13:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20140303;13:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_MarkitManufacturingPMI;20140303;13:30;Markit Manufacturing PMI;Canada;CAD;2
+SGD_PurchasingManagersIndex;20140303;13:00;Purchasing Managers Index;Singapore;SGD;1
+CZK_BudgetBalance;20140303;13:00;Budget Balance;Czech Republic;CZK;1
+ZAR_TotalNewVehicleSales;20140303;11:00;Total New Vehicle Sales;South Africa;ZAR;1
+EUR_AusUnemployment;20140303;11:00;Unemployment;Austria;EUR;1
+EUR_AusUnemploymentRate;20140303;11:00;Unemployment Rate;Austria;EUR;1
+GBP_NetLendingtoIndividuals;20140303;09:30;Net Lending to Individuals (MoM);United Kingdom;GBP;2
+GBP_ConsumerCredit;20140303;09:30;Consumer Credit;United Kingdom;GBP;2
+GBP_MortgageApprovals;20140303;09:30;Mortgage Approvals;United Kingdom;GBP;2
+GBP_M4MoneySupply;20140303;09:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+GBP_MarkitManufacturingPMI;20140303;09:28;Markit Manufacturing PMI;United Kingdom;GBP;2
+NOK_CreditIndicator;20140303;09:00;Credit Indicator;Norway;NOK;1
+EUR_EurMarkitManufacturingPMI;20140303;08:58;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_GerMarkitManufacturingPMI;20140303;08:53;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20140303;08:48;Markit Manufacturing PMI;France;EUR;2
+EUR_ItaMarkitManufacturingPMI;20140303;08:43;Markit Manufacturing PMI;Italy;EUR;2
+HKD_RetailSales;20140303;08:30;Retail Sales;Hong Kong SAR;HKD;1
+CHF_SVMEPurchasingManagers'Index;20140303;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;2
+SEK_CurrentAccount;20140303;08:30;Current Account (QoQ);Sweden;SEK;1
+CZK_MarkitPMI;20140303;08:30;Markit PMI;Czech Republic;CZK;1
+EUR_SpaMarkitManufacturingPMI;20140303;08:13;Markit Manufacturing PMI;Spain;EUR;1
+TRY_ProducerPriceIndex;20140303;08:00;Producer Price Index (YoY);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20140303;08:00;Consumer Price Index (MoM);Turkey;TRY;1
+EUR_FinGrossDomesticProduct;20140303;08:00;Gross Domestic Product Qtr Prelim (YoY);Finland;EUR;1
+PLN_PurchasingManagerIndex;20140303;08:00;Purchasing Manager Index;Poland;PLN;1
+SEK_PurchasingManagersIndexManufacturing;20140303;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+HUF_PurchasingManagerIndex;20140303;07:00;Purchasing Manager Index;Hungary;HUF;1
+EUR_IrePurchasingManagerIndexManufacturing;20140303;05:58;Purchasing Manager Index Manufacturing;Ireland;EUR;1
+AUD_RBACommodityIndexSDR;20140303;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+RUB_HSBCManufacturingPMI;20140303;05:04;HSBC Manufacturing PMI	;Russia;RUB;1
+JPY_VehicleSales;20140303;05:00;Vehicle Sales (YoY);Japan;JPY;1
+IDR_TradeBalance;20140303;04:00;Trade Balance;Indonesia;IDR;1
+IDR_Exports;20140303;04:00;Exports;Indonesia;IDR;1
+IDR_Imports;20140303;04:00;Imports;Indonesia;IDR;1
+IDR_Inflation;20140303;04:00;Inflation (YoY);Indonesia;IDR;1
+IDR_CoreInflation;20140303;04:00;Core Inflation (YoY);Indonesia;IDR;1
+CNY_CaixinManufacturingPMI;20140303;01:45;Caixin Manufacturing PMI;China;CNY;2
+CNY_NonManufacturingPMI;20140303;01:00;Non-Manufacturing PMI;China;CNY;3
+AUD_CompanyGrossOperatingProfits;20140303;00:30;Company Gross Operating Profits (QoQ);Australia;AUD;1
+AUD_ANZJobAdvertisements;20140303;00:30;ANZ Job Advertisements;Australia;AUD;1
+GBP_HometrackHousingPrices;20140303;00:01;Hometrack Housing Prices s.a (MoM);United Kingdom;GBP;1
+AUD_HIANewHomeSales;20140303;00:00;HIA New Home Sales (MoM);Australia;AUD;2
+BRL_Carnival;20140303;00:00;Carnival;Brazil;BRL;0
+KRW_NikkeiMarkitManufacturingPMI;20140303;00:00;Nikkei Markit Manufacturing PMI;South Korea;KRW;1
+EUR_GreAshMonday;20140303;00:00;Ash Monday ;Greece;EUR;0

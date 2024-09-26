@@ -1,0 +1,29 @@
+USD_Auction;20130305;16:30;52-Week Bill Auction;United States;USD;1
+USD_ISMNonManufacturingPMI;20130305;15:00;ISM Non-Manufacturing PMI;United States;USD;2
+USD_IBDTIPPEconomicOptimism;20130305;15:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+MXN_ConsumerConfidence;20130305;14:00;Consumer Confidence s.a;Mexico;MXN;1
+USD_RedbookIndex;20130305;13:55;Redbook Index (YoY);United States;USD;1
+CLP_IMACEC;20130305;13:30;IMACEC;Chile;CLP;1
+RUB_ConsumerPriceIndex;20130305;13:00;Consumer Price Index (MoM);Russia;RUB;1
+EUR_IreConsumerConfidence;20130305;12:00;Consumer Confidence;Ireland;EUR;1
+EUR_EurRetailSales;20130305;10:00;Retail Sales (MoM);European Monetary Union;EUR;2
+ZAR_ProducerPriceIndex;20130305;09:30;Producer Price Index (MoM);South Africa;ZAR;1
+GBP_MarkitServicesPMI;20130305;09:28;Markit Services PMI;United Kingdom;GBP;2
+EUR_EurMarkitPMIComposite;20130305;08:58;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20130305;08:58;Markit Services PMI;European Monetary Union;EUR;2
+EUR_GerMarkitServicesPMI;20130305;08:53;Markit Services PMI;Germany;EUR;2
+EUR_FraMarkitServicesPMI;20130305;08:48;Markit Services PMI;France;EUR;2
+EUR_ItaMarkitServicesPMI;20130305;08:43;Markit Services PMI;Italy;EUR;2
+EUR_SpaMarkitServicesPMI;20130305;08:13;Markit Services PMI;Spain;EUR;1
+HUF_RetailSales;20130305;08:00;Retail Sales (YoY);Hungary;HUF;1
+EUR_IrePurchasingManagerIndexServices;20130305;06:58;Purchasing Manager Index Services;Ireland;EUR;1
+RUB_PurchasingManagerIndexServices;20130305;05:00;Purchasing Manager Index Services;Russia;RUB;1
+AUD_RBARateStatement;20130305;03:30;RBA Rate Statement;Australia;AUD;2
+AUD_RBAInterestRateDecision;20130305;03:30;RBA Interest Rate Decision;Australia;AUD;3
+HKD_NikkeiManufacturingPMI;20130305;02:30;Nikkei Manufacturing PMI;Hong Kong SAR;HKD;1
+CNY_CaixinServicesPMI;20130305;01:45;Caixin Services PMI;China;CNY;1
+JPY_LaborCashEarnings;20130305;01:30;Labor Cash Earnings (YoY);Japan;JPY;2
+AUD_CurrentAccount;20130305;00:30;Current Account Balance;Australia;AUD;2
+AUD_RetailSales;20130305;00:30;Retail Sales s.a. (MoM);Australia;AUD;2
+GBP_RetailSales;20130305;00:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;1
+EUR_EurEcoFinMeeting;20130305;00:00;EcoFin Meeting;European Monetary Union;EUR;2

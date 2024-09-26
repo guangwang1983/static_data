@@ -1,0 +1,13 @@
+USD_Auction;20181231;16:30;52-Week Bill Auction;United States;USD;1
+USD_DallasFedManufacturingBusinessIndex;20181231;15:30;Dallas Fed Manufacturing Business Index;United States;USD;1
+INR_InfrastructureOutput;20181231;12:00;Infrastructure Output (YoY);India;INR;1
+CLP_IndustrialProduction;20181231;12:00;Industrial Production (YoY);Chile;CLP;1
+CLP_Unemploymentrate;20181231;11:00;Unemployment rate;Chile;CLP;1
+EUR_GreRetailSales;20181231;10:00;Retail Sales (YoY);Greece;EUR;1
+TRY_TradeBalance;20181231;07:00;Trade Balance;Turkey;TRY;1
+ZAR_PrivateSectorCredit;20181231;06:00;Private Sector Credit;South Africa;ZAR;1
+ZAR_M3MoneySupply;20181231;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+CNY_NBSManufacturingPMI;20181231;01:00;NBS Manufacturing PMI;China;CNY;2
+CNY_NonManufacturingPMI;20181231;01:00;Non-Manufacturing PMI;China;CNY;2
+AUD_PrivateSectorCredit;20181231;00:30;Private Sector Credit (YoY);Australia;AUD;1
+SEK_NewYearsEve;20181231;00:00;New Years Eve;Sweden;SEK;0

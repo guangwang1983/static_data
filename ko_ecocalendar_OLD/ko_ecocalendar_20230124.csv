@@ -1,0 +1,30 @@
+JPY_JibunBankServicesPMI;20230124;00:30;Jibun Bank Services PMI;Japan;JPY;1
+JPY_JibunBankManufacturingPMI;20230124;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+AUD_NationalAustraliaBankBusinessConfidence;20230124;00:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20230124;00:30;National Australia Bank Business Conditions;Australia;AUD;1
+DKK_IndustrialOutlook;20230124;07:00;Industrial Outlook;Denmark;DKK;1
+GBP_PublicSectorNetBorrowing;20230124;07:00;Public Sector Net Borrowing;United Kingdom;GBP;1
+CHF_Imports;20230124;07:00;Imports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20230124;07:00;Trade Balance;Switzerland;CHF;1
+CHF_Exports;20230124;07:00;Exports (MoM);Switzerland;CHF;1
+EUR_EurS&PGlobalServicesPMI;20230124;09:00;S&P Global Services PMI;European Monetary Union;EUR;2
+EUR_EurS&PGlobalManufacturingPMI;20230124;09:00;S&P Global Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurS&PGlobalCompositePMI;20230124;09:00;S&P Global Composite PMI;European Monetary Union;EUR;3
+ZAR_BusinessConfidenceIndex;20230124;09:30;Business Confidence Index;South Africa;ZAR;1
+GBP_S&PGlobalCIPSCompositePMI;20230124;09:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSManufacturingPMI;20230124;09:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSServicesPMI;20230124;09:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;3
+BRL_MidmonthInflation;20230124;12:00;Mid-month Inflation;Brazil;BRL;1
+MXN_1sthalfmonthCoreInflation;20230124;12:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20230124;12:00;1st half-month Inflation;Mexico;MXN;1
+PLN_M3MoneySupply;20230124;13:00;M3 Money Supply (YoY);Poland;PLN;1
+HUF_MNBInterestRateDecision;20230124;13:00;MNB Interest Rate Decision;Hungary;HUF;1
+USD_RedbookIndex;20230124;13:55;Redbook Index (YoY);United States;USD;1
+USD_S&PGlobalServicesPMI;20230124;14:45;S&P Global Services PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20230124;14:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalManufacturingPMI;20230124;14:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_RichmondFedManufacturingIndex;20230124;15:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_Auction;20230124;18:00;2-Year Note Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20230124;21:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_ConsumerPriceIndex;20230124;21:45;Consumer Price Index (YoY);New Zealand;NZD;3
+AUD_WestpacLeadingIndex;20230124;23:30;Westpac Leading Index (MoM);Australia;AUD;1

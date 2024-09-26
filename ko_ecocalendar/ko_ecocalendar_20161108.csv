@@ -1,0 +1,50 @@
+GBP_RetailSales;20161108;00:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+AUD_NationalAustraliaBankBusinessConfidence;20161108;00:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20161108;00:30;National Australia Bank Business Conditions;Australia;AUD;1
+CNY_Imports;20161108;02:00;Imports (YoY);China;CNY;2
+CNY_TradeBalanceCNY;20161108;02:00;Trade Balance CNY;China;CNY;2
+CNY_Exports;20161108;02:00;Exports (YoY);China;CNY;2
+CNY_TradeBalanceUSD;20161108;02:00;Trade Balance USD;China;CNY;2
+JPY_CoincidentIndex;20161108;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20161108;05:00;Leading Economic Index;Japan;JPY;1
+CHF_UnemploymentRate;20161108;06:45;Unemployment Rate s.a (MoM);Switzerland;CHF;3
+EUR_GerIndustrialProduction;20161108;07:00;Industrial Production n.s.a. w.d.a. (YoY);Germany;EUR;1
+TRY_IndustrialProduction;20161108;07:00;Industrial Production (YoY);Turkey;TRY;1
+EUR_GerExports;20161108;07:00;Exports (MoM);Germany;EUR;2
+EUR_GerTradeBalance;20161108;07:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerCurrentAccount;20161108;07:00;Current Account n.s.a.;Germany;EUR;2
+EUR_GerImports;20161108;07:00;Imports (MoM);Germany;EUR;2
+EUR_FraImportsEUR;20161108;07:45;Imports, EUR;France;EUR;1
+EUR_FraExportsEUR;20161108;07:45;Exports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20161108;07:45;Trade Balance EUR;France;EUR;1
+EUR_FraCurrentAccount;20161108;07:45;Current Account;France;EUR;1
+EUR_FraIndividualInvestment;20161108;07:45;Individual Investment (Current Year);France;EUR;1
+EUR_FraBudgetBalance;20161108;07:45;Budget Balance;France;EUR;1
+HUF_IndustrialOutput;20161108;08:00;Industrial Output (YoY);Hungary;HUF;1
+CZK_UnemploymentRate;20161108;08:00;Unemployment Rate;Czech Republic;CZK;1
+CZK_IndustrialProduction;20161108;08:00;Industrial Production (YoY);Czech Republic;CZK;1
+HUF_ConsumerPriceIndex;20161108;08:00;Core Consumer Price Index (YoY);Hungary;HUF;1
+CZK_Constructionoutput;20161108;08:00;Construction output (YoY);Czech Republic;CZK;1
+CZK_ForeignTradeBalance;20161108;08:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+CZK_FXReserves;20161108;09:00;FX Reserves;Czech Republic;CZK;1
+GBP_ManufacturingProduction;20161108;09:30;Manufacturing Production (YoY);United Kingdom;GBP;1
+GBP_IndustrialProduction;20161108;09:30;Industrial Production (MoM);United Kingdom;GBP;1
+USD_NFIBBusinessOptimismIndex;20161108;11:00;NFIB Business Optimism Index;United States;USD;1
+CLP_ConsumerPriceIndex;20161108;11:00;Core Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+EUR_EurEcoFinMeeting;20161108;12:00;EcoFin Meeting;European Monetary Union;EUR;2
+USD_PresidentialElection;20161108;13:00;Presidential Election;United States;USD;3
+CAD_HousingStarts;20161108;13:15;Housing Starts s.a (YoY);Canada;CAD;2
+CAD_BuildingPermits;20161108;13:30;Building Permits (MoM);Canada;CAD;1
+USD_RedbookIndex;20161108;13:55;Redbook Index (YoY);United States;USD;1
+USD_JOLTSJobOpenings;20161108;15:00;JOLTS Job Openings;United States;USD;1
+GBP_NIESRGDPEstimate;20161108;15:00;NIESR GDP Estimate (3M);United Kingdom;GBP;3
+GBP_CentralBankSpeech;20161108;17:00;BoE Haldane speech;United Kingdom;GBP;1
+USD_CentralBankSpeech;20161108;17:20;Fed Evans speech;United States;USD;1
+USD_Auction;20161108;18:00;3-Year Note Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20161108;21:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_RetailSales;20161108;21:45;Electronic Card Retail Sales  (MoM);New Zealand;NZD;2
+KRW_UnemploymentRate;20161108;23:00;Unemployment Rate;South Korea;KRW;1
+AUD_WestpacConsumerConfidence;20161108;23:30;Westpac Consumer Confidence;Australia;AUD;2
+JPY_BankLending;20161108;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_CurrentAccount;20161108;23:50;Current Account n.s.a.;Japan;JPY;1
+JPY_TradeBalanceBOPBasis;20161108;23:50;Trade Balance - BOP Basis;Japan;JPY;1

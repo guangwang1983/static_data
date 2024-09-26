@@ -1,0 +1,33 @@
+JPY_MerchandiseTradeBalanceTotal;20140318;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Imports;20140318;23:50;Imports (YoY);Japan;JPY;1
+JPY_Exports;20140318;23:50;Exports (YoY);Japan;JPY;1
+JPY_AdjustedMerchandiseTradeBalance;20140318;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+AUD_WestpacLeadingIndex;20140318;23:30;Westpac Leading Index (MoM);Australia;AUD;2
+NZD_CurrentAccount;20140318;21:45;Current Account - GDP Ratio;New Zealand;NZD;1
+KRW_ProducerPriceIndex;20140318;21:00;Producer Price Index Growth (YoY);South Korea;KRW;1
+GBP_CentralBankSpeech;20140318;17:45;BoE Governor Carney speech;United Kingdom;GBP;3
+CAD_CentralBankSpeech;20140318;15:55;BoC Governor Poloz speech;Canada;CAD;3
+USD_Auction;20140318;15:30;4-Week Bill Auction;United States;USD;1
+RUB_IndustrialOutput;20140318;14:00;Industrial Output;Russia;RUB;1
+CLP_GrossDomesticProduct;20140318;13:30;Gross Domestic Product (YoY);Chile;CLP;1
+USD_NetLongTermTICFlows;20140318;13:00;Net Long-Term TIC Flows;United States;USD;2
+USD_TotalNetTICFlows;20140318;13:00;Total Net TIC Flows;United States;USD;1
+PLN_CorporateSectorWages;20140318;13:00;Corporate Sector Wages;Poland;PLN;1
+USD_RedbookIndex;20140318;12:55;Redbook Index (MoM);United States;USD;1
+USD_HousingStarts;20140318;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20140318;12:30;Building Permits (MoM);United States;USD;2
+CAD_ManufacturingShipments;20140318;12:30;Manufacturing Shipments (MoM);Canada;CAD;1
+USD_ConsumerPriceIndex;20140318;12:30;Consumer Price Index ex Food & Energy (MoM);United States;USD;2
+TRY_CBRTInterestRateDecision;20140318;12:00;CBRT Interest Rate Decision;Turkey;TRY;1
+RUB_PutinPressConference;20140318;11:00;Putin Press Conference;Russia;RUB;3
+EUR_EurTradeBalance;20140318;10:00;Trade Balance n.s.a.;European Monetary Union;EUR;1
+EUR_EurZEWSurveyEconomicSentiment;20140318;10:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurveyEconomicSentiment;20140318;10:00;ZEW Survey - Economic Sentiment;Germany;EUR;3
+EUR_GerZEWSurveyCurrentSituation;20140318;10:00;ZEW Survey - Current Situation;Germany;EUR;2
+EUR_ItaTradeBalanceEU;20140318;09:00;Trade Balance EU;Italy;EUR;1
+EUR_ItaGlobalTradeBalance;20140318;09:00;Global Trade Balance;Italy;EUR;1
+CHF_SECOEconomicForecasts;20140318;06:45;SECO Economic Forecasts;Switzerland;CHF;2
+CNY_FDIForeignDirectInvestment;20140318;04:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+CNY_HousePriceIndex;20140318;01:30;House Price Index ;China;CNY;1
+AUD_RBAMeetingMinutes;20140318;00:30;RBA Meeting Minutes;Australia;AUD;2
+EUR_SpaAuction;20140318;00:00;9-Month Letras Auction;Spain;EUR;1

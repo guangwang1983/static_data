@@ -1,0 +1,70 @@
+USD_CFTCGoldNCNetPositions;20180907;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCUSDNCNetPositions;20180907;19:30;CFTC USD NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20180907;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+AUD_CFTCAUDNCNetPositions;20180907;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCOilNCNetPositions;20180907;19:30;CFTC Oil NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20180907;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+GBP_CFTCGBPNCNetPositions;20180907;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_BakerHughesUSOilRigCount;20180907;17:00;Baker Hughes US Oil Rig Count;United States;USD;2
+USD_CentralBankSpeech;20180907;16:45;Fed Kaplan speech;United States;USD;2
+INR_BalancePayment;20180907;15:00;Balance Payment $;India;INR;1
+INR_CurrentAccount;20180907;15:00;Current Account Balance $;India;INR;1
+TRY_TreasuryCashBalance;20180907;14:30;Treasury Cash Balance;Turkey;TRY;1
+CAD_IveyPurchasingManagersIndex;20180907;14:00;Ivey Purchasing Managers Index;Canada;CAD;2
+MXN_12MonthInflation;20180907;13:00;12-Month Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20180907;13:00;Headline Inflation;Mexico;MXN;1
+MXN_CoreInflation;20180907;13:00;Core Inflation;Mexico;MXN;1
+USD_NonfarmPayrolls;20180907;12:30;Nonfarm Payrolls;United States;USD;3
+USD_AverageHourlyEarnings;20180907;12:30;Average Hourly Earnings (YoY);United States;USD;3
+USD_UnemploymentRate;20180907;12:30;Unemployment Rate;United States;USD;2
+USD_AverageWeeklyHours;20180907;12:30;Average Weekly Hours;United States;USD;1
+USD_LaborForceParticipationRate;20180907;12:30;Labor Force Participation Rate;United States;USD;2
+CAD_UnemploymentRate;20180907;12:30;Unemployment Rate;Canada;CAD;3
+CAD_ParticipationRate;20180907;12:30;Participation Rate;Canada;CAD;2
+CAD_NetChangeinEmployment;20180907;12:30;Net Change in Employment;Canada;CAD;3
+CAD_AverageHourlyWages;20180907;12:30;Average Hourly Wages (YoY);Canada;CAD;2
+PLN_CentralBankFXReserves;20180907;12:00;Central Bank FX Reserves;Poland;PLN;1
+CLP_TradeBalance;20180907;12:00;Trade Balance;Chile;CLP;1
+INR_FXReservesUSD;20180907;11:30;FX Reserves, USD;India;INR;1
+CLP_ConsumerPriceIndex;20180907;11:00;Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+EUR_AusTradeBalance;20180907;10:00;Trade Balance;Austria;EUR;1
+EUR_EurGrossDomesticProduct;20180907;09:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+ISK_GrossDomesticProduct;20180907;09:00;Gross Domestic Product (YoY);Iceland;ISK;1
+SGD_ForeignReserves;20180907;09:00;Foreign Reserves (MoM);Singapore;SGD;1
+HUF_BudgetBalance;20180907;09:00;Budget Balance;Hungary;HUF;1
+GBP_ConsumerInflationExpectations;20180907;08:30;Consumer Inflation Expectations;United Kingdom;GBP;1
+CNY_ForeignExchangeReserves;20180907;08:10;Foreign Exchange Reserves (MoM);China;CNY;1
+EUR_ItaRetailSales;20180907;08:00;Retail Sales s.a. (MoM);Italy;EUR;1
+CZK_FXReserves;20180907;08:00;FX Reserves;Czech Republic;CZK;1
+GBP_HalifaxHousePrices;20180907;07:30;Halifax House Prices (3m/YoY);United Kingdom;GBP;1
+EUR_AusWholesalePrices;20180907;07:00;Wholesale Prices n.s.a (MoM);Austria;EUR;1
+CHF_ForeignCurrencyReserves;20180907;07:00;Foreign Currency Reserves;Switzerland;CHF;1
+EUR_SpaIndustrialOutputCalAdjusted;20180907;07:00;Industrial Output Cal Adjusted (YoY);Spain;EUR;1
+HUF_TradeBalance;20180907;07:00;Trade Balance;Hungary;HUF;1
+EUR_SloGrossDomesticProduct;20180907;07:00;Gross Domestic Product Qtr Final (YoY);Slovakia;EUR;1
+EUR_FraTradeBalanceEUR;20180907;06:45;Trade Balance EUR;France;EUR;1
+EUR_FraImportsEUR;20180907;06:45;Imports, EUR;France;EUR;1
+EUR_FraExportsEUR;20180907;06:45;Exports, EUR;France;EUR;1
+EUR_FraIndustrialOutput;20180907;06:45;Industrial Output (MoM);France;EUR;1
+EUR_FraCurrentAccount;20180907;06:45;Current Account;France;EUR;1
+EUR_FraBudget;20180907;06:45;Budget;France;EUR;1
+EUR_GerIndustrialProduction;20180907;06:00;Industrial Production s.a. (MoM);Germany;EUR;1
+RON_GrossDomesticProduct;20180907;06:00;Gross Domestic Product;Romania;RON;1
+EUR_FinTradeBalance;20180907;06:00;Trade Balance;Finland;EUR;1
+DKK_IndustrialProduction;20180907;06:00;Industrial Production (MoM);Denmark;DKK;1
+NOK_ManufacturingOutput;20180907;06:00;Manufacturing Output;Norway;NOK;1
+EUR_GerCurrentAccount;20180907;06:00;Current Account n.s.a.;Germany;EUR;1
+EUR_GerExports;20180907;06:00;Exports (MoM);Germany;EUR;1
+EUR_GerImports;20180907;06:00;Imports (MoM);Germany;EUR;1
+EUR_GerTradeBalance;20180907;06:00;Trade Balance s.a.;Germany;EUR;2
+ZAR_Net$Gold&ForexReserve;20180907;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+ZAR_Gross$Gold&ForexReserve;20180907;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+CHF_UnemploymentRate;20180907;05:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+JPY_CoincidentIndex;20180907;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20180907;05:00;Leading Economic Index;Japan;JPY;2
+EUR_NetManufacturingOutput;20180907;04:30;Manufacturing Output (MoM);Netherlands, The;EUR;1
+AUD_HomeLoans;20180907;01:30;Home Loans;Australia;AUD;2
+AUD_InvestmentLendingforHomes;20180907;01:30;Investment Lending for Homes;Australia;AUD;2
+JPY_LaborCashEarnings;20180907;00:00;Labor Cash Earnings (YoY);Japan;JPY;1
+EUR_EurEurogroupMeeting;20180907;00:00;Eurogroup Meeting;European Monetary Union;EUR;2
+BRL_IndependenceDay;20180907;00:00;Independence Day;Brazil;BRL;0

@@ -1,0 +1,49 @@
+PEN_Interestratedecision;20140110;23:00;Interest rate decision;Peru;PEN;1
+USD_CentralBankSpeech;20140110;18:00;Fed Bullard speech;United States;USD;1
+USD_IBDTIPPEconomicOptimism;20140110;15:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+GBP_NIESRGDPEstimate;20140110;15:00;NIESR GDP Estimate (3M);United Kingdom;GBP;2
+USD_WholesaleInventories;20140110;15:00;Wholesale Inventories;United States;USD;2
+PEN_Tradebalance;20140110;15:00;Trade balance;Peru;PEN;1
+MXN_IndustrialOutput;20140110;14:00;Industrial Output (MoM);Mexico;MXN;1
+USD_UnemploymentRate;20140110;13:30;Unemployment Rate;United States;USD;3
+USD_NonfarmPayrolls;20140110;13:30;Nonfarm Payrolls;United States;USD;3
+USD_AverageHourlyEarnings;20140110;13:30;Average Hourly Earnings (MoM);United States;USD;2
+USD_LaborForceParticipationRate;20140110;13:30;Labor Force Participation Rate;United States;USD;2
+USD_AverageWeeklyHours;20140110;13:30;Average Weekly Hours;United States;USD;1
+CAD_ParticipationRate;20140110;13:30;Participation Rate;Canada;CAD;2
+CAD_NetChangeinEmployment;20140110;13:30;Net Change in Employment;Canada;CAD;3
+CAD_UnemploymentRate;20140110;13:30;Unemployment Rate;Canada;CAD;3
+INR_ManufacturingOutput;20140110;12:00;Manufacturing Output;India;INR;1
+INR_IndustrialOutput;20140110;12:00;Industrial Output;India;INR;1
+INR_CumulativeIndustrialOutput;20140110;12:00;Cumulative Industrial Output;India;INR;1
+INR_BankLoanGrowth;20140110;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20140110;11:30;FX Reserves, USD;India;INR;1
+BRL_IPCAInflation;20140110;11:00;IPCA Inflation;Brazil;BRL;1
+EUR_EurGrossDomesticProduct;20140110;10:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+GBP_ManufacturingProduction;20140110;09:30;Manufacturing Production (MoM);United Kingdom;GBP;1
+GBP_IndustrialProduction;20140110;09:30;Industrial Production (YoY);United Kingdom;GBP;2
+NOK_ConsumerPriceIndex;20140110;09:00;Consumer Price Index (YoY);Norway;NOK;1
+NOK_CoreInflation;20140110;09:00;Core Inflation (MoM);Norway;NOK;1
+NOK_ProducerPriceIndex;20140110;09:00;Producer Price Index (YoY);Norway;NOK;1
+SEK_IndustrialProduction;20140110;08:30;Industrial Production (YoY);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20140110;08:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+EUR_NetManufacturingOutput;20140110;08:30;Manufacturing Output (MoM);Netherlands, The;EUR;1
+CHF_ConsumerPriceIndex;20140110;08:15;Consumer Price Index (YoY);Switzerland;CHF;2
+EUR_SloIndustrialOutput;20140110;08:00;Industrial Output (YoY);Slovakia;EUR;1
+DKK_ConsumerPriceIndex;20140110;08:00;Consumer Price Index (YoY);Denmark;DKK;1
+DKK_Inflation;20140110;08:00;Inflation (HICP) (YoY);Denmark;DKK;1
+CZK_RetailSales;20140110;08:00;Retail Sales (YoY);Czech Republic;CZK;1
+EUR_SpaIndustrialOutputCalAdjusted;20140110;08:00;Industrial Output Cal Adjusted (YoY);Spain;EUR;1
+DKK_IndustrialProduction;20140110;08:00;Industrial Production (MoM);Denmark;DKK;1
+EUR_FraIndustrialOutput;20140110;07:45;Industrial Output (MoM);France;EUR;1
+EUR_FinIndustrialOutput;20140110;07:00;Industrial Output (MoM);Finland;EUR;1
+EUR_FinGrossDomesticProduct;20140110;07:00;Gross Domestic Product (YoY);Finland;EUR;1
+CHF_UnemploymentRate;20140110;06:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+INR_TradeDeficitGovernment;20140110;06:30;Trade Deficit Government;India;INR;1
+JPY_CoincidentIndex;20140110;05:00;Coincident Index;Japan;JPY;2
+JPY_LeadingEconomicIndex;20140110;05:00;Leading Economic Index;Japan;JPY;2
+CNY_Imports;20140110;02:00;Imports (YoY);China;CNY;1
+CNY_Exports;20140110;02:00;Exports (YoY);China;CNY;1
+CNY_TradeBalanceUSD;20140110;02:00;Trade Balance USD;China;CNY;2
+GBP_RetailSales;20140110;00:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;1
+AUD_HIANewHomeSales;20140110;00:00;HIA New Home Sales (MoM);Australia;AUD;2

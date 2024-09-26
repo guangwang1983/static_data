@@ -1,0 +1,2 @@
+GBP_BoEInterestRateDecision 0
+USD_FedInterestRateDecision 0

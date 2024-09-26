@@ -1,0 +1,41 @@
+JPY_MerchandiseTradeBalanceTotal;20130123;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Imports;20130123;23:50;Imports (YoY);Japan;JPY;1
+JPY_AdjustedMerchandiseTradeBalance;20130123;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_Exports;20130123;23:50;Exports (YoY);Japan;JPY;1
+JPY_ForeignBondInvestment;20130123;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20130123;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+KRW_GrossDomesticProduct;20130123;23:00;Gross Domestic Product Growth (YoY);South Korea;KRW;1
+NZD_BusinessNZPMI;20130123;21:30;Business NZ PMI;New Zealand;NZD;2
+ARS_TradeBalance;20130123;19:00;Trade Balance (MoM);Argentina;ARS;1
+USD_Auction;20130123;16:30;4-Week Bill Auction;United States;USD;1
+CAD_BoCPressConference;20130123;16:15;BoC Press Conference;Canada;CAD;3
+CAD_BankofCanadaMonetaryPolicyReport;20130123;15:00;Bank of Canada Monetary Policy Report;Canada;CAD;3
+EUR_EurConsumerConfidence;20130123;15:00;Consumer Confidence;European Monetary Union;EUR;2
+CAD_BoCInterestRateDecision;20130123;15:00;BoC Interest Rate Decision;Canada;CAD;3
+CAD_BoCRateStatement;20130123;15:00;BoC Rate Statement;Canada;CAD;3
+MXN_RetailSales;20130123;14:00;Retail Sales (YoY);Mexico;MXN;1
+USD_HousingPriceIndex;20130123;14:00;Housing Price Index (MoM);United States;USD;2
+RUB_IndustrialOutput;20130123;14:00;Industrial Output;Russia;RUB;1
+USD_RedbookIndex;20130123;13:55;Redbook Index (YoY);United States;USD;1
+BRL_CurrentAccount;20130123;12:30;Current Account;Brazil;BRL;1
+USD_MBAMortgageApplications;20130123;12:00;MBA Mortgage Applications;United States;USD;1
+INR_M3MoneySupply;20130123;11:30;M3 Money Supply;India;INR;1
+BRL_MidmonthInflation;20130123;11:00;Mid-month Inflation;Brazil;BRL;1
+CHF_ZEWSurveyExpectations;20130123;10:00;ZEW Survey - Expectations;Switzerland;CHF;2
+GBP_BankofEnglandMinutes;20130123;09:30;Bank of England Minutes;United Kingdom;GBP;3
+GBP_AverageEarningsExcludingBonus;20130123;09:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;1
+GBP_ClaimantCountChange;20130123;09:30;Claimant Count Change;United Kingdom;GBP;3
+GBP_ClaimantCountRate;20130123;09:30;Claimant Count Rate;United Kingdom;GBP;2
+GBP_AverageEarningsIncludingBonus;20130123;09:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20130123;09:30;ILO Unemployment Rate (3M);United Kingdom;GBP;2
+EUR_ItaTradeBalancenonEU;20130123;09:00;Trade Balance non-EU;Italy;EUR;1
+TRY_ForeignArrivals;20130123;09:00;Foreign Arrivals;Turkey;TRY;1
+DKK_ConsumerConfidence;20130123;08:00;Consumer Confidence;Denmark;DKK;1
+ZAR_ConsumerPriceIndex;20130123;08:00;Consumer Price Index (MoM);South Africa;ZAR;1
+GBP_CentralBankSpeech;20130123;08:00;David Cameron speech;United Kingdom;GBP;2
+EUR_FraBusinessClimate;20130123;07:45;Business Climate;France;EUR;1
+SGD_ConsumerPriceIndex;20130123;05:00;Consumer Price Index (YoY);Singapore;SGD;1
+JPY_BoJMonthlyEconomicSurvey;20130123;05:00;BoJ Monthly Economic Survey;Japan;JPY;3
+AUD_RBATrimmedMeanCPI;20130123;00:30;RBA Trimmed Mean CPI (YoY);Australia;AUD;1
+AUD_ConsumerPriceIndex;20130123;00:30;Consumer Price Index (QoQ);Australia;AUD;2
+CHF_WorldEconomicForumDavos;20130123;00:00;World Economic Forum - Davos;Switzerland;CHF;2

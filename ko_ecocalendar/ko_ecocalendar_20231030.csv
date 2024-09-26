@@ -1,0 +1,35 @@
+AUD_RetailSales;20231030;00:30;Retail Sales s.a. (MoM);Australia;AUD;3
+ZAR_PrivateSectorCredit;20231030;06:00;Private Sector Credit;South Africa;ZAR;1
+ZAR_M3MoneySupply;20231030;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+TRY_EconomicConfidenceIndex;20231030;07:00;Economic Confidence Index;Turkey;TRY;1
+NOK_CreditIndicator;20231030;07:00;Credit Indicator;Norway;NOK;1
+CHF_KOFLeadingIndicator;20231030;08:00;KOF Leading Indicator;Switzerland;CHF;1
+EUR_GerGrossDomesticProduct;20231030;09:00;Gross Domestic Product w.d.a (YoY);Germany;EUR;2
+EUR_ItaTradeBalancenonEU;20231030;09:00;Trade Balance non-EU;Italy;EUR;1
+GBP_NetLendingtoIndividuals;20231030;09:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20231030;09:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20231030;09:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_M4MoneySupply;20231030;09:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+EUR_EurServicesSentiment;20231030;10:00;Services Sentiment;European Monetary Union;EUR;1
+EUR_EurConsumerConfidence;20231030;10:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurIndustrialConfidence;20231030;10:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_EurBusinessClimate;20231030;10:00;Business Climate;European Monetary Union;EUR;2
+EUR_EurEconomicSentimentIndicator;20231030;10:00;Economic Sentiment Indicator;European Monetary Union;EUR;2
+BRL_InflationIndexIGPM;20231030;11:00;Inflation Index/IGP-M;Brazil;BRL;1
+EUR_GerConsumerPriceIndex;20231030;13:00;Consumer Price Index (YoY);Germany;EUR;3
+EUR_GerHarmonizedIndexofConsumerPrices;20231030;13:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+EUR_EurCentralBankSpeech;20231030;13:00;ECB De Guindos speech;European Monetary Union;EUR;2
+USD_DallasFedManufacturingBusinessIndex;20231030;14:30;Dallas Fed Manufacturing Business Index;United States;USD;1
+USD_Auction;20231030;15:30;3-Month Bill Auction;United States;USD;1
+CAD_CentralBankSpeech;20231030;19:30;BoC Rogers speech;Canada;CAD;2
+MXN_FiscalBalancepesos;20231030;21:00;Fiscal Balance, pesos;Mexico;MXN;1
+NZD_BuildingPermits;20231030;21:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+EUR_GerDayofReformation;20231030;22:00;Day of Reformation;Germany;EUR;0
+KRW_IndustrialOutputGrowth;20231030;23:00;Industrial Output Growth;South Korea;KRW;1
+KRW_IndustrialOutput;20231030;23:00;Industrial Output (YoY);South Korea;KRW;1
+KRW_ServiceSectorOutput;20231030;23:00;Service Sector Output;South Korea;KRW;1
+JPY_JobsApplicantsRatio;20231030;23:30;Jobs / Applicants Ratio;Japan;JPY;1
+JPY_UnemploymentRate;20231030;23:30;Unemployment Rate;Japan;JPY;2
+JPY_IndustrialProduction;20231030;23:50;Industrial Production (MoM);Japan;JPY;1
+JPY_RetailTrade;20231030;23:50;Retail Trade (YoY);Japan;JPY;2
+JPY_LargeRetailerSales;20231030;23:50;Large Retailer Sales;Japan;JPY;2

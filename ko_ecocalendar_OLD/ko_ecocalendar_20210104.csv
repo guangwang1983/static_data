@@ -1,0 +1,62 @@
+JPY_MonetaryBase;20210104;23:50;Monetary Base (YoY);Japan;JPY;1
+AUD_CFTCAUDNCNetPositions;20210104;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20210104;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+USD_CFTCS&P500NCNetPositions;20210104;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20210104;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20210104;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20210104;20:30;CFTC Oil NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20210104;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+ARS_TaxRevenue;20210104;20:00;Tax Revenue (MoM);Argentina;ARS;1
+BRL_TradeBalance;20210104;18:00;Trade Balance;Brazil;BRL;1
+USD_Auction;20210104;16:30;6-Month Bill Auction;United States;USD;1
+USD_ConstructionSpending;20210104;15:00;Construction Spending (MoM);United States;USD;1
+USD_MarkitManufacturingPMI;20210104;14:45;Markit Manufacturing PMI;United States;USD;2
+CAD_MarkitManufacturingPMI;20210104;14:30;Markit Manufacturing PMI;Canada;CAD;2
+ILS_BoIInterestRateDecision;20210104;14:00;BoI Interest Rate Decision;Israel;ILS;1
+BRL_HSBCPMIManufacturing;20210104;13:00;HSBC PMI Manufacturing;Brazil;BRL;1
+CZK_BudgetBalance;20210104;13:00;Budget Balance;Czech Republic;CZK;1
+ZAR_TotalNewVehicleSales;20210104;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+MXN_ConsumerConfidence;20210104;12:00;Consumer Confidence;Mexico;MXN;1
+CLP_IMACEC;20210104;11:30;IMACEC;Chile;CLP;1
+DKK_ManufacturingPMI;20210104;10:00;Manufacturing PMI;Denmark;DKK;1
+USD_OPECMeeting;20210104;10:00;OPEC Meeting;United States;USD;2
+EUR_PorConsumerConfidence;20210104;09:30;Consumer Confidence;Portugal;EUR;1
+EUR_PorBusinessConfidence;20210104;09:30;Business Confidence;Portugal;EUR;1
+GBP_NetLendingtoIndividuals;20210104;09:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+ZAR_BusinessConfidenceIndex;20210104;09:30;Business Confidence Index;South Africa;ZAR;1
+EUR_EurSentixInvestorConfidence;20210104;09:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+GBP_ConsumerCredit;20210104;09:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20210104;09:30;Mortgage Approvals;United Kingdom;GBP;1
+EUR_PorConsumerPriceIndex;20210104;09:30;Consumer Price Index (MoM);Portugal;EUR;1
+GBP_MarkitManufacturingPMI;20210104;09:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+GBP_M4MoneySupply;20210104;09:30;M4 Money Supply (MoM);United Kingdom;GBP;1
+PLN_ConsumerPriceIndex;20210104;09:00;Consumer Price Index (YoY);Poland;PLN;1
+EUR_GreMarkitManufacturingPMI;20210104;09:00;Markit Manufacturing PMI;Greece;EUR;1
+EUR_EurMarkitManufacturingPMI;20210104;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;1
+EUR_GerMarkitManufacturingPMI;20210104;08:55;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20210104;08:50;Markit Manufacturing PMI;France;EUR;1
+EUR_ItaMarkitManufacturingPMI;20210104;08:45;Markit Manufacturing PMI;Italy;EUR;2
+HKD_RetailSales;20210104;08:30;Retail Sales;Hong Kong SAR;HKD;1
+CHF_SVMEPurchasingManagers'Index;20210104;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+SEK_NewOrdersManufacturing;20210104;08:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+CZK_MarkitPMI;20210104;08:30;Markit PMI;Czech Republic;CZK;1
+EUR_SpaMarkitManufacturingPMI;20210104;08:15;Markit Manufacturing PMI;Spain;EUR;2
+EUR_AusUnemploymentRate;20210104;08:00;Unemployment Rate;Austria;EUR;1
+EUR_AusUnemployment;20210104;08:00;Unemployment;Austria;EUR;1
+HUF_IndustrialOutput;20210104;08:00;Industrial Output (YoY);Hungary;HUF;1
+HUF_RetailSales;20210104;08:00;Retail Sales (YoY);Hungary;HUF;1
+EUR_NetMarkitManufacturingPMI;20210104;08:00;Markit Manufacturing PMI;Netherlands, The;EUR;1
+PLN_PurchasingManagerIndex;20210104;08:00;Purchasing Manager Index;Poland;PLN;2
+SEK_PurchasingManagersIndexManufacturing;20210104;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+TRY_ProducerPriceIndex;20210104;07:00;Producer Price Index (MoM);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20210104;07:00;Consumer Price Index (YoY);Turkey;TRY;1
+EUR_FinIndustrialOutput;20210104;06:00;Industrial Output (MoM);Finland;EUR;1
+ZAR_Gross$Gold&ForexReserve;20210104;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+ZAR_Net$Gold&ForexReserve;20210104;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+AUD_RBACommodityIndexSDR;20210104;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+IDR_Inflation;20210104;04:00;Inflation (YoY);Indonesia;IDR;1
+IDR_CoreInflation;20210104;04:00;Core Inflation (YoY);Indonesia;IDR;1
+CNY_CaixinManufacturingPMI;20210104;01:45;Caixin Manufacturing PMI;China;CNY;2
+EUR_IrePurchasingManagerIndexManufacturing;20210104;01:01;Purchasing Manager Index Manufacturing;Ireland;EUR;1
+JPY_JibunBankManufacturingPMI;20210104;00:45;Jibun Bank Manufacturing PMI;Japan;JPY;1
+KRW_NikkeiMarkitManufacturingPMI;20210104;00:30;Nikkei Markit Manufacturing PMI;South Korea;KRW;1

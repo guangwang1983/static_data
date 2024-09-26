@@ -1,0 +1,38 @@
+JPY_ForeignBondInvestment;20140116;23:50;Foreign Bond Investment;Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20140116;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+CLP_BCCHInterestRate;20140116;21:00;BCCH Interest Rate;Chile;CLP;1
+CHF_CentralBankSpeech;20140116;17:00;SNB Chairman Jordan speech;Switzerland;CHF;3
+USD_CentralBankSpeech;20140116;16:10;Former Fed Chair Bernanke speech;United States;USD;3
+USD_EIANaturalGasStorageChange;20140116;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_NAHBHousingMarketIndex;20140116;15:00;NAHB Housing Market Index;United States;USD;2
+USD_PhiladelphiaFedManufacturingSurvey;20140116;15:00;Philadelphia Fed Manufacturing Survey;United States;USD;2
+USD_NetLongTermTICFlows;20140116;14:00;Net Long-Term TIC Flows;United States;USD;2
+USD_TotalNetTICFlows;20140116;14:00;Total Net TIC Flows;United States;USD;1
+USD_JoblessClaims;20140116;13:30;Initial Jobless Claims;United States;USD;2
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20140116;13:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20140116;13:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+USD_ConsumerPriceIndex;20140116;13:30;Consumer Price Index n.s.a (MoM);United States;USD;1
+PLN_NetInflation;20140116;13:00;Net Inflation;Poland;PLN;1
+EUR_IreHICP;20140116;11:00;HICP (YoY);Ireland;EUR;1
+EUR_IreConsumerPriceIndex;20140116;11:00;Consumer Price Index (YoY);Ireland;EUR;1
+RUB_CentralBankReserves;20140116;11:00;Central Bank Reserves $;Russia;RUB;1
+BRL_RetailSales;20140116;11:00;Retail Sales (MoM);Brazil;BRL;1
+GBP_Auction;20140116;10:45;30-y Bond Auction;United Kingdom;GBP;1
+EUR_SpaAuction;20140116;10:30;3-y Bond Auction;Spain;EUR;1
+EUR_EurConsumerPriceIndex;20140116;10:00;Consumer Price Index (YoY);European Monetary Union;EUR;3
+EUR_GerCentralBankSpeech;20140116;10:00;German Buba President Weidmann speech;Germany;EUR;2
+EUR_ItaTradeBalanceEU;20140116;09:00;Trade Balance EU;Italy;EUR;1
+EUR_ItaGlobalTradeBalance;20140116;09:00;Global Trade Balance;Italy;EUR;1
+EUR_EurECBMonthlyReport;20140116;09:00;ECB Monthly Report;European Monetary Union;EUR;3
+EUR_AusHICP;20140116;09:00;HICP (YoY);Austria;EUR;1
+EUR_SloEUNormInflation;20140116;08:00;EU Norm Inflation (MoM);Slovakia;EUR;1
+EUR_GerConsumerPriceIndex;20140116;07:00;Consumer Price Index (MoM);Germany;EUR;2
+EUR_GerHarmonizedIndexofConsumerPrices;20140116;07:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+CNY_FDIForeignDirectInvestment;20140116;02:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+AUD_RBAForeignExchangeTransaction;20140116;00:30;RBA Foreign Exchange Transaction;Australia;AUD;1
+AUD_PartTimeEmployment;20140116;00:30;Part-Time Employment;Australia;AUD;1
+AUD_EmploymentChange;20140116;00:30;Employment Change s.a.;Australia;AUD;3
+AUD_FulltimeEmployment;20140116;00:30;Fulltime Employment;Australia;AUD;2
+AUD_ParticipationRate;20140116;00:30;Participation Rate;Australia;AUD;2
+AUD_UnemploymentRate;20140116;00:30;Unemployment Rate s.a.;Australia;AUD;3
+GBP_RICSHousingPriceBalance;20140116;00:01;RICS Housing Price Balance;United Kingdom;GBP;1

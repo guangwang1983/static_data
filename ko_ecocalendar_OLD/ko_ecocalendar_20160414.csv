@@ -1,0 +1,38 @@
+KRW_UnemploymentRate;20160414;23:00;Unemployment Rate;South Korea;KRW;1
+PEN_Interestratedecision;20160414;23:00;Interest rate decision;Peru;PEN;1
+COP_RetailSales;20160414;22:00;Retail Sales (YoY);Colombia;COP;1
+COP_Industrialouput;20160414;22:00;Industrial ouput (YoY);Colombia;COP;1
+USD_Auction;20160414;17:00;30-Year Bond Auction;United States;USD;1
+USD_EIANaturalGasStorageChange;20160414;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_CentralBankSpeech;20160414;14:00;Fed Lockhart speech;United States;USD;1
+RUB_CentralBankReserves;20160414;13:09;Central Bank Reserves $;Russia;RUB;1
+USD_JoblessClaims;20160414;12:30;Initial Jobless Claims;United States;USD;2
+USD_ConsumerPriceIndex;20160414;12:30;Consumer Price Index n.s.a (MoM);United States;USD;2
+CAD_NewHousingPriceIndex;20160414;12:30;New Housing Price Index (YoY);Canada;CAD;1
+PLN_M3MoneySupply;20160414;12:00;M3 Money Supply (YoY);Poland;PLN;1
+GBP_BoEAssetPurchaseFacility;20160414;11:00;BoE Asset Purchase Facility;United Kingdom;GBP;3
+GBP_BoEInterestRateDecision;20160414;11:00;BoE Interest Rate Decision;United Kingdom;GBP;3
+GBP_MonetaryPolicySummary;20160414;11:00;Monetary Policy Summary;United Kingdom;GBP;2
+GBP_BoEMPCVoteCut;20160414;11:00;BoE MPC Vote Cut;United Kingdom;GBP;3
+GBP_BoEMPCVoteUnchanged;20160414;11:00;BoE MPC Vote Unchanged;United Kingdom;GBP;3
+GBP_BankofEnglandMinutes;20160414;11:00;Bank of England Minutes;United Kingdom;GBP;3
+GBP_BoEMPCVoteHike;20160414;11:00;BoE MPC Vote Hike;United Kingdom;GBP;3
+EUR_EurConsumerPriceIndex;20160414;09:00;Consumer Price Index (YoY);European Monetary Union;EUR;3
+RUB_BudgetFulfilment;20160414;09:00;Budget Fulfilment;Russia;RUB;1
+EUR_ItaConsumerPriceIndex;20160414;08:00;Consumer Price Index (YoY);Italy;EUR;1
+CHF_ProducerandImportPrices;20160414;07:15;Producer and Import Prices (MoM);Switzerland;CHF;1
+EUR_SloHeadlineInflation;20160414;07:00;Headline Inflation (MoM);Slovakia;EUR;1
+EUR_SloCoreInflation;20160414;07:00;Core Inflation (YoY);Slovakia;EUR;1
+EUR_AusHICP;20160414;07:00;HICP (YoY);Austria;EUR;1
+EUR_SloEUNormInflation;20160414;07:00;EU Norm Inflation (MoM);Slovakia;EUR;1
+EUR_FinConsumerPriceIndex;20160414;06:00;Consumer Price Index (YoY);Finland;EUR;1
+IDR_TradeBalance;20160414;04:00;Trade Balance;Indonesia;IDR;1
+IDR_Exports;20160414;04:00;Exports;Indonesia;IDR;1
+IDR_Imports;20160414;04:00;Imports;Indonesia;IDR;1
+AUD_PartTimeEmployment;20160414;01:30;Part-Time Employment;Australia;AUD;1
+AUD_UnemploymentRate;20160414;01:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_FulltimeEmployment;20160414;01:30;Fulltime Employment;Australia;AUD;2
+AUD_EmploymentChange;20160414;01:30;Employment Change s.a.;Australia;AUD;3
+AUD_ParticipationRate;20160414;01:30;Participation Rate;Australia;AUD;1
+AUD_ConsumerInflationExpectations;20160414;01:00;Consumer Inflation Expectations;Australia;AUD;2
+SGD_GrossDomesticProduct;20160414;00:00;Gross Domestic Product (QoQ);Singapore;SGD;1

@@ -1,0 +1,23 @@
+AUD_WagePriceIndex;20150225;00:30;Wage Price Index (YoY);Australia;AUD;1
+AUD_ConstructionWorkDone;20150225;00:30;Construction Work Done;Australia;AUD;1
+CNY_CaixinManufacturingPMI;20150225;01:45;Caixin Manufacturing PMI;China;CNY;1
+CHF_UBSConsumptionIndicator;20150225;07:00;UBS Consumption Indicator;Switzerland;CHF;2
+EUR_FraConsumerConfidence;20150225;07:45;Consumer Confidence;France;EUR;1
+EUR_ItaTradeBalancenonEU;20150225;09:00;Trade Balance non-EU;Italy;EUR;1
+NOK_LabourForceSurvey;20150225;09:00;Labour Force Survey;Norway;NOK;1
+GBP_BBAMortgageApprovals;20150225;09:30;BBA Mortgage Approvals;United Kingdom;GBP;2
+GBP_CentralBankSpeech;20150225;10:00;BoE Governor Carney speech;United Kingdom;GBP;3
+USD_MBAMortgageApplications;20150225;12:00;MBA Mortgage Applications;United States;USD;2
+MXN_CurrentAccount;20150225;15:00;Current Account, $ (QoQ);Mexico;MXN;1
+USD_NewHomeSales;20150225;15:00;New Home Sales (MoM);United States;USD;1
+USD_NewHomeSalesChange;20150225;15:00;New Home Sales Change (MoM);United States;USD;2
+USD_FedChairYellentestifies;20150225;15:00;Fed Chair Yellen testifies;United States;USD;3
+USD_EIACrudeOilStocksChange;20150225;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+EUR_EurCentralBankSpeech;20150225;17:15;ECB President Draghi speech;European Monetary Union;EUR;3
+USD_Auction;20150225;18:00;5-Year Note Auction;United States;USD;1
+NZD_Exports;20150225;21:45;Exports;New Zealand;NZD;1
+NZD_Imports;20150225;21:45;Imports;New Zealand;NZD;1
+NZD_TradeBalanceNZD;20150225;21:45;Trade Balance NZD (YoY);New Zealand;NZD;2
+NZD_VisitorArrivals;20150225;22:45;Visitor Arrivals (YoY);New Zealand;NZD;1
+JPY_ForeignInvestmentinJapanStocks;20150225;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20150225;23:50;Foreign Bond Investment;Japan;JPY;2

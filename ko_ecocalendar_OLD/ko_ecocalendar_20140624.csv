@@ -1,0 +1,39 @@
+JPY_CorporateServicePrice;20140624;23:50;Corporate Service Price (YoY);Japan;JPY;1
+KRW_ConsumerSentimentIndex;20140624;21:00;Consumer Sentiment Index;South Korea;KRW;1
+USD_Auction;20140624;17:00;2-Year Note Auction;United States;USD;1
+USD_ConsumerConfidence;20140624;14:00;Consumer Confidence;United States;USD;2
+USD_NewHomeSales;20140624;14:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20140624;14:00;New Home Sales Change (MoM);United States;USD;2
+USD_RichmondFedManufacturingIndex;20140624;14:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_CentralBankSpeech;20140624;14:00;Treasury Sec Lew speech;United States;USD;2
+BRL_CurrentAccount;20140624;13:30;Current Account;Brazil;BRL;1
+USD_S&PCaseShillerHomePriceIndices;20140624;13:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;1
+USD_HousingPriceIndex;20140624;13:00;Housing Price Index (MoM);United States;USD;1
+MXN_1sthalfmonthCoreInflation;20140624;13:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20140624;13:00;1st half-month Inflation;Mexico;MXN;1
+USD_RedbookIndex;20140624;12:55;Redbook Index (YoY);United States;USD;1
+EUR_SloCurrentAccount;20140624;12:30;Current Account Balance EUR;Slovakia;EUR;1
+HUF_MNBInterestRateDecision;20140624;12:00;MNB Interest Rate Decision;Hungary;HUF;1
+TRY_ManufacturingConfidence;20140624;11:30;Manufacturing Confidence;Turkey;TRY;1
+TRY_CapacityUtilization;20140624;11:30;Capacity Utilization;Turkey;TRY;1
+EUR_PorCurrentAccount;20140624;11:00;Current Account Balance;Portugal;EUR;1
+TRY_CBRTInterestRateDecision;20140624;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+EUR_SpaAuction;20140624;09:01;9-Month Letras Auction;Spain;EUR;1
+EUR_ItaTradeBalancenonEU;20140624;09:00;Trade Balance non-EU;Italy;EUR;1
+GBP_BBAMortgageApprovals;20140624;08:30;BBA Mortgage Approvals;United Kingdom;GBP;1
+GBP_InflationReportHearings;20140624;08:30;Inflation Report Hearings;United Kingdom;GBP;3
+TRY_ForeignArrivals;20140624;08:00;Foreign Arrivals;Turkey;TRY;1
+EUR_ItaWageInflation;20140624;08:00;Wage Inflation (YoY);Italy;EUR;1
+EUR_GerIFOCurrentAssessment;20140624;08:00;IFO - Current Assessment;Germany;EUR;2
+EUR_GerIFOExpectations;20140624;08:00;IFO - Expectations;Germany;EUR;2
+EUR_GerIFOBusinessClimate;20140624;08:00;IFO - Business Climate;Germany;EUR;2
+EUR_NetBusinessConfidence;20140624;07:30;Business Confidence;Netherlands, The;EUR;1
+DKK_ConsumerConfidence;20140624;07:00;Consumer Confidence;Denmark;DKK;1
+HUF_CurrentAccount;20140624;06:30;Current Account Balance (QoQ);Hungary;HUF;1
+CHF_Exports;20140624;06:00;Exports (MoM);Switzerland;CHF;1
+CHF_Imports;20140624;06:00;Imports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20140624;06:00;Trade Balance;Switzerland;CHF;1
+EUR_FinProducerPriceIndex;20140624;06:00;Producer Price Index (YoY);Finland;EUR;1
+EUR_FinUnemploymentRate;20140624;06:00;Unemployment Rate;Finland;EUR;1
+EUR_FinImportPrices;20140624;06:00;Import Prices (YoY);Finland;EUR;1
+EUR_FinExportPrices;20140624;06:00;Export Prices (YoY);Finland;EUR;1

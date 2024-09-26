@@ -1,0 +1,25 @@
+JPY_CorporateServicePrice;20120725;23:50;Corporate Service Price (YoY);Japan;JPY;1
+JPY_ForeignBondInvestment;20120725;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20120725;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+KRW_GrossDomesticProduct;20120725;23:00;Gross Domestic Product Growth (YoY);South Korea;KRW;1
+NZD_RBNZInterestRateDecision;20120725;21:00;RBNZ Interest Rate Decision;New Zealand;NZD;3
+USD_Auction;20120725;18:00;5-Year Note Auction;United States;USD;1
+USD_EIACrudeOilStocksChange;20120725;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_NewHomeSales;20120725;14:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20120725;14:00;New Home Sales Change (MoM);United States;USD;1
+EUR_BelLeadingIndicator;20120725;13:00;Leading Indicator;Belgium;EUR;1
+INR_M3MoneySupply;20120725;11:30;M3 Money Supply;India;INR;1
+TRY_ManufacturingConfidence;20120725;11:30;Manufacturing Confidence;Turkey;TRY;1
+TRY_CapacityUtilization;20120725;11:30;Capacity Utilization;Turkey;TRY;1
+USD_MBAMortgageApplications;20120725;11:00;MBA Mortgage Applications;United States;USD;1
+GBP_CBIIndustrialTrendsSurveyOrders;20120725;10:00;CBI Industrial Trends Survey - Orders (MoM);United Kingdom;GBP;1
+EUR_GerAuction;20120725;09:30;30-y Bond Auction;Germany;EUR;1
+EUR_ItaConsumerConfidence;20120725;08:30;Consumer Confidence;Italy;EUR;1
+GBP_GrossDomesticProduct;20120725;08:30;Gross Domestic Product (YoY);United Kingdom;GBP;2
+GBP_IndexofServices;20120725;08:30;Index of Services (3M/3M);United Kingdom;GBP;1
+EUR_GerIFOCurrentAssessment;20120725;08:00;IFO - Current Assessment;Germany;EUR;2
+EUR_GerIFOExpectations;20120725;08:00;IFO - Expectations;Germany;EUR;2
+EUR_GerIFOBusinessClimate;20120725;08:00;IFO - Business Climate;Germany;EUR;2
+AUD_ConsumerPriceIndex;20120725;01:30;Consumer Price Index (QoQ);Australia;AUD;2
+AUD_RBATrimmedMeanCPI;20120725;00:30;RBA Trimmed Mean CPI (QoQ);Australia;AUD;1
+RUB_GrossDomesticProduct;20120725;00:00;Gross Domestic Product Monthly (YoY);Russia;RUB;1

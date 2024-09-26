@@ -1,0 +1,40 @@
+JPY_TokyoCPIexFreshFood;20140424;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;1
+JPY_TokyoCPIexFoodEnergy;20140424;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;1
+JPY_ConsumerPriceIndex;20140424;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;1
+JPY_NationalCPIexFoodEnergy;20140424;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20140424;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;3
+KRW_GrossDomesticProduct;20140424;23:00;Gross Domestic Product Growth (YoY);South Korea;KRW;1
+KRW_ConsumerSentimentIndex;20140424;21:00;Consumer Sentiment Index;South Korea;KRW;1
+USD_Auction;20140424;17:00;7-Year Note Auction;United States;USD;1
+USD_KansasFedManufacturingActivity;20140424;15:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_EIANaturalGasStorageChange;20140424;14:30;EIA Natural Gas Storage Change;United States;USD;1
+MXN_1sthalfmonthCoreInflation;20140424;13:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20140424;13:00;1st half-month Inflation;Mexico;MXN;1
+USD_JoblessClaims;20140424;12:30;Continuing Jobless Claims;United States;USD;2
+USD_DurableGoodsOrders;20140424;12:30;Durable Goods Orders ex Transportation;United States;USD;2
+TRY_ManufacturingConfidence;20140424;11:30;Manufacturing Confidence;Turkey;TRY;1
+TRY_CapacityUtilization;20140424;11:30;Capacity Utilization;Turkey;TRY;1
+RUB_CentralBankReserves;20140424;11:00;Central Bank Reserves $;Russia;RUB;1
+TRY_CBRTInterestRateDecision;20140424;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+GBP_CBIDistributiveTradesSurveyRealized;20140424;10:00;CBI Distributive Trades Survey - Realized (MoM);United Kingdom;GBP;1
+ZAR_ProducerPriceIndex;20140424;09:30;Producer Price Index (MoM);South Africa;ZAR;1
+EUR_EurCentralBankSpeech;20140424;09:00;ECB President Draghi speech;European Monetary Union;EUR;3
+EUR_SpaAuction;20140424;08:59;10-y Obligaciones Auction;Spain;EUR;1
+EUR_ItaTradeBalancenonEU;20140424;08:00;Trade Balance non-EU;Italy;EUR;1
+PLN_Unemployment;20140424;08:00;Unemployment (MoM);Poland;PLN;1
+PLN_RetailSales;20140424;08:00;Retail Sales (YoY);Poland;PLN;1
+TRY_ForeignArrivals;20140424;08:00;Foreign Arrivals;Turkey;TRY;1
+EUR_GerIFOCurrentAssessment;20140424;08:00;IFO - Current Assessment;Germany;EUR;2
+EUR_GerIFOExpectations;20140424;08:00;IFO - Expectations;Germany;EUR;2
+EUR_GerIFOBusinessClimate;20140424;08:00;IFO - Business Climate;Germany;EUR;2
+EUR_NetBusinessConfidence;20140424;07:30;Business Confidence;Netherlands, The;EUR;1
+EUR_NetConsumerSpendingVolume;20140424;07:30;Consumer Spending Volume;Netherlands, The;EUR;1
+DKK_ConsumerConfidence;20140424;07:00;Consumer Confidence;Denmark;DKK;1
+EUR_FraBusinessClimate;20140424;06:45;Business Climate;France;EUR;1
+CHF_Exports;20140424;06:00;Exports (MoM);Switzerland;CHF;1
+CHF_Imports;20140424;06:00;Imports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20140424;06:00;Trade Balance;Switzerland;CHF;2
+EUR_FinProducerPriceIndex;20140424;06:00;Producer Price Index (YoY);Finland;EUR;1
+EUR_FinUnemploymentRate;20140424;06:00;Unemployment Rate;Finland;EUR;1
+EUR_FinImportPrices;20140424;06:00;Import Prices (YoY);Finland;EUR;1
+EUR_FinExportPrices;20140424;06:00;Export Prices (YoY);Finland;EUR;1

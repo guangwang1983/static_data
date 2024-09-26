@@ -1,0 +1,36 @@
+USD_CentralBankSpeech;20180112;21:15;Fed Rosengren speech;United States;USD;2
+USD_CFTCUSDNCNetPositions;20180112;19:30;CFTC USD NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20180112;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCGoldNCNetPositions;20180112;19:30;CFTC Gold NC Net Positions;United States;USD;1
+AUD_CFTCAUDNCNetPositions;20180112;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCOilNCNetPositions;20180112;19:30;CFTC Oil NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20180112;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+GBP_CFTCGBPNCNetPositions;20180112;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_BakerHughesUSOilRigCount;20180112;18:00;Baker Hughes US Oil Rig Count;United States;USD;2
+EUR_GerCentralBankSpeech;20180112;16:30;German Buba President Weidmann speech;Germany;EUR;2
+USD_IBDTIPPEconomicOptimism;20180112;15:43;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+USD_BusinessInventories;20180112;15:00;Business Inventories;United States;USD;1
+USD_RetailSales;20180112;13:30;Retail Sales Control Group;United States;USD;2
+USD_ConsumerPriceIndex;20180112;13:30;Consumer Price Index n.s.a (MoM);United States;USD;1
+INR_CumulativeIndustrialOutput;20180112;11:30;Cumulative Industrial Output;India;INR;1
+INR_ManufacturingOutput;20180112;11:30;Manufacturing Output;India;INR;1
+INR_IndustrialOutput;20180112;11:30;Industrial Output;India;INR;1
+INR_FXReservesUSD;20180112;11:30;FX Reserves, USD;India;INR;1
+EUR_GreConsumerPriceIndex;20180112;10:00;Consumer Price Index - Harmonized (YoY);Greece;EUR;1
+EUR_ItaIndustrialOutput;20180112;09:00;Industrial Output w.d.a (YoY);Italy;EUR;1
+SEK_ConsumerPriceIndex;20180112;08:30;Consumer Price Index (MoM);Sweden;SEK;1
+EUR_SpaHICP;20180112;08:00;HICP (YoY);Spain;EUR;1
+EUR_SpaConsumerPriceIndex;20180112;08:00;Consumer Price Index (YoY);Spain;EUR;1
+HUF_ConsumerPriceIndex;20180112;08:00;Consumer Price Index (YoY);Hungary;HUF;1
+EUR_FraConsumerPriceIndex;20180112;07:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraInflationextobacco;20180112;07:45;Inflation ex-tobacco (MoM);France;EUR;1
+RON_GrossDomesticProduct;20180112;07:00;Gross Domestic Product;Romania;RON;1
+RON_ConsumerPriceIndex;20180112;07:00;Consumer Price Index;Romania;RON;1
+TRY_CurrentAccount;20180112;07:00;Current Account Balance;Turkey;TRY;1
+JPY_EcoWatchersSurvey:Outlook;20180112;05:00;Eco Watchers Survey: Outlook;Japan;JPY;2
+JPY_EcoWatchersSurvey:Current;20180112;05:00;Eco Watchers Survey: Current;Japan;JPY;2
+SGD_RetailSales;20180112;05:00;Retail Sales (MoM);Singapore;SGD;1
+CNY_TradeBalanceUSD;20180112;03:28;Trade Balance USD;China;CNY;2
+CNY_Imports;20180112;02:00;Imports (YoY) CNY;China;CNY;2
+CNY_Exports;20180112;02:00;Exports (YoY) CNY;China;CNY;2
+CNY_TradeBalanceCNY;20180112;02:00;Trade Balance CNY;China;CNY;2

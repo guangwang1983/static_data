@@ -1,0 +1,25 @@
+GBP_GfKConsumerConfidence;20231124;00:01;GfK Consumer Confidence;United Kingdom;GBP;2
+JPY_JibunBankServicesPMI;20231124;00:30;Jibun Bank Services PMI;Japan;JPY;1
+JPY_JibunBankManufacturingPMI;20231124;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+JPY_CoincidentIndex;20231124;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20231124;05:00;Leading Economic Index;Japan;JPY;1
+EUR_GerGrossDomesticProduct;20231124;07:00;Gross Domestic Product (QoQ);Germany;EUR;2
+TRY_CapacityUtilization;20231124;07:00;Capacity Utilization;Turkey;TRY;1
+TRY_ManufacturingConfidence;20231124;07:00;Manufacturing Confidence;Turkey;TRY;1
+SEK_ProducerPriceIndex;20231124;07:00;Producer Price Index (YoY);Sweden;SEK;1
+HUF_UnemploymentRate;20231124;07:30;Unemployment Rate (3M);Hungary;HUF;1
+CHF_EmploymentLevel;20231124;07:30;Employment Level (QoQ);Switzerland;CHF;1
+TRY_ForeignArrivals;20231124;08:00;Foreign Arrivals;Turkey;TRY;1
+EUR_GerIFO–BusinessClimate;20231124;09:00;IFO – Business Climate;Germany;EUR;2
+EUR_GerIFO–CurrentAssessment;20231124;09:00;IFO – Current Assessment;Germany;EUR;2
+EUR_GerIFO–Expectations;20231124;09:00;IFO – Expectations;Germany;EUR;2
+EUR_GerCentralBankSpeech;20231124;09:00;German Buba President Nagel speech;Germany;EUR;2
+PLN_Unemployment;20231124;09:00;Unemployment (MoM);Poland;PLN;1
+INR_FXReservesUSD;20231124;11:30;FX Reserves, USD;India;INR;1
+MXN_GrossDomesticProduct;20231124;12:00;Gross Domestic Product (QoQ);Mexico;MXN;1
+EUR_EurCentralBankSpeech;20231124;13:00;ECB De Guindos speech;Eurozone;EUR;2
+CAD_RetailSales;20231124;13:30;Retail Sales ex Autos (MoM);Canada;CAD;2
+USD_S&PGlobalServicesPMI;20231124;14:45;S&P Global Services PMI;United States;USD;3
+USD_S&PGlobalCompositePMI;20231124;14:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalManufacturingPMI;20231124;14:45;S&P Global Manufacturing PMI;United States;USD;3
+MXN_CurrentAccount;20231124;15:00;Current Account, $ (QoQ);Mexico;MXN;1

@@ -1,0 +1,39 @@
+JPY_JPForeignReserves;20140904;23:50;JP Foreign Reserves;Japan;JPY;1
+AUD_AiGPerformanceofConstructionIndex;20140904;23:30;AiG Performance of Construction Index;Australia;AUD;1
+USD_CentralBankSpeech;20140904;23:00;FOMC Member Powell speech (don't use);United States;USD;1
+USD_EIACrudeOilStocksChange;20140904;15:00;EIA Crude Oil Stocks Change;United States;USD;1
+USD_EIANaturalGasStorageChange;20140904;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_ISMNonManufacturingPMI;20140904;14:00;ISM Non-Manufacturing PMI;United States;USD;3
+USD_MarkitServicesPMI;20140904;13:45;Markit Services PMI;United States;USD;1
+USD_MarkitPMIComposite;20140904;13:45;Markit PMI Composite;United States;USD;1
+USD_TradeBalance;20140904;12:30;Trade Balance;United States;USD;2
+USD_JoblessClaims;20140904;12:30;Initial Jobless Claims;United States;USD;2
+USD_NonfarmProductivity;20140904;12:30;Nonfarm Productivity;United States;USD;1
+USD_UnitLaborCosts;20140904;12:30;Unit Labor Costs;United States;USD;1
+EUR_EurECBMonetaryPolicyStatementandPressConference;20140904;12:30;ECB Monetary Policy Statement and Press Conference;European Monetary Union;EUR;3
+CAD_Exports;20140904;12:30;Exports;Canada;CAD;1
+CAD_Imports;20140904;12:30;Imports;Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20140904;12:30;International Merchandise Trade;Canada;CAD;1
+USD_ADPEmploymentChange;20140904;12:15;ADP Employment Change;United States;USD;2
+RUB_ConsumerPriceIndex;20140904;12:00;Consumer Price Index (MoM);Russia;RUB;1
+EUR_EurECBInterestRateDecision;20140904;11:45;ECB Interest Rate Decision;European Monetary Union;EUR;3
+USD_ChallengerJobCuts;20140904;11:30;Challenger Job Cuts;United States;USD;1
+GBP_BoEAssetPurchaseFacility;20140904;11:00;BoE Asset Purchase Facility;United Kingdom;GBP;3
+GBP_BoEInterestRateDecision;20140904;11:00;BoE Interest Rate Decision;United Kingdom;GBP;3
+RUB_CentralBankReserves;20140904;11:00;Central Bank Reserves $;Russia;RUB;1
+BRL_FipeIPCInflation;20140904;11:00;Fipe IPC Inflation;Brazil;BRL;1
+EUR_FraAuction;20140904;09:03;10-y Bond Auction;France;EUR;1
+EUR_SpaAuction;20140904;09:00;10-y Obligaciones Auction;Spain;EUR;1
+SEK_RiksbankInterestRateDecision;20140904;07:30;Riksbank Interest Rate Decision;Sweden;SEK;1
+EUR_NetConsumerPriceIndex;20140904;07:30;Consumer Price Index n.s.a (YoY);Netherlands, The;EUR;1
+CZK_RetailSales;20140904;07:00;Retail Sales (YoY);Czech Republic;CZK;1
+JPY_BoJPressConference;20140904;06:30;BoJ Press Conference;Japan;JPY;2
+BRL_InterestRateDecision;20140904;06:18;Interest Rate Decision;Brazil;BRL;1
+EUR_GerFactoryOrders;20140904;06:00;Factory Orders s.a. (MoM);Germany;EUR;1
+EUR_FraILOUnemployment;20140904;05:30;ILO Unemployment;France;EUR;2
+JPY_BoJMonetaryPolicyStatement;20140904;03:07;BoJ Monetary Policy Statement ;Japan;JPY;2
+JPY_BoJInterestRateDecision;20140904;03:00;BoJ Interest Rate Decision;Japan;JPY;3
+AUD_RetailSales;20140904;01:30;Retail Sales s.a. (MoM);Australia;AUD;2
+AUD_TradeBalance;20140904;01:30;Trade Balance;Australia;AUD;2
+AUD_Imports;20140904;01:30;Imports;Australia;AUD;1
+AUD_Exports;20140904;01:30;Exports;Australia;AUD;1

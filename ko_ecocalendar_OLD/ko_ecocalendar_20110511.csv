@@ -1,0 +1,31 @@
+JPY_MoneySupplyM2+CD;20110511;23:50;Money Supply M2+CD (YoY);Japan;JPY;1
+JPY_CurrentAccount;20110511;23:50;Current Account n.s.a.;Japan;JPY;2
+JPY_TradeBalanceBOPBasis;20110511;23:50;Trade Balance - BOP Basis;Japan;JPY;2
+NZD_FoodPriceIndex;20110511;22:45;Food Price Index (MoM);New Zealand;NZD;1
+NZD_BusinessNZPMI;20110511;22:30;Business NZ PMI;New Zealand;NZD;2
+USD_MonthlyBudgetStatement;20110511;18:00;Monthly Budget Statement;United States;USD;1
+USD_EIACrudeOilStocksChange;20110511;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_TradeBalance;20110511;12:30;Trade Balance;United States;USD;2
+CAD_InternationalMerchandiseTrade;20110511;12:30;International Merchandise Trade;Canada;CAD;2
+PLN_NBPBaserate;20110511;12:27;NBP Base rate;Poland;PLN;1
+USD_MBAMortgageApplications;20110511;11:00;MBA Mortgage Applications;United States;USD;1
+ZAR_ManufacturingProductionIndex;20110511;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+GBP_BankofEnglandQuarterlyInflationReport;20110511;09:30;Bank of England Quarterly Inflation Report;United Kingdom;GBP;2
+GBP_CentralBankSpeech;20110511;09:30;BoE Governor King speech;United Kingdom;GBP;1
+EUR_PorConsumerPriceIndex;20110511;09:00;Consumer Price Index (MoM);Portugal;EUR;1
+EUR_FraIndividualInvestment;20110511;08:45;Individual Investment (Current Year);France;EUR;1
+GBP_GoodsTradeBalance;20110511;08:30;Goods Trade Balance;United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20110511;08:30;Trade Balance non-EU;United Kingdom;GBP;1
+TRY_CurrentAccount;20110511;07:00;Current Account Balance;Turkey;TRY;1
+HUF_ConsumerPriceIndex;20110511;07:00;Consumer Price Index (YoY);Hungary;HUF;1
+EUR_FraCurrentAccount;20110511;06:45;Current Account;France;EUR;1
+EUR_GerWholesalePriceIndex;20110511;06:00;Wholesale Price Index (MoM);Germany;EUR;1
+EUR_GerConsumerPriceIndex;20110511;06:00;Consumer Price Index (MoM);Germany;EUR;3
+EUR_FraInflationextobacco;20110511;05:30;Inflation ex-tobacco (MoM);France;EUR;1
+JPY_CoincidentIndex;20110511;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20110511;05:00;Leading Economic Index;Japan;JPY;2
+CNY_RetailSales;20110511;02:00;Retail Sales (YoY);China;CNY;1
+CNY_IndustrialProduction;20110511;02:00;Industrial Production (YoY);China;CNY;1
+CNY_FixedAssetInvestment;20110511;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+CNY_ConsumerPriceIndex;20110511;02:00;Consumer Price Index (YoY);China;CNY;1
+CNY_ProducerPriceIndex;20110511;02:00;Producer Price Index (YoY);China;CNY;1

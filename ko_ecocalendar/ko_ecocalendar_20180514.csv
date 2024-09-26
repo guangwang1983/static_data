@@ -1,0 +1,14 @@
+COP_AscensionDay;20180514;00:00;Ascension Day (Observed);Colombia;COP;0
+RON_ConsumerPriceIndex;20180514;06:00;Consumer Price Index;Romania;RON;1
+JPY_MachineToolOrders;20180514;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+INR_WPIInflation;20180514;06:30;WPI Inflation;India;INR;1
+TRY_CurrentAccount;20180514;07:00;Current Account Balance;Turkey;TRY;1
+CZK_CurrentAccount;20180514;08:00;Current Account (MoM);Czech Republic;CZK;1
+PLN_CurrentAccount;20180514;12:00;Current Account;Poland;PLN;1
+USD_CentralBankSpeech;20180514;13:40;Fed Bullard speech;United States;USD;2
+USD_Auction;20180514;15:30;3-Month Bill Auction;United States;USD;1
+EUR_EurCentralBankSpeech;20180514;17:45;ECB Cœuré speech;European Monetary Union;EUR;2
+USD_LoanOfficerSurvey;20180514;18:00;Loan Officer Survey;United States;USD;1
+KRW_ImportPriceGrowth;20180514;21:00;Import Price Growth (YoY);South Korea;KRW;1
+KRW_ExportPriceGrowth;20180514;21:00;Export Price Growth (YoY);South Korea;KRW;1
+AUD_CentralBankSpeech;20180514;23:10;RBA Debelle speech;Australia;AUD;2

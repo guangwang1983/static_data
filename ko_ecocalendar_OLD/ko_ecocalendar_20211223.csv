@@ -1,0 +1,30 @@
+AUD_PrivateSectorCredit;20211223;00:30;Private Sector Credit (YoY);Australia;AUD;1
+JPY_LeadingEconomicIndex;20211223;05:00;Leading Economic Index;Japan;JPY;1
+JPY_CoincidentIndex;20211223;05:00;Coincident Index;Japan;JPY;1
+DKK_GrossDomesticProduct;20211223;07:00;Gross Domestic Product (YoY);Denmark;DKK;1
+PLN_Unemployment;20211223;09:00;Unemployment (MoM);Poland;PLN;1
+MXN_JoblessRate;20211223;12:00;Jobless Rate;Mexico;MXN;1
+MXN_1sthalfmonthCoreInflation;20211223;12:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20211223;12:00;1st half-month Inflation;Mexico;MXN;1
+RUB_CentralBankReserves;20211223;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_PersonalConsumptionExpendituresPriceIndex;20211223;13:30;Personal Consumption Expenditures - Price Index (YoY);United States;USD;1
+USD_CorePersonalConsumptionExpendituresPriceIndex;20211223;13:30;Core Personal Consumption Expenditures - Price Index (MoM);United States;USD;2
+USD_PersonalIncome;20211223;13:30;Personal Income (MoM);United States;USD;2
+USD_PersonalSpending;20211223;13:30;Personal Spending;United States;USD;2
+USD_JoblessClaims;20211223;13:30;Initial Jobless Claims 4-week average;United States;USD;2
+USD_NondefenseCapitalGoodsOrdersexAircraft;20211223;13:30;Nondefense Capital Goods Orders ex Aircraft;United States;USD;3
+USD_DurableGoodsOrders;20211223;13:30;Durable Goods Orders;United States;USD;3
+CAD_GrossDomesticProduct;20211223;13:30;Gross Domestic Product (MoM);Canada;CAD;2
+USD_MichiganConsumerSentimentIndex;20211223;15:00;Michigan Consumer Sentiment Index;United States;USD;2
+USD_Auction;20211223;15:00;4-Week Bill Auction;United States;USD;1
+USD_NewHomeSales;20211223;15:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20211223;15:00;New Home Sales Change (MoM);United States;USD;1
+USD_EIANaturalGasStorageChange;20211223;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_BakerHughesUSOilRigCount;20211223;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+DKK_ChristmasEve;20211223;22:00;Christmas Eve ;Denmark;DKK;0
+SEK_ChristmasEve;20211223;22:00;Christmas Eve ;Sweden;SEK;0
+CZK_ChristmasEve;20211223;23:00;Christmas Eve ;Czech Republic;CZK;0
+JPY_NationalCPIexFreshFood;20211223;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20211223;23:30;National Consumer Price Index (YoY);Japan;JPY;2
+JPY_NationalCPIexFoodEnergy;20211223;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_CorporateServicePriceIndex;20211223;23:50;Corporate Service Price Index (YoY);Japan;JPY;1

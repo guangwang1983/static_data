@@ -1,0 +1,38 @@
+COP_ConsumerPriceIndex;20220106;00:00;Consumer Price Index (MoM);Colombia;COP;1
+JPY_JibunBankServicesPMI;20220106;00:30;Jibun Bank Services PMI;Japan;JPY;1
+CNY_CaixinServicesPMI;20220106;01:45;Caixin Services PMI;China;CNY;2
+COP_Epiphany;20220106;05:00;Epiphany;Colombia;COP;0
+EUR_GerFactoryOrders;20220106;07:00;Factory Orders n.s.a. (YoY);Germany;EUR;1
+HUF_ProducerPriceIndex;20220106;08:00;Producer Price Index (YoY);Hungary;HUF;1
+BRL_FipeIPCInflation;20220106;08:00;Fipe IPC Inflation;Brazil;BRL;1
+GBP_S&PGlobalCIPSCompositePMI;20220106;09:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSServicesPMI;20220106;09:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;1
+CZK_BudgetBalance;20220106;09:30;Budget Balance;Czech Republic;CZK;1
+EUR_FraAuction;20220106;09:50;10-y Bond Auction;France;EUR;1
+EUR_EurProducerPriceIndex;20220106;10:00;Producer Price Index (MoM);European Monetary Union;EUR;1
+ILS_FXReserves;20220106;11:00;FX Reserves;Israel;ILS;1
+BRL_IndustrialOutput;20220106;12:00;Industrial Output (MoM);Brazil;BRL;1
+USD_ChallengerJobCuts;20220106;12:30;Challenger Job Cuts;United States;USD;1
+EUR_GerHarmonizedIndexofConsumerPrices;20220106;13:00;Harmonized Index of Consumer Prices (MoM);Germany;EUR;1
+EUR_GerConsumerPriceIndex;20220106;13:00;Consumer Price Index (YoY);Germany;EUR;1
+USD_GoodsandServicesTradeBalance;20220106;13:30;Goods and Services Trade Balance;United States;USD;2
+USD_JoblessClaims;20220106;13:30;Continuing Jobless Claims;United States;USD;1
+USD_GoodsTradeBalance;20220106;13:30;Goods Trade Balance;United States;USD;1
+CAD_InternationalMerchandiseTrade;20220106;13:30;International Merchandise Trade;Canada;CAD;2
+CAD_Exports;20220106;13:30;Exports;Canada;CAD;1
+CAD_Imports;20220106;13:30;Imports;Canada;CAD;1
+USD_ISMServicesPricesPaid;20220106;15:00;ISM Services Prices Paid;United States;USD;2
+USD_ISMServicesEmploymentIndex;20220106;15:00;ISM Services Employment Index;United States;USD;2
+USD_ISMServicesNewOrdersIndex;20220106;15:00;ISM Services New Orders Index;United States;USD;2
+USD_ISMServicesPMI;20220106;15:00;ISM Services PMI;United States;USD;3
+USD_FactoryOrders;20220106;15:00;Factory Orders (MoM);United States;USD;2
+USD_EIANaturalGasStorageChange;20220106;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20220106;16:30;4-Week Bill Auction;United States;USD;1
+RUB_OrthodoxChristmasDay;20220106;21:00;Orthodox Christmas Day ;Russia;RUB;0
+JPY_TokyoCPIexFoodEnergy;20220106;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_TokyoCPIexFreshFood;20220106;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20220106;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;2
+JPY_LaborCashEarnings;20220106;23:30;Labor Cash Earnings (YoY);Japan;JPY;1
+JPY_OverallHouseholdSpending;20220106;23:30;Overall Household Spending (YoY);Japan;JPY;2
+JPY_ForeignBondInvestment;20220106;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20220106;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1

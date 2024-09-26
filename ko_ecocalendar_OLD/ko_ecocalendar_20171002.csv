@@ -1,0 +1,47 @@
+JPY_MonetaryBase;20171002;23:50;Monetary Base (YoY);Japan;JPY;1
+NZD_NZIERBusinessConfidence;20171002;21:00;NZIER Business Confidence (QoQ);New Zealand;NZD;2
+ARS_TaxRevenue;20171002;20:00;Tax Revenue (MoM);Argentina;ARS;1
+USD_CentralBankSpeech;20171002;18:00;Fed Kaplan speech;United States;USD;2
+BRL_TradeBalance;20171002;18:00;Trade Balance;Brazil;BRL;1
+USD_Auction;20171002;15:30;6-Month Bill Auction;United States;USD;1
+USD_ISMManufacturingPMI;20171002;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMPricesPaid;20171002;14:00;ISM Prices Paid;United States;USD;3
+USD_ConstructionSpending;20171002;14:00;Construction Spending (MoM);United States;USD;2
+USD_MarkitManufacturingPMI;20171002;13:45;Markit Manufacturing PMI;United States;USD;2
+CAD_MarkitManufacturingPMI;20171002;13:30;Markit Manufacturing PMI;Canada;CAD;2
+ZAR_TotalNewVehicleSales;20171002;13:00;Total New Vehicle Sales;South Africa;ZAR;1
+BRL_HSBCPMIManufacturing;20171002;13:00;HSBC PMI Manufacturing;Brazil;BRL;1
+SGD_PurchasingManagersIndex;20171002;13:00;Purchasing Managers Index;Singapore;SGD;1
+CZK_BudgetBalance;20171002;12:00;Budget Balance;Czech Republic;CZK;1
+EUR_EurCentralBankSpeech;20171002;10:15;ECB Praet speech;European Monetary Union;EUR;2
+TRY_Exports;20171002;09:00;Exports;Turkey;TRY;1
+EUR_EurUnemploymentRate;20171002;09:00;Unemployment Rate;European Monetary Union;EUR;2
+GBP_MarkitManufacturingPMI;20171002;08:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+EUR_ItaUnemployment;20171002;08:00;Unemployment;Italy;EUR;2
+EUR_GreMarkitManufacturingPMI;20171002;08:00;Markit Manufacturing PMI;Greece;EUR;1
+EUR_EurMarkitManufacturingPMI;20171002;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_GerMarkitManufacturingPMI;20171002;07:55;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20171002;07:50;Markit Manufacturing PMI;France;EUR;1
+EUR_ItaMarkitManufacturingPMI;20171002;07:45;Markit Manufacturing PMI;Italy;EUR;1
+CHF_SVMEPurchasingManagers'Index;20171002;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_MarkitPMI;20171002;07:30;Markit PMI;Czech Republic;CZK;1
+EUR_SpaMarkitManufacturingPMI;20171002;07:15;Markit Manufacturing PMI;Spain;EUR;1
+CHF_RetailSales;20171002;07:15;Real Retail Sales (YoY);Switzerland;CHF;2
+EUR_AusUnemployment;20171002;07:00;Unemployment;Austria;EUR;1
+EUR_AusUnemploymentRate;20171002;07:00;Unemployment Rate;Austria;EUR;1
+HUF_PurchasingManagerIndex;20171002;07:00;Purchasing Manager Index;Hungary;HUF;1
+HUF_TradeBalance;20171002;07:00;Trade Balance;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20171002;07:00;Purchasing Manager Index;Poland;PLN;2
+SEK_PurchasingManagersIndexManufacturing;20171002;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;2
+RUB_HSBCManufacturingPMI;20171002;06:00;HSBC Manufacturing PMI	;Russia;RUB;1
+JPY_VehicleSales;20171002;05:00;Vehicle Sales (YoY);Japan;JPY;1
+PEN_Inflation;20171002;05:00;Inflation;Peru;PEN;1
+EUR_IrePurchasingManagerIndexManufacturing;20171002;05:00;Purchasing Manager Index Manufacturing;Ireland;EUR;1
+IDR_Inflation;20171002;04:00;Inflation (YoY);Indonesia;IDR;1
+IDR_CoreInflation;20171002;04:00;Core Inflation (YoY);Indonesia;IDR;1
+KRW_NikkeiMarkitManufacturingPMI;20171002;00:30;Nikkei Markit Manufacturing PMI;South Korea;KRW;1
+JPY_NikkeiManufacturingPMI;20171002;00:30;Nikkei Manufacturing PMI;Japan;JPY;1
+HKD_Nationaldayholiday;20171002;00:00;National day holiday;Hong Kong SAR;HKD;0
+INR_MahatmaGandhiBirthday;20171002;00:00;Mahatma Gandhi Birthday ;India;INR;0
+AUD_TDSecuritiesInflation;20171002;00:00;TD Securities Inflation (MoM);Australia;AUD;2
+CNY_NationalDay;20171002;00:00;National Day;China;CNY;0

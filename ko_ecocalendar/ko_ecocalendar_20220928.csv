@@ -1,0 +1,28 @@
+AUD_RetailSales;20220928;01:30;Retail Sales s.a. (MoM);Australia;AUD;3
+JPY_CoincidentIndex;20220928;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20220928;05:00;Leading Economic Index;Japan;JPY;1
+SEK_RetailSales;20220928;06:00;Retail Sales (YoY);Sweden;SEK;1
+EUR_GerGfkConsumerConfidenceSurvey;20220928;06:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+DKK_RetailSales;20220928;06:00;Retail Sales (YoY);Denmark;DKK;1
+NOK_RetailSales;20220928;06:00;Retail Sales ;Norway;NOK;1
+EUR_FraConsumerConfidence;20220928;06:45;Consumer Confidence;France;EUR;1
+SEK_ConsumerConfidence;20220928;07:00;Consumer Confidence (MoM);Sweden;SEK;1
+CHF_ZEWSurvey–Expectations;20220928;08:00;ZEW Survey – Expectations;Switzerland;CHF;2
+EUR_ItaBusinessConfidence;20220928;08:00;Business Confidence;Italy;EUR;1
+EUR_ItaConsumerConfidence;20220928;08:00;Consumer Confidence;Italy;EUR;1
+GBP_CentralBankSpeech;20220928;08:15;BoE Cunliffe speech;United Kingdom;GBP;2
+EUR_ItaIndustrialSales;20220928;09:00;Industrial Sales s.a. (MoM);Italy;EUR;1
+USD_MBAMortgageApplications;20220928;11:00;MBA Mortgage Applications;United States;USD;1
+USD_WholesaleInventories;20220928;12:30;Wholesale Inventories;United States;USD;1
+USD_GoodsTradeBalance;20220928;12:30;Goods Trade Balance;United States;USD;1
+CHF_SNBQuarterlyBulletin;20220928;13:00;SNB Quarterly Bulletin;Switzerland;CHF;2
+USD_PendingHomeSales;20220928;14:00;Pending Home Sales (YoY);United States;USD;1
+USD_EIACrudeOilStocksChange;20220928;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_CentralBankSpeech;20220928;15:00;Fed Bowman speech;United States;USD;2
+EUR_EurCentralBankSpeech;20220928;15:00;ECB Elderson speech;European Monetary Union;EUR;2
+RUB_UnemploymentRate;20220928;16:00;Unemployment Rate;Russia;RUB;1
+RUB_IndustrialOutput;20220928;16:00;Industrial Output;Russia;RUB;1
+USD_Auction;20220928;17:00;7-Year Note Auction;United States;USD;1
+KRW_BOKManufacturingBSI;20220928;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+JPY_ForeignInvestmentinJapanStocks;20220928;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20220928;23:50;Foreign Bond Investment;Japan;JPY;1

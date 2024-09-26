@@ -1,0 +1,28 @@
+JPY_CurrentAccount;20111108;23:50;Current Account n.s.a.;Japan;JPY;1
+JPY_TradeBalanceBOPBasis;20111108;23:50;Trade Balance - BOP Basis;Japan;JPY;2
+AUD_WestpacConsumerConfidence;20111108;23:30;Westpac Consumer Confidence;Australia;AUD;2
+KRW_UnemploymentRate;20111108;23:00;Unemployment Rate;South Korea;KRW;1
+GBP_NIESRGDPEstimate;20111108;15:00;NIESR GDP Estimate (3M);United Kingdom;GBP;2
+USD_IBDTIPPEconomicOptimism;20111108;15:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+CAD_HousingStarts;20111108;13:15;Housing Starts s.a (YoY);Canada;CAD;2
+CLP_ConsumerPriceIndex;20111108;11:00;Consumer Price Index (Inflation) (MoM);Chile;CLP;0
+GBP_ManufacturingProduction;20111108;09:30;Manufacturing Production (MoM);United Kingdom;GBP;1
+GBP_IndustrialProduction;20111108;09:30;Industrial Production (YoY);United Kingdom;GBP;2
+ISK_TradeBalance;20111108;09:00;Trade Balance;Iceland;ISK;1
+EUR_NetManufacturingOutput;20111108;08:30;Manufacturing Output (MoM);Netherlands, The;EUR;1
+HUF_IndustrialOutput;20111108;08:00;Industrial Output (YoY);Hungary;HUF;1
+CZK_UnemploymentRate;20111108;08:00;Unemployment Rate;Czech Republic;CZK;1
+RON_IndustrialProduction;20111108;08:00;Industrial Production (MoM);Romania;RON;1
+CZK_RetailSales;20111108;08:00;Retail Sales (YoY);Czech Republic;CZK;1
+EUR_FraImportsEUR;20111108;07:45;Imports, EUR;France;EUR;1
+EUR_FraExportsEUR;20111108;07:45;Exports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20111108;07:45;Trade Balance EUR;France;EUR;0
+EUR_GerCurrentAccount;20111108;07:00;Current Account n.s.a.;Germany;EUR;1
+EUR_GerTradeBalance;20111108;07:00;Trade Balance s.a.;Germany;EUR;2
+CHF_SECOConsumerClimate;20111108;06:45;SECO Consumer Climate (3m);Switzerland;CHF;2
+AUD_NationalAustraliaBankBusinessConfidence;20111108;00:30;National Australia Bank Business Confidence;Australia;AUD;2
+AUD_NationalAustraliaBankBusinessConditions;20111108;00:30;National Australia Bank Business Conditions;Australia;AUD;1
+AUD_TradeBalance;20111108;00:30;Trade Balance;Australia;AUD;2
+GBP_RICSHousingPriceBalance;20111108;00:01;RICS Housing Price Balance;United Kingdom;GBP;2
+GBP_RetailSales;20111108;00:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;1
+EUR_EurEcoFinMeeting;20111108;00:00;EcoFin Meeting;European Monetary Union;EUR;2

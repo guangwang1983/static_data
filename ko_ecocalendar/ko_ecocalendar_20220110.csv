@@ -1,0 +1,26 @@
+AUD_TDSecuritiesInflation;20220110;00:00;TD Securities Inflation (MoM);Australia;AUD;2
+AUD_BuildingPermits;20220110;00:30;Building Permits (YoY);Australia;AUD;1
+NOK_CoreInflation;20220110;07:00;Core Inflation (MoM);Norway;NOK;1
+NOK_ConsumerPriceIndex;20220110;07:00;Consumer Price Index (MoM);Norway;NOK;1
+TRY_UnemploymentRate;20220110;07:00;Unemployment Rate;Turkey;TRY;1
+RON_TradeBalance;20220110;07:00;Trade Balance;Romania;RON;1
+DKK_Inflation;20220110;07:00;Inflation (HICP) (YoY);Denmark;DKK;1
+DKK_ConsumerPriceIndex;20220110;07:00;Consumer Price Index (YoY);Denmark;DKK;1
+DKK_TradeBalance;20220110;07:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20220110;07:00;Current Account;Denmark;DKK;1
+DKK_IndustrialProduction;20220110;07:00;Industrial Production (MoM);Denmark;DKK;1
+NOK_ProducerPriceIndex;20220110;07:00;Producer Price Index (YoY);Norway;NOK;1
+CZK_UnemploymentRate;20220110;08:00;Unemployment Rate;Czech Republic;CZK;1
+HUF_TradeBalance;20220110;08:00;Trade Balance;Hungary;HUF;1
+SEK_IndustrialProductionValue;20220110;08:30;Industrial Production Value (YoY);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20220110;08:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+EUR_ItaUnemployment;20220110;09:00;Unemployment;Italy;EUR;2
+EUR_EurSentixInvestorConfidence;20220110;09:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+EUR_EurUnemploymentRate;20220110;10:00;Unemployment Rate;European Monetary Union;EUR;2
+ILS_BudgetBalanceILS;20220110;11:00;Budget Balance - ILS;Israel;ILS;1
+ZAR_TotalNewVehicleSales;20220110;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+RON_Interestratedecision;20220110;13:00;Interest rate decision;Romania;RON;1
+USD_WholesaleInventories;20220110;15:00;Wholesale Inventories;United States;USD;1
+USD_Auction;20220110;16:30;3-Month Bill Auction;United States;USD;1
+KRW_CurrentAccount;20220110;23:00;Current Account Balance;South Korea;KRW;1
+JPY_JPForeignReserves;20220110;23:50;JP Foreign Reserves;Japan;JPY;1

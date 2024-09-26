@@ -1,0 +1,31 @@
+ARS_MonthlyEconActivity;20150123;19:00;Monthly Econ Activity (MoM);Argentina;ARS;1
+ARS_IndustrialOutput;20150123;19:00;Industrial Output n.s.a (YoY);Argentina;ARS;1
+USD_ExistingHomeSalesChange;20150123;15:00;Existing Home Sales Change (MoM);United States;USD;2
+USD_ExistingHomeSales;20150123;15:00;Existing Home Sales (MoM);United States;USD;1
+USD_MarkitManufacturingPMI;20150123;14:45;Markit Manufacturing PMI;United States;USD;2
+EUR_BelLeadingIndicator;20150123;14:00;Leading Indicator;Belgium;EUR;1
+USD_ChicagoFedNationalActivityIndex;20150123;13:30;Chicago Fed National Activity Index ;United States;USD;1
+CAD_RetailSales;20150123;13:30;Retail Sales ex Autos (MoM);Canada;CAD;1
+CAD_ConsumerPriceIndex;20150123;13:30;Consumer Price Index (MoM);Canada;CAD;2
+BRL_CurrentAccount;20150123;12:30;Current Account;Brazil;BRL;1
+BRL_MidmonthInflation;20150123;12:00;Mid-month Inflation;Brazil;BRL;1
+INR_BankLoanGrowth;20150123;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20150123;11:30;FX Reserves, USD;India;INR;1
+EUR_ItaTradeBalancenonEU;20150123;10:00;Trade Balance non-EU;Italy;EUR;1
+GBP_RetailSales;20150123;09:30;Retail Sales (YoY);United Kingdom;GBP;2
+EUR_EurMarkitPMIComposite;20150123;09:00;Markit PMI Composite;European Monetary Union;EUR;1
+EUR_EurMarkitManufacturingPMI;20150123;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20150123;09:00;Markit Services PMI;European Monetary Union;EUR;1
+EUR_NetConsumerSpendingVolume;20150123;08:30;Consumer Spending Volume;Netherlands, The;EUR;1
+EUR_GerMarkitPMIComposite;20150123;08:30;Markit PMI Composite;Germany;EUR;1
+EUR_GerMarkitServicesPMI;20150123;08:30;Markit Services PMI;Germany;EUR;1
+EUR_GerMarkitManufacturingPMI;20150123;08:30;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20150123;08:00;Markit Manufacturing PMI;France;EUR;1
+EUR_FraMarkitPMIComposite;20150123;08:00;Markit PMI Composite;France;EUR;1
+EUR_FraMarkitServicesPMI;20150123;08:00;Markit Services PMI;France;EUR;1
+EUR_AusIndustrialProduction;20150123;08:00;Industrial Production (YoY);Austria;EUR;1
+EUR_FraBusinessClimate;20150123;07:45;Business Climate;France;EUR;1
+SGD_ConsumerPriceIndex;20150123;05:00;Consumer Price Index (YoY);Singapore;SGD;1
+CNY_CaixinManufacturingPMI;20150123;01:45;Caixin Manufacturing PMI;China;CNY;1
+JPY_NikkeiManufacturingPMI;20150123;01:35;Nikkei Manufacturing PMI;Japan;JPY;1
+CHF_WorldEconomicForumDavos;20150123;00:00;World Economic Forum - Davos;Switzerland;CHF;2

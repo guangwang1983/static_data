@@ -1,0 +1,35 @@
+JPY_ForeignBondInvestment;20140213;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20140213;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+AUD_CentralBankSpeech;20140213;22:05;RBA Kent speech;Australia;AUD;2
+NZD_FoodPriceIndex;20140213;21:45;Food Price Index (MoM);New Zealand;NZD;1
+NZD_REINZHousePriceIndex;20140213;20:55;REINZ House Price Index (MoM);New Zealand;NZD;1
+USD_Auction;20140213;18:00;30-Year Bond Auction;United States;USD;1
+USD_EIANaturalGasStorageChange;20140213;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_BusinessInventories;20140213;15:00;Business Inventories;United States;USD;2
+USD_RetailSales;20140213;13:30;Retail Sales ex Autos (MoM);United States;USD;2
+USD_JoblessClaims;20140213;13:30;Initial Jobless Claims;United States;USD;2
+CAD_NewHousingPriceIndex;20140213;13:30;New Housing Price Index (YoY);Canada;CAD;2
+RUB_CentralBankReserves;20140213;12:00;Central Bank Reserves $;Russia;RUB;1
+BRL_RetailSales;20140213;11:00;Retail Sales (MoM);Brazil;BRL;1
+EUR_ItaAuction;20140213;10:31;3-y Bond Auction;Italy;EUR;1
+EUR_GreUnemploymentRate;20140213;10:00;Unemployment Rate (MoM);Greece;EUR;1
+EUR_EurECBMonthlyReport;20140213;09:00;ECB Monthly Report;European Monetary Union;EUR;3
+SEK_UnemploymentRate;20140213;08:30;Unemployment Rate;Sweden;SEK;1
+SEK_RiksbankInterestRateDecision;20140213;08:30;Riksbank Interest Rate Decision;Sweden;SEK;1
+EUR_NetRetailSales;20140213;08:30;Retail Sales (YoY);Netherlands, The;EUR;1
+EUR_NetConsumerPriceIndex;20140213;08:30;Consumer Price Index n.s.a (YoY);Netherlands, The;EUR;1
+CHF_ProducerandImportPrices;20140213;08:15;Producer and Import Prices (MoM);Switzerland;CHF;1
+EUR_SloCoreInflation;20140213;08:00;Core Inflation (YoY);Slovakia;EUR;1
+EUR_SloHeadlineInflation;20140213;08:00;Headline Inflation (MoM);Slovakia;EUR;1
+TRY_CurrentAccount;20140213;08:00;Current Account Balance;Turkey;TRY;1
+EUR_GerConsumerPriceIndex;20140213;07:00;Consumer Price Index (MoM);Germany;EUR;2
+EUR_GerHarmonizedIndexofConsumerPrices;20140213;07:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+IDR_BankIndonesiaRate;20140213;04:00;Bank Indonesia Rate;Indonesia;IDR;1
+KRW_BoKInterestRateDecision;20140213;01:00;BoK Interest Rate Decision;South Korea;KRW;1
+AUD_PartTimeEmployment;20140213;00:30;Part-Time Employment;Australia;AUD;1
+AUD_ParticipationRate;20140213;00:30;Participation Rate;Australia;AUD;2
+AUD_UnemploymentRate;20140213;00:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_FulltimeEmployment;20140213;00:30;Fulltime Employment;Australia;AUD;2
+AUD_EmploymentChange;20140213;00:30;Employment Change s.a.;Australia;AUD;3
+GBP_RICSHousingPriceBalance;20140213;00:01;RICS Housing Price Balance;United Kingdom;GBP;1
+AUD_ConsumerInflationExpectations;20140213;00:00;Consumer Inflation Expectations;Australia;AUD;2

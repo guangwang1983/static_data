@@ -1,0 +1,23 @@
+NZD_Imports;20130128;21:45;Imports;New Zealand;NZD;1
+NZD_TradeBalance;20130128;21:45;Trade Balance (YoY);New Zealand;NZD;1
+NZD_Exports;20130128;21:45;Exports;New Zealand;NZD;1
+KRW_ConsumerSentimentIndex;20130128;21:00;Consumer Sentiment Index;South Korea;KRW;1
+KRW_BOKManufacturingBSI;20130128;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+COP_Interestrate;20130128;18:00;Interest rate;Colombia;COP;1
+USD_Auction;20130128;18:00;2-Year Note Auction;United States;USD;1
+CAD_CentralBankSpeech;20130128;16:00;BoC Governor Carney speech;Canada;CAD;2
+USD_DallasFedManufacturingBusinessIndex;20130128;15:30;Dallas Fed Manufacturing Business Index;United States;USD;1
+USD_PendingHomeSales;20130128;15:00;Pending Home Sales (YoY);United States;USD;2
+USD_DurableGoodsOrders;20130128;13:30;Durable Goods Orders ex Transportation;United States;USD;2
+EUR_IreRetailSales;20130128;11:00;Retail Sales (MoM);Ireland;EUR;1
+EUR_ItaWageInflation;20130128;10:00;Wage Inflation (MoM);Italy;EUR;1
+EUR_ItaConsumerConfidence;20130128;09:00;Consumer Confidence;Italy;EUR;1
+EUR_EurM3MoneySupply;20130128;09:00;M3 Money Supply (YoY);European Monetary Union;EUR;1
+EUR_EurPrivateLoans;20130128;09:00;Private Loans (YoY);European Monetary Union;EUR;1
+SEK_RetailSales;20130128;08:30;Retail Sales (MoM);Sweden;SEK;1
+SEK_TradeBalance;20130128;08:30;Trade Balance (MoM);Sweden;SEK;1
+RUB_UnemploymentRate;20130128;07:09;Unemployment Rate;Russia;RUB;1
+EUR_FinIndustrialConfidence;20130128;07:00;Industrial Confidence;Finland;EUR;1
+EUR_FinConsumerConfidence;20130128;07:00;Consumer Confidence;Finland;EUR;1
+GBP_HometrackHousingPrices;20130128;00:01;Hometrack Housing Prices s.a (MoM);United Kingdom;GBP;1
+AUD_AustraliaDay;20130128;00:00;Australia Day (Observed);Australia;AUD;0

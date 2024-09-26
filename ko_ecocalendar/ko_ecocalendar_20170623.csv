@@ -1,0 +1,36 @@
+SEK_Midsummer´sEve;20170623;00:00;Midsummer´s Eve;Sweden;SEK;0
+JPY_JibunBankManufacturingPMI;20170623;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+EUR_FraGrossDomesticProduct;20170623;06:45;Gross Domestic Product (YoY);France;EUR;1
+EUR_FraHCOBManufacturingPMI;20170623;07:00;HCOB Manufacturing PMI;France;EUR;1
+EUR_FraHCOBServicesPMI;20170623;07:00;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20170623;07:00;HCOB Composite PMI;France;EUR;1
+EUR_GerHCOBCompositePMI;20170623;07:30;HCOB Composite PMI;Germany;EUR;2
+EUR_GerHCOBManufacturingPMI;20170623;07:30;HCOB Manufacturing PMI;Germany;EUR;2
+EUR_GerHCOBServicesPMI;20170623;07:30;HCOB Services PMI;Germany;EUR;2
+EUR_EurEUleaderssummit;20170623;08:00;EU leaders summit;European Monetary Union;EUR;2
+EUR_ItaIndustrialSales;20170623;08:00;Industrial Sales n.s.a. (YoY);Italy;EUR;1
+EUR_ItaIndustrialOrders;20170623;08:00;Industrial Orders s.a (MoM);Italy;EUR;1
+EUR_EurHCOBCompositePMI;20170623;08:00;HCOB Composite PMI;European Monetary Union;EUR;2
+EUR_EurHCOBManufacturingPMI;20170623;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurHCOBServicesPMI;20170623;08:00;HCOB Services PMI;European Monetary Union;EUR;2
+INR_BankLoanGrowth;20170623;11:30;Bank Loan Growth;India;INR;1
+TRY_CapacityUtilization;20170623;11:30;Capacity Utilization;Turkey;TRY;1
+TRY_ManufacturingConfidence;20170623;11:30;Manufacturing Confidence;Turkey;TRY;1
+INR_FXReservesUSD;20170623;11:30;FX Reserves, USD;India;INR;1
+BRL_MidmonthInflation;20170623;12:00;Mid-month Inflation;Brazil;BRL;1
+CAD_ConsumerPriceIndex;20170623;12:30;BoC Consumer Price Index Core (MoM);Canada;CAD;2
+MXN_RetailSales;20170623;13:00;Retail Sales (YoY);Mexico;MXN;1
+USD_S&PGlobalManufacturingPMI;20170623;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20170623;13:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20170623;13:45;S&P Global Services PMI;United States;USD;2
+USD_NewHomeSales;20170623;14:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20170623;14:00;New Home Sales Change (MoM);United States;USD;2
+USD_BakerHughesUSOilRigCount;20170623;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CentralBankSpeech;20170623;18:15;FOMC Member Powell speech (don't use);United States;USD;2
+EUR_EurCFTCEURNCNetPositions;20170623;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20170623;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+JPY_CFTCJPYNCNetPositions;20170623;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+GBP_CFTCGBPNCNetPositions;20170623;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20170623;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20170623;19:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20170623;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1

@@ -1,0 +1,49 @@
+NZD_ANZActivityOutlook;20151130;00:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20151130;00:00;ANZ Business Confidence;New Zealand;NZD;1
+AUD_PrivateSectorCredit;20151130;00:30;Private Sector Credit (MoM);Australia;AUD;2
+AUD_CompanyGrossOperatingProfits;20151130;00:30;Company Gross Operating Profits (QoQ);Australia;AUD;1
+JPY_CentralBankSpeech;20151130;01:00;BoJ Governor Kuroda speech;Japan;JPY;3
+NZD_M3MoneySupply;20151130;02:00;M3 Money Supply (YoY);New Zealand;NZD;1
+JPY_VehicleProduction;20151130;04:00;Vehicle Production (YoY);Japan;JPY;1
+JPY_AnnualizedHousingStarts;20151130;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_ConstructionOrders;20151130;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_HousingStarts;20151130;05:00;Housing Starts (YoY);Japan;JPY;1
+ZAR_M3MoneySupply;20151130;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+ZAR_PrivateSectorCredit;20151130;06:00;Private Sector Credit;South Africa;ZAR;1
+EUR_GerRetailSales;20151130;07:00;Retail Sales (MoM);Germany;EUR;2
+CHF_KOFLeadingIndicator;20151130;08:00;KOF Leading Indicator;Switzerland;CHF;2
+TRY_TradeBalance;20151130;08:00;Trade Balance;Turkey;TRY;1
+DKK_UnemploymentRate;20151130;08:00;Unemployment Rate;Denmark;DKK;1
+DKK_GrossDomesticProduct;20151130;08:00;Gross Domestic Product (QoQ);Denmark;DKK;1
+HUF_ProducerPriceIndex;20151130;08:00;Producer Price Index (YoY);Hungary;HUF;1
+SEK_GrossDomesticProduct;20151130;08:30;Gross Domestic Product (QoQ);Sweden;SEK;1
+PLN_GrossDomesticProduct;20151130;09:00;Gross Domestic Product Qtr (YoY);Poland;PLN;1
+CZK_M2MoneySupply;20151130;09:00;M2 Money Supply (YoY);Czech Republic;CZK;1
+NOK_CreditIndicator;20151130;09:00;Credit Indicator;Norway;NOK;1
+GBP_NetLendingtoIndividuals;20151130;09:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20151130;09:30;Consumer Credit;United Kingdom;GBP;2
+GBP_MortgageApprovals;20151130;09:30;Mortgage Approvals;United Kingdom;GBP;2
+GBP_M4MoneySupply;20151130;09:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+EUR_ItaConsumerPriceIndex;20151130;10:00;Consumer Price Index (EU Norm) (MoM);Italy;EUR;1
+EUR_ItaProducerPriceIndex;20151130;11:00;Producer Price Index (YoY);Italy;EUR;1
+CLP_Unemploymentrate;20151130;12:00;Unemployment rate;Chile;CLP;1
+INR_GrossDomesticProduct;20151130;12:00;Gross Domestic Product Quarterly (YoY);India;INR;1
+ZAR_TradeBalance;20151130;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+CLP_IndustrialProduction;20151130;12:00;Industrial Production (YoY);Chile;CLP;1
+BRL_NominalBudgetBalance;20151130;12:30;Nominal Budget Balance;Brazil;BRL;1
+BRL_PrimaryBudgetSurplus;20151130;12:30;Primary Budget Surplus;Brazil;BRL;1
+EUR_GerConsumerPriceIndex;20151130;13:00;Consumer Price Index (YoY);Germany;EUR;2
+EUR_GerHarmonizedIndexofConsumerPrices;20151130;13:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;2
+CAD_CurrentAccount;20151130;13:30;Current Account;Canada;CAD;2
+INR_InfrastructureOutput;20151130;14:26;Infrastructure Output (YoY);India;INR;1
+INR_FederalFiscalDeficitINR;20151130;14:26;Federal Fiscal Deficit, INR;India;INR;1
+USD_ChicagoPurchasingManagers'Index;20151130;14:45;Chicago Purchasing Managers' Index;United States;USD;2
+USD_PendingHomeSales;20151130;15:00;Pending Home Sales (YoY);United States;USD;2
+USD_DallasFedManufacturingBusinessIndex;20151130;15:30;Dallas Fed Manufacturing Business Index;United States;USD;2
+USD_Auction;20151130;16:30;3-Month Bill Auction;United States;USD;1
+COP_NationalJoblessRate;20151130;17:00;National Jobless Rate;Colombia;COP;1
+MXN_FiscalBalancepesos;20151130;20:30;Fiscal Balance, pesos;Mexico;MXN;1
+NZD_TermsofTradeIndex;20151130;21:45;Terms of Trade Index;New Zealand;NZD;1
+AUD_AiGPerformanceofMfgIndex;20151130;22:30;AiG Performance of Mfg Index;Australia;AUD;2
+KRW_ConsumerPriceIndex;20151130;23:00;Consumer Price Index Growth (YoY);South Korea;KRW;1
+JPY_CapitalSpending;20151130;23:50;Capital Spending;Japan;JPY;1

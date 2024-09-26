@@ -1,0 +1,36 @@
+EUR_EurEurogroupMeeting;20201005;00:00;Eurogroup Meeting;European Monetary Union;EUR;2
+NZD_ANZCommodityPrice;20201005;00:00;ANZ Commodity Price;New Zealand;NZD;1
+AUD_TDSecuritiesInflation;20201005;00:00;TD Securities Inflation (MoM);Australia;AUD;2
+JPY_JibunBankServicesPMI;20201005;00:30;Jibun Bank Services PMI;Japan;JPY;1
+KRW_S&PGlobalManufacturingPMI;20201005;00:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+AUD_NationalAustraliaBankBusinessConfidence;20201005;00:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20201005;00:30;National Australia Bank Business Conditions;Australia;AUD;1
+RUB_S&PGlobalServicesPMI;20201005;06:00;S&P Global Services PMI;Russia;RUB;1
+JPY_CentralBankSpeech;20201005;06:40;BoJ Governor Kuroda speech;Japan;JPY;3
+TRY_ProducerPriceIndex;20201005;07:00;Producer Price Index (MoM);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20201005;07:00;Consumer Price Index (YoY);Turkey;TRY;1
+HUF_RetailSales;20201005;07:00;Retail Sales (YoY);Hungary;HUF;1
+EUR_ItaHCOBServicesPMI;20201005;07:45;HCOB Services PMI;Italy;EUR;2
+EUR_FraHCOBServicesPMI;20201005;07:50;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20201005;07:50;HCOB Composite PMI;France;EUR;1
+EUR_GerHCOBServicesPMI;20201005;07:55;HCOB Services PMI;Germany;EUR;1
+EUR_GerHCOBCompositePMI;20201005;07:55;HCOB Composite PMI;Germany;EUR;2
+EUR_EurHCOBServicesPMI;20201005;08:00;HCOB Services PMI;European Monetary Union;EUR;1
+EUR_EurHCOBCompositePMI;20201005;08:00;HCOB Composite PMI;European Monetary Union;EUR;2
+EUR_EurSentixInvestorConfidence;20201005;08:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+GBP_S&PGlobalCIPSCompositePMI;20201005;08:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSServicesPMI;20201005;08:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;1
+GBP_CentralBankSpeech;20201005;08:30;BoE Haldane speech;United Kingdom;GBP;2
+EUR_EurRetailSales;20201005;09:00;Retail Sales (MoM);European Monetary Union;EUR;2
+MXN_ConsumerConfidence;20201005;11:00;Consumer Confidence;Mexico;MXN;1
+EUR_GerCentralBankSpeech;20201005;12:00;German Buba President Weidmann speech;Germany;EUR;2
+USD_S&PGlobalCompositePMI;20201005;13:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20201005;13:45;S&P Global Services PMI;United States;USD;2
+USD_ISMServicesEmploymentIndex;20201005;14:00;ISM Services Employment Index;United States;USD;2
+USD_ISMServicesPricesPaid;20201005;14:00;ISM Services Prices Paid;United States;USD;2
+USD_ISMServicesPMI;20201005;14:00;ISM Services PMI;United States;USD;3
+USD_ISMServicesNewOrdersIndex;20201005;14:00;ISM Services New Orders Index;United States;USD;2
+USD_Auction;20201005;15:30;3-Month Bill Auction;United States;USD;1
+CNY_NationalDay;20201005;16:00;National Day;China;CNY;0
+AUD_AiGPerformanceofConstructionIndex;20201005;21:30;AiG Performance of Construction Index;Australia;AUD;2
+KRW_ConsumerPriceIndex;20201005;23:00;Consumer Price Index Growth (MoM);South Korea;KRW;1

@@ -1,0 +1,56 @@
+CHF_NationalHoliday;20190801;00:00;National Holiday;Switzerland;CHF;0
+KRW_TradeBalance;20190801;00:00;Trade Balance;South Korea;KRW;1
+KRW_S&PGlobalManufacturingPMI;20190801;00:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+JPY_JibunBankManufacturingPMI;20190801;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+AUD_ExportPriceIndex;20190801;01:30;Export Price Index (QoQ);Australia;AUD;1
+AUD_ImportPriceIndex;20190801;01:30;Import Price Index (QoQ);Australia;AUD;1
+JPY_CentralBankSpeech;20190801;01:30;BoJ Amamiya speech;Japan;JPY;1
+CNY_CaixinManufacturingPMI;20190801;01:45;Caixin Manufacturing PMI;China;CNY;3
+JPY_Auction;20190801;03:45;10-y Bond Auction;Japan;JPY;1
+IDR_CoreInflation;20190801;04:00;Core Inflation (YoY);Indonesia;IDR;1
+IDR_Inflation;20190801;04:00;Inflation (YoY);Indonesia;IDR;1
+JPY_VehicleSales;20190801;05:00;Vehicle Sales (YoY);Japan;JPY;1
+RUB_S&PGlobalManufacturingPMI;20190801;06:00;S&P Global Manufacturing PMI;Russia;RUB;1
+AUD_RBACommodityIndexSDR;20190801;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+SEK_PurchasingManagersIndexManufacturing;20190801;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+HUF_PurchasingManagerIndex;20190801;07:00;Purchasing Manager Index;Hungary;HUF;1
+HUF_TradeBalance;20190801;07:00;Trade Balance;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20190801;07:00;Purchasing Manager Index;Poland;PLN;2
+CZK_S&PGlobalPMI;20190801;07:30;S&P Global PMI;Czech Republic;CZK;1
+EUR_ItaHCOBManufacturingPMI;20190801;07:45;HCOB Manufacturing PMI;Italy;EUR;1
+EUR_FraHCOBManufacturingPMI;20190801;07:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerHCOBManufacturingPMI;20190801;07:55;HCOB Manufacturing PMI;Germany;EUR;2
+EUR_EurHCOBManufacturingPMI;20190801;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;1
+GBP_S&PGlobalCIPSManufacturingPMI;20190801;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+EUR_FraAuction;20190801;09:00;10-y Bond Auction;France;EUR;1
+DKK_ManufacturingPMI;20190801;09:00;Manufacturing PMI;Denmark;DKK;1
+GBP_BoEAssetPurchaseFacility;20190801;11:00;BoE Asset Purchase Facility;United Kingdom;GBP;3
+GBP_BoEInterestRateDecision;20190801;11:00;BoE Interest Rate Decision;United Kingdom;GBP;3
+GBP_MonetaryPolicySummary;20190801;11:00;Monetary Policy Summary;United Kingdom;GBP;3
+GBP_BankofEnglandMonetaryPolicyReport;20190801;11:00;Bank of England Monetary Policy Report;United Kingdom;GBP;3
+GBP_BoEMPCVoteRateUnchanged;20190801;11:00;BoE MPC Vote Rate Unchanged;United Kingdom;GBP;3
+GBP_BoEMPCVoteRateCut;20190801;11:00;BoE MPC Vote Rate Cut;United Kingdom;GBP;3
+GBP_BoEMPCVoteRateHike;20190801;11:00;BoE MPC Vote Rate Hike;United Kingdom;GBP;3
+GBP_BankofEnglandMinutes;20190801;11:00;Bank of England Minutes;United Kingdom;GBP;3
+CZK_CNBInterestRateDecision;20190801;11:00;CNB Interest Rate Decision;Czech Republic;CZK;1
+USD_ChallengerJobCuts;20190801;11:30;Challenger Job Cuts;United States;USD;1
+GBP_CentralBankSpeech;20190801;11:30;BoE Governor Carney speech;United Kingdom;GBP;3
+ZAR_TotalNewVehicleSales;20190801;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+BRL_IndustrialOutput;20190801;12:00;Industrial Output (MoM);Brazil;BRL;1
+CZK_BudgetBalance;20190801;12:00;Budget Balance;Czech Republic;CZK;1
+USD_JoblessClaims;20190801;12:30;Continuing Jobless Claims;United States;USD;1
+BRL_S&PGlobalManufacturingPMI;20190801;13:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+RUB_CentralBankReserves;20190801;13:00;Central Bank Reserves $;Russia;RUB;1
+CAD_S&PGlobalManufacturingPMI;20190801;13:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20190801;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_ISMManufacturingPMI;20190801;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20190801;14:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ISMManufacturingEmploymentIndex;20190801;14:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ISMManufacturingNewOrdersIndex;20190801;14:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ConstructionSpending;20190801;14:00;Construction Spending (MoM);United States;USD;1
+USD_EIANaturalGasStorageChange;20190801;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20190801;15:30;4-Week Bill Auction;United States;USD;1
+BRL_TradeBalance;20190801;19:00;Trade Balance;Brazil;BRL;1
+NZD_ANZ–RoyMorganConsumerConfidence;20190801;22:00;ANZ – Roy Morgan Consumer Confidence;New Zealand;NZD;2
+JPY_MonetaryBase;20190801;23:50;Monetary Base (YoY);Japan;JPY;1
+JPY_BoJMonetaryPolicyMeetingMinutes;20190801;23:50;BoJ Monetary Policy Meeting Minutes;Japan;JPY;3

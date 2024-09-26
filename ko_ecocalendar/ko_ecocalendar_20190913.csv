@@ -1,0 +1,29 @@
+EUR_EurEurogroupMeeting;20190913;00:00;Eurogroup Meeting;European Monetary Union;EUR;2
+JPY_IndustrialProduction;20190913;04:30;Industrial Production (YoY);Japan;JPY;2
+JPY_CapacityUtilization;20190913;04:30;Capacity Utilization;Japan;JPY;1
+EUR_GerWholesalePriceIndex;20190913;06:00;Wholesale Price Index (YoY);Germany;EUR;1
+TRY_IndustrialProduction;20190913;07:00;Industrial Production (YoY);Turkey;TRY;1
+EUR_EurEcoFinMeeting;20190913;07:00;EcoFin Meeting;European Monetary Union;EUR;2
+TRY_CurrentAccount;20190913;07:00;Current Account Balance;Turkey;TRY;1
+SEK_GrossDomesticProduct;20190913;07:30;Gross Domestic Product (QoQ);Sweden;SEK;1
+CZK_CurrentAccount;20190913;08:00;Current Account (MoM);Czech Republic;CZK;1
+EUR_EurTradeBalance;20190913;09:00;Trade Balance s.a.;European Monetary Union;EUR;1
+EUR_EurLaborCost;20190913;09:00;Labor Cost;European Monetary Union;EUR;2
+INR_BankLoanGrowth;20190913;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20190913;11:30;FX Reserves, USD;India;INR;1
+PLN_CurrentAccount;20190913;12:00;Current Account;Poland;PLN;1
+USD_RetailSales;20190913;12:30;Retail Sales ex Autos (MoM);United States;USD;2
+USD_ImportPriceIndex;20190913;12:30;Import Price Index (YoY);United States;USD;1
+USD_ExportPriceIndex;20190913;12:30;Export Price Index (MoM);United States;USD;1
+USD_MichiganConsumerSentimentIndex;20190913;14:00;Michigan Consumer Sentiment Index;United States;USD;3
+USD_BusinessInventories;20190913;14:00;Business Inventories;United States;USD;1
+COP_RetailSales;20190913;15:00;Retail Sales (YoY);Colombia;COP;1
+COP_Industrialoutput;20190913;15:00;Industrial output (YoY);Colombia;COP;1
+USD_BakerHughesUSOilRigCount;20190913;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20190913;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20190913;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCOilNCNetPositions;20190913;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20190913;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20190913;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20190913;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20190913;19:30;CFTC JPY NC Net Positions;Japan;JPY;1

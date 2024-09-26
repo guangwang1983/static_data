@@ -1,0 +1,51 @@
+AUD_PrivateSectorCredit;20230131;00:30;Private Sector Credit (MoM);Australia;AUD;1
+AUD_RetailSales;20230131;00:30;Retail Sales s.a. (MoM);Australia;AUD;3
+CNY_NonManufacturingPMI;20230131;01:30;Non-Manufacturing PMI;China;CNY;3
+CNY_NBSManufacturingPMI;20230131;01:30;NBS Manufacturing PMI;China;CNY;3
+JPY_AnnualizedHousingStarts;20230131;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_HousingStarts;20230131;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_ConstructionOrders;20230131;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_ConsumerConfidenceIndex;20230131;05:00;Consumer Confidence Index;Japan;JPY;1
+ZAR_M3MoneySupply;20230131;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+ZAR_PrivateSectorCredit;20230131;06:00;Private Sector Credit;South Africa;ZAR;1
+EUR_FraConsumerSpending;20230131;06:30;Consumer Spending (MoM);France;EUR;1
+EUR_FraGrossDomesticProduct;20230131;06:30;Gross Domestic Product (QoQ);France;EUR;2
+EUR_GerImportPriceIndex;20230131;07:00;Import Price Index (MoM);Germany;EUR;1
+TRY_TradeBalance;20230131;07:00;Trade Balance;Turkey;TRY;1
+DKK_UnemploymentRate;20230131;07:00;Unemployment Rate;Denmark;DKK;1
+EUR_GerRetailSales;20230131;07:00;Retail Sales (YoY);Germany;EUR;3
+CHF_RetailSales;20230131;07:30;Real Retail Sales (YoY);Switzerland;CHF;2
+HUF_ProducerPriceIndex;20230131;07:30;Producer Price Index (YoY);Hungary;HUF;1
+EUR_FraProducerPrices;20230131;07:45;Producer Prices (MoM);France;EUR;1
+EUR_FraConsumerPriceIndex;20230131;07:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+TRY_ForeignArrivals;20230131;08:00;Foreign Arrivals;Turkey;TRY;1
+CZK_GrossDomesticProduct;20230131;08:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+EUR_GerUnemploymentChange;20230131;08:55;Unemployment Change;Germany;EUR;2
+EUR_GerUnemploymentRate;20230131;08:55;Unemployment Rate s.a.;Germany;EUR;2
+EUR_EurECBBankLendingSurvey;20230131;09:00;ECB Bank Lending Survey;European Monetary Union;EUR;3
+EUR_ItaUnemployment;20230131;09:00;Unemployment;Italy;EUR;2
+GBP_NetLendingtoIndividuals;20230131;09:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20230131;09:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20230131;09:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_M4MoneySupply;20230131;09:30;M4 Money Supply (MoM);United Kingdom;GBP;1
+EUR_EurGrossDomesticProduct;20230131;10:00;Gross Domestic Product s.a. (QoQ);European Monetary Union;EUR;3
+EUR_ItaGrossDomesticProduct;20230131;10:00;Gross Domestic Product (YoY);Italy;EUR;2
+INR_FederalFiscalDeficitINR;20230131;10:00;Federal Fiscal Deficit, INR;India;INR;1
+EUR_ItaAuction;20230131;10:30;10-y Bond Auction;Italy;EUR;1
+INR_InfrastructureOutput;20230131;11:30;Infrastructure Output (YoY);India;INR;1
+ZAR_TradeBalance;20230131;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+CLP_IndustrialProduction;20230131;13:00;Industrial Production (YoY);Chile;CLP;1
+USD_EmploymentCostIndex;20230131;13:30;Employment Cost Index;United States;USD;1
+CAD_GrossDomesticProduct;20230131;13:30;Gross Domestic Product (MoM);Canada;CAD;2
+USD_RedbookIndex;20230131;13:55;Redbook Index (YoY);United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20230131;14:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;2
+USD_HousingPriceIndex;20230131;14:00;Housing Price Index (MoM);United States;USD;2
+USD_ChicagoPurchasingManagers'Index;20230131;14:45;Chicago Purchasing Managers' Index;United States;USD;2
+USD_ConsumerConfidence;20230131;15:00;Consumer Confidence;United States;USD;2
+COP_NationalJoblessRate;20230131;15:00;National Jobless Rate;Colombia;COP;1
+USD_APIWeeklyCrudeOilStock;20230131;21:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_EmploymentChange;20230131;21:45;Employment Change;New Zealand;NZD;3
+NZD_UnemploymentRate;20230131;21:45;Unemployment Rate;New Zealand;NZD;3
+NZD_ParticipationRate;20230131;21:45;Participation Rate;New Zealand;NZD;2
+NZD_LabourCostIndex;20230131;21:45;Labour Cost Index (QoQ);New Zealand;NZD;2
+AUD_S&PGlobalManufacturingPMI;20230131;22:00;S&P Global Manufacturing PMI;Australia;AUD;1

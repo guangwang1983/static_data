@@ -1,0 +1,47 @@
+JPY_DomesticCorporateGoodsPriceIndex;20121011;23:50;Domestic Corporate Goods Price Index (YoY);Japan;JPY;1
+JPY_TertiaryIndustryIndex;20121011;23:50;Tertiary Industry Index (MoM);Japan;JPY;2
+JPY_MoneySupplyM2+CD;20121011;23:50;Money Supply M2+CD (YoY);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20121011;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20121011;23:50;Foreign Bond Investment;Japan;JPY;1
+PEN_Interestratedecision;20121011;23:00;Interest rate decision;Peru;PEN;1
+USD_Auction;20121011;17:00;30-Year Bond Auction;United States;USD;1
+USD_CentralBankSpeech;20121011;16:30;Philadelphia Fed Plosser speech;United States;USD;1
+USD_EIACrudeOilStocksChange;20121011;15:00;EIA Crude Oil Stocks Change;United States;USD;1
+USD_EIANaturalGasStorageChange;20121011;14:30;EIA Natural Gas Storage Change;United States;USD;1
+EUR_EurG7FinanceMinistersMeeting;20121011;14:00;G7 Finance Ministers Meeting;European Monetary Union;EUR;2
+EUR_EurMerkelBarrosoMeeting;20121011;14:00;Merkel - Barroso Meeting;European Monetary Union;EUR;2
+CAD_Exports;20121011;13:30;Exports;Canada;CAD;1
+USD_TradeBalance;20121011;12:30;Trade Balance;United States;USD;2
+USD_JoblessClaims;20121011;12:30;Initial Jobless Claims;United States;USD;2
+USD_ImportPriceIndex;20121011;12:30;Import Price Index (MoM);United States;USD;1
+USD_ExportPriceIndex;20121011;12:30;Export Price Index (YoY);United States;USD;1
+CAD_Imports;20121011;12:30;Imports;Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20121011;12:30;International Merchandise Trade;Canada;CAD;1
+CAD_NewHousingPriceIndex;20121011;12:30;New Housing Price Index (YoY);Canada;CAD;1
+BRL_RetailSales;20121011;12:00;Retail Sales (MoM);Brazil;BRL;1
+ZAR_ManufacturingProductionIndex;20121011;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+EUR_IreHICP;20121011;10:00;HICP (YoY);Ireland;EUR;1
+EUR_IreConsumerPriceIndex;20121011;10:00;Consumer Price Index (YoY);Ireland;EUR;1
+EUR_ItaAuction;20121011;09:10;3-y Bond Auction;Italy;EUR;1
+EUR_EurVanRompuyBarrosoMontiMeeting;20121011;09:00;Van Rompuy - Barroso - Monti Meeting;European Monetary Union;EUR;3
+EUR_PorConsumerPriceIndex;20121011;09:00;Consumer Price Index (MoM);Portugal;EUR;1
+EUR_GreUnemploymentRate;20121011;09:00;Unemployment Rate (MoM);Greece;EUR;1
+EUR_EurECBMonthlyReport;20121011;08:00;ECB Monthly Report;European Monetary Union;EUR;3
+SEK_ConsumerPriceIndex;20121011;07:30;Consumer Price Index (YoY);Sweden;SEK;1
+EUR_SpaHICP;20121011;07:00;HICP (YoY);Spain;EUR;1
+TRY_CurrentAccount;20121011;07:00;Current Account Balance;Turkey;TRY;1
+EUR_SpaConsumerPriceIndex;20121011;07:00;Consumer Price Index (MoM);Spain;EUR;1
+HUF_ConsumerPriceIndex;20121011;07:00;Consumer Price Index (YoY);Hungary;HUF;1
+EUR_FraConsumerPriceIndex;20121011;06:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraInflationextobacco;20121011;06:45;Inflation ex-tobacco (MoM);France;EUR;1
+EUR_GerConsumerPriceIndex;20121011;06:00;Consumer Price Index (MoM);Germany;EUR;2
+EUR_GerHarmonizedIndexofConsumerPrices;20121011;06:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+JPY_ConsumerConfidenceIndex;20121011;05:00;Consumer Confidence Index;Japan;JPY;2
+IDR_BankIndonesiaRate;20121011;04:00;Bank Indonesia Rate;Indonesia;IDR;1
+KRW_BoKInterestRateDecision;20121011;01:00;BoK Interest Rate Decision;South Korea;KRW;1
+AUD_EmploymentChange;20121011;00:30;Employment Change s.a.;Australia;AUD;3
+AUD_FulltimeEmployment;20121011;00:30;Fulltime Employment;Australia;AUD;1
+AUD_UnemploymentRate;20121011;00:30;Unemployment Rate s.a.;Australia;AUD;3
+RUB_CentralBankReserves;20121011;00:00;Central Bank Reserves $;Russia;RUB;1
+AUD_ConsumerInflationExpectations;20121011;00:00;Consumer Inflation Expectations;Australia;AUD;2
+CNY_NewLoans;20121011;00:00;New Loans;China;CNY;3

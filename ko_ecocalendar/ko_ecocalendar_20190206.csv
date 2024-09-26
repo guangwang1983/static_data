@@ -1,0 +1,33 @@
+KRW_KoreanNewYear;20190206;00:00;Korean New Year ;South Korea;KRW;0
+CNY_ChineseNewYear;20190206;00:00;Chinese New Year;China;CNY;0
+NZD_WaitangiDay;20190206;00:00;Waitangi Day ;New Zealand;NZD;0
+COP_ConsumerPriceIndex;20190206;00:00;Consumer Price Index (MoM);Colombia;COP;1
+AUD_CentralBankSpeech;20190206;01:30;RBA Governor Lowe speech;Australia;AUD;3
+USD_PresidentTrumpStateoftheUnionaddress;20190206;02:00;President Trump State of the Union address;United States;USD;2
+IDR_GrossDomesticProduct;20190206;04:00;Gross Domestic Product (YoY);Indonesia;IDR;1
+EUR_GerFactoryOrders;20190206;07:00;Factory Orders n.s.a. (YoY);Germany;EUR;1
+CZK_IndustrialProduction;20190206;08:00;Industrial Production (YoY);Czech Republic;CZK;1
+CZK_Constructionoutput;20190206;08:00;Construction output (YoY);Czech Republic;CZK;1
+CZK_ForeignTradeBalance;20190206;08:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+ZAR_BusinessConfidenceIndex;20190206;09:30;Business Confidence Index;South Africa;ZAR;1
+USD_MBAMortgageApplications;20190206;12:00;MBA Mortgage Applications;United States;USD;1
+RUB_ConsumerPriceIndex;20190206;13:00;Consumer Price Index (MoM);Russia;RUB;1
+USD_GoodsandServicesTradeBalance;20190206;13:30;Goods and Services Trade Balance;United States;USD;2
+CAD_BuildingPermits;20190206;13:30;Building Permits (MoM);Canada;CAD;1
+CAD_CentralBankSpeech;20190206;13:35;BoC Lane speech;Canada;CAD;2
+MXN_ConsumerConfidence;20190206;14:00;Consumer Confidence;Mexico;MXN;1
+PLN_NBPBaserate;20190206;14:38;NBP Base rate;Poland;PLN;1
+CAD_IveyPurchasingManagersIndex;20190206;15:00;Ivey Purchasing Managers Index;Canada;CAD;2
+NZD_GDTPriceIndex;20190206;15:02;GDT Price Index;New Zealand;NZD;2
+USD_EIACrudeOilStocksChange;20190206;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_Auction;20190206;18:00;10-Year Note Auction;United States;USD;1
+BRL_InterestRateDecision;20190206;20:00;Interest Rate Decision;Brazil;BRL;1
+AUD_AiGPerformanceofConstructionIndex;20190206;21:30;AiG Performance of Construction Index;Australia;AUD;2
+NZD_ParticipationRate;20190206;21:45;Participation Rate;New Zealand;NZD;2
+NZD_EmploymentChange;20190206;21:45;Employment Change;New Zealand;NZD;3
+NZD_UnemploymentRate;20190206;21:45;Unemployment Rate;New Zealand;NZD;3
+NZD_LabourCostIndex;20190206;21:45;Labour Cost Index (YoY);New Zealand;NZD;1
+USD_CentralBankSpeech;20190206;23:05;Fed Quarles speech;United States;USD;2
+JPY_JPForeignReserves;20190206;23:50;JP Foreign Reserves;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20190206;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20190206;23:50;Foreign Bond Investment;Japan;JPY;1

@@ -1,0 +1,59 @@
+USD_CFTCUSDNCNetPositions;20190201;20:30;CFTC USD NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20190201;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCGoldNCNetPositions;20190201;20:30;CFTC Gold NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20190201;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCOilNCNetPositions;20190201;20:30;CFTC Oil NC Net Positions;United States;USD;1
+AUD_CFTCAUDNCNetPositions;20190201;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20190201;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+USD_TotalVehicleSales;20190201;20:30;Total Vehicle Sales;United States;USD;1
+ARS_TaxRevenue;20190201;19:00;Tax Revenue (MoM);Argentina;ARS;1
+BRL_TradeBalance;20190201;18:00;Trade Balance;Brazil;BRL;1
+USD_BakerHughesUSOilRigCount;20190201;18:00;Baker Hughes US Oil Rig Count;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20190201;15:00;Michigan Consumer Sentiment Index;United States;USD;2
+USD_WholesaleInventories;20190201;15:00;Wholesale Inventories;United States;USD;1
+USD_ISMPricesPaid;20190201;15:00;ISM Prices Paid;United States;USD;2
+USD_ISMManufacturingPMI;20190201;15:00;ISM Manufacturing PMI;United States;USD;3
+USD_ConstructionSpending;20190201;15:00;Construction Spending (MoM);United States;USD;1
+USD_MarkitManufacturingPMI;20190201;14:45;Markit Manufacturing PMI;United States;USD;2
+CAD_MarkitManufacturingPMI;20190201;14:30;Markit Manufacturing PMI;Canada;CAD;2
+USD_NonfarmPayrolls;20190201;13:30;Nonfarm Payrolls;United States;USD;3
+USD_AverageWeeklyHours;20190201;13:30;Average Weekly Hours;United States;USD;1
+USD_AverageHourlyEarnings;20190201;13:30;Average Hourly Earnings (YoY);United States;USD;3
+USD_LaborForceParticipationRate;20190201;13:30;Labor Force Participation Rate;United States;USD;2
+USD_UnemploymentRate;20190201;13:30;Unemployment Rate;United States;USD;2
+USD_BuildingPermits;20190201;13:00;Building Permits (MoM);United States;USD;2
+CZK_BudgetBalance;20190201;13:00;Budget Balance;Czech Republic;CZK;1
+ZAR_TotalNewVehicleSales;20190201;12:59;Total New Vehicle Sales;South Africa;ZAR;1
+BRL_HSBCPMIManufacturing;20190201;12:00;HSBC PMI Manufacturing;Brazil;BRL;1
+INR_FXReservesUSD;20190201;11:30;FX Reserves, USD;India;INR;1
+BRL_IndustrialOutput;20190201;11:00;Industrial Output (MoM);Brazil;BRL;1
+EUR_EurConsumerPriceIndex;20190201;10:00;Consumer Price Index - Core (YoY);European Monetary Union;EUR;3
+GBP_MarkitManufacturingPMI;20190201;09:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+EUR_GreMarkitManufacturingPMI;20190201;09:00;Markit Manufacturing PMI;Greece;EUR;1
+NOK_RegisteredUnemployment;20190201;09:00;Registered Unemployment s.a;Norway;NOK;1
+EUR_EurMarkitManufacturingPMI;20190201;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_GerMarkitManufacturingPMI;20190201;08:55;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20190201;08:50;Markit Manufacturing PMI;France;EUR;1
+EUR_ItaMarkitManufacturingPMI;20190201;08:45;Markit Manufacturing PMI;Italy;EUR;1
+CHF_SVMEPurchasingManagers'Index;20190201;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_MarkitPMI;20190201;08:30;Markit PMI;Czech Republic;CZK;1
+EUR_AusUnemployment;20190201;08:27;Unemployment;Austria;EUR;1
+EUR_AusUnemploymentRate;20190201;08:27;Unemployment Rate;Austria;EUR;1
+EUR_SpaMarkitManufacturingPMI;20190201;08:15;Markit Manufacturing PMI;Spain;EUR;1
+HUF_PurchasingManagerIndex;20190201;08:00;Purchasing Manager Index;Hungary;HUF;1
+HUF_TradeBalance;20190201;08:00;Trade Balance;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20190201;08:00;Purchasing Manager Index;Poland;PLN;2
+EUR_FraBudget;20190201;07:45;Budget;France;EUR;1
+CHF_RetailSales;20190201;07:30;Real Retail Sales (YoY);Switzerland;CHF;2
+SEK_PurchasingManagersIndexManufacturing;20190201;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+CHF_SECOConsumerClimate;20190201;06:45;SECO Consumer Climate (3m);Switzerland;CHF;2
+RUB_HSBCManufacturingPMI;20190201;06:00;HSBC Manufacturing PMI	;Russia;RUB;1
+EUR_IrePurchasingManagerIndexManufacturing;20190201;06:00;Purchasing Manager Index Manufacturing;Ireland;EUR;1
+AUD_RBACommodityIndexSDR;20190201;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+IDR_Inflation;20190201;04:00;Inflation (YoY);Indonesia;IDR;1
+IDR_CoreInflation;20190201;04:00;Core Inflation (YoY);Indonesia;IDR;1
+CNY_CaixinManufacturingPMI;20190201;01:45;Caixin Manufacturing PMI;China;CNY;2
+KRW_NikkeiMarkitManufacturingPMI;20190201;00:30;Nikkei Markit Manufacturing PMI;South Korea;KRW;1
+AUD_ProducerPriceIndex;20190201;00:30;Producer Price Index (QoQ);Australia;AUD;1
+JPY_NikkeiManufacturingPMI;20190201;00:30;Nikkei Manufacturing PMI;Japan;JPY;1
+KRW_TradeBalance;20190201;00:00;Trade Balance;South Korea;KRW;1

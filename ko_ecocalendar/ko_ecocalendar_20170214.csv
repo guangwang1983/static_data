@@ -1,0 +1,49 @@
+AUD_NationalAustraliaBankBusinessConfidence;20170214;00:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20170214;00:30;National Australia Bank Business Conditions;Australia;AUD;1
+CNY_ConsumerPriceIndex;20170214;01:30;Consumer Price Index (YoY);China;CNY;2
+CNY_ProducerPriceIndex;20170214;01:30;Producer Price Index (YoY);China;CNY;2
+JPY_IndustrialProduction;20170214;04:30;Industrial Production (YoY);Japan;JPY;2
+JPY_CapacityUtilization;20170214;04:30;Capacity Utilization;Japan;JPY;1
+INR_WPIInflation;20170214;06:30;WPI Inflation;India;INR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20170214;07:00;Harmonized Index of Consumer Prices (MoM);Germany;EUR;2
+EUR_GerConsumerPriceIndex;20170214;07:00;Consumer Price Index (MoM);Germany;EUR;2
+TRY_CurrentAccount;20170214;07:00;Current Account Balance;Turkey;TRY;1
+EUR_GerGrossDomesticProduct;20170214;07:00;Gross Domestic Product (QoQ);Germany;EUR;2
+HUF_IndustrialOutput;20170214;08:00;Industrial Output (YoY);Hungary;HUF;1
+RON_GrossDomesticProduct;20170214;08:00;Gross Domestic Product;Romania;RON;1
+HUF_ConsumerPriceIndex;20170214;08:00;Consumer Price Index (YoY);Hungary;HUF;1
+CZK_GrossDomesticProduct;20170214;08:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+HUF_GrossDomesticProduct;20170214;08:00;Gross Domestic Product (YoY);Hungary;HUF;1
+CHF_ConsumerPriceIndex;20170214;08:15;Consumer Price Index (MoM);Switzerland;CHF;2
+CHF_ProducerandImportPrices;20170214;08:15;Producer and Import Prices (MoM);Switzerland;CHF;1
+ZAR_UnemploymentRate;20170214;08:30;Unemployment Rate (%);South Africa;ZAR;1
+ZAR_UnemploymentTotal;20170214;08:30;Unemployment Total ;South Africa;ZAR;1
+PLN_GrossDomesticProduct;20170214;09:00;Gross Domestic Product Qtr (YoY);Poland;PLN;1
+EUR_ItaGrossDomesticProduct;20170214;09:00;Gross Domestic Product (YoY);Italy;EUR;2
+CNY_NewLoans;20170214;09:10;New Loans;China;CNY;1
+CNY_M2MoneySupply;20170214;09:10;M2 Money Supply (YoY);China;CNY;1
+GBP_RetailPriceIndex;20170214;09:30;Retail Price Index (MoM);United Kingdom;GBP;1
+GBP_DCLGHousePriceIndex;20170214;09:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ProducerPriceIndex;20170214;09:30;Producer Price Index - Output (MoM) n.s.a;United Kingdom;GBP;2
+GBP_PPICoreOutput;20170214;09:30;PPI Core Output (MoM) n.s.a;United Kingdom;GBP;2
+GBP_ConsumerPriceIndex;20170214;09:30;Consumer Price Index (MoM);United Kingdom;GBP;2
+EUR_EurGrossDomesticProduct;20170214;10:00;Gross Domestic Product s.a. (QoQ);European Monetary Union;EUR;3
+EUR_EurIndustrialProduction;20170214;10:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;2
+EUR_GerZEWSurvey–EconomicSentiment;20170214;10:00;ZEW Survey – Economic Sentiment;Germany;EUR;2
+EUR_EurZEWSurvey–EconomicSentiment;20170214;10:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurvey–CurrentSituation;20170214;10:00;ZEW Survey – Current Situation;Germany;EUR;2
+USD_NFIBBusinessOptimismIndex;20170214;11:00;NFIB Business Optimism Index;United States;USD;1
+BRL_RetailSales;20170214;11:00;Retail Sales (MoM);Brazil;BRL;1
+PLN_M3MoneySupply;20170214;13:00;M3 Money Supply (YoY);Poland;PLN;1
+USD_ProducerPriceIndex;20170214;13:30;Producer Price Index ex Food & Energy (YoY);United States;USD;1
+USD_RedbookIndex;20170214;13:55;Redbook Index (YoY);United States;USD;1
+USD_FedMonetaryPolicyReport;20170214;15:00;Fed Monetary Policy Report;United States;USD;2
+USD_Auction;20170214;16:30;4-Week Bill Auction;United States;USD;1
+USD_CentralBankSpeech;20170214;18:15;Fed Lockhart speech;United States;USD;1
+COP_RetailSales;20170214;19:00;Retail Sales (YoY);Colombia;COP;1
+COP_Industrialoutput;20170214;19:30;Industrial output (YoY);Colombia;COP;1
+CLP_BCCHInterestRate;20170214;21:00;BCCH Interest Rate;Chile;CLP;1
+USD_APIWeeklyCrudeOilStock;20170214;21:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_UnemploymentRate;20170214;23:00;Unemployment Rate;South Korea;KRW;1
+AUD_WestpacConsumerConfidenceIndex;20170214;23:30;Westpac Consumer Confidence Index;Australia;AUD;1
+AUD_WestpacConsumerConfidence;20170214;23:30;Westpac Consumer Confidence;Australia;AUD;2

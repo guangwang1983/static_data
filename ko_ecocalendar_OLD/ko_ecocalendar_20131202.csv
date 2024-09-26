@@ -1,0 +1,44 @@
+JPY_MonetaryBase;20131202;23:50;Monetary Base (YoY);Japan;JPY;1
+BRL_TradeBalance;20131202;17:00;Trade Balance;Brazil;BRL;1
+USD_ISMManufacturingPMI;20131202;15:00;ISM Manufacturing PMI;United States;USD;2
+USD_ISMPricesPaid;20131202;15:00;ISM Prices Paid;United States;USD;2
+USD_ConstructionSpending;20131202;15:00;Construction Spending (MoM);United States;USD;2
+USD_MarkitManufacturingPMI;20131202;13:58;Markit Manufacturing PMI;United States;USD;2
+CAD_MarkitManufacturingPMI;20131202;13:30;Markit Manufacturing PMI;Canada;CAD;2
+USD_CentralBankSpeech;20131202;13:30;Former Fed Chair Bernanke speech;United States;USD;3
+CZK_BudgetBalance;20131202;13:00;Budget Balance;Czech Republic;CZK;1
+BRL_HSBCPMIManufacturing;20131202;12:00;HSBC PMI Manufacturing;Brazil;BRL;1
+INR_TradeDeficitRBI;20131202;11:30;Trade Deficit - RBI;India;INR;1
+INR_BalancePayment;20131202;11:30;Balance Payment $;India;INR;1
+INR_CurrentAccount;20131202;11:30;Current Account Balance $;India;INR;1
+EUR_AusUnemployment;20131202;11:00;Unemployment;Austria;EUR;1
+EUR_AusUnemploymentRate;20131202;11:00;Unemployment Rate;Austria;EUR;1
+GBP_MarkitManufacturingPMI;20131202;09:28;Markit Manufacturing PMI;United Kingdom;GBP;2
+ZAR_PurchasingManagerIndex;20131202;09:00;Purchasing Manager Index;South Africa;ZAR;1
+EUR_GreMarkitManufacturingPMI;20131202;08:58;Markit Manufacturing PMI;Greece;EUR;1
+EUR_EurMarkitManufacturingPMI;20131202;08:58;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_GerMarkitManufacturingPMI;20131202;08:53;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20131202;08:48;Markit Manufacturing PMI;France;EUR;1
+EUR_ItaMarkitManufacturingPMI;20131202;08:43;Markit Manufacturing PMI;Italy;EUR;1
+CHF_SVMEPurchasingManagers'Index;20131202;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;2
+CZK_MarkitPMI;20131202;08:30;Markit PMI;Czech Republic;CZK;1
+EUR_SpaMarkitManufacturingPMI;20131202;08:13;Markit Manufacturing PMI;Spain;EUR;1
+HUF_PurchasingManagerIndex;20131202;08:00;Purchasing Manager Index;Hungary;HUF;1
+NOK_CreditIndicator;20131202;08:00;Credit Indicator;Norway;NOK;1
+PLN_PurchasingManagerIndex;20131202;08:00;Purchasing Manager Index;Poland;PLN;1
+SEK_PurchasingManagersIndexManufacturing;20131202;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+EUR_IrePurchasingManagerIndexManufacturing;20131202;05:58;Purchasing Manager Index Manufacturing;Ireland;EUR;1
+AUD_RBACommodityIndexSDR;20131202;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+JPY_VehicleSales;20131202;05:00;Vehicle Sales (YoY);Japan;JPY;1
+RUB_HSBCManufacturingPMI;20131202;05:00;HSBC Manufacturing PMI	;Russia;RUB;1
+JPY_CentralBankSpeech;20131202;02:30;BoJ Governor Kuroda speech;Japan;JPY;3
+IDR_TradeBalance;20131202;02:00;Trade Balance;Indonesia;IDR;1
+IDR_Exports;20131202;02:00;Exports;Indonesia;IDR;1
+IDR_Imports;20131202;02:00;Imports;Indonesia;IDR;1
+IDR_Inflation;20131202;02:00;Inflation (YoY);Indonesia;IDR;1
+CNY_CaixinManufacturingPMI;20131202;01:45;Caixin Manufacturing PMI;China;CNY;2
+AUD_CompanyGrossOperatingProfits;20131202;00:30;Company Gross Operating Profits (QoQ);Australia;AUD;1
+AUD_BuildingPermits;20131202;00:30;Building Permits (YoY);Australia;AUD;2
+GBP_HometrackHousingPrices;20131202;00:01;Hometrack Housing Prices s.a (MoM);United Kingdom;GBP;1
+AED_NationalDay;20131202;00:00;National Day;United Arab Emirates;AED;0
+KRW_NikkeiMarkitManufacturingPMI;20131202;00:00;Nikkei Markit Manufacturing PMI;South Korea;KRW;1

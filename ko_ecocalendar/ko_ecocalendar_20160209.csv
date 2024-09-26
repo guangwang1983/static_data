@@ -1,0 +1,35 @@
+KRW_KoreanNewYear;20160209;00:00;Korean New Year ;South Korea;KRW;0
+BRL_Carnival;20160209;00:00;Carnival;Brazil;BRL;0
+CNY_ChineseNewYear;20160209;00:00;Chinese New Year;China;CNY;0
+GBP_RetailSales;20160209;00:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+AUD_NationalAustraliaBankBusinessConfidence;20160209;00:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20160209;00:30;National Australia Bank Business Conditions;Australia;AUD;1
+JPY_MachineToolOrders;20160209;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+CHF_UnemploymentRate;20160209;06:45;Unemployment Rate s.a (MoM);Switzerland;CHF;3
+RON_TradeBalance;20160209;07:00;Trade Balance;Romania;RON;1
+EUR_GerIndustrialProduction;20160209;07:00;Industrial Production s.a. (MoM);Germany;EUR;1
+EUR_GerCurrentAccount;20160209;07:00;Current Account n.s.a.;Germany;EUR;2
+EUR_GerImports;20160209;07:00;Imports (MoM);Germany;EUR;2
+EUR_GerExports;20160209;07:00;Exports (MoM);Germany;EUR;2
+EUR_GerTradeBalance;20160209;07:00;Trade Balance s.a.;Germany;EUR;2
+EUR_FraIndividualInvestment;20160209;07:45;Individual Investment (Current Year);France;EUR;1
+EUR_FraBudgetBalance;20160209;07:45;Budget Balance;France;EUR;1
+DKK_TradeBalance;20160209;08:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20160209;08:00;Current Account;Denmark;DKK;1
+GBP_CentralBankSpeech;20160209;09:30;BoE Cunliffe speech;United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20160209;09:30;Trade Balance non-EU;United Kingdom;GBP;2
+GBP_TotalTradeBalance;20160209;09:30;Total Trade Balance;United Kingdom;GBP;2
+GBP_GoodsTradeBalance;20160209;09:30;Goods Trade Balance;United Kingdom;GBP;2
+USD_NFIBBusinessOptimismIndex;20160209;11:00;NFIB Business Optimism Index;United States;USD;1
+USD_RedbookIndex;20160209;13:55;Redbook Index (YoY);United States;USD;1
+MXN_12MonthInflation;20160209;14:00;12-Month Inflation;Mexico;MXN;1
+MXN_CoreInflation;20160209;14:00;Core Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20160209;14:00;Headline Inflation;Mexico;MXN;1
+USD_JOLTSJobOpenings;20160209;15:00;JOLTS Job Openings;United States;USD;1
+USD_WholesaleInventories;20160209;15:00;Wholesale Inventories;United States;USD;1
+USD_Auction;20160209;18:00;3-Year Note Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20160209;21:30;API Weekly Crude Oil Stock;United States;USD;2
+NZD_RetailSales;20160209;21:45;Electronic Card Retail Sales  (MoM);New Zealand;NZD;2
+AUD_WestpacConsumerConfidenceIndex;20160209;23:30;Westpac Consumer Confidence Index;Australia;AUD;1
+AUD_WestpacConsumerConfidence;20160209;23:30;Westpac Consumer Confidence;Australia;AUD;2
+JPY_ProducerPriceIndex;20160209;23:50;Producer Price Index (YoY);Japan;JPY;1

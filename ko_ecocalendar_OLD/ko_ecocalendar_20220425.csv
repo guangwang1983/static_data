@@ -1,0 +1,14 @@
+JPY_LeadingEconomicIndex;20220425;05:00;Leading Economic Index;Japan;JPY;1
+JPY_CoincidentIndex;20220425;05:00;Coincident Index;Japan;JPY;1
+TRY_CapacityUtilization;20220425;07:00;Capacity Utilization;Turkey;TRY;1
+TRY_ManufacturingConfidence;20220425;07:00;Manufacturing Confidence;Turkey;TRY;1
+EUR_EurConstructionOutput;20220425;09:00;Construction Output w.d.a (YoY);European Monetary Union;EUR;1
+PLN_M3MoneySupply;20220425;12:00;M3 Money Supply (YoY);Poland;PLN;1
+USD_ChicagoFedNationalActivityIndex;20220425;12:30;Chicago Fed National Activity Index ;United States;USD;2
+USD_DallasFedManufacturingBusinessIndex;20220425;14:30;Dallas Fed Manufacturing Business Index;United States;USD;1
+CAD_CentralBankSpeech;20220425;15:00;BoC Rogers speech;Canada;CAD;2
+USD_Auction;20220425;15:30;3-Month Bill Auction;United States;USD;1
+EUR_EurCentralBankSpeech;20220425;17:00;ECB Panetta speech;European Monetary Union;EUR;2
+GBP_RightmoveHousePriceIndex;20220425;23:01;Rightmove House Price Index (MoM);United Kingdom;GBP;1
+JPY_UnemploymentRate;20220425;23:30;Unemployment Rate;Japan;JPY;2
+JPY_JobsApplicantsRatio;20220425;23:30;Jobs / Applicants Ratio;Japan;JPY;2

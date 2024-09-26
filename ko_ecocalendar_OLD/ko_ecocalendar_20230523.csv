@@ -1,0 +1,30 @@
+JPY_JibunBankServicesPMI;20230523;00:30;Jibun Bank Services PMI;Japan;JPY;1
+JPY_JibunBankManufacturingPMI;20230523;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+DKK_IndustrialOutlook;20230523;06:00;Industrial Outlook;Denmark;DKK;1
+GBP_PublicSectorNetBorrowing;20230523;06:00;Public Sector Net Borrowing;United Kingdom;GBP;1
+EUR_EurCentralBankSpeech;20230523;07:15;ECB De Guindos speech;European Monetary Union;EUR;2
+PLN_RetailSales;20230523;08:00;Retail Sales (YoY);Poland;PLN;1
+EUR_EurCurrentAccount;20230523;08:00;Current Account s.a;European Monetary Union;EUR;1
+EUR_EurHCOBCompositePMI;20230523;08:00;HCOB Composite PMI;European Monetary Union;EUR;3
+EUR_EurHCOBManufacturingPMI;20230523;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurHCOBServicesPMI;20230523;08:00;HCOB Services PMI;European Monetary Union;EUR;2
+GBP_S&PGlobalCIPSServicesPMI;20230523;08:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;3
+GBP_S&PGlobalCIPSManufacturingPMI;20230523;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSCompositePMI;20230523;08:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;2
+ILS_IndustrialProduction;20230523;10:00;Industrial Production (MoM);Israel;ILS;1
+HUF_MNBInterestRateDecision;20230523;12:00;MNB Interest Rate Decision;Hungary;HUF;1
+CAD_IndustrialProductPrice;20230523;12:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_RawMaterialPriceIndex;20230523;12:30;Raw Material Price Index;Canada;CAD;1
+USD_RedbookIndex;20230523;12:55;Redbook Index (YoY);United States;USD;1
+USD_CentralBankSpeech;20230523;13:00;Fed Logan speech;United States;USD;2
+USD_S&PGlobalManufacturingPMI;20230523;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20230523;13:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20230523;13:45;S&P Global Services PMI;United States;USD;2
+USD_NewHomeSales;20230523;14:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20230523;14:00;New Home Sales Change (MoM);United States;USD;1
+USD_RichmondFedManufacturingIndex;20230523;14:00;Richmond Fed Manufacturing Index;United States;USD;1
+GBP_CentralBankSpeech;20230523;14:35;BoE Haskel speech;United Kingdom;GBP;2
+USD_Auction;20230523;17:00;2-Year Note Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20230523;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_BOKManufacturingBSI;20230523;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+NZD_RetailSales;20230523;22:45;Retail Sales (QoQ);New Zealand;NZD;3

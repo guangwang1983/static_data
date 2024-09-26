@@ -1,0 +1,56 @@
+JPY_ProducerPriceIndex;20191210;23:50;Producer Price Index (YoY);Japan;JPY;1
+JPY_BSILargeManufacturingConditionsIndex;20191210;23:50;BSI Large Manufacturing Conditions Index (QoQ);Japan;JPY;1
+AUD_WestpacConsumerConfidence;20191210;23:30;Westpac Consumer Confidence;Australia;AUD;2
+KRW_UnemploymentRate;20191210;23:00;Unemployment Rate;South Korea;KRW;1
+NZD_RetailSales;20191210;21:45;Electronic Card Retail Sales  (MoM);New Zealand;NZD;1
+USD_APIWeeklyCrudeOilStock;20191210;21:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_Auction;20191210;18:00;10-Year Note Auction;United States;USD;1
+USD_USDAWASDEReport;20191210;17:00;USDA WASDE Report;United States;USD;1
+GBP_NIESRGDPEstimate;20191210;14:00;NIESR GDP Estimate (3M);United Kingdom;GBP;1
+USD_RedbookIndex;20191210;13:55;Redbook Index (MoM);United States;USD;1
+USD_NonfarmProductivity;20191210;13:30;Nonfarm Productivity;United States;USD;2
+USD_UnitLaborCosts;20191210;13:30;Unit Labor Costs;United States;USD;2
+INR_TradeDeficitGovernment;20191210;12:00;Trade Deficit Government;India;INR;1
+ZAR_ManufacturingProductionIndex;20191210;12:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+USD_NFIBBusinessOptimismIndex;20191210;11:00;NFIB Business Optimism Index;United States;USD;1
+EUR_PorGlobalTradeBalance;20191210;11:00;Global Trade Balance;Portugal;EUR;1
+EUR_GreIndustrialProduction;20191210;10:00;Industrial Production (YoY);Greece;EUR;1
+EUR_GerZEWSurveyEconomicSentiment;20191210;10:00;ZEW Survey - Economic Sentiment;Germany;EUR;3
+EUR_EurZEWSurveyEconomicSentiment;20191210;10:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurveyCurrentSituation;20191210;10:00;ZEW Survey - Current Situation;Germany;EUR;2
+EUR_GreConsumerPriceIndex;20191210;10:00;Consumer Price Index - Harmonized (YoY);Greece;EUR;1
+EUR_SpaAuction;20191210;09:40;3-Month Letras Auction;Spain;EUR;1
+GBP_IndustrialProduction;20191210;09:30;Industrial Production (YoY);United Kingdom;GBP;1
+GBP_ManufacturingProduction;20191210;09:30;Manufacturing Production (MoM);United Kingdom;GBP;2
+GBP_IndexofServices;20191210;09:30;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20191210;09:30;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20191210;09:30;Total Trade Balance;United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20191210;09:30;Goods Trade Balance;United Kingdom;GBP;1
+GBP_GrossDomesticProduct;20191210;09:30;Gross Domestic Product (MoM);United Kingdom;GBP;2
+IDR_RetailSales;20191210;09:00;Retail Sales (YoY);Indonesia;IDR;1
+EUR_ItaIndustrialOutput;20191210;09:00;Industrial Output w.d.a (YoY);Italy;EUR;1
+CZK_ConsumerPriceIndex;20191210;08:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+EUR_SloIndustrialOutput;20191210;08:00;Industrial Output (YoY);Slovakia;EUR;1
+HUF_ConsumerPriceIndex;20191210;08:00;Consumer Price Index (YoY);Hungary;HUF;1
+EUR_FraIndustrialOutput;20191210;07:45;Industrial Output (MoM);France;EUR;1
+NOK_ConsumerPriceIndex;20191210;07:00;Consumer Price Index (MoM);Norway;NOK;1
+NOK_CoreInflation;20191210;07:00;Core Inflation (MoM);Norway;NOK;1
+RON_TradeBalance;20191210;07:00;Trade Balance;Romania;RON;1
+DKK_Inflation;20191210;07:00;Inflation (HICP) (YoY);Denmark;DKK;1
+DKK_ConsumerPriceIndex;20191210;07:00;Consumer Price Index (YoY);Denmark;DKK;1
+EUR_FinTradeBalance;20191210;07:00;Trade Balance;Finland;EUR;1
+NOK_ProducerPriceIndex;20191210;07:00;Producer Price Index (YoY);Norway;NOK;1
+EUR_FraNonfarmPayrolls;20191210;06:30;Nonfarm Payrolls (QoQ);France;EUR;1
+EUR_FinIndustrialOutput;20191210;06:00;Industrial Output (MoM);Finland;EUR;1
+JPY_MachineToolOrders;20191210;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+EUR_NetManufacturingOutput;20191210;05:30;Manufacturing Output (MoM);Netherlands, The;EUR;1
+AUD_CentralBankSpeech;20191210;02:45;RBA Bullock speech;Australia;AUD;2
+CNY_M2MoneySupply;20191210;02:00;M2 Money Supply (YoY);China;CNY;1
+CNY_NewLoans;20191210;02:00;New Loans;China;CNY;1
+CNY_FDIForeignDirectInvestment;20191210;02:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+CNY_ConsumerPriceIndex;20191210;01:30;Consumer Price Index (YoY);China;CNY;3
+CNY_ProducerPriceIndex;20191210;01:30;Producer Price Index (YoY);China;CNY;2
+AUD_MidYearEconomicandFiscalOutlook;20191210;00:30;Mid-Year Economic and Fiscal Outlook;Australia;AUD;2
+AUD_HousePriceIndex;20191210;00:30;House Price Index (YoY);Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConfidence;20191210;00:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20191210;00:30;National Australia Bank Business Conditions;Australia;AUD;1

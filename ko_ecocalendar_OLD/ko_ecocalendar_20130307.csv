@@ -1,0 +1,62 @@
+JPY_BankLending;20130307;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_GrossDomesticProduct;20130307;23:50;Gross Domestic Product (QoQ);Japan;JPY;3
+JPY_CurrentAccount;20130307;23:50;Current Account n.s.a.;Japan;JPY;1
+JPY_TradeBalanceBOPBasis;20130307;23:50;Trade Balance - BOP Basis;Japan;JPY;2
+NZD_ManufacturingSales;20130307;21:45;Manufacturing Sales;New Zealand;NZD;1
+USD_BankStressTestInfo;20130307;21:30;Bank Stress Test Info;United States;USD;3
+USD_ConsumerCreditChange;20130307;20:00;Consumer Credit Change;United States;USD;2
+USD_CentralBankSpeech;20130307;18:15;FOMC Member Powell speech (don't use);United States;USD;2
+HUF_BudgetBalance;20130307;16:00;Budget Balance;Hungary;HUF;1
+USD_EIANaturalGasStorageChange;20130307;15:30;EIA Natural Gas Storage Change;United States;USD;1
+TRY_TreasuryCashBalance;20130307;15:30;Treasury Cash Balance;Turkey;TRY;1
+MXN_12MonthInflation;20130307;14:00;12-Month Inflation;Mexico;MXN;1
+MXN_CoreInflation;20130307;14:00;Core Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20130307;14:00;Headline Inflation;Mexico;MXN;1
+USD_TradeBalance;20130307;13:30;Trade Balance;United States;USD;2
+USD_JoblessClaims;20130307;13:30;Initial Jobless Claims;United States;USD;2
+USD_NonfarmProductivity;20130307;13:30;Nonfarm Productivity;United States;USD;1
+USD_UnitLaborCosts;20130307;13:30;Unit Labor Costs;United States;USD;1
+CAD_BuildingPermits;20130307;13:30;Building Permits (MoM);Canada;CAD;1
+EUR_EurECBMonetaryPolicyStatementandPressConference;20130307;13:30;ECB Monetary Policy Statement and Press Conference;European Monetary Union;EUR;3
+CAD_Exports;20130307;13:30;Exports;Canada;CAD;1
+CAD_Imports;20130307;13:30;Imports;Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20130307;13:30;International Merchandise Trade;Canada;CAD;1
+CLP_TradeBalance;20130307;13:30;Trade Balance;Chile;CLP;1
+PLN_CentralBankFXReserves;20130307;13:00;Central Bank FX Reserves;Poland;PLN;1
+EUR_EurECBInterestRateDecision;20130307;12:45;ECB Interest Rate Decision;European Monetary Union;EUR;3
+USD_ChallengerJobCuts;20130307;12:30;Challenger Job Cuts;United States;USD;1
+GBP_BoEAssetPurchaseFacility;20130307;12:00;BoE Asset Purchase Facility;United Kingdom;GBP;3
+GBP_BoEInterestRateDecision;20130307;12:00;BoE Interest Rate Decision;United Kingdom;GBP;3
+BRL_IndustrialOutput;20130307;12:00;Industrial Output (YoY);Brazil;BRL;1
+EUR_GerFactoryOrders;20130307;11:00;Factory Orders s.a. (MoM);Germany;EUR;1
+RUB_CentralBankReserves;20130307;10:13;Central Bank Reserves $;Russia;RUB;1
+EUR_FraAuction;20130307;10:01;10-y Bond Auction;France;EUR;1
+EUR_GreUnemploymentRate;20130307;10:00;Unemployment Rate (MoM);Greece;EUR;1
+EUR_SpaAuction;20130307;09:54;5-y Bond Auction;Spain;EUR;1
+ZAR_BusinessConfidenceIndex;20130307;09:30;Business Confidence Index;South Africa;ZAR;1
+ZAR_ReutersEconometer;20130307;09:30;Reuters Econometer;South Africa;ZAR;1
+EUR_ItaProducerPriceIndex;20130307;09:00;Producer Price Index (MoM);Italy;EUR;1
+SGD_ForeignReserves;20130307;09:00;Foreign Reserves (MoM);Singapore;SGD;1
+CHF_CentralBankSpeech;20130307;09:00;SNB Chairman Jordan speech;Switzerland;CHF;2
+NOK_CreditIndicator;20130307;09:00;Credit Indicator;Norway;NOK;1
+NOK_ManufacturingOutput;20130307;09:00;Manufacturing Output;Norway;NOK;1
+CZK_FXReserves;20130307;09:00;FX Reserves;Czech Republic;CZK;1
+EUR_NetConsumerPriceIndex;20130307;08:30;Consumer Price Index n.s.a (YoY);Netherlands, The;EUR;1
+CHF_ForeignCurrencyReserves;20130307;08:00;Foreign Currency Reserves;Switzerland;CHF;1
+DKK_IndustrialProduction;20130307;08:00;Industrial Production (MoM);Denmark;DKK;1
+EUR_AusProducerPriceIndex;20130307;08:00;Producer Price Index (MoM);Austria;EUR;1
+EUR_FraTradeBalanceEUR;20130307;07:45;Trade Balance EUR;France;EUR;1
+EUR_FraImportsEUR;20130307;07:45;Imports, EUR;France;EUR;1
+EUR_FraExportsEUR;20130307;07:45;Exports, EUR;France;EUR;1
+CHF_UnemploymentRate;20130307;06:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+EUR_FraILOUnemployment;20130307;06:30;ILO Unemployment;France;EUR;1
+ZAR_Net$Gold&ForexReserve;20130307;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+ZAR_Gross$Gold&ForexReserve;20130307;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+JPY_CoincidentIndex;20130307;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20130307;05:00;Leading Economic Index;Japan;JPY;2
+IDR_BankIndonesiaRate;20130307;04:00;Bank Indonesia Rate;Indonesia;IDR;1
+JPY_BoJMonetaryPolicyStatement;20130307;03:30;BoJ Monetary Policy Statement ;Japan;JPY;3
+JPY_BoJInterestRateDecision;20130307;03:25;BoJ Interest Rate Decision;Japan;JPY;3
+AUD_TradeBalance;20130307;00:30;Trade Balance;Australia;AUD;2
+AUD_Imports;20130307;00:30;Imports;Australia;AUD;1
+AUD_Exports;20130307;00:30;Exports;Australia;AUD;1

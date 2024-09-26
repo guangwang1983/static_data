@@ -1,0 +1,40 @@
+JPY_LaborCashEarnings;20180509;00:00;Labor Cash Earnings (YoY);Japan;JPY;1
+RUB_VictoryDay;20180509;00:00;Victory Day ;Russia;RUB;0
+JPY_LeadingEconomicIndex;20180509;05:00;Leading Economic Index;Japan;JPY;2
+JPY_CoincidentIndex;20180509;05:00;Coincident Index;Japan;JPY;1
+NOK_ConsumerPriceIndex;20180509;06:00;Consumer Price Index (MoM);Norway;NOK;1
+NOK_CoreInflation;20180509;06:00;Core Inflation (MoM);Norway;NOK;1
+DKK_TradeBalance;20180509;06:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20180509;06:00;Current Account;Denmark;DKK;1
+NOK_ProducerPriceIndex;20180509;06:00;Producer Price Index (YoY);Norway;NOK;1
+EUR_FraIndustrialOutput;20180509;06:45;Industrial Output (MoM);France;EUR;1
+HUF_ConsumerPriceIndex;20180509;07:00;Consumer Price Index (YoY);Hungary;HUF;1
+CZK_ForeignTradeBalance;20180509;07:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+SEK_ConsumerPriceIndex;20180509;07:30;Consumer Price Index (YoY);Sweden;SEK;1
+EUR_ItaRetailSales;20180509;08:00;Retail Sales s.a. (MoM);Italy;EUR;1
+CZK_FXReserves;20180509;08:00;FX Reserves;Czech Republic;CZK;1
+ZAR_BusinessConfidenceIndex;20180509;09:30;Business Confidence Index;South Africa;ZAR;1
+GBP_Auction;20180509;10:08;10-y Bond Auction;United Kingdom;GBP;1
+EUR_GerAuction;20180509;10:08;30-y Bond Auction;Germany;EUR;1
+USD_MBAMortgageApplications;20180509;11:00;MBA Mortgage Applications;United States;USD;1
+INR_M3MoneySupply;20180509;11:30;M3 Money Supply;India;INR;1
+USD_ProducerPriceIndex;20180509;12:30;Producer Price Index ex Food & Energy (MoM);United States;USD;1
+CAD_BuildingPermits;20180509;12:30;Building Permits (MoM);Canada;CAD;1
+MXN_HeadlineInflation;20180509;13:00;Headline Inflation;Mexico;MXN;1
+MXN_CoreInflation;20180509;13:00;Core Inflation;Mexico;MXN;1
+MXN_12MonthInflation;20180509;13:00;12-Month Inflation;Mexico;MXN;1
+USD_WholesaleInventories;20180509;14:00;Wholesale Inventories;United States;USD;1
+USD_EIACrudeOilStocksChange;20180509;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_Auction;20180509;17:01;10-Year Note Auction;United States;USD;1
+USD_CentralBankSpeech;20180509;17:15;Fed Bostic speech;United States;USD;2
+NZD_RBNZRateStatement;20180509;21:00;RBNZ Rate Statement;New Zealand;NZD;3
+NZD_RBNZInterestRateDecision;20180509;21:00;RBNZ Interest Rate Decision;New Zealand;NZD;3
+NZD_MonetaryPolicyStatement;20180509;21:00;Monetary Policy Statement ;New Zealand;NZD;3
+NZD_RBNZPressConference;20180509;22:00;RBNZ Press Conference;New Zealand;NZD;3
+GBP_RICSHousingPriceBalance;20180509;23:01;RICS Housing Price Balance;United Kingdom;GBP;1
+JPY_BankLending;20180509;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_BoJSummaryofOpinions;20180509;23:50;BoJ Summary of Opinions;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20180509;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20180509;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_CurrentAccount;20180509;23:50;Current Account n.s.a.;Japan;JPY;1
+JPY_TradeBalanceBOPBasis;20180509;23:50;Trade Balance - BOP Basis;Japan;JPY;1

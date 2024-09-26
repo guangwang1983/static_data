@@ -1,0 +1,26 @@
+JPY_ForeignBondInvestment;20130117;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20130117;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+CLP_BCCHInterestRate;20130117;23:00;BCCH Interest Rate;Chile;CLP;1
+COP_TradeBalance;20130117;22:00;Trade Balance;Colombia;COP;1
+NZD_ConsumerPriceIndex;20130117;21:45;Consumer Price Index (QoQ);New Zealand;NZD;2
+USD_EIANaturalGasStorageChange;20130117;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_PhiladelphiaFedManufacturingSurvey;20130117;15:00;Philadelphia Fed Manufacturing Survey;United States;USD;2
+USD_HousingStarts;20130117;13:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20130117;13:30;Building Permits (MoM);United States;USD;2
+USD_JoblessClaims;20130117;13:30;Initial Jobless Claims;United States;USD;2
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20130117;13:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20130117;13:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+EUR_IreHICP;20130117;11:00;HICP (YoY);Ireland;EUR;1
+EUR_IreConsumerPriceIndex;20130117;11:00;Consumer Price Index (YoY);Ireland;EUR;1
+EUR_EurConstructionOutput;20130117;10:00;Construction Output  s.a (MoM);European Monetary Union;EUR;1
+EUR_SpaAuction;20130117;09:59;2-y Bond Auction;Spain;EUR;1
+EUR_EurECBMonthlyReport;20130117;09:00;ECB Monthly Report;European Monetary Union;EUR;3
+HKD_Unemploymentrate;20130117;08:30;Unemployment rate;Hong Kong SAR;HKD;1
+EUR_NetUnemploymentRate;20130117;08:30;Unemployment Rate s.a (3M);Netherlands, The;EUR;1
+CHF_ProducerandImportPrices;20130117;08:15;Producer and Import Prices (MoM);Switzerland;CHF;1
+AUD_RBAForeignExchangeTransaction;20130117;00:30;RBA Foreign Exchange Transaction;Australia;AUD;1
+AUD_FulltimeEmployment;20130117;00:30;Fulltime Employment;Australia;AUD;1
+AUD_EmploymentChange;20130117;00:30;Employment Change s.a.;Australia;AUD;3
+AUD_UnemploymentRate;20130117;00:30;Unemployment Rate s.a.;Australia;AUD;3
+RUB_CentralBankReserves;20130117;00:00;Central Bank Reserves $;Russia;RUB;1
+AUD_ConsumerInflationExpectations;20130117;00:00;Consumer Inflation Expectations;Australia;AUD;1

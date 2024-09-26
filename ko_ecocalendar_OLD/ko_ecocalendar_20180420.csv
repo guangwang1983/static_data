@@ -1,0 +1,29 @@
+USD_CFTCGoldNCNetPositions;20180420;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCUSDNCNetPositions;20180420;19:30;CFTC USD NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20180420;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+AUD_CFTCAUDNCNetPositions;20180420;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCOilNCNetPositions;20180420;19:30;CFTC Oil NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20180420;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+GBP_CFTCGBPNCNetPositions;20180420;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_BakerHughesUSOilRigCount;20180420;17:00;Baker Hughes US Oil Rig Count;United States;USD;2
+USD_CentralBankSpeech;20180420;15:15;Fed Williams speech;United States;USD;2
+COP_TradeBalance;20180420;15:00;Trade Balance;Colombia;COP;1
+EUR_EurConsumerConfidence;20180420;14:00;Consumer Confidence;European Monetary Union;EUR;1
+EUR_BelConsumerConfidenceIndex;20180420;13:00;Consumer Confidence Index;Belgium;EUR;1
+CAD_RetailSales;20180420;12:30;Retail Sales ex Autos (MoM);Canada;CAD;2
+CAD_ConsumerPriceIndex;20180420;12:30;Consumer Price Index (YoY);Canada;CAD;2
+BRL_MidmonthInflation;20180420;12:00;Mid-month Inflation;Brazil;BRL;1
+EUR_GerCentralBankSpeech;20180420;11:30;German Buba President Weidmann speech;Germany;EUR;2
+INR_FXReservesUSD;20180420;11:30;FX Reserves, USD;India;INR;1
+GBP_CentralBankSpeech;20180420;09:30;BoE Saunders speech;United Kingdom;GBP;2
+EUR_SloUnemploymentRate;20180420;09:00;Unemployment Rate;Slovakia;EUR;1
+EUR_GreCurrentAccount;20180420;08:00;Current Account (YoY);Greece;EUR;1
+HUF_GrossWages;20180420;07:00;Gross Wages (YoY);Hungary;HUF;1
+TRY_ConsumerConfidence;20180420;07:00;Consumer Confidence;Turkey;TRY;1
+DKK_ConsumerConfidence;20180420;06:00;Consumer Confidence;Denmark;DKK;1
+EUR_GerProducerPriceIndex;20180420;06:00;Producer Price Index (YoY);Germany;EUR;1
+JPY_TertiaryIndustryIndex;20180420;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+EUR_NetConsumerConfidenceAdj;20180420;04:30;Consumer Confidence Adj;Netherlands, The;EUR;1
+EUR_NetConsumerSpendingVolume;20180420;04:30;Consumer Spending Volume;Netherlands, The;EUR;1
+EUR_EurIMFMeeting;20180420;00:00;IMF Meeting;European Monetary Union;EUR;2
+USD_OPECMeeting;20180420;00:00;OPEC Meeting;United States;USD;2

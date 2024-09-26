@@ -1,0 +1,29 @@
+AUD_RBAForeignExchangeTransaction;20151119;00:30;RBA Foreign Exchange Transaction;Australia;AUD;1
+CNY_MNIBusinessSentimentIndicator;20151119;01:45;MNI Business Sentiment Indicator;China;CNY;1
+JPY_BoJMonetaryPolicyStatement;20151119;03:00;BoJ Monetary Policy Statement ;Japan;JPY;3
+JPY_BoJInterestRateDecision;20151119;03:00;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_AllIndustryActivityIndex;20151119;04:30;All Industry Activity Index (MoM);Japan;JPY;2
+JPY_BoJPressConference;20151119;06:00;BoJ Press Conference;Japan;JPY;3
+CHF_Exports;20151119;07:00;Exports (MoM);Switzerland;CHF;1
+CHF_Imports;20151119;07:00;Imports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20151119;07:00;Trade Balance;Switzerland;CHF;1
+EUR_GerCentralBankSpeech;20151119;08:00;German Buba President Weidmann speech;Germany;EUR;2
+SEK_UnemploymentRate;20151119;08:30;Unemployment Rate;Sweden;SEK;1
+EUR_EurCurrentAccount;20151119;09:00;Current Account n.s.a;European Monetary Union;EUR;1
+GBP_RetailSales;20151119;09:30;Retail Sales ex-Fuel (MoM);United Kingdom;GBP;2
+GBP_CBIIndustrialTrendsSurvey–Orders;20151119;11:00;CBI Industrial Trends Survey – Orders (MoM);United Kingdom;GBP;1
+BRL_MidmonthInflation;20151119;11:00;Mid-month Inflation;Brazil;BRL;1
+BRL_UnemploymentRate;20151119;11:30;Unemployment Rate;Brazil;BRL;1
+RUB_CentralBankReserves;20151119;12:00;Central Bank Reserves $;Russia;RUB;1
+RUB_ProducerPriceIndex;20151119;12:00;Producer Price Index (MoM);Russia;RUB;1
+EUR_EurECBMonetaryPolicyMeetingAccounts;20151119;12:30;ECB Monetary Policy Meeting Accounts;European Monetary Union;EUR;3
+PLN_RetailSales;20151119;13:00;Retail Sales (YoY);Poland;PLN;1
+PLN_IndustrialOutput;20151119;13:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20151119;13:00;Producer Price Index (YoY);Poland;PLN;1
+ZAR_SARBInterestRateDecision;20151119;13:00;SARB Interest Rate Decision;South Africa;ZAR;1
+USD_JoblessClaims;20151119;13:30;Initial Jobless Claims;United States;USD;2
+CAD_WholesaleSales;20151119;13:30;Wholesale Sales (MoM);Canada;CAD;1
+USD_PhiladelphiaFedManufacturingSurvey;20151119;13:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+USD_EIANaturalGasStorageChange;20151119;15:30;EIA Natural Gas Storage Change;United States;USD;1
+CAD_BoCReview;20151119;15:30;BoC Review;Canada;CAD;2
+USD_CentralBankSpeech;20151119;21:45;Fed Stanley Fischer speech;United States;USD;2

@@ -1,0 +1,43 @@
+AUD_CFTCAUDNCNetPositions;20200117;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20200117;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+USD_CFTCUSDNCNetPositions;20200117;20:30;CFTC USD NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20200117;20:30;CFTC Gold NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20200117;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCOilNCNetPositions;20200117;20:30;CFTC Oil NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20200117;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_BakerHughesUSOilRigCount;20200117;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CentralBankSpeech;20200117;17:45;Fed Quarles speech;United States;USD;2
+USD_JOLTSJobOpenings;20200117;15:00;JOLTS Job Openings;United States;USD;1
+COP_RetailSales;20200117;15:00;Retail Sales (YoY);Colombia;COP;1
+USD_MichiganConsumerSentimentIndex;20200117;15:00;Michigan Consumer Sentiment Index;United States;USD;3
+COP_Industrialoutput;20200117;15:00;Industrial output (YoY);Colombia;COP;1
+USD_IndustrialProduction;20200117;14:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20200117;14:15;Capacity Utilization;United States;USD;1
+USD_HousingStarts;20200117;13:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20200117;13:30;Building Permits (MoM);United States;USD;2
+USD_BuildingPermitsChange;20200117;13:30;Building Permits Change;United States;USD;1
+USD_HousingStartsChange;20200117;13:30;Housing Starts Change;United States;USD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20200117;13:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20200117;13:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+RUB_ForeignTrade;20200117;13:00;Foreign Trade;Russia;RUB;1
+INR_BankLoanGrowth;20200117;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20200117;11:30;FX Reserves, USD;India;INR;1
+EUR_EurConsumerPriceIndex;20200117;10:00;Consumer Price Index (YoY);European Monetary Union;EUR;2
+EUR_ItaConsumerPriceIndex;20200117;10:00;Consumer Price Index (YoY);Italy;EUR;1
+EUR_EurConstructionOutput;20200117;10:00;Construction Output  s.a (MoM);European Monetary Union;EUR;1
+GBP_RetailSales;20200117;09:30;Retail Sales ex-Fuel (MoM);United Kingdom;GBP;2
+EUR_ItaGlobalTradeBalance;20200117;09:00;Global Trade Balance;Italy;EUR;1
+EUR_ItaTradeBalanceEU;20200117;09:00;Trade Balance EU;Italy;EUR;1
+EUR_EurCurrentAccount;20200117;09:00;Current Account s.a;European Monetary Union;EUR;1
+EUR_AusHICP;20200117;08:00;HICP (YoY);Austria;EUR;1
+EUR_SloEUNormInflation;20200117;08:00;EU Norm Inflation (YoY);Slovakia;EUR;1
+EUR_FraBudget;20200117;07:45;Budget;France;EUR;1
+CHF_ProducerandImportPrices;20200117;07:30;Producer and Import Prices (YoY);Switzerland;CHF;1
+JPY_TertiaryIndustryIndex;20200117;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+CNY_RetailSales;20200117;02:00;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20200117;02:00;Industrial Production (YoY);China;CNY;2
+CNY_NBSPressConference;20200117;02:00;NBS Press Conference;China;CNY;2
+CNY_FixedAssetInvestment;20200117;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+CNY_GrossDomesticProduct;20200117;02:00;Gross Domestic Product (YoY);China;CNY;3
+KRW_BoKInterestRateDecision;20200117;01:00;BoK Interest Rate Decision;South Korea;KRW;1
+AUD_HIANewHomeSales;20200117;00:00;HIA New Home Sales (MoM);Australia;AUD;2

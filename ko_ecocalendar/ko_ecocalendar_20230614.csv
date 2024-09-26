@@ -1,0 +1,41 @@
+NZD_FoodPriceIndex;20230614;00:00;Food Price Index (MoM);New Zealand;NZD;1
+KRW_MoneySupplyGrowth;20230614;03:00;Money Supply Growth;South Korea;KRW;1
+RON_IndustrialProduction;20230614;06:00;Industrial Production (MoM);Romania;RON;1
+GBP_IndustrialProduction;20230614;06:00;Industrial Production (MoM);United Kingdom;GBP;2
+GBP_ManufacturingProduction;20230614;06:00;Manufacturing Production (MoM);United Kingdom;GBP;2
+EUR_GerWholesalePriceIndex;20230614;06:00;Wholesale Price Index (MoM);Germany;EUR;1
+SEK_ConsumerPriceIndex;20230614;06:00;Consumer Price Index (YoY);Sweden;SEK;1
+GBP_IndexofServices;20230614;06:00;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20230614;06:00;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20230614;06:00;Total Trade Balance;United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20230614;06:00;Goods Trade Balance;United Kingdom;GBP;1
+GBP_GrossDomesticProduct;20230614;06:00;Gross Domestic Product (MoM);United Kingdom;GBP;2
+HUF_IndustrialOutput;20230614;06:30;Industrial Output (YoY);Hungary;HUF;1
+INR_WPIInflation;20230614;06:30;WPI Inflation;India;INR;1
+EUR_EurIndustrialProduction;20230614;09:00;Industrial Production s.a. (MoM);European Monetary Union;EUR;2
+EUR_GerAuction;20230614;09:30;10-y Bond Auction;Germany;EUR;2
+ZAR_BusinessConfidenceIndex;20230614;09:30;Business Confidence Index;South Africa;ZAR;1
+ILS_M1MoneySupply;20230614;10:00;M1 Money Supply (MoM);Israel;ILS;1
+GBP_NIESRGDPEstimate;20230614;11:00;NIESR GDP Estimate (3M);United Kingdom;GBP;2
+USD_MBAMortgageApplications;20230614;11:00;MBA Mortgage Applications;United States;USD;1
+ZAR_RetailSales;20230614;11:00;Retail Sales (YoY);South Africa;ZAR;1
+BRL_RetailSales;20230614;12:00;Retail Sales (MoM);Brazil;BRL;1
+USD_ProducerPriceIndex;20230614;12:30;Producer Price Index ex Food & Energy (MoM);United States;USD;1
+USD_EIACrudeOilStocksChange;20230614;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_FOMCEconomicProjections;20230614;18:00;FOMC Economic Projections;United States;USD;3
+USD_InterestRateProjections1styear;20230614;18:00;Interest Rate Projections - 1st year;United States;USD;3
+USD_InterestRateProjectionsLonger;20230614;18:00;Interest Rate Projections - Longer;United States;USD;3
+USD_FedMonetaryPolicyStatement;20230614;18:00;Fed Monetary Policy Statement;United States;USD;3
+USD_InterestRateProjections2ndyear;20230614;18:00;Interest Rate Projections - 2nd year;United States;USD;3
+USD_InterestRateProjectionsCurrent;20230614;18:00;Interest Rate Projections - Current;United States;USD;3
+USD_FedInterestRateDecision;20230614;18:00;Fed Interest Rate Decision;United States;USD;3
+USD_FOMCPressConference;20230614;18:30;FOMC Press Conference;United States;USD;3
+NZD_GrossDomesticProduct;20230614;22:45;Gross Domestic Product (QoQ);New Zealand;NZD;3
+JPY_AdjustedMerchandiseTradeBalance;20230614;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_MerchandiseTradeBalanceTotal;20230614;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Imports;20230614;23:50;Imports (YoY);Japan;JPY;2
+JPY_Exports;20230614;23:50;Exports (YoY);Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20230614;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20230614;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_MachineryOrders;20230614;23:50;Machinery Orders (MoM);Japan;JPY;1
+KRW_TradeBalance;20230614;23:55;Trade Balance;South Korea;KRW;1

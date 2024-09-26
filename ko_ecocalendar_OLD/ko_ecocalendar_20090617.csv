@@ -1,0 +1,23 @@
+USD_CentralBankSpeech;20090617;16:00;Former Fed Chair Bernanke speech;United States;USD;2
+USD_EIACrudeOilStocksChange;20090617;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_CurrentAccount;20090617;12:30;Current Account;United States;USD;1
+USD_ConsumerPriceIndex;20090617;12:30;Consumer Price Index ex Food & Energy (YoY);United States;USD;2
+CAD_WholesaleSales;20090617;12:30;Wholesale Sales (MoM);Canada;CAD;1
+CAD_LeadingIndicators;20090617;12:30;Leading Indicators (MoM);Canada;CAD;1
+USD_MBAMortgageApplications;20090617;11:00;MBA Mortgage Applications;United States;USD;1
+EUR_EurTradeBalance;20090617;09:00;Trade Balance s.a.;European Monetary Union;EUR;1
+CHF_ZEWSurveyExpectations;20090617;09:00;ZEW Survey - Expectations;Switzerland;CHF;1
+TRY_CBRTInterestRateDecision;20090617;09:00;CBRT Interest Rate Decision;Turkey;TRY;1
+EUR_EurConstructionOutput;20090617;09:00;Construction Output w.d.a (YoY);European Monetary Union;EUR;1
+GBP_BankofEnglandMinutes;20090617;08:30;Bank of England Minutes;United Kingdom;GBP;3
+GBP_AverageEarningsIncludingBonus;20090617;08:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;1
+GBP_ILOUnemploymentRate;20090617;08:30;ILO Unemployment Rate (3M);United Kingdom;GBP;2
+GBP_ClaimantCountRate;20090617;08:30;Claimant Count Rate;United Kingdom;GBP;1
+GBP_ClaimantCountChange;20090617;08:30;Claimant Count Change;United Kingdom;GBP;1
+GBP_AverageEarningsExcludingBonus;20090617;08:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;1
+CHF_RetailSales;20090617;07:15;Real Retail Sales (YoY);Switzerland;CHF;1
+JPY_MachineToolOrders;20090617;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+CHF_SECOEconomicForecasts;20090617;05:45;SECO Economic Forecasts;Switzerland;CHF;1
+JPY_BoJMonthlyEconomicSurvey;20090617;05:00;BoJ Monthly Economic Survey;Japan;JPY;2
+AUD_DwellingUnitStarts;20090617;01:30;Dwelling Unit Starts (QoQ);Australia;AUD;1
+AUD_WestpacLeadingIndex;20090617;00:30;Westpac Leading Index (MoM);Australia;AUD;1

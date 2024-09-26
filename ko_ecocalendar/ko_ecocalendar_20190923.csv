@@ -1,0 +1,24 @@
+ILS_IndustrialProduction;20190923;06:33;Industrial Production (MoM);Israel;ILS;1
+EUR_FraHCOBManufacturingPMI;20190923;07:15;HCOB Manufacturing PMI;France;EUR;1
+EUR_FraHCOBServicesPMI;20190923;07:15;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20190923;07:15;HCOB Composite PMI;France;EUR;2
+EUR_GerHCOBManufacturingPMI;20190923;07:30;HCOB Manufacturing PMI;Germany;EUR;3
+EUR_GerHCOBServicesPMI;20190923;07:30;HCOB Services PMI;Germany;EUR;2
+EUR_GerHCOBCompositePMI;20190923;07:30;HCOB Composite PMI;Germany;EUR;3
+EUR_EurHCOBManufacturingPMI;20190923;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurHCOBServicesPMI;20190923;08:00;HCOB Services PMI;European Monetary Union;EUR;2
+EUR_EurHCOBCompositePMI;20190923;08:00;HCOB Composite PMI;European Monetary Union;EUR;3
+EUR_GerGermanBubaMonthlyReport;20190923;10:00;German Buba Monthly Report;Germany;EUR;1
+MXN_RetailSales;20190923;11:00;Retail Sales (MoM);Mexico;MXN;1
+PLN_M3MoneySupply;20190923;12:00;M3 Money Supply (YoY);Poland;PLN;1
+USD_ChicagoFedNationalActivityIndex;20190923;12:30;Chicago Fed National Activity Index ;United States;USD;2
+CAD_WholesaleSales;20190923;12:30;Wholesale Sales (MoM);Canada;CAD;1
+BRL_CurrentAccount;20190923;13:30;Current Account;Brazil;BRL;1
+USD_S&PGlobalManufacturingPMI;20190923;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20190923;13:45;S&P Global Services PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20190923;13:45;S&P Global Composite PMI;United States;USD;2
+USD_CentralBankSpeech;20190923;13:50;Fed Williams speech;United States;USD;2
+USD_Auction;20190923;15:30;3-Month Bill Auction;United States;USD;1
+EUR_EurCentralBankSpeech;20190923;17:00;ECB Lane speech;European Monetary Union;EUR;2
+COP_Interestrate;20190923;20:00;Interest rate;Colombia;COP;1
+KRW_ProducerPriceIndex;20190923;21:00;Producer Price Index Growth (MoM);South Korea;KRW;1

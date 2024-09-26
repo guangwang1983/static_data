@@ -1,0 +1,21 @@
+JPY_JibunBankManufacturingPMI;20150724;01:35;Jibun Bank Manufacturing PMI;Japan;JPY;1
+CNY_CaixinManufacturingPMI;20150724;01:45;Caixin Manufacturing PMI;China;CNY;2
+EUR_FraHCOBServicesPMI;20150724;07:00;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBManufacturingPMI;20150724;07:00;HCOB Manufacturing PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20150724;07:00;HCOB Composite PMI;France;EUR;1
+EUR_GerHCOBManufacturingPMI;20150724;07:30;HCOB Manufacturing PMI;Germany;EUR;2
+EUR_GerHCOBServicesPMI;20150724;07:30;HCOB Services PMI;Germany;EUR;1
+EUR_GerHCOBCompositePMI;20150724;07:30;HCOB Composite PMI;Germany;EUR;2
+SEK_TradeBalance;20150724;07:30;Trade Balance (MoM);Sweden;SEK;1
+EUR_ItaWageInflation;20150724;08:00;Wage Inflation (MoM);Italy;EUR;1
+EUR_EurHCOBManufacturingPMI;20150724;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurHCOBServicesPMI;20150724;08:00;HCOB Services PMI;European Monetary Union;EUR;2
+EUR_EurHCOBCompositePMI;20150724;08:00;HCOB Composite PMI;European Monetary Union;EUR;2
+GBP_BBAMortgageApprovals;20150724;08:30;BBA Mortgage Approvals;United Kingdom;GBP;1
+INR_BankLoanGrowth;20150724;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20150724;11:30;FX Reserves, USD;India;INR;1
+MXN_JoblessRate;20150724;13:00;Jobless Rate;Mexico;MXN;1
+USD_S&PGlobalManufacturingPMI;20150724;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_NewHomeSales;20150724;14:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20150724;14:00;New Home Sales Change (MoM);United States;USD;2
+USD_BakerHughesUSOilRigCount;20150724;19:00;Baker Hughes US Oil Rig Count;United States;USD;2

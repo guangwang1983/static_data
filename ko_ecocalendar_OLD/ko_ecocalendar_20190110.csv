@@ -1,0 +1,39 @@
+JPY_BankLending;20190110;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_CurrentAccount;20190110;23:50;Current Account n.s.a.;Japan;JPY;1
+JPY_TradeBalanceBOPBasis;20190110;23:50;Trade Balance - BOP Basis;Japan;JPY;1
+JPY_OverallHouseholdSpending;20190110;23:30;Overall Household Spending (YoY);Japan;JPY;2
+NZD_BuildingPermits;20190110;21:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+AUD_AiGPerformanceofConstructionIndex;20190110;21:30;AiG Performance of Construction Index;Australia;AUD;2
+USD_CentralBankSpeech;20190110;17:45;Fed Chair Powell speech;United States;USD;3
+USD_Auction;20190110;16:30;4-Week Bill Auction;United States;USD;1
+USD_EIANaturalGasStorageChange;20190110;15:30;EIA Natural Gas Storage Change;United States;USD;1
+MXN_ConsumerConfidence;20190110;14:00;Consumer Confidence s.a;Mexico;MXN;1
+USD_JoblessClaims;20190110;13:30;Continuing Jobless Claims;United States;USD;2
+CAD_BuildingPermits;20190110;13:30;Building Permits (MoM);Canada;CAD;1
+CAD_NewHousingPriceIndex;20190110;13:30;New Housing Price Index (YoY);Canada;CAD;1
+RUB_ConsumerPriceIndex;20190110;13:00;Consumer Price Index (MoM);Russia;RUB;1
+RUB_CentralBankReserves;20190110;13:00;Central Bank Reserves $;Russia;RUB;1
+EUR_EurECBMonetaryPolicyMeetingAccounts;20190110;12:30;ECB Monetary Policy Meeting Accounts;European Monetary Union;EUR;3
+ZAR_ManufacturingProductionIndex;20190110;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+EUR_FraAuction;20190110;10:14;10-y Bond Auction;France;EUR;1
+EUR_GreUnemploymentRate;20190110;10:00;Unemployment Rate (MoM);Greece;EUR;1
+ZAR_BusinessConfidenceIndex;20190110;09:30;Business Confidence Index;South Africa;ZAR;1
+GBP_BoECreditConditionsSurvey;20190110;09:30;BoE Credit Conditions Survey;United Kingdom;GBP;2
+EUR_ItaRetailSales;20190110;09:00;Retail Sales s.a. (MoM);Italy;EUR;1
+SEK_IndustrialProduction;20190110;08:30;Industrial Production (YoY);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20190110;08:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+CZK_ConsumerPriceIndex;20190110;08:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+EUR_SloIndustrialOutput;20190110;08:00;Industrial Output (YoY);Slovakia;EUR;1
+EUR_FraIndustrialOutput;20190110;07:45;Industrial Output (MoM);France;EUR;1
+NOK_ConsumerPriceIndex;20190110;07:00;Consumer Price Index (YoY);Norway;NOK;1
+NOK_CoreInflation;20190110;07:00;Core Inflation (MoM);Norway;NOK;1
+DKK_Inflation;20190110;07:00;Inflation (HICP) (YoY);Denmark;DKK;1
+DKK_ConsumerPriceIndex;20190110;07:00;Consumer Price Index (YoY);Denmark;DKK;1
+EUR_FinIndustrialOutput;20190110;07:00;Industrial Output (MoM);Finland;EUR;1
+NOK_ProducerPriceIndex;20190110;07:00;Producer Price Index (YoY);Norway;NOK;1
+JPY_CoincidentIndex;20190110;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20190110;05:00;Leading Economic Index;Japan;JPY;2
+CNY_ProducerPriceIndex;20190110;01:30;Producer Price Index (YoY);China;CNY;2
+CNY_ConsumerPriceIndex;20190110;01:30;Consumer Price Index (MoM);China;CNY;2
+GBP_RetailSales;20190110;00:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+EUR_IreConsumerConfidence;20190110;00:01;Consumer Confidence;Ireland;EUR;1

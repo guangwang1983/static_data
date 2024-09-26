@@ -1,0 +1,42 @@
+JPY_JibunBankServicesPMI;20200805;00:30;Jibun Bank Services PMI;Japan;JPY;1
+NZD_ANZCommodityPrice;20200805;01:00;ANZ Commodity Price;New Zealand;NZD;1
+AUD_HomeLoans;20200805;01:30;Home Loans;Australia;AUD;1
+AUD_InvestmentLendingforHomes;20200805;01:30;Investment Lending for Homes;Australia;AUD;1
+CNY_CaixinServicesPMI;20200805;01:45;Caixin Services PMI;China;CNY;2
+IDR_GrossDomesticProduct;20200805;04:00;Gross Domestic Product (YoY);Indonesia;IDR;1
+RUB_S&PGlobalServicesPMI;20200805;06:00;S&P Global Services PMI;Russia;RUB;1
+CZK_RetailSales;20200805;07:00;Retail Sales (YoY);Czech Republic;CZK;1
+HUF_RetailSales;20200805;07:00;Retail Sales (YoY);Hungary;HUF;1
+SEK_IndustrialProductionValue;20200805;07:30;Industrial Production Value (YoY);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20200805;07:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+EUR_ItaHCOBServicesPMI;20200805;07:45;HCOB Services PMI;Italy;EUR;2
+EUR_FraHCOBServicesPMI;20200805;07:50;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20200805;07:50;HCOB Composite PMI;France;EUR;1
+EUR_GerHCOBServicesPMI;20200805;07:55;HCOB Services PMI;Germany;EUR;1
+EUR_GerHCOBCompositePMI;20200805;07:55;HCOB Composite PMI;Germany;EUR;2
+EUR_EurHCOBServicesPMI;20200805;08:00;HCOB Services PMI;European Monetary Union;EUR;1
+EUR_EurHCOBCompositePMI;20200805;08:00;HCOB Composite PMI;European Monetary Union;EUR;2
+GBP_S&PGlobalCIPSCompositePMI;20200805;08:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSServicesPMI;20200805;08:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;1
+EUR_EurRetailSales;20200805;09:00;Retail Sales (MoM);European Monetary Union;EUR;2
+GBP_Auction;20200805;09:30;10-y Bond Auction;United Kingdom;GBP;1
+ILS_BudgetBalanceILS;20200805;10:00;Budget Balance - ILS;Israel;ILS;1
+USD_MBAMortgageApplications;20200805;11:00;MBA Mortgage Applications;United States;USD;1
+RON_Interestratedecision;20200805;12:00;Interest rate decision;Romania;RON;1
+JPY_CentralBankSpeech;20200805;12:00;BoJ Governor Kuroda speech;Japan;JPY;3
+USD_ADPEmploymentChange;20200805;12:15;ADP Employment Change;United States;USD;3
+USD_GoodsandServicesTradeBalance;20200805;12:30;Goods and Services Trade Balance;United States;USD;2
+CAD_Imports;20200805;12:30;Imports;Canada;CAD;1
+CAD_Exports;20200805;12:30;Exports;Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20200805;12:30;International Merchandise Trade;Canada;CAD;2
+USD_S&PGlobalServicesPMI;20200805;13:45;S&P Global Services PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20200805;13:45;S&P Global Composite PMI;United States;USD;2
+USD_ISMServicesEmploymentIndex;20200805;14:00;ISM Services Employment Index;United States;USD;2
+USD_ISMServicesPricesPaid;20200805;14:00;ISM Services Prices Paid;United States;USD;2
+USD_ISMServicesPMI;20200805;14:00;ISM Services PMI;United States;USD;3
+USD_ISMServicesNewOrdersIndex;20200805;14:00;ISM Services New Orders Index;United States;USD;2
+USD_EIACrudeOilStocksChange;20200805;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+BRL_InterestRateDecision;20200805;21:00;Interest Rate Decision;Brazil;BRL;1
+KRW_CurrentAccount;20200805;23:00;Current Account Balance;South Korea;KRW;1
+JPY_ForeignInvestmentinJapanStocks;20200805;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20200805;23:50;Foreign Bond Investment;Japan;JPY;1

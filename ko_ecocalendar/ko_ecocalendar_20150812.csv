@@ -1,0 +1,39 @@
+KRW_TradeBalance;20150812;00:00;Trade Balance;South Korea;KRW;1
+AUD_WestpacConsumerConfidenceIndex;20150812;00:30;Westpac Consumer Confidence Index;Australia;AUD;1
+AUD_WestpacConsumerConfidence;20150812;00:30;Westpac Consumer Confidence;Australia;AUD;2
+AUD_WagePriceIndex;20150812;01:30;Wage Price Index (QoQ);Australia;AUD;1
+JPY_TertiaryIndustryIndex;20150812;04:30;Tertiary Industry Index (MoM);Japan;JPY;2
+JPY_IndustrialProduction;20150812;04:30;Industrial Production (YoY);Japan;JPY;2
+JPY_CapacityUtilization;20150812;04:30;Capacity Utilization;Japan;JPY;1
+CNY_RetailSales;20150812;05:30;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20150812;05:30;Industrial Production (YoY);China;CNY;2
+CNY_FixedAssetInvestment;20150812;05:30;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+EUR_FraCurrentAccount;20150812;06:45;Current Account;France;EUR;1
+EUR_ItaGlobalTradeBalance;20150812;08:00;Global Trade Balance;Italy;EUR;1
+EUR_ItaTradeBalanceEU;20150812;08:00;Trade Balance EU;Italy;EUR;1
+GBP_ClaimantCountRate;20150812;08:30;Claimant Count Rate;United Kingdom;GBP;2
+GBP_AverageEarningsIncludingBonus;20150812;08:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountChange;20150812;08:30;Claimant Count Change;United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20150812;08:30;ILO Unemployment Rate (3M);United Kingdom;GBP;2
+GBP_AverageEarningsExcludingBonus;20150812;08:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+CHF_ZEWSurvey–Expectations;20150812;09:00;ZEW Survey – Expectations;Switzerland;CHF;2
+EUR_EurIndustrialProduction;20150812;09:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;2
+AUD_CentralBankSpeech;20150812;10:00;OUTDATED - RBA Deputy Governor Lowe Speech;Australia;AUD;2
+EUR_GerAuction;20150812;10:00;10-y Bond Auction;Germany;EUR;2
+USD_MBAMortgageApplications;20150812;11:00;MBA Mortgage Applications;United States;USD;1
+BRL_RetailSales;20150812;12:00;Retail Sales (MoM);Brazil;BRL;1
+INR_IndustrialOutput;20150812;12:00;Industrial Output;India;INR;1
+INR_ManufacturingOutput;20150812;12:00;Manufacturing Output;India;INR;1
+INR_CumulativeIndustrialOutput;20150812;12:00;Cumulative Industrial Output;India;INR;1
+USD_CentralBankSpeech;20150812;12:30;Fed Dudley speech;United States;USD;2
+USD_JOLTSJobOpenings;20150812;14:00;JOLTS Job Openings;United States;USD;1
+USD_EIACrudeOilStocksChange;20150812;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_Auction;20150812;17:00;10-Year Note Auction;United States;USD;2
+USD_MonthlyBudgetStatement;20150812;18:00;Monthly Budget Statement;United States;USD;2
+NZD_BusinessNZPMI;20150812;22:30;Business NZ PMI;New Zealand;NZD;2
+NZD_FoodPriceIndex;20150812;22:45;Food Price Index (MoM);New Zealand;NZD;1
+GBP_RICSHousingPriceBalance;20150812;23:01;RICS Housing Price Balance;United Kingdom;GBP;2
+NZD_REINZHousePriceIndex;20150812;23:01;REINZ House Price Index (MoM);New Zealand;NZD;2
+JPY_ForeignInvestmentinJapanStocks;20150812;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20150812;23:50;Foreign Bond Investment;Japan;JPY;2
+JPY_MachineryOrders;20150812;23:50;Machinery Orders (YoY);Japan;JPY;2

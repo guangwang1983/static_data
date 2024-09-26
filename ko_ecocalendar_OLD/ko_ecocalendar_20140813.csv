@@ -1,0 +1,49 @@
+JPY_ForeignInvestmentinJapanStocks;20140813;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20140813;23:50;Foreign Bond Investment;Japan;JPY;2
+JPY_MachineryOrders;20140813;23:50;Machinery Orders (MoM);Japan;JPY;1
+GBP_RICSHousingPriceBalance;20140813;23:01;RICS Housing Price Balance;United Kingdom;GBP;1
+NZD_RetailSales;20140813;22:45;Retail Sales ex Autos (QoQ);New Zealand;NZD;2
+NZD_BusinessNZPMI;20140813;22:30;Business NZ PMI;New Zealand;NZD;2
+USD_Auction;20140813;17:00;10-Year Note Auction;United States;USD;1
+USD_EIACrudeOilStocksChange;20140813;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_BusinessInventories;20140813;14:00;Business Inventories;United States;USD;2
+USD_CentralBankSpeech;20140813;13:20;Fed Rosengren speech;United States;USD;1
+USD_RetailSales;20140813;12:30;Retail Sales (MoM);United States;USD;3
+PLN_ConsumerPriceIndex;20140813;12:00;Consumer Price Index (MoM);Poland;PLN;1
+PLN_CurrentAccount;20140813;12:00;Current Account;Poland;PLN;1
+EUR_GerAuction;20140813;11:07;10-y Bond Auction;Germany;EUR;2
+USD_MBAMortgageApplications;20140813;11:00;MBA Mortgage Applications;United States;USD;1
+EUR_IreConsumerConfidence;20140813;11:00;Consumer Confidence;Ireland;EUR;1
+ZAR_RetailSales;20140813;11:00;Retail Sales (YoY);South Africa;ZAR;1
+GBP_BankofEnglandQuarterlyInflationReport;20140813;09:30;Bank of England Quarterly Inflation Report;United Kingdom;GBP;3
+GBP_CentralBankSpeech;20140813;09:30;BoE Governor Carney speech;United Kingdom;GBP;3
+RUB_GrossDomesticProduct;20140813;09:17;Gross Domestic Product Quarterly (YoY);Russia;RUB;1
+CHF_ZEWSurveyExpectations;20140813;09:00;ZEW Survey - Expectations;Switzerland;CHF;2
+EUR_EurIndustrialProduction;20140813;09:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;2
+EUR_GreGrossDomesticProduct;20140813;09:00;Gross Domestic Product s.a (YoY);Greece;EUR;1
+GBP_AverageEarningsExcludingBonus;20140813;08:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_AverageEarningsIncludingBonus;20140813;08:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountRate;20140813;08:30;Claimant Count Rate;United Kingdom;GBP;2
+GBP_ClaimantCountChange;20140813;08:30;Claimant Count Change;United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20140813;08:30;ILO Unemployment Rate (3M);United Kingdom;GBP;2
+NOK_RetailSales;20140813;08:00;Retail Sales ;Norway;NOK;1
+CZK_CurrentAccount;20140813;08:00;Current Account (MoM);Czech Republic;CZK;1
+EUR_NetRetailSales;20140813;07:30;Retail Sales (YoY);Netherlands, The;EUR;1
+EUR_SpaHICP;20140813;07:00;HICP (YoY);Spain;EUR;1
+HUF_IndustrialOutput;20140813;07:00;Industrial Output (YoY);Hungary;HUF;1
+EUR_SpaConsumerPriceIndex;20140813;07:00;Consumer Price Index (MoM);Spain;EUR;1
+EUR_FraConsumerPriceIndex;20140813;06:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraInflationextobacco;20140813;06:45;Inflation ex-tobacco (MoM);France;EUR;2
+EUR_GerWholesalePriceIndex;20140813;06:00;Wholesale Price Index (MoM);Germany;EUR;1
+EUR_GerConsumerPriceIndex;20140813;06:00;Consumer Price Index (MoM);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20140813;06:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;2
+CNY_RetailSales;20140813;05:30;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20140813;05:30;Industrial Production (YoY);China;CNY;2
+CNY_FixedAssetInvestment;20140813;05:30;Fixed Asset Investment (YTD) (YoY);China;CNY;2
+KRW_MoneySupplyGrowth;20140813;03:00;Money Supply Growth;South Korea;KRW;1
+CNY_M2MoneySupply;20140813;02:45;M2 Money Supply (YoY);China;CNY;2
+CNY_NewLoans;20140813;02:43;New Loans;China;CNY;2
+AUD_WagePriceIndex;20140813;01:30;Wage Price Index (YoY);Australia;AUD;1
+AUD_WestpacConsumerConfidenceIndex;20140813;00:30;Westpac Consumer Confidence Index;Australia;AUD;1
+AUD_WestpacConsumerConfidence;20140813;00:30;Westpac Consumer Confidence;Australia;AUD;1
+EUR_EurG20Meeting;20140813;00:00;G20 Meeting;European Monetary Union;EUR;2

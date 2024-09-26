@@ -1,0 +1,1 @@
+/dat/matterhorn/bin/scripts/python/createRealSize_MultiPortfolio_OOS_hc.py --portfolio_paths spot_fut_mul40.def --pathisfile True --lastname FXSpotFut_m40 --update True

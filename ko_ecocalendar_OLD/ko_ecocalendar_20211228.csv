@@ -1,0 +1,8 @@
+SEK_TradeBalance;20211228;08:30;Trade Balance (MoM);Sweden;SEK;1
+ZAR_TradeBalance;20211228;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+USD_RedbookIndex;20211228;13:55;Redbook Index (YoY);United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20211228;14:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;2
+USD_HousingPriceIndex;20211228;14:00;Housing Price Index (MoM);United States;USD;2
+USD_RichmondFedManufacturingIndex;20211228;15:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_Auction;20211228;18:00;5-Year Note Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20211228;21:30;API Weekly Crude Oil Stock;United States;USD;1

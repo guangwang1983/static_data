@@ -1,0 +1,3 @@
+equity index models where indicator pool is pure equity indexes.
+fixed income models where indicator pool is pure fixed income futures.
+currency models with ONLY spreads from the two countries in question. no outrights.

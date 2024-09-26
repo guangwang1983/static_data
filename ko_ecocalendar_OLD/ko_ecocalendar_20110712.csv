@@ -1,0 +1,35 @@
+KRW_UnemploymentRate;20110712;23:00;Unemployment Rate;South Korea;KRW;1
+NZD_FoodPriceIndex;20110712;22:45;Food Price Index (MoM);New Zealand;NZD;1
+USD_FOMCMinutes;20110712;18:00;FOMC Minutes;United States;USD;3
+USD_IBDTIPPEconomicOptimism;20110712;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+MXN_IndustrialOutput;20110712;13:00;Industrial Output (MoM);Mexico;MXN;1
+USD_TradeBalance;20110712;12:30;Trade Balance;United States;USD;2
+CAD_InternationalMerchandiseTrade;20110712;12:30;International Merchandise Trade;Canada;CAD;1
+BRL_RetailSales;20110712;12:00;Retail Sales (MoM);Brazil;BRL;1
+ZAR_ManufacturingProductionIndex;20110712;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+EUR_PorConsumerPriceIndex;20110712;09:00;Consumer Price Index (MoM);Portugal;EUR;1
+GBP_RetailPriceIndex;20110712;08:30;Retail Price Index (MoM);United Kingdom;GBP;1
+GBP_DCLGHousePriceIndex;20110712;08:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20110712;08:30;Goods Trade Balance;United Kingdom;GBP;2
+GBP_TradeBalancenonEU;20110712;08:30;Trade Balance non-EU;United Kingdom;GBP;2
+GBP_ConsumerPriceIndex;20110712;08:30;Core Consumer Price Index (YoY);United Kingdom;GBP;2
+EUR_EurEcoFinMeeting;20110712;08:00;EcoFin Meeting;European Monetary Union;EUR;2
+SEK_ConsumerPriceIndex;20110712;07:30;Consumer Price Index (YoY);Sweden;SEK;1
+CZK_ConsumerPriceIndex;20110712;07:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+EUR_SloCoreInflation;20110712;07:00;Core Inflation (YoY);Slovakia;EUR;1
+EUR_SloHeadlineInflation;20110712;07:00;Headline Inflation (MoM);Slovakia;EUR;1
+CZK_UnemploymentRate;20110712;07:00;Unemployment Rate;Czech Republic;CZK;1
+HUF_ConsumerPriceIndex;20110712;07:00;Consumer Price Index (YoY);Hungary;HUF;1
+EUR_FraCurrentAccount;20110712;06:45;Current Account;France;EUR;1
+EUR_GerConsumerPriceIndex;20110712;06:00;Consumer Price Index (MoM);Germany;EUR;2
+EUR_FraConsumerPriceIndex;20110712;05:30;Consumer Price Index (EU norm) (YoY);France;EUR;1
+EUR_FraInflationextobacco;20110712;05:30;Inflation ex-tobacco (MoM);France;EUR;1
+INR_IndustrialOutput;20110712;05:30;Industrial Output;India;INR;1
+INR_ManufacturingOutput;20110712;05:30;Manufacturing Output;India;INR;1
+INR_CumulativeIndustrialOutput;20110712;05:30;Cumulative Industrial Output;India;INR;1
+JPY_BoJInterestRateDecision;20110712;04:24;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_BoJMonetaryPolicyStatement;20110712;03:00;BoJ Monetary Policy Statement ;Japan;JPY;3
+CNY_ForeignExchangeReserves;20110712;02:05;Foreign Exchange Reserves (QoQ);China;CNY;2
+CNY_M2MoneySupply;20110712;02:05;M2 Money Supply (YoY);China;CNY;1
+AUD_NationalAustraliaBankBusinessConfidence;20110712;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20110712;01:30;National Australia Bank Business Conditions;Australia;AUD;1

@@ -1,0 +1,25 @@
+USD_EIACrudeOilStocksChange;20120105;16:00;EIA Crude Oil Stocks Change;United States;USD;1
+USD_ISMNonManufacturingPMI;20120105;15:00;ISM Non-Manufacturing PMI;United States;USD;2
+CAD_IveyPurchasingManagersIndex;20120105;15:00;Ivey Purchasing Managers Index;Canada;CAD;2
+CAD_RawMaterialPriceIndex;20120105;13:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20120105;13:30;Industrial Product Price (MoM);Canada;CAD;1
+USD_JoblessClaims;20120105;13:30;Initial Jobless Claims;United States;USD;1
+USD_ADPEmploymentChange;20120105;13:15;ADP Employment Change;United States;USD;2
+PLN_CentralBankFXReserves;20120105;13:00;Central Bank FX Reserves;Poland;PLN;1
+USD_ChallengerJobCuts;20120105;11:30;Challenger Job Cuts;United States;USD;1
+BRL_IndustrialOutput;20120105;11:00;Industrial Output (YoY);Brazil;BRL;1
+EUR_EurIndustrialNewOrders;20120105;10:00;Industrial New Orders (YoY);European Monetary Union;EUR;2
+EUR_EurProducerPriceIndex;20120105;10:00;Producer Price Index (MoM);European Monetary Union;EUR;1
+GBP_MarkitServicesPMI;20120105;09:30;Markit Services PMI;United Kingdom;GBP;2
+EUR_ItaUnemployment;20120105;09:00;Unemployment;Italy;EUR;1
+EUR_AusWholesalePrices;20120105;08:30;Wholesale Prices n.s.a (MoM);Austria;EUR;1
+EUR_NetConsumerPriceIndex;20120105;08:30;Consumer Price Index n.s.a (YoY);Netherlands, The;EUR;1
+HUF_UnemploymentRate;20120105;08:00;Unemployment Rate (3M);Hungary;HUF;1
+EUR_FraConsumerConfidence;20120105;07:45;Consumer Confidence;France;EUR;1
+EUR_GerRetailSales;20120105;07:00;Retail Sales (YoY);Germany;EUR;2
+EUR_IrePurchasingManagerIndexServices;20120105;07:00;Purchasing Manager Index Services;Ireland;EUR;1
+EUR_FinTradeBalance;20120105;07:00;Trade Balance;Finland;EUR;1
+AUD_TradeBalance;20120105;00:30;Trade Balance;Australia;AUD;2
+AUD_Imports;20120105;00:30;Imports;Australia;AUD;1
+AUD_Exports;20120105;00:30;Exports;Australia;AUD;1
+RUB_Bankholiday;20120105;00:00;Bank holiday;Russia;RUB;0

@@ -1,0 +1,34 @@
+GBP_RICSHousingPriceBalance;20140507;23:01;RICS Housing Price Balance;United Kingdom;GBP;1
+KRW_FXReserves;20140507;21:00;FX Reserves;South Korea;KRW;1
+USD_ConsumerCreditChange;20140507;19:00;Consumer Credit Change;United States;USD;2
+USD_Auction;20140507;17:00;10-Year Note Auction;United States;USD;1
+USD_EIACrudeOilStocksChange;20140507;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_CentralBankSpeech;20140507;14:00;Fed Chair Yellen speech;United States;USD;3
+HUF_BudgetBalance;20140507;14:00;Budget Balance;Hungary;HUF;1
+USD_NonfarmProductivity;20140507;12:30;Nonfarm Productivity;United States;USD;1
+USD_UnitLaborCosts;20140507;12:30;Unit Labor Costs;United States;USD;1
+CAD_BuildingPermits;20140507;12:30;Building Permits (MoM);Canada;CAD;2
+CLP_TradeBalance;20140507;12:30;Trade Balance;Chile;CLP;1
+BRL_IndustrialOutput;20140507;12:00;Industrial Output (YoY);Brazil;BRL;1
+PLN_CentralBankFXReserves;20140507;12:00;Central Bank FX Reserves;Poland;PLN;1
+CZK_CNBInterestRateDecision;20140507;11:00;CNB Interest Rate Decision;Czech Republic;CZK;1
+USD_MBAMortgageApplications;20140507;11:00;MBA Mortgage Applications;United States;USD;1
+PLN_NBPBaserate;20140507;10:30;NBP Base rate;Poland;PLN;1
+RUB_PurchasingManagerIndexServices;20140507;10:10;Purchasing Manager Index Services;Russia;RUB;1
+SGD_ForeignReserves;20140507;09:00;Foreign Reserves (MoM);Singapore;SGD;1
+CZK_FXReserves;20140507;08:00;FX Reserves;Czech Republic;CZK;1
+EUR_AusWholesalePrices;20140507;07:00;Wholesale Prices n.s.a (MoM);Austria;EUR;1
+CZK_RetailSales;20140507;07:00;Retail Sales (YoY);Czech Republic;CZK;1
+CZK_IndustrialProduction;20140507;07:00;Industrial Production (YoY);Czech Republic;CZK;1
+CHF_ForeignCurrencyReserves;20140507;07:00;Foreign Currency Reserves;Switzerland;CHF;2
+DKK_IndustrialProduction;20140507;07:00;Industrial Production (MoM);Denmark;DKK;1
+CZK_Constructionoutput;20140507;07:00;Construction output (YoY);Czech Republic;CZK;1
+EUR_FraImportsEUR;20140507;06:45;Imports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20140507;06:45;Trade Balance EUR;France;EUR;1
+EUR_FraExportsEUR;20140507;06:45;Exports, EUR;France;EUR;1
+EUR_FraIndustrialOutput;20140507;06:45;Industrial Output (MoM);France;EUR;1
+EUR_GerFactoryOrders;20140507;06:00;Factory Orders s.a. (MoM);Germany;EUR;2
+CHF_UnemploymentRate;20140507;05:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+HKD_NikkeiManufacturingPMI;20140507;02:30;Nikkei Manufacturing PMI;Hong Kong SAR;HKD;1
+CNY_CaixinServicesPMI;20140507;01:45;Caixin Services PMI;China;CNY;2
+AUD_RetailSales;20140507;01:30;Retail Sales s.a. (MoM);Australia;AUD;2

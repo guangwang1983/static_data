@@ -1,0 +1,15 @@
+AUD_WestpacLeadingIndex;20101019;23:30;Westpac Leading Index (MoM);Australia;AUD;1
+USD_CentralBankSpeech;20101019;20:00;Former Fed Chair Bernanke speech;United States;USD;2
+GBP_CentralBankSpeech;20101019;18:50;BoE Governor King speech;United Kingdom;GBP;1
+CAD_BoCInterestRateDecision;20101019;13:00;BoC Interest Rate Decision;Canada;CAD;3
+EUR_EurCentralBankSpeech;20101019;12:30;ECB President Trichet speech;European Monetary Union;EUR;2
+USD_HousingStarts;20101019;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20101019;12:30;Building Permits (MoM);United States;USD;1
+CNY_PBoCInterestRateDecision;20101019;11:30;PBoC Interest Rate Decision;China;CNY;3
+GBP_CBIIndustrialTrendsSurveyOrders;20101019;10:00;CBI Industrial Trends Survey - Orders (MoM);United Kingdom;GBP;1
+EUR_EurConstructionOutput;20101019;09:00;Construction Output  s.a (MoM);European Monetary Union;EUR;2
+EUR_EurZEWSurveyEconomicSentiment;20101019;09:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurveyEconomicSentiment;20101019;09:00;ZEW Survey - Economic Sentiment;Germany;EUR;2
+EUR_GerZEWSurveyCurrentSituation;20101019;09:00;ZEW Survey - Current Situation;Germany;EUR;2
+EUR_EurCurrentAccount;20101019;08:00;Current Account s.a;European Monetary Union;EUR;1
+AUD_RBAMeetingMinutes;20101019;00:30;RBA Meeting Minutes;Australia;AUD;1

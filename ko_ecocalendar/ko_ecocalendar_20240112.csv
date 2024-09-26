@@ -1,0 +1,55 @@
+AUD_InvestmentLendingforHomes;20240112;00:30;Investment Lending for Homes;Australia;AUD;1
+AUD_HomeLoans;20240112;00:30;Home Loans;Australia;AUD;1
+CNY_ConsumerPriceIndex;20240112;01:30;Consumer Price Index (MoM);China;CNY;2
+CNY_ProducerPriceIndex;20240112;01:30;Producer Price Index (YoY);China;CNY;2
+CNY_Imports;20240112;02:30;Imports (YoY);China;CNY;2
+CNY_TradeBalanceUSD;20240112;02:30;Trade Balance USD;China;CNY;2
+CNY_Exports;20240112;02:30;Exports (YoY) CNY;China;CNY;2
+CNY_TradeBalanceCNY;20240112;02:30;Trade Balance CNY;China;CNY;2
+JPY_EcoWatchersSurvey:Current;20240112;05:00;Eco Watchers Survey: Current;Japan;JPY;1
+JPY_EcoWatchersSurvey:Outlook;20240112;05:00;Eco Watchers Survey: Outlook;Japan;JPY;1
+TRY_CurrentAccount;20240112;07:00;Current Account Balance;Turkey;TRY;1
+GBP_IndustrialProduction;20240112;07:00;Industrial Production (MoM);United Kingdom;GBP;2
+GBP_ManufacturingProduction;20240112;07:00;Manufacturing Production (YoY);United Kingdom;GBP;2
+GBP_IndexofServices;20240112;07:00;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_TotalTradeBalance;20240112;07:00;Total Trade Balance;United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20240112;07:00;Goods Trade Balance;United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20240112;07:00;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_GrossDomesticProduct;20240112;07:00;Gross Domestic Product (MoM);United Kingdom;GBP;2
+RON_IndustrialProduction;20240112;07:00;Industrial Production (MoM);Romania;RON;1
+RON_GrossDomesticProduct;20240112;07:00;Gross Domestic Product;Romania;RON;1
+RON_ConsumerPriceIndex;20240112;07:00;Consumer Price Index;Romania;RON;1
+HUF_IndustrialOutput;20240112;07:30;Industrial Output (YoY);Hungary;HUF;1
+HUF_ConsumerPriceIndex;20240112;07:30;Core Consumer Price Index (YoY);Hungary;HUF;1
+EUR_FraConsumerPriceIndex;20240112;07:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraConsumerSpending;20240112;07:45;Consumer Spending (MoM);France;EUR;1
+EUR_FraInflationextobacco;20240112;07:45;Inflation ex-tobacco (MoM);France;EUR;1
+CZK_RetailSales;20240112;08:00;Retail Sales (YoY);Czech Republic;CZK;1
+CNY_FDIForeignDirectInvestment;20240112;09:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;1
+CZK_CurrentAccount;20240112;09:00;Current Account (MoM);Czech Republic;CZK;1
+CNY_M2MoneySupply;20240112;09:30;M2 Money Supply (YoY);China;CNY;1
+CNY_NewLoans;20240112;09:30;New Loans;China;CNY;1
+INR_BankLoanGrowth;20240112;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20240112;11:30;FX Reserves, USD;India;INR;1
+INR_ConsumerPriceIndex;20240112;12:00;Consumer Price Index (YoY);India;INR;1
+INR_ManufacturingOutput;20240112;12:00;Manufacturing Output;India;INR;1
+INR_IndustrialOutput;20240112;12:00;Industrial Output;India;INR;1
+INR_CumulativeIndustrialOutput;20240112;12:00;Cumulative Industrial Output;India;INR;1
+GBP_NIESRGDPEstimate;20240112;12:20;NIESR GDP Estimate (3M);United Kingdom;GBP;1
+EUR_EurCentralBankSpeech;20240112;12:30;ECB Lane speech;Eurozone;EUR;2
+PLN_CurrentAccount;20240112;13:00;Current Account;Poland;PLN;1
+RON_Interestratedecision;20240112;13:00;Interest rate decision;Romania;RON;1
+RUB_CentralBankReserves;20240112;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_ProducerPriceIndex;20240112;13:30;Producer Price Index ex Food & Energy (YoY);United States;USD;3
+USD_CentralBankSpeech;20240112;15:00;Fed Kashkari speech;United States;USD;2
+RUB_ConsumerPriceIndex;20240112;16:00;Consumer Price Index (MoM);Russia;RUB;1
+USD_USDAWASDEReport;20240112;17:00;USDA WASDE Report;United States;USD;1
+USD_GrainStockReport;20240112;17:00;Grain Stock Report;United States;USD;1
+USD_BakerHughesUSOilRigCount;20240112;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CFTCGoldNCNetPositions;20240112;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20240112;20:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20240112;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20240112;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20240112;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20240112;20:30;CFTC EUR NC Net Positions;Eurozone;EUR;1
+AUD_CFTCAUDNCNetPositions;20240112;20:30;CFTC AUD NC Net Positions;Australia;AUD;1

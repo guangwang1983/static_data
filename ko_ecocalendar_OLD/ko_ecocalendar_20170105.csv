@@ -1,0 +1,33 @@
+JPY_ForeignBondInvestment;20170105;23:50;Foreign Bond Investment;Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20170105;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+USD_EIACrudeOilStocksChange;20170105;16:00;EIA Crude Oil Stocks Change;United States;USD;1
+USD_EIANaturalGasStorageChange;20170105;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_ISMNonManufacturingPMI;20170105;15:00;ISM Non-Manufacturing PMI;United States;USD;2
+USD_MarkitServicesPMI;20170105;14:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20170105;14:45;Markit PMI Composite;United States;USD;2
+CAD_RawMaterialPriceIndex;20170105;13:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20170105;13:30;Industrial Product Price (MoM);Canada;CAD;1
+USD_JoblessClaims;20170105;13:30;Initial Jobless Claims;United States;USD;2
+GBP_CentralBankSpeech;20170105;13:30;BoE Haldane speech;United Kingdom;GBP;1
+USD_ADPEmploymentChange;20170105;13:15;ADP Employment Change;United States;USD;2
+PLN_CentralBankFXReserves;20170105;13:00;Central Bank FX Reserves;Poland;PLN;1
+USD_ChallengerJobCuts;20170105;12:30;Challenger Job Cuts;United States;USD;1
+CLP_IMACEC;20170105;11:30;IMACEC;Chile;CLP;1
+EUR_IreRetailSales;20170105;11:00;Retail Sales (MoM);Ireland;EUR;1
+BRL_IndustrialOutput;20170105;11:00;Industrial Output (YoY);Brazil;BRL;1
+EUR_FraAuction;20170105;10:20;10-y Bond Auction;France;EUR;1
+EUR_SpaAuction;20170105;10:00;10-y Obligaciones Auction;Spain;EUR;1
+EUR_EurProducerPriceIndex;20170105;10:00;Producer Price Index (MoM);European Monetary Union;EUR;1
+GBP_MarkitServicesPMI;20170105;09:30;Markit Services PMI;United Kingdom;GBP;1
+EUR_ItaPublicDeficitGDP;20170105;09:00;Public Deficit/GDP;Italy;EUR;1
+CHF_ConsumerPriceIndex;20170105;08:15;Consumer Price Index (YoY);Switzerland;CHF;2
+EUR_AusWholesalePrices;20170105;08:00;Wholesale Prices n.s.a (MoM);Austria;EUR;1
+HUF_UnemploymentRate;20170105;08:00;Unemployment Rate (3M);Hungary;HUF;1
+DKK_UnemploymentRate;20170105;08:00;Unemployment Rate;Denmark;DKK;1
+EUR_NetConsumerPriceIndex;20170105;06:30;Consumer Price Index n.s.a (YoY);Netherlands, The;EUR;1
+EUR_IrePurchasingManagerIndexServices;20170105;06:00;Purchasing Manager Index Services;Ireland;EUR;1
+JPY_VehicleSales;20170105;05:00;Vehicle Sales (YoY);Japan;JPY;1
+CNY_CaixinServicesPMI;20170105;01:45;Caixin Services PMI;China;CNY;2
+HKD_NikkeiManufacturingPMI;20170105;00:30;Nikkei Manufacturing PMI;Hong Kong SAR;HKD;1
+JPY_MarkitServicesPMI;20170105;00:30;Markit Services PMI;Japan;JPY;1
+RUB_Bankholiday;20170105;00:00;Bank holiday;Russia;RUB;0

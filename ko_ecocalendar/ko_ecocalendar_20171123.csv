@@ -1,0 +1,36 @@
+USD_ThanksgivingDay;20171123;00:00;Thanksgiving Day;United States;USD;0
+JPY_LaborThanksgivingDay;20171123;00:00;Labor Thanksgiving Day;Japan;JPY;0
+EUR_GerGrossDomesticProduct;20171123;07:00;Gross Domestic Product w.d.a (YoY);Germany;EUR;2
+EUR_FraBusinessClimateinManufacturing;20171123;07:45;Business Climate in Manufacturing;France;EUR;1
+EUR_FraHCOBManufacturingPMI;20171123;08:00;HCOB Manufacturing PMI;France;EUR;1
+EUR_FraHCOBServicesPMI;20171123;08:00;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20171123;08:00;HCOB Composite PMI;France;EUR;1
+EUR_GerHCOBCompositePMI;20171123;08:30;HCOB Composite PMI;Germany;EUR;2
+EUR_GerHCOBManufacturingPMI;20171123;08:30;HCOB Manufacturing PMI;Germany;EUR;2
+EUR_GerHCOBServicesPMI;20171123;08:30;HCOB Services PMI;Germany;EUR;2
+EUR_ItaTradeBalancenonEU;20171123;09:00;Trade Balance non-EU;Italy;EUR;1
+EUR_EurHCOBCompositePMI;20171123;09:00;HCOB Composite PMI;European Monetary Union;EUR;2
+EUR_EurHCOBServicesPMI;20171123;09:00;HCOB Services PMI;European Monetary Union;EUR;2
+EUR_EurHCOBManufacturingPMI;20171123;09:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+GBP_GrossDomesticProduct;20171123;09:30;Gross Domestic Product (YoY);United Kingdom;GBP;2
+GBP_TotalBusinessInvestment;20171123;09:30;Total Business Investment (QoQ);United Kingdom;GBP;1
+GBP_IndexofServices;20171123;09:30;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_CBIDistributiveTradesSurvey–Realized;20171123;11:00;CBI Distributive Trades Survey – Realized (MoM);United Kingdom;GBP;1
+BRL_MidmonthInflation;20171123;11:00;Mid-month Inflation;Brazil;BRL;1
+EUR_EurECBMonetaryPolicyMeetingAccounts;20171123;12:30;ECB Monetary Policy Meeting Accounts;European Monetary Union;EUR;3
+RUB_CentralBankReserves;20171123;13:00;Central Bank Reserves $;Russia;RUB;1
+ZAR_SARBInterestRateDecision;20171123;13:00;SARB Interest Rate Decision;South Africa;ZAR;1
+PLN_M3MoneySupply;20171123;13:00;M3 Money Supply (YoY);Poland;PLN;1
+BRL_CurrentAccount;20171123;13:30;Current Account;Brazil;BRL;1
+CAD_RetailSales;20171123;13:30;Retail Sales ex Autos (MoM);Canada;CAD;1
+MXN_RetailSales;20171123;14:00;Retail Sales (YoY);Mexico;MXN;1
+MXN_1sthalfmonthCoreInflation;20171123;14:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20171123;14:00;1st half-month Inflation;Mexico;MXN;1
+CHF_CentralBankSpeech;20171123;16:30;SNB Chairman Jordan speech;Switzerland;CHF;2
+EUR_EurCentralBankSpeech;20171123;18:15;ECB Cœuré speech;European Monetary Union;EUR;2
+KRW_ConsumerSentimentIndex;20171123;21:00;Consumer Sentiment Index;South Korea;KRW;1
+NZD_Exports;20171123;21:45;Exports;New Zealand;NZD;2
+NZD_TradeBalanceNZD;20171123;21:45;Trade Balance NZD (YoY);New Zealand;NZD;2
+NZD_Imports;20171123;21:45;Imports;New Zealand;NZD;2
+JPY_ForeignInvestmentinJapanStocks;20171123;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20171123;23:50;Foreign Bond Investment;Japan;JPY;2

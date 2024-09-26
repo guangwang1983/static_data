@@ -1,0 +1,12 @@
+CNY_TradeBalanceCNY;20150713;02:00;Trade Balance CNY;China;CNY;2
+CNY_Imports;20150713;02:46;Imports (YoY);China;CNY;2
+CNY_Exports;20150713;02:46;Exports (YoY);China;CNY;2
+JPY_TertiaryIndustryIndex;20150713;04:30;Tertiary Industry Index (MoM);Japan;JPY;2
+JPY_IndustrialProduction;20150713;04:30;Industrial Production (YoY);Japan;JPY;2
+JPY_CapacityUtilization;20150713;04:30;Capacity Utilization;Japan;JPY;1
+CNY_TradeBalanceUSD;20150713;04:31;Trade Balance USD;China;CNY;2
+GBP_BoECreditConditionsSurvey;20150713;08:30;BoE Credit Conditions Survey;United Kingdom;GBP;1
+EUR_EurEurogroupMeeting;20150713;11:00;Eurogroup Meeting;European Monetary Union;EUR;2
+USD_Auction;20150713;15:30;3-Month Bill Auction;United States;USD;1
+USD_MonthlyBudgetStatement;20150713;18:00;Monthly Budget Statement;United States;USD;2
+GBP_RetailSales;20150713;23:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2

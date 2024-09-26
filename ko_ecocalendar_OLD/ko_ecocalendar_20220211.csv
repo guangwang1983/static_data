@@ -1,0 +1,29 @@
+NZD_RBNZInflationExpectations;20220211;02:00;RBNZ Inflation Expectations (QoQ);New Zealand;NZD;2
+TRY_IndustrialProduction;20220211;07:00;Industrial Production (YoY);Turkey;TRY;1
+TRY_CurrentAccount;20220211;07:00;Current Account Balance;Turkey;TRY;1
+GBP_GrossDomesticProduct;20220211;07:00;Gross Domestic Product (YoY);United Kingdom;GBP;2
+GBP_ManufacturingProduction;20220211;07:00;Manufacturing Production (YoY);United Kingdom;GBP;2
+GBP_IndustrialProduction;20220211;07:00;Industrial Production (MoM);United Kingdom;GBP;2
+GBP_TotalBusinessInvestment;20220211;07:00;Total Business Investment (YoY);United Kingdom;GBP;1
+GBP_IndexofServices;20220211;07:00;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20220211;07:00;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20220211;07:00;Total Trade Balance;United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20220211;07:00;Goods Trade Balance;United Kingdom;GBP;1
+CHF_ConsumerPriceIndex;20220211;07:30;Consumer Price Index (MoM);Switzerland;CHF;1
+HUF_IndustrialOutput;20220211;08:00;Industrial Output (YoY);Hungary;HUF;1
+HUF_ConsumerPriceIndex;20220211;08:00;Consumer Price Index (YoY);Hungary;HUF;1
+EUR_EurCentralBankSpeech;20220211;08:05;ECB Elderson speech;European Monetary Union;EUR;2
+RUB_Interestratedecision;20220211;10:30;Interest rate decision;Russia;RUB;2
+MXN_IndustrialOutput;20220211;12:00;Industrial Output (MoM);Mexico;MXN;1
+RUB_ForeignTrade;20220211;13:00;Foreign Trade;Russia;RUB;1
+GBP_NIESRGDPEstimate;20220211;14:00;NIESR GDP Estimate (3M);United Kingdom;GBP;2
+USD_MichiganConsumerSentimentIndex;20220211;15:00;Michigan Consumer Sentiment Index;United States;USD;3
+USD_FedMonetaryPolicyReport;20220211;16:00;Fed Monetary Policy Report;United States;USD;2
+USD_BakerHughesUSOilRigCount;20220211;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20220211;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20220211;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20220211;20:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20220211;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20220211;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20220211;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20220211;20:30;CFTC AUD NC Net Positions;Australia;AUD;1

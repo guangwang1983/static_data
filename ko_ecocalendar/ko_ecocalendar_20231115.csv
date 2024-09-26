@@ -1,0 +1,50 @@
+AUD_WagePriceIndex;20231115;00:30;Wage Price Index (QoQ);Australia;AUD;2
+CNY_RetailSales;20231115;02:00;Retail Sales (YoY);China;CNY;3
+CNY_IndustrialProduction;20231115;02:00;Industrial Production (YoY);China;CNY;3
+CNY_FixedAssetInvestment;20231115;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+KRW_TradeBalance;20231115;02:00;Trade Balance;South Korea;KRW;1
+BRL_RepublicDay;20231115;03:00;Republic Day;Brazil;BRL;0
+IDR_Exports;20231115;04:00;Exports;Indonesia;IDR;1
+IDR_TradeBalance;20231115;04:00;Trade Balance;Indonesia;IDR;1
+IDR_Imports;20231115;04:00;Imports;Indonesia;IDR;1
+JPY_IndustrialProduction;20231115;04:30;Industrial Production (MoM);Japan;JPY;1
+JPY_CapacityUtilization;20231115;04:30;Capacity Utilization;Japan;JPY;1
+EUR_GerWholesalePriceIndex;20231115;07:00;Wholesale Price Index (MoM);Germany;EUR;1
+GBP_RetailPriceIndex;20231115;07:00;Retail Price Index (YoY);United Kingdom;GBP;2
+GBP_ProducerPriceIndex;20231115;07:00;Producer Price Index - Input (MoM) n.s.a;United Kingdom;GBP;1
+GBP_PPICoreOutput;20231115;07:00;PPI Core Output (YoY) n.s.a ;United Kingdom;GBP;2
+GBP_ConsumerPriceIndex;20231115;07:00;Consumer Price Index (MoM);United Kingdom;GBP;3
+NOK_TradeBalance;20231115;07:00;Trade Balance;Norway;NOK;1
+EUR_FraILOUnemployment;20231115;07:30;ILO Unemployment;France;EUR;1
+EUR_FraConsumerPriceIndex;20231115;07:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraInflationextobacco;20231115;07:45;Inflation ex-tobacco (MoM);France;EUR;1
+TRY_BudgetBalance;20231115;08:00;Budget Balance;Turkey;TRY;1
+EUR_EurNonMonetaryPolicyECBMeeting;20231115;08:00;Non-Monetary Policy ECB Meeting;Eurozone;EUR;1
+EUR_ItaConsumerPriceIndex;20231115;09:00;Consumer Price Index (EU Norm) (MoM);Italy;EUR;1
+PLN_ConsumerPriceIndex;20231115;09:00;Consumer Price Index (MoM);Poland;PLN;1
+GBP_DCLGHousePriceIndex;20231115;09:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_BoEMonetaryPolicyReportHearings;20231115;09:30;BoE Monetary Policy Report Hearings;United Kingdom;GBP;3
+EUR_EurTradeBalance;20231115;10:00;Trade Balance n.s.a.;Eurozone;EUR;1
+EUR_EurIndustrialProduction;20231115;10:00;Industrial Production s.a. (MoM);Eurozone;EUR;2
+ILS_M1MoneySupply;20231115;10:00;M1 Money Supply (MoM);Israel;ILS;1
+EUR_GerAuction;20231115;10:30;30-y Bond Auction;Germany;EUR;1
+ZAR_RetailSales;20231115;11:00;Retail Sales (YoY);South Africa;ZAR;1
+INR_M3MoneySupply;20231115;11:30;M3 Money Supply;India;INR;1
+USD_MBAMortgageApplications;20231115;12:00;MBA Mortgage Applications;United States;USD;1
+INR_TradeDeficitGovernment;20231115;13:20;Trade Deficit Government;India;INR;1
+USD_NYEmpireStateManufacturingIndex;20231115;13:30;NY Empire State Manufacturing Index;United States;USD;2
+USD_RetailSales;20231115;13:30;Retail Sales ex Autos (MoM);United States;USD;2
+USD_ProducerPriceIndex;20231115;13:30;Producer Price Index (MoM);United States;USD;2
+CAD_ManufacturingSales;20231115;13:30;Manufacturing Sales (MoM);Canada;CAD;1
+CAD_WholesaleSales;20231115;13:30;Wholesale Sales (MoM);Canada;CAD;1
+USD_BusinessInventories;20231115;15:00;Business Inventories;United States;USD;1
+USD_EIACrudeOilStocksChange;20231115;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+COP_GrossDomesticProduct;20231115;16:00;Gross Domestic Product (YoY);Colombia;COP;1
+ILS_ConsumerPriceIndex;20231115;16:30;Consumer Price Index (YoY);Israel;ILS;1
+JPY_Exports;20231115;23:50;Exports (YoY);Japan;JPY;2
+JPY_Imports;20231115;23:50;Imports (YoY);Japan;JPY;2
+JPY_MerchandiseTradeBalanceTotal;20231115;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20231115;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_ForeignBondInvestment;20231115;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20231115;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_MachineryOrders;20231115;23:50;Machinery Orders (MoM);Japan;JPY;1

@@ -1,0 +1,33 @@
+JPY_MerchandiseTradeBalanceTotal;20170919;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Imports;20170919;23:50;Imports (YoY);Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20170919;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;2
+JPY_Exports;20170919;23:50;Exports (YoY);Japan;JPY;2
+NZD_CurrentAccount;20170919;22:45;Current Account (QoQ);New Zealand;NZD;1
+USD_APIWeeklyCrudeOilStock;20170919;20:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_Auction;20170919;16:30;4-Week Bill Auction;United States;USD;1
+NZD_GDTPriceIndex;20170919;14:33;GDT Price Index;New Zealand;NZD;1
+EUR_BelConsumerConfidenceIndex;20170919;13:00;Consumer Confidence Index;Belgium;EUR;1
+RUB_UnemploymentRate;20170919;13:00;Unemployment Rate;Russia;RUB;1
+USD_RedbookIndex;20170919;12:55;Redbook Index (MoM);United States;USD;1
+USD_HousingStarts;20170919;12:30;Housing Starts (MoM);United States;USD;2
+USD_HousingStartsChange;20170919;12:30;Housing Starts Change;United States;USD;2
+USD_BuildingPermitsChange;20170919;12:30;Building Permits Change;United States;USD;2
+USD_BuildingPermits;20170919;12:30;Building Permits (MoM);United States;USD;2
+USD_CurrentAccount;20170919;12:30;Current Account;United States;USD;1
+CAD_ManufacturingShipments;20170919;12:30;Manufacturing Shipments (MoM);Canada;CAD;1
+USD_ImportPriceIndex;20170919;12:30;Import Price Index (MoM);United States;USD;1
+USD_ExportPriceIndex;20170919;12:30;Export Price Index (MoM);United States;USD;1
+HUF_MNBInterestRateDecision;20170919;12:30;MNB Interest Rate Decision;Hungary;HUF;1
+PLN_RetailSales;20170919;12:00;Retail Sales (YoY);Poland;PLN;1
+PLN_IndustrialOutput;20170919;12:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20170919;12:00;Producer Price Index (YoY);Poland;PLN;1
+GBP_Auction;20170919;09:42;30-y Bond Auction;United Kingdom;GBP;1
+EUR_SpaAuction;20170919;09:14;9-Month Letras Auction;Spain;EUR;1
+EUR_EurConstructionOutput;20170919;09:00;Construction Output  s.a (MoM);European Monetary Union;EUR;1
+EUR_EurZEWSurveyEconomicSentiment;20170919;09:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;1
+EUR_GerZEWSurveyEconomicSentiment;20170919;09:00;ZEW Survey - Economic Sentiment;Germany;EUR;2
+EUR_GerZEWSurveyCurrentSituation;20170919;09:00;ZEW Survey - Current Situation;Germany;EUR;2
+EUR_EurCurrentAccount;20170919;08:00;Current Account n.s.a;European Monetary Union;EUR;1
+AUD_HousePriceIndex;20170919;01:30;House Price Index (QoQ);Australia;AUD;2
+AUD_RBAMeetingMinutes;20170919;01:30;RBA Meeting Minutes;Australia;AUD;3
+CLP_ArmyDay;20170919;00:00;Army Day;Chile;CLP;0

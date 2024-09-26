@@ -1,0 +1,34 @@
+JPY_DomesticCorporateGoodsPriceIndex;20170912;23:50;Domestic Corporate Goods Price Index (YoY);Japan;JPY;1
+JPY_BSILargeManufacturingConditionsIndex;20170912;23:50;BSI Large Manufacturing Conditions Index (QoQ);Japan;JPY;1
+KRW_UnemploymentRate;20170912;23:00;Unemployment Rate;South Korea;KRW;1
+NZD_FoodPriceIndex;20170912;22:45;Food Price Index (MoM);New Zealand;NZD;1
+KRW_ImportPriceGrowth;20170912;21:00;Import Price Growth (YoY);South Korea;KRW;1
+KRW_ExportPriceGrowth;20170912;21:00;Export Price Growth (YoY);South Korea;KRW;1
+USD_APIWeeklyCrudeOilStock;20170912;20:30;API Weekly Crude Oil Stock;United States;USD;1
+ARS_ConsumerPriceIndex;20170912;19:00;Consumer Price Index (MoM);Argentina;ARS;1
+USD_Auction;20170912;15:30;52-Week Bill Auction;United States;USD;1
+USD_JOLTSJobOpenings;20170912;14:00;JOLTS Job Openings;United States;USD;1
+EUR_EurCentralBankSpeech;20170912;13:45;ECB Constancio speech;European Monetary Union;EUR;1
+USD_RedbookIndex;20170912;12:55;Redbook Index (MoM);United States;USD;1
+PLN_NetInflation;20170912;12:00;Net Inflation;Poland;PLN;1
+BRL_RetailSales;20170912;12:00;Retail Sales (MoM);Brazil;BRL;1
+INR_IndustrialOutput;20170912;11:30;Industrial Output;India;INR;1
+INR_ManufacturingOutput;20170912;11:30;Manufacturing Output;India;INR;1
+INR_CumulativeIndustrialOutput;20170912;11:30;Cumulative Industrial Output;India;INR;1
+EUR_SpaAuction;20170912;10:02;12-Month Letras Auction;Spain;EUR;1
+EUR_PorConsumerPriceIndex;20170912;10:01;Consumer Price Index (YoY);Portugal;EUR;1
+USD_NFIBBusinessOptimismIndex;20170912;10:00;NFIB Business Optimism Index;United States;USD;1
+GBP_RetailPriceIndex;20170912;08:30;Retail Price Index (MoM);United Kingdom;GBP;1
+GBP_DCLGHousePriceIndex;20170912;08:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ProducerPriceIndex;20170912;08:30;Producer Price Index - Output (YoY) n.s.a;United Kingdom;GBP;2
+GBP_PPICoreOutput;20170912;08:30;PPI Core Output (MoM) n.s.a;United Kingdom;GBP;2
+GBP_ConsumerPriceIndex;20170912;08:30;Core Consumer Price Index (YoY);United Kingdom;GBP;2
+SEK_ConsumerPriceIndex;20170912;07:30;Consumer Price Index (YoY);Sweden;SEK;1
+DKK_UnemploymentRate;20170912;07:00;Unemployment Rate;Denmark;DKK;1
+RON_IndustrialProduction;20170912;06:00;Industrial Production (MoM);Romania;RON;2
+RON_ConsumerPriceIndex;20170912;06:00;Consumer Price Index;Romania;RON;1
+EUR_FraNonfarmPayrolls;20170912;05:30;Nonfarm Payrolls (QoQ);France;EUR;1
+SGD_RetailSales;20170912;05:00;Retail Sales (MoM);Singapore;SGD;1
+KRW_MoneySupplyGrowth;20170912;03:00;Money Supply Growth;South Korea;KRW;1
+AUD_NationalAustraliaBankBusinessConfidence;20170912;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20170912;01:30;National Australia Bank Business Conditions;Australia;AUD;1

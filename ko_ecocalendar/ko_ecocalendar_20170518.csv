@@ -1,0 +1,28 @@
+AUD_ConsumerInflationExpectations;20170518;01:00;Consumer Inflation Expectations;Australia;AUD;2
+CNY_HousePriceIndex;20170518;01:30;House Price Index ;China;CNY;1
+AUD_RBAForeignExchangeTransaction;20170518;01:30;RBA Foreign Exchange Transaction;Australia;AUD;1
+AUD_EmploymentChange;20170518;01:30;Employment Change s.a.;Australia;AUD;3
+AUD_PartTimeEmployment;20170518;01:30;Part-Time Employment;Australia;AUD;2
+AUD_FullTimeEmployment;20170518;01:30;Full-Time Employment;Australia;AUD;2
+AUD_ParticipationRate;20170518;01:30;Participation Rate;Australia;AUD;2
+AUD_UnemploymentRate;20170518;01:30;Unemployment Rate s.a.;Australia;AUD;3
+CNY_FDIForeignDirectInvestment;20170518;02:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+EUR_FraILOUnemployment;20170518;05:30;ILO Unemployment;France;EUR;1
+TRY_ConsumerConfidence;20170518;07:00;Consumer Confidence;Turkey;TRY;1
+CZK_ProducerPriceIndex;20170518;07:00;Producer Price Index (MoM);Czech Republic;CZK;1
+IDR_BankIndonesiaRate;20170518;08:00;Bank Indonesia Rate;Indonesia;IDR;1
+GBP_RetailSales;20170518;08:30;Retail Sales (YoY);United Kingdom;GBP;2
+CLP_GrossDomesticProduct;20170518;11:30;Gross Domestic Product (YoY);Chile;CLP;1
+EUR_EurECBMonetaryPolicyMeetingAccounts;20170518;11:30;ECB Monetary Policy Meeting Accounts;European Monetary Union;EUR;3
+PLN_CorporateSectorWages;20170518;12:00;Corporate Sector Wages;Poland;PLN;1
+USD_JoblessClaims;20170518;12:30;Initial Jobless Claims;United States;USD;2
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20170518;12:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20170518;12:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+USD_PhiladelphiaFedManufacturingSurvey;20170518;12:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+RUB_CentralBankReserves;20170518;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_EIANaturalGasStorageChange;20170518;14:30;EIA Natural Gas Storage Change;United States;USD;1
+COP_TradeBalance;20170518;15:00;Trade Balance;Colombia;COP;1
+EUR_EurCentralBankSpeech;20170518;17:00;ECB President Draghi speech;European Monetary Union;EUR;3
+USD_CentralBankSpeech;20170518;17:15;Fed Mester speech;United States;USD;1
+CLP_BCCHInterestRate;20170518;21:00;BCCH Interest Rate;Chile;CLP;1
+NZD_VisitorArrivals;20170518;22:45;Visitor Arrivals (YoY);New Zealand;NZD;1

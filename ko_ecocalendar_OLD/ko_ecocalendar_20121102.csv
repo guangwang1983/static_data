@@ -1,0 +1,26 @@
+USD_CentralBankSpeech;20121102;18:25;Fed Williams speech;United States;USD;2
+DKK_CurrencyReserves;20121102;15:00;Currency Reserves;Denmark;DKK;1
+USD_FactoryOrders;20121102;14:00;Factory Orders (MoM);United States;USD;2
+USD_NonfarmPayrolls;20121102;12:30;Nonfarm Payrolls;United States;USD;3
+USD_AverageHourlyEarnings;20121102;12:30;Average Hourly Earnings (MoM);United States;USD;2
+USD_UnemploymentRate;20121102;12:30;Unemployment Rate;United States;USD;3
+USD_AverageWeeklyHours;20121102;12:30;Average Weekly Hours;United States;USD;1
+CAD_ParticipationRate;20121102;12:30;Participation Rate;Canada;CAD;1
+CAD_NetChangeinEmployment;20121102;12:30;Net Change in Employment;Canada;CAD;3
+CAD_UnemploymentRate;20121102;12:30;Unemployment Rate;Canada;CAD;3
+INR_FXReservesUSD;20121102;11:30;FX Reserves, USD;India;INR;1
+EUR_AusUnemployment;20121102;11:00;Unemployment;Austria;EUR;1
+ZAR_TotalNewVehicleSales;20121102;10:00;Total New Vehicle Sales;South Africa;ZAR;1
+EUR_AusUnemploymentRate;20121102;10:00;Unemployment Rate;Austria;EUR;1
+GBP_MarkitConstructionPMI;20121102;09:30;Markit Construction PMI;United Kingdom;GBP;2
+EUR_EurMarkitManufacturingPMI;20121102;08:58;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_GerMarkitManufacturingPMI;20121102;08:53;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20121102;08:48;Markit Manufacturing PMI;France;EUR;1
+EUR_ItaMarkitManufacturingPMI;20121102;08:43;Markit Manufacturing PMI;Italy;EUR;1
+EUR_SpaMarkitManufacturingPMI;20121102;08:13;Markit Manufacturing PMI;Spain;EUR;1
+EUR_IrePurchasingManagerIndexManufacturing;20121102;05:58;Purchasing Manager Index Manufacturing;Ireland;EUR;1
+AUD_ProducerPriceIndex;20121102;00:30;Producer Price Index (YoY);Australia;AUD;1
+MXN_DayoftheDead;20121102;00:00;Day of the Dead ;Mexico;MXN;0
+INR_GuruNanakBirthday;20121102;00:00;Guru Nanak Birthday ;India;INR;0
+NZD_ANZCommodityPrice;20121102;00:00;ANZ Commodity Price;New Zealand;NZD;1
+BRL_AllSoulsDay;20121102;00:00;All Souls Day;Brazil;BRL;0

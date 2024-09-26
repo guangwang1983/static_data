@@ -1,0 +1,58 @@
+JPY_BankLending;20190307;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_GrossDomesticProduct;20190307;23:50;Gross Domestic Product Annualized;Japan;JPY;2
+JPY_CurrentAccount;20190307;23:50;Current Account n.s.a.;Japan;JPY;1
+JPY_TradeBalanceBOPBasis;20190307;23:50;Trade Balance - BOP Basis;Japan;JPY;1
+JPY_LaborCashEarnings;20190307;23:30;Labor Cash Earnings (YoY);Japan;JPY;1
+JPY_OverallHouseholdSpending;20190307;23:30;Overall Household Spending (YoY);Japan;JPY;2
+KRW_CurrentAccount;20190307;23:00;Current Account Balance;South Korea;KRW;1
+NZD_ManufacturingSales;20190307;21:45;Manufacturing Sales;New Zealand;NZD;1
+USD_ConsumerCreditChange;20190307;20:00;Consumer Credit Change;United States;USD;1
+CAD_CentralBankSpeech;20190307;17:45;BoC Patterson speech;Canada;CAD;1
+USD_CentralBankSpeech;20190307;17:15;Fed Brainard speech;United States;USD;2
+USD_Auction;20190307;16:30;4-Week Bill Auction;United States;USD;1
+USD_EIANaturalGasStorageChange;20190307;15:30;EIA Natural Gas Storage Change;United States;USD;1
+TRY_TreasuryCashBalance;20190307;14:30;Treasury Cash Balance;Turkey;TRY;1
+MXN_12MonthInflation;20190307;14:00;12-Month Inflation;Mexico;MXN;1
+MXN_CoreInflation;20190307;14:00;Core Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20190307;14:00;Headline Inflation;Mexico;MXN;1
+USD_JoblessClaims;20190307;13:30;Continuing Jobless Claims;United States;USD;2
+USD_NonfarmProductivity;20190307;13:30;Nonfarm Productivity;United States;USD;2
+USD_UnitLaborCosts;20190307;13:30;Unit Labor Costs;United States;USD;2
+CAD_BuildingPermits;20190307;13:30;Building Permits (MoM);Canada;CAD;1
+EUR_EurECBMonetaryPolicyStatementandPressConference;20190307;13:30;ECB Monetary Policy Statement and Press Conference;European Monetary Union;EUR;3
+RUB_CentralBankReserves;20190307;13:00;Central Bank Reserves $;Russia;RUB;1
+PLN_CentralBankFXReserves;20190307;13:00;Central Bank FX Reserves;Poland;PLN;1
+EUR_EurECBInterestRateDecision;20190307;12:45;ECB Interest Rate Decision;European Monetary Union;EUR;3
+EUR_EurECBDepositRateDecision;20190307;12:45;ECB Deposit Rate Decision;European Monetary Union;EUR;3
+USD_ChallengerJobCuts;20190307;12:30;Challenger Job Cuts;United States;USD;1
+CLP_TradeBalance;20190307;11:30;Trade Balance;Chile;CLP;1
+EUR_SpaAuction;20190307;10:15;5-y Bond Auction;Spain;EUR;1
+EUR_FraAuction;20190307;10:05;10-y Bond Auction;France;EUR;1
+EUR_EurGrossDomesticProduct;20190307;10:00;Gross Domestic Product s.a. (QoQ);European Monetary Union;EUR;3
+SGD_ForeignReserves;20190307;10:00;Foreign Reserves (MoM);Singapore;SGD;1
+EUR_GreUnemploymentRate;20190307;10:00;Unemployment Rate (MoM);Greece;EUR;1
+EUR_EurEmploymentChange;20190307;10:00;Employment Change (YoY);European Monetary Union;EUR;1
+EUR_GreGrossDomesticProduct;20190307;10:00;Gross Domestic Product s.a (YoY);Greece;EUR;1
+GBP_CentralBankSpeech;20190307;09:30;BoE Tenreyro speech;United Kingdom;GBP;2
+EUR_ItaRetailSales;20190307;09:00;Retail Sales n.s.a (YoY);Italy;EUR;1
+CNY_ForeignExchangeReserves;20190307;09:00;Foreign Exchange Reserves (MoM);China;CNY;1
+CZK_FXReserves;20190307;09:00;FX Reserves;Czech Republic;CZK;1
+GBP_HalifaxHousePrices;20190307;08:30;Halifax House Prices (MoM);United Kingdom;GBP;1
+CHF_ForeignCurrencyReserves;20190307;08:11;Foreign Currency Reserves;Switzerland;CHF;1
+HUF_IndustrialOutput;20190307;08:00;Industrial Output (YoY);Hungary;HUF;1
+EUR_AusWholesalePrices;20190307;08:00;Wholesale Prices n.s.a (YoY);Austria;EUR;1
+BRL_FipeIPCInflation;20190307;08:00;Fipe IPC Inflation;Brazil;BRL;1
+EUR_SloGrossDomesticProduct;20190307;08:00;Gross Domestic Product Qtr Final (YoY);Slovakia;EUR;1
+RON_GrossDomesticProduct;20190307;07:00;Gross Domestic Product;Romania;RON;1
+DKK_IndustrialProduction;20190307;07:00;Industrial Production (MoM);Denmark;DKK;1
+NOK_ManufacturingOutput;20190307;07:00;Manufacturing Output;Norway;NOK;1
+CHF_UnemploymentRate;20190307;06:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+ZAR_Gross$Gold&ForexReserve;20190307;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+ZAR_Net$Gold&ForexReserve;20190307;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+EUR_NetConsumerPriceIndex;20190307;05:30;Consumer Price Index n.s.a (YoY);Netherlands, The;EUR;1
+JPY_CoincidentIndex;20190307;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20190307;05:00;Leading Economic Index;Japan;JPY;2
+AUD_RetailSales;20190307;00:30;Retail Sales s.a. (MoM);Australia;AUD;2
+AUD_Exports;20190307;00:30;Exports;Australia;AUD;2
+AUD_Imports;20190307;00:30;Imports;Australia;AUD;2
+AUD_TradeBalance;20190307;00:30;Trade Balance;Australia;AUD;2

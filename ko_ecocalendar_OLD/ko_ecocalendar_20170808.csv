@@ -1,0 +1,39 @@
+JPY_MoneySupplyM2+CD;20170808;23:50;Money Supply M2+CD (YoY);Japan;JPY;1
+KRW_UnemploymentRate;20170808;23:00;Unemployment Rate;South Korea;KRW;1
+AUD_CentralBankSpeech;20170808;22:35;RBA Kent speech;Australia;AUD;2
+USD_APIWeeklyCrudeOilStock;20170808;20:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_Auction;20170808;17:00;3-Year Note Auction;United States;USD;1
+USD_JOLTSJobOpenings;20170808;14:00;JOLTS Job Openings;United States;USD;1
+USD_IBDTIPPEconomicOptimism;20170808;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+USD_RedbookIndex;20170808;12:55;Redbook Index (MoM);United States;USD;1
+CLP_ConsumerPriceIndex;20170808;12:00;Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+USD_NFIBBusinessOptimismIndex;20170808;10:00;NFIB Business Optimism Index;United States;USD;1
+ZAR_BusinessConfidenceIndex;20170808;09:30;Business Confidence Index;South Africa;ZAR;1
+EUR_GreIndustrialProduction;20170808;09:18;Industrial Production (YoY);Greece;EUR;1
+CZK_FXReserves;20170808;08:00;FX Reserves;Czech Republic;CZK;1
+TRY_IndustrialProduction;20170808;07:02;Industrial Production (YoY);Turkey;TRY;1
+CZK_UnemploymentRate;20170808;07:00;Unemployment Rate;Czech Republic;CZK;1
+HUF_ConsumerPriceIndex;20170808;07:00;Consumer Price Index (YoY);Hungary;HUF;1
+EUR_AusTradeBalance;20170808;07:00;Trade Balance;Austria;EUR;1
+HUF_TradeBalance;20170808;07:00;Trade Balance;Hungary;HUF;1
+EUR_FraImportsEUR;20170808;06:45;Imports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20170808;06:45;Trade Balance EUR;France;EUR;1
+EUR_FraExportsEUR;20170808;06:45;Exports, EUR;France;EUR;1
+EUR_FraCurrentAccount;20170808;06:45;Current Account;France;EUR;1
+EUR_FraBudget;20170808;06:45;Budget;France;EUR;1
+USD_OPECMeeting;20170808;06:00;OPEC Meeting;United States;USD;2
+NOK_CreditIndicator;20170808;06:00;Credit Indicator;Norway;NOK;1
+EUR_GerCurrentAccount;20170808;06:00;Current Account n.s.a.;Germany;EUR;2
+EUR_GerExports;20170808;06:00;Exports (MoM);Germany;EUR;2
+EUR_GerTradeBalance;20170808;06:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerImports;20170808;06:00;Imports (MoM);Germany;EUR;2
+CHF_UnemploymentRate;20170808;05:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+JPY_EcoWatchersSurvey:Outlook;20170808;05:00;Eco Watchers Survey: Outlook;Japan;JPY;2
+JPY_EcoWatchersSurvey:Current;20170808;05:00;Eco Watchers Survey: Current;Japan;JPY;2
+EUR_NetConsumerPriceIndex;20170808;04:30;Consumer Price Index n.s.a (YoY);Netherlands, The;EUR;1
+CNY_TradeBalanceUSD;20170808;03:02;Trade Balance USD;China;CNY;2
+CNY_Exports;20170808;02:00;Exports (YoY) CNY;China;CNY;2
+CNY_Imports;20170808;02:00;Imports (YoY) CNY;China;CNY;2
+CNY_TradeBalanceCNY;20170808;02:00;Trade Balance CNY;China;CNY;2
+AUD_NationalAustraliaBankBusinessConfidence;20170808;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20170808;01:30;National Australia Bank Business Conditions;Australia;AUD;1

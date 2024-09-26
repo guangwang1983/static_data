@@ -1,0 +1,36 @@
+JPY_GrossDomesticProduct;20120516;23:50;Gross Domestic Product (QoQ);Japan;JPY;3
+NZD_ProducerPriceIndex;20120516;22:45;Producer Price Index - Output (QoQ);New Zealand;NZD;1
+COP_TradeBalance;20120516;19:00;Trade Balance;Colombia;COP;1
+USD_FOMCMinutes;20120516;18:00;FOMC Minutes;United States;USD;3
+USD_CentralBankSpeech;20120516;16:30;Fed Bullard speech;United States;USD;1
+USD_EIACrudeOilStocksChange;20120516;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_IndustrialProduction;20120516;13:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20120516;13:15;Capacity Utilization;United States;USD;1
+USD_HousingStarts;20120516;12:30;Housing Starts (MoM);United States;USD;1
+USD_BuildingPermits;20120516;12:30;Building Permits (MoM);United States;USD;1
+CAD_ManufacturingShipments;20120516;12:30;Manufacturing Shipments (MoM);Canada;CAD;1
+PLN_CurrentAccount;20120516;12:00;Current Account;Poland;PLN;1
+EUR_GerAuction;20120516;11:45;10-y Bond Auction;Germany;EUR;2
+USD_MBAMortgageApplications;20120516;11:00;MBA Mortgage Applications;United States;USD;1
+ZAR_RetailSales;20120516;11:00;Retail Sales (YoY);South Africa;ZAR;1
+INR_M3MoneySupply;20120516;10:30;M3 Money Supply;India;INR;1
+EUR_PorUnemploymentRate;20120516;10:00;Unemployment Rate;Portugal;EUR;1
+GBP_BankofEnglandQuarterlyInflationReport;20120516;09:30;Bank of England Quarterly Inflation Report;United Kingdom;GBP;3
+ISK_CBIInterestRateDecision;20120516;09:00;CBI Interest Rate Decision;Iceland;ISK;1
+EUR_EurTradeBalance;20120516;09:00;Trade Balance n.s.a.;European Monetary Union;EUR;1
+CHF_ZEWSurveyExpectations;20120516;09:00;ZEW Survey - Expectations;Switzerland;CHF;2
+EUR_EurConsumerPriceIndex;20120516;09:00;Consumer Price Index (YoY);European Monetary Union;EUR;3
+GBP_AverageEarningsExcludingBonus;20120516;08:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;1
+GBP_AverageEarningsIncludingBonus;20120516;08:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountChange;20120516;08:30;Claimant Count Change;United Kingdom;GBP;3
+GBP_ClaimantCountRate;20120516;08:30;Claimant Count Rate;United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20120516;08:30;ILO Unemployment Rate (3M);United Kingdom;GBP;2
+EUR_ItaTradeBalanceEU;20120516;08:00;Trade Balance EU;Italy;EUR;1
+EUR_ItaGlobalTradeBalance;20120516;08:00;Global Trade Balance;Italy;EUR;1
+EUR_AusHICP;20120516;08:00;HICP (YoY);Austria;EUR;1
+CZK_CurrentAccount;20120516;08:00;Current Account (MoM);Czech Republic;CZK;1
+TRY_ConsumerConfidence;20120516;07:00;Consumer Confidence;Turkey;TRY;1
+EUR_SloEUNormInflation;20120516;07:00;EU Norm Inflation (MoM);Slovakia;EUR;1
+AUD_WagePriceIndex;20120516;01:30;Wage Price Index (YoY);Australia;AUD;1
+AUD_WestpacConsumerConfidenceIndex;20120516;00:30;Westpac Consumer Confidence Index;Australia;AUD;2
+AUD_WestpacConsumerConfidence;20120516;00:30;Westpac Consumer Confidence;Australia;AUD;2

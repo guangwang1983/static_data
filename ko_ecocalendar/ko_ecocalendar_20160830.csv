@@ -1,0 +1,40 @@
+TRY_VictoryDay;20160830;00:00;Victory Day ;Turkey;TRY;0
+AUD_BuildingPermits;20160830;01:30;Building Permits (YoY);Australia;AUD;1
+NZD_M3MoneySupply;20160830;02:00;M3 Money Supply (YoY);New Zealand;NZD;1
+EUR_GerImportPriceIndex;20160830;06:00;Import Price Index (MoM);Germany;EUR;1
+CHF_KOFLeadingIndicator;20160830;07:00;KOF Leading Indicator;Switzerland;CHF;2
+DKK_IndustrialOutlook;20160830;07:00;Industrial Outlook;Denmark;DKK;1
+HUF_UnemploymentRate;20160830;07:00;Unemployment Rate (3M);Hungary;HUF;1
+CHF_EmploymentLevel;20160830;07:15;Employment Level (QoQ);Switzerland;CHF;1
+PLN_GrossDomesticProduct;20160830;08:00;Gross Domestic Product Qtr (YoY);Poland;PLN;1
+EUR_ItaRetailSales;20160830;08:00;Retail Sales s.a. (MoM);Italy;EUR;1
+GBP_NetLendingtoIndividuals;20160830;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20160830;08:30;Consumer Credit;United Kingdom;GBP;2
+GBP_MortgageApprovals;20160830;08:30;Mortgage Approvals;United Kingdom;GBP;2
+GBP_M4MoneySupply;20160830;08:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+EUR_EurConsumerConfidence;20160830;09:00;Consumer Confidence;European Monetary Union;EUR;1
+EUR_EurServicesSentiment;20160830;09:00;Services Sentiment;European Monetary Union;EUR;1
+EUR_EurIndustrialConfidence;20160830;09:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_EurEconomicSentimentIndicator;20160830;09:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+EUR_EurBusinessClimate;20160830;09:00;Business Climate;European Monetary Union;EUR;1
+EUR_ItaAuction;20160830;09:38;10-y Bond Auction;Italy;EUR;1
+BRL_InflationIndexIGPM;20160830;11:00;Inflation Index/IGP-M;Brazil;BRL;1
+BRL_UnemploymentRate;20160830;12:00;Unemployment Rate;Brazil;BRL;1
+EUR_GerConsumerPriceIndex;20160830;12:00;Consumer Price Index (YoY);Germany;EUR;2
+EUR_GerHarmonizedIndexofConsumerPrices;20160830;12:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;2
+CAD_IndustrialProductPrice;20160830;12:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_RawMaterialPriceIndex;20160830;12:30;Raw Material Price Index;Canada;CAD;1
+CAD_CurrentAccount;20160830;12:30;Current Account;Canada;CAD;2
+USD_RedbookIndex;20160830;12:55;Redbook Index (YoY);United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20160830;13:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;2
+CLP_IndustrialProduction;20160830;13:30;Industrial Production (YoY);Chile;CLP;1
+USD_ConsumerConfidence;20160830;14:00;Consumer Confidence;United States;USD;2
+USD_Auction;20160830;15:30;4-Week Bill Auction;United States;USD;1
+MXN_FiscalBalancepesos;20160830;19:30;Fiscal Balance, pesos;Mexico;MXN;1
+USD_APIWeeklyCrudeOilStock;20160830;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_BOKManufacturingBSI;20160830;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+KRW_IndustrialOutputGrowth;20160830;23:00;Industrial Output Growth;South Korea;KRW;1
+KRW_ServiceSectorOutput;20160830;23:00;Service Sector Output;South Korea;KRW;1
+KRW_IndustrialOutput;20160830;23:00;Industrial Output (YoY);South Korea;KRW;1
+GBP_GfKConsumerConfidence;20160830;23:05;GfK Consumer Confidence;United Kingdom;GBP;2
+JPY_IndustrialProduction;20160830;23:50;Industrial Production (YoY);Japan;JPY;2

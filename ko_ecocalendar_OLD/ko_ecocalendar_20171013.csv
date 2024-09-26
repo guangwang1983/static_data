@@ -1,0 +1,36 @@
+JPY_CFTCJPYNCNetPositions;20171013;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+AUD_CFTCAUDNCNetPositions;20171013;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCGoldNCNetPositions;20171013;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCUSDNCNetPositions;20171013;19:30;CFTC USD NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20171013;19:30;CFTC Oil NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20171013;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+GBP_CFTCGBPNCNetPositions;20171013;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+COP_Industrialouput;20171013;19:30;Industrial ouput (YoY);Colombia;COP;1
+USD_BakerHughesUSOilRigCount;20171013;17:00;Baker Hughes US Oil Rig Count;United States;USD;2
+EUR_EurCentralBankSpeech;20171013;14:15;ECB Constancio speech;European Monetary Union;EUR;2
+USD_MichiganConsumerSentimentIndex;20171013;14:00;Michigan Consumer Sentiment Index;United States;USD;1
+USD_BusinessInventories;20171013;14:00;Business Inventories;United States;USD;1
+USD_RetailSales;20171013;12:30;Retail Sales Control Group;United States;USD;2
+USD_ConsumerPriceIndex;20171013;12:30;Consumer Price Index n.s.a (MoM);United States;USD;1
+USD_CentralBankSpeech;20171013;12:30;Fed Rosengren speech;United States;USD;2
+PLN_NetInflation;20171013;12:00;Net Inflation;Poland;PLN;1
+INR_BankLoanGrowth;20171013;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20171013;11:30;FX Reserves, USD;India;INR;1
+INR_TradeDeficitGovernment;20171013;11:00;Trade Deficit Government;India;INR;1
+EUR_ItaConsumerPriceIndex;20171013;08:05;Consumer Price Index (YoY);Italy;EUR;1
+CHF_ProducerandImportPrices;20171013;07:15;Producer and Import Prices (MoM);Switzerland;CHF;1
+EUR_SloCoreInflation;20171013;07:00;Core Inflation (YoY);Slovakia;EUR;1
+EUR_SloHeadlineInflation;20171013;07:00;Headline Inflation (MoM);Slovakia;EUR;1
+EUR_FinGrossDomesticProduct;20171013;06:00;Gross Domestic Product (YoY);Finland;EUR;1
+EUR_FinCurrentAccount;20171013;06:00;Current Account;Finland;EUR;1
+EUR_GerConsumerPriceIndex;20171013;06:00;Consumer Price Index (MoM);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20171013;06:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;1
+EUR_FinConsumerPriceIndex;20171013;06:00;Consumer Price Index (YoY);Finland;EUR;1
+EUR_NetRetailSales;20171013;04:30;Retail Sales (YoY);Netherlands, The;EUR;1
+CNY_Imports;20171013;02:00;Imports (YoY) CNY;China;CNY;2
+CNY_Exports;20171013;02:00;Exports (YoY) CNY;China;CNY;2
+CNY_TradeBalanceCNY;20171013;02:00;Trade Balance CNY;China;CNY;2
+CNY_TradeBalanceUSD;20171013;02:00;Trade Balance USD;China;CNY;2
+AUD_FinancialStabilityReview;20171013;00:30;Financial Stability Review;Australia;AUD;1
+EUR_EurIMFMeeting;20171013;00:00;IMF Meeting;European Monetary Union;EUR;1
+SGD_GrossDomesticProduct;20171013;00:00;Gross Domestic Product (QoQ);Singapore;SGD;1

@@ -1,0 +1,44 @@
+AUD_WestpacConsumerConfidence;20200310;23:30;Westpac Consumer Confidence;Australia;AUD;2
+KRW_UnemploymentRate;20200310;23:00;Unemployment Rate;South Korea;KRW;1
+AUD_CentralBankSpeech;20200310;22:00;RBA Debelle speech;Australia;AUD;2
+NZD_RetailSales;20200310;21:45;Electronic Card Retail Sales  (MoM);New Zealand;NZD;1
+USD_APIWeeklyCrudeOilStock;20200310;20:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_Auction;20200310;17:00;3-Year Note Auction;United States;USD;1
+USD_USDAWASDEReport;20200310;16:00;USDA WASDE Report;United States;USD;1
+USD_RedbookIndex;20200310;12:55;Redbook Index (YoY);United States;USD;1
+BRL_IndustrialOutput;20200310;12:00;Industrial Output (MoM);Brazil;BRL;1
+INR_TradeDeficitGovernment;20200310;12:00;Trade Deficit Government;India;INR;1
+ILS_M1MoneySupply;20200310;11:00;M1 Money Supply (MoM);Israel;ILS;1
+ILS_GrossDomesticProduct;20200310;11:00;Gross Domestic Product (QoQ);Israel;ILS;1
+EUR_EurGrossDomesticProduct;20200310;10:00;Gross Domestic Product s.a. (QoQ);European Monetary Union;EUR;3
+USD_NFIBBusinessOptimismIndex;20200310;10:00;NFIB Business Optimism Index;United States;USD;1
+EUR_GreIndustrialProduction;20200310;10:00;Industrial Production (YoY);Greece;EUR;1
+EUR_GreConsumerPriceIndex;20200310;10:00;Consumer Price Index - Harmonized (YoY);Greece;EUR;1
+EUR_EurEmploymentChange;20200310;10:00;Employment Change (QoQ);European Monetary Union;EUR;1
+EUR_SpaAuction;20200310;09:40;9-Month Letras Auction;Spain;EUR;1
+IDR_RetailSales;20200310;09:00;Retail Sales (YoY);Indonesia;IDR;1
+EUR_ItaIndustrialOutput;20200310;09:00;Industrial Output w.d.a (YoY);Italy;EUR;1
+EUR_SloForeignTradeBalance;20200310;08:00;Foreign Trade Balance;Slovakia;EUR;1
+CZK_ConsumerPriceIndex;20200310;08:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+EUR_SloIndustrialOutput;20200310;08:00;Industrial Output (YoY);Slovakia;EUR;1
+HUF_ConsumerPriceIndex;20200310;08:00;Consumer Price Index (YoY);Hungary;HUF;1
+EUR_AusTradeBalance;20200310;08:00;Trade Balance;Austria;EUR;1
+HUF_TradeBalance;20200310;08:00;Trade Balance;Hungary;HUF;1
+EUR_FraIndustrialOutput;20200310;07:45;Industrial Output (MoM);France;EUR;1
+TRY_3mthquarterlyjoblessaverage;20200310;07:00;3mth quarterly jobless average;Turkey;TRY;1
+DKK_Inflation;20200310;07:00;Inflation (HICP) (YoY);Denmark;DKK;1
+DKK_ConsumerPriceIndex;20200310;07:00;Consumer Price Index (YoY);Denmark;DKK;1
+RON_GrossDomesticProduct;20200310;07:00;Gross Domestic Product;Romania;RON;1
+DKK_TradeBalance;20200310;07:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20200310;07:00;Current Account;Denmark;DKK;1
+EUR_FraNonfarmPayrolls;20200310;06:30;Nonfarm Payrolls (QoQ);France;EUR;1
+NOK_ConsumerPriceIndex;20200310;06:00;Consumer Price Index (YoY);Norway;NOK;1
+NOK_CoreInflation;20200310;06:00;Core Inflation (MoM);Norway;NOK;1
+EUR_FinIndustrialOutput;20200310;06:00;Industrial Output (MoM);Finland;EUR;1
+JPY_MachineToolOrders;20200310;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+NOK_ProducerPriceIndex;20200310;06:00;Producer Price Index (YoY);Norway;NOK;1
+CNY_ConsumerPriceIndex;20200310;01:30;Consumer Price Index (YoY);China;CNY;3
+CNY_ProducerPriceIndex;20200310;01:30;Producer Price Index (YoY);China;CNY;2
+AUD_NationalAustraliaBankBusinessConfidence;20200310;00:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20200310;00:30;National Australia Bank Business Conditions;Australia;AUD;1
+GBP_RetailSales;20200310;00:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2

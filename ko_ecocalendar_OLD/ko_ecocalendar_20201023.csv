@@ -1,0 +1,35 @@
+AUD_CFTCAUDNCNetPositions;20201023;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20201023;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+JPY_CFTCJPYNCNetPositions;20201023;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+GBP_CFTCGBPNCNetPositions;20201023;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20201023;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20201023;19:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20201023;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_BakerHughesUSOilRigCount;20201023;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+BRL_MidmonthInflation;20201023;14:00;Mid-month Inflation;Brazil;BRL;1
+USD_MarkitManufacturingPMI;20201023;13:45;Markit Manufacturing PMI;United States;USD;2
+USD_MarkitServicesPMI;20201023;13:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20201023;13:45;Markit PMI Composite;United States;USD;2
+EUR_BelLeadingIndicator;20201023;13:00;Leading Indicator;Belgium;EUR;1
+BRL_CurrentAccount;20201023;12:30;Current Account;Brazil;BRL;1
+INR_FXReservesUSD;20201023;11:30;FX Reserves, USD;India;INR;1
+MXN_RetailSales;20201023;11:00;Retail Sales (MoM);Mexico;MXN;1
+RUB_Interestratedecision;20201023;10:30;Interest rate decision;Russia;RUB;2
+GBP_MarkitManufacturingPMI;20201023;08:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+GBP_MarkitServicesPMI;20201023;08:30;Markit Services PMI;United Kingdom;GBP;3
+PLN_Unemployment;20201023;08:00;Unemployment (MoM);Poland;PLN;1
+EUR_EurMarkitManufacturingPMI;20201023;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20201023;08:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_EurMarkitPMIComposite;20201023;08:00;Markit PMI Composite;European Monetary Union;EUR;3
+EUR_GerMarkitPMIComposite;20201023;07:30;Markit PMI Composite;Germany;EUR;3
+EUR_GerMarkitServicesPMI;20201023;07:30;Markit Services PMI;Germany;EUR;2
+EUR_GerMarkitManufacturingPMI;20201023;07:30;Markit Manufacturing PMI;Germany;EUR;3
+SEK_ProducerPriceIndex;20201023;07:30;Producer Price Index (MoM);Sweden;SEK;1
+EUR_FraMarkitManufacturingPMI;20201023;07:15;Markit Manufacturing PMI;France;EUR;2
+EUR_FraMarkitServicesPMI;20201023;07:15;Markit Services PMI;France;EUR;2
+EUR_FraMarkitPMIComposite;20201023;07:15;Markit PMI Composite;France;EUR;2
+EUR_AusIndustrialProduction;20201023;07:00;Industrial Production (YoY);Austria;EUR;1
+GBP_RetailSales;20201023;06:00;Retail Sales (YoY);United Kingdom;GBP;2
+SGD_ConsumerPriceIndex;20201023;05:00;Consumer Price Index (YoY);Singapore;SGD;1
+USD_PresidentialDebate;20201023;01:00;Presidential Debate;United States;USD;3
+JPY_JibunBankManufacturingPMI;20201023;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1

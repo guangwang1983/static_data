@@ -1,0 +1,61 @@
+#45 23 CET
+45 17 * * 1-5 source /home/svc_matterhorn/.bashrc ; addnewdynamicdate.sh 
+
+#01 01 CET
+01 19 * * 1,2,3,4,7 source /home/svc_matterhorn/.bashrc ; launchCronJob.py --command dailyRollAndExpiryUpdate.sh --subject "Daily Roll and Expiry Update" --sender "dailyCron@matterhorn"
+
+#01 01 CET
+01 19 * * 1,2,3,4,7 source /home/svc_matterhorn/.bashrc ; dailyTickSizeUpdate.sh
+
+#01 01 CET
+01 19 * * 1,2,3,4,7 source /home/svc_matterhorn/.bashrc ; dailyEcoCalendarUpdate.sh
+
+#30 06 CET
+30 00 * * 2-6 source /home/svc_matterhorn/.bashrc ; cd /dat/matterhorn/temp ; dailyDataUpdate.sh
+
+#30 07 CET
+30 01 * * 2-6 source /home/svc_matterhorn/.bashrc ; launchCronJob.py --command dailyDataCheck.sh --subject "Daily Market Data Check" --sender "dailyCron@matterhorn"
+
+#30 07 CET to be changed to before market open
+30 01 * * 2-5 source /home/svc_matterhorn/.bashrc ; cd /dat/matterhorn/temp ; dailyPortfolioStatsUpdate.sh
+
+#31 07 CET
+31 01 * * 2-6 source /home/svc_matterhorn/.bashrc ; dailyFXPriceUpdate.sh
+
+#32 07 CET
+32 01 * * 2-6 source /home/svc_matterhorn/.bashrc ; dailyClosePriceUpdate.sh
+
+#44 07 CET
+44 01 * * 1-5 source /home/svc_matterhorn/.bashrc ; launchCronJob.py --command daily_referenceportfolio_release.sh  --subject "Daily Reference Portfolio Release"
+
+#46 07 CET to be changed to before market open
+46 01 * * 1-5 source /home/svc_matterhorn/.bashrc ; cd /dat/matterhorn/temp ; dailyProductionRollout.sh
+
+#47 07 CET to be changed to before market open
+47 01 * * 1-5 source /home/svc_matterhorn/.bashrc ; launchCronJob.py --command dailyRolloutCheck.py --subject "Daily Rollout Check" --sender "dailyCron@matterhorn"
+
+#30 11 CET
+30 05 * * 2-6 source /home/svc_matterhorn/.bashrc ; cd /dat/matterhorn/temp ; dailyPnlGridDataUpdate.sh
+
+#05 12 CET
+05 06 * * 2-6 source /home/svc_matterhorn/.bashrc ; launchCronJob.py --command dailyClosePriceCheck.sh --subject "Daily Close Price Check" --sender "dailyCron@matterhorn"
+
+#10 09 CET
+#10 03 * * 2-6 source /home/svc_matterhorn/.bashrc ; launchCronJob.py --command crontab_check.sh --subject "Crontab Changed" --sender "dailyCron@matterhorn"
+
+#00 22 CET
+00 16 * * 1-5 source /home/svc_matterhorn/.bashrc ; dailyStaticDataCommit.sh
+
+#----------------------------------------------
+#Library Update
+#----------------------------------------------
+#00 13 CET
+00 07 * * 6 source /home/svc_matterhorn/.bashrc ; launchCronJob.py --command checkMissingDatesFile.py --subject "Library will not be updated. Manual restart required." --sender "dailyCron@matterhorn"
+#05 13 CET
+05 07 * * 6 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn2/production/library/slsl_fixedincomefutures; run_signal_execution_txh5_intradaypnl_UPDATE.sh 5 1 False 1
+#05 13 CET
+05 07 * * 6 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn/production/library/slsl_equityindexfutures; run_signal_execution_txh5_intradaypnl_UPDATE.sh 5 10000 False 26000
+#05 13 CET
+05 07 * * 6 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn/production/library/sl3l_currencyfutures; run_signal_execution_txh5_intradaypnl_UPDATE.sh 5 11000 False 27000
+#00 20 CET
+00 14 * * 7 source /home/svc_matterhorn/.bashrc ; weekly_portfolios_update.sh

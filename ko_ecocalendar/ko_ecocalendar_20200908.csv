@@ -1,0 +1,31 @@
+AUD_NationalAustraliaBankBusinessConfidence;20200908;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20200908;01:30;National Australia Bank Business Conditions;Australia;AUD;1
+JPY_EcoWatchersSurvey:Outlook;20200908;05:00;Eco Watchers Survey: Outlook;Japan;JPY;1
+JPY_EcoWatchersSurvey:Current;20200908;05:00;Eco Watchers Survey: Current;Japan;JPY;1
+EUR_FraNonfarmPayrolls;20200908;05:30;Nonfarm Payrolls (QoQ);France;EUR;1
+RON_GrossDomesticProduct;20200908;06:00;Gross Domestic Product;Romania;RON;1
+DKK_TradeBalance;20200908;06:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20200908;06:00;Current Account;Denmark;DKK;1
+EUR_GerExports;20200908;06:00;Exports (MoM);Germany;EUR;1
+EUR_GerTradeBalance;20200908;06:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerCurrentAccount;20200908;06:00;Current Account n.s.a.;Germany;EUR;1
+EUR_GerImports;20200908;06:00;Imports (MoM);Germany;EUR;1
+EUR_FraImportsEUR;20200908;06:45;Imports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20200908;06:45;Trade Balance EUR;France;EUR;1
+EUR_FraExportsEUR;20200908;06:45;Exports, EUR;France;EUR;1
+EUR_FraCurrentAccount;20200908;06:45;Current Account;France;EUR;1
+HUF_TradeBalance;20200908;07:00;Trade Balance;Hungary;HUF;1
+SEK_IndustrialProductionValue;20200908;07:30;Industrial Production Value (YoY);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20200908;07:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+EUR_ItaRetailSales;20200908;08:00;Retail Sales n.s.a (YoY);Italy;EUR;1
+EUR_EurGrossDomesticProduct;20200908;09:00;Gross Domestic Product s.a. (QoQ);European Monetary Union;EUR;3
+EUR_EurEmploymentChange;20200908;09:00;Employment Change (YoY);European Monetary Union;EUR;1
+ZAR_GrossDomesticProduct;20200908;09:30;Gross Domestic Product (YoY);South Africa;ZAR;1
+USD_NFIBBusinessOptimismIndex;20200908;10:00;NFIB Business Optimism Index;United States;USD;1
+CLP_ConsumerPriceIndex;20200908;11:00;Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+USD_IBDTIPPEconomicOptimism;20200908;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+USD_Auction;20200908;17:00;3-Year Note Auction;United States;USD;1
+USD_ConsumerCreditChange;20200908;19:00;Consumer Credit Change;United States;USD;1
+NZD_ManufacturingSales;20200908;22:45;Manufacturing Sales;New Zealand;NZD;1
+KRW_UnemploymentRate;20200908;23:00;Unemployment Rate;South Korea;KRW;1
+JPY_MoneySupplyM2+CD;20200908;23:50;Money Supply M2+CD (YoY);Japan;JPY;1

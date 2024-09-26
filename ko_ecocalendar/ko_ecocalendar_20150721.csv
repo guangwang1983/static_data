@@ -1,0 +1,14 @@
+AUD_RBAMeetingMinutes;20150721;01:30;RBA Meeting Minutes;Australia;AUD;3
+CNY_FDIForeignDirectInvestment;20150721;02:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;1
+JPY_CoincidentIndex;20150721;05:00;Coincident Index;Japan;JPY;2
+JPY_LeadingEconomicIndex;20150721;05:00;Leading Economic Index;Japan;JPY;2
+CHF_Imports;20150721;06:00;Imports (MoM);Switzerland;CHF;1
+CHF_Exports;20150721;06:00;Exports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20150721;06:00;Trade Balance;Switzerland;CHF;1
+HUF_GrossWages;20150721;07:00;Gross Wages (YoY);Hungary;HUF;1
+GBP_PublicSectorNetBorrowing;20150721;08:30;Public Sector Net Borrowing;United Kingdom;GBP;2
+HUF_MNBInterestRateDecision;20150721;12:00;MNB Interest Rate Decision;Hungary;HUF;1
+USD_RedbookIndex;20150721;12:55;Redbook Index (YoY);United States;USD;1
+USD_Auction;20150721;15:30;52-Week Bill Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20150721;21:30;API Weekly Crude Oil Stock;United States;USD;1
+COP_TradeBalance;20150721;22:00;Trade Balance;Colombia;COP;1

@@ -1,0 +1,34 @@
+JPY_ForeignInvestmentinJapanStocks;20200129;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20200129;23:50;Foreign Bond Investment;Japan;JPY;2
+NZD_TradeBalance;20200129;21:45;Trade Balance (MoM);New Zealand;NZD;1
+NZD_Exports;20200129;21:45;Exports;New Zealand;NZD;2
+NZD_Imports;20200129;21:45;Imports;New Zealand;NZD;1
+KRW_BOKManufacturingBSI;20200129;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+CLP_BCCHInterestRate;20200129;21:00;BCCH Interest Rate;Chile;CLP;1
+USD_FOMCPressConference;20200129;19:30;FOMC Press Conference;United States;USD;3
+USD_FedInterestRateDecision;20200129;19:00;Fed Interest Rate Decision;United States;USD;3
+USD_EIACrudeOilStocksChange;20200129;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_PendingHomeSales;20200129;15:00;Pending Home Sales (YoY);United States;USD;1
+USD_WholesaleInventories;20200129;13:30;Wholesale Inventories;United States;USD;1
+USD_GoodsTradeBalance;20200129;13:30;Goods Trade Balance;United States;USD;1
+USD_MBAMortgageApplications;20200129;12:00;MBA Mortgage Applications;United States;USD;1
+INR_M3MoneySupply;20200129;11:30;M3 Money Supply;India;INR;1
+EUR_ItaProducerPriceIndex;20200129;10:00;Producer Price Index (MoM);Italy;EUR;1
+CHF_ZEWSurveyExpectations;20200129;09:00;ZEW Survey - Expectations;Switzerland;CHF;2
+EUR_ItaConsumerConfidence;20200129;09:00;Consumer Confidence;Italy;EUR;1
+EUR_ItaBusinessConfidence;20200129;09:00;Business Confidence;Italy;EUR;1
+EUR_AusPurchasingManagerIndex;20200129;09:00;Purchasing Manager Index;Austria;EUR;1
+EUR_EurPrivateLoans;20200129;09:00;Private Loans (YoY);European Monetary Union;EUR;1
+EUR_EurM3MoneySupply;20200129;09:00;M3 Money Supply (3m);European Monetary Union;EUR;1
+HUF_UnemploymentRate;20200129;08:00;Unemployment Rate (3M);Hungary;HUF;1
+SEK_ConsumerConfidence;20200129;08:00;Consumer Confidence (MoM);Sweden;SEK;1
+EUR_SpaRetailSales;20200129;08:00;Retail Sales (YoY);Spain;EUR;1
+EUR_FraConsumerConfidence;20200129;07:45;Consumer Confidence;France;EUR;1
+EUR_GerImportPriceIndex;20200129;07:00;Import Price Index (YoY);Germany;EUR;1
+EUR_GerGfkConsumerConfidenceSurvey;20200129;07:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+GBP_NationwideHousingPrices;20200129;07:00;Nationwide Housing Prices s.a (MoM);United Kingdom;GBP;1
+TRY_EconomicConfidenceIndex;20200129;07:00;Economic Confidence Index;Turkey;TRY;1
+JPY_ConsumerConfidenceIndex;20200129;05:00;Consumer Confidence Index;Japan;JPY;1
+AUD_ConsumerPriceIndex;20200129;00:30;Consumer Price Index (YoY);Australia;AUD;2
+AUD_RBATrimmedMeanCPI;20200129;00:30;RBA Trimmed Mean CPI (QoQ);Australia;AUD;3
+GBP_BRCShopPriceIndex;20200129;00:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1

@@ -1,0 +1,42 @@
+USD_CentralBankSpeech;20151203;18:10;Fed Stanley Fischer speech;United States;USD;2
+USD_EIANaturalGasStorageChange;20151203;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_ISMNonManufacturingPMI;20151203;15:00;ISM Non-Manufacturing PMI;United States;USD;2
+USD_FactoryOrders;20151203;15:00;Factory Orders (MoM);United States;USD;2
+USD_FedChairYellentestifies;20151203;15:00;Fed Chair Yellen testifies;United States;USD;3
+USD_MarkitServicesPMI;20151203;14:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20151203;14:45;Markit PMI Composite;United States;USD;2
+USD_JoblessClaims;20151203;13:30;Initial Jobless Claims;United States;USD;2
+EUR_EurECBMonetaryPolicyStatementandPressConference;20151203;13:30;ECB Monetary Policy Statement and Press Conference;European Monetary Union;EUR;3
+EUR_EurECBInterestRateDecision;20151203;12:45;ECB Interest Rate Decision;European Monetary Union;EUR;3
+USD_ChallengerJobCuts;20151203;12:30;Challenger Job Cuts;United States;USD;1
+RUB_ConsumerPriceIndex;20151203;12:00;Consumer Price Index (MoM);Russia;RUB;1
+EUR_EurECBDepositRateDecision;20151203;11:45;ECB Deposit Rate Decision;European Monetary Union;EUR;2
+BRL_IndustrialOutput;20151203;11:00;Industrial Output (YoY);Brazil;BRL;1
+BRL_FipeIPCInflation;20151203;11:00;Fipe IPC Inflation;Brazil;BRL;1
+EUR_FraAuction;20151203;10:27;10-y Bond Auction;France;EUR;1
+EUR_SpaAuction;20151203;10:07;5-y Bond Auction;Spain;EUR;1
+EUR_EurRetailSales;20151203;10:00;Retail Sales (MoM);European Monetary Union;EUR;1
+ZAR_BusinessConfidenceIndex;20151203;09:30;Business Confidence Index;South Africa;ZAR;1
+GBP_MarkitServicesPMI;20151203;09:30;Markit Services PMI;United Kingdom;GBP;1
+EUR_EurMarkitPMIComposite;20151203;09:00;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20151203;09:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_GerMarkitPMIComposite;20151203;08:55;Markit PMI Composite;Germany;EUR;1
+EUR_GerMarkitServicesPMI;20151203;08:55;Markit Services PMI;Germany;EUR;1
+EUR_FraMarkitPMIComposite;20151203;08:50;Markit PMI Composite;France;EUR;1
+EUR_FraMarkitServicesPMI;20151203;08:50;Markit Services PMI;France;EUR;1
+EUR_ItaMarkitServicesPMI;20151203;08:45;Markit Services PMI;Italy;EUR;1
+EUR_SpaMarkitServicesPMI;20151203;08:15;Markit Services PMI;Spain;EUR;2
+TRY_ProducerPriceIndex;20151203;08:00;Producer Price Index (YoY);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20151203;08:00;Consumer Price Index (MoM);Turkey;TRY;1
+HUF_RetailSales;20151203;08:00;Retail Sales (YoY);Hungary;HUF;1
+HUF_TradeBalance;20151203;08:00;Trade Balance;Hungary;HUF;1
+EUR_FraILOUnemployment;20151203;06:30;ILO Unemployment;France;EUR;1
+EUR_IrePurchasingManagerIndexServices;20151203;06:00;Purchasing Manager Index Services;Ireland;EUR;1
+HKD_NikkeiManufacturingPMI;20151203;02:30;Nikkei Manufacturing PMI;Hong Kong SAR;HKD;1
+RUB_PurchasingManagerIndexServices;20151203;02:00;Purchasing Manager Index Services;Russia;RUB;1
+CNY_CaixinServicesPMI;20151203;01:45;Caixin Services PMI;China;CNY;2
+JPY_MarkitServicesPMI;20151203;01:35;Markit Services PMI;Japan;JPY;1
+AUD_Imports;20151203;00:30;Imports;Australia;AUD;2
+AUD_TradeBalance;20151203;00:30;Trade Balance;Australia;AUD;2
+AUD_Exports;20151203;00:30;Exports;Australia;AUD;2
+AUD_HIANewHomeSales;20151203;00:00;HIA New Home Sales (MoM);Australia;AUD;2

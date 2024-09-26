@@ -1,0 +1,56 @@
+KRW_TradeBalance;20231201;00:00;Trade Balance;South Korea;KRW;1
+KRW_S&PGlobalManufacturingPMI;20231201;00:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+JPY_JibunBankManufacturingPMI;20231201;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+CNY_CaixinManufacturingPMI;20231201;01:45;Caixin Manufacturing PMI;China;CNY;3
+IDR_Inflation;20231201;04:00;Inflation (MoM);Indonesia;IDR;1
+IDR_CoreInflation;20231201;04:00;Core Inflation (YoY);Indonesia;IDR;1
+AUD_RBACommodityIndexSDR;20231201;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+RUB_S&PGlobalManufacturingPMI;20231201;06:00;S&P Global Manufacturing PMI;Russia;RUB;1
+GBP_NationwideHousingPrices;20231201;07:00;Nationwide Housing Prices s.a (MoM);United Kingdom;GBP;1
+HUF_TradeBalance;20231201;07:30;Trade Balance;Hungary;HUF;1
+HUF_GrossDomesticProduct;20231201;07:30;Gross Domestic Product (YoY);Hungary;HUF;1
+SEK_PurchasingManagersIndexManufacturing;20231201;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+EUR_FraBudgetBalance;20231201;07:45;Budget Balance;France;EUR;1
+PLN_PurchasingManagerIndex;20231201;08:00;Purchasing Manager Index;Poland;PLN;1
+HUF_PurchasingManagerIndex;20231201;08:00;Purchasing Manager Index;Hungary;HUF;1
+CZK_GrossDomesticProduct;20231201;08:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+CHF_GrossDomesticProduct;20231201;08:00;Gross Domestic Product (QoQ);Switzerland;CHF;3
+CZK_S&PGlobalPMI;20231201;08:30;S&P Global PMI;Czech Republic;CZK;1
+CHF_SVMEPurchasingManagers'Index;20231201;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+EUR_ItaHCOBManufacturingPMI;20231201;08:45;HCOB Manufacturing PMI;Italy;EUR;2
+EUR_FraHCOBManufacturingPMI;20231201;08:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerHCOBManufacturingPMI;20231201;08:55;HCOB Manufacturing PMI;Germany;EUR;2
+EUR_ItaGrossDomesticProduct;20231201;09:00;Gross Domestic Product (YoY);Italy;EUR;2
+EUR_EurHCOBManufacturingPMI;20231201;09:00;HCOB Manufacturing PMI;Eurozone;EUR;1
+NOK_RegisteredUnemployment;20231201;09:00;Registered Unemployment s.a;Norway;NOK;1
+GBP_S&PGlobalCIPSManufacturingPMI;20231201;09:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;1
+CLP_IMACEC;20231201;11:30;IMACEC;Chile;CLP;1
+INR_BankLoanGrowth;20231201;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20231201;11:30;FX Reserves, USD;India;INR;1
+EUR_EurCentralBankSpeech;20231201;11:30;ECB President Lagarde speech;Eurozone;EUR;3
+BRL_IndustrialOutput;20231201;12:00;Industrial Output (MoM);Brazil;BRL;1
+ZAR_TotalNewVehicleSales;20231201;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+ILS_M1MoneySupply;20231201;12:30;M1 Money Supply (MoM);Israel;ILS;1
+BRL_S&PGlobalManufacturingPMI;20231201;13:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+CZK_BudgetBalance;20231201;13:00;Budget Balance;Czech Republic;CZK;1
+CAD_UnemploymentRate;20231201;13:30;Unemployment Rate;Canada;CAD;3
+CAD_ParticipationRate;20231201;13:30;Participation Rate;Canada;CAD;1
+CAD_AverageHourlyWages;20231201;13:30;Average Hourly Wages (YoY);Canada;CAD;2
+CAD_NetChangeinEmployment;20231201;13:30;Net Change in Employment;Canada;CAD;3
+CAD_S&PGlobalManufacturingPMI;20231201;14:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20231201;14:45;S&P Global Manufacturing PMI;United States;USD;1
+USD_ISMManufacturingPricesPaid;20231201;15:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ISMManufacturingPMI;20231201;15:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingNewOrdersIndex;20231201;15:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ISMManufacturingEmploymentIndex;20231201;15:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ConstructionSpending;20231201;15:00;Construction Spending (MoM);United States;USD;1
+USD_BakerHughesUSOilRigCount;20231201;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+BRL_TradeBalance;20231201;18:00;Trade Balance;Brazil;BRL;1
+USD_CentralBankSpeech;20231201;19:00;Fed Cook speech;United States;USD;2
+USD_CFTCOilNCNetPositions;20231201;20:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20231201;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20231201;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20231201;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20231201;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20231201;20:30;CFTC EUR NC Net Positions;Eurozone;EUR;1
+AUD_CFTCAUDNCNetPositions;20231201;20:30;CFTC AUD NC Net Positions;Australia;AUD;1

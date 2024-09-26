@@ -1,0 +1,46 @@
+JPY_MoneySupplyM2+CD;20170608;23:50;Money Supply M2+CD (YoY);Japan;JPY;1
+PEN_Interestratedecision;20170608;22:00;Interest rate decision;Peru;PEN;1
+ARS_ConsumerPriceIndex;20170608;19:00;Consumer Price Index (MoM);Argentina;ARS;1
+CAD_CentralBankSpeech;20170608;15:15;BoC Governor Poloz speech;Canada;CAD;3
+USD_EIANaturalGasStorageChange;20170608;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_IBDTIPPEconomicOptimism;20170608;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+MXN_12MonthInflation;20170608;13:00;12-Month Inflation;Mexico;MXN;1
+MXN_CoreInflation;20170608;13:00;Core Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20170608;13:00;Headline Inflation;Mexico;MXN;1
+RUB_CentralBankReserves;20170608;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_JoblessClaims;20170608;12:30;Initial Jobless Claims;United States;USD;2
+EUR_EurECBMonetaryPolicyStatementandPressConference;20170608;12:30;ECB Monetary Policy Statement and Press Conference;European Monetary Union;EUR;3
+CAD_NewHousingPriceIndex;20170608;12:30;New Housing Price Index (YoY);Canada;CAD;2
+CAD_HousingStarts;20170608;12:15;Housing Starts s.a (YoY);Canada;CAD;2
+CLP_ConsumerPriceIndex;20170608;12:00;Core Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+GBP_ParliamentaryElection;20170608;12:00;Parliamentary Election;United Kingdom;GBP;3
+EUR_EurECBDepositRateDecision;20170608;11:45;ECB Deposit Rate Decision;European Monetary Union;EUR;3
+EUR_EurECBInterestRateDecision;20170608;11:45;ECB Interest Rate Decision;European Monetary Union;EUR;3
+ZAR_ManufacturingProductionIndex;20170608;11:02;Manufacturing Production Index (YoY);South Africa;ZAR;0
+EUR_IreConsumerPriceIndex;20170608;10:02;Consumer Price Index (MoM);Ireland;EUR;1
+EUR_IreHICP;20170608;10:00;HICP (YoY);Ireland;EUR;1
+ISK_GrossDomesticProduct;20170608;09:38;Gross Domestic Product (YoY);Iceland;ISK;1
+EUR_EurGrossDomesticProduct;20170608;09:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+EUR_GreUnemploymentRate;20170608;09:00;Unemployment Rate (MoM);Greece;EUR;1
+CHF_ConsumerPriceIndex;20170608;07:15;Consumer Price Index (YoY);Switzerland;CHF;2
+TRY_IndustrialProduction;20170608;07:01;Industrial Production (YoY);Turkey;TRY;1
+CZK_UnemploymentRate;20170608;07:00;Unemployment Rate;Czech Republic;CZK;1
+HUF_ConsumerPriceIndex;20170608;07:00;Consumer Price Index (YoY);Hungary;HUF;1
+HUF_TradeBalance;20170608;07:00;Trade Balance;Hungary;HUF;1
+EUR_FraImportsEUR;20170608;06:45;Imports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20170608;06:45;Trade Balance EUR;France;EUR;1
+EUR_FraExportsEUR;20170608;06:45;Exports, EUR;France;EUR;1
+EUR_FraCurrentAccount;20170608;06:45;Current Account;France;EUR;1
+NOK_ManufacturingOutput;20170608;06:02;Manufacturing Output;Norway;NOK;1
+EUR_GerIndustrialProduction;20170608;06:00;Industrial Production s.a. (MoM);Germany;EUR;1
+CHF_UnemploymentRate;20170608;05:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+JPY_EcoWatchersSurvey:Current;20170608;05:00;Eco Watchers Survey: Current;Japan;JPY;2
+JPY_EcoWatchersSurvey:Outlook;20170608;05:00;Eco Watchers Survey: Outlook;Japan;JPY;2
+EUR_NetConsumerPriceIndex;20170608;04:30;Consumer Price Index n.s.a (YoY);Netherlands, The;EUR;1
+CNY_Imports;20170608;02:30;Imports (YoY) CNY;China;CNY;2
+CNY_Exports;20170608;02:30;Exports (YoY) CNY;China;CNY;2
+CNY_TradeBalanceCNY;20170608;02:30;Trade Balance CNY;China;CNY;2
+CNY_TradeBalanceUSD;20170608;02:30;Trade Balance USD;China;CNY;2
+AUD_Imports;20170608;01:30;Imports;Australia;AUD;2
+AUD_TradeBalance;20170608;01:30;Trade Balance;Australia;AUD;2
+AUD_Exports;20170608;01:30;Exports;Australia;AUD;2

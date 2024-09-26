@@ -1,0 +1,26 @@
+JPY_JibunBankManufacturingPMI;20210924;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+TRY_CapacityUtilization;20210924;07:00;Capacity Utilization;Turkey;TRY;1
+TRY_ManufacturingConfidence;20210924;07:00;Manufacturing Confidence;Turkey;TRY;1
+SEK_ProducerPriceIndex;20210924;07:30;Producer Price Index (MoM);Sweden;SEK;1
+EUR_ItaBusinessConfidence;20210924;08:00;Business Confidence;Italy;EUR;1
+EUR_ItaConsumerConfidence;20210924;08:00;Consumer Confidence;Italy;EUR;1
+EUR_GerIFO–CurrentAssessment;20210924;08:00;IFO – Current Assessment;Germany;EUR;2
+EUR_GerIFO–Expectations;20210924;08:00;IFO – Expectations;Germany;EUR;2
+EUR_GerIFO–BusinessClimate;20210924;08:00;IFO – Business Climate;Germany;EUR;2
+TRY_ForeignArrivals;20210924;08:00;Foreign Arrivals;Turkey;TRY;1
+MXN_RetailSales;20210924;11:00;Retail Sales (MoM);Mexico;MXN;1
+INR_BankLoanGrowth;20210924;11:35;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20210924;11:35;FX Reserves, USD;India;INR;1
+BRL_MidmonthInflation;20210924;12:00;Mid-month Inflation;Brazil;BRL;1
+BRL_CurrentAccount;20210924;12:31;Current Account;Brazil;BRL;1
+USD_NewHomeSales;20210924;14:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20210924;14:00;New Home Sales Change (MoM);United States;USD;1
+USD_CentralBankSpeech;20210924;14:00;Fed Chair Powell speech;United States;USD;3
+USD_BakerHughesUSOilRigCount;20210924;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+AUD_CFTCAUDNCNetPositions;20210924;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20210924;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+JPY_CFTCJPYNCNetPositions;20210924;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCS&P500NCNetPositions;20210924;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20210924;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20210924;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20210924;19:30;CFTC Oil NC Net Positions;United States;USD;1

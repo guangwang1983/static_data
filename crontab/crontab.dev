@@ -1,0 +1,240 @@
+#45 23 CET / 45 22 DST
+45 17 * * 1-5 source /home/svc_matterhorn/.bashrc ; addnewdynamicdate.sh 
+
+#01 01 CET / 01 00 DST
+01 19 * * 1,2,3,4,7 source /home/svc_matterhorn/.bashrc ; launchCronJob.py --command dailyRollAndExpiryUpdate.sh --subject "Daily Roll and Expiry Update" --sender "dailyCron@matterhorn"
+
+#01 01 CET / 01 00 DST
+01 19 * * 1,2,3,4,7 source /home/svc_matterhorn/.bashrc ; dailyTickSizeUpdate.sh
+
+#01 01 CET / 01 00 DST
+01 19 * * 1,2,3,4,7 source /home/svc_matterhorn/.bashrc ; dailyEcoCalendarUpdate.sh
+
+#02 01 CET / 02 00 DST
+02 19 * * 2-6 source /home/svc_matterhorn/.bashrc ; dailyRecordedDataRepack.py
+
+#30 01 CET / 30 00 DST
+30 19 * * 1,2,3,4,7 source /home/svc_matterhorn/.bashrc ; launchCronJob.py --command daily_referenceportfolio_release.sh  --subject "STATIC Daily Reference Portfolio Release" --sender "dailyCron@matterhorn"
+#30 01 CET / 30 00 DST
+30 19 * * 1,2,3,4,7 source /home/svc_matterhorn/.bashrc ; launchCronJob.py --command daily_referenceportfolio_release_slrl.sh  --subject "SLRL Daily Reference Portfolio Release" --sender "dailyCron@matterhorn"
+#30 01 CET / 30 00 DST
+30 19 * * 1,2,3,4,7 source /home/svc_matterhorn/.bashrc ; launchCronJob.py --command daily_referenceportfolio_release_initcadcurve.sh  --subject "Daily Reference Portfolio Release INIT CAD CURVE" --sender "dailyCron@matterhorn"
+
+#30 02 CET / 30 01 DST
+30 20 * * 1,2,3,4,5 source /home/svc_matterhorn/.bashrc ; dailyMorningRelease.sh
+
+#30 05 CET / 30 04 DST
+30 23 * * 7 source /home/svc_matterhorn/.bashrc ; dailyMondayMorningRelease.sh
+
+#00 09 CET / 00 08 DST
+#00 03 * * 1,2,3,4,5 source /home/svc_matterhorn/.bashrc ; reset_forbiddenlist.sh
+
+#00 07 CET / 00 06 DST
+00 01 * * 1,2,3,4,5 source /home/svc_matterhorn/.bashrc ; dailyRecorderRollout.sh
+
+#00 10 CET / 00 09 DST
+00 04 * * 2-6 source /home/svc_matterhorn/.bashrc ; dailyReconciliation.sh productionportfolio
+#00 10 CET / 00 09 DST
+00 04 * * 2-6 source /home/svc_matterhorn/.bashrc ; dailyReconciliation.sh productionportfolio_CURVE
+#00 10 CET / 00 09 DST
+00 04 * * 2-6 source /home/svc_matterhorn/.bashrc ; dailyReconciliation.sh productionportfolio_CAD
+#00 10 CET / 00 09 DST
+00 04 * * 2-6 source /home/svc_matterhorn/.bashrc ; dailyReconciliation.sh productionportfolio_SLRL
+
+#00 11 CET / 00 11 DST #BC cad only
+06 05 * * 1-5 source /home/svc_matterhorn/.bashrc ; dailyPaperTrade.sh MULTIPORTFOLIO_ACCUM_OOS_AllSegmentsSegAOverWeight_20210827_20mAUM
+
+#20 11 CET / 10 11 DST #BC includes 6S 6J
+26 05 * * 1-5 source /home/svc_matterhorn/.bashrc ; dailyPaperTrade.sh MULTIPORTFOLIO_ACCUM_OOS_Static_Curve_5AUM_Balanced_tfb20
+
+#00 11 CET / 10 11 DST
+06 05 * * 1-5 source /home/svc_matterhorn/.bashrc ; dailyPaperTrade.sh MULTIPORTFOLIO_ACCUM_OOS_StaticCADHedged_4mAUM_20210827
+
+#47 11 CET / 00 09 DST
+47 05 * * 2-6 source /home/svc_matterhorn/.bashrc ; daily_portfoliosim_productionportfolios.sh
+
+#00 12 CET / 00 11 DST
+00 06 * * 1-6 source /home/svc_matterhorn/.bashrc ; checkMorningReleaseFinished.sh
+
+#00 12 CET / 00 11 DST
+00 06 * * 1-7 source /home/svc_matterhorn/.bashrc ; launchCronJob.py --command dailyCondorNodeCheck.sh  --subject "Condor Node List Changed" --sender "dailyCron@matterhorn"
+
+#00 12 CET / 00 11 DST
+00 06 * * 2-5 source /home/svc_matterhorn/.bashrc ; launchCronJob.py --command dailyNodeDataCheck.sh --subject "Missing Node Data" --sender "dailyCron@matterhorn"
+
+#10 09 CET / 10 08 DST 
+#10 03 * * 2-6 source /home/svc_matterhorn/.bashrc ; launchCronJob.py --command crontab_check.sh --subject "Crontab Changed" --sender "dailyCron@matterhorn"
+
+#00 22 CET / 00 21 DST
+00 16 * * 1-5 source /home/svc_matterhorn/.bashrc ; dailyStaticDataCommit.sh
+
+#00 14 CET / 00 13 DST
+59 07 * * 1-5 source /home/svc_matterhorn/.bashrc ; launchCronJob.py --command globalpnl.py --subject "All Portfolios: Segment A PnL" --sender "dailyCron@matterhorn"
+00 08 * * 1-5 source /home/svc_matterhorn/.bashrc ; launchCronJob.py --command wqpnl.sh --subject "STATIC Seg A PnL Pos" --sender "dailyCron@matterhorn"
+00 08 * * 1-5 source /home/svc_matterhorn/.bashrc ; launchCronJob.py --command wqpnl_curve.sh --subject "CURVE Seg A PnL Pos" --sender "dailyCron@matterhorn"
+10 08 * * 1-5 source /home/svc_matterhorn/.bashrc ; launchCronJob.py --command wqpnl_init.sh --subject "DYNAMIC Seg A PnL Pos" --sender "dailyCron@matterhorn"
+10 08 * * 1-5 source /home/svc_matterhorn/.bashrc ; launchCronJob.py --command wqpnl_cad.sh --subject "CAD STATIC Seg A PnL Pos" --sender "dailyCron@matterhorn"
+#30 18 CET / 30 18 DST
+30 12 * * 1-5 source /home/svc_matterhorn/.bashrc ; launchCronJob.py --command wqpnl.sh --subject "STATIC UK Close PnL Pos" --sender "dailyCron@matterhorn"
+30 12 * * 1-5 source /home/svc_matterhorn/.bashrc ; launchCronJob.py --command wqpnl_curve.sh --subject "CURVE EOD PnL Pos" --sender "dailyCron@matterhorn"
+30 12 * * 1-5 source /home/svc_matterhorn/.bashrc ; launchCronJob.py --command wqpnl_init.sh --subject "DYNAMIC UK Close PnL Pos" --sender "dailyCron@matterhorn"
+30 12 * * 1-5 source /home/svc_matterhorn/.bashrc ; launchCronJob.py --command wqpnl_cad.sh --subject "CAD STATIC UK Close PnL Pos" --sender "dailyCron@matterhorn"
+#00 1831 CET / 00 21 DST
+31 12 * * 1-5 source /home/svc_matterhorn/.bashrc ; launchCronJob.py --command globalpnl.py --subject "All Portfolios: UK Close PnL" --sender "dailyCron@matterhorn"
+#00 2135 CET / 00 21 DST
+35 15 * * 1-5 source /home/svc_matterhorn/.bashrc ; launchCronJob.py --command wqpnl.sh --subject "STATIC EOD PnL Pos" --sender "dailyCron@matterhorn"
+35 15 * * 1-5 source /home/svc_matterhorn/.bashrc ; launchCronJob.py --command wqpnl_init.sh --subject "DYNAMIC EOD PnL Pos" --sender "dailyCron@matterhorn"
+35 15 * * 1-5 source /home/svc_matterhorn/.bashrc ; launchCronJob.py --command wqpnl_cad.sh --subject "CAD STATIC EOD PnL Pos" --sender "dailyCron@matterhorn"
+#00 2135 CET / 00 21 DST
+35 15 * * 1-5 source /home/svc_matterhorn/.bashrc ; launchCronJob.py --command globalpnl.py --subject "All Portfolios: EOD PnL" --sender "dailyCron@matterhorn"
+
+#----------------------------------------------
+#Library Update
+#----------------------------------------------
+
+#00 12 CET / 00 08 DST
+#Check node data for last 5 days and clear the node status file first
+#00 06 * * 6 source /home/svc_matterhorn/.bashrc ; launchCronJob.py --command weekendNodeDataCheck.sh --subject "Missing Node Data" --sender "dailyCron@matterhorn"
+
+#00 15 CET / 00 12 DST
+#00 09 * * 6 source /home/svc_matterhorn/.bashrc ; launchCronJob.py --command checkMissingDatesFile.py --subject "Library will not be updated in one hour (1600 CET). Manual restart required." --sender "dailyCron@matterhorn"
+
+#All FX SL3L Sub-libraries:
+#----------------------------------------------
+#05 23 CET / 05 21 DST
+05 03 * * 7 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn/production/library/sl3l_eurgbp; run_signal_execution_txh5_intradaypnl_UPDATE.sh 5 0 False 10000 FX3_TXMerger
+#05 23 CET / 05 21 DST
+05 03 * * 7 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn/production/library/sl3l_eurcad; run_signal_execution_txh5_intradaypnl_UPDATE.sh 5 0 False 10000 FX4_TXMerger
+
+
+#All Continues Dynamic ORG signal Sub-libraries:
+#----------------------------------------------
+##05 24 CET / 05 12 DST
+#05 18 * * 6 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn10/production/library/slrl_allmodels_672space_ContinuesContracts_exma; run_slrl_sublib_weekly_update_continues_rerun_txh5.sh 5 1 1 SLRL_TXMerger No No ORG ENGINE
+##05 24 CET / 05 12 DST
+#05 18 * * 6 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn7/production/library/slrl_allmodels_SegmentABC_regulate_ContinuesContracts; run_slrl_sublib_weekly_update_continues_rerun_txh5.sh 5 1 1 SLRL2_TXMerger No Yes ORG ENGINE
+##05 24 CET / 05 12 DST
+#05 18 * * 6 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn10/production/library/slrl_allmodels_672space_pureSegmentA_ContinuesContracts; run_slrl_sublib_weekly_update_continues_rerun_txh5.sh 5 1 10000 SLRL3_TXMerger No No ORG SEGMENT
+##05 24 CET / 05 12 DST
+#05 18 * * 6 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn7/production/library/slrl_allmodels_SegmentA_regulate_ContinuesContracts; run_slrl_sublib_weekly_update_continues_rerun_txh5.sh 5 1 10000 SLRLFX_TXMerger No Yes ORG SEGMENT
+##05 24 CET / 05 12 DST
+#05 18 * * 6 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn10/production/library/slrl_allmodels_672space_pureSegmentBC_ContinuesContracts; run_slrl_sublib_weekly_update_continues_rerun_txh5.sh 5 3600 10000 SLRL4_TXMerger No No ORG ENGINE
+##05 24 CET / 05 12 DST
+#05 18 * * 6 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn7/production/library/slrl_allmodels_SegmentBC_regulate_ContinuesContracts; run_slrl_sublib_weekly_update_continues_rerun_txh5.sh 5 3600 10000 SLRL5_TXMerger No Yes ORG ENGINE
+
+
+#All Continues Dynamic SV signal Sub-libraries:
+#----------------------------------------------
+##05 24 CET / 05 12 DST
+05 06 * * 6 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn10/production/library/slrl_allmodels_SegmentABC_noneregulate_ContinuesContracts_SV_EngineVola; run_slrl_sublib_weekly_update_continues.sh 5 1 1 SLRL_TXMerger No No SV ENGINE
+##05 24 CET / 05 12 DST
+05 06 * * 6 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn10/production/library/slrl_allmodels_SegmentABC_regulate_ContinuesContracts_SV_EngineVola; run_slrl_sublib_weekly_update_continues.sh 5 1 1 SLRL2_TXMerger No Yes SV ENGINE
+
+#05 24 CET / 05 12 DST
+05 06 * * 6 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn11/production/library/slrl_allmodels_SegmentA_noneregulate_ContinuesContracts_SV_SegmentVola; run_slrl_sublib_weekly_update_continues.sh 5 10000 1 SLRL3_TXMerger No No SV SEGMENT
+#05 24 CET / 05 12 DST
+05 06 * * 6 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn11/production/library/slrl_allmodels_SegmentA_regulate_ContinuesContracts_SV_SegmentVola; run_slrl_sublib_weekly_update_continues.sh 5 10000 1 SLRL4_TXMerger No Yes SV SEGMENT
+
+#05 24 CET / 05 12 DST
+05 06 * * 6 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn12/production/library/slrl_allmodels_672space_pureSegmentBC_ContinuesContracts_SV_EngineVola; run_slrl_sublib_weekly_update_continues.sh 5 20000 1 SLRL5_TXMerger No No SV ENGINE
+#05 24 CET / 05 12 DST
+05 06 * * 6 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn12/production/library/slrl_allmodels_SegmentBC_regulate_ContinuesContracts_SV_EngineVola; run_slrl_sublib_weekly_update_continues.sh 5 20000 1 SLRL6_TXMerger No Yes SV ENGINE
+
+15 06 * * 6 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn5/production/library/slrl_Static_SegmentABC_regulate_SV_EngineVola; run_slrl_sublib_weekly_update_continues.sh 5 1 1 SLRL_TXMerger No Yes SV ENGINE
+15 06 * * 6 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn5/production/library/slrl_Static_SegmentABC_noneregulate_SV_EngineVola; run_slrl_sublib_weekly_update_continues.sh 5 1 1 SLRL2_TXMerger No No SV ENGINE
+15 06 * * 6 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn6/production/library/slrl_JPYspotFXmodels_JPYpairs_regulate_SV_SegmentVola; run_slrl_sublib_weekly_update_continues.sh 5 1 1 SLRL3_TXMerger Yes Yes SV SEGMENT
+
+#All Static ORG Sub-libraries:
+#----------------------------------------------
+#GM
+#----------------------------------------------
+#05 14 CET / 05 12 DST
+05 08 * * 6 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn2/production/library/slsl_fixedincomefutures; run_signal_execution_txh5_intradaypnl_UPDATE.sh 5 1 False 1 FI_TXMerger
+
+#05 14 CET / 05 12 DST
+05 08 * * 6 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn4/production/library/slsl_equityindexfutures; run_signal_execution_txh5_intradaypnl_UPDATE.sh 5 1 False 3600 EQ_TXMerger
+35 08 * * 6 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn4/production/library/slsl_equityindexfutures_RTY_ORG; run_signal_execution_txh5_intradaypnl_UPDATE.sh 5 1 False 3600 EQ_TXMerger
+
+#05 14 CET / 05 12 DST
+05 08 * * 6 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn3/production/library/sl3l_currencyfutures; run_signal_execution_txh5_intradaypnl_UPDATE.sh 5 7000 False 10000 FX_TXMerger
+
+#05 14 CET / 05 12 DST
+05 08 * * 6 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn9/production/library/sl3l_currency_futures_sw3; run_signal_execution_txh5_intradaypnl_UPDATE.sh 5 7000 False 10000 FX3_TXMerger
+
+#05 14 CET / 05 12 DST
+05 08 * * 6 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn3/production/library/sl3l_currencyfutures_cad; run_signal_execution_txh5_intradaypnl_UPDATE.sh 5 20000 False 3600 FX2_TXMerger
+
+#Curve
+#----------------------------------------------
+#05 18 CET / 05 12 DST
+05 14 * * 6 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn2/production/library/slsl_fixedincomecurve_limliq3600; run_signal_execution_txh5_intradaypnl_UPDATE.sh 5 1 False 1 IR_TXMerger
+
+#05 11 CET / 05 12 DST
+05 14 * * 6 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn2/production/library/slsl_fixedincomecurve2_limliq3600; run_signal_execution_txh5_intradaypnl_UPDATE.sh 5 1000 False 1800 IR2_TXMerger
+
+#05 11 CET / 05 12 DST
+05 14 * * 6 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn2/production/library/slsl_fixedincomecurve3_limliq3600; run_signal_execution_txh5_intradaypnl_UPDATE.sh 5 1800 False 3600 IR3_TXMerger
+
+#05 11 CET / 05 12 DST
+05 14 * * 6 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn2/production/library/slsl_fixedincomecurve4_limliq3600; run_signal_execution_txh5_intradaypnl_UPDATE.sh 5 6000 False 5400 IR4_TXMerger
+
+#05 11 CET / 05 12 DST
+05 14 * * 6 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn2/production/library/slsl_fixedincomecurve5_limliq3600; run_signal_execution_txh5_intradaypnl_UPDATE.sh 5 7000 False 7200 IR5_TXMerger
+
+#05 11 CET / 05 12 DST
+05 14 * * 6 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn2/production/library/slsl_fixedincomecurve6_limliq3600; run_signal_execution_txh5_intradaypnl_UPDATE.sh 5 7000 False 9000 IR6_TXMerger
+
+#05 11 CET / 05 12 DST
+05 14 * * 6 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn2/production/library/slsl_fixedincomecurve7_limliq3600; run_signal_execution_txh5_intradaypnl_UPDATE.sh 5 12000 False 10800 IR7_TXMerger
+
+#05 11 CET / 05 12 DST
+05 14 * * 6 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn4/production/library/slsl_fixedincomefutures_cad; run_signal_execution_txh5_intradaypnl_UPDATE.sh 5 12000 False 7200 FI2_TXMerger
+
+
+#All Static SV Sub-libraries:
+#----------------------------------------------
+#30 06 CET 
+30 19 * * 6 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn9/production/library/sl3l_eurgbp_whitendrift; run_signal_execution_txh5_intradaypnl_UPDATE.sh 5 0 False 0 WDTXMerger
+#30 06 CET 
+30 19 * * 6 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn/production/library/sl3l_currencyfutures_whitendrift; run_signal_execution_txh5_intradaypnl_UPDATE.sh 5 0 False 0 WD2TXMerger
+#30 06 CET 
+30 19 * * 6 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn/production/library/sl3l_currencyfutures_whitendrift_sw2; run_signal_execution_txh5_intradaypnl_UPDATE.sh 5 3600 False 0 WD3TXMerger
+#30 06 CET 
+30 19 * * 6 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn/production/library/sl3l_currencyfutures_whitendrift_sw3; run_signal_execution_txh5_intradaypnl_UPDATE.sh 5 3600 False 5400 WD4TXMerger
+#30 06 CET 
+30 19 * * 6 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn/production/library/slsl_fixedincomefutures_whitendrift; run_signal_execution_txh5_intradaypnl_UPDATE.sh 5 5400 False 3600 WD5TXMerger
+31 19 * * 7 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn4/production/library/slsl_fixedincomefutures_cad_SV; run_signal_execution_txh5_intradaypnl_UPDATE.sh 5 5400 False 3600 WD5TXMerger
+#30 06 CET 
+30 19 * * 6 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn/production/library/slsl_equityindexfutures_whitendrift; run_signal_execution_txh5_intradaypnl_UPDATE.sh 5 5400 False 5400 WD6TXMerger
+#30 06 CET
+30 19 * * 6 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn/production/library/sl3l_currencyfutures_6C_SV; run_signal_execution_txh5_intradaypnl_UPDATE.sh 5 5400 False 5400 WD6TXMerger
+
+#SV Curve
+#----------------------------------------------
+30 01 * * 7 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn6/production/library/slsl_usstirscurve_whitendrift; run_signal_execution_txh5_intradaypnl_UPDATE.sh 5 0 False 4600 WD7TXMerger
+30 01 * * 7 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn6/production/library/slsl_eustirscurve_whitendrift; run_signal_execution_txh5_intradaypnl_UPDATE.sh 5 3600 False 4600 WD8TXMerger
+30 01 * * 7 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn6/production/library/slsl_ukstirscurve_whitendrift; run_signal_execution_txh5_intradaypnl_UPDATE.sh 5 7200 False 4600 WD9TXMerger
+30 01 * * 7 source /home/svc_matterhorn/.bashrc ;cd /dat/matterhorn6/production/library/slsl_fixedincomecurve1_whitendrift; run_signal_execution_txh5_intradaypnl_UPDATE.sh 5 7200 False 4600 WDTXMerger
+
+
+#00 17 CET / 00 00 DST
+55 11 * * 7 source /home/svc_matterhorn/.bashrc ; weekly_portfolios_update.sh
+55 11 * * 7 source /home/svc_matterhorn/.bashrc ; weekly_portfolios_update_slrl.sh
+31 12 * * 7 source /home/svc_matterhorn/.bashrc ; weekly_portfolios_update_cadcurve.sh
+00 14 * * 7 source /home/svc_matterhorn/.bashrc ; weekly_portfolios_update_incubator.sh
+
+#-----------------------------------------------
+#Risk survey
+#-----------------------------------------------
+#01 08 CET / 00 06 DST
+01 02 * * 1,2,3,4,5 source /home/svc_matterhorn/.bashrc ; risk_pnl.sh restart
+#01 08 CET / 00 06 DST
+01 02 * * 1,2,3,4,5 source /home/svc_matterhorn/.bashrc ; risk_pnl_general.sh curve restart
+#01 08 CET / 00 06 DST
+01 02 * * 1,2,3,4,5 source /home/svc_matterhorn/.bashrc ; risk_pnl_general.sh cad restart
+#01 08 CET / 00 06 DST
+01 02 * * 1,2,3,4,5 source /home/svc_matterhorn/.bashrc ; risk_pnl_general.sh init restart
+
+
+
+

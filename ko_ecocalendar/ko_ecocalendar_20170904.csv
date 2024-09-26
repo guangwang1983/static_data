@@ -1,0 +1,17 @@
+CAD_LaborDay;20170904;00:00;Labor Day;Canada;CAD;0
+USD_LaborDay;20170904;00:00;Labor Day;United States;USD;0
+TRY_SacrificeFeast;20170904;00:00;Sacrifice Feast;Turkey;TRY;0
+AUD_TDSecuritiesInflation;20170904;01:00;TD Securities Inflation (MoM);Australia;AUD;2
+AUD_CompanyGrossOperatingProfits;20170904;01:30;Company Gross Operating Profits (QoQ);Australia;AUD;1
+AUD_ANZJobAdvertisements;20170904;01:30;ANZ Job Advertisements;Australia;AUD;1
+IDR_Inflation;20170904;04:00;Inflation (MoM);Indonesia;IDR;1
+IDR_CoreInflation;20170904;04:00;Core Inflation (YoY);Indonesia;IDR;1
+BRL_FipeIPCInflation;20170904;08:00;Fipe IPC Inflation;Brazil;BRL;1
+EUR_EurSentixInvestorConfidence;20170904;08:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+GBP_S&PGlobalConstructionPMI;20170904;08:30;S&P Global Construction PMI;United Kingdom;GBP;2
+EUR_EurProducerPriceIndex;20170904;09:00;Producer Price Index (YoY);European Monetary Union;EUR;2
+DKK_CurrencyReserves;20170904;14:00;Currency Reserves;Denmark;DKK;1
+KRW_FXReserves;20170904;21:00;FX Reserves;South Korea;KRW;1
+KRW_CurrentAccount;20170904;23:00;Current Account Balance;South Korea;KRW;1
+GBP_RetailSales;20170904;23:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+AUD_AiGPerformanceofServicesIndex;20170904;23:30;AiG Performance of Services Index;Australia;AUD;1

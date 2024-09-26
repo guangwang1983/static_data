@@ -1,0 +1,26 @@
+AUD_CentralBankSpeech;20220513;02:00;RBA Bullock speech;Australia;AUD;2
+AUD_HIANewHomeSales;20220513;02:00;HIA New Home Sales (MoM);Australia;AUD;2
+RON_IndustrialProduction;20220513;06:00;Industrial Production (MoM);Romania;RON;1
+NOK_GrossDomesticProduct;20220513;06:00;Gross Domestic Product Growth Mainland;Norway;NOK;1
+TRY_IndustrialProduction;20220513;07:00;Industrial Production (YoY);Turkey;TRY;1
+HUF_IndustrialOutput;20220513;07:00;Industrial Output (YoY);Hungary;HUF;1
+PLN_ConsumerPriceIndex;20220513;08:00;Consumer Price Index (MoM);Poland;PLN;1
+CZK_CurrentAccount;20220513;08:00;Current Account (MoM);Czech Republic;CZK;1
+CNY_M2MoneySupply;20220513;09:00;M2 Money Supply (YoY);China;CNY;1
+CNY_NewLoans;20220513;09:00;New Loans;China;CNY;1
+EUR_EurIndustrialProduction;20220513;09:00;Industrial Production s.a. (MoM);European Monetary Union;EUR;2
+PLN_CurrentAccount;20220513;12:00;Current Account;Poland;PLN;1
+USD_ImportPriceIndex;20220513;12:30;Import Price Index (YoY);United States;USD;1
+USD_ExportPriceIndex;20220513;12:30;Export Price Index (MoM);United States;USD;1
+RUB_CentralBankReserves;20220513;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_MichiganConsumerSentimentIndex;20220513;14:00;Michigan Consumer Sentiment Index;United States;USD;3
+EUR_EurCentralBankSpeech;20220513;16:00;ECB Schnabel speech;European Monetary Union;EUR;2
+RUB_ConsumerPriceIndex;20220513;16:00;Consumer Price Index (MoM);Russia;RUB;1
+USD_BakerHughesUSOilRigCount;20220513;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20220513;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20220513;19:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20220513;19:30;CFTC Gold NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20220513;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20220513;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20220513;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20220513;19:30;CFTC AUD NC Net Positions;Australia;AUD;1

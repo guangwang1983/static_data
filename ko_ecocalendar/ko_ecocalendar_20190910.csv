@@ -1,0 +1,33 @@
+AUD_NationalAustraliaBankBusinessConfidence;20190910;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20190910;01:30;National Australia Bank Business Conditions;Australia;AUD;1
+CNY_ConsumerPriceIndex;20190910;01:30;Consumer Price Index (YoY);China;CNY;3
+CNY_ProducerPriceIndex;20190910;01:30;Producer Price Index (YoY);China;CNY;2
+EUR_FraNonfarmPayrolls;20190910;05:30;Nonfarm Payrolls (QoQ);France;EUR;1
+NOK_CoreInflation;20190910;06:00;Core Inflation (MoM);Norway;NOK;1
+NOK_ConsumerPriceIndex;20190910;06:00;Consumer Price Index (YoY);Norway;NOK;1
+DKK_Inflation;20190910;06:00;Inflation (HICP) (YoY);Denmark;DKK;1
+DKK_ConsumerPriceIndex;20190910;06:00;Consumer Price Index (YoY);Denmark;DKK;1
+JPY_MachineToolOrders;20190910;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+NOK_ProducerPriceIndex;20190910;06:00;Producer Price Index (YoY);Norway;NOK;1
+EUR_FraIndustrialOutput;20190910;06:45;Industrial Output (MoM);France;EUR;1
+CZK_ConsumerPriceIndex;20190910;07:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+HUF_ConsumerPriceIndex;20190910;07:00;Core Consumer Price Index (YoY);Hungary;HUF;1
+SEK_ConsumerPriceIndex;20190910;07:30;Consumer Price Index (YoY);Sweden;SEK;1
+EUR_ItaIndustrialOutput;20190910;08:00;Industrial Output s.a. (MoM);Italy;EUR;1
+GBP_AverageEarningsExcludingBonus;20190910;08:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountChange;20190910;08:30;Claimant Count Change;United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20190910;08:30;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_AverageEarningsIncludingBonus;20190910;08:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;3
+GBP_ClaimantCountRate;20190910;08:30;Claimant Count Rate;United Kingdom;GBP;1
+IDR_RetailSales;20190910;09:00;Retail Sales (YoY);Indonesia;IDR;1
+USD_NFIBBusinessOptimismIndex;20190910;10:00;NFIB Business Optimism Index;United States;USD;1
+ZAR_ManufacturingProductionIndex;20190910;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+CAD_HousingStarts;20190910;12:15;Housing Starts s.a (YoY);Canada;CAD;1
+CAD_BuildingPermits;20190910;12:30;Building Permits (MoM);Canada;CAD;1
+USD_RedbookIndex;20190910;12:55;Redbook Index (YoY);United States;USD;1
+USD_JOLTSJobOpenings;20190910;14:00;JOLTS Job Openings;United States;USD;1
+USD_Auction;20190910;17:00;3-Year Note Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20190910;20:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_VisitorArrivals;20190910;22:45;Visitor Arrivals (YoY);New Zealand;NZD;1
+KRW_UnemploymentRate;20190910;23:00;Unemployment Rate;South Korea;KRW;1
+JPY_BSILargeManufacturingConditionsIndex;20190910;23:50;BSI Large Manufacturing Conditions Index (QoQ);Japan;JPY;1

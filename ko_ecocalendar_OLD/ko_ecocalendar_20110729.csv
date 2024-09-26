@@ -1,0 +1,43 @@
+USD_BarackObamaPressConference;20110729;14:20;Barack Obama Press Conference;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20110729;13:55;Michigan Consumer Sentiment Index;United States;USD;1
+USD_ChicagoPurchasingManagers'Index;20110729;13:45;Chicago Purchasing Managers' Index;United States;USD;2
+BRL_NominalBudgetBalance;20110729;13:30;Nominal Budget Balance;Brazil;BRL;1
+BRL_PrimaryBudgetSurplus;20110729;13:30;Primary Budget Surplus;Brazil;BRL;1
+EUR_BelGrossDomesticProduct;20110729;13:00;Gross Domestic Product (QoQ);Belgium;EUR;1
+CAD_RawMaterialPriceIndex;20110729;12:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20110729;12:30;Industrial Product Price (MoM);Canada;CAD;1
+USD_GrossDomesticProduct;20110729;12:30;Gross Domestic Product Annualized;United States;USD;2
+USD_EmploymentCostIndex;20110729;12:30;Employment Cost Index;United States;USD;1
+CAD_GrossDomesticProduct;20110729;12:30;Gross Domestic Product (MoM);Canada;CAD;2
+USD_CorePersonalConsumptionExpenditures;20110729;12:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+ZAR_TradeBalance;20110729;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+INR_BankLoanGrowth;20110729;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20110729;11:30;FX Reserves, USD;India;INR;1
+INR_FederalFiscalDeficitINR;20110729;10:30;Federal Fiscal Deficit, INR;India;INR;1
+EUR_EurConsumerPriceIndex;20110729;09:00;Consumer Price Index (YoY);European Monetary Union;EUR;2
+EUR_ItaConsumerPriceIndex;20110729;09:00;Consumer Price Index (EU Norm) (MoM);Italy;EUR;1
+EUR_GreRetailSales;20110729;09:00;Retail Sales (YoY);Greece;EUR;1
+EUR_GreProducerPriceIndex;20110729;09:00;Producer Price Index (YoY);Greece;EUR;1
+EUR_SpaCurrentAccount;20110729;08:39;Current Account Balance;Spain;EUR;1
+GBP_NetLendingtoIndividuals;20110729;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20110729;08:30;Consumer Credit;United Kingdom;GBP;2
+GBP_MortgageApprovals;20110729;08:30;Mortgage Approvals;United Kingdom;GBP;2
+GBP_M4MoneySupply;20110729;08:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+EUR_ItaProducerPriceIndex;20110729;08:00;Producer Price Index (MoM);Italy;EUR;1
+CZK_M2MoneySupply;20110729;08:00;M2 Money Supply (YoY);Czech Republic;CZK;1
+SEK_GrossDomesticProduct;20110729;07:30;Gross Domestic Product (QoQ);Sweden;SEK;1
+TRY_TradeBalance;20110729;07:00;Trade Balance;Turkey;TRY;1
+EUR_SpaUnemploymentSurvey;20110729;07:00;Unemployment Survey;Spain;EUR;1
+HUF_ProducerPriceIndex;20110729;07:00;Producer Price Index (YoY);Hungary;HUF;1
+EUR_SpaHICP;20110729;07:00;HICP (MoM);Spain;EUR;1
+NOK_RegisteredUnemployment;20110729;07:00;Registered Unemployment n.s.a;Norway;NOK;1
+EUR_FraProducerPrices;20110729;06:45;Producer Prices (MoM);France;EUR;1
+EUR_FraConsumerSpending;20110729;06:45;Consumer Spending (MoM);France;EUR;1
+GBP_NationwideHousingPrices;20110729;06:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;2
+EUR_GerRetailSales;20110729;06:00;Retail Sales (YoY);Germany;EUR;2
+ZAR_M3MoneySupply;20110729;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+ZAR_PrivateSectorCredit;20110729;06:00;Private Sector Credit;South Africa;ZAR;1
+JPY_AnnualizedHousingStarts;20110729;05:00;Annualized Housing Starts;Japan;JPY;2
+JPY_HousingStarts;20110729;05:00;Housing Starts (YoY);Japan;JPY;2
+JPY_VehicleProduction;20110729;04:00;Vehicle Production (YoY);Japan;JPY;1
+AUD_PrivateSectorCredit;20110729;01:30;Private Sector Credit (YoY);Australia;AUD;2

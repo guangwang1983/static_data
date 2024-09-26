@@ -1,0 +1,18 @@
+AUD_CentralBankSpeech;20100218;22:30;RBA Governor Stevens speech;Australia;AUD;1
+USD_CentralBankSpeech;20100218;18:00;Fed Bullard speech;United States;USD;1
+USD_EIACrudeOilStocksChange;20100218;16:00;EIA Crude Oil Stocks Change;United States;USD;1
+USD_PhiladelphiaFedManufacturingSurvey;20100218;15:00;Philadelphia Fed Manufacturing Survey;United States;USD;1
+USD_ProducerPriceIndex;20100218;13:30;Producer Price Index (MoM);United States;USD;1
+USD_JoblessClaims;20100218;13:30;Continuing Jobless Claims;United States;USD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20100218;13:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20100218;13:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_ConsumerPriceIndex;20100218;12:00;Consumer Price Index (MoM);Canada;CAD;1
+GBP_CBIIndustrialTrendsSurveyOrders;20100218;11:00;CBI Industrial Trends Survey - Orders (MoM);United Kingdom;GBP;1
+CHF_ZEWSurveyExpectations;20100218;10:00;ZEW Survey - Expectations;Switzerland;CHF;2
+GBP_MortgageApprovals;20100218;09:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_M4MoneySupply;20100218;09:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+GBP_PublicSectorNetBorrowing;20100218;09:30;Public Sector Net Borrowing;United Kingdom;GBP;2
+CHF_TradeBalance;20100218;07:15;Trade Balance;Switzerland;CHF;2
+JPY_CoincidentIndex;20100218;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20100218;05:00;Leading Economic Index;Japan;JPY;1
+JPY_BoJInterestRateDecision;20100218;03:19;BoJ Interest Rate Decision;Japan;JPY;3

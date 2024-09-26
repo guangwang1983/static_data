@@ -1,0 +1,48 @@
+COP_GrossDomesticProduct;20130620;17:00;Gross Domestic Product (YoY);Colombia;COP;1
+USD_EIANaturalGasStorageChange;20130620;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_AmericanPetroleumInstituteMonthlyReport;20130620;14:00;American Petroleum Institute Monthly Report ;United States;USD;1
+USD_ExistingHomeSalesChange;20130620;14:00;Existing Home Sales Change (MoM);United States;USD;2
+USD_ExistingHomeSales;20130620;14:00;Existing Home Sales (MoM);United States;USD;1
+EUR_EurConsumerConfidence;20130620;14:00;Consumer Confidence;European Monetary Union;EUR;2
+USD_PhiladelphiaFedManufacturingSurvey;20130620;14:00;Philadelphia Fed Manufacturing Survey;United States;USD;2
+GBP_CentralBankSpeech;20130620;13:15;BoE Fisher speech;United Kingdom;GBP;1
+MXN_RetailSales;20130620;13:00;Retail Sales (YoY);Mexico;MXN;1
+RUB_CentralBankReserves;20130620;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_MarkitManufacturingPMI;20130620;12:58;Markit Manufacturing PMI;United States;USD;2
+USD_JoblessClaims;20130620;12:30;Initial Jobless Claims;United States;USD;2
+BRL_UnemploymentRate;20130620;12:00;Unemployment Rate;Brazil;BRL;1
+RUB_UnemploymentRate;20130620;12:00;Unemployment Rate;Russia;RUB;1
+EGP_CBEInterestRateDecision;20130620;10:00;CBE Interest Rate Decision;Egypt;EGP;0
+EUR_SloUnemploymentRate;20130620;10:00;Unemployment Rate;Slovakia;EUR;1
+GBP_CBIIndustrialTrendsSurveyOrders;20130620;10:00;CBI Industrial Trends Survey - Orders (MoM);United Kingdom;GBP;1
+RUB_GrossDomesticProduct;20130620;10:00;Gross Domestic Product Monthly (YoY);Russia;RUB;1
+EUR_SpaAuction;20130620;09:03;10-y Obligaciones Auction;Spain;EUR;1
+GBP_RetailSales;20130620;08:30;Retail Sales (YoY);United Kingdom;GBP;2
+HKD_ConsumerPriceIndex;20130620;08:30;Consumer Price Index;Hong Kong SAR;HKD;1
+EUR_ItaIndustrialOrders;20130620;08:00;Industrial Orders n.s.a (YoY);Italy;EUR;1
+EUR_ItaIndustrialSales;20130620;08:00;Industrial Sales s.a. (MoM);Italy;EUR;1
+NOK_NorgesBankInterestRateDecision;20130620;08:00;Norges Bank Interest Rate Decision;Norway;NOK;1
+EUR_EurMarkitPMIComposite;20130620;07:58;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitManufacturingPMI;20130620;07:58;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20130620;07:58;Markit Services PMI;European Monetary Union;EUR;2
+CHF_SNBInterestRateDecision;20130620;07:30;SNB Interest Rate Decision;Switzerland;CHF;3
+EUR_NetUnemploymentRate;20130620;07:30;Unemployment Rate s.a (3M);Netherlands, The;EUR;1
+EUR_NetConsumerConfidenceAdj;20130620;07:30;Consumer Confidence Adj;Netherlands, The;EUR;1
+EUR_GerMarkitManufacturingPMI;20130620;07:28;Markit Manufacturing PMI;Germany;EUR;2
+EUR_GerMarkitServicesPMI;20130620;07:28;Markit Services PMI;Germany;EUR;2
+DKK_ConsumerConfidence;20130620;07:00;Consumer Confidence;Denmark;DKK;1
+DKK_RetailSales;20130620;07:00;Retail Sales (YoY);Denmark;DKK;1
+EUR_FraMarkitManufacturingPMI;20130620;06:58;Markit Manufacturing PMI;France;EUR;1
+EUR_FraMarkitServicesPMI;20130620;06:58;Markit Services PMI;France;EUR;1
+CHF_Imports;20130620;06:00;Imports (MoM);Switzerland;CHF;1
+CHF_Exports;20130620;06:00;Exports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20130620;06:00;Trade Balance;Switzerland;CHF;2
+EUR_GerProducerPriceIndex;20130620;06:00;Producer Price Index (MoM);Germany;EUR;1
+JPY_CoincidentIndex;20130620;05:00;Coincident Index;Japan;JPY;2
+JPY_LeadingEconomicIndex;20130620;05:00;Leading Economic Index;Japan;JPY;2
+CHF_SNBFinancialStabilityReport;20130620;04:30;SNB Financial Stability Report;Switzerland;CHF;2
+CNY_CaixinManufacturingPMI;20130620;01:45;Caixin Manufacturing PMI;China;CNY;2
+AUD_RBAForeignExchangeTransaction;20130620;01:30;RBA Foreign Exchange Transaction;Australia;AUD;1
+AUD_RBABulletin;20130620;00:30;RBA Bulletin;Australia;AUD;2
+EUR_EurEurogroupMeeting;20130620;00:00;Eurogroup Meeting;European Monetary Union;EUR;2
+ARS_FlagDay;20130620;00:00;Flag Day;Argentina;ARS;0

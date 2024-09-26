@@ -1,0 +1,24 @@
+GBP_GfKConsumerConfidence;20221118;00:01;GfK Consumer Confidence;United Kingdom;GBP;2
+GBP_RetailSales;20221118;07:00;Retail Sales ex-Fuel (MoM);United Kingdom;GBP;2
+NOK_GrossDomesticProduct;20221118;07:00;Gross Domestic Product Growth;Norway;NOK;1
+SEK_UnemploymentRate;20221118;07:00;Unemployment Rate;Sweden;SEK;1
+CHF_IndustrialProduction;20221118;07:30;Industrial Production (YoY);Switzerland;CHF;2
+EUR_EurCentralBankSpeech;20221118;08:30;ECB President Lagarde speech;European Monetary Union;EUR;3
+INR_BankLoanGrowth;20221118;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20221118;11:30;FX Reserves, USD;India;INR;1
+CLP_GrossDomesticProduct;20221118;12:30;Gross Domestic Product (YoY);Chile;CLP;1
+CAD_RawMaterialPriceIndex;20221118;13:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20221118;13:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20221118;13:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20221118;13:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+USD_ExistingHomeSales;20221118;15:00;Existing Home Sales (MoM);United States;USD;1
+USD_ExistingHomeSalesChange;20221118;15:00;Existing Home Sales Change (MoM);United States;USD;1
+GBP_CentralBankSpeech;20221118;17:15;BoE Haskel speech;United Kingdom;GBP;2
+USD_BakerHughesUSOilRigCount;20221118;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CFTCGoldNCNetPositions;20221118;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20221118;20:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20221118;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20221118;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20221118;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20221118;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20221118;20:30;CFTC AUD NC Net Positions;Australia;AUD;1

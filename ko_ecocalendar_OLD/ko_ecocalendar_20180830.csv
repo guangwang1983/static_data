@@ -1,0 +1,59 @@
+JPY_IndustrialProduction;20180830;23:50;Industrial Production (YoY);Japan;JPY;1
+JPY_TokyoCPIexFoodEnergy;20180830;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20180830;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;2
+JPY_TokyoCPIexFreshFood;20180830;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;3
+JPY_UnemploymentRate;20180830;23:30;Unemployment Rate;Japan;JPY;2
+JPY_JobsApplicantsRatio;20180830;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+GBP_GfKConsumerConfidence;20180830;23:01;GfK Consumer Confidence;United Kingdom;GBP;2
+KRW_IndustrialOutput;20180830;23:00;Industrial Output (YoY);South Korea;KRW;1
+KRW_IndustrialOutputGrowth;20180830;23:00;Industrial Output Growth;South Korea;KRW;1
+KRW_ServiceSectorOutput;20180830;23:00;Service Sector Output;South Korea;KRW;1
+MXN_FiscalBalancepesos;20180830;21:00;Fiscal Balance, pesos;Mexico;MXN;1
+EUR_GerCentralBankSpeech;20180830;17:30;German Buba President Weidmann speech;Germany;EUR;2
+USD_EIANaturalGasStorageChange;20180830;14:30;EIA Natural Gas Storage Change;United States;USD;1
+RUB_CentralBankReserves;20180830;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_PersonalConsumptionExpendituresPriceIndex;20180830;12:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;2
+USD_CorePersonalConsumptionExpenditurePriceIndex;20180830;12:30;Core Personal Consumption Expenditure - Price Index (YoY);United States;USD;3
+USD_PersonalSpending;20180830;12:30;Personal Spending;United States;USD;2
+USD_PersonalIncome;20180830;12:30;Personal Income (MoM);United States;USD;2
+CAD_GrossDomesticProduct;20180830;12:30;Gross Domestic Product Annualized (QoQ);Canada;CAD;3
+USD_JoblessClaims;20180830;12:30;Initial Jobless Claims;United States;USD;2
+BRL_UnemploymentRate;20180830;12:00;Unemployment Rate;Brazil;BRL;1
+EUR_GerHarmonizedIndexofConsumerPrices;20180830;12:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+EUR_GerConsumerPriceIndex;20180830;12:00;Consumer Price Index (MoM);Germany;EUR;1
+CLP_IndustrialProduction;20180830;12:00;Industrial Production (YoY);Chile;CLP;1
+BRL_InflationIndexIGPM;20180830;11:00;Inflation Index/IGP-M;Brazil;BRL;1
+EUR_BelConsumerPriceIndex;20180830;11:00;Consumer Price Index (MoM);Belgium;EUR;1
+EUR_ItaAuction;20180830;09:50;10-y Bond Auction;Italy;EUR;1
+ZAR_ProducerPriceIndex;20180830;09:30;Producer Price Index (MoM);South Africa;ZAR;1
+ISK_ConsumerPriceIndex;20180830;09:00;Consumer Price Index (MoM);Iceland;ISK;1
+EUR_EurConsumerConfidence;20180830;09:00;Consumer Confidence;European Monetary Union;EUR;1
+EUR_EurBusinessClimate;20180830;09:00;Business Climate;European Monetary Union;EUR;2
+EUR_EurEconomicSentimentIndicator;20180830;09:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+EUR_EurServicesSentiment;20180830;09:00;Services Sentiment;European Monetary Union;EUR;1
+EUR_EurIndustrialConfidence;20180830;09:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_GreProducerPriceIndex;20180830;09:00;Producer Price Index (YoY);Greece;EUR;1
+EUR_PorConsumerConfidence;20180830;08:30;Consumer Confidence;Portugal;EUR;1
+EUR_PorBusinessConfidence;20180830;08:30;Business Confidence;Portugal;EUR;1
+GBP_NetLendingtoIndividuals;20180830;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+HKD_RetailSales;20180830;08:30;Retail Sales;Hong Kong SAR;HKD;1
+GBP_ConsumerCredit;20180830;08:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20180830;08:30;Mortgage Approvals;United Kingdom;GBP;2
+GBP_M4MoneySupply;20180830;08:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+EUR_GerUnemploymentChange;20180830;07:55;Unemployment Change;Germany;EUR;2
+EUR_GerUnemploymentRate;20180830;07:55;Unemployment Rate s.a.;Germany;EUR;2
+CHF_KOFLeadingIndicator;20180830;07:00;KOF Leading Indicator;Switzerland;CHF;2
+EUR_SpaHICP;20180830;07:00;HICP (YoY);Spain;EUR;1
+SEK_ConsumerConfidence;20180830;07:00;Consumer Confidence (MoM);Sweden;SEK;1
+EUR_SpaConsumerPriceIndex;20180830;07:00;Consumer Price Index (YoY);Spain;EUR;1
+EUR_AusProducerPriceIndex;20180830;07:00;Producer Price Index (MoM);Austria;EUR;1
+EUR_GerImportPriceIndex;20180830;06:00;Import Price Index (YoY);Germany;EUR;1
+DKK_IndustrialOutlook;20180830;06:00;Industrial Outlook;Denmark;DKK;1
+NOK_RetailSales;20180830;06:00;Retail Sales ;Norway;NOK;1
+ZAR_PrivateSectorCredit;20180830;06:00;Private Sector Credit;South Africa;ZAR;1
+ZAR_M3MoneySupply;20180830;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+AUD_BuildingPermits;20180830;01:30;Building Permits (MoM);Australia;AUD;1
+AUD_PrivateCapitalExpenditure;20180830;01:30;Private Capital Expenditure;Australia;AUD;1
+NZD_ANZActivityOutlook;20180830;01:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20180830;01:00;ANZ Business Confidence;New Zealand;NZD;1
+TRY_VictoryDay;20180830;00:00;Victory Day ;Turkey;TRY;0

@@ -1,0 +1,42 @@
+NZD_ANZActivityOutlook;20240327;00:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20240327;00:00;ANZ Business Confidence;New Zealand;NZD;1
+AUD_WestpacLeadingIndex;20240327;00:00;Westpac Leading Index (MoM);Australia;AUD;1
+AUD_ConsumerPriceIndex;20240327;00:30;Monthly Consumer Price Index (YoY);Australia;AUD;3
+DKK_UnemploymentRate;20240327;07:00;Unemployment Rate;Denmark;DKK;1
+DKK_GrossDomesticProduct;20240327;07:00;Gross Domestic Product (YoY);Denmark;DKK;1
+NOK_RetailSales;20240327;07:00;Retail Sales ;Norway;NOK;1
+SEK_TradeBalance;20240327;07:00;Trade Balance (MoM);Sweden;SEK;1
+HUF_CurrentAccount;20240327;07:30;Current Account Balance (QoQ);Hungary;HUF;1
+HUF_UnemploymentRate;20240327;07:30;Unemployment Rate (3M);Hungary;HUF;1
+EUR_FraConsumerConfidence;20240327;07:45;Consumer Confidence;France;EUR;1
+SEK_RiksbankInterestRateDecision;20240327;08:30;Riksbank Interest Rate Decision;Sweden;SEK;2
+CHF_ZEWSurvey–Expectations;20240327;09:00;ZEW Survey – Expectations;Switzerland;CHF;2
+GBP_FPCStatement;20240327;09:30;FPC Statement;United Kingdom;GBP;1
+GBP_FPCMeetingMinutes;20240327;09:30;FPC Meeting Minutes;United Kingdom;GBP;1
+EUR_EurBusinessClimate;20240327;10:00;Business Climate;Eurozone;EUR;2
+EUR_EurEconomicSentimentIndicator;20240327;10:00;Economic Sentiment Indicator;Eurozone;EUR;2
+EUR_EurIndustrialConfidence;20240327;10:00;Industrial Confidence;Eurozone;EUR;1
+EUR_EurConsumerConfidence;20240327;10:00;Consumer Confidence;Eurozone;EUR;2
+EUR_EurServicesSentiment;20240327;10:00;Services Sentiment;Eurozone;EUR;1
+EUR_ItaAuction;20240327;10:30;10-y Bond Auction;Italy;EUR;1
+USD_MBAMortgageApplications;20240327;11:00;MBA Mortgage Applications;United States;USD;1
+BRL_InflationIndexIGPM;20240327;11:00;Inflation Index/IGP-M;Brazil;BRL;1
+BRL_PrimaryBudgetSurplus;20240327;11:30;Primary Budget Surplus;Brazil;BRL;1
+BRL_NominalBudgetBalance;20240327;11:30;Nominal Budget Balance;Brazil;BRL;1
+MXN_JoblessRate;20240327;12:00;Jobless Rate s.a;Mexico;MXN;1
+MXN_TradeBalancesa;20240327;12:00;Trade Balance s/a, $;Mexico;MXN;1
+MXN_TradeBalance;20240327;12:00;Trade Balance, $;Mexico;MXN;1
+EUR_EurCentralBankSpeech;20240327;12:30;ECB Elderson speech;Eurozone;EUR;2
+ZAR_SARBInterestRateDecision;20240327;13:00;SARB Interest Rate Decision;South Africa;ZAR;1
+CHF_SNBQuarterlyBulletin;20240327;14:00;SNB Quarterly Bulletin;Switzerland;CHF;2
+USD_EIACrudeOilStocksChange;20240327;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+COP_NationalJoblessRate;20240327;15:00;National Jobless Rate;Colombia;COP;1
+RUB_IndustrialOutput;20240327;16:00;Industrial Output;Russia;RUB;1
+USD_Auction;20240327;17:00;7-Year Note Auction;United States;USD;1
+NZD_ANZ–RoyMorganConsumerConfidence;20240327;21:00;ANZ – Roy Morgan Consumer Confidence;New Zealand;NZD;2
+USD_CentralBankSpeech;20240327;22:00;Fed Waller speech;United States;USD;2
+DKK_MaundyThursday;20240327;22:00;Maundy Thursday ;Denmark;DKK;0
+NOK_MaundyThursday;20240327;22:00;Maundy Thursday;Norway;NOK;0
+JPY_BoJSummaryofOpinions;20240327;23:50;BoJ Summary of Opinions;Japan;JPY;1
+JPY_ForeignBondInvestment;20240327;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20240327;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1

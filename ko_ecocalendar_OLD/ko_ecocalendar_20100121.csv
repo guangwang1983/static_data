@@ -1,0 +1,19 @@
+USD_EIACrudeOilStocksChange;20100121;16:00;EIA Crude Oil Stocks Change;United States;USD;1
+CAD_BankofCanadaMonetaryPolicyReport;20100121;15:30;Bank of Canada Monetary Policy Report;Canada;CAD;2
+USD_PhiladelphiaFedManufacturingSurvey;20100121;15:00;Philadelphia Fed Manufacturing Survey;United States;USD;2
+USD_JoblessClaims;20100121;13:30;Initial Jobless Claims;United States;USD;2
+CAD_WholesaleSales;20100121;13:30;Wholesale Sales (MoM);Canada;CAD;1
+EUR_EurCentralBankSpeech;20100121;12:00;ECB President Trichet speech;European Monetary Union;EUR;2
+GBP_CBIIndustrialTrendsSurveyOrders;20100121;11:00;CBI Industrial Trends Survey - Orders (MoM);United Kingdom;GBP;1
+CHF_ZEWSurveyExpectations;20100121;10:00;ZEW Survey - Expectations;Switzerland;CHF;2
+GBP_CMLGrossMortgageLending;20100121;09:30;CML Gross Mortgage Lending s.a.;United Kingdom;GBP;0
+GBP_M4MoneySupply;20100121;09:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+GBP_PublicSectorNetBorrowing;20100121;09:30;Public Sector Net Borrowing;United Kingdom;GBP;1
+EUR_EurECBMonthlyReport;20100121;09:00;ECB Monthly Report;European Monetary Union;EUR;2
+EUR_EurMarkitManufacturingPMI;20100121;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20100121;09:00;Markit Services PMI;European Monetary Union;EUR;1
+EUR_GerMarkitManufacturingPMI;20100121;08:30;Markit Manufacturing PMI;Germany;EUR;2
+EUR_GerMarkitServicesPMI;20100121;08:30;Markit Services PMI;Germany;EUR;1
+JPY_CoincidentIndex;20100121;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20100121;05:00;Leading Economic Index;Japan;JPY;1
+AUD_NewMotorVehicleSales;20100121;00:30;New Motor Vehicle Sales (MoM);Australia;AUD;1

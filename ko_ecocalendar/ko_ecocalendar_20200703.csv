@@ -1,0 +1,19 @@
+JPY_JibunBankServicesPMI;20200703;00:30;Jibun Bank Services PMI;Japan;JPY;1
+AUD_RetailSales;20200703;01:30;Retail Sales s.a. (MoM);Australia;AUD;2
+CNY_CaixinServicesPMI;20200703;01:45;Caixin Services PMI;China;CNY;2
+RUB_S&PGlobalServicesPMI;20200703;06:00;S&P Global Services PMI;Russia;RUB;1
+EUR_FraBudgetBalance;20200703;06:45;Budget Balance;France;EUR;1
+TRY_ProducerPriceIndex;20200703;07:00;Producer Price Index (MoM);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20200703;07:00;Consumer Price Index (MoM);Turkey;TRY;1
+EUR_ItaHCOBServicesPMI;20200703;07:45;HCOB Services PMI;Italy;EUR;1
+EUR_FraHCOBServicesPMI;20200703;07:50;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20200703;07:50;HCOB Composite PMI;France;EUR;1
+EUR_GerHCOBServicesPMI;20200703;07:55;HCOB Services PMI;Germany;EUR;1
+EUR_GerHCOBCompositePMI;20200703;07:55;HCOB Composite PMI;Germany;EUR;2
+NOK_RegisteredUnemployment;20200703;08:00;Registered Unemployment n.s.a;Norway;NOK;1
+EUR_EurHCOBCompositePMI;20200703;08:00;HCOB Composite PMI;European Monetary Union;EUR;2
+EUR_EurHCOBServicesPMI;20200703;08:00;HCOB Services PMI;European Monetary Union;EUR;1
+GBP_S&PGlobalCIPSServicesPMI;20200703;08:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSCompositePMI;20200703;08:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;2
+INR_BankLoanGrowth;20200703;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20200703;11:30;FX Reserves, USD;India;INR;1

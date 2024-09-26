@@ -1,0 +1,35 @@
+AUD_WestpacConsumerConfidence;20230613;00:30;Westpac Consumer Confidence;Australia;AUD;2
+AUD_NationalAustraliaBankBusinessConditions;20230613;01:30;National Australia Bank Business Conditions;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConfidence;20230613;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+IDR_RetailSales;20230613;03:00;Retail Sales (YoY);Indonesia;IDR;1
+GBP_ClaimantCountChange;20230613;06:00;Claimant Count Change;United Kingdom;GBP;3
+GBP_ClaimantCountRate;20230613;06:00;Claimant Count Rate;United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20230613;06:00;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_AverageEarningsIncludingBonus;20230613;06:00;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_AverageEarningsExcludingBonus;20230613;06:00;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+RON_ConsumerPriceIndex;20230613;06:00;Consumer Price Index;Romania;RON;1
+EUR_GerConsumerPriceIndex;20230613;06:00;Consumer Price Index (YoY);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20230613;06:00;Harmonized Index of Consumer Prices (MoM);Germany;EUR;1
+CNY_M2MoneySupply;20230613;08:00;M2 Money Supply (YoY);China;CNY;1
+CNY_NewLoans;20230613;08:00;New Loans;China;CNY;1
+CZK_CurrentAccount;20230613;08:00;Current Account (MoM);Czech Republic;CZK;1
+EUR_GerZEWSurvey–EconomicSentiment;20230613;09:00;ZEW Survey – Economic Sentiment;Germany;EUR;2
+EUR_GerZEWSurvey–CurrentSituation;20230613;09:00;ZEW Survey – Current Situation;Germany;EUR;2
+EUR_EurZEWSurvey–EconomicSentiment;20230613;09:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;2
+GBP_Auction;20230613;09:30;10-y Bond Auction;United Kingdom;GBP;1
+USD_NFIBBusinessOptimismIndex;20230613;10:00;NFIB Business Optimism Index;United States;USD;1
+ILS_Imports;20230613;10:00;Imports;Israel;ILS;1
+ILS_Exports;20230613;10:00;Exports;Israel;ILS;1
+ILS_TradeBalance;20230613;10:00;Trade Balance;Israel;ILS;1
+PLN_CurrentAccount;20230613;12:00;Current Account;Poland;PLN;1
+USD_ConsumerPriceIndex;20230613;12:30;Consumer Price Index n.s.a (MoM);United States;USD;1
+USD_RedbookIndex;20230613;12:55;Redbook Index (YoY);United States;USD;1
+EUR_GerCurrentAccount;20230613;12:55;Current Account n.s.a.;Germany;EUR;1
+RUB_ForeignTrade;20230613;13:00;Foreign Trade;Russia;RUB;1
+GBP_CentralBankSpeech;20230613;14:00;BoE Governor Bailey speech;United Kingdom;GBP;3
+USD_Auction;20230613;17:00;30-Year Bond Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20230613;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_ExportPriceGrowth;20230613;21:00;Export Price Growth (YoY);South Korea;KRW;1
+KRW_ImportPriceGrowth;20230613;21:00;Import Price Growth (YoY);South Korea;KRW;1
+NZD_CurrentAccount;20230613;22:45;Current Account - GDP Ratio;New Zealand;NZD;1
+KRW_UnemploymentRate;20230613;23:00;Unemployment Rate;South Korea;KRW;1

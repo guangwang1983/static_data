@@ -1,0 +1,29 @@
+AUD_CommonwealthBankCompositePMI;20191203;22:00;Commonwealth Bank Composite PMI;Australia;AUD;1
+AUD_CommonwealthBankServicesPMI;20191203;22:00;Commonwealth Bank Services PMI;Australia;AUD;1
+KRW_FXReserves;20191203;22:00;FX Reserves;South Korea;KRW;1
+AUD_AiGPerformanceofServicesIndex;20191203;21:30;AiG Performance of Services Index;Australia;AUD;1
+USD_APIWeeklyCrudeOilStock;20191203;21:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_TotalVehicleSales;20191203;20:30;Total Vehicle Sales;United States;USD;1
+EUR_EurCentralBankSpeech;20191203;17:30;ECB De Guindos speech;European Monetary Union;EUR;2
+USD_Auction;20191203;16:30;52-Week Bill Auction;United States;USD;1
+DKK_CurrencyReserves;20191203;16:00;Currency Reserves;Denmark;DKK;1
+USD_ISMNYBusinessConditionsIndex;20191203;14:45;ISM-NY Business Conditions Index;United States;USD;1
+SGD_PurchasingManagersIndex;20191203;14:00;Purchasing Managers Index;Singapore;SGD;1
+NZD_GDTPriceIndex;20191203;14:00;GDT Price Index;New Zealand;NZD;2
+USD_RedbookIndex;20191203;13:55;Redbook Index (MoM);United States;USD;1
+BRL_GrossDomesticProduct;20191203;11:00;Gross Domestic Product (QoQ);Brazil;BRL;1
+GBP_Auction;20191203;10:30;10-y Bond Auction;United Kingdom;GBP;1
+EUR_EurProducerPriceIndex;20191203;10:00;Producer Price Index (YoY);European Monetary Union;EUR;1
+EUR_SpaAuction;20191203;09:40;6-Month Letras Auction;Spain;EUR;1
+GBP_MarkitConstructionPMI;20191203;09:30;Markit Construction PMI;United Kingdom;GBP;1
+ZAR_GrossDomesticProduct;20191203;09:30;Gross Domestic Product (YoY);South Africa;ZAR;1
+EUR_SpaUnemploymentChange;20191203;08:00;Unemployment Change;Spain;EUR;1
+EUR_FraBudget;20191203;07:45;Budget;France;EUR;1
+CHF_ConsumerPriceIndex;20191203;07:30;Consumer Price Index (YoY);Switzerland;CHF;2
+TRY_ProducerPriceIndex;20191203;07:00;Producer Price Index (MoM);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20191203;07:00;Consumer Price Index (MoM);Turkey;TRY;1
+JPY_Auction;20191203;03:35;10-y Bond Auction;Japan;JPY;1
+AUD_RBARateStatement;20191203;03:30;RBA Rate Statement;Australia;AUD;3
+AUD_RBAInterestRateDecision;20191203;03:30;RBA Interest Rate Decision;Australia;AUD;3
+AUD_CurrentAccount;20191203;00:30;Current Account Balance;Australia;AUD;1
+GBP_RetailSales;20191203;00:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2

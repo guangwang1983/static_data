@@ -1,0 +1,36 @@
+JPY_ForeignBondInvestment;20150805;23:50;Foreign Bond Investment;Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20150805;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+USD_EIACrudeOilStocksChange;20150805;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_ISMNonManufacturingPMI;20150805;14:00;ISM Non-Manufacturing PMI;United States;USD;2
+USD_MarkitServicesPMI;20150805;13:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20150805;13:45;Markit PMI Composite;United States;USD;2
+USD_TradeBalance;20150805;12:30;Trade Balance;United States;USD;2
+CAD_Exports;20150805;12:30;Exports;Canada;CAD;1
+CAD_Imports;20150805;12:30;Imports;Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20150805;12:30;International Merchandise Trade;Canada;CAD;1
+USD_ADPEmploymentChange;20150805;12:15;ADP Employment Change;United States;USD;2
+CLP_IMACEC;20150805;11:30;IMACEC;Chile;CLP;1
+INR_M3MoneySupply;20150805;11:30;M3 Money Supply;India;INR;1
+USD_MBAMortgageApplications;20150805;11:00;MBA Mortgage Applications;United States;USD;1
+EUR_PorUnemploymentRate;20150805;10:40;Unemployment Rate;Portugal;EUR;1
+ZAR_BusinessConfidenceIndex;20150805;09:30;Business Confidence Index;South Africa;ZAR;1
+ZAR_PurchasingManagerIndex;20150805;09:00;Purchasing Manager Index;South Africa;ZAR;1
+EUR_EurRetailSales;20150805;09:00;Retail Sales (MoM);European Monetary Union;EUR;1
+GBP_MarkitServicesPMI;20150805;08:30;Markit Services PMI;United Kingdom;GBP;1
+EUR_ItaIndustrialOutput;20150805;08:00;Industrial Output w.d.a (YoY);Italy;EUR;1
+EUR_EurMarkitPMIComposite;20150805;08:00;Markit PMI Composite;European Monetary Union;EUR;1
+EUR_EurMarkitServicesPMI;20150805;08:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_GerMarkitPMIComposite;20150805;07:55;Markit PMI Composite;Germany;EUR;1
+EUR_GerMarkitServicesPMI;20150805;07:55;Markit Services PMI;Germany;EUR;1
+EUR_FraMarkitPMIComposite;20150805;07:50;Markit PMI Composite;France;EUR;1
+EUR_FraMarkitServicesPMI;20150805;07:50;Markit Services PMI;France;EUR;1
+EUR_ItaMarkitServicesPMI;20150805;07:45;Markit Services PMI;Italy;EUR;1
+CHF_ConsumerPriceIndex;20150805;07:15;Consumer Price Index (YoY);Switzerland;CHF;2
+EUR_SpaMarkitServicesPMI;20150805;07:15;Markit Services PMI;Spain;EUR;1
+CZK_RetailSales;20150805;07:00;Retail Sales (YoY);Czech Republic;CZK;1
+HUF_RetailSales;20150805;07:00;Retail Sales (YoY);Hungary;HUF;1
+RUB_PurchasingManagerIndexServices;20150805;06:00;Purchasing Manager Index Services;Russia;RUB;1
+IDR_GrossDomesticProduct;20150805;04:00;Gross Domestic Product (QoQ);Indonesia;IDR;1
+HKD_NikkeiManufacturingPMI;20150805;02:30;Nikkei Manufacturing PMI;Hong Kong SAR;HKD;1
+CNY_CaixinServicesPMI;20150805;01:45;Caixin Services PMI;China;CNY;2
+JPY_MarkitServicesPMI;20150805;01:35;Markit Services PMI;Japan;JPY;2

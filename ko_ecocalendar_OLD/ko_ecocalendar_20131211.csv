@@ -1,0 +1,31 @@
+JPY_ForeignInvestmentinJapanStocks;20131211;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20131211;23:50;Foreign Bond Investment;Japan;JPY;1
+NZD_FoodPriceIndex;20131211;21:45;Food Price Index (MoM);New Zealand;NZD;1
+NZD_REINZHousePriceIndex;20131211;21:25;REINZ House Price Index (MoM);New Zealand;NZD;1
+NZD_RBNZInterestRateDecision;20131211;20:00;RBNZ Interest Rate Decision;New Zealand;NZD;3
+NZD_MonetaryPolicyStatement;20131211;20:00;Monetary Policy Statement ;New Zealand;NZD;3
+NZD_RBNZPressConference;20131211;20:00;RBNZ Press Conference;New Zealand;NZD;3
+USD_MonthlyBudgetStatement;20131211;19:00;Monthly Budget Statement;United States;USD;2
+USD_Auction;20131211;18:00;10-Year Note Auction;United States;USD;1
+USD_EIACrudeOilStocksChange;20131211;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_CentralBankSpeech;20131211;15:00;Treasury Sec Lew speech;United States;USD;2
+GBP_CentralBankSpeech;20131211;13:00;BoE Weale speech;United Kingdom;GBP;1
+USD_MBAMortgageApplications;20131211;12:00;MBA Mortgage Applications;United States;USD;2
+INR_M3MoneySupply;20131211;11:30;M3 Money Supply;India;INR;1
+ZAR_RetailSales;20131211;11:00;Retail Sales (YoY);South Africa;ZAR;1
+EUR_PorConsumerPriceIndex;20131211;11:00;Consumer Price Index (YoY);Portugal;EUR;1
+EUR_GerAuction;20131211;10:53;2-year Notes Auction;Germany;EUR;1
+EUR_GreUnemploymentRate;20131211;10:00;Unemployment Rate (MoM);Greece;EUR;1
+CNY_M2MoneySupply;20131211;08:00;M2 Money Supply (YoY);China;CNY;1
+ISK_CBIInterestRateDecision;20131211;08:00;CBI Interest Rate Decision;Iceland;ISK;1
+RON_ConsumerPriceIndex;20131211;08:00;Consumer Price Index;Romania;RON;1
+TRY_CurrentAccount;20131211;08:00;Current Account Balance;Turkey;TRY;1
+ZAR_ConsumerPriceIndex;20131211;08:00;Consumer Price Index (YoY);South Africa;ZAR;1
+HUF_ConsumerPriceIndex;20131211;08:00;Consumer Price Index (YoY);Hungary;HUF;1
+EUR_FraCurrentAccount;20131211;07:45;Current Account;France;EUR;1
+EUR_GerConsumerPriceIndex;20131211;07:00;Consumer Price Index (MoM);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20131211;07:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;2
+EUR_FraNonfarmPayrolls;20131211;06:30;Nonfarm Payrolls (QoQ);France;EUR;1
+INR_TradeDeficitGovernment;20131211;06:30;Trade Deficit Government;India;INR;1
+KRW_MoneySupplyGrowth;20131211;03:00;Money Supply Growth;South Korea;KRW;1
+CNY_NewLoans;20131211;02:00;New Loans;China;CNY;2

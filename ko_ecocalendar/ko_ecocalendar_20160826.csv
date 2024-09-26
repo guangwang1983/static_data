@@ -1,0 +1,26 @@
+USD_JacksonHoleSymposium;20160826;00:00;Jackson Hole Symposium;United States;USD;3
+EUR_GerGfkConsumerConfidenceSurvey;20160826;06:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+EUR_FraGrossDomesticProduct;20160826;06:45;Gross Domestic Product (YoY);France;EUR;1
+EUR_FraConsumerConfidence;20160826;06:45;Consumer Confidence;France;EUR;1
+EUR_EurPrivateLoans;20160826;08:00;Private Loans (YoY);European Monetary Union;EUR;1
+EUR_EurM3MoneySupply;20160826;08:00;M3 Money Supply (3m);European Monetary Union;EUR;1
+GBP_GrossDomesticProduct;20160826;08:30;Gross Domestic Product (QoQ);United Kingdom;GBP;2
+GBP_TotalBusinessInvestment;20160826;08:30;Total Business Investment (YoY);United Kingdom;GBP;1
+GBP_IndexofServices;20160826;08:30;Index of Services (3M/3M);United Kingdom;GBP;1
+INR_FXReservesUSD;20160826;11:00;FX Reserves, USD;India;INR;1
+USD_GrossDomesticProduct;20160826;12:30;Gross Domestic Product Price Index;United States;USD;2
+USD_GoodsTradeBalance;20160826;12:30;Goods Trade Balance;United States;USD;2
+USD_PersonalConsumptionExpendituresPrices;20160826;12:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+USD_CorePersonalConsumptionExpenditures;20160826;12:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+MXN_TradeBalance;20160826;13:00;Trade Balance, $;Mexico;MXN;1
+MXN_TradeBalancesa;20160826;13:00;Trade Balance s/a, $;Mexico;MXN;1
+USD_MichiganConsumerSentimentIndex;20160826;14:00;Michigan Consumer Sentiment Index;United States;USD;1
+USD_CentralBankSpeech;20160826;14:00;Fed Chair Yellen speech;United States;USD;3
+USD_BakerHughesUSOilRigCount;20160826;17:00;Baker Hughes US Oil Rig Count;United States;USD;2
+EUR_EurCFTCEURNCNetPositions;20160826;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20160826;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCS&P500NCNetPositions;20160826;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20160826;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCOilNCNetPositions;20160826;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20160826;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20160826;19:30;CFTC Gold NC Net Positions;United States;USD;1

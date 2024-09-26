@@ -1,0 +1,43 @@
+JPY_ProducerPriceIndex;20200115;23:50;Producer Price Index (YoY);Japan;JPY;1
+JPY_MachineryOrders;20200115;23:50;Machinery Orders (MoM);Japan;JPY;2
+NZD_RetailSales;20200115;21:45;Electronic Card Retail Sales  (MoM);New Zealand;NZD;1
+ARS_ConsumerPriceIndex;20200115;19:00;Consumer Price Index (MoM);Argentina;ARS;1
+USD_FedBeigeBook;20200115;19:00;Fed Beige Book;United States;USD;2
+EUR_GerCentralBankSpeech;20200115;18:00;German Buba President Weidmann speech;Germany;EUR;2
+ILS_ConsumerPriceIndex;20200115;16:30;Consumer Price Index (YoY);Israel;ILS;1
+USD_USChinaPhaseOneTradeDealSignature;20200115;16:00;US-China Phase One Trade Deal Signature;United States;USD;2
+USD_CentralBankSpeech;20200115;16:00;Fed Harker speech;United States;USD;2
+USD_EIACrudeOilStocksChange;20200115;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_NYEmpireStateManufacturingIndex;20200115;13:30;NY Empire State Manufacturing Index;United States;USD;1
+USD_ProducerPriceIndex;20200115;13:30;Producer Price Index (YoY);United States;USD;1
+USD_MBAMortgageApplications;20200115;12:00;MBA Mortgage Applications;United States;USD;1
+BRL_RetailSales;20200115;12:00;Retail Sales (MoM);Brazil;BRL;1
+INR_M3MoneySupply;20200115;11:30;M3 Money Supply;India;INR;1
+ZAR_RetailSales;20200115;11:00;Retail Sales (YoY);South Africa;ZAR;1
+EUR_GerAuction;20200115;10:40;30-y Bond Auction;Germany;EUR;1
+EUR_EurTradeBalance;20200115;10:00;Trade Balance n.s.a.;European Monetary Union;EUR;1
+EUR_EurIndustrialProduction;20200115;10:00;Industrial Production s.a. (MoM);European Monetary Union;EUR;2
+GBP_RetailPriceIndex;20200115;09:30;Retail Price Index (MoM);United Kingdom;GBP;2
+GBP_DCLGHousePriceIndex;20200115;09:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ProducerPriceIndex;20200115;09:30;Producer Price Index - Output (MoM) n.s.a;United Kingdom;GBP;1
+GBP_PPICoreOutput;20200115;09:30;PPI Core Output (MoM) n.s.a;United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20200115;09:30;Core Consumer Price Index (YoY);United Kingdom;GBP;2
+EUR_GerRealGDPGrowth;20200115;09:00;Real GDP Growth;Germany;EUR;1
+GBP_CentralBankSpeech;20200115;08:40;BoE Saunders speech;United Kingdom;GBP;2
+SEK_ConsumerPriceIndex;20200115;08:30;Consumer Price Index (MoM);Sweden;SEK;1
+TRY_BudgetBalance;20200115;08:00;Budget Balance;Turkey;TRY;1
+EUR_SpaHICP;20200115;08:00;HICP (YoY);Spain;EUR;1
+EUR_SpaConsumerPriceIndex;20200115;08:00;Consumer Price Index (MoM);Spain;EUR;1
+EUR_FraConsumerPriceIndex;20200115;07:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraInflationextobacco;20200115;07:45;Inflation ex-tobacco (MoM);France;EUR;1
+NOK_TradeBalance;20200115;07:00;Trade Balance;Norway;NOK;1
+RON_IndustrialProduction;20200115;07:00;Industrial Production (MoM);Romania;RON;2
+EUR_FinGrossDomesticProduct;20200115;06:00;Gross Domestic Product (YoY);Finland;EUR;1
+EUR_FinCurrentAccount;20200115;06:00;Current Account;Finland;EUR;1
+JPY_MachineToolOrders;20200115;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+EUR_NetRetailSales;20200115;05:30;Retail Sales (YoY);Netherlands, The;EUR;1
+KRW_TradeBalance;20200115;02:00;Trade Balance;South Korea;KRW;1
+JPY_CentralBankSpeech;20200115;00:30;BoJ Governor Kuroda speech;Japan;JPY;3
+IDR_Exports;20200115;00:04;Exports;Indonesia;IDR;1
+IDR_TradeBalance;20200115;00:04;Trade Balance;Indonesia;IDR;1
+IDR_Imports;20200115;00:04;Imports;Indonesia;IDR;1

@@ -1,0 +1,37 @@
+AUD_RetailSales;20150903;01:30;Retail Sales s.a. (MoM);Australia;AUD;2
+AUD_Imports;20150903;01:30;Imports (MoM);Australia;AUD;2
+AUD_Exports;20150903;01:30;Exports (MoM);Australia;AUD;2
+AUD_TradeBalance;20150903;01:30;Trade Balance (MoM);Australia;AUD;2
+JPY_JibunBankServicesPMI;20150903;01:35;Jibun Bank Services PMI;Japan;JPY;1
+EUR_FraILOUnemployment;20150903;05:30;ILO Unemployment;France;EUR;1
+TRY_ProducerPriceIndex;20150903;07:00;Producer Price Index (MoM);Turkey;TRY;1
+CZK_RetailSales;20150903;07:00;Retail Sales (YoY);Czech Republic;CZK;1
+TRY_ConsumerPriceIndex;20150903;07:00;Consumer Price Index (MoM);Turkey;TRY;1
+HUF_RetailSales;20150903;07:00;Retail Sales (YoY);Hungary;HUF;1
+ZAR_PurchasingManagerIndex;20150903;07:15;Purchasing Manager Index;South Africa;ZAR;1
+SEK_RiksbankInterestRateDecision;20150903;07:30;Riksbank Interest Rate Decision;Sweden;SEK;1
+EUR_ItaHCOBServicesPMI;20150903;07:45;HCOB Services PMI;Italy;EUR;1
+EUR_FraHCOBServicesPMI;20150903;07:50;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20150903;07:50;HCOB Composite PMI;France;EUR;1
+EUR_GerHCOBServicesPMI;20150903;07:55;HCOB Services PMI;Germany;EUR;1
+EUR_GerHCOBCompositePMI;20150903;07:55;HCOB Composite PMI;Germany;EUR;1
+EUR_EurHCOBServicesPMI;20150903;08:00;HCOB Services PMI;European Monetary Union;EUR;2
+EUR_EurHCOBCompositePMI;20150903;08:00;HCOB Composite PMI;European Monetary Union;EUR;2
+GBP_S&PGlobalCIPSServicesPMI;20150903;08:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;1
+EUR_EurRetailSales;20150903;09:00;Retail Sales (MoM);European Monetary Union;EUR;1
+EUR_FraAuction;20150903;09:14;10-y Bond Auction;France;EUR;1
+ZAR_BusinessConfidenceIndex;20150903;09:30;Business Confidence Index;South Africa;ZAR;1
+USD_ChallengerJobCuts;20150903;11:30;Challenger Job Cuts;United States;USD;1
+EUR_EurECBRateOnMainRefinancingOperations;20150903;11:45;ECB Rate On Main Refinancing Operations;European Monetary Union;EUR;3
+EUR_EurECBRateOnDepositFacility;20150903;11:45;ECB Rate On Deposit Facility;European Monetary Union;EUR;2
+RUB_CentralBankReserves;20150903;12:12;Central Bank Reserves $;Russia;RUB;1
+USD_GoodsandServicesTradeBalance;20150903;12:30;Goods and Services Trade Balance;United States;USD;2
+USD_JoblessClaims;20150903;12:30;Continuing Jobless Claims;United States;USD;1
+EUR_EurECBPressConference;20150903;12:30;ECB Press Conference;European Monetary Union;EUR;3
+CAD_Exports;20150903;12:30;Exports;Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20150903;12:30;International Merchandise Trade;Canada;CAD;1
+CAD_Imports;20150903;12:30;Imports;Canada;CAD;1
+USD_S&PGlobalServicesPMI;20150903;13:45;S&P Global Services PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20150903;13:45;S&P Global Composite PMI;United States;USD;2
+USD_ISMServicesPMI;20150903;14:00;ISM Services PMI;United States;USD;2
+USD_EIANaturalGasStorageChange;20150903;14:30;EIA Natural Gas Storage Change;United States;USD;1

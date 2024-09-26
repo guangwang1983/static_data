@@ -1,0 +1,43 @@
+JPY_ForeignInvestmentinJapanStocks;20180221;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20180221;23:50;Foreign Bond Investment;Japan;JPY;2
+USD_APIWeeklyCrudeOilStock;20180221;21:30;API Weekly Crude Oil Stock;United States;USD;1
+ARS_TradeBalance;20180221;19:00;Trade Balance (MoM);Argentina;ARS;1
+USD_FOMCMinutes;20180221;19:00;FOMC Minutes;United States;USD;3
+USD_Auction;20180221;18:45;5-Year Note Auction;United States;USD;1
+USD_ExistingHomeSales;20180221;15:00;Existing Home Sales (MoM);United States;USD;1
+USD_ExistingHomeSalesChange;20180221;15:00;Existing Home Sales Change (MoM);United States;USD;1
+USD_MarkitManufacturingPMI;20180221;14:45;Markit Manufacturing PMI;United States;USD;2
+USD_MarkitServicesPMI;20180221;14:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20180221;14:45;Markit PMI Composite;United States;USD;2
+GBP_CentralBankSpeech;20180221;14:15;BoE Governor Carney speech;United Kingdom;GBP;3
+GBP_InflationReportHearings;20180221;14:15;Inflation Report Hearings;United Kingdom;GBP;3
+USD_CentralBankSpeech;20180221;14:00;Fed Harker speech;United States;USD;2
+USD_RedbookIndex;20180221;13:55;Redbook Index (YoY);United States;USD;1
+USD_MBAMortgageApplications;20180221;12:00;MBA Mortgage Applications;United States;USD;1
+EUR_PorCurrentAccount;20180221;11:00;Current Account Balance;Portugal;EUR;1
+GBP_AverageEarningsExcludingBonus;20180221;09:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountRate;20180221;09:30;Claimant Count Rate;United Kingdom;GBP;2
+GBP_ClaimantCountChange;20180221;09:30;Claimant Count Change;United Kingdom;GBP;2
+GBP_AverageEarningsIncludingBonus;20180221;09:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;3
+GBP_ILOUnemploymentRate;20180221;09:30;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_PublicSectorNetBorrowing;20180221;09:30;Public Sector Net Borrowing;United Kingdom;GBP;2
+EUR_EurMarkitManufacturingPMI;20180221;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitPMIComposite;20180221;09:00;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20180221;09:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_GerMarkitPMIComposite;20180221;08:30;Markit PMI Composite;Germany;EUR;2
+EUR_GerMarkitServicesPMI;20180221;08:30;Markit Services PMI;Germany;EUR;2
+EUR_GerMarkitManufacturingPMI;20180221;08:30;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitPMIComposite;20180221;08:00;Markit PMI Composite;France;EUR;1
+EUR_FraMarkitServicesPMI;20180221;08:00;Markit Services PMI;France;EUR;1
+EUR_FraMarkitManufacturingPMI;20180221;08:00;Markit Manufacturing PMI;France;EUR;1
+EUR_EurNonMonetaryPolicyECBMeeting;20180221;08:00;Non-Monetary Policy ECB Meeting;European Monetary Union;EUR;3
+ZAR_ConsumerPriceIndex;20180221;08:00;Consumer Price Index (YoY);South Africa;ZAR;1
+NOK_LabourForceSurvey;20180221;07:00;Labour Force Survey;Norway;NOK;1
+EUR_NetConsumerConfidenceAdj;20180221;05:30;Consumer Confidence Adj;Netherlands, The;EUR;1
+EUR_NetConsumerSpendingVolume;20180221;05:30;Consumer Spending Volume;Netherlands, The;EUR;1
+JPY_AllIndustryActivityIndex;20180221;04:30;All Industry Activity Index (MoM);Japan;JPY;2
+JPY_CentralBankSpeech;20180221;01:10;BoJ Funo speech;Japan;JPY;1
+AUD_WagePriceIndex;20180221;00:30;Wage Price Index (QoQ);Australia;AUD;2
+AUD_ConstructionWorkDone;20180221;00:30;Construction Work Done;Australia;AUD;1
+JPY_NikkeiManufacturingPMI;20180221;00:30;Nikkei Manufacturing PMI;Japan;JPY;1
+CNY_ChineseNewYear;20180221;00:00;Chinese New Year;China;CNY;0

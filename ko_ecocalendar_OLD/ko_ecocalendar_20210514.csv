@@ -1,0 +1,37 @@
+TRY_RamazanFeast;20210514;21:00;Ramazan Feast;Turkey;TRY;0
+AUD_CFTCAUDNCNetPositions;20210514;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20210514;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+JPY_CFTCJPYNCNetPositions;20210514;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+GBP_CFTCGBPNCNetPositions;20210514;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20210514;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20210514;19:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20210514;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+IDR_EidAlFitr;20210514;17:00;Eid Al Fitr;Indonesia;IDR;0
+USD_BakerHughesUSOilRigCount;20210514;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+COP_GrossDomesticProduct;20210514;16:00;Gross Domestic Product (YoY);Colombia;COP;1
+COP_TradeBalance;20210514;15:00;Trade Balance;Colombia;COP;1
+USD_MichiganConsumerSentimentIndex;20210514;14:00;Michigan Consumer Sentiment Index;United States;USD;3
+USD_BusinessInventories;20210514;14:00;Business Inventories;United States;USD;1
+USD_IndustrialProduction;20210514;13:15;Industrial Production (MoM);United States;USD;1
+USD_CapacityUtilization;20210514;13:15;Capacity Utilization;United States;USD;1
+USD_RetailSales;20210514;12:30;Retail Sales ex Autos (MoM);United States;USD;2
+CAD_ManufacturingSales;20210514;12:30;Manufacturing Sales (MoM);Canada;CAD;1
+USD_ImportPriceIndex;20210514;12:30;Import Price Index (MoM);United States;USD;1
+USD_ExportPriceIndex;20210514;12:30;Export Price Index (YoY);United States;USD;1
+CAD_WholesaleSales;20210514;12:30;Wholesale Sales (MoM);Canada;CAD;1
+RUB_BudgetFulfilment;20210514;12:00;Budget Fulfilment;Russia;RUB;1
+PLN_CurrentAccount;20210514;12:00;Current Account;Poland;PLN;1
+INR_TradeDeficitGovernment;20210514;11:30;Trade Deficit Government;India;INR;1
+EUR_EurECBMonetaryPolicyMeetingAccounts;20210514;11:30;ECB Monetary Policy Meeting Accounts;European Monetary Union;EUR;2
+INR_FXReservesUSD;20210514;11:30;FX Reserves, USD;India;INR;1
+ILS_ConsumerPriceIndex;20210514;11:00;Consumer Price Index (MoM);Israel;ILS;1
+PLN_ConsumerPriceIndex;20210514;08:00;Consumer Price Index (MoM);Poland;PLN;1
+PLN_GrossDomesticProduct;20210514;08:00;Gross Domestic Product Qtr (YoY);Poland;PLN;1
+CZK_CurrentAccount;20210514;08:00;Current Account (MoM);Czech Republic;CZK;1
+HKD_GrossDomesticProduct;20210514;07:00;Gross Domestic Product (QoQ);Hong Kong SAR;HKD;1
+EUR_SpaHICP;20210514;07:00;HICP (MoM);Spain;EUR;1
+EUR_SpaConsumerPriceIndex;20210514;07:00;Consumer Price Index (YoY);Spain;EUR;1
+INR_WPIInflation;20210514;06:30;WPI Inflation;India;INR;1
+EUR_FinConsumerPriceIndex;20210514;05:00;Consumer Price Index (YoY);Finland;EUR;1
+AUD_HIANewHomeSales;20210514;01:00;HIA New Home Sales (MoM);Australia;AUD;2
+AUD_ConsumerInflationExpectations;20210514;01:00;Consumer Inflation Expectations;Australia;AUD;2

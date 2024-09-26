@@ -1,0 +1,31 @@
+JPY_BankLending;20191009;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_ProducerPriceIndex;20191009;23:50;Producer Price Index (MoM);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20191009;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20191009;23:50;Foreign Bond Investment;Japan;JPY;2
+JPY_MachineryOrders;20191009;23:50;Machinery Orders (MoM);Japan;JPY;2
+GBP_RICSHousingPriceBalance;20191009;23:01;RICS Housing Price Balance;United Kingdom;GBP;1
+NZD_FoodPriceIndex;20191009;21:45;Food Price Index (MoM);New Zealand;NZD;1
+USD_FOMCMinutes;20191009;18:00;FOMC Minutes;United States;USD;3
+USD_Auction;20191009;17:00;10-Year Note Auction;United States;USD;2
+USD_CentralBankSpeech;20191009;15:00;Fed Chair Powell speech;United States;USD;3
+USD_EIACrudeOilStocksChange;20191009;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_JOLTSJobOpenings;20191009;14:00;JOLTS Job Openings;United States;USD;1
+USD_WholesaleInventories;20191009;14:00;Wholesale Inventories;United States;USD;1
+BRL_IPCAInflation;20191009;12:00;IPCA Inflation;Brazil;BRL;1
+INR_M3MoneySupply;20191009;11:30;M3 Money Supply;India;INR;1
+MXN_HeadlineInflation;20191009;11:00;Headline Inflation;Mexico;MXN;1
+MXN_12MonthInflation;20191009;11:00;12-Month Inflation;Mexico;MXN;1
+MXN_CoreInflation;20191009;11:00;Core Inflation;Mexico;MXN;1
+EUR_PorGlobalTradeBalance;20191009;11:00;Global Trade Balance;Portugal;EUR;1
+USD_MBAMortgageApplications;20191009;11:00;MBA Mortgage Applications;United States;USD;1
+ZAR_BusinessConfidenceIndex;20191009;09:30;Business Confidence Index;South Africa;ZAR;1
+IDR_RetailSales;20191009;09:00;Retail Sales (YoY);Indonesia;IDR;1
+GBP_FPCMeetingMinutes;20191009;08:30;FPC Meeting Minutes;United Kingdom;GBP;1
+EUR_SloForeignTradeBalance;20191009;07:00;Foreign Trade Balance;Slovakia;EUR;1
+HUF_TradeBalance;20191009;07:00;Trade Balance;Hungary;HUF;1
+DKK_TradeBalance;20191009;06:00;Trade Balance;Denmark;DKK;1
+EUR_FinTradeBalance;20191009;06:00;Trade Balance;Finland;EUR;1
+DKK_CurrentAccount;20191009;06:00;Current Account;Denmark;DKK;1
+JPY_MachineToolOrders;20191009;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+KRW_HangeulDay;20191009;00:00;Hangeul Day;South Korea;KRW;0
+EUR_EurEurogroupMeeting;20191009;00:00;Eurogroup Meeting;European Monetary Union;EUR;2

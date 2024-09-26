@@ -1,0 +1,35 @@
+JPY_JibunBankServicesPMI;20230303;00:30;Jibun Bank Services PMI;Japan;JPY;1
+AUD_InvestmentLendingforHomes;20230303;00:30;Investment Lending for Homes;Australia;AUD;1
+AUD_HomeLoans;20230303;00:30;Home Loans;Australia;AUD;1
+CNY_CaixinServicesPMI;20230303;01:45;Caixin Services PMI;China;CNY;2
+RUB_S&PGlobalServicesPMI;20230303;06:00;S&P Global Services PMI;Russia;RUB;1
+TRY_ProducerPriceIndex;20230303;07:00;Producer Price Index (YoY);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20230303;07:00;Consumer Price Index (MoM);Turkey;TRY;1
+HUF_TradeBalance;20230303;07:30;Trade Balance;Hungary;HUF;1
+CZK_GrossDomesticProduct;20230303;08:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+EUR_EurCentralBankSpeech;20230303;08:30;ECB De Guindos speech;European Monetary Union;EUR;2
+EUR_EurS&PGlobalServicesPMI;20230303;09:00;S&P Global Services PMI;European Monetary Union;EUR;1
+EUR_EurS&PGlobalCompositePMI;20230303;09:00;S&P Global Composite PMI;European Monetary Union;EUR;2
+NOK_RegisteredUnemployment;20230303;09:00;Registered Unemployment n.s.a;Norway;NOK;1
+GBP_S&PGlobalCIPSCompositePMI;20230303;09:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSServicesPMI;20230303;09:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;1
+EUR_EurProducerPriceIndex;20230303;10:00;Producer Price Index (MoM);European Monetary Union;EUR;1
+INR_FXReservesUSD;20230303;11:30;FX Reserves, USD;India;INR;1
+CAD_LaborProductivity;20230303;13:30;Labor Productivity (QoQ);Canada;CAD;1
+CAD_BuildingPermits;20230303;13:30;Building Permits (MoM);Canada;CAD;1
+USD_S&PGlobalCompositePMI;20230303;14:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20230303;14:45;S&P Global Services PMI;United States;USD;2
+USD_ISMServicesPricesPaid;20230303;15:00;ISM Services Prices Paid;United States;USD;2
+USD_ISMServicesEmploymentIndex;20230303;15:00;ISM Services Employment Index;United States;USD;2
+USD_ISMServicesNewOrdersIndex;20230303;15:00;ISM Services New Orders Index;United States;USD;2
+USD_ISMServicesPMI;20230303;15:00;ISM Services PMI;United States;USD;3
+USD_FedMonetaryPolicyReport;20230303;16:00;Fed Monetary Policy Report;United States;USD;2
+USD_BakerHughesUSOilRigCount;20230303;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CFTCGoldNCNetPositions;20230303;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20230303;20:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20230303;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20230303;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20230303;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20230303;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20230303;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CentralBankSpeech;20230303;21:45;Fed Barkin speech;United States;USD;2

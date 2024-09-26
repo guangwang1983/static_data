@@ -1,0 +1,43 @@
+JPY_ForeignBondInvestment;20160106;23:50;Foreign Bond Investment;Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20160106;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+USD_FOMCMinutes;20160106;19:00;FOMC Minutes;United States;USD;3
+USD_EIACrudeOilStocksChange;20160106;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_ISMNonManufacturingPMI;20160106;15:00;ISM Non-Manufacturing PMI;United States;USD;2
+USD_FactoryOrders;20160106;15:00;Factory Orders (MoM);United States;USD;2
+HUF_BudgetBalance;20160106;15:00;Budget Balance;Hungary;HUF;1
+USD_MarkitServicesPMI;20160106;14:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20160106;14:45;Markit PMI Composite;United States;USD;2
+USD_TradeBalance;20160106;13:30;Trade Balance;United States;USD;2
+CAD_Imports;20160106;13:30;Imports;Canada;CAD;1
+CAD_Exports;20160106;13:30;Exports;Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20160106;13:30;International Merchandise Trade;Canada;CAD;1
+USD_ADPEmploymentChange;20160106;13:15;ADP Employment Change;United States;USD;2
+USD_MBAMortgageApplications;20160106;12:01;MBA Mortgage Applications;United States;USD;1
+EUR_IreRetailSales;20160106;11:00;Retail Sales (MoM);Ireland;EUR;1
+EUR_EurProducerPriceIndex;20160106;10:00;Producer Price Index (MoM);European Monetary Union;EUR;1
+GBP_MarkitServicesPMI;20160106;09:30;Markit Services PMI;United Kingdom;GBP;1
+EUR_EurMarkitPMIComposite;20160106;09:00;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20160106;09:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_GerMarkitPMIComposite;20160106;08:55;Markit PMI Composite;Germany;EUR;1
+EUR_GerMarkitServicesPMI;20160106;08:55;Markit Services PMI;Germany;EUR;1
+EUR_FraMarkitPMIComposite;20160106;08:50;Markit PMI Composite;France;EUR;1
+EUR_FraMarkitServicesPMI;20160106;08:50;Markit Services PMI;France;EUR;1
+EUR_ItaMarkitServicesPMI;20160106;08:45;Markit Services PMI;Italy;EUR;1
+EUR_SpaMarkitServicesPMI;20160106;08:15;Markit Services PMI;Spain;EUR;1
+DKK_IndustrialOutlook;20160106;08:00;Industrial Outlook;Denmark;DKK;1
+HUF_ProducerPriceIndex;20160106;08:00;Producer Price Index (YoY);Hungary;HUF;1
+EUR_FraConsumerConfidence;20160106;07:45;Consumer Confidence;France;EUR;1
+HKD_NikkeiManufacturingPMI;20160106;02:30;Nikkei Manufacturing PMI;Hong Kong SAR;HKD;1
+CNY_CaixinServicesPMI;20160106;01:45;Caixin Services PMI;China;CNY;2
+JPY_MarkitServicesPMI;20160106;00:35;Markit Services PMI;Japan;JPY;1
+GBP_BRCShopPriceIndex;20160106;00:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1
+RUB_Bankholiday;20160106;00:00;Bank holiday;Russia;RUB;0
+EUR_GreEpiphany;20160106;00:00;Epiphany;Greece;EUR;0
+EUR_ItaEpiphany;20160106;00:00;Epiphany;Italy;EUR;0
+EUR_FinEpiphany;20160106;00:00;Epiphany;Finland;EUR;0
+EUR_AusEpiphany;20160106;00:00;Epiphany;Austria;EUR;0
+EUR_SpaEpiphany;20160106;00:00;Epiphany;Spain;EUR;0
+SEK_Epiphany;20160106;00:00;Epiphany;Sweden;SEK;0
+PLN_Epiphany;20160106;00:00;Epiphany;Poland;PLN;0
+SGD_GrossDomesticProduct;20160106;00:00;Gross Domestic Product (QoQ);Singapore;SGD;1
+EUR_SloEpiphany;20160106;00:00;Epiphany;Slovakia;EUR;0

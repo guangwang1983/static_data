@@ -1,0 +1,35 @@
+AUD_PrivateCapitalExpenditure;20220224;00:30;Private Capital Expenditure;Australia;AUD;1
+KRW_BoKInterestRateDecision;20220224;01:00;BoK Interest Rate Decision;South Korea;KRW;1
+SEK_UnemploymentRate;20220224;07:00;Unemployment Rate;Sweden;SEK;1
+CHF_EmploymentLevel;20220224;07:30;Employment Level (QoQ);Switzerland;CHF;1
+EUR_FraConsumerConfidence;20220224;07:45;Consumer Confidence;France;EUR;1
+EUR_ItaIndustrialSales;20220224;09:00;Industrial Sales n.s.a. (YoY);Italy;EUR;1
+ZAR_ProducerPriceIndex;20220224;09:30;Producer Price Index (YoY);South Africa;ZAR;1
+BRL_UnemploymentRate;20220224;12:00;Unemployment Rate;Brazil;BRL;1
+MXN_RetailSales;20220224;12:00;Retail Sales (YoY);Mexico;MXN;1
+MXN_1sthalfmonthCoreInflation;20220224;12:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20220224;12:00;1st half-month Inflation;Mexico;MXN;1
+RUB_CentralBankReserves;20220224;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_ChicagoFedNationalActivityIndex;20220224;13:30;Chicago Fed National Activity Index ;United States;USD;2
+USD_JoblessClaims;20220224;13:30;Initial Jobless Claims 4-week average;United States;USD;2
+USD_GrossDomesticProduct;20220224;13:30;Gross Domestic Product Price Index;United States;USD;2
+USD_PersonalConsumptionExpendituresPrices;20220224;13:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+USD_CorePersonalConsumptionExpenditures;20220224;13:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+USD_NewHomeSales;20220224;15:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20220224;15:00;New Home Sales Change (MoM);United States;USD;1
+USD_EIANaturalGasStorageChange;20220224;15:30;EIA Natural Gas Storage Change;United States;USD;1
+EUR_EurCentralBankSpeech;20220224;16:00;ECB Schnabel speech;European Monetary Union;EUR;2
+USD_EIACrudeOilStocksChange;20220224;16:00;EIA Crude Oil Stocks Change;United States;USD;1
+USD_KansasFedManufacturingActivity;20220224;16:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_CentralBankSpeech;20220224;17:00;Fed Mester speech;United States;USD;2
+GBP_CentralBankSpeech;20220224;18:00;BoE Pill speech;United Kingdom;GBP;2
+USD_Auction;20220224;18:00;7-Year Note Auction;United States;USD;1
+NZD_TradeBalanceNZD;20220224;21:45;Trade Balance NZD (MoM);New Zealand;NZD;1
+NZD_Exports;20220224;21:45;Exports;New Zealand;NZD;2
+NZD_Imports;20220224;21:45;Imports;New Zealand;NZD;2
+NZD_RetailSales;20220224;21:45;Retail Sales ex Autos (QoQ);New Zealand;NZD;2
+JPY_TokyoCPIexFoodEnergy;20220224;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_TokyoCPIexFreshFood;20220224;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20220224;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20220224;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20220224;23:50;Foreign Bond Investment;Japan;JPY;1

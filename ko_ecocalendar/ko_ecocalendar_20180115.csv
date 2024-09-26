@@ -1,0 +1,23 @@
+USD_MartinLKingBirthday;20180115;00:00;Martin L. King Birthday;United States;USD;0
+KRW_TradeBalance;20180115;00:00;Trade Balance;South Korea;KRW;1
+GBP_RightmoveHousePriceIndex;20180115;00:01;Rightmove House Price Index (YoY);United Kingdom;GBP;1
+AUD_TDSecuritiesInflation;20180115;00:33;TD Securities Inflation (MoM);Australia;AUD;2
+CNY_M2MoneySupply;20180115;02:00;M2 Money Supply (YoY);China;CNY;1
+CNY_NewLoans;20180115;02:00;New Loans;China;CNY;1
+IDR_TradeBalance;20180115;04:00;Trade Balance;Indonesia;IDR;1
+IDR_Exports;20180115;04:00;Exports;Indonesia;IDR;1
+IDR_Imports;20180115;04:00;Imports;Indonesia;IDR;1
+JPY_MachineToolOrders;20180115;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+INR_WPIInflation;20180115;06:30;WPI Inflation;India;INR;1
+NOK_TradeBalance;20180115;07:00;Trade Balance;Norway;NOK;1
+TRY_UnemploymentRate;20180115;07:00;Unemployment Rate;Turkey;TRY;1
+TRY_BudgetBalance;20180115;09:00;Budget Balance;Turkey;TRY;1
+CZK_CurrentAccount;20180115;09:00;Current Account (MoM);Czech Republic;CZK;1
+EUR_EurTradeBalance;20180115;10:00;Trade Balance n.s.a.;European Monetary Union;EUR;2
+PLN_ConsumerPriceIndex;20180115;13:00;Consumer Price Index (YoY);Poland;PLN;1
+PLN_CurrentAccount;20180115;13:00;Current Account;Poland;PLN;1
+INR_TradeDeficitGovernment;20180115;15:00;Trade Deficit Government;India;INR;1
+GBP_CentralBankSpeech;20180115;18:15;BoE Tenreyro speech;United Kingdom;GBP;2
+NZD_NZIERBusinessConfidence;20180115;21:00;NZIER Business Confidence (QoQ);New Zealand;NZD;2
+NZD_RetailSales;20180115;21:45;Electronic Card Retail Sales (YoY);New Zealand;NZD;2
+JPY_ProducerPriceIndex;20180115;23:50;Producer Price Index (YoY);Japan;JPY;1

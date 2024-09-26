@@ -1,0 +1,45 @@
+JPY_JibunBankServicesPMI;20200903;00:30;Jibun Bank Services PMI;Japan;JPY;1
+NZD_ANZCommodityPrice;20200903;01:00;ANZ Commodity Price;New Zealand;NZD;1
+JPY_CentralBankSpeech;20200903;01:30;BoJ Kataoka speech;Japan;JPY;2
+AUD_Imports;20200903;01:30;Imports (MoM);Australia;AUD;2
+AUD_Exports;20200903;01:30;Exports (MoM);Australia;AUD;2
+AUD_TradeBalance;20200903;01:30;Trade Balance (MoM);Australia;AUD;3
+CNY_CaixinServicesPMI;20200903;01:45;Caixin Services PMI;China;CNY;2
+RUB_S&PGlobalServicesPMI;20200903;06:00;S&P Global Services PMI;Russia;RUB;1
+CZK_UnemploymentRate;20200903;06:00;Unemployment Rate;Czech Republic;CZK;1
+CHF_ConsumerPriceIndex;20200903;06:30;Consumer Price Index (YoY);Switzerland;CHF;2
+TRY_ProducerPriceIndex;20200903;07:00;Producer Price Index (YoY);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20200903;07:00;Consumer Price Index (YoY);Turkey;TRY;1
+HUF_RetailSales;20200903;07:00;Retail Sales (YoY);Hungary;HUF;1
+EUR_ItaHCOBServicesPMI;20200903;07:45;HCOB Services PMI;Italy;EUR;2
+EUR_FraHCOBServicesPMI;20200903;07:50;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20200903;07:50;HCOB Composite PMI;France;EUR;1
+EUR_GerHCOBCompositePMI;20200903;07:55;HCOB Composite PMI;Germany;EUR;2
+EUR_GerHCOBServicesPMI;20200903;07:55;HCOB Services PMI;Germany;EUR;1
+EUR_EurHCOBServicesPMI;20200903;08:00;HCOB Services PMI;European Monetary Union;EUR;1
+EUR_EurHCOBCompositePMI;20200903;08:00;HCOB Composite PMI;European Monetary Union;EUR;2
+GBP_S&PGlobalCIPSCompositePMI;20200903;08:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSServicesPMI;20200903;08:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;1
+EUR_FraAuction;20200903;08:50;10-y Bond Auction;France;EUR;1
+EUR_EurRetailSales;20200903;09:00;Retail Sales (MoM);European Monetary Union;EUR;2
+USD_ChallengerJobCuts;20200903;11:30;Challenger Job Cuts;United States;USD;1
+BRL_IndustrialOutput;20200903;12:00;Industrial Output (MoM);Brazil;BRL;1
+USD_GoodsandServicesTradeBalance;20200903;12:30;Goods and Services Trade Balance;United States;USD;2
+USD_JoblessClaims;20200903;12:30;Continuing Jobless Claims;United States;USD;2
+USD_UnitLaborCosts;20200903;12:30;Unit Labor Costs;United States;USD;2
+USD_NonfarmProductivity;20200903;12:30;Nonfarm Productivity;United States;USD;2
+CAD_InternationalMerchandiseTrade;20200903;12:30;International Merchandise Trade;Canada;CAD;2
+CAD_Exports;20200903;12:30;Exports;Canada;CAD;1
+CAD_Imports;20200903;12:30;Imports;Canada;CAD;1
+RUB_CentralBankReserves;20200903;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_S&PGlobalServicesPMI;20200903;13:45;S&P Global Services PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20200903;13:45;S&P Global Composite PMI;United States;USD;2
+USD_ISMServicesPricesPaid;20200903;14:00;ISM Services Prices Paid;United States;USD;2
+USD_ISMServicesEmploymentIndex;20200903;14:00;ISM Services Employment Index;United States;USD;2
+USD_ISMServicesPMI;20200903;14:00;ISM Services PMI;United States;USD;3
+USD_ISMServicesNewOrdersIndex;20200903;14:00;ISM Services New Orders Index;United States;USD;2
+GBP_CentralBankSpeech;20200903;14:00;BoE Governor Bailey speech;United Kingdom;GBP;3
+USD_EIANaturalGasStorageChange;20200903;14:30;EIA Natural Gas Storage Change;United States;USD;1
+EUR_EurCentralBankSpeech;20200903;15:00;ECB Schnabel speech;European Monetary Union;EUR;2
+USD_Auction;20200903;15:30;4-Week Bill Auction;United States;USD;1
+KRW_CurrentAccount;20200903;23:00;Current Account Balance;South Korea;KRW;1

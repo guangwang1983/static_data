@@ -1,0 +1,40 @@
+NZD_ANZCommodityPrice;20211104;00:00;ANZ Commodity Price;New Zealand;NZD;1
+JPY_JibunBankServicesPMI;20211104;00:30;Jibun Bank Services PMI;Japan;JPY;1
+AUD_TradeBalance;20211104;00:30;Trade Balance (MoM);Australia;AUD;3
+AUD_Exports;20211104;00:30;Exports (MoM);Australia;AUD;2
+AUD_Imports;20211104;00:30;Imports (MoM);Australia;AUD;2
+PLN_NBPBaserate;20211104;07:10;NBP Base rate;Poland;PLN;1
+CHF_SECOConsumerClimate;20211104;08:00;SECO Consumer Climate (3m);Switzerland;CHF;1
+USD_OPECMeeting;20211104;09:00;OPEC Meeting;United States;USD;1
+EUR_EurEuropeanCommissionreleasesEconomicGrowthForecasts;20211104;09:00;European Commission releases Economic Growth Forecasts;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20211104;09:00;Markit Services PMI;European Monetary Union;EUR;1
+EUR_EurMarkitPMIComposite;20211104;09:00;Markit PMI Composite;European Monetary Union;EUR;2
+NOK_NorgesBankInterestRateDecision;20211104;09:00;Norges Bank Interest Rate Decision;Norway;NOK;1
+GBP_MarkitConstructionPMI;20211104;09:30;Markit Construction PMI;United Kingdom;GBP;1
+EUR_EurProducerPriceIndex;20211104;10:00;Producer Price Index (MoM);European Monetary Union;EUR;1
+USD_ChallengerJobCuts;20211104;11:30;Challenger Job Cuts;United States;USD;1
+GBP_BoEInterestRateDecision;20211104;12:00;BoE Interest Rate Decision;United Kingdom;GBP;3
+GBP_BoEAssetPurchaseFacility;20211104;12:00;BoE Asset Purchase Facility;United Kingdom;GBP;3
+GBP_MonetaryPolicySummary;20211104;12:00;Monetary Policy Summary;United Kingdom;GBP;3
+GBP_BankofEnglandMonetaryPolicyReport;20211104;12:00;Bank of England Monetary Policy Report;United Kingdom;GBP;3
+GBP_BoEMPCVoteRateUnchanged;20211104;12:00;BoE MPC Vote Rate Unchanged;United Kingdom;GBP;3
+GBP_BoEMPCVoteRateHike;20211104;12:00;BoE MPC Vote Rate Hike;United Kingdom;GBP;3
+GBP_BankofEnglandMinutes;20211104;12:00;Bank of England Minutes;United Kingdom;GBP;3
+GBP_BoEMPCVoteRateCut;20211104;12:00;BoE MPC Vote Rate Cut;United Kingdom;GBP;3
+USD_GoodsandServicesTradeBalance;20211104;12:30;Goods and Services Trade Balance;United States;USD;2
+USD_JoblessClaims;20211104;12:30;Continuing Jobless Claims;United States;USD;1
+USD_UnitLaborCosts;20211104;12:30;Unit Labor Costs;United States;USD;2
+USD_NonfarmProductivity;20211104;12:30;Nonfarm Productivity;United States;USD;2
+USD_GoodsTradeBalance;20211104;12:30;Goods Trade Balance;United States;USD;1
+GBP_CentralBankSpeech;20211104;12:30;BoE Governor Bailey speech;United Kingdom;GBP;3
+CAD_InternationalMerchandiseTrade;20211104;12:30;International Merchandise Trade;Canada;CAD;2
+CAD_Exports;20211104;12:30;Exports;Canada;CAD;1
+CAD_Imports;20211104;12:30;Imports;Canada;CAD;1
+CZK_CNBInterestRateDecision;20211104;13:30;CNB Interest Rate Decision;Czech Republic;CZK;1
+USD_EIANaturalGasStorageChange;20211104;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20211104;16:30;4-Week Bill Auction;United States;USD;1
+EUR_EurCentralBankSpeech;20211104;18:15;ECB Schnabel speech;European Monetary Union;EUR;2
+AUD_AiGPerformanceofServicesIndex;20211104;21:30;AiG Performance of Services Index;Australia;AUD;1
+JPY_OverallHouseholdSpending;20211104;23:30;Overall Household Spending (YoY);Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20211104;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20211104;23:50;Foreign Bond Investment;Japan;JPY;1

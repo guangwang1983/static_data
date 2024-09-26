@@ -1,0 +1,32 @@
+AUD_HIANewHomeSales;20210216;00:00;HIA New Home Sales (MoM);Australia;AUD;2
+AUD_RBAMeetingMinutes;20210216;00:30;RBA Meeting Minutes;Australia;AUD;3
+BRL_Carnival;20210216;03:00;Carnival;Brazil;BRL;0
+JPY_TertiaryIndustryIndex;20210216;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+EUR_FraILOUnemployment;20210216;06:30;ILO Unemployment;France;EUR;1
+EUR_EurEcoFinMeeting;20210216;07:00;EcoFin Meeting;European Monetary Union;EUR;2
+RON_GrossDomesticProduct;20210216;07:00;Gross Domestic Product;Romania;RON;1
+HUF_GrossDomesticProduct;20210216;08:00;Gross Domestic Product (YoY);Hungary;HUF;1
+EUR_ItaGlobalTradeBalance;20210216;09:00;Global Trade Balance;Italy;EUR;1
+EUR_ItaTradeBalanceEU;20210216;09:00;Trade Balance EU;Italy;EUR;1
+EUR_EurGrossDomesticProduct;20210216;10:00;Gross Domestic Product s.a. (QoQ);European Monetary Union;EUR;3
+EUR_GerZEWSurvey–EconomicSentiment;20210216;10:00;ZEW Survey – Economic Sentiment;Germany;EUR;2
+EUR_GerZEWSurvey–CurrentSituation;20210216;10:00;ZEW Survey – Current Situation;Germany;EUR;2
+EUR_EurZEWSurvey–EconomicSentiment;20210216;10:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;2
+EUR_EurEmploymentChange;20210216;10:00;Employment Change (YoY);European Monetary Union;EUR;1
+ILS_GrossDomesticProduct;20210216;10:55;Gross Domestic Product (QoQ);Israel;ILS;1
+USD_NYEmpireStateManufacturingIndex;20210216;13:30;NY Empire State Manufacturing Index;United States;USD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20210216;13:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20210216;13:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+NZD_GDTPriceIndex;20210216;14:30;GDT Price Index;New Zealand;NZD;1
+CNY_ChineseNewYear;20210216;16:00;Chinese New Year;China;CNY;0
+RUB_ProducerPriceIndex;20210216;16:00;Producer Price Index (YoY);Russia;RUB;1
+USD_CentralBankSpeech;20210216;16:10;Fed Bowman speech;United States;USD;2
+USD_Auction;20210216;16:30;6-Month Bill Auction;United States;USD;1
+USD_TotalNetTICFlows;20210216;21:00;Total Net TIC Flows;United States;USD;1
+USD_NetLongTermTICFlows;20210216;21:00;Net Long-Term TIC Flows;United States;USD;1
+AUD_WestpacLeadingIndex;20210216;23:30;Westpac Leading Index (MoM);Australia;AUD;2
+JPY_Imports;20210216;23:50;Imports (YoY);Japan;JPY;2
+JPY_Exports;20210216;23:50;Exports (YoY);Japan;JPY;2
+JPY_MerchandiseTradeBalanceTotal;20210216;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20210216;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_MachineryOrders;20210216;23:50;Machinery Orders (MoM);Japan;JPY;1

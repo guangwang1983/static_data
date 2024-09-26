@@ -1,0 +1,34 @@
+JPY_CorporateServicePrice;20190724;23:50;Corporate Service Price (YoY);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20190724;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20190724;23:50;Foreign Bond Investment;Japan;JPY;2
+KRW_GrossDomesticProduct;20190724;23:00;Gross Domestic Product Growth (QoQ) ;South Korea;KRW;1
+USD_Auction;20190724;17:00;5-Year Note Auction;United States;USD;1
+USD_EIACrudeOilStocksChange;20190724;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_NewHomeSales;20190724;14:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20190724;14:00;New Home Sales Change (MoM);United States;USD;1
+USD_MarkitManufacturingPMI;20190724;13:45;Markit Manufacturing PMI;United States;USD;2
+USD_MarkitServicesPMI;20190724;13:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20190724;13:45;Markit PMI Composite;United States;USD;2
+EUR_BelLeadingIndicator;20190724;13:00;Leading Indicator;Belgium;EUR;1
+MXN_1sthalfmonthCoreInflation;20190724;13:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20190724;13:00;1st half-month Inflation;Mexico;MXN;1
+USD_MBAMortgageApplications;20190724;11:00;MBA Mortgage Applications;United States;USD;1
+GBP_BBAMortgageApprovals;20190724;08:30;BBA Mortgage Approvals;United Kingdom;GBP;1
+EUR_EurM3MoneySupply;20190724;08:00;M3 Money Supply (3m);European Monetary Union;EUR;1
+ZAR_ConsumerPriceIndex;20190724;08:00;Consumer Price Index (YoY);South Africa;ZAR;1
+EUR_EurMarkitPMIComposite;20190724;08:00;Markit PMI Composite;European Monetary Union;EUR;3
+EUR_EurMarkitServicesPMI;20190724;08:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_EurMarkitManufacturingPMI;20190724;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_GerMarkitPMIComposite;20190724;07:30;Markit PMI Composite;Germany;EUR;2
+EUR_GerMarkitManufacturingPMI;20190724;07:30;Markit Manufacturing PMI;Germany;EUR;3
+EUR_GerMarkitServicesPMI;20190724;07:30;Markit Services PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20190724;07:15;Markit Manufacturing PMI;France;EUR;1
+EUR_FraMarkitServicesPMI;20190724;07:15;Markit Services PMI;France;EUR;1
+EUR_FraMarkitPMIComposite;20190724;07:15;Markit PMI Composite;France;EUR;1
+EUR_FraBusinessClimate;20190724;06:45;Business Climate;France;EUR;1
+EUR_FinProducerPriceIndex;20190724;05:00;Producer Price Index (YoY);Finland;EUR;1
+JPY_CoincidentIndex;20190724;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20190724;05:00;Leading Economic Index;Japan;JPY;2
+EUR_FinExportPrices;20190724;05:00;Export Prices (YoY);Finland;EUR;1
+EUR_FinImportPrices;20190724;05:00;Import Prices (YoY);Finland;EUR;1
+JPY_NikkeiManufacturingPMI;20190724;00:30;Nikkei Manufacturing PMI;Japan;JPY;1

@@ -1,0 +1,38 @@
+USD_ThanksgivingDay;20161124;00:00;Thanksgiving Day;United States;USD;0
+JPY_JibunBankManufacturingPMI;20161124;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+JPY_LeadingEconomicIndex;20161124;05:00;Leading Economic Index;Japan;JPY;2
+JPY_CoincidentIndex;20161124;05:00;Coincident Index;Japan;JPY;2
+EUR_GerGrossDomesticProduct;20161124;07:00;Gross Domestic Product (QoQ);Germany;EUR;2
+EUR_FraBusinessClimateinManufacturing;20161124;07:45;Business Climate in Manufacturing;France;EUR;1
+SEK_ConsumerConfidence;20161124;08:00;Consumer Confidence (MoM);Sweden;SEK;1
+SEK_ProducerPriceIndex;20161124;08:30;Producer Price Index (YoY);Sweden;SEK;1
+EUR_ItaTradeBalancenonEU;20161124;09:00;Trade Balance non-EU;Italy;EUR;1
+EUR_GerIFO–BusinessClimate;20161124;09:00;IFO – Business Climate;Germany;EUR;2
+EUR_GerIFO–CurrentAssessment;20161124;09:00;IFO – Current Assessment;Germany;EUR;2
+EUR_GerIFO–Expectations;20161124;09:00;IFO – Expectations;Germany;EUR;2
+CHF_IndustrialProduction;20161124;09:08;Industrial Production (QoQ);Switzerland;CHF;2
+ZAR_ProducerPriceIndex;20161124;09:30;Producer Price Index (MoM);South Africa;ZAR;1
+GBP_BBAMortgageApprovals;20161124;09:30;BBA Mortgage Approvals;United Kingdom;GBP;1
+EUR_ItaWageInflation;20161124;10:00;Wage Inflation (MoM);Italy;EUR;1
+EUR_EurEUFinancialStabilityReview;20161124;10:00;EU Financial Stability Review;European Monetary Union;EUR;2
+RUB_CentralBankReserves;20161124;11:00;Central Bank Reserves $;Russia;RUB;1
+TRY_CBRTInterestRateDecision;20161124;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+TRY_ManufacturingConfidence;20161124;11:30;Manufacturing Confidence;Turkey;TRY;1
+EUR_GerGfkConsumerConfidenceSurvey;20161124;12:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+ZAR_SARBInterestRateDecision;20161124;13:00;SARB Interest Rate Decision;South Africa;ZAR;1
+MXN_RetailSales;20161124;14:00;Retail Sales (YoY);Mexico;MXN;1
+MXN_1sthalfmonthCoreInflation;20161124;14:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20161124;14:00;1st half-month Inflation;Mexico;MXN;1
+CHF_CentralBankSpeech;20161124;17:15;SNB Zurbrugg speech;Switzerland;CHF;1
+KRW_ConsumerSentimentIndex;20161124;21:00;Consumer Sentiment Index;South Korea;KRW;1
+NZD_TradeBalanceNZD;20161124;21:45;Trade Balance NZD (MoM);New Zealand;NZD;2
+NZD_Exports;20161124;21:45;Exports;New Zealand;NZD;2
+NZD_Imports;20161124;21:45;Imports;New Zealand;NZD;2
+JPY_TokyoCPIexFreshFood;20161124;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;1
+JPY_ConsumerPriceIndex;20161124;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;1
+JPY_TokyoCPIexFoodEnergy;20161124;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;1
+JPY_NationalCPIexFreshFood;20161124;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_NationalCPIexFoodEnergy;20161124;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_CorporateServicePriceIndex;20161124;23:50;Corporate Service Price Index (YoY);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20161124;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20161124;23:50;Foreign Bond Investment;Japan;JPY;2

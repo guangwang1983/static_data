@@ -1,0 +1,16 @@
+JPY_MonetaryBase;20081204;23:30;Monetary Base (YoY);Japan;JPY;1
+USD_CentralBankSpeech;20081204;16:15;Former Fed Chair Bernanke speech;United States;USD;2
+USD_FactoryOrders;20081204;15:00;Factory Orders (MoM);United States;USD;2
+CAD_IveyPurchasingManagersIndex;20081204;15:00;Ivey Purchasing Managers Index;Canada;CAD;2
+USD_JoblessClaims;20081204;13:30;Initial Jobless Claims;United States;USD;1
+CAD_BuildingPermits;20081204;13:30;Building Permits (MoM);Canada;CAD;1
+EUR_EurCentralBankSpeech;20081204;13:30;ECB President Trichet speech;European Monetary Union;EUR;3
+EUR_EurECBInterestRateDecision;20081204;12:45;ECB Interest Rate Decision;European Monetary Union;EUR;3
+GBP_BoEInterestRateDecision;20081204;12:00;BoE Interest Rate Decision;United Kingdom;GBP;3
+EUR_EurGrossDomesticProduct;20081204;10:00;Gross Domestic Product s.a. (QoQ);European Monetary Union;EUR;2
+GBP_ManufacturingProduction;20081204;09:30;Manufacturing Production (YoY);United Kingdom;GBP;2
+GBP_HalifaxHousePrices;20081204;09:00;Halifax House Prices (3m/YoY);United Kingdom;GBP;2
+SEK_RiksbankInterestRateDecision;20081204;08:30;Riksbank Interest Rate Decision;Sweden;SEK;0
+CHF_GrossDomesticProduct;20081204;06:45;Gross Domestic Product s.a. (QoQ);Switzerland;CHF;1
+AUD_BuildingPermits;20081204;00:30;Building Permits (MoM);Australia;AUD;0
+AUD_TradeBalance;20081204;00:30;Trade Balance;Australia;AUD;2

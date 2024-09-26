@@ -1,0 +1,36 @@
+JPY_MoneySupplyM2+CD;20190909;23:50;Money Supply M2+CD (YoY);Japan;JPY;1
+NZD_CreditCardSpending;20190909;22:45;Credit Card Spending (YoY);New Zealand;NZD;1
+NZD_RetailSales;20190909;22:45;Electronic Card Retail Sales (YoY);New Zealand;NZD;1
+USD_ConsumerCreditChange;20190909;19:00;Consumer Credit Change;United States;USD;1
+GBP_UKParliamentaryVoteonBrexit;20190909;18:00;UK Parliamentary Vote on Brexit;United Kingdom;GBP;3
+GBP_NIESRGDPEstimate;20190909;12:00;NIESR GDP Estimate (3M);United Kingdom;GBP;1
+CLP_TradeBalance;20190909;12:00;Trade Balance;Chile;CLP;1
+MXN_CoreInflation;20190909;11:00;Core Inflation;Mexico;MXN;1
+MXN_12MonthInflation;20190909;11:00;12-Month Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20190909;11:00;Headline Inflation;Mexico;MXN;1
+EUR_PorGlobalTradeBalance;20190909;11:00;Global Trade Balance;Portugal;EUR;1
+EUR_GreIndustrialProduction;20190909;09:00;Industrial Production (YoY);Greece;EUR;1
+HUF_BudgetBalance;20190909;09:00;Budget Balance;Hungary;HUF;1
+GBP_ManufacturingProduction;20190909;08:30;Manufacturing Production (YoY);United Kingdom;GBP;2
+GBP_IndustrialProduction;20190909;08:30;Industrial Production (MoM);United Kingdom;GBP;2
+EUR_EurSentixInvestorConfidence;20190909;08:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+GBP_IndexofServices;20190909;08:30;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20190909;08:30;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20190909;08:30;Total Trade Balance;United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20190909;08:30;Goods Trade Balance;United Kingdom;GBP;1
+GBP_GrossDomesticProduct;20190909;08:30;Gross Domestic Product (MoM);United Kingdom;GBP;2
+GBP_CentralBankSpeech;20190909;08:00;BoE Vlieghe speech;United Kingdom;GBP;2
+CZK_FXReserves;20190909;08:00;FX Reserves;Czech Republic;CZK;1
+CZK_UnemploymentRate;20190909;07:00;Unemployment Rate;Czech Republic;CZK;1
+RON_TradeBalance;20190909;06:00;Trade Balance;Romania;RON;1
+DKK_TradeBalance;20190909;06:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20190909;06:00;Current Account;Denmark;DKK;1
+EUR_GerTradeBalance;20190909;06:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerExports;20190909;06:00;Exports (MoM);Germany;EUR;1
+EUR_GerCurrentAccount;20190909;06:00;Current Account n.s.a.;Germany;EUR;1
+EUR_GerImports;20190909;06:00;Imports (MoM);Germany;EUR;1
+CHF_UnemploymentRate;20190909;05:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+JPY_EcoWatchersSurvey:Current;20190909;05:00;Eco Watchers Survey: Current;Japan;JPY;1
+JPY_EcoWatchersSurvey:Outlook;20190909;05:00;Eco Watchers Survey: Outlook;Japan;JPY;1
+EUR_NetManufacturingOutput;20190909;04:30;Manufacturing Output (MoM);Netherlands, The;EUR;1
+AUD_HomeLoans;20190909;01:30;Home Loans;Australia;AUD;2

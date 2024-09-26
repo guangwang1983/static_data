@@ -1,0 +1,34 @@
+JPY_MerchandiseTradeBalanceTotal;20121120;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Imports;20121120;23:50;Imports (YoY);Japan;JPY;1
+JPY_AdjustedMerchandiseTradeBalance;20121120;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_Exports;20121120;23:50;Exports (YoY);Japan;JPY;1
+AUD_WestpacLeadingIndex;20121120;23:30;Westpac Leading Index (MoM);Australia;AUD;1
+COP_Industrialouput;20121120;19:00;Industrial ouput (YoY);Colombia;COP;1
+USD_CentralBankSpeech;20121120;17:15;Former Fed Chair Bernanke speech;United States;USD;2
+USD_Auction;20121120;16:30;4-Week Bill Auction;United States;USD;1
+RUB_UnemploymentRate;20121120;14:25;Unemployment Rate;Russia;RUB;1
+EUR_SpaAuction;20121120;14:01;18-Month Letras Auction ;Spain;EUR;1
+EUR_BelConsumerConfidenceIndex;20121120;14:00;Consumer Confidence Index;Belgium;EUR;1
+USD_RedbookIndex;20121120;13:55;Redbook Index (MoM);United States;USD;1
+USD_HousingStarts;20121120;13:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20121120;13:30;Building Permits (MoM);United States;USD;2
+CAD_WholesaleSales;20121120;13:30;Wholesale Sales (MoM);Canada;CAD;1
+PLN_IndustrialOutput;20121120;13:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20121120;13:00;Producer Price Index (YoY);Poland;PLN;1
+TRY_CBRTInterestRateDecision;20121120;12:00;CBRT Interest Rate Decision;Turkey;TRY;1
+EUR_EurEcoFinMeeting;20121120;10:00;EcoFin Meeting;European Monetary Union;EUR;2
+NOK_GrossDomesticProduct;20121120;09:00;Gross Domestic Product Growth Mainland;Norway;NOK;1
+EUR_SloUnemploymentRate;20121120;09:00;Unemployment Rate;Slovakia;EUR;1
+EUR_NetConsumerConfidenceAdj;20121120;08:30;Consumer Confidence Adj;Netherlands, The;EUR;1
+HUF_GrossWages;20121120;07:00;Gross Wages (YoY);Hungary;HUF;1
+CHF_Imports;20121120;07:00;Imports (MoM);Switzerland;CHF;1
+CHF_Exports;20121120;07:00;Exports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20121120;07:00;Trade Balance;Switzerland;CHF;2
+EUR_FinUnemploymentRate;20121120;07:00;Unemployment Rate;Finland;EUR;1
+AUD_CentralBankSpeech;20121120;07:00;RBA Governor Stevens speech;Australia;AUD;3
+EUR_GerProducerPriceIndex;20121120;07:00;Producer Price Index (YoY);Germany;EUR;3
+JPY_AllIndustryActivityIndex;20121120;04:30;All Industry Activity Index (MoM);Japan;JPY;2
+JPY_BoJInterestRateDecision;20121120;03:16;BoJ Interest Rate Decision;Japan;JPY;3
+CNY_FDIForeignDirectInvestment;20121120;02:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;1
+JPY_BoJMonetaryPolicyStatement;20121120;01:00;BoJ Monetary Policy Statement ;Japan;JPY;3
+AUD_RBAMeetingMinutes;20121120;00:30;RBA Meeting Minutes;Australia;AUD;3

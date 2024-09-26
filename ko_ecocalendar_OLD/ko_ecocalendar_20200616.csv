@@ -1,0 +1,47 @@
+JPY_AdjustedMerchandiseTradeBalance;20200616;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_MerchandiseTradeBalanceTotal;20200616;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Exports;20200616;23:50;Exports (YoY);Japan;JPY;2
+JPY_Imports;20200616;23:50;Imports (YoY);Japan;JPY;2
+NZD_CurrentAccount;20200616;22:45;Current Account (QoQ);New Zealand;NZD;1
+USD_CentralBankSpeech;20200616;22:30;Fed Clarida speech;United States;USD;2
+CLP_BCCHInterestRate;20200616;21:00;BCCH Interest Rate;Chile;CLP;1
+USD_APIWeeklyCrudeOilStock;20200616;20:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_Auction;20200616;15:30;52-Week Bill Auction;United States;USD;1
+NZD_GDTPriceIndex;20200616;14:30;GDT Price Index;New Zealand;NZD;2
+USD_FedChairPowelltestifies;20200616;14:00;Fed Chair Powell testifies;United States;USD;3
+USD_BusinessInventories;20200616;14:00;Business Inventories;United States;USD;1
+USD_NAHBHousingMarketIndex;20200616;14:00;NAHB Housing Market Index;United States;USD;1
+USD_IndustrialProduction;20200616;13:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20200616;13:15;Capacity Utilization;United States;USD;1
+PLN_NBPBaserate;20200616;13:00;NBP Base rate;Poland;PLN;1
+RUB_IndustrialOutput;20200616;13:00;Industrial Output;Russia;RUB;1
+USD_RedbookIndex;20200616;12:55;Redbook Index (MoM);United States;USD;1
+USD_RetailSales;20200616;12:30;Retail Sales ex Autos (MoM);United States;USD;2
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20200616;12:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20200616;12:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+PLN_NetInflation;20200616;12:00;Net Inflation;Poland;PLN;1
+ILS_GrossDomesticProduct;20200616;10:00;Gross Domestic Product (QoQ);Israel;ILS;1
+BRL_RetailSales;20200616;10:00;Retail Sales (MoM);Brazil;BRL;1
+GBP_Auction;20200616;09:45;10-y Bond Auction;United Kingdom;GBP;1
+EUR_EurLaborCost;20200616;09:00;Labor Cost;European Monetary Union;EUR;2
+EUR_GerZEWSurveyCurrentSituation;20200616;09:00;ZEW Survey - Current Situation;Germany;EUR;2
+EUR_EurZEWSurveyEconomicSentiment;20200616;09:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurveyEconomicSentiment;20200616;09:00;ZEW Survey - Economic Sentiment;Germany;EUR;3
+EUR_SpaAuction;20200616;08:40;3-Month Letras Auction;Spain;EUR;1
+HKD_Unemploymentrate;20200616;08:30;Unemployment rate;Hong Kong SAR;HKD;1
+CZK_ProducerPriceIndex;20200616;07:00;Producer Price Index (YoY);Czech Republic;CZK;1
+JPY_BoJPressConference;20200616;06:00;BoJ Press Conference;Japan;JPY;3
+GBP_ILOUnemploymentRate;20200616;06:00;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_AverageEarningsIncludingBonus;20200616;06:00;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_AverageEarningsExcludingBonus;20200616;06:00;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountRate;20200616;06:00;Claimant Count Rate;United Kingdom;GBP;1
+GBP_ClaimantCountChange;20200616;06:00;Claimant Count Change;United Kingdom;GBP;2
+EUR_GerConsumerPriceIndex;20200616;06:00;Consumer Price Index (YoY);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20200616;06:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+CHF_SECOEconomicForecasts;20200616;05:45;SECO Economic Forecasts;Switzerland;CHF;1
+EUR_FinGrossDomesticProduct;20200616;05:00;Gross Domestic Product (YoY);Finland;EUR;1
+JPY_BoJMonetaryPolicyStatement;20200616;03:00;BoJ Monetary Policy Statement ;Japan;JPY;3
+JPY_BoJInterestRateDecision;20200616;03:00;BoJ Interest Rate Decision;Japan;JPY;3
+NZD_ANZMonthlyInflationGauge;20200616;02:00;ANZ Monthly Inflation Gauge (YoY);New Zealand;NZD;1
+AUD_HousePriceIndex;20200616;01:30;House Price Index (QoQ);Australia;AUD;2
+AUD_RBAMeetingMinutes;20200616;01:30;RBA Meeting Minutes;Australia;AUD;3

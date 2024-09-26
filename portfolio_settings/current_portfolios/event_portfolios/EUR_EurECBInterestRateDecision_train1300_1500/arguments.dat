@@ -1,0 +1,1 @@
+/apps/levelup/akolle/dev/script/python/createEventPortfolio.py --segment 1330_1500 --sublibfile sublib.dat --pwindow 365 --portfolios 1 --stime 13:30:00 --etime 15:00:00 --sdate 20160101 --edate 20170815 --grid 30Min --noprocesses 20 --tradefreqbound 0.1 --sharpebound 5 --plusfreqbound 0.8 --gridbase 0 --eventfile events.dat

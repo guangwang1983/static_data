@@ -1,0 +1,7 @@
+see wikipedia. Should implement all 3 steps:
+1_ Goodness of fit
+2) Analysis of REsiduals (test if residuals are random)
+3) Predictive Performance / OS evaluation
+
+USE to potentially fit regression window size. Which size has the best T+1 generalisability?
+

@@ -1,0 +1,50 @@
+JPY_ForeignInvestmentinJapanStocks;20201216;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20201216;23:50;Foreign Bond Investment;Japan;JPY;1
+KRW_UnemploymentRate;20201216;23:00;Unemployment Rate;South Korea;KRW;1
+NZD_GrossDomesticProduct;20201216;22:45;Gross Domestic Product (QoQ);New Zealand;NZD;3
+USD_FOMCPressConference;20201216;19:30;FOMC Press Conference;United States;USD;3
+ARS_GrossDomesticProduct;20201216;19:00;Gross Domestic Product (YoY)	;Argentina;ARS;1
+USD_FOMCEconomicProjections;20201216;19:00;FOMC Economic Projections;United States;USD;3
+ARS_UnemploymentRate;20201216;19:00;Unemployment Rate (QoQ)	;Argentina;ARS;1
+USD_FedMonetaryPolicyStatement;20201216;19:00;Fed Monetary Policy Statement;United States;USD;3
+USD_FedInterestRateDecision;20201216;19:00;Fed Interest Rate Decision;United States;USD;3
+USD_EIACrudeOilStocksChange;20201216;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_BusinessInventories;20201216;15:00;Business Inventories;United States;USD;1
+USD_NAHBHousingMarketIndex;20201216;15:00;NAHB Housing Market Index;United States;USD;1
+USD_MarkitManufacturingPMI;20201216;14:45;Markit Manufacturing PMI;United States;USD;2
+USD_MarkitPMIComposite;20201216;14:45;Markit PMI Composite;United States;USD;2
+USD_MarkitServicesPMI;20201216;14:45;Markit Services PMI;United States;USD;2
+CHF_SNBQuarterlyBulletin;20201216;14:00;SNB Quarterly Bulletin;Switzerland;CHF;2
+RUB_ProducerPriceIndex;20201216;14:00;Producer Price Index (YoY);Russia;RUB;1
+USD_RetailSales;20201216;13:30;Retail Sales ex Autos (MoM);United States;USD;2
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20201216;13:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20201216;13:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_WholesaleSales;20201216;13:30;Wholesale Sales (MoM);Canada;CAD;1
+CAD_ConsumerPriceIndex;20201216;13:30;Consumer Price Index (YoY);Canada;CAD;2
+PLN_NetInflation;20201216;13:00;Net Inflation;Poland;PLN;1
+USD_MBAMortgageApplications;20201216;12:00;MBA Mortgage Applications;United States;USD;1
+EUR_GerAuction;20201216;10:40;30-y Bond Auction;Germany;EUR;1
+EUR_EurTradeBalance;20201216;10:00;Trade Balance n.s.a.;European Monetary Union;EUR;1
+EUR_EurLaborCost;20201216;10:00;Labor Cost;European Monetary Union;EUR;2
+EUR_EurConstructionOutput;20201216;10:00;Construction Output w.d.a (YoY);European Monetary Union;EUR;1
+GBP_DCLGHousePriceIndex;20201216;09:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_MarkitManufacturingPMI;20201216;09:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+GBP_MarkitServicesPMI;20201216;09:30;Markit Services PMI;United Kingdom;GBP;3
+EUR_ItaIndustrialSales;20201216;09:00;Industrial Sales s.a. (MoM);Italy;EUR;1
+EUR_ItaIndustrialOrders;20201216;09:00;Industrial Orders s.a (MoM);Italy;EUR;1
+EUR_EurMarkitPMIComposite;20201216;09:00;Markit PMI Composite;European Monetary Union;EUR;3
+EUR_EurMarkitServicesPMI;20201216;09:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_EurMarkitManufacturingPMI;20201216;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_GerMarkitPMIComposite;20201216;08:30;Markit PMI Composite;Germany;EUR;3
+EUR_GerMarkitServicesPMI;20201216;08:30;Markit Services PMI;Germany;EUR;2
+EUR_GerMarkitManufacturingPMI;20201216;08:30;Markit Manufacturing PMI;Germany;EUR;3
+EUR_FraMarkitManufacturingPMI;20201216;08:15;Markit Manufacturing PMI;France;EUR;2
+EUR_FraMarkitPMIComposite;20201216;08:15;Markit PMI Composite;France;EUR;2
+EUR_FraMarkitServicesPMI;20201216;08:15;Markit Services PMI;France;EUR;2
+CZK_ProducerPriceIndex;20201216;08:00;Producer Price Index (YoY);Czech Republic;CZK;1
+GBP_RetailPriceIndex;20201216;07:00;Retail Price Index (MoM);United Kingdom;GBP;2
+GBP_PPICoreOutput;20201216;07:00;PPI Core Output (YoY) n.s.a ;United Kingdom;GBP;2
+GBP_ProducerPriceIndex;20201216;07:00;Producer Price Index - Input (MoM) n.s.a;United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20201216;07:00;Consumer Price Index (YoY);United Kingdom;GBP;3
+JPY_JibunBankManufacturingPMI;20201216;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+AUD_HIANewHomeSales;20201216;00:00;HIA New Home Sales (MoM);Australia;AUD;2

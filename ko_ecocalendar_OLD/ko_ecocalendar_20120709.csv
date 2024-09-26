@@ -1,0 +1,42 @@
+JPY_BankLending;20120709;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_MoneySupplyM2+CD;20120709;23:50;Money Supply M2+CD (YoY);Japan;JPY;1
+GBP_RICSHousingPriceBalance;20120709;23:01;RICS Housing Price Balance;United Kingdom;GBP;1
+GBP_RetailSales;20120709;23:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;1
+NZD_RetailSales;20120709;22:45;Electronic Card Retail Sales  (MoM);New Zealand;NZD;1
+NZD_NZIERBusinessConfidence;20120709;22:00;NZIER Business Confidence (QoQ);New Zealand;NZD;2
+NZD_REINZHousePriceIndex;20120709;21:00;REINZ House Price Index (MoM);New Zealand;NZD;2
+USD_ConsumerCreditChange;20120709;19:00;Consumer Credit Change;United States;USD;2
+USD_CentralBankSpeech;20120709;15:55;Fed Williams speech;United States;USD;2
+USD_Auction;20120709;15:30;6-Month Bill Auction;United States;USD;1
+GBP_CentralBankSpeech;20120709;15:30;BoE Tucker speech;United Kingdom;GBP;3
+EUR_EurEuropeanCouncilMeeting;20120709;15:00;European Council Meeting;European Monetary Union;EUR;2
+CAD_BankofCanadaBusinessOutlookSurvey;20120709;14:30;Bank of Canada Business Outlook Survey;Canada;CAD;2
+TRY_TreasuryCashBalance;20120709;14:30;Treasury Cash Balance;Turkey;TRY;1
+MXN_12MonthInflation;20120709;13:00;12-Month Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20120709;13:00;Headline Inflation;Mexico;MXN;1
+MXN_CoreInflation;20120709;13:00;Core Inflation;Mexico;MXN;1
+EUR_EurCentralBankSpeech;20120709;12:30;ECB President Draghi speech;European Monetary Union;EUR;3
+CLP_TradeBalance;20120709;12:30;Trade Balance;Chile;CLP;1
+SGD_ForeignReserves;20120709;09:00;Foreign Reserves (MoM);Singapore;SGD;1
+EUR_GreConsumerPriceIndex;20120709;09:00;Consumer Price Index (YoY);Greece;EUR;1
+EUR_EurSentixInvestorConfidence;20120709;08:30;Sentix Investor Confidence;European Monetary Union;EUR;2
+EUR_SloForeignTradeBalance;20120709;07:00;Foreign Trade Balance;Slovakia;EUR;1
+TRY_IndustrialProduction;20120709;07:00;Industrial Production (YoY);Turkey;TRY;1
+CZK_IndustrialProduction;20120709;07:00;Industrial Production (YoY);Czech Republic;CZK;1
+DKK_TradeBalance;20120709;07:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20120709;07:00;Current Account;Denmark;DKK;1
+CZK_Constructionoutput;20120709;07:00;Construction output (YoY);Czech Republic;CZK;1
+HUF_TradeBalance;20120709;07:00;Trade Balance;Hungary;HUF;1
+CZK_ForeignTradeBalance;20120709;07:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+EUR_FinTradeBalance;20120709;06:00;Trade Balance;Finland;EUR;1
+EUR_GerCurrentAccount;20120709;06:00;Current Account n.s.a.;Germany;EUR;1
+EUR_GerExports;20120709;06:00;Exports (MoM);Germany;EUR;1
+EUR_GerTradeBalance;20120709;06:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerImports;20120709;06:00;Imports (MoM);Germany;EUR;1
+CHF_UnemploymentRate;20120709;05:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+JPY_EcoWatchersSurvey:Outlook;20120709;05:00;Eco Watchers Survey: Outlook;Japan;JPY;2
+JPY_EcoWatchersSurvey:Current;20120709;05:00;Eco Watchers Survey: Current;Japan;JPY;2
+AUD_ANZJobAdvertisements;20120709;01:30;ANZ Job Advertisements;Australia;AUD;1
+CNY_ConsumerPriceIndex;20120709;01:30;Consumer Price Index (YoY);China;CNY;3
+CNY_ProducerPriceIndex;20120709;01:30;Producer Price Index (YoY);China;CNY;2
+ARS_IndependenceDay;20120709;00:00;Independence Day;Argentina;ARS;0

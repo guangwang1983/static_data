@@ -1,0 +1,32 @@
+AUD_NationalAustraliaBankBusinessConfidence;20240213;00:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20240213;00:30;National Australia Bank Business Conditions;Australia;AUD;1
+NZD_RBNZInflationExpectations;20240213;02:22;RBNZ Inflation Expectations (QoQ);New Zealand;NZD;3
+BRL_Carnival;20240213;03:00;Carnival;Brazil;BRL;0
+JPY_MachineToolOrders;20240213;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+EUR_FraILOUnemployment;20240213;06:30;ILO Unemployment;France;EUR;1
+TRY_CurrentAccount;20240213;07:00;Current Account Balance;Turkey;TRY;1
+GBP_EmploymentChange;20240213;07:00;Employment Change;United Kingdom;GBP;3
+GBP_ClaimantCountChange;20240213;07:00;Claimant Count Change;United Kingdom;GBP;3
+GBP_ClaimantCountRate;20240213;07:00;Claimant Count Rate;United Kingdom;GBP;2
+GBP_AverageEarningsExcludingBonus;20240213;07:00;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_AverageEarningsIncludingBonus;20240213;07:00;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20240213;07:00;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+HUF_IndustrialOutput;20240213;07:30;Industrial Output (YoY);Hungary;HUF;1
+CHF_ConsumerPriceIndex;20240213;07:30;Consumer Price Index (YoY);Switzerland;CHF;3
+CZK_CurrentAccount;20240213;09:00;Current Account (MoM);Czech Republic;CZK;1
+EUR_GerZEWSurvey–EconomicSentiment;20240213;10:00;ZEW Survey – Economic Sentiment;Germany;EUR;2
+EUR_GerZEWSurvey–CurrentSituation;20240213;10:00;ZEW Survey – Current Situation;Germany;EUR;2
+EUR_EurZEWSurvey–EconomicSentiment;20240213;10:00;ZEW Survey – Economic Sentiment;Eurozone;EUR;2
+USD_NFIBBusinessOptimismIndex;20240213;11:00;NFIB Business Optimism Index;United States;USD;1
+USD_OPECMonthlyMarketReport;20240213;12:00;OPEC Monthly Market Report;United States;USD;1
+ILS_TradeBalance;20240213;12:50;Trade Balance;Israel;ILS;1
+ILS_Imports;20240213;12:50;Imports;Israel;ILS;1
+ILS_Exports;20240213;12:50;Exports;Israel;ILS;1
+PLN_CurrentAccount;20240213;13:00;Current Account;Poland;PLN;1
+RON_Interestratedecision;20240213;13:00;Interest rate decision;Romania;RON;1
+USD_ConsumerPriceIndex;20240213;13:30;Consumer Price Index n.s.a (MoM);United States;USD;1
+EUR_GerCurrentAccount;20240213;13:30;Current Account n.s.a.;Germany;EUR;1
+USD_RedbookIndex;20240213;13:55;Redbook Index (YoY);United States;USD;1
+USD_APIWeeklyCrudeOilStock;20240213;21:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_FoodPriceIndex;20240213;21:45;Food Price Index (MoM);New Zealand;NZD;1
+NZD_RetailSales;20240213;21:45;Electronic Card Retail Sales  (MoM);New Zealand;NZD;1

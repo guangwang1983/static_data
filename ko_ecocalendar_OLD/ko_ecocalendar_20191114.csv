@@ -1,0 +1,59 @@
+NZD_BusinessNZPMI;20191114;21:30;Business NZ PMI;New Zealand;NZD;2
+ARS_ConsumerPriceIndex;20191114;19:00;Consumer Price Index (MoM);Argentina;ARS;1
+MXN_CentralBankInterestRate;20191114;19:00;Central Bank Interest Rate;Mexico;MXN;1
+USD_CentralBankSpeech;20191114;18:00;Fed Kaplan speech;United States;USD;2
+CHF_CentralBankSpeech;20191114;17:30;SNB Maechler speech;Switzerland;CHF;2
+EGP_CBEInterestRateDecision;20191114;17:00;CBE Interest Rate Decision;Egypt;EGP;1
+USD_Auction;20191114;16:30;4-Week Bill Auction;United States;USD;1
+USD_EIACrudeOilStocksChange;20191114;16:00;EIA Crude Oil Stocks Change;United States;USD;1
+USD_EIANaturalGasStorageChange;20191114;15:30;EIA Natural Gas Storage Change;United States;USD;1
+COP_RetailSales;20191114;15:00;Retail Sales (YoY);Colombia;COP;1
+COP_TradeBalance;20191114;15:00;Trade Balance;Colombia;COP;1
+USD_FedChairPowelltestifies;20191114;15:00;Fed Chair Powell testifies;United States;USD;3
+COP_Industrialoutput;20191114;15:00;Industrial output (YoY);Colombia;COP;1
+RUB_CentralBankReserves;20191114;14:00;Central Bank Reserves $;Russia;RUB;1
+USD_ProducerPriceIndex;20191114;13:30;Producer Price Index ex Food & Energy (MoM);United States;USD;1
+USD_JoblessClaims;20191114;13:30;Initial Jobless Claims;United States;USD;2
+CAD_NewHousingPriceIndex;20191114;13:30;New Housing Price Index (YoY);Canada;CAD;1
+ILS_ConsumerPriceIndex;20191114;12:00;Consumer Price Index (MoM);Israel;ILS;1
+ILS_M1MoneySupply;20191114;11:00;M1 Money Supply (MoM);Israel;ILS;1
+EUR_EurCentralBankSpeech;20191114;11:00;ECB Lane speech;European Monetary Union;EUR;2
+EUR_EurGrossDomesticProduct;20191114;10:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+EUR_EurEmploymentChange;20191114;10:00;Employment Change (YoY);European Monetary Union;EUR;1
+GBP_RetailSales;20191114;09:30;Retail Sales ex-Fuel (MoM);United Kingdom;GBP;2
+EUR_PorGrossDomesticProduct;20191114;09:30;Gross Domestic Product (YoY);Portugal;EUR;1
+PLN_GrossDomesticProduct;20191114;09:00;Gross Domestic Product Qtr (YoY);Poland;PLN;1
+SEK_UnemploymentRate;20191114;08:30;Unemployment Rate;Sweden;SEK;1
+EUR_NetGrossDomesticProduct;20191114;08:30;Gross Domestic Product s.a (QoQ) ;Netherlands, The;EUR;1
+EUR_SpaHICP;20191114;08:00;HICP (YoY);Spain;EUR;1
+PHP_BSPInterestratedecision;20191114;08:00;BSP Interest rate decision;Philippines;PHP;1
+EUR_SloHeadlineInflation;20191114;08:00;Headline Inflation (MoM);Slovakia;EUR;1
+EUR_SloCoreInflation;20191114;08:00;Core Inflation (MoM);Slovakia;EUR;1
+EUR_SpaConsumerPriceIndex;20191114;08:00;Consumer Price Index (YoY);Spain;EUR;1
+CZK_GrossDomesticProduct;20191114;08:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+HUF_GrossDomesticProduct;20191114;08:00;Gross Domestic Product (YoY);Hungary;HUF;1
+EUR_SloGrossDomesticProduct;20191114;08:00;Gross Domestic Product Prelim (YoY);Slovakia;EUR;1
+EUR_FraConsumerPriceIndex;20191114;07:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraInflationextobacco;20191114;07:45;Inflation ex-tobacco (MoM);France;EUR;1
+CHF_ProducerandImportPrices;20191114;07:30;Producer and Import Prices (YoY);Switzerland;CHF;1
+TRY_IndustrialProduction;20191114;07:00;Industrial Production (YoY);Turkey;TRY;1
+RON_GrossDomesticProduct;20191114;07:00;Gross Domestic Product;Romania;RON;1
+EUR_GerGrossDomesticProduct;20191114;07:00;Gross Domestic Product w.d.a (YoY);Germany;EUR;2
+EUR_FraILOUnemployment;20191114;06:30;ILO Unemployment;France;EUR;1
+INR_WPIInflation;20191114;06:30;WPI Inflation;India;INR;1
+EUR_FinGrossDomesticProduct;20191114;06:00;Gross Domestic Product (YoY);Finland;EUR;1
+EUR_FinConsumerPriceIndex;20191114;06:00;Consumer Price Index (YoY);Finland;EUR;1
+JPY_TertiaryIndustryIndex;20191114;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+CNY_RetailSales;20191114;02:00;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20191114;02:00;Industrial Production (YoY);China;CNY;2
+CNY_NBSPressConference;20191114;02:00;NBS Press Conference;China;CNY;2
+CNY_FixedAssetInvestment;20191114;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+AUD_ParticipationRate;20191114;00:30;Participation Rate;Australia;AUD;1
+AUD_UnemploymentRate;20191114;00:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_FulltimeEmployment;20191114;00:30;Fulltime Employment;Australia;AUD;2
+AUD_PartTimeEmployment;20191114;00:30;Part-Time Employment;Australia;AUD;1
+AUD_EmploymentChange;20191114;00:30;Employment Change s.a.;Australia;AUD;3
+GBP_RICSHousingPriceBalance;20191114;00:01;RICS Housing Price Balance;United Kingdom;GBP;1
+GBP_RightmoveHousePriceIndex;20191114;00:01;Rightmove House Price Index (MoM);United Kingdom;GBP;1
+AUD_ConsumerInflationExpectations;20191114;00:00;Consumer Inflation Expectations;Australia;AUD;2
+NZD_ANZMonthlyInflationGauge;20191114;00:00;ANZ Monthly Inflation Gauge (MoM);New Zealand;NZD;1

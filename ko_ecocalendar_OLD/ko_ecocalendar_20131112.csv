@@ -1,0 +1,35 @@
+JPY_DomesticCorporateGoodsPriceIndex;20131112;23:50;Domestic Corporate Goods Price Index (YoY);Japan;JPY;1
+JPY_MachineryOrders;20131112;23:50;Machinery Orders (YoY);Japan;JPY;2
+AUD_WestpacConsumerConfidenceIndex;20131112;23:30;Westpac Consumer Confidence Index;Australia;AUD;1
+AUD_WestpacConsumerConfidence;20131112;23:30;Westpac Consumer Confidence;Australia;AUD;2
+KRW_UnemploymentRate;20131112;23:00;Unemployment Rate;South Korea;KRW;1
+NZD_FoodPriceIndex;20131112;21:45;Food Price Index (MoM);New Zealand;NZD;1
+NZD_RBNZFinancialStabilityReport;20131112;20:00;RBNZ Financial Stability Report;New Zealand;NZD;2
+USD_Auction;20131112;18:00;3-Year Note Auction;United States;USD;1
+USD_RedbookIndex;20131112;13:55;Redbook Index (MoM);United States;USD;1
+USD_ChicagoFedNationalActivityIndex;20131112;13:30;Chicago Fed National Activity Index ;United States;USD;2
+USD_NFIBBusinessOptimismIndex;20131112;12:30;NFIB Business Optimism Index;United States;USD;1
+PLN_CurrentAccount;20131112;12:00;Current Account;Poland;PLN;1
+INR_ManufacturingOutput;20131112;12:00;Manufacturing Output;India;INR;1
+INR_CumulativeIndustrialOutput;20131112;12:00;Cumulative Industrial Output;India;INR;1
+EUR_PorConsumerPriceIndex;20131112;11:00;Consumer Price Index (MoM);Portugal;EUR;1
+GBP_RetailPriceIndex;20131112;09:30;Retail Price Index (MoM);United Kingdom;GBP;1
+GBP_DCLGHousePriceIndex;20131112;09:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ProducerPriceIndex;20131112;09:30;Producer Price Index - Output (YoY) n.s.a;United Kingdom;GBP;2
+GBP_PPICoreOutput;20131112;09:30;PPI Core Output (MoM) n.s.a;United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20131112;09:30;Core Consumer Price Index (YoY);United Kingdom;GBP;3
+EUR_ItaConsumerPriceIndex;20131112;09:00;Consumer Price Index (YoY);Italy;EUR;1
+IDR_BankIndonesiaRate;20131112;09:00;Bank Indonesia Rate;Indonesia;IDR;1
+CZK_CurrentAccount;20131112;09:00;Current Account (MoM);Czech Republic;CZK;1
+SEK_ConsumerPriceIndex;20131112;08:30;Consumer Price Index (YoY);Sweden;SEK;1
+EUR_SloCoreInflation;20131112;08:00;Core Inflation (YoY);Slovakia;EUR;1
+EUR_SloHeadlineInflation;20131112;08:00;Headline Inflation (MoM);Slovakia;EUR;1
+HUF_ConsumerPriceIndex;20131112;08:00;Consumer Price Index (YoY);Hungary;HUF;1
+EUR_GerWholesalePriceIndex;20131112;07:00;Wholesale Price Index (MoM);Germany;EUR;1
+EUR_GerConsumerPriceIndex;20131112;07:00;Consumer Price Index (MoM);Germany;EUR;2
+EUR_GerHarmonizedIndexofConsumerPrices;20131112;07:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+JPY_MachineToolOrders;20131112;06:00;Machine Tool Orders (YoY);Japan;JPY;2
+JPY_ConsumerConfidenceIndex;20131112;05:00;Consumer Confidence Index;Japan;JPY;2
+AUD_NationalAustraliaBankBusinessConfidence;20131112;00:30;National Australia Bank Business Confidence;Australia;AUD;2
+AUD_NationalAustraliaBankBusinessConditions;20131112;00:30;National Australia Bank Business Conditions;Australia;AUD;1
+GBP_RICSHousingPriceBalance;20131112;00:01;RICS Housing Price Balance;United Kingdom;GBP;2

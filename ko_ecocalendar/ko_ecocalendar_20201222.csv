@@ -1,0 +1,23 @@
+AUD_RetailSales;20201222;00:30;Retail Sales s.a. (MoM);Australia;AUD;3
+GBP_GrossDomesticProduct;20201222;07:00;Gross Domestic Product (QoQ);United Kingdom;GBP;3
+EUR_GerGfkConsumerConfidenceSurvey;20201222;07:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+GBP_TotalBusinessInvestment;20201222;07:00;Total Business Investment (YoY);United Kingdom;GBP;1
+NOK_LabourForceSurvey;20201222;07:00;Labour Force Survey;Norway;NOK;1
+GBP_CurrentAccount;20201222;07:00;Current Account;United Kingdom;GBP;1
+GBP_PublicSectorNetBorrowing;20201222;07:00;Public Sector Net Borrowing;United Kingdom;GBP;1
+SEK_ConsumerConfidence;20201222;08:00;Consumer Confidence (MoM);Sweden;SEK;1
+SEK_RetailSales;20201222;08:30;Retail Sales (YoY);Sweden;SEK;1
+SEK_ProducerPriceIndex;20201222;08:30;Producer Price Index (MoM);Sweden;SEK;1
+BRL_MidmonthInflation;20201222;12:00;Mid-month Inflation;Brazil;BRL;1
+PLN_M3MoneySupply;20201222;13:00;M3 Money Supply (YoY);Poland;PLN;1
+USD_GrossDomesticProduct;20201222;13:30;Gross Domestic Product Price Index;United States;USD;2
+USD_PersonalConsumptionExpendituresPrices;20201222;13:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+USD_CorePersonalConsumptionExpenditures;20201222;13:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+USD_RedbookIndex;20201222;13:55;Redbook Index (YoY);United States;USD;1
+USD_ExistingHomeSales;20201222;15:00;Existing Home Sales (MoM);United States;USD;1
+USD_ExistingHomeSalesChange;20201222;15:00;Existing Home Sales Change (MoM);United States;USD;1
+USD_ConsumerConfidence;20201222;15:00;Consumer Confidence;United States;USD;2
+USD_RichmondFedManufacturingIndex;20201222;15:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_Auction;20201222;18:00;5-year TIPS Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20201222;21:30;API Weekly Crude Oil Stock;United States;USD;1
+JPY_BoJMonetaryPolicyMeetingMinutes;20201222;23:50;BoJ Monetary Policy Meeting Minutes;Japan;JPY;3

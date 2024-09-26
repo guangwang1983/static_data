@@ -1,0 +1,28 @@
+AUD_ProducerPriceIndex;20180202;00:30;Producer Price Index (YoY);Australia;AUD;1
+BRL_FipeIPCInflation;20180202;07:00;Fipe IPC Inflation;Brazil;BRL;1
+HUF_TradeBalance;20180202;08:00;Trade Balance;Hungary;HUF;1
+NOK_RegisteredUnemployment;20180202;09:00;Registered Unemployment s.a;Norway;NOK;1
+GBP_S&PGlobalConstructionPMI;20180202;09:30;S&P Global Construction PMI;United Kingdom;GBP;2
+EUR_ItaConsumerPriceIndex;20180202;10:00;Consumer Price Index (EU Norm) (MoM);Italy;EUR;1
+EUR_EurProducerPriceIndex;20180202;10:00;Producer Price Index (YoY);European Monetary Union;EUR;2
+INR_BankLoanGrowth;20180202;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20180202;11:30;FX Reserves, USD;India;INR;1
+USD_AverageHourlyEarnings;20180202;13:30;Average Hourly Earnings (YoY);United States;USD;3
+USD_AverageWeeklyHours;20180202;13:30;Average Weekly Hours;United States;USD;2
+USD_NonfarmPayrolls;20180202;13:30;Nonfarm Payrolls;United States;USD;3
+USD_U6UnderemploymentRate;20180202;13:30;U6 Underemployment Rate;United States;USD;1
+USD_UnemploymentRate;20180202;13:30;Unemployment Rate;United States;USD;3
+USD_LaborForceParticipationRate;20180202;13:30;Labor Force Participation Rate;United States;USD;2
+USD_ISMNYBusinessConditionsIndex;20180202;14:45;ISM-NY Business Conditions Index;United States;USD;1
+DKK_CurrencyReserves;20180202;15:00;Currency Reserves;Denmark;DKK;1
+USD_MichiganConsumerSentimentIndex;20180202;15:00;Michigan Consumer Sentiment Index;United States;USD;1
+USD_FactoryOrders;20180202;15:00;Factory Orders (MoM);United States;USD;2
+USD_BakerHughesUSOilRigCount;20180202;18:00;Baker Hughes US Oil Rig Count;United States;USD;2
+USD_CentralBankSpeech;20180202;20:30;Fed Williams speech;United States;USD;2
+USD_CFTCOilNCNetPositions;20180202;20:30;CFTC Oil NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20180202;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+GBP_CFTCGBPNCNetPositions;20180202;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20180202;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20180202;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20180202;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20180202;20:30;CFTC AUD NC Net Positions;Australia;AUD;1

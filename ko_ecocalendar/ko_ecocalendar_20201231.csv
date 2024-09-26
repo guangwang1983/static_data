@@ -1,0 +1,34 @@
+CNY_NonManufacturingPMI;20201231;01:00;Non-Manufacturing PMI;China;CNY;3
+CNY_NBSManufacturingPMI;20201231;01:00;NBS Manufacturing PMI;China;CNY;3
+ZAR_M3MoneySupply;20201231;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+ZAR_PrivateSectorCredit;20201231;06:00;Private Sector Credit;South Africa;ZAR;1
+TRY_TradeBalance;20201231;07:00;Trade Balance;Turkey;TRY;1
+INR_FederalFiscalDeficitINR;20201231;10:00;Federal Fiscal Deficit, INR;India;INR;1
+NZD_NewYearDay;20201231;12:00;New Year Day ;New Zealand;NZD;0
+CLP_Unemploymentrate;20201231;12:00;Unemployment rate;Chile;CLP;1
+CLP_IndustrialProduction;20201231;12:00;Industrial Production (YoY);Chile;CLP;1
+INR_InfrastructureOutput;20201231;12:30;Infrastructure Output (YoY);India;INR;1
+RUB_CentralBankReserves;20201231;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_JoblessClaims;20201231;13:30;Initial Jobless Claims;United States;USD;2
+AUD_NewYearDay;20201231;14:00;New Year Day;Australia;AUD;0
+JPY_NewYearDay;20201231;15:00;New Year Day;Japan;JPY;0
+USD_FedIndexofCommonInflationExpectations;20201231;15:00;Fed Index of Common Inflation Expectations;United States;USD;2
+KRW_NewYearDay;20201231;15:00;New Year Day;South Korea;KRW;0
+USD_Auction;20201231;15:00;4-Week Bill Auction;United States;USD;1
+USD_EIANaturalGasStorageChange;20201231;15:30;EIA Natural Gas Storage Change;United States;USD;1
+RUB_ConsumerPriceIndex;20201231;16:00;Consumer Price Index (MoM);Russia;RUB;1
+CNY_NewYearDay;20201231;16:00;New Year Day;China;CNY;0
+IDR_NewYearDay;20201231;17:00;New Year Day;Indonesia;IDR;0
+TRY_NewYearDay;20201231;21:00;New Year Day;Turkey;TRY;0
+RUB_NewYearDay;20201231;21:00;New Year Day;Russia;RUB;0
+ZAR_NewYearsDay;20201231;22:00;New Years Day;South Africa;ZAR;0
+RON_NewYear’sDay;20201231;22:00;New Year’s Day;Romania;RON;0
+DKK_NewYearDay;20201231;22:00;New Year Day;Denmark;DKK;0
+EUR_FraNewYearDay;20201231;23:00;New Year Day;France;EUR;0
+EUR_ItaNewYearDay;20201231;23:00;New Year Day;Italy;EUR;0
+CHF_NewYearDay;20201231;23:00;New Year Day;Switzerland;CHF;0
+GBP_NewYearDay;20201231;23:00;New Year Day;United Kingdom;GBP;0
+HUF_NewYearDay;20201231;23:00;New Year Day;Hungary;HUF;0
+EUR_GerNewYearDay;20201231;23:00;New Year Day;Germany;EUR;0
+CZK_RestorationDayoftheIndependentCzechState;20201231;23:00;Restoration Day of the Independent Czech State;Czech Republic;CZK;0
+PLN_NewYearDay;20201231;23:00;New Year Day;Poland;PLN;0

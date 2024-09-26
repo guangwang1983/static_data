@@ -1,0 +1,47 @@
+JPY_ForeignInvestmentinJapanStocks;20191024;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20191024;23:50;Foreign Bond Investment;Japan;JPY;2
+KRW_ConsumerSentimentIndex;20191024;21:00;Consumer Sentiment Index;South Korea;KRW;1
+USD_Auction;20191024;17:00;7-Year Note Auction;United States;USD;1
+USD_KansasFedManufacturingActivity;20191024;15:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_EIANaturalGasStorageChange;20191024;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_NewHomeSales;20191024;14:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20191024;14:00;New Home Sales Change (MoM);United States;USD;1
+USD_MarkitManufacturingPMI;20191024;13:45;Markit Manufacturing PMI;United States;USD;2
+USD_MarkitServicesPMI;20191024;13:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20191024;13:45;Markit PMI Composite;United States;USD;2
+BRL_CurrentAccount;20191024;13:30;Current Account;Brazil;BRL;1
+RUB_CentralBankReserves;20191024;13:00;Central Bank Reserves $;Russia;RUB;1
+EUR_BelLeadingIndicator;20191024;13:00;Leading Indicator;Belgium;EUR;1
+USD_JoblessClaims;20191024;12:30;Continuing Jobless Claims;United States;USD;2
+EUR_EurECBMonetaryPolicyStatementandPressConference;20191024;12:30;ECB Monetary Policy Statement and Press Conference;European Monetary Union;EUR;3
+USD_DurableGoodsOrders;20191024;12:30;Durable Goods Orders ex Transportation;United States;USD;2
+USD_NondefenseCapitalGoodsOrdersexAircraft;20191024;12:30;Nondefense Capital Goods Orders ex Aircraft;United States;USD;3
+EUR_EurECBInterestRateDecision;20191024;11:45;ECB Interest Rate Decision;European Monetary Union;EUR;3
+EUR_EurECBDepositRateDecision;20191024;11:45;ECB Deposit Rate Decision;European Monetary Union;EUR;3
+TRY_CBRTInterestRateDecision;20191024;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+MXN_1sthalfmonthInflation;20191024;11:00;1st half-month Inflation;Mexico;MXN;1
+MXN_1sthalfmonthCoreInflation;20191024;11:00;1st half-month Core Inflation;Mexico;MXN;1
+ILS_Imports;20191024;10:00;Imports;Israel;ILS;1
+ILS_Exports;20191024;10:00;Exports;Israel;ILS;1
+ILS_TradeBalance;20191024;10:00;Trade Balance;Israel;ILS;1
+ILS_IndustrialProduction;20191024;10:00;Industrial Production (MoM);Israel;ILS;1
+EUR_EurMarkitPMIComposite;20191024;08:00;Markit PMI Composite;European Monetary Union;EUR;3
+EUR_EurMarkitServicesPMI;20191024;08:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_EurMarkitManufacturingPMI;20191024;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+NOK_NorgesBankInterestRateDecision;20191024;08:00;Norges Bank Interest Rate Decision;Norway;NOK;1
+EUR_GerMarkitPMIComposite;20191024;07:30;Markit PMI Composite;Germany;EUR;3
+EUR_GerMarkitServicesPMI;20191024;07:30;Markit Services PMI;Germany;EUR;2
+EUR_GerMarkitManufacturingPMI;20191024;07:30;Markit Manufacturing PMI;Germany;EUR;3
+SEK_RiksbankInterestRateDecision;20191024;07:30;Riksbank Interest Rate Decision;Sweden;SEK;1
+IDR_BankIndonesiaRate;20191024;07:30;Bank Indonesia Rate;Indonesia;IDR;1
+EUR_FraMarkitServicesPMI;20191024;07:15;Markit Services PMI;France;EUR;1
+EUR_FraMarkitPMIComposite;20191024;07:15;Markit PMI Composite;France;EUR;1
+EUR_FraMarkitManufacturingPMI;20191024;07:15;Markit Manufacturing PMI;France;EUR;1
+EUR_SpaUnemploymentSurvey;20191024;07:00;Unemployment Survey;Spain;EUR;1
+NOK_LabourForceSurvey;20191024;06:00;Labour Force Survey;Norway;NOK;1
+EUR_FinProducerPriceIndex;20191024;05:00;Producer Price Index (YoY);Finland;EUR;1
+JPY_LeadingEconomicIndex;20191024;05:00;Leading Economic Index;Japan;JPY;2
+JPY_CoincidentIndex;20191024;05:00;Coincident Index;Japan;JPY;1
+EUR_FinExportPrices;20191024;05:00;Export Prices (YoY);Finland;EUR;1
+EUR_FinImportPrices;20191024;05:00;Import Prices (YoY);Finland;EUR;1
+JPY_JibunBankManufacturingPMI;20191024;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1

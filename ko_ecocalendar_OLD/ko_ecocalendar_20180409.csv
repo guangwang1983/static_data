@@ -1,0 +1,34 @@
+GBP_RetailSales;20180409;23:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+NZD_NZIERBusinessConfidence;20180409;22:00;NZIER Business Confidence (QoQ);New Zealand;NZD;2
+EUR_EurCentralBankSpeech;20180409;16:45;ECB Praet speech;European Monetary Union;EUR;2
+USD_Auction;20180409;15:30;6-Month Bill Auction;United States;USD;1
+CAD_BankofCanadaBusinessOutlookSurvey;20180409;14:30;Bank of Canada Business Outlook Survey;Canada;CAD;2
+MXN_12MonthInflation;20180409;14:00;12-Month Inflation;Mexico;MXN;1
+MXN_CoreInflation;20180409;14:00;Core Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20180409;14:00;Headline Inflation;Mexico;MXN;1
+CLP_TradeBalance;20180409;11:31;Trade Balance;Chile;CLP;1
+EUR_PorGlobalTradeBalance;20180409;10:00;Global Trade Balance;Portugal;EUR;1
+SGD_ForeignReserves;20180409;09:00;Foreign Reserves (MoM);Singapore;SGD;1
+HUF_BudgetBalance;20180409;09:00;Budget Balance;Hungary;HUF;1
+EUR_EurSentixInvestorConfidence;20180409;08:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+GBP_HalifaxHousePrices;20180409;07:30;Halifax House Prices (3m/YoY);United Kingdom;GBP;1
+EUR_SloForeignTradeBalance;20180409;07:00;Foreign Trade Balance;Slovakia;EUR;1
+HUF_TradeBalance;20180409;07:00;Trade Balance;Hungary;HUF;1
+CZK_ForeignTradeBalance;20180409;07:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+JPY_EcoWatchersSurvey:Outlook;20180409;06:00;Eco Watchers Survey: Outlook;Japan;JPY;1
+JPY_EcoWatchersSurvey:Current;20180409;06:00;Eco Watchers Survey: Current;Japan;JPY;1
+DKK_TradeBalance;20180409;06:00;Trade Balance;Denmark;DKK;1
+EUR_FinTradeBalance;20180409;06:00;Trade Balance;Finland;EUR;1
+DKK_CurrentAccount;20180409;06:00;Current Account;Denmark;DKK;1
+NOK_ManufacturingOutput;20180409;06:00;Manufacturing Output;Norway;NOK;1
+EUR_GerCurrentAccount;20180409;06:00;Current Account n.s.a.;Germany;EUR;1
+EUR_GerExports;20180409;06:00;Exports (MoM);Germany;EUR;1
+EUR_GerTradeBalance;20180409;06:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerImports;20180409;06:00;Imports (MoM);Germany;EUR;1
+ZAR_Net$Gold&ForexReserve;20180409;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+ZAR_Gross$Gold&ForexReserve;20180409;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+CHF_UnemploymentRate;20180409;05:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+JPY_ConsumerConfidenceIndex;20180409;05:00;Consumer Confidence Index;Japan;JPY;1
+EUR_NetManufacturingOutput;20180409;04:30;Manufacturing Output (MoM);Netherlands, The;EUR;1
+RON_OrthodoxEasterMonday;20180409;00:00;Orthodox Easter Monday;Romania;RON;0
+EUR_GreOrthodoxEasterMonday;20180409;00:00;Orthodox Easter Monday ;Greece;EUR;0

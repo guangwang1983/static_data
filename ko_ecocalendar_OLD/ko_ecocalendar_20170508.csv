@@ -1,0 +1,33 @@
+GBP_RetailSales;20170508;23:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+USD_LoanOfficerSurvey;20170508;19:00;Loan Officer Survey;United States;USD;1
+USD_Auction;20170508;15:30;6-Month Bill Auction;United States;USD;1
+TRY_TreasuryCashBalance;20170508;14:30;Treasury Cash Balance;Turkey;TRY;1
+USD_LaborMarketConditionsIndex;20170508;14:00;Labor Market Conditions Index;United States;USD;2
+MXN_ConsumerConfidence;20170508;13:00;Consumer Confidence;Mexico;MXN;1
+USD_CentralBankSpeech;20170508;12:45;Fed Mester speech;United States;USD;1
+CAD_HousingStarts;20170508;12:15;Housing Starts s.a (YoY);Canada;CAD;2
+CLP_TradeBalance;20170508;11:30;Trade Balance;Chile;CLP;1
+CLP_ConsumerPriceIndex;20170508;11:00;Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+SGD_ForeignReserves;20170508;09:00;Foreign Reserves (MoM);Singapore;SGD;1
+HUF_BudgetBalance;20170508;09:00;Budget Balance;Hungary;HUF;1
+EUR_EurSentixInvestorConfidence;20170508;08:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+GBP_HalifaxHousePrices;20170508;07:30;Halifax House Prices (3m/YoY);United Kingdom;GBP;1
+TRY_IndustrialProduction;20170508;07:00;Industrial Production (YoY);Turkey;TRY;1
+EUR_FinTradeBalance;20170508;06:00;Trade Balance;Finland;EUR;1
+NOK_ManufacturingOutput;20170508;06:00;Manufacturing Output;Norway;NOK;1
+ZAR_Net$Gold&ForexReserve;20170508;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+ZAR_Gross$Gold&ForexReserve;20170508;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+EUR_GerFactoryOrders;20170508;06:00;Factory Orders s.a. (MoM);Germany;EUR;1
+JPY_ConsumerConfidenceIndex;20170508;05:00;Consumer Confidence Index;Japan;JPY;1
+CNY_Imports;20170508;03:40;Imports (YoY);China;CNY;2
+CNY_Exports;20170508;03:40;Exports (YoY);China;CNY;2
+CNY_TradeBalanceUSD;20170508;03:39;Trade Balance USD;China;CNY;2
+CNY_TradeBalanceCNY;20170508;03:22;Trade Balance CNY;China;CNY;2
+AUD_ANZJobAdvertisements;20170508;01:30;ANZ Job Advertisements;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConfidence;20170508;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20170508;01:30;National Australia Bank Business Conditions;Australia;AUD;1
+AUD_BuildingPermits;20170508;01:30;Building Permits (YoY);Australia;AUD;1
+RUB_Bridgeholiday;20170508;00:00;Bridge holiday;Russia;RUB;0
+EUR_FraVictoryinEuropeDay;20170508;00:00;Victory in Europe Day;France;EUR;0
+EUR_SloDayofvictoryoverfascism;20170508;00:00;Day of victory over fascism ;Slovakia;EUR;0
+CZK_LiberationDay;20170508;00:00;Liberation Day ;Czech Republic;CZK;0

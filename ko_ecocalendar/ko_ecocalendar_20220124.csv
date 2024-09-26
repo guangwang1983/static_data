@@ -1,0 +1,25 @@
+JPY_JibunBankServicesPMI;20220124;00:30;Jibun Bank Services PMI;Japan;JPY;1
+JPY_JibunBankManufacturingPMI;20220124;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+EUR_FraHCOBServicesPMI;20220124;08:15;HCOB Services PMI;France;EUR;2
+EUR_FraHCOBCompositePMI;20220124;08:15;HCOB Composite PMI;France;EUR;2
+EUR_FraHCOBManufacturingPMIPreliminar;20220124;08:15;HCOB Manufacturing PMI;France;EUR;2
+EUR_GerHCOBCompositePMI;20220124;08:30;HCOB Composite PMI;Germany;EUR;3
+EUR_GerHCOBManufacturingPMIPreliminar;20220124;08:30;HCOB Manufacturing PMI;Germany;EUR;3
+EUR_GerHCOBServicesPMI;20220124;08:30;HCOB Services PMI;Germany;EUR;2
+PLN_RetailSales;20220124;09:00;Retail Sales (YoY);Poland;PLN;1
+EUR_EurHCOBCompositePMI;20220124;09:00;HCOB Composite PMI;European Monetary Union;EUR;3
+EUR_EurHCOBServicesPMI;20220124;09:00;HCOB Services PMI;European Monetary Union;EUR;2
+EUR_EurHCOBManufacturingPMIPreliminar;20220124;09:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+GBP_S&PGlobalCIPSServicesPMI;20220124;09:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;3
+GBP_S&PGlobalCIPSManufacturingPMIPreliminar;20220124;09:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSCompositePMI;20220124;09:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;2
+EUR_GerGermanBubaMonthlyReport;20220124;11:00;German Buba Monthly Report;Germany;EUR;1
+MXN_1sthalfmonthInflation;20220124;12:00;1st half-month Inflation;Mexico;MXN;1
+MXN_1sthalfmonthCoreInflation;20220124;12:00;1st half-month Core Inflation;Mexico;MXN;1
+USD_ChicagoFedNationalActivityIndex;20220124;13:30;Chicago Fed National Activity Index ;United States;USD;2
+USD_S&PGlobalCompositePMI;20220124;14:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20220124;14:45;S&P Global Services PMI;United States;USD;2
+USD_S&PGlobalManufacturingPMI;20220124;14:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_Auction;20220124;18:00;2-Year Note Auction;United States;USD;1
+NZD_BusinessNZPSI;20220124;21:30;Business NZ PSI;New Zealand;NZD;1
+KRW_GrossDomesticProduct;20220124;23:00;Gross Domestic Product Growth (QoQ) ;South Korea;KRW;1

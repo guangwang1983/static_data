@@ -1,0 +1,52 @@
+JPY_IndustrialProduction;20190328;23:50;Industrial Production (YoY);Japan;JPY;2
+JPY_RetailTrade;20190328;23:50;Retail Trade (YoY);Japan;JPY;2
+JPY_LargeRetailers'Sales;20190328;23:50;Large Retailers' Sales;Japan;JPY;2
+JPY_TokyoCPIexFreshFood;20190328;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;3
+JPY_ConsumerPriceIndex;20190328;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;2
+JPY_TokyoCPIexFoodEnergy;20190328;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_JobsApplicantsRatio;20190328;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+JPY_UnemploymentRate;20190328;23:30;Unemployment Rate;Japan;JPY;2
+KRW_IndustrialOutput;20190328;23:00;Industrial Output (YoY);South Korea;KRW;1
+KRW_ServiceSectorOutput;20190328;23:00;Service Sector Output;South Korea;KRW;1
+KRW_IndustrialOutputGrowth;20190328;23:00;Industrial Output Growth;South Korea;KRW;1
+NZD_BuildingPermits;20190328;21:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+MXN_CentralBankInterestRate;20190328;19:00;Central Bank Interest Rate;Mexico;MXN;1
+USD_CentralBankSpeech;20190328;17:15;Fed Williams speech;United States;USD;2
+CHF_CentralBankSpeech;20190328;17:00;SNB Maechler speech;Switzerland;CHF;2
+USD_Auction;20190328;15:30;4-Week Bill Auction;United States;USD;1
+USD_KansasFedManufacturingActivity;20190328;15:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_EIANaturalGasStorageChange;20190328;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_PendingHomeSales;20190328;14:00;Pending Home Sales (YoY);United States;USD;1
+ZAR_SARBInterestRateDecision;20190328;13:15;SARB Interest Rate Decision;South Africa;ZAR;1
+RUB_CentralBankReserves;20190328;13:00;Central Bank Reserves $;Russia;RUB;1
+EUR_GerConsumerPriceIndex;20190328;13:00;Consumer Price Index (YoY);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20190328;13:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+USD_JoblessClaims;20190328;12:30;Continuing Jobless Claims;United States;USD;2
+USD_GrossDomesticProduct;20190328;12:30;Gross Domestic Product Price Index;United States;USD;2
+USD_CorePersonalConsumptionExpenditures;20190328;12:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+USD_PersonalConsumptionExpendituresPrices;20190328;12:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+CZK_CNBInterestRateDecision;20190328;12:00;CNB Interest Rate Decision;Czech Republic;CZK;1
+EUR_IreRetailSales;20190328;11:17;Retail Sales (YoY);Ireland;EUR;1
+BRL_InflationIndexIGPM;20190328;11:11;Inflation Index/IGP-M;Brazil;BRL;1
+EUR_ItaAuction;20190328;10:52;10-y Bond Auction;Italy;EUR;1
+EUR_BelConsumerPriceIndex;20190328;10:30;Consumer Price Index (MoM);Belgium;EUR;1
+EUR_EurConsumerConfidence;20190328;10:00;Consumer Confidence;European Monetary Union;EUR;1
+EUR_EurServicesSentiment;20190328;10:00;Services Sentiment;European Monetary Union;EUR;1
+EUR_EurIndustrialConfidence;20190328;10:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_EurBusinessClimate;20190328;10:00;Business Climate;European Monetary Union;EUR;2
+EUR_EurEconomicSentimentIndicator;20190328;10:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+EUR_PorConsumerConfidence;20190328;09:30;Consumer Confidence;Portugal;EUR;1
+EUR_PorBusinessConfidence;20190328;09:30;Business Confidence;Portugal;EUR;1
+ZAR_ProducerPriceIndex;20190328;09:30;Producer Price Index (MoM);South Africa;ZAR;1
+EUR_EurCentralBankSpeech;20190328;09:10;ECB De Guindos speech;European Monetary Union;EUR;2
+EUR_EurM3MoneySupply;20190328;09:00;M3 Money Supply (3m);European Monetary Union;EUR;1
+EUR_EurPrivateLoans;20190328;09:00;Private Loans (YoY);European Monetary Union;EUR;1
+SEK_RetailSales;20190328;08:30;Retail Sales (MoM);Sweden;SEK;1
+EUR_SpaHICP;20190328;08:00;HICP (YoY);Spain;EUR;1
+HUF_UnemploymentRate;20190328;08:00;Unemployment Rate (3M);Hungary;HUF;1
+EUR_SpaConsumerPriceIndex;20190328;08:00;Consumer Price Index (MoM);Spain;EUR;1
+DKK_IndustrialOutlook;20190328;07:00;Industrial Outlook;Denmark;DKK;1
+TRY_Economicconfidenceindex;20190328;07:00;Economic confidence index;Turkey;TRY;1
+NOK_CreditIndicator;20190328;07:00;Credit Indicator;Norway;NOK;1
+NZD_ANZActivityOutlook;20190328;00:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20190328;00:00;ANZ Business Confidence;New Zealand;NZD;1

@@ -1,0 +1,24 @@
+CHF_TradeBalance;20230425;06:00;Trade Balance;Switzerland;CHF;1
+CHF_Exports;20230425;06:00;Exports (MoM);Switzerland;CHF;1
+CHF_Imports;20230425;06:00;Imports (MoM);Switzerland;CHF;1
+SEK_ProducerPriceIndex;20230425;06:00;Producer Price Index (MoM);Sweden;SEK;1
+GBP_PublicSectorNetBorrowing;20230425;06:00;Public Sector Net Borrowing;United Kingdom;GBP;1
+GBP_CentralBankSpeech;20230425;09:00;BoE Broadbent speech;United Kingdom;GBP;2
+BRL_RetailSales;20230425;12:00;Retail Sales (MoM);Brazil;BRL;1
+HUF_MNBInterestRateDecision;20230425;12:00;MNB Interest Rate Decision;Hungary;HUF;1
+PLN_M3MoneySupply;20230425;12:00;M3 Money Supply (YoY);Poland;PLN;1
+BRL_CurrentAccount;20230425;12:30;Current Account;Brazil;BRL;1
+USD_RedbookIndex;20230425;12:55;Redbook Index (YoY);United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20230425;13:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;2
+USD_HousingPriceIndex;20230425;13:00;Housing Price Index (MoM);United States;USD;2
+USD_ConsumerConfidence;20230425;14:00;Consumer Confidence;United States;USD;2
+USD_NewHomeSalesChange;20230425;14:00;New Home Sales Change (MoM);United States;USD;1
+USD_NewHomeSales;20230425;14:00;New Home Sales (MoM);United States;USD;2
+USD_RichmondFedManufacturingIndex;20230425;14:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_Auction;20230425;17:00;2-Year Note Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20230425;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_ConsumerSentimentIndex;20230425;21:00;Consumer Sentiment Index;South Korea;KRW;1
+ILS_IndependenceDay;20230425;21:00;Independence Day;Israel;ILS;0
+NZD_TradeBalanceNZD;20230425;22:45;Trade Balance NZD (MoM);New Zealand;NZD;1
+NZD_Exports;20230425;22:45;Exports;New Zealand;NZD;2
+NZD_Imports;20230425;22:45;Imports;New Zealand;NZD;2

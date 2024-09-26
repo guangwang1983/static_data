@@ -1,0 +1,64 @@
+JPY_IndustrialProduction;20200130;23:50;Industrial Production (YoY);Japan;JPY;2
+JPY_LargeRetailers'Sales;20200130;23:50;Large Retailers' Sales;Japan;JPY;2
+JPY_RetailTrade;20200130;23:50;Retail Trade s.a (MoM);Japan;JPY;2
+JPY_TokyoCPIexFreshFood;20200130;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;3
+JPY_ConsumerPriceIndex;20200130;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;2
+JPY_TokyoCPIexFoodEnergy;20200130;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_UnemploymentRate;20200130;23:30;Unemployment Rate;Japan;JPY;2
+JPY_JobsApplicantsRatio;20200130;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+KRW_IndustrialOutputGrowth;20200130;23:00;Industrial Output Growth;South Korea;KRW;1
+KRW_IndustrialOutput;20200130;23:00;Industrial Output (YoY);South Korea;KRW;1
+MXN_FiscalBalancepesos;20200130;22:00;Fiscal Balance, pesos;Mexico;MXN;1
+NZD_ANZRoyMorganConsumerConfidence;20200130;21:00;ANZ - Roy Morgan Consumer Confidence;New Zealand;NZD;2
+CAD_CentralBankSpeech;20200130;20:15;BoC Beaudry speech;Canada;CAD;1
+EUR_GerCentralBankSpeech;20200130;18:00;German Buba President Weidmann speech;Germany;EUR;2
+USD_Auction;20200130;16:30;4-Week Bill Auction;United States;USD;1
+USD_EIANaturalGasStorageChange;20200130;15:30;EIA Natural Gas Storage Change;United States;USD;1
+EUR_BelGrossDomesticProduct;20200130;14:00;Gross Domestic Product (QoQ);Belgium;EUR;1
+USD_JoblessClaims;20200130;13:30;Initial Jobless Claims;United States;USD;2
+USD_GrossDomesticProduct;20200130;13:30;Gross Domestic Product Price Index;United States;USD;2
+USD_PersonalConsumptionExpendituresPrices;20200130;13:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+USD_CorePersonalConsumptionExpenditures;20200130;13:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+RUB_CentralBankReserves;20200130;13:00;Central Bank Reserves $;Russia;RUB;1
+EUR_GerConsumerPriceIndex;20200130;13:00;Consumer Price Index (YoY);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20200130;13:00;Harmonized Index of Consumer Prices (MoM);Germany;EUR;1
+GBP_CentralBankSpeech;20200130;12:30;BoE Governor Carney speech;United Kingdom;GBP;3
+BRL_NominalBudgetBalance;20200130;12:30;Nominal Budget Balance;Brazil;BRL;1
+BRL_PrimaryBudgetSurplus;20200130;12:30;Primary Budget Surplus;Brazil;BRL;1
+GBP_BoEInterestRateDecision;20200130;12:00;BoE Interest Rate Decision;United Kingdom;GBP;3
+GBP_BoEAssetPurchaseFacility;20200130;12:00;BoE Asset Purchase Facility;United Kingdom;GBP;3
+GBP_MonetaryPolicySummary;20200130;12:00;Monetary Policy Summary;United Kingdom;GBP;3
+GBP_BankofEnglandQuarterlyInflationReport;20200130;12:00;Bank of England Quarterly Inflation Report;United Kingdom;GBP;3
+GBP_BoEMPCVoteUnchanged;20200130;12:00;BoE MPC Vote Unchanged;United Kingdom;GBP;3
+GBP_BoEMPCVoteCut;20200130;12:00;BoE MPC Vote Cut;United Kingdom;GBP;3
+GBP_BoEMPCVoteHike;20200130;12:00;BoE MPC Vote Hike;United Kingdom;GBP;3
+GBP_BankofEnglandMinutes;20200130;12:00;Bank of England Minutes;United Kingdom;GBP;3
+BRL_InflationIndexIGPM;20200130;11:00;Inflation Index/IGP-M;Brazil;BRL;1
+EUR_BelConsumerPriceIndex;20200130;11:00;Consumer Price Index (MoM);Belgium;EUR;1
+ILS_UnemploymentRate;20200130;11:00;Unemployment Rate;Israel;ILS;1
+EUR_ItaAuction;20200130;10:30;10-y Bond Auction;Italy;EUR;1
+EUR_EurUnemploymentRate;20200130;10:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_EurBusinessClimate;20200130;10:00;Business Climate;European Monetary Union;EUR;2
+EUR_EurEconomicSentimentIndicator;20200130;10:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+EUR_EurIndustrialConfidence;20200130;10:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_EurConsumerConfidence;20200130;10:00;Consumer Confidence;European Monetary Union;EUR;1
+EUR_EurServicesSentiment;20200130;10:00;Services Sentiment;European Monetary Union;EUR;1
+EUR_GreProducerPriceIndex;20200130;10:00;Producer Price Index (YoY);Greece;EUR;1
+EUR_PorConsumerConfidence;20200130;09:30;Consumer Confidence;Portugal;EUR;1
+EUR_PorBusinessConfidence;20200130;09:30;Business Confidence;Portugal;EUR;1
+ZAR_ProducerPriceIndex;20200130;09:30;Producer Price Index (YoY);South Africa;ZAR;1
+ISK_ConsumerPriceIndex;20200130;09:00;Consumer Price Index (MoM);Iceland;ISK;1
+EUR_ItaUnemployment;20200130;09:00;Unemployment;Italy;EUR;1
+EUR_GerUnemploymentChange;20200130;08:55;Unemployment Change;Germany;EUR;2
+EUR_GerUnemploymentRate;20200130;08:55;Unemployment Rate s.a.;Germany;EUR;2
+CHF_KOFLeadingIndicator;20200130;08:00;KOF Leading Indicator;Switzerland;CHF;2
+EUR_AusGrossDomesticProduct;20200130;08:00;Gross Domestic Product (QoQ);Austria;EUR;1
+EUR_AusProducerPriceIndex;20200130;08:00;Producer Price Index (YoY);Austria;EUR;1
+DKK_IndustrialOutlook;20200130;07:00;Industrial Outlook;Denmark;DKK;1
+JPY_CentralBankSpeech;20200130;07:00;BoJ Amamiya speech;Japan;JPY;1
+DKK_UnemploymentRate;20200130;07:00;Unemployment Rate;Denmark;DKK;1
+NOK_RetailSales;20200130;07:00;Retail Sales ;Norway;NOK;1
+ZAR_M3MoneySupply;20200130;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+ZAR_PrivateSectorCredit;20200130;06:00;Private Sector Credit;South Africa;ZAR;1
+AUD_ImportPriceIndex;20200130;00:30;Import Price Index (QoQ);Australia;AUD;1
+AUD_ExportPriceIndex;20200130;00:30;Export Price Index (QoQ);Australia;AUD;1

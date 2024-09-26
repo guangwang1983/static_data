@@ -1,0 +1,18 @@
+USD_CentralBankSpeech;20090521;23:00;Philadelphia Fed Plosser speech;United States;USD;1
+USD_PhiladelphiaFedManufacturingSurvey;20090521;14:00;Philadelphia Fed Manufacturing Survey;United States;USD;2
+USD_JoblessClaims;20090521;12:30;Initial Jobless Claims;United States;USD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20090521;12:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;2
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20090521;12:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;2
+CAD_WholesaleSales;20090521;12:30;Wholesale Sales (MoM);Canada;CAD;1
+GBP_RetailSales;20090521;08:30;Retail Sales (MoM);United Kingdom;GBP;2
+GBP_TotalBusinessInvestment;20090521;08:30;Total Business Investment (QoQ);United Kingdom;GBP;1
+GBP_CMLGrossMortgageLending;20090521;08:30;CML Gross Mortgage Lending s.a.;United Kingdom;GBP;0
+GBP_M4MoneySupply;20090521;08:30;M4 Money Supply (MoM);United Kingdom;GBP;1
+GBP_PublicSectorNetBorrowing;20090521;08:30;Public Sector Net Borrowing;United Kingdom;GBP;1
+EUR_EurMarkitServicesPMI;20090521;08:00;Markit Services PMI;European Monetary Union;EUR;1
+EUR_EurMarkitManufacturingPMI;20090521;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;1
+EUR_GerMarkitManufacturingPMI;20090521;07:30;Markit Manufacturing PMI;Germany;EUR;2
+EUR_GerMarkitServicesPMI;20090521;07:30;Markit Services PMI;Germany;EUR;1
+AUD_NewMotorVehicleSales;20090521;01:30;New Motor Vehicle Sales (MoM);Australia;AUD;1
+AUD_RBAForeignExchangeTransaction;20090521;01:30;RBA Foreign Exchange Transaction;Australia;AUD;1
+AUD_ConsumerInflationExpectations;20090521;01:00;Consumer Inflation Expectations;Australia;AUD;2

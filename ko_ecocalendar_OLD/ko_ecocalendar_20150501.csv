@@ -1,0 +1,61 @@
+ARS_TaxRevenue;20150501;21:00;Tax Revenue (MoM);Argentina;ARS;1
+USD_TotalVehicleSales;20150501;17:30;Total Vehicle Sales;United States;USD;1
+USD_MichiganConsumerSentimentIndex;20150501;14:00;Michigan Consumer Sentiment Index;United States;USD;2
+USD_ISMManufacturingPMI;20150501;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMPricesPaid;20150501;14:00;ISM Prices Paid;United States;USD;2
+USD_ConstructionSpending;20150501;14:00;Construction Spending (MoM);United States;USD;2
+USD_MarkitManufacturingPMI;20150501;13:45;Markit Manufacturing PMI;United States;USD;2
+CAD_MarkitManufacturingPMI;20150501;13:30;Markit Manufacturing PMI;Canada;CAD;2
+USD_CentralBankSpeech;20150501;13:30;Fed Stanley Fischer speech;United States;USD;2
+INR_BankLoanGrowth;20150501;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20150501;11:30;FX Reserves, USD;India;INR;1
+GBP_NetLendingtoIndividuals;20150501;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;2
+GBP_MarkitManufacturingPMI;20150501;08:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+GBP_ConsumerCredit;20150501;08:30;Consumer Credit;United Kingdom;GBP;2
+GBP_MortgageApprovals;20150501;08:30;Mortgage Approvals;United Kingdom;GBP;2
+GBP_M4MoneySupply;20150501;08:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+TRY_Exports;20150501;08:00;Exports;Turkey;TRY;1
+AUD_RBACommodityIndexSDR;20150501;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+JPY_VehicleSales;20150501;05:00;Vehicle Sales (YoY);Japan;JPY;1
+PEN_Inflation;20150501;05:00;Inflation;Peru;PEN;1
+EUR_IrePurchasingManagerIndexManufacturing;20150501;05:00;Purchasing Manager Index Manufacturing;Ireland;EUR;1
+JPY_VehicleProduction;20150501;04:00;Vehicle Production (YoY);Japan;JPY;1
+SGD_Unemploymentrate;20150501;02:00;Unemployment rate;Singapore;SGD;1
+JPY_NikkeiManufacturingPMI;20150501;01:35;Nikkei Manufacturing PMI;Japan;JPY;1
+JPY_LaborCashEarnings;20150501;01:30;Labor Cash Earnings (YoY);Japan;JPY;2
+AUD_ProducerPriceIndex;20150501;01:30;Producer Price Index (QoQ);Australia;AUD;1
+CNY_NonManufacturingPMI;20150501;01:00;Non-Manufacturing PMI;China;CNY;2
+CNY_NBSManufacturingPMI;20150501;01:00;NBS Manufacturing PMI;China;CNY;2
+GBP_RetailSales;20150501;00:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+ZAR_WorkersDay;20150501;00:00;Workers Day;South Africa;ZAR;0
+EUR_GerLabourDay;20150501;00:00;Labour Day;Germany;EUR;0
+SGD_Labourday;20150501;00:00;Labour day;Singapore;SGD;0
+EUR_FraLabourDay;20150501;00:00;Labour Day ;France;EUR;0
+EUR_PorLabourDay;20150501;00:00;Labour Day;Portugal;EUR;0
+DKK_GeneralPrayerDay;20150501;00:00;General Prayer Day ;Denmark;DKK;0
+HUF_Labourday;20150501;00:00;Labour day;Hungary;HUF;0
+CZK_LabourDay;20150501;00:00;Labour Day;Czech Republic;CZK;0
+NOK_LabourDay;20150501;00:00;Labour Day;Norway;NOK;0
+PLN_LabourDay;20150501;00:00;Labour Day ;Poland;PLN;0
+IDR_LabourDay;20150501;00:00;Labour Day;Indonesia;IDR;0
+ARS_LabourDay;20150501;00:00;Labour Day;Argentina;ARS;0
+RUB_LabourDay;20150501;00:00;Labour Day;Russia;RUB;0
+CHF_LabourDay;20150501;00:00;Labour Day;Switzerland;CHF;0
+EUR_ItaLabourDay;20150501;00:00;Labour Day ;Italy;EUR;0
+EUR_SpaLabourDay;20150501;00:00;Labour Day;Spain;EUR;0
+KRW_LabourDay;20150501;00:00;Labour Day ;South Korea;KRW;0
+COP_LabourDay;20150501;00:00;Labour Day;Colombia;COP;0
+RON_LaborDay;20150501;00:00;Labor Day;Romania;RON;0
+KRW_NikkeiMarkitManufacturingPMI;20150501;00:00;Nikkei Markit Manufacturing PMI;South Korea;KRW;1
+CNY_LabourDay;20150501;00:00;Labour Day;China;CNY;0
+EUR_AusLabourDay;20150501;00:00;Labour Day;Austria;EUR;0
+EUR_SloLabourDay;20150501;00:00;Labour Day;Slovakia;EUR;0
+PEN_Labourday;20150501;00:00;Labour day;Peru;PEN;0
+BRL_LabourDay;20150501;00:00;Labour Day;Brazil;BRL;0
+EUR_BelLabourDay;20150501;00:00;Labour Day;Belgium;EUR;0
+EUR_FinMayDay;20150501;00:00;May Day;Finland;EUR;0
+CLP_LabourDay;20150501;00:00;Labour Day;Chile;CLP;0
+KRW_TradeBalance;20150501;00:00;Trade Balance;South Korea;KRW;1
+ISK_MayDay;20150501;00:00;May Day ;Iceland;ISK;0
+HKD_LabourDay;20150501;00:00;Labour Day;Hong Kong SAR;HKD;0
+MXN_LabourDay;20150501;00:00;Labour Day ;Mexico;MXN;0

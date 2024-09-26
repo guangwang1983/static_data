@@ -1,0 +1,59 @@
+AUD_HomeLoans;20240307;00:30;Home Loans;Australia;AUD;1
+AUD_InvestmentLendingforHomes;20240307;00:30;Investment Lending for Homes;Australia;AUD;1
+AUD_Imports;20240307;00:30;Imports (MoM);Australia;AUD;2
+AUD_Exports;20240307;00:30;Exports (MoM);Australia;AUD;2
+AUD_TradeBalance;20240307;00:30;Trade Balance (MoM);Australia;AUD;3
+CNY_TradeBalanceCNY;20240307;03:00;Trade Balance CNY;China;CNY;2
+CNY_TradeBalanceUSD;20240307;03:00;Trade Balance USD;China;CNY;2
+CNY_Imports;20240307;03:00;Imports (YoY);China;CNY;2
+CNY_Exports;20240307;03:00;Exports (YoY) CNY;China;CNY;2
+ZAR_Net$Gold&ForexReserve;20240307;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+ZAR_Gross$Gold&ForexReserve;20240307;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+CHF_UnemploymentRate;20240307;06:45;Unemployment Rate s.a (MoM);Switzerland;CHF;1
+EUR_GerFactoryOrders;20240307;07:00;Factory Orders s.a. (MoM);Germany;EUR;2
+DKK_IndustrialProduction;20240307;07:00;Industrial Production (MoM);Denmark;DKK;1
+GBP_HalifaxHousePrices;20240307;07:00;Halifax House Prices (MoM);United Kingdom;GBP;1
+NOK_ManufacturingOutput;20240307;07:00;Manufacturing Output;Norway;NOK;1
+CNY_ForeignExchangeReserves;20240307;08:00;Foreign Exchange Reserves (MoM);China;CNY;1
+CHF_ForeignCurrencyReserves;20240307;08:00;Foreign Currency Reserves;Switzerland;CHF;1
+CZK_FXReserves;20240307;09:00;FX Reserves;Czech Republic;CZK;1
+ILS_FXReserves;20240307;11:00;FX Reserves;Israel;ILS;1
+BRL_PrimaryBudgetSurplus;20240307;11:30;Primary Budget Surplus;Brazil;BRL;1
+BRL_NominalBudgetBalance;20240307;11:30;Nominal Budget Balance;Brazil;BRL;1
+CLP_TradeBalance;20240307;11:30;Trade Balance;Chile;CLP;1
+MXN_12MonthInflation;20240307;12:00;12-Month Inflation;Mexico;MXN;1
+MXN_CoreInflation;20240307;12:00;Core Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20240307;12:00;Headline Inflation;Mexico;MXN;2
+USD_ChallengerJobCuts;20240307;12:30;Challenger Job Cuts;United States;USD;2
+PLN_CentralBankFXReserves;20240307;13:00;Central Bank FX Reserves;Poland;PLN;1
+RUB_CentralBankReserves;20240307;13:00;Central Bank Reserves $;Russia;RUB;1
+EUR_EurECBMainRefinancingOperationsRate;20240307;13:15;ECB Main Refinancing Operations Rate;Eurozone;EUR;3
+EUR_EurECBRateOnDepositFacility;20240307;13:15;ECB Rate On Deposit Facility;Eurozone;EUR;3
+EUR_EurECBMonetaryPolicyStatement;20240307;13:15;ECB Monetary Policy Statement;Eurozone;EUR;3
+USD_GoodsandServicesTradeBalance;20240307;13:30;Goods and Services Trade Balance;United States;USD;1
+USD_JoblessClaims;20240307;13:30;Initial Jobless Claims;United States;USD;2
+USD_UnitLaborCosts;20240307;13:30;Unit Labor Costs;United States;USD;2
+USD_NonfarmProductivity;20240307;13:30;Nonfarm Productivity;United States;USD;2
+USD_GoodsTradeBalance;20240307;13:30;Goods Trade Balance;United States;USD;1
+CAD_BuildingPermits;20240307;13:30;Building Permits (MoM);Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20240307;13:30;International Merchandise Trade;Canada;CAD;1
+CAD_Exports;20240307;13:30;Exports;Canada;CAD;1
+CAD_Imports;20240307;13:30;Imports;Canada;CAD;1
+EUR_EurECBPressConference;20240307;13:45;ECB Press Conference;Eurozone;EUR;3
+TRY_TreasuryCashBalance;20240307;14:30;Treasury Cash Balance;Turkey;TRY;1
+USD_FedChairPowelltestifies;20240307;15:00;Fed Chair Powell testifies;United States;USD;3
+USD_EIANaturalGasStorageChange;20240307;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20240307;16:30;4-Week Bill Auction;United States;USD;1
+USD_CentralBankSpeech;20240307;16:30;Fed Mester speech;United States;USD;2
+INR_MahaShivratri;20240307;18:30;Maha Shivratri ;India;INR;0
+USD_ConsumerCreditChange;20240307;20:00;Consumer Credit Change;United States;USD;1
+RUB_WomenDay;20240307;21:00;Women Day;Russia;RUB;0
+KRW_CurrentAccount;20240307;23:00;Current Account Balance;South Korea;KRW;1
+COP_ConsumerPriceIndex;20240307;23:00;Consumer Price Index (YoY);Colombia;COP;1
+JPY_LaborCashEarnings;20240307;23:30;Labor Cash Earnings (YoY);Japan;JPY;2
+JPY_OverallHouseholdSpending;20240307;23:30;Overall Household Spending (YoY);Japan;JPY;1
+JPY_BankLending;20240307;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_GrossDomesticProduct;20240307;23:50;Gross Domestic Product Annualized;Japan;JPY;2
+JPY_JPForeignReserves;20240307;23:50;JP Foreign Reserves;Japan;JPY;1
+JPY_TradeBalanceBOPBasis;20240307;23:50;Trade Balance - BOP Basis;Japan;JPY;1
+JPY_CurrentAccount;20240307;23:50;Current Account n.s.a.;Japan;JPY;2

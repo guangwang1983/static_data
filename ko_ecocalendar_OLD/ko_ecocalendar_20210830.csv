@@ -1,0 +1,33 @@
+JPY_IndustrialProduction;20210830;23:50;Industrial Production (MoM);Japan;JPY;1
+JPY_JobsApplicantsRatio;20210830;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+JPY_UnemploymentRate;20210830;23:30;Unemployment Rate;Japan;JPY;2
+KRW_IndustrialOutputGrowth;20210830;23:00;Industrial Output Growth;South Korea;KRW;1
+KRW_IndustrialOutput;20210830;23:00;Industrial Output (YoY);South Korea;KRW;1
+KRW_ServiceSectorOutput;20210830;23:00;Service Sector Output;South Korea;KRW;1
+NZD_BuildingPermits;20210830;22:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+MXN_FiscalBalancepesos;20210830;21:00;Fiscal Balance, pesos;Mexico;MXN;1
+COP_Interestrate;20210830;20:00;Interest rate;Colombia;COP;1
+USD_Auction;20210830;15:30;3-Month Bill Auction;United States;USD;1
+USD_DallasFedManufacturingBusinessIndex;20210830;14:30;Dallas Fed Manufacturing Business Index;United States;USD;1
+USD_PendingHomeSales;20210830;14:00;Pending Home Sales (YoY);United States;USD;1
+CAD_CurrentAccount;20210830;12:30;Current Account;Canada;CAD;2
+EUR_GerConsumerPriceIndex;20210830;12:00;Consumer Price Index (YoY);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20210830;12:00;Harmonized Index of Consumer Prices (MoM);Germany;EUR;1
+BRL_InflationIndexIGPM;20210830;11:00;Inflation Index/IGP-M;Brazil;BRL;1
+EUR_BelConsumerPriceIndex;20210830;09:30;Consumer Price Index (MoM);Belgium;EUR;1
+EUR_BelGrossDomesticProduct;20210830;09:00;Gross Domestic Product (QoQ);Belgium;EUR;1
+ISK_ConsumerPriceIndex;20210830;09:00;Consumer Price Index (MoM);Iceland;ISK;1
+EUR_EurServicesSentiment;20210830;09:00;Services Sentiment;European Monetary Union;EUR;1
+EUR_EurConsumerConfidence;20210830;09:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurIndustrialConfidence;20210830;09:00;Industrial Confidence;European Monetary Union;EUR;2
+EUR_EurBusinessClimate;20210830;09:00;Business Climate;European Monetary Union;EUR;2
+EUR_EurEconomicSentimentIndicator;20210830;09:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+EUR_PorConsumerConfidence;20210830;08:30;Consumer Confidence;Portugal;EUR;1
+EUR_PorBusinessConfidence;20210830;08:30;Business Confidence;Portugal;EUR;1
+CHF_KOFLeadingIndicator;20210830;07:00;KOF Leading Indicator;Switzerland;CHF;2
+EUR_SpaHICP;20210830;07:00;HICP (YoY);Spain;EUR;1
+EUR_SpaConsumerPriceIndex;20210830;07:00;Consumer Price Index (YoY);Spain;EUR;1
+EUR_SpaRetailSales;20210830;07:00;Retail Sales (YoY);Spain;EUR;1
+EUR_AusProducerPriceIndex;20210830;07:00;Producer Price Index (MoM);Austria;EUR;1
+DKK_IndustrialOutlook;20210830;06:00;Industrial Outlook;Denmark;DKK;1
+AUD_CompanyGrossOperatingProfits;20210830;01:30;Company Gross Operating Profits (QoQ);Australia;AUD;1

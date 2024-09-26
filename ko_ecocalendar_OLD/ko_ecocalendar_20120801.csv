@@ -1,0 +1,55 @@
+JPY_MonetaryBase;20120801;23:50;Monetary Base (YoY);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20120801;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20120801;23:50;Foreign Bond Investment;Japan;JPY;1
+USD_TotalVehicleSales;20120801;21:00;Total Vehicle Sales;United States;USD;1
+USD_FedMonetaryPolicyStatement;20120801;18:15;Fed Monetary Policy Statement;United States;USD;3
+USD_FedInterestRateDecision;20120801;18:15;Fed Interest Rate Decision;United States;USD;3
+BRL_TradeBalance;20120801;18:00;Trade Balance;Brazil;BRL;1
+USD_EIACrudeOilStocksChange;20120801;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_ISMManufacturingPMI;20120801;14:00;ISM Manufacturing PMI;United States;USD;2
+USD_ISMPricesPaid;20120801;14:00;ISM Prices Paid;United States;USD;2
+USD_ConstructionSpending;20120801;14:00;Construction Spending (MoM);United States;USD;2
+SGD_PurchasingManagersIndex;20120801;13:30;Purchasing Managers Index;Singapore;SGD;1
+EUR_BelGrossDomesticProduct;20120801;13:00;Gross Domestic Product (QoQ);Belgium;EUR;1
+USD_MarkitManufacturingPMI;20120801;12:58;Markit Manufacturing PMI;United States;USD;2
+USD_ADPEmploymentChange;20120801;12:15;ADP Employment Change;United States;USD;2
+BRL_IndustrialOutput;20120801;12:00;Industrial Output (YoY);Brazil;BRL;1
+BRL_HSBCPMIManufacturing;20120801;12:00;HSBC PMI Manufacturing;Brazil;BRL;1
+CZK_BudgetBalance;20120801;12:00;Budget Balance;Czech Republic;CZK;1
+USD_MBAMortgageApplications;20120801;11:00;MBA Mortgage Applications;United States;USD;1
+KRW_TradeBalance;20120801;09:17;Trade Balance;South Korea;KRW;1
+ZAR_PurchasingManagerIndex;20120801;09:00;Purchasing Manager Index;South Africa;ZAR;1
+GBP_MarkitManufacturingPMI;20120801;08:28;Markit Manufacturing PMI;United Kingdom;GBP;2
+TRY_Exports;20120801;08:00;Exports;Turkey;TRY;1
+EUR_SloCurrentAccount;20120801;08:00;Current Account Balance EUR;Slovakia;EUR;1
+EUR_GreMarkitManufacturingPMI;20120801;07:58;Markit Manufacturing PMI;Greece;EUR;1
+EUR_EurMarkitManufacturingPMI;20120801;07:58;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_GerMarkitManufacturingPMI;20120801;07:53;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20120801;07:48;Markit Manufacturing PMI;France;EUR;1
+EUR_ItaMarkitManufacturingPMI;20120801;07:43;Markit Manufacturing PMI;Italy;EUR;1
+CZK_MarkitPMI;20120801;07:30;Markit PMI;Czech Republic;CZK;1
+EUR_SpaMarkitManufacturingPMI;20120801;07:13;Markit Manufacturing PMI;Spain;EUR;1
+HUF_PurchasingManagerIndex;20120801;07:00;Purchasing Manager Index;Hungary;HUF;1
+PEN_Inflation;20120801;07:00;Inflation;Peru;PEN;1
+HUF_TradeBalance;20120801;07:00;Trade Balance;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20120801;07:00;Purchasing Manager Index;Poland;PLN;1
+AUD_RBACommodityIndexSDR;20120801;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+INR_InfrastructureOutput;20120801;06:30;Infrastructure Output (YoY);India;INR;1
+SEK_PurchasingManagersIndexManufacturing;20120801;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+INR_TradeDeficitGovernment;20120801;06:30;Trade Deficit Government;India;INR;1
+GBP_NationwideHousingPrices;20120801;06:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;2
+EUR_IrePurchasingManagerIndexManufacturing;20120801;05:58;Purchasing Manager Index Manufacturing;Ireland;EUR;1
+KRW_ExportPriceGrowth;20120801;05:15;Export Price Growth (YoY);South Korea;KRW;1
+KRW_ImportPriceGrowth;20120801;05:15;Import Price Growth (YoY);South Korea;KRW;1
+KRW_NikkeiMarkitManufacturingPMI;20120801;05:14;Nikkei Markit Manufacturing PMI;South Korea;KRW;1
+JPY_VehicleSales;20120801;05:00;Vehicle Sales (YoY);Japan;JPY;1
+RUB_HSBCManufacturingPMI;20120801;05:00;HSBC Manufacturing PMI	;Russia;RUB;1
+CNY_CaixinManufacturingPMI;20120801;02:30;Caixin Manufacturing PMI;China;CNY;2
+IDR_Exports;20120801;02:00;Exports;Indonesia;IDR;1
+IDR_Imports;20120801;02:00;Imports;Indonesia;IDR;1
+IDR_Inflation;20120801;02:00;Inflation (YoY);Indonesia;IDR;1
+AUD_HousePriceIndex;20120801;01:30;House Price Index (QoQ);Australia;AUD;2
+CNY_NBSManufacturingPMI;20120801;01:00;NBS Manufacturing PMI;China;CNY;2
+AUD_Exports;20120801;00:30;Exports;Australia;AUD;1
+EUR_EurEuropeanCouncilMeeting;20120801;00:00;European Council Meeting;European Monetary Union;EUR;2
+CHF_NationalHoliday;20120801;00:00;National Holiday;Switzerland;CHF;0

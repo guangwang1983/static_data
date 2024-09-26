@@ -1,0 +1,71 @@
+JPY_MonetaryBase;20170301;23:50;Monetary Base (YoY);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20170301;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20170301;23:50;Foreign Bond Investment;Japan;JPY;2
+KRW_IndustrialOutputGrowth;20170301;23:00;Industrial Output Growth;South Korea;KRW;1
+KRW_IndustrialOutput;20170301;23:00;Industrial Output (YoY);South Korea;KRW;1
+KRW_ServiceSectorOutput;20170301;23:00;Service Sector Output;South Korea;KRW;1
+USD_TotalVehicleSales;20170301;20:31;Total Vehicle Sales;United States;USD;1
+NZD_CentralBankSpeech;20170301;20:00;RBNZ Governor Wheeler Speech;New Zealand;NZD;2
+ARS_TaxRevenue;20170301;20:00;Tax Revenue (MoM);Argentina;ARS;1
+USD_FedBeigeBook;20170301;19:00;Fed Beige Book;United States;USD;2
+USD_EIACrudeOilStocksChange;20170301;15:30;EIA Crude Oil Stocks Change;United States;USD;2
+CAD_BoCInterestRateDecision;20170301;15:00;BoC Interest Rate Decision;Canada;CAD;3
+CAD_BoCRateStatement;20170301;15:00;BoC Rate Statement;Canada;CAD;3
+USD_ISMManufacturingPMI;20170301;15:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMPricesPaid;20170301;15:00;ISM Prices Paid;United States;USD;2
+USD_ConstructionSpending;20170301;15:00;Construction Spending (MoM);United States;USD;2
+USD_MarkitManufacturingPMI;20170301;14:45;Markit Manufacturing PMI;United States;USD;2
+CAD_MarkitManufacturingPMI;20170301;14:30;Markit Manufacturing PMI;Canada;CAD;2
+USD_PersonalConsumptionExpendituresPriceIndex;20170301;13:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;2
+USD_PersonalSpending;20170301;13:30;Personal Spending;United States;USD;2
+USD_CorePersonalConsumptionExpenditurePriceIndex;20170301;13:30;Core Personal Consumption Expenditure - Price Index (MoM);United States;USD;2
+USD_PersonalIncome;20170301;13:30;Personal Income (MoM);United States;USD;2
+CAD_CurrentAccount;20170301;13:30;Current Account;Canada;CAD;2
+ZAR_TotalNewVehicleSales;20170301;13:00;Total New Vehicle Sales;South Africa;ZAR;1
+EUR_GerConsumerPriceIndex;20170301;13:00;Consumer Price Index (MoM);Germany;EUR;2
+EUR_GerHarmonizedIndexofConsumerPrices;20170301;13:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;2
+EUR_GerAuction;20170301;12:02;10-y Bond Auction;Germany;EUR;2
+USD_MBAMortgageApplications;20170301;12:00;MBA Mortgage Applications;United States;USD;1
+CZK_BudgetBalance;20170301;12:00;Budget Balance;Czech Republic;CZK;1
+INR_M3MoneySupply;20170301;11:30;M3 Money Supply;India;INR;1
+EUR_PorGrossDomesticProduct;20170301;11:07;Gross Domestic Product (QoQ);Portugal;EUR;1
+GBP_NetLendingtoIndividuals;20170301;09:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_MarkitManufacturingPMI;20170301;09:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+PEN_Inflation;20170301;09:30;Inflation;Peru;PEN;1
+GBP_ConsumerCredit;20170301;09:30;Consumer Credit;United Kingdom;GBP;2
+GBP_MortgageApprovals;20170301;09:30;Mortgage Approvals;United Kingdom;GBP;2
+GBP_M4MoneySupply;20170301;09:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+TRY_Exports;20170301;09:00;Exports;Turkey;TRY;1
+EUR_GerUnemploymentChange;20170301;09:00;Unemployment Change;Germany;EUR;2
+EUR_GerUnemploymentRate;20170301;09:00;Unemployment Rate s.a.;Germany;EUR;2
+EUR_GreMarkitManufacturingPMI;20170301;09:00;Markit Manufacturing PMI;Greece;EUR;1
+EUR_EurMarkitManufacturingPMI;20170301;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_GerMarkitManufacturingPMI;20170301;08:55;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20170301;08:50;Markit Manufacturing PMI;France;EUR;1
+EUR_ItaMarkitManufacturingPMI;20170301;08:45;Markit Manufacturing PMI;Italy;EUR;1
+CHF_SVMEPurchasingManagers'Index;20170301;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+EUR_SpaMarkitManufacturingPMI;20170301;08:15;Markit Manufacturing PMI;Spain;EUR;1
+CZK_MarkitPMI;20170301;07:30;Markit PMI;Czech Republic;CZK;1
+SEK_PurchasingManagersIndexManufacturing;20170301;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;2
+CHF_UBSConsumptionIndicator;20170301;07:00;UBS Consumption Indicator;Switzerland;CHF;2
+GBP_NationwideHousingPrices;20170301;07:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;1
+HUF_PurchasingManagerIndex;20170301;07:00;Purchasing Manager Index;Hungary;HUF;1
+NOK_CurrentAccount;20170301;07:00;Current Account;Norway;NOK;1
+PLN_PurchasingManagerIndex;20170301;07:00;Purchasing Manager Index;Poland;PLN;1
+RUB_HSBCManufacturingPMI;20170301;06:00;HSBC Manufacturing PMI	;Russia;RUB;1
+EUR_FinGrossDomesticProduct;20170301;06:00;Gross Domestic Product Qtr Prelim (YoY);Finland;EUR;1
+EUR_IrePurchasingManagerIndexManufacturing;20170301;06:00;Purchasing Manager Index Manufacturing;Ireland;EUR;1
+AUD_RBACommodityIndexSDR;20170301;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+JPY_VehicleSales;20170301;05:00;Vehicle Sales (YoY);Japan;JPY;1
+IDR_Inflation;20170301;04:00;Inflation (YoY);Indonesia;IDR;1
+IDR_CoreInflation;20170301;04:00;Core Inflation (YoY);Indonesia;IDR;1
+USD_CentralBankSpeech;20170301;02:00;Trump speech to Congress;United States;USD;3
+CNY_CaixinManufacturingPMI;20170301;01:45;Caixin Manufacturing PMI;China;CNY;2
+CNY_NonManufacturingPMI;20170301;01:00;Non-Manufacturing PMI;China;CNY;2
+CNY_NBSManufacturingPMI;20170301;01:00;NBS Manufacturing PMI;China;CNY;2
+AUD_GrossDomesticProduct;20170301;00:30;Gross Domestic Product (QoQ);Australia;AUD;2
+JPY_NikkeiManufacturingPMI;20170301;00:30;Nikkei Manufacturing PMI;Japan;JPY;1
+GBP_BRCShopPriceIndex;20170301;00:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1
+BRL_AshWednesday;20170301;00:00;Ash Wednesday;Brazil;BRL;0
+KRW_March1stMovement;20170301;00:00;March 1st Movement ;South Korea;KRW;0
+KRW_TradeBalance;20170301;00:00;Trade Balance;South Korea;KRW;1

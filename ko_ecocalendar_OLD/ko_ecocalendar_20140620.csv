@@ -1,0 +1,21 @@
+COP_Interestrate;20140620;17:00;Interest rate;Colombia;COP;1
+EUR_EurConsumerConfidence;20140620;14:00;Consumer Confidence;European Monetary Union;EUR;2
+MXN_RetailSales;20140620;13:00;Retail Sales (YoY);Mexico;MXN;1
+CAD_RetailSales;20140620;12:30;Retail Sales ex Autos (MoM);Canada;CAD;2
+CAD_ConsumerPriceIndex;20140620;12:30;Consumer Price Index (MoM);Canada;CAD;3
+INR_FXReservesUSD;20140620;11:30;FX Reserves, USD;India;INR;1
+EUR_SloUnemploymentRate;20140620;10:00;Unemployment Rate;Slovakia;EUR;1
+RUB_UnemploymentRate;20140620;10:00;Unemployment Rate;Russia;RUB;1
+GBP_PublicSectorNetBorrowing;20140620;08:30;Public Sector Net Borrowing;United Kingdom;GBP;1
+EUR_GreCurrentAccount;20140620;08:15;Current Account (YoY);Greece;EUR;1
+EUR_EurCurrentAccount;20140620;08:00;Current Account s.a;European Monetary Union;EUR;1
+EUR_ItaIndustrialSales;20140620;08:00;Industrial Sales n.s.a. (YoY);Italy;EUR;1
+EUR_ItaIndustrialOrders;20140620;08:00;Industrial Orders n.s.a (YoY);Italy;EUR;1
+EUR_NetConsumerConfidenceAdj;20140620;07:30;Consumer Confidence Adj;Netherlands, The;EUR;1
+EUR_NetConsumerSpendingVolume;20140620;07:30;Consumer Spending Volume;Netherlands, The;EUR;1
+DKK_RetailSales;20140620;07:00;Retail Sales (YoY);Denmark;DKK;1
+JPY_CentralBankSpeech;20140620;06:35;BoJ Governor Kuroda speech;Japan;JPY;2
+EUR_GerProducerPriceIndex;20140620;06:00;Producer Price Index (MoM);Germany;EUR;1
+EUR_EurEcoFinMeeting;20140620;00:00;EcoFin Meeting;European Monetary Union;EUR;2
+ARS_FlagDay;20140620;00:00;Flag Day;Argentina;ARS;0
+EUR_FinMidsummer’sEve;20140620;00:00;Midsummer’s Eve;Finland;EUR;0

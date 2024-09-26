@@ -1,0 +1,33 @@
+JPY_ForeignInvestmentinJapanStocks;20140925;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20140925;23:50;Foreign Bond Investment;Japan;JPY;2
+JPY_ConsumerPriceIndex;20140925;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;3
+JPY_TokyoCPIexFreshFood;20140925;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;2
+JPY_TokyoCPIexFoodEnergy;20140925;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;1
+JPY_NationalCPIexFoodEnergy;20140925;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20140925;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+GBP_HometrackHousingPrices;20140925;23:01;Hometrack Housing Prices s.a (MoM);United Kingdom;GBP;1
+KRW_ConsumerSentimentIndex;20140925;21:00;Consumer Sentiment Index;South Korea;KRW;1
+USD_Auction;20140925;17:00;7-Year Note Auction;United States;USD;1
+USD_KansasFedManufacturingActivity;20140925;15:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_EIANaturalGasStorageChange;20140925;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_MarkitServicesPMI;20140925;13:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20140925;13:45;Markit PMI Composite;United States;USD;2
+GBP_CentralBankSpeech;20140925;12:40;BoE Governor Carney speech;United Kingdom;GBP;3
+USD_JoblessClaims;20140925;12:30;Initial Jobless Claims;United States;USD;2
+USD_DurableGoodsOrders;20140925;12:30;Durable Goods Orders ex Transportation;United States;USD;2
+BRL_UnemploymentRate;20140925;12:00;Unemployment Rate;Brazil;BRL;1
+CZK_CNBInterestRateDecision;20140925;11:00;CNB Interest Rate Decision;Czech Republic;CZK;1
+RUB_CentralBankReserves;20140925;11:00;Central Bank Reserves $;Russia;RUB;1
+TRY_CBRTInterestRateDecision;20140925;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+GBP_CBIDistributiveTradesSurveyRealized;20140925;10:00;CBI Distributive Trades Survey - Realized (MoM);United Kingdom;GBP;1
+EUR_ItaWageInflation;20140925;09:46;Wage Inflation (YoY);Italy;EUR;1
+ZAR_ProducerPriceIndex;20140925;09:30;Producer Price Index (MoM);South Africa;ZAR;1
+EUR_ItaRetailSales;20140925;09:00;Retail Sales n.s.a (YoY);Italy;EUR;1
+ISK_ConsumerPriceIndex;20140925;09:00;Consumer Price Index (YoY);Iceland;ISK;1
+EUR_EurPrivateLoans;20140925;08:00;Private Loans (YoY);European Monetary Union;EUR;1
+EUR_EurM3MoneySupply;20140925;08:00;M3 Money Supply (YoY);European Monetary Union;EUR;1
+EUR_SpaProducerPriceIndex;20140925;07:41;Producer Price Index (YoY);Spain;EUR;1
+SEK_ProducerPriceIndex;20140925;07:30;Producer Price Index (YoY);Sweden;SEK;1
+EUR_EurCentralBankSpeech;20140925;07:20;ECB President Draghi speech;European Monetary Union;EUR;3
+EUR_AusIndustrialProduction;20140925;07:00;Industrial Production (YoY);Austria;EUR;1
+AUD_CentralBankSpeech;20140925;02:30;RBA Governor Stevens speech;Australia;AUD;3

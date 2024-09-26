@@ -1,0 +1,46 @@
+JPY_ForeignInvestmentinJapanStocks;20140416;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20140416;23:50;Foreign Bond Investment;Japan;JPY;2
+KRW_ProducerPriceIndex;20140416;21:00;Producer Price Index Growth (YoY);South Korea;KRW;1
+USD_FedBeigeBook;20140416;18:00;Fed Beige Book;United States;USD;2
+USD_CentralBankSpeech;20140416;16:15;Fed Chair Yellen speech;United States;USD;2
+CAD_BoCPressConference;20140416;15:15;BoC Press Conference;Canada;CAD;3
+CAD_BankofCanadaMonetaryPolicyReport;20140416;14:30;Bank of Canada Monetary Policy Report;Canada;CAD;3
+USD_EIACrudeOilStocksChange;20140416;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+CAD_BoCInterestRateDecision;20140416;14:00;BoC Interest Rate Decision;Canada;CAD;3
+CAD_BoCRateStatement;20140416;14:00;BoC Rate Statement;Canada;CAD;3
+USD_IndustrialProduction;20140416;13:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20140416;13:15;Capacity Utilization;United States;USD;1
+USD_HousingStarts;20140416;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20140416;12:30;Building Permits (MoM);United States;USD;2
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20140416;12:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20140416;12:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+PLN_NetInflation;20140416;12:00;Net Inflation;Poland;PLN;1
+PLN_CorporateSectorWages;20140416;12:00;Corporate Sector Wages;Poland;PLN;1
+USD_MBAMortgageApplications;20140416;11:00;MBA Mortgage Applications;United States;USD;1
+ZAR_RetailSales;20140416;11:00;Retail Sales (YoY);South Africa;ZAR;1
+EUR_GerAuction;20140416;10:26;10-y Bond Auction;Germany;EUR;2
+CHF_ZEWSurveyExpectations;20140416;09:00;ZEW Survey - Expectations;Switzerland;CHF;2
+EUR_EurConsumerPriceIndex;20140416;09:00;Consumer Price Index (YoY);European Monetary Union;EUR;3
+EUR_SpaTradeBalance;20140416;09:00;Trade Balance;Spain;EUR;1
+INR_M3MoneySupply;20140416;08:30;M3 Money Supply;India;INR;1
+GBP_AverageEarningsExcludingBonus;20140416;08:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_AverageEarningsIncludingBonus;20140416;08:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountRate;20140416;08:30;Claimant Count Rate;United Kingdom;GBP;2
+GBP_ClaimantCountChange;20140416;08:30;Claimant Count Change;United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20140416;08:30;ILO Unemployment Rate (3M);United Kingdom;GBP;2
+NOK_TradeBalance;20140416;08:00;Trade Balance;Norway;NOK;1
+EUR_ItaTradeBalanceEU;20140416;08:00;Trade Balance EU;Italy;EUR;1
+EUR_ItaGlobalTradeBalance;20140416;08:00;Global Trade Balance;Italy;EUR;1
+EUR_EurCurrentAccount;20140416;08:00;Current Account s.a;European Monetary Union;EUR;1
+CZK_ProducerPriceIndex;20140416;07:00;Producer Price Index (YoY);Czech Republic;CZK;1
+EUR_AusHICP;20140416;07:00;HICP (YoY);Austria;EUR;1
+EUR_SloEUNormInflation;20140416;07:00;EU Norm Inflation (MoM);Slovakia;EUR;1
+JPY_CentralBankSpeech;20140416;06:15;BoJ Governor Kuroda speech;Japan;JPY;2
+JPY_IndustrialProduction;20140416;04:30;Industrial Production (MoM);Japan;JPY;1
+JPY_CapacityUtilization;20140416;04:30;Capacity Utilization;Japan;JPY;1
+CNY_RetailSales;20140416;02:00;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20140416;02:00;Industrial Production (YoY);China;CNY;2
+CNY_FixedAssetInvestment;20140416;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;2
+CNY_GrossDomesticProduct;20140416;02:00;Gross Domestic Product (QoQ);China;CNY;3
+CNY_MNIBusinessSentimentIndicator;20140416;01:45;MNI Business Sentiment Indicator;China;CNY;1
+AUD_WestpacLeadingIndex;20140416;00:30;Westpac Leading Index (MoM);Australia;AUD;2

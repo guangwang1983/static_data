@@ -1,0 +1,27 @@
+AUD_QueenBirthday;20180611;00:00;Queen Birthday;Australia;AUD;0
+COP_SacredHeart;20180611;00:00;Sacred Heart;Colombia;COP;0
+RUB_NationalDay;20180611;00:00;National Day ;Russia;RUB;0
+NOK_CoreInflation;20180611;06:00;Core Inflation (MoM);Norway;NOK;1
+NOK_ConsumerPriceIndex;20180611;06:00;Consumer Price Index (MoM);Norway;NOK;1
+RON_TradeBalance;20180611;06:00;Trade Balance;Romania;RON;1
+DKK_Inflation;20180611;06:00;Inflation (HICP) (YoY);Denmark;DKK;1
+DKK_ConsumerPriceIndex;20180611;06:00;Consumer Price Index (YoY);Denmark;DKK;1
+DKK_TradeBalance;20180611;06:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20180611;06:00;Current Account;Denmark;DKK;1
+JPY_MachineToolOrders;20180611;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+NOK_ProducerPriceIndex;20180611;06:00;Producer Price Index (YoY);Norway;NOK;1
+CZK_ConsumerPriceIndex;20180611;07:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+TRY_GrossDomesticProduct;20180611;07:00;Quarterly Gross Domestic Product;Turkey;TRY;1
+TRY_CurrentAccount;20180611;07:00;Current Account Balance;Turkey;TRY;1
+EUR_ItaIndustrialOutput;20180611;08:00;Industrial Output w.d.a (YoY);Italy;EUR;1
+GBP_ManufacturingProduction;20180611;08:30;Manufacturing Production (MoM);United Kingdom;GBP;2
+GBP_IndustrialProduction;20180611;08:30;Industrial Production (YoY);United Kingdom;GBP;1
+GBP_TotalTradeBalance;20180611;08:30;Total Trade Balance;United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20180611;08:30;Goods Trade Balance;United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20180611;08:30;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_NIESRGDPEstimate;20180611;11:21;NIESR GDP Estimate (3M);United Kingdom;GBP;1
+MXN_IndustrialOutput;20180611;13:00;Industrial Output (YoY);Mexico;MXN;1
+USD_Auction;20180611;17:00;3-Year Note Auction;United States;USD;1
+NZD_RetailSales;20180611;22:45;Electronic Card Retail Sales  (MoM);New Zealand;NZD;1
+JPY_ProducerPriceIndex;20180611;23:50;Producer Price Index (MoM);Japan;JPY;1
+JPY_BSILargeManufacturingConditionsIndex;20180611;23:50;BSI Large Manufacturing Conditions Index (QoQ);Japan;JPY;1

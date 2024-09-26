@@ -1,0 +1,27 @@
+ZAR_PrivateSectorCredit;20221230;06:00;Private Sector Credit;South Africa;ZAR;1
+ZAR_M3MoneySupply;20221230;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+RUB_S&PGlobalServicesPMI;20221230;06:00;S&P Global Services PMI;Russia;RUB;1
+TRY_TradeBalance;20221230;07:00;Trade Balance;Turkey;TRY;1
+GBP_NationwideHousingPrices;20221230;07:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;1
+CHF_KOFLeadingIndicator;20221230;08:00;KOF Leading Indicator;Switzerland;CHF;2
+INR_FederalFiscalDeficitINR;20221230;10:00;Federal Fiscal Deficit, INR;India;INR;1
+INR_M3MoneySupply;20221230;11:30;M3 Money Supply;India;INR;1
+INR_BankLoanGrowth;20221230;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20221230;11:30;FX Reserves, USD;India;INR;1
+INR_InfrastructureOutput;20221230;12:00;Infrastructure Output (YoY);India;INR;1
+CLP_IndustrialProduction;20221230;13:00;Industrial Production (YoY);Chile;CLP;1
+ZAR_TradeBalance;20221230;13:30;Trade Balance (in Rands);South Africa;ZAR;1
+AUD_NewYearholiday;20221230;14:00;New Year holiday;Australia;AUD;0
+USD_ChicagoPurchasingManagers'Index;20221230;14:45;Chicago Purchasing Managers' Index;United States;USD;2
+COP_NationalJoblessRate;20221230;15:00;National Jobless Rate;Colombia;COP;1
+USD_BakerHughesUSOilRigCount;20221230;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CFTCOilNCNetPositions;20221230;20:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20221230;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20221230;20:30;CFTC Gold NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20221230;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20221230;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20221230;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20221230;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+MXN_FiscalBalancepesos;20221230;21:00;Fiscal Balance, pesos;Mexico;MXN;1
+DKK_NewyearsEve;20221230;22:00;New years Eve;Denmark;DKK;0
+SEK_NewYearsEve;20221230;22:00;New Years Eve;Sweden;SEK;0

@@ -1,0 +1,47 @@
+USD_IMFMeeting;20240416;00:00;IMF Meeting;United States;USD;2
+CNY_HousePriceIndex;20240416;01:30;House Price Index ;China;CNY;1
+CNY_RetailSales;20240416;02:00;Retail Sales (YoY);China;CNY;3
+CNY_IndustrialProduction;20240416;02:00;Industrial Production (YoY);China;CNY;3
+CNY_FixedAssetInvestment;20240416;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+CNY_GrossDomesticProduct;20240416;02:00;Gross Domestic Product (YoY);China;CNY;3
+KRW_MoneySupplyGrowth;20240416;03:00;Money Supply Growth;South Korea;KRW;1
+EUR_GerWholesalePriceIndex;20240416;06:00;Wholesale Price Index (YoY);Germany;EUR;1
+GBP_EmploymentChange;20240416;06:00;Employment Change;United Kingdom;GBP;3
+GBP_ILOUnemploymentRate;20240416;06:00;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_AverageEarningsIncludingBonus;20240416;06:00;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_AverageEarningsExcludingBonus;20240416;06:00;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountChange;20240416;06:00;Claimant Count Change;United Kingdom;GBP;3
+GBP_ClaimantCountRate;20240416;06:00;Claimant Count Rate;United Kingdom;GBP;2
+EUR_ItaConsumerPriceIndex;20240416;08:00;Consumer Price Index (EU Norm) (MoM);Italy;EUR;1
+EUR_GerZEWSurvey–CurrentSituation;20240416;09:00;ZEW Survey – Current Situation;Germany;EUR;2
+EUR_GerZEWSurvey–EconomicSentiment;20240416;09:00;ZEW Survey – Economic Sentiment;Germany;EUR;2
+EUR_ItaGlobalTradeBalance;20240416;09:00;Global Trade Balance;Italy;EUR;1
+EUR_ItaTradeBalanceEU;20240416;09:00;Trade Balance EU;Italy;EUR;1
+EUR_EurTradeBalance;20240416;09:00;Trade Balance n.s.a.;Eurozone;EUR;1
+EUR_EurZEWSurvey–EconomicSentiment;20240416;09:00;ZEW Survey – Economic Sentiment;Eurozone;EUR;2
+ILS_GrossDomesticProduct;20240416;10:00;Gross Domestic Product (QoQ);Israel;ILS;1
+PLN_NetInflation;20240416;12:00;Net Inflation;Poland;PLN;1
+CAD_HousingStarts;20240416;12:15;Housing Starts s.a (YoY);Canada;CAD;1
+USD_BuildingPermitsChange;20240416;12:30;Building Permits Change;United States;USD;1
+USD_HousingStartsChange;20240416;12:30;Housing Starts Change;United States;USD;1
+USD_HousingStarts;20240416;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20240416;12:30;Building Permits (MoM);United States;USD;2
+CAD_ConsumerPriceIndex;20240416;12:30;BoC Consumer Price Index Core (YoY);Canada;CAD;3
+USD_RedbookIndex;20240416;12:55;Redbook Index (YoY);United States;USD;1
+USD_IndustrialProduction;20240416;13:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20240416;13:15;Capacity Utilization;United States;USD;1
+NZD_GDTPriceIndex;20240416;15:00;GDT Price Index;New Zealand;NZD;1
+USD_Auction;20240416;15:30;52-Week Bill Auction;United States;USD;1
+EUR_EurCentralBankSpeech;20240416;16:30;ECB Villeroy speech;Eurozone;EUR;2
+GBP_CentralBankSpeech;20240416;17:00;BoE Governor Bailey speech;United Kingdom;GBP;3
+USD_CentralBankSpeech;20240416;17:15;Fed Chair Powell speech;United States;USD;3
+CAD_CentralBankSpeech;20240416;17:15;BoC Governor Macklem speech;Canada;CAD;3
+INR_RamNavami;20240416;18:30;Ram Navami ;India;INR;0
+EUR_GerCentralBankSpeech;20240416;20:00;German Buba President Nagel speech;Germany;EUR;2
+CAD_AnnualBudgetRelease;20240416;20:00;Annual Budget Release;Canada;CAD;1
+USD_APIWeeklyCrudeOilStock;20240416;20:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_ConsumerPriceIndex;20240416;22:45;Consumer Price Index (QoQ);New Zealand;NZD;3
+JPY_AdjustedMerchandiseTradeBalance;20240416;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_MerchandiseTradeBalanceTotal;20240416;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Imports;20240416;23:50;Imports (YoY);Japan;JPY;2
+JPY_Exports;20240416;23:50;Exports (YoY);Japan;JPY;2

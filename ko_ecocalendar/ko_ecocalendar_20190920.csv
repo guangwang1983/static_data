@@ -1,0 +1,23 @@
+CNY_PBoCInterestRateDecision;20190920;01:30;PBoC Interest Rate Decision;China;CNY;3
+NZD_CreditCardSpending;20190920;03:00;Credit Card Spending (YoY);New Zealand;NZD;1
+DKK_ConsumerConfidence;20190920;06:00;Consumer Confidence;Denmark;DKK;1
+EUR_GerProducerPriceIndex;20190920;06:00;Producer Price Index (MoM);Germany;EUR;2
+HUF_CurrentAccount;20190920;06:30;Current Account Balance (QoQ);Hungary;HUF;1
+TRY_ConsumerConfidence;20190920;07:00;Consumer Confidence;Turkey;TRY;1
+PLN_RetailSales;20190920;08:00;Retail Sales (YoY);Poland;PLN;1
+CZK_ForeignDebt;20190920;08:00;Foreign Debt;Czech Republic;CZK;1
+MXN_PrivateSpending;20190920;11:00;Private Spending (YoY);Mexico;MXN;1
+INR_TradeDeficit–RBI;20190920;11:30;Trade Deficit – RBI;India;INR;1
+INR_FXReservesUSD;20190920;11:30;FX Reserves, USD;India;INR;1
+GBP_BoEQuarterlyBulletin;20190920;12:00;BoE Quarterly Bulletin;United Kingdom;GBP;1
+CAD_RetailSales;20190920;12:30;Retail Sales ex Autos (MoM);Canada;CAD;2
+EUR_EurConsumerConfidence;20190920;14:00;Consumer Confidence;European Monetary Union;EUR;1
+USD_CentralBankSpeech;20190920;15:20;Fed Rosengren speech;United States;USD;2
+USD_BakerHughesUSOilRigCount;20190920;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20190920;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20190920;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCS&P500NCNetPositions;20190920;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20190920;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCOilNCNetPositions;20190920;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20190920;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20190920;19:30;CFTC Gold NC Net Positions;United States;USD;1

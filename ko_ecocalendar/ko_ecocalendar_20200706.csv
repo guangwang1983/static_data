@@ -1,0 +1,31 @@
+NZD_ANZCommodityPrice;20200706;01:00;ANZ Commodity Price;New Zealand;NZD;1
+AUD_TDSecuritiesInflation;20200706;01:00;TD Securities Inflation (MoM);Australia;AUD;2
+AUD_ANZJobAdvertisements;20200706;01:30;ANZ Job Advertisements;Australia;AUD;1
+EUR_GerFactoryOrders;20200706;06:00;Factory Orders s.a. (MoM);Germany;EUR;2
+HUF_RetailSales;20200706;07:00;Retail Sales (YoY);Hungary;HUF;1
+EUR_EurSentixInvestorConfidence;20200706;08:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+GBP_S&PGlobalConstructionPMI;20200706;08:30;S&P Global Construction PMI;United Kingdom;GBP;1
+EUR_EurRetailSales;20200706;09:00;Retail Sales (MoM);European Monetary Union;EUR;1
+ILS_BudgetBalanceILS;20200706;10:00;Budget Balance - ILS;Israel;ILS;1
+ILS_BoIInterestRateDecision;20200706;13:00;BoI Interest Rate Decision;Israel;ILS;1
+USD_S&PGlobalCompositePMI;20200706;13:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20200706;13:45;S&P Global Services PMI;United States;USD;2
+USD_ISMServicesEmploymentIndex;20200706;14:00;ISM Services Employment Index;United States;USD;2
+USD_ISMServicesPricesPaid;20200706;14:00;ISM Services Prices Paid;United States;USD;2
+USD_ISMServicesNewOrdersIndex;20200706;14:00;ISM Services New Orders Index;United States;USD;2
+USD_ISMServicesPMI;20200706;14:00;ISM Services PMI;United States;USD;3
+CAD_BankofCanadaBusinessOutlookSurvey;20200706;14:30;Bank of Canada Business Outlook Survey;Canada;CAD;2
+USD_Auction;20200706;15:30;6-Month Bill Auction;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20200706;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20200706;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCOilNCNetPositions;20200706;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20200706;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20200706;19:30;CFTC Gold NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20200706;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20200706;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+NZD_NZIERBusinessConfidence;20200706;22:00;NZIER Business Confidence (QoQ);New Zealand;NZD;2
+AUD_AiGPerformanceofServicesIndex;20200706;22:30;AiG Performance of Services Index;Australia;AUD;1
+KRW_CurrentAccount;20200706;23:00;Current Account Balance;South Korea;KRW;1
+JPY_LaborCashEarnings;20200706;23:30;Labor Cash Earnings (YoY);Japan;JPY;1
+JPY_OverallHouseholdSpending;20200706;23:30;Overall Household Spending (YoY);Japan;JPY;2
+JPY_JPForeignReserves;20200706;23:50;JP Foreign Reserves;Japan;JPY;1

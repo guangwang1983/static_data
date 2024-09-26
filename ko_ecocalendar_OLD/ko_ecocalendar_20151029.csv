@@ -1,0 +1,64 @@
+JPY_TokyoCPIexFreshFood;20151029;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;1
+JPY_TokyoCPIexFoodEnergy;20151029;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;1
+JPY_ConsumerPriceIndex;20151029;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;1
+JPY_NationalCPIexFoodEnergy;20151029;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20151029;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_UnemploymentRate;20151029;23:30;Unemployment Rate;Japan;JPY;2
+JPY_JobsApplicantsRatio;20151029;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+JPY_OverallHouseholdSpending;20151029;23:30;Overall Household Spending (YoY);Japan;JPY;2
+KRW_IndustrialOutputGrowth;20151029;23:00;Industrial Output Growth;South Korea;KRW;1
+KRW_IndustrialOutput;20151029;23:00;Industrial Output (YoY);South Korea;KRW;1
+KRW_ServiceSectorOutput;20151029;23:00;Service Sector Output;South Korea;KRW;1
+NZD_BuildingPermits;20151029;21:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+KRW_BOKManufacturingBSI;20151029;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+MXN_CentralBankInterestRate;20151029;19:00;Central Bank Interest Rate;Mexico;MXN;1
+USD_Auction;20151029;17:00;7-Year Note Auction;United States;USD;1
+BRL_NominalBudgetBalance;20151029;16:30;Nominal Budget Balance;Brazil;BRL;1
+BRL_PrimaryBudgetSurplus;20151029;16:30;Primary Budget Surplus;Brazil;BRL;1
+USD_EIANaturalGasStorageChange;20151029;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_PendingHomeSales;20151029;14:00;Pending Home Sales (YoY);United States;USD;2
+USD_CentralBankSpeech;20151029;13:10;Fed Lockhart speech;United States;USD;1
+EUR_GerConsumerPriceIndex;20151029;13:00;Consumer Price Index (MoM);Germany;EUR;2
+EUR_GerHarmonizedIndexofConsumerPrices;20151029;13:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+CLP_IndustrialProduction;20151029;13:00;Industrial Production (YoY);Chile;CLP;1
+CAD_RawMaterialPriceIndex;20151029;12:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20151029;12:30;Industrial Product Price (MoM);Canada;CAD;1
+USD_JoblessClaims;20151029;12:30;Initial Jobless Claims;United States;USD;2
+USD_GrossDomesticProduct;20151029;12:30;Gross Domestic Product Annualized;United States;USD;3
+USD_CorePersonalConsumptionExpenditures;20151029;12:30;Core Personal Consumption Expenditures (QoQ);United States;USD;3
+USD_PersonalConsumptionExpendituresPrices;20151029;12:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;3
+RUB_CentralBankReserves;20151029;12:04;Central Bank Reserves $;Russia;RUB;1
+GBP_CBIDistributiveTradesSurveyRealized;20151029;11:00;CBI Distributive Trades Survey - Realized (MoM);United Kingdom;GBP;1
+EUR_ItaAuction;20151029;10:47;5-y Bond Auction;Italy;EUR;1
+EUR_PorConsumerConfidence;20151029;10:39;Consumer Confidence;Portugal;EUR;1
+EUR_PorBusinessConfidence;20151029;10:39;Business Confidence;Portugal;EUR;1
+EUR_BelConsumerPriceIndex;20151029;10:30;Consumer Price Index (YoY);Belgium;EUR;1
+BRL_InflationIndexIGPM;20151029;10:00;Inflation Index/IGP-M;Brazil;BRL;1
+EUR_EurBusinessClimate;20151029;10:00;Business Climate;European Monetary Union;EUR;1
+EUR_EurConsumerConfidence;20151029;10:00;Consumer Confidence;European Monetary Union;EUR;1
+EUR_EurServicesSentiment;20151029;10:00;Services Sentiment;European Monetary Union;EUR;1
+EUR_EurIndustrialConfidence;20151029;10:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_EurEconomicSentimentIndicator;20151029;10:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+ZAR_ProducerPriceIndex;20151029;09:30;Producer Price Index (MoM);South Africa;ZAR;1
+GBP_NetLendingtoIndividuals;20151029;09:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20151029;09:30;Consumer Credit;United Kingdom;GBP;2
+GBP_MortgageApprovals;20151029;09:30;Mortgage Approvals;United Kingdom;GBP;2
+GBP_M4MoneySupply;20151029;09:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+ISK_ConsumerPriceIndex;20151029;09:00;Consumer Price Index (YoY);Iceland;ISK;1
+EUR_AusPurchasingManagerIndex;20151029;09:00;Purchasing Manager Index;Austria;EUR;1
+EUR_GerUnemploymentChange;20151029;08:55;Unemployment Change;Germany;EUR;3
+EUR_GerUnemploymentRate;20151029;08:55;Unemployment Rate s.a.;Germany;EUR;3
+SEK_RetailSales;20151029;08:30;Retail Sales (YoY);Sweden;SEK;1
+EUR_SpaHICP;20151029;08:00;HICP (YoY);Spain;EUR;1
+DKK_IndustrialOutlook;20151029;08:00;Industrial Outlook;Denmark;DKK;1
+DKK_UnemploymentRate;20151029;08:00;Unemployment Rate;Denmark;DKK;1
+EUR_SpaRetailSales;20151029;08:00;Retail Sales (YoY);Spain;EUR;1
+GBP_NationwideHousingPrices;20151029;07:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;1
+EUR_AusProducerPriceIndex;20151029;07:00;Producer Price Index (MoM);Austria;EUR;1
+ZAR_PrivateSectorCredit;20151029;06:00;Private Sector Credit;South Africa;ZAR;1
+ZAR_M3MoneySupply;20151029;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+SGD_Unemploymentrate;20151029;02:30;Unemployment rate;Singapore;SGD;1
+AUD_ExportPriceIndex;20151029;00:30;Export Price Index (QoQ);Australia;AUD;1
+AUD_ImportPriceIndex;20151029;00:30;Import Price Index (QoQ);Australia;AUD;1
+AUD_HIANewHomeSales;20151029;00:00;HIA New Home Sales (MoM);Australia;AUD;2
+TRY_RepublicDay;20151029;00:00;Republic Day ;Turkey;TRY;0

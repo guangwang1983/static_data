@@ -1,0 +1,28 @@
+JPY_MerchandiseTradeBalanceTotal;20141021;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20141021;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;2
+JPY_Exports;20141021;23:50;Exports (YoY);Japan;JPY;1
+JPY_Imports;20141021;23:50;Imports (YoY);Japan;JPY;1
+AUD_WestpacLeadingIndex;20141021;23:30;Westpac Leading Index (MoM);Australia;AUD;1
+USD_Auction;20141021;15:30;4-Week Bill Auction;United States;USD;1
+USD_ExistingHomeSalesChange;20141021;14:00;Existing Home Sales Change (MoM);United States;USD;2
+USD_ExistingHomeSales;20141021;14:00;Existing Home Sales (MoM);United States;USD;1
+USD_RedbookIndex;20141021;12:55;Redbook Index (MoM);United States;USD;1
+BRL_MidmonthInflation;20141021;11:00;Mid-month Inflation;Brazil;BRL;1
+GBP_Auction;20141021;09:42;10-y Bond Auction;United Kingdom;GBP;1
+AUD_CentralBankSpeech;20141021;08:55;OUTDATED - RBA Deputy Governor Lowe Speech;Australia;AUD;2
+EUR_SpaAuction;20141021;08:53;9-Month Letras Auction;Spain;EUR;1
+GBP_PublicSectorNetBorrowing;20141021;08:34;Public Sector Net Borrowing;United Kingdom;GBP;1
+HKD_ConsumerPriceIndex;20141021;08:30;Consumer Price Index;Hong Kong SAR;HKD;1
+EUR_GreCurrentAccount;20141021;08:04;Current Account (YoY);Greece;EUR;1
+HUF_GrossWages;20141021;07:00;Gross Wages (YoY);Hungary;HUF;1
+CHF_Imports;20141021;06:00;Imports (MoM);Switzerland;CHF;1
+CHF_Exports;20141021;06:00;Exports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20141021;06:00;Trade Balance;Switzerland;CHF;2
+EUR_FinUnemploymentRate;20141021;06:00;Unemployment Rate;Finland;EUR;1
+JPY_AllIndustryActivityIndex;20141021;04:30;All Industry Activity Index (MoM);Japan;JPY;2
+CNY_RetailSales;20141021;02:00;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20141021;02:00;Industrial Production (YoY);China;CNY;2
+CNY_NBSPressConference;20141021;02:00;NBS Press Conference;China;CNY;2
+CNY_FixedAssetInvestment;20141021;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;2
+CNY_GrossDomesticProduct;20141021;02:00;Gross Domestic Product (QoQ);China;CNY;3
+AUD_RBAMeetingMinutes;20141021;00:30;RBA Meeting Minutes;Australia;AUD;2

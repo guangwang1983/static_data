@@ -1,0 +1,19 @@
+NZD_CreditCardSpending;20230519;03:00;Credit Card Spending (YoY);New Zealand;NZD;1
+JPY_TertiaryIndustryIndex;20230519;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+EUR_GerProducerPriceIndex;20230519;06:00;Producer Price Index (YoY);Germany;EUR;1
+SEK_CapacityUtilization;20230519;06:00;Capacity Utilization;Sweden;SEK;1
+EUR_EurEconomicBulletin;20230519;08:00;Economic Bulletin;European Monetary Union;EUR;2
+INR_BankLoanGrowth;20230519;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20230519;11:30;FX Reserves, USD;India;INR;1
+MXN_RetailSales;20230519;12:00;Retail Sales (YoY);Mexico;MXN;1
+CAD_RetailSales;20230519;12:30;Retail Sales ex Autos (MoM);Canada;CAD;2
+USD_CentralBankSpeech;20230519;15:00;Fed Chair Powell speech;United States;USD;3
+EUR_EurCentralBankSpeech;20230519;16:00;ECB Schnabel speech;European Monetary Union;EUR;2
+USD_BakerHughesUSOilRigCount;20230519;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20230519;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20230519;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCS&P500NCNetPositions;20230519;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20230519;20:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20230519;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20230519;20:30;CFTC Gold NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20230519;20:30;CFTC JPY NC Net Positions;Japan;JPY;1

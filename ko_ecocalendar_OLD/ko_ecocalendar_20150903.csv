@@ -1,0 +1,40 @@
+USD_EIANaturalGasStorageChange;20150903;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_ISMNonManufacturingPMI;20150903;14:00;ISM Non-Manufacturing PMI;United States;USD;2
+USD_MarkitServicesPMI;20150903;13:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20150903;13:45;Markit PMI Composite;United States;USD;2
+USD_TradeBalance;20150903;12:30;Trade Balance;United States;USD;2
+USD_JoblessClaims;20150903;12:30;Initial Jobless Claims;United States;USD;1
+EUR_EurECBMonetaryPolicyStatementandPressConference;20150903;12:30;ECB Monetary Policy Statement and Press Conference;European Monetary Union;EUR;3
+CAD_Exports;20150903;12:30;Exports;Canada;CAD;1
+CAD_Imports;20150903;12:30;Imports;Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20150903;12:30;International Merchandise Trade;Canada;CAD;1
+RUB_CentralBankReserves;20150903;12:12;Central Bank Reserves $;Russia;RUB;1
+EUR_EurECBDepositRateDecision;20150903;11:45;ECB Deposit Rate Decision;European Monetary Union;EUR;2
+EUR_EurECBInterestRateDecision;20150903;11:45;ECB Interest Rate Decision;European Monetary Union;EUR;3
+USD_ChallengerJobCuts;20150903;11:30;Challenger Job Cuts;United States;USD;1
+EUR_SpaAuction;20150903;10:00;30-y Bond Auction;Spain;EUR;1
+ZAR_BusinessConfidenceIndex;20150903;09:30;Business Confidence Index;South Africa;ZAR;1
+EUR_FraAuction;20150903;09:14;10-y Bond Auction;France;EUR;1
+EUR_EurRetailSales;20150903;09:00;Retail Sales (MoM);European Monetary Union;EUR;1
+GBP_MarkitServicesPMI;20150903;08:30;Markit Services PMI;United Kingdom;GBP;1
+EUR_EurMarkitPMIComposite;20150903;08:00;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20150903;08:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_GerMarkitPMIComposite;20150903;07:55;Markit PMI Composite;Germany;EUR;1
+EUR_GerMarkitServicesPMI;20150903;07:55;Markit Services PMI;Germany;EUR;1
+EUR_FraMarkitPMIComposite;20150903;07:50;Markit PMI Composite;France;EUR;1
+EUR_FraMarkitServicesPMI;20150903;07:50;Markit Services PMI;France;EUR;1
+EUR_ItaMarkitServicesPMI;20150903;07:45;Markit Services PMI;Italy;EUR;1
+SEK_RiksbankInterestRateDecision;20150903;07:30;Riksbank Interest Rate Decision;Sweden;SEK;1
+ZAR_PurchasingManagerIndex;20150903;07:15;Purchasing Manager Index;South Africa;ZAR;1
+EUR_SpaMarkitServicesPMI;20150903;07:15;Markit Services PMI;Spain;EUR;3
+TRY_ProducerPriceIndex;20150903;07:00;Producer Price Index (YoY);Turkey;TRY;1
+CZK_RetailSales;20150903;07:00;Retail Sales (YoY);Czech Republic;CZK;1
+TRY_ConsumerPriceIndex;20150903;07:00;Consumer Price Index (MoM);Turkey;TRY;1
+EUR_IrePurchasingManagerIndexServices;20150903;07:00;Purchasing Manager Index Services;Ireland;EUR;1
+HUF_RetailSales;20150903;07:00;Retail Sales (YoY);Hungary;HUF;1
+EUR_FraILOUnemployment;20150903;05:30;ILO Unemployment;France;EUR;1
+JPY_MarkitServicesPMI;20150903;01:35;Markit Services PMI;Japan;JPY;1
+AUD_RetailSales;20150903;01:30;Retail Sales s.a. (MoM);Australia;AUD;2
+AUD_Imports;20150903;01:30;Imports;Australia;AUD;2
+AUD_TradeBalance;20150903;01:30;Trade Balance;Australia;AUD;2
+AUD_Exports;20150903;01:30;Exports;Australia;AUD;2

@@ -1,0 +1,35 @@
+AUD_HIANewHomeSales;20200813;01:00;HIA New Home Sales (MoM);Australia;AUD;2
+AUD_ConsumerInflationExpectations;20200813;01:00;Consumer Inflation Expectations;Australia;AUD;2
+AUD_ParticipationRate;20200813;01:30;Participation Rate;Australia;AUD;1
+AUD_UnemploymentRate;20200813;01:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_PartTimeEmployment;20200813;01:30;Part-Time Employment;Australia;AUD;1
+AUD_FullTimeEmployment;20200813;01:30;Full-Time Employment;Australia;AUD;2
+AUD_EmploymentChange;20200813;01:30;Employment Change s.a.;Australia;AUD;3
+KRW_MoneySupplyGrowth;20200813;03:00;Money Supply Growth;South Korea;KRW;1
+EUR_FraILOUnemployment;20200813;05:30;ILO Unemployment;France;EUR;1
+EUR_GerWholesalePriceIndex;20200813;06:00;Wholesale Price Index (MoM);Germany;EUR;2
+EUR_GerConsumerPriceIndex;20200813;06:00;Consumer Price Index (YoY);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20200813;06:00;Harmonized Index of Consumer Prices (MoM);Germany;EUR;1
+JPY_MachineToolOrders;20200813;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+CZK_ConsumerPriceIndex;20200813;07:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+CZK_CurrentAccount;20200813;08:00;Current Account (MoM);Czech Republic;CZK;1
+ILS_M1MoneySupply;20200813;10:31;M1 Money Supply (MoM);Israel;ILS;1
+PLN_CurrentAccount;20200813;12:00;Current Account;Poland;PLN;1
+INR_ConsumerPriceIndex;20200813;12:00;Consumer Price Index (YoY);India;INR;1
+USD_JoblessClaims;20200813;12:30;Initial Jobless Claims;United States;USD;2
+USD_ImportPriceIndex;20200813;12:30;Import Price Index (MoM);United States;USD;1
+USD_ExportPriceIndex;20200813;12:30;Export Price Index (YoY);United States;USD;1
+RUB_CentralBankReserves;20200813;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_EIANaturalGasStorageChange;20200813;14:30;EIA Natural Gas Storage Change;United States;USD;1
+COP_RetailSales;20200813;15:00;Retail Sales (YoY);Colombia;COP;1
+COP_TradeBalance;20200813;15:00;Trade Balance;Colombia;COP;1
+COP_Industrialoutput;20200813;15:00;Industrial output (YoY);Colombia;COP;1
+USD_Auction;20200813;17:00;30-Year Bond Auction;United States;USD;1
+MXN_CentralBankInterestRate;20200813;18:00;Central Bank Interest Rate;Mexico;MXN;1
+KRW_ExportPriceGrowth;20200813;21:00;Export Price Growth (YoY);South Korea;KRW;1
+KRW_ImportPriceGrowth;20200813;21:00;Import Price Growth (YoY);South Korea;KRW;1
+NZD_REINZHousePriceIndex;20200813;21:00;REINZ House Price Index (MoM);New Zealand;NZD;2
+NZD_BusinessNZPMI;20200813;22:30;Business NZ PMI;New Zealand;NZD;2
+AUD_CentralBankSpeech;20200813;23:30;RBA Governor Lowe speech;Australia;AUD;3
+JPY_ForeignBondInvestment;20200813;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20200813;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1

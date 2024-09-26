@@ -1,0 +1,14 @@
+USD_CentralBankSpeech;20100603;15:15;Former Fed Chair Bernanke speech;United States;USD;1
+USD_EIACrudeOilStocksChange;20100603;15:00;EIA Crude Oil Stocks Change;United States;USD;1
+USD_ISMNonManufacturingPMI;20100603;14:00;ISM Non-Manufacturing PMI;United States;USD;3
+USD_FactoryOrders;20100603;14:00;Factory Orders (MoM);United States;USD;2
+USD_JoblessClaims;20100603;12:30;Continuing Jobless Claims;United States;USD;1
+USD_NonfarmProductivity;20100603;12:30;Nonfarm Productivity;United States;USD;1
+USD_UnitLaborCosts;20100603;12:30;Unit Labor Costs;United States;USD;1
+USD_ADPEmploymentChange;20100603;12:15;ADP Employment Change;United States;USD;2
+EUR_EurRetailSales;20100603;09:00;Retail Sales (MoM);European Monetary Union;EUR;2
+GBP_MarkitServicesPMI;20100603;08:30;Markit Services PMI;United Kingdom;GBP;1
+EUR_EurMarkitServicesPMI;20100603;08:00;Markit Services PMI;European Monetary Union;EUR;1
+EUR_GerMarkitServicesPMI;20100603;07:55;Markit Services PMI;Germany;EUR;1
+GBP_NationwideHousingPrices;20100603;06:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;1
+AUD_TradeBalance;20100603;01:30;Trade Balance;Australia;AUD;2

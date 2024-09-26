@@ -1,0 +1,24 @@
+INR_WPIInflation;20221114;06:30;WPI Inflation;India;INR;1
+CNY_FDIForeignDirectInvestment;20221114;07:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+RON_IndustrialProduction;20221114;07:00;Industrial Production (MoM);Romania;RON;1
+CHF_ProducerandImportPrices;20221114;07:30;Producer and Import Prices (MoM);Switzerland;CHF;1
+HUF_IndustrialOutput;20221114;08:00;Industrial Output (YoY);Hungary;HUF;1
+CZK_CurrentAccount;20221114;09:00;Current Account (MoM);Czech Republic;CZK;1
+EUR_EurIndustrialProduction;20221114;10:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;1
+INR_ConsumerPriceIndex;20221114;12:00;Consumer Price Index (YoY);India;INR;1
+PLN_CurrentAccount;20221114;13:00;Current Account;Poland;PLN;1
+EUR_EurCentralBankSpeech;20221114;16:15;ECB De Guindos speech;European Monetary Union;EUR;2
+USD_Auction;20221114;16:30;6-Month Bill Auction;United States;USD;1
+NZD_REINZHousePriceIndex;20221114;20:00;REINZ House Price Index (MoM);New Zealand;NZD;2
+USD_CFTCS&P500NCNetPositions;20221114;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20221114;20:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20221114;20:30;CFTC Gold NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20221114;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20221114;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20221114;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20221114;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+KRW_ImportPriceGrowth;20221114;21:00;Import Price Growth (YoY);South Korea;KRW;1
+KRW_ExportPriceGrowth;20221114;21:00;Export Price Growth (YoY);South Korea;KRW;1
+NZD_VisitorArrivals;20221114;21:45;Visitor Arrivals (YoY);New Zealand;NZD;1
+USD_CentralBankSpeech;20221114;23:30;Fed Williams speech;United States;USD;2
+JPY_GrossDomesticProduct;20221114;23:50;Gross Domestic Product Deflator (YoY);Japan;JPY;1

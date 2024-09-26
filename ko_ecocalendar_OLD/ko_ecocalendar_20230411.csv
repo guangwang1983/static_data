@@ -1,0 +1,34 @@
+USD_IMFMeeting;20230411;00:00;IMF Meeting;United States;USD;2
+AUD_WestpacConsumerConfidence;20230411;00:30;Westpac Consumer Confidence;Australia;AUD;2
+KRW_BoKInterestRateDecision;20230411;01:00;BoK Interest Rate Decision;South Korea;KRW;1
+CNY_ConsumerPriceIndex;20230411;01:30;Consumer Price Index (YoY);China;CNY;3
+CNY_ProducerPriceIndex;20230411;01:30;Producer Price Index (YoY);China;CNY;2
+AUD_NationalAustraliaBankBusinessConfidence;20230411;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20230411;01:30;National Australia Bank Business Conditions;Australia;AUD;1
+DKK_Inflation;20230411;06:00;Inflation (HICP) (YoY);Denmark;DKK;1
+DKK_ConsumerPriceIndex;20230411;06:00;Consumer Price Index (YoY);Denmark;DKK;1
+ZAR_Gross$Gold&ForexReserve;20230411;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+ZAR_Net$Gold&ForexReserve;20230411;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+JPY_MachineToolOrders;20230411;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+NOK_ConsumerPriceIndex;20230411;06:00;Consumer Price Index (YoY);Norway;NOK;1
+NOK_CoreInflation;20230411;06:00;Core Inflation (MoM);Norway;NOK;1
+NOK_ProducerPriceIndex;20230411;06:00;Producer Price Index (YoY);Norway;NOK;1
+CNY_M2MoneySupply;20230411;07:00;M2 Money Supply (YoY);China;CNY;1
+CNY_NewLoans;20230411;07:00;New Loans;China;CNY;1
+TRY_IndustrialProduction;20230411;07:00;Industrial Production (YoY);Turkey;TRY;1
+CZK_FXReserves;20230411;08:00;FX Reserves;Czech Republic;CZK;1
+EUR_EurRetailSales;20230411;09:00;Retail Sales (YoY);European Monetary Union;EUR;3
+USD_NFIBBusinessOptimismIndex;20230411;10:00;NFIB Business Optimism Index;United States;USD;1
+MXN_IndustrialOutput;20230411;11:00;Industrial Output (YoY);Mexico;MXN;1
+ZAR_ManufacturingProductionIndex;20230411;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+BRL_IPCAInflation;20230411;12:00;IPCA Inflation;Brazil;BRL;1
+USD_RedbookIndex;20230411;12:55;Redbook Index (YoY);United States;USD;1
+USD_USDAWASDEReport;20230411;16:00;USDA WASDE Report;United States;USD;1
+USD_Auction;20230411;17:00;3-Year Note Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20230411;20:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_RetailSales;20230411;22:45;Electronic Card Retail Sales (YoY);New Zealand;NZD;1
+KRW_UnemploymentRate;20230411;23:00;Unemployment Rate;South Korea;KRW;1
+USD_CentralBankSpeech;20230411;23:30;Fed Kashkari speech;United States;USD;2
+JPY_BankLending;20230411;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_ProducerPriceIndex;20230411;23:50;Producer Price Index (YoY);Japan;JPY;1
+JPY_MachineryOrders;20230411;23:50;Machinery Orders (YoY);Japan;JPY;1

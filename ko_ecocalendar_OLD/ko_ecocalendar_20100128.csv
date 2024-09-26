@@ -1,0 +1,21 @@
+JPY_IndustrialProduction;20100128;23:50;Industrial Production (MoM);Japan;JPY;1
+JPY_BoJMinutes;20100128;23:50;BoJ Minutes;Japan;JPY;2
+JPY_TokyoCPIexFreshFood;20100128;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;2
+JPY_TokyoCPIexFoodEnergy;20100128;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_NationalCPIexFoodEnergy;20100128;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20100128;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20100128;23:30;National Consumer Price Index (YoY);Japan;JPY;2
+JPY_UnemploymentRate;20100128;23:30;Unemployment Rate;Japan;JPY;2
+JPY_OverallHouseholdSpending;20100128;23:30;Overall Household Spending (YoY);Japan;JPY;2
+JPY_NikkeiManufacturingPMI;20100128;23:15;Nikkei Manufacturing PMI;Japan;JPY;1
+NZD_BuildingPermits;20100128;21:45;Building Permits s.a. (MoM);New Zealand;NZD;1
+NZD_TradeBalance;20100128;21:45;Trade Balance (MoM);New Zealand;NZD;2
+USD_JoblessClaims;20100128;13:30;Initial Jobless Claims;United States;USD;2
+USD_DurableGoodsOrders;20100128;13:30;Durable Goods Orders ex Transportation;United States;USD;3
+EUR_EurConsumerConfidence;20100128;10:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurEconomicSentimentIndicator;20100128;10:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+EUR_EurIndustrialConfidence;20100128;10:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_GerUnemploymentChange;20100128;08:55;Unemployment Change;Germany;EUR;2
+EUR_GerUnemploymentRate;20100128;08:55;Unemployment Rate s.a.;Germany;EUR;2
+NZD_M3MoneySupply;20100128;02:00;M3 Money Supply (YoY);New Zealand;NZD;1
+CHF_WorldEconomicForumDavos;20100128;00:00;World Economic Forum - Davos;Switzerland;CHF;0

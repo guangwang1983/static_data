@@ -1,0 +1,44 @@
+JPY_MoneySupplyM2+CD;20190610;23:50;Money Supply M2+CD (YoY);Japan;JPY;1
+NZD_ManufacturingSales;20190610;22:45;Manufacturing Sales;New Zealand;NZD;1
+GBP_CentralBankSpeech;20190610;17:00;BoE Saunders speech;United Kingdom;GBP;2
+USD_Auction;20190610;15:30;6-Month Bill Auction;United States;USD;1
+USD_JOLTSJobOpenings;20190610;14:00;JOLTS Job Openings;United States;USD;1
+CAD_BuildingPermits;20190610;12:30;Building Permits (MoM);Canada;CAD;1
+CAD_HousingStarts;20190610;12:15;Housing Starts s.a (YoY);Canada;CAD;1
+GBP_NIESRGDPEstimate;20190610;12:00;NIESR GDP Estimate (3M);United Kingdom;GBP;1
+INR_TradeDeficitGovernment;20190610;12:00;Trade Deficit Government;India;INR;1
+EUR_GreIndustrialProduction;20190610;09:00;Industrial Production (YoY);Greece;EUR;1
+EUR_GreConsumerPriceIndex;20190610;09:00;Consumer Price Index - Harmonized (YoY);Greece;EUR;1
+GBP_ManufacturingProduction;20190610;08:30;Manufacturing Production (YoY);United Kingdom;GBP;2
+GBP_IndustrialProduction;20190610;08:30;Industrial Production (YoY);United Kingdom;GBP;1
+EUR_EurSentixInvestorConfidence;20190610;08:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+GBP_IndexofServices;20190610;08:30;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20190610;08:30;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20190610;08:30;Goods Trade Balance;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20190610;08:30;Total Trade Balance;United Kingdom;GBP;1
+GBP_GrossDomesticProduct;20190610;08:30;Gross Domestic Product (MoM);United Kingdom;GBP;2
+EUR_ItaIndustrialOutput;20190610;08:00;Industrial Output s.a. (MoM);Italy;EUR;1
+EUR_SloIndustrialOutput;20190610;07:00;Industrial Output (YoY);Slovakia;EUR;1
+CZK_UnemploymentRate;20190610;07:00;Unemployment Rate;Czech Republic;CZK;1
+RON_TradeBalance;20190610;06:00;Trade Balance;Romania;RON;1
+EUR_FinIndustrialOutput;20190610;05:00;Industrial Output (MoM);Finland;EUR;1
+JPY_EcoWatchersSurvey:Current;20190610;05:00;Eco Watchers Survey: Current;Japan;JPY;1
+JPY_EcoWatchersSurvey:Outlook;20190610;05:00;Eco Watchers Survey: Outlook;Japan;JPY;1
+IDR_CoreInflation;20190610;04:00;Core Inflation (YoY);Indonesia;IDR;1
+IDR_Inflation;20190610;04:00;Inflation (YoY);Indonesia;IDR;1
+CNY_Exports;20190610;02:00;Exports (YoY);China;CNY;2
+CNY_Imports;20190610;02:00;Imports (YoY) CNY;China;CNY;2
+CNY_TradeBalanceUSD;20190610;02:00;Trade Balance USD;China;CNY;2
+CNY_TradeBalanceCNY;20190610;02:00;Trade Balance CNY;China;CNY;2
+DKK_Whitmonday;20190610;00:00;Whit monday;Denmark;DKK;0
+AUD_QueenBirthday;20190610;00:00;Queen Birthday;Australia;AUD;0
+NOK_Whitmonday;20190610;00:00;Whit monday;Norway;NOK;0
+EUR_NetWhitmonday;20190610;00:00;Whit monday;Netherlands, The;EUR;0
+EUR_AusWhitMonday;20190610;00:00;Whit Monday;Austria;EUR;0
+CHF_WhitMonday;20190610;00:00;Whit Monday;Switzerland;CHF;0
+EUR_FraWhitMonday;20190610;00:00;Whit Monday ;France;EUR;0
+EUR_BelWhitmonday;20190610;00:00;Whit monday;Belgium;EUR;0
+EUR_PorPortugalDay;20190610;00:00;Portugal Day;Portugal;EUR;0
+ISK_Whitmonday;20190610;00:00;Whit monday ;Iceland;ISK;0
+HUF_PentecostMonday;20190610;00:00;Pentecost Monday ;Hungary;HUF;0
+EUR_GerWhitMonday;20190610;00:00;Whit Monday;Germany;EUR;0

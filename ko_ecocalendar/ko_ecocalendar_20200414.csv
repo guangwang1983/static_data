@@ -1,0 +1,22 @@
+EUR_EurG7Meeting;20200414;00:00;G7 Meeting;European Monetary Union;EUR;3
+AUD_NationalAustraliaBankBusinessConfidence;20200414;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20200414;01:30;National Australia Bank Business Conditions;Australia;AUD;1
+CNY_TradeBalanceUSD;20200414;03:52;Trade Balance USD;China;CNY;2
+CNY_Exports;20200414;03:52;Exports (YoY);China;CNY;2
+CNY_Imports;20200414;03:52;Imports (YoY);China;CNY;2
+CNY_TradeBalanceCNY;20200414;03:56;Trade Balance CNY;China;CNY;1
+DKK_Inflation;20200414;06:00;Inflation (HICP) (YoY);Denmark;DKK;1
+DKK_ConsumerPriceIndex;20200414;06:00;Consumer Price Index (YoY);Denmark;DKK;1
+RON_IndustrialProduction;20200414;06:00;Industrial Production (MoM);Romania;RON;1
+CZK_ConsumerPriceIndex;20200414;07:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+IDR_BankIndonesiaRate;20200414;07:00;Bank Indonesia Rate;Indonesia;IDR;1
+CZK_CurrentAccount;20200414;08:00;Current Account (MoM);Czech Republic;CZK;1
+ILS_ConsumerPriceIndex;20200414;11:00;Consumer Price Index (MoM);Israel;ILS;1
+PLN_CurrentAccount;20200414;12:00;Current Account;Poland;PLN;1
+USD_ImportPriceIndex;20200414;12:30;Import Price Index (YoY);United States;USD;1
+USD_ExportPriceIndex;20200414;12:30;Export Price Index (MoM);United States;USD;1
+USD_RedbookIndex;20200414;12:55;Redbook Index (YoY);United States;USD;1
+USD_CentralBankSpeech;20200414;16:30;Fed Evans speech;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20200414;20:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_REINZHousePriceIndex;20200414;22:00;REINZ House Price Index (MoM);New Zealand;NZD;2
+NZD_FoodPriceIndex;20200414;22:45;Food Price Index (MoM);New Zealand;NZD;1

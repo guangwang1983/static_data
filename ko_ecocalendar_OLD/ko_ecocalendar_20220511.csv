@@ -1,0 +1,24 @@
+AUD_WestpacConsumerConfidence;20220511;00:30;Westpac Consumer Confidence;Australia;AUD;2
+CNY_ConsumerPriceIndex;20220511;01:30;Consumer Price Index (YoY);China;CNY;3
+CNY_ProducerPriceIndex;20220511;01:30;Producer Price Index (YoY);China;CNY;2
+JPY_CoincidentIndex;20220511;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20220511;05:00;Leading Economic Index;Japan;JPY;1
+RON_ConsumerPriceIndex;20220511;06:00;Consumer Price Index;Romania;RON;1
+USD_MBAMortgageApplications;20220511;11:00;MBA Mortgage Applications;United States;USD;1
+EUR_EurCentralBankSpeech;20220511;12:20;ECB Schnabel speech;European Monetary Union;EUR;2
+USD_ConsumerPriceIndex;20220511;12:30;Consumer Price Index ex Food & Energy (MoM);United States;USD;3
+USD_EIACrudeOilStocksChange;20220511;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+TRY_TreasuryCashBalance;20220511;14:30;Treasury Cash Balance;Turkey;TRY;1
+USD_Auction;20220511;17:00;10-Year Note Auction;United States;USD;1
+USD_MonthlyBudgetStatement;20220511;18:00;Monthly Budget Statement;United States;USD;2
+USD_CentralBankSpeech;20220511;18:15;President Biden speech;United States;USD;3
+NZD_REINZHousePriceIndex;20220511;21:00;REINZ House Price Index (MoM);New Zealand;NZD;2
+NZD_FoodPriceIndex;20220511;22:45;Food Price Index (MoM);New Zealand;NZD;1
+NZD_VisitorArrivals;20220511;22:45;Visitor Arrivals (YoY);New Zealand;NZD;1
+GBP_RICSHousingPriceBalance;20220511;23:01;RICS Housing Price Balance;United Kingdom;GBP;1
+JPY_BankLending;20220511;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_BoJSummaryofOpinions;20220511;23:50;BoJ Summary of Opinions;Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20220511;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20220511;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_CurrentAccount;20220511;23:50;Current Account n.s.a.;Japan;JPY;2
+JPY_TradeBalanceBOPBasis;20220511;23:50;Trade Balance - BOP Basis;Japan;JPY;1

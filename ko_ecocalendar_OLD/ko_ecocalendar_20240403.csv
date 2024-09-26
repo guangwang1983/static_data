@@ -1,0 +1,33 @@
+JPY_JibunBankServicesPMI;20240403;00:30;Jibun Bank Services PMI;Japan;JPY;1
+CNY_CaixinServicesPMI;20240403;01:45;Caixin Services PMI;China;CNY;3
+RUB_S&PGlobalServicesPMI;20240403;06:00;S&P Global Services PMI;Russia;RUB;1
+EUR_FraBudgetBalance;20240403;06:45;Budget Balance;France;EUR;1
+TRY_ProducerPriceIndex;20240403;07:00;Producer Price Index (MoM);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20240403;07:00;Consumer Price Index (YoY);Turkey;TRY;2
+EUR_ItaUnemployment;20240403;08:00;Unemployment;Italy;EUR;1
+TRY_Exports;20240403;08:00;Exports;Turkey;TRY;1
+BRL_FipeIPCInflation;20240403;08:00;Fipe IPC Inflation;Brazil;BRL;1
+EUR_EurUnemploymentRate;20240403;09:00;Unemployment Rate;Eurozone;EUR;2
+EUR_EurHarmonizedIndexofConsumerPrices;20240403;09:00;Harmonized Index of Consumer Prices (YoY);Eurozone;EUR;3
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20240403;09:00;Core Harmonized Index of Consumer Prices (MoM);Eurozone;EUR;3
+EUR_GerAuction;20240403;09:30;10-y Bond Auction;Germany;EUR;2
+INR_M3MoneySupply;20240403;10:30;M3 Money Supply;India;INR;1
+USD_MBAMortgageApplications;20240403;11:00;MBA Mortgage Applications;United States;USD;1
+BRL_IndustrialOutput;20240403;12:00;Industrial Output (MoM);Brazil;BRL;1
+USD_ADPEmploymentChange;20240403;12:15;ADP Employment Change;United States;USD;3
+USD_S&PGlobalServicesPMI;20240403;13:45;S&P Global Services PMI;United States;USD;1
+USD_S&PGlobalCompositePMI;20240403;13:45;S&P Global Composite PMI;United States;USD;2
+USD_ISMServicesEmploymentIndex;20240403;14:00;ISM Services Employment Index;United States;USD;2
+USD_ISMServicesPricesPaid;20240403;14:00;ISM Services Prices Paid;United States;USD;2
+USD_ISMServicesPMI;20240403;14:00;ISM Services PMI;United States;USD;3
+USD_ISMServicesNewOrdersIndex;20240403;14:00;ISM Services New Orders Index;United States;USD;2
+USD_EIACrudeOilStocksChange;20240403;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+DKK_CurrencyReserves;20240403;15:00;Currency Reserves;Denmark;DKK;1
+CNY_ChingMingFestival;20240403;16:00;Ching Ming Festival;China;CNY;0
+RUB_UnemploymentRate;20240403;16:00;Unemployment Rate;Russia;RUB;1
+USD_CentralBankSpeech;20240403;20:30;Fed Kugler speech;United States;USD;2
+NZD_BuildingPermits;20240403;21:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+AUD_JudoBankServicesPMI;20240403;22:00;Judo Bank Services PMI;Australia;AUD;2
+AUD_JudoBankCompositePMI;20240403;22:00;Judo Bank Composite PMI;Australia;AUD;2
+JPY_ForeignInvestmentinJapanStocks;20240403;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20240403;23:50;Foreign Bond Investment;Japan;JPY;1

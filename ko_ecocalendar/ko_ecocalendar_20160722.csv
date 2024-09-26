@@ -1,0 +1,33 @@
+CNY_MNIBusinessSentimentIndicator;20160722;01:45;MNI Business Sentiment Indicator;China;CNY;1
+JPY_JibunBankManufacturingPMI;20160722;02:00;Jibun Bank Manufacturing PMI;Japan;JPY;1
+EUR_FraHCOBManufacturingPMI;20160722;07:00;HCOB Manufacturing PMI;France;EUR;1
+EUR_FraHCOBServicesPMI;20160722;07:00;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20160722;07:00;HCOB Composite PMI;France;EUR;1
+DKK_RetailSales;20160722;07:00;Retail Sales (YoY);Denmark;DKK;1
+EUR_GerHCOBManufacturingPMI;20160722;07:30;HCOB Manufacturing PMI;Germany;EUR;2
+EUR_GerHCOBServicesPMI;20160722;07:30;HCOB Services PMI;Germany;EUR;2
+EUR_GerHCOBCompositePMI;20160722;07:30;HCOB Composite PMI;Germany;EUR;2
+EUR_ItaIndustrialSales;20160722;08:00;Industrial Sales s.a. (MoM);Italy;EUR;1
+EUR_ItaIndustrialOrders;20160722;08:00;Industrial Orders s.a (MoM);Italy;EUR;1
+EUR_EurHCOBCompositePMI;20160722;08:00;HCOB Composite PMI;European Monetary Union;EUR;2
+EUR_EurHCOBManufacturingPMI;20160722;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurHCOBServicesPMI;20160722;08:00;HCOB Services PMI;European Monetary Union;EUR;2
+GBP_S&PGlobalCIPSManufacturingPMI;20160722;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSServicesPMI;20160722;08:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;1
+EUR_ItaRetailSales;20160722;09:00;Retail Sales s.a. (MoM);Italy;EUR;1
+EUR_ItaTradeBalancenonEU;20160722;10:00;Trade Balance non-EU;Italy;EUR;1
+INR_BankLoanGrowth;20160722;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20160722;11:30;FX Reserves, USD;India;INR;1
+CAD_RetailSales;20160722;12:30;Retail Sales ex Autos (MoM);Canada;CAD;1
+CAD_ConsumerPriceIndex;20160722;12:30;Consumer Price Index - Core (MoM);Canada;CAD;2
+MXN_1sthalfmonthCoreInflation;20160722;13:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20160722;13:00;1st half-month Inflation;Mexico;MXN;1
+USD_S&PGlobalManufacturingPMI;20160722;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_BakerHughesUSOilRigCount;20160722;17:00;Baker Hughes US Oil Rig Count;United States;USD;2
+AUD_CFTCAUDNCNetPositions;20160722;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20160722;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+JPY_CFTCJPYNCNetPositions;20160722;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+GBP_CFTCGBPNCNetPositions;20160722;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20160722;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20160722;19:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20160722;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1

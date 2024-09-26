@@ -1,0 +1,31 @@
+AUD_RBABulletin;20151217;00:30;RBA Bulletin;Australia;AUD;2
+AUD_RBAForeignExchangeTransaction;20151217;03:00;RBA Foreign Exchange Transaction;Australia;AUD;1
+CHF_SECOEconomicForecasts;20151217;06:45;SECO Economic Forecasts;Switzerland;CHF;2
+SEK_UnemploymentRate;20151217;08:30;Unemployment Rate;Sweden;SEK;1
+EUR_ItaGlobalTradeBalance;20151217;09:00;Global Trade Balance;Italy;EUR;1
+EUR_ItaTradeBalanceEU;20151217;09:00;Trade Balance EU;Italy;EUR;1
+EUR_GerIFO–Expectations;20151217;09:00;IFO – Expectations;Germany;EUR;1
+EUR_GerIFO–CurrentAssessment;20151217;09:00;IFO – Current Assessment;Germany;EUR;1
+EUR_GerIFO–BusinessClimate;20151217;09:00;IFO – Business Climate;Germany;EUR;1
+EUR_EurEconomicBulletin;20151217;09:00;Economic Bulletin;European Monetary Union;EUR;2
+NOK_NorgesBankInterestRateDecision;20151217;09:00;Norges Bank Interest Rate Decision;Norway;NOK;1
+ZAR_ProducerPriceIndex;20151217;09:30;Producer Price Index (MoM);South Africa;ZAR;1
+GBP_RetailSales;20151217;09:30;Retail Sales (YoY);United Kingdom;GBP;2
+EUR_EurLaborCost;20151217;10:00;Labor Cost;European Monetary Union;EUR;2
+EUR_EurConstructionOutput;20151217;10:00;Construction Output  s.a (MoM);European Monetary Union;EUR;1
+GBP_CBIIndustrialTrendsSurvey–Orders;20151217;11:00;CBI Industrial Trends Survey – Orders (MoM);United Kingdom;GBP;1
+IDR_BankIndonesiaRate;20151217;11:00;Bank Indonesia Rate;Indonesia;IDR;1
+BRL_UnemploymentRate;20151217;11:30;Unemployment Rate;Brazil;BRL;1
+RUB_CentralBankReserves;20151217;12:00;Central Bank Reserves $;Russia;RUB;1
+PLN_RetailSales;20151217;13:00;Retail Sales (YoY);Poland;PLN;1
+PLN_IndustrialOutput;20151217;13:00;Industrial Output (YoY);Poland;PLN;1
+RUB_UnemploymentRate;20151217;13:00;Unemployment Rate;Russia;RUB;1
+PLN_ProducerPriceIndex;20151217;13:00;Producer Price Index (YoY);Poland;PLN;1
+USD_CurrentAccount;20151217;13:30;Current Account;United States;USD;1
+USD_JoblessClaims;20151217;13:30;Initial Jobless Claims;United States;USD;1
+USD_PhiladelphiaFedManufacturingSurvey;20151217;13:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+USD_EIANaturalGasStorageChange;20151217;15:30;EIA Natural Gas Storage Change;United States;USD;1
+MXN_CentralBankInterestRate;20151217;19:00;Central Bank Interest Rate;Mexico;MXN;1
+CLP_BCCHInterestRate;20151217;21:00;BCCH Interest Rate;Chile;CLP;1
+KRW_ProducerPriceIndex;20151217;21:00;Producer Price Index Growth (YoY);South Korea;KRW;1
+EUR_FraBusinessClimateinManufacturing;20151217;22:00;Business Climate in Manufacturing;France;EUR;1

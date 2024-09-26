@@ -1,0 +1,18 @@
+CAD_RetailSales;20100521;12:30;Retail Sales ex Autos (MoM);Canada;CAD;3
+CAD_ConsumerPriceIndex;20100521;11:00;Consumer Price Index (MoM);Canada;CAD;3
+GBP_TotalBusinessInvestment;20100521;08:30;Total Business Investment (QoQ);United Kingdom;GBP;1
+GBP_MortgageApprovals;20100521;08:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_M4MoneySupply;20100521;08:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+GBP_PublicSectorNetBorrowing;20100521;08:30;Public Sector Net Borrowing;United Kingdom;GBP;2
+EUR_EurCurrentAccount;20100521;08:00;Current Account s.a;European Monetary Union;EUR;1
+EUR_GerIFOCurrentAssessment;20100521;08:00;IFO - Current Assessment;Germany;EUR;2
+EUR_GerIFOExpectations;20100521;08:00;IFO - Expectations;Germany;EUR;2
+EUR_GerIFOBusinessClimate;20100521;08:00;IFO - Business Climate;Germany;EUR;3
+EUR_EurMarkitManufacturingPMI;20100521;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;1
+EUR_EurMarkitServicesPMI;20100521;08:00;Markit Services PMI;European Monetary Union;EUR;1
+EUR_GerMarkitServicesPMI;20100521;07:30;Markit Services PMI;Germany;EUR;1
+EUR_GerMarkitManufacturingPMI;20100521;07:30;Markit Manufacturing PMI;Germany;EUR;2
+EUR_GerGrossDomesticProduct;20100521;06:00;Gross Domestic Product (QoQ);Germany;EUR;2
+JPY_CoincidentIndex;20100521;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20100521;05:00;Leading Economic Index;Japan;JPY;1
+JPY_BoJInterestRateDecision;20100521;03:49;BoJ Interest Rate Decision;Japan;JPY;3

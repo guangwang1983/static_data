@@ -1,0 +1,23 @@
+NZD_TradeBalance;20200226;21:45;Trade Balance (YoY);New Zealand;NZD;2
+NZD_Exports;20200226;21:45;Exports;New Zealand;NZD;2
+NZD_Imports;20200226;21:45;Imports;New Zealand;NZD;1
+USD_Auction;20200226;18:00;5-Year Note Auction;United States;USD;1
+USD_EIACrudeOilStocksChange;20200226;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_NewHomeSales;20200226;15:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20200226;15:00;New Home Sales Change (MoM);United States;USD;1
+MXN_RetailSales;20200226;12:00;Retail Sales (YoY);Mexico;MXN;1
+USD_MBAMortgageApplications;20200226;12:00;MBA Mortgage Applications;United States;USD;1
+INR_M3MoneySupply;20200226;11:30;M3 Money Supply;India;INR;1
+CHF_ZEWSurveyExpectations;20200226;09:00;ZEW Survey - Expectations;Switzerland;CHF;2
+EUR_ItaTradeBalancenonEU;20200226;09:00;Trade Balance non-EU;Italy;EUR;1
+EUR_AusPurchasingManagerIndex;20200226;09:00;Purchasing Manager Index;Austria;EUR;1
+HKD_GrossDomesticProduct;20200226;08:30;Gross Domestic Product (QoQ);Hong Kong SAR;HKD;1
+HUF_GrossWages;20200226;08:00;Gross Wages (YoY);Hungary;HUF;1
+EUR_FraConsumerConfidence;20200226;07:45;Consumer Confidence;France;EUR;1
+NOK_LabourForceSurvey;20200226;07:00;Labour Force Survey;Norway;NOK;1
+EUR_FinProducerPriceIndex;20200226;06:00;Producer Price Index (YoY);Finland;EUR;1
+EUR_FinImportPrices;20200226;06:00;Import Prices (YoY);Finland;EUR;1
+EUR_FinExportPrices;20200226;06:00;Export Prices (YoY);Finland;EUR;1
+SGD_IndustrialProduction;20200226;05:00;Industrial Production (YoY);Singapore;SGD;1
+AUD_ConstructionWorkDone;20200226;00:30;Construction Work Done;Australia;AUD;1
+GBP_BRCShopPriceIndex;20200226;00:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1

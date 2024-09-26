@@ -1,0 +1,21 @@
+IDR_HariRayaNyepi;20170328;00:00;Hari Raya Nyepi;Indonesia;IDR;0
+EUR_ItaIndustrialSales;20170328;08:00;Industrial Sales n.s.a. (YoY);Italy;EUR;1
+EUR_ItaIndustrialOrders;20170328;08:00;Industrial Orders n.s.a (YoY);Italy;EUR;1
+SEK_RetailSales;20170328;08:30;Retail Sales (MoM);Sweden;SEK;1
+SEK_ProducerPriceIndex;20170328;08:30;Producer Price Index (MoM);Sweden;SEK;1
+SEK_TradeBalance;20170328;08:30;Trade Balance (MoM);Sweden;SEK;1
+HUF_MNBInterestRateDecision;20170328;12:00;MNB Interest Rate Decision;Hungary;HUF;1
+USD_WholesaleInventories;20170328;12:30;Wholesale Inventories;United States;USD;1
+USD_GoodsTradeBalance;20170328;12:30;Goods Trade Balance;United States;USD;1
+USD_RedbookIndex;20170328;12:55;Redbook Index (YoY);United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20170328;13:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;2
+MXN_JoblessRate;20170328;13:00;Jobless Rate;Mexico;MXN;1
+USD_ConsumerConfidence;20170328;14:00;Consumer Confidence;United States;USD;2
+USD_RichmondFedManufacturingIndex;20170328;14:00;Richmond Fed Manufacturing Index;United States;USD;1
+CAD_CentralBankSpeech;20170328;14:10;BoC Governor Poloz speech;Canada;CAD;2
+USD_Auction;20170328;17:00;5-Year Note Auction;United States;USD;1
+USD_CentralBankSpeech;20170328;20:30;FOMC Member Powell speech (don't use);United States;USD;1
+USD_APIWeeklyCrudeOilStock;20170328;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_BOKManufacturingBSI;20170328;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+JPY_LargeRetailerSales;20170328;23:50;Large Retailer Sales;Japan;JPY;2
+JPY_RetailTrade;20170328;23:50;Retail Trade s.a (MoM);Japan;JPY;2

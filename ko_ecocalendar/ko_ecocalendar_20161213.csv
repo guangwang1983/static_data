@@ -1,0 +1,43 @@
+AUD_HousePriceIndex;20161213;00:30;House Price Index (QoQ);Australia;AUD;2
+AUD_NationalAustraliaBankBusinessConfidence;20161213;00:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20161213;00:30;National Australia Bank Business Conditions;Australia;AUD;1
+CNY_RetailSales;20161213;02:00;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20161213;02:00;Industrial Production (YoY);China;CNY;2
+CNY_FixedAssetInvestment;20161213;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+EUR_GerWholesalePriceIndex;20161213;07:00;Wholesale Price Index (YoY);Germany;EUR;2
+EUR_GerHarmonizedIndexofConsumerPrices;20161213;07:00;Harmonized Index of Consumer Prices (MoM);Germany;EUR;2
+EUR_GerConsumerPriceIndex;20161213;07:00;Consumer Price Index (YoY);Germany;EUR;2
+SEK_ConsumerPriceIndex;20161213;08:30;Consumer Price Index (YoY);Sweden;SEK;1
+EUR_ItaIndustrialOutput;20161213;09:00;Industrial Output s.a. (MoM);Italy;EUR;1
+GBP_RetailPriceIndex;20161213;09:30;Retail Price Index (MoM);United Kingdom;GBP;1
+GBP_DCLGHousePriceIndex;20161213;09:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ProducerPriceIndex;20161213;09:30;Producer Price Index - Output (MoM) n.s.a;United Kingdom;GBP;2
+GBP_PPICoreOutput;20161213;09:30;PPI Core Output (MoM) n.s.a;United Kingdom;GBP;2
+GBP_ConsumerPriceIndex;20161213;09:30;Consumer Price Index (YoY);United Kingdom;GBP;2
+EUR_ItaBankofItalyMoneyandBanksReport;20161213;10:00;Bank of Italy  Money and Banks Report;Italy;EUR;1
+EUR_EurZEWSurvey–EconomicSentiment;20161213;10:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;1
+EUR_GerZEWSurvey–CurrentSituation;20161213;10:00;ZEW Survey – Current Situation;Germany;EUR;1
+EUR_GerZEWSurvey–EconomicSentiment;20161213;10:00;ZEW Survey – Economic Sentiment;Germany;EUR;1
+EUR_EurEmploymentChange;20161213;10:00;Employment Change (YoY);European Monetary Union;EUR;1
+USD_NFIBBusinessOptimismIndex;20161213;11:00;NFIB Business Optimism Index;United States;USD;1
+BRL_RetailSales;20161213;11:00;Retail Sales (MoM);Brazil;BRL;1
+INR_TradeDeficit–RBI;20161213;11:30;Trade Deficit – RBI;India;INR;1
+INR_BalancePayment;20161213;11:30;Balance Payment $;India;INR;1
+INR_CurrentAccount;20161213;11:30;Current Account Balance $;India;INR;1
+PLN_NetInflation;20161213;13:00;Net Inflation;Poland;PLN;1
+RUB_GrossDomesticProduct;20161213;13:00;Gross Domestic Product Quarterly (YoY);Russia;RUB;1
+USD_ExportPriceIndex;20161213;13:30;Export Price Index (YoY);United States;USD;2
+USD_ImportPriceIndex;20161213;13:30;Import Price Index (YoY);United States;USD;2
+USD_RedbookIndex;20161213;13:55;Redbook Index (YoY);United States;USD;1
+USD_Auction;20161213;18:00;30-Year Bond Auction;United States;USD;1
+CLP_BCCHInterestRate;20161213;21:00;BCCH Interest Rate;Chile;CLP;1
+KRW_ExportPriceGrowth;20161213;21:00;Export Price Growth (YoY);South Korea;KRW;1
+KRW_ImportPriceGrowth;20161213;21:00;Import Price Growth (YoY);South Korea;KRW;1
+USD_APIWeeklyCrudeOilStock;20161213;21:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_UnemploymentRate;20161213;23:00;Unemployment Rate;South Korea;KRW;1
+AUD_WestpacConsumerConfidence;20161213;23:30;Westpac Consumer Confidence;Australia;AUD;2
+JPY_TankanLargeAllIndustryCapex;20161213;23:50;Tankan Large All Industry Capex;Japan;JPY;2
+JPY_TankanNonManufacturingIndex;20161213;23:50;Tankan Non - Manufacturing Index;Japan;JPY;2
+JPY_TankanLargeManufacturingIndex;20161213;23:50;Tankan Large Manufacturing Index;Japan;JPY;2
+JPY_TankanNonManufacturingOutlook;20161213;23:50;Tankan Non - Manufacturing Outlook;Japan;JPY;2
+JPY_TankanLargeManufacturingOutlook;20161213;23:50;Tankan Large Manufacturing Outlook;Japan;JPY;2

@@ -1,0 +1,48 @@
+CLP_BCCHInterestRate;20170413;21:00;BCCH Interest Rate;Chile;CLP;1
+KRW_ImportPriceGrowth;20170413;21:00;Import Price Growth (YoY);South Korea;KRW;1
+KRW_ExportPriceGrowth;20170413;21:00;Export Price Growth (YoY);South Korea;KRW;1
+USD_BakerHughesUSOilRigCount;20170413;17:00;Baker Hughes US Oil Rig Count;United States;USD;2
+USD_EIANaturalGasStorageChange;20170413;14:30;EIA Natural Gas Storage Change;United States;USD;1
+CAD_CentralBankSpeech;20170413;14:30;BoC Governor Poloz speech;Canada;CAD;3
+USD_MichiganConsumerSentimentIndex;20170413;14:00;Michigan Consumer Sentiment Index;United States;USD;1
+RUB_CentralBankReserves;20170413;13:00;Central Bank Reserves $;Russia;RUB;1
+PLN_CurrentAccount;20170413;13:00;Current Account;Poland;PLN;1
+USD_ProducerPriceIndex;20170413;12:30;Producer Price Index ex Food & Energy (YoY);United States;USD;1
+USD_JoblessClaims;20170413;12:30;Initial Jobless Claims;United States;USD;2
+CAD_ManufacturingShipments;20170413;12:30;Manufacturing Shipments (MoM);Canada;CAD;1
+CAD_NewHousingPriceIndex;20170413;12:30;New Housing Price Index (YoY);Canada;CAD;2
+RUB_BudgetFulfilment;20170413;12:00;Budget Fulfilment;Russia;RUB;1
+INR_TradeDeficitGovernment;20170413;11:00;Trade Deficit Government;India;INR;1
+EUR_IreHICP;20170413;10:00;HICP (YoY);Ireland;EUR;1
+EUR_IreConsumerPriceIndex;20170413;10:00;Consumer Price Index (YoY);Ireland;EUR;1
+GBP_BoECreditConditionsSurvey;20170413;08:30;BoE Credit Conditions Survey;United Kingdom;GBP;1
+EUR_ItaConsumerPriceIndex;20170413;08:00;Consumer Price Index (YoY);Italy;EUR;1
+CZK_CurrentAccount;20170413;08:00;Current Account (MoM);Czech Republic;CZK;1
+CHF_ProducerandImportPrices;20170413;07:15;Producer and Import Prices (MoM);Switzerland;CHF;1
+EUR_SloHeadlineInflation;20170413;07:00;Headline Inflation (MoM);Slovakia;EUR;1
+EUR_SloCoreInflation;20170413;07:00;Core Inflation (YoY);Slovakia;EUR;1
+EUR_FinGrossDomesticProduct;20170413;07:00;Gross Domestic Product (YoY);Finland;EUR;1
+EUR_FraConsumerPriceIndex;20170413;06:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraInflationextobacco;20170413;06:45;Inflation ex-tobacco (MoM);France;EUR;1
+EUR_FinCurrentAccount;20170413;06:00;Current Account;Finland;EUR;1
+EUR_GerConsumerPriceIndex;20170413;06:00;Consumer Price Index (MoM);Germany;EUR;2
+EUR_GerHarmonizedIndexofConsumerPrices;20170413;06:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;2
+EUR_FinConsumerPriceIndex;20170413;06:00;Consumer Price Index (YoY);Finland;EUR;1
+CNY_Exports;20170413;03:14;Exports (YoY) CNY;China;CNY;2
+CNY_TradeBalanceCNY;20170413;03:12;Trade Balance CNY;China;CNY;2
+CNY_Imports;20170413;03:11;Imports (YoY);China;CNY;2
+CNY_TradeBalanceUSD;20170413;03:10;Trade Balance USD;China;CNY;2
+AUD_FinancialStabilityReview;20170413;01:30;Financial Stability Review;Australia;AUD;1
+AUD_PartTimeEmployment;20170413;01:30;Part-Time Employment;Australia;AUD;1
+AUD_UnemploymentRate;20170413;01:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_FulltimeEmployment;20170413;01:30;Fulltime Employment;Australia;AUD;1
+AUD_EmploymentChange;20170413;01:30;Employment Change s.a.;Australia;AUD;3
+AUD_ParticipationRate;20170413;01:30;Participation Rate;Australia;AUD;2
+AUD_ConsumerInflationExpectations;20170413;01:00;Consumer Inflation Expectations;Australia;AUD;2
+KRW_BoKInterestRateDecision;20170413;01:00;BoK Interest Rate Decision;South Korea;KRW;1
+ISK_MaundyThursday;20170413;00:00;Maundy Thursday ;Iceland;ISK;0
+COP_MaundyThursday;20170413;00:00;Maundy Thursday;Colombia;COP;0
+MXN_MaundyThursday;20170413;00:00;Maundy Thursday ;Mexico;MXN;0
+DKK_MaundyThursday;20170413;00:00;Maundy Thursday ;Denmark;DKK;0
+NOK_MaundyThursday;20170413;00:00;Maundy Thursday;Norway;NOK;0
+SGD_GrossDomesticProduct;20170413;00:00;Gross Domestic Product (QoQ);Singapore;SGD;1

@@ -1,0 +1,230 @@
+(env27)/dat/matterhorn/production $ ls
+datarecorder  library  oldlibrary  portfolios  productionlog  reconciliation
+(env27)/dat/matterhorn/production/portfolios $ ls
+currentcrontab.dat          next_update_overview         productionportfolio_INIT
+fixheld.sh                  productionportfolio          productionportfolio_SLRD
+generate                    productionportfolio_CAD      productionportfolio_SLRL
+global_production_overview  productionportfolio_CURVE    REFERENCE_PORTFOLIO
+incubator                   productionportfolio_CURVESV
+LAST_REFERENCE_PORTFOLIO    productionportfolio_FX
+(env27)/dat/matterhorn/production/portfolios/generate $ ls
+CAD_US_portfolios        EVENT_portfolios  PWINF                       test
+CURVE_portfolios         FXFX_portfolios   rm_period_static_gm_rty.sh  x.sh
+EU_UK_US_CAD_portfolios  FX_portfolios     rm_period_static_gm.sh
+EU_UK_US_portfolios      pfiles            SLRL_portfolios
+(env27)/dat/matterhorn/production/portfolios/generate/EU_UK_US_portfolios $ ls
+casesignal  fullsignal  StaticPortfolio20201201  StaticPortfolio20210111  top.dat
+(env27)/dat/matterhorn/production/portfolios/generate/EU_UK_US_portfolios/StaticPortfolio20201201 $ ls
+alldrifts
+FULLEURO_SEGABC_sw500dw100pwin100_grid60v20201203
+FULLEURO_SEGABC_sw500dw100pwin100_grid60v20201203_fullspace
+FULLEURO_SEGABC_sw500dw100pwin100_grid60v20201203_sdrift
+FULLEURO_SEGABC_sw500dw100pwin100_grid60v20210430_RTY
+FULLEURO_SEGABC_sw500dw250pwin500_grid240v20201203
+FULLEURO_SEGABC_sw500dw250pwin500_grid240v20201203_fullspace
+FULLEURO_SEGABC_sw500dw250pwin500_grid240v20210430_RTY
+FULLEURO_SEGABC_sw500dw250pwin500_grid60v20201203
+FULLEURO_SEGABC_sw500dw250pwin500_grid60v20201203_fullspace
+FULLEURO_SEGABC_sw500dw250pwin500_grid60v20201203_sdrifts
+FULLEURO_SEGABC_sw500dw250pwin500_grid60v20210430_RTY
+FULLEURO_SEGA_sw500dw100pwin200_grid30v20201203
+FULLEURO_SEGA_sw500dw100pwin200_grid30v20201203_sdrift
+FULLEURO_SEGA_sw500dw100pwin200_grid30v2120430_ORG_RTY
+shortdrifts
+t
+whitendrift_signal
+(env27)/dat/matterhorn/production/portfolios/incubator $ ls
+alldynamic_200mAUM.def
+alldynamic_20210625.cfg
+AllPortfolio_TimeSettings.def
+dynamic_20210611.cfg
+getparams.py
+getrisksettings.py
+getWQRiskParam.sh
+MULTIPORTFOLIO_ACCUM_OOS_AllSegmentsSegAOverWeight_20210827_20mAUM
+MULTIPORTFOLIO_ACCUM_OOS_Dynamic_AllSegments_20210625_15mAUM
+MULTIPORTFOLIO_ACCUM_OOS_EurJpyGbpJpyEurGbp_5mAUM
+MULTIPORTFOLIO_ACCUM_OOS_FullDynamic_AABC_Static_CAD_20210917_15mAUM
+MULTIPORTFOLIO_ACCUM_OOS_StaticCADHedged_4mAUM_20210827
+MULTIPORTFOLIO_ACCUM_OOS_Static_Curve_5AUM_Balanced_tfb20
+multiportfolio_oos_log.dat
+newdates
+new_dynamic20210511small.cfg
+new_dynamic.cfg
+oldruns
+plot.png
+Static_April_weights.dat
+static_dataweighted20210323.dat
+static_dataweighted20210514.dat
+whitendrift_static_portfolios
+(env27)/dat/matterhorn/production/portfolios/productionportfolio $ ls
+adjust_static_20210709
+alllibportfolios
+alllibportfolios_new_pwINF
+alllibportfolios_new_pwINF2
+alllibportfolios_prod
+alllibportfolios_rty
+allportfolios_glob
+AllPortfolio_TimeSettings.def
+archive
+BACKUP_REFERENCEPORTFOLIO20210819
+christmastime
+compare
+compare_reruns
+CPI_res
+currentcrontab.dat
+DailyResult.out
+eventfiles
+Final_weights
+getparams.py
+getrisksettings.py
+getWQRiskParam.sh
+GLOBAL_LIVE_PRODUCTION_PORTFOLIO
+LAST_REFERENCE_PORTFOLIO
+MatterhornForbiddenList.cfg
+MatterhornForbiddenList.cfg_bk
+MULTIPORTFOLIO_ACCUM_OOS_240aum_a_3xabc_20210115
+MULTIPORTFOLIO_ACCUM_OOS_25aum_a_3xabc__sw3_eurgbp_20201216_balanced
+MULTIPORTFOLIO_ACCUM_OOS_40aum_a_3xabc_20210114
+MULTIPORTFOLIO_ACCUM_OOS_5aum_1xabc_sdrift_20201220
+MULTIPORTFOLIO_ACCUM_OOS_minAUM_a_3xabc__sw3_eurgbp_20201221_balanced
+MULTIPORTFOLIO_ACCUM_OOS_StaticGM_100mAUM_SVoverweight
+MULTIPORTFOLIO_ACCUM_OOS_StaticGM_200mAUM
+MULTIPORTFOLIO_ACCUM_OOS_StaticGM_200mAUM_IncreasedProductRisk
+MULTIPORTFOLIO_ACCUM_OOS_StaticGM_20210729
+MULTIPORTFOLIO_ACCUM_OOS_StaticGM_30mAUM
+MULTIPORTFOLIO_ACCUM_OOS_StaticGM_30mAUM_adjusted
+MULTIPORTFOLIO_ACCUM_OOS_StaticGM_30mAUM_pwINF
+MULTIPORTFOLIO_ACCUM_OOS_StaticGM_30mAUM_pwINFg360
+MULTIPORTFOLIO_ACCUM_OOS_StaticGM_30mAUM_RTY
+MULTIPORTFOLIO_ACCUM_OOS_StaticGM_30mAUM_SVoverweight
+MULTIPORTFOLIO_ACCUM_OOS_StaticGM_40mAUM
+MULTIPORTFOLIO_ACCUM_OOS_StaticGM_40mAUM_20211001
+MULTIPORTFOLIO_ACCUM_OOS_StaticGM_40mAUM_adjust20210709
+MULTIPORTFOLIO_ACCUM_OOS_StaticGM_40mAUM_AllPortfolios
+MULTIPORTFOLIO_ACCUM_OOS_StaticGM_40mAUM_pwINF
+MULTIPORTFOLIO_ACCUM_OOS_StaticGM_40mAUM_RTY
+MULTIPORTFOLIO_ACCUM_OOS_StaticGM_40mAUM_SVadjust
+MULTIPORTFOLIO_ACCUM_OOS_StaticGM_40mAUM_SVoverweight
+MULTIPORTFOLIO_ACCUM_OOS_StaticGM_45mAUM
+multiportfolio_oos_log.dat
+NFP_res
+oldruns_20210106
+plot.png
+PORTFOLIOS_IN_PRODUCTION.def
+productionportfolio_files2020
+REFERENCE_PORTFOLIO
+release
+RTY_SVadjust_static_20210823.def
+sdriftportfolios
+sdriftportfolios20
+staging
+static_gm
+static_gm_20210729
+static_gm_20210729_adjust100m.def
+static_gm_20210729_adjust40m.def
+static_gm_20210729_adjust.def
+static_gm_20210729_adjusted.def
+static_gm20211001
+static_gm_30mAUM
+static_gm45maum.def
+static_gm_mul5.0.def
+static_gm_pwinf
+static_gm_pwinf20211011
+static_gm_pwinf_40m
+static_gm_rty
+static_gm_rty_mul0.8.def
+SVadjust_static_20210709.adjust
+SVadjust_static_20210709.def
+wfile
+WQ_COREBOOK
+(env27)/dat/matterhorn/production/library $ ls
+allcurvemodels.cfg
+alldates2021.dat
+alllibs.dat
+alllibs.dat_old
+alllibsettings_dir
+currentcrontab.dat
+datesToRepair
+HC_RECONCILIATION
+reltrigger_test
+settings
+sl3l_currencyfutures
+sl3l_currencyfutures_6C_SV
+sl3l_currencyfutures_6C_SV_3sw
+sl3l_currencyfutures_cad
+sl3l_currency_futures_sw3
+sl3l_currencyfutures_whitendrift
+sl3l_currencyfutures_whitendrift_sw2
+sl3l_currencyfutures_whitendrift_sw3
+sl3l_eurcad
+sl3l_eurgbp
+sl3l_eurgbp_sw1
+sl3l_eurgbp_sw3
+sl3l_eurgbp_whitendrift_sw1
+sl3l_eurgbp_whitendrift_sw3
+slrd_6E_test
+slrl_allmodels_672space_pureSegmentBC_ContinuesContracts_SV_EngineVola
+slrl_allmodels_SegmentABC_noneregulate_ContinuesContracts_ORG_EngineVola
+slrl_allmodels_SegmentABC_noneregulate_ContinuesContracts_SV_EngineVola
+slrl_allmodels_SegmentABC_regulate_ContinuesContracts_ORG_EngineVola
+slrl_allmodels_SegmentABC_regulate_ContinuesContracts_ORG_EngineVola_RemoveDays
+slrl_allmodels_SegmentABC_regulate_ContinuesContracts_SV_EngineVola
+slrl_allmodels_SegmentABC_regulate_ContinuesContracts_SV_EngineVola_sw15
+slrl_allmodels_SegmentA_noneregulate_ContinuesContracts_SV_SegmentVola
+slrl_allmodels_SegmentA_regulate_ContinuesContracts_SV_SegmentVola_sw1
+slrl_allmodels_SegmentA_regulate_ContinuesContracts_SV_SegmentVola_sw15
+slrl_allmodels_SegmentBC_regulate_ContinuesContracts_SV_EngineVola_sw1
+slrl_allmodels_SegmentBC_regulate_ContinuesContracts_SV_EngineVola_sw15
+slrl_commodities_noneregulate_SV_EngineVola
+slrl_extended_SegmentA_noneregulate_SV_SegmentVola
+slrl_extended_SegmentA_noneregulate_SV_SegmentVola_sw15
+slrl_fx_test
+slrl_JPYspotFXmodels_JPYpairs_regulate_SV_SegmentVola
+slrl_MinimalSpotFXmodels_JPYpairs_regulate
+slrl_rty_SegmentA_noneregulate_SV_SegmentVola
+slrl_SpotFXmodels_JPYpairs_regulate
+slrl_Static_EURGBP_regulate_SV_EngineVola
+slrl_Static_SegmentABC_noneregulate_SV_EngineVola
+slrl_Static_SegmentABC_regulate_SV_EngineVola
+slsl_currencyfutures
+slsl_currencyfutures_6j_SV
+slsl_equityindexfutures
+slsl_equityindexfutures_RTY_ORG
+slsl_equityindexfutures_whitendrift
+slsl_eustirscurve_whitendrift
+slsl_fixedincomecurve1_whitendrift
+slsl_fixedincomecurve2_limliq3600
+slsl_fixedincomecurve3_limliq3600
+slsl_fixedincomecurve4_limliq3600
+slsl_fixedincomecurve5_limliq3600
+slsl_fixedincomecurve6_limliq3600
+slsl_fixedincomecurve7_limliq3600
+slsl_fixedincomecurve_cad_limliq3600
+slsl_fixedincomecurve_limliq3600
+slsl_fixedincomefutures
+slsl_fixedincomefutures_cad
+slsl_fixedincomefutures_cad_SV
+slsl_fixedincomefutures_whitendrift
+slsl_jpypairs_whitendrift
+slsl_jpypairs_whitendrift_sw1
+slsl_jpypairs_whitendrift_sw3
+slsl_ukstirscurve_whitendrift
+slsl_usstirscurve_whitendrift
+STATS
+t
+tempscripts
+t.sh
+txDate
+WQmodels_to_simulate_1strun.def
+(env27)/dat/matterhorn/production/productionlog $ ls
+morningRelease             productionportfolio_INIT  ReleaseFinished20211023
+productionportfolio        productionportfolio_SLRL  ReleaseFinished20211026
+productionportfolio_CAD    Release20211023           ReleaseFinished20211027
+productionportfolio_CURVE  Release20211026
+productionportfolio_FX     Release20211027
+(env27)/dat/matterhorn/production/reconciliation $ ls
+20200514             productionportfolio_CAD    productionportfolio_SLRL  TOTALRES_THEO
+getpnl.sh            productionportfolio_CURVE  TOTALRES_PROD
+productionportfolio  productionportfolio_INIT   TOTALRES_SIM
+

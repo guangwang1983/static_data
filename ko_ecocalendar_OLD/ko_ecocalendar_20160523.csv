@@ -1,0 +1,26 @@
+USD_CentralBankSpeech;20160523;22:30;Fed Harker speech;United States;USD;1
+USD_Auction;20160523;15:30;6-Month Bill Auction;United States;USD;1
+EUR_EurConsumerConfidence;20160523;14:00;Consumer Confidence;European Monetary Union;EUR;1
+USD_MarkitManufacturingPMI;20160523;13:45;Markit Manufacturing PMI;United States;USD;2
+RUB_UnemploymentRate;20160523;13:00;Unemployment Rate;Russia;RUB;1
+HKD_ConsumerPriceIndex;20160523;08:30;Consumer Price Index;Hong Kong SAR;HKD;1
+EUR_EurMarkitPMIComposite;20160523;08:00;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitManufacturingPMI;20160523;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20160523;08:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_NetConsumerConfidenceAdj;20160523;07:30;Consumer Confidence Adj;Netherlands, The;EUR;1
+EUR_NetConsumerSpendingVolume;20160523;07:30;Consumer Spending Volume;Netherlands, The;EUR;1
+EUR_GerMarkitPMIComposite;20160523;07:30;Markit PMI Composite;Germany;EUR;1
+EUR_GerMarkitManufacturingPMI;20160523;07:30;Markit Manufacturing PMI;Germany;EUR;2
+EUR_GerMarkitServicesPMI;20160523;07:30;Markit Services PMI;Germany;EUR;1
+TRY_ConsumerConfidence;20160523;07:00;Consumer Confidence;Turkey;TRY;1
+DKK_ConsumerConfidence;20160523;07:00;Consumer Confidence;Denmark;DKK;1
+EUR_FraMarkitManufacturingPMI;20160523;07:00;Markit Manufacturing PMI;France;EUR;1
+EUR_FraMarkitPMIComposite;20160523;07:00;Markit PMI Composite;France;EUR;1
+EUR_FraMarkitServicesPMI;20160523;07:00;Markit Services PMI;France;EUR;1
+SGD_ConsumerPriceIndex;20160523;05:00;Consumer Price Index (YoY);Singapore;SGD;1
+JPY_CoincidentIndex;20160523;05:00;Coincident Index;Japan;JPY;2
+JPY_LeadingEconomicIndex;20160523;05:00;Leading Economic Index;Japan;JPY;2
+JPY_AllIndustryActivityIndex;20160523;04:30;All Industry Activity Index (MoM);Japan;JPY;2
+JPY_NikkeiManufacturingPMI;20160523;02:00;Nikkei Manufacturing PMI;Japan;JPY;2
+JPY_CentralBankSpeech;20160523;01:30;BoJ Nakaso speech;Japan;JPY;1
+CAD_VictoriaDay;20160523;00:00;Victoria Day;Canada;CAD;0

@@ -1,0 +1,45 @@
+JPY_CorporateServicePriceIndex;20201223;23:50;Corporate Service Price Index (YoY);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20201223;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20201223;23:50;Foreign Bond Investment;Japan;JPY;1
+CZK_ChristmasEve;20201223;23:00;Christmas Eve ;Czech Republic;CZK;0
+EUR_SloChristmasEve;20201223;23:00;Christmas Eve ;Slovakia;EUR;0
+SEK_ChristmasEve;20201223;22:00;Christmas Eve ;Sweden;SEK;0
+DKK_ChristmasEve;20201223;22:00;Christmas Eve ;Denmark;DKK;0
+EUR_FinChristmasEve;20201223;21:00;Christmas Eve;Finland;EUR;0
+USD_EIANaturalGasStorageChange;20201223;17:00;EIA Natural Gas Storage Change;United States;USD;1
+IDR_CutiBersama;20201223;17:00;Cuti Bersama;Indonesia;IDR;0
+USD_EIACrudeOilStocksChange;20201223;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_MichiganConsumerSentimentIndex;20201223;15:00;Michigan Consumer Sentiment Index;United States;USD;2
+USD_NewHomeSales;20201223;15:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20201223;15:00;New Home Sales Change (MoM);United States;USD;1
+CHF_SNBQuarterlyBulletin;20201223;14:00;SNB Quarterly Bulletin;Switzerland;CHF;2
+USD_CorePersonalConsumptionExpenditurePriceIndex;20201223;13:30;Core Personal Consumption Expenditure - Price Index (MoM);United States;USD;2
+USD_PersonalConsumptionExpendituresPriceIndex;20201223;13:30;Personal Consumption Expenditures - Price Index (YoY);United States;USD;1
+USD_PersonalIncome;20201223;13:30;Personal Income (MoM);United States;USD;2
+USD_PersonalSpending;20201223;13:30;Personal Spending;United States;USD;2
+USD_JoblessClaims;20201223;13:30;Initial Jobless Claims 4-week average;United States;USD;2
+CAD_GrossDomesticProduct;20201223;13:30;Gross Domestic Product (MoM);Canada;CAD;2
+USD_NondefenseCapitalGoodsOrdersexAircraft;20201223;13:30;Nondefense Capital Goods Orders ex Aircraft;United States;USD;3
+USD_DurableGoodsOrders;20201223;13:30;Durable Goods Orders;United States;USD;3
+MXN_1sthalfmonthInflation;20201223;12:00;1st half-month Inflation;Mexico;MXN;1
+MXN_1sthalfmonthCoreInflation;20201223;12:00;1st half-month Core Inflation;Mexico;MXN;1
+EUR_BelConsumerPriceIndex;20201223;10:30;Consumer Price Index (MoM);Belgium;EUR;1
+EUR_ItaBusinessConfidence;20201223;09:00;Business Confidence;Italy;EUR;1
+EUR_ItaConsumerConfidence;20201223;09:00;Consumer Confidence;Italy;EUR;1
+PLN_Unemployment;20201223;09:00;Unemployment (MoM);Poland;PLN;1
+EUR_SpaGrossDomesticProduct;20201223;08:00;Gross Domestic Product (YoY);Spain;EUR;1
+EUR_AusIndustrialProduction;20201223;08:00;Industrial Production (YoY);Austria;EUR;1
+EUR_FraProducerPrices;20201223;07:45;Producer Prices (MoM);France;EUR;1
+THB_BoTInterestRateDecision;20201223;07:05;BoT Interest Rate Decision;Thailand;THB;1
+EUR_GerImportPriceIndex;20201223;07:00;Import Price Index (MoM);Germany;EUR;1
+DKK_GrossDomesticProduct;20201223;07:00;Gross Domestic Product (YoY);Denmark;DKK;1
+EUR_FinProducerPriceIndex;20201223;06:00;Producer Price Index (YoY);Finland;EUR;1
+EUR_FinImportPrices;20201223;06:00;Import Prices (YoY);Finland;EUR;1
+EUR_FinExportPrices;20201223;06:00;Export Prices (YoY);Finland;EUR;1
+SGD_ConsumerPriceIndex;20201223;05:00;Consumer Price Index (YoY);Singapore;SGD;1
+JPY_LeadingEconomicIndex;20201223;05:00;Leading Economic Index;Japan;JPY;2
+JPY_CoincidentIndex;20201223;05:00;Coincident Index;Japan;JPY;1
+AUD_PrivateSectorCredit;20201223;00:30;Private Sector Credit (YoY);Australia;AUD;1
+AUD_Imports;20201223;00:30;Imports (MoM);Australia;AUD;2
+AUD_Exports;20201223;00:30;Exports (MoM);Australia;AUD;2
+AUD_TradeBalance;20201223;00:30;Trade Balance (MoM);Australia;AUD;3

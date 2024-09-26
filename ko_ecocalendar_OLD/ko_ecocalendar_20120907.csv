@@ -1,0 +1,63 @@
+CAD_CentralBankSpeech;20120907;15:40;BoC Governor Carney speech;Canada;CAD;2
+GBP_NIESRGDPEstimate;20120907;14:00;NIESR GDP Estimate (3M);United Kingdom;GBP;3
+MXN_CentralBankInterestRate;20120907;14:00;Central Bank Interest Rate;Mexico;MXN;1
+CAD_IveyPurchasingManagersIndex;20120907;14:00;Ivey Purchasing Managers Index s.a;Canada;CAD;1
+MXN_12MonthInflation;20120907;13:00;12-Month Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20120907;13:00;Headline Inflation;Mexico;MXN;1
+MXN_CoreInflation;20120907;13:00;Core Inflation;Mexico;MXN;1
+CAD_LaborProductivity;20120907;12:30;Labor Productivity (QoQ);Canada;CAD;1
+USD_NonfarmPayrolls;20120907;12:30;Nonfarm Payrolls;United States;USD;3
+USD_AverageHourlyEarnings;20120907;12:30;Average Hourly Earnings (MoM);United States;USD;2
+USD_UnemploymentRate;20120907;12:30;Unemployment Rate;United States;USD;3
+USD_AverageWeeklyHours;20120907;12:30;Average Weekly Hours;United States;USD;1
+CAD_BuildingPermits;20120907;12:30;Building Permits (MoM);Canada;CAD;1
+CLP_TradeBalance;20120907;12:30;Trade Balance;Chile;CLP;1
+CAD_ParticipationRate;20120907;12:30;Participation Rate;Canada;CAD;2
+CAD_NetChangeinEmployment;20120907;12:30;Net Change in Employment;Canada;CAD;3
+CAD_UnemploymentRate;20120907;12:30;Unemployment Rate;Canada;CAD;3
+PLN_CentralBankFXReserves;20120907;12:00;Central Bank FX Reserves;Poland;PLN;1
+CLP_ConsumerPriceIndex;20120907;12:00;Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+INR_BankLoanGrowth;20120907;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20120907;11:30;FX Reserves, USD;India;INR;1
+EUR_GerIndustrialProduction;20120907;10:00;Industrial Production s.a. (MoM);Germany;EUR;1
+EUR_PorGrossDomesticProduct;20120907;10:00;Gross Domestic Product (YoY);Portugal;EUR;1
+ISK_GrossDomesticProduct;20120907;09:00;Gross Domestic Product (QoQ);Iceland;ISK;1
+EUR_GreGrossDomesticProduct;20120907;09:00;Gross Domestic Product s.a (YoY);Greece;EUR;1
+GBP_ConsumerInflationExpectations;20120907;08:30;Consumer Inflation Expectations;United Kingdom;GBP;3
+GBP_ManufacturingProduction;20120907;08:30;Manufacturing Production (MoM);United Kingdom;GBP;1
+GBP_IndustrialProduction;20120907;08:30;Industrial Production (YoY);United Kingdom;GBP;2
+GBP_ProducerPriceIndex;20120907;08:30;Producer Price Index - Output (YoY) n.s.a;United Kingdom;GBP;2
+GBP_PPICoreOutput;20120907;08:30;PPI Core Output (YoY) n.s.a ;United Kingdom;GBP;2
+NOK_CurrentAccount;20120907;08:00;Current Account;Norway;NOK;1
+NOK_ManufacturingOutput;20120907;08:00;Manufacturing Output;Norway;NOK;1
+EUR_AusTradeBalance;20120907;08:00;Trade Balance;Austria;EUR;1
+CZK_FXReserves;20120907;08:00;FX Reserves;Czech Republic;CZK;1
+HUF_GrossDomesticProduct;20120907;08:00;Gross Domestic Product (YoY);Hungary;HUF;1
+EUR_AusWholesalePrices;20120907;07:30;Wholesale Prices n.s.a (MoM);Austria;EUR;1
+EUR_NetManufacturingOutput;20120907;07:30;Manufacturing Output (MoM);Netherlands, The;EUR;1
+EUR_SloForeignTradeBalance;20120907;07:00;Foreign Trade Balance;Slovakia;EUR;1
+HUF_IndustrialOutput;20120907;07:00;Industrial Output (YoY);Hungary;HUF;1
+SGD_ForeignReserves;20120907;07:00;Foreign Reserves (MoM);Singapore;SGD;1
+CHF_ForeignCurrencyReserves;20120907;07:00;Foreign Currency Reserves;Switzerland;CHF;1
+EUR_SpaIndustrialOutputCalAdjusted;20120907;07:00;Industrial Output Cal Adjusted (YoY);Spain;EUR;1
+DKK_IndustrialProduction;20120907;07:00;Industrial Production (MoM);Denmark;DKK;1
+CZK_GrossDomesticProduct;20120907;07:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+EUR_FraTradeBalanceEUR;20120907;06:45;Trade Balance EUR;France;EUR;1
+EUR_FraImportsEUR;20120907;06:45;Imports, EUR;France;EUR;1
+EUR_FraExportsEUR;20120907;06:45;Exports, EUR;France;EUR;1
+EUR_FraBudget;20120907;06:45;Budget;France;EUR;1
+EUR_FinTradeBalance;20120907;06:00;Trade Balance;Finland;EUR;1
+EUR_GerCurrentAccount;20120907;06:00;Current Account n.s.a.;Germany;EUR;1
+EUR_GerExports;20120907;06:00;Exports (MoM);Germany;EUR;1
+EUR_GerTradeBalance;20120907;06:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerImports;20120907;06:00;Imports (MoM);Germany;EUR;1
+ZAR_Net$Gold&ForexReserve;20120907;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+ZAR_Gross$Gold&ForexReserve;20120907;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+CHF_UnemploymentRate;20120907;05:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+JPY_CoincidentIndex;20120907;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20120907;05:00;Leading Economic Index;Japan;JPY;2
+AUD_TradeBalance;20120907;01:30;Trade Balance;Australia;AUD;2
+AUD_Imports;20120907;00:30;Imports;Australia;AUD;1
+AUD_Exports;20120907;00:30;Exports;Australia;AUD;1
+RUB_ForeignTrade;20120907;00:00;Foreign Trade;Russia;RUB;1
+BRL_IndependenceDay;20120907;00:00;Independence Day;Brazil;BRL;0

@@ -1,0 +1,34 @@
+AUD_ConsumerInflationExpectations;20230810;01:00;Consumer Inflation Expectations;Australia;AUD;2
+INR_ReverseRepoRate;20230810;04:30;Reverse Repo Rate;India;INR;1
+INR_RBIInterestRateDecision;20230810;04:30;RBI Interest Rate Decision (Repo Rate);India;INR;2
+DKK_ConsumerPriceIndex;20230810;06:00;Consumer Price Index (YoY);Denmark;DKK;1
+DKK_Inflation;20230810;06:00;Inflation (HICP) (YoY);Denmark;DKK;1
+NOK_ConsumerPriceIndex;20230810;06:00;Consumer Price Index (YoY);Norway;NOK;1
+NOK_CoreInflation;20230810;06:00;Core Inflation (MoM);Norway;NOK;1
+NOK_ProducerPriceIndex;20230810;06:00;Producer Price Index (YoY);Norway;NOK;1
+SEK_IndustrialProductionValue;20230810;06:00;Industrial Production Value (MoM);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20230810;06:00;New Orders Manufacturing (YoY);Sweden;SEK;1
+CNY_M2MoneySupply;20230810;07:00;M2 Money Supply (YoY);China;CNY;1
+CNY_NewLoans;20230810;07:00;New Loans;China;CNY;1
+CNY_FDIForeignDirectInvestment;20230810;07:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;1
+TRY_UnemploymentRate;20230810;07:00;Unemployment Rate;Turkey;TRY;1
+TRY_IndustrialProduction;20230810;07:00;Industrial Production (YoY);Turkey;TRY;1
+CZK_ConsumerPriceIndex;20230810;07:00;Consumer Price Index (MoM);Czech Republic;CZK;1
+EUR_ItaConsumerPriceIndex;20230810;08:00;Consumer Price Index (YoY);Italy;EUR;2
+EUR_EurEconomicBulletin;20230810;08:00;Economic Bulletin;European Monetary Union;EUR;2
+ILS_TradeBalance;20230810;10:00;Trade Balance;Israel;ILS;1
+ILS_Exports;20230810;10:00;Exports;Israel;ILS;1
+ILS_Imports;20230810;10:00;Imports;Israel;ILS;1
+ZAR_ManufacturingProductionIndex;20230810;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+INR_M3MoneySupply;20230810;11:30;M3 Money Supply;India;INR;1
+USD_JoblessClaims;20230810;12:30;Initial Jobless Claims;United States;USD;2
+USD_ConsumerPriceIndex;20230810;12:30;Consumer Price Index (MoM);United States;USD;3
+RUB_CentralBankReserves;20230810;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_EIANaturalGasStorageChange;20230810;14:30;EIA Natural Gas Storage Change;United States;USD;1
+JPY_MountainDay;20230810;15:00;Mountain Day;Japan;JPY;0
+USD_Auction;20230810;17:00;30-Year Bond Auction;United States;USD;1
+USD_MonthlyBudgetStatement;20230810;18:00;Monthly Budget Statement;United States;USD;2
+MXN_CentralBankInterestRate;20230810;19:00;Central Bank Interest Rate;Mexico;MXN;2
+USD_CentralBankSpeech;20230810;20:15;Fed Harker speech;United States;USD;2
+NZD_BusinessNZPMI;20230810;22:30;Business NZ PMI;New Zealand;NZD;2
+NZD_FoodPriceIndex;20230810;22:45;Food Price Index (MoM);New Zealand;NZD;1

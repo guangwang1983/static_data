@@ -1,0 +1,39 @@
+AUD_CFTCAUDNCNetPositions;20170127;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+JPY_CFTCJPYNCNetPositions;20170127;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCGoldNCNetPositions;20170127;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCUSDNCNetPositions;20170127;20:30;CFTC USD NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20170127;20:30;CFTC Oil NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20170127;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+GBP_CFTCGBPNCNetPositions;20170127;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+COP_Interestrate;20170127;20:00;Interest rate;Colombia;COP;1
+USD_BakerHughesUSOilRigCount;20170127;18:00;Baker Hughes US Oil Rig Count;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20170127;15:00;Michigan Consumer Sentiment Index;United States;USD;1
+USD_TrumpMaymeeting;20170127;15:00;Trump - May meeting;United States;USD;3
+USD_GrossDomesticProduct;20170127;13:30;Gross Domestic Product Annualized;United States;USD;2
+USD_CorePersonalConsumptionExpenditures;20170127;13:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+USD_PersonalConsumptionExpendituresPrices;20170127;13:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+USD_DurableGoodsOrders;20170127;13:30;Durable Goods Orders ex Transportation;United States;USD;2
+RUB_ProducerPriceIndex;20170127;13:22;Producer Price Index (YoY);Russia;RUB;1
+EUR_EurEcoFinMeeting;20170127;12:00;EcoFin Meeting;European Monetary Union;EUR;2
+INR_FXReservesUSD;20170127;11:30;FX Reserves, USD;India;INR;1
+EUR_IreRetailSales;20170127;11:00;Retail Sales (MoM);Ireland;EUR;1
+EUR_ItaWageInflation;20170127;10:00;Wage Inflation (MoM);Italy;EUR;1
+ISK_ConsumerPriceIndex;20170127;10:00;Consumer Price Index (YoY);Iceland;ISK;1
+EUR_ItaBusinessConfidence;20170127;09:00;Business Confidence;Italy;EUR;1
+EUR_ItaConsumerConfidence;20170127;09:00;Consumer Confidence;Italy;EUR;1
+EUR_EurM3MoneySupply;20170127;09:00;M3 Money Supply (YoY);European Monetary Union;EUR;1
+EUR_EurPrivateLoans;20170127;09:00;Private Loans (YoY);European Monetary Union;EUR;1
+SEK_RetailSales;20170127;08:30;Retail Sales (YoY);Sweden;SEK;1
+EUR_AusGrossDomesticProduct;20170127;08:00;Gross Domestic Product (QoQ);Austria;EUR;1
+SEK_ConsumerConfidence;20170127;08:00;Consumer Confidence (MoM);Sweden;SEK;1
+EUR_SpaRetailSales;20170127;08:00;Retail Sales (YoY);Spain;EUR;1
+EUR_FraConsumerConfidence;20170127;07:45;Consumer Confidence;France;EUR;1
+EUR_FinConsumerConfidence;20170127;07:01;Consumer Confidence;Finland;EUR;1
+EUR_GerImportPriceIndex;20170127;07:00;Import Price Index (YoY);Germany;EUR;1
+EUR_FinIndustrialConfidence;20170127;07:00;Industrial Confidence;Finland;EUR;1
+TRY_ForeignArrivals;20170127;06:00;Foreign Arrivals;Turkey;TRY;1
+AUD_ExportPriceIndex;20170127;00:30;Export Price Index (QoQ);Australia;AUD;1
+AUD_ImportPriceIndex;20170127;00:30;Import Price Index (QoQ);Australia;AUD;1
+AUD_ProducerPriceIndex;20170127;00:30;Producer Price Index (QoQ);Australia;AUD;1
+KRW_KoreanNewYear;20170127;00:00;Korean New Year ;South Korea;KRW;0
+CNY_ChineseNewYearEve;20170127;00:00;Chinese New Year Eve ;China;CNY;0

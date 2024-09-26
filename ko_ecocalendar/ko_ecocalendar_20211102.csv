@@ -1,0 +1,38 @@
+BRL_AllSoulsDay;20211102;03:00;All Souls Day;Brazil;BRL;0
+AUD_RBARateStatement;20211102;03:30;RBA Rate Statement;Australia;AUD;3
+AUD_RBAInterestRateDecision;20211102;03:30;RBA Interest Rate Decision;Australia;AUD;3
+AUD_CentralBankSpeech;20211102;05:50;RBA Debelle speech;Australia;AUD;2
+MXN_DayoftheDead;20211102;06:00;Day of the Dead ;Mexico;MXN;0
+CHF_RetailSales;20211102;07:30;Real Retail Sales (YoY);Switzerland;CHF;2
+CHF_ConsumerPriceIndex;20211102;07:30;Consumer Price Index (YoY);Switzerland;CHF;1
+HUF_PurchasingManagerIndex;20211102;08:00;Purchasing Manager Index;Hungary;HUF;1
+HUF_ProducerPriceIndex;20211102;08:00;Producer Price Index (YoY);Hungary;HUF;1
+HUF_TradeBalance;20211102;08:00;Trade Balance;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20211102;08:00;Purchasing Manager Index;Poland;PLN;2
+EUR_ItaHCOBManufacturingPMI;20211102;08:45;HCOB Manufacturing PMI;Italy;EUR;2
+EUR_FraHCOBManufacturingPMI;20211102;08:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerHCOBManufacturingPMI;20211102;08:55;HCOB Manufacturing PMI;Germany;EUR;2
+EUR_EurHCOBManufacturingPMI;20211102;09:00;HCOB Manufacturing PMI;European Monetary Union;EUR;1
+EUR_EurCentralBankSpeech;20211102;11:20;ECB Elderson speech;European Monetary Union;EUR;2
+CLP_IMACEC;20211102;11:30;IMACEC;Chile;CLP;1
+ZAR_TotalNewVehicleSales;20211102;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+CAD_BuildingPermits;20211102;12:30;Building Permits (MoM);Canada;CAD;1
+USD_RedbookIndex;20211102;12:55;Redbook Index (YoY);United States;USD;1
+CLP_Unemploymentrate;20211102;13:00;Unemployment rate;Chile;CLP;1
+USD_IBDTIPPEconomicOptimism;20211102;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+NZD_GDTPriceIndex;20211102;14:02;GDT Price Index;New Zealand;NZD;1
+JPY_CultureDay;20211102;15:00;Culture Day;Japan;JPY;0
+USD_Auction;20211102;15:30;52-Week Bill Auction;United States;USD;1
+DKK_CurrencyReserves;20211102;16:00;Currency Reserves;Denmark;DKK;1
+NZD_RBNZFinancialStabilityReport;20211102;20:00;RBNZ Financial Stability Report;New Zealand;NZD;2
+USD_TotalVehicleSales;20211102;20:30;Total Vehicle Sales;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20211102;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_FXReserves;20211102;21:00;FX Reserves;South Korea;KRW;1
+AUD_AiGPerformanceofConstructionIndex;20211102;21:30;AiG Performance of Construction Index;Australia;AUD;2
+NZD_ParticipationRate;20211102;21:45;Participation Rate;New Zealand;NZD;2
+NZD_EmploymentChange;20211102;21:45;Employment Change;New Zealand;NZD;3
+NZD_UnemploymentRate;20211102;21:45;Unemployment Rate;New Zealand;NZD;3
+NZD_LabourCostIndex;20211102;21:45;Labour Cost Index (YoY);New Zealand;NZD;1
+NZD_CentralBankSpeech;20211102;22:00;RBNZ Governor Orr speech;New Zealand;NZD;2
+AUD_S&PGlobalServicesPMI;20211102;22:00;S&P Global Services PMI;Australia;AUD;2
+AUD_S&PGlobalCompositePMI;20211102;22:00;S&P Global Composite PMI;Australia;AUD;1

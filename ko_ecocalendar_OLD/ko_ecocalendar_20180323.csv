@@ -1,0 +1,30 @@
+USD_CentralBankSpeech;20180323;23:00;Fed Rosengren speech;United States;USD;2
+USD_CFTCUSDNCNetPositions;20180323;19:30;CFTC USD NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20180323;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCGoldNCNetPositions;20180323;19:30;CFTC Gold NC Net Positions;United States;USD;1
+AUD_CFTCAUDNCNetPositions;20180323;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCOilNCNetPositions;20180323;19:30;CFTC Oil NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20180323;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+GBP_CFTCGBPNCNetPositions;20180323;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_BakerHughesUSOilRigCount;20180323;17:00;Baker Hughes US Oil Rig Count;United States;USD;2
+USD_NewHomeSalesChange;20180323;14:00;New Home Sales Change (MoM);United States;USD;1
+USD_NewHomeSales;20180323;14:00;New Home Sales (MoM);United States;USD;2
+BRL_CurrentAccount;20180323;13:30;Current Account;Brazil;BRL;1
+USD_NondefenseCapitalGoodsOrdersexAircraft;20180323;13:30;Nondefense Capital Goods Orders ex Aircraft;United States;USD;3
+GBP_CentralBankSpeech;20180323;12:30;BoE Vlieghe speech;United Kingdom;GBP;2
+CAD_RetailSales;20180323;12:30;Retail Sales ex Autos (MoM);Canada;CAD;2
+USD_DurableGoodsOrders;20180323;12:30;Durable Goods Orders ex Transportation;United States;USD;2
+CAD_ConsumerPriceIndex;20180323;12:30;Consumer Price Index (YoY);Canada;CAD;2
+GBP_BoEQuarterlyBulletin;20180323;12:00;BoE Quarterly Bulletin;United Kingdom;GBP;1
+BRL_MidmonthInflation;20180323;12:00;Mid-month Inflation;Brazil;BRL;1
+INR_FXReservesUSD;20180323;11:30;FX Reserves, USD;India;INR;1
+RUB_Interestratedecision;20180323;10:30;Interest rate decision;Russia;RUB;2
+PLN_Unemployment;20180323;09:00;Unemployment (MoM);Poland;PLN;1
+EUR_GreCurrentAccount;20180323;09:00;Current Account (YoY);Greece;EUR;1
+CZK_ForeignDebt;20180323;09:00;Foreign Debt;Czech Republic;CZK;1
+NOK_RegisteredUnemployment;20180323;09:00;Registered Unemployment n.s.a;Norway;NOK;1
+EUR_AusIndustrialProduction;20180323;08:00;Industrial Production (YoY);Austria;EUR;1
+HUF_CurrentAccount;20180323;07:30;Current Account Balance (QoQ);Hungary;HUF;1
+DKK_RetailSales;20180323;07:00;Retail Sales (YoY);Denmark;DKK;1
+SGD_ConsumerPriceIndex;20180323;05:00;Consumer Price Index (YoY);Singapore;SGD;1
+EUR_EurEuropeanCouncilMeeting;20180323;00:00;European Council Meeting;European Monetary Union;EUR;2

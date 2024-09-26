@@ -1,0 +1,11 @@
+USD_NAHBHousingMarketIndex;20090717;17:00;NAHB Housing Market Index;United States;USD;1
+USD_HousingStarts;20090717;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20090717;12:30;Building Permits (MoM);United States;USD;2
+CAD_LeadingIndicators;20090717;12:30;Leading Indicators (MoM);Canada;CAD;1
+CAD_ConsumerPriceIndex;20090717;11:00;Consumer Price Index (MoM);Canada;CAD;2
+EUR_EurTradeBalance;20090717;09:00;Trade Balance s.a.;European Monetary Union;EUR;1
+EUR_EurConstructionOutput;20090717;09:00;Construction Output w.d.a (YoY);European Monetary Union;EUR;1
+JPY_LeadingEconomicIndex;20090717;05:00;Leading Economic Index;Japan;JPY;2
+JPY_CoincidentIndex;20090717;05:00;Coincident Index;Japan;JPY;1
+AUD_ExportPriceIndex;20090717;01:30;Export Price Index (QoQ);Australia;AUD;1
+AUD_ImportPriceIndex;20090717;01:30;Import Price Index (QoQ);Australia;AUD;1

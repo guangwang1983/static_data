@@ -1,0 +1,18 @@
+GBP_PublicSectorNetBorrowing;20230822;06:00;Public Sector Net Borrowing;United Kingdom;GBP;1
+CHF_Exports;20230822;06:00;Exports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20230822;06:00;Trade Balance;Switzerland;CHF;1
+CHF_Imports;20230822;06:00;Imports (MoM);Switzerland;CHF;1
+NOK_GrossDomesticProduct;20230822;06:00;Gross Domestic Product Growth;Norway;NOK;1
+PLN_RetailSales;20230822;08:00;Retail Sales (YoY);Poland;PLN;1
+EUR_EurCurrentAccount;20230822;08:00;Current Account n.s.a;European Monetary Union;EUR;1
+USD_RedbookIndex;20230822;12:55;Redbook Index (YoY);United States;USD;1
+USD_ExistingHomeSales;20230822;14:00;Existing Home Sales (MoM);United States;USD;1
+USD_ExistingHomeSalesChange;20230822;14:00;Existing Home Sales Change (MoM);United States;USD;2
+USD_RichmondFedManufacturingIndex;20230822;14:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_CentralBankSpeech;20230822;19:30;Fed Goolsbee speech;United States;USD;2
+USD_APIWeeklyCrudeOilStock;20230822;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_BOKManufacturingBSI;20230822;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+NZD_RetailSales;20230822;22:45;Retail Sales (QoQ);New Zealand;NZD;3
+AUD_S&PGlobalManufacturingPMI;20230822;23:00;S&P Global Manufacturing PMI;Australia;AUD;2
+AUD_S&PGlobalServicesPMI;20230822;23:00;S&P Global Services PMI;Australia;AUD;2
+AUD_S&PGlobalCompositePMI;20230822;23:00;S&P Global Composite PMI;Australia;AUD;2

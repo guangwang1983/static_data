@@ -1,0 +1,33 @@
+JPY_JibunBankServicesPMI;20220823;00:30;Jibun Bank Services PMI;Japan;JPY;1
+JPY_JibunBankManufacturingPMI;20220823;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+DKK_ConsumerConfidence;20220823;06:00;Consumer Confidence;Denmark;DKK;1
+TRY_ConsumerConfidence;20220823;07:00;Consumer Confidence;Turkey;TRY;1
+IDR_BankIndonesiaRate;20220823;07:00;Bank Indonesia Rate;Indonesia;IDR;1
+EUR_FraHCOBManufacturingPMIPreliminar;20220823;07:15;HCOB Manufacturing PMI;France;EUR;2
+EUR_FraHCOBServicesPMI;20220823;07:15;HCOB Services PMI;France;EUR;2
+EUR_FraHCOBCompositePMI;20220823;07:15;HCOB Composite PMI;France;EUR;2
+EUR_GerHCOBCompositePMI;20220823;07:30;HCOB Composite PMI;Germany;EUR;3
+EUR_GerHCOBManufacturingPMIPreliminar;20220823;07:30;HCOB Manufacturing PMI;Germany;EUR;3
+EUR_GerHCOBServicesPMI;20220823;07:30;HCOB Services PMI;Germany;EUR;2
+EUR_EurHCOBServicesPMI;20220823;08:00;HCOB Services PMI;European Monetary Union;EUR;2
+EUR_EurHCOBManufacturingPMIPreliminar;20220823;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurHCOBCompositePMI;20220823;08:00;HCOB Composite PMI;European Monetary Union;EUR;3
+GBP_S&PGlobalCIPSCompositePMI;20220823;08:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSServicesPMI;20220823;08:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;3
+GBP_S&PGlobalCIPSManufacturingPMIPreliminar;20220823;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+ZAR_UnemploymentRate;20220823;09:30;Unemployment Rate (%);South Africa;ZAR;1
+ZAR_UnemploymentTotal;20220823;09:30;Unemployment Total ;South Africa;ZAR;1
+EUR_EurCentralBankSpeech;20220823;11:00;ECB Panetta speech;European Monetary Union;EUR;2
+PLN_M3MoneySupply;20220823;12:00;M3 Money Supply (YoY);Poland;PLN;1
+USD_RedbookIndex;20220823;12:55;Redbook Index (YoY);United States;USD;1
+USD_S&PGlobalManufacturingPMI;20220823;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20220823;13:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20220823;13:45;S&P Global Services PMI;United States;USD;2
+USD_NewHomeSales;20220823;14:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20220823;14:00;New Home Sales Change (MoM);United States;USD;1
+EUR_EurConsumerConfidence;20220823;14:00;Consumer Confidence;European Monetary Union;EUR;2
+USD_RichmondFedManufacturingIndex;20220823;14:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_Auction;20220823;17:00;2-Year Note Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20220823;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_BOKManufacturingBSI;20220823;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+USD_CentralBankSpeech;20220823;23:00;Fed Kashkari speech;United States;USD;2

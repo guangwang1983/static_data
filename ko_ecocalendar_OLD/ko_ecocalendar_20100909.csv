@@ -1,0 +1,17 @@
+JPY_DomesticCorporateGoodsPriceIndex;20100909;23:50;Domestic Corporate Goods Price Index (YoY);Japan;JPY;1
+JPY_GrossDomesticProduct;20100909;23:50;Gross Domestic Product (QoQ);Japan;JPY;1
+NZD_TermsofTradeIndex;20100909;22:45;Terms of Trade Index;New Zealand;NZD;2
+USD_EIACrudeOilStocksChange;20100909;15:00;EIA Crude Oil Stocks Change;United States;USD;1
+USD_TradeBalance;20100909;12:30;Trade Balance;United States;USD;2
+USD_JoblessClaims;20100909;12:30;Continuing Jobless Claims;United States;USD;2
+CAD_InternationalMerchandiseTrade;20100909;12:30;International Merchandise Trade;Canada;CAD;2
+CAD_NewHousingPriceIndex;20100909;12:30;New Housing Price Index (MoM);Canada;CAD;2
+CAD_HousingStarts;20100909;12:15;Housing Starts s.a (YoY);Canada;CAD;2
+GBP_BoEInterestRateDecision;20100909;11:00;BoE Interest Rate Decision;United Kingdom;GBP;2
+GBP_GoodsTradeBalance;20100909;08:30;Goods Trade Balance;United Kingdom;GBP;2
+GBP_TradeBalancenonEU;20100909;08:30;Trade Balance non-EU;United Kingdom;GBP;2
+EUR_EurECBMonthlyReport;20100909;08:00;ECB Monthly Report;European Monetary Union;EUR;1
+EUR_GerConsumerPriceIndex;20100909;06:00;Consumer Price Index (MoM);Germany;EUR;2
+JPY_ConsumerConfidenceIndex;20100909;05:00;Consumer Confidence Index;Japan;JPY;1
+AUD_EmploymentChange;20100909;01:30;Employment Change s.a.;Australia;AUD;2
+AUD_UnemploymentRate;20100909;01:30;Unemployment Rate s.a.;Australia;AUD;2

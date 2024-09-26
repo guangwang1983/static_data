@@ -1,0 +1,33 @@
+AUD_WestpacLeadingIndex;20220622;00:30;Westpac Leading Index (MoM);Australia;AUD;1
+NZD_CreditCardSpending;20220622;02:00;Credit Card Spending (YoY);New Zealand;NZD;1
+DKK_ConsumerConfidence;20220622;06:00;Consumer Confidence;Denmark;DKK;1
+GBP_RetailPriceIndex;20220622;06:00;Retail Price Index (YoY);United Kingdom;GBP;2
+GBP_PPICoreOutput;20220622;06:00;PPI Core Output (YoY) n.s.a ;United Kingdom;GBP;2
+GBP_ProducerPriceIndex;20220622;06:00;Producer Price Index - Input (YoY) n.s.a;United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20220622;06:00;Consumer Price Index (YoY);United Kingdom;GBP;3
+SEK_UnemploymentRate;20220622;06:00;Unemployment Rate;Sweden;SEK;1
+HUF_CurrentAccount;20220622;06:30;Current Account Balance (QoQ);Hungary;HUF;1
+TRY_ConsumerConfidence;20220622;07:00;Consumer Confidence;Turkey;TRY;1
+EUR_EurNonMonetaryPolicyECBMeeting;20220622;07:00;Non-Monetary Policy ECB Meeting;European Monetary Union;EUR;1
+EUR_EurCentralBankSpeech;20220622;07:35;ECB Elderson speech;European Monetary Union;EUR;2
+PLN_RetailSales;20220622;08:00;Retail Sales (YoY);Poland;PLN;1
+ZAR_ConsumerPriceIndex;20220622;08:00;Consumer Price Index (YoY);South Africa;ZAR;1
+GBP_DCLGHousePriceIndex;20220622;08:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_CentralBankSpeech;20220622;08:40;BoE Cunliffe speech;United Kingdom;GBP;2
+USD_MBAMortgageApplications;20220622;11:00;MBA Mortgage Applications;United States;USD;1
+CZK_CNBInterestRateDecision;20220622;12:30;CNB Interest Rate Decision;Czech Republic;CZK;1
+CAD_ConsumerPriceIndex;20220622;12:30;Consumer Price Index - Core (MoM);Canada;CAD;2
+USD_RedbookIndex;20220622;12:55;Redbook Index (YoY);United States;USD;1
+CHF_SNBQuarterlyBulletin;20220622;13:00;SNB Quarterly Bulletin;Switzerland;CHF;2
+USD_FedChairPowelltestifies;20220622;13:30;Fed Chair Powell testifies;United States;USD;3
+EUR_EurConsumerConfidence;20220622;14:00;Consumer Confidence;European Monetary Union;EUR;2
+USD_EIACrudeOilStocksChange;20220622;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+CAD_CentralBankSpeech;20220622;14:40;BoC Rogers speech;Canada;CAD;2
+RUB_ProducerPriceIndex;20220622;16:00;Producer Price Index (YoY);Russia;RUB;1
+USD_Auction;20220622;17:00;20-Year Bond Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20220622;20:30;API Weekly Crude Oil Stock;United States;USD;1
+AUD_S&PGlobalServicesPMI;20220622;22:00;S&P Global Services PMI;Australia;AUD;2
+AUD_S&PGlobalCompositePMI;20220622;22:00;S&P Global Composite PMI;Australia;AUD;1
+AUD_S&PGlobalManufacturingPMI;20220622;23:00;S&P Global Manufacturing PMI;Australia;AUD;2
+JPY_ForeignBondInvestment;20220622;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20220622;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1

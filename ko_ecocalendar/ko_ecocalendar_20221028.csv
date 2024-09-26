@@ -1,0 +1,51 @@
+AUD_ProducerPriceIndex;20221028;00:30;Producer Price Index (YoY);Australia;AUD;1
+JPY_BoJInterestRateDecision;20221028;03:00;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_BoJMonetaryPolicyStatement;20221028;03:00;BoJ Monetary Policy Statement ;Japan;JPY;3
+JPY_BoJOutlookReport;20221028;03:00;BoJ Outlook Report;Japan;JPY;2
+EUR_FraConsumerSpending;20221028;05:30;Consumer Spending (MoM);France;EUR;1
+EUR_FraGrossDomesticProduct;20221028;05:30;Gross Domestic Product (QoQ);France;EUR;2
+JPY_BoJPressConference;20221028;06:00;BoJ Press Conference;Japan;JPY;3
+SEK_RetailSales;20221028;06:00;Retail Sales (MoM);Sweden;SEK;1
+DKK_IndustrialOutlook;20221028;06:00;Industrial Outlook;Denmark;DKK;1
+NOK_RetailSales;20221028;06:00;Retail Sales ;Norway;NOK;1
+EUR_FraProducerPrices;20221028;06:45;Producer Prices (MoM);France;EUR;1
+EUR_FraConsumerPriceIndex;20221028;06:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+CHF_KOFLeadingIndicator;20221028;07:00;KOF Leading Indicator;Switzerland;CHF;2
+HUF_ProducerPriceIndex;20221028;07:00;Producer Price Index (YoY);Hungary;HUF;1
+EUR_ItaProducerPriceIndex;20221028;08:00;Producer Price Index (YoY);Italy;EUR;1
+EUR_GerGrossDomesticProduct;20221028;08:00;Gross Domestic Product (QoQ);Germany;EUR;3
+NOK_RegisteredUnemployment;20221028;08:00;Registered Unemployment n.s.a;Norway;NOK;1
+EUR_ItaConsumerPriceIndex;20221028;09:00;Consumer Price Index (YoY);Italy;EUR;1
+EUR_EurBusinessClimate;20221028;09:00;Business Climate;European Monetary Union;EUR;2
+EUR_EurEconomicSentimentIndicator;20221028;09:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+EUR_EurIndustrialConfidence;20221028;09:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_EurServicesSentiment;20221028;09:00;Services Sentiment;European Monetary Union;EUR;1
+EUR_EurConsumerConfidence;20221028;09:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_ItaAuction;20221028;09:30;10-y Bond Auction;Italy;EUR;1
+RUB_Interestratedecision;20221028;10:30;Interest rate decision;Russia;RUB;2
+BRL_InflationIndexIGPM;20221028;11:00;Inflation Index/IGP-M;Brazil;BRL;1
+INR_FXReservesUSD;20221028;11:30;FX Reserves, USD;India;INR;1
+CLP_Unemploymentrate;20221028;12:00;Unemployment rate;Chile;CLP;1
+EUR_GerConsumerPriceIndex;20221028;12:00;Consumer Price Index (YoY);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20221028;12:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+CLP_IndustrialProduction;20221028;12:00;Industrial Production (YoY);Chile;CLP;1
+USD_PersonalSpending;20221028;12:30;Personal Spending;United States;USD;2
+USD_CorePersonalConsumptionExpendituresPriceIndex;20221028;12:30;Core Personal Consumption Expenditures - Price Index (YoY);United States;USD;2
+USD_PersonalConsumptionExpendituresPriceIndex;20221028;12:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;1
+USD_PersonalIncome;20221028;12:30;Personal Income (MoM);United States;USD;2
+USD_EmploymentCostIndex;20221028;12:30;Employment Cost Index;United States;USD;1
+CAD_GrossDomesticProduct;20221028;12:30;Gross Domestic Product (MoM);Canada;CAD;2
+USD_UoM5yearConsumerInflationExpectation;20221028;14:00;UoM 5-year Consumer Inflation Expectation;United States;USD;2
+USD_PendingHomeSales;20221028;14:00;Pending Home Sales (YoY);United States;USD;1
+USD_MichiganConsumerSentimentIndex;20221028;14:00;Michigan Consumer Sentiment Index;United States;USD;2
+USD_BakerHughesUSOilRigCount;20221028;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+AUD_CFTCAUDNCNetPositions;20221028;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20221028;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+USD_CFTCS&P500NCNetPositions;20221028;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20221028;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20221028;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20221028;19:30;CFTC Gold NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20221028;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+COP_Interestrate;20221028;20:00;Interest rate;Colombia;COP;1
+MXN_FiscalBalancepesos;20221028;21:00;Fiscal Balance, pesos;Mexico;MXN;1
+TRY_RepublicDay;20221028;23:00;Republic Day ;Turkey;TRY;0

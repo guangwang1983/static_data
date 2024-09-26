@@ -1,0 +1,46 @@
+JPY_DomesticCorporateGoodsPriceIndex;20131010;23:50;Domestic Corporate Goods Price Index (YoY);Japan;JPY;1
+JPY_MoneySupplyM2+CD;20131010;23:50;Money Supply M2+CD (YoY);Japan;JPY;1
+NZD_FoodPriceIndex;20131010;21:45;Food Price Index (MoM);New Zealand;NZD;1
+KRW_ImportPriceGrowth;20131010;21:00;Import Price Growth (YoY);South Korea;KRW;1
+KRW_ExportPriceGrowth;20131010;21:00;Export Price Growth (YoY);South Korea;KRW;1
+USD_CentralBankSpeech;20131010;18:30;Fed Williams speech;United States;USD;1
+USD_Auction;20131010;17:00;30-Year Bond Auction;United States;USD;1
+EUR_EurCentralBankSpeech;20131010;16:20;ECB President Draghi speech;European Monetary Union;EUR;2
+EUR_EurG20FinanceMinistersandCentralBankGovernorsMeeting;20131010;16:00;G20 Finance Ministers and Central Bank Governors Meeting;European Monetary Union;EUR;2
+JPY_CentralBankSpeech;20131010;16:00;BoJ Governor Kuroda speech;Japan;JPY;3
+PEN_Tradebalance;20131010;15:00;Trade balance;Peru;PEN;1
+USD_EIANaturalGasStorageChange;20131010;14:30;EIA Natural Gas Storage Change;United States;USD;1
+RUB_CentralBankReserves;20131010;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_JoblessClaims;20131010;12:30;Initial Jobless Claims;United States;USD;2
+CAD_NewHousingPriceIndex;20131010;12:30;New Housing Price Index (YoY);Canada;CAD;2
+GBP_BoEAssetPurchaseFacility;20131010;11:00;BoE Asset Purchase Facility;United Kingdom;GBP;3
+GBP_BoEInterestRateDecision;20131010;11:00;BoE Interest Rate Decision;United Kingdom;GBP;3
+ZAR_ManufacturingProductionIndex;20131010;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+EUR_IreHICP;20131010;10:00;HICP (YoY);Ireland;EUR;1
+EUR_IreConsumerPriceIndex;20131010;10:00;Consumer Price Index (YoY);Ireland;EUR;1
+EUR_PorConsumerPriceIndex;20131010;10:00;Consumer Price Index (MoM);Portugal;EUR;1
+EUR_GreIndustrialProduction;20131010;09:00;Industrial Production (YoY);Greece;EUR;1
+EUR_GreUnemploymentRate;20131010;09:00;Unemployment Rate (MoM);Greece;EUR;1
+NOK_ConsumerPriceIndex;20131010;08:00;Consumer Price Index (YoY);Norway;NOK;1
+NOK_CoreInflation;20131010;08:00;Core Inflation (MoM);Norway;NOK;1
+EUR_ItaIndustrialOutput;20131010;08:00;Industrial Output w.d.a (YoY);Italy;EUR;1
+EUR_EurECBMonthlyReport;20131010;08:00;ECB Monthly Report;European Monetary Union;EUR;3
+NOK_ProducerPriceIndex;20131010;08:00;Producer Price Index (YoY);Norway;NOK;1
+SEK_IndustrialProduction;20131010;07:30;Industrial Production (YoY);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20131010;07:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+SEK_ConsumerPriceIndex;20131010;07:30;Consumer Price Index (YoY);Sweden;SEK;1
+EUR_NetConsumerPriceIndex;20131010;07:30;Consumer Price Index n.s.a (YoY);Netherlands, The;EUR;1
+RON_TradeBalance;20131010;07:00;Trade Balance;Romania;RON;1
+DKK_ConsumerPriceIndex;20131010;07:00;Consumer Price Index (YoY);Denmark;DKK;1
+DKK_Inflation;20131010;07:00;Inflation (HICP) (YoY);Denmark;DKK;1
+RON_IndustrialProduction;20131010;07:00;Industrial Production (MoM);Romania;RON;1
+RON_ConsumerPriceIndex;20131010;07:00;Consumer Price Index;Romania;RON;1
+KRW_BoKInterestRateDecision;20131010;06:56;BoK Interest Rate Decision;South Korea;KRW;1
+EUR_FraIndustrialOutput;20131010;06:45;Industrial Output (MoM);France;EUR;1
+EUR_FinIndustrialOutput;20131010;06:00;Industrial Output (MoM);Finland;EUR;1
+JPY_ConsumerConfidenceIndex;20131010;05:00;Consumer Confidence Index;Japan;JPY;2
+AUD_PartTimeEmployment;20131010;00:30;Part-Time Employment;Australia;AUD;1
+AUD_EmploymentChange;20131010;00:30;Employment Change s.a.;Australia;AUD;3
+AUD_FulltimeEmployment;20131010;00:30;Fulltime Employment;Australia;AUD;2
+AUD_UnemploymentRate;20131010;00:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_ConsumerInflationExpectations;20131010;00:00;Consumer Inflation Expectations;Australia;AUD;2

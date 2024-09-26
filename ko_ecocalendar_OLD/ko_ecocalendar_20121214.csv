@@ -1,0 +1,35 @@
+ARS_ConsumerPriceIndex;20121214;19:00;Consumer Price Index (MoM);Argentina;ARS;1
+USD_IndustrialProduction;20121214;14:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20121214;14:15;Capacity Utilization;United States;USD;1
+MXN_PrivateSpending;20121214;14:00;Private Spending (QoQ);Mexico;MXN;1
+USD_MarkitManufacturingPMI;20121214;13:58;Markit Manufacturing PMI;United States;USD;2
+CAD_ManufacturingShipments;20121214;13:30;Manufacturing Shipments (MoM);Canada;CAD;1
+USD_ConsumerPriceIndex;20121214;13:30;Consumer Price Index n.s.a (MoM);United States;USD;1
+PLN_M3MoneySupply;20121214;13:00;M3 Money Supply (YoY);Poland;PLN;1
+EUR_EurEUFinancialStabilityReview;20121214;12:00;EU Financial Stability Review;European Monetary Union;EUR;2
+INR_BankLoanGrowth;20121214;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20121214;11:30;FX Reserves, USD;India;INR;1
+EUR_EurConsumerPriceIndex;20121214;10:00;Consumer Price Index (YoY);European Monetary Union;EUR;3
+EUR_EurEmploymentChange;20121214;10:00;Employment Change (YoY);European Monetary Union;EUR;1
+EUR_AusHICP;20121214;09:00;HICP (YoY);Austria;EUR;1
+EUR_EurMarkitPMIComposite;20121214;08:58;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitManufacturingPMI;20121214;08:58;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20121214;08:58;Markit Services PMI;European Monetary Union;EUR;2
+EUR_GerMarkitServicesPMI;20121214;08:28;Markit Services PMI;Germany;EUR;2
+EUR_GerMarkitManufacturingPMI;20121214;08:28;Markit Manufacturing PMI;Germany;EUR;2
+KRW_ImportPriceGrowth;20121214;08:11;Import Price Growth (YoY);South Korea;KRW;1
+KRW_ExportPriceGrowth;20121214;08:11;Export Price Growth (YoY);South Korea;KRW;1
+EUR_FinCurrentAccount;20121214;08:00;Current Account;Finland;EUR;1
+EUR_SloEUNormInflation;20121214;08:00;EU Norm Inflation (MoM);Slovakia;EUR;1
+EUR_FraMarkitServicesPMI;20121214;07:58;Markit Services PMI;France;EUR;2
+EUR_FraMarkitManufacturingPMI;20121214;07:58;Markit Manufacturing PMI;France;EUR;2
+EUR_SpaHousepriceindex;20121214;07:00;House price index;Spain;EUR;1
+EUR_FinConsumerPriceIndex;20121214;07:00;Consumer Price Index (YoY);Finland;EUR;1
+INR_WPIInflation;20121214;06:30;WPI Inflation;India;INR;1
+SGD_RetailSales;20121214;05:00;Retail Sales (MoM);Singapore;SGD;1
+JPY_IndustrialProduction;20121214;04:30;Industrial Production (MoM);Japan;JPY;1
+JPY_CapacityUtilization;20121214;04:30;Capacity Utilization;Japan;JPY;1
+GBP_CentralBankSpeech;20121214;02:00;BoE Weale speech;United Kingdom;GBP;1
+CNY_CaixinManufacturingPMI;20121214;01:45;Caixin Manufacturing PMI;China;CNY;2
+SGD_Unemploymentrate;20121214;01:00;Unemployment rate;Singapore;SGD;1
+EUR_EurEuropeanCouncilMeeting;20121214;00:00;European Council Meeting;European Monetary Union;EUR;2

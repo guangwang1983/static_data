@@ -1,0 +1,32 @@
+CNY_MidAutumnFestival;20171004;00:00;Mid-Autumn Festival;China;CNY;0
+NZD_ANZCommodityPrice;20171004;00:00;ANZ Commodity Price;New Zealand;NZD;1
+KRW_HarvestFestival;20171004;00:00;Harvest Festival ;South Korea;KRW;0
+CNY_NationalDay;20171004;00:00;National Day;China;CNY;0
+RUB_S&PGlobalServicesPMI;20171004;06:00;S&P Global Services PMI;Russia;RUB;1
+EUR_EurNonMonetaryPolicyECBMeeting;20171004;07:00;Non-Monetary Policy ECB Meeting;European Monetary Union;EUR;3
+HUF_RetailSales;20171004;07:00;Retail Sales (YoY);Hungary;HUF;1
+EUR_ItaHCOBServicesPMI;20171004;07:45;HCOB Services PMI;Italy;EUR;1
+EUR_FraHCOBServicesPMI;20171004;07:50;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20171004;07:50;HCOB Composite PMI;France;EUR;1
+EUR_GerHCOBServicesPMI;20171004;07:55;HCOB Services PMI;Germany;EUR;2
+EUR_GerHCOBCompositePMI;20171004;07:55;HCOB Composite PMI;Germany;EUR;2
+BRL_FipeIPCInflation;20171004;08:00;Fipe IPC Inflation;Brazil;BRL;1
+EUR_EurHCOBCompositePMI;20171004;08:00;HCOB Composite PMI;European Monetary Union;EUR;2
+EUR_EurHCOBServicesPMI;20171004;08:00;HCOB Services PMI;European Monetary Union;EUR;2
+GBP_S&PGlobalCIPSServicesPMI;20171004;08:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;1
+INR_CashReserveRatio;20171004;09:00;Cash Reserve Ratio;India;INR;1
+INR_ReverseRepoRate;20171004;09:00;Reverse Repo Rate;India;INR;1
+INR_RBIInterestRateDecision;20171004;09:00;RBI Interest Rate Decision (Repo Rate);India;INR;1
+EUR_EurRetailSales;20171004;09:00;Retail Sales (YoY);European Monetary Union;EUR;1
+EUR_GerAuction;20171004;09:37;10-y Bond Auction;Germany;EUR;2
+USD_MBAMortgageApplications;20171004;11:00;MBA Mortgage Applications;United States;USD;1
+PLN_NBPBaserate;20171004;12:00;NBP Base rate;Poland;PLN;1
+USD_ADPEmploymentChange;20171004;12:15;ADP Employment Change;United States;USD;2
+USD_S&PGlobalServicesPMI;20171004;13:45;S&P Global Services PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20171004;13:45;S&P Global Composite PMI;United States;USD;2
+USD_ISMServicesPMI;20171004;14:00;ISM Services PMI;United States;USD;2
+USD_EIACrudeOilStocksChange;20171004;14:30;EIA Crude Oil Stocks Change;United States;USD;2
+EUR_EurCentralBankSpeech;20171004;17:15;ECB President Draghi speech;European Monetary Union;EUR;3
+USD_CentralBankSpeech;20171004;19:15;Fed Chair Yellen speech;United States;USD;3
+JPY_ForeignInvestmentinJapanStocks;20171004;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20171004;23:50;Foreign Bond Investment;Japan;JPY;2

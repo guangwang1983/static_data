@@ -1,0 +1,49 @@
+JPY_JibunBankServicesPMI;20240222;00:30;Jibun Bank Services PMI;Japan;JPY;1;cb7aed00-7237-40fd-8149-a0f84b67a3c4
+JPY_JibunBankManufacturingPMI;20240222;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1;59861198-636b-4006-88be-addbaed5fb9b
+KRW_BoKInterestRateDecision;20240222;01:00;BoK Interest Rate Decision;South Korea;KRW;2;19414d34-58bc-47d5-ac6e-6200ca9da9f7
+NZD_CreditCardSpending;20240222;02:00;Credit Card Spending (YoY);New Zealand;NZD;1;3a55e9e6-c0c4-4886-aabb-32606e35c7ed
+DKK_IndustrialOutlook;20240222;07:00;Industrial Outlook;Denmark;DKK;1;377ec9d6-becb-4072-91f5-db9b76038fab
+EUR_EurEcoFinMeeting;20240222;07:00;EcoFin Meeting;Eurozone;EUR;2;20f93562-e778-4f06-9af7-2eca6b6c77f0
+HUF_GrossWages;20240222;07:30;Gross Wages (YoY);Hungary;HUF;1;15c8f2e2-d465-4135-89c5-305e3aca0869
+EUR_FraBusinessClimateinManufacturing;20240222;07:45;Business Climate in Manufacturing;France;EUR;1;a17354d0-f985-49e9-89bc-3fb82252e206
+EUR_FraHCOBManufacturingPMIPreliminar;20240222;08:15;HCOB Manufacturing PMI;France;EUR;2;490e9f4a-4a34-46ee-aed4-90e3b1b51cb7
+EUR_FraHCOBCompositePMI;20240222;08:15;HCOB Composite PMI;France;EUR;2;ba966c94-f17f-4d2b-8347-d74dabb34218
+EUR_FraHCOBServicesPMI;20240222;08:15;HCOB Services PMI;France;EUR;2;c73b6b13-4fb9-42c6-8e56-cd71ad4e5a47
+EUR_GerHCOBCompositePMI;20240222;08:30;HCOB Composite PMI;Germany;EUR;3;891ff107-c21f-4952-b749-6d8c17944f60
+EUR_GerHCOBManufacturingPMIPreliminar;20240222;08:30;HCOB Manufacturing PMI;Germany;EUR;3;6083b607-13b0-4f1d-9522-4c3461be2b96
+EUR_GerHCOBServicesPMI;20240222;08:30;HCOB Services PMI;Germany;EUR;3;a36bc751-eba3-4262-ad6f-4d3ec2c182e8
+EUR_ItaConsumerPriceIndex;20240222;09:00;Consumer Price Index (EU Norm) (MoM);Italy;EUR;1;bd80107c-9c90-4709-a45b-cae86f32dd24
+PLN_RetailSales;20240222;09:00;Retail Sales (YoY);Poland;PLN;1;e54d6e2e-b165-4b3e-9a2f-ccea414dfa34
+EUR_EurHCOBServicesPMI;20240222;09:00;HCOB Services PMI;Eurozone;EUR;3;d693560c-1a96-4409-a9d8-5979a23eaca4
+EUR_EurHCOBManufacturingPMIPreliminar;20240222;09:00;HCOB Manufacturing PMI;Eurozone;EUR;3;b03fa53b-f5c1-4ff9-8fc6-49cd848f3d1c
+EUR_EurHCOBCompositePMI;20240222;09:00;HCOB Composite PMI;Eurozone;EUR;3;a738eb19-a948-4d02-b644-fad25576c613
+GBP_S&PGlobalCIPSServicesPMI;20240222;09:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;3;0fbc81b5-a029-4c0e-a5c7-9baf1fc47cd2
+GBP_S&PGlobalCIPSCompositePMI;20240222;09:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;3;26d1175b-7b3c-4914-b78a-c5c283eefbcf
+GBP_S&PGlobalCIPSManufacturingPMIPreliminar;20240222;09:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;3;f21a55ef-8d4b-4970-8f7e-0100bae77407
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20240222;10:00;Core Harmonized Index of Consumer Prices (YoY);Eurozone;EUR;2;9225eef1-de8e-4276-a1f7-43be5f314b1f
+EUR_EurHarmonizedIndexofConsumerPrices;20240222;10:00;Harmonized Index of Consumer Prices (MoM);Eurozone;EUR;2;39da71dd-6a75-4669-adbf-36819ba1089a
+TRY_CBRTInterestRateDecision;20240222;11:00;CBRT Interest Rate Decision;Turkey;TRY;2;b66e02da-31e7-4d97-898e-f84b2b616c98
+ILS_IndustrialProduction;20240222;11:00;Industrial Production (MoM);Israel;ILS;1;1ed6111d-8944-4ac1-84c4-16adfd83867c
+MXN_GrossDomesticProduct;20240222;12:00;Gross Domestic Product (QoQ);Mexico;MXN;1;b38e6eee-e1d6-450d-8ce8-4e27ccd65a6d
+MXN_1sthalfmonthCoreInflation;20240222;12:00;1st half-month Core Inflation;Mexico;MXN;1;4de32f62-09fb-4c51-a839-4b1437469126
+MXN_1sthalfmonthInflation;20240222;12:00;1st half-month Inflation;Mexico;MXN;1;5ddc4007-9227-4fe9-b09f-a69c5d4a219d
+EUR_EurECBMonetaryPolicyMeetingAccounts;20240222;12:30;ECB Monetary Policy Meeting Accounts;Eurozone;EUR;2;dcd5b13e-ede1-4e1c-a960-04012a4ad2f1
+PLN_M3MoneySupply;20240222;13:00;M3 Money Supply (YoY);Poland;PLN;1;6500d9a8-9cf6-48d9-8db2-6b94db2ebcd1
+RUB_CentralBankReserves;20240222;13:00;Central Bank Reserves $;Russia;RUB;1;f30da429-cd71-448b-815a-2bf7351cc3d7
+USD_ChicagoFedNationalActivityIndex;20240222;13:30;Chicago Fed National Activity Index ;United States;USD;1;54b6ac72-d631-4c6f-85c1-c7a98d86e812
+USD_JoblessClaims;20240222;13:30;Initial Jobless Claims;United States;USD;2;9c689bbf-af2a-4f65-81a8-c5f5e2b78d70
+CAD_EmploymentInsuranceBeneficiariesChange;20240222;13:30;Employment Insurance Beneficiaries Change (MoM);Canada;CAD;1;8c0f92a4-04bf-43cb-9a51-8dfae22fbe41
+CAD_RetailSales;20240222;13:30;Retail Sales (MoM);Canada;CAD;2;fea0737b-54f5-439d-b6f0-b3e0452fa603
+USD_S&PGlobalServicesPMI;20240222;14:45;S&P Global Services PMI;United States;USD;3;5085ec6f-0c90-43d0-83f0-b936a41da1e7
+USD_S&PGlobalCompositePMI;20240222;14:45;S&P Global Composite PMI;United States;USD;2;ac172f6c-6b25-4a45-a986-c96789740c8b
+USD_S&PGlobalManufacturingPMI;20240222;14:45;S&P Global Manufacturing PMI;United States;USD;3;38ec9435-34cc-4704-9445-80fabf6c0120
+USD_ExistingHomeSales;20240222;15:00;Existing Home Sales (MoM);United States;USD;1;498e8a5b-db64-4a50-afb0-4ccd072bc95a
+USD_ExistingHomeSalesChange;20240222;15:00;Existing Home Sales Change (MoM);United States;USD;2;077378bd-22f0-402c-9db2-4d0d9c86181a
+JPY_TheEmperorBirthday;20240222;15:00;The Emperor Birthday;Japan;JPY;0;5f37c317-a9c7-42ce-90c3-688a7f8d0374
+USD_EIANaturalGasStorageChange;20240222;15:30;EIA Natural Gas Storage Change;United States;USD;1;deb490d2-d9fd-48c8-b418-e8460778e91f
+USD_EIACrudeOilStocksChange;20240222;16:00;EIA Crude Oil Stocks Change;United States;USD;1;8d7aa189-8c90-45a1-a5ee-82d480271b8f
+USD_KansasFedManufacturingActivity;20240222;16:00;Kansas Fed Manufacturing Activity;United States;USD;1;ab49712b-813d-4bc6-8b7d-2ba4fb9b2e5a
+USD_Auction;20240222;18:00;30-year TIPS Auction;United States;USD;1;2cbc5136-f4a0-4a53-934b-67c2f4a1313c
+RUB_DefenceoftheFatherland;20240222;21:00;Defence of the Fatherland;Russia;RUB;0;e1962a99-da69-46c0-aa0d-444fbdba8487
+NZD_RetailSales;20240222;21:45;Retail Sales ex Autos (QoQ);New Zealand;NZD;2;6e09dad4-7c60-4115-b5f3-1f5b17a6d95a
+USD_CentralBankSpeech;20240222;22:00;Fed Kashkari speech;United States;USD;2;614a2826-c661-478a-a008-dd1ee06025ee

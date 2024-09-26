@@ -1,0 +1,33 @@
+JPY_ForeignInvestmentinJapanStocks;20210120;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20210120;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_Exports;20210120;23:50;Exports (YoY);Japan;JPY;2
+JPY_Imports;20210120;23:50;Imports (YoY);Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20210120;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_MerchandiseTradeBalanceTotal;20210120;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+NZD_VisitorArrivals;20210120;21:45;Visitor Arrivals (YoY);New Zealand;NZD;1
+USD_APIWeeklyCrudeOilStock;20210120;21:30;API Weekly Crude Oil Stock;United States;USD;1
+BRL_InterestRateDecision;20210120;21:00;Interest Rate Decision;Brazil;BRL;1
+CAD_BoCPressConference;20210120;16:15;BoC Press Conference;Canada;CAD;3
+USD_EIACrudeOilStocksChange;20210120;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+COP_TradeBalance;20210120;15:00;Trade Balance;Colombia;COP;1
+CAD_BankofCanadaMonetaryPolicyReport;20210120;15:00;Bank of Canada Monetary Policy Report;Canada;CAD;3
+CAD_BoCRateStatement;20210120;15:00;BoC Rate Statement;Canada;CAD;3
+CAD_BoCInterestRateDecision;20210120;15:00;BoC Interest Rate Decision;Canada;CAD;3
+USD_NAHBHousingMarketIndex;20210120;15:00;NAHB Housing Market Index;United States;USD;1
+CAD_ConsumerPriceIndex;20210120;13:30;Consumer Price Index (YoY);Canada;CAD;2
+USD_MBAMortgageApplications;20210120;12:00;MBA Mortgage Applications;United States;USD;1
+EUR_PorCurrentAccount;20210120;11:00;Current Account Balance;Portugal;EUR;1
+EUR_GerAuction;20210120;10:40;30-y Bond Auction;Germany;EUR;1
+EUR_EurConsumerPriceIndex;20210120;10:00;Consumer Price Index - Core (YoY);European Monetary Union;EUR;2
+EUR_GreCurrentAccount;20210120;10:00;Current Account (YoY);Greece;EUR;1
+GBP_DCLGHousePriceIndex;20210120;09:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+ZAR_ConsumerPriceIndex;20210120;08:00;Consumer Price Index (YoY);South Africa;ZAR;1
+EUR_AusHICP;20210120;08:00;HICP (YoY);Austria;EUR;1
+EUR_SloEUNormInflation;20210120;08:00;EU Norm Inflation (YoY);Slovakia;EUR;1
+GBP_RetailPriceIndex;20210120;07:00;Retail Price Index (YoY);United Kingdom;GBP;2
+EUR_GerProducerPriceIndex;20210120;07:00;Producer Price Index (YoY);Germany;EUR;1
+GBP_ProducerPriceIndex;20210120;07:00;Producer Price Index - Input (MoM) n.s.a;United Kingdom;GBP;1
+GBP_PPICoreOutput;20210120;07:00;PPI Core Output (YoY) n.s.a ;United Kingdom;GBP;2
+MYR_BNMInterestRateDecision;20210120;07:00;BNM Interest Rate Decision;Malaysia;MYR;1
+GBP_ConsumerPriceIndex;20210120;07:00;Consumer Price Index (MoM);United Kingdom;GBP;2
+CNY_PBoCInterestRateDecision;20210120;01:30;PBoC Interest Rate Decision;China;CNY;3

@@ -1,0 +1,42 @@
+AUD_CentralBankSpeech;20180605;23:00;RBA Bullock speech;Australia;AUD;2
+USD_APIWeeklyCrudeOilStock;20180605;20:30;API Weekly Crude Oil Stock;United States;USD;1
+EUR_GerCentralBankSpeech;20180605;17:30;German Buba President Weidmann speech;Germany;EUR;2
+USD_Auction;20180605;15:30;4-Week Bill Auction;United States;USD;1
+NZD_GDTPriceIndex;20180605;14:35;GDT Price Index;New Zealand;NZD;2
+USD_JOLTSJobOpenings;20180605;14:00;JOLTS Job Openings;United States;USD;1
+USD_ISMNonManufacturingPMI;20180605;14:00;ISM Non-Manufacturing PMI;United States;USD;2
+USD_MarkitServicesPMI;20180605;13:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20180605;13:45;Markit PMI Composite;United States;USD;2
+RUB_ConsumerPriceIndex;20180605;13:00;Consumer Price Index (MoM);Russia;RUB;1
+MXN_ConsumerConfidence;20180605;13:00;Consumer Confidence;Mexico;MXN;1
+USD_RedbookIndex;20180605;12:55;Redbook Index (YoY);United States;USD;1
+CAD_LaborProductivity;20180605;12:30;Labor Productivity (QoQ);Canada;CAD;1
+BRL_IndustrialOutput;20180605;12:00;Industrial Output (YoY);Brazil;BRL;1
+CLP_IMACEC;20180605;11:30;IMACEC;Chile;CLP;1
+GBP_CentralBankSpeech;20180605;10:00;BoE Cunliffe speech;United Kingdom;GBP;2
+ZAR_GrossDomesticProduct;20180605;09:30;Gross Domestic Product (YoY);South Africa;ZAR;1
+EUR_EurRetailSales;20180605;09:00;Retail Sales (MoM);European Monetary Union;EUR;1
+GBP_MarkitServicesPMI;20180605;08:30;Markit Services PMI;United Kingdom;GBP;2
+BRL_FipeIPCInflation;20180605;08:00;Fipe IPC Inflation;Brazil;BRL;1
+EUR_EurMarkitPMIComposite;20180605;08:00;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20180605;08:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_GerMarkitPMIComposite;20180605;07:55;Markit PMI Composite;Germany;EUR;2
+EUR_GerMarkitServicesPMI;20180605;07:55;Markit Services PMI;Germany;EUR;2
+EUR_FraMarkitServicesPMI;20180605;07:50;Markit Services PMI;France;EUR;1
+EUR_FraMarkitPMIComposite;20180605;07:50;Markit PMI Composite;France;EUR;1
+EUR_ItaMarkitServicesPMI;20180605;07:45;Markit Services PMI;Italy;EUR;1
+SEK_IndustrialProduction;20180605;07:30;Industrial Production (MoM);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20180605;07:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+EUR_SpaMarkitServicesPMI;20180605;07:15;Markit Services PMI;Spain;EUR;2
+CZK_RetailSales;20180605;07:00;Retail Sales (YoY);Czech Republic;CZK;1
+HUF_RetailSales;20180605;07:00;Retail Sales (YoY);Hungary;HUF;1
+HUF_GrossDomesticProduct;20180605;07:00;Gross Domestic Product (YoY);Hungary;HUF;1
+EUR_FraBudget;20180605;06:45;Budget;France;EUR;1
+RUB_PurchasingManagerIndexServices;20180605;06:00;Purchasing Manager Index Services;Russia;RUB;1
+AUD_RBAInterestRateDecision;20180605;04:30;RBA Interest Rate Decision;Australia;AUD;3
+AUD_RBARateStatement;20180605;04:30;RBA Rate Statement;Australia;AUD;3
+CNY_CaixinServicesPMI;20180605;01:45;Caixin Services PMI;China;CNY;2
+AUD_CurrentAccount;20180605;01:30;Current Account Balance;Australia;AUD;1
+HKD_NikkeiManufacturingPMI;20180605;00:30;Nikkei Manufacturing PMI;Hong Kong SAR;HKD;1
+JPY_MarkitServicesPMI;20180605;00:30;Markit Services PMI;Japan;JPY;1
+DKK_ConstitutionDay;20180605;00:00;Constitution Day ;Denmark;DKK;0

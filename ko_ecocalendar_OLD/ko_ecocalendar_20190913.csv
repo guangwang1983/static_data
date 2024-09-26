@@ -1,0 +1,42 @@
+NZD_WestpacConsumerSurvey;20190913;22:00;Westpac Consumer Survey;New Zealand;NZD;2
+AUD_CFTCAUDNCNetPositions;20190913;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20190913;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+USD_CFTCUSDNCNetPositions;20190913;19:30;CFTC USD NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20190913;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCOilNCNetPositions;20190913;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20190913;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20190913;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_BakerHughesUSOilRigCount;20190913;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+HKD_ThedayfollowingtheChineseMidAutumnFestival;20190913;16:00;The day following the Chinese Mid-Autumn Festival;Hong Kong SAR;HKD;0
+COP_RetailSales;20190913;15:00;Retail Sales (YoY);Colombia;COP;1
+COP_Industrialoutput;20190913;15:00;Industrial output (YoY);Colombia;COP;1
+USD_MichiganConsumerSentimentIndex;20190913;14:00;Michigan Consumer Sentiment Index;United States;USD;3
+USD_BusinessInventories;20190913;14:00;Business Inventories;United States;USD;1
+USD_RetailSales;20190913;12:30;Retail Sales ex Autos (MoM);United States;USD;2
+USD_ExportPriceIndex;20190913;12:30;Export Price Index (YoY);United States;USD;1
+USD_ImportPriceIndex;20190913;12:30;Import Price Index (MoM);United States;USD;1
+PLN_CurrentAccount;20190913;12:00;Current Account;Poland;PLN;1
+INR_BankLoanGrowth;20190913;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20190913;11:30;FX Reserves, USD;India;INR;1
+ILS_M1MoneySupply;20190913;10:00;M1 Money Supply (MoM);Israel;ILS;1
+EUR_IreGrossDomesticProduct;20190913;10:00;Gross Domestic Product (QoQ);Ireland;EUR;1
+EUR_EurTradeBalance;20190913;09:00;Trade Balance n.s.a.;European Monetary Union;EUR;1
+EUR_EurLaborCost;20190913;09:00;Labor Cost;European Monetary Union;EUR;2
+CZK_CurrentAccount;20190913;08:00;Current Account (MoM);Czech Republic;CZK;1
+SEK_GrossDomesticProduct;20190913;07:30;Gross Domestic Product (YoY);Sweden;SEK;1
+EUR_SpaHICP;20190913;07:00;HICP (YoY);Spain;EUR;1
+EUR_SloHeadlineInflation;20190913;07:00;Headline Inflation (MoM);Slovakia;EUR;1
+EUR_SloCoreInflation;20190913;07:00;Core Inflation (YoY);Slovakia;EUR;1
+TRY_IndustrialProduction;20190913;07:00;Industrial Production (YoY);Turkey;TRY;1
+EUR_EurEcoFinMeeting;20190913;07:00;EcoFin Meeting;European Monetary Union;EUR;2
+TRY_CurrentAccount;20190913;07:00;Current Account Balance;Turkey;TRY;1
+EUR_SpaConsumerPriceIndex;20190913;07:00;Consumer Price Index (MoM);Spain;EUR;1
+EUR_FinGrossDomesticProduct;20190913;05:00;Gross Domestic Product (YoY);Finland;EUR;1
+EUR_FinCurrentAccount;20190913;05:00;Current Account;Finland;EUR;1
+EUR_FinConsumerPriceIndex;20190913;05:00;Consumer Price Index (YoY);Finland;EUR;1
+JPY_IndustrialProduction;20190913;04:30;Industrial Production (YoY);Japan;JPY;2
+EUR_NetRetailSales;20190913;04:30;Retail Sales (YoY);Netherlands, The;EUR;1
+JPY_CapacityUtilization;20190913;04:30;Capacity Utilization;Japan;JPY;1
+KRW_TradeBalance;20190913;02:00;Trade Balance;South Korea;KRW;1
+CNY_FDIForeignDirectInvestment;20190913;02:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+EUR_EurEurogroupMeeting;20190913;00:00;Eurogroup Meeting;European Monetary Union;EUR;2

@@ -1,0 +1,20 @@
+NZD_ANZCommodityPrice;20230111;00:00;ANZ Commodity Price;New Zealand;NZD;1
+AUD_RetailSales;20230111;00:30;Retail Sales s.a. (MoM);Australia;AUD;3
+AUD_ConsumerPriceIndex;20230111;00:30;Monthly Consumer Price Index (YoY);Australia;AUD;3
+JPY_LeadingEconomicIndex;20230111;05:00;Leading Economic Index;Japan;JPY;1
+JPY_CoincidentIndex;20230111;05:00;Coincident Index;Japan;JPY;1
+TRY_CurrentAccount;20230111;07:00;Current Account Balance;Turkey;TRY;1
+CZK_ConsumerPriceIndex;20230111;08:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+EUR_ItaRetailSales;20230111;09:00;Retail Sales s.a. (MoM);Italy;EUR;1
+HUF_BudgetBalance;20230111;10:00;Budget Balance;Hungary;HUF;1
+EUR_GerAuction;20230111;10:30;10-y Bond Auction;Germany;EUR;2
+ILS_BudgetBalanceILS;20230111;11:00;Budget Balance - ILS;Israel;ILS;1
+USD_MBAMortgageApplications;20230111;12:00;MBA Mortgage Applications;United States;USD;1
+BRL_RetailSales;20230111;12:00;Retail Sales (MoM);Brazil;BRL;1
+MXN_IndustrialOutput;20230111;12:00;Industrial Output (MoM);Mexico;MXN;1
+USD_EIACrudeOilStocksChange;20230111;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_Auction;20230111;18:00;10-Year Note Auction;United States;USD;1
+NZD_BuildingPermits;20230111;21:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+JPY_BankLending;20230111;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_CurrentAccount;20230111;23:50;Current Account n.s.a.;Japan;JPY;2
+JPY_TradeBalanceBOPBasis;20230111;23:50;Trade Balance - BOP Basis;Japan;JPY;1

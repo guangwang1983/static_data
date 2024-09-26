@@ -1,0 +1,24 @@
+AUD_NationalAustraliaBankBusinessConfidence;20191112;00:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20191112;00:30;National Australia Bank Business Conditions;Australia;AUD;1
+NZD_RBNZInflationExpectations;20191112;02:00;RBNZ Inflation Expectations (QoQ);New Zealand;NZD;2
+JPY_MachineToolOrders;20191112;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+NOK_GrossDomesticProduct;20191112;07:00;Gross Domestic Product Growth Mainland;Norway;NOK;1
+RON_ConsumerPriceIndex;20191112;07:00;Consumer Price Index;Romania;RON;1
+TRY_CurrentAccount;20191112;07:00;Current Account Balance;Turkey;TRY;1
+EUR_EurCentralBankSpeech;20191112;08:30;ECB Mersch speech;European Monetary Union;EUR;2
+GBP_AverageEarningsIncludingBonus;20191112;09:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;3
+GBP_AverageEarningsExcludingBonus;20191112;09:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountRate;20191112;09:30;Claimant Count Rate;United Kingdom;GBP;1
+GBP_ClaimantCountChange;20191112;09:30;Claimant Count Change;United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20191112;09:30;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+EUR_GerZEWSurvey–EconomicSentiment;20191112;10:00;ZEW Survey – Economic Sentiment;Germany;EUR;3
+EUR_EurZEWSurvey–EconomicSentiment;20191112;10:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurvey–CurrentSituation;20191112;10:00;ZEW Survey – Current Situation;Germany;EUR;2
+USD_NFIBBusinessOptimismIndex;20191112;11:00;NFIB Business Optimism Index;United States;USD;1
+USD_RedbookIndex;20191112;13:55;Redbook Index (YoY);United States;USD;1
+USD_Auction;20191112;16:30;3-Month Bill Auction;United States;USD;1
+NZD_FoodPriceIndex;20191112;21:45;Food Price Index (MoM);New Zealand;NZD;1
+USD_CentralBankSpeech;20191112;23:00;Fed Kashkari speech;United States;USD;2
+KRW_UnemploymentRate;20191112;23:00;Unemployment Rate;South Korea;KRW;1
+AUD_WestpacConsumerConfidence;20191112;23:30;Westpac Consumer Confidence;Australia;AUD;2
+JPY_ProducerPriceIndex;20191112;23:50;Producer Price Index (YoY);Japan;JPY;1

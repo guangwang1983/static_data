@@ -1,0 +1,51 @@
+NZD_ANZActivityOutlook;20240131;00:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20240131;00:00;ANZ Business Confidence;New Zealand;NZD;1
+AUD_PrivateSectorCredit;20240131;00:30;Private Sector Credit (MoM);Australia;AUD;1
+AUD_ConsumerPriceIndex;20240131;00:30;Monthly Consumer Price Index (YoY);Australia;AUD;3
+AUD_RBATrimmedMeanCPI;20240131;00:30;RBA Trimmed Mean CPI (YoY);Australia;AUD;3
+CNY_NBSNonManufacturingPMI;20240131;01:30;NBS Non-Manufacturing PMI;China;CNY;3
+CNY_NBSManufacturingPMI;20240131;01:30;NBS Manufacturing PMI;China;CNY;3
+JPY_AnnualizedHousingStarts;20240131;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_HousingStarts;20240131;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_ConstructionOrders;20240131;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_ConsumerConfidenceIndex;20240131;05:00;Consumer Confidence Index;Japan;JPY;1
+EUR_GerImportPriceIndex;20240131;07:00;Import Price Index (YoY);Germany;EUR;1
+EUR_GerRetailSales;20240131;07:00;Retail Sales (YoY);Germany;EUR;3
+TRY_TradeBalance;20240131;07:00;Trade Balance;Turkey;TRY;1
+DKK_UnemploymentRate;20240131;07:00;Unemployment Rate;Denmark;DKK;1
+GBP_NationwideHousingPrices;20240131;07:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;1
+HUF_ProducerPriceIndex;20240131;07:30;Producer Price Index (YoY);Hungary;HUF;1
+CHF_RetailSales;20240131;07:30;Real Retail Sales (YoY);Switzerland;CHF;2
+EUR_FraProducerPrices;20240131;07:45;Producer Prices (MoM);France;EUR;1
+EUR_FraConsumerPriceIndex;20240131;07:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+TRY_ForeignArrivals;20240131;08:00;Foreign Arrivals;Turkey;TRY;1
+EUR_GerUnemploymentChange;20240131;08:55;Unemployment Change;Germany;EUR;2
+EUR_GerUnemploymentRate;20240131;08:55;Unemployment Rate s.a.;Germany;EUR;2
+EUR_ItaUnemployment;20240131;09:00;Unemployment;Italy;EUR;1
+CHF_ZEWSurvey–Expectations;20240131;09:00;ZEW Survey – Expectations;Switzerland;CHF;2
+EUR_GerAuction;20240131;10:30;10-y Bond Auction;Germany;EUR;2
+INR_FederalFiscalDeficitINR;20240131;10:30;Federal Fiscal Deficit, INR;India;INR;1
+EUR_ItaIndustrialSales;20240131;11:00;Industrial Sales n.s.a. (YoY);Italy;EUR;1
+INR_InfrastructureOutput;20240131;11:30;Infrastructure Output (YoY);India;INR;1
+USD_MBAMortgageApplications;20240131;12:00;MBA Mortgage Applications;United States;USD;1
+BRL_UnemploymentRate;20240131;12:00;Unemployment Rate;Brazil;BRL;1
+CLP_IndustrialProduction;20240131;12:00;Industrial Production (YoY);Chile;CLP;1
+ZAR_TradeBalance;20240131;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20240131;13:00;Harmonized Index of Consumer Prices (MoM);Germany;EUR;2
+EUR_GerConsumerPriceIndex;20240131;13:00;Consumer Price Index (MoM);Germany;EUR;3
+USD_ADPEmploymentChange;20240131;13:15;ADP Employment Change;United States;USD;3
+USD_EmploymentCostIndex;20240131;13:30;Employment Cost Index;United States;USD;2
+CAD_GrossDomesticProduct;20240131;13:30;Gross Domestic Product (MoM);Canada;CAD;2
+USD_ChicagoPurchasingManagers'Index;20240131;14:45;Chicago Purchasing Managers' Index;United States;USD;2
+COP_NationalJoblessRate;20240131;15:20;National Jobless Rate;Colombia;COP;1
+USD_EIACrudeOilStocksChange;20240131;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+RUB_IndustrialOutput;20240131;16:00;Industrial Output;Russia;RUB;1
+COP_Interestrate;20240131;18:30;Interest rate;Colombia;COP;1
+USD_FedMonetaryPolicyStatement;20240131;19:00;Fed Monetary Policy Statement;United States;USD;3
+USD_FedInterestRateDecision;20240131;19:00;Fed Interest Rate Decision;United States;USD;3
+USD_FOMCPressConference;20240131;19:30;FOMC Press Conference;United States;USD;3
+CLP_BCCHInterestRate;20240131;21:00;BCCH Interest Rate;Chile;CLP;1
+BRL_InterestRateDecision;20240131;21:35;Interest Rate Decision;Brazil;BRL;1
+AUD_JudoBankManufacturingPMI;20240131;22:00;Judo Bank Manufacturing PMI;Australia;AUD;1
+JPY_ForeignInvestmentinJapanStocks;20240131;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20240131;23:50;Foreign Bond Investment;Japan;JPY;1

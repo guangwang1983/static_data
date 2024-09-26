@@ -1,0 +1,29 @@
+AUD_NationalAustraliaBankBusinessConfidence;20200723;01:30;National Australia Bank Business Confidence (QoQ);Australia;AUD;2
+DKK_ConsumerConfidence;20200723;06:00;Consumer Confidence;Denmark;DKK;1
+EUR_GerGfkConsumerConfidenceSurvey;20200723;06:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+NOK_LabourForceSurvey;20200723;06:00;Labour Force Survey;Norway;NOK;1
+EUR_FraBusinessClimateinManufacturing;20200723;06:45;Business Climate in Manufacturing;France;EUR;1
+TRY_ConsumerConfidence;20200723;07:00;Consumer Confidence;Turkey;TRY;1
+SEK_UnemploymentRate;20200723;07:30;Unemployment Rate;Sweden;SEK;1
+PLN_Unemployment;20200723;08:00;Unemployment (MoM);Poland;PLN;1
+EUR_EurCentralBankSpeech;20200723;09:00;ECB De Guindos speech;European Monetary Union;EUR;2
+GBP_CBIIndustrialTrendsSurvey–Orders;20200723;10:00;CBI Industrial Trends Survey – Orders (MoM);United Kingdom;GBP;2
+GBP_CentralBankSpeech;20200723;11:00;BoE Haskel speech;United Kingdom;GBP;2
+TRY_CBRTInterestRateDecision;20200723;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+MXN_1sthalfmonthInflation;20200723;11:00;1st half-month Inflation;Mexico;MXN;1
+MXN_1sthalfmonthCoreInflation;20200723;11:00;1st half-month Core Inflation;Mexico;MXN;1
+USD_JoblessClaims;20200723;12:30;Continuing Jobless Claims;United States;USD;2
+RUB_CentralBankReserves;20200723;13:00;Central Bank Reserves $;Russia;RUB;1
+ZAR_SARBInterestRateDecision;20200723;13:00;SARB Interest Rate Decision;South Africa;ZAR;1
+EUR_EurConsumerConfidence;20200723;14:00;Consumer Confidence;European Monetary Union;EUR;2
+USD_EIANaturalGasStorageChange;20200723;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_KansasFedManufacturingActivity;20200723;15:00;Kansas Fed Manufacturing Activity;United States;USD;1
+JPY_HealthSportsDay;20200723;15:00;Health-Sports Day;Japan;JPY;0
+USD_Auction;20200723;17:00;10-year TIPS Auction;United States;USD;1
+NZD_TradeBalanceNZD;20200723;22:45;Trade Balance NZD (MoM);New Zealand;NZD;1
+NZD_Exports;20200723;22:45;Exports;New Zealand;NZD;2
+NZD_Imports;20200723;22:45;Imports;New Zealand;NZD;2
+AUD_S&PGlobalServicesPMI;20200723;23:00;S&P Global Services PMI;Australia;AUD;2
+AUD_S&PGlobalManufacturingPMI;20200723;23:00;S&P Global Manufacturing PMI;Australia;AUD;2
+AUD_S&PGlobalCompositePMI;20200723;23:00;S&P Global Composite PMI;Australia;AUD;1
+GBP_GfKConsumerConfidence;20200723;23:01;GfK Consumer Confidence;United Kingdom;GBP;2

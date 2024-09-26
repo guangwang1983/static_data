@@ -1,0 +1,57 @@
+KRW_CurrentAccount;20160401;00:00;Current Account Balance;South Korea;KRW;1
+KRW_ConsumerPriceIndex;20160401;00:00;Consumer Price Index Growth (MoM);South Korea;KRW;1
+KRW_TradeBalance;20160401;00:00;Trade Balance;South Korea;KRW;1
+CNY_NonManufacturingPMI;20160401;01:00;Non-Manufacturing PMI;China;CNY;2
+CNY_NBSManufacturingPMI;20160401;01:00;NBS Manufacturing PMI;China;CNY;2
+KRW_S&PGlobalManufacturingPMI;20160401;01:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+CNY_CaixinManufacturingPMI;20160401;01:45;Caixin Manufacturing PMI;China;CNY;2
+JPY_JibunBankManufacturingPMI;20160401;02:00;Jibun Bank Manufacturing PMI;Japan;JPY;1
+IDR_Inflation;20160401;02:00;Inflation (MoM);Indonesia;IDR;1
+IDR_CoreInflation;20160401;02:00;Core Inflation (YoY);Indonesia;IDR;1
+JPY_VehicleSales;20160401;05:00;Vehicle Sales (YoY);Japan;JPY;1
+AUD_RBACommodityIndexSDR;20160401;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+GBP_NationwideHousingPrices;20160401;06:00;Nationwide Housing Prices s.a (MoM);United Kingdom;GBP;1
+SEK_PurchasingManagersIndexManufacturing;20160401;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;2
+HUF_PurchasingManagerIndex;20160401;07:00;Purchasing Manager Index;Hungary;HUF;1
+HUF_TradeBalance;20160401;07:00;Trade Balance;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20160401;07:00;Purchasing Manager Index;Poland;PLN;2
+CHF_RetailSales;20160401;07:15;Real Retail Sales (YoY);Switzerland;CHF;3
+CHF_SVMEPurchasingManagers'Index;20160401;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+EUR_ItaHCOBManufacturingPMI;20160401;07:45;HCOB Manufacturing PMI;Italy;EUR;1
+EUR_FraHCOBManufacturingPMI;20160401;07:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerHCOBManufacturingPMI;20160401;07:55;HCOB Manufacturing PMI;Germany;EUR;2
+EUR_ItaUnemployment;20160401;08:00;Unemployment;Italy;EUR;2
+EUR_EurHCOBManufacturingPMI;20160401;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+CZK_S&PGlobalPMI;20160401;08:30;S&P Global PMI;Czech Republic;CZK;1
+GBP_S&PGlobalCIPSManufacturingPMI;20160401;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+TRY_Exports;20160401;09:00;Exports;Turkey;TRY;1
+NOK_CreditIndicator;20160401;09:00;Credit Indicator;Norway;NOK;1
+ZAR_TotalNewVehicleSales;20160401;10:00;Total New Vehicle Sales;South Africa;ZAR;1
+RUB_S&PGlobalManufacturingPMI;20160401;11:00;S&P Global Manufacturing PMI;Russia;RUB;1
+INR_BankLoanGrowth;20160401;11:30;Bank Loan Growth;India;INR;1
+BRL_IndustrialOutput;20160401;12:00;Industrial Output (MoM);Brazil;BRL;1
+CZK_BudgetBalance;20160401;12:00;Budget Balance;Czech Republic;CZK;1
+USD_NonfarmPayrolls;20160401;12:30;Nonfarm Payrolls;United States;USD;3
+USD_AverageHourlyEarnings;20160401;12:30;Average Hourly Earnings (YoY);United States;USD;1
+USD_AverageWeeklyHours;20160401;12:30;Average Weekly Hours;United States;USD;2
+USD_LaborForceParticipationRate;20160401;12:30;Labor Force Participation Rate;United States;USD;2
+USD_UnemploymentRate;20160401;12:30;Unemployment Rate;United States;USD;3
+RUB_GrossDomesticProduct;20160401;13:00;Gross Domestic Product Quarterly (YoY);Russia;RUB;1
+CAD_S&PGlobalManufacturingPMI;20160401;13:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20160401;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20160401;14:00;Michigan Consumer Sentiment Index;United States;USD;1
+BRL_S&PGlobalManufacturingPMI;20160401;14:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+USD_ISMManufacturingPMI;20160401;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20160401;14:00;ISM Manufacturing Prices Paid;United States;USD;3
+USD_ConstructionSpending;20160401;14:00;Construction Spending (MoM);United States;USD;2
+CAD_BankofCanadaBusinessOutlookSurvey;20160401;14:30;Bank of Canada Business Outlook Survey;Canada;CAD;2
+USD_BakerHughesUSOilRigCount;20160401;17:00;Baker Hughes US Oil Rig Count;United States;USD;2
+BRL_TradeBalance;20160401;19:00;Trade Balance;Brazil;BRL;1
+AUD_CFTCAUDNCNetPositions;20160401;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20160401;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+USD_CFTCS&P500NCNetPositions;20160401;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20160401;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+GBP_CFTCGBPNCNetPositions;20160401;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20160401;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20160401;19:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_TotalVehicleSales;20160401;20:50;Total Vehicle Sales;United States;USD;1

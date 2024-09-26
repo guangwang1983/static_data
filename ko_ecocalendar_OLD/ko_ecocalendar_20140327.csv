@@ -1,0 +1,43 @@
+JPY_LargeRetailers'Sales;20140327;23:50;Large Retailers' Sales;Japan;JPY;1
+JPY_RetailTrade;20140327;23:50;Retail Trade (YoY);Japan;JPY;2
+JPY_TokyoCPIexFreshFood;20140327;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;1
+JPY_TokyoCPIexFoodEnergy;20140327;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;1
+JPY_ConsumerPriceIndex;20140327;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;1
+JPY_NationalCPIexFoodEnergy;20140327;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20140327;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_JobsApplicantsRatio;20140327;23:30;Jobs / Applicants Ratio;Japan;JPY;1
+JPY_UnemploymentRate;20140327;23:30;Unemployment Rate;Japan;JPY;2
+JPY_OverallHouseholdSpending;20140327;23:30;Overall Household Spending (YoY);Japan;JPY;2
+KRW_IndustrialOutputGrowth;20140327;23:00;Industrial Output Growth;South Korea;KRW;1
+KRW_IndustrialOutput;20140327;23:00;Industrial Output (YoY);South Korea;KRW;1
+KRW_ServiceSectorOutput;20140327;23:00;Service Sector Output;South Korea;KRW;1
+KRW_BOKManufacturingBSI;20140327;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+ARS_GrossDomesticProduct;20140327;19:00;Gross Domestic Product (QoQ);Argentina;ARS;1
+ARS_MonthlyEconActivity;20140327;19:00;Monthly Econ Activity (MoM);Argentina;ARS;1
+USD_Auction;20140327;17:00;7-Year Note Auction;United States;USD;1
+USD_KansasFedManufacturingActivity;20140327;15:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_EIANaturalGasStorageChange;20140327;14:30;EIA Natural Gas Storage Change;United States;USD;1
+MXN_TradeBalance;20140327;14:00;Trade Balance, $;Mexico;MXN;1
+MXN_TradeBalancesa;20140327;14:00;Trade Balance s/a, $;Mexico;MXN;1
+USD_PendingHomeSales;20140327;14:00;Pending Home Sales (YoY);United States;USD;2
+ZAR_SARBInterestRateDecision;20140327;13:00;SARB Interest Rate Decision;South Africa;ZAR;1
+USD_JoblessClaims;20140327;12:30;Continuing Jobless Claims;United States;USD;2
+USD_GrossDomesticProduct;20140327;12:30;Gross Domestic Product Annualized;United States;USD;2
+USD_CentralBankSpeech;20140327;12:30;Fed Pianalto speech;United States;USD;1
+USD_CorePersonalConsumptionExpenditures;20140327;12:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+USD_PersonalConsumptionExpendituresPrices;20140327;12:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+BRL_UnemploymentRate;20140327;12:00;Unemployment Rate;Brazil;BRL;1
+CZK_CNBInterestRateDecision;20140327;12:00;CNB Interest Rate Decision;Czech Republic;CZK;1
+RUB_CentralBankReserves;20140327;11:00;Central Bank Reserves $;Russia;RUB;1
+ZAR_ProducerPriceIndex;20140327;09:30;Producer Price Index (MoM);South Africa;ZAR;1
+GBP_RetailSales;20140327;09:30;Retail Sales (YoY);United Kingdom;GBP;2
+EUR_ItaBusinessConfidence;20140327;09:00;Business Confidence;Italy;EUR;1
+EUR_EurM3MoneySupply;20140327;09:00;M3 Money Supply (YoY);European Monetary Union;EUR;1
+EUR_EurPrivateLoans;20140327;09:00;Private Loans (YoY);European Monetary Union;EUR;1
+NOK_NorgesBankInterestRateDecision;20140327;09:00;Norges Bank Interest Rate Decision;Norway;NOK;1
+GBP_FPCStatement;20140327;08:30;FPC Statement;United Kingdom;GBP;1
+PHP_BSPInterestratedecision;20140327;08:30;BSP Interest rate decision;Philippines;PHP;0
+DKK_UnemploymentRate;20140327;08:00;Unemployment Rate;Denmark;DKK;1
+EUR_FraConsumerConfidence;20140327;07:45;Consumer Confidence;France;EUR;1
+EUR_FinIndustrialConfidence;20140327;07:00;Industrial Confidence;Finland;EUR;1
+EUR_FinConsumerConfidence;20140327;07:00;Consumer Confidence;Finland;EUR;1

@@ -1,0 +1,67 @@
+KRW_TradeBalance;20210401;00:00;Trade Balance;South Korea;KRW;1
+AUD_HomeLoans;20210401;00:30;Home Loans;Australia;AUD;1
+AUD_InvestmentLendingforHomes;20210401;00:30;Investment Lending for Homes;Australia;AUD;1
+AUD_RetailSales;20210401;00:30;Retail Sales s.a. (MoM);Australia;AUD;3
+KRW_S&PGlobalManufacturingPMI;20210401;00:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+JPY_JibunBankManufacturingPMI;20210401;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+AUD_TradeBalance;20210401;00:30;Trade Balance (MoM);Australia;AUD;3
+AUD_Imports;20210401;00:30;Imports (MoM);Australia;AUD;2
+AUD_Exports;20210401;00:30;Exports (MoM);Australia;AUD;2
+CNY_CaixinManufacturingPMI;20210401;01:45;Caixin Manufacturing PMI;China;CNY;2
+JPY_Auction;20210401;03:35;10-y Bond Auction;Japan;JPY;1
+IDR_Inflation;20210401;04:00;Inflation (YoY);Indonesia;IDR;1
+IDR_CoreInflation;20210401;04:00;Core Inflation (YoY);Indonesia;IDR;1
+COP_MaundyThursday;20210401;05:00;Maundy Thursday;Colombia;COP;0
+AUD_RBACommodityIndexSDR;20210401;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+MXN_MaundyThursday;20210401;06:00;Maundy Thursday ;Mexico;MXN;0
+RUB_S&PGlobalManufacturingPMI;20210401;06:00;S&P Global Manufacturing PMI;Russia;RUB;1
+EUR_GerRetailSales;20210401;06:00;Retail Sales (MoM);Germany;EUR;2
+CHF_RetailSales;20210401;06:30;Real Retail Sales (YoY);Switzerland;CHF;2
+SEK_PurchasingManagersIndexManufacturing;20210401;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+CHF_ConsumerPriceIndex;20210401;06:30;Consumer Price Index (YoY);Switzerland;CHF;1
+HUF_PurchasingManagerIndex;20210401;07:00;Purchasing Manager Index;Hungary;HUF;1
+CZK_GrossDomesticProduct;20210401;07:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+PLN_PurchasingManagerIndex;20210401;07:00;Purchasing Manager Index;Poland;PLN;2
+CHF_SVMEPurchasingManagers'Index;20210401;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_S&PGlobalPMI;20210401;07:30;S&P Global PMI;Czech Republic;CZK;1
+EUR_ItaHCOBManufacturingPMI;20210401;07:45;HCOB Manufacturing PMI;Italy;EUR;2
+EUR_FraHCOBManufacturingPMI;20210401;07:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerHCOBManufacturingPMI;20210401;07:55;HCOB Manufacturing PMI;Germany;EUR;2
+EUR_EurHCOBManufacturingPMI;20210401;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;1
+GBP_S&PGlobalCIPSManufacturingPMI;20210401;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+TRY_Exports;20210401;08:50;Exports;Turkey;TRY;1
+USD_OPECMeeting;20210401;10:00;OPEC Meeting;United States;USD;2
+BRL_IndustrialOutput;20210401;11:00;Industrial Output (MoM);Brazil;BRL;1
+CLP_IMACEC;20210401;11:30;IMACEC;Chile;CLP;1
+USD_ChallengerJobCuts;20210401;11:30;Challenger Job Cuts;United States;USD;1
+ZAR_TotalNewVehicleSales;20210401;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+NZD_GoodFriday;20210401;12:00;Good Friday;New Zealand;NZD;0
+CZK_BudgetBalance;20210401;12:00;Budget Balance;Czech Republic;CZK;1
+USD_JoblessClaims;20210401;12:30;Continuing Jobless Claims;United States;USD;2
+CAD_BuildingPermits;20210401;12:30;Building Permits (MoM);Canada;CAD;1
+BRL_S&PGlobalManufacturingPMI;20210401;13:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+RUB_CentralBankReserves;20210401;13:00;Central Bank Reserves $;Russia;RUB;1
+CAD_S&PGlobalManufacturingPMI;20210401;13:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20210401;13:45;S&P Global Manufacturing PMI;United States;USD;2
+AUD_GoodFriday;20210401;14:00;Good Friday;Australia;AUD;0
+USD_ISMManufacturingPMI;20210401;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20210401;14:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ISMManufacturingNewOrdersIndex;20210401;14:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ISMManufacturingEmploymentIndex;20210401;14:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ConstructionSpending;20210401;14:00;Construction Spending (MoM);United States;USD;1
+USD_EIANaturalGasStorageChange;20210401;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20210401;15:30;4-Week Bill Auction;United States;USD;1
+IDR_GoodFriday;20210401;17:00;Good Friday;Indonesia;IDR;0
+USD_BakerHughesUSOilRigCount;20210401;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+BRL_TradeBalance;20210401;18:00;Trade Balance;Brazil;BRL;1
+INR_GoodFriday;20210401;18:30;Good Friday ;India;INR;0
+USD_TotalVehicleSales;20210401;20:30;Total Vehicle Sales;United States;USD;1
+EUR_GerGoodFriday;20210401;22:00;Good Friday;Germany;EUR;0
+CHF_GoodFriday;20210401;22:00;Good Friday;Switzerland;CHF;0
+NOK_GoodFriday;20210401;22:00;Good Friday;Norway;NOK;0
+DKK_GoodFriday;20210401;22:00;Good Friday ;Denmark;DKK;0
+SEK_GoodFriday;20210401;22:00;Good Friday;Sweden;SEK;0
+ZAR_GoodFriday;20210401;22:00;Good Friday;South Africa;ZAR;0
+KRW_ConsumerPriceIndex;20210401;23:00;Consumer Price Index Growth (YoY);South Korea;KRW;1
+GBP_GoodFriday;20210401;23:00;Good Friday;United Kingdom;GBP;0
+JPY_MonetaryBase;20210401;23:50;Monetary Base (YoY);Japan;JPY;1

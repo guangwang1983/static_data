@@ -1,0 +1,28 @@
+AUD_CurrentAccount;20180904;01:30;Current Account Balance;Australia;AUD;1
+AUD_RBARateStatement;20180904;04:30;RBA Rate Statement;Australia;AUD;3
+AUD_RBAInterestRateDecision;20180904;04:30;RBA Interest Rate Decision;Australia;AUD;3
+CHF_ConsumerPriceIndex;20180904;07:15;Consumer Price Index (YoY);Switzerland;CHF;2
+SEK_CurrentAccount;20180904;07:30;Current Account (QoQ);Sweden;SEK;1
+BRL_FipeIPCInflation;20180904;08:00;Fipe IPC Inflation;Brazil;BRL;1
+GBP_S&PGlobalConstructionPMI;20180904;08:30;S&P Global Construction PMI;United Kingdom;GBP;2
+EUR_EurProducerPriceIndex;20180904;09:00;Producer Price Index (MoM);European Monetary Union;EUR;1
+ZAR_GrossDomesticProduct;20180904;09:30;Gross Domestic Product (YoY);South Africa;ZAR;1
+AUD_CentralBankSpeech;20180904;11:30;RBA Governor Lowe speech;Australia;AUD;3
+BRL_IndustrialOutput;20180904;12:00;Industrial Output (MoM);Brazil;BRL;1
+GBP_BoEMonetaryPolicyReportHearings;20180904;12:15;BoE Monetary Policy Report Hearings;United Kingdom;GBP;3
+CAD_S&PGlobalManufacturingPMI;20180904;13:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20180904;13:45;S&P Global Manufacturing PMI;United States;USD;1
+DKK_CurrencyReserves;20180904;14:00;Currency Reserves;Denmark;DKK;1
+USD_ISMManufacturingNewOrdersIndex;20180904;14:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ISMManufacturingPMI;20180904;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20180904;14:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ISMManufacturingEmploymentIndex;20180904;14:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ConstructionSpending;20180904;14:00;Construction Spending (MoM);United States;USD;1
+USD_CentralBankSpeech;20180904;14:30;Fed Evans speech;United States;USD;1
+USD_IBDTIPPEconomicOptimism;20180904;14:55;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+NZD_GDTPriceIndex;20180904;15:06;GDT Price Index;New Zealand;NZD;2
+USD_Auction;20180904;15:30;4-Week Bill Auction;United States;USD;1
+USD_TotalVehicleSales;20180904;19:30;Total Vehicle Sales;United States;USD;1
+CLP_BCCHInterestRate;20180904;22:00;BCCH Interest Rate;Chile;CLP;1
+AUD_AiGPerformanceofServicesIndex;20180904;22:30;AiG Performance of Services Index;Australia;AUD;1
+KRW_FXReserves;20180904;23:00;FX Reserves;South Korea;KRW;1

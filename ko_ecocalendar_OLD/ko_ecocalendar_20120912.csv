@@ -1,0 +1,43 @@
+JPY_ForeignInvestmentinJapanStocks;20120912;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20120912;23:50;Foreign Bond Investment;Japan;JPY;1
+NZD_BusinessNZPMI;20120912;22:30;Business NZ PMI;New Zealand;NZD;2
+KRW_BoKInterestRateDecision;20120912;22:00;BoK Interest Rate Decision;South Korea;KRW;1
+NZD_RBNZPressConference;20120912;21:00;RBNZ Press Conference;New Zealand;NZD;3
+NZD_MonetaryPolicyStatement;20120912;21:00;Monetary Policy Statement ;New Zealand;NZD;3
+NZD_RBNZInterestRateDecision;20120912;21:00;RBNZ Interest Rate Decision;New Zealand;NZD;3
+ARS_ConsumerPriceIndex;20120912;19:00;Consumer Price Index (MoM);Argentina;ARS;1
+USD_Auction;20120912;17:00;10-Year Note Auction;United States;USD;2
+USD_EIACrudeOilStocksChange;20120912;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_WholesaleInventories;20120912;14:00;Wholesale Inventories;United States;USD;1
+USD_ExportPriceIndex;20120912;12:30;Export Price Index (MoM);United States;USD;1
+USD_ImportPriceIndex;20120912;12:30;Import Price Index (MoM);United States;USD;1
+GBP_CentralBankSpeech;20120912;11:00;BoE Broadbent speech;United Kingdom;GBP;1
+USD_MBAMortgageApplications;20120912;11:00;MBA Mortgage Applications;United States;USD;1
+EUR_GerMerkelspeaksintheBundestag;20120912;09:40;Merkel speaks in the Bundestag;Germany;EUR;3
+EUR_EurIndustrialProduction;20120912;09:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;2
+EUR_PorConsumerPriceIndex;20120912;09:00;Consumer Price Index (YoY);Portugal;EUR;0
+GBP_AverageEarningsExcludingBonus;20120912;08:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;1
+GBP_ClaimantCountRate;20120912;08:30;Claimant Count Rate;United Kingdom;GBP;2
+GBP_ClaimantCountChange;20120912;08:30;Claimant Count Change;United Kingdom;GBP;3
+GBP_AverageEarningsIncludingBonus;20120912;08:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20120912;08:30;ILO Unemployment Rate (3M);United Kingdom;GBP;2
+EUR_EurDutchParliamentaryElection;20120912;08:00;Dutch Parliamentary Election;European Monetary Union;EUR;3
+EUR_GerGermanyConstitutionalCourtrulingonOMTBondBuying;20120912;08:00;Germany Constitutional Court ruling on OMT Bond Buying;Germany;EUR;3
+EUR_ItaIndustrialOutput;20120912;08:00;Industrial Output w.d.a (YoY);Italy;EUR;1
+EUR_EurPresidentBarrosodeliverstheStateoftheUnionAddress2012;20120912;07:00;President Barroso delivers the State of the Union Address 2012;European Monetary Union;EUR;2
+EUR_SpaHICP;20120912;07:00;HICP (YoY);Spain;EUR;1
+EUR_SloCoreInflation;20120912;07:00;Core Inflation (YoY);Slovakia;EUR;1
+EUR_SloHeadlineInflation;20120912;07:00;Headline Inflation (MoM);Slovakia;EUR;1
+EUR_SpaConsumerPriceIndex;20120912;07:00;Consumer Price Index (MoM);Spain;EUR;1
+EUR_FraCurrentAccount;20120912;06:45;Current Account;France;EUR;1
+EUR_GerConsumerPriceIndex;20120912;06:00;Consumer Price Index (MoM);Germany;EUR;2
+EUR_GerHarmonizedIndexofConsumerPrices;20120912;06:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+EUR_FraConsumerPriceIndex;20120912;05:30;Consumer Price Index (EU norm) (YoY);France;EUR;1
+EUR_FraInflationextobacco;20120912;05:30;Inflation ex-tobacco (MoM);France;EUR;1
+INR_IndustrialOutput;20120912;05:30;Industrial Output;India;INR;1
+INR_ManufacturingOutput;20120912;05:30;Manufacturing Output;India;INR;1
+INR_CumulativeIndustrialOutput;20120912;05:30;Cumulative Industrial Output;India;INR;1
+KRW_MoneySupplyGrowth;20120912;03:00;Money Supply Growth;South Korea;KRW;1
+AUD_DwellingUnitStarts;20120912;01:30;Dwelling Unit Starts (QoQ);Australia;AUD;1
+AUD_WestpacConsumerConfidenceIndex;20120912;00:30;Westpac Consumer Confidence Index;Australia;AUD;1
+AUD_WestpacConsumerConfidence;20120912;00:30;Westpac Consumer Confidence;Australia;AUD;2

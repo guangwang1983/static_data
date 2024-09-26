@@ -1,0 +1,35 @@
+GBP_RICSHousingPriceBalance;20171109;00:01;RICS Housing Price Balance;United Kingdom;GBP;2
+AUD_HomeLoans;20171109;00:30;Home Loans;Australia;AUD;2
+AUD_InvestmentLendingforHomes;20171109;00:30;Investment Lending for Homes;Australia;AUD;2
+CNY_ConsumerPriceIndex;20171109;01:30;Consumer Price Index (MoM);China;CNY;2
+CNY_ProducerPriceIndex;20171109;01:30;Producer Price Index (YoY);China;CNY;2
+JPY_EcoWatchersSurvey:Outlook;20171109;05:00;Eco Watchers Survey: Outlook;Japan;JPY;2
+JPY_EcoWatchersSurvey:Current;20171109;05:00;Eco Watchers Survey: Current;Japan;JPY;2
+CHF_UnemploymentRate;20171109;06:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+RON_TradeBalance;20171109;07:00;Trade Balance;Romania;RON;1
+DKK_TradeBalance;20171109;07:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20171109;07:00;Current Account;Denmark;DKK;1
+EUR_GerExports;20171109;07:00;Exports (MoM);Germany;EUR;2
+EUR_GerTradeBalance;20171109;07:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerCurrentAccount;20171109;07:00;Current Account n.s.a.;Germany;EUR;2
+EUR_GerImports;20171109;07:00;Imports (MoM);Germany;EUR;2
+CZK_ConsumerPriceIndex;20171109;08:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+HUF_ConsumerPriceIndex;20171109;08:00;Core Consumer Price Index (YoY);Hungary;HUF;1
+EUR_EurEconomicBulletin;20171109;09:00;Economic Bulletin;European Monetary Union;EUR;2
+EUR_EurEuropeanCommissionreleasesEconomicGrowthForecasts;20171109;10:00;European Commission releases Economic Growth Forecasts;European Monetary Union;EUR;2
+ZAR_ManufacturingProductionIndex;20171109;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+RUB_CentralBankReserves;20171109;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_JoblessClaims;20171109;13:30;Continuing Jobless Claims;United States;USD;2
+CAD_NewHousingPriceIndex;20171109;13:30;New Housing Price Index (YoY);Canada;CAD;1
+MXN_12MonthInflation;20171109;14:00;12-Month Inflation;Mexico;MXN;1
+MXN_CoreInflation;20171109;14:00;Core Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20171109;14:00;Headline Inflation;Mexico;MXN;1
+USD_WholesaleInventories;20171109;15:00;Wholesale Inventories;United States;USD;1
+USD_EIANaturalGasStorageChange;20171109;15:30;EIA Natural Gas Storage Change;United States;USD;1
+CHF_CentralBankSpeech;20171109;16:30;SNB Chairman Jordan speech;Switzerland;CHF;2
+USD_Auction;20171109;18:00;30-Year Bond Auction;United States;USD;1
+EUR_GerCentralBankSpeech;20171109;18:00;German Buba President Weidmann speech;Germany;EUR;2
+EUR_EurCentralBankSpeech;20171109;18:20;ECB Lautenschläger speech;European Monetary Union;EUR;2
+MXN_CentralBankInterestRate;20171109;19:00;Central Bank Interest Rate;Mexico;MXN;1
+NZD_RetailSales;20171109;21:45;Electronic Card Retail Sales (YoY);New Zealand;NZD;2
+JPY_MoneySupplyM2+CD;20171109;23:50;Money Supply M2+CD (YoY);Japan;JPY;1

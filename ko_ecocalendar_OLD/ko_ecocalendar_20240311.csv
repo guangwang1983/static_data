@@ -1,0 +1,22 @@
+JPY_MachineToolOrders;20240311;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+TRY_UnemploymentRate;20240311;07:00;Unemployment Rate;Turkey;TRY;1
+DKK_Inflation;20240311;07:00;Inflation (HICP) (YoY);Denmark;DKK;1
+DKK_ConsumerPriceIndex;20240311;07:00;Consumer Price Index (YoY);Denmark;DKK;1
+DKK_TradeBalance;20240311;07:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20240311;07:00;Current Account;Denmark;DKK;1
+RON_TradeBalance;20240311;07:00;Trade Balance;Romania;RON;1
+EUR_EurEurogroupMeeting;20240311;07:00;Eurogroup Meeting;Eurozone;EUR;1
+NOK_ConsumerPriceIndex;20240311;07:00;Consumer Price Index (MoM);Norway;NOK;1
+NOK_CoreInflation;20240311;07:00;Core Inflation (MoM);Norway;NOK;1
+NOK_ProducerPriceIndex;20240311;07:00;Producer Price Index (YoY);Norway;NOK;1
+CZK_ConsumerPriceIndex;20240311;08:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+CNY_FDIForeignDirectInvestment;20240311;09:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;1
+CNY_M2MoneySupply;20240311;10:00;M2 Money Supply (YoY);China;CNY;1
+CNY_NewLoans;20240311;10:00;New Loans;China;CNY;1
+ILS_BudgetBalanceILS;20240311;11:00;Budget Balance - ILS;Israel;ILS;1
+USD_Auction;20240311;17:00;3-Year Note Auction;United States;USD;1
+IDR_HariRayaNyepi;20240311;17:00;Hari Raya Nyepi;Indonesia;IDR;0
+NZD_RetailSales;20240311;21:45;Electronic Card Retail Sales (YoY);New Zealand;NZD;1
+AUD_WestpacConsumerConfidence;20240311;23:30;Westpac Consumer Confidence;Australia;AUD;2
+JPY_ProducerPriceIndex;20240311;23:50;Producer Price Index (MoM);Japan;JPY;1
+JPY_BSILargeManufacturingConditionsIndex;20240311;23:50;BSI Large Manufacturing Conditions Index (QoQ);Japan;JPY;1

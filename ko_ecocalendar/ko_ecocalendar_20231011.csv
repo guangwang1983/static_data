@@ -1,0 +1,25 @@
+USD_IMFMeeting;20231011;00:00;IMF Meeting;United States;USD;2
+AUD_CentralBankSpeech;20231011;00:30;RBA Kent speech;Australia;AUD;2
+EUR_GerConsumerPriceIndex;20231011;06:00;Consumer Price Index (MoM);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20231011;06:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+JPY_MachineToolOrders;20231011;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+CNY_M2MoneySupply;20231011;07:00;M2 Money Supply (YoY);China;CNY;1
+CNY_NewLoans;20231011;07:00;New Loans;China;CNY;1
+CNY_FDIForeignDirectInvestment;20231011;07:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;1
+TRY_CurrentAccount;20231011;07:00;Current Account Balance;Turkey;TRY;1
+EUR_GerAuction;20231011;09:30;30-y Bond Auction;Germany;EUR;1
+USD_MBAMortgageApplications;20231011;11:00;MBA Mortgage Applications;United States;USD;1
+BRL_IPCAInflation;20231011;12:00;IPCA Inflation;Brazil;BRL;1
+USD_ProducerPriceIndex;20231011;12:30;Producer Price Index (MoM);United States;USD;2
+CAD_BuildingPermits;20231011;12:30;Building Permits (MoM);Canada;CAD;1
+RUB_ForeignTrade;20231011;13:00;Foreign Trade;Russia;RUB;1
+USD_CentralBankSpeech;20231011;14:15;Fed Waller speech;United States;USD;2
+RUB_ConsumerPriceIndex;20231011;16:00;Consumer Price Index (MoM);Russia;RUB;1
+USD_Auction;20231011;17:00;10-Year Note Auction;United States;USD;1
+USD_FOMCMinutes;20231011;18:00;FOMC Minutes;United States;USD;3
+USD_APIWeeklyCrudeOilStock;20231011;20:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_FoodPriceIndex;20231011;21:45;Food Price Index (MoM);New Zealand;NZD;1
+GBP_RICSHousingPriceBalance;20231011;23:01;RICS Housing Price Balance;United Kingdom;GBP;1
+JPY_BankLending;20231011;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_ProducerPriceIndex;20231011;23:50;Producer Price Index (MoM);Japan;JPY;1
+JPY_MachineryOrders;20231011;23:50;Machinery Orders (YoY);Japan;JPY;1

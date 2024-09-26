@@ -1,0 +1,41 @@
+CLP_SaintPeterandSaintPaul;20160629;00:00;Saint Peter and Saint Paul ;Chile;CLP;0
+AUD_HIANewHomeSales;20160629;01:00;HIA New Home Sales (MoM);Australia;AUD;2
+EUR_GerGfkConsumerConfidenceSurvey;20160629;06:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+CHF_UBSConsumptionIndicator;20160629;06:00;UBS Consumption Indicator;Switzerland;CHF;2
+GBP_NationwideHousingPrices;20160629;06:00;Nationwide Housing Prices s.a (MoM);United Kingdom;GBP;1
+DKK_IndustrialOutlook;20160629;07:00;Industrial Outlook;Denmark;DKK;1
+TRY_EconomicConfidenceIndex;20160629;07:00;Economic Confidence Index;Turkey;TRY;1
+NOK_RetailSales;20160629;08:00;Retail Sales ;Norway;NOK;1
+GBP_NetLendingtoIndividuals;20160629;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20160629;08:30;Consumer Credit;United Kingdom;GBP;2
+GBP_MortgageApprovals;20160629;08:30;Mortgage Approvals;United Kingdom;GBP;2
+GBP_M4MoneySupply;20160629;08:30;M4 Money Supply (MoM);United Kingdom;GBP;1
+EUR_EurIndustrialConfidence;20160629;09:00;Industrial Confidence;European Monetary Union;EUR;2
+EUR_EurConsumerConfidence;20160629;09:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurServicesSentiment;20160629;09:00;Services Sentiment;European Monetary Union;EUR;2
+EUR_EurEconomicSentimentIndicator;20160629;09:00;Economic Sentiment Indicator;European Monetary Union;EUR;2
+EUR_EurBusinessClimate;20160629;09:00;Business Climate;European Monetary Union;EUR;2
+BRL_InflationIndexIGPM;20160629;11:00;Inflation Index/IGP-M;Brazil;BRL;1
+USD_MBAMortgageApplications;20160629;11:00;MBA Mortgage Applications;United States;USD;1
+BRL_UnemploymentRate;20160629;12:00;Unemployment Rate;Brazil;BRL;1
+EUR_EurEUleaderssummit;20160629;12:00;EU leaders summit;European Monetary Union;EUR;3
+EUR_GerConsumerPriceIndex;20160629;12:00;Consumer Price Index (MoM);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20160629;12:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;1
+USD_CorePersonalConsumptionExpendituresPriceIndex;20160629;12:30;Core Personal Consumption Expenditures - Price Index (YoY);United States;USD;2
+USD_PersonalSpending;20160629;12:30;Personal Spending;United States;USD;2
+USD_PersonalConsumptionExpendituresPriceIndex;20160629;12:30;Personal Consumption Expenditures - Price Index (YoY);United States;USD;2
+USD_PersonalIncome;20160629;12:30;Personal Income (MoM);United States;USD;2
+BRL_PrimaryBudgetSurplus;20160629;13:30;Primary Budget Surplus;Brazil;BRL;1
+BRL_NominalBudgetBalance;20160629;13:30;Nominal Budget Balance;Brazil;BRL;1
+USD_PendingHomeSales;20160629;14:00;Pending Home Sales (YoY);United States;USD;2
+USD_EIACrudeOilStocksChange;20160629;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_Auction;20160629;17:00;7-Year Note Auction;United States;USD;1
+USD_BankStressTestInfo;20160629;20:30;Bank Stress Test Info;United States;USD;3
+NZD_BuildingPermits;20160629;22:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+KRW_IndustrialOutputGrowth;20160629;23:00;Industrial Output Growth;South Korea;KRW;1
+KRW_ServiceSectorOutput;20160629;23:00;Service Sector Output;South Korea;KRW;1
+KRW_IndustrialOutput;20160629;23:00;Industrial Output (YoY);South Korea;KRW;1
+GBP_GfKConsumerConfidence;20160629;23:05;GfK Consumer Confidence;United Kingdom;GBP;2
+JPY_IndustrialProduction;20160629;23:50;Industrial Production (YoY);Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20160629;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20160629;23:50;Foreign Bond Investment;Japan;JPY;2

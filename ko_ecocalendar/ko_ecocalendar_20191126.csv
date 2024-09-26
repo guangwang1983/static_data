@@ -1,0 +1,28 @@
+EUR_GerGfkConsumerConfidenceSurvey;20191126;07:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+DKK_RetailSales;20191126;07:00;Retail Sales (YoY);Denmark;DKK;1
+CHF_EmploymentLevel;20191126;07:30;Employment Level (QoQ);Switzerland;CHF;1
+SEK_ProducerPriceIndex;20191126;08:30;Producer Price Index (MoM);Sweden;SEK;1
+EUR_EurCentralBankSpeech;20191126;08:30;ECB Lane speech;European Monetary Union;EUR;2
+EUR_ItaTradeBalancenonEU;20191126;09:00;Trade Balance non-EU;Italy;EUR;1
+AUD_CentralBankSpeech;20191126;09:05;RBA Governor Lowe speech;Australia;AUD;3
+GBP_BBAMortgageApprovals;20191126;09:30;BBA Mortgage Approvals;United Kingdom;GBP;1
+MXN_RetailSales;20191126;12:00;Retail Sales (MoM);Mexico;MXN;1
+PLN_M3MoneySupply;20191126;13:00;M3 Money Supply (YoY);Poland;PLN;1
+USD_WholesaleInventories;20191126;13:30;Wholesale Inventories;United States;USD;1
+USD_GoodsTradeBalance;20191126;13:30;Goods Trade Balance;United States;USD;1
+USD_RedbookIndex;20191126;13:55;Redbook Index (YoY);United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20191126;14:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;2
+USD_HousingPriceIndex;20191126;14:01;Housing Price Index (MoM);United States;USD;2
+USD_ConsumerConfidence;20191126;15:00;Consumer Confidence;United States;USD;2
+USD_NewHomeSalesChange;20191126;15:00;New Home Sales Change (MoM);United States;USD;1
+USD_NewHomeSales;20191126;15:00;New Home Sales (MoM);United States;USD;2
+USD_RichmondFedManufacturingIndex;20191126;15:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_CentralBankSpeech;20191126;18:00;Fed Brainard speech;United States;USD;2
+USD_Auction;20191126;18:00;5-Year Note Auction;United States;USD;1
+NZD_RBNZFinancialStabilityReport;20191126;20:00;RBNZ Financial Stability Report;New Zealand;NZD;2
+KRW_ConsumerSentimentIndex;20191126;21:00;Consumer Sentiment Index;South Korea;KRW;1
+USD_APIWeeklyCrudeOilStock;20191126;21:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_TradeBalanceNZD;20191126;21:45;Trade Balance NZD (MoM);New Zealand;NZD;1
+NZD_Exports;20191126;21:45;Exports;New Zealand;NZD;2
+NZD_Imports;20191126;21:45;Imports;New Zealand;NZD;1
+NZD_CentralBankSpeech;20191126;22:00;RBNZ Governor Orr speech;New Zealand;NZD;3

@@ -1,0 +1,52 @@
+JPY_ConsumerPriceIndex;20210121;23:30;National Consumer Price Index (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20210121;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_NationalCPIexFoodEnergy;20210121;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+AUD_CommonwealthBankManufacturingPMI;20210121;22:00;Commonwealth Bank Manufacturing PMI;Australia;AUD;2
+AUD_CommonwealthBankServicesPMI;20210121;22:00;Commonwealth Bank Services PMI;Australia;AUD;2
+AUD_CommonwealthBankCompositePMI;20210121;22:00;Commonwealth Bank Composite PMI;Australia;AUD;1
+NZD_ConsumerPriceIndex;20210121;21:45;Consumer Price Index (QoQ);New Zealand;NZD;2
+ARS_TradeBalance;20210121;19:00;Trade Balance (MoM);Argentina;ARS;1
+USD_Auction;20210121;16:30;4-Week Bill Auction;United States;USD;1
+EUR_EurConsumerConfidence;20210121;15:00;Consumer Confidence;European Monetary Union;EUR;2
+USD_HousingStartsChange;20210121;13:30;Housing Starts Change;United States;USD;1
+USD_BuildingPermitsChange;20210121;13:30;Building Permits Change;United States;USD;1
+USD_HousingStarts;20210121;13:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20210121;13:30;Building Permits (MoM);United States;USD;2
+USD_JoblessClaims;20210121;13:30;Continuing Jobless Claims;United States;USD;2
+CAD_ADPEmploymentChange;20210121;13:30;ADP Employment Change;Canada;CAD;1
+EUR_EurECBMonetaryPolicyStatementandPressConference;20210121;13:30;ECB Monetary Policy Statement and Press Conference;European Monetary Union;EUR;3
+CAD_EmploymentInsuranceBeneficiariesChange;20210121;13:30;Employment Insurance Beneficiaries Change (MoM);Canada;CAD;1
+CAD_NewHousingPriceIndex;20210121;13:30;New Housing Price Index (YoY);Canada;CAD;1
+USD_PhiladelphiaFedManufacturingSurvey;20210121;13:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+MXN_JoblessRate;20210121;13:00;Jobless Rate s.a;Mexico;MXN;1
+RUB_CentralBankReserves;20210121;13:00;Central Bank Reserves $;Russia;RUB;1
+ZAR_SARBInterestRateDecision;20210121;13:00;SARB Interest Rate Decision;South Africa;ZAR;1
+EUR_EurECBDepositRateDecision;20210121;12:45;ECB Deposit Rate Decision;European Monetary Union;EUR;3
+EUR_EurECBInterestRateDecision;20210121;12:45;ECB Interest Rate Decision;European Monetary Union;EUR;3
+TRY_CBRTInterestRateDecision;20210121;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+EUR_SpaAuction;20210121;09:40;10-y Obligaciones Auction;Spain;EUR;1
+GBP_BoECreditConditionsSurvey;20210121;09:30;BoE Credit Conditions Survey;United Kingdom;GBP;1
+EUR_BelConsumerConfidenceIndex;20210121;09:00;Consumer Confidence Index;Belgium;EUR;1
+HKD_ConsumerPriceIndex;20210121;09:00;Consumer Price Index;Hong Kong SAR;HKD;1
+PLN_CorporateSectorWages;20210121;09:00;Corporate Sector Wages;Poland;PLN;1
+ZAR_RetailSales;20210121;09:00;Retail Sales (YoY);South Africa;ZAR;1
+EUR_ItaIndustrialOrders;20210121;09:00;Industrial Orders n.s.a (YoY);Italy;EUR;1
+EUR_ItaIndustrialSales;20210121;09:00;Industrial Sales n.s.a. (YoY);Italy;EUR;1
+NOK_NorgesBankInterestRateDecision;20210121;09:00;Norges Bank Interest Rate Decision;Norway;NOK;1
+EUR_FraBusinessClimateinManufacturing;20210121;07:45;Business Climate in Manufacturing;France;EUR;1
+DKK_ConsumerConfidence;20210121;07:00;Consumer Confidence;Denmark;DKK;1
+IDR_BankIndonesiaRate;20210121;07:00;Bank Indonesia Rate;Indonesia;IDR;1
+JPY_BoJPressConference;20210121;06:00;BoJ Press Conference;Japan;JPY;3
+EUR_NetUnemploymentRate;20210121;05:30;Unemployment Rate s.a (3M);Netherlands, The;EUR;1
+EUR_NetConsumerSpendingVolume;20210121;05:30;Consumer Spending Volume;Netherlands, The;EUR;1
+EUR_NetConsumerConfidenceAdj;20210121;05:30;Consumer Confidence Adj;Netherlands, The;EUR;1
+JPY_BoJMonetaryPolicyStatement;20210121;03:00;BoJ Monetary Policy Statement ;Japan;JPY;3
+JPY_BoJInterestRateDecision;20210121;03:00;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_BoJOutlookReport;20210121;03:00;BoJ Outlook Report;Japan;JPY;2
+AUD_UnemploymentRate;20210121;00:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_ParticipationRate;20210121;00:30;Participation Rate;Australia;AUD;1
+AUD_EmploymentChange;20210121;00:30;Employment Change s.a.;Australia;AUD;3
+AUD_PartTimeEmployment;20210121;00:30;Part-Time Employment;Australia;AUD;1
+AUD_FulltimeEmployment;20210121;00:30;Fulltime Employment;Australia;AUD;2
+EUR_EurEUleaderssummit;20210121;00:00;EU leaders summit;European Monetary Union;EUR;2
+AUD_ConsumerInflationExpectations;20210121;00:00;Consumer Inflation Expectations;Australia;AUD;2

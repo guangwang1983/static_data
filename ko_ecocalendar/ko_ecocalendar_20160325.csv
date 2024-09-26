@@ -1,0 +1,32 @@
+EUR_GerGoodFriday;20160325;00:00;Good Friday;Germany;EUR;0
+KRW_GrossDomesticProduct;20160325;00:00;Gross Domestic Product Growth (QoQ) ;South Korea;KRW;1
+AUD_GoodFriday;20160325;00:00;Good Friday;Australia;AUD;0
+BRL_GoodFriday;20160325;00:00;Good Friday ;Brazil;BRL;0
+CHF_GoodFriday;20160325;00:00;Good Friday;Switzerland;CHF;0
+NOK_GoodFriday;20160325;00:00;Good Friday;Norway;NOK;0
+DKK_GoodFriday;20160325;00:00;Good Friday ;Denmark;DKK;0
+MXN_GoodFriday;20160325;00:00;Good Friday ;Mexico;MXN;0
+NZD_GoodFriday;20160325;00:00;Good Friday;New Zealand;NZD;0
+IDR_GoodFriday;20160325;00:00;Good Friday;Indonesia;IDR;0
+COP_Goodfriday;20160325;00:00;Good friday;Colombia;COP;0
+SEK_GoodFriday;20160325;00:00;Good Friday;Sweden;SEK;0
+ZAR_GoodFriday;20160325;00:00;Good Friday;South Africa;ZAR;0
+CLP_GoodFriday;20160325;00:00;Good Friday;Chile;CLP;0
+CAD_GoodFriday;20160325;00:00;Good Friday;Canada;CAD;0
+INR_GoodFriday;20160325;00:00;Good Friday ;India;INR;0
+JPY_CoincidentIndex;20160325;05:00;Coincident Index;Japan;JPY;2
+JPY_LeadingEconomicIndex;20160325;05:00;Leading Economic Index;Japan;JPY;2
+EUR_FraConsumerConfidence;20160325;07:45;Consumer Confidence;France;EUR;1
+EUR_FraGrossDomesticProduct;20160325;07:45;Gross Domestic Product (QoQ);France;EUR;1
+TRY_EconomicConfidenceIndex;20160325;08:00;Economic Confidence Index;Turkey;TRY;1
+INR_FXReservesUSD;20160325;11:30;FX Reserves, USD;India;INR;1
+USD_GrossDomesticProduct;20160325;12:30;Gross Domestic Product Price Index;United States;USD;2
+USD_CorePersonalConsumptionExpenditures;20160325;12:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+USD_PersonalConsumptionExpendituresPrices;20160325;12:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+EUR_EurCFTCEURNCNetPositions;20160325;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20160325;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCS&P500NCNetPositions;20160325;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20160325;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+GBP_CFTCGBPNCNetPositions;20160325;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20160325;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20160325;19:30;CFTC Oil NC Net Positions;United States;USD;1

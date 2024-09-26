@@ -1,0 +1,39 @@
+JPY_CFTCJPYNCNetPositions;20211015;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCOilNCNetPositions;20211015;19:30;CFTC Oil NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20211015;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20211015;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCS&P500NCNetPositions;20211015;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20211015;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20211015;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_BakerHughesUSOilRigCount;20211015;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CentralBankSpeech;20211015;16:20;Fed Williams speech;United States;USD;2
+COP_RetailSales;20211015;15:00;Retail Sales (YoY);Colombia;COP;1
+COP_Industrialoutput;20211015;15:00;Industrial output (YoY);Colombia;COP;1
+USD_MichiganConsumerSentimentIndex;20211015;14:00;Michigan Consumer Sentiment Index;United States;USD;3
+USD_BusinessInventories;20211015;14:00;Business Inventories;United States;USD;1
+USD_NYEmpireStateManufacturingIndex;20211015;12:30;NY Empire State Manufacturing Index;United States;USD;1
+USD_RetailSales;20211015;12:30;Retail Sales Control Group;United States;USD;3
+EUR_SloUnemploymentRate;20211015;12:30;Unemployment Rate;Slovakia;EUR;1
+USD_ExportPriceIndex;20211015;12:30;Export Price Index (MoM);United States;USD;1
+USD_ImportPriceIndex;20211015;12:30;Import Price Index (MoM);United States;USD;1
+CAD_WholesaleSales;20211015;12:30;Wholesale Sales (MoM);Canada;CAD;1
+INR_TradeDeficitGovernment;20211015;11:30;Trade Deficit Government;India;INR;1
+INR_FXReservesUSD;20211015;11:30;FX Reserves, USD;India;INR;1
+ILS_ConsumerPriceIndex;20211015;11:00;Consumer Price Index (YoY);Israel;ILS;1
+EUR_EurTradeBalance;20211015;09:00;Trade Balance n.s.a.;European Monetary Union;EUR;1
+EUR_ItaTradeBalanceEU;20211015;09:00;Trade Balance EU;Italy;EUR;1
+EUR_ItaGlobalTradeBalance;20211015;09:00;Global Trade Balance;Italy;EUR;1
+PLN_ConsumerPriceIndex;20211015;08:00;Consumer Price Index (MoM);Poland;PLN;1
+TRY_BudgetBalance;20211015;08:00;Budget Balance;Turkey;TRY;1
+EUR_ItaConsumerPriceIndex;20211015;08:00;Consumer Price Index (EU Norm) (YoY);Italy;EUR;1
+EUR_FraConsumerPriceIndex;20211015;06:45;Consumer Price Index (EU norm) (YoY);France;EUR;1
+EUR_FraInflationextobacco;20211015;06:45;Inflation ex-tobacco (MoM);France;EUR;1
+NOK_TradeBalance;20211015;06:00;Trade Balance;Norway;NOK;1
+EUR_FinGrossDomesticProduct;20211015;05:00;Gross Domestic Product (YoY);Finland;EUR;1
+JPY_TertiaryIndustryIndex;20211015;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+IDR_TradeBalance;20211015;04:00;Trade Balance;Indonesia;IDR;1
+IDR_Imports;20211015;04:00;Imports;Indonesia;IDR;1
+IDR_Exports;20211015;04:00;Exports;Indonesia;IDR;1
+KRW_TradeBalance;20211015;02:00;Trade Balance;South Korea;KRW;1
+USD_IMFMeeting;20211015;00:00;IMF Meeting;United States;USD;2
+EUR_EurEuropeanCouncilMeeting;20211015;00:00;European Council Meeting;European Monetary Union;EUR;3

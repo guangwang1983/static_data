@@ -1,0 +1,19 @@
+AUD_ConsumerPriceIndex;20240925;01:30;Monthly Consumer Price Index (YoY);Australia;AUD;3
+NOK_CreditIndicator;20240925;06:00;Credit Indicator;Norway;NOK;1
+SEK_ProducerPriceIndex;20240925;06:00;Producer Price Index (MoM);Sweden;SEK;1
+HUF_CurrentAccount;20240925;06:30;Current Account Balance (QoQ);Hungary;HUF;1
+EUR_FraConsumerConfidence;20240925;06:45;Consumer Confidence;France;EUR;1
+SEK_RiksbankInterestRateDecision;20240925;07:30;Riksbank Interest Rate Decision;Sweden;SEK;2
+GBP_CentralBankSpeech;20240925;08:00;BoE Greene speech;United Kingdom;GBP;2
+CHF_ZEWSurvey–Expectations;20240925;08:00;ZEW Survey – Expectations;Switzerland;CHF;2
+USD_MBAMortgageApplications;20240925;11:00;MBA Mortgage Applications;United States;USD;1
+BRL_MidmonthInflation;20240925;12:00;Mid-month Inflation;Brazil;BRL;1
+BRL_CurrentAccount;20240925;12:30;Current Account;Brazil;BRL;1
+CZK_CNBInterestRateDecision;20240925;12:30;CNB Interest Rate Decision;Czech Republic;CZK;1
+USD_NewHomeSales;20240925;14:00;New Home Sales (MoM);United States;USD;1
+USD_NewHomeSalesChange;20240925;14:00;New Home Sales Change (MoM);United States;USD;2
+USD_EIACrudeOilStocksChange;20240925;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+RUB_IndustrialOutput;20240925;16:00;Industrial Output;Russia;RUB;1
+USD_Auction;20240925;17:00;5-Year Note Auction;United States;USD;1
+USD_CentralBankSpeech;20240925;20:00;Fed Kugler speech;United States;USD;2
+JPY_BoJMonetaryPolicyMeetingMinutes;20240925;23:50;BoJ Monetary Policy Meeting Minutes;Japan;JPY;2

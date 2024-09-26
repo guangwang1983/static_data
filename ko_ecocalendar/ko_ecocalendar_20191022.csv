@@ -1,0 +1,21 @@
+EUR_EurECBBankLendingSurvey;20191022;08:00;ECB Bank Lending Survey;European Monetary Union;EUR;3
+GBP_PublicSectorNetBorrowing;20191022;08:30;Public Sector Net Borrowing;United Kingdom;GBP;2
+GBP_CBIIndustrialTrendsSurvey–Orders;20191022;10:00;CBI Industrial Trends Survey – Orders (MoM);United Kingdom;GBP;1
+ILS_GrossDomesticProduct;20191022;10:00;Gross Domestic Product (QoQ);Israel;ILS;1
+MXN_JoblessRate;20191022;11:00;Jobless Rate;Mexico;MXN;1
+HUF_MNBInterestRateDecision;20191022;12:00;MNB Interest Rate Decision;Hungary;HUF;1
+BRL_MidmonthInflation;20191022;12:00;Mid-month Inflation;Brazil;BRL;1
+PLN_M3MoneySupply;20191022;12:00;M3 Money Supply (YoY);Poland;PLN;1
+CAD_RetailSales;20191022;12:30;Retail Sales ex Autos (MoM);Canada;CAD;2
+USD_RedbookIndex;20191022;12:55;Redbook Index (YoY);United States;USD;1
+USD_ExistingHomeSales;20191022;14:00;Existing Home Sales (MoM);United States;USD;2
+USD_ExistingHomeSalesChange;20191022;14:00;Existing Home Sales Change (MoM);United States;USD;1
+USD_RichmondFedManufacturingIndex;20191022;14:01;Richmond Fed Manufacturing Index;United States;USD;1
+CAD_BankofCanadaBusinessOutlookSurvey;20191022;14:30;Bank of Canada Business Outlook Survey;Canada;CAD;2
+USD_Auction;20191022;18:00;2-Year Note Auction;United States;USD;1
+GBP_UKParliamentaryVoteonBrexit;20191022;18:00;UK Parliamentary Vote on Brexit;United Kingdom;GBP;3
+USD_APIWeeklyCrudeOilStock;20191022;20:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_Imports;20191022;21:45;Imports;New Zealand;NZD;1
+NZD_TradeBalanceNZD;20191022;21:45;Trade Balance NZD (YoY);New Zealand;NZD;2
+NZD_Exports;20191022;21:45;Exports;New Zealand;NZD;2
+AUD_CentralBankSpeech;20191022;22:20;RBA Kent speech;Australia;AUD;2

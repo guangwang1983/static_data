@@ -1,0 +1,40 @@
+JPY_ForeignBondInvestment;20190417;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20190417;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+USD_FedBeigeBook;20190417;18:00;Fed Beige Book;United States;USD;2
+USD_CentralBankSpeech;20190417;16:45;Fed Bullard speech;United States;USD;2
+USD_EIACrudeOilStocksChange;20190417;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+EUR_EurCentralBankSpeech;20190417;14:30;ECB Lautenschläger speech;European Monetary Union;EUR;2
+USD_WholesaleInventories;20190417;14:00;Wholesale Inventories;United States;USD;1
+GBP_CentralBankSpeech;20190417;13:00;BoE Governor Carney speech;United Kingdom;GBP;3
+USD_TradeBalance;20190417;12:30;Trade Balance;United States;USD;2
+CAD_Imports;20190417;12:30;Imports;Canada;CAD;1
+CAD_Exports;20190417;12:30;Exports;Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20190417;12:30;International Merchandise Trade;Canada;CAD;1
+CAD_ConsumerPriceIndex;20190417;12:30;Consumer Price Index (YoY);Canada;CAD;2
+USD_MBAMortgageApplications;20190417;11:00;MBA Mortgage Applications;United States;USD;1
+ZAR_RetailSales;20190417;11:00;Retail Sales (YoY);South Africa;ZAR;1
+EUR_GerAuction;20190417;09:51;30-y Bond Auction;Germany;EUR;1
+EUR_ItaTradeBalanceEU;20190417;09:05;Trade Balance EU;Italy;EUR;1
+EUR_ItaGlobalTradeBalance;20190417;09:04;Global Trade Balance;Italy;EUR;1
+EUR_EurTradeBalance;20190417;09:00;Trade Balance n.s.a.;European Monetary Union;EUR;1
+EUR_EurConsumerPriceIndex;20190417;09:00;Consumer Price Index - Core (YoY);European Monetary Union;EUR;2
+GBP_RetailPriceIndex;20190417;08:30;Retail Price Index (YoY);United Kingdom;GBP;2
+GBP_DCLGHousePriceIndex;20190417;08:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_PPICoreOutput;20190417;08:30;PPI Core Output (YoY) n.s.a ;United Kingdom;GBP;2
+GBP_ProducerPriceIndex;20190417;08:30;Producer Price Index - Input (MoM) n.s.a;United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20190417;08:30;Consumer Price Index (YoY);United Kingdom;GBP;3
+EUR_EurCurrentAccount;20190417;08:00;Current Account s.a;European Monetary Union;EUR;1
+EUR_ItaConsumerPriceIndex;20190417;08:00;Consumer Price Index (YoY);Italy;EUR;1
+ZAR_ConsumerPriceIndex;20190417;08:00;Consumer Price Index (MoM);South Africa;ZAR;1
+PLN_CorporateSectorWages;20190417;08:00;Corporate Sector Wages;Poland;PLN;1
+EUR_AusHICP;20190417;07:00;HICP (MoM);Austria;EUR;1
+EUR_SloEUNormInflation;20190417;07:00;EU Norm Inflation (YoY);Slovakia;EUR;1
+JPY_IndustrialProduction;20190417;04:30;Industrial Production (YoY);Japan;JPY;2
+JPY_CapacityUtilization;20190417;04:30;Capacity Utilization;Japan;JPY;1
+CNY_RetailSales;20190417;02:00;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20190417;02:00;Industrial Production (YoY);China;CNY;2
+CNY_NBSPressConference;20190417;02:00;NBS Press Conference;China;CNY;2
+CNY_FixedAssetInvestment;20190417;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+CNY_GrossDomesticProduct;20190417;02:00;Gross Domestic Product (YoY);China;CNY;3
+AUD_WestpacLeadingIndex;20190417;00:30;Westpac Leading Index (MoM);Australia;AUD;1
+INR_MahavirJayanti;20190417;00:00;Mahavir Jayanti ;India;INR;0

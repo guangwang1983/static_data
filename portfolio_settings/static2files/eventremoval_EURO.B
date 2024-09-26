@@ -1,0 +1,4 @@
+EUR_EurECBInterestRateDecision 0
+GBP_BoEInterestRateDecision 0
+USD_NonfarmPayrolls 0
+USD_ConsumerPriceIndex 0

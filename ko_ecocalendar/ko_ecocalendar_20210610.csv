@@ -1,0 +1,33 @@
+AUD_ConsumerInflationExpectations;20210610;01:00;Consumer Inflation Expectations;Australia;AUD;2
+IDR_RetailSales;20210610;03:00;Retail Sales (YoY);Indonesia;IDR;1
+AUD_HIANewHomeSales;20210610;04:30;HIA New Home Sales (MoM);Australia;AUD;2
+EUR_FraNonfarmPayrolls;20210610;05:30;Nonfarm Payrolls (QoQ);France;EUR;1
+NOK_CoreInflation;20210610;06:00;Core Inflation (MoM);Norway;NOK;1
+NOK_ConsumerPriceIndex;20210610;06:00;Consumer Price Index (MoM);Norway;NOK;1
+DKK_Inflation;20210610;06:00;Inflation (HICP) (YoY);Denmark;DKK;1
+DKK_ConsumerPriceIndex;20210610;06:00;Consumer Price Index (YoY);Denmark;DKK;1
+NOK_ProducerPriceIndex;20210610;06:00;Producer Price Index (YoY);Norway;NOK;1
+EUR_FraIndustrialOutput;20210610;06:45;Industrial Output (MoM);France;EUR;1
+CNY_M2MoneySupply;20210610;07:00;M2 Money Supply (YoY);China;CNY;1
+CZK_ConsumerPriceIndex;20210610;07:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+TRY_UnemploymentRate;20210610;07:00;Unemployment Rate;Turkey;TRY;1
+CNY_NewLoans;20210610;07:00;New Loans;China;CNY;1
+SEK_ConsumerPriceIndex;20210610;07:30;Consumer Price Index (YoY);Sweden;SEK;1
+EUR_ItaIndustrialOutput;20210610;08:00;Industrial Output s.a. (MoM);Italy;EUR;1
+ZAR_ManufacturingProductionIndex;20210610;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+EUR_EurECBRateOnMainRefinancingOperations;20210610;11:45;ECB Rate On Main Refinancing Operations;European Monetary Union;EUR;3
+EUR_EurECBRateOnDepositFacility;20210610;11:45;ECB Rate On Deposit Facility;European Monetary Union;EUR;3
+GBP_CentralBankSpeech;20210610;12:05;BoE Haldane speech;United Kingdom;GBP;2
+USD_JoblessClaims;20210610;12:30;Continuing Jobless Claims;United States;USD;1
+USD_ConsumerPriceIndex;20210610;12:30;Consumer Price Index (YoY);United States;USD;2
+EUR_EurECBPressConference;20210610;12:30;ECB Press Conference;European Monetary Union;EUR;3
+RUB_CentralBankReserves;20210610;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_EIANaturalGasStorageChange;20210610;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_USDAWASDEReport;20210610;16:00;USDA WASDE Report;United States;USD;1
+USD_Auction;20210610;17:00;30-Year Bond Auction;United States;USD;1
+CAD_CentralBankSpeech;20210610;17:00;BoC Lane speech;Canada;CAD;2
+USD_MonthlyBudgetStatement;20210610;18:00;Monthly Budget Statement;United States;USD;2
+KRW_ExportPriceGrowth;20210610;21:00;Export Price Growth (YoY);South Korea;KRW;1
+KRW_ImportPriceGrowth;20210610;21:00;Import Price Growth (YoY);South Korea;KRW;1
+NZD_BusinessNZPMI;20210610;22:30;Business NZ PMI;New Zealand;NZD;2
+JPY_BSILargeManufacturingConditionsIndex;20210610;23:50;BSI Large Manufacturing Conditions Index (QoQ);Japan;JPY;1

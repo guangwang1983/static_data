@@ -1,0 +1,70 @@
+EUR_EurEUleaderssummit;20240321;00:00;EU leaders summit;Eurozone;EUR;2
+JPY_JibunBankServicesPMI;20240321;00:30;Jibun Bank Services PMI;Japan;JPY;1
+JPY_JibunBankManufacturingPMI;20240321;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+AUD_FullTimeEmployment;20240321;00:30;Full-Time Employment;Australia;AUD;2
+AUD_EmploymentChange;20240321;00:30;Employment Change s.a.;Australia;AUD;3
+AUD_ParticipationRate;20240321;00:30;Participation Rate;Australia;AUD;2
+AUD_UnemploymentRate;20240321;00:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_PartTimeEmployment;20240321;00:30;Part-Time Employment;Australia;AUD;2
+NZD_CreditCardSpending;20240321;02:00;Credit Card Spending (YoY);New Zealand;NZD;1
+INR_HSBCCompositePMI;20240321;05:00;HSBC Composite PMI;India;INR;2
+INR_HSBCServicesPMI;20240321;05:00;HSBC Services PMI;India;INR;2
+INR_HSBCManufacturingPMI;20240321;05:00;HSBC Manufacturing PMI;India;INR;2
+MXN_BenitoJuarezBirthday;20240321;06:00;Benito Juarez Birthday;Mexico;MXN;0
+DKK_IndustrialOutlook;20240321;07:00;Industrial Outlook;Denmark;DKK;1
+GBP_PublicSectorNetBorrowing;20240321;07:00;Public Sector Net Borrowing;United Kingdom;GBP;1
+EUR_FraBusinessClimateinManufacturing;20240321;07:45;Business Climate in Manufacturing;France;EUR;1
+EUR_FraHCOBCompositePMI;20240321;08:15;HCOB Composite PMI;France;EUR;2
+EUR_FraHCOBServicesPMI;20240321;08:15;HCOB Services PMI;France;EUR;2
+EUR_FraHCOBManufacturingPMI;20240321;08:15;HCOB Manufacturing PMI;France;EUR;2
+EUR_GerHCOBCompositePMI;20240321;08:30;HCOB Composite PMI;Germany;EUR;3
+EUR_GerHCOBManufacturingPMI;20240321;08:30;HCOB Manufacturing PMI;Germany;EUR;3
+EUR_GerHCOBServicesPMI;20240321;08:30;HCOB Services PMI;Germany;EUR;3
+CHF_SNBInterestRateDecision;20240321;08:30;SNB Interest Rate Decision;Switzerland;CHF;3
+CHF_SNBMonetaryPolicyAssessment;20240321;08:30;SNB Monetary Policy Assessment;Switzerland;CHF;3
+PLN_RetailSales;20240321;09:00;Retail Sales (YoY);Poland;PLN;1
+EUR_EurCurrentAccount;20240321;09:00;Current Account s.a;Eurozone;EUR;1
+EUR_EurEconomicBulletin;20240321;09:00;Economic Bulletin;Eurozone;EUR;2
+EUR_EurHCOBManufacturingPMI;20240321;09:00;HCOB Manufacturing PMI;Eurozone;EUR;3
+EUR_EurHCOBCompositePMI;20240321;09:00;HCOB Composite PMI;Eurozone;EUR;3
+EUR_EurHCOBServicesPMI;20240321;09:00;HCOB Services PMI;Eurozone;EUR;3
+CHF_SNBPressConference;20240321;09:00;SNB Press Conference;Switzerland;CHF;3
+NOK_NorgesBankInterestRateDecision;20240321;09:00;Norges Bank Interest Rate Decision;Norway;NOK;2
+GBP_S&PGlobalCIPSManufacturingPMI;20240321;09:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;3
+GBP_S&PGlobalCIPSCompositePMI;20240321;09:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;3
+GBP_S&PGlobalCIPSServicesPMI;20240321;09:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;3
+EUR_GerGermanBubaMonthlyReport;20240321;11:00;German Buba Monthly Report;Germany;EUR;2
+TRY_CBRTInterestRateDecision;20240321;11:00;CBRT Interest Rate Decision;Turkey;TRY;2
+ILS_IndustrialProduction;20240321;11:00;Industrial Production (MoM);Israel;ILS;1
+MXN_RetailSales;20240321;12:00;Retail Sales (MoM);Mexico;MXN;1
+GBP_BoEAssetPurchaseFacility;20240321;12:00;BoE Asset Purchase Facility;United Kingdom;GBP;3
+GBP_BoEInterestRateDecision;20240321;12:00;BoE Interest Rate Decision;United Kingdom;GBP;3
+GBP_MonetaryPolicyReport;20240321;12:00;Monetary Policy Report;United Kingdom;GBP;3
+GBP_BoEMPCVoteRateHike;20240321;12:00;BoE MPC Vote Rate Hike;United Kingdom;GBP;3
+GBP_BoEMPCVoteRateCut;20240321;12:00;BoE MPC Vote Rate Cut;United Kingdom;GBP;3
+GBP_BoEMPCVoteRateUnchanged;20240321;12:00;BoE MPC Vote Rate Unchanged;United Kingdom;GBP;3
+GBP_BoEMinutes;20240321;12:00;BoE Minutes;United Kingdom;GBP;3
+USD_CurrentAccount;20240321;12:30;Current Account;United States;USD;1
+USD_JoblessClaims;20240321;12:30;Initial Jobless Claims;United States;USD;2
+USD_PhiladelphiaFedManufacturingSurvey;20240321;12:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+CAD_EmploymentInsuranceBeneficiariesChange;20240321;12:30;Employment Insurance Beneficiaries Change (MoM);Canada;CAD;1
+CAD_NewHousingPriceIndex;20240321;12:30;New Housing Price Index (MoM);Canada;CAD;1
+RUB_CentralBankReserves;20240321;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_S&PGlobalServicesPMI;20240321;13:45;S&P Global Services PMI;United States;USD;3
+USD_S&PGlobalManufacturingPMI;20240321;13:45;S&P Global Manufacturing PMI;United States;USD;3
+USD_S&PGlobalCompositePMI;20240321;13:45;S&P Global Composite PMI;United States;USD;2
+USD_ExistingHomeSales;20240321;14:00;Existing Home Sales (MoM);United States;USD;1
+USD_ExistingHomeSalesChange;20240321;14:00;Existing Home Sales Change (MoM);United States;USD;2
+USD_EIANaturalGasStorageChange;20240321;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_CentralBankSpeech;20240321;16:00;Fed Barr speech;United States;USD;2
+USD_Auction;20240321;17:00;10-year TIPS Auction;United States;USD;1
+MXN_CentralBankInterestRate;20240321;19:00;Central Bank Interest Rate;Mexico;MXN;2
+KRW_ProducerPriceIndex;20240321;21:00;Producer Price Index Growth (YoY);South Korea;KRW;1
+NZD_TradeBalanceNZD;20240321;21:45;Trade Balance NZD (MoM);New Zealand;NZD;1
+NZD_Imports;20240321;21:45;Imports;New Zealand;NZD;2
+NZD_Exports;20240321;21:45;Exports;New Zealand;NZD;2
+JPY_ConsumerPriceIndex;20240321;23:30;National Consumer Price Index (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20240321;23:30;National CPI ex Fresh Food (YoY);Japan;JPY;2
+JPY_NationalCPIexFoodEnergy;20240321;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_ForeignBondInvestment;20240321;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20240321;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1

@@ -1,0 +1,71 @@
+GBP_GfKConsumerConfidence;20190329;00:01;GfK Consumer Confidence;United Kingdom;GBP;2
+AUD_PrivateSectorCredit;20190329;00:30;Private Sector Credit (YoY);Australia;AUD;1
+JPY_VehicleProduction;20190329;04:00;Vehicle Production (YoY);Japan;JPY;1
+JPY_AnnualizedHousingStarts;20190329;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_HousingStarts;20190329;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_ConstructionOrders;20190329;05:00;Construction Orders (YoY);Japan;JPY;1
+ZAR_M3MoneySupply;20190329;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+ZAR_PrivateSectorCredit;20190329;06:00;Private Sector Credit;South Africa;ZAR;1
+EUR_GerImportPriceIndex;20190329;07:00;Import Price Index (MoM);Germany;EUR;1
+TRY_TradeBalance;20190329;07:00;Trade Balance;Turkey;TRY;1
+DKK_UnemploymentRate;20190329;07:00;Unemployment Rate;Denmark;DKK;1
+DKK_GrossDomesticProduct;20190329;07:00;Gross Domestic Product (YoY);Denmark;DKK;1
+GBP_NationwideHousingPrices;20190329;07:00;Nationwide Housing Prices s.a (MoM);United Kingdom;GBP;1
+TRY_ForeignArrivals;20190329;07:00;Foreign Arrivals;Turkey;TRY;1
+EUR_GerRetailSales;20190329;07:00;Retail Sales (MoM);Germany;EUR;2
+NOK_RetailSales;20190329;07:00;Retail Sales ;Norway;NOK;1
+EUR_FraConsumerPriceIndex;20190329;07:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraConsumerSpending;20190329;07:45;Consumer Spending (MoM);France;EUR;1
+EUR_FraBudgetBalance;20190329;07:45;Budget Balance;France;EUR;1
+HUF_GrossWages;20190329;08:00;Gross Wages (YoY);Hungary;HUF;1
+CHF_KOFLeadingIndicator;20190329;08:00;KOF Leading Indicator;Switzerland;CHF;2
+HUF_ProducerPriceIndex;20190329;08:00;Producer Price Index (YoY);Hungary;HUF;1
+EUR_GerUnemploymentRate;20190329;08:55;Unemployment Rate s.a.;Germany;EUR;2
+EUR_GerUnemploymentChange;20190329;08:55;Unemployment Change;Germany;EUR;2
+PLN_ConsumerPriceIndex;20190329;09:00;Consumer Price Index (YoY);Poland;PLN;1
+NOK_RegisteredUnemployment;20190329;09:00;Registered Unemployment n.s.a;Norway;NOK;1
+GBP_NetLendingtoIndividuals;20190329;09:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_GrossDomesticProduct;20190329;09:30;Gross Domestic Product (YoY);United Kingdom;GBP;2
+GBP_TotalBusinessInvestment;20190329;09:30;Total Business Investment (QoQ);United Kingdom;GBP;1
+GBP_ConsumerCredit;20190329;09:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20190329;09:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_M4MoneySupply;20190329;09:30;M4 Money Supply (MoM);United Kingdom;GBP;1
+GBP_CurrentAccount;20190329;09:30;Current Account;United Kingdom;GBP;1
+EUR_EurCentralBankSpeech;20190329;09:45;ECB Cœuré speech;European Monetary Union;EUR;2
+EUR_ItaConsumerPriceIndex;20190329;10:00;Consumer Price Index (YoY);Italy;EUR;1
+INR_FederalFiscalDeficitINR;20190329;10:00;Federal Fiscal Deficit, INR;India;INR;1
+EUR_ItaProducerPriceIndex;20190329;11:05;Producer Price Index (YoY);Italy;EUR;1
+INR_BankLoanGrowth;20190329;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20190329;11:30;FX Reserves, USD;India;INR;1
+INR_BalancePayment;20190329;12:00;Balance Payment $;India;INR;1
+CLP_Unemploymentrate;20190329;12:00;Unemployment rate;Chile;CLP;1
+INR_CurrentAccount;20190329;12:00;Current Account Balance $;India;INR;1
+ZAR_TradeBalance;20190329;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+CLP_IndustrialProduction;20190329;12:00;Industrial Production (YoY);Chile;CLP;1
+BRL_UnemploymentRate;20190329;12:11;Unemployment Rate;Brazil;BRL;1
+USD_CorePersonalConsumptionExpendituresPriceIndex;20190329;12:30;Core Personal Consumption Expenditures - Price Index (MoM);United States;USD;2
+USD_PersonalConsumptionExpendituresPriceIndex;20190329;12:30;Personal Consumption Expenditures - Price Index (YoY);United States;USD;1
+USD_PersonalIncome;20190329;12:30;Personal Income (MoM);United States;USD;2
+USD_PersonalSpending;20190329;12:30;Personal Spending;United States;USD;2
+CAD_RawMaterialPriceIndex;20190329;12:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20190329;12:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_GrossDomesticProduct;20190329;12:30;Gross Domestic Product (MoM);Canada;CAD;2
+BRL_PrimaryBudgetSurplus;20190329;13:30;Primary Budget Surplus;Brazil;BRL;1
+BRL_NominalBudgetBalance;20190329;13:30;Nominal Budget Balance;Brazil;BRL;1
+USD_ChicagoPurchasingManagers'Index;20190329;13:52;Chicago Purchasing Managers' Index;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20190329;14:00;Michigan Consumer Sentiment Index;United States;USD;2
+USD_NewHomeSales;20190329;14:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20190329;14:00;New Home Sales Change (MoM);United States;USD;1
+GBP_UKParliamentaryVoteonBrexit;20190329;14:30;UK Parliamentary Vote on Brexit;United Kingdom;GBP;3
+COP_NationalJoblessRate;20190329;15:00;National Jobless Rate;Colombia;COP;1
+USD_CentralBankSpeech;20190329;16:05;Fed Quarles speech;United States;USD;2
+USD_BakerHughesUSOilRigCount;20190329;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+AUD_CFTCAUDNCNetPositions;20190329;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20190329;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+USD_CFTCS&P500NCNetPositions;20190329;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20190329;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+GBP_CFTCGBPNCNetPositions;20190329;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20190329;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20190329;19:30;CFTC Oil NC Net Positions;United States;USD;1
+CLP_BCCHInterestRate;20190329;21:00;BCCH Interest Rate;Chile;CLP;1
+MXN_FiscalBalancepesos;20190329;21:00;Fiscal Balance, pesos;Mexico;MXN;1

@@ -1,0 +1,10 @@
+USD_ExistingHomeSalesChange;20100923;14:00;Existing Home Sales Change (MoM);United States;USD;2
+USD_ExistingHomeSales;20100923;14:00;Existing Home Sales (MoM);United States;USD;2
+USD_JoblessClaims;20100923;12:30;Continuing Jobless Claims;United States;USD;1
+GBP_BBAMortgageApprovals;20100923;08:30;BBA Mortgage Approvals;United Kingdom;GBP;1
+EUR_EurMarkitManufacturingPMI;20100923;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20100923;08:00;Markit Services PMI;European Monetary Union;EUR;1
+EUR_GerMarkitServicesPMI;20100923;07:30;Markit Services PMI;Germany;EUR;2
+EUR_GerMarkitManufacturingPMI;20100923;07:30;Markit Manufacturing PMI;Germany;EUR;2
+AUD_RBAForeignExchangeTransaction;20100923;01:30;RBA Foreign Exchange Transaction;Australia;AUD;1
+JPY_AutumnalEquinoxDay;20100923;00:00;Autumnal Equinox Day;Japan;JPY;0

@@ -1,0 +1,10 @@
+NZD_RetailSales;20090212;21:45;Retail Sales ex Autos (QoQ);New Zealand;NZD;2
+USD_BusinessInventories;20090212;15:00;Business Inventories;United States;USD;1
+USD_RetailSales;20090212;13:30;Retail Sales ex Autos (MoM);United States;USD;3
+USD_JoblessClaims;20090212;13:30;Initial Jobless Claims;United States;USD;2
+EUR_EurIndustrialProduction;20090212;10:00;Industrial Production s.a. (MoM);European Monetary Union;EUR;1
+EUR_EurECBMonthlyReport;20090212;09:00;ECB Monthly Report;European Monetary Union;EUR;2
+CHF_SECOConsumerClimate;20090212;06:45;SECO Consumer Climate (3m);Switzerland;CHF;1
+AUD_UnemploymentRate;20090212;00:30;Unemployment Rate s.a.;Australia;AUD;2
+AUD_EmploymentChange;20090212;00:30;Employment Change s.a.;Australia;AUD;2
+AUD_ConsumerInflationExpectations;20090212;00:00;Consumer Inflation Expectations;Australia;AUD;1

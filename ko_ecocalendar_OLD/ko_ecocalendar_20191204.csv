@@ -1,0 +1,38 @@
+JPY_ForeignInvestmentinJapanStocks;20191204;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20191204;23:50;Foreign Bond Investment;Japan;JPY;2
+KRW_CurrentAccount;20191204;23:00;Current Account Balance;South Korea;KRW;1
+CAD_BoCPressConference;20191204;16:15;BoC Press Conference;Canada;CAD;3
+USD_EIACrudeOilStocksChange;20191204;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_CentralBankSpeech;20191204;15:00;Fed Quarles speech;United States;USD;2
+USD_ISMNonManufacturingPMI;20191204;15:00;ISM Non-Manufacturing PMI;United States;USD;3
+CAD_BoCRateStatement;20191204;15:00;BoC Rate Statement;Canada;CAD;3
+CAD_BoCInterestRateDecision;20191204;15:00;BoC Interest Rate Decision;Canada;CAD;3
+USD_MarkitPMIComposite;20191204;14:45;Markit PMI Composite;United States;USD;2
+USD_MarkitServicesPMI;20191204;14:45;Markit Services PMI;United States;USD;2
+CAD_LaborProductivity;20191204;13:30;Labor Productivity (QoQ);Canada;CAD;1
+USD_ADPEmploymentChange;20191204;13:15;ADP Employment Change;United States;USD;2
+PLN_NBPBaserate;20191204;13:00;NBP Base rate;Poland;PLN;1
+USD_MBAMortgageApplications;20191204;12:00;MBA Mortgage Applications;United States;USD;1
+INR_M3MoneySupply;20191204;11:30;M3 Money Supply;India;INR;1
+BRL_IndustrialOutput;20191204;11:00;Industrial Output (YoY);Brazil;BRL;1
+EUR_GerAuction;20191204;10:40;10-y Bond Auction;Germany;EUR;2
+GBP_MarkitServicesPMI;20191204;09:30;Markit Services PMI;United Kingdom;GBP;2
+EUR_EurMarkitServicesPMI;20191204;09:00;Markit Services PMI;European Monetary Union;EUR;1
+EUR_EurMarkitPMIComposite;20191204;09:00;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_GerMarkitServicesPMI;20191204;08:55;Markit Services PMI;Germany;EUR;1
+EUR_GerMarkitPMIComposite;20191204;08:55;Markit PMI Composite;Germany;EUR;2
+EUR_FraMarkitServicesPMI;20191204;08:50;Markit Services PMI;France;EUR;1
+EUR_FraMarkitPMIComposite;20191204;08:50;Markit PMI Composite;France;EUR;1
+EUR_ItaMarkitServicesPMI;20191204;08:45;Markit Services PMI;Italy;EUR;1
+SEK_CurrentAccount;20191204;08:30;Current Account (QoQ);Sweden;SEK;1
+EUR_SpaMarkitServicesPMI;20191204;08:15;Markit Services PMI;Spain;EUR;1
+NOK_CurrentAccount;20191204;07:00;Current Account;Norway;NOK;1
+BRL_FipeIPCInflation;20191204;07:00;Fipe IPC Inflation;Brazil;BRL;1
+RUB_PurchasingManagerIndexServices;20191204;06:00;Purchasing Manager Index Services;Russia;RUB;1
+CNY_CaixinServicesPMI;20191204;01:45;Caixin Services PMI;China;CNY;2
+EUR_IrePurchasingManagerIndexServices;20191204;01:01;Purchasing Manager Index Services;Ireland;EUR;1
+HKD_NikkeiManufacturingPMI;20191204;00:30;Nikkei Manufacturing PMI;Hong Kong SAR;HKD;1
+AUD_GrossDomesticProduct;20191204;00:30;Gross Domestic Product (QoQ);Australia;AUD;3
+JPY_JibunBankServicesPMI;20191204;00:30;Jibun Bank Services PMI;Japan;JPY;1
+EUR_EurEurogroupMeeting;20191204;00:00;Eurogroup Meeting;European Monetary Union;EUR;2
+NZD_ANZCommodityPrice;20191204;00:00;ANZ Commodity Price;New Zealand;NZD;1

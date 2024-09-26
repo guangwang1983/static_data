@@ -1,0 +1,31 @@
+JPY_LaborCashEarnings;20160905;00:00;Labor Cash Earnings (YoY);Japan;JPY;1
+CAD_LaborDay;20160905;00:00;Labor Day;Canada;CAD;0
+USD_LaborDay;20160905;00:00;Labor Day;United States;USD;0
+EUR_EurG20Meeting;20160905;00:00;G20 Meeting;European Monetary Union;EUR;2
+JPY_JibunBankServicesPMI;20160905;00:30;Jibun Bank Services PMI;Japan;JPY;1
+NZD_ANZCommodityPrice;20160905;01:00;ANZ Commodity Price;New Zealand;NZD;1
+AUD_TDSecuritiesInflation;20160905;01:00;TD Securities Inflation (MoM);Australia;AUD;2
+AUD_CompanyGrossOperatingProfits;20160905;01:30;Company Gross Operating Profits (QoQ);Australia;AUD;1
+AUD_ANZJobAdvertisements;20160905;01:30;ANZ Job Advertisements;Australia;AUD;1
+CNY_CaixinServicesPMI;20160905;01:45;Caixin Services PMI;China;CNY;2
+JPY_CentralBankSpeech;20160905;02:30;BoJ Governor Kuroda speech;Japan;JPY;3
+RUB_S&PGlobalServicesPMI;20160905;06:00;S&P Global Services PMI;Russia;RUB;1
+TRY_ProducerPriceIndex;20160905;07:00;Producer Price Index (YoY);Turkey;TRY;1
+CZK_RetailSales;20160905;07:00;Retail Sales (YoY);Czech Republic;CZK;1
+TRY_ConsumerPriceIndex;20160905;07:00;Consumer Price Index (YoY);Turkey;TRY;1
+HUF_RetailSales;20160905;07:00;Retail Sales (YoY);Hungary;HUF;1
+SEK_IndustrialProductionValue;20160905;07:30;Industrial Production Value (YoY);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20160905;07:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+EUR_ItaHCOBServicesPMI;20160905;07:45;HCOB Services PMI;Italy;EUR;1
+EUR_FraHCOBServicesPMI;20160905;07:50;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20160905;07:50;HCOB Composite PMI;France;EUR;1
+EUR_GerHCOBServicesPMI;20160905;07:55;HCOB Services PMI;Germany;EUR;1
+EUR_GerHCOBCompositePMI;20160905;07:55;HCOB Composite PMI;Germany;EUR;1
+EUR_EurHCOBServicesPMI;20160905;08:00;HCOB Services PMI;European Monetary Union;EUR;2
+EUR_EurHCOBCompositePMI;20160905;08:00;HCOB Composite PMI;European Monetary Union;EUR;2
+EUR_EurSentixInvestorConfidence;20160905;08:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+GBP_S&PGlobalCIPSServicesPMI;20160905;08:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;3
+EUR_EurRetailSales;20160905;09:00;Retail Sales (YoY);European Monetary Union;EUR;2
+CLP_IMACEC;20160905;11:30;IMACEC;Chile;CLP;1
+RUB_ConsumerPriceIndex;20160905;13:00;Consumer Price Index (MoM);Russia;RUB;1
+GBP_RetailSales;20160905;23:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2

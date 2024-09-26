@@ -1,0 +1,28 @@
+NZD_GrossDomesticProduct;20110713;22:45;Gross Domestic Product (QoQ);New Zealand;NZD;2
+NZD_BusinessNZPMI;20110713;22:30;Business NZ PMI;New Zealand;NZD;2
+USD_MonthlyBudgetStatement;20110713;18:00;Monthly Budget Statement;United States;USD;2
+USD_EIACrudeOilStocksChange;20110713;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_FedChairBernanketestifies;20110713;14:00;Fed Chair Bernanke testifies;United States;USD;3
+USD_ImportPriceIndex;20110713;12:30;Import Price Index (MoM);United States;USD;1
+USD_ExportPriceIndex;20110713;12:30;Export Price Index (MoM);United States;USD;1
+PLN_ConsumerPriceIndex;20110713;12:00;Consumer Price Index (MoM);Poland;PLN;1
+EUR_EurECBDepositRateDecision;20110713;11:45;ECB Deposit Rate Decision;European Monetary Union;EUR;2
+USD_MBAMortgageApplications;20110713;11:00;MBA Mortgage Applications;United States;USD;1
+EUR_EurIndustrialProduction;20110713;09:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;2
+GBP_AverageEarningsExcludingBonus;20110713;08:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;1
+GBP_AverageEarningsIncludingBonus;20110713;08:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountChange;20110713;08:30;Claimant Count Change;United Kingdom;GBP;2
+GBP_ClaimantCountRate;20110713;08:30;Claimant Count Rate;United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20110713;08:30;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+CHF_ProducerandImportPrices;20110713;07:15;Producer and Import Prices (MoM);Switzerland;CHF;1
+EUR_SpaHICP;20110713;07:00;HICP (YoY);Spain;EUR;1
+EUR_SpaConsumerPriceIndex;20110713;07:00;Consumer Price Index (MoM);Spain;EUR;1
+EUR_GerWholesalePriceIndex;20110713;06:00;Wholesale Price Index (MoM);Germany;EUR;1
+JPY_BoJMonthlyEconomicSurvey;20110713;05:00;BoJ Monthly Economic Survey;Japan;JPY;2
+JPY_IndustrialProduction;20110713;04:30;Industrial Production (MoM);Japan;JPY;2
+JPY_CapacityUtilization;20110713;04:30;Capacity Utilization;Japan;JPY;1
+KRW_MoneySupplyGrowth;20110713;03:00;Money Supply Growth;South Korea;KRW;1
+CNY_RetailSales;20110713;02:00;Retail Sales (YoY);China;CNY;1
+CNY_IndustrialProduction;20110713;02:00;Industrial Production (YoY);China;CNY;1
+CNY_GrossDomesticProduct;20110713;02:00;Gross Domestic Product (YoY);China;CNY;2
+AUD_WestpacConsumerConfidence;20110713;00:30;Westpac Consumer Confidence;Australia;AUD;2

@@ -1,0 +1,26 @@
+INR_MahavirJayanti;20150402;00:00;Mahavir Jayanti ;India;INR;0
+COP_MaundyThursday;20150402;00:00;Maundy Thursday;Colombia;COP;0
+MXN_MaundyThursday;20150402;00:00;Maundy Thursday ;Mexico;MXN;0
+DKK_MaundyThursday;20150402;00:00;Maundy Thursday ;Denmark;DKK;0
+NOK_MaundyThursday;20150402;00:00;Maundy Thursday;Norway;NOK;0
+NZD_ANZCommodityPrice;20150402;00:00;ANZ Commodity Price;New Zealand;NZD;1
+AUD_Imports;20150402;00:30;Imports (MoM);Australia;AUD;1
+AUD_Exports;20150402;00:30;Exports (MoM);Australia;AUD;1
+AUD_TradeBalance;20150402;00:30;Trade Balance (MoM);Australia;AUD;2
+EUR_ItaPublicDeficitGDP;20150402;08:00;Public Deficit/GDP;Italy;EUR;1
+GBP_S&PGlobalConstructionPMI;20150402;08:30;S&P Global Construction PMI;United Kingdom;GBP;2
+EUR_FraAuction;20150402;09:20;10-y Bond Auction;France;EUR;1
+BRL_FipeIPCInflation;20150402;11:00;Fipe IPC Inflation;Brazil;BRL;1
+USD_ChallengerJobCuts;20150402;11:30;Challenger Job Cuts;United States;USD;1
+EUR_EurECBMonetaryPolicyMeetingAccounts;20150402;11:30;ECB Monetary Policy Meeting Accounts;European Monetary Union;EUR;3
+USD_CentralBankSpeech;20150402;11:40;Fed Chair Yellen speech;United States;USD;2
+USD_GoodsandServicesTradeBalance;20150402;12:30;Goods and Services Trade Balance;United States;USD;2
+USD_JoblessClaims;20150402;12:30;Continuing Jobless Claims;United States;USD;2
+CAD_Imports;20150402;12:30;Imports;Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20150402;12:30;International Merchandise Trade;Canada;CAD;1
+CAD_Exports;20150402;12:30;Exports;Canada;CAD;1
+RUB_CentralBankReserves;20150402;12:52;Central Bank Reserves $;Russia;RUB;1
+USD_ISMNYBusinessConditionsIndex;20150402;13:45;ISM-NY Business Conditions Index;United States;USD;1
+USD_FactoryOrders;20150402;14:00;Factory Orders (MoM);United States;USD;2
+USD_EIANaturalGasStorageChange;20150402;14:30;EIA Natural Gas Storage Change;United States;USD;1
+KRW_FXReserves;20150402;21:00;FX Reserves;South Korea;KRW;1

@@ -1,0 +1,46 @@
+EUR_EurG7Meeting;20200603;00:00;G7 Meeting;European Monetary Union;EUR;3
+JPY_JibunBankServicesPMI;20200603;00:30;Jibun Bank Services PMI;Japan;JPY;1
+AUD_CentralBankSpeech;20200603;01:10;RBA Bullock speech;Australia;AUD;2
+AUD_GrossDomesticProduct;20200603;01:30;Gross Domestic Product (QoQ);Australia;AUD;3
+AUD_BuildingPermits;20200603;01:30;Building Permits (YoY);Australia;AUD;1
+CNY_CaixinServicesPMI;20200603;01:45;Caixin Services PMI;China;CNY;2
+CHF_GrossDomesticProduct;20200603;05:45;Gross Domestic Product (YoY);Switzerland;CHF;2
+RUB_S&PGlobalServicesPMI;20200603;06:00;S&P Global Services PMI;Russia;RUB;1
+NOK_CurrentAccount;20200603;06:00;Current Account;Norway;NOK;1
+TRY_ProducerPriceIndex;20200603;07:00;Producer Price Index (MoM);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20200603;07:00;Consumer Price Index (YoY);Turkey;TRY;1
+EUR_ItaHCOBServicesPMI;20200603;07:45;HCOB Services PMI;Italy;EUR;1
+EUR_FraHCOBServicesPMI;20200603;07:50;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20200603;07:50;HCOB Composite PMI;France;EUR;1
+EUR_GerUnemploymentRate;20200603;07:55;Unemployment Rate s.a.;Germany;EUR;3
+EUR_GerUnemploymentChange;20200603;07:55;Unemployment Change;Germany;EUR;3
+EUR_GerHCOBServicesPMI;20200603;07:55;HCOB Services PMI;Germany;EUR;1
+EUR_GerHCOBCompositePMI;20200603;07:55;HCOB Composite PMI;Germany;EUR;2
+EUR_ItaUnemployment;20200603;08:00;Unemployment;Italy;EUR;2
+BRL_FipeIPCInflation;20200603;08:00;Fipe IPC Inflation;Brazil;BRL;1
+EUR_EurHCOBCompositePMI;20200603;08:00;HCOB Composite PMI;European Monetary Union;EUR;1
+EUR_EurHCOBServicesPMI;20200603;08:00;HCOB Services PMI;European Monetary Union;EUR;1
+GBP_S&PGlobalCIPSCompositePMI;20200603;08:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSServicesPMI;20200603;08:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;2
+EUR_EurUnemploymentRate;20200603;09:00;Unemployment Rate;European Monetary Union;EUR;3
+EUR_EurProducerPriceIndex;20200603;09:00;Producer Price Index (MoM);European Monetary Union;EUR;1
+USD_MBAMortgageApplications;20200603;11:00;MBA Mortgage Applications;United States;USD;1
+INR_M3MoneySupply;20200603;11:30;M3 Money Supply;India;INR;1
+USD_G7CallonCoronavirus;20200603;12:00;G7 Call on Coronavirus;United States;USD;3
+BRL_IndustrialOutput;20200603;12:00;Industrial Output (MoM);Brazil;BRL;1
+USD_ADPEmploymentChange;20200603;12:15;ADP Employment Change;United States;USD;3
+CAD_LaborProductivity;20200603;12:30;Labor Productivity (QoQ);Canada;CAD;1
+USD_S&PGlobalCompositePMI;20200603;13:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20200603;13:45;S&P Global Services PMI;United States;USD;2
+USD_ISMServicesEmploymentIndex;20200603;14:00;ISM Services Employment Index;United States;USD;3
+USD_ISMServicesPricesPaid;20200603;14:00;ISM Services Prices Paid;United States;USD;2
+USD_ISMServicesPMI;20200603;14:00;ISM Services PMI;United States;USD;3
+USD_ISMServicesNewOrdersIndex;20200603;14:00;ISM Services New Orders Index;United States;USD;2
+USD_FactoryOrders;20200603;14:00;Factory Orders (MoM);United States;USD;2
+CAD_BoCInterestRateDecision;20200603;14:00;BoC Interest Rate Decision;Canada;CAD;3
+CAD_BoCRateStatement;20200603;14:00;BoC Rate Statement;Canada;CAD;3
+USD_EIACrudeOilStocksChange;20200603;14:30;EIA Crude Oil Stocks Change;United States;USD;2
+DKK_CurrencyReserves;20200603;15:00;Currency Reserves;Denmark;DKK;1
+KRW_CurrentAccount;20200603;23:00;Current Account Balance;South Korea;KRW;1
+JPY_ForeignInvestmentinJapanStocks;20200603;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20200603;23:50;Foreign Bond Investment;Japan;JPY;1

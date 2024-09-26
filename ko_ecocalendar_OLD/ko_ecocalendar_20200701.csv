@@ -1,0 +1,61 @@
+JPY_MonetaryBase;20200701;23:50;Monetary Base (YoY);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20200701;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20200701;23:50;Foreign Bond Investment;Japan;JPY;1
+KRW_ConsumerPriceIndex;20200701;23:00;Consumer Price Index Growth (YoY);South Korea;KRW;1
+ARS_TaxRevenue;20200701;20:00;Tax Revenue (MoM);Argentina;ARS;1
+USD_TotalVehicleSales;20200701;19:30;Total Vehicle Sales;United States;USD;1
+USD_FOMCMinutes;20200701;18:00;FOMC Minutes;United States;USD;3
+USD_EIACrudeOilStocksChange;20200701;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_ISMManufacturingPricesPaid;20200701;14:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ISMManufacturingPMI;20200701;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingEmploymentIndex;20200701;14:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ISMManufacturingNewOrdersIndex;20200701;14:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ConstructionSpending;20200701;14:00;Construction Spending (MoM);United States;USD;1
+USD_MarkitManufacturingPMI;20200701;13:45;Markit Manufacturing PMI;United States;USD;2
+BRL_HSBCPMIManufacturing;20200701;13:00;HSBC PMI Manufacturing;Brazil;BRL;1
+USD_ADPEmploymentChange;20200701;12:15;ADP Employment Change;United States;USD;3
+ZAR_TotalNewVehicleSales;20200701;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+CZK_BudgetBalance;20200701;12:00;Budget Balance;Czech Republic;CZK;1
+USD_ChallengerJobCuts;20200701;11:30;Challenger Job Cuts;United States;USD;1
+GBP_CentralBankSpeech;20200701;11:00;BoE Haskel speech;United Kingdom;GBP;2
+ILS_FXReserves;20200701;11:00;FX Reserves;Israel;ILS;1
+USD_MBAMortgageApplications;20200701;11:00;MBA Mortgage Applications;United States;USD;1
+CLP_IMACEC;20200701;10:30;IMACEC;Chile;CLP;1
+ILS_BudgetBalanceILS;20200701;10:00;Budget Balance - ILS;Israel;ILS;1
+BRL_TradeBalance;20200701;10:00;Trade Balance;Brazil;BRL;1
+ZAR_BusinessConfidenceIndex;20200701;09:30;Business Confidence Index;South Africa;ZAR;1
+TRY_Exports;20200701;09:00;Exports;Turkey;TRY;1
+DKK_ManufacturingPMI;20200701;09:00;Manufacturing PMI;Denmark;DKK;1
+GBP_MarkitManufacturingPMI;20200701;08:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+EUR_GreMarkitManufacturingPMI;20200701;08:00;Markit Manufacturing PMI;Greece;EUR;1
+EUR_EurMarkitManufacturingPMI;20200701;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;1
+EUR_GerUnemploymentRate;20200701;07:55;Unemployment Rate s.a.;Germany;EUR;3
+EUR_GerUnemploymentChange;20200701;07:55;Unemployment Change;Germany;EUR;3
+EUR_GerMarkitManufacturingPMI;20200701;07:55;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20200701;07:50;Markit Manufacturing PMI;France;EUR;1
+EUR_EurCentralBankSpeech;20200701;07:45;ECB Panetta speech;European Monetary Union;EUR;2
+EUR_ItaMarkitManufacturingPMI;20200701;07:45;Markit Manufacturing PMI;Italy;EUR;1
+CHF_SVMEPurchasingManagers'Index;20200701;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+SEK_RiksbankInterestRateDecision;20200701;07:30;Riksbank Interest Rate Decision;Sweden;SEK;1
+CZK_MarkitPMI;20200701;07:30;Markit PMI;Czech Republic;CZK;1
+EUR_SpaMarkitManufacturingPMI;20200701;07:15;Markit Manufacturing PMI;Spain;EUR;1
+EUR_AusUnemployment;20200701;07:00;Unemployment;Austria;EUR;1
+EUR_AusUnemploymentRate;20200701;07:00;Unemployment Rate;Austria;EUR;1
+HUF_PurchasingManagerIndex;20200701;07:00;Purchasing Manager Index;Hungary;HUF;1
+EUR_NetMarkitManufacturingPMI;20200701;07:00;Markit Manufacturing PMI;Netherlands, The;EUR;1
+PLN_PurchasingManagerIndex;20200701;07:00;Purchasing Manager Index;Poland;PLN;2
+AUD_RBACommodityIndexSDR;20200701;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+SEK_PurchasingManagersIndexManufacturing;20200701;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+GBP_NationwideHousingPrices;20200701;06:00;Nationwide Housing Prices s.a (MoM);United Kingdom;GBP;1
+RUB_HSBCManufacturingPMI;20200701;06:00;HSBC Manufacturing PMI	;Russia;RUB;1
+EUR_GerRetailSales;20200701;06:00;Retail Sales (MoM);Germany;EUR;2
+JPY_ConsumerConfidenceIndex;20200701;05:00;Consumer Confidence Index;Japan;JPY;1
+CAD_CanadaDay;20200701;05:00;Canada Day;Canada;CAD;0
+IDR_Inflation;20200701;04:00;Inflation (MoM);Indonesia;IDR;1
+IDR_CoreInflation;20200701;04:00;Core Inflation (YoY);Indonesia;IDR;1
+CNY_CaixinManufacturingPMI;20200701;01:45;Caixin Manufacturing PMI;China;CNY;3
+AUD_BuildingPermits;20200701;01:30;Building Permits (MoM);Australia;AUD;2
+KRW_NikkeiMarkitManufacturingPMI;20200701;00:30;Nikkei Markit Manufacturing PMI;South Korea;KRW;1
+JPY_JibunBankManufacturingPMI;20200701;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+EUR_IrePurchasingManagerIndexManufacturing;20200701;00:01;Purchasing Manager Index Manufacturing;Ireland;EUR;1
+KRW_TradeBalance;20200701;00:00;Trade Balance;South Korea;KRW;1

@@ -1,0 +1,38 @@
+AUD_NationalAustraliaBankBusinessConfidence;20211012;00:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20211012;00:30;National Australia Bank Business Conditions;Australia;AUD;1
+KRW_BoKInterestRateDecision;20211012;01:00;BoK Interest Rate Decision;South Korea;KRW;1
+AUD_HIANewHomeSales;20211012;02:00;HIA New Home Sales (MoM);Australia;AUD;2
+BRL_LadyofAparecida;20211012;03:00;Lady of Aparecida ;Brazil;BRL;0
+CLP_ColumbusDay;20211012;04:00;Columbus Day ;Chile;CLP;0
+COP_ColumbusDay;20211012;05:00;Columbus Day;Colombia;COP;0
+GBP_ClaimantCountRate;20211012;06:00;Claimant Count Rate;United Kingdom;GBP;2
+GBP_ClaimantCountChange;20211012;06:00;Claimant Count Change;United Kingdom;GBP;3
+GBP_ILOUnemploymentRate;20211012;06:00;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_AverageEarningsIncludingBonus;20211012;06:00;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_AverageEarningsExcludingBonus;20211012;06:00;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+EUR_GerWholesalePriceIndex;20211012;06:00;Wholesale Price Index (MoM);Germany;EUR;1
+MXN_ColumbusDay;20211012;06:00;Columbus Day ;Mexico;MXN;0
+RON_ConsumerPriceIndex;20211012;06:00;Consumer Price Index;Romania;RON;1
+TRY_IndustrialProduction;20211012;07:00;Industrial Production (YoY);Turkey;TRY;1
+EUR_GerZEWSurvey–EconomicSentiment;20211012;09:00;ZEW Survey – Economic Sentiment;Germany;EUR;2
+EUR_EurZEWSurvey–EconomicSentiment;20211012;09:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurvey–CurrentSituation;20211012;09:00;ZEW Survey – Current Situation;Germany;EUR;2
+USD_NFIBBusinessOptimismIndex;20211012;10:00;NFIB Business Optimism Index;United States;USD;1
+MXN_IndustrialOutput;20211012;11:00;Industrial Output (YoY);Mexico;MXN;1
+ZAR_ManufacturingProductionIndex;20211012;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+INR_ConsumerPriceIndex;20211012;12:00;Consumer Price Index (YoY);India;INR;1
+INR_IndustrialOutput;20211012;12:00;Industrial Output;India;INR;1
+INR_CumulativeIndustrialOutput;20211012;12:00;Cumulative Industrial Output;India;INR;1
+INR_ManufacturingOutput;20211012;12:00;Manufacturing Output;India;INR;1
+USD_RedbookIndex;20211012;12:55;Redbook Index (YoY);United States;USD;1
+RUB_ForeignTrade;20211012;13:00;Foreign Trade;Russia;RUB;1
+EUR_EurCentralBankSpeech;20211012;13:00;ECB Elderson speech;European Monetary Union;EUR;2
+USD_JOLTSJobOpenings;20211012;14:00;JOLTS Job Openings;United States;USD;1
+USD_USDAWASDEReport;20211012;16:00;USDA WASDE Report;United States;USD;1
+USD_CentralBankSpeech;20211012;16:30;Fed Bostic speech;United States;USD;2
+USD_Auction;20211012;17:00;3-Year Note Auction;United States;USD;1
+NZD_FoodPriceIndex;20211012;21:45;Food Price Index (MoM);New Zealand;NZD;1
+KRW_UnemploymentRate;20211012;23:00;Unemployment Rate;South Korea;KRW;1
+AUD_WestpacConsumerConfidence;20211012;23:30;Westpac Consumer Confidence;Australia;AUD;2
+JPY_MoneySupplyM2+CD;20211012;23:50;Money Supply M2+CD (YoY);Japan;JPY;1
+JPY_MachineryOrders;20211012;23:50;Machinery Orders (MoM);Japan;JPY;1

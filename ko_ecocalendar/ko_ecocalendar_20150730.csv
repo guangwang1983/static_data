@@ -1,0 +1,48 @@
+AUD_CentralBankSpeech;20150730;01:00;RBA Governor Stevens speech;Australia;AUD;3
+AUD_ImportPriceIndex;20150730;01:30;Import Price Index (QoQ);Australia;AUD;1
+AUD_ExportPriceIndex;20150730;01:30;Export Price Index (QoQ);Australia;AUD;1
+AUD_BuildingPermits;20150730;01:30;Building Permits (YoY);Australia;AUD;1
+JPY_VehicleProduction;20150730;04:00;Vehicle Production (YoY);Japan;JPY;1
+CHF_KOFLeadingIndicator;20150730;07:00;KOF Leading Indicator;Switzerland;CHF;2
+DKK_IndustrialOutlook;20150730;07:00;Industrial Outlook;Denmark;DKK;1
+DKK_UnemploymentRate;20150730;07:00;Unemployment Rate;Denmark;DKK;1
+SEK_GrossDomesticProduct;20150730;07:30;Gross Domestic Product (QoQ);Sweden;SEK;1
+EUR_GerUnemploymentChange;20150730;07:55;Unemployment Change;Germany;EUR;2
+EUR_GerUnemploymentRate;20150730;07:55;Unemployment Rate s.a.;Germany;EUR;2
+NOK_RetailSales;20150730;08:00;Retail Sales ;Norway;NOK;1
+EUR_EurEconomicBulletin;20150730;08:00;Economic Bulletin;European Monetary Union;EUR;2
+EUR_EurServicesSentiment;20150730;09:00;Services Sentiment;European Monetary Union;EUR;1
+EUR_EurConsumerConfidence;20150730;09:00;Consumer Confidence;European Monetary Union;EUR;1
+EUR_EurBusinessClimate;20150730;09:00;Business Climate;European Monetary Union;EUR;1
+EUR_EurIndustrialConfidence;20150730;09:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_EurEconomicSentimentIndicator;20150730;09:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+ZAR_ProducerPriceIndex;20150730;09:30;Producer Price Index (MoM);South Africa;ZAR;1
+EUR_ItaAuction;20150730;09:54;5-y Bond Auction;Italy;EUR;1
+BRL_InflationIndexIGPM;20150730;11:00;Inflation Index/IGP-M;Brazil;BRL;1
+RUB_CentralBankReserves;20150730;11:00;Central Bank Reserves $;Russia;RUB;1
+EUR_GerConsumerPriceIndex;20150730;12:00;Consumer Price Index (YoY);Germany;EUR;2
+EUR_GerHarmonizedIndexofConsumerPrices;20150730;12:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;1
+CLP_IndustrialProduction;20150730;12:00;Industrial Production (YoY);Chile;CLP;1
+USD_JoblessClaims;20150730;12:30;Initial Jobless Claims;United States;USD;1
+USD_GrossDomesticProduct;20150730;12:30;Gross Domestic Product Price Index;United States;USD;3
+USD_GoodsTradeBalance;20150730;12:30;Goods Trade Balance;United States;USD;2
+USD_CorePersonalConsumptionExpenditures;20150730;12:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+USD_PersonalConsumptionExpendituresPrices;20150730;12:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+USD_EIANaturalGasStorageChange;20150730;14:30;EIA Natural Gas Storage Change;United States;USD;1
+INR_FederalFiscalDeficitINR;20150730;15:30;Federal Fiscal Deficit, INR;India;INR;1
+USD_Auction;20150730;17:00;7-Year Note Auction;United States;USD;1
+MXN_CentralBankInterestRate;20150730;18:00;Central Bank Interest Rate;Mexico;MXN;1
+MXN_FiscalBalancepesos;20150730;19:30;Fiscal Balance, pesos;Mexico;MXN;1
+KRW_BOKManufacturingBSI;20150730;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+KRW_IndustrialOutput;20150730;23:00;Industrial Output (YoY);South Korea;KRW;1
+KRW_ServiceSectorOutput;20150730;23:00;Service Sector Output;South Korea;KRW;1
+KRW_IndustrialOutputGrowth;20150730;23:00;Industrial Output Growth;South Korea;KRW;1
+GBP_GfKConsumerConfidence;20150730;23:05;GfK Consumer Confidence;United Kingdom;GBP;2
+JPY_TokyoCPIexFreshFood;20150730;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;1
+JPY_TokyoCPIexFoodEnergy;20150730;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20150730;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;1
+JPY_NationalCPIexFreshFood;20150730;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_NationalCPIexFoodEnergy;20150730;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_JobsApplicantsRatio;20150730;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+JPY_UnemploymentRate;20150730;23:30;Unemployment Rate;Japan;JPY;2
+JPY_OverallHouseholdSpending;20150730;23:30;Overall Household Spending (YoY);Japan;JPY;2

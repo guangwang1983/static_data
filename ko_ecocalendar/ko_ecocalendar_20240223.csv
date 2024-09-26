@@ -1,0 +1,31 @@
+GBP_GfKConsumerConfidence;20240223;00:01;GfK Consumer Confidence;United Kingdom;GBP;2
+USD_CentralBankSpeech;20240223;00:35;Fed Waller speech;United States;USD;2
+CNY_HousePriceIndex;20240223;01:30;House Price Index ;China;CNY;1
+EUR_GerGrossDomesticProduct;20240223;07:00;Gross Domestic Product (QoQ);Germany;EUR;2
+TRY_CapacityUtilization;20240223;07:00;Capacity Utilization;Turkey;TRY;1
+TRY_ManufacturingConfidence;20240223;07:00;Manufacturing Confidence;Turkey;TRY;1
+EUR_EurEurogroupMeeting;20240223;07:00;Eurogroup Meeting;Eurozone;EUR;1
+EUR_EurEcoFinMeeting;20240223;07:00;EcoFin Meeting;Eurozone;EUR;2
+NOK_CreditIndicator;20240223;07:00;Credit Indicator;Norway;NOK;1
+HUF_UnemploymentRate;20240223;07:30;Unemployment Rate (3M);Hungary;HUF;1
+CHF_EmploymentLevel;20240223;07:30;Employment Level (QoQ);Switzerland;CHF;1
+TRY_ForeignArrivals;20240223;08:00;Foreign Arrivals;Turkey;TRY;1
+CNY_FDIForeignDirectInvestment;20240223;09:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;1
+EUR_GerIFO–BusinessClimate;20240223;09:00;IFO – Business Climate;Germany;EUR;2
+EUR_GerIFO–CurrentAssessment;20240223;09:00;IFO – Current Assessment;Germany;EUR;2
+EUR_GerIFO–Expectations;20240223;09:00;IFO – Expectations;Germany;EUR;2
+PLN_Unemployment;20240223;09:00;Unemployment (MoM);Poland;PLN;1
+EUR_GerCentralBankSpeech;20240223;10:00;German Buba President Nagel speech;Germany;EUR;2
+INR_BankLoanGrowth;20240223;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20240223;11:30;FX Reserves, USD;India;INR;1
+EUR_EurCentralBankSpeech;20240223;13:00;ECB Schnabel speech;Eurozone;EUR;2
+MXN_CurrentAccount;20240223;15:00;Accumulated Current Account/GDP;Mexico;MXN;1
+USD_FedMonetaryPolicyReport;20240223;16:00;Fed Monetary Policy Report;United States;USD;2
+USD_BakerHughesUSOilRigCount;20240223;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CFTCGoldNCNetPositions;20240223;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20240223;20:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20240223;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20240223;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20240223;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20240223;20:30;CFTC EUR NC Net Positions;Eurozone;EUR;1
+AUD_CFTCAUDNCNetPositions;20240223;20:30;CFTC AUD NC Net Positions;Australia;AUD;1

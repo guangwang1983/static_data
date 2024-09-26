@@ -1,0 +1,37 @@
+JPY_BankLending;20200907;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_GrossDomesticProduct;20200907;23:50;Gross Domestic Product Deflator (YoY);Japan;JPY;1
+JPY_TradeBalanceBOPBasis;20200907;23:50;Trade Balance - BOP Basis;Japan;JPY;1
+JPY_CurrentAccount;20200907;23:50;Current Account n.s.a.;Japan;JPY;2
+JPY_LaborCashEarnings;20200907;23:30;Labor Cash Earnings (YoY);Japan;JPY;1
+JPY_OverallHouseholdSpending;20200907;23:30;Overall Household Spending (YoY);Japan;JPY;2
+GBP_RetailSales;20200907;23:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+TRY_TreasuryCashBalance;20200907;14:30;Treasury Cash Balance;Turkey;TRY;1
+PLN_CentralBankFXReserves;20200907;12:00;Central Bank FX Reserves;Poland;PLN;1
+ILS_M1MoneySupply;20200907;11:00;M1 Money Supply (MoM);Israel;ILS;1
+EUR_IreGrossDomesticProduct;20200907;10:00;Gross Domestic Product (QoQ);Ireland;EUR;1
+SGD_ForeignReserves;20200907;09:00;Foreign Reserves (MoM);Singapore;SGD;1
+HUF_BudgetBalance;20200907;09:00;Budget Balance;Hungary;HUF;1
+EUR_EurSentixInvestorConfidence;20200907;08:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+CNY_ForeignExchangeReserves;20200907;08:00;Foreign Exchange Reserves (MoM);China;CNY;1
+SEK_CurrentAccount;20200907;07:30;Current Account (QoQ);Sweden;SEK;1
+GBP_HalifaxHousePrices;20200907;07:30;Halifax House Prices (MoM);United Kingdom;GBP;1
+EUR_AusWholesalePrices;20200907;07:00;Wholesale Prices n.s.a (MoM);Austria;EUR;1
+CZK_IndustrialProduction;20200907;07:00;Industrial Production (YoY);Czech Republic;CZK;1
+CHF_ForeignCurrencyReserves;20200907;07:00;Foreign Currency Reserves;Switzerland;CHF;1
+CZK_ForeignTradeBalance;20200907;07:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+EUR_GerIndustrialProduction;20200907;06:00;Industrial Production n.s.a. w.d.a. (YoY);Germany;EUR;1
+EUR_FinTradeBalance;20200907;06:00;Trade Balance;Finland;EUR;1
+DKK_IndustrialProduction;20200907;06:00;Industrial Production (MoM);Denmark;DKK;1
+NOK_ManufacturingOutput;20200907;06:00;Manufacturing Output;Norway;NOK;1
+ZAR_Gross$Gold&ForexReserve;20200907;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+ZAR_Net$Gold&ForexReserve;20200907;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+CAD_LaborDay;20200907;05:00;Labor Day;Canada;CAD;0
+JPY_CoincidentIndex;20200907;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20200907;05:00;Leading Economic Index;Japan;JPY;2
+USD_LaborDay;20200907;05:00;Labor Day;United States;USD;0
+BRL_IndependenceDay;20200907;03:00;Independence Day;Brazil;BRL;0
+CNY_Imports;20200907;02:00;Imports (YoY);China;CNY;2
+CNY_TradeBalanceCNY;20200907;02:00;Trade Balance CNY;China;CNY;1
+CNY_TradeBalanceUSD;20200907;02:00;Trade Balance USD;China;CNY;2
+CNY_Exports;20200907;02:00;Exports (YoY) CNY;China;CNY;1
+AUD_ANZJobAdvertisements;20200907;01:30;ANZ Job Advertisements;Australia;AUD;1

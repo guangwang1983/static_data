@@ -1,0 +1,20 @@
+USD_CentralBankSpeech;20081201;20:00;Treasury Secretary Paulson speech;United States;USD;2
+USD_ISMManufacturingPMI;20081201;15:00;ISM Manufacturing PMI;United States;USD;2
+USD_ConstructionSpending;20081201;15:00;Construction Spending (MoM);United States;USD;1
+CAD_GrossDomesticProduct;20081201;13:30;Gross Domestic Product Annualized (QoQ);Canada;CAD;2
+GBP_NetLendingtoIndividuals;20081201;09:30;Net Lending to Individuals (MoM);United Kingdom;GBP;0
+GBP_MarkitManufacturingPMI;20081201;09:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+GBP_ConsumerCredit;20081201;09:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20081201;09:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_M4SterlingLending;20081201;09:30;M4 Sterling Lending;United Kingdom;GBP;2
+GBP_M4MoneySupply;20081201;09:30;M4 Money Supply (MoM);United Kingdom;GBP;1
+EUR_EurMarkitManufacturingPMI;20081201;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;1
+EUR_GerMarkitManufacturingPMI;20081201;08:55;Markit Manufacturing PMI;Germany;EUR;2
+PHP_BSPInterestratedecision;20081201;08:30;BSP Interest rate decision;Philippines;PHP;0
+CHF_SVMEPurchasingManagers'Index;20081201;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+BHD_CBBInterestratedecision;20081201;08:00;CBB Interest rate decision;Bahrain;BHD;0
+EUR_GerRetailSales;20081201;07:00;Retail Sales (YoY);Germany;EUR;2
+AUD_RBACommodityIndexSDR;20081201;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+JPY_VehicleSales;20081201;05:00;Vehicle Sales (YoY);Japan;JPY;1
+JPY_LaborCashEarnings;20081201;01:30;Labor Cash Earnings (YoY);Japan;JPY;1
+AUD_CompanyGrossOperatingProfits;20081201;00:30;Company Gross Operating Profits (QoQ);Australia;AUD;1

@@ -1,0 +1,16 @@
+AUD_WestpacLeadingIndex;20081125;23:30;Westpac Leading Index (MoM);Australia;AUD;1
+USD_CentralBankSpeech;20081125;15:00;Treasury Secretary Paulson speech;United States;USD;2
+USD_ConsumerConfidence;20081125;15:00;Consumer Confidence;United States;USD;2
+USD_HousingPriceIndex;20081125;15:00;Housing Price Index (MoM);United States;USD;2
+USD_RichmondFedManufacturingIndex;20081125;15:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20081125;14:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;1
+USD_GrossDomesticProduct;20081125;13:30;Gross Domestic Product Annualized;United States;USD;3
+USD_CorePersonalConsumptionExpenditures;20081125;13:30;Core Personal Consumption Expenditures (QoQ);United States;USD;3
+CAD_RetailSales;20081125;13:30;Retail Sales ex Autos (MoM);Canada;CAD;2
+GBP_BBAMortgageApprovals;20081125;09:30;BBA Mortgage Approvals;United Kingdom;GBP;1
+GBP_TotalBusinessInvestment;20081125;09:30;Total Business Investment (QoQ);United Kingdom;GBP;1
+CHF_UBSConsumptionIndicator;20081125;09:00;UBS Consumption Indicator;Switzerland;CHF;1
+EUR_GerGfkConsumerConfidenceSurvey;20081125;07:00;Gfk Consumer Confidence Survey;Germany;EUR;1
+EUR_GerGrossDomesticProduct;20081125;07:00;Gross Domestic Product (YoY);Germany;EUR;3
+JPY_BoJMonthlyEconomicSurvey;20081125;06:00;BoJ Monthly Economic Survey;Japan;JPY;2
+NZD_RBNZInflationExpectations;20081125;02:00;RBNZ Inflation Expectations (QoQ);New Zealand;NZD;1

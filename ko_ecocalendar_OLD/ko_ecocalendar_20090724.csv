@@ -1,0 +1,11 @@
+USD_CentralBankSpeech;20090724;14:00;Treasury Geithner speech;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20090724;13:55;Michigan Consumer Sentiment Index;United States;USD;2
+GBP_GrossDomesticProduct;20090724;08:30;Gross Domestic Product (QoQ);United Kingdom;GBP;2
+GBP_IndexofServices;20090724;08:30;Index of Services (3M/3M);United Kingdom;GBP;1
+EUR_GerIFOBusinessClimate;20090724;08:00;IFO - Business Climate;Germany;EUR;2
+EUR_GerIFOExpectations;20090724;08:00;IFO - Expectations;Germany;EUR;2
+EUR_EurMarkitServicesPMI;20090724;08:00;Markit Services PMI;European Monetary Union;EUR;1
+EUR_EurMarkitManufacturingPMI;20090724;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;1
+EUR_GerMarkitManufacturingPMI;20090724;07:30;Markit Manufacturing PMI;Germany;EUR;2
+EUR_GerMarkitServicesPMI;20090724;07:30;Markit Services PMI;Germany;EUR;2
+JPY_AllIndustryActivityIndex;20090724;04:30;All Industry Activity Index (MoM);Japan;JPY;1

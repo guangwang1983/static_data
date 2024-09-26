@@ -1,0 +1,12 @@
+USD_ISMManufacturingPMI;20080801;14:00;ISM Manufacturing PMI;United States;USD;2
+USD_ConstructionSpending;20080801;14:00;Construction Spending (MoM);United States;USD;1
+USD_AverageHourlyEarnings;20080801;12:30;Average Hourly Earnings (MoM);United States;USD;3
+USD_UnemploymentRate;20080801;12:30;Unemployment Rate;United States;USD;3
+USD_NonfarmPayrolls;20080801;12:30;Nonfarm Payrolls;United States;USD;3
+USD_AverageWeeklyHours;20080801;12:30;Average Weekly Hours;United States;USD;3
+GBP_MarkitManufacturingPMI;20080801;08:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+EUR_EurMarkitManufacturingPMI;20080801;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;1
+EUR_GerMarkitManufacturingPMI;20080801;07:55;Markit Manufacturing PMI;Germany;EUR;2
+AUD_RBACommodityIndexSDR;20080801;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+EUR_GerRetailSales;20080801;06:19;Retail Sales (MoM);Germany;EUR;1
+JPY_VehicleSales;20080801;05:00;Vehicle Sales (YoY);Japan;JPY;1

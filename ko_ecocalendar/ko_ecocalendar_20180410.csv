@@ -1,0 +1,30 @@
+AUD_NationalAustraliaBankBusinessConfidence;20180410;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20180410;01:30;National Australia Bank Business Conditions;Australia;AUD;1
+NOK_CoreInflation;20180410;06:00;Core Inflation (MoM);Norway;NOK;1
+NOK_ConsumerPriceIndex;20180410;06:00;Consumer Price Index (MoM);Norway;NOK;1
+RON_TradeBalance;20180410;06:00;Trade Balance;Romania;RON;1
+DKK_Inflation;20180410;06:00;Inflation (HICP) (YoY);Denmark;DKK;1
+DKK_ConsumerPriceIndex;20180410;06:00;Consumer Price Index (YoY);Denmark;DKK;1
+JPY_MachineToolOrders;20180410;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+NOK_ProducerPriceIndex;20180410;06:00;Producer Price Index (YoY);Norway;NOK;1
+EUR_FraIndustrialOutput;20180410;06:45;Industrial Output (MoM);France;EUR;1
+CZK_ConsumerPriceIndex;20180410;07:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+CZK_UnemploymentRate;20180410;07:00;Unemployment Rate;Czech Republic;CZK;1
+HUF_ConsumerPriceIndex;20180410;07:00;Consumer Price Index (YoY);Hungary;HUF;1
+EUR_ItaIndustrialOutput;20180410;08:00;Industrial Output s.a. (MoM);Italy;EUR;1
+USD_CentralBankSpeech;20180410;08:30;Fed Kaplan speech;United States;USD;2
+GBP_CentralBankSpeech;20180410;09:30;BoE Haldane speech;United Kingdom;GBP;2
+USD_NFIBBusinessOptimismIndex;20180410;10:00;NFIB Business Optimism Index;United States;USD;1
+ZAR_ManufacturingProductionIndex;20180410;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+CAD_HousingStarts;20180410;12:15;Housing Starts s.a (YoY);Canada;CAD;2
+USD_ProducerPriceIndex;20180410;12:30;Producer Price Index (MoM);United States;USD;1
+CAD_BuildingPermits;20180410;12:30;Building Permits (MoM);Canada;CAD;1
+USD_RedbookIndex;20180410;12:55;Redbook Index (YoY);United States;USD;1
+BRL_IPCAInflation;20180410;13:00;IPCA Inflation;Brazil;BRL;1
+USD_WholesaleInventories;20180410;14:00;Wholesale Inventories;United States;USD;1
+USD_Auction;20180410;17:00;3-Year Note Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20180410;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_UnemploymentRate;20180410;23:00;Unemployment Rate;South Korea;KRW;1
+JPY_BankLending;20180410;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_ProducerPriceIndex;20180410;23:50;Producer Price Index (YoY);Japan;JPY;1
+JPY_MachineryOrders;20180410;23:50;Machinery Orders (MoM);Japan;JPY;2

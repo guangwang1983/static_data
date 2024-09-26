@@ -1,0 +1,32 @@
+AUD_GrossDomesticProduct;20231206;00:30;Gross Domestic Product (QoQ);Australia;AUD;3
+EUR_GerFactoryOrders;20231206;07:00;Factory Orders s.a. (MoM);Germany;EUR;2
+GBP_FinancialStabilityReport;20231206;07:00;Financial Stability Report;United Kingdom;GBP;2
+NOK_CurrentAccount;20231206;07:00;Current Account;Norway;NOK;1
+HUF_IndustrialOutput;20231206;07:30;Industrial Output (YoY);Hungary;HUF;1
+HUF_RetailSales;20231206;07:30;Retail Sales (YoY);Hungary;HUF;1
+CZK_RetailSales;20231206;08:00;Retail Sales (YoY);Czech Republic;CZK;1
+GBP_S&PGlobalCIPSConstructionPMI;20231206;09:30;S&P Global/CIPS Construction PMI;United Kingdom;GBP;1
+EUR_EurRetailSales;20231206;10:00;Retail Sales (MoM);Eurozone;EUR;2
+GBP_FPCStatement;20231206;10:30;FPC Statement;United Kingdom;GBP;1
+GBP_FPCMeetingMinutes;20231206;10:30;FPC Meeting Minutes;United Kingdom;GBP;1
+USD_MBAMortgageApplications;20231206;12:00;MBA Mortgage Applications;United States;USD;1
+MXN_ConsumerConfidence;20231206;12:00;Consumer Confidence s.a;Mexico;MXN;1
+BRL_NominalBudgetBalance;20231206;12:30;Nominal Budget Balance;Brazil;BRL;1
+BRL_PrimaryBudgetSurplus;20231206;12:30;Primary Budget Surplus;Brazil;BRL;1
+PLN_NBPBaserate;20231206;13:00;NBP Base rate;Poland;PLN;1
+USD_ADPEmploymentChange;20231206;13:15;ADP Employment Change;United States;USD;3
+USD_GoodsandServicesTradeBalance;20231206;13:30;Goods and Services Trade Balance;United States;USD;1
+USD_UnitLaborCosts;20231206;13:30;Unit Labor Costs;United States;USD;2
+USD_NonfarmProductivity;20231206;13:30;Nonfarm Productivity;United States;USD;2
+USD_GoodsTradeBalance;20231206;13:30;Goods Trade Balance;United States;USD;1
+CAD_LaborProductivity;20231206;13:30;Labor Productivity (QoQ);Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20231206;13:30;International Merchandise Trade;Canada;CAD;1
+CAD_Exports;20231206;13:30;Exports;Canada;CAD;1
+CAD_Imports;20231206;13:30;Imports;Canada;CAD;1
+CAD_BoCMonetaryPolicyStatement;20231206;15:00;BoC Monetary Policy Statement;Canada;CAD;3
+CAD_BoCInterestRateDecision;20231206;15:00;BoC Interest Rate Decision;Canada;CAD;3
+CAD_IveyPurchasingManagersIndex;20231206;15:00;Ivey Purchasing Managers Index s.a;Canada;CAD;2
+USD_EIACrudeOilStocksChange;20231206;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+JPY_JPForeignReserves;20231206;23:50;JP Foreign Reserves;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20231206;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20231206;23:50;Foreign Bond Investment;Japan;JPY;1

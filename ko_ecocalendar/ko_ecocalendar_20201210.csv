@@ -1,0 +1,41 @@
+EUR_EurEuropeanCouncilMeeting;20201210;00:00;European Council Meeting;European Monetary Union;EUR;3
+AUD_ConsumerInflationExpectations;20201210;00:00;Consumer Inflation Expectations;Australia;AUD;2
+GBP_RICSHousingPriceBalance;20201210;00:01;RICS Housing Price Balance;United Kingdom;GBP;1
+AUD_RBABulletin;20201210;00:30;RBA Bulletin;Australia;AUD;1
+IDR_RetailSales;20201210;03:00;Retail Sales (YoY);Indonesia;IDR;2
+CNY_M2MoneySupply;20201210;07:00;M2 Money Supply (YoY);China;CNY;1
+NOK_CoreInflation;20201210;07:00;Core Inflation (MoM);Norway;NOK;1
+NOK_ConsumerPriceIndex;20201210;07:00;Consumer Price Index (MoM);Norway;NOK;1
+TRY_UnemploymentRate;20201210;07:00;Unemployment Rate;Turkey;TRY;1
+RON_TradeBalance;20201210;07:00;Trade Balance;Romania;RON;1
+DKK_Inflation;20201210;07:00;Inflation (HICP) (YoY);Denmark;DKK;1
+DKK_ConsumerPriceIndex;20201210;07:00;Consumer Price Index (YoY);Denmark;DKK;1
+GBP_ManufacturingProduction;20201210;07:00;Manufacturing Production (YoY);United Kingdom;GBP;2
+GBP_IndustrialProduction;20201210;07:00;Industrial Production (MoM);United Kingdom;GBP;2
+GBP_IndexofServices;20201210;07:00;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20201210;07:00;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20201210;07:00;Goods Trade Balance;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20201210;07:00;Total Trade Balance;United Kingdom;GBP;1
+CNY_NewLoans;20201210;07:00;New Loans;China;CNY;1
+GBP_GrossDomesticProduct;20201210;07:00;Gross Domestic Product (MoM);United Kingdom;GBP;2
+EUR_FraIndustrialOutput;20201210;07:45;Industrial Output (MoM);France;EUR;1
+CZK_ConsumerPriceIndex;20201210;08:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+NOK_ProducerPriceIndex;20201210;08:00;Producer Price Index (YoY);Norway;NOK;1
+SEK_ConsumerPriceIndex;20201210;08:30;Consumer Price Index (MoM);Sweden;SEK;1
+BRL_RetailSales;20201210;12:00;Retail Sales (MoM);Brazil;BRL;1
+ZAR_ManufacturingProductionIndex;20201210;12:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+EUR_EurECBRateOnDepositFacility;20201210;12:45;ECB Rate On Deposit Facility;European Monetary Union;EUR;3
+EUR_EurECBRateOnMainRefinancingOperations;20201210;12:45;ECB Rate On Main Refinancing Operations;European Monetary Union;EUR;3
+RUB_CentralBankReserves;20201210;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_JoblessClaims;20201210;13:30;Continuing Jobless Claims;United States;USD;2
+USD_ConsumerPriceIndex;20201210;13:30;Consumer Price Index ex Food & Energy (MoM);United States;USD;3
+EUR_EurECBPressConference;20201210;13:30;ECB Press Conference;European Monetary Union;EUR;3
+GBP_NIESRGDPEstimate;20201210;14:35;NIESR GDP Estimate (3M);United Kingdom;GBP;2
+USD_EIANaturalGasStorageChange;20201210;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_USDAWASDEReport;20201210;17:00;USDA WASDE Report;United States;USD;1
+USD_COVID19Vaccineannouncement;20201210;17:00;COVID-19 Vaccine announcement;United States;USD;2
+USD_Auction;20201210;18:00;30-Year Bond Auction;United States;USD;1
+USD_MonthlyBudgetStatement;20201210;19:00;Monthly Budget Statement;United States;USD;2
+NZD_REINZHousePriceIndex;20201210;20:00;REINZ House Price Index (MoM);New Zealand;NZD;2
+NZD_BusinessNZPMI;20201210;21:30;Business NZ PMI;New Zealand;NZD;2
+NZD_FoodPriceIndex;20201210;21:45;Food Price Index (MoM);New Zealand;NZD;1

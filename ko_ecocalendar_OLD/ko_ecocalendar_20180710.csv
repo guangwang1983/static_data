@@ -1,0 +1,46 @@
+JPY_DomesticCorporateGoodsPriceIndex;20180710;23:50;Domestic Corporate Goods Price Index (YoY);Japan;JPY;1
+JPY_MachineryOrders;20180710;23:50;Machinery Orders (MoM);Japan;JPY;2
+KRW_UnemploymentRate;20180710;23:00;Unemployment Rate;South Korea;KRW;1
+PEN_Interestratedecision;20180710;22:00;Interest rate decision;Peru;PEN;1
+USD_APIWeeklyCrudeOilStock;20180710;20:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_Auction;20180710;17:00;3-Year Note Auction;United States;USD;1
+EUR_EurCentralBankSpeech;20180710;17:00;ECB Lautenschläger speech;European Monetary Union;EUR;2
+USD_JOLTSJobOpenings;20180710;14:00;JOLTS Job Openings;United States;USD;1
+USD_RedbookIndex;20180710;12:55;Redbook Index (YoY);United States;USD;1
+CAD_BuildingPermits;20180710;12:30;Building Permits (MoM);Canada;CAD;1
+CAD_HousingStarts;20180710;12:15;Housing Starts s.a (YoY);Canada;CAD;2
+USD_NFIBBusinessOptimismIndex;20180710;10:00;NFIB Business Optimism Index;United States;USD;1
+EUR_PorGlobalTradeBalance;20180710;10:00;Global Trade Balance;Portugal;EUR;1
+ZAR_BusinessConfidenceIndex;20180710;09:30;Business Confidence Index;South Africa;ZAR;1
+EUR_GreIndustrialProduction;20180710;09:00;Industrial Production (YoY);Greece;EUR;1
+EUR_GerZEWSurveyEconomicSentiment;20180710;09:00;ZEW Survey - Economic Sentiment;Germany;EUR;2
+EUR_EurZEWSurveyEconomicSentiment;20180710;09:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;1
+EUR_GerZEWSurveyCurrentSituation;20180710;09:00;ZEW Survey - Current Situation;Germany;EUR;2
+EUR_GreConsumerPriceIndex;20180710;09:00;Consumer Price Index - Harmonized (YoY);Greece;EUR;1
+EUR_SpaAuction;20180710;08:40;12-Month Letras Auction;Spain;EUR;1
+GBP_ManufacturingProduction;20180710;08:30;Manufacturing Production (MoM);United Kingdom;GBP;2
+GBP_IndustrialProduction;20180710;08:30;Industrial Production (YoY);United Kingdom;GBP;1
+GBP_IndexofServices;20180710;08:30;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20180710;08:30;Goods Trade Balance;United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20180710;08:30;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20180710;08:30;Total Trade Balance;United Kingdom;GBP;1
+GBP_GrossDomesticProduct;20180710;08:30;Gross Domestic Product (MoM);United Kingdom;GBP;3
+EUR_ItaIndustrialOutput;20180710;08:00;Industrial Output w.d.a (YoY);Italy;EUR;1
+CZK_FXReserves;20180710;08:00;FX Reserves;Czech Republic;CZK;1
+HUF_ConsumerPriceIndex;20180710;07:00;Consumer Price Index (YoY);Hungary;HUF;1
+HUF_TradeBalance;20180710;07:00;Trade Balance;Hungary;HUF;1
+EUR_FraIndustrialOutput;20180710;06:45;Industrial Output (MoM);France;EUR;1
+NOK_ConsumerPriceIndex;20180710;06:00;Consumer Price Index (MoM);Norway;NOK;1
+NOK_CoreInflation;20180710;06:00;Core Inflation (MoM);Norway;NOK;1
+RON_TradeBalance;20180710;06:00;Trade Balance;Romania;RON;1
+DKK_ConsumerPriceIndex;20180710;06:00;Consumer Price Index (YoY);Denmark;DKK;1
+DKK_Inflation;20180710;06:00;Inflation (HICP) (YoY);Denmark;DKK;1
+EUR_FinIndustrialOutput;20180710;06:00;Industrial Output (MoM);Finland;EUR;1
+JPY_MachineToolOrders;20180710;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+NOK_ProducerPriceIndex;20180710;06:00;Producer Price Index (YoY);Norway;NOK;1
+EUR_NetManufacturingOutput;20180710;04:30;Manufacturing Output (MoM);Netherlands, The;EUR;1
+AUD_NationalAustraliaBankBusinessConfidence;20180710;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20180710;01:30;National Australia Bank Business Conditions;Australia;AUD;1
+CNY_ProducerPriceIndex;20180710;01:30;Producer Price Index (YoY);China;CNY;2
+CNY_ConsumerPriceIndex;20180710;01:30;Consumer Price Index (MoM);China;CNY;2
+NZD_ANZMonthlyInflationGauge;20180710;01:00;ANZ Monthly Inflation Gauge (MoM);New Zealand;NZD;1

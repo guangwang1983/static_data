@@ -1,0 +1,45 @@
+JPY_ForeignBondInvestment;20210407;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20210407;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_CurrentAccount;20210407;23:50;Current Account n.s.a.;Japan;JPY;2
+JPY_TradeBalanceBOPBasis;20210407;23:50;Trade Balance - BOP Basis;Japan;JPY;1
+USD_ConsumerCreditChange;20210407;19:00;Consumer Credit Change;United States;USD;1
+USD_FOMCMinutes;20210407;18:00;FOMC Minutes;United States;USD;3
+DKK_CurrencyReserves;20210407;15:00;Currency Reserves;Denmark;DKK;1
+USD_EIACrudeOilStocksChange;20210407;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+TRY_TreasuryCashBalance;20210407;14:30;Treasury Cash Balance;Turkey;TRY;1
+CAD_IveyPurchasingManagersIndex;20210407;14:00;Ivey Purchasing Managers Index s.a;Canada;CAD;2
+USD_CentralBankSpeech;20210407;13:00;Fed Evans speech;United States;USD;1
+USD_GoodsandServicesTradeBalance;20210407;12:30;Goods and Services Trade Balance;United States;USD;2
+USD_GoodsTradeBalance;20210407;12:30;Goods Trade Balance;United States;USD;1
+CAD_InternationalMerchandiseTrade;20210407;12:30;International Merchandise Trade;Canada;CAD;2
+CAD_Exports;20210407;12:30;Exports;Canada;CAD;1
+CAD_Imports;20210407;12:30;Imports;Canada;CAD;1
+PLN_CentralBankFXReserves;20210407;12:00;Central Bank FX Reserves;Poland;PLN;1
+CLP_TradeBalance;20210407;11:30;Trade Balance;Chile;CLP;1
+USD_MBAMortgageApplications;20210407;11:00;MBA Mortgage Applications;United States;USD;1
+INR_M3MoneySupply;20210407;10:30;M3 Money Supply;India;INR;1
+ZAR_BusinessConfidenceIndex;20210407;09:30;Business Confidence Index;South Africa;ZAR;1
+SGD_ForeignReserves;20210407;09:00;Foreign Reserves (MoM);Singapore;SGD;1
+PLN_NBPBaserate;20210407;09:00;NBP Base rate;Poland;PLN;1
+GBP_MarkitServicesPMI;20210407;08:30;Markit Services PMI;United Kingdom;GBP;1
+CNY_ForeignExchangeReserves;20210407;08:00;Foreign Exchange Reserves (MoM);China;CNY;1
+CZK_FXReserves;20210407;08:00;FX Reserves;Czech Republic;CZK;1
+EUR_EurMarkitPMIComposite;20210407;08:00;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20210407;08:00;Markit Services PMI;European Monetary Union;EUR;1
+EUR_GerMarkitServicesPMI;20210407;07:55;Markit Services PMI;Germany;EUR;1
+EUR_GerMarkitPMIComposite;20210407;07:55;Markit PMI Composite;Germany;EUR;2
+EUR_FraMarkitPMIComposite;20210407;07:50;Markit PMI Composite;France;EUR;1
+EUR_FraMarkitServicesPMI;20210407;07:50;Markit Services PMI;France;EUR;1
+EUR_ItaMarkitServicesPMI;20210407;07:45;Markit Services PMI;Italy;EUR;2
+EUR_SpaMarkitServicesPMI;20210407;07:15;Markit Services PMI;Spain;EUR;2
+EUR_AusWholesalePrices;20210407;07:00;Wholesale Prices n.s.a (MoM);Austria;EUR;1
+CZK_UnemploymentRate;20210407;07:00;Unemployment Rate;Czech Republic;CZK;1
+CZK_RetailSales;20210407;07:00;Retail Sales (YoY);Czech Republic;CZK;1
+EUR_AusTradeBalance;20210407;07:00;Trade Balance;Austria;EUR;1
+JPY_CoincidentIndex;20210407;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20210407;05:00;Leading Economic Index;Japan;JPY;2
+INR_ReverseRepoRate;20210407;04:30;Reverse Repo Rate;India;INR;1
+INR_RBIInterestRateDecision;20210407;04:30;RBI Interest Rate Decision (Repo Rate);India;INR;1
+NZD_ANZCommodityPrice;20210407;01:00;ANZ Commodity Price;New Zealand;NZD;1
+EUR_IrePurchasingManagerIndexServices;20210407;00:01;Purchasing Manager Index Services;Ireland;EUR;1
+USD_IMFMeeting;20210407;00:00;IMF Meeting;United States;USD;2

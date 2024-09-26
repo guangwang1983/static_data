@@ -1,0 +1,36 @@
+CNY_RetailSales;20180914;02:00;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20180914;02:00;Industrial Production (YoY);China;CNY;2
+CNY_FixedAssetInvestment;20180914;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+JPY_IndustrialProduction;20180914;04:30;Industrial Production (YoY);Japan;JPY;1
+JPY_CapacityUtilization;20180914;04:30;Capacity Utilization;Japan;JPY;1
+INR_WPIInflation;20180914;06:30;WPI Inflation;India;INR;1
+TRY_CurrentAccount;20180914;07:00;Current Account Balance;Turkey;TRY;1
+SEK_ConsumerPriceIndex;20180914;07:30;Consumer Price Index (YoY);Sweden;SEK;1
+EUR_ItaConsumerPriceIndex;20180914;08:00;Consumer Price Index (YoY);Italy;EUR;1
+EUR_EurTradeBalance;20180914;09:00;Trade Balance s.a.;European Monetary Union;EUR;1
+EUR_EurLaborCost;20180914;09:00;Labor Cost;European Monetary Union;EUR;2
+GBP_CentralBankSpeech;20180914;10:00;BoE Governor Carney speech;United Kingdom;GBP;3
+RUB_Interestratedecision;20180914;10:30;Interest rate decision;Russia;RUB;2
+INR_BankLoanGrowth;20180914;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20180914;11:30;FX Reserves, USD;India;INR;1
+PLN_NetInflation;20180914;12:00;Net Inflation;Poland;PLN;1
+USD_RetailSales;20180914;12:30;Retail Sales ex Autos (MoM);United States;USD;3
+USD_ExportPriceIndex;20180914;12:30;Export Price Index (YoY);United States;USD;1
+USD_ImportPriceIndex;20180914;12:30;Import Price Index (YoY);United States;USD;1
+USD_CentralBankSpeech;20180914;13:00;Fed Evans speech;United States;USD;1
+USD_IndustrialProduction;20180914;13:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20180914;13:15;Capacity Utilization;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20180914;14:00;Michigan Consumer Sentiment Index;United States;USD;2
+USD_BusinessInventories;20180914;14:00;Business Inventories;United States;USD;1
+COP_RetailSales;20180914;15:00;Retail Sales (YoY);Colombia;COP;1
+INR_TradeDeficit–RBI;20180914;15:00;Trade Deficit – RBI;India;INR;1
+COP_Industrialoutput;20180914;15:00;Industrial output (YoY);Colombia;COP;1
+INR_TradeDeficitGovernment;20180914;15:00;Trade Deficit Government;India;INR;1
+USD_BakerHughesUSOilRigCount;20180914;17:00;Baker Hughes US Oil Rig Count;United States;USD;2
+EUR_EurCFTCEURNCNetPositions;20180914;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20180914;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+JPY_CFTCJPYNCNetPositions;20180914;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCS&P500NCNetPositions;20180914;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20180914;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20180914;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20180914;19:30;CFTC Gold NC Net Positions;United States;USD;1

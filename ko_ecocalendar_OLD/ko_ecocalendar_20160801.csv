@@ -1,0 +1,42 @@
+JPY_MonetaryBase;20160801;23:50;Monetary Base (YoY);Japan;JPY;1
+KRW_ConsumerPriceIndex;20160801;23:00;Consumer Price Index Growth (MoM);South Korea;KRW;1
+ARS_TaxRevenue;20160801;21:00;Tax Revenue (MoM);Argentina;ARS;1
+USD_LoanOfficerSurvey;20160801;19:00;Loan Officer Survey;United States;USD;1
+BRL_TradeBalance;20160801;18:00;Trade Balance;Brazil;BRL;1
+USD_Auction;20160801;15:30;6-Month Bill Auction;United States;USD;1
+USD_ISMManufacturingPMI;20160801;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMPricesPaid;20160801;14:00;ISM Prices Paid;United States;USD;3
+USD_ConstructionSpending;20160801;14:00;Construction Spending (MoM);United States;USD;2
+USD_MarkitManufacturingPMI;20160801;13:45;Markit Manufacturing PMI;United States;USD;2
+BRL_HSBCPMIManufacturing;20160801;13:00;HSBC PMI Manufacturing;Brazil;BRL;1
+CZK_BudgetBalance;20160801;12:00;Budget Balance;Czech Republic;CZK;1
+GBP_MarkitManufacturingPMI;20160801;08:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+TRY_Exports;20160801;08:00;Exports;Turkey;TRY;1
+EUR_GreMarkitManufacturingPMI;20160801;08:00;Markit Manufacturing PMI;Greece;EUR;1
+EUR_EurMarkitManufacturingPMI;20160801;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_GerMarkitManufacturingPMI;20160801;07:55;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20160801;07:50;Markit Manufacturing PMI;France;EUR;1
+EUR_ItaMarkitManufacturingPMI;20160801;07:45;Markit Manufacturing PMI;Italy;EUR;1
+CZK_MarkitPMI;20160801;07:30;Markit PMI;Czech Republic;CZK;1
+EUR_SpaMarkitManufacturingPMI;20160801;07:15;Markit Manufacturing PMI;Spain;EUR;1
+EUR_AusUnemployment;20160801;07:00;Unemployment;Austria;EUR;1
+EUR_AusUnemploymentRate;20160801;07:00;Unemployment Rate;Austria;EUR;1
+HUF_PurchasingManagerIndex;20160801;07:00;Purchasing Manager Index;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20160801;07:00;Purchasing Manager Index;Poland;PLN;2
+SEK_PurchasingManagersIndexManufacturing;20160801;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;2
+PEN_Inflation;20160801;06:00;Inflation;Peru;PEN;1
+JPY_VehicleSales;20160801;05:00;Vehicle Sales (YoY);Japan;JPY;1
+JPY_NikkeiManufacturingPMI;20160801;02:00;Nikkei Manufacturing PMI;Japan;JPY;1
+CNY_CaixinManufacturingPMI;20160801;01:45;Caixin Manufacturing PMI;China;CNY;2
+KRW_NikkeiMarkitManufacturingPMI;20160801;01:30;Nikkei Markit Manufacturing PMI;South Korea;KRW;1
+USD_CentralBankSpeech;20160801;01:15;Fed Dudley speech;United States;USD;1
+AUD_HIANewHomeSales;20160801;01:00;HIA New Home Sales (MoM);Australia;AUD;2
+CNY_NonManufacturingPMI;20160801;01:00;Non-Manufacturing PMI;China;CNY;2
+CNY_NBSManufacturingPMI;20160801;01:00;NBS Manufacturing PMI;China;CNY;2
+AUD_TDSecuritiesInflation;20160801;01:00;TD Securities Inflation (MoM);Australia;AUD;2
+RUB_HSBCManufacturingPMI;20160801;00:00;HSBC Manufacturing PMI	;Russia;RUB;1
+INR_InfrastructureOutput;20160801;00:00;Infrastructure Output (YoY);India;INR;1
+ISK_CommerceDay;20160801;00:00;Commerce Day ;Iceland;ISK;0
+CHF_NationalHoliday;20160801;00:00;National Holiday;Switzerland;CHF;0
+EUR_IreAugustHoliday;20160801;00:00;August Holiday ;Ireland;EUR;0
+KRW_TradeBalance;20160801;00:00;Trade Balance;South Korea;KRW;1

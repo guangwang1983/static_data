@@ -1,0 +1,28 @@
+AUD_ConsumerInflationExpectations;20170713;01:00;Consumer Inflation Expectations;Australia;AUD;2
+KRW_BoKInterestRateDecision;20170713;01:00;BoK Interest Rate Decision;South Korea;KRW;1
+CNY_FDIForeignDirectInvestment;20170713;02:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+CNY_Imports;20170713;03:30;Imports (YoY) CNY;China;CNY;2
+CNY_TradeBalanceUSD;20170713;03:30;Trade Balance USD;China;CNY;2
+CNY_Exports;20170713;03:30;Exports (YoY) CNY;China;CNY;2
+CNY_TradeBalanceCNY;20170713;03:30;Trade Balance CNY;China;CNY;2
+EUR_GerConsumerPriceIndex;20170713;06:00;Consumer Price Index (MoM);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20170713;06:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;1
+EUR_FraConsumerPriceIndex;20170713;06:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraInflationextobacco;20170713;06:45;Inflation ex-tobacco (MoM);France;EUR;1
+CHF_ProducerandImportPrices;20170713;07:15;Producer and Import Prices (MoM);Switzerland;CHF;1
+SEK_ConsumerPriceIndex;20170713;07:30;Consumer Price Index (MoM);Sweden;SEK;1
+GBP_BoECreditConditionsSurvey;20170713;08:30;BoE Credit Conditions Survey;United Kingdom;GBP;1
+TRY_CurrentAccount;20170713;09:00;Current Account Balance;Turkey;TRY;1
+USD_ProducerPriceIndex;20170713;12:30;Producer Price Index (MoM);United States;USD;1
+USD_JoblessClaims;20170713;12:30;Continuing Jobless Claims;United States;USD;2
+CAD_NewHousingPriceIndex;20170713;12:30;New Housing Price Index (YoY);Canada;CAD;2
+RUB_CentralBankReserves;20170713;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_EIANaturalGasStorageChange;20170713;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_FedChairYellentestifies;20170713;15:00;Fed Chair Yellen testifies;United States;USD;3
+USD_CentralBankSpeech;20170713;17:00;Fed Brainard speech;United States;USD;2
+USD_Auction;20170713;17:00;30-Year Bond Auction;United States;USD;1
+USD_MonthlyBudgetStatement;20170713;18:00;Monthly Budget Statement;United States;USD;2
+KRW_ImportPriceGrowth;20170713;21:00;Import Price Growth (YoY);South Korea;KRW;1
+KRW_ExportPriceGrowth;20170713;21:00;Export Price Growth (YoY);South Korea;KRW;1
+CLP_BCCHInterestRate;20170713;22:00;BCCH Interest Rate;Chile;CLP;1
+NZD_BusinessNZPMI;20170713;22:30;Business NZ PMI;New Zealand;NZD;2

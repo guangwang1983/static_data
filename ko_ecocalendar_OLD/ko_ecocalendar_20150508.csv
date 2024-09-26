@@ -1,0 +1,47 @@
+PEN_Tradebalance;20150508;19:00;Trade balance;Peru;PEN;1
+TRY_TreasuryCashBalance;20150508;14:30;Treasury Cash Balance;Turkey;TRY;1
+USD_WholesaleInventories;20150508;14:00;Wholesale Inventories;United States;USD;1
+MXN_ConsumerConfidence;20150508;13:00;Consumer Confidence;Mexico;MXN;1
+USD_UnemploymentRate;20150508;12:30;Unemployment Rate;United States;USD;3
+USD_AverageHourlyEarnings;20150508;12:30;Average Hourly Earnings (MoM);United States;USD;1
+USD_LaborForceParticipationRate;20150508;12:30;Labor Force Participation Rate;United States;USD;2
+USD_NonfarmPayrolls;20150508;12:30;Nonfarm Payrolls;United States;USD;3
+USD_AverageWeeklyHours;20150508;12:30;Average Weekly Hours;United States;USD;2
+CAD_ParticipationRate;20150508;12:30;Participation Rate;Canada;CAD;1
+CAD_NetChangeinEmployment;20150508;12:30;Net Change in Employment;Canada;CAD;3
+CAD_UnemploymentRate;20150508;12:30;Unemployment Rate;Canada;CAD;3
+CAD_HousingStarts;20150508;12:15;Housing Starts s.a (YoY);Canada;CAD;2
+BRL_IPCAInflation;20150508;12:00;IPCA Inflation;Brazil;BRL;1
+CLP_ConsumerPriceIndex;20150508;12:00;Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+INR_FXReservesUSD;20150508;11:30;FX Reserves, USD;India;INR;1
+EUR_GreConsumerPriceIndex;20150508;09:00;Consumer Price Index (YoY);Greece;EUR;1
+GBP_GoodsTradeBalance;20150508;08:30;Goods Trade Balance;United Kingdom;GBP;2
+GBP_TradeBalancenonEU;20150508;08:30;Trade Balance non-EU;United Kingdom;GBP;2
+GBP_TotalTradeBalance;20150508;08:30;Total Trade Balance;United Kingdom;GBP;2
+EUR_ItaIndustrialOutput;20150508;08:00;Industrial Output w.d.a (YoY);Italy;EUR;1
+NOK_ManufacturingOutput;20150508;08:00;Manufacturing Output;Norway;NOK;1
+CHF_ConsumerPriceIndex;20150508;07:15;Consumer Price Index (YoY);Switzerland;CHF;2
+TRY_IndustrialProduction;20150508;07:00;Industrial Production (YoY);Turkey;TRY;1
+EUR_SpaIndustrialOutputCalAdjusted;20150508;07:00;Industrial Output Cal Adjusted (YoY);Spain;EUR;1
+HUF_ConsumerPriceIndex;20150508;07:00;Consumer Price Index (YoY);Hungary;HUF;1
+DKK_IndustrialProduction;20150508;07:00;Industrial Production (MoM);Denmark;DKK;1
+GBP_HalifaxHousePrices;20150508;07:00;Halifax House Prices (3m/YoY);United Kingdom;GBP;1
+EUR_AusTradeBalance;20150508;07:00;Trade Balance;Austria;EUR;1
+EUR_FinIndustrialOutput;20150508;06:00;Industrial Output (MoM);Finland;EUR;1
+EUR_GerIndustrialProduction;20150508;06:00;Industrial Production s.a. (MoM);Germany;EUR;1
+EUR_FinTradeBalance;20150508;06:00;Trade Balance;Finland;EUR;1
+EUR_GerCurrentAccount;20150508;06:00;Current Account n.s.a.;Germany;EUR;1
+EUR_GerTradeBalance;20150508;06:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerExports;20150508;06:00;Exports (MoM);Germany;EUR;1
+EUR_GerImports;20150508;06:00;Imports (MoM);Germany;EUR;1
+ZAR_Net$Gold&ForexReserve;20150508;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+ZAR_Gross$Gold&ForexReserve;20150508;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+CHF_UnemploymentRate;20150508;05:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+CNY_TradeBalanceUSD;20150508;02:11;Trade Balance USD;China;CNY;2
+CNY_Exports;20150508;02:10;Exports (YoY);China;CNY;1
+CNY_Imports;20150508;02:10;Imports (YoY);China;CNY;1
+CNY_TradeBalanceCNY;20150508;02:00;Trade Balance CNY;China;CNY;2
+AUD_RBAMonetaryPolicyStatement;20150508;01:30;RBA Monetary Policy Statement;Australia;AUD;3
+EUR_FraVictoryinEuropeDay;20150508;00:00;Victory in Europe Day;France;EUR;0
+EUR_SloDayofvictoryoverfascism;20150508;00:00;Day of victory over fascism ;Slovakia;EUR;0
+CZK_LiberationDay;20150508;00:00;Liberation Day ;Czech Republic;CZK;0

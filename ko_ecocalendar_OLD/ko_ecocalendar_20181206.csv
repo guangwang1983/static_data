@@ -1,0 +1,41 @@
+JPY_JPForeignReserves;20181206;23:50;JP Foreign Reserves;Japan;JPY;1
+JPY_OverallHouseholdSpending;20181206;23:30;Overall Household Spending (YoY);Japan;JPY;2
+AUD_AiGPerformanceofConstructionIndex;20181206;21:30;AiG Performance of Construction Index;Australia;AUD;2
+USD_CentralBankSpeech;20181206;17:15;Fed Bostic speech;United States;USD;2
+USD_Auction;20181206;16:30;4-Week Bill Auction;United States;USD;1
+USD_EIACrudeOilStocksChange;20181206;16:00;EIA Crude Oil Stocks Change;United States;USD;1
+USD_ISMNonManufacturingPMI;20181206;15:00;ISM Non-Manufacturing PMI;United States;USD;2
+USD_FactoryOrders;20181206;15:00;Factory Orders (MoM);United States;USD;2
+CAD_IveyPurchasingManagersIndex;20181206;15:00;Ivey Purchasing Managers Index;Canada;CAD;2
+USD_MarkitServicesPMI;20181206;14:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20181206;14:45;Markit PMI Composite;United States;USD;2
+CAD_CentralBankSpeech;20181206;13:50;BoC Governor Poloz speech;Canada;CAD;3
+USD_TradeBalance;20181206;13:30;Trade Balance;United States;USD;2
+USD_JoblessClaims;20181206;13:30;Initial Jobless Claims;United States;USD;2
+USD_NonfarmProductivity;20181206;13:30;Nonfarm Productivity;United States;USD;2
+USD_UnitLaborCosts;20181206;13:30;Unit Labor Costs;United States;USD;2
+USD_GoodsTradeBalance;20181206;13:30;Goods Trade Balance;United States;USD;1
+CAD_Imports;20181206;13:30;Imports;Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20181206;13:30;International Merchandise Trade;Canada;CAD;2
+CAD_Exports;20181206;13:30;Exports;Canada;CAD;1
+USD_ADPEmploymentChange;20181206;13:15;ADP Employment Change;United States;USD;2
+RUB_ConsumerPriceIndex;20181206;13:00;Consumer Price Index (MoM);Russia;RUB;1
+RUB_CentralBankReserves;20181206;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_ChallengerJobCuts;20181206;12:30;Challenger Job Cuts;United States;USD;1
+GBP_Auction;20181206;10:45;30-y Bond Auction;United Kingdom;GBP;1
+EUR_GreUnemploymentRate;20181206;10:00;Unemployment Rate (MoM);Greece;EUR;1
+ZAR_BusinessConfidenceIndex;20181206;09:30;Business Confidence Index;South Africa;ZAR;1
+AUD_CentralBankSpeech;20181206;09:05;RBA Debelle speech;Australia;AUD;2
+HUF_IndustrialOutput;20181206;08:00;Industrial Output (YoY);Hungary;HUF;1
+CZK_RetailSales;20181206;08:00;Retail Sales (YoY);Czech Republic;CZK;1
+EUR_GerFactoryOrders;20181206;07:00;Factory Orders s.a. (MoM);Germany;EUR;1
+EUR_NetConsumerPriceIndex;20181206;05:30;Consumer Price Index n.s.a (YoY);Netherlands, The;EUR;1
+AUD_RetailSales;20181206;00:30;Retail Sales s.a. (MoM);Australia;AUD;2
+AUD_Imports;20181206;00:30;Imports;Australia;AUD;2
+AUD_TradeBalance;20181206;00:30;Trade Balance;Australia;AUD;2
+AUD_Exports;20181206;00:30;Exports;Australia;AUD;2
+EUR_IreConsumerConfidence;20181206;00:01;Consumer Confidence;Ireland;EUR;1
+EUR_SpaSpanishConstitutionDay;20181206;00:00;Spanish Constitution Day;Spain;EUR;0
+USD_OPECMeeting;20181206;00:00;OPEC Meeting;United States;USD;2
+EUR_FinIndependenceDay;20181206;00:00;Independence Day;Finland;EUR;0
+COP_ConsumerPriceIndex;20181206;00:00;Consumer Price Index (YoY);Colombia;COP;1

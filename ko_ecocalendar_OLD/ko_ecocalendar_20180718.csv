@@ -1,0 +1,31 @@
+JPY_MerchandiseTradeBalanceTotal;20180718;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Imports;20180718;23:50;Imports (YoY);Japan;JPY;2
+JPY_Exports;20180718;23:50;Exports (YoY);Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20180718;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;2
+USD_FedBeigeBook;20180718;18:00;Fed Beige Book;United States;USD;2
+USD_EIACrudeOilStocksChange;20180718;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_CentralBankSpeech;20180718;14:00;Fed Chair Powell speech;United States;USD;3
+RUB_ProducerPriceIndex;20180718;13:56;Producer Price Index (YoY);Russia;RUB;1
+RUB_UnemploymentRate;20180718;13:00;Unemployment Rate;Russia;RUB;1
+USD_HousingStarts;20180718;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermitsChange;20180718;12:30;Building Permits Change;United States;USD;1
+USD_HousingStartsChange;20180718;12:30;Housing Starts Change;United States;USD;1
+USD_BuildingPermits;20180718;12:30;Building Permits (MoM);United States;USD;2
+INR_M3MoneySupply;20180718;11:30;M3 Money Supply;India;INR;1
+USD_MBAMortgageApplications;20180718;11:00;MBA Mortgage Applications;United States;USD;1
+ZAR_RetailSales;20180718;11:00;Retail Sales (YoY);South Africa;ZAR;1
+EUR_GerAuction;20180718;10:01;30-y Bond Auction;Germany;EUR;1
+EUR_PorCurrentAccount;20180718;10:00;Current Account Balance;Portugal;EUR;1
+EUR_EurConsumerPriceIndex;20180718;09:00;Consumer Price Index - Core (MoM);European Monetary Union;EUR;2
+GBP_RetailPriceIndex;20180718;08:30;Retail Price Index (MoM);United Kingdom;GBP;2
+GBP_DCLGHousePriceIndex;20180718;08:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ProducerPriceIndex;20180718;08:30;Producer Price Index - Output (YoY) n.s.a;United Kingdom;GBP;1
+GBP_PPICoreOutput;20180718;08:30;PPI Core Output (YoY) n.s.a ;United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20180718;08:30;Core Consumer Price Index (YoY);United Kingdom;GBP;3
+PLN_IndustrialOutput;20180718;08:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20180718;08:00;Producer Price Index (YoY);Poland;PLN;1
+ZAR_ConsumerPriceIndex;20180718;08:00;Consumer Price Index (YoY);South Africa;ZAR;1
+EUR_AusHICP;20180718;07:00;HICP (YoY);Austria;EUR;1
+EUR_SloEUNormInflation;20180718;07:00;EU Norm Inflation (YoY);Slovakia;EUR;1
+AUD_WestpacLeadingIndex;20180718;00:30;Westpac Leading Index (MoM);Australia;AUD;1
+EUR_EurEcoFinMeeting;20180718;00:00;EcoFin Meeting;European Monetary Union;EUR;2

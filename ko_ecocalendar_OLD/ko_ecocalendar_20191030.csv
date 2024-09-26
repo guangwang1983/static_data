@@ -1,0 +1,59 @@
+JPY_IndustrialProduction;20191030;23:50;Industrial Production (YoY);Japan;JPY;2
+JPY_ForeignBondInvestment;20191030;23:50;Foreign Bond Investment;Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20191030;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+KRW_IndustrialOutputGrowth;20191030;23:00;Industrial Output Growth;South Korea;KRW;1
+KRW_IndustrialOutput;20191030;23:00;Industrial Output (YoY);South Korea;KRW;1
+KRW_ServiceSectorOutput;20191030;23:00;Service Sector Output;South Korea;KRW;1
+NZD_BuildingPermits;20191030;21:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+MXN_FiscalBalancepesos;20191030;21:00;Fiscal Balance, pesos;Mexico;MXN;1
+BRL_InterestRateDecision;20191030;20:00;Interest Rate Decision;Brazil;BRL;1
+USD_FOMCPressConference;20191030;18:30;FOMC Press Conference;United States;USD;3
+USD_FedMonetaryPolicyStatement;20191030;18:00;Fed Monetary Policy Statement;United States;USD;3
+USD_FedInterestRateDecision;20191030;18:00;Fed Interest Rate Decision;United States;USD;3
+EUR_EurCentralBankSpeech;20191030;17:30;ECB Lautenschläger speech;European Monetary Union;EUR;2
+EUR_BelGrossDomesticProduct;20191030;15:30;Gross Domestic Product (QoQ);Belgium;EUR;1
+CAD_BoCPressConference;20191030;15:15;BoC Press Conference;Canada;CAD;3
+COP_NationalJoblessRate;20191030;15:00;National Jobless Rate;Colombia;COP;1
+USD_EIACrudeOilStocksChange;20191030;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+CAD_BankofCanadaMonetaryPolicyReport;20191030;14:00;Bank of Canada Monetary Policy Report;Canada;CAD;3
+CAD_BoCInterestRateDecision;20191030;14:00;BoC Interest Rate Decision;Canada;CAD;3
+CAD_BoCRateStatement;20191030;14:00;BoC Rate Statement;Canada;CAD;3
+CLP_IndustrialProduction;20191030;13:00;Industrial Production (YoY);Chile;CLP;1
+USD_GrossDomesticProduct;20191030;12:30;Gross Domestic Product Price Index;United States;USD;2
+USD_PersonalConsumptionExpendituresPrices;20191030;12:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+USD_CorePersonalConsumptionExpenditures;20191030;12:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+USD_ADPEmploymentChange;20191030;12:15;ADP Employment Change;United States;USD;2
+CLP_Unemploymentrate;20191030;12:00;Unemployment rate;Chile;CLP;1
+BRL_InflationIndexIGPM;20191030;11:00;Inflation Index/IGP-M;Brazil;BRL;1
+EUR_BelConsumerPriceIndex;20191030;11:00;Consumer Price Index (MoM);Belgium;EUR;1
+EUR_GerConsumerPriceIndex;20191030;11:00;Consumer Price Index (YoY);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20191030;11:00;Harmonized Index of Consumer Prices (MoM);Germany;EUR;1
+USD_MBAMortgageApplications;20191030;11:00;MBA Mortgage Applications;United States;USD;1
+EUR_EurEconomicSentimentIndicator;20191030;10:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+EUR_EurIndustrialConfidence;20191030;10:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_EurBusinessClimate;20191030;10:00;Business Climate;European Monetary Union;EUR;2
+EUR_EurServicesSentiment;20191030;10:00;Services Sentiment;European Monetary Union;EUR;1
+EUR_EurConsumerConfidence;20191030;10:00;Consumer Confidence;European Monetary Union;EUR;1
+EUR_GreProducerPriceIndex;20191030;10:00;Producer Price Index (YoY);Greece;EUR;1
+EUR_PorConsumerConfidence;20191030;09:30;Consumer Confidence;Portugal;EUR;1
+EUR_PorBusinessConfidence;20191030;09:30;Business Confidence;Portugal;EUR;1
+CHF_ZEWSurveyExpectations;20191030;09:00;ZEW Survey - Expectations;Switzerland;CHF;2
+EUR_ItaBusinessConfidence;20191030;09:00;Business Confidence;Italy;EUR;1
+EUR_ItaConsumerConfidence;20191030;09:00;Consumer Confidence;Italy;EUR;1
+EUR_GerUnemploymentChange;20191030;08:55;Unemployment Change;Germany;EUR;2
+EUR_GerUnemploymentRate;20191030;08:55;Unemployment Rate s.a.;Germany;EUR;2
+HUF_GrossWages;20191030;08:00;Gross Wages (YoY);Hungary;HUF;1
+CHF_KOFLeadingIndicator;20191030;08:00;KOF Leading Indicator;Switzerland;CHF;2
+EUR_SpaHICP;20191030;08:00;HICP (YoY);Spain;EUR;1
+EUR_SpaConsumerPriceIndex;20191030;08:00;Consumer Price Index (MoM);Spain;EUR;1
+EUR_AusProducerPriceIndex;20191030;08:00;Producer Price Index (MoM);Austria;EUR;1
+EUR_FraConsumerSpending;20191030;07:45;Consumer Spending (MoM);France;EUR;1
+EUR_AusGrossDomesticProduct;20191030;07:30;Gross Domestic Product (QoQ);Austria;EUR;1
+DKK_IndustrialOutlook;20191030;07:00;Industrial Outlook;Denmark;DKK;1
+TRY_EconomicConfidenceIndex;20191030;07:00;Economic Confidence Index;Turkey;TRY;1
+NOK_RetailSales;20191030;07:00;Retail Sales ;Norway;NOK;1
+EUR_FraGrossDomesticProduct;20191030;06:30;Gross Domestic Product (QoQ);France;EUR;1
+AUD_ConsumerPriceIndex;20191030;00:30;Consumer Price Index (YoY);Australia;AUD;2
+AUD_RBATrimmedMeanCPI;20191030;00:30;RBA Trimmed Mean CPI (YoY);Australia;AUD;1
+GBP_BRCShopPriceIndex;20191030;00:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1
+AUD_HIANewHomeSales;20191030;00:00;HIA New Home Sales (MoM);Australia;AUD;2

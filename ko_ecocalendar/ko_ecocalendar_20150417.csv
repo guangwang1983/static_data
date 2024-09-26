@@ -1,0 +1,26 @@
+USD_IMFMeeting;20150417;00:00;IMF Meeting;United States;USD;2
+JPY_ConsumerConfidenceIndex;20150417;05:00;Consumer Confidence Index;Japan;JPY;2
+CZK_ProducerPriceIndex;20150417;07:00;Producer Price Index (YoY);Czech Republic;CZK;1
+CHF_RetailSales;20150417;07:15;Real Retail Sales (YoY);Switzerland;CHF;2
+EUR_EurCurrentAccount;20150417;08:00;Current Account n.s.a;European Monetary Union;EUR;1
+GBP_ClaimantCountRate;20150417;08:30;Claimant Count Rate;United Kingdom;GBP;2
+GBP_ClaimantCountChange;20150417;08:30;Claimant Count Change;United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20150417;08:30;ILO Unemployment Rate (3M);United Kingdom;GBP;2
+GBP_AverageEarningsIncludingBonus;20150417;08:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_AverageEarningsExcludingBonus;20150417;08:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+INR_TradeDeficitGovernment;20150417;08:30;Trade Deficit Government;India;INR;1
+EUR_EurHarmonizedIndexofConsumerPrices;20150417;09:00;Harmonized Index of Consumer Prices (MoM);European Monetary Union;EUR;1
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20150417;09:00;Core Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+BRL_MidmonthInflation;20150417;11:00;Mid-month Inflation;Brazil;BRL;1
+INR_BankLoanGrowth;20150417;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20150417;11:30;FX Reserves, USD;India;INR;1
+EUR_ItaQuarterlyeconomicbulletin;20150417;12:00;Quarterly economic bulletin;Italy;EUR;1
+RUB_ProducerPriceIndex;20150417;12:00;Producer Price Index (YoY);Russia;RUB;1
+PLN_CorporateSectorWages;20150417;12:00;Corporate Sector Wages;Poland;PLN;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20150417;12:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20150417;12:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+USD_ConsumerPriceIndex;20150417;12:30;Consumer Price Index ex Food & Energy (MoM);United States;USD;2
+CAD_RetailSales;20150417;12:30;Retail Sales (MoM);Canada;CAD;2
+CAD_ConsumerPriceIndex;20150417;12:30;Consumer Price Index (MoM);Canada;CAD;2
+RUB_UnemploymentRate;20150417;13:00;Unemployment Rate;Russia;RUB;1
+USD_MichiganConsumerSentimentIndex;20150417;14:00;Michigan Consumer Sentiment Index;United States;USD;2

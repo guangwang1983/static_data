@@ -1,0 +1,44 @@
+JPY_JibunBankServicesPMI;20230221;00:30;Jibun Bank Services PMI;Japan;JPY;1
+AUD_RBAMeetingMinutes;20230221;00:30;RBA Meeting Minutes;Australia;AUD;3
+JPY_JibunBankManufacturingPMI;20230221;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+BRL_Carnival;20230221;03:00;Carnival;Brazil;BRL;0
+DKK_IndustrialOutlook;20230221;07:00;Industrial Outlook;Denmark;DKK;1
+CHF_Imports;20230221;07:00;Imports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20230221;07:00;Trade Balance;Switzerland;CHF;1
+CHF_Exports;20230221;07:00;Exports (MoM);Switzerland;CHF;1
+SEK_CapacityUtilization;20230221;07:00;Capacity Utilization;Sweden;SEK;1
+GBP_PublicSectorNetBorrowing;20230221;07:00;Public Sector Net Borrowing;United Kingdom;GBP;1
+EUR_FraHCOBManufacturingPMIPreliminar;20230221;08:15;HCOB Manufacturing PMI;France;EUR;2
+EUR_FraHCOBCompositePMI;20230221;08:15;HCOB Composite PMI;France;EUR;2
+EUR_FraHCOBServicesPMI;20230221;08:15;HCOB Services PMI;France;EUR;1
+EUR_GerHCOBServicesPMI;20230221;08:30;HCOB Services PMI;Germany;EUR;2
+EUR_GerHCOBCompositePMI;20230221;08:30;HCOB Composite PMI;Germany;EUR;3
+EUR_GerHCOBManufacturingPMIPreliminar;20230221;08:30;HCOB Manufacturing PMI;Germany;EUR;3
+PLN_RetailSales;20230221;09:00;Retail Sales (YoY);Poland;PLN;1
+EUR_EurHCOBCompositePMI;20230221;09:00;HCOB Composite PMI;European Monetary Union;EUR;3
+EUR_EurHCOBServicesPMI;20230221;09:00;HCOB Services PMI;European Monetary Union;EUR;2
+EUR_EurHCOBManufacturingPMIPreliminar;20230221;09:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+GBP_S&PGlobalCIPSServicesPMI;20230221;09:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;3
+GBP_S&PGlobalCIPSManufacturingPMIPreliminar;20230221;09:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSCompositePMI;20230221;09:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;2
+EUR_EurZEWSurvey–EconomicSentiment;20230221;10:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurvey–CurrentSituation;20230221;10:00;ZEW Survey – Current Situation;Germany;EUR;2
+EUR_GerZEWSurvey–EconomicSentiment;20230221;10:00;ZEW Survey – Economic Sentiment;Germany;EUR;2
+ILS_IndustrialProduction;20230221;11:00;Industrial Production (MoM);Israel;ILS;1
+MXN_RetailSales;20230221;12:00;Retail Sales (YoY);Mexico;MXN;1
+CAD_RetailSales;20230221;13:30;Retail Sales ex Autos (MoM);Canada;CAD;2
+CAD_ConsumerPriceIndex;20230221;13:30;Consumer Price Index (MoM);Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20230221;14:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20230221;14:45;S&P Global Services PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20230221;14:45;S&P Global Composite PMI;United States;USD;2
+EUR_EurCentralBankSpeech;20230221;15:00;ECB President Lagarde speech;European Monetary Union;EUR;3
+USD_ExistingHomeSales;20230221;15:00;Existing Home Sales (MoM);United States;USD;1
+USD_ExistingHomeSalesChange;20230221;15:00;Existing Home Sales Change (MoM);United States;USD;1
+NZD_GDTPriceIndex;20230221;15:10;GDT Price Index;New Zealand;NZD;1
+USD_Auction;20230221;18:00;52-Week Bill Auction;United States;USD;1
+KRW_BOKManufacturingBSI;20230221;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+NZD_Imports;20230221;21:45;Imports;New Zealand;NZD;2
+NZD_Exports;20230221;21:45;Exports;New Zealand;NZD;2
+NZD_TradeBalanceNZD;20230221;21:45;Trade Balance NZD (YoY);New Zealand;NZD;2
+AUD_WestpacLeadingIndex;20230221;23:30;Westpac Leading Index (MoM);Australia;AUD;1
+JPY_CorporateServicePriceIndex;20230221;23:50;Corporate Service Price Index (YoY);Japan;JPY;1

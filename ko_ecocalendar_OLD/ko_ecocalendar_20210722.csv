@@ -1,0 +1,35 @@
+GBP_GfKConsumerConfidence;20210722;23:01;GfK Consumer Confidence;United Kingdom;GBP;2
+AUD_CommonwealthBankManufacturingPMI;20210722;23:00;Commonwealth Bank Manufacturing PMI;Australia;AUD;2
+AUD_CommonwealthBankServicesPMI;20210722;23:00;Commonwealth Bank Services PMI;Australia;AUD;2
+AUD_CommonwealthBankCompositePMI;20210722;23:00;Commonwealth Bank Composite PMI;Australia;AUD;1
+AUD_CentralBankSpeech;20210722;22:45;RBA Governor Lowe speech;Australia;AUD;3
+RUB_IndustrialOutput;20210722;16:00;Industrial Output;Russia;RUB;1
+USD_Auction;20210722;15:30;4-Week Bill Auction;United States;USD;1
+USD_KansasFedManufacturingActivity;20210722;15:00;Kansas Fed Manufacturing Activity;United States;USD;1
+JPY_HealthSportsDay;20210722;15:00;Health-Sports Day;Japan;JPY;0
+USD_EIANaturalGasStorageChange;20210722;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_ExistingHomeSales;20210722;14:00;Existing Home Sales (MoM);United States;USD;1
+USD_ExistingHomeSalesChange;20210722;14:00;Existing Home Sales Change (MoM);United States;USD;1
+EUR_EurConsumerConfidence;20210722;14:00;Consumer Confidence;European Monetary Union;EUR;2
+RUB_CentralBankReserves;20210722;13:00;Central Bank Reserves $;Russia;RUB;1
+ZAR_SARBInterestRateDecision;20210722;13:00;SARB Interest Rate Decision;South Africa;ZAR;1
+USD_ChicagoFedNationalActivityIndex;20210722;12:30;Chicago Fed National Activity Index ;United States;USD;2
+USD_JoblessClaims;20210722;12:30;Initial Jobless Claims;United States;USD;2
+EUR_EurECBMonetaryPolicyStatementandPressConference;20210722;12:30;ECB Monetary Policy Statement and Press Conference;European Monetary Union;EUR;3
+CAD_EmploymentInsuranceBeneficiariesChange;20210722;12:30;Employment Insurance Beneficiaries Change (MoM);Canada;CAD;1
+PLN_M3MoneySupply;20210722;12:00;M3 Money Supply (YoY);Poland;PLN;1
+EUR_EurECBInterestRateDecision;20210722;11:45;ECB Interest Rate Decision;European Monetary Union;EUR;3
+EUR_EurECBDepositRateDecision;20210722;11:45;ECB Deposit Rate Decision;European Monetary Union;EUR;3
+MXN_1sthalfmonthCoreInflation;20210722;11:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20210722;11:00;1st half-month Inflation;Mexico;MXN;1
+ILS_IndustrialProduction;20210722;11:00;Industrial Production (MoM);Israel;ILS;1
+EUR_BelConsumerConfidenceIndex;20210722;09:00;Consumer Confidence Index;Belgium;EUR;1
+HKD_ConsumerPriceIndex;20210722;09:00;Consumer Price Index;Hong Kong SAR;HKD;1
+GBP_CentralBankSpeech;20210722;08:30;BoE Broadbent speech;United Kingdom;GBP;2
+IDR_BankIndonesiaRate;20210722;07:00;Bank Indonesia Rate;Indonesia;IDR;1
+EUR_FraBusinessClimateinManufacturing;20210722;06:45;Business Climate in Manufacturing;France;EUR;1
+DKK_ConsumerConfidence;20210722;06:00;Consumer Confidence;Denmark;DKK;1
+EUR_NetUnemploymentRate;20210722;04:30;Unemployment Rate s.a (3M);Netherlands, The;EUR;1
+EUR_NetConsumerSpendingVolume;20210722;04:30;Consumer Spending Volume;Netherlands, The;EUR;1
+EUR_NetConsumerConfidenceAdj;20210722;04:30;Consumer Confidence Adj;Netherlands, The;EUR;1
+AUD_NationalAustraliaBankBusinessConfidence;20210722;01:30;National Australia Bank Business Confidence (QoQ);Australia;AUD;2

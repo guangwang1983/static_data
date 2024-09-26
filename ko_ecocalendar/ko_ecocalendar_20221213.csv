@@ -1,0 +1,43 @@
+AUD_NationalAustraliaBankBusinessConfidence;20221213;00:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20221213;00:30;National Australia Bank Business Conditions;Australia;AUD;1
+KRW_MoneySupplyGrowth;20221213;03:00;Money Supply Growth;South Korea;KRW;1
+EUR_FraNonfarmPayrolls;20221213;06:30;Nonfarm Payrolls (QoQ);France;EUR;1
+TRY_IndustrialProduction;20221213;07:00;Industrial Production (YoY);Turkey;TRY;1
+GBP_ILOUnemploymentRate;20221213;07:00;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_AverageEarningsIncludingBonus;20221213;07:00;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountChange;20221213;07:00;Claimant Count Change;United Kingdom;GBP;3
+GBP_ClaimantCountRate;20221213;07:00;Claimant Count Rate;United Kingdom;GBP;2
+GBP_AverageEarningsExcludingBonus;20221213;07:00;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+RON_ConsumerPriceIndex;20221213;07:00;Consumer Price Index;Romania;RON;1
+EUR_GerConsumerPriceIndex;20221213;07:00;Consumer Price Index (YoY);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20221213;07:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+CHF_SECOEconomicForecasts;20221213;08:00;SECO Economic Forecasts;Switzerland;CHF;1
+EUR_ItaIndustrialOutput;20221213;09:00;Industrial Output s.a. (MoM);Italy;EUR;1
+ZAR_BusinessConfidenceIndex;20221213;09:30;Business Confidence Index;South Africa;ZAR;1
+EUR_EurZEWSurvey–EconomicSentiment;20221213;10:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurvey–CurrentSituation;20221213;10:00;ZEW Survey – Current Situation;Germany;EUR;2
+EUR_GerZEWSurvey–EconomicSentiment;20221213;10:00;ZEW Survey – Economic Sentiment;Germany;EUR;2
+GBP_FPCStatement;20221213;10:30;FPC Statement;United Kingdom;GBP;1
+GBP_Auction;20221213;10:30;10-y Bond Auction;United Kingdom;GBP;1
+GBP_FinancialStabilityReport;20221213;10:30;Financial Stability Report;United Kingdom;GBP;2
+GBP_FPCMeetingMinutes;20221213;10:30;FPC Meeting Minutes;United Kingdom;GBP;1
+USD_NFIBBusinessOptimismIndex;20221213;11:00;NFIB Business Optimism Index;United States;USD;1
+ILS_Exports;20221213;11:00;Exports;Israel;ILS;1
+ILS_Imports;20221213;11:00;Imports;Israel;ILS;1
+ILS_TradeBalance;20221213;11:00;Trade Balance;Israel;ILS;1
+GBP_CentralBankSpeech;20221213;11:00;BoE Governor Bailey speech;United Kingdom;GBP;3
+USD_ConsumerPriceIndex;20221213;13:30;Consumer Price Index (MoM);United States;USD;2
+EUR_GerCurrentAccount;20221213;13:45;Current Account n.s.a.;Germany;EUR;1
+USD_RedbookIndex;20221213;13:55;Redbook Index (YoY);United States;USD;1
+USD_IBDTIPPEconomicOptimism;20221213;15:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+USD_Auction;20221213;18:00;30-Year Bond Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20221213;21:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_CurrentAccount;20221213;21:45;Current Account - GDP Ratio;New Zealand;NZD;1
+AUD_CentralBankSpeech;20221213;22:30;RBA Governor Lowe speech;Australia;AUD;3
+KRW_UnemploymentRate;20221213;23:00;Unemployment Rate;South Korea;KRW;1
+JPY_TankanLargeAllIndustryCapex;20221213;23:50;Tankan Large All Industry Capex;Japan;JPY;2
+JPY_TankanNonManufacturingIndex;20221213;23:50;Tankan Non - Manufacturing Index;Japan;JPY;1
+JPY_TankanNonManufacturingOutlook;20221213;23:50;Tankan Non - Manufacturing Outlook;Japan;JPY;1
+JPY_TankanLargeManufacturingIndex;20221213;23:50;Tankan Large Manufacturing Index;Japan;JPY;3
+JPY_TankanLargeManufacturingOutlook;20221213;23:50;Tankan Large Manufacturing Outlook;Japan;JPY;2
+JPY_MachineryOrders;20221213;23:50;Machinery Orders (MoM);Japan;JPY;1

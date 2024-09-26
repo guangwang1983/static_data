@@ -1,0 +1,34 @@
+KRW_FXReserves;20180102;21:00;FX Reserves;South Korea;KRW;1
+ARS_TaxRevenue;20180102;20:00;Tax Revenue (MoM);Argentina;ARS;1
+USD_Auction;20180102;18:00;52-Week Bill Auction;United States;USD;1
+BRL_TradeBalance;20180102;17:00;Trade Balance;Brazil;BRL;1
+USD_MarkitManufacturingPMI;20180102;14:45;Markit Manufacturing PMI;United States;USD;2
+NZD_GDTPriceIndex;20180102;14:30;GDT Price Index;New Zealand;NZD;1
+CAD_MarkitManufacturingPMI;20180102;14:30;Markit Manufacturing PMI;Canada;CAD;2
+BRL_HSBCPMIManufacturing;20180102;12:00;HSBC PMI Manufacturing;Brazil;BRL;1
+INR_InfrastructureOutput;20180102;11:30;Infrastructure Output (YoY);India;INR;1
+GBP_MarkitManufacturingPMI;20180102;09:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+EUR_GreMarkitManufacturingPMI;20180102;09:00;Markit Manufacturing PMI;Greece;EUR;1
+EUR_EurMarkitManufacturingPMI;20180102;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_GerMarkitManufacturingPMI;20180102;08:55;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20180102;08:50;Markit Manufacturing PMI;France;EUR;1
+EUR_ItaMarkitManufacturingPMI;20180102;08:45;Markit Manufacturing PMI;Italy;EUR;1
+CZK_MarkitPMI;20180102;08:30;Markit PMI;Czech Republic;CZK;1
+EUR_SpaMarkitManufacturingPMI;20180102;08:15;Markit Manufacturing PMI;Spain;EUR;1
+EUR_AusUnemployment;20180102;08:00;Unemployment;Austria;EUR;1
+EUR_AusUnemploymentRate;20180102;08:00;Unemployment Rate;Austria;EUR;1
+HUF_PurchasingManagerIndex;20180102;08:00;Purchasing Manager Index;Hungary;HUF;1
+HUF_TradeBalance;20180102;08:00;Trade Balance;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20180102;08:00;Purchasing Manager Index;Poland;PLN;2
+SEK_PurchasingManagersIndexManufacturing;20180102;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;2
+EUR_IrePurchasingManagerIndexManufacturing;20180102;06:00;Purchasing Manager Index Manufacturing;Ireland;EUR;1
+AUD_RBACommodityIndexSDR;20180102;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+PEN_Inflation;20180102;05:00;Inflation;Peru;PEN;1
+IDR_CoreInflation;20180102;04:00;Core Inflation (YoY);Indonesia;IDR;1
+IDR_Inflation;20180102;04:00;Inflation (YoY);Indonesia;IDR;1
+CNY_CaixinManufacturingPMI;20180102;01:45;Caixin Manufacturing PMI;China;CNY;2
+KRW_NikkeiMarkitManufacturingPMI;20180102;00:30;Nikkei Markit Manufacturing PMI;South Korea;KRW;1
+RUB_Bankholiday;20180102;00:00;Bank holiday;Russia;RUB;0
+NZD_DayafterNewYearDay;20180102;00:00;Day after New Year Day ;New Zealand;NZD;0
+RON_DayafterNewYearDay;20180102;00:00;Day after New Year Day;Romania;RON;0
+SGD_GrossDomesticProduct;20180102;00:00;Gross Domestic Product (QoQ);Singapore;SGD;1

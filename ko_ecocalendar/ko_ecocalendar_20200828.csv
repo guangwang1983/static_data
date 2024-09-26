@@ -1,0 +1,46 @@
+USD_JacksonHoleSymposium;20200828;00:00;Jackson Hole Symposium;United States;USD;3
+EUR_GerImportPriceIndex;20200828;06:00;Import Price Index (YoY);Germany;EUR;1
+DKK_IndustrialOutlook;20200828;06:00;Industrial Outlook;Denmark;DKK;1
+EUR_GerGfkConsumerConfidenceSurvey;20200828;06:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+EUR_FraProducerPrices;20200828;06:45;Producer Prices (MoM);France;EUR;1
+EUR_FraConsumerPriceIndex;20200828;06:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraConsumerSpending;20200828;06:45;Consumer Spending (MoM);France;EUR;1
+EUR_FraGrossDomesticProduct;20200828;06:45;Gross Domestic Product (QoQ);France;EUR;1
+CHF_KOFLeadingIndicator;20200828;07:00;KOF Leading Indicator;Switzerland;CHF;2
+HUF_UnemploymentRate;20200828;07:00;Unemployment Rate (3M);Hungary;HUF;1
+TRY_EconomicConfidenceIndex;20200828;07:00;Economic Confidence Index;Turkey;TRY;1
+SEK_GrossDomesticProduct;20200828;07:30;Gross Domestic Product (YoY);Sweden;SEK;1
+EUR_ItaBusinessConfidence;20200828;08:00;Business Confidence;Italy;EUR;1
+EUR_ItaConsumerConfidence;20200828;08:00;Consumer Confidence;Italy;EUR;1
+NOK_RegisteredUnemployment;20200828;08:00;Registered Unemployment n.s.a;Norway;NOK;1
+EUR_ItaProducerPriceIndex;20200828;09:00;Producer Price Index (YoY);Italy;EUR;1
+EUR_EurIndustrialConfidence;20200828;09:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_EurBusinessClimate;20200828;09:00;Business Climate;European Monetary Union;EUR;2
+EUR_EurEconomicSentimentIndicator;20200828;09:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+EUR_EurServicesSentiment;20200828;09:00;Services Sentiment;European Monetary Union;EUR;1
+EUR_EurConsumerConfidence;20200828;09:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_ItaAuction;20200828;09:30;10-y Bond Auction;Italy;EUR;1
+BRL_InflationIndexIGPM;20200828;11:00;Inflation Index/IGP-M;Brazil;BRL;1
+INR_FXReservesUSD;20200828;11:30;FX Reserves, USD;India;INR;1
+INR_BankLoanGrowth;20200828;11:30;Bank Loan Growth;India;INR;1
+USD_PersonalIncome;20200828;12:30;Personal Income (MoM);United States;USD;2
+USD_CorePersonalConsumptionExpendituresPriceIndex;20200828;12:30;Core Personal Consumption Expenditures - Price Index (MoM);United States;USD;2
+USD_PersonalConsumptionExpendituresPriceIndex;20200828;12:30;Personal Consumption Expenditures - Price Index (YoY);United States;USD;1
+USD_PersonalSpending;20200828;12:30;Personal Spending;United States;USD;2
+CAD_GrossDomesticProduct;20200828;12:30;Gross Domestic Product Annualized;Canada;CAD;3
+USD_WholesaleInventories;20200828;12:30;Wholesale Inventories;United States;USD;1
+USD_GoodsTradeBalance;20200828;12:30;Goods Trade Balance;United States;USD;1
+CLP_Unemploymentrate;20200828;13:00;Unemployment rate;Chile;CLP;1
+GBP_CentralBankSpeech;20200828;13:05;BoE Governor Bailey speech;United Kingdom;GBP;3
+USD_ChicagoPurchasingManagers'Index;20200828;13:45;Chicago Purchasing Managers' Index;United States;USD;2
+USD_UoM5yearConsumerInflationExpectation;20200828;14:00;UoM 5-year Consumer Inflation Expectation;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20200828;14:00;Michigan Consumer Sentiment Index;United States;USD;2
+USD_BakerHughesUSOilRigCount;20200828;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+AUD_CFTCAUDNCNetPositions;20200828;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20200828;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+USD_CFTCS&P500NCNetPositions;20200828;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20200828;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+GBP_CFTCGBPNCNetPositions;20200828;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20200828;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20200828;19:30;CFTC Oil NC Net Positions;United States;USD;1
+MXN_FiscalBalancepesos;20200828;21:00;Fiscal Balance, pesos;Mexico;MXN;1

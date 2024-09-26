@@ -1,0 +1,49 @@
+COP_AscensionDay;20190603;00:00;Ascension Day;Colombia;COP;0
+NZD_QueenBirthday;20190603;00:00;Queen Birthday;New Zealand;NZD;0
+KRW_S&PGlobalManufacturingPMI;20190603;00:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+JPY_JibunBankManufacturingPMI;20190603;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+AUD_TDSecuritiesInflation;20190603;01:00;TD Securities Inflation (MoM);Australia;AUD;2
+AUD_CompanyGrossOperatingProfits;20190603;01:30;Company Gross Operating Profits (QoQ);Australia;AUD;1
+AUD_ANZJobAdvertisements;20190603;01:30;ANZ Job Advertisements;Australia;AUD;1
+CNY_CaixinManufacturingPMI;20190603;01:45;Caixin Manufacturing PMI;China;CNY;3
+JPY_VehicleSales;20190603;05:00;Vehicle Sales (YoY);Japan;JPY;1
+RUB_S&PGlobalManufacturingPMI;20190603;06:00;S&P Global Manufacturing PMI;Russia;RUB;1
+AUD_RBACommodityIndexSDR;20190603;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+SEK_PurchasingManagersIndexManufacturing;20190603;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+CHF_ConsumerPriceIndex;20190603;06:30;Consumer Price Index (YoY);Switzerland;CHF;2
+EUR_FraCurrentAccount;20190603;06:45;Current Account;France;EUR;1
+TRY_ProducerPriceIndex;20190603;07:00;Producer Price Index (YoY);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20190603;07:00;Consumer Price Index (MoM);Turkey;TRY;1
+HUF_PurchasingManagerIndex;20190603;07:00;Purchasing Manager Index;Hungary;HUF;1
+HUF_ProducerPriceIndex;20190603;07:00;Producer Price Index (YoY);Hungary;HUF;1
+PLN_PurchasingManagerIndex;20190603;07:00;Purchasing Manager Index;Poland;PLN;2
+SEK_RetailSales;20190603;07:30;Retail Sales (MoM);Sweden;SEK;1
+CHF_SVMEPurchasingManagers'Index;20190603;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_S&PGlobalPMI;20190603;07:30;S&P Global PMI;Czech Republic;CZK;1
+EUR_ItaHCOBManufacturingPMI;20190603;07:45;HCOB Manufacturing PMI;Italy;EUR;1
+EUR_FraHCOBManufacturingPMI;20190603;07:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerHCOBManufacturingPMI;20190603;07:55;HCOB Manufacturing PMI;Germany;EUR;2
+TRY_Exports;20190603;08:00;Exports;Turkey;TRY;1
+EUR_EurHCOBManufacturingPMI;20190603;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;1
+GBP_S&PGlobalCIPSManufacturingPMI;20190603;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+DKK_ManufacturingPMI;20190603;09:00;Manufacturing PMI;Denmark;DKK;1
+ILS_BudgetBalanceILS;20190603;10:00;Budget Balance - ILS;Israel;ILS;1
+CZK_BudgetBalance;20190603;12:00;Budget Balance;Czech Republic;CZK;1
+ZAR_TotalNewVehicleSales;20190603;12:55;Total New Vehicle Sales;South Africa;ZAR;1
+BRL_S&PGlobalManufacturingPMI;20190603;13:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+CAD_S&PGlobalManufacturingPMI;20190603;13:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20190603;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_ISMManufacturingPMI;20190603;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20190603;14:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ISMManufacturingEmploymentIndex;20190603;14:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ISMManufacturingNewOrdersIndex;20190603;14:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ConstructionSpending;20190603;14:00;Construction Spending (MoM);United States;USD;1
+USD_Auction;20190603;15:30;6-Month Bill Auction;United States;USD;1
+USD_CentralBankSpeech;20190603;17:25;Fed Bullard speech;United States;USD;2
+BRL_TradeBalance;20190603;19:00;Trade Balance;Brazil;BRL;1
+USD_TotalVehicleSales;20190603;20:34;Total Vehicle Sales;United States;USD;1
+NZD_TermsofTradeIndex;20190603;22:45;Terms of Trade Index;New Zealand;NZD;1
+KRW_GrossDomesticProduct;20190603;23:00;Gross Domestic Product Growth (QoQ) ;South Korea;KRW;1
+KRW_ConsumerPriceIndex;20190603;23:00;Consumer Price Index Growth (MoM);South Korea;KRW;1
+GBP_RetailSales;20190603;23:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+JPY_MonetaryBase;20190603;23:50;Monetary Base (YoY);Japan;JPY;1

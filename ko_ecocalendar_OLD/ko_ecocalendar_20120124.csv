@@ -1,0 +1,34 @@
+JPY_MerchandiseTradeBalanceTotal;20120124;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20120124;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+AUD_WestpacLeadingIndex;20120124;23:30;Westpac Leading Index (MoM);Australia;AUD;1
+ARS_IndustrialOutput;20120124;19:00;Industrial Output (12M);Argentina;ARS;1
+CHF_CentralBankSpeech;20120124;16:15;SNB Danthine speech;Switzerland;CHF;2
+USD_RichmondFedManufacturingIndex;20120124;15:00;Richmond Fed Manufacturing Index;United States;USD;1
+EUR_BelLeadingIndicator;20120124;14:00;Leading Indicator;Belgium;EUR;1
+MXN_1sthalfmonthCoreInflation;20120124;14:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20120124;14:00;1st half-month Inflation;Mexico;MXN;1
+CAD_RetailSales;20120124;13:30;Retail Sales ex Autos (MoM);Canada;CAD;1
+HUF_MNBInterestRateDecision;20120124;13:00;MNB Interest Rate Decision;Hungary;HUF;1
+BRL_CurrentAccount;20120124;12:30;Current Account;Brazil;BRL;1
+TRY_CBRTInterestRateDecision;20120124;12:00;CBRT Interest Rate Decision;Turkey;TRY;1
+BRL_MidmonthInflation;20120124;11:00;Mid-month Inflation;Brazil;BRL;1
+EUR_EurIndustrialNewOrders;20120124;10:00;Industrial New Orders (YoY);European Monetary Union;EUR;2
+GBP_PublicSectorNetBorrowing;20120124;09:30;Public Sector Net Borrowing;United Kingdom;GBP;2
+EUR_ItaTradeBalancenonEU;20120124;09:00;Trade Balance non-EU;Italy;EUR;1
+TRY_ForeignArrivals;20120124;09:00;Foreign Arrivals;Turkey;TRY;1
+EUR_EurMarkitManufacturingPMI;20120124;08:58;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20120124;08:58;Markit Services PMI;European Monetary Union;EUR;2
+EUR_GerMarkitServicesPMI;20120124;08:28;Markit Services PMI;Germany;EUR;2
+EUR_GerMarkitManufacturingPMI;20120124;08:28;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20120124;07:58;Markit Manufacturing PMI;France;EUR;1
+EUR_FraMarkitServicesPMI;20120124;07:58;Markit Services PMI;France;EUR;1
+EUR_FinUnemploymentRate;20120124;07:00;Unemployment Rate;Finland;EUR;1
+EUR_AusIndustrialProduction;20120124;07:00;Industrial Production (YoY);Austria;EUR;1
+EUR_SpaTradeBalance;20120124;07:00;Trade Balance;Spain;EUR;1
+INR_CashReserveRatio;20120124;05:30;Cash Reserve Ratio;India;INR;1
+INR_ReverseRepoRate;20120124;05:30;Reverse Repo Rate;India;INR;1
+INR_RBIInterestRateDecision;20120124;05:30;RBI Interest Rate Decision (Repo Rate);India;INR;1
+JPY_BoJInterestRateDecision;20120124;03:35;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_BoJMonetaryPolicyStatement;20120124;03:35;BoJ Monetary Policy Statement ;Japan;JPY;3
+KRW_KoreanNewYear;20120124;00:00;Korean New Year ;South Korea;KRW;0
+CNY_ChineseNewYear;20120124;00:00;Chinese New Year;China;CNY;0

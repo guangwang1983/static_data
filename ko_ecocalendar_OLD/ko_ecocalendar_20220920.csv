@@ -1,0 +1,23 @@
+CNY_PBoCInterestRateDecision;20220920;01:30;PBoC Interest Rate Decision;China;CNY;3
+AUD_RBAMeetingMinutes;20220920;01:30;RBA Meeting Minutes;Australia;AUD;3
+CHF_TradeBalance;20220920;06:00;Trade Balance;Switzerland;CHF;1
+CHF_Exports;20220920;06:00;Exports (MoM);Switzerland;CHF;1
+CHF_Imports;20220920;06:00;Imports (MoM);Switzerland;CHF;1
+CHF_SECOEconomicForecasts;20220920;07:00;SECO Economic Forecasts;Switzerland;CHF;1
+SEK_RiksbankInterestRateDecision;20220920;07:30;Riksbank Interest Rate Decision;Sweden;SEK;1
+PLN_IndustrialOutput;20220920;08:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20220920;08:00;Producer Price Index (YoY);Poland;PLN;1
+PLN_CorporateSectorWages;20220920;08:00;Corporate Sector Wages;Poland;PLN;1
+CZK_ForeignDebt;20220920;08:00;Foreign Debt;Czech Republic;CZK;1
+EUR_EurCurrentAccount;20220920;08:00;Current Account n.s.a;European Monetary Union;EUR;1
+USD_BuildingPermitsChange;20220920;12:30;Building Permits Change;United States;USD;1
+USD_HousingStartsChange;20220920;12:30;Housing Starts Change;United States;USD;1
+USD_HousingStarts;20220920;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20220920;12:30;Building Permits (MoM);United States;USD;2
+CAD_ConsumerPriceIndex;20220920;12:30;BoC Consumer Price Index Core (YoY);Canada;CAD;3
+USD_RedbookIndex;20220920;12:55;Redbook Index (YoY);United States;USD;1
+NZD_GDTPriceIndex;20220920;14:00;GDT Price Index;New Zealand;NZD;1
+USD_Auction;20220920;17:00;20-Year Bond Auction;United States;USD;1
+EUR_EurCentralBankSpeech;20220920;17:00;ECB President Lagarde speech;European Monetary Union;EUR;3
+CAD_CentralBankSpeech;20220920;19:30;BoC Beaudry speech;Canada;CAD;2
+USD_APIWeeklyCrudeOilStock;20220920;20:30;API Weekly Crude Oil Stock;United States;USD;1

@@ -1,0 +1,38 @@
+GBP_CFTCGBPNCNetPositions;20191122;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20191122;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20191122;20:30;CFTC Oil NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20191122;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCUSDNCNetPositions;20191122;20:30;CFTC USD NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20191122;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20191122;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+COP_Interestrate;20191122;20:00;Interest rate;Colombia;COP;1
+USD_BakerHughesUSOilRigCount;20191122;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_KansasFedManufacturingActivity;20191122;16:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_MichiganConsumerSentimentIndex;20191122;15:00;Michigan Consumer Sentiment Index;United States;USD;2
+JPY_LaborThanksgivingDay;20191122;15:00;Labor Thanksgiving Day;Japan;JPY;0
+USD_MarkitManufacturingPMI;20191122;14:45;Markit Manufacturing PMI;United States;USD;2
+USD_MarkitServicesPMI;20191122;14:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20191122;14:45;Markit PMI Composite;United States;USD;2
+CAD_RetailSales;20191122;13:30;Retail Sales (MoM);Canada;CAD;3
+EUR_GerCentralBankSpeech;20191122;13:00;German Buba President Weidmann speech;Germany;EUR;2
+MXN_1sthalfmonthCoreInflation;20191122;12:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20191122;12:00;1st half-month Inflation;Mexico;MXN;1
+BRL_MidmonthInflation;20191122;12:00;Mid-month Inflation;Brazil;BRL;1
+INR_BankLoanGrowth;20191122;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20191122;11:30;FX Reserves, USD;India;INR;1
+GBP_MarkitManufacturingPMI;20191122;09:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+GBP_MarkitServicesPMI;20191122;09:30;Markit Services PMI;United Kingdom;GBP;3
+PLN_IndustrialOutput;20191122;09:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20191122;09:00;Producer Price Index (YoY);Poland;PLN;1
+EUR_EurMarkitPMIComposite;20191122;09:00;Markit PMI Composite;European Monetary Union;EUR;3
+EUR_EurMarkitManufacturingPMI;20191122;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20191122;09:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_EurCentralBankSpeech;20191122;08:30;ECB President Lagarde speech;European Monetary Union;EUR;3
+EUR_GerMarkitPMIComposite;20191122;08:30;Markit PMI Composite;Germany;EUR;3
+EUR_GerMarkitManufacturingPMI;20191122;08:30;Markit Manufacturing PMI;Germany;EUR;3
+EUR_GerMarkitServicesPMI;20191122;08:30;Markit Services PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20191122;08:15;Markit Manufacturing PMI;France;EUR;1
+EUR_FraMarkitServicesPMI;20191122;08:15;Markit Services PMI;France;EUR;1
+EUR_FraMarkitPMIComposite;20191122;08:15;Markit PMI Composite;France;EUR;2
+EUR_GerGrossDomesticProduct;20191122;07:00;Gross Domestic Product (YoY);Germany;EUR;2
+JPY_JibunBankManufacturingPMI;20191122;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1

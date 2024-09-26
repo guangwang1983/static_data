@@ -1,0 +1,17 @@
+JPY_MerchandiseTradeBalanceTotal;20080521;23:50;Merchandise Trade Balance Total;Japan;JPY;1
+JPY_AdjustedMerchandiseTradeBalance;20080521;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_AllIndustryActivityIndex;20080521;23:50;All Industry Activity Index (MoM);Japan;JPY;1
+USD_FOMCMinutes;20080521;18:00;FOMC Minutes;United States;USD;2
+USD_EIACrudeOilStocksChange;20080521;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+CAD_LeadingIndicators;20080521;12:30;Leading Indicators (MoM);Canada;CAD;1
+USD_MBAMortgageApplications;20080521;11:00;MBA Mortgage Applications;United States;USD;1
+CAD_ConsumerPriceIndex;20080521;11:00;BoC Consumer Price Index Core (MoM);Canada;CAD;2
+CHF_ZEWSurveyExpectations;20080521;09:00;ZEW Survey - Expectations;Switzerland;CHF;2
+GBP_BankofEnglandMinutes;20080521;08:30;Bank of England Minutes;United Kingdom;GBP;3
+GBP_M4SterlingLending;20080521;08:30;M4 Sterling Lending;United Kingdom;GBP;2
+GBP_M4MoneySupply;20080521;08:30;M4 Money Supply (MoM);United Kingdom;GBP;2
+GBP_PublicSectorNetBorrowing;20080521;08:30;Public Sector Net Borrowing;United Kingdom;GBP;1
+EUR_GerIFOExpectations;20080521;08:00;IFO - Expectations;Germany;EUR;2
+EUR_GerIFOBusinessClimate;20080521;08:00;IFO - Business Climate;Germany;EUR;2
+AUD_NewMotorVehicleSales;20080521;01:30;New Motor Vehicle Sales (MoM);Australia;AUD;1
+AUD_WestpacConsumerConfidence;20080521;00:30;Westpac Consumer Confidence;Australia;AUD;2

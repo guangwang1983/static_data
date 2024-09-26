@@ -1,0 +1,39 @@
+AUD_NationalAustraliaBankBusinessConfidence;20171010;00:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20171010;00:30;National Australia Bank Business Conditions;Australia;AUD;1
+JPY_CentralBankSpeech;20171010;00:30;BoJ Governor Kuroda speech;Japan;JPY;2
+AUD_CentralBankSpeech;20171010;03:20;RBA Debelle speech;Australia;AUD;2
+JPY_EcoWatchersSurvey:Outlook;20171010;05:00;Eco Watchers Survey: Outlook;Japan;JPY;2
+JPY_EcoWatchersSurvey:Current;20171010;05:00;Eco Watchers Survey: Current;Japan;JPY;2
+CHF_UnemploymentRate;20171010;05:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+NOK_CoreInflation;20171010;06:00;Core Inflation (MoM);Norway;NOK;1
+NOK_ConsumerPriceIndex;20171010;06:00;Consumer Price Index (MoM);Norway;NOK;1
+RON_TradeBalance;20171010;06:00;Trade Balance;Romania;RON;1
+RON_GrossDomesticProduct;20171010;06:00;Gross Domestic Product;Romania;RON;1
+NOK_ProducerPriceIndex;20171010;06:00;Producer Price Index (YoY);Norway;NOK;1
+EUR_GerTradeBalance;20171010;06:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerExports;20171010;06:00;Exports (MoM);Germany;EUR;2
+EUR_GerImports;20171010;06:00;Imports (MoM);Germany;EUR;2
+EUR_GerCurrentAccount;20171010;06:00;Current Account n.s.a.;Germany;EUR;2
+EUR_FraIndustrialOutput;20171010;06:45;Industrial Output (MoM);France;EUR;1
+DKK_Inflation;20171010;07:00;Inflation (HICP) (YoY);Denmark;DKK;1
+DKK_ConsumerPriceIndex;20171010;07:00;Consumer Price Index (YoY);Denmark;DKK;1
+HUF_ConsumerPriceIndex;20171010;07:00;Core Consumer Price Index (YoY);Hungary;HUF;1
+EUR_ItaIndustrialOutput;20171010;08:00;Industrial Output s.a. (MoM);Italy;EUR;1
+GBP_ManufacturingProduction;20171010;08:30;Manufacturing Production (YoY);United Kingdom;GBP;2
+GBP_IndustrialProduction;20171010;08:30;Industrial Production (YoY);United Kingdom;GBP;2
+GBP_TotalTradeBalance;20171010;08:30;Total Trade Balance;United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20171010;08:30;Goods Trade Balance;United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20171010;08:30;Trade Balance non-EU;United Kingdom;GBP;1
+USD_NFIBBusinessOptimismIndex;20171010;10:00;NFIB Business Optimism Index;United States;USD;1
+EUR_EurEcoFinMeeting;20171010;10:00;EcoFin Meeting;European Monetary Union;EUR;2
+ZAR_ManufacturingProductionIndex;20171010;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;0
+CLP_TradeBalance;20171010;11:30;Trade Balance;Chile;CLP;1
+GBP_NIESRGDPEstimate;20171010;12:00;NIESR GDP Estimate (3M);United Kingdom;GBP;2
+CAD_HousingStarts;20171010;12:15;Housing Starts s.a (YoY);Canada;CAD;2
+CAD_BuildingPermits;20171010;12:30;Building Permits (MoM);Canada;CAD;1
+USD_RedbookIndex;20171010;12:55;Redbook Index (YoY);United States;USD;1
+USD_CentralBankSpeech;20171010;14:00;Fed Kashkari speech;United States;USD;2
+USD_IBDTIPPEconomicOptimism;20171010;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+USD_Auction;20171010;15:30;52-Week Bill Auction;United States;USD;1
+AUD_WestpacConsumerConfidence;20171010;23:30;Westpac Consumer Confidence;Australia;AUD;2
+JPY_MachineryOrders;20171010;23:50;Machinery Orders (MoM);Japan;JPY;2

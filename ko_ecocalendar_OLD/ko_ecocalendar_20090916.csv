@@ -1,0 +1,21 @@
+JPY_TertiaryIndustryIndex;20090916;23:50;Tertiary Industry Index (MoM);Japan;JPY;2
+JPY_BSILargeManufacturingConditionsIndex;20090916;23:50;BSI Large Manufacturing Conditions Index (QoQ);Japan;JPY;2
+USD_NAHBHousingMarketIndex;20090916;17:00;NAHB Housing Market Index;United States;USD;2
+USD_EIACrudeOilStocksChange;20090916;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_IndustrialProduction;20090916;13:15;Industrial Production (MoM);United States;USD;1
+USD_CapacityUtilization;20090916;13:15;Capacity Utilization;United States;USD;1
+USD_NetLongTermTICFlows;20090916;13:00;Net Long-Term TIC Flows;United States;USD;2
+USD_TotalNetTICFlows;20090916;13:00;Total Net TIC Flows;United States;USD;2
+USD_CurrentAccount;20090916;12:30;Current Account;United States;USD;1
+CAD_ManufacturingShipments;20090916;12:30;Manufacturing Shipments (MoM);Canada;CAD;1
+USD_ConsumerPriceIndex;20090916;12:30;Consumer Price Index ex Food & Energy (YoY);United States;USD;3
+USD_MBAMortgageApplications;20090916;11:00;MBA Mortgage Applications;United States;USD;1
+CHF_ZEWSurveyExpectations;20090916;09:00;ZEW Survey - Expectations;Switzerland;CHF;1
+EUR_EurConsumerPriceIndex;20090916;09:00;Consumer Price Index (YoY);European Monetary Union;EUR;2
+GBP_AverageEarningsIncludingBonus;20090916;08:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;1
+GBP_ILOUnemploymentRate;20090916;08:30;ILO Unemployment Rate (3M);United Kingdom;GBP;2
+GBP_ClaimantCountChange;20090916;08:30;Claimant Count Change;United Kingdom;GBP;2
+GBP_ClaimantCountRate;20090916;08:30;Claimant Count Rate;United Kingdom;GBP;2
+GBP_AverageEarningsExcludingBonus;20090916;08:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;1
+CHF_RetailSales;20090916;07:15;Real Retail Sales (YoY);Switzerland;CHF;2
+AUD_WestpacLeadingIndex;20090916;01:00;Westpac Leading Index (MoM);Australia;AUD;1

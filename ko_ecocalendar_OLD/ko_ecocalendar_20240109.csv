@@ -1,0 +1,37 @@
+GBP_RetailSales;20240109;00:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+AUD_RetailSales;20240109;00:30;Retail Sales s.a. (MoM);Australia;AUD;3
+AUD_BuildingPermits;20240109;00:30;Building Permits (YoY);Australia;AUD;1
+CHF_UnemploymentRate;20240109;06:45;Unemployment Rate s.a (MoM);Switzerland;CHF;1
+EUR_GerIndustrialProduction;20240109;07:00;Industrial Production s.a. (MoM);Germany;EUR;2
+DKK_TradeBalance;20240109;07:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20240109;07:00;Current Account;Denmark;DKK;1
+RON_TradeBalance;20240109;07:00;Trade Balance;Romania;RON;1
+HUF_IndustrialOutput;20240109;07:30;Industrial Output (YoY);Hungary;HUF;1
+EUR_FraExportsEUR;20240109;07:45;Exports, EUR;France;EUR;1
+EUR_FraImportsEUR;20240109;07:45;Imports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20240109;07:45;Trade Balance EUR;France;EUR;1
+EUR_FraCurrentAccount;20240109;07:45;Current Account;France;EUR;1
+CZK_UnemploymentRate;20240109;08:00;Unemployment Rate;Czech Republic;CZK;1
+EUR_ItaUnemployment;20240109;09:00;Unemployment;Italy;EUR;1
+CZK_FXReserves;20240109;09:00;FX Reserves;Czech Republic;CZK;1
+EUR_EurUnemploymentRate;20240109;10:00;Unemployment Rate;Eurozone;EUR;2
+USD_NFIBBusinessOptimismIndex;20240109;11:00;NFIB Business Optimism Index;United States;USD;1
+COP_ConsumerPriceIndex;20240109;11:00;Consumer Price Index (YoY);Colombia;COP;1
+ILS_BudgetBalanceILS;20240109;11:00;Budget Balance - ILS;Israel;ILS;1
+MXN_12MonthInflation;20240109;12:00;12-Month Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20240109;12:00;Headline Inflation;Mexico;MXN;2
+MXN_CoreInflation;20240109;12:00;Core Inflation;Mexico;MXN;1
+PLN_NBPBaserate;20240109;13:00;NBP Base rate;Poland;PLN;1
+USD_GoodsandServicesTradeBalance;20240109;13:30;Goods and Services Trade Balance;United States;USD;1
+USD_GoodsTradeBalance;20240109;13:30;Goods Trade Balance;United States;USD;1
+CAD_BuildingPermits;20240109;13:30;Building Permits (MoM);Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20240109;13:30;International Merchandise Trade;Canada;CAD;1
+CAD_Exports;20240109;13:30;Exports;Canada;CAD;1
+CAD_Imports;20240109;13:30;Imports;Canada;CAD;1
+USD_RedbookIndex;20240109;13:55;Redbook Index (YoY);United States;USD;1
+USD_RealClearMarketsTIPPEconomicOptimism;20240109;15:00;RealClearMarkets/TIPP Economic Optimism (MoM);United States;USD;1
+USD_Auction;20240109;18:00;3-Year Note Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20240109;21:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_UnemploymentRate;20240109;23:00;Unemployment Rate;South Korea;KRW;1
+JPY_LaborCashEarnings;20240109;23:30;Labor Cash Earnings (YoY);Japan;JPY;2
+JPY_OverallHouseholdSpending;20240109;23:30;Overall Household Spending (YoY);Japan;JPY;1

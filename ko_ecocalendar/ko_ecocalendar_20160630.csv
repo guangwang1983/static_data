@@ -1,0 +1,66 @@
+NZD_ANZActivityOutlook;20160630;01:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20160630;01:00;ANZ Business Confidence;New Zealand;NZD;1
+AUD_PrivateSectorCredit;20160630;01:30;Private Sector Credit (MoM);Australia;AUD;1
+NZD_M3MoneySupply;20160630;03:00;M3 Money Supply (YoY);New Zealand;NZD;1
+JPY_VehicleProduction;20160630;04:00;Vehicle Production (YoY);Japan;JPY;1
+JPY_AnnualizedHousingStarts;20160630;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_HousingStarts;20160630;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_ConstructionOrders;20160630;05:00;Construction Orders (YoY);Japan;JPY;1
+EUR_GerRetailSales;20160630;06:00;Retail Sales (YoY);Germany;EUR;1
+ZAR_M3MoneySupply;20160630;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+ZAR_PrivateSectorCredit;20160630;06:00;Private Sector Credit;South Africa;ZAR;1
+EUR_FraProducerPrices;20160630;06:45;Producer Prices (MoM);France;EUR;1
+EUR_FraConsumerPriceIndex;20160630;06:45;Consumer Price Index (EU norm) (YoY);France;EUR;2
+EUR_FraConsumerSpending;20160630;06:45;Consumer Spending (MoM);France;EUR;1
+CHF_KOFLeadingIndicator;20160630;07:00;KOF Leading Indicator;Switzerland;CHF;2
+TRY_TradeBalance;20160630;07:00;Trade Balance;Turkey;TRY;1
+DKK_UnemploymentRate;20160630;07:00;Unemployment Rate;Denmark;DKK;1
+HUF_TradeBalance;20160630;07:00;Trade Balance;Hungary;HUF;1
+EUR_GerUnemploymentChange;20160630;07:55;Unemployment Change;Germany;EUR;2
+EUR_GerUnemploymentRate;20160630;07:55;Unemployment Rate s.a.;Germany;EUR;2
+EUR_ItaPublicDeficitGDP;20160630;08:00;Public Deficit/GDP;Italy;EUR;1
+HUF_ProducerPriceIndex;20160630;08:00;Producer Price Index (YoY);Hungary;HUF;1
+NOK_CreditIndicator;20160630;08:00;Credit Indicator;Norway;NOK;1
+INR_FederalFiscalDeficitINR;20160630;08:00;Federal Fiscal Deficit, INR;India;INR;1
+GBP_GrossDomesticProduct;20160630;08:30;Gross Domestic Product (YoY);United Kingdom;GBP;2
+GBP_TotalBusinessInvestment;20160630;08:30;Total Business Investment (QoQ);United Kingdom;GBP;1
+GBP_IndexofServices;20160630;08:30;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_CurrentAccount;20160630;08:30;Current Account;United Kingdom;GBP;1
+EUR_EurHarmonizedIndexofConsumerPrices;20160630;09:00;Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20160630;09:00;Core Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_ItaConsumerPriceIndex;20160630;09:00;Consumer Price Index (YoY);Italy;EUR;1
+RON_Interestratedecision;20160630;09:00;Interest rate decision;Romania;RON;1
+ZAR_ProducerPriceIndex;20160630;09:30;Producer Price Index (MoM);South Africa;ZAR;1
+EUR_ItaProducerPriceIndex;20160630;10:00;Producer Price Index (MoM);Italy;EUR;1
+EUR_ItaAuction;20160630;10:40;5-y Bond Auction;Italy;EUR;1
+CZK_CNBInterestRateDecision;20160630;11:00;CNB Interest Rate Decision;Czech Republic;CZK;1
+RUB_CentralBankReserves;20160630;11:00;Central Bank Reserves $;Russia;RUB;1
+CAD_IndustrialProductPrice;20160630;12:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_RawMaterialPriceIndex;20160630;12:30;Raw Material Price Index;Canada;CAD;1
+USD_JoblessClaims;20160630;12:30;Continuing Jobless Claims;United States;USD;1
+CAD_GrossDomesticProduct;20160630;12:30;Gross Domestic Product (MoM);Canada;CAD;2
+CLP_Unemploymentrate;20160630;13:00;Unemployment rate;Chile;CLP;1
+CLP_IndustrialProduction;20160630;13:00;Industrial Production (YoY);Chile;CLP;1
+USD_ChicagoPurchasingManagers'Index;20160630;13:45;Chicago Purchasing Managers' Index;United States;USD;2
+USD_EIANaturalGasStorageChange;20160630;14:30;EIA Natural Gas Storage Change;United States;USD;1
+GBP_CentralBankSpeech;20160630;15:00;BoE Governor Carney speech;United Kingdom;GBP;3
+COP_NationalJoblessRate;20160630;17:00;National Jobless Rate;Colombia;COP;1
+USD_CentralBankSpeech;20160630;17:30;Fed Bullard speech;United States;USD;1
+MXN_CentralBankInterestRate;20160630;18:00;Central Bank Interest Rate;Mexico;MXN;1
+MXN_FiscalBalancepesos;20160630;19:30;Fiscal Balance, pesos;Mexico;MXN;1
+KRW_CurrentAccount;20160630;23:00;Current Account Balance;South Korea;KRW;1
+KRW_ConsumerPriceIndex;20160630;23:00;Consumer Price Index Growth (MoM);South Korea;KRW;1
+JPY_ConsumerPriceIndex;20160630;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;1
+JPY_TokyoCPIexFoodEnergy;20160630;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;1
+JPY_TokyoCPIexFreshFood;20160630;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;1
+JPY_NationalCPIexFoodEnergy;20160630;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20160630;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_UnemploymentRate;20160630;23:30;Unemployment Rate;Japan;JPY;2
+JPY_JobsApplicantsRatio;20160630;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+AUD_AiGPerformanceofMfgIndex;20160630;23:30;AiG Performance of Mfg Index;Australia;AUD;2
+JPY_OverallHouseholdSpending;20160630;23:30;Overall Household Spending (YoY);Japan;JPY;2
+JPY_TankanLargeAllIndustryCapex;20160630;23:50;Tankan Large All Industry Capex;Japan;JPY;2
+JPY_TankanNonManufacturingIndex;20160630;23:50;Tankan Non - Manufacturing Index;Japan;JPY;2
+JPY_TankanLargeManufacturingOutlook;20160630;23:50;Tankan Large Manufacturing Outlook;Japan;JPY;2
+JPY_TankanNonManufacturingOutlook;20160630;23:50;Tankan Non - Manufacturing Outlook;Japan;JPY;2
+JPY_TankanLargeManufacturingIndex;20160630;23:50;Tankan Large Manufacturing Index;Japan;JPY;2

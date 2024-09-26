@@ -1,0 +1,39 @@
+IDR_RetailSales;20240514;04:00;Retail Sales (YoY);Indonesia;IDR;1
+EUR_GerConsumerPriceIndex;20240514;06:00;Consumer Price Index (YoY);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20240514;06:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;1
+GBP_EmploymentChange;20240514;06:00;Employment Change (3M);United Kingdom;GBP;3
+GBP_ILOUnemploymentRate;20240514;06:00;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_AverageEarningsIncludingBonus;20240514;06:00;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_AverageEarningsExcludingBonus;20240514;06:00;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountChange;20240514;06:00;Claimant Count Change;United Kingdom;GBP;3
+GBP_ClaimantCountRate;20240514;06:00;Claimant Count Rate;United Kingdom;GBP;2
+RON_IndustrialProduction;20240514;06:00;Industrial Production (MoM);Romania;RON;1
+RON_ConsumerPriceIndex;20240514;06:00;Consumer Price Index;Romania;RON;1
+JPY_MachineToolOrders;20240514;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+INR_WPIInflation;20240514;06:30;WPI Inflation;India;INR;1
+CHF_ProducerandImportPrices;20240514;06:30;Producer and Import Prices (MoM);Switzerland;CHF;1
+EUR_EurEcoFinMeeting;20240514;07:00;EcoFin Meeting;Eurozone;EUR;2
+GBP_CentralBankSpeech;20240514;07:30;BoE Pill speech;United Kingdom;GBP;2
+CZK_CurrentAccount;20240514;08:00;Current Account (MoM);Czech Republic;CZK;1
+EUR_GerZEWSurvey–EconomicSentiment;20240514;09:00;ZEW Survey – Economic Sentiment;Germany;EUR;2
+EUR_GerZEWSurvey–CurrentSituation;20240514;09:00;ZEW Survey – Current Situation;Germany;EUR;2
+EUR_EurZEWSurvey–EconomicSentiment;20240514;09:00;ZEW Survey – Economic Sentiment;Eurozone;EUR;2
+ZAR_UnemploymentRate;20240514;09:30;Unemployment Rate (%);South Africa;ZAR;1
+ZAR_UnemploymentTotal;20240514;09:30;Unemployment Total ;South Africa;ZAR;1
+AUD_BudgetRelease;20240514;09:30;Budget Release;Australia;AUD;3
+USD_NFIBBusinessOptimismIndex;20240514;10:00;NFIB Business Optimism Index;United States;USD;1
+INR_TradeDeficitGovernment;20240514;11:00;Trade Deficit Government;India;INR;1
+ILS_M1MoneySupply;20240514;11:00;M1 Money Supply (YoY);Israel;ILS;1
+USD_OPECMonthlyMarketReport;20240514;12:00;OPEC Monthly Market Report;United States;USD;1
+PLN_CurrentAccount;20240514;12:00;Current Account;Poland;PLN;1
+USD_ProducerPriceIndex;20240514;12:30;Producer Price Index (YoY);United States;USD;2
+CAD_WholesaleSales;20240514;12:30;Wholesale Sales (MoM);Canada;CAD;1
+USD_RedbookIndex;20240514;12:55;Redbook Index (YoY);United States;USD;1
+EUR_EurCentralBankSpeech;20240514;13:15;ECB Schnabel speech;Eurozone;EUR;2
+USD_CentralBankSpeech;20240514;14:00;Fed Chair Powell speech;United States;USD;3
+KRW_BuddhasBirthday;20240514;15:00;Buddhas Birthday;South Korea;KRW;0
+COP_RetailSales;20240514;15:00;Retail Sales (YoY);Colombia;COP;1
+COP_Industrialoutput;20240514;15:00;Industrial output (YoY);Colombia;COP;1
+USD_Auction;20240514;15:30;52-Week Bill Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20240514;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_TradeBalance;20240514;23:55;Trade Balance;South Korea;KRW;1

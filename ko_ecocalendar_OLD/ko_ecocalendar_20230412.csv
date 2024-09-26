@@ -1,0 +1,31 @@
+USD_IMFMeeting;20230412;00:00;IMF Meeting;United States;USD;2
+IDR_RetailSales;20230412;04:00;Retail Sales (YoY);Indonesia;IDR;1
+AUD_CentralBankSpeech;20230412;04:45;RBA Bullock speech;Australia;AUD;2
+HUF_ConsumerPriceIndex;20230412;06:30;Consumer Price Index (YoY);Hungary;HUF;1
+CZK_UnemploymentRate;20230412;07:00;Unemployment Rate;Czech Republic;CZK;1
+HUF_BudgetBalance;20230412;09:00;Budget Balance;Hungary;HUF;1
+ZAR_BusinessConfidenceIndex;20230412;09:30;Business Confidence Index;South Africa;ZAR;1
+USD_MBAMortgageApplications;20230412;11:00;MBA Mortgage Applications;United States;USD;1
+BRL_RetailSales;20230412;12:00;Retail Sales (MoM);Brazil;BRL;1
+INR_ConsumerPriceIndex;20230412;12:00;Consumer Price Index (YoY);India;INR;1
+INR_ManufacturingOutput;20230412;12:00;Manufacturing Output;India;INR;1
+INR_CumulativeIndustrialOutput;20230412;12:00;Cumulative Industrial Output;India;INR;1
+INR_IndustrialOutput;20230412;12:00;Industrial Output;India;INR;1
+USD_ConsumerPriceIndex;20230412;12:30;Consumer Price Index (MoM);United States;USD;2
+EUR_EurCentralBankSpeech;20230412;12:30;ECB De Guindos speech;European Monetary Union;EUR;2
+CAD_BankofCanadaMonetaryPolicyReport;20230412;14:00;Bank of Canada Monetary Policy Report;Canada;CAD;3
+CAD_BoCRateStatement;20230412;14:00;BoC Rate Statement;Canada;CAD;3
+CAD_BoCInterestRateDecision;20230412;14:00;BoC Interest Rate Decision;Canada;CAD;3
+USD_EIACrudeOilStocksChange;20230412;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+CAD_BoCPressConference;20230412;15:00;BoC Press Conference;Canada;CAD;3
+RUB_ConsumerPriceIndex;20230412;16:00;Consumer Price Index (MoM);Russia;RUB;1
+USD_Auction;20230412;17:00;10-Year Note Auction;United States;USD;1
+USD_MonthlyBudgetStatement;20230412;18:00;Monthly Budget Statement;United States;USD;2
+USD_FOMCMinutes;20230412;18:00;FOMC Minutes;United States;USD;3
+GBP_CentralBankSpeech;20230412;19:15;BoE Governor Bailey speech;United Kingdom;GBP;3
+KRW_ExportPriceGrowth;20230412;21:00;Export Price Growth (YoY);South Korea;KRW;1
+KRW_ImportPriceGrowth;20230412;21:00;Import Price Growth (YoY);South Korea;KRW;1
+GBP_RICSHousingPriceBalance;20230412;23:01;RICS Housing Price Balance;United Kingdom;GBP;1
+JPY_MoneySupplyM2+CD;20230412;23:50;Money Supply M2+CD (YoY);Japan;JPY;1
+JPY_ForeignBondInvestment;20230412;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20230412;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1

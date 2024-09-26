@@ -1,0 +1,33 @@
+MXN_FiscalBalancepesos;20181228;21:00;Fiscal Balance, pesos;Mexico;MXN;1
+USD_BakerHughesUSOilRigCount;20181228;18:00;Baker Hughes US Oil Rig Count;United States;USD;2
+USD_EIACrudeOilStocksChange;20181228;16:00;EIA Crude Oil Stocks Change;United States;USD;1
+USD_EIANaturalGasStorageChange;20181228;15:30;EIA Natural Gas Storage Change;United States;USD;1
+COP_NationalJoblessRate;20181228;15:00;National Jobless Rate;Colombia;COP;1
+USD_PendingHomeSales;20181228;15:00;Pending Home Sales (YoY);United States;USD;1
+USD_ChicagoPurchasingManagers'Index;20181228;14:45;Chicago Purchasing Managers' Index;United States;USD;2
+MXN_TradeBalance;20181228;14:00;Trade Balance, $;Mexico;MXN;1
+MXN_TradeBalancesa;20181228;14:00;Trade Balance s/a, $;Mexico;MXN;1
+BRL_PrimaryBudgetSurplus;20181228;13:30;Primary Budget Surplus;Brazil;BRL;1
+EUR_GerHarmonizedIndexofConsumerPrices;20181228;13:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+EUR_GerConsumerPriceIndex;20181228;13:00;Consumer Price Index (MoM);Germany;EUR;1
+BRL_NominalBudgetBalance;20181228;12:30;Nominal Budget Balance;Brazil;BRL;1
+ZAR_TradeBalance;20181228;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+INR_FXReservesUSD;20181228;11:30;FX Reserves, USD;India;INR;1
+EUR_ItaAuction;20181228;11:10;10-y Bond Auction;Italy;EUR;1
+BRL_UnemploymentRate;20181228;11:00;Unemployment Rate;Brazil;BRL;1
+BRL_InflationIndexIGPM;20181228;10:00;Inflation Index/IGP-M;Brazil;BRL;1
+EUR_GreProducerPriceIndex;20181228;10:00;Producer Price Index (YoY);Greece;EUR;1
+GBP_BBAMortgageApprovals;20181228;09:30;BBA Mortgage Approvals;United Kingdom;GBP;1
+EUR_SpaCurrentAccount;20181228;09:00;Current Account Balance;Spain;EUR;1
+SEK_TradeBalance;20181228;08:30;Trade Balance (MoM);Sweden;SEK;1
+CHF_KOFLeadingIndicator;20181228;08:00;KOF Leading Indicator;Switzerland;CHF;2
+EUR_SpaHICP;20181228;08:00;HICP (YoY);Spain;EUR;1
+TRY_ForeignArrivals;20181228;08:00;Foreign Arrivals;Turkey;TRY;1
+EUR_SpaGrossDomesticProduct;20181228;08:00;Gross Domestic Product (QoQ);Spain;EUR;1
+EUR_SpaConsumerPriceIndex;20181228;08:00;Consumer Price Index (YoY);Spain;EUR;1
+EUR_AusProducerPriceIndex;20181228;08:00;Producer Price Index (MoM);Austria;EUR;1
+EUR_GerImportPriceIndex;20181228;07:00;Import Price Index (YoY);Germany;EUR;1
+TRY_Economicconfidenceindex;20181228;07:00;Economic confidence index;Turkey;TRY;1
+NOK_RetailSales;20181228;07:00;Retail Sales ;Norway;NOK;1
+RUB_HSBCManufacturingPMI;20181228;06:00;HSBC Manufacturing PMI	;Russia;RUB;1
+EUR_SpaImmaculateConception;20181228;00:00;Immaculate Conception;Spain;EUR;0

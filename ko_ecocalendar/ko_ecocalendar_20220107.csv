@@ -1,0 +1,65 @@
+ZAR_Gross$Gold&ForexReserve;20220107;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+ZAR_Net$Gold&ForexReserve;20220107;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+CHF_UnemploymentRate;20220107;06:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+DKK_UnemploymentRate;20220107;07:00;Unemployment Rate;Denmark;DKK;1
+EUR_GerIndustrialProduction;20220107;07:00;Industrial Production n.s.a. w.d.a. (YoY);Germany;EUR;1
+NOK_CreditIndicator;20220107;07:00;Credit Indicator;Norway;NOK;1
+NOK_ManufacturingOutput;20220107;07:00;Manufacturing Output;Norway;NOK;1
+GBP_HalifaxHousePrices;20220107;07:00;Halifax House Prices (YoY/3m);United Kingdom;GBP;1
+EUR_GerCurrentAccount;20220107;07:00;Current Account n.s.a.;Germany;EUR;1
+EUR_GerExports;20220107;07:00;Exports (MoM);Germany;EUR;1
+EUR_GerTradeBalance;20220107;07:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerImports;20220107;07:00;Imports (MoM);Germany;EUR;1
+CHF_RetailSales;20220107;07:30;Real Retail Sales (YoY);Switzerland;CHF;2
+EUR_FraExportsEUR;20220107;07:45;Exports, EUR;France;EUR;1
+EUR_FraImportsEUR;20220107;07:45;Imports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20220107;07:45;Trade Balance EUR;France;EUR;1
+EUR_FraConsumerSpending;20220107;07:45;Consumer Spending (MoM);France;EUR;1
+EUR_FraIndustrialOutput;20220107;07:45;Industrial Output (MoM);France;EUR;1
+EUR_FraCurrentAccount;20220107;07:45;Current Account;France;EUR;1
+HUF_IndustrialOutput;20220107;08:00;Industrial Output (YoY);Hungary;HUF;1
+CZK_IndustrialProduction;20220107;08:00;Industrial Production (YoY);Czech Republic;CZK;1
+CHF_ForeignCurrencyReserves;20220107;08:00;Foreign Currency Reserves;Switzerland;CHF;1
+HUF_RetailSales;20220107;08:00;Retail Sales (YoY);Hungary;HUF;1
+CZK_GrossDomesticProduct;20220107;08:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+CNY_ForeignExchangeReserves;20220107;08:00;Foreign Exchange Reserves (MoM);China;CNY;1
+CZK_Constructionoutput;20220107;08:00;Construction output (YoY);Czech Republic;CZK;1
+CZK_ForeignTradeBalance;20220107;08:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+EUR_ItaPublicDeficitGDP;20220107;09:00;Public Deficit/GDP;Italy;EUR;1
+CZK_FXReserves;20220107;09:00;FX Reserves;Czech Republic;CZK;1
+GBP_S&PGlobalConstructionPMI;20220107;09:30;S&P Global Construction PMI;United Kingdom;GBP;1
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20220107;10:00;Core Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_EurHarmonizedIndexofConsumerPrices;20220107;10:00;Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_EurServicesSentiment;20220107;10:00;Services Sentiment;European Monetary Union;EUR;1
+EUR_EurConsumerConfidence;20220107;10:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurBusinessClimate;20220107;10:00;Business Climate;European Monetary Union;EUR;2
+EUR_EurEconomicSentimentIndicator;20220107;10:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+EUR_EurIndustrialConfidence;20220107;10:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_EurRetailSales;20220107;10:00;Retail Sales (YoY);European Monetary Union;EUR;3
+CLP_ConsumerPriceIndex;20220107;11:00;Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+CLP_TradeBalance;20220107;11:30;Trade Balance;Chile;CLP;1
+INR_FXReservesUSD;20220107;11:30;FX Reserves, USD;India;INR;1
+MXN_12MonthInflation;20220107;12:00;12-Month Inflation;Mexico;MXN;1
+MXN_CoreInflation;20220107;12:00;Core Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20220107;12:00;Headline Inflation;Mexico;MXN;1
+USD_U6UnderemploymentRate;20220107;13:30;U6 Underemployment Rate;United States;USD;2
+USD_UnemploymentRate;20220107;13:30;Unemployment Rate;United States;USD;2
+USD_LaborForceParticipationRate;20220107;13:30;Labor Force Participation Rate;United States;USD;2
+USD_AverageHourlyEarnings;20220107;13:30;Average Hourly Earnings (MoM);United States;USD;2
+USD_NonfarmPayrolls;20220107;13:30;Nonfarm Payrolls;United States;USD;3
+USD_AverageWeeklyHours;20220107;13:30;Average Weekly Hours;United States;USD;1
+CAD_UnemploymentRate;20220107;13:30;Unemployment Rate;Canada;CAD;3
+CAD_ParticipationRate;20220107;13:30;Participation Rate;Canada;CAD;2
+CAD_AverageHourlyWages;20220107;13:30;Average Hourly Wages (YoY);Canada;CAD;2
+CAD_NetChangeinEmployment;20220107;13:30;Net Change in Employment;Canada;CAD;3
+TRY_TreasuryCashBalance;20220107;14:31;Treasury Cash Balance;Turkey;TRY;1
+CAD_IveyPurchasingManagersIndex;20220107;15:00;Ivey Purchasing Managers Index s.a;Canada;CAD;2
+USD_BakerHughesUSOilRigCount;20220107;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_ConsumerCreditChange;20220107;20:00;Consumer Credit Change;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20220107;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20220107;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCOilNCNetPositions;20220107;20:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20220107;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20220107;20:30;CFTC Gold NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20220107;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCS&P500NCNetPositions;20220107;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1

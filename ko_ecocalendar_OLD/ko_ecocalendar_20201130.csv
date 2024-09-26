@@ -1,0 +1,76 @@
+JPY_CapitalSpending;20201130;23:50;Capital Spending;Japan;JPY;1
+JPY_JobsApplicantsRatio;20201130;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+JPY_UnemploymentRate;20201130;23:30;Unemployment Rate;Japan;JPY;2
+KRW_GrossDomesticProduct;20201130;23:00;Gross Domestic Product Growth (QoQ) ;South Korea;KRW;1
+AUD_CommonwealthBankManufacturingPMI;20201130;22:00;Commonwealth Bank Manufacturing PMI;Australia;AUD;2
+AUD_AiGPerformanceofMfgIndex;20201130;21:30;AiG Performance of Mfg Index;Australia;AUD;2
+MXN_FiscalBalancepesos;20201130;21:00;Fiscal Balance, pesos;Mexico;MXN;1
+RON_NationalDay;20201130;21:00;National Day;Romania;RON;0
+JPY_CFTCJPYNCNetPositions;20201130;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCOilNCNetPositions;20201130;20:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20201130;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20201130;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20201130;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+AUD_CFTCAUDNCNetPositions;20201130;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20201130;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+COP_NationalJoblessRate;20201130;17:00;National Jobless Rate;Colombia;COP;1
+USD_Auction;20201130;16:30;3-Month Bill Auction;United States;USD;1
+USD_DallasFedManufacturingBusinessIndex;20201130;15:30;Dallas Fed Manufacturing Business Index;United States;USD;1
+USD_PendingHomeSales;20201130;15:00;Pending Home Sales (YoY);United States;USD;1
+USD_ChicagoPurchasingManagers'Index;20201130;14:45;Chicago Purchasing Managers' Index;United States;USD;2
+GBP_CentralBankSpeech;20201130;14:30;BoE Tenreyro speech;United Kingdom;GBP;2
+EUR_BelGrossDomesticProduct;20201130;14:00;Gross Domestic Product (QoQ);Belgium;EUR;1
+ILS_BoIInterestRateDecision;20201130;14:00;BoI Interest Rate Decision;Israel;ILS;1
+CAD_RawMaterialPriceIndex;20201130;13:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20201130;13:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_CurrentAccount;20201130;13:30;Current Account;Canada;CAD;2
+CAD_BuildingPermits;20201130;13:30;Building Permits (MoM);Canada;CAD;1
+EUR_GerConsumerPriceIndex;20201130;13:00;Consumer Price Index (YoY);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20201130;13:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+BRL_PrimaryBudgetSurplus;20201130;12:30;Primary Budget Surplus;Brazil;BRL;1
+BRL_NominalBudgetBalance;20201130;12:30;Nominal Budget Balance;Brazil;BRL;1
+INR_InfrastructureOutput;20201130;12:00;Infrastructure Output (YoY);India;INR;1
+INR_GrossDomesticProduct;20201130;12:00;Gross Domestic Product Quarterly (YoY);India;INR;1
+ZAR_TradeBalance;20201130;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+CLP_IndustrialProduction;20201130;12:00;Industrial Production (YoY);Chile;CLP;1
+EUR_PorGrossDomesticProduct;20201130;11:00;Gross Domestic Product (YoY);Portugal;EUR;1
+INR_FederalFiscalDeficitINR;20201130;11:00;Federal Fiscal Deficit, INR;India;INR;1
+EUR_EurCentralBankSpeech;20201130;10:30;ECB President Lagarde speech;European Monetary Union;EUR;3
+EUR_ItaConsumerPriceIndex;20201130;10:00;Consumer Price Index (YoY);Italy;EUR;1
+EUR_GreRetailSales;20201130;10:00;Retail Sales (YoY);Greece;EUR;1
+USD_OPECMeeting;20201130;10:00;OPEC Meeting;United States;USD;2
+EUR_GreProducerPriceIndex;20201130;10:00;Producer Price Index (YoY);Greece;EUR;1
+GBP_NetLendingtoIndividuals;20201130;09:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20201130;09:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20201130;09:30;Mortgage Approvals;United Kingdom;GBP;1
+EUR_PorConsumerPriceIndex;20201130;09:30;Consumer Price Index (MoM);Portugal;EUR;1
+GBP_M4MoneySupply;20201130;09:30;M4 Money Supply (MoM);United Kingdom;GBP;1
+ISK_GrossDomesticProduct;20201130;09:00;Gross Domestic Product (QoQ);Iceland;ISK;1
+PLN_GrossDomesticProduct;20201130;09:00;Gross Domestic Product Qtr (YoY);Poland;PLN;1
+EUR_SpaCurrentAccount;20201130;09:00;Current Account Balance;Spain;EUR;1
+HUF_GrossWages;20201130;08:00;Gross Wages (YoY);Hungary;HUF;1
+CHF_KOFLeadingIndicator;20201130;08:00;KOF Leading Indicator;Switzerland;CHF;2
+EUR_AusGrossDomesticProduct;20201130;08:00;Gross Domestic Product (QoQ);Austria;EUR;1
+EUR_SpaHICP;20201130;08:00;HICP (YoY);Spain;EUR;1
+EUR_SpaConsumerPriceIndex;20201130;08:00;Consumer Price Index (MoM);Spain;EUR;1
+EUR_AusProducerPriceIndex;20201130;08:00;Producer Price Index (YoY);Austria;EUR;1
+CHF_RetailSales;20201130;07:30;Real Retail Sales (YoY);Switzerland;CHF;2
+TRY_TradeBalance;20201130;07:00;Trade Balance;Turkey;TRY;1
+DKK_UnemploymentRate;20201130;07:00;Unemployment Rate;Denmark;DKK;1
+TRY_GrossDomesticProduct;20201130;07:00;Quarterly Gross Domestic Product;Turkey;TRY;1
+DKK_GrossDomesticProduct;20201130;07:00;Gross Domestic Product (YoY);Denmark;DKK;1
+NOK_CreditIndicator;20201130;07:00;Credit Indicator;Norway;NOK;1
+ZAR_PrivateSectorCredit;20201130;06:00;Private Sector Credit;South Africa;ZAR;1
+ZAR_M3MoneySupply;20201130;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+EUR_NetRetailSales;20201130;05:30;Retail Sales (YoY);Netherlands, The;EUR;1
+JPY_HousingStarts;20201130;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_ConstructionOrders;20201130;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_AnnualizedHousingStarts;20201130;05:00;Annualized Housing Starts;Japan;JPY;1
+CNY_NonManufacturingPMI;20201130;01:00;Non-Manufacturing PMI;China;CNY;3
+CNY_NBSManufacturingPMI;20201130;01:00;NBS Manufacturing PMI;China;CNY;3
+AUD_PrivateSectorCredit;20201130;00:30;Private Sector Credit (MoM);Australia;AUD;1
+AUD_CompanyGrossOperatingProfits;20201130;00:30;Company Gross Operating Profits (QoQ);Australia;AUD;1
+EUR_EurEurogroupMeeting;20201130;00:00;Eurogroup Meeting;European Monetary Union;EUR;2
+AUD_TDSecuritiesInflation;20201130;00:00;TD Securities Inflation (MoM);Australia;AUD;2
+NZD_ANZActivityOutlook;20201130;00:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20201130;00:00;ANZ Business Confidence;New Zealand;NZD;1

@@ -1,0 +1,51 @@
+NZD_ANZCommodityPrice;20230207;00:00;ANZ Commodity Price;New Zealand;NZD;1
+GBP_RetailSales;20230207;00:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+AUD_Imports;20230207;00:30;Imports (MoM);Australia;AUD;2
+AUD_Exports;20230207;00:30;Exports (MoM);Australia;AUD;2
+AUD_TradeBalance;20230207;00:30;Trade Balance (MoM);Australia;AUD;3
+AUD_RBARateStatement;20230207;03:30;RBA Rate Statement;Australia;AUD;3
+AUD_RBAInterestRateDecision;20230207;03:30;RBA Interest Rate Decision;Australia;AUD;3
+JPY_CoincidentIndex;20230207;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20230207;05:00;Leading Economic Index;Japan;JPY;1
+ZAR_Gross$Gold&ForexReserve;20230207;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+ZAR_Net$Gold&ForexReserve;20230207;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+CHF_UnemploymentRate;20230207;06:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+EUR_GerIndustrialProduction;20230207;07:00;Industrial Production n.s.a. w.d.a. (YoY);Germany;EUR;1
+NOK_ManufacturingOutput;20230207;07:00;Manufacturing Output;Norway;NOK;1
+GBP_HalifaxHousePrices;20230207;07:00;Halifax House Prices (YoY/3m);United Kingdom;GBP;1
+HUF_IndustrialOutput;20230207;07:30;Industrial Output (YoY);Hungary;HUF;1
+EUR_FraTradeBalanceEUR;20230207;07:45;Trade Balance EUR;France;EUR;1
+EUR_FraExportsEUR;20230207;07:45;Exports, EUR;France;EUR;1
+EUR_FraImportsEUR;20230207;07:45;Imports, EUR;France;EUR;1
+EUR_FraCurrentAccount;20230207;07:45;Current Account;France;EUR;1
+EUR_FraBudgetBalance;20230207;07:45;Budget Balance;France;EUR;1
+CZK_RetailSales;20230207;08:00;Retail Sales (YoY);Czech Republic;CZK;1
+CHF_ForeignCurrencyReserves;20230207;08:00;Foreign Currency Reserves;Switzerland;CHF;1
+CNY_ForeignExchangeReserves;20230207;08:00;Foreign Exchange Reserves (MoM);China;CNY;1
+CZK_FXReserves;20230207;09:00;FX Reserves;Czech Republic;CZK;1
+ILS_FXReserves;20230207;11:00;FX Reserves;Israel;ILS;1
+CLP_TradeBalance;20230207;11:30;Trade Balance;Chile;CLP;1
+PLN_CentralBankFXReserves;20230207;13:00;Central Bank FX Reserves;Poland;PLN;1
+USD_GoodsandServicesTradeBalance;20230207;13:30;Goods and Services Trade Balance;United States;USD;2
+USD_GoodsTradeBalance;20230207;13:30;Goods Trade Balance;United States;USD;1
+CAD_InternationalMerchandiseTrade;20230207;13:30;International Merchandise Trade;Canada;CAD;2
+CAD_Exports;20230207;13:30;Exports;Canada;CAD;1
+CAD_Imports;20230207;13:30;Imports;Canada;CAD;1
+USD_RedbookIndex;20230207;13:55;Redbook Index (YoY);United States;USD;1
+TRY_TreasuryCashBalance;20230207;14:30;Treasury Cash Balance;Turkey;TRY;1
+USD_IBDTIPPEconomicOptimism;20230207;15:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+NZD_GDTPriceIndex;20230207;15:00;GDT Price Index;New Zealand;NZD;1
+GBP_CentralBankSpeech;20230207;15:30;BoE Cunliffe speech;United Kingdom;GBP;2
+EUR_EurCentralBankSpeech;20230207;17:00;ECB Schnabel speech;European Monetary Union;EUR;2
+CAD_CentralBankSpeech;20230207;17:30;BoC Governor Macklem speech;Canada;CAD;3
+USD_CentralBankSpeech;20230207;17:40;Fed Chair Powell speech;United States;USD;3
+USD_Auction;20230207;18:00;3-Year Note Auction;United States;USD;1
+USD_ConsumerCreditChange;20230207;20:00;Consumer Credit Change;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20230207;21:30;API Weekly Crude Oil Stock;United States;USD;1
+AUD_AiGIndustryIndex;20230207;22:00;AiG Industry Index;Australia;AUD;2
+AUD_AiGManufacturingPMI;20230207;22:00;AiG Manufacturing PMI;Australia;AUD;1
+AUD_AiGConstructionPMI;20230207;22:00;AiG Construction PMI;Australia;AUD;1
+KRW_CurrentAccount;20230207;23:00;Current Account Balance;South Korea;KRW;1
+JPY_BankLending;20230207;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_CurrentAccount;20230207;23:50;Current Account n.s.a.;Japan;JPY;2
+JPY_TradeBalanceBOPBasis;20230207;23:50;Trade Balance - BOP Basis;Japan;JPY;1

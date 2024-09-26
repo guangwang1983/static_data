@@ -1,0 +1,24 @@
+GBP_BRCShopPriceIndex;20240102;00:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1
+KRW_S&PGlobalManufacturingPMI;20240102;00:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+CNY_CaixinManufacturingPMI;20240102;01:45;Caixin Manufacturing PMI;China;CNY;3
+IDR_Inflation;20240102;04:00;Inflation (MoM);Indonesia;IDR;1
+IDR_CoreInflation;20240102;04:00;Core Inflation (YoY);Indonesia;IDR;1
+AUD_RBACommodityIndexSDR;20240102;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+MXN_Newyearholiday;20240102;06:00;New year holiday;Mexico;MXN;0
+SEK_PurchasingManagersIndexManufacturing;20240102;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+PLN_PurchasingManagerIndex;20240102;08:00;Purchasing Manager Index;Poland;PLN;1
+HUF_PurchasingManagerIndex;20240102;08:00;Purchasing Manager Index;Hungary;HUF;1
+CZK_S&PGlobalPMI;20240102;08:30;S&P Global PMI;Czech Republic;CZK;1
+EUR_ItaHCOBManufacturingPMI;20240102;08:45;HCOB Manufacturing PMI;Italy;EUR;2
+EUR_FraHCOBManufacturingPMI;20240102;08:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerHCOBManufacturingPMI;20240102;08:55;HCOB Manufacturing PMI;Germany;EUR;2
+EUR_EurPrivateLoans;20240102;09:00;Private Loans (YoY);Eurozone;EUR;1
+EUR_EurM3MoneySupply;20240102;09:00;M3 Money Supply (3m);Eurozone;EUR;1
+EUR_EurHCOBManufacturingPMI;20240102;09:00;HCOB Manufacturing PMI;Eurozone;EUR;1
+GBP_S&PGlobalCIPSManufacturingPMI;20240102;09:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;1
+CLP_IMACEC;20240102;11:30;IMACEC;Chile;CLP;1
+BRL_S&PGlobalManufacturingPMI;20240102;13:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+CAD_S&PGlobalManufacturingPMI;20240102;14:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20240102;14:45;S&P Global Manufacturing PMI;United States;USD;1
+USD_ConstructionSpending;20240102;15:00;Construction Spending (MoM);United States;USD;1
+USD_Auction;20240102;16:30;6-Month Bill Auction;United States;USD;1

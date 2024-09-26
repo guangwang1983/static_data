@@ -1,0 +1,40 @@
+USD_IMFMeeting;20231013;00:00;IMF Meeting;United States;USD;2
+CNY_ProducerPriceIndex;20231013;01:30;Producer Price Index (YoY);China;CNY;2
+CNY_ConsumerPriceIndex;20231013;01:30;Consumer Price Index (MoM);China;CNY;2
+CNY_Imports;20231013;03:00;Imports (YoY);China;CNY;2
+CNY_TradeBalanceCNY;20231013;03:00;Trade Balance CNY;China;CNY;2
+CNY_Exports;20231013;03:00;Exports (YoY) CNY;China;CNY;2
+CNY_TradeBalanceUSD;20231013;03:00;Trade Balance USD;China;CNY;2
+EUR_GerCentralBankSpeech;20231013;05:45;German Buba President Nagel speech;Germany;EUR;2
+SEK_ConsumerPriceIndex;20231013;06:00;Consumer Price Index (MoM);Sweden;SEK;1
+INR_WPIInflation;20231013;06:30;WPI Inflation;India;INR;1
+CHF_ProducerandImportPrices;20231013;06:30;Producer and Import Prices (MoM);Switzerland;CHF;1
+EUR_FraConsumerPriceIndex;20231013;06:45;Consumer Price Index (EU norm) (YoY);France;EUR;2
+EUR_FraInflationextobacco;20231013;06:45;Inflation ex-tobacco (MoM);France;EUR;1
+CNY_M2MoneySupply;20231013;07:00;M2 Money Supply (YoY);China;CNY;1
+CNY_NewLoans;20231013;07:00;New Loans;China;CNY;1
+CNY_FDIForeignDirectInvestment;20231013;07:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;1
+HUF_IndustrialOutput;20231013;07:00;Industrial Output (YoY);Hungary;HUF;1
+CZK_CurrentAccount;20231013;07:00;Current Account (MoM);Czech Republic;CZK;1
+PLN_ConsumerPriceIndex;20231013;08:00;Consumer Price Index (MoM);Poland;PLN;1
+EUR_EurIndustrialProduction;20231013;09:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;1
+INR_TradeDeficitGovernment;20231013;11:30;Trade Deficit Government;India;INR;1
+INR_FXReservesUSD;20231013;11:30;FX Reserves, USD;India;INR;1
+PLN_CurrentAccount;20231013;12:00;Current Account;Poland;PLN;1
+USD_ImportPriceIndex;20231013;12:30;Import Price Index (YoY);United States;USD;1
+USD_ExportPriceIndex;20231013;12:30;Export Price Index (MoM);United States;USD;1
+EUR_EurCentralBankSpeech;20231013;13:00;ECB President Lagarde speech;European Monetary Union;EUR;3
+USD_UoM5yearConsumerInflationExpectation;20231013;14:00;UoM 5-year Consumer Inflation Expectation;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20231013;14:00;Michigan Consumer Sentiment Index;United States;USD;3
+COP_RetailSales;20231013;15:00;Retail Sales (YoY);Colombia;COP;1
+COP_Industrialoutput;20231013;15:00;Industrial output (YoY);Colombia;COP;1
+GBP_CentralBankSpeech;20231013;16:30;BoE Cunliffe speech;United Kingdom;GBP;2
+USD_BakerHughesUSOilRigCount;20231013;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_MonthlyBudgetStatement;20231013;18:00;Monthly Budget Statement;United States;USD;2
+USD_CFTCOilNCNetPositions;20231013;20:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20231013;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20231013;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20231013;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20231013;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20231013;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20231013;20:30;CFTC AUD NC Net Positions;Australia;AUD;1

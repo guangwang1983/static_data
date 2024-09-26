@@ -1,0 +1,31 @@
+ARS_PrimaryBudgetBalance;20111123;23:19;Primary Budget Balance (MoM);Argentina;ARS;1
+NZD_TradeBalance;20111123;21:45;Trade Balance (MoM);New Zealand;NZD;2
+KRW_ConsumerSentimentIndex;20111123;21:00;Consumer Sentiment Index;South Korea;KRW;1
+USD_EIACrudeOilStocksChange;20111123;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_MichiganConsumerSentimentIndex;20111123;14:55;Michigan Consumer Sentiment Index;United States;USD;2
+MXN_RetailSales;20111123;14:00;Retail Sales (YoY);Mexico;MXN;1
+USD_PersonalConsumptionExpendituresPriceIndex;20111123;13:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;2
+USD_PersonalIncome;20111123;13:30;Personal Income (MoM);United States;USD;2
+USD_CorePersonalConsumptionExpenditurePriceIndex;20111123;13:30;Core Personal Consumption Expenditure - Price Index (YoY);United States;USD;2
+USD_JoblessClaims;20111123;13:30;Initial Jobless Claims;United States;USD;1
+USD_DurableGoodsOrders;20111123;13:30;Durable Goods Orders ex Transportation;United States;USD;2
+TRY_CBRTInterestRateDecision;20111123;12:00;CBRT Interest Rate Decision;Turkey;TRY;1
+USD_MBAMortgageApplications;20111123;12:00;MBA Mortgage Applications;United States;USD;1
+BRL_MidmonthInflation;20111123;11:00;Mid-month Inflation;Brazil;BRL;1
+EUR_EurIndustrialNewOrders;20111123;10:00;Industrial New Orders (YoY);European Monetary Union;EUR;2
+GBP_BBAMortgageApprovals;20111123;09:30;BBA Mortgage Approvals;United Kingdom;GBP;2
+GBP_BankofEnglandMinutes;20111123;09:30;Bank of England Minutes;United Kingdom;GBP;3
+NOK_LabourForceSurvey;20111123;09:00;Labour Force Survey;Norway;NOK;1
+EUR_EurMarkitServicesPMI;20111123;09:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_EurMarkitManufacturingPMI;20111123;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_GreCurrentAccount;20111123;08:48;Current Account (YoY);Greece;EUR;1
+EUR_PorCurrentAccount;20111123;08:47;Current Account Balance;Portugal;EUR;1
+EUR_GerMarkitServicesPMI;20111123;08:30;Markit Services PMI;Germany;EUR;2
+EUR_GerMarkitManufacturingPMI;20111123;08:30;Markit Manufacturing PMI;Germany;EUR;2
+ZAR_ConsumerPriceIndex;20111123;08:00;Consumer Price Index (YoY);South Africa;ZAR;1
+EUR_FraMarkitManufacturingPMI;20111123;07:58;Markit Manufacturing PMI;France;EUR;1
+EUR_FraMarkitServicesPMI;20111123;07:58;Markit Services PMI;France;EUR;1
+EUR_FraBusinessClimate;20111123;07:45;Business Climate;France;EUR;1
+CNY_CaixinManufacturingPMI;20111123;02:30;Caixin Manufacturing PMI;China;CNY;1
+AUD_ConstructionWorkDone;20111123;00:30;Construction Work Done;Australia;AUD;1
+JPY_LaborThanksgivingDay;20111123;00:00;Labor Thanksgiving Day;Japan;JPY;0

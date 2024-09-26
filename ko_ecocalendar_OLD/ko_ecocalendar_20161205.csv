@@ -1,0 +1,37 @@
+USD_Auction;20161205;16:30;6-Month Bill Auction;United States;USD;1
+USD_LaborMarketConditionsIndex;20161205;15:00;Labor Market Conditions Index;United States;USD;2
+USD_ISMNonManufacturingPMI;20161205;15:00;ISM Non-Manufacturing PMI;United States;USD;2
+USD_MarkitServicesPMI;20161205;14:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20161205;14:45;Markit PMI Composite;United States;USD;2
+USD_CentralBankSpeech;20161205;13:30;Fed Dudley speech;United States;USD;1
+CLP_IMACEC;20161205;11:30;IMACEC;Chile;CLP;1
+EUR_EurSentixInvestorConfidence;20161205;10:45;Sentix Investor Confidence;European Monetary Union;EUR;1
+EUR_EurRetailSales;20161205;10:00;Retail Sales (MoM);European Monetary Union;EUR;1
+GBP_MarkitServicesPMI;20161205;09:30;Markit Services PMI;United Kingdom;GBP;1
+EUR_EurMarkitPMIComposite;20161205;09:00;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20161205;09:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_GerMarkitPMIComposite;20161205;08:55;Markit PMI Composite;Germany;EUR;1
+EUR_GerMarkitServicesPMI;20161205;08:55;Markit Services PMI;Germany;EUR;1
+EUR_FraMarkitPMIComposite;20161205;08:50;Markit PMI Composite;France;EUR;1
+EUR_FraMarkitServicesPMI;20161205;08:50;Markit Services PMI;France;EUR;1
+EUR_ItaMarkitServicesPMI;20161205;08:45;Markit Services PMI;Italy;EUR;1
+SEK_IndustrialProduction;20161205;08:30;Industrial Production (YoY);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20161205;08:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+EUR_SpaMarkitServicesPMI;20161205;08:15;Markit Services PMI;Spain;EUR;1
+EUR_SpaIndustrialOutputCalAdjusted;20161205;08:00;Industrial Output Cal Adjusted (YoY);Spain;EUR;1
+HUF_RetailSales;20161205;08:00;Retail Sales (YoY);Hungary;HUF;1
+TRY_ProducerPriceIndex;20161205;07:00;Producer Price Index (YoY);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20161205;07:00;Consumer Price Index (MoM);Turkey;TRY;1
+EUR_IrePurchasingManagerIndexServices;20161205;06:00;Purchasing Manager Index Services;Ireland;EUR;1
+JPY_ConsumerConfidenceIndex;20161205;05:00;Consumer Confidence Index;Japan;JPY;1
+JPY_CentralBankSpeech;20161205;03:45;BoJ Governor Kuroda speech;Japan;JPY;2
+HKD_NikkeiManufacturingPMI;20161205;02:30;Nikkei Manufacturing PMI;Hong Kong SAR;HKD;1
+CNY_CaixinServicesPMI;20161205;01:45;Caixin Services PMI;China;CNY;2
+JPY_MarkitServicesPMI;20161205;00:30;Markit Services PMI;Japan;JPY;1
+AUD_CompanyGrossOperatingProfits;20161205;00:30;Company Gross Operating Profits (QoQ);Australia;AUD;1
+AUD_ANZJobAdvertisements;20161205;00:30;ANZ Job Advertisements;Australia;AUD;1
+GBP_BRCShopPriceIndex;20161205;00:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1
+RUB_PurchasingManagerIndexServices;20161205;00:00;Purchasing Manager Index Services;Russia;RUB;1
+GBP_UKSupremeCourtHearsGovernmentParliamentBrexitAppeal;20161205;00:00;UK Supreme Court Hears Government-Parliament Brexit Appeal;United Kingdom;GBP;3
+NZD_ANZCommodityPrice;20161205;00:00;ANZ Commodity Price;New Zealand;NZD;1
+AUD_TDSecuritiesInflation;20161205;00:00;TD Securities Inflation (MoM);Australia;AUD;2

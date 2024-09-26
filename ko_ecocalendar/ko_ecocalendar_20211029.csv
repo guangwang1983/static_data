@@ -1,0 +1,58 @@
+AUD_PrivateSectorCredit;20211029;00:30;Private Sector Credit (MoM);Australia;AUD;1
+AUD_RetailSales;20211029;00:30;Retail Sales s.a. (MoM);Australia;AUD;3
+AUD_ProducerPriceIndex;20211029;00:30;Producer Price Index (QoQ);Australia;AUD;1
+JPY_AnnualizedHousingStarts;20211029;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_ConstructionOrders;20211029;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_HousingStarts;20211029;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_ConsumerConfidenceIndex;20211029;05:00;Consumer Confidence Index;Japan;JPY;1
+EUR_FraConsumerSpending;20211029;05:30;Consumer Spending (MoM);France;EUR;1
+EUR_FraGrossDomesticProduct;20211029;05:30;Gross Domestic Product (QoQ);France;EUR;2
+DKK_UnemploymentRate;20211029;06:00;Unemployment Rate;Denmark;DKK;1
+NOK_CreditIndicator;20211029;06:00;Credit Indicator;Norway;NOK;1
+ZAR_M3MoneySupply;20211029;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+ZAR_PrivateSectorCredit;20211029;06:00;Private Sector Credit;South Africa;ZAR;1
+EUR_FraConsumerPriceIndex;20211029;06:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+HUF_GrossWages;20211029;07:00;Gross Wages (YoY);Hungary;HUF;1
+CHF_KOFLeadingIndicator;20211029;07:00;KOF Leading Indicator;Switzerland;CHF;2
+CZK_GrossDomesticProduct;20211029;07:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+EUR_ItaGrossDomesticProduct;20211029;08:00;Gross Domestic Product (YoY);Italy;EUR;2
+EUR_GerGrossDomesticProduct;20211029;08:00;Gross Domestic Product (YoY);Germany;EUR;2
+NOK_RegisteredUnemployment;20211029;08:00;Registered Unemployment s.a;Norway;NOK;1
+GBP_NetLendingtoIndividuals;20211029;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20211029;08:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20211029;08:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_M4MoneySupply;20211029;08:30;M4 Money Supply (MoM);United Kingdom;GBP;1
+EUR_EurGrossDomesticProduct;20211029;09:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20211029;09:00;Core Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_EurHarmonizedIndexofConsumerPrices;20211029;09:00;Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_ItaConsumerPriceIndex;20211029;09:00;Consumer Price Index (YoY);Italy;EUR;1
+INR_FederalFiscalDeficitINR;20211029;10:00;Federal Fiscal Deficit, INR;India;INR;1
+INR_FXReservesUSD;20211029;11:30;FX Reserves, USD;India;INR;1
+INR_InfrastructureOutput;20211029;12:00;Infrastructure Output (YoY);India;INR;1
+ZAR_TradeBalance;20211029;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+CLP_IndustrialProduction;20211029;12:00;Industrial Production (YoY);Chile;CLP;1
+USD_PersonalSpending;20211029;12:30;Personal Spending;United States;USD;2
+USD_CorePersonalConsumptionExpendituresPriceIndex;20211029;12:30;Core Personal Consumption Expenditures - Price Index (YoY);United States;USD;2
+USD_PersonalConsumptionExpendituresPriceIndex;20211029;12:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;1
+USD_PersonalIncome;20211029;12:30;Personal Income (MoM);United States;USD;2
+CAD_IndustrialProductPrice;20211029;12:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_RawMaterialPriceIndex;20211029;12:30;Raw Material Price Index;Canada;CAD;1
+USD_EmploymentCostIndex;20211029;12:30;Employment Cost Index;United States;USD;1
+BRL_PrimaryBudgetSurplus;20211029;12:30;Primary Budget Surplus;Brazil;BRL;1
+BRL_NominalBudgetBalance;20211029;12:30;Nominal Budget Balance;Brazil;BRL;1
+CAD_GrossDomesticProduct;20211029;12:30;Gross Domestic Product (MoM);Canada;CAD;2
+USD_ChicagoPurchasingManagers'Index;20211029;13:45;Chicago Purchasing Managers' Index;United States;USD;2
+USD_UoM5yearConsumerInflationExpectation;20211029;14:00;UoM 5-year Consumer Inflation Expectation;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20211029;14:00;Michigan Consumer Sentiment Index;United States;USD;2
+COP_NationalJoblessRate;20211029;16:00;National Jobless Rate;Colombia;COP;1
+RUB_UnemploymentRate;20211029;16:00;Unemployment Rate;Russia;RUB;1
+USD_BakerHughesUSOilRigCount;20211029;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20211029;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20211029;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+JPY_CFTCJPYNCNetPositions;20211029;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCS&P500NCNetPositions;20211029;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20211029;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20211029;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20211029;19:30;CFTC Gold NC Net Positions;United States;USD;1
+COP_Interestrate;20211029;20:00;Interest rate;Colombia;COP;1
+MXN_FiscalBalancepesos;20211029;21:00;Fiscal Balance, pesos;Mexico;MXN;1

@@ -1,0 +1,36 @@
+AUD_ConstructionWorkDone;20201125;00:30;Construction Work Done;Australia;AUD;1
+DKK_RetailSales;20201125;07:00;Retail Sales (YoY);Denmark;DKK;1
+NOK_LabourForceSurvey;20201125;07:00;Labour Force Survey;Norway;NOK;1
+ZAR_ConsumerPriceIndex;20201125;08:00;Consumer Price Index (YoY);South Africa;ZAR;1
+CHF_ZEWSurvey–Expectations;20201125;09:00;ZEW Survey – Expectations;Switzerland;CHF;2
+PLN_Unemployment;20201125;09:00;Unemployment (MoM);Poland;PLN;1
+EUR_EurEUFinancialStabilityReview;20201125;09:30;EU Financial Stability Review;European Monetary Union;EUR;2
+MXN_RetailSales;20201125;12:00;Retail Sales (MoM);Mexico;MXN;1
+USD_MBAMortgageApplications;20201125;12:00;MBA Mortgage Applications;United States;USD;1
+BRL_CurrentAccount;20201125;12:30;Current Account;Brazil;BRL;1
+GBP_AutumnForecastStatement;20201125;12:45;Autumn Forecast Statement;United Kingdom;GBP;2
+USD_JoblessClaims;20201125;13:30;Initial Jobless Claims;United States;USD;2
+USD_GrossDomesticProduct;20201125;13:30;Gross Domestic Product Price Index;United States;USD;2
+USD_WholesaleInventories;20201125;13:30;Wholesale Inventories;United States;USD;1
+USD_GoodsTradeBalance;20201125;13:30;Goods Trade Balance;United States;USD;1
+USD_PersonalConsumptionExpendituresPrices;20201125;13:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+USD_CorePersonalConsumptionExpenditures;20201125;13:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+USD_DurableGoodsOrders;20201125;13:30;Durable Goods Orders ex Defense;United States;USD;2
+USD_NondefenseCapitalGoodsOrdersexAircraft;20201125;13:30;Nondefense Capital Goods Orders ex Aircraft;United States;USD;3
+USD_CorePersonalConsumptionExpendituresPriceIndex;20201125;15:00;Core Personal Consumption Expenditures - Price Index (YoY);United States;USD;2
+USD_PersonalSpending;20201125;15:00;Personal Spending;United States;USD;2
+USD_PersonalConsumptionExpendituresPriceIndex;20201125;15:00;Personal Consumption Expenditures - Price Index (MoM);United States;USD;1
+USD_PersonalIncome;20201125;15:00;Personal Income (MoM);United States;USD;2
+USD_UoM5yearConsumerInflationExpectation;20201125;15:00;UoM 5-year Consumer Inflation Expectation;United States;USD;2
+MXN_CurrentAccount;20201125;15:00;Current Account, $ (QoQ);Mexico;MXN;1
+USD_MichiganConsumerSentimentIndex;20201125;15:00;Michigan Consumer Sentiment Index;United States;USD;2
+USD_Auction;20201125;15:00;4-Week Bill Auction;United States;USD;1
+USD_NewHomeSales;20201125;15:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20201125;15:00;New Home Sales Change (MoM);United States;USD;1
+USD_EIACrudeOilStocksChange;20201125;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_EIANaturalGasStorageChange;20201125;17:00;EIA Natural Gas Storage Change;United States;USD;1
+USD_BakerHughesUSOilRigCount;20201125;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_FOMCMinutes;20201125;19:00;FOMC Minutes;United States;USD;3
+NZD_Exports;20201125;21:45;Exports;New Zealand;NZD;2
+NZD_TradeBalanceNZD;20201125;21:45;Trade Balance NZD (YoY);New Zealand;NZD;2
+NZD_Imports;20201125;21:45;Imports;New Zealand;NZD;2

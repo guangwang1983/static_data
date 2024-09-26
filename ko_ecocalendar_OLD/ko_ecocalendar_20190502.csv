@@ -1,0 +1,52 @@
+EUR_IreConsumerConfidence;20190502;23:01;Consumer Confidence;Ireland;EUR;1
+AUD_AiGPerformanceofServicesIndex;20190502;22:30;AiG Performance of Services Index;Australia;AUD;1
+BRL_TradeBalance;20190502;19:00;Trade Balance;Brazil;BRL;1
+DKK_CurrencyReserves;20190502;19:00;Currency Reserves;Denmark;DKK;1
+USD_Auction;20190502;15:30;4-Week Bill Auction;United States;USD;1
+USD_EIANaturalGasStorageChange;20190502;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_FactoryOrders;20190502;14:00;Factory Orders (MoM);United States;USD;2
+USD_ISMNYBusinessConditionsIndex;20190502;13:45;ISM-NY Business Conditions Index;United States;USD;1
+BRL_HSBCPMIManufacturing;20190502;13:00;HSBC PMI Manufacturing;Brazil;BRL;1
+RUB_CentralBankReserves;20190502;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_JoblessClaims;20190502;12:30;Continuing Jobless Claims;United States;USD;2
+USD_UnitLaborCosts;20190502;12:30;Unit Labor Costs;United States;USD;2
+USD_NonfarmProductivity;20190502;12:30;Nonfarm Productivity;United States;USD;2
+ZAR_TotalNewVehicleSales;20190502;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+CZK_BudgetBalance;20190502;12:00;Budget Balance;Czech Republic;CZK;1
+USD_ChallengerJobCuts;20190502;11:30;Challenger Job Cuts;United States;USD;1
+GBP_CentralBankSpeech;20190502;11:30;BoE Governor Carney speech;United Kingdom;GBP;3
+GBP_BoEInterestRateDecision;20190502;11:00;BoE Interest Rate Decision;United Kingdom;GBP;3
+GBP_BoEAssetPurchaseFacility;20190502;11:00;BoE Asset Purchase Facility;United Kingdom;GBP;3
+GBP_BankofEnglandQuarterlyInflationReport;20190502;11:00;Bank of England Quarterly Inflation Report;United Kingdom;GBP;2
+GBP_BoEMPCVoteUnchanged;20190502;11:00;BoE MPC Vote Unchanged;United Kingdom;GBP;3
+GBP_BoEMPCVoteCut;20190502;11:00;BoE MPC Vote Cut;United Kingdom;GBP;3
+GBP_BoEMPCVoteHike;20190502;11:00;BoE MPC Vote Hike;United Kingdom;GBP;3
+GBP_BankofEnglandMinutes;20190502;11:00;Bank of England Minutes;United Kingdom;GBP;3
+CZK_CNBInterestRateDecision;20190502;11:00;CNB Interest Rate Decision;Czech Republic;CZK;1
+EUR_FraAuction;20190502;09:00;10-y Bond Auction;France;EUR;1
+GBP_MarkitConstructionPMI;20190502;08:30;Markit Construction PMI;United Kingdom;GBP;2
+EUR_PorConsumerPriceIndex;20190502;08:30;Consumer Price Index (YoY);Portugal;EUR;1
+PLN_ConsumerPriceIndex;20190502;08:00;Consumer Price Index (MoM);Poland;PLN;1
+EUR_AusUnemploymentRate;20190502;08:00;Unemployment Rate;Austria;EUR;1
+EUR_AusUnemployment;20190502;08:00;Unemployment;Austria;EUR;1
+EUR_GreMarkitManufacturingPMI;20190502;08:00;Markit Manufacturing PMI;Greece;EUR;1
+BRL_FipeIPCInflation;20190502;08:00;Fipe IPC Inflation;Brazil;BRL;1
+EUR_EurMarkitManufacturingPMI;20190502;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;1
+EUR_GerMarkitManufacturingPMI;20190502;07:55;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20190502;07:50;Markit Manufacturing PMI;France;EUR;1
+EUR_ItaMarkitManufacturingPMI;20190502;07:45;Markit Manufacturing PMI;Italy;EUR;1
+EUR_SpaMarkitManufacturingPMI;20190502;07:15;Markit Manufacturing PMI;Spain;EUR;1
+EUR_SpaUnemploymentChange;20190502;07:00;Unemployment Change;Spain;EUR;1
+HUF_TradeBalance;20190502;07:00;Trade Balance;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20190502;07:00;Purchasing Manager Index;Poland;PLN;1
+CHF_RetailSales;20190502;06:30;Real Retail Sales (YoY);Switzerland;CHF;2
+CHF_SVMEPurchasingManagers'Index;20190502;06:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+SEK_PurchasingManagersIndexManufacturing;20190502;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;2
+TRY_Exports;20190502;06:00;Exports;Turkey;TRY;1
+EUR_GerRetailSales;20190502;06:00;Retail Sales (MoM);Germany;EUR;2
+IDR_Inflation;20190502;02:00;Inflation (MoM);Indonesia;IDR;1
+IDR_CoreInflation;20190502;02:00;Core Inflation (YoY);Indonesia;IDR;1
+CNY_CaixinManufacturingPMI;20190502;01:45;Caixin Manufacturing PMI;China;CNY;3
+AUD_HIANewHomeSales;20190502;01:30;HIA New Home Sales (MoM);Australia;AUD;2
+KRW_NikkeiMarkitManufacturingPMI;20190502;00:30;Nikkei Markit Manufacturing PMI;South Korea;KRW;1
+NZD_ANZCommodityPrice;20190502;00:00;ANZ Commodity Price;New Zealand;NZD;1

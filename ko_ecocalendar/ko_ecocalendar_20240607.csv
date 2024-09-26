@@ -1,0 +1,63 @@
+EUR_EurEuropeanParliamentElection;20240607;00:00;European Parliament Election;Eurozone;EUR;3
+CNY_Exports;20240607;03:00;Exports (YoY);China;CNY;2
+CNY_Imports;20240607;03:00;Imports (YoY) CNY;China;CNY;2
+CNY_TradeBalanceUSD;20240607;03:00;Trade Balance USD;China;CNY;2
+CNY_TradeBalanceCNY;20240607;03:00;Trade Balance CNY;China;CNY;2
+INR_ReverseRepoRate;20240607;04:30;Reverse Repo Rate;India;INR;1
+INR_RBIInterestRateDecision;20240607;04:30;RBI Interest Rate Decision (Repo Rate);India;INR;2
+JPY_CoincidentIndex;20240607;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20240607;05:00;Leading Economic Index;Japan;JPY;1
+EUR_GerIndustrialProduction;20240607;06:00;Industrial Production n.s.a. w.d.a. (YoY);Germany;EUR;2
+EUR_GerTradeBalance;20240607;06:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerExports;20240607;06:00;Exports (MoM);Germany;EUR;1
+EUR_GerImports;20240607;06:00;Imports (MoM);Germany;EUR;1
+DKK_IndustrialProduction;20240607;06:00;Industrial Production (MoM);Denmark;DKK;1
+ZAR_Gross$Gold&ForexReserve;20240607;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+ZAR_Net$Gold&ForexReserve;20240607;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+GBP_HalifaxHousePrices;20240607;06:00;Halifax House Prices (MoM);United Kingdom;GBP;1
+RON_GrossDomesticProduct;20240607;06:00;Gross Domestic Product;Romania;RON;1
+NOK_ManufacturingOutput;20240607;06:00;Manufacturing Output;Norway;NOK;1
+HUF_IndustrialOutput;20240607;06:30;Industrial Output (YoY);Hungary;HUF;1
+EUR_FraTradeBalanceEUR;20240607;06:45;Trade Balance EUR;France;EUR;1
+EUR_FraImportsEUR;20240607;06:45;Imports, EUR;France;EUR;1
+EUR_FraExportsEUR;20240607;06:45;Exports, EUR;France;EUR;1
+EUR_FraCurrentAccount;20240607;06:45;Current Account;France;EUR;1
+EUR_GerCentralBankSpeech;20240607;07:00;German Buba President Nagel speech;Germany;EUR;2
+CHF_ForeignCurrencyReserves;20240607;07:00;Foreign Currency Reserves;Switzerland;CHF;1
+CNY_ForeignExchangeReserves;20240607;08:00;Foreign Exchange Reserves (MoM);China;CNY;1
+CZK_FXReserves;20240607;08:00;FX Reserves;Czech Republic;CZK;1
+EUR_EurGrossDomesticProduct;20240607;09:00;Gross Domestic Product s.a. (YoY);Eurozone;EUR;3
+EUR_EurEmploymentChange;20240607;09:00;Employment Change (QoQ);Eurozone;EUR;2
+RUB_Interestratedecision;20240607;10:30;Interest rate decision;Russia;RUB;2
+GBP_NIESRGDPEstimate;20240607;11:00;NIESR GDP Estimate (3M);United Kingdom;GBP;1
+INR_FXReservesUSD;20240607;11:30;FX Reserves, USD;India;INR;1
+CLP_ConsumerPriceIndex;20240607;12:00;Core Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+MXN_CoreInflation;20240607;12:00;Core Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20240607;12:00;Headline Inflation;Mexico;MXN;2
+MXN_12MonthInflation;20240607;12:00;12-Month Inflation;Mexico;MXN;1
+USD_NonfarmPayrolls;20240607;12:30;Nonfarm Payrolls;United States;USD;3
+USD_AverageHourlyEarnings;20240607;12:30;Average Hourly Earnings (YoY);United States;USD;3
+USD_AverageWeeklyHours;20240607;12:30;Average Weekly Hours;United States;USD;1
+USD_UnemploymentRate;20240607;12:30;Unemployment Rate;United States;USD;2
+USD_U6UnderemploymentRate;20240607;12:30;U6 Underemployment Rate;United States;USD;2
+USD_LaborForceParticipationRate;20240607;12:30;Labor Force Participation Rate;United States;USD;2
+CLP_TradeBalance;20240607;12:30;Trade Balance;Chile;CLP;1
+CAD_CapacityUtilization;20240607;12:30;Capacity Utilization;Canada;CAD;1
+CAD_ParticipationRate;20240607;12:30;Participation Rate;Canada;CAD;1
+CAD_AverageHourlyWages;20240607;12:30;Average Hourly Wages (YoY);Canada;CAD;2
+CAD_NetChangeinEmployment;20240607;12:30;Net Change in Employment;Canada;CAD;3
+CAD_UnemploymentRate;20240607;12:30;Unemployment Rate;Canada;CAD;3
+PLN_CentralBankFXReserves;20240607;13:00;Central Bank FX Reserves;Poland;PLN;1
+USD_WholesaleInventories;20240607;14:00;Wholesale Inventories;United States;USD;1
+EUR_EurCentralBankSpeech;20240607;14:15;ECB President Lagarde speech;Eurozone;EUR;3
+TRY_TreasuryCashBalance;20240607;14:30;Treasury Cash Balance;Turkey;TRY;1
+USD_CentralBankSpeech;20240607;16:00;Fed Cook speech;United States;USD;1
+USD_BakerHughesUSOilRigCount;20240607;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_ConsumerCreditChange;20240607;19:00;Consumer Credit Change;United States;USD;1
+USD_CFTCOilNCNetPositions;20240607;19:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20240607;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20240607;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20240607;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20240607;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20240607;19:30;CFTC EUR NC Net Positions;Eurozone;EUR;1
+AUD_CFTCAUDNCNetPositions;20240607;19:30;CFTC AUD NC Net Positions;Australia;AUD;1

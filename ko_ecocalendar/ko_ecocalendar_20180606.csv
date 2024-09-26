@@ -1,0 +1,33 @@
+JPY_LaborCashEarnings;20180606;00:00;Labor Cash Earnings (YoY);Japan;JPY;1
+SEK_NationalDay;20180606;00:00;National Day;Sweden;SEK;0
+COP_ConsumerPriceIndex;20180606;00:00;Consumer Price Index (MoM);Colombia;COP;1
+NZD_ANZCommodityPrice;20180606;01:00;ANZ Commodity Price;New Zealand;NZD;1
+AUD_HIANewHomeSales;20180606;01:15;HIA New Home Sales (MoM);Australia;AUD;2
+AUD_GrossDomesticProduct;20180606;01:30;Gross Domestic Product (YoY);Australia;AUD;2
+NOK_CurrentAccount;20180606;06:00;Current Account;Norway;NOK;1
+HUF_IndustrialOutput;20180606;07:00;Industrial Output (YoY);Hungary;HUF;1
+CZK_IndustrialProduction;20180606;07:00;Industrial Production (YoY);Czech Republic;CZK;1
+CZK_Constructionoutput;20180606;07:00;Construction output (YoY);Czech Republic;CZK;1
+CZK_ForeignTradeBalance;20180606;07:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+CHF_ConsumerPriceIndex;20180606;07:15;Consumer Price Index (MoM);Switzerland;CHF;1
+EUR_EurCentralBankSpeech;20180606;08:00;ECB Praet speech;European Monetary Union;EUR;2
+INR_ReverseRepoRate;20180606;09:00;Reverse Repo Rate;India;INR;1
+INR_RBIInterestRateDecision;20180606;09:00;RBI Interest Rate Decision (Repo Rate);India;INR;1
+ZAR_BusinessConfidenceIndex;20180606;09:30;Business Confidence Index;South Africa;ZAR;1
+USD_MBAMortgageApplications;20180606;11:00;MBA Mortgage Applications;United States;USD;1
+INR_M3MoneySupply;20180606;11:30;M3 Money Supply;India;INR;1
+PLN_NBPBaserate;20180606;12:00;NBP Base rate;Poland;PLN;1
+USD_GoodsandServicesTradeBalance;20180606;12:30;Goods and Services Trade Balance;United States;USD;2
+USD_NonfarmProductivity;20180606;12:30;Nonfarm Productivity;United States;USD;2
+USD_UnitLaborCosts;20180606;12:30;Unit Labor Costs;United States;USD;2
+CAD_BuildingPermits;20180606;12:30;Building Permits (MoM);Canada;CAD;1
+CAD_Exports;20180606;12:30;Exports;Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20180606;12:30;International Merchandise Trade;Canada;CAD;2
+CAD_Imports;20180606;12:30;Imports;Canada;CAD;1
+CAD_IveyPurchasingManagersIndex;20180606;14:00;Ivey Purchasing Managers Index s.a;Canada;CAD;2
+USD_EIACrudeOilStocksChange;20180606;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+GBP_CentralBankSpeech;20180606;16:00;BoE McCafferty speech;United Kingdom;GBP;2
+AUD_AiGPerformanceofConstructionIndex;20180606;22:30;AiG Performance of Construction Index;Australia;AUD;2
+JPY_JPForeignReserves;20180606;23:50;JP Foreign Reserves;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20180606;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20180606;23:50;Foreign Bond Investment;Japan;JPY;1

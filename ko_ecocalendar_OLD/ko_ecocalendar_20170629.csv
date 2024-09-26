@@ -1,0 +1,52 @@
+JPY_IndustrialProduction;20170629;23:50;Industrial Production (MoM);Japan;JPY;2
+JPY_TokyoCPIexFreshFood;20170629;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;1
+JPY_TokyoCPIexFoodEnergy;20170629;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;1
+JPY_ConsumerPriceIndex;20170629;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;1
+JPY_NationalCPIexFoodEnergy;20170629;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20170629;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_UnemploymentRate;20170629;23:30;Unemployment Rate;Japan;JPY;2
+JPY_JobsApplicantsRatio;20170629;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+JPY_OverallHouseholdSpending;20170629;23:30;Overall Household Spending (YoY);Japan;JPY;2
+GBP_GfKConsumerConfidence;20170629;23:01;GfK Consumer Confidence;United Kingdom;GBP;2
+KRW_IndustrialOutputGrowth;20170629;23:00;Industrial Output Growth;South Korea;KRW;1
+KRW_IndustrialOutput;20170629;23:00;Industrial Output (YoY);South Korea;KRW;1
+KRW_ServiceSectorOutput;20170629;23:00;Service Sector Output;South Korea;KRW;1
+NZD_BuildingPermits;20170629;22:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+HKD_RetailSales;20170629;21:30;Retail Sales;Hong Kong SAR;HKD;1
+ARS_IndustrialOutput;20170629;19:00;Industrial Output n.s.a (YoY);Argentina;ARS;1
+USD_CentralBankSpeech;20170629;17:00;Fed Bullard speech;United States;USD;1
+USD_EIANaturalGasStorageChange;20170629;14:30;EIA Natural Gas Storage Change;United States;USD;1
+RUB_CentralBankReserves;20170629;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_JoblessClaims;20170629;12:30;Initial Jobless Claims;United States;USD;2
+USD_GrossDomesticProduct;20170629;12:30;Gross Domestic Product Annualized;United States;USD;3
+USD_CorePersonalConsumptionExpenditures;20170629;12:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+USD_PersonalConsumptionExpendituresPrices;20170629;12:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+BRL_InflationIndexIGPM;20170629;12:00;Inflation Index/IGP-M;Brazil;BRL;1
+TRY_ForeignArrivals;20170629;12:00;Foreign Arrivals;Turkey;TRY;1
+CZK_CNBInterestRateDecision;20170629;12:00;CNB Interest Rate Decision;Czech Republic;CZK;1
+EUR_GerConsumerPriceIndex;20170629;12:00;Consumer Price Index (MoM);Germany;EUR;2
+EUR_GerHarmonizedIndexofConsumerPrices;20170629;12:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;2
+ISK_ConsumerPriceIndex;20170629;10:00;Consumer Price Index (YoY);Iceland;ISK;1
+ZAR_ProducerPriceIndex;20170629;09:30;Producer Price Index (YoY);South Africa;ZAR;1
+EUR_BelConsumerPriceIndex;20170629;09:00;Consumer Price Index (YoY);Belgium;EUR;1
+EUR_EurBusinessClimate;20170629;09:00;Business Climate;European Monetary Union;EUR;2
+EUR_EurConsumerConfidence;20170629;09:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurServicesSentiment;20170629;09:00;Services Sentiment;European Monetary Union;EUR;2
+EUR_EurEconomicSentimentIndicator;20170629;09:00;Economic Sentiment Indicator;European Monetary Union;EUR;2
+EUR_EurIndustrialConfidence;20170629;09:00;Industrial Confidence;European Monetary Union;EUR;2
+EUR_PorBusinessConfidence;20170629;08:30;Business Confidence;Portugal;EUR;1
+EUR_PorConsumerConfidence;20170629;08:30;Consumer Confidence;Portugal;EUR;1
+GBP_NetLendingtoIndividuals;20170629;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20170629;08:30;Consumer Credit;United Kingdom;GBP;2
+GBP_MortgageApprovals;20170629;08:30;Mortgage Approvals;United Kingdom;GBP;2
+GBP_M4MoneySupply;20170629;08:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+SEK_RetailSales;20170629;07:30;Retail Sales (YoY);Sweden;SEK;1
+EUR_SpaHICP;20170629;07:00;HICP (YoY);Spain;EUR;1
+DKK_IndustrialOutlook;20170629;07:00;Industrial Outlook;Denmark;DKK;1
+TRY_Economicconfidenceindex;20170629;07:00;Economic confidence index;Turkey;TRY;0
+EUR_GerGfkConsumerConfidenceSurvey;20170629;06:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+AUD_HIANewHomeSales;20170629;01:00;HIA New Home Sales (MoM);Australia;AUD;2
+NZD_ANZActivityOutlook;20170629;01:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20170629;01:00;ANZ Business Confidence;New Zealand;NZD;1
+CLP_SaintPeterandSaintPaul;20170629;00:00;Saint Peter and Saint Paul ;Chile;CLP;0
+IDR_CutiBersama;20170629;00:00;Cuti Bersama;Indonesia;IDR;0

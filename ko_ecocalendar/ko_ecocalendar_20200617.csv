@@ -1,0 +1,28 @@
+AUD_WestpacLeadingIndex;20200617;00:30;Westpac Leading Index (MoM);Australia;AUD;2
+AUD_HIANewHomeSales;20200617;01:00;HIA New Home Sales (MoM);Australia;AUD;2
+GBP_RetailPriceIndex;20200617;06:00;Retail Price Index (YoY);United Kingdom;GBP;2
+GBP_ProducerPriceIndex;20200617;06:00;Producer Price Index - Output (YoY) n.s.a;United Kingdom;GBP;1
+GBP_PPICoreOutput;20200617;06:00;PPI Core Output (MoM) n.s.a;United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20200617;06:00;Consumer Price Index (YoY);United Kingdom;GBP;3
+SEK_UnemploymentRate;20200617;07:30;Unemployment Rate;Sweden;SEK;1
+EUR_ItaIndustrialSales;20200617;08:00;Industrial Sales s.a. (MoM);Italy;EUR;1
+EUR_ItaIndustrialOrders;20200617;08:00;Industrial Orders n.s.a (YoY);Italy;EUR;1
+EUR_EurHarmonizedIndexofConsumerPrices;20200617;09:00;Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;2
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20200617;09:00;Core Harmonized Index of Consumer Prices (MoM);European Monetary Union;EUR;2
+EUR_EurConstructionOutput;20200617;09:00;Construction Output w.d.a (YoY);European Monetary Union;EUR;1
+EUR_GerAuction;20200617;09:40;10-y Bond Auction;Germany;EUR;2
+USD_MBAMortgageApplications;20200617;11:00;MBA Mortgage Applications;United States;USD;1
+EUR_EurCentralBankSpeech;20200617;11:00;ECB De Guindos speech;European Monetary Union;EUR;2
+USD_HousingStartsChange;20200617;12:30;Housing Starts Change;United States;USD;1
+USD_BuildingPermitsChange;20200617;12:30;Building Permits Change;United States;USD;1
+USD_HousingStarts;20200617;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20200617;12:30;Building Permits (MoM);United States;USD;2
+CAD_ConsumerPriceIndex;20200617;12:30;BoC Consumer Price Index Core (YoY);Canada;CAD;3
+USD_EIACrudeOilStocksChange;20200617;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_FedChairPowelltestifies;20200617;16:00;Fed Chair Powell testifies;United States;USD;3
+USD_Auction;20200617;19:00;20-Year Bond Auction;United States;USD;1
+USD_CentralBankSpeech;20200617;20:00;Fed Mester speech;United States;USD;2
+BRL_InterestRateDecision;20200617;21:00;Interest Rate Decision;Brazil;BRL;1
+NZD_GrossDomesticProduct;20200617;22:45;Gross Domestic Product (YoY);New Zealand;NZD;2
+JPY_ForeignInvestmentinJapanStocks;20200617;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20200617;23:50;Foreign Bond Investment;Japan;JPY;1

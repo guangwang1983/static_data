@@ -1,0 +1,31 @@
+NZD_ANZCommodityPrice;20231005;00:00;ANZ Commodity Price;New Zealand;NZD;1
+AUD_TradeBalance;20231005;00:30;Trade Balance (MoM);Australia;AUD;3
+AUD_Imports;20231005;00:30;Imports (MoM);Australia;AUD;2
+AUD_Exports;20231005;00:30;Exports (MoM);Australia;AUD;2
+EUR_GerImports;20231005;06:00;Imports (MoM);Germany;EUR;1
+EUR_GerExports;20231005;06:00;Exports (MoM);Germany;EUR;1
+EUR_GerTradeBalance;20231005;06:00;Trade Balance s.a.;Germany;EUR;2
+EUR_FraIndustrialOutput;20231005;06:45;Industrial Output (MoM);France;EUR;1
+GBP_S&PGlobalConstructionPMI;20231005;08:30;S&P Global Construction PMI;United Kingdom;GBP;1
+EUR_FraAuction;20231005;08:50;10-y Bond Auction;France;EUR;1
+USD_ChallengerJobCuts;20231005;11:30;Challenger Job Cuts;United States;USD;2
+PLN_CentralBankFXReserves;20231005;12:00;Central Bank FX Reserves;Poland;PLN;1
+MXN_ConsumerConfidence;20231005;12:00;Consumer Confidence s.a;Mexico;MXN;1
+RON_Interestratedecision;20231005;12:00;Interest rate decision;Romania;RON;1
+USD_GoodsandServicesTradeBalance;20231005;12:30;Goods and Services Trade Balance;United States;USD;1
+USD_JoblessClaims;20231005;12:30;Continuing Jobless Claims;United States;USD;1
+USD_GoodsTradeBalance;20231005;12:30;Goods Trade Balance;United States;USD;1
+CAD_InternationalMerchandiseTrade;20231005;12:30;International Merchandise Trade;Canada;CAD;1
+CAD_Exports;20231005;12:30;Exports;Canada;CAD;1
+CAD_Imports;20231005;12:30;Imports;Canada;CAD;1
+RUB_CentralBankReserves;20231005;13:00;Central Bank Reserves $;Russia;RUB;1
+EUR_EurCentralBankSpeech;20231005;14:00;ECB De Guindos speech;European Monetary Union;EUR;2
+CAD_IveyPurchasingManagersIndex;20231005;14:00;Ivey Purchasing Managers Index;Canada;CAD;2
+USD_EIANaturalGasStorageChange;20231005;14:30;EIA Natural Gas Storage Change;United States;USD;1
+EUR_GerCentralBankSpeech;20231005;15:00;German Buba President Nagel speech;Germany;EUR;2
+USD_Auction;20231005;15:30;4-Week Bill Auction;United States;USD;1
+CNY_NationalDay;20231005;16:00;National Day;China;CNY;0
+ILS_Sukkot;20231005;21:00;Sukkot;Israel;ILS;0
+JPY_LaborCashEarnings;20231005;23:30;Labor Cash Earnings (YoY);Japan;JPY;2
+JPY_OverallHouseholdSpending;20231005;23:30;Overall Household Spending (YoY);Japan;JPY;1
+JPY_JPForeignReserves;20231005;23:50;JP Foreign Reserves;Japan;JPY;1

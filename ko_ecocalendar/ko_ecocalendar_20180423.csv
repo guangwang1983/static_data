@@ -1,0 +1,27 @@
+TRY_NationalSovereigntyandChildrenDay;20180423;00:00;National Sovereignty and Children Day ;Turkey;TRY;0
+JPY_JibunBankManufacturingPMI;20180423;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+NZD_CreditCardSpending;20180423;03:00;Credit Card Spending (YoY);New Zealand;NZD;1
+EUR_FraHCOBManufacturingPMI;20180423;07:00;HCOB Manufacturing PMI;France;EUR;1
+EUR_FraHCOBServicesPMI;20180423;07:00;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20180423;07:00;HCOB Composite PMI;France;EUR;1
+EUR_GerHCOBCompositePMI;20180423;07:30;HCOB Composite PMI;Germany;EUR;2
+EUR_GerHCOBManufacturingPMI;20180423;07:30;HCOB Manufacturing PMI;Germany;EUR;3
+EUR_GerHCOBServicesPMI;20180423;07:30;HCOB Services PMI;Germany;EUR;2
+EUR_EurHCOBServicesPMI;20180423;08:00;HCOB Services PMI;European Monetary Union;EUR;2
+EUR_EurHCOBManufacturingPMI;20180423;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurHCOBCompositePMI;20180423;08:00;HCOB Composite PMI;European Monetary Union;EUR;2
+EUR_GerGermanBubaMonthlyReport;20180423;10:00;German Buba Monthly Report;Germany;EUR;1
+PLN_RetailSales;20180423;12:00;Retail Sales (YoY);Poland;PLN;1
+USD_ChicagoFedNationalActivityIndex;20180423;12:30;Chicago Fed National Activity Index ;United States;USD;2
+CAD_WholesaleSales;20180423;12:30;Wholesale Sales (MoM);Canada;CAD;1
+USD_S&PGlobalManufacturingPMI;20180423;13:45;S&P Global Manufacturing PMI;United States;USD;1
+USD_S&PGlobalCompositePMI;20180423;13:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20180423;13:45;S&P Global Services PMI;United States;USD;2
+USD_ExistingHomeSales;20180423;14:00;Existing Home Sales (MoM);United States;USD;2
+USD_ExistingHomeSalesChange;20180423;14:00;Existing Home Sales Change (MoM);United States;USD;1
+EUR_EurCentralBankSpeech;20180423;14:00;ECB Cœuré speech;European Monetary Union;EUR;2
+USD_Auction;20180423;15:30;3-Month Bill Auction;United States;USD;1
+CAD_CentralBankSpeech;20180423;19:30;BoC Governor Poloz speech;Canada;CAD;3
+AUD_CentralBankSpeech;20180423;22:00;RBA Kent speech;Australia;AUD;2
+NZD_VisitorArrivals;20180423;22:45;Visitor Arrivals (YoY);New Zealand;NZD;1
+JPY_CorporateServicePriceIndex;20180423;23:50;Corporate Service Price Index (YoY);Japan;JPY;1

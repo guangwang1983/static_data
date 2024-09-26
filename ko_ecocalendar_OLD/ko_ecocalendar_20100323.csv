@@ -1,0 +1,13 @@
+JPY_MerchandiseTradeBalanceTotal;20100323;23:50;Merchandise Trade Balance Total;Japan;JPY;1
+JPY_AdjustedMerchandiseTradeBalance;20100323;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+NZD_CurrentAccount;20100323;21:45;Current Account (QoQ);New Zealand;NZD;1
+USD_ExistingHomeSalesChange;20100323;14:00;Existing Home Sales Change (MoM);United States;USD;2
+USD_ExistingHomeSales;20100323;14:00;Existing Home Sales (MoM);United States;USD;2
+USD_CentralBankSpeech;20100323;14:00;Treasury Geithner speech;United States;USD;2
+USD_HousingPriceIndex;20100323;14:00;Housing Price Index (MoM);United States;USD;1
+USD_RichmondFedManufacturingIndex;20100323;14:00;Richmond Fed Manufacturing Index;United States;USD;2
+CAD_LeadingIndicators;20100323;12:30;Leading Indicators (MoM);Canada;CAD;1
+GBP_CBIDistributiveTradesSurveyRealized;20100323;11:00;CBI Distributive Trades Survey - Realized (MoM);United Kingdom;GBP;1
+GBP_BBAMortgageApprovals;20100323;09:30;BBA Mortgage Approvals;United Kingdom;GBP;1
+GBP_RetailPriceIndex;20100323;09:30;Retail Price Index (MoM);United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20100323;09:30;Core Consumer Price Index (YoY);United Kingdom;GBP;1

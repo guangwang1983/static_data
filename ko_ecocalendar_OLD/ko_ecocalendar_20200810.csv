@@ -1,0 +1,32 @@
+JPY_BankLending;20200810;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_CurrentAccount;20200810;23:50;Current Account n.s.a.;Japan;JPY;2
+JPY_TradeBalanceBOPBasis;20200810;23:50;Trade Balance - BOP Basis;Japan;JPY;1
+GBP_RetailSales;20200810;23:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+NZD_RetailSales;20200810;22:45;Electronic Card Retail Sales (YoY);New Zealand;NZD;1
+NZD_REINZHousePriceIndex;20200810;21:00;REINZ House Price Index (MoM);New Zealand;NZD;2
+USD_Auction;20200810;15:30;6-Month Bill Auction;United States;USD;1
+TRY_TreasuryCashBalance;20200810;14:30;Treasury Cash Balance;Turkey;TRY;1
+USD_JOLTSJobOpenings;20200810;14:00;JOLTS Job Openings;United States;USD;1
+INR_TradeDeficitGovernment;20200810;12:00;Trade Deficit Government;India;INR;1
+ILS_M1MoneySupply;20200810;11:00;M1 Money Supply (MoM);Israel;ILS;1
+MXN_IndustrialOutput;20200810;11:00;Industrial Output (MoM);Mexico;MXN;1
+EUR_EurSentixInvestorConfidence;20200810;08:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+EUR_FinIndustrialOutput;20200810;08:00;Industrial Output (MoM);Finland;EUR;1
+CNY_M2MoneySupply;20200810;07:00;M2 Money Supply (YoY);China;CNY;1
+EUR_SloIndustrialOutput;20200810;07:00;Industrial Output (YoY);Slovakia;EUR;1
+TRY_3mthquarterlyjoblessaverage;20200810;07:00;3mth quarterly jobless average;Turkey;TRY;1
+CNY_NewLoans;20200810;07:00;New Loans;China;CNY;1
+NOK_CoreInflation;20200810;06:00;Core Inflation (MoM);Norway;NOK;1
+NOK_ConsumerPriceIndex;20200810;06:00;Consumer Price Index (MoM);Norway;NOK;1
+RON_TradeBalance;20200810;06:00;Trade Balance;Romania;RON;1
+DKK_ConsumerPriceIndex;20200810;06:00;Consumer Price Index (YoY);Denmark;DKK;1
+DKK_Inflation;20200810;06:00;Inflation (HICP) (YoY);Denmark;DKK;1
+DKK_TradeBalance;20200810;06:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20200810;06:00;Current Account;Denmark;DKK;1
+NOK_ProducerPriceIndex;20200810;06:00;Producer Price Index (YoY);Norway;NOK;1
+CHF_UnemploymentRate;20200810;05:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+CNY_ConsumerPriceIndex;20200810;01:30;Consumer Price Index (YoY);China;CNY;3
+CNY_ProducerPriceIndex;20200810;01:30;Producer Price Index (YoY);China;CNY;2
+NZD_ANZActivityOutlook;20200810;01:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20200810;01:00;ANZ Business Confidence;New Zealand;NZD;1
+SGD_GrossDomesticProduct;20200810;00:00;Gross Domestic Product (QoQ);Singapore;SGD;1

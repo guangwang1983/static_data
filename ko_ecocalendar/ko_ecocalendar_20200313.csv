@@ -1,0 +1,38 @@
+CNY_FDIForeignDirectInvestment;20200313;02:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+JPY_TertiaryIndustryIndex;20200313;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+TRY_IndustrialProduction;20200313;07:00;Industrial Production (YoY);Turkey;TRY;1
+EUR_GerHarmonizedIndexofConsumerPrices;20200313;07:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+EUR_GerConsumerPriceIndex;20200313;07:00;Consumer Price Index (MoM);Germany;EUR;1
+EUR_GerWholesalePriceIndex;20200313;07:00;Wholesale Price Index (MoM);Germany;EUR;1
+EUR_FraConsumerPriceIndex;20200313;07:45;Consumer Price Index (EU norm) (YoY);France;EUR;1
+EUR_FraInflationextobacco;20200313;07:45;Inflation ex-tobacco (MoM);France;EUR;1
+CZK_RetailSales;20200313;08:00;Retail Sales (YoY);Czech Republic;CZK;1
+SEK_UnemploymentRate;20200313;08:30;Unemployment Rate;Sweden;SEK;1
+PLN_ConsumerPriceIndex;20200313;09:00;Consumer Price Index (YoY);Poland;PLN;1
+NOK_NorgesBankInterestRateDecision;20200313;09:00;Norges Bank Interest Rate Decision;Norway;NOK;1
+INR_BankLoanGrowth;20200313;11:30;Bank Loan Growth;India;INR;1
+INR_BalancePayment;20200313;11:30;Balance Payment $;India;INR;1
+INR_TradeDeficit–RBI;20200313;11:30;Trade Deficit – RBI;India;INR;1
+INR_CurrentAccount;20200313;11:30;Current Account Balance $;India;INR;1
+GBP_BankofEnglandMinutes;20200313;12:00;Bank of England Minutes;United Kingdom;GBP;3
+MXN_IndustrialOutput;20200313;12:00;Industrial Output (YoY);Mexico;MXN;1
+INR_TradeDeficitGovernment;20200313;12:00;Trade Deficit Government;India;INR;1
+INR_FXReservesUSD;20200313;12:00;FX Reserves, USD;India;INR;1
+USD_ImportPriceIndex;20200313;12:30;Import Price Index (YoY);United States;USD;1
+USD_ExportPriceIndex;20200313;12:30;Export Price Index (MoM);United States;USD;1
+RUB_ForeignTrade;20200313;13:00;Foreign Trade;Russia;RUB;1
+USD_UoM5yearConsumerInflationExpectation;20200313;14:00;UoM 5-year Consumer Inflation Expectation;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20200313;14:00;Michigan Consumer Sentiment Index;United States;USD;3
+COP_RetailSales;20200313;15:00;Retail Sales (YoY);Colombia;COP;1
+COP_Industrialoutput;20200313;15:00;Industrial output (YoY);Colombia;COP;1
+USD_BakerHughesUSOilRigCount;20200313;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+CAD_BoCInterestRateDecision;20200313;18:00;BoC Interest Rate Decision;Canada;CAD;3
+CAD_BoCRateStatement;20200313;18:00;BoC Rate Statement;Canada;CAD;3
+USD_CentralBankSpeech;20200313;19:00;President Trump speech;United States;USD;3
+USD_CFTCOilNCNetPositions;20200313;20:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20200313;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20200313;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20200313;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20200313;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20200313;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20200313;20:30;CFTC AUD NC Net Positions;Australia;AUD;1

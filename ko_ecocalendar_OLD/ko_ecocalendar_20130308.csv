@@ -1,0 +1,39 @@
+PEN_Interestratedecision;20130308;23:00;Interest rate decision;Peru;PEN;1
+MXN_CentralBankInterestRate;20130308;15:00;Central Bank Interest Rate;Mexico;MXN;1
+USD_WholesaleInventories;20130308;15:00;Wholesale Inventories;United States;USD;1
+CAD_LaborProductivity;20130308;13:30;Labor Productivity (QoQ);Canada;CAD;1
+USD_NonfarmPayrolls;20130308;13:30;Nonfarm Payrolls;United States;USD;3
+USD_AverageHourlyEarnings;20130308;13:30;Average Hourly Earnings (MoM);United States;USD;1
+USD_UnemploymentRate;20130308;13:30;Unemployment Rate;United States;USD;3
+USD_AverageWeeklyHours;20130308;13:30;Average Weekly Hours;United States;USD;1
+CAD_ParticipationRate;20130308;13:30;Participation Rate;Canada;CAD;1
+CAD_NetChangeinEmployment;20130308;13:30;Net Change in Employment;Canada;CAD;3
+CAD_UnemploymentRate;20130308;13:30;Unemployment Rate;Canada;CAD;3
+CAD_HousingStarts;20130308;13:15;Housing Starts s.a (YoY);Canada;CAD;2
+CLP_ConsumerPriceIndex;20130308;13:00;Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+BRL_IPCAInflation;20130308;12:00;IPCA Inflation;Brazil;BRL;1
+INR_BankLoanGrowth;20130308;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20130308;11:30;FX Reserves, USD;India;INR;1
+EUR_GerIndustrialProduction;20130308;11:00;Industrial Production s.a. (MoM);Germany;EUR;1
+EUR_GreConsumerPriceIndex;20130308;10:00;Consumer Price Index (YoY);Greece;EUR;1
+GBP_ConsumerInflationExpectations;20130308;09:30;Consumer Inflation Expectations;United Kingdom;GBP;2
+ISK_GrossDomesticProduct;20130308;09:00;Gross Domestic Product (QoQ);Iceland;ISK;1
+SEK_IndustrialProduction;20130308;08:30;Industrial Production (YoY);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20130308;08:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+CHF_ConsumerPriceIndex;20130308;08:15;Consumer Price Index (YoY);Switzerland;CHF;2
+CZK_UnemploymentRate;20130308;08:00;Unemployment Rate;Czech Republic;CZK;1
+TRY_IndustrialProduction;20130308;08:00;Industrial Production (YoY);Turkey;TRY;1
+EUR_AusGrossDomesticProduct;20130308;08:00;Gross Domestic Product (QoQ);Austria;EUR;1
+EUR_SpaIndustrialOutputCalAdjusted;20130308;08:00;Industrial Output Cal Adjusted (YoY);Spain;EUR;1
+EUR_AusTradeBalance;20130308;08:00;Trade Balance;Austria;EUR;1
+HUF_GrossDomesticProduct;20130308;08:00;Gross Domestic Product (YoY);Hungary;HUF;1
+CZK_ForeignTradeBalance;20130308;08:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+EUR_FraBudget;20130308;07:45;Budget;France;EUR;1
+EUR_FinIndustrialOutput;20130308;07:00;Industrial Output (MoM);Finland;EUR;1
+JPY_EcoWatchersSurvey:Outlook;20130308;05:00;Eco Watchers Survey: Outlook;Japan;JPY;2
+JPY_EcoWatchersSurvey:Current;20130308;05:00;Eco Watchers Survey: Current;Japan;JPY;2
+JPY_BoJMonthlyEconomicSurvey;20130308;05:00;BoJ Monthly Economic Survey;Japan;JPY;2
+CNY_Imports;20130308;02:00;Imports (YoY);China;CNY;1
+CNY_Exports;20130308;02:00;Exports (YoY);China;CNY;1
+CNY_TradeBalanceUSD;20130308;02:00;Trade Balance USD;China;CNY;2
+RUB_WomenDay;20130308;00:00;Women Day;Russia;RUB;0

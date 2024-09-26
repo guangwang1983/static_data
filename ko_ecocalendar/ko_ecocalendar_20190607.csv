@@ -1,0 +1,62 @@
+AUD_HomeLoans;20190607;01:30;Home Loans;Australia;AUD;2
+AUD_InvestmentLendingforHomes;20190607;01:30;Investment Lending for Homes;Australia;AUD;2
+JPY_CentralBankSpeech;20190607;03:50;BoJ Governor Kuroda speech;Japan;JPY;3
+USD_CentralBankSpeech;20190607;04:00;Fed Daly speech;United States;USD;2
+JPY_CoincidentIndex;20190607;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20190607;05:00;Leading Economic Index;Japan;JPY;2
+CHF_UnemploymentRate;20190607;05:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+EUR_GerIndustrialProduction;20190607;06:00;Industrial Production n.s.a. w.d.a. (YoY);Germany;EUR;1
+DKK_TradeBalance;20190607;06:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20190607;06:00;Current Account;Denmark;DKK;1
+DKK_IndustrialProduction;20190607;06:00;Industrial Production (MoM);Denmark;DKK;1
+NOK_ManufacturingOutput;20190607;06:00;Manufacturing Output;Norway;NOK;1
+EUR_GerImports;20190607;06:00;Imports (MoM);Germany;EUR;1
+EUR_GerCurrentAccount;20190607;06:00;Current Account n.s.a.;Germany;EUR;1
+EUR_GerTradeBalance;20190607;06:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerExports;20190607;06:00;Exports (MoM);Germany;EUR;1
+ZAR_Gross$Gold&ForexReserve;20190607;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+ZAR_Net$Gold&ForexReserve;20190607;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+EUR_FraImportsEUR;20190607;06:45;Imports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20190607;06:45;Trade Balance EUR;France;EUR;1
+EUR_FraExportsEUR;20190607;06:45;Exports, EUR;France;EUR;1
+EUR_FraIndustrialOutput;20190607;06:45;Industrial Output (MoM);France;EUR;1
+EUR_FraCurrentAccount;20190607;06:45;Current Account;France;EUR;1
+CHF_ForeignCurrencyReserves;20190607;07:00;Foreign Currency Reserves;Switzerland;CHF;1
+HUF_ConsumerPriceIndex;20190607;07:00;Consumer Price Index (YoY);Hungary;HUF;1
+HUF_TradeBalance;20190607;07:00;Trade Balance;Hungary;HUF;1
+GBP_HalifaxHousePrices;20190607;07:30;Halifax House Prices (YoY/3m);United Kingdom;GBP;1
+EUR_ItaRetailSales;20190607;08:00;Retail Sales n.s.a (YoY);Italy;EUR;1
+CZK_FXReserves;20190607;08:00;FX Reserves;Czech Republic;CZK;1
+GBP_ConsumerInflationExpectations;20190607;08:30;Consumer Inflation Expectations;United Kingdom;GBP;1
+HUF_BudgetBalance;20190607;09:00;Budget Balance;Hungary;HUF;1
+CLP_ConsumerPriceIndex;20190607;10:00;Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+CLP_TradeBalance;20190607;11:00;Trade Balance;Chile;CLP;1
+INR_BankLoanGrowth;20190607;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20190607;11:30;FX Reserves, USD;India;INR;1
+BRL_IPCAInflation;20190607;12:00;IPCA Inflation;Brazil;BRL;1
+PLN_CentralBankFXReserves;20190607;12:00;Central Bank FX Reserves;Poland;PLN;1
+USD_NonfarmPayrolls;20190607;12:30;Nonfarm Payrolls;United States;USD;3
+USD_AverageWeeklyHours;20190607;12:30;Average Weekly Hours;United States;USD;1
+USD_AverageHourlyEarnings;20190607;12:30;Average Hourly Earnings (YoY);United States;USD;3
+USD_U6UnderemploymentRate;20190607;12:30;U6 Underemployment Rate;United States;USD;1
+USD_UnemploymentRate;20190607;12:30;Unemployment Rate;United States;USD;2
+USD_LaborForceParticipationRate;20190607;12:30;Labor Force Participation Rate;United States;USD;2
+CAD_CapacityUtilization;20190607;12:30;Capacity Utilization;Canada;CAD;1
+CAD_UnemploymentRate;20190607;12:30;Unemployment Rate;Canada;CAD;3
+CAD_ParticipationRate;20190607;12:30;Participation Rate;Canada;CAD;2
+CAD_AverageHourlyWages;20190607;12:30;Average Hourly Wages (YoY);Canada;CAD;2
+CAD_NetChangeinEmployment;20190607;12:30;Net Change in Employment;Canada;CAD;3
+MXN_HeadlineInflation;20190607;13:00;Headline Inflation;Mexico;MXN;1
+MXN_CoreInflation;20190607;13:00;Core Inflation;Mexico;MXN;1
+MXN_12MonthInflation;20190607;13:00;12-Month Inflation;Mexico;MXN;1
+USD_WholesaleInventories;20190607;14:00;Wholesale Inventories;United States;USD;1
+USD_BakerHughesUSOilRigCount;20190607;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_ConsumerCreditChange;20190607;19:00;Consumer Credit Change;United States;USD;1
+AUD_CFTCAUDNCNetPositions;20190607;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20190607;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+USD_CFTCS&P500NCNetPositions;20190607;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20190607;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20190607;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20190607;19:30;CFTC Gold NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20190607;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+CLP_BCCHInterestRate;20190607;21:00;BCCH Interest Rate;Chile;CLP;1

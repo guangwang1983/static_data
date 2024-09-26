@@ -1,0 +1,24 @@
+KRW_S&PGlobalManufacturingPMI;20200102;00:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+CNY_CaixinManufacturingPMI;20200102;01:45;Caixin Manufacturing PMI;China;CNY;3
+IDR_Inflation;20200102;04:00;Inflation (MoM);Indonesia;IDR;1
+IDR_CoreInflation;20200102;04:00;Core Inflation (YoY);Indonesia;IDR;1
+AUD_RBACommodityIndexSDR;20200102;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+SEK_PurchasingManagersIndexManufacturing;20200102;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+HUF_PurchasingManagerIndex;20200102;08:00;Purchasing Manager Index;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20200102;08:00;Purchasing Manager Index;Poland;PLN;2
+CZK_S&PGlobalPMI;20200102;08:30;S&P Global PMI;Czech Republic;CZK;1
+EUR_ItaHCOBManufacturingPMI;20200102;08:45;HCOB Manufacturing PMI;Italy;EUR;1
+EUR_FraHCOBManufacturingPMI;20200102;08:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerHCOBManufacturingPMI;20200102;08:55;HCOB Manufacturing PMI;Germany;EUR;2
+EUR_EurHCOBManufacturingPMI;20200102;09:00;HCOB Manufacturing PMI;European Monetary Union;EUR;1
+GBP_S&PGlobalCIPSManufacturingPMI;20200102;09:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+DKK_ManufacturingPMI;20200102;10:00;Manufacturing PMI;Denmark;DKK;1
+CLP_IMACEC;20200102;10:30;IMACEC;Chile;CLP;1
+USD_ChallengerJobCuts;20200102;12:30;Challenger Job Cuts;United States;USD;1
+BRL_S&PGlobalManufacturingPMI;20200102;13:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+USD_JoblessClaims;20200102;13:30;Continuing Jobless Claims;United States;USD;1
+CAD_S&PGlobalManufacturingPMI;20200102;14:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20200102;14:45;S&P Global Manufacturing PMI;United States;USD;2
+JPY_BankHoliday;20200102;15:00;Bank Holiday;Japan;JPY;0
+USD_Auction;20200102;16:30;4-Week Bill Auction;United States;USD;1
+BRL_TradeBalance;20200102;19:00;Trade Balance;Brazil;BRL;1

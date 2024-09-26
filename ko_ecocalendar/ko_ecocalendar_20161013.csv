@@ -1,0 +1,25 @@
+AUD_ConsumerInflationExpectations;20161013;00:00;Consumer Inflation Expectations;Australia;AUD;2
+KRW_BoKInterestRateDecision;20161013;00:58;BoK Interest Rate Decision;South Korea;KRW;1
+CNY_FDIForeignDirectInvestment;20161013;02:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+CNY_TradeBalanceCNY;20161013;02:30;Trade Balance CNY;China;CNY;2
+CNY_Imports;20161013;02:40;Imports (YoY);China;CNY;2
+CNY_TradeBalanceUSD;20161013;02:40;Trade Balance USD;China;CNY;2
+CNY_Exports;20161013;02:40;Exports (YoY);China;CNY;2
+JPY_TertiaryIndustryIndex;20161013;04:30;Tertiary Industry Index (MoM);Japan;JPY;2
+EUR_GerHarmonizedIndexofConsumerPrices;20161013;06:00;Harmonized Index of Consumer Prices (MoM);Germany;EUR;2
+EUR_GerConsumerPriceIndex;20161013;06:00;Consumer Price Index (MoM);Germany;EUR;2
+RUB_CentralBankReserves;20161013;11:00;Central Bank Reserves $;Russia;RUB;1
+USD_JoblessClaims;20161013;12:30;Continuing Jobless Claims;United States;USD;1
+USD_ImportPriceIndex;20161013;12:30;Import Price Index (YoY);United States;USD;2
+USD_ExportPriceIndex;20161013;12:30;Export Price Index (MoM);United States;USD;2
+CAD_NewHousingPriceIndex;20161013;12:30;New Housing Price Index (YoY);Canada;CAD;1
+USD_EIANaturalGasStorageChange;20161013;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_EIACrudeOilStocksChange;20161013;15:00;EIA Crude Oil Stocks Change;United States;USD;1
+USD_CentralBankSpeech;20161013;16:15;Fed Harker speech;United States;USD;2
+USD_Auction;20161013;17:00;30-Year Bond Auction;United States;USD;1
+KRW_ExportPriceGrowth;20161013;21:00;Export Price Growth (YoY);South Korea;KRW;1
+KRW_ImportPriceGrowth;20161013;21:00;Import Price Growth (YoY);South Korea;KRW;1
+JPY_ProducerPriceIndex;20161013;23:50;Producer Price Index (MoM);Japan;JPY;1
+JPY_MoneySupplyM2+CD;20161013;23:50;Money Supply M2+CD (YoY);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20161013;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20161013;23:50;Foreign Bond Investment;Japan;JPY;2

@@ -1,0 +1,34 @@
+KRW_TradeBalance;20240501;00:00;Trade Balance;South Korea;KRW;1
+JPY_JibunBankManufacturingPMI;20240501;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+BRL_LabourDay;20240501;03:00;Labour Day;Brazil;BRL;0
+CLP_LabourDay;20240501;04:00;Labour Day;Chile;CLP;0
+COP_LabourDay;20240501;05:00;Labour Day;Colombia;COP;0
+MXN_LabourDay;20240501;06:00;Labour Day ;Mexico;MXN;0
+GBP_NationwideHousingPrices;20240501;06:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;1
+AUD_RBACommodityIndexSDR;20240501;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+GBP_S&PGlobalCIPSManufacturingPMI;20240501;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;1
+GBP_Auction;20240501;09:00;10-y Bond Auction;United Kingdom;GBP;1
+USD_MBAMortgageApplications;20240501;11:00;MBA Mortgage Applications;United States;USD;1
+INR_M3MoneySupply;20240501;11:30;M3 Money Supply;India;INR;1
+ZAR_TotalNewVehicleSales;20240501;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+USD_ADPEmploymentChange;20240501;12:15;ADP Employment Change;United States;USD;3
+CAD_S&PGlobalManufacturingPMI;20240501;13:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20240501;13:45;S&P Global Manufacturing PMI;United States;USD;1
+USD_JOLTSJobOpenings;20240501;14:00;JOLTS Job Openings;United States;USD;2
+USD_ISMManufacturingPMI;20240501;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20240501;14:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ISMManufacturingNewOrdersIndex;20240501;14:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ISMManufacturingEmploymentIndex;20240501;14:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ConstructionSpending;20240501;14:00;Construction Spending (MoM);United States;USD;1
+USD_EIACrudeOilStocksChange;20240501;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_FedMonetaryPolicyStatement;20240501;18:00;Fed Monetary Policy Statement;United States;USD;3
+USD_FedInterestRateDecision;20240501;18:00;Fed Interest Rate Decision;United States;USD;3
+USD_FOMCPressConference;20240501;18:30;FOMC Press Conference;United States;USD;3
+USD_TotalVehicleSales;20240501;19:30;Total Vehicle Sales;United States;USD;1
+CAD_CentralBankSpeech;20240501;20:15;BoC Governor Macklem speech;Canada;CAD;3
+NZD_BuildingPermits;20240501;22:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+KRW_ConsumerPriceIndex;20240501;23:00;Consumer Price Index Growth (YoY);South Korea;KRW;1
+JPY_MonetaryBase;20240501;23:50;Monetary Base (YoY);Japan;JPY;1
+JPY_BoJMonetaryPolicyMeetingMinutes;20240501;23:50;BoJ Monetary Policy Meeting Minutes;Japan;JPY;2
+JPY_ForeignBondInvestment;20240501;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20240501;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1

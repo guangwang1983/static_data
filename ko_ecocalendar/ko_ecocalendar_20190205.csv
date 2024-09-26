@@ -1,0 +1,44 @@
+KRW_KoreanNewYear;20190205;00:00;Korean New Year ;South Korea;KRW;0
+CNY_ChineseNewYear;20190205;00:00;Chinese New Year;China;CNY;0
+NZD_ANZCommodityPrice;20190205;00:00;ANZ Commodity Price;New Zealand;NZD;1
+GBP_RetailSales;20190205;00:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+JPY_JibunBankServicesPMI;20190205;00:30;Jibun Bank Services PMI;Japan;JPY;1
+AUD_RetailSales;20190205;00:30;Retail Sales s.a. (MoM);Australia;AUD;2
+USD_CentralBankSpeech;20190205;00:30;Fed Mester speech;United States;USD;2
+AUD_Imports;20190205;00:30;Imports (MoM);Australia;AUD;2
+AUD_Exports;20190205;00:30;Exports (MoM);Australia;AUD;2
+AUD_TradeBalance;20190205;00:30;Trade Balance (MoM);Australia;AUD;2
+AUD_RBARateStatement;20190205;03:30;RBA Rate Statement;Australia;AUD;3
+AUD_RBAInterestRateDecision;20190205;03:30;RBA Interest Rate Decision;Australia;AUD;3
+JPY_Auction;20190205;03:35;10-y Bond Auction;Japan;JPY;1
+RUB_S&PGlobalServicesPMI;20190205;06:00;S&P Global Services PMI;Russia;RUB;1
+CZK_RetailSales;20190205;08:00;Retail Sales (YoY);Czech Republic;CZK;1
+HUF_RetailSales;20190205;08:00;Retail Sales (YoY);Hungary;HUF;1
+SEK_NewOrdersManufacturing;20190205;08:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+EUR_ItaHCOBServicesPMI;20190205;08:45;HCOB Services PMI;Italy;EUR;1
+EUR_FraHCOBServicesPMI;20190205;08:50;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20190205;08:50;HCOB Composite PMI;France;EUR;1
+EUR_GerHCOBServicesPMI;20190205;08:55;HCOB Services PMI;Germany;EUR;1
+EUR_GerHCOBCompositePMI;20190205;08:55;HCOB Composite PMI;Germany;EUR;2
+EUR_EurHCOBServicesPMI;20190205;09:00;HCOB Services PMI;European Monetary Union;EUR;1
+EUR_EurHCOBCompositePMI;20190205;09:00;HCOB Composite PMI;European Monetary Union;EUR;2
+GBP_S&PGlobalCIPSServicesPMI;20190205;09:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;2
+EUR_EurRetailSales;20190205;10:00;Retail Sales (MoM);European Monetary Union;EUR;1
+CLP_IMACEC;20190205;11:30;IMACEC;Chile;CLP;1
+USD_RedbookIndex;20190205;13:55;Redbook Index (YoY);United States;USD;1
+USD_S&PGlobalServicesPMI;20190205;14:45;S&P Global Services PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20190205;14:45;S&P Global Composite PMI;United States;USD;2
+USD_ISMServicesEmploymentIndex;20190205;15:00;ISM Services Employment Index;United States;USD;2
+USD_ISMServicesPricesPaid;20190205;15:00;ISM Services Prices Paid;United States;USD;2
+USD_ISMServicesPMI;20190205;15:00;ISM Services PMI;United States;USD;3
+USD_ISMServicesNewOrdersIndex;20190205;15:00;ISM Services New Orders Index;United States;USD;2
+USD_IBDTIPPEconomicOptimism;20190205;15:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+USD_Auction;20190205;18:00;3-Year Note Auction;United States;USD;1
+USD_CFTCOilNCNetPositions;20190205;20:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20190205;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20190205;20:30;CFTC Gold NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20190205;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCS&P500NCNetPositions;20190205;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20190205;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20190205;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_APIWeeklyCrudeOilStock;20190205;21:30;API Weekly Crude Oil Stock;United States;USD;1

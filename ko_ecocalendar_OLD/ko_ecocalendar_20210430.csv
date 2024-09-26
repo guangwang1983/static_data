@@ -1,0 +1,95 @@
+EUR_PorLabourDay;20210430;23:00;Labour Day;Portugal;EUR;0
+ZAR_WorkersDay;20210430;22:00;Workers Day;South Africa;ZAR;0
+EUR_GerLabourDay;20210430;22:00;Labour Day;Germany;EUR;0
+EUR_FraLabourDay;20210430;22:00;Labour Day ;France;EUR;0
+HUF_Labourday;20210430;22:00;Labour day;Hungary;HUF;0
+CZK_LabourDay;20210430;22:00;Labour Day;Czech Republic;CZK;0
+NOK_LabourDay;20210430;22:00;Labour Day;Norway;NOK;0
+PLN_LabourDay;20210430;22:00;Labour Day ;Poland;PLN;0
+CHF_LabourDay;20210430;22:00;Labour Day;Switzerland;CHF;0
+EUR_ItaLabourDay;20210430;22:00;Labour Day ;Italy;EUR;0
+EUR_SpaLabourDay;20210430;22:00;Labour Day;Spain;EUR;0
+SEK_LabourDay;20210430;22:00;Labour Day;Sweden;SEK;0
+EUR_AusLabourDay;20210430;22:00;Labour Day;Austria;EUR;0
+EUR_SloLabourDay;20210430;22:00;Labour Day;Slovakia;EUR;0
+EUR_BelLabourDay;20210430;22:00;Labour Day;Belgium;EUR;0
+EUR_FinMayDay;20210430;22:00;May Day;Finland;EUR;0
+RUB_LabourDay;20210430;21:00;Labour Day;Russia;RUB;0
+RON_LaborDay;20210430;21:00;Labor Day;Romania;RON;0
+MXN_FiscalBalancepesos;20210430;21:00;Fiscal Balance, pesos;Mexico;MXN;1
+EUR_GreLabourDay;20210430;21:00;Labour Day;Greece;EUR;0
+TRY_LabourDay;20210430;21:00;Labour Day;Turkey;TRY;0
+COP_Interestrate;20210430;20:00;Interest rate;Colombia;COP;1
+AUD_CFTCAUDNCNetPositions;20210430;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCOilNCNetPositions;20210430;19:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20210430;19:30;CFTC Gold NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20210430;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCS&P500NCNetPositions;20210430;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20210430;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20210430;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+IDR_LabourDay;20210430;17:00;Labour Day;Indonesia;IDR;0
+USD_BakerHughesUSOilRigCount;20210430;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+SGD_Labourday;20210430;16:00;Labour day;Singapore;SGD;0
+COP_NationalJoblessRate;20210430;16:00;National Jobless Rate;Colombia;COP;1
+CNY_LabourDay;20210430;16:00;Labour Day;China;CNY;0
+HKD_LabourDay;20210430;16:00;Labour Day;Hong Kong SAR;HKD;0
+KRW_LabourDay;20210430;15:00;Labour Day ;South Korea;KRW;0
+USD_MichiganConsumerSentimentIndex;20210430;14:00;Michigan Consumer Sentiment Index;United States;USD;2
+USD_ChicagoPurchasingManagers'Index;20210430;13:45;Chicago Purchasing Managers' Index;United States;USD;2
+CLP_IndustrialProduction;20210430;13:00;Industrial Production (YoY);Chile;CLP;1
+USD_PersonalConsumptionExpendituresPriceIndex;20210430;12:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;1
+USD_PersonalSpending;20210430;12:30;Personal Spending;United States;USD;2
+USD_CorePersonalConsumptionExpenditurePriceIndex;20210430;12:30;Core Personal Consumption Expenditure - Price Index (MoM);United States;USD;2
+USD_PersonalIncome;20210430;12:30;Personal Income (MoM);United States;USD;2
+CAD_RawMaterialPriceIndex;20210430;12:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20210430;12:30;Industrial Product Price (MoM);Canada;CAD;1
+USD_EmploymentCostIndex;20210430;12:30;Employment Cost Index;United States;USD;1
+BRL_PrimaryBudgetSurplus;20210430;12:30;Primary Budget Surplus;Brazil;BRL;1
+BRL_NominalBudgetBalance;20210430;12:30;Nominal Budget Balance;Brazil;BRL;1
+CAD_GrossDomesticProduct;20210430;12:30;Gross Domestic Product (MoM);Canada;CAD;2
+BRL_UnemploymentRate;20210430;12:00;Unemployment Rate;Brazil;BRL;1
+INR_InfrastructureOutput;20210430;12:00;Infrastructure Output (YoY);India;INR;1
+ZAR_TradeBalance;20210430;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+INR_FederalFiscalDeficitINR;20210430;11:30;Federal Fiscal Deficit, INR;India;INR;1
+INR_FXReservesUSD;20210430;11:30;FX Reserves, USD;India;INR;1
+CLP_Unemploymentrate;20210430;11:00;Unemployment rate;Chile;CLP;1
+EUR_EurGrossDomesticProduct;20210430;09:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+EUR_EurUnemploymentRate;20210430;09:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_EurConsumerPriceIndex;20210430;09:00;Consumer Price Index (YoY);European Monetary Union;EUR;3
+EUR_ItaConsumerPriceIndex;20210430;09:00;Consumer Price Index (MoM);Italy;EUR;1
+EUR_PorGrossDomesticProduct;20210430;08:30;Gross Domestic Product (YoY);Portugal;EUR;1
+EUR_PorConsumerPriceIndex;20210430;08:30;Consumer Price Index (YoY);Portugal;EUR;1
+TRY_ForeignArrivals;20210430;08:00;Foreign Arrivals;Turkey;TRY;1
+EUR_ItaGrossDomesticProduct;20210430;08:00;Gross Domestic Product (YoY);Italy;EUR;2
+CHF_CentralBankSpeech;20210430;08:00;SNB Chairman Jordan speech;Switzerland;CHF;3
+EUR_GerGrossDomesticProduct;20210430;08:00;Gross Domestic Product (YoY);Germany;EUR;2
+NOK_RegisteredUnemployment;20210430;08:00;Registered Unemployment s.a;Norway;NOK;1
+EUR_SpaCurrentAccount;20210430;08:00;Current Account Balance;Spain;EUR;1
+CHF_KOFLeadingIndicator;20210430;07:00;KOF Leading Indicator;Switzerland;CHF;2
+TRY_TradeBalance;20210430;07:00;Trade Balance;Turkey;TRY;1
+EUR_AusGrossDomesticProduct;20210430;07:00;Gross Domestic Product (QoQ);Austria;EUR;1
+EUR_ItaUnemployment;20210430;07:00;Unemployment;Italy;EUR;2
+HUF_ProducerPriceIndex;20210430;07:00;Producer Price Index (YoY);Hungary;HUF;1
+EUR_SpaRetailSales;20210430;07:00;Retail Sales (YoY);Spain;EUR;1
+EUR_SpaGrossDomesticProduct;20210430;07:00;Gross Domestic Product - Estimated (QoQ);Spain;EUR;1
+CZK_GrossDomesticProduct;20210430;07:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+EUR_AusProducerPriceIndex;20210430;07:00;Producer Price Index (MoM);Austria;EUR;1
+EUR_FraProducerPrices;20210430;06:45;Producer Prices (MoM);France;EUR;1
+EUR_FraConsumerPriceIndex;20210430;06:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraConsumerSpending;20210430;06:45;Consumer Spending (MoM);France;EUR;1
+CHF_RetailSales;20210430;06:30;Real Retail Sales (YoY);Switzerland;CHF;2
+EUR_GerImportPriceIndex;20210430;06:00;Import Price Index (MoM);Germany;EUR;1
+NOK_CreditIndicator;20210430;06:00;Credit Indicator;Norway;NOK;1
+ZAR_PrivateSectorCredit;20210430;06:00;Private Sector Credit;South Africa;ZAR;1
+ZAR_M3MoneySupply;20210430;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+EUR_FraGrossDomesticProduct;20210430;05:30;Gross Domestic Product (QoQ);France;EUR;2
+JPY_ConstructionOrders;20210430;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_HousingStarts;20210430;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_AnnualizedHousingStarts;20210430;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_ConsumerConfidenceIndex;20210430;05:00;Consumer Confidence Index;Japan;JPY;1
+EUR_NetRetailSales;20210430;04:30;Retail Sales (YoY);Netherlands, The;EUR;1
+AUD_PrivateSectorCredit;20210430;01:30;Private Sector Credit (YoY);Australia;AUD;1
+AUD_ProducerPriceIndex;20210430;01:30;Producer Price Index (YoY);Australia;AUD;1
+CNY_NBSManufacturingPMI;20210430;01:00;NBS Manufacturing PMI;China;CNY;3
+CNY_NonManufacturingPMI;20210430;01:00;Non-Manufacturing PMI;China;CNY;3
+JPY_JibunBankManufacturingPMI;20210430;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1

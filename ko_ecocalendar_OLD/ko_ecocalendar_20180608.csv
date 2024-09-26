@@ -1,0 +1,47 @@
+JPY_CFTCJPYNCNetPositions;20180608;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCUSDNCNetPositions;20180608;19:30;CFTC USD NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20180608;19:30;CFTC Gold NC Net Positions;United States;USD;1
+AUD_CFTCAUDNCNetPositions;20180608;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCOilNCNetPositions;20180608;19:30;CFTC Oil NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20180608;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+GBP_CFTCGBPNCNetPositions;20180608;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_BakerHughesUSOilRigCount;20180608;17:00;Baker Hughes US Oil Rig Count;United States;USD;2
+USD_IBDTIPPEconomicOptimism;20180608;14:51;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+USD_WholesaleInventories;20180608;14:00;Wholesale Inventories;United States;USD;1
+BRL_IPCAInflation;20180608;13:00;IPCA Inflation;Brazil;BRL;1
+RUB_ForeignTrade;20180608;13:00;Foreign Trade;Russia;RUB;1
+CAD_CapacityUtilization;20180608;12:30;Capacity Utilization;Canada;CAD;1
+CAD_UnemploymentRate;20180608;12:30;Unemployment Rate;Canada;CAD;3
+CAD_ParticipationRate;20180608;12:30;Participation Rate;Canada;CAD;2
+CAD_NetChangeinEmployment;20180608;12:30;Net Change in Employment;Canada;CAD;3
+CAD_AverageHourlyWages;20180608;12:30;Average Hourly Wages (YoY);Canada;CAD;2
+CAD_HousingStarts;20180608;12:15;Housing Starts s.a (YoY);Canada;CAD;2
+INR_BankLoanGrowth;20180608;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20180608;11:30;FX Reserves, USD;India;INR;1
+CLP_ConsumerPriceIndex;20180608;11:00;Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+EUR_PorGlobalTradeBalance;20180608;10:00;Global Trade Balance;Portugal;EUR;1
+EUR_AusTradeBalance;20180608;10:00;Trade Balance;Austria;EUR;1
+ISK_GrossDomesticProduct;20180608;09:00;Gross Domestic Product (YoY);Iceland;ISK;1
+EUR_GreIndustrialProduction;20180608;09:00;Industrial Production (YoY);Greece;EUR;1
+EUR_GreConsumerPriceIndex;20180608;09:00;Consumer Price Index - Harmonized (YoY);Greece;EUR;1
+GBP_ConsumerInflationExpectations;20180608;08:30;Consumer Inflation Expectations;United Kingdom;GBP;1
+EUR_EurCentralBankSpeech;20180608;08:15;ECB Mersch speech;European Monetary Union;EUR;2
+EUR_SloForeignTradeBalance;20180608;07:00;Foreign Trade Balance;Slovakia;EUR;1
+CZK_UnemploymentRate;20180608;07:00;Unemployment Rate;Czech Republic;CZK;1
+HUF_ConsumerPriceIndex;20180608;07:00;Consumer Price Index (YoY);Hungary;HUF;1
+HUF_TradeBalance;20180608;07:00;Trade Balance;Hungary;HUF;1
+EUR_FraIndustrialOutput;20180608;06:45;Industrial Output (MoM);France;EUR;1
+EUR_FinIndustrialOutput;20180608;06:00;Industrial Output (MoM);Finland;EUR;1
+EUR_GerIndustrialProduction;20180608;06:00;Industrial Production s.a. (MoM);Germany;EUR;1
+EUR_GerCurrentAccount;20180608;06:00;Current Account n.s.a.;Germany;EUR;1
+EUR_GerExports;20180608;06:00;Exports (MoM);Germany;EUR;1
+EUR_GerTradeBalance;20180608;06:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerImports;20180608;06:00;Imports (MoM);Germany;EUR;1
+JPY_EcoWatchersSurvey:Outlook;20180608;05:00;Eco Watchers Survey: Outlook;Japan;JPY;1
+JPY_EcoWatchersSurvey:Current;20180608;05:00;Eco Watchers Survey: Current;Japan;JPY;1
+EUR_NetManufacturingOutput;20180608;04:30;Manufacturing Output (MoM);Netherlands, The;EUR;1
+CNY_Imports;20180608;03:30;Imports (YoY);China;CNY;2
+CNY_Exports;20180608;03:30;Exports (YoY);China;CNY;2
+CNY_TradeBalanceUSD;20180608;03:29;Trade Balance USD;China;CNY;2
+CNY_TradeBalanceCNY;20180608;03:19;Trade Balance CNY;China;CNY;2
+EUR_EurG7Meeting;20180608;00:00;G7 Meeting;European Monetary Union;EUR;3

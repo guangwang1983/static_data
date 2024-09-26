@@ -1,0 +1,41 @@
+USD_ConsumerCreditChange;20141205;20:00;Consumer Credit Change;United States;USD;2
+USD_CentralBankSpeech;20141205;19:45;Fed Stanley Fischer speech;United States;USD;2
+TRY_TreasuryCashBalance;20141205;15:30;Treasury Cash Balance;Turkey;TRY;1
+MXN_CentralBankInterestRate;20141205;15:00;Central Bank Interest Rate;Mexico;MXN;1
+USD_FactoryOrders;20141205;15:00;Factory Orders (MoM);United States;USD;2
+MXN_ConsumerConfidence;20141205;14:00;Consumer Confidence s.a;Mexico;MXN;1
+CAD_LaborProductivity;20141205;13:30;Labor Productivity (QoQ);Canada;CAD;1
+USD_AverageHourlyEarnings;20141205;13:30;Average Hourly Earnings (MoM);United States;USD;1
+USD_NonfarmPayrolls;20141205;13:30;Nonfarm Payrolls;United States;USD;3
+USD_UnemploymentRate;20141205;13:30;Unemployment Rate;United States;USD;3
+USD_LaborForceParticipationRate;20141205;13:30;Labor Force Participation Rate;United States;USD;2
+USD_AverageWeeklyHours;20141205;13:30;Average Weekly Hours;United States;USD;2
+USD_TradeBalance;20141205;13:30;Trade Balance;United States;USD;2
+CAD_Imports;20141205;13:30;Imports;Canada;CAD;1
+CAD_Exports;20141205;13:30;Exports;Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20141205;13:30;International Merchandise Trade;Canada;CAD;1
+CAD_ParticipationRate;20141205;13:30;Participation Rate;Canada;CAD;1
+CAD_NetChangeinEmployment;20141205;13:30;Net Change in Employment;Canada;CAD;3
+CAD_UnemploymentRate;20141205;13:30;Unemployment Rate;Canada;CAD;3
+PLN_CentralBankFXReserves;20141205;13:00;Central Bank FX Reserves;Poland;PLN;1
+BRL_IPCAInflation;20141205;12:00;IPCA Inflation;Brazil;BRL;1
+INR_FXReservesUSD;20141205;11:30;FX Reserves, USD;India;INR;1
+CLP_IMACEC;20141205;11:30;IMACEC;Chile;CLP;1
+EUR_EurGrossDomesticProduct;20141205;10:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+GBP_ConsumerInflationExpectations;20141205;09:30;Consumer Inflation Expectations;United Kingdom;GBP;3
+ISK_GrossDomesticProduct;20141205;09:00;Gross Domestic Product (QoQ);Iceland;ISK;1
+NOK_ManufacturingOutput;20141205;09:00;Manufacturing Output;Norway;NOK;1
+SEK_IndustrialProduction;20141205;08:30;Industrial Production (YoY);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20141205;08:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+EUR_AusWholesalePrices;20141205;08:00;Wholesale Prices n.s.a (MoM);Austria;EUR;1
+CZK_RetailSales;20141205;08:00;Retail Sales (YoY);Czech Republic;CZK;1
+CHF_ForeignCurrencyReserves;20141205;08:00;Foreign Currency Reserves;Switzerland;CHF;1
+EUR_SpaIndustrialOutputCalAdjusted;20141205;08:00;Industrial Output Cal Adjusted (YoY);Spain;EUR;1
+DKK_IndustrialProduction;20141205;08:00;Industrial Production (MoM);Denmark;DKK;1
+EUR_AusTradeBalance;20141205;08:00;Trade Balance;Austria;EUR;1
+EUR_FinGrossDomesticProduct;20141205;07:00;Gross Domestic Product Qtr Prelim (YoY);Finland;EUR;1
+EUR_GerFactoryOrders;20141205;07:00;Factory Orders s.a. (MoM);Germany;EUR;1
+ZAR_Net$Gold&ForexReserve;20141205;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+ZAR_Gross$Gold&ForexReserve;20141205;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+JPY_CoincidentIndex;20141205;05:00;Coincident Index;Japan;JPY;2
+JPY_LeadingEconomicIndex;20141205;05:00;Leading Economic Index;Japan;JPY;2

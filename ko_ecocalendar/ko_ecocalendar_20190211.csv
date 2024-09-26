@@ -1,0 +1,28 @@
+EUR_EurEurogroupMeeting;20190211;00:00;Eurogroup Meeting;European Monetary Union;EUR;2
+NOK_ConsumerPriceIndex;20190211;07:00;Consumer Price Index (MoM);Norway;NOK;1
+NOK_CoreInflation;20190211;07:00;Core Inflation (MoM);Norway;NOK;1
+RON_TradeBalance;20190211;07:00;Trade Balance;Romania;RON;1
+DKK_Inflation;20190211;07:00;Inflation (HICP) (YoY);Denmark;DKK;1
+DKK_ConsumerPriceIndex;20190211;07:00;Consumer Price Index (YoY);Denmark;DKK;1
+NOK_ProducerPriceIndex;20190211;07:00;Producer Price Index (YoY);Norway;NOK;1
+CHF_ConsumerPriceIndex;20190211;07:30;Consumer Price Index (YoY);Switzerland;CHF;2
+SEK_IndustrialProductionValue;20190211;08:30;Industrial Production Value (YoY);Sweden;SEK;1
+IDR_RetailSales;20190211;09:00;Retail Sales (YoY);Indonesia;IDR;1
+CNY_ForeignExchangeReserves;20190211;09:00;Foreign Exchange Reserves (MoM);China;CNY;1
+GBP_GrossDomesticProduct;20190211;09:30;Gross Domestic Product (YoY);United Kingdom;GBP;2
+GBP_ManufacturingProduction;20190211;09:30;Manufacturing Production (YoY);United Kingdom;GBP;2
+GBP_IndustrialProduction;20190211;09:30;Industrial Production (MoM);United Kingdom;GBP;2
+GBP_TotalBusinessInvestment;20190211;09:30;Total Business Investment (YoY);United Kingdom;GBP;1
+GBP_IndexofServices;20190211;09:30;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20190211;09:30;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20190211;09:30;Total Trade Balance;United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20190211;09:30;Goods Trade Balance;United Kingdom;GBP;1
+RUB_BudgetFulfilment;20190211;12:00;Budget Fulfilment;Russia;RUB;1
+INR_TradeDeficitGovernment;20190211;12:00;Trade Deficit Government;India;INR;1
+RUB_ForeignTrade;20190211;13:00;Foreign Trade;Russia;RUB;1
+GBP_NIESRGDPEstimate;20190211;13:30;NIESR GDP Estimate (3M);United Kingdom;GBP;1
+MXN_IndustrialOutput;20190211;14:00;Industrial Output (YoY);Mexico;MXN;1
+USD_CentralBankSpeech;20190211;16:15;Fed Bowman speech;United States;USD;2
+USD_Auction;20190211;16:30;3-Month Bill Auction;United States;USD;1
+NZD_RetailSales;20190211;21:45;Electronic Card Retail Sales  (MoM);New Zealand;NZD;1
+JPY_MoneySupplyM2+CD;20190211;23:50;Money Supply M2+CD (YoY);Japan;JPY;1

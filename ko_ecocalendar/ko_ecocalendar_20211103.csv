@@ -1,0 +1,31 @@
+AUD_BuildingPermits;20211103;00:30;Building Permits (YoY);Australia;AUD;1
+CNY_CaixinServicesPMI;20211103;01:45;Caixin Services PMI;China;CNY;2
+RUB_S&PGlobalServicesPMI;20211103;06:00;S&P Global Services PMI;Russia;RUB;1
+TRY_ProducerPriceIndex;20211103;07:00;Producer Price Index (MoM);Turkey;TRY;1
+GBP_NationwideHousingPrices;20211103;07:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;1
+TRY_ConsumerPriceIndex;20211103;07:00;Consumer Price Index (MoM);Turkey;TRY;1
+EUR_FraBudgetBalance;20211103;07:45;Budget Balance;France;EUR;1
+BRL_FipeIPCInflation;20211103;08:00;Fipe IPC Inflation;Brazil;BRL;1
+EUR_ItaUnemployment;20211103;09:00;Unemployment;Italy;EUR;2
+GBP_S&PGlobalCIPSCompositePMI;20211103;09:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSServicesPMI;20211103;09:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;1
+EUR_EurUnemploymentRate;20211103;10:00;Unemployment Rate;European Monetary Union;EUR;2
+USD_MBAMortgageApplications;20211103;11:00;MBA Mortgage Applications;United States;USD;1
+INR_M3MoneySupply;20211103;11:42;M3 Money Supply;India;INR;1
+USD_ADPEmploymentChange;20211103;12:15;ADP Employment Change;United States;USD;3
+USD_S&PGlobalServicesPMI;20211103;13:45;S&P Global Services PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20211103;13:45;S&P Global Composite PMI;United States;USD;2
+USD_ISMServicesPricesPaid;20211103;14:00;ISM Services Prices Paid;United States;USD;2
+USD_ISMServicesEmploymentIndex;20211103;14:00;ISM Services Employment Index;United States;USD;2
+USD_ISMServicesNewOrdersIndex;20211103;14:00;ISM Services New Orders Index;United States;USD;2
+USD_ISMServicesPMI;20211103;14:00;ISM Services PMI;United States;USD;3
+USD_FactoryOrders;20211103;14:00;Factory Orders (MoM);United States;USD;2
+USD_EIACrudeOilStocksChange;20211103;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+EUR_EurCentralBankSpeech;20211103;14:30;ECB Elderson speech;European Monetary Union;EUR;2
+RUB_ConsumerPriceIndex;20211103;16:00;Consumer Price Index (MoM);Russia;RUB;1
+BRL_TradeBalance;20211103;18:00;Trade Balance;Brazil;BRL;1
+USD_FedMonetaryPolicyStatement;20211103;18:00;Fed Monetary Policy Statement;United States;USD;3
+USD_FedInterestRateDecision;20211103;18:00;Fed Interest Rate Decision;United States;USD;3
+USD_FOMCPressConference;20211103;18:30;FOMC Press Conference;United States;USD;3
+INR_Deewali;20211103;18:30;Deewali;India;INR;0
+RUB_DayofUnity;20211103;21:00;Day of Unity ;Russia;RUB;0

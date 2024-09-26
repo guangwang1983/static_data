@@ -1,0 +1,37 @@
+JPY_ForeignBondInvestment;20170118;23:50;Foreign Bond Investment;Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20170118;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+NZD_BuildingPermits;20170118;21:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+NZD_BusinessNZPMI;20170118;21:30;Business NZ PMI;New Zealand;NZD;2
+USD_APIWeeklyCrudeOilStock;20170118;21:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_NetLongTermTICFlows;20170118;21:00;Net Long-Term TIC Flows;United States;USD;1
+USD_TotalNetTICFlows;20170118;21:00;Total Net TIC Flows;United States;USD;1
+KRW_ProducerPriceIndex;20170118;21:00;Producer Price Index Growth (YoY);South Korea;KRW;1
+COP_RetailSales;20170118;20:00;Retail Sales (YoY);Colombia;COP;1
+COP_Industrialouput;20170118;20:00;Industrial ouput (YoY);Colombia;COP;1
+USD_CentralBankSpeech;20170118;20:00;Fed Chair Yellen speech;United States;USD;2
+USD_FedBeigeBook;20170118;19:00;Fed Beige Book;United States;USD;2
+CAD_BoCPressConference;20170118;16:15;BoC Press Conference;Canada;CAD;3
+CAD_BankofCanadaMonetaryPolicyReport;20170118;15:00;Bank of Canada Monetary Policy Report;Canada;CAD;3
+CAD_BoCInterestRateDecision;20170118;15:00;BoC Interest Rate Decision;Canada;CAD;3
+CAD_BoCRateStatement;20170118;15:00;BoC Rate Statement;Canada;CAD;3
+USD_NAHBHousingMarketIndex;20170118;15:00;NAHB Housing Market Index;United States;USD;2
+USD_IndustrialProduction;20170118;14:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20170118;14:15;Capacity Utilization;United States;USD;2
+USD_RedbookIndex;20170118;13:55;Redbook Index (MoM);United States;USD;1
+USD_ConsumerPriceIndex;20170118;13:30;Consumer Price Index n.s.a (MoM);United States;USD;1
+PLN_CorporateSectorWages;20170118;13:00;Corporate Sector Wages;Poland;PLN;1
+USD_MBAMortgageApplications;20170118;12:00;MBA Mortgage Applications;United States;USD;1
+ZAR_RetailSales;20170118;11:00;Retail Sales (YoY);South Africa;ZAR;1
+EUR_EurConsumerPriceIndex;20170118;10:00;Consumer Price Index (YoY);European Monetary Union;EUR;2
+EUR_EurConstructionOutput;20170118;10:00;Construction Output  s.a (MoM);European Monetary Union;EUR;1
+GBP_AverageEarningsExcludingBonus;20170118;09:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_AverageEarningsIncludingBonus;20170118;09:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountRate;20170118;09:30;Claimant Count Rate;United Kingdom;GBP;2
+GBP_ClaimantCountChange;20170118;09:30;Claimant Count Change;United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20170118;09:30;ILO Unemployment Rate (3M);United Kingdom;GBP;2
+ZAR_ConsumerPriceIndex;20170118;08:00;Consumer Price Index (MoM);South Africa;ZAR;1
+EUR_AusHICP;20170118;08:00;HICP (YoY);Austria;EUR;1
+EUR_GerConsumerPriceIndex;20170118;07:00;Consumer Price Index (MoM);Germany;EUR;2
+EUR_GerHarmonizedIndexofConsumerPrices;20170118;07:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;2
+CNY_HousePriceIndex;20170118;01:36;House Price Index ;China;CNY;1
+CHF_WorldEconomicForumDavos;20170118;00:00;World Economic Forum - Davos;Switzerland;CHF;2

@@ -1,0 +1,47 @@
+USD_CentralBankSpeech;20140530;21:00;Fed Williams speech;United States;USD;1
+COP_NationalJoblessRate;20140530;17:00;National Jobless Rate;Colombia;COP;1
+USD_MichiganConsumerSentimentIndex;20140530;13:55;Michigan Consumer Sentiment Index;United States;USD;2
+USD_ChicagoPurchasingManagers'Index;20140530;13:45;Chicago Purchasing Managers' Index;United States;USD;2
+BRL_NominalBudgetBalance;20140530;13:30;Nominal Budget Balance;Brazil;BRL;1
+BRL_PrimaryBudgetSurplus;20140530;13:30;Primary Budget Surplus;Brazil;BRL;1
+MXN_FiscalBalancepesos;20140530;13:00;Fiscal Balance, pesos;Mexico;MXN;1
+CLP_Unemploymentrate;20140530;13:00;Unemployment rate;Chile;CLP;1
+USD_PersonalConsumptionExpendituresPriceIndex;20140530;12:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;2
+USD_PersonalSpending;20140530;12:30;Personal Spending;United States;USD;2
+USD_CorePersonalConsumptionExpenditurePriceIndex;20140530;12:30;Core Personal Consumption Expenditure - Price Index (YoY);United States;USD;2
+USD_PersonalIncome;20140530;12:30;Personal Income (MoM);United States;USD;2
+CAD_RawMaterialPriceIndex;20140530;12:30;Raw Material Price Index;Canada;CAD;2
+CAD_IndustrialProductPrice;20140530;12:30;Industrial Product Price (MoM);Canada;CAD;2
+CAD_GrossDomesticProduct;20140530;12:30;Gross Domestic Product Annualized (QoQ);Canada;CAD;3
+BRL_GrossDomesticProduct;20140530;12:00;Gross Domestic Product (YoY);Brazil;BRL;1
+INR_GrossDomesticProduct;20140530;12:00;Gross Domestic Product Quarterly (YoY);India;INR;1
+ZAR_TradeBalance;20140530;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+CLP_IndustrialProduction;20140530;12:00;Industrial Production (YoY);Chile;CLP;1
+INR_BankLoanGrowth;20140530;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20140530;11:30;FX Reserves, USD;India;INR;1
+INR_FederalFiscalDeficitINR;20140530;10:30;Federal Fiscal Deficit, INR;India;INR;1
+INR_M3MoneySupply;20140530;09:30;M3 Money Supply;India;INR;1
+EUR_ItaConsumerPriceIndex;20140530;09:00;Consumer Price Index (YoY);Italy;EUR;1
+EUR_GreRetailSales;20140530;09:00;Retail Sales (YoY);Greece;EUR;1
+EUR_GreProducerPriceIndex;20140530;09:00;Producer Price Index (YoY);Greece;EUR;1
+INR_InfrastructureOutput;20140530;08:30;Infrastructure Output (YoY);India;INR;1
+EUR_ItaProducerPriceIndex;20140530;08:00;Producer Price Index (MoM);Italy;EUR;1
+PLN_GrossDomesticProduct;20140530;08:00;Gross Domestic Product Qtr (YoY);Poland;PLN;1
+CZK_M2MoneySupply;20140530;08:00;M2 Money Supply (YoY);Czech Republic;CZK;1
+EUR_AusPurchasingManagerIndex;20140530;08:00;Purchasing Manager Index;Austria;EUR;1
+EUR_SpaCurrentAccount;20140530;08:00;Current Account Balance;Spain;EUR;1
+SEK_GrossDomesticProduct;20140530;07:30;Gross Domestic Product (QoQ);Sweden;SEK;1
+CHF_KOFLeadingIndicator;20140530;07:00;KOF Leading Indicator;Switzerland;CHF;2
+EUR_SpaHICP;20140530;07:00;HICP (YoY);Spain;EUR;1
+TRY_TradeBalance;20140530;07:00;Trade Balance;Turkey;TRY;1
+DKK_GrossDomesticProduct;20140530;07:00;Gross Domestic Product (QoQ);Denmark;DKK;1
+EUR_AusProducerPriceIndex;20140530;07:00;Producer Price Index (MoM);Austria;EUR;1
+EUR_GerRetailSales;20140530;06:00;Retail Sales (YoY);Germany;EUR;2
+ZAR_PrivateSectorCredit;20140530;06:00;Private Sector Credit;South Africa;ZAR;1
+ZAR_M3MoneySupply;20140530;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+JPY_HousingStarts;20140530;05:00;Housing Starts (YoY);Japan;JPY;2
+JPY_AnnualizedHousingStarts;20140530;05:00;Annualized Housing Starts;Japan;JPY;2
+JPY_ConstructionOrders;20140530;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_VehicleProduction;20140530;04:00;Vehicle Production (YoY);Japan;JPY;1
+NZD_M3MoneySupply;20140530;03:00;M3 Money Supply (YoY);New Zealand;NZD;1
+AUD_PrivateSectorCredit;20140530;01:30;Private Sector Credit (YoY);Australia;AUD;1

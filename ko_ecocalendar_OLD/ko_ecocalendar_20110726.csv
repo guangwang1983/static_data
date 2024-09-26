@@ -1,0 +1,23 @@
+KRW_GrossDomesticProduct;20110726;23:00;Gross Domestic Product Growth (YoY);South Korea;KRW;1
+KRW_BOKManufacturingBSI;20110726;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+USD_ConsumerConfidence;20110726;14:00;Consumer Confidence;United States;USD;2
+USD_NewHomeSales;20110726;14:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20110726;14:00;New Home Sales Change (MoM);United States;USD;2
+USD_RichmondFedManufacturingIndex;20110726;14:00;Richmond Fed Manufacturing Index;United States;USD;2
+BRL_CurrentAccount;20110726;13:30;Current Account;Brazil;BRL;1
+USD_S&PCaseShillerHomePriceIndices;20110726;13:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;1
+MXN_TradeBalance;20110726;13:00;Trade Balance, $;Mexico;MXN;1
+MXN_TradeBalancesa;20110726;13:00;Trade Balance s/a, $;Mexico;MXN;1
+HUF_MNBInterestRateDecision;20110726;12:00;MNB Interest Rate Decision;Hungary;HUF;1
+GBP_GrossDomesticProduct;20110726;08:30;Gross Domestic Product (YoY);United Kingdom;GBP;2
+GBP_IndexofServices;20110726;08:30;Index of Services (3M/3M);United Kingdom;GBP;1
+PLN_Unemployment;20110726;08:00;Unemployment (MoM);Poland;PLN;1
+PLN_RetailSales;20110726;08:00;Retail Sales (YoY);Poland;PLN;1
+SEK_ProducerPriceIndex;20110726;07:30;Producer Price Index (MoM);Sweden;SEK;1
+HUF_RetailSales;20110726;07:00;Retail Sales (YoY);Hungary;HUF;1
+EUR_FraConsumerConfidence;20110726;06:45;Consumer Confidence;France;EUR;1
+EUR_GerGfkConsumerConfidenceSurvey;20110726;06:00;Gfk Consumer Confidence Survey;Germany;EUR;1
+CHF_UBSConsumptionIndicator;20110726;06:00;UBS Consumption Indicator;Switzerland;CHF;2
+AUD_CentralBankSpeech;20110726;04:00;RBA Governor Stevens speech;Australia;AUD;3
+INR_RBIInterestRateDecision;20110726;01:30;RBI Interest Rate Decision (Repo Rate);India;INR;1
+INR_ReverseRepoRate;20110726;00:00;Reverse Repo Rate;India;INR;0

@@ -1,0 +1,29 @@
+GBP_RetailSales;20220208;00:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+AUD_NationalAustraliaBankBusinessConditions;20220208;00:30;National Australia Bank Business Conditions;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConfidence;20220208;00:30;National Australia Bank Business Confidence;Australia;AUD;1
+NZD_CentralBankSpeech;20220208;02:15;RBNZ Governor Orr speech;New Zealand;NZD;3
+JPY_EcoWatchersSurvey:Outlook;20220208;05:00;Eco Watchers Survey: Outlook;Japan;JPY;1
+JPY_EcoWatchersSurvey:Current;20220208;05:00;Eco Watchers Survey: Current;Japan;JPY;1
+DKK_TradeBalance;20220208;07:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20220208;07:00;Current Account;Denmark;DKK;1
+DKK_IndustrialProduction;20220208;07:00;Industrial Production (MoM);Denmark;DKK;1
+SEK_IndustrialProductionValue;20220208;07:00;Industrial Production Value (MoM);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20220208;07:00;New Orders Manufacturing (YoY);Sweden;SEK;1
+HUF_TradeBalance;20220208;08:00;Trade Balance;Hungary;HUF;1
+CZK_UnemploymentRate;20220208;08:00;Unemployment Rate;Czech Republic;CZK;1
+CZK_RetailSales;20220208;08:00;Retail Sales (YoY);Czech Republic;CZK;1
+PLN_NBPBaserate;20220208;09:00;NBP Base rate;Poland;PLN;1
+CZK_FXReserves;20220208;09:00;FX Reserves;Czech Republic;CZK;1
+HUF_BudgetBalance;20220208;10:00;Budget Balance;Hungary;HUF;1
+USD_NFIBBusinessOptimismIndex;20220208;11:00;NFIB Business Optimism Index;United States;USD;1
+USD_GoodsandServicesTradeBalance;20220208;13:30;Goods and Services Trade Balance;United States;USD;2
+USD_GoodsTradeBalance;20220208;13:30;Goods Trade Balance;United States;USD;1
+CAD_InternationalMerchandiseTrade;20220208;13:30;International Merchandise Trade;Canada;CAD;2
+CAD_Exports;20220208;13:30;Exports;Canada;CAD;1
+CAD_Imports;20220208;13:30;Imports;Canada;CAD;1
+USD_RedbookIndex;20220208;13:55;Redbook Index (YoY);United States;USD;1
+USD_IBDTIPPEconomicOptimism;20220208;15:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+USD_Auction;20220208;18:00;3-Year Note Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20220208;21:30;API Weekly Crude Oil Stock;United States;USD;1
+AUD_WestpacConsumerConfidence;20220208;23:30;Westpac Consumer Confidence;Australia;AUD;2
+JPY_MoneySupplyM2+CD;20220208;23:50;Money Supply M2+CD (YoY);Japan;JPY;1

@@ -1,0 +1,17 @@
+SEK_RetailSales;20150728;07:30;Retail Sales (MoM);Sweden;SEK;1
+EUR_ItaBusinessConfidence;20150728;08:00;Business Confidence;Italy;EUR;1
+EUR_ItaConsumerConfidence;20150728;08:00;Consumer Confidence;Italy;EUR;1
+GBP_GrossDomesticProduct;20150728;08:30;Gross Domestic Product (YoY);United Kingdom;GBP;2
+GBP_IndexofServices;20150728;08:30;Index of Services (3M/3M);United Kingdom;GBP;1
+CAD_RawMaterialPriceIndex;20150728;12:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20150728;12:30;Industrial Product Price (MoM);Canada;CAD;0
+USD_RedbookIndex;20150728;12:55;Redbook Index (YoY);United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20150728;13:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;2
+USD_S&PGlobalServicesPMI;20150728;13:45;S&P Global Services PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20150728;13:45;S&P Global Composite PMI;United States;USD;2
+USD_ConsumerConfidence;20150728;14:00;Consumer Confidence;United States;USD;2
+USD_RichmondFedManufacturingIndex;20150728;14:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_Auction;20150728;17:00;2-Year Note Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20150728;21:30;API Weekly Crude Oil Stock;United States;USD;1
+JPY_LargeRetailerSales;20150728;23:50;Large Retailer Sales;Japan;JPY;2
+JPY_RetailTrade;20150728;23:50;Retail Trade s.a (MoM);Japan;JPY;2

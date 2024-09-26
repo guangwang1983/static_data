@@ -1,0 +1,11 @@
+USD_BusinessInventories;20080313;14:00;Business Inventories;United States;USD;1
+CHF_SNBInterestRateDecision;20080313;13:00;SNB Interest Rate Decision;Switzerland;CHF;3
+USD_RetailSales;20080313;12:30;Retail Sales ex Autos (MoM);United States;USD;3
+USD_JoblessClaims;20080313;12:30;Initial Jobless Claims;United States;USD;2
+USD_ImportPriceIndex;20080313;12:30;Import Price Index (MoM);United States;USD;2
+EUR_EurECBMonthlyReport;20080313;09:00;ECB Monthly Report;European Monetary Union;EUR;1
+JPY_IndustrialProduction;20080313;04:30;Industrial Production (MoM);Japan;JPY;1
+JPY_CapacityUtilization;20080313;04:30;Capacity Utilization;Japan;JPY;1
+JPY_TokyoCondominiumSales;20080313;04:00;Tokyo Condominium Sales (YoY);Japan;JPY;0
+AUD_UnemploymentRate;20080313;00:30;Unemployment Rate s.a.;Australia;AUD;2
+AUD_EmploymentChange;20080313;00:30;Employment Change s.a.;Australia;AUD;2

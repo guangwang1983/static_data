@@ -1,0 +1,26 @@
+USD_OPECMeeting;20170724;00:00;OPEC Meeting;United States;USD;1
+JPY_JibunBankManufacturingPMI;20170724;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+JPY_CoincidentIndex;20170724;05:00;Coincident Index;Japan;JPY;2
+JPY_LeadingEconomicIndex;20170724;05:00;Leading Economic Index;Japan;JPY;2
+EUR_FraHCOBCompositePMI;20170724;07:00;HCOB Composite PMI;France;EUR;1
+EUR_FraHCOBManufacturingPMI;20170724;07:00;HCOB Manufacturing PMI;France;EUR;1
+EUR_FraHCOBServicesPMI;20170724;07:00;HCOB Services PMI;France;EUR;1
+EUR_GerHCOBCompositePMI;20170724;07:30;HCOB Composite PMI;Germany;EUR;1
+EUR_GerHCOBManufacturingPMI;20170724;07:30;HCOB Manufacturing PMI;Germany;EUR;2
+EUR_GerHCOBServicesPMI;20170724;07:30;HCOB Services PMI;Germany;EUR;1
+EUR_ItaTradeBalancenonEU;20170724;08:00;Trade Balance non-EU;Italy;EUR;1
+EUR_EurHCOBCompositePMI;20170724;08:00;HCOB Composite PMI;European Monetary Union;EUR;2
+EUR_EurHCOBServicesPMI;20170724;08:00;HCOB Services PMI;European Monetary Union;EUR;2
+EUR_EurHCOBManufacturingPMI;20170724;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+EUR_GerGermanBubaMonthlyReport;20170724;10:00;German Buba Monthly Report;Germany;EUR;1
+CAD_WholesaleSales;20170724;12:30;Wholesale Sales (MoM);Canada;CAD;1
+MXN_1sthalfmonthCoreInflation;20170724;13:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20170724;13:00;1st half-month Inflation;Mexico;MXN;1
+USD_S&PGlobalManufacturingPMI;20170724;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20170724;13:45;S&P Global Services PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20170724;13:45;S&P Global Composite PMI;United States;USD;2
+USD_ExistingHomeSales;20170724;14:00;Existing Home Sales (MoM);United States;USD;1
+USD_ExistingHomeSalesChange;20170724;14:00;Existing Home Sales Change (MoM);United States;USD;1
+USD_Auction;20170724;15:30;3-Month Bill Auction;United States;USD;1
+KRW_ConsumerSentimentIndex;20170724;21:00;Consumer Sentiment Index;South Korea;KRW;1
+JPY_BoJMonetaryPolicyMeetingMinutes;20170724;23:50;BoJ Monetary Policy Meeting Minutes;Japan;JPY;3

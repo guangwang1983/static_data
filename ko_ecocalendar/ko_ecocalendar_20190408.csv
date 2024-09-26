@@ -1,0 +1,26 @@
+AUD_ANZJobAdvertisements;20190408;01:30;ANZ Job Advertisements;Australia;AUD;1
+JPY_ConsumerConfidenceIndex;20190408;05:00;Consumer Confidence Index;Japan;JPY;1
+JPY_EcoWatchersSurvey:Outlook;20190408;06:00;Eco Watchers Survey: Outlook;Japan;JPY;1
+JPY_EcoWatchersSurvey:Current;20190408;06:00;Eco Watchers Survey: Current;Japan;JPY;1
+RON_GrossDomesticProduct;20190408;06:00;Gross Domestic Product;Romania;RON;1
+EUR_GerExports;20190408;06:00;Exports (MoM);Germany;EUR;1
+EUR_GerTradeBalance;20190408;06:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerCurrentAccount;20190408;06:00;Current Account n.s.a.;Germany;EUR;1
+EUR_GerImports;20190408;06:00;Imports (MoM);Germany;EUR;1
+CZK_UnemploymentRate;20190408;07:00;Unemployment Rate;Czech Republic;CZK;1
+CZK_IndustrialProduction;20190408;07:00;Industrial Production (YoY);Czech Republic;CZK;1
+CZK_Constructionoutput;20190408;07:00;Construction output (YoY);Czech Republic;CZK;1
+HUF_TradeBalance;20190408;07:00;Trade Balance;Hungary;HUF;1
+CZK_ForeignTradeBalance;20190408;07:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+SEK_IndustrialProductionValue;20190408;07:30;Industrial Production Value (YoY);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20190408;07:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+EUR_EurSentixInvestorConfidence;20190408;08:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+HUF_BudgetBalance;20190408;09:00;Budget Balance;Hungary;HUF;1
+CLP_ConsumerPriceIndex;20190408;10:00;Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+CAD_HousingStarts;20190408;12:18;Housing Starts s.a (YoY);Canada;CAD;1
+CAD_BuildingPermits;20190408;12:30;Building Permits (MoM);Canada;CAD;1
+CLP_TradeBalance;20190408;12:30;Trade Balance;Chile;CLP;1
+ILS_BoIInterestRateDecision;20190408;13:00;BoI Interest Rate Decision;Israel;ILS;1
+USD_FactoryOrders;20190408;14:00;Factory Orders (MoM);United States;USD;2
+USD_Auction;20190408;15:30;6-Month Bill Auction;United States;USD;1
+GBP_RetailSales;20190408;23:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2

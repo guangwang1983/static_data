@@ -1,0 +1,29 @@
+CNY_TradeBalanceUSD;20190808;03:02;Trade Balance USD;China;CNY;2
+CNY_TradeBalanceCNY;20190808;03:06;Trade Balance CNY;China;CNY;1
+CNY_Exports;20190808;03:06;Exports (YoY) CNY;China;CNY;2
+CNY_Imports;20190808;03:06;Imports (YoY) CNY;China;CNY;2
+JPY_EcoWatchersSurvey:Current;20190808;05:00;Eco Watchers Survey: Current;Japan;JPY;1
+JPY_EcoWatchersSurvey:Outlook;20190808;05:00;Eco Watchers Survey: Outlook;Japan;JPY;1
+NOK_ManufacturingOutput;20190808;06:00;Manufacturing Output;Norway;NOK;1
+CZK_UnemploymentRate;20190808;07:00;Unemployment Rate;Czech Republic;CZK;1
+HUF_ConsumerPriceIndex;20190808;07:00;Consumer Price Index (YoY);Hungary;HUF;1
+HUF_TradeBalance;20190808;07:00;Trade Balance;Hungary;HUF;1
+EUR_EurEconomicBulletin;20190808;08:00;Economic Bulletin;European Monetary Union;EUR;2
+IDR_RetailSales;20190808;09:00;Retail Sales (YoY);Indonesia;IDR;1
+HUF_BudgetBalance;20190808;09:00;Budget Balance;Hungary;HUF;1
+MXN_CoreInflation;20190808;11:00;Core Inflation;Mexico;MXN;1
+MXN_12MonthInflation;20190808;11:00;12-Month Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20190808;11:00;Headline Inflation;Mexico;MXN;1
+ZAR_ManufacturingProductionIndex;20190808;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+BRL_IPCAInflation;20190808;12:00;IPCA Inflation;Brazil;BRL;1
+CLP_ConsumerPriceIndex;20190808;12:00;Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+USD_JoblessClaims;20190808;12:30;Continuing Jobless Claims;United States;USD;1
+CAD_NewHousingPriceIndex;20190808;12:30;New Housing Price Index (YoY);Canada;CAD;1
+RUB_CentralBankReserves;20190808;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_WholesaleInventories;20190808;14:00;Wholesale Inventories;United States;USD;1
+USD_EIANaturalGasStorageChange;20190808;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20190808;17:00;30-Year Bond Auction;United States;USD;1
+NZD_VisitorArrivals;20190808;22:45;Visitor Arrivals (YoY);New Zealand;NZD;1
+AUD_CentralBankSpeech;20190808;23:30;RBA Governor Lowe speech;Australia;AUD;3
+JPY_GrossDomesticProduct;20190808;23:50;Gross Domestic Product Deflator (YoY);Japan;JPY;1
+JPY_MoneySupplyM2+CD;20190808;23:50;Money Supply M2+CD (YoY);Japan;JPY;1

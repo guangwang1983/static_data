@@ -1,0 +1,27 @@
+EUR_EurG7Meeting;20200519;00:00;G7 Meeting;European Monetary Union;EUR;3
+AUD_RBAMeetingMinutes;20200519;01:30;RBA Meeting Minutes;Australia;AUD;3
+JPY_IndustrialProduction;20200519;04:30;Industrial Production (YoY);Japan;JPY;2
+JPY_CapacityUtilization;20200519;04:30;Capacity Utilization;Japan;JPY;1
+GBP_ClaimantCountRate;20200519;06:00;Claimant Count Rate;United Kingdom;GBP;1
+GBP_AverageEarningsExcludingBonus;20200519;06:00;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountChange;20200519;06:00;Claimant Count Change;United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20200519;06:00;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_AverageEarningsIncludingBonus;20200519;06:00;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;3
+EUR_EurEcoFinMeeting;20200519;07:00;EcoFin Meeting;European Monetary Union;EUR;2
+IDR_BankIndonesiaRate;20200519;07:00;Bank Indonesia Rate;Indonesia;IDR;1
+EUR_EurConstructionOutput;20200519;09:00;Construction Output  s.a (MoM);European Monetary Union;EUR;1
+EUR_GerZEWSurvey–CurrentSituation;20200519;09:00;ZEW Survey – Current Situation;Germany;EUR;2
+EUR_EurZEWSurvey–EconomicSentiment;20200519;09:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurvey–EconomicSentiment;20200519;09:00;ZEW Survey – Economic Sentiment;Germany;EUR;3
+ZAR_ManufacturingProductionIndex;20200519;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+USD_BuildingPermitsChange;20200519;12:30;Building Permits Change;United States;USD;1
+USD_HousingStartsChange;20200519;12:30;Housing Starts Change;United States;USD;1
+USD_BuildingPermits;20200519;12:30;Building Permits (MoM);United States;USD;2
+USD_HousingStarts;20200519;12:30;Housing Starts (MoM);United States;USD;2
+USD_RedbookIndex;20200519;12:55;Redbook Index (YoY);United States;USD;1
+USD_FedChairPowelltestifies;20200519;14:00;Fed Chair Powell testifies;United States;USD;3
+NZD_GDTPriceIndex;20200519;14:30;GDT Price Index;New Zealand;NZD;2
+USD_Auction;20200519;15:30;52-Week Bill Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20200519;20:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_FoodPriceIndex;20200519;23:45;Food Price Index (MoM);New Zealand;NZD;1
+JPY_MachineryOrders;20200519;23:50;Machinery Orders (MoM);Japan;JPY;1

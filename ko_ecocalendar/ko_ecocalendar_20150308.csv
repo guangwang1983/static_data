@@ -1,0 +1,11 @@
+CNY_Exports;20150308;02:00;Exports (YoY);China;CNY;1
+CNY_Imports;20150308;02:00;Imports (YoY);China;CNY;1
+CNY_TradeBalanceCNY;20150308;02:00;Trade Balance CNY;China;CNY;2
+CNY_TradeBalanceUSD;20150308;02:57;Trade Balance USD;China;CNY;2
+USD_DaylightSavingTime;20150308;07:00;Daylight Saving Time ;United States;USD;0
+CAD_DaylightSavingTime;20150308;07:00; Daylight Saving Time ;Canada;CAD;0
+NZD_ManufacturingSales;20150308;21:45;Manufacturing Sales;New Zealand;NZD;1
+JPY_BankLending;20150308;23:50;Bank Lending (YoY);Japan;JPY;2
+JPY_GrossDomesticProduct;20150308;23:50;Gross Domestic Product Deflator (YoY);Japan;JPY;1
+JPY_TradeBalanceBOPBasis;20150308;23:50;Trade Balance - BOP Basis;Japan;JPY;2
+JPY_CurrentAccount;20150308;23:50;Current Account n.s.a.;Japan;JPY;1

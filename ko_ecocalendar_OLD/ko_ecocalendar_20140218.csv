@@ -1,0 +1,31 @@
+CLP_BCCHInterestRate;20140218;22:00;BCCH Interest Rate;Chile;CLP;1
+USD_Auction;20140218;16:30;6-Month Bill Auction;United States;USD;1
+USD_NAHBHousingMarketIndex;20140218;15:00;NAHB Housing Market Index;United States;USD;2
+USD_NetLongTermTICFlows;20140218;14:00;Net Long-Term TIC Flows;United States;USD;2
+USD_TotalNetTICFlows;20140218;14:00;Total Net TIC Flows;United States;USD;1
+EUR_EurEcoFinMeeting;20140218;14:00;EcoFin Meeting;European Monetary Union;EUR;2
+USD_NYEmpireStateManufacturingIndex;20140218;13:30;NY Empire State Manufacturing Index;United States;USD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20140218;13:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20140218;13:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+PLN_CorporateSectorWages;20140218;13:00;Corporate Sector Wages;Poland;PLN;1
+TRY_CBRTInterestRateDecision;20140218;12:00;CBRT Interest Rate Decision;Turkey;TRY;1
+HUF_MNBInterestRateDecision;20140218;11:33;MNB Interest Rate Decision;Hungary;HUF;1
+EUR_SpaAuction;20140218;10:01;12-Month Letras Auction;Spain;EUR;1
+EUR_GerZEWSurveyEconomicSentiment;20140218;10:00;ZEW Survey - Economic Sentiment;Germany;EUR;3
+EUR_EurZEWSurveyEconomicSentiment;20140218;10:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurveyCurrentSituation;20140218;10:00;ZEW Survey - Current Situation;Germany;EUR;2
+GBP_RetailPriceIndex;20140218;09:30;Retail Price Index (MoM);United Kingdom;GBP;1
+GBP_DCLGHousePriceIndex;20140218;09:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ProducerPriceIndex;20140218;09:30;Producer Price Index - Output (YoY) n.s.a;United Kingdom;GBP;1
+GBP_PPICoreOutput;20140218;09:30;PPI Core Output (YoY) n.s.a ;United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20140218;09:30;Core Consumer Price Index (YoY);United Kingdom;GBP;3
+NOK_TradeBalance;20140218;09:00;Trade Balance;Norway;NOK;1
+EUR_ItaTradeBalanceEU;20140218;09:00;Trade Balance EU;Italy;EUR;1
+EUR_ItaGlobalTradeBalance;20140218;09:00;Global Trade Balance;Italy;EUR;1
+EUR_EurCurrentAccount;20140218;09:00;Current Account s.a;European Monetary Union;EUR;1
+HKD_Unemploymentrate;20140218;08:30;Unemployment rate;Hong Kong SAR;HKD;1
+SEK_ConsumerPriceIndex;20140218;08:30;Consumer Price Index (YoY);Sweden;SEK;1
+JPY_BoJPressConference;20140218;06:30;BoJ Press Conference;Japan;JPY;3
+JPY_BoJMonetaryPolicyStatement;20140218;03:00;BoJ Monetary Policy Statement ;Japan;JPY;3
+CNY_FDIForeignDirectInvestment;20140218;02:40;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;1
+AUD_RBAMeetingMinutes;20140218;00:30;RBA Meeting Minutes;Australia;AUD;2

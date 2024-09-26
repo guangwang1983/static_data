@@ -1,0 +1,45 @@
+USD_IMFMeeting;20231012;00:00;IMF Meeting;United States;USD;2
+AUD_ConsumerInflationExpectations;20231012;00:00;Consumer Inflation Expectations;Australia;AUD;2
+BRL_LadyofAparecida;20231012;03:00;Lady of Aparecida ;Brazil;BRL;0
+CLP_ColumbusDay;20231012;04:00;Columbus Day ;Chile;CLP;0
+MXN_ColumbusDay;20231012;06:00;Columbus Day ;Mexico;MXN;0
+GBP_IndustrialProduction;20231012;06:00;Industrial Production (MoM);United Kingdom;GBP;2
+GBP_ManufacturingProduction;20231012;06:00;Manufacturing Production (MoM);United Kingdom;GBP;2
+GBP_IndexofServices;20231012;06:00;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20231012;06:00;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20231012;06:00;Goods Trade Balance;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20231012;06:00;Total Trade Balance;United Kingdom;GBP;1
+GBP_GrossDomesticProduct;20231012;06:00;Gross Domestic Product (MoM);United Kingdom;GBP;2
+RON_IndustrialProduction;20231012;06:00;Industrial Production (MoM);Romania;RON;1
+RON_GrossDomesticProduct;20231012;06:00;Gross Domestic Product;Romania;RON;1
+RON_ConsumerPriceIndex;20231012;06:00;Consumer Price Index;Romania;RON;1
+CNY_M2MoneySupply;20231012;07:00;M2 Money Supply (YoY);China;CNY;1
+CNY_NewLoans;20231012;07:00;New Loans;China;CNY;1
+CNY_FDIForeignDirectInvestment;20231012;07:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;1
+GBP_BoECreditConditionsSurvey;20231012;08:30;BoE Credit Conditions Survey;United Kingdom;GBP;1
+ZAR_BusinessConfidenceIndex;20231012;09:30;Business Confidence Index;South Africa;ZAR;1
+ZAR_ManufacturingProductionIndex;20231012;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+GBP_NIESRGDPEstimate;20231012;11:00;NIESR GDP Estimate (3M);United Kingdom;GBP;1
+EUR_EurCentralBankSpeech;20231012;11:00;ECB Panetta speech;European Monetary Union;EUR;2
+EUR_EurECBMonetaryPolicyMeetingAccounts;20231012;11:30;ECB Monetary Policy Meeting Accounts;European Monetary Union;EUR;2
+MXN_IndustrialOutput;20231012;12:00;Industrial Output (YoY);Mexico;MXN;1
+INR_ConsumerPriceIndex;20231012;12:00;Consumer Price Index (YoY);India;INR;1
+INR_ManufacturingOutput;20231012;12:00;Manufacturing Output;India;INR;1
+INR_IndustrialOutput;20231012;12:00;Industrial Output;India;INR;1
+INR_CumulativeIndustrialOutput;20231012;12:00;Cumulative Industrial Output;India;INR;1
+USD_JoblessClaims;20231012;12:30;Initial Jobless Claims;United States;USD;2
+USD_ConsumerPriceIndex;20231012;12:30;Consumer Price Index n.s.a (MoM);United States;USD;1
+EUR_GerCurrentAccount;20231012;12:45;Current Account n.s.a.;Germany;EUR;1
+RUB_ForeignTrade;20231012;13:00;Foreign Trade;Russia;RUB;1
+RUB_CentralBankReserves;20231012;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_EIANaturalGasStorageChange;20231012;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_EIACrudeOilStocksChange;20231012;15:00;EIA Crude Oil Stocks Change;United States;USD;1
+USD_USDAWASDEReport;20231012;16:00;USDA WASDE Report;United States;USD;1
+USD_Auction;20231012;17:00;30-Year Bond Auction;United States;USD;1
+USD_MonthlyBudgetStatement;20231012;18:00;Monthly Budget Statement;United States;USD;2
+NZD_BusinessNZPMI;20231012;21:30;Business NZ PMI;New Zealand;NZD;2
+NZD_RetailSales;20231012;21:45;Electronic Card Retail Sales (YoY);New Zealand;NZD;1
+KRW_UnemploymentRate;20231012;23:00;Unemployment Rate;South Korea;KRW;1
+JPY_MoneySupplyM2+CD;20231012;23:50;Money Supply M2+CD (YoY);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20231012;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20231012;23:50;Foreign Bond Investment;Japan;JPY;1

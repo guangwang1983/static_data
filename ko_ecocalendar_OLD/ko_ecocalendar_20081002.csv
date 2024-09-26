@@ -1,0 +1,10 @@
+USD_FactoryOrders;20081002;14:00;Factory Orders (MoM);United States;USD;1
+USD_JoblessClaims;20081002;12:30;Initial Jobless Claims;United States;USD;2
+EUR_EurCentralBankSpeech;20081002;12:30;ECB President Trichet speech;European Monetary Union;EUR;3
+EUR_EurECBInterestRateDecision;20081002;11:45;ECB Interest Rate Decision;European Monetary Union;EUR;3
+EUR_EurProducerPriceIndex;20081002;09:00;Producer Price Index (YoY);European Monetary Union;EUR;1
+GBP_BankofEnglandCreditConditionsReport;20081002;08:30;Bank of England Credit Conditions Report (QoQ);United Kingdom;GBP;2
+GBP_MarkitConstructionPMI;20081002;08:30;Markit Construction PMI;United Kingdom;GBP;1
+GBP_NationwideHousingPrices;20081002;06:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;2
+CHF_SECOEconomicForecasts;20081002;05:45;SECO Economic Forecasts;Switzerland;CHF;1
+AUD_TradeBalance;20081002;01:30;Trade Balance;Australia;AUD;2

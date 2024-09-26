@@ -1,0 +1,26 @@
+AUD_Imports;20200925;01:30;Imports (MoM);Australia;AUD;2
+AUD_Exports;20200925;01:30;Exports (MoM);Australia;AUD;2
+AUD_TradeBalance;20200925;01:30;Trade Balance (MoM);Australia;AUD;3
+DKK_RetailSales;20200925;06:00;Retail Sales (YoY);Denmark;DKK;1
+GBP_PublicSectorNetBorrowing;20200925;06:00;Public Sector Net Borrowing;United Kingdom;GBP;1
+SEK_ProducerPriceIndex;20200925;07:30;Producer Price Index (MoM);Sweden;SEK;1
+EUR_ItaConsumerConfidence;20200925;08:00;Consumer Confidence;Italy;EUR;1
+EUR_ItaBusinessConfidence;20200925;08:00;Business Confidence;Italy;EUR;1
+TRY_ForeignArrivals;20200925;08:00;Foreign Arrivals;Turkey;TRY;1
+EUR_EurM3MoneySupply;20200925;08:00;M3 Money Supply (3m);European Monetary Union;EUR;1
+EUR_EurPrivateLoans;20200925;08:00;Private Loans (YoY);European Monetary Union;EUR;1
+GBP_BoEQuarterlyBulletin;20200925;11:00;BoE Quarterly Bulletin;United Kingdom;GBP;1
+INR_BankLoanGrowth;20200925;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20200925;11:30;FX Reserves, USD;India;INR;1
+USD_DurableGoodsOrders;20200925;12:30;Durable Goods Orders;United States;USD;3
+USD_NondefenseCapitalGoodsOrdersexAircraft;20200925;12:30;Nondefense Capital Goods Orders ex Aircraft;United States;USD;3
+USD_BakerHughesUSOilRigCount;20200925;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CentralBankSpeech;20200925;19:10;Fed Williams speech;United States;USD;2
+JPY_CFTCJPYNCNetPositions;20200925;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCS&P500NCNetPositions;20200925;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20200925;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20200925;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20200925;19:30;CFTC Gold NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20200925;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20200925;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+COP_Interestrate;20200925;20:00;Interest rate;Colombia;COP;1

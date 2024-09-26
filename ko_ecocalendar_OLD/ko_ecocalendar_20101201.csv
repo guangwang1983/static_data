@@ -1,0 +1,25 @@
+JPY_CapitalSpending;20101201;23:50;Capital Spending;Japan;JPY;2
+JPY_MonetaryBase;20101201;23:50;Monetary Base (YoY);Japan;JPY;1
+USD_TotalVehicleSales;20101201;22:00;Total Vehicle Sales;United States;USD;1
+USD_FedBeigeBook;20101201;19:00;Fed Beige Book;United States;USD;2
+USD_EIACrudeOilStocksChange;20101201;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_ISMManufacturingPMI;20101201;15:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMPricesPaid;20101201;15:00;ISM Prices Paid;United States;USD;1
+USD_ConstructionSpending;20101201;15:00;Construction Spending (MoM);United States;USD;2
+USD_NonfarmProductivity;20101201;13:30;Nonfarm Productivity;United States;USD;1
+USD_UnitLaborCosts;20101201;13:30;Unit Labor Costs;United States;USD;1
+USD_ADPEmploymentChange;20101201;13:15;ADP Employment Change;United States;USD;2
+USD_MBAMortgageApplications;20101201;12:00;MBA Mortgage Applications;United States;USD;1
+GBP_MarkitManufacturingPMI;20101201;09:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+EUR_EurMarkitManufacturingPMI;20101201;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_GerMarkitManufacturingPMI;20101201;08:55;Markit Manufacturing PMI;Germany;EUR;2
+CHF_SVMEPurchasingManagers'Index;20101201;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;2
+SEK_CurrentAccount;20101201;08:30;Current Account (QoQ);Sweden;SEK;2
+GBP_NationwideHousingPrices;20101201;07:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;2
+EUR_GerRetailSales;20101201;07:00;Retail Sales (YoY);Germany;EUR;1
+AUD_RBACommodityIndexSDR;20101201;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+JPY_VehicleSales;20101201;05:00;Vehicle Sales (YoY);Japan;JPY;1
+CNY_CaixinManufacturingPMI;20101201;02:30;Caixin Manufacturing PMI;China;CNY;1
+NZD_ANZCommodityPrice;20101201;02:00;ANZ Commodity Price;New Zealand;NZD;1
+CNY_NBSManufacturingPMI;20101201;01:00;NBS Manufacturing PMI;China;CNY;2
+AUD_GrossDomesticProduct;20101201;00:30;Gross Domestic Product (YoY);Australia;AUD;2

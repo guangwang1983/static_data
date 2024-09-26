@@ -1,0 +1,20 @@
+USD_MichiganConsumerSentimentIndex;20100129;14:55;Michigan Consumer Sentiment Index;United States;USD;2
+USD_ChicagoPurchasingManagers'Index;20100129;14:45;Chicago Purchasing Managers' Index;United States;USD;1
+CAD_RawMaterialPriceIndex;20100129;13:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20100129;13:30;Industrial Product Price (MoM);Canada;CAD;1
+USD_GrossDomesticProduct;20100129;13:30;Gross Domestic Product Annualized;United States;USD;3
+CAD_GrossDomesticProduct;20100129;13:30;Gross Domestic Product (MoM);Canada;CAD;3
+USD_CorePersonalConsumptionExpenditures;20100129;13:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+USD_CentralBankSpeech;20100129;13:15;Fed Kohn speech ;United States;USD;1
+CHF_KOFLeadingIndicator;20100129;10:30;KOF Leading Indicator;Switzerland;CHF;2
+EUR_EurUnemploymentRate;20100129;10:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_EurConsumerPriceIndex;20100129;10:00;Consumer Price Index (YoY);European Monetary Union;EUR;2
+EUR_EurM3MoneySupply;20100129;09:00;M3 Money Supply (YoY);European Monetary Union;EUR;1
+GBP_NationwideHousingPrices;20100129;07:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;2
+JPY_HousingStarts;20100129;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_AnnualizedHousingStarts;20100129;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_ConstructionOrders;20100129;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_VehicleProduction;20100129;04:00;Vehicle Production (YoY);Japan;JPY;1
+AUD_PrivateSectorCredit;20100129;01:30;Private Sector Credit (YoY);Australia;AUD;0
+GBP_GfKConsumerConfidence;20100129;00:01;GfK Consumer Confidence;United Kingdom;GBP;2
+CHF_WorldEconomicForumDavos;20100129;00:00;World Economic Forum - Davos;Switzerland;CHF;0

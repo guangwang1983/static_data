@@ -1,0 +1,35 @@
+KRW_BoKInterestRateDecision;20150409;01:00;BoK Interest Rate Decision;South Korea;KRW;1
+JPY_BoJMonthlyEconomicSurvey;20150409;05:00;BoJ Monthly Economic Survey;Japan;JPY;2
+EUR_GerIndustrialProduction;20150409;06:00;Industrial Production s.a. (MoM);Germany;EUR;1
+JPY_MachineToolOrders;20150409;06:00;Machine Tool Orders (YoY);Japan;JPY;2
+EUR_GerExports;20150409;06:00;Exports (MoM);Germany;EUR;1
+EUR_GerTradeBalance;20150409;06:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerCurrentAccount;20150409;06:00;Current Account n.s.a.;Germany;EUR;1
+EUR_GerImports;20150409;06:00;Imports (MoM);Germany;EUR;1
+ZAR_Gross$Gold&ForexReserve;20150409;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+ZAR_Net$Gold&ForexReserve;20150409;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+CZK_ConsumerPriceIndex;20150409;07:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+CZK_UnemploymentRate;20150409;07:00;Unemployment Rate;Czech Republic;CZK;1
+RON_TradeBalance;20150409;07:00;Trade Balance;Romania;RON;1
+RON_IndustrialProduction;20150409;07:00;Industrial Production (MoM);Romania;RON;1
+DKK_TradeBalance;20150409;07:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20150409;07:00;Current Account;Denmark;DKK;1
+GBP_HalifaxHousePrices;20150409;07:08;Halifax House Prices (YoY/3m);United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20150409;08:30;Trade Balance non-EU;United Kingdom;GBP;2
+GBP_GoodsTradeBalance;20150409;08:30;Goods Trade Balance;United Kingdom;GBP;2
+GBP_TotalTradeBalance;20150409;08:30;Total Trade Balance;United Kingdom;GBP;2
+ZAR_BusinessConfidenceIndex;20150409;09:30;Business Confidence Index;South Africa;ZAR;1
+GBP_BoEAssetPurchaseFacility;20150409;11:00;BoE Asset Purchase Facility;United Kingdom;GBP;3
+GBP_BoEInterestRateDecision;20150409;11:00;BoE Interest Rate Decision;United Kingdom;GBP;3
+ZAR_ManufacturingProductionIndex;20150409;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+RUB_CentralBankReserves;20150409;12:00;Central Bank Reserves $;Russia;RUB;1
+USD_JoblessClaims;20150409;12:30;Continuing Jobless Claims;United States;USD;2
+CAD_BuildingPermits;20150409;12:30;Building Permits (MoM);Canada;CAD;2
+CAD_NewHousingPriceIndex;20150409;12:30;New Housing Price Index (YoY);Canada;CAD;1
+MXN_CoreInflation;20150409;13:00;Core Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20150409;13:00;Headline Inflation;Mexico;MXN;1
+MXN_12MonthInflation;20150409;14:00;12-Month Inflation;Mexico;MXN;1
+USD_WholesaleInventories;20150409;14:00;Wholesale Inventories;United States;USD;2
+USD_EIANaturalGasStorageChange;20150409;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20150409;17:00;30-Year Bond Auction;United States;USD;1
+JPY_BankLending;20150409;23:50;Bank Lending (YoY);Japan;JPY;2

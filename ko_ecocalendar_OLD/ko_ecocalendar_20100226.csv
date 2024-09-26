@@ -1,0 +1,19 @@
+EUR_GerConsumerPriceIndex;20100226;15:40;Consumer Price Index (MoM);Germany;EUR;2
+USD_ExistingHomeSalesChange;20100226;15:00;Existing Home Sales Change (MoM);United States;USD;1
+USD_ExistingHomeSales;20100226;15:00;Existing Home Sales (MoM);United States;USD;1
+USD_MichiganConsumerSentimentIndex;20100226;14:55;Michigan Consumer Sentiment Index;United States;USD;1
+USD_ChicagoPurchasingManagers'Index;20100226;14:45;Chicago Purchasing Managers' Index;United States;USD;1
+CAD_CurrentAccount;20100226;13:30;Current Account;Canada;CAD;2
+USD_GrossDomesticProduct;20100226;13:30;Gross Domestic Product Annualized;United States;USD;3
+USD_CorePersonalConsumptionExpenditures;20100226;13:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+CHF_KOFLeadingIndicator;20100226;10:30;KOF Leading Indicator;Switzerland;CHF;2
+EUR_EurConsumerPriceIndex;20100226;10:00;Consumer Price Index (YoY);European Monetary Union;EUR;2
+GBP_GrossDomesticProduct;20100226;09:30;Gross Domestic Product (YoY);United Kingdom;GBP;3
+GBP_IndexofServices;20100226;09:30;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_NationwideHousingPrices;20100226;07:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;1
+JPY_HousingStarts;20100226;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_AnnualizedHousingStarts;20100226;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_ConstructionOrders;20100226;05:00;Construction Orders (YoY);Japan;JPY;1
+AUD_PrivateSectorCredit;20100226;01:30;Private Sector Credit (YoY);Australia;AUD;0
+AUD_ConstructionWorkDone;20100226;00:30;Construction Work Done;Australia;AUD;1
+GBP_GfKConsumerConfidence;20100226;00:01;GfK Consumer Confidence;United Kingdom;GBP;2

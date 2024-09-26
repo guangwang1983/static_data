@@ -1,0 +1,23 @@
+JPY_BoJInterestRateDecision;20220118;03:00;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_BoJMonetaryPolicyStatement;20220118;03:00;BoJ Monetary Policy Statement ;Japan;JPY;3
+JPY_BoJOutlookReport;20220118;03:00;BoJ Outlook Report;Japan;JPY;2
+JPY_IndustrialProduction;20220118;04:30;Industrial Production (MoM);Japan;JPY;1
+JPY_CapacityUtilization;20220118;04:30;Capacity Utilization;Japan;JPY;1
+JPY_BoJPressConference;20220118;06:00;BoJ Press Conference;Japan;JPY;3
+GBP_ILOUnemploymentRate;20220118;07:00;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_AverageEarningsIncludingBonus;20220118;07:00;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountChange;20220118;07:00;Claimant Count Change;United Kingdom;GBP;3
+GBP_ClaimantCountRate;20220118;07:00;Claimant Count Rate;United Kingdom;GBP;2
+GBP_AverageEarningsExcludingBonus;20220118;07:00;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+EUR_EurEcoFinMeeting;20220118;07:00;EcoFin Meeting;European Monetary Union;EUR;2
+CHF_ProducerandImportPrices;20220118;07:30;Producer and Import Prices (MoM);Switzerland;CHF;1
+RUB_ForeignTrade;20220118;08:00;Foreign Trade;Russia;RUB;1
+EUR_EurZEWSurvey–EconomicSentiment;20220118;10:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;2
+CAD_HousingStarts;20220118;13:15;Housing Starts s.a (YoY);Canada;CAD;1
+USD_NYEmpireStateManufacturingIndex;20220118;13:30;NY Empire State Manufacturing Index;United States;USD;1
+USD_NAHBHousingMarketIndex;20220118;15:00;NAHB Housing Market Index;United States;USD;1
+NZD_GDTPriceIndex;20220118;15:00;GDT Price Index;New Zealand;NZD;1
+USD_Auction;20220118;16:30;3-Month Bill Auction;United States;USD;1
+USD_NetLongTermTICFlows;20220118;21:00;Net Long-Term TIC Flows;United States;USD;1
+USD_TotalNetTICFlows;20220118;21:00;Total Net TIC Flows;United States;USD;1
+NZD_RetailSales;20220118;21:45;Electronic Card Retail Sales  (MoM);New Zealand;NZD;1

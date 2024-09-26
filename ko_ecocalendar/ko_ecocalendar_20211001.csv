@@ -1,0 +1,61 @@
+KRW_TradeBalance;20211001;00:00;Trade Balance;South Korea;KRW;1
+KRW_S&PGlobalManufacturingPMI;20211001;00:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+JPY_JibunBankManufacturingPMI;20211001;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+AUD_InvestmentLendingforHomes;20211001;01:30;Investment Lending for Homes;Australia;AUD;1
+AUD_HomeLoans;20211001;01:30;Home Loans;Australia;AUD;1
+IDR_CoreInflation;20211001;04:00;Core Inflation (YoY);Indonesia;IDR;1
+IDR_Inflation;20211001;04:00;Inflation (YoY);Indonesia;IDR;1
+JPY_ConsumerConfidenceIndex;20211001;05:00;Consumer Confidence Index;Japan;JPY;1
+RUB_S&PGlobalManufacturingPMI;20211001;06:00;S&P Global Manufacturing PMI;Russia;RUB;1
+EUR_GerRetailSales;20211001;06:00;Retail Sales (MoM);Germany;EUR;2
+AUD_RBACommodityIndexSDR;20211001;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+SEK_PurchasingManagersIndexManufacturing;20211001;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+EUR_FraBudgetBalance;20211001;06:45;Budget Balance;France;EUR;1
+HUF_PurchasingManagerIndex;20211001;07:00;Purchasing Manager Index;Hungary;HUF;1
+HUF_TradeBalance;20211001;07:00;Trade Balance;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20211001;07:00;Purchasing Manager Index;Poland;PLN;2
+CHF_SVMEPurchasingManagers'Index;20211001;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_S&PGlobalPMI;20211001;07:30;S&P Global PMI;Czech Republic;CZK;1
+EUR_ItaHCOBManufacturingPMI;20211001;07:45;HCOB Manufacturing PMI;Italy;EUR;2
+EUR_FraHCOBManufacturingPMI;20211001;07:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerHCOBManufacturingPMI;20211001;07:55;HCOB Manufacturing PMI;Germany;EUR;2
+NOK_RegisteredUnemployment;20211001;08:00;Registered Unemployment s.a;Norway;NOK;1
+EUR_EurHCOBManufacturingPMI;20211001;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;1
+GBP_S&PGlobalCIPSManufacturingPMI;20211001;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20211001;09:00;Core Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_EurHarmonizedIndexofConsumerPrices;20211001;09:00;Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+DKK_ManufacturingPMI;20211001;09:00;Manufacturing PMI;Denmark;DKK;1
+CLP_IMACEC;20211001;11:30;IMACEC;Chile;CLP;1
+INR_FXReservesUSD;20211001;11:30;FX Reserves, USD;India;INR;1
+ZAR_TotalNewVehicleSales;20211001;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+CZK_BudgetBalance;20211001;12:00;Budget Balance;Czech Republic;CZK;1
+USD_PersonalIncome;20211001;12:30;Personal Income (MoM);United States;USD;2
+USD_CorePersonalConsumptionExpendituresPriceIndex;20211001;12:30;Core Personal Consumption Expenditures - Price Index (MoM);United States;USD;2
+USD_PersonalConsumptionExpendituresPriceIndex;20211001;12:30;Personal Consumption Expenditures - Price Index (YoY);United States;USD;1
+USD_PersonalSpending;20211001;12:30;Personal Spending;United States;USD;2
+CAD_GrossDomesticProduct;20211001;12:30;Gross Domestic Product (MoM);Canada;CAD;2
+BRL_S&PGlobalManufacturingPMI;20211001;13:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+TRY_Exports;20211001;13:10;Exports;Turkey;TRY;1
+CAD_S&PGlobalManufacturingPMI;20211001;13:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20211001;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_UoM5yearConsumerInflationExpectation;20211001;14:00;UoM 5-year Consumer Inflation Expectation;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20211001;14:00;Michigan Consumer Sentiment Index;United States;USD;2
+USD_ISMManufacturingEmploymentIndex;20211001;14:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ISMManufacturingPMI;20211001;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20211001;14:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ISMManufacturingNewOrdersIndex;20211001;14:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ConstructionSpending;20211001;14:00;Construction Spending (MoM);United States;USD;1
+EUR_EurCentralBankSpeech;20211001;15:30;ECB Schnabel speech;European Monetary Union;EUR;2
+RUB_UnemploymentRate;20211001;16:00;Unemployment Rate;Russia;RUB;1
+CNY_NationalDay;20211001;16:00;National Day;China;CNY;0
+USD_BakerHughesUSOilRigCount;20211001;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+BRL_TradeBalance;20211001;18:00;Trade Balance;Brazil;BRL;1
+INR_MahatmaGandhiBirthday;20211001;18:30;Mahatma Gandhi Birthday ;India;INR;0
+USD_CFTCS&P500NCNetPositions;20211001;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20211001;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20211001;19:30;CFTC Gold NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20211001;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCOilNCNetPositions;20211001;19:30;CFTC Oil NC Net Positions;United States;USD;1
+AUD_CFTCAUDNCNetPositions;20211001;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20211001;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+USD_TotalVehicleSales;20211001;19:30;Total Vehicle Sales;United States;USD;1

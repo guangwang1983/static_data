@@ -1,0 +1,35 @@
+NZD_ANZActivityOutlook;20220428;01:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20220428;01:00;ANZ Business Confidence;New Zealand;NZD;1
+AUD_ExportPriceIndex;20220428;01:30;Export Price Index (QoQ);Australia;AUD;1
+AUD_ImportPriceIndex;20220428;01:30;Import Price Index (QoQ);Australia;AUD;1
+JPY_BoJInterestRateDecision;20220428;03:00;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_BoJMonetaryPolicyStatement;20220428;03:00;BoJ Monetary Policy Statement ;Japan;JPY;3
+JPY_BoJOutlookReport;20220428;03:00;BoJ Outlook Report;Japan;JPY;2
+JPY_AnnualizedHousingStarts;20220428;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_ConstructionOrders;20220428;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_HousingStarts;20220428;05:00;Housing Starts (YoY);Japan;JPY;1
+DKK_IndustrialOutlook;20220428;06:00;Industrial Outlook;Denmark;DKK;1
+DKK_RetailSales;20220428;06:00;Retail Sales (YoY);Denmark;DKK;1
+JPY_BoJPressConference;20220428;06:00;BoJ Press Conference;Japan;JPY;3
+NOK_LabourForceSurvey;20220428;06:00;Labour Force Survey;Norway;NOK;1
+SEK_RetailSales;20220428;06:00;Retail Sales (MoM);Sweden;SEK;1
+TRY_EconomicConfidenceIndex;20220428;07:00;Economic Confidence Index;Turkey;TRY;1
+HUF_UnemploymentRate;20220428;07:00;Unemployment Rate (3M);Hungary;HUF;1
+SEK_ConsumerConfidence;20220428;07:00;Consumer Confidence (MoM);Sweden;SEK;1
+SEK_RiksbankInterestRateDecision;20220428;07:30;Riksbank Interest Rate Decision;Sweden;SEK;1
+EUR_EurEconomicBulletin;20220428;08:00;Economic Bulletin;European Monetary Union;EUR;2
+ZAR_ProducerPriceIndex;20220428;09:30;Producer Price Index (YoY);South Africa;ZAR;1
+ILS_IndustrialProduction;20220428;10:00;Industrial Production (MoM);Israel;ILS;1
+TRY_CBRTQuarterlyInflationReport;20220428;11:00;CBRT Quarterly Inflation Report;Turkey;TRY;1
+MXN_JoblessRate;20220428;11:00;Jobless Rate;Mexico;MXN;1
+USD_JoblessClaims;20220428;12:30;Continuing Jobless Claims;United States;USD;1
+USD_GrossDomesticProduct;20220428;12:30;Gross Domestic Product Annualized;United States;USD;3
+USD_CorePersonalConsumptionExpenditures;20220428;12:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+USD_PersonalConsumptionExpendituresPrices;20220428;12:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+RUB_CentralBankReserves;20220428;13:00;Central Bank Reserves $;Russia;RUB;1
+EUR_EurCentralBankSpeech;20220428;14:00;ECB Elderson speech;European Monetary Union;EUR;2
+USD_EIANaturalGasStorageChange;20220428;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_KansasFedManufacturingActivity;20220428;15:00;Kansas Fed Manufacturing Activity;United States;USD;1
+JPY_ShowaDay;20220428;15:00;Showa Day;Japan;JPY;0
+USD_Auction;20220428;17:00;7-Year Note Auction;United States;USD;1
+NZD_ANZ–RoyMorganConsumerConfidence;20220428;22:00;ANZ – Roy Morgan Consumer Confidence;New Zealand;NZD;2

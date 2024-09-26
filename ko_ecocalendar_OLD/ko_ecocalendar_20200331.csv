@@ -1,0 +1,63 @@
+JPY_TankanNonManufacturingIndex;20200331;23:50;Tankan Non - Manufacturing Index;Japan;JPY;1
+JPY_TankanLargeAllIndustryCapex;20200331;23:50;Tankan Large All Industry Capex;Japan;JPY;2
+JPY_TankanLargeManufacturingOutlook;20200331;23:50;Tankan Large Manufacturing Outlook;Japan;JPY;2
+JPY_TankanLargeManufacturingIndex;20200331;23:50;Tankan Large Manufacturing Index;Japan;JPY;2
+JPY_TankanNonManufacturingOutlook;20200331;23:50;Tankan Non - Manufacturing Outlook;Japan;JPY;1
+GBP_BRCShopPriceIndex;20200331;23:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1
+EUR_IreConsumerConfidence;20200331;23:01;Consumer Confidence;Ireland;EUR;1
+AUD_CommonwealthBankManufacturingPMI;20200331;23:00;Commonwealth Bank Manufacturing PMI;Australia;AUD;2
+NZD_ANZ–RoyMorganConsumerConfidence;20200331;22:00;ANZ – Roy Morgan Consumer Confidence;New Zealand;NZD;2
+AUD_AiGPerformanceofMfgIndex;20200331;21:30;AiG Performance of Mfg Index;Australia;AUD;2
+USD_APIWeeklyCrudeOilStock;20200331;20:30;API Weekly Crude Oil Stock;United States;USD;1
+COP_NationalJoblessRate;20200331;16:00;National Jobless Rate;Colombia;COP;1
+USD_ConsumerConfidence;20200331;14:00;Consumer Confidence;United States;USD;2
+USD_ChicagoPurchasingManagers'Index;20200331;13:45;Chicago Purchasing Managers' Index;United States;USD;2
+BRL_NominalBudgetBalance;20200331;13:30;Nominal Budget Balance;Brazil;BRL;1
+BRL_PrimaryBudgetSurplus;20200331;13:30;Primary Budget Surplus;Brazil;BRL;1
+USD_S&PCaseShillerHomePriceIndices;20200331;13:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;2
+USD_RedbookIndex;20200331;12:55;Redbook Index (YoY);United States;USD;1
+CAD_IndustrialProductPrice;20200331;12:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_RawMaterialPriceIndex;20200331;12:30;Raw Material Price Index;Canada;CAD;1
+CAD_GrossDomesticProduct;20200331;12:30;Gross Domestic Product (MoM);Canada;CAD;2
+BRL_UnemploymentRate;20200331;12:00;Unemployment Rate;Brazil;BRL;1
+CLP_Unemploymentrate;20200331;12:00;Unemployment rate;Chile;CLP;1
+INR_InfrastructureOutput;20200331;12:00;Infrastructure Output (YoY);India;INR;1
+ZAR_TradeBalance;20200331;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+CLP_IndustrialProduction;20200331;12:00;Industrial Production (YoY);Chile;CLP;1
+EUR_ItaProducerPriceIndex;20200331;10:00;Producer Price Index (YoY);Italy;EUR;1
+EUR_GreRetailSales;20200331;10:00;Retail Sales (YoY);Greece;EUR;1
+INR_FederalFiscalDeficitINR;20200331;10:00;Federal Fiscal Deficit, INR;India;INR;1
+EUR_ItaAuction;20200331;09:30;10-y Bond Auction;Italy;EUR;1
+EUR_EurConsumerPriceIndex;20200331;09:00;Consumer Price Index (YoY);European Monetary Union;EUR;3
+EUR_ItaConsumerPriceIndex;20200331;09:00;Consumer Price Index (YoY);Italy;EUR;1
+HKD_RetailSales;20200331;08:30;Retail Sales;Hong Kong SAR;HKD;1
+EUR_PorConsumerPriceIndex;20200331;08:30;Consumer Price Index (YoY);Portugal;EUR;1
+PLN_ConsumerPriceIndex;20200331;08:00;Consumer Price Index (YoY);Poland;PLN;1
+EUR_SpaGrossDomesticProduct;20200331;08:00;Gross Domestic Product (QoQ);Spain;EUR;1
+EUR_SpaCurrentAccount;20200331;08:00;Current Account Balance;Spain;EUR;1
+EUR_GerUnemploymentChange;20200331;07:55;Unemployment Change;Germany;EUR;3
+EUR_GerUnemploymentRate;20200331;07:55;Unemployment Rate s.a.;Germany;EUR;3
+HUF_GrossWages;20200331;07:00;Gross Wages (YoY);Hungary;HUF;1
+TRY_TradeBalance;20200331;07:00;Trade Balance;Turkey;TRY;1
+HUF_ProducerPriceIndex;20200331;07:00;Producer Price Index (YoY);Hungary;HUF;1
+CZK_GrossDomesticProduct;20200331;07:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+NOK_CreditIndicator;20200331;07:00;Credit Indicator;Norway;NOK;1
+EUR_FraProducerPrices;20200331;06:45;Producer Prices (MoM);France;EUR;1
+EUR_FraConsumerPriceIndex;20200331;06:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraConsumerSpending;20200331;06:45;Consumer Spending (MoM);France;EUR;1
+CHF_RetailSales;20200331;06:30;Real Retail Sales (YoY);Switzerland;CHF;2
+EUR_GerImportPriceIndex;20200331;06:00;Import Price Index (MoM);Germany;EUR;1
+GBP_GrossDomesticProduct;20200331;06:00;Gross Domestic Product (QoQ);United Kingdom;GBP;3
+DKK_UnemploymentRate;20200331;06:00;Unemployment Rate;Denmark;DKK;1
+GBP_TotalBusinessInvestment;20200331;06:00;Total Business Investment (QoQ);United Kingdom;GBP;1
+DKK_GrossDomesticProduct;20200331;06:00;Gross Domestic Product (YoY);Denmark;DKK;1
+GBP_CurrentAccount;20200331;06:00;Current Account;United Kingdom;GBP;1
+JPY_AnnualizedHousingStarts;20200331;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_HousingStarts;20200331;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_ConstructionOrders;20200331;05:00;Construction Orders (YoY);Japan;JPY;1
+CNY_NonManufacturingPMI;20200331;01:00;Non-Manufacturing PMI;China;CNY;2
+CNY_NBSManufacturingPMI;20200331;01:00;NBS Manufacturing PMI;China;CNY;2
+AUD_PrivateSectorCredit;20200331;00:30;Private Sector Credit (YoY);Australia;AUD;1
+AUD_HIANewHomeSales;20200331;00:00;HIA New Home Sales (MoM);Australia;AUD;2
+NZD_ANZActivityOutlook;20200331;00:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20200331;00:00;ANZ Business Confidence;New Zealand;NZD;1

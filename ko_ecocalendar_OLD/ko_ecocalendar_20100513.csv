@@ -1,0 +1,14 @@
+NZD_RetailSales;20100513;22:45;Retail Sales (QoQ);New Zealand;NZD;2
+USD_JoblessClaims;20100513;12:30;Continuing Jobless Claims;United States;USD;1
+USD_ImportPriceIndex;20100513;12:30;Import Price Index (MoM);United States;USD;1
+GBP_DCLGHousePriceIndex;20100513;08:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20100513;08:30;Goods Trade Balance;United Kingdom;GBP;2
+GBP_TradeBalancenonEU;20100513;08:30;Trade Balance non-EU;United Kingdom;GBP;2
+EUR_EurECBMonthlyReport;20100513;08:00;ECB Monthly Report;European Monetary Union;EUR;2
+JPY_MachineToolOrders;20100513;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+JPY_EcoWatchersSurvey:Current;20100513;05:05;Eco Watchers Survey: Current;Japan;JPY;1
+JPY_EcoWatchersSurvey:Outlook;20100513;05:00;Eco Watchers Survey: Outlook;Japan;JPY;1
+AUD_EmploymentChange;20100513;01:30;Employment Change s.a.;Australia;AUD;2
+AUD_UnemploymentRate;20100513;01:30;Unemployment Rate s.a.;Australia;AUD;2
+EUR_GerAscensionDay;20100513;00:00;Ascension Day;Germany;EUR;0
+CHF_AscensionDay;20100513;00:00;Ascension Day;Switzerland;CHF;0

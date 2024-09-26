@@ -1,0 +1,30 @@
+CNY_RetailSales;20220516;02:00;Retail Sales (YoY);China;CNY;3
+CNY_IndustrialProduction;20220516;02:00;Industrial Production (YoY);China;CNY;2
+CNY_NBSPressConference;20220516;02:00;NBS Press Conference;China;CNY;2
+CNY_FixedAssetInvestment;20220516;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+KRW_TradeBalance;20220516;02:00;Trade Balance;South Korea;KRW;1
+NOK_TradeBalance;20220516;06:00;Trade Balance;Norway;NOK;1
+EUR_GerWholesalePriceIndex;20220516;06:00;Wholesale Price Index (YoY);Germany;EUR;1
+JPY_MachineToolOrders;20220516;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+CZK_ProducerPriceIndex;20220516;07:00;Producer Price Index (YoY);Czech Republic;CZK;1
+TRY_CurrentAccount;20220516;07:00;Current Account Balance;Turkey;TRY;1
+TRY_BudgetBalance;20220516;08:00;Budget Balance;Turkey;TRY;1
+EUR_EurCentralBankSpeech;20220516;08:20;ECB Panetta speech;European Monetary Union;EUR;2
+EUR_EurTradeBalance;20220516;09:00;Trade Balance n.s.a.;European Monetary Union;EUR;1
+EUR_EurEuropeanCommissionreleasesEconomicGrowthForecasts;20220516;09:00;European Commission releases Economic Growth Forecasts;European Monetary Union;EUR;2
+ILS_GrossDomesticProduct;20220516;10:00;Gross Domestic Product (QoQ);Israel;ILS;1
+PLN_NetInflation;20220516;12:00;Net Inflation;Poland;PLN;1
+CAD_HousingStarts;20220516;12:15;Housing Starts s.a (YoY);Canada;CAD;1
+USD_NYEmpireStateManufacturingIndex;20220516;12:30;NY Empire State Manufacturing Index;United States;USD;1
+CAD_ManufacturingSales;20220516;12:30;Manufacturing Sales (MoM);Canada;CAD;1
+BRL_PrimaryBudgetSurplus;20220516;12:30;Primary Budget Surplus;Brazil;BRL;1
+BRL_NominalBudgetBalance;20220516;12:30;Nominal Budget Balance;Brazil;BRL;1
+CAD_WholesaleSales;20220516;12:30;Wholesale Sales (MoM);Canada;CAD;1
+USD_CentralBankSpeech;20220516;12:55;Fed Williams speech;United States;USD;2
+GBP_BoEMonetaryPolicyReportHearings;20220516;14:15;BoE Monetary Policy Report Hearings;United Kingdom;GBP;3
+COP_TradeBalance;20220516;15:00;Trade Balance;Colombia;COP;1
+USD_Auction;20220516;15:30;3-Month Bill Auction;United States;USD;1
+COP_GrossDomesticProduct;20220516;16:00;Gross Domestic Product (YoY);Colombia;COP;1
+USD_NetLongTermTICFlows;20220516;20:00;Net Long-Term TIC Flows;United States;USD;1
+USD_TotalNetTICFlows;20220516;20:00;Total Net TIC Flows;United States;USD;1
+NOK_ConstitutionDay;20220516;23:00;Constitution Day;Norway;NOK;0

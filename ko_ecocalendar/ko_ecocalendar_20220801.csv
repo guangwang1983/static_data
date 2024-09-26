@@ -1,0 +1,39 @@
+KRW_TradeBalance;20220801;00:00;Trade Balance;South Korea;KRW;1
+KRW_S&PGlobalManufacturingPMI;20220801;00:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+JPY_JibunBankManufacturingPMI;20220801;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+AUD_TDSecuritiesInflation;20220801;01:00;TD Securities Inflation (MoM);Australia;AUD;2
+AUD_ANZJobAdvertisements;20220801;01:30;ANZ Job Advertisements;Australia;AUD;1
+CNY_CaixinManufacturingPMI;20220801;01:45;Caixin Manufacturing PMI;China;CNY;2
+IDR_Inflation;20220801;04:00;Inflation (MoM);Indonesia;IDR;1
+IDR_CoreInflation;20220801;04:00;Core Inflation (YoY);Indonesia;IDR;1
+CAD_AugustCivicHoliday;20220801;05:00;August Civic Holiday;Canada;CAD;0
+RUB_S&PGlobalManufacturingPMI;20220801;06:00;S&P Global Manufacturing PMI;Russia;RUB;1
+EUR_GerRetailSales;20220801;06:00;Retail Sales (MoM);Germany;EUR;2
+SEK_PurchasingManagersIndexManufacturing;20220801;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+HUF_PurchasingManagerIndex;20220801;07:00;Purchasing Manager Index;Hungary;HUF;1
+HUF_TradeBalance;20220801;07:00;Trade Balance;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20220801;07:00;Purchasing Manager Index;Poland;PLN;2
+CZK_S&PGlobalPMI;20220801;07:30;S&P Global PMI;Czech Republic;CZK;1
+EUR_ItaHCOBManufacturingPMI;20220801;07:45;HCOB Manufacturing PMI;Italy;EUR;2
+EUR_FraHCOBManufacturingPMI;20220801;07:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerHCOBManufacturingPMI;20220801;07:55;HCOB Manufacturing PMI;Germany;EUR;2
+EUR_ItaUnemployment;20220801;08:00;Unemployment;Italy;EUR;2
+EUR_EurHCOBManufacturingPMI;20220801;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;1
+GBP_S&PGlobalCIPSManufacturingPMI;20220801;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+EUR_EurUnemploymentRate;20220801;09:00;Unemployment Rate;European Monetary Union;EUR;2
+DKK_ManufacturingPMI;20220801;09:00;Manufacturing PMI;Denmark;DKK;1
+ZAR_TotalNewVehicleSales;20220801;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+CZK_BudgetBalance;20220801;12:00;Budget Balance;Czech Republic;CZK;1
+CLP_IMACEC;20220801;12:30;IMACEC;Chile;CLP;1
+BRL_S&PGlobalManufacturingPMI;20220801;13:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+USD_S&PGlobalManufacturingPMI;20220801;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_ISMManufacturingPMI;20220801;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20220801;14:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ISMManufacturingEmploymentIndex;20220801;14:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ISMManufacturingNewOrdersIndex;20220801;14:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ConstructionSpending;20220801;14:00;Construction Spending (MoM);United States;USD;1
+USD_Auction;20220801;15:30;3-Month Bill Auction;United States;USD;1
+USD_LoanOfficerSurvey;20220801;18:00;Loan Officer Survey;United States;USD;1
+BRL_TradeBalance;20220801;18:00;Trade Balance;Brazil;BRL;1
+KRW_ConsumerPriceIndex;20220801;23:00;Consumer Price Index Growth (YoY);South Korea;KRW;1
+JPY_MonetaryBase;20220801;23:50;Monetary Base (YoY);Japan;JPY;1

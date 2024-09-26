@@ -1,0 +1,71 @@
+JPY_MonetaryBase;20180301;23:50;Monetary Base (YoY);Japan;JPY;1
+JPY_TokyoCPIexFoodEnergy;20180301;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20180301;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;2
+JPY_TokyoCPIexFreshFood;20180301;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;3
+JPY_NationalCPIexFoodEnergy;20180301;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_JobsApplicantsRatio;20180301;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+JPY_UnemploymentRate;20180301;23:30;Unemployment Rate;Japan;JPY;2
+KRW_IndustrialOutput;20180301;23:00;Industrial Output (YoY);South Korea;KRW;1
+KRW_IndustrialOutputGrowth;20180301;23:00;Industrial Output Growth;South Korea;KRW;1
+KRW_ServiceSectorOutput;20180301;23:00;Service Sector Output;South Korea;KRW;1
+NZD_BuildingPermits;20180301;21:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+USD_TotalVehicleSales;20180301;20:30;Total Vehicle Sales;United States;USD;1
+ARS_TaxRevenue;20180301;20:00;Tax Revenue (MoM);Argentina;ARS;1
+BRL_TradeBalance;20180301;18:00;Trade Balance;Brazil;BRL;1
+USD_CentralBankSpeech;20180301;16:00;Fed Dudley speech;United States;USD;2
+USD_EIANaturalGasStorageChange;20180301;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_ISMManufacturingPMI;20180301;15:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMPricesPaid;20180301;15:00;ISM Prices Paid;United States;USD;3
+USD_ConstructionSpending;20180301;15:00;Construction Spending (MoM);United States;USD;1
+USD_MarkitManufacturingPMI;20180301;14:45;Markit Manufacturing PMI;United States;USD;1
+CAD_MarkitManufacturingPMI;20180301;14:30;Markit Manufacturing PMI;Canada;CAD;2
+USD_PersonalConsumptionExpendituresPriceIndex;20180301;13:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;2
+USD_CorePersonalConsumptionExpenditurePriceIndex;20180301;13:30;Core Personal Consumption Expenditure - Price Index (YoY);United States;USD;3
+USD_PersonalSpending;20180301;13:30;Personal Spending;United States;USD;2
+USD_PersonalIncome;20180301;13:30;Personal Income (MoM);United States;USD;2
+CAD_CurrentAccount;20180301;13:30;Current Account;Canada;CAD;2
+USD_JoblessClaims;20180301;13:30;Initial Jobless Claims;United States;USD;2
+ZAR_TotalNewVehicleSales;20180301;13:00;Total New Vehicle Sales;South Africa;ZAR;1
+BRL_HSBCPMIManufacturing;20180301;13:00;HSBC PMI Manufacturing;Brazil;BRL;1
+RUB_CentralBankReserves;20180301;13:00;Central Bank Reserves $;Russia;RUB;1
+CZK_BudgetBalance;20180301;13:00;Budget Balance;Czech Republic;CZK;1
+BRL_GrossDomesticProduct;20180301;12:00;Gross Domestic Product (YoY);Brazil;BRL;1
+EUR_FraAuction;20180301;10:53;10-y Bond Auction;France;EUR;1
+EUR_SpaAuction;20180301;10:53;3-y Bond Auction;Spain;EUR;1
+EUR_EurUnemploymentRate;20180301;10:00;Unemployment Rate;European Monetary Union;EUR;2
+GBP_NetLendingtoIndividuals;20180301;09:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_MarkitManufacturingPMI;20180301;09:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+GBP_ConsumerCredit;20180301;09:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20180301;09:30;Mortgage Approvals;United Kingdom;GBP;2
+GBP_M4MoneySupply;20180301;09:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+TRY_Exports;20180301;09:00;Exports;Turkey;TRY;1
+EUR_ItaUnemployment;20180301;09:00;Unemployment;Italy;EUR;2
+EUR_GreMarkitManufacturingPMI;20180301;09:00;Markit Manufacturing PMI;Greece;EUR;1
+EUR_EurMarkitManufacturingPMI;20180301;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_GerMarkitManufacturingPMI;20180301;08:55;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20180301;08:50;Markit Manufacturing PMI;France;EUR;1
+EUR_ItaMarkitManufacturingPMI;20180301;08:45;Markit Manufacturing PMI;Italy;EUR;1
+CHF_SVMEPurchasingManagers'Index;20180301;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_MarkitPMI;20180301;08:30;Markit PMI;Czech Republic;CZK;1
+EUR_SpaGrossDomesticProduct;20180301;08:18;Gross Domestic Product (QoQ);Spain;EUR;1
+EUR_SpaMarkitManufacturingPMI;20180301;08:15;Markit Manufacturing PMI;Spain;EUR;1
+CHF_RetailSales;20180301;08:15;Real Retail Sales (YoY);Switzerland;CHF;2
+EUR_AusUnemployment;20180301;08:00;Unemployment;Austria;EUR;1
+EUR_AusUnemploymentRate;20180301;08:00;Unemployment Rate;Austria;EUR;1
+HUF_PurchasingManagerIndex;20180301;08:00;Purchasing Manager Index;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20180301;08:00;Purchasing Manager Index;Poland;PLN;2
+SEK_PurchasingManagersIndexManufacturing;20180301;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;2
+GBP_NationwideHousingPrices;20180301;07:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;1
+CHF_GrossDomesticProduct;20180301;06:49;Gross Domestic Product (YoY);Switzerland;CHF;2
+RUB_HSBCManufacturingPMI;20180301;06:00;HSBC Manufacturing PMI	;Russia;RUB;1
+EUR_IrePurchasingManagerIndexManufacturing;20180301;06:00;Purchasing Manager Index Manufacturing;Ireland;EUR;1
+AUD_RBACommodityIndexSDR;20180301;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+PEN_Inflation;20180301;05:00;Inflation;Peru;PEN;1
+JPY_ConsumerConfidenceIndex;20180301;05:00;Consumer Confidence Index;Japan;JPY;1
+IDR_Inflation;20180301;04:00;Inflation (YoY);Indonesia;IDR;1
+IDR_CoreInflation;20180301;04:00;Core Inflation (YoY);Indonesia;IDR;1
+CNY_CaixinManufacturingPMI;20180301;01:45;Caixin Manufacturing PMI;China;CNY;2
+JPY_NikkeiManufacturingPMI;20180301;00:30;Nikkei Manufacturing PMI;Japan;JPY;1
+AUD_PrivateCapitalExpenditure;20180301;00:30;Private Capital Expenditure;Australia;AUD;1
+KRW_March1stMovement;20180301;00:00;March 1st Movement ;South Korea;KRW;0
+KRW_TradeBalance;20180301;00:00;Trade Balance;South Korea;KRW;1

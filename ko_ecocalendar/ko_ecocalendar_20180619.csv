@@ -1,0 +1,22 @@
+AUD_HousePriceIndex;20180619;01:30;House Price Index (QoQ);Australia;AUD;2
+AUD_RBAMeetingMinutes;20180619;01:30;RBA Meeting Minutes;Australia;AUD;3
+CHF_SECOEconomicForecasts;20180619;05:45;SECO Economic Forecasts;Switzerland;CHF;1
+SEK_UnemploymentRate;20180619;07:30;Unemployment Rate;Sweden;SEK;1
+EUR_EurCurrentAccount;20180619;08:00;Current Account n.s.a;European Monetary Union;EUR;1
+PLN_IndustrialOutput;20180619;08:00;Industrial Output (YoY);Poland;PLN;1
+EUR_EurConstructionOutput;20180619;09:00;Construction Output w.d.a (YoY);European Monetary Union;EUR;1
+EUR_EurCentralBankSpeech;20180619;11:00;ECB Praet speech;European Monetary Union;EUR;2
+USD_CentralBankSpeech;20180619;11:00;Fed Bullard speech;United States;USD;2
+HUF_MNBInterestRateDecision;20180619;12:00;MNB Interest Rate Decision;Hungary;HUF;1
+USD_HousingStarts;20180619;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20180619;12:30;Building Permits (MoM);United States;USD;2
+USD_BuildingPermitsChange;20180619;12:30;Building Permits Change;United States;USD;1
+USD_HousingStartsChange;20180619;12:30;Housing Starts Change;United States;USD;1
+USD_RedbookIndex;20180619;12:55;Redbook Index (YoY);United States;USD;1
+RUB_ProducerPriceIndex;20180619;13:00;Producer Price Index (MoM);Russia;RUB;1
+NZD_GDTPriceIndex;20180619;14:21;GDT Price Index;New Zealand;NZD;2
+USD_Auction;20180619;15:30;52-Week Bill Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20180619;20:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_WestpacConsumerSurvey;20180619;22:00;Westpac Consumer Survey;New Zealand;NZD;2
+NZD_CurrentAccount;20180619;22:45;Current Account - GDP Ratio;New Zealand;NZD;1
+JPY_BoJMonetaryPolicyMeetingMinutes;20180619;23:50;BoJ Monetary Policy Meeting Minutes;Japan;JPY;3

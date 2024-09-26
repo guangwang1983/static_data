@@ -1,0 +1,33 @@
+JPY_NationalCPIexFreshFood;20210819;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20210819;23:30;National Consumer Price Index (YoY);Japan;JPY;2
+JPY_NationalCPIexFoodEnergy;20210819;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+AUD_CentralBankSpeech;20210819;23:05;RBA Kent speech;Australia;AUD;2
+GBP_GfKConsumerConfidence;20210819;23:01;GfK Consumer Confidence;United Kingdom;GBP;2
+HUF_SaintStephenDay;20210819;23:00;Saint Stephen Day;Hungary;HUF;0
+KRW_ProducerPriceIndex;20210819;21:00;Producer Price Index Growth (YoY);South Korea;KRW;1
+ARS_TradeBalance;20210819;19:00;Trade Balance (MoM);Argentina;ARS;1
+USD_Auction;20210819;15:30;4-Week Bill Auction;United States;USD;1
+USD_EIANaturalGasStorageChange;20210819;14:30;EIA Natural Gas Storage Change;United States;USD;1
+RUB_CentralBankReserves;20210819;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_JoblessClaims;20210819;12:30;Continuing Jobless Claims;United States;USD;1
+EUR_SloUnemploymentRate;20210819;12:30;Unemployment Rate;Slovakia;EUR;1
+CAD_ADPEmploymentChange;20210819;12:30;ADP Employment Change;Canada;CAD;1
+CAD_EmploymentInsuranceBeneficiariesChange;20210819;12:30;Employment Insurance Beneficiaries Change (MoM);Canada;CAD;1
+USD_PhiladelphiaFedManufacturingSurvey;20210819;12:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+HKD_ConsumerPriceIndex;20210819;09:00;Consumer Price Index;Hong Kong SAR;HKD;1
+EUR_SpaAuction;20210819;08:40;10-y Obligaciones Auction;Spain;EUR;1
+EUR_EurCurrentAccount;20210819;08:00;Current Account s.a;European Monetary Union;EUR;1
+PLN_IndustrialOutput;20210819;08:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20210819;08:00;Producer Price Index (YoY);Poland;PLN;1
+NOK_NorgesBankInterestRateDecision;20210819;08:00;Norges Bank Interest Rate Decision;Norway;NOK;1
+IDR_BankIndonesiaRate;20210819;07:00;Bank Indonesia Rate;Indonesia;IDR;1
+CHF_IndustrialProduction;20210819;06:30;Industrial Production (YoY);Switzerland;CHF;2
+CHF_TradeBalance;20210819;06:00;Trade Balance;Switzerland;CHF;1
+CHF_Exports;20210819;06:00;Exports (MoM);Switzerland;CHF;1
+CHF_Imports;20210819;06:00;Imports (MoM);Switzerland;CHF;1
+EUR_NetUnemploymentRate;20210819;04:30;Unemployment Rate s.a (3M);Netherlands, The;EUR;1
+AUD_EmploymentChange;20210819;01:30;Employment Change s.a.;Australia;AUD;3
+AUD_FulltimeEmployment;20210819;01:30;Fulltime Employment;Australia;AUD;2
+AUD_PartTimeEmployment;20210819;01:30;Part-Time Employment;Australia;AUD;1
+AUD_ParticipationRate;20210819;01:30;Participation Rate;Australia;AUD;1
+AUD_UnemploymentRate;20210819;01:30;Unemployment Rate s.a.;Australia;AUD;3

@@ -1,0 +1,38 @@
+AUD_WestpacLeadingIndex;20230621;00:30;Westpac Leading Index (MoM);Australia;AUD;1
+GBP_RetailPriceIndex;20230621;06:00;Retail Price Index (MoM);United Kingdom;GBP;2
+SEK_UnemploymentRate;20230621;06:00;Unemployment Rate;Sweden;SEK;1
+GBP_PPICoreOutput;20230621;06:00;PPI Core Output (YoY) n.s.a ;United Kingdom;GBP;2
+GBP_ProducerPriceIndex;20230621;06:00;Producer Price Index - Input (MoM) n.s.a;United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20230621;06:00;Consumer Price Index (YoY);United Kingdom;GBP;3
+GBP_PublicSectorNetBorrowing;20230621;06:00;Public Sector Net Borrowing;United Kingdom;GBP;1
+TRY_ManufacturingConfidence;20230621;07:00;Manufacturing Confidence;Turkey;TRY;1
+TRY_CapacityUtilization;20230621;07:00;Capacity Utilization;Turkey;TRY;1
+PLN_IndustrialOutput;20230621;08:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20230621;08:00;Producer Price Index (YoY);Poland;PLN;1
+CZK_ForeignDebt;20230621;08:00;Foreign Debt;Czech Republic;CZK;1
+ZAR_ConsumerPriceIndex;20230621;08:00;Consumer Price Index (MoM);South Africa;ZAR;1
+PLN_CorporateSectorWages;20230621;08:00;Corporate Sector Wages;Poland;PLN;1
+GBP_DCLGHousePriceIndex;20230621;08:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+EUR_GerAuction;20230621;09:30;30-y Bond Auction;Germany;EUR;1
+USD_MBAMortgageApplications;20230621;11:00;MBA Mortgage Applications;United States;USD;1
+MXN_PrivateSpending;20230621;12:00;Private Spending (YoY);Mexico;MXN;1
+CZK_CNBInterestRateDecision;20230621;12:30;CNB Interest Rate Decision;Czech Republic;CZK;1
+CAD_NewHousingPriceIndex;20230621;12:30;New Housing Price Index (MoM);Canada;CAD;1
+CAD_RetailSales;20230621;12:30;Retail Sales ex Autos (MoM);Canada;CAD;2
+USD_RedbookIndex;20230621;12:55;Redbook Index (YoY);United States;USD;1
+EUR_EurCentralBankSpeech;20230621;13:45;ECB Schnabel speech;European Monetary Union;EUR;2
+EUR_GerCentralBankSpeech;20230621;13:45;German Buba President Nagel speech;Germany;EUR;2
+USD_FedChairPowelltestifies;20230621;14:00;Fed Chair Powell testifies;United States;USD;3
+COP_TradeBalance;20230621;15:00;Trade Balance;Colombia;COP;1
+CNY_DragonBoatFestival;20230621;16:00;Dragon Boat Festival ;China;CNY;0
+RUB_ProducerPriceIndex;20230621;16:00;Producer Price Index (MoM);Russia;RUB;1
+USD_Auction;20230621;17:00;20-Year Bond Auction;United States;USD;1
+CAD_BoCSummaryofDeliberations;20230621;17:30;BoC Summary of Deliberations;Canada;CAD;2
+USD_CentralBankSpeech;20230621;20:00;Fed Mester speech;United States;USD;2
+USD_APIWeeklyCrudeOilStock;20230621;20:30;API Weekly Crude Oil Stock;United States;USD;1
+BRL_InterestRateDecision;20230621;21:30;Interest Rate Decision;Brazil;BRL;1
+NZD_TradeBalanceNZD;20230621;22:45;Trade Balance NZD (MoM);New Zealand;NZD;1
+NZD_Exports;20230621;22:45;Exports;New Zealand;NZD;2
+NZD_Imports;20230621;22:45;Imports;New Zealand;NZD;2
+JPY_ForeignInvestmentinJapanStocks;20230621;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20230621;23:50;Foreign Bond Investment;Japan;JPY;1

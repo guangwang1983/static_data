@@ -1,0 +1,39 @@
+JPY_JPForeignReserves;20171005;23:50;JP Foreign Reserves;Japan;JPY;1
+EUR_IreConsumerConfidence;20171005;23:01;Consumer Confidence;Ireland;EUR;1
+AUD_AiGPerformanceofConstructionIndex;20171005;22:30;AiG Performance of Construction Index;Australia;AUD;2
+KRW_FXReserves;20171005;21:00;FX Reserves;South Korea;KRW;1
+USD_CentralBankSpeech;20171005;20:30;Fed George speech;United States;USD;2
+PEN_Tradebalance;20171005;20:00;Trade balance;Peru;PEN;1
+GBP_CentralBankSpeech;20171005;17:30;BoE Haldane speech;United Kingdom;GBP;2
+USD_EIANaturalGasStorageChange;20171005;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_FactoryOrders;20171005;14:00;Factory Orders (MoM);United States;USD;2
+RUB_ConsumerPriceIndex;20171005;13:00;Consumer Price Index (MoM);Russia;RUB;1
+MXN_ConsumerConfidence;20171005;13:00;Consumer Confidence;Mexico;MXN;1
+RUB_CentralBankReserves;20171005;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_TradeBalance;20171005;12:30;Trade Balance;United States;USD;2
+USD_JoblessClaims;20171005;12:30;Initial Jobless Claims;United States;USD;2
+CAD_Exports;20171005;12:30;Exports;Canada;CAD;1
+CAD_Imports;20171005;12:30;Imports;Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20171005;12:30;International Merchandise Trade;Canada;CAD;2
+EUR_EurCentralBankSpeech;20171005;12:15;ECB Cœuré speech;European Monetary Union;EUR;2
+CLP_IMACEC;20171005;11:30;IMACEC;Chile;CLP;1
+USD_ChallengerJobCuts;20171005;11:30;Challenger Job Cuts;United States;USD;1
+EUR_EurECBMonetaryPolicyMeetingAccounts;20171005;11:30;ECB Monetary Policy Meeting Accounts;European Monetary Union;EUR;3
+EUR_SpaAuction;20171005;10:55;5-y Bond Auction;Spain;EUR;1
+EUR_FraAuction;20171005;10:54;10-y Bond Auction;France;EUR;1
+ZAR_BusinessConfidenceIndex;20171005;09:30;Business Confidence Index;South Africa;ZAR;1
+EUR_GreUnemploymentRate;20171005;09:00;Unemployment Rate (MoM);Greece;EUR;1
+HUF_BudgetBalance;20171005;09:00;Budget Balance;Hungary;HUF;1
+SEK_IndustrialProduction;20171005;07:30;Industrial Production (YoY);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20171005;07:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+CHF_ConsumerPriceIndex;20171005;07:15;Consumer Price Index (YoY);Switzerland;CHF;2
+AUD_CentralBankSpeech;20171005;05:30;RBA Debelle speech;Australia;AUD;2
+EUR_NetConsumerPriceIndex;20171005;04:30;Consumer Price Index n.s.a (YoY);Netherlands, The;EUR;1
+AUD_RetailSales;20171005;00:30;Retail Sales s.a. (MoM);Australia;AUD;2
+AUD_Imports;20171005;00:30;Imports;Australia;AUD;2
+AUD_TradeBalance;20171005;00:30;Trade Balance;Australia;AUD;2
+AUD_Exports;20171005;00:30;Exports;Australia;AUD;2
+EUR_PorRepublicDay;20171005;00:00;Republic Day;Portugal;EUR;0
+KRW_HarvestFestival;20171005;00:00;Harvest Festival ;South Korea;KRW;0
+HKD_ThedayfollowingtheChineseMidAutumnFestival;20171005;00:00;The day following the Chinese Mid-Autumn Festival;Hong Kong SAR;HKD;0
+CNY_NationalDay;20171005;00:00;National Day;China;CNY;0

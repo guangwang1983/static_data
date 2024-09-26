@@ -1,0 +1,38 @@
+ARS_TaxRevenue;20130102;21:00;Tax Revenue (MoM);Argentina;ARS;1
+BRL_TradeBalance;20130102;17:00;Trade Balance;Brazil;BRL;1
+USD_Auction;20130102;16:30;4-Week Bill Auction;United States;USD;1
+USD_ISMManufacturingPMI;20130102;15:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMPricesPaid;20130102;15:00;ISM Prices Paid;United States;USD;2
+USD_ConstructionSpending;20130102;15:00;Construction Spending (MoM);United States;USD;2
+USD_MarkitManufacturingPMI;20130102;13:58;Markit Manufacturing PMI;United States;USD;1
+USD_RedbookIndex;20130102;13:55;Redbook Index (YoY);United States;USD;1
+EUR_GerConsumerPriceIndex;20130102;13:00;Consumer Price Index (MoM);Germany;EUR;2
+EUR_GerHarmonizedIndexofConsumerPrices;20130102;13:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+BRL_HSBCPMIManufacturing;20130102;12:00;HSBC PMI Manufacturing;Brazil;BRL;1
+EUR_AusUnemployment;20130102;11:00;Unemployment;Austria;EUR;1
+EUR_AusUnemploymentRate;20130102;11:00;Unemployment Rate;Austria;EUR;1
+GBP_MarkitManufacturingPMI;20130102;09:28;Markit Manufacturing PMI;United Kingdom;GBP;2
+TRY_Exports;20130102;09:00;Exports;Turkey;TRY;1
+EUR_GerAuction;20130102;09:00;2-year Notes Auction;Germany;EUR;1
+EUR_GreMarkitManufacturingPMI;20130102;08:58;Markit Manufacturing PMI;Greece;EUR;1
+EUR_EurMarkitManufacturingPMI;20130102;08:58;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_GerMarkitManufacturingPMI;20130102;08:53;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20130102;08:48;Markit Manufacturing PMI;France;EUR;1
+EUR_ItaMarkitManufacturingPMI;20130102;08:43;Markit Manufacturing PMI;Italy;EUR;1
+CZK_MarkitPMI;20130102;08:30;Markit PMI;Czech Republic;CZK;1
+EUR_SpaMarkitManufacturingPMI;20130102;08:13;Markit Manufacturing PMI;Spain;EUR;1
+HUF_PurchasingManagerIndex;20130102;08:00;Purchasing Manager Index;Hungary;HUF;1
+EUR_IrePurchasingManagerIndexManufacturing;20130102;07:58;Purchasing Manager Index Manufacturing;Ireland;EUR;1
+SEK_PurchasingManagersIndexManufacturing;20130102;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+KRW_NikkeiMarkitManufacturingPMI;20130102;07:18;Nikkei Markit Manufacturing PMI;South Korea;KRW;1
+AUD_RBACommodityIndexSDR;20130102;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+IDR_TradeBalance;20130102;04:00;Trade Balance;Indonesia;IDR;1
+IDR_Exports;20130102;04:00;Exports;Indonesia;IDR;1
+IDR_Imports;20130102;04:00;Imports;Indonesia;IDR;1
+IDR_Inflation;20130102;04:00;Inflation (YoY);Indonesia;IDR;1
+IDR_CoreInflation;20130102;04:00;Core Inflation (YoY);Indonesia;IDR;1
+SGD_GrossDomesticProduct;20130102;01:45;Gross Domestic Product (QoQ);Singapore;SGD;1
+CHF_BankHoliday;20130102;00:00;Bank Holiday;Switzerland;CHF;0
+NZD_DayafterNewYearDay;20130102;00:00;Day after New Year Day ;New Zealand;NZD;0
+JPY_BankHoliday;20130102;00:00;Bank Holiday;Japan;JPY;0
+RON_DayafterNewYearDay;20130102;00:00;Day after New Year Day;Romania;RON;0

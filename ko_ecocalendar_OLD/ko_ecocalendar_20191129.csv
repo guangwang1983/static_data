@@ -1,0 +1,69 @@
+MXN_FiscalBalancepesos;20191129;22:00;Fiscal Balance, pesos;Mexico;MXN;1
+RON_StAndrewDay;20191129;21:00;St. Andrew Day;Romania;RON;0
+EUR_EurCentralBankSpeech;20191129;17:30;ECB De Guindos speech;European Monetary Union;EUR;2
+COP_NationalJoblessRate;20191129;15:00;National Jobless Rate;Colombia;COP;1
+EUR_BelGrossDomesticProduct;20191129;14:00;Gross Domestic Product (QoQ);Belgium;EUR;1
+CAD_RawMaterialPriceIndex;20191129;13:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20191129;13:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_GrossDomesticProduct;20191129;13:30;Gross Domestic Product Annualized (QoQ);Canada;CAD;3
+BRL_NominalBudgetBalance;20191129;12:30;Nominal Budget Balance;Brazil;BRL;1
+BRL_PrimaryBudgetSurplus;20191129;12:30;Primary Budget Surplus;Brazil;BRL;1
+INR_GrossDomesticProduct;20191129;12:00;Gross Domestic Product Quarterly (YoY);India;INR;1
+ZAR_TradeBalance;20191129;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+CLP_IndustrialProduction;20191129;12:00;Industrial Production (YoY);Chile;CLP;1
+INR_InfrastructureOutput;20191129;11:30;Infrastructure Output (YoY);India;INR;1
+INR_FXReservesUSD;20191129;11:30;FX Reserves, USD;India;INR;1
+BRL_UnemploymentRate;20191129;11:00;Unemployment Rate;Brazil;BRL;1
+EUR_PorGrossDomesticProduct;20191129;11:00;Gross Domestic Product (YoY);Portugal;EUR;1
+EUR_ItaGrossDomesticProduct;20191129;11:00;Gross Domestic Product (QoQ);Italy;EUR;2
+CLP_Unemploymentrate;20191129;11:00;Unemployment rate;Chile;CLP;1
+EUR_EurUnemploymentRate;20191129;10:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_EurConsumerPriceIndex;20191129;10:00;Consumer Price Index (YoY);European Monetary Union;EUR;3
+EUR_ItaConsumerPriceIndex;20191129;10:00;Consumer Price Index (YoY);Italy;EUR;1
+EUR_GreRetailSales;20191129;10:00;Retail Sales (YoY);Greece;EUR;1
+EUR_GreProducerPriceIndex;20191129;10:00;Producer Price Index (YoY);Greece;EUR;1
+INR_FederalFiscalDeficitINR;20191129;10:00;Federal Fiscal Deficit, INR;India;INR;1
+GBP_NetLendingtoIndividuals;20191129;09:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20191129;09:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20191129;09:30;Mortgage Approvals;United Kingdom;GBP;1
+EUR_PorConsumerPriceIndex;20191129;09:30;Consumer Price Index (MoM);Portugal;EUR;1
+GBP_M4MoneySupply;20191129;09:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+ISK_GrossDomesticProduct;20191129;09:00;Gross Domestic Product (QoQ);Iceland;ISK;1
+PLN_ConsumerPriceIndex;20191129;09:00;Consumer Price Index (YoY);Poland;PLN;1
+PLN_GrossDomesticProduct;20191129;09:00;Gross Domestic Product Qtr (YoY);Poland;PLN;1
+EUR_ItaUnemployment;20191129;09:00;Unemployment;Italy;EUR;1
+NOK_RegisteredUnemployment;20191129;09:00;Registered Unemployment s.a;Norway;NOK;1
+EUR_SpaCurrentAccount;20191129;09:00;Current Account Balance;Spain;EUR;1
+EUR_GerUnemploymentRate;20191129;08:55;Unemployment Rate s.a.;Germany;EUR;2
+EUR_GerUnemploymentChange;20191129;08:55;Unemployment Change;Germany;EUR;2
+SEK_GrossDomesticProduct;20191129;08:30;Gross Domestic Product (YoY);Sweden;SEK;1
+HUF_GrossWages;20191129;08:00;Gross Wages (YoY);Hungary;HUF;1
+CHF_KOFLeadingIndicator;20191129;08:00;KOF Leading Indicator;Switzerland;CHF;2
+EUR_AusGrossDomesticProduct;20191129;08:00;Gross Domestic Product (QoQ);Austria;EUR;1
+CZK_GrossDomesticProduct;20191129;08:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+EUR_AusProducerPriceIndex;20191129;08:00;Producer Price Index (YoY);Austria;EUR;1
+HUF_GrossDomesticProduct;20191129;08:00;Gross Domestic Product (YoY);Hungary;HUF;1
+EUR_FraProducerPrices;20191129;07:45;Producer Prices (MoM);France;EUR;1
+EUR_FraConsumerPriceIndex;20191129;07:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraConsumerSpending;20191129;07:45;Consumer Spending (MoM);France;EUR;1
+EUR_FraGrossDomesticProduct;20191129;07:45;Gross Domestic Product (QoQ);France;EUR;1
+TRY_TradeBalance;20191129;07:00;Trade Balance;Turkey;TRY;1
+DKK_UnemploymentRate;20191129;07:00;Unemployment Rate;Denmark;DKK;1
+GBP_NationwideHousingPrices;20191129;07:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;1
+TRY_ForeignArrivals;20191129;07:00;Foreign Arrivals;Turkey;TRY;1
+EUR_GerRetailSales;20191129;07:00;Retail Sales (MoM);Germany;EUR;2
+DKK_GrossDomesticProduct;20191129;07:00;Gross Domestic Product (QoQ);Denmark;DKK;1
+NOK_RetailSales;20191129;07:00;Retail Sales ;Norway;NOK;1
+EUR_FinGrossDomesticProduct;20191129;06:00;Gross Domestic Product Qtr Prelim (YoY);Finland;EUR;1
+ZAR_PrivateSectorCredit;20191129;06:00;Private Sector Credit;South Africa;ZAR;1
+ZAR_M3MoneySupply;20191129;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+JPY_AnnualizedHousingStarts;20191129;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_HousingStarts;20191129;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_ConstructionOrders;20191129;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_ConsumerConfidenceIndex;20191129;05:00;Consumer Confidence Index;Japan;JPY;1
+JPY_VehicleProduction;20191129;04:00;Vehicle Production (YoY);Japan;JPY;1
+KRW_BoKInterestRateDecision;20191129;01:00;BoK Interest Rate Decision;South Korea;KRW;1
+AUD_PrivateSectorCredit;20191129;00:30;Private Sector Credit (MoM);Australia;AUD;1
+GBP_GfKConsumerConfidence;20191129;00:01;GfK Consumer Confidence;United Kingdom;GBP;2
+EUR_IreConsumerConfidence;20191129;00:01;Consumer Confidence;Ireland;EUR;1
+AUD_HIANewHomeSales;20191129;00:00;HIA New Home Sales (MoM);Australia;AUD;2

@@ -1,0 +1,46 @@
+JPY_ShowaDay;20180430;00:00;Showa Day;Japan;JPY;0
+RUB_LabourDay;20180430;00:00;Labour Day;Russia;RUB;0
+EUR_EurEcoFinMeeting;20180430;00:00;EcoFin Meeting;European Monetary Union;EUR;2
+CNY_LabourDay;20180430;00:00;Labour Day;China;CNY;0
+HUF_RepublicDay;20180430;00:00;Republic Day ;Hungary;HUF;0
+CNY_NonManufacturingPMI;20180430;01:00;Non-Manufacturing PMI;China;CNY;2
+CNY_NBSManufacturingPMI;20180430;01:00;NBS Manufacturing PMI;China;CNY;2
+AUD_TDSecuritiesInflation;20180430;01:00;TD Securities Inflation (MoM);Australia;AUD;2
+NZD_ANZActivityOutlook;20180430;01:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20180430;01:00;ANZ Business Confidence;New Zealand;NZD;1
+AUD_HIANewHomeSales;20180430;01:15;HIA New Home Sales (MoM);Australia;AUD;2
+AUD_PrivateSectorCredit;20180430;01:30;Private Sector Credit (MoM);Australia;AUD;1
+AUD_CentralBankSpeech;20180430;02:00;RBA Governor Lowe speech;Australia;AUD;3
+DKK_UnemploymentRate;20180430;06:00;Unemployment Rate;Denmark;DKK;1
+EUR_GerRetailSales;20180430;06:00;Retail Sales (YoY);Germany;EUR;1
+NOK_RetailSales;20180430;06:00;Retail Sales ;Norway;NOK;1
+NOK_CreditIndicator;20180430;06:00;Credit Indicator;Norway;NOK;1
+ZAR_M3MoneySupply;20180430;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+ZAR_PrivateSectorCredit;20180430;06:00;Private Sector Credit;South Africa;ZAR;1
+CHF_KOFLeadingIndicator;20180430;07:00;KOF Leading Indicator;Switzerland;CHF;2
+TRY_TradeBalance;20180430;07:00;Trade Balance;Turkey;TRY;1
+TRY_ForeignArrivals;20180430;07:00;Foreign Arrivals;Turkey;TRY;1
+EUR_EurM3MoneySupply;20180430;08:00;M3 Money Supply (3m);European Monetary Union;EUR;1
+EUR_EurPrivateLoans;20180430;08:00;Private Loans (YoY);European Monetary Union;EUR;1
+EUR_ItaConsumerPriceIndex;20180430;09:52;Consumer Price Index (EU Norm) (MoM);Italy;EUR;1
+CLP_Unemploymentrate;20180430;11:00;Unemployment rate;Chile;CLP;1
+INR_InfrastructureOutput;20180430;11:30;Infrastructure Output (YoY);India;INR;1
+EUR_GerConsumerPriceIndex;20180430;12:00;Consumer Price Index (MoM);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20180430;12:00;Harmonized Index of Consumer Prices (MoM);Germany;EUR;1
+ZAR_TradeBalance;20180430;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+CLP_IndustrialProduction;20180430;12:00;Industrial Production (YoY);Chile;CLP;1
+USD_CorePersonalConsumptionExpendituresPriceIndex;20180430;12:30;Core Personal Consumption Expenditures - Price Index (YoY);United States;USD;3
+USD_PersonalSpending;20180430;12:30;Personal Spending;United States;USD;2
+USD_PersonalConsumptionExpendituresPriceIndex;20180430;12:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;2
+USD_PersonalIncome;20180430;12:30;Personal Income (MoM);United States;USD;2
+CAD_RawMaterialPriceIndex;20180430;12:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20180430;12:30;Industrial Product Price (MoM);Canada;CAD;1
+BRL_NominalBudgetBalance;20180430;13:30;Nominal Budget Balance;Brazil;BRL;1
+BRL_PrimaryBudgetSurplus;20180430;13:30;Primary Budget Surplus;Brazil;BRL;1
+USD_ChicagoPurchasingManagers'Index;20180430;13:45;Chicago Purchasing Managers' Index;United States;USD;2
+USD_PendingHomeSales;20180430;14:00;Pending Home Sales (YoY);United States;USD;1
+USD_DallasFedManufacturingBusinessIndex;20180430;14:30;Dallas Fed Manufacturing Business Index;United States;USD;1
+USD_Auction;20180430;15:30;3-Month Bill Auction;United States;USD;1
+MXN_FiscalBalancepesos;20180430;21:00;Fiscal Balance, pesos;Mexico;MXN;1
+NZD_BuildingPermits;20180430;22:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+AUD_AiGPerformanceofMfgIndex;20180430;23:30;AiG Performance of Mfg Index;Australia;AUD;2

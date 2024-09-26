@@ -1,0 +1,61 @@
+JPY_BankLending;20120510;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_MoneySupplyM2+CD;20120510;23:50;Money Supply M2+CD (YoY);Japan;JPY;1
+GBP_NationwideConsumerConfidence;20120510;23:01;Nationwide Consumer Confidence;United Kingdom;GBP;2
+NZD_FoodPriceIndex;20120510;22:45;Food Price Index (MoM);New Zealand;NZD;1
+NZD_RetailSales;20120510;22:45;Electronic Card Retail Sales  (MoM);New Zealand;NZD;2
+USD_CentralBankSpeech;20120510;20:00;Fed Minneapolis Kocherlakota speech;United States;USD;1
+USD_MonthlyBudgetStatement;20120510;18:00;Monthly Budget Statement;United States;USD;2
+USD_Auction;20120510;17:00;30-Year Bond Auction;United States;USD;1
+USD_EIANaturalGasStorageChange;20120510;14:30;EIA Natural Gas Storage Change;United States;USD;1
+GBP_NIESRGDPEstimate;20120510;14:00;NIESR GDP Estimate (3M);United Kingdom;GBP;2
+USD_TradeBalance;20120510;12:30;Trade Balance;United States;USD;2
+USD_JoblessClaims;20120510;12:30;Initial Jobless Claims;United States;USD;1
+USD_ImportPriceIndex;20120510;12:30;Import Price Index (MoM);United States;USD;1
+USD_ExportPriceIndex;20120510;12:30;Export Price Index (YoY);United States;USD;1
+CAD_InternationalMerchandiseTrade;20120510;12:30;International Merchandise Trade;Canada;CAD;1
+CAD_NewHousingPriceIndex;20120510;12:30;New Housing Price Index (YoY);Canada;CAD;1
+NOK_NorgesBankInterestRateDecision;20120510;12:00;Norges Bank Interest Rate Decision;Norway;NOK;1
+GBP_BoEAssetPurchaseFacility;20120510;11:00;BoE Asset Purchase Facility;United Kingdom;GBP;3
+GBP_BoEInterestRateDecision;20120510;11:00;BoE Interest Rate Decision;United Kingdom;GBP;3
+ZAR_ManufacturingProductionIndex;20120510;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+EUR_IreHICP;20120510;10:00;HICP (YoY);Ireland;EUR;1
+EUR_IreConsumerPriceIndex;20120510;10:00;Consumer Price Index (YoY);Ireland;EUR;1
+EUR_PorGlobalTradeBalance;20120510;10:00;Global Trade Balance;Portugal;EUR;1
+ZAR_ReutersEconometer;20120510;09:30;Reuters Econometer;South Africa;ZAR;1
+EUR_GreIndustrialProduction;20120510;09:00;Industrial Production (YoY);Greece;EUR;1
+EUR_GreUnemploymentRate;20120510;09:00;Unemployment Rate (MoM);Greece;EUR;1
+EUR_FraIndividualInvestment;20120510;08:45;Individual Investment (Current Year);France;EUR;1
+GBP_ManufacturingProduction;20120510;08:30;Manufacturing Production (MoM);United Kingdom;GBP;1
+GBP_IndustrialProduction;20120510;08:30;Industrial Production (YoY);United Kingdom;GBP;2
+NOK_ConsumerPriceIndex;20120510;08:00;Consumer Price Index (YoY);Norway;NOK;1
+NOK_CoreInflation;20120510;08:00;Core Inflation (MoM);Norway;NOK;1
+EUR_ItaIndustrialOutput;20120510;08:00;Industrial Output w.d.a (YoY);Italy;EUR;1
+EUR_EurECBMonthlyReport;20120510;08:00;ECB Monthly Report;European Monetary Union;EUR;3
+NOK_ProducerPriceIndex;20120510;08:00;Producer Price Index (YoY);Norway;NOK;1
+SEK_IndustrialProduction;20120510;07:30;Industrial Production (YoY);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20120510;07:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+SEK_ConsumerPriceIndex;20120510;07:30;Consumer Price Index (MoM);Sweden;SEK;1
+EUR_NetManufacturingOutput;20120510;07:30;Manufacturing Output (MoM);Netherlands, The;EUR;1
+EUR_NetConsumerPriceIndex;20120510;07:30;Consumer Price Index n.s.a (YoY);Netherlands, The;EUR;1
+CZK_ConsumerPriceIndex;20120510;07:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+EUR_SloIndustrialOutput;20120510;07:00;Industrial Output (YoY);Slovakia;EUR;1
+CZK_UnemploymentRate;20120510;07:00;Unemployment Rate;Czech Republic;CZK;1
+DKK_Inflation;20120510;07:00;Inflation (HICP) (YoY);Denmark;DKK;1
+DKK_ConsumerPriceIndex;20120510;07:00;Consumer Price Index (YoY);Denmark;DKK;1
+CZK_IndustrialProduction;20120510;07:00;Industrial Production (YoY);Czech Republic;CZK;1
+CZK_Constructionoutput;20120510;07:00;Construction output (YoY);Czech Republic;CZK;1
+EUR_FraIndustrialOutput;20120510;06:45;Industrial Output (MoM);France;EUR;1
+EUR_FraBudget;20120510;06:45;Budget;France;EUR;1
+EUR_FinIndustrialOutput;20120510;06:00;Industrial Output (MoM);Finland;EUR;1
+CNY_Exports;20120510;05:30;Exports (YoY);China;CNY;2
+JPY_EcoWatchersSurvey:Outlook;20120510;05:00;Eco Watchers Survey: Outlook;Japan;JPY;2
+JPY_EcoWatchersSurvey:Current;20120510;05:00;Eco Watchers Survey: Current;Japan;JPY;2
+CNY_Imports;20120510;05:00;Imports (YoY);China;CNY;2
+IDR_BankIndonesiaRate;20120510;05:00;Bank Indonesia Rate;Indonesia;IDR;1
+CNY_TradeBalanceUSD;20120510;03:00;Trade Balance USD;China;CNY;2
+AUD_EmploymentChange;20120510;01:30;Employment Change s.a.;Australia;AUD;3
+AUD_UnemploymentRate;20120510;01:30;Unemployment Rate s.a.;Australia;AUD;3
+KRW_BoKInterestRateDecision;20120510;01:00;BoK Interest Rate Decision;South Korea;KRW;1
+AUD_FulltimeEmployment;20120510;00:30;Fulltime Employment;Australia;AUD;1
+RUB_BudgetFulfilment;20120510;00:00;Budget Fulfilment;Russia;RUB;1
+RUB_CentralBankReserves;20120510;00:00;Central Bank Reserves $;Russia;RUB;1

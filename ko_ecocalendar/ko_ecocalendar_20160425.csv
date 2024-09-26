@@ -1,0 +1,19 @@
+NZD_ANZACDay;20160425;00:00;ANZAC Day;New Zealand;NZD;0
+AUD_ANZACDay;20160425;00:00;ANZAC Day;Australia;AUD;0
+EUR_ItaLiberationDay;20160425;00:00;Liberation Day;Italy;EUR;0
+JPY_CoincidentIndex;20160425;05:00;Coincident Index;Japan;JPY;2
+JPY_LeadingEconomicIndex;20160425;05:00;Leading Economic Index;Japan;JPY;2
+SEK_UnemploymentRate;20160425;07:30;Unemployment Rate;Sweden;SEK;1
+PLN_Unemployment;20160425;08:00;Unemployment (MoM);Poland;PLN;1
+EUR_GerIFO–BusinessClimate;20160425;08:00;IFO – Business Climate;Germany;EUR;2
+EUR_GerIFO–CurrentAssessment;20160425;08:00;IFO – Current Assessment;Germany;EUR;2
+EUR_GerIFO–Expectations;20160425;08:00;IFO – Expectations;Germany;EUR;2
+GBP_CBIIndustrialTrendsSurvey–Orders;20160425;10:00;CBI Industrial Trends Survey – Orders (MoM);United Kingdom;GBP;1
+TRY_ManufacturingConfidence;20160425;11:30;Manufacturing Confidence;Turkey;TRY;1
+TRY_CapacityUtilization;20160425;11:30;Capacity Utilization;Turkey;TRY;1
+MXN_RetailSales;20160425;13:00;Retail Sales (MoM);Mexico;MXN;1
+USD_NewHomeSalesChange;20160425;14:00;New Home Sales Change (MoM);United States;USD;2
+USD_NewHomeSales;20160425;14:00;New Home Sales (MoM);United States;USD;2
+USD_DallasFedManufacturingBusinessIndex;20160425;14:30;Dallas Fed Manufacturing Business Index;United States;USD;2
+USD_Auction;20160425;17:00;2-Year Note Auction;United States;USD;1
+KRW_GrossDomesticProduct;20160425;23:00;Gross Domestic Product Growth (QoQ) ;South Korea;KRW;1

@@ -1,0 +1,26 @@
+AUD_RBAMeetingMinutes;20151020;00:30;RBA Meeting Minutes;Australia;AUD;3
+CHF_TradeBalance;20151020;06:00;Trade Balance;Switzerland;CHF;1
+CHF_Exports;20151020;06:00;Exports (MoM);Switzerland;CHF;1
+CHF_Imports;20151020;06:00;Imports (MoM);Switzerland;CHF;1
+EUR_GerProducerPriceIndex;20151020;06:00;Producer Price Index (YoY);Germany;EUR;1
+HUF_GrossWages;20151020;07:00;Gross Wages (YoY);Hungary;HUF;1
+EUR_EurCurrentAccount;20151020;08:00;Current Account n.s.a;European Monetary Union;EUR;1
+CNY_FDIForeignDirectInvestment;20151020;09:20;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+GBP_CentralBankSpeech;20151020;10:00;BoE Governor Carney speech;United Kingdom;GBP;3
+HUF_MNBInterestRateDecision;20151020;12:00;MNB Interest Rate Decision;Hungary;HUF;1
+USD_HousingStarts;20151020;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20151020;12:30;Building Permits (MoM);United States;USD;2
+CAD_WholesaleSales;20151020;12:30;Wholesale Sales (MoM);Canada;CAD;1
+USD_RedbookIndex;20151020;12:55;Redbook Index (YoY);United States;USD;1
+RUB_GrossDomesticProduct;20151020;14:00;Gross Domestic Product Monthly (YoY);Russia;RUB;1
+NZD_GDTPriceIndex;20151020;14:29;GDT Price Index;New Zealand;NZD;1
+USD_CentralBankSpeech;20151020;15:00;Fed Chair Yellen speech;United States;USD;2
+USD_Auction;20151020;15:30;4-Week Bill Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20151020;21:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_VisitorArrivals;20151020;21:45;Visitor Arrivals (YoY);New Zealand;NZD;1
+COP_TradeBalance;20151020;22:00;Trade Balance;Colombia;COP;1
+AUD_WestpacLeadingIndex;20151020;23:30;Westpac Leading Index (MoM);Australia;AUD;1
+JPY_Exports;20151020;23:50;Exports (YoY);Japan;JPY;2
+JPY_Imports;20151020;23:50;Imports (YoY);Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20151020;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;2
+JPY_MerchandiseTradeBalanceTotal;20151020;23:50;Merchandise Trade Balance Total;Japan;JPY;2

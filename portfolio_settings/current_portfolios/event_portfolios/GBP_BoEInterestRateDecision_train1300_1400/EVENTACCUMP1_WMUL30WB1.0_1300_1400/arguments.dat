@@ -1,0 +1,1 @@
+/apps/levelup/bin/script/python/createRealSizeEventOOS.py --portfolios 1 --multiplier 1 --sublibfile sublib.dat --periodfile periods.dat --stime 13:00:00 --etime 14:00:00 --weightbound 1 --use_theoretical False --res_maxweight 30 --eventfile events.dat

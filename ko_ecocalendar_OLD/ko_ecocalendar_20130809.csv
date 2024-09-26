@@ -1,0 +1,49 @@
+PEN_Tradebalance;20130809;15:00;Trade balance;Peru;PEN;1
+USD_WholesaleInventories;20130809;14:00;Wholesale Inventories;United States;USD;1
+RUB_GrossDomesticProduct;20130809;14:00;Gross Domestic Product Quarterly (YoY);Russia;RUB;1
+MXN_IndustrialOutput;20130809;13:00;Industrial Output (YoY);Mexico;MXN;1
+CAD_ParticipationRate;20130809;12:30;Participation Rate;Canada;CAD;2
+CAD_NetChangeinEmployment;20130809;12:30;Net Change in Employment;Canada;CAD;3
+CAD_UnemploymentRate;20130809;12:30;Unemployment Rate;Canada;CAD;3
+CAD_HousingStarts;20130809;12:15;Housing Starts s.a (YoY);Canada;CAD;2
+INR_BankLoanGrowth;20130809;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20130809;11:30;FX Reserves, USD;India;INR;1
+RUB_ForeignTrade;20130809;10:00;Foreign Trade;Russia;RUB;1
+EUR_PorGlobalTradeBalance;20130809;10:00;Global Trade Balance;Portugal;EUR;1
+EUR_ItaConsumerPriceIndex;20130809;09:00;Consumer Price Index (YoY);Italy;EUR;1
+EUR_GreIndustrialProduction;20130809;09:00;Industrial Production (YoY);Greece;EUR;1
+GBP_GoodsTradeBalance;20130809;08:30;Goods Trade Balance;United Kingdom;GBP;2
+GBP_TradeBalancenonEU;20130809;08:30;Trade Balance non-EU;United Kingdom;GBP;2
+GBP_TotalTradeBalance;20130809;08:30;Total Trade Balance;United Kingdom;GBP;1
+EUR_ItaTradeBalanceEU;20130809;08:00;Trade Balance EU;Italy;EUR;1
+EUR_ItaGlobalTradeBalance;20130809;08:00;Global Trade Balance;Italy;EUR;1
+NOK_ConsumerPriceIndex;20130809;08:00;Consumer Price Index (YoY);Norway;NOK;1
+NOK_CoreInflation;20130809;08:00;Core Inflation (MoM);Norway;NOK;1
+RON_TradeBalance;20130809;08:00;Trade Balance;Romania;RON;1
+EUR_AusTradeBalance;20130809;08:00;Trade Balance;Austria;EUR;1
+NOK_ProducerPriceIndex;20130809;08:00;Producer Price Index (YoY);Norway;NOK;1
+EUR_NetManufacturingOutput;20130809;07:30;Manufacturing Output (MoM);Netherlands, The;EUR;1
+EUR_SloForeignTradeBalance;20130809;07:00;Foreign Trade Balance;Slovakia;EUR;1
+CZK_ConsumerPriceIndex;20130809;07:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+EUR_SloIndustrialOutput;20130809;07:00;Industrial Output (YoY);Slovakia;EUR;1
+RON_IndustrialProduction;20130809;07:00;Industrial Production (MoM);Romania;RON;1
+DKK_TradeBalance;20130809;07:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20130809;07:00;Current Account;Denmark;DKK;1
+DKK_IndustrialProduction;20130809;07:00;Industrial Production (MoM);Denmark;DKK;1
+EUR_FraIndustrialOutput;20130809;06:45;Industrial Output (MoM);France;EUR;1
+EUR_FraBudget;20130809;06:45;Budget;France;EUR;1
+EUR_FinIndustrialOutput;20130809;06:00;Industrial Output (MoM);Finland;EUR;1
+CNY_RetailSales;20130809;05:30;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20130809;05:30;Industrial Production (YoY);China;CNY;2
+CNY_FixedAssetInvestment;20130809;05:30;Fixed Asset Investment (YTD) (YoY);China;CNY;2
+JPY_BoJMonthlyEconomicSurvey;20130809;05:00;BoJ Monthly Economic Survey;Japan;JPY;2
+JPY_ConsumerConfidenceIndex;20130809;05:00;Consumer Confidence Index;Japan;JPY;2
+CNY_M2MoneySupply;20130809;02:00;M2 Money Supply (YoY);China;CNY;1
+CNY_NewLoans;20130809;02:00;New Loans;China;CNY;1
+AUD_RBAMonetaryPolicyStatement;20130809;01:30;RBA Monetary Policy Statement;Australia;AUD;3
+CNY_ConsumerPriceIndex;20130809;01:30;Consumer Price Index (YoY);China;CNY;1
+CNY_ProducerPriceIndex;20130809;01:30;Producer Price Index (YoY);China;CNY;2
+IDR_HariRayaIdulFitri;20130809;00:00;Hari Raya Idul Fitri;Indonesia;IDR;0
+QAR_EidalFitr;20130809;00:00;Eid al-Fitr;Qatar;QAR;0
+SGD_NationalDay;20130809;00:00;National Day;Singapore;SGD;0
+TRY_RamazanFeast;20130809;00:00;Ramazan Feast;Turkey;TRY;0

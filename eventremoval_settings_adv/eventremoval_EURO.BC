@@ -1,0 +1,9 @@
+USD_NonfarmPayrolls 0
+EUR_EurECBInterestRateDecision 0
+EUR_EurECBrateonmainrefinancingoperations 0
+EUR_EurECBrateondepositfacility 0
+EUR_EurECBRateOnMainRefinancingOperations 0
+EUR_EurECBRateOnDepositFacility 0
+EUR_EurECBMonetaryPolicyDecisionStatement 0
+GBP_BoEInterestRateDecision 0
+USD_ConsumerPriceIndex 0

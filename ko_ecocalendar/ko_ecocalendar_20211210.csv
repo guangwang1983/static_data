@@ -1,0 +1,45 @@
+IDR_RetailSales;20211210;04:00;Retail Sales (YoY);Indonesia;IDR;1
+NOK_CoreInflation;20211210;07:00;Core Inflation (MoM);Norway;NOK;1
+NOK_ConsumerPriceIndex;20211210;07:00;Consumer Price Index (MoM);Norway;NOK;1
+TRY_UnemploymentRate;20211210;07:00;Unemployment Rate;Turkey;TRY;1
+RON_TradeBalance;20211210;07:00;Trade Balance;Romania;RON;1
+DKK_Inflation;20211210;07:00;Inflation (HICP) (YoY);Denmark;DKK;1
+DKK_ConsumerPriceIndex;20211210;07:00;Consumer Price Index (YoY);Denmark;DKK;1
+GBP_ManufacturingProduction;20211210;07:00;Manufacturing Production (YoY);United Kingdom;GBP;2
+GBP_IndustrialProduction;20211210;07:00;Industrial Production (MoM);United Kingdom;GBP;2
+EUR_GerConsumerPriceIndex;20211210;07:00;Consumer Price Index (YoY);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20211210;07:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+GBP_IndexofServices;20211210;07:00;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20211210;07:00;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20211210;07:00;Total Trade Balance;United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20211210;07:00;Goods Trade Balance;United Kingdom;GBP;1
+GBP_GrossDomesticProduct;20211210;07:00;Gross Domestic Product (MoM);United Kingdom;GBP;2
+NOK_ProducerPriceIndex;20211210;07:00;Producer Price Index (YoY);Norway;NOK;1
+CNY_NewLoans;20211210;07:00;New Loans;China;CNY;1
+CNY_M2MoneySupply;20211210;07:00;M2 Money Supply (YoY);China;CNY;1
+CZK_ConsumerPriceIndex;20211210;08:00;Consumer Price Index (MoM);Czech Republic;CZK;1
+EUR_ItaIndustrialOutput;20211210;09:00;Industrial Output s.a. (MoM);Italy;EUR;1
+EUR_GerCentralBankSpeech;20211210;09:00;German Buba President Weidmann speech;Germany;EUR;2
+GBP_ConsumerInflationExpectations;20211210;09:30;Consumer Inflation Expectations;United Kingdom;GBP;1
+EUR_EurCentralBankSpeech;20211210;10:10;ECB Elderson speech;European Monetary Union;EUR;2
+INR_FXReservesUSD;20211210;11:30;FX Reserves, USD;India;INR;1
+BRL_IPCAInflation;20211210;12:00;IPCA Inflation;Brazil;BRL;1
+MXN_IndustrialOutput;20211210;12:00;Industrial Output (MoM);Mexico;MXN;1
+INR_IndustrialOutput;20211210;12:00;Industrial Output;India;INR;1
+INR_ManufacturingOutput;20211210;12:00;Manufacturing Output;India;INR;1
+INR_CumulativeIndustrialOutput;20211210;12:00;Cumulative Industrial Output;India;INR;1
+GBP_NIESRGDPEstimate;20211210;13:00;NIESR GDP Estimate (3M);United Kingdom;GBP;2
+RUB_ForeignTrade;20211210;13:00;Foreign Trade;Russia;RUB;1
+USD_ConsumerPriceIndex;20211210;13:30;Consumer Price Index (MoM);United States;USD;2
+CAD_CapacityUtilization;20211210;13:30;Capacity Utilization;Canada;CAD;1
+USD_UoM5yearConsumerInflationExpectation;20211210;15:00;UoM 5-year Consumer Inflation Expectation;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20211210;15:00;Michigan Consumer Sentiment Index;United States;USD;3
+USD_BakerHughesUSOilRigCount;20211210;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_MonthlyBudgetStatement;20211210;19:00;Monthly Budget Statement;United States;USD;2
+GBP_CFTCGBPNCNetPositions;20211210;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20211210;20:30;CFTC Gold NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20211210;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCS&P500NCNetPositions;20211210;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20211210;20:30;CFTC Oil NC Net Positions;United States;USD;1
+AUD_CFTCAUDNCNetPositions;20211210;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20211210;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1

@@ -1,0 +1,39 @@
+AUD_GrossDomesticProduct;20230906;01:30;Gross Domestic Product (QoQ);Australia;AUD;3
+EUR_GerFactoryOrders;20230906;06:00;Factory Orders n.s.a. (YoY);Germany;EUR;2
+NOK_CurrentAccount;20230906;06:00;Current Account;Norway;NOK;1
+HUF_RetailSales;20230906;06:30;Retail Sales (YoY);Hungary;HUF;1
+CZK_IndustrialProduction;20230906;07:00;Industrial Production (YoY);Czech Republic;CZK;1
+CZK_Constructionoutput;20230906;07:00;Construction output (YoY);Czech Republic;CZK;1
+CZK_ForeignTradeBalance;20230906;07:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+GBP_S&PGlobalConstructionPMI;20230906;08:30;S&P Global Construction PMI;United Kingdom;GBP;1
+EUR_EurRetailSales;20230906;09:00;Retail Sales (YoY);European Monetary Union;EUR;3
+EUR_GerAuction;20230906;09:30;10-y Bond Auction;Germany;EUR;1
+USD_MBAMortgageApplications;20230906;11:00;MBA Mortgage Applications;United States;USD;1
+INR_M3MoneySupply;20230906;11:30;M3 Money Supply;India;INR;1
+USD_GoodsandServicesTradeBalance;20230906;12:30;Goods and Services Trade Balance;United States;USD;1
+USD_GoodsTradeBalance;20230906;12:30;Goods Trade Balance;United States;USD;1
+CAD_LaborProductivity;20230906;12:30;Labor Productivity (QoQ);Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20230906;12:30;International Merchandise Trade;Canada;CAD;1
+CAD_Exports;20230906;12:30;Exports;Canada;CAD;1
+CAD_Imports;20230906;12:30;Imports;Canada;CAD;1
+USD_RedbookIndex;20230906;12:55;Redbook Index (YoY);United States;USD;1
+USD_S&PGlobalServicesPMI;20230906;13:45;S&P Global Services PMI;United States;USD;1
+USD_S&PGlobalCompositePMI;20230906;13:45;S&P Global Composite PMI;United States;USD;2
+USD_ISMServicesPricesPaid;20230906;14:00;ISM Services Prices Paid;United States;USD;2
+USD_ISMServicesPMI;20230906;14:00;ISM Services PMI;United States;USD;3
+USD_ISMServicesNewOrdersIndex;20230906;14:00;ISM Services New Orders Index;United States;USD;2
+USD_ISMServicesEmploymentIndex;20230906;14:00;ISM Services Employment Index;United States;USD;2
+CAD_BoCRateStatement;20230906;14:00;BoC Rate Statement;Canada;CAD;3
+CAD_BoCInterestRateDecision;20230906;14:00;BoC Interest Rate Decision;Canada;CAD;3
+USD_EIACrudeOilStocksChange;20230906;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+AUD_CentralBankSpeech;20230906;15:10;RBA Governor Lowe speech;Australia;AUD;3
+USD_FedBeigeBook;20230906;18:00;Fed Beige Book;United States;USD;2
+USD_TotalVehicleSales;20230906;19:30;Total Vehicle Sales;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20230906;20:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_ManufacturingSales;20230906;22:45;Manufacturing Sales;New Zealand;NZD;1
+AUD_AiGIndustryIndex;20230906;23:00;AiG Industry Index;Australia;AUD;2
+AUD_AiGManufacturingPMI;20230906;23:00;AiG Manufacturing PMI;Australia;AUD;1
+AUD_AiGConstructionPMI;20230906;23:00;AiG Construction PMI;Australia;AUD;1
+JPY_JPForeignReserves;20230906;23:50;JP Foreign Reserves;Japan;JPY;1
+JPY_ForeignBondInvestment;20230906;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20230906;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1

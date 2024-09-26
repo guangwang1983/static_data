@@ -1,0 +1,61 @@
+JPY_BankLending;20190207;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_CurrentAccount;20190207;23:50;Current Account n.s.a.;Japan;JPY;1
+JPY_TradeBalanceBOPBasis;20190207;23:50;Trade Balance - BOP Basis;Japan;JPY;1
+JPY_OverallHouseholdSpending;20190207;23:30;Overall Household Spending (YoY);Japan;JPY;2
+KRW_FXReserves;20190207;21:00;FX Reserves;South Korea;KRW;1
+USD_ConsumerCreditChange;20190207;20:00;Consumer Credit Change;United States;USD;1
+MXN_CentralBankInterestRate;20190207;19:00;Central Bank Interest Rate;Mexico;MXN;1
+USD_Auction;20190207;16:30;4-Week Bill Auction;United States;USD;1
+USD_EIANaturalGasStorageChange;20190207;15:30;EIA Natural Gas Storage Change;United States;USD;1
+TRY_TreasuryCashBalance;20190207;14:30;Treasury Cash Balance;Turkey;TRY;1
+USD_CentralBankSpeech;20190207;14:15;Fed Kaplan speech;United States;USD;2
+MXN_12MonthInflation;20190207;14:00;12-Month Inflation;Mexico;MXN;1
+MXN_CoreInflation;20190207;14:00;Core Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20190207;14:00;Headline Inflation;Mexico;MXN;1
+USD_JoblessClaims;20190207;13:30;Continuing Jobless Claims;United States;USD;2
+CZK_CNBInterestRateDecision;20190207;13:00;CNB Interest Rate Decision;Czech Republic;CZK;1
+RUB_CentralBankReserves;20190207;13:00;Central Bank Reserves $;Russia;RUB;1
+PLN_CentralBankFXReserves;20190207;13:00;Central Bank FX Reserves;Poland;PLN;1
+GBP_CentralBankSpeech;20190207;12:30;BoE Governor Carney speech;United Kingdom;GBP;3
+EUR_EurCentralBankSpeech;20190207;12:15;ECB Mersch speech;European Monetary Union;EUR;2
+EUR_SpaAuction;20190207;12:06;3-y Bond Auction;Spain;EUR;1
+GBP_BoEAssetPurchaseFacility;20190207;12:00;BoE Asset Purchase Facility;United Kingdom;GBP;3
+GBP_BoEInterestRateDecision;20190207;12:00;BoE Interest Rate Decision;United Kingdom;GBP;3
+GBP_BankofEnglandQuarterlyInflationReport;20190207;12:00;Bank of England Quarterly Inflation Report;United Kingdom;GBP;2
+GBP_BoEMPCVoteUnchanged;20190207;12:00;BoE MPC Vote Unchanged;United Kingdom;GBP;3
+GBP_BoEMPCVoteCut;20190207;12:00;BoE MPC Vote Cut;United Kingdom;GBP;3
+GBP_BoEMPCVoteHike;20190207;12:00;BoE MPC Vote Hike;United Kingdom;GBP;3
+GBP_BankofEnglandMinutes;20190207;12:00;Bank of England Minutes;United Kingdom;GBP;3
+RON_Interestratedecision;20190207;12:00;Interest rate decision;Romania;RON;1
+CLP_TradeBalance;20190207;11:00;Trade Balance;Chile;CLP;1
+EUR_FraAuction;20190207;10:19;10-y Bond Auction;France;EUR;1
+EUR_EurEuropeanCommissionreleasesEconomicGrowthForecasts;20190207;10:00;European Commission releases Economic Growth Forecasts;European Monetary Union;EUR;2
+SGD_ForeignReserves;20190207;10:00;Foreign Reserves (MoM);Singapore;SGD;1
+EUR_GreUnemploymentRate;20190207;10:00;Unemployment Rate (MoM);Greece;EUR;1
+GBP_MayJunckerMeeting;20190207;10:00;May - Juncker Meeting;United Kingdom;GBP;2
+EUR_ItaRetailSales;20190207;09:00;Retail Sales n.s.a (YoY);Italy;EUR;1
+CZK_FXReserves;20190207;09:00;FX Reserves;Czech Republic;CZK;1
+EUR_EurEconomicBulletin;20190207;09:00;Economic Bulletin;European Monetary Union;EUR;2
+GBP_HalifaxHousePrices;20190207;08:30;Halifax House Prices (MoM);United Kingdom;GBP;1
+HUF_IndustrialOutput;20190207;08:00;Industrial Output (YoY);Hungary;HUF;1
+EUR_AusWholesalePrices;20190207;08:00;Wholesale Prices n.s.a (YoY);Austria;EUR;1
+CHF_ForeignCurrencyReserves;20190207;08:00;Foreign Currency Reserves;Switzerland;CHF;1
+EUR_SpaIndustrialOutputCalAdjusted;20190207;08:00;Industrial Output Cal Adjusted (YoY);Spain;EUR;1
+EUR_FraIndividualInvestment;20190207;07:45;Individual Investment (Current Year);France;EUR;1
+EUR_FraExportsEUR;20190207;07:45;Exports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20190207;07:45;Trade Balance EUR;France;EUR;1
+EUR_FraImportsEUR;20190207;07:45;Imports, EUR;France;EUR;1
+EUR_FraCurrentAccount;20190207;07:45;Current Account;France;EUR;1
+EUR_GerIndustrialProduction;20190207;07:00;Industrial Production s.a. (MoM);Germany;EUR;2
+EUR_FinTradeBalance;20190207;07:00;Trade Balance;Finland;EUR;1
+DKK_IndustrialProduction;20190207;07:00;Industrial Production (MoM);Denmark;DKK;1
+NOK_ManufacturingOutput;20190207;07:00;Manufacturing Output;Norway;NOK;1
+INR_ReverseRepoRate;20190207;06:15;Reverse Repo Rate;India;INR;1
+INR_RBIInterestRateDecision;20190207;06:15;RBI Interest Rate Decision (Repo Rate);India;INR;1
+ZAR_Gross$Gold&ForexReserve;20190207;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+ZAR_Net$Gold&ForexReserve;20190207;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+JPY_CoincidentIndex;20190207;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20190207;05:00;Leading Economic Index;Japan;JPY;2
+EUR_IreConsumerConfidence;20190207;00:01;Consumer Confidence;Ireland;EUR;1
+HKD_LunarNewYear;20190207;00:00;Lunar New Year;Hong Kong SAR;HKD;0
+CNY_ChineseNewYear;20190207;00:00;Chinese New Year;China;CNY;0

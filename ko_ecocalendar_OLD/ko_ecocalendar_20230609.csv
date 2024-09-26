@@ -1,0 +1,31 @@
+CNY_ProducerPriceIndex;20230609;01:30;Producer Price Index (YoY);China;CNY;2
+CNY_ConsumerPriceIndex;20230609;01:30;Consumer Price Index (MoM);China;CNY;2
+IDR_RetailSales;20230609;04:00;Retail Sales (YoY);Indonesia;IDR;1
+DKK_TradeBalance;20230609;06:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20230609;06:00;Current Account;Denmark;DKK;1
+RON_TradeBalance;20230609;06:00;Trade Balance;Romania;RON;1
+NOK_ConsumerPriceIndex;20230609;06:00;Consumer Price Index (YoY);Norway;NOK;1
+NOK_CoreInflation;20230609;06:00;Core Inflation (MoM);Norway;NOK;1
+NOK_ProducerPriceIndex;20230609;06:00;Producer Price Index (YoY);Norway;NOK;1
+SEK_IndustrialProductionValue;20230609;06:00;Industrial Production Value (MoM);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20230609;06:00;New Orders Manufacturing (YoY);Sweden;SEK;1
+TRY_IndustrialProduction;20230609;07:00;Industrial Production (YoY);Turkey;TRY;1
+EUR_EurCentralBankSpeech;20230609;08:00;ECB De Guindos speech;European Monetary Union;EUR;2
+RUB_Interestratedecision;20230609;10:30;Interest rate decision;Russia;RUB;2
+INR_FXReservesUSD;20230609;11:30;FX Reserves, USD;India;INR;1
+MXN_IndustrialOutput;20230609;12:00;Industrial Output (MoM);Mexico;MXN;1
+CAD_CapacityUtilization;20230609;12:30;Capacity Utilization;Canada;CAD;1
+CAD_UnemploymentRate;20230609;12:30;Unemployment Rate;Canada;CAD;3
+CAD_ParticipationRate;20230609;12:30;Participation Rate;Canada;CAD;2
+CAD_AverageHourlyWages;20230609;12:30;Average Hourly Wages (YoY);Canada;CAD;2
+CAD_NetChangeinEmployment;20230609;12:30;Net Change in Employment;Canada;CAD;3
+USD_USDAWASDEReport;20230609;16:00;USDA WASDE Report;United States;USD;1
+RUB_ConsumerPriceIndex;20230609;16:00;Consumer Price Index (MoM);Russia;RUB;1
+USD_BakerHughesUSOilRigCount;20230609;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20230609;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20230609;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20230609;20:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20230609;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20230609;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20230609;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20230609;20:30;CFTC AUD NC Net Positions;Australia;AUD;1

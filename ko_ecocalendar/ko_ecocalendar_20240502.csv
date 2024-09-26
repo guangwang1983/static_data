@@ -1,0 +1,55 @@
+IDR_S&PGlobalManufacturingPMI;20240502;00:30;S&P Global Manufacturing PMI;Indonesia;IDR;1
+KRW_S&PGlobalManufacturingPMI;20240502;00:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+AUD_BuildingPermits;20240502;01:30;Building Permits (MoM);Australia;AUD;2
+AUD_Exports;20240502;01:30;Exports (MoM);Australia;AUD;2
+AUD_Imports;20240502;01:30;Imports (MoM);Australia;AUD;2
+AUD_TradeBalance;20240502;01:30;Trade Balance (MoM);Australia;AUD;3
+IDR_Inflation;20240502;04:00;Inflation (MoM);Indonesia;IDR;1
+IDR_CoreInflation;20240502;04:00;Core Inflation (YoY);Indonesia;IDR;1
+INR_M3MoneySupply;20240502;05:00;M3 Money Supply;India;INR;1
+INR_HSBCManufacturingPMI;20240502;05:00;HSBC Manufacturing PMI;India;INR;2
+JPY_ConsumerConfidenceIndex;20240502;05:00;Consumer Confidence Index;Japan;JPY;1
+RUB_S&PGlobalManufacturingPMI;20240502;06:00;S&P Global Manufacturing PMI;Russia;RUB;1
+HUF_TradeBalance;20240502;06:30;Trade Balance;Hungary;HUF;1
+CHF_RetailSales;20240502;06:30;Real Retail Sales (YoY);Switzerland;CHF;2
+CHF_ConsumerPriceIndex;20240502;06:30;Consumer Price Index (YoY);Switzerland;CHF;3
+SEK_PurchasingManagersIndexManufacturing;20240502;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+PLN_PurchasingManagerIndex;20240502;07:00;Purchasing Manager Index;Poland;PLN;1
+HUF_PurchasingManagerIndex;20240502;07:00;Purchasing Manager Index;Hungary;HUF;1
+CZK_S&PGlobalPMI;20240502;07:30;S&P Global PMI;Czech Republic;CZK;1
+CHF_SVMEPurchasingManagers'Index;20240502;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+EUR_ItaHCOBManufacturingPMI;20240502;07:45;HCOB Manufacturing PMI;Italy;EUR;2
+EUR_FraHCOBManufacturingPMI;20240502;07:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerHCOBManufacturingPMI;20240502;07:55;HCOB Manufacturing PMI;Germany;EUR;2
+EUR_ItaProducerPriceIndex;20240502;08:00;Producer Price Index (YoY);Italy;EUR;1
+TRY_Exports;20240502;08:00;Exports;Turkey;TRY;1
+EUR_EurHCOBManufacturingPMI;20240502;08:00;HCOB Manufacturing PMI;Eurozone;EUR;1
+ZAR_TotalNewVehicleSales;20240502;09:00;Total New Vehicle Sales;South Africa;ZAR;1
+EUR_FraAuction;20240502;09:00;10-y Bond Auction;France;EUR;1
+ILS_IndustrialProduction;20240502;10:00;Industrial Production (MoM);Israel;ILS;1
+USD_ChallengerJobCuts;20240502;11:30;Challenger Job Cuts;United States;USD;2
+CLP_IMACEC;20240502;11:30;IMACEC;Chile;CLP;1
+CZK_BudgetBalance;20240502;12:00;Budget Balance;Czech Republic;CZK;1
+USD_GoodsandServicesTradeBalance;20240502;12:30;Goods and Services Trade Balance;United States;USD;1
+USD_JoblessClaims;20240502;12:30;Continuing Jobless Claims;United States;USD;1
+USD_UnitLaborCosts;20240502;12:30;Unit Labor Costs;United States;USD;2
+USD_NonfarmProductivity;20240502;12:30;Nonfarm Productivity;United States;USD;2
+USD_GoodsTradeBalance;20240502;12:30;Goods Trade Balance;United States;USD;1
+BRL_CurrentAccount;20240502;12:30;Current Account;Brazil;BRL;1
+CZK_CNBInterestRateDecision;20240502;12:30;CNB Interest Rate Decision;Czech Republic;CZK;1
+CAD_InternationalMerchandiseTrade;20240502;12:30;International Merchandise Trade;Canada;CAD;1
+CAD_Exports;20240502;12:30;Exports;Canada;CAD;1
+CAD_Imports;20240502;12:30;Imports;Canada;CAD;1
+CAD_CentralBankSpeech;20240502;12:45;BoC Governor Macklem speech;Canada;CAD;3
+BRL_S&PGlobalManufacturingPMI;20240502;13:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+RUB_CentralBankReserves;20240502;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_FactoryOrders;20240502;14:00;Factory Orders (MoM);United States;USD;2
+USD_EIANaturalGasStorageChange;20240502;14:30;EIA Natural Gas Storage Change;United States;USD;1
+DKK_CurrencyReserves;20240502;15:00;Currency Reserves;Denmark;DKK;1
+JPY_ConstitutionDay;20240502;15:00;Constitution Day;Japan;JPY;0
+USD_Auction;20240502;15:30;4-Week Bill Auction;United States;USD;1
+EUR_EurCentralBankSpeech;20240502;20:15;ECB Lane speech;Eurozone;EUR;2
+RON_OrthodoxGoodFriday;20240502;21:00;Orthodox Good Friday;Romania;RON;0
+PLN_ConstitutionDay;20240502;23:00;Constitution Day ;Poland;PLN;0
+AUD_JudoBankServicesPMI;20240502;23:00;Judo Bank Services PMI;Australia;AUD;2
+AUD_JudoBankCompositePMI;20240502;23:00;Judo Bank Composite PMI;Australia;AUD;2

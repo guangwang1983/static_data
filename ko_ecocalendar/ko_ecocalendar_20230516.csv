@@ -1,0 +1,42 @@
+AUD_WestpacConsumerConfidence;20230516;00:30;Westpac Consumer Confidence;Australia;AUD;2
+AUD_RBAMeetingMinutes;20230516;01:30;RBA Meeting Minutes;Australia;AUD;3
+CNY_RetailSales;20230516;02:00;Retail Sales (YoY);China;CNY;3
+CNY_IndustrialProduction;20230516;02:00;Industrial Production (YoY);China;CNY;2
+CNY_FixedAssetInvestment;20230516;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+GBP_ClaimantCountChange;20230516;06:00;Claimant Count Change;United Kingdom;GBP;3
+GBP_ClaimantCountRate;20230516;06:00;Claimant Count Rate;United Kingdom;GBP;2
+GBP_AverageEarningsExcludingBonus;20230516;06:00;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20230516;06:00;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_AverageEarningsIncludingBonus;20230516;06:00;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+RON_GrossDomesticProduct;20230516;06:00;Gross Domestic Product;Romania;RON;1
+HUF_GrossDomesticProduct;20230516;06:30;Gross Domestic Product (YoY);Hungary;HUF;1
+EUR_EurEcoFinMeeting;20230516;07:00;EcoFin Meeting;European Monetary Union;EUR;2
+PLN_GrossDomesticProduct;20230516;08:00;Gross Domestic Product Qtr (YoY);Poland;PLN;1
+EUR_ItaConsumerPriceIndex;20230516;08:00;Consumer Price Index (EU Norm) (MoM);Italy;EUR;1
+EUR_EurTradeBalance;20230516;09:00;Trade Balance s.a.;European Monetary Union;EUR;1
+EUR_EurGrossDomesticProduct;20230516;09:00;Gross Domestic Product s.a. (QoQ);European Monetary Union;EUR;3
+EUR_GerZEWSurvey–EconomicSentiment;20230516;09:00;ZEW Survey – Economic Sentiment;Germany;EUR;2
+EUR_GerZEWSurvey–CurrentSituation;20230516;09:00;ZEW Survey – Current Situation;Germany;EUR;2
+EUR_EurZEWSurvey–EconomicSentiment;20230516;09:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;2
+EUR_EurEmploymentChange;20230516;09:00;Employment Change (YoY);European Monetary Union;EUR;1
+ZAR_UnemploymentRate;20230516;09:30;Unemployment Rate (%);South Africa;ZAR;1
+ZAR_UnemploymentTotal;20230516;09:30;Unemployment Total ;South Africa;ZAR;1
+ILS_M1MoneySupply;20230516;10:00;M1 Money Supply (MoM);Israel;ILS;1
+ILS_GrossDomesticProduct;20230516;10:00;Gross Domestic Product (QoQ);Israel;ILS;1
+PLN_NetInflation;20230516;12:00;Net Inflation;Poland;PLN;1
+USD_RetailSales;20230516;12:30;Retail Sales ex Autos (MoM);United States;USD;2
+CAD_ManufacturingSales;20230516;12:30;Manufacturing Sales (MoM);Canada;CAD;1
+CAD_ConsumerPriceIndex;20230516;12:30;BoC Consumer Price Index Core (YoY);Canada;CAD;3
+USD_RedbookIndex;20230516;12:55;Redbook Index (YoY);United States;USD;1
+USD_IndustrialProduction;20230516;13:15;Industrial Production (MoM);United States;USD;1
+USD_CapacityUtilization;20230516;13:15;Capacity Utilization;United States;USD;1
+EUR_EurCentralBankSpeech;20230516;14:00;ECB President Lagarde speech;European Monetary Union;EUR;3
+USD_BusinessInventories;20230516;14:00;Business Inventories;United States;USD;1
+USD_NAHBHousingMarketIndex;20230516;14:00;NAHB Housing Market Index;United States;USD;1
+NZD_GDTPriceIndex;20230516;14:00;GDT Price Index;New Zealand;NZD;1
+COP_TradeBalance;20230516;15:00;Trade Balance;Colombia;COP;1
+USD_Auction;20230516;15:30;52-Week Bill Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20230516;20:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_CentralBankSpeech;20230516;23:00;Fed Bostic speech;United States;USD;2
+NOK_ConstitutionDay;20230516;23:00;Constitution Day;Norway;NOK;0
+JPY_GrossDomesticProduct;20230516;23:50;Gross Domestic Product Deflator (YoY);Japan;JPY;1

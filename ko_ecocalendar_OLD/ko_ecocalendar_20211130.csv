@@ -1,0 +1,39 @@
+NZD_ANZActivityOutlook;20211130;00:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20211130;00:00;ANZ Business Confidence;New Zealand;NZD;1
+AUD_CurrentAccount;20211130;00:30;Current Account Balance;Australia;AUD;1
+AUD_PrivateSectorCredit;20211130;00:30;Private Sector Credit (YoY);Australia;AUD;1
+AUD_BuildingPermits;20211130;00:30;Building Permits (YoY);Australia;AUD;1
+CNY_NonManufacturingPMI;20211130;01:00;Non-Manufacturing PMI;China;CNY;3
+CNY_NBSManufacturingPMI;20211130;01:00;NBS Manufacturing PMI;China;CNY;3
+JPY_AnnualizedHousingStarts;20211130;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_HousingStarts;20211130;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_ConstructionOrders;20211130;05:00;Construction Orders (YoY);Japan;JPY;1
+ZAR_M3MoneySupply;20211130;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+ZAR_PrivateSectorCredit;20211130;06:00;Private Sector Credit;South Africa;ZAR;1
+TRY_GrossDomesticProduct;20211130;07:00;Quarterly Gross Domestic Product;Turkey;TRY;1
+DKK_UnemploymentRate;20211130;07:00;Unemployment Rate;Denmark;DKK;1
+DKK_GrossDomesticProduct;20211130;07:00;Gross Domestic Product (YoY);Denmark;DKK;1
+NOK_CreditIndicator;20211130;07:00;Credit Indicator;Norway;NOK;1
+CZK_GrossDomesticProduct;20211130;08:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+CHF_KOFLeadingIndicator;20211130;08:00;KOF Leading Indicator;Switzerland;CHF;2
+PLN_GrossDomesticProduct;20211130;09:00;Gross Domestic Product Qtr (YoY);Poland;PLN;1
+ZAR_UnemploymentTotal;20211130;09:30;Unemployment Total ;South Africa;ZAR;1
+ZAR_UnemploymentRate;20211130;09:30;Unemployment Rate (%);South Africa;ZAR;1
+EUR_EurConsumerPriceIndex;20211130;10:00;Consumer Price Index - Core (YoY);European Monetary Union;EUR;3
+ZAR_TradeBalance;20211130;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+CAD_GrossDomesticProduct;20211130;13:30;Gross Domestic Product Annualized (QoQ);Canada;CAD;3
+USD_RedbookIndex;20211130;13:55;Redbook Index (YoY);United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20211130;14:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;2
+USD_HousingPriceIndex;20211130;14:00;Housing Price Index (MoM);United States;USD;2
+USD_ChicagoPurchasingManagers'Index;20211130;14:45;Chicago Purchasing Managers' Index;United States;USD;2
+USD_ConsumerConfidence;20211130;15:00;Consumer Confidence;United States;USD;2
+GBP_CentralBankSpeech;20211130;15:00;UK Prime Minister Boris Johnson speech;United Kingdom;GBP;3
+USD_Auction;20211130;16:30;52-Week Bill Auction;United States;USD;1
+USD_CentralBankSpeech;20211130;18:00;Fed Clarida speech;United States;USD;2
+MXN_FiscalBalancepesos;20211130;21:00;Fiscal Balance, pesos;Mexico;MXN;1
+USD_APIWeeklyCrudeOilStock;20211130;21:30;API Weekly Crude Oil Stock;United States;USD;1
+AUD_AiGPerformanceofMfgIndex;20211130;21:30;AiG Performance of Mfg Index;Australia;AUD;2
+NZD_BuildingPermits;20211130;21:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+RON_NationalDay;20211130;22:00;National Day;Romania;RON;0
+AUD_CommonwealthBankManufacturingPMI;20211130;22:00;Commonwealth Bank Manufacturing PMI;Australia;AUD;1
+JPY_CapitalSpending;20211130;23:50;Capital Spending;Japan;JPY;1

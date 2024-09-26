@@ -1,0 +1,27 @@
+AUD_NationalAustraliaBankBusinessConfidence;20170613;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20170613;01:30;National Australia Bank Business Conditions;Australia;AUD;1
+KRW_MoneySupplyGrowth;20170613;03:00;Money Supply Growth;South Korea;KRW;1
+EUR_FraNonfarmPayrolls;20170613;05:30;Nonfarm Payrolls (QoQ);France;EUR;1
+EUR_GerWholesalePriceIndex;20170613;06:00;Wholesale Price Index (MoM);Germany;EUR;2
+SEK_ConsumerPriceIndex;20170613;07:30;Consumer Price Index (MoM);Sweden;SEK;1
+CZK_CurrentAccount;20170613;08:00;Current Account (MoM);Czech Republic;CZK;1
+GBP_RetailPriceIndex;20170613;08:30;Retail Price Index (MoM);United Kingdom;GBP;1
+GBP_DCLGHousePriceIndex;20170613;08:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ProducerPriceIndex;20170613;08:30;Producer Price Index - Output (YoY) n.s.a;United Kingdom;GBP;2
+GBP_PPICoreOutput;20170613;08:30;PPI Core Output (MoM) n.s.a;United Kingdom;GBP;2
+GBP_ConsumerPriceIndex;20170613;08:30;Consumer Price Index (MoM);United Kingdom;GBP;2
+EUR_EurZEWSurvey–EconomicSentiment;20170613;09:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurvey–CurrentSituation;20170613;09:00;ZEW Survey – Current Situation;Germany;EUR;2
+EUR_GerZEWSurvey–EconomicSentiment;20170613;09:00;ZEW Survey – Economic Sentiment;Germany;EUR;2
+USD_NFIBBusinessOptimismIndex;20170613;10:00;NFIB Business Optimism Index;United States;USD;1
+PLN_NetInflation;20170613;12:00;Net Inflation;Poland;PLN;1
+PLN_CurrentAccount;20170613;12:00;Current Account;Poland;PLN;1
+BRL_RetailSales;20170613;12:00;Retail Sales (MoM);Brazil;BRL;1
+USD_ProducerPriceIndex;20170613;12:30;Producer Price Index (MoM);United States;USD;1
+USD_RedbookIndex;20170613;12:55;Redbook Index (YoY);United States;USD;1
+USD_Auction;20170613;17:00;30-Year Bond Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20170613;20:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_REINZHousePriceIndex;20170613;21:00;REINZ House Price Index (MoM);New Zealand;NZD;2
+NZD_FoodPriceIndex;20170613;22:45;Food Price Index (MoM);New Zealand;NZD;1
+NZD_CurrentAccount;20170613;22:45;Current Account (QoQ);New Zealand;NZD;1
+KRW_UnemploymentRate;20170613;23:00;Unemployment Rate;South Korea;KRW;1

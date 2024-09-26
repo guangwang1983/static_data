@@ -1,0 +1,31 @@
+JPY_MerchandiseTradeBalanceTotal;20140617;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Imports;20140617;23:50;Imports (YoY);Japan;JPY;1
+JPY_AdjustedMerchandiseTradeBalance;20140617;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_Exports;20140617;23:50;Exports (YoY);Japan;JPY;1
+JPY_BoJMonetaryPolicyMeetingMinutes;20140617;23:50;BoJ Monetary Policy Meeting Minutes;Japan;JPY;2
+NZD_CurrentAccount;20140617;22:45;Current Account (QoQ);New Zealand;NZD;1
+USD_Auction;20140617;15:30;4-Week Bill Auction;United States;USD;1
+USD_RedbookIndex;20140617;12:55;Redbook Index (YoY);United States;USD;1
+USD_HousingStarts;20140617;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20140617;12:30;Building Permits (MoM);United States;USD;2
+USD_ConsumerPriceIndex;20140617;12:30;Consumer Price Index n.s.a (MoM);United States;USD;2
+PLN_CorporateSectorWages;20140617;12:00;Corporate Sector Wages;Poland;PLN;1
+EUR_SpaAuction;20140617;09:00;6-Month Letras Auction;Spain;EUR;1
+EUR_EurLabourCost;20140617;09:00;Labour Cost;European Monetary Union;EUR;2
+EUR_GerZEWSurveyEconomicSentiment;20140617;09:00;ZEW Survey - Economic Sentiment;Germany;EUR;2
+EUR_EurZEWSurveyEconomicSentiment;20140617;09:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurveyCurrentSituation;20140617;09:00;ZEW Survey - Current Situation;Germany;EUR;2
+HKD_Unemploymentrate;20140617;08:30;Unemployment rate;Hong Kong SAR;HKD;1
+GBP_RetailPriceIndex;20140617;08:30;Retail Price Index (MoM);United Kingdom;GBP;2
+GBP_DCLGHousePriceIndex;20140617;08:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ProducerPriceIndex;20140617;08:30;Producer Price Index - Output (YoY) n.s.a;United Kingdom;GBP;1
+GBP_PPICoreOutput;20140617;08:30;PPI Core Output (MoM) n.s.a;United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20140617;08:30;Core Consumer Price Index (YoY);United Kingdom;GBP;3
+EUR_ItaTradeBalanceEU;20140617;08:00;Trade Balance EU;Italy;EUR;1
+EUR_ItaGlobalTradeBalance;20140617;08:00;Global Trade Balance;Italy;EUR;1
+CHF_ProducerandImportPrices;20140617;07:15;Producer and Import Prices (MoM);Switzerland;CHF;1
+CHF_SECOEconomicForecasts;20140617;05:45;SECO Economic Forecasts;Switzerland;CHF;2
+CNY_FDIForeignDirectInvestment;20140617;02:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+AUD_NewMotorVehicleSales;20140617;01:30;New Motor Vehicle Sales (MoM);Australia;AUD;1
+AUD_RBAMeetingMinutes;20140617;01:30;RBA Meeting Minutes;Australia;AUD;2
+ISK_IndependenceDay;20140617;00:00;Independence Day ;Iceland;ISK;0

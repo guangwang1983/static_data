@@ -1,0 +1,22 @@
+GBP_RICSHousingPriceBalance;20211209;00:01;RICS Housing Price Balance;United Kingdom;GBP;1
+AUD_RBABulletin;20211209;00:30;RBA Bulletin;Australia;AUD;1
+CNY_ConsumerPriceIndex;20211209;01:30;Consumer Price Index (YoY);China;CNY;3
+CNY_ProducerPriceIndex;20211209;01:30;Producer Price Index (YoY);China;CNY;2
+JPY_MachineToolOrders;20211209;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+DKK_TradeBalance;20211209;07:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20211209;07:00;Current Account;Denmark;DKK;1
+CHF_SECOEconomicForecasts;20211209;08:00;SECO Economic Forecasts;Switzerland;CHF;1
+ZAR_ManufacturingProductionIndex;20211209;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+MXN_CoreInflation;20211209;12:00;Core Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20211209;12:00;Headline Inflation;Mexico;MXN;1
+MXN_12MonthInflation;20211209;12:00;12-Month Inflation;Mexico;MXN;1
+RUB_CentralBankReserves;20211209;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_JoblessClaims;20211209;13:30;Continuing Jobless Claims;United States;USD;1
+USD_WholesaleInventories;20211209;15:00;Wholesale Inventories;United States;USD;1
+USD_EIANaturalGasStorageChange;20211209;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20211209;16:30;4-Week Bill Auction;United States;USD;1
+USD_USDAWASDEReport;20211209;17:00;USDA WASDE Report;United States;USD;1
+CAD_CentralBankSpeech;20211209;19:00;BoC Gravelle speech;Canada;CAD;2
+NZD_BusinessNZPMI;20211209;21:30;Business NZ PMI;New Zealand;NZD;2
+NZD_RetailSales;20211209;21:45;Electronic Card Retail Sales (YoY);New Zealand;NZD;1
+JPY_ProducerPriceIndex;20211209;23:50;Producer Price Index (YoY);Japan;JPY;1

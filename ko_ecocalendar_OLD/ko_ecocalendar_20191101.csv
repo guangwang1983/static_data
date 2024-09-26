@@ -1,0 +1,59 @@
+EUR_EurCFTCEURNCNetPositions;20191101;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+USD_CFTCOilNCNetPositions;20191101;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20191101;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20191101;19:30;CFTC Gold NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20191101;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCUSDNCNetPositions;20191101;19:30;CFTC USD NC Net Positions;United States;USD;1
+AUD_CFTCAUDNCNetPositions;20191101;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_TotalVehicleSales;20191101;19:30;Total Vehicle Sales;United States;USD;1
+BRL_TradeBalance;20191101;18:00;Trade Balance;Brazil;BRL;1
+USD_CentralBankSpeech;20191101;17:00;Fed Quarles speech;United States;USD;2
+USD_BakerHughesUSOilRigCount;20191101;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_ISMPricesPaid;20191101;14:00;ISM Prices Paid;United States;USD;2
+USD_ISMManufacturingPMI;20191101;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ConstructionSpending;20191101;14:00;Construction Spending (MoM);United States;USD;1
+USD_MarkitManufacturingPMI;20191101;13:45;Markit Manufacturing PMI;United States;USD;2
+CAD_MarkitManufacturingPMI;20191101;13:30;Markit Manufacturing PMI;Canada;CAD;2
+BRL_HSBCPMIManufacturing;20191101;13:00;HSBC PMI Manufacturing;Brazil;BRL;1
+CZK_BudgetBalance;20191101;13:00;Budget Balance;Czech Republic;CZK;1
+INR_FXReservesUSD;20191101;13:00;FX Reserves, USD;India;INR;1
+USD_LaborForceParticipationRate;20191101;12:30;Labor Force Participation Rate;United States;USD;2
+USD_AverageHourlyEarnings;20191101;12:30;Average Hourly Earnings (MoM);United States;USD;2
+USD_UnemploymentRate;20191101;12:30;Unemployment Rate;United States;USD;2
+USD_U6UnderemploymentRate;20191101;12:30;U6 Underemployment Rate;United States;USD;1
+USD_AverageWeeklyHours;20191101;12:30;Average Weekly Hours;United States;USD;1
+USD_NonfarmPayrolls;20191101;12:30;Nonfarm Payrolls;United States;USD;3
+ZAR_TotalNewVehicleSales;20191101;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+BRL_IndustrialOutput;20191101;12:00;Industrial Output (MoM);Brazil;BRL;1
+GBP_MarkitManufacturingPMI;20191101;09:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+TRY_Exports;20191101;09:00;Exports;Turkey;TRY;1
+EUR_GreMarkitManufacturingPMI;20191101;09:00;Markit Manufacturing PMI;Greece;EUR;1
+NOK_RegisteredUnemployment;20191101;09:00;Registered Unemployment s.a;Norway;NOK;1
+HKD_RetailSales;20191101;08:30;Retail Sales;Hong Kong SAR;HKD;1
+CZK_MarkitPMI;20191101;08:30;Markit PMI;Czech Republic;CZK;1
+CHF_RetailSales;20191101;07:30;Real Retail Sales (YoY);Switzerland;CHF;2
+CHF_SVMEPurchasingManagers'Index;20191101;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+SEK_PurchasingManagersIndexManufacturing;20191101;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;2
+CHF_ConsumerPriceIndex;20191101;07:30;Consumer Price Index (YoY);Switzerland;CHF;2
+RUB_HSBCManufacturingPMI;20191101;06:00;HSBC Manufacturing PMI	;Russia;RUB;1
+AUD_RBACommodityIndexSDR;20191101;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+JPY_VehicleSales;20191101;05:00;Vehicle Sales (YoY);Japan;JPY;1
+IDR_Inflation;20191101;04:00;Inflation (MoM);Indonesia;IDR;1
+IDR_CoreInflation;20191101;04:00;Core Inflation (YoY);Indonesia;IDR;1
+CNY_CaixinManufacturingPMI;20191101;01:45;Caixin Manufacturing PMI;China;CNY;3
+KRW_NikkeiMarkitManufacturingPMI;20191101;00:30;Nikkei Markit Manufacturing PMI;South Korea;KRW;1
+AUD_ProducerPriceIndex;20191101;00:30;Producer Price Index (YoY);Australia;AUD;1
+JPY_JibunBankManufacturingPMI;20191101;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+EUR_IrePurchasingManagerIndexManufacturing;20191101;00:01;Purchasing Manager Index Manufacturing;Ireland;EUR;1
+HUF_AllSaintsDay;20191101;00:00;All Saints Day ;Hungary;HUF;0
+EUR_AusAllSaints'Day;20191101;00:00;All Saints' Day ;Austria;EUR;0
+EUR_SpaAllSaints'Day;20191101;00:00;All Saints' Day;Spain;EUR;0
+PLN_AllSaintsDay;20191101;00:00;All Saints Day ;Poland;PLN;0
+EUR_ItaAllSaintsDay;20191101;00:00;All Saints Day;Italy;EUR;0
+EUR_BelAllSaintsDay;20191101;00:00;All Saints Day ;Belgium;EUR;0
+SEK_AllSaintsDay;20191101;00:00;All Saints Day;Sweden;SEK;0
+KRW_TradeBalance;20191101;00:00;Trade Balance;South Korea;KRW;1
+EUR_PorAllSaintsDay;20191101;00:00;All Saints Day ;Portugal;EUR;0
+CLP_AllSaintsDay;20191101;00:00;All Saints Day;Chile;CLP;0
+EUR_SloAllSaintsDay;20191101;00:00;All Saints Day;Slovakia;EUR;0
+EUR_FraAllSaintsDay;20191101;00:00;All Saints Day;France;EUR;0

@@ -1,0 +1,22 @@
+TRY_RepublicDay;20191029;00:00;Republic Day ;Turkey;TRY;0
+ZAR_M3MoneySupply;20191029;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+ZAR_PrivateSectorCredit;20191029;06:00;Private Sector Credit;South Africa;ZAR;1
+AUD_CentralBankSpeech;20191029;06:45;RBA Governor Lowe speech;Australia;AUD;3
+GBP_NationwideHousingPrices;20191029;07:00;Nationwide Housing Prices s.a (MoM);United Kingdom;GBP;1
+EUR_FraConsumerConfidence;20191029;07:45;Consumer Confidence;France;EUR;1
+HUF_UnemploymentRate;20191029;08:00;Unemployment Rate (3M);Hungary;HUF;1
+EUR_ItaProducerPriceIndex;20191029;09:04;Producer Price Index (MoM);Italy;EUR;1
+GBP_NetLendingtoIndividuals;20191029;09:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20191029;09:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20191029;09:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_M4MoneySupply;20191029;09:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+ZAR_UnemploymentTotal;20191029;09:30;Unemployment Total ;South Africa;ZAR;1
+ZAR_UnemploymentRate;20191029;09:30;Unemployment Rate (%);South Africa;ZAR;1
+EUR_GerCentralBankSpeech;20191029;09:50;German Buba President Weidmann speech;Germany;EUR;2
+USD_RedbookIndex;20191029;12:55;Redbook Index (YoY);United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20191029;13:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;2
+USD_ConsumerConfidence;20191029;14:00;Consumer Confidence;United States;USD;2
+USD_PendingHomeSales;20191029;14:00;Pending Home Sales (MoM);United States;USD;2
+USD_APIWeeklyCrudeOilStock;20191029;20:30;API Weekly Crude Oil Stock;United States;USD;1
+JPY_LargeRetailerSales;20191029;23:50;Large Retailer Sales;Japan;JPY;2
+JPY_RetailTrade;20191029;23:50;Retail Trade (YoY);Japan;JPY;2

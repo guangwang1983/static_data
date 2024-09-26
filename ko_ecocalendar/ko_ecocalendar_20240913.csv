@@ -1,0 +1,33 @@
+KRW_MoneySupplyGrowth;20240913;03:00;Money Supply Growth;South Korea;KRW;1
+JPY_IndustrialProduction;20240913;04:30;Industrial Production (YoY);Japan;JPY;1
+JPY_CapacityUtilization;20240913;04:30;Capacity Utilization;Japan;JPY;1
+RON_IndustrialProduction;20240913;06:00;Industrial Production (MoM);Romania;RON;1
+HUF_IndustrialOutput;20240913;06:30;Industrial Output (YoY);Hungary;HUF;1
+EUR_FraConsumerPriceIndex;20240913;06:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraInflationextobacco;20240913;06:45;Inflation ex-tobacco (MoM);France;EUR;1
+EUR_EurEurogroupMeeting;20240913;07:00;Eurogroup Meeting;Eurozone;EUR;2
+PLN_ConsumerPriceIndex;20240913;08:00;Consumer Price Index (YoY);Poland;PLN;1
+CZK_CurrentAccount;20240913;08:00;Current Account (MoM);Czech Republic;CZK;1
+GBP_ConsumerInflationExpectations;20240913;08:30;Consumer Inflation Expectations;United Kingdom;GBP;2
+EUR_EurIndustrialProduction;20240913;09:00;Industrial Production w.d.a. (YoY);Eurozone;EUR;1
+CNY_M2MoneySupply;20240913;10:00;M2 Money Supply (YoY);China;CNY;1
+CNY_NewLoans;20240913;10:00;New Loans;China;CNY;1
+RUB_InterestRateDecision;20240913;10:30;Interest Rate Decision;Russia;RUB;2
+INR_TradeDeficitGovernment;20240913;11:00;Trade Deficit Government;India;INR;1
+INR_FXReservesUSD;20240913;11:30;FX Reserves, USD;India;INR;1
+PLN_CurrentAccount;20240913;12:00;Current Account;Poland;PLN;1
+INR_ManufacturingOutput;20240913;12:00;Manufacturing Output;India;INR;1
+USD_ImportPriceIndex;20240913;12:30;Import Price Index (MoM);United States;USD;1
+USD_ExportPriceIndex;20240913;12:30;Export Price Index (MoM);United States;USD;1
+CAD_CapacityUtilization;20240913;12:30;Capacity Utilization;Canada;CAD;1
+CAD_WholesaleSales;20240913;12:30;Wholesale Sales (MoM);Canada;CAD;1
+USD_UoM5yearConsumerInflationExpectation;20240913;14:00;UoM 5-year Consumer Inflation Expectation;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20240913;14:00;Michigan Consumer Sentiment Index;United States;USD;3
+USD_BakerHughesUSOilRigCount;20240913;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CFTCGoldNCNetPositions;20240913;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20240913;19:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20240913;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20240913;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20240913;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20240913;19:30;CFTC EUR NC Net Positions;Eurozone;EUR;1
+AUD_CFTCAUDNCNetPositions;20240913;19:30;CFTC AUD NC Net Positions;Australia;AUD;1

@@ -1,0 +1,23 @@
+AUD_RBAMeetingMinutes;20240702;01:30;RBA Meeting Minutes;Australia;AUD;3
+JPY_Auction;20240702;03:35;10-y Bond Auction;Japan;JPY;1
+EUR_ItaUnemployment;20240702;08:00;Unemployment;Italy;EUR;1
+BRL_FipeIPCInflation;20240702;08:00;Fipe IPC Inflation;Brazil;BRL;1
+EUR_ItaPublicDeficitGDP;20240702;09:00;Public Deficit/GDP;Italy;EUR;1
+EUR_EurUnemploymentRate;20240702;09:00;Unemployment Rate;Eurozone;EUR;2
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20240702;09:00;Core Harmonized Index of Consumer Prices (MoM);Eurozone;EUR;3
+EUR_EurHarmonizedIndexofConsumerPrices;20240702;09:00;Harmonized Index of Consumer Prices (YoY);Eurozone;EUR;3
+USD_RedbookIndex;20240702;12:55;Redbook Index (YoY);United States;USD;1
+USD_CentralBankSpeech;20240702;13:30;Fed Chair Powell speech;United States;USD;3
+EUR_EurCentralBankSpeech;20240702;13:30;ECB President Lagarde speech;Eurozone;EUR;3
+CAD_S&PGlobalManufacturingPMI;20240702;13:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_JOLTSJobOpenings;20240702;14:00;JOLTS Job Openings;United States;USD;2
+DKK_CurrencyReserves;20240702;15:00;Currency Reserves;Denmark;DKK;1
+NZD_GDTPriceIndex;20240702;15:00;GDT Price Index;New Zealand;NZD;1
+USD_TotalVehicleSales;20240702;19:30;Total Vehicle Sales;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20240702;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_FXReserves;20240702;21:00;FX Reserves;South Korea;KRW;1
+AUD_AiGIndustryIndex;20240702;23:00;AiG Industry Index;Australia;AUD;2
+AUD_AiGManufacturingPMI;20240702;23:00;AiG Manufacturing PMI;Australia;AUD;1
+AUD_JudoBankCompositePMI;20240702;23:00;Judo Bank Composite PMI;Australia;AUD;2
+AUD_JudoBankServicesPMI;20240702;23:00;Judo Bank Services PMI;Australia;AUD;2
+AUD_AiGConstructionPMI;20240702;23:00;AiG Construction PMI;Australia;AUD;1

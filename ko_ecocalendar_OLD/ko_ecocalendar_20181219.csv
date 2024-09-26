@@ -1,0 +1,34 @@
+JPY_ForeignBondInvestment;20181219;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20181219;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+NZD_Imports;20181219;21:45;Imports;New Zealand;NZD;2
+NZD_TradeBalance;20181219;21:45;Trade Balance (YoY);New Zealand;NZD;2
+NZD_Exports;20181219;21:45;Exports;New Zealand;NZD;2
+NZD_GrossDomesticProduct;20181219;21:45;Gross Domestic Product (YoY);New Zealand;NZD;2
+USD_FOMCPressConference;20181219;19:30;FOMC Press Conference;United States;USD;3
+USD_FOMCEconomicProjections;20181219;19:00;FOMC Economic Projections;United States;USD;3
+ARS_TradeBalance;20181219;19:00;Trade Balance (MoM);Argentina;ARS;1
+USD_FedMonetaryPolicyStatement;20181219;19:00;Fed Monetary Policy Statement;United States;USD;3
+USD_FedInterestRateDecision;20181219;19:00;Fed Interest Rate Decision;United States;USD;3
+USD_EIACrudeOilStocksChange;20181219;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_ExistingHomeSales;20181219;15:00;Existing Home Sales (MoM);United States;USD;2
+USD_ExistingHomeSalesChange;20181219;15:00;Existing Home Sales Change (MoM);United States;USD;1
+MXN_PrivateSpending;20181219;14:00;Private Spending (QoQ);Mexico;MXN;1
+CHF_SNBQuarterlyBulletin;20181219;14:00;SNB Quarterly Bulletin;Switzerland;CHF;2
+EUR_BelLeadingIndicator;20181219;14:00;Leading Indicator;Belgium;EUR;1
+USD_CurrentAccount;20181219;13:30;Current Account;United States;USD;1
+CAD_ConsumerPriceIndex;20181219;13:30;Consumer Price Index (YoY);Canada;CAD;2
+RUB_UnemploymentRate;20181219;13:00;Unemployment Rate;Russia;RUB;1
+USD_MBAMortgageApplications;20181219;12:00;MBA Mortgage Applications;United States;USD;1
+INR_M3MoneySupply;20181219;11:30;M3 Money Supply;India;INR;1
+EUR_PorCurrentAccount;20181219;11:00;Current Account Balance;Portugal;EUR;1
+GBP_CBIIndustrialTrendsSurveyOrders;20181219;11:00;CBI Industrial Trends Survey - Orders (MoM);United Kingdom;GBP;1
+EUR_EurConstructionOutput;20181219;10:00;Construction Output w.d.a (YoY);European Monetary Union;EUR;1
+GBP_RetailPriceIndex;20181219;09:30;Retail Price Index (MoM);United Kingdom;GBP;2
+GBP_DCLGHousePriceIndex;20181219;09:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ProducerPriceIndex;20181219;09:30;Producer Price Index - Output (YoY) n.s.a;United Kingdom;GBP;1
+GBP_PPICoreOutput;20181219;09:30;PPI Core Output (YoY) n.s.a ;United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20181219;09:30;Consumer Price Index (MoM);United Kingdom;GBP;2
+PLN_IndustrialOutput;20181219;09:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20181219;09:00;Producer Price Index (YoY);Poland;PLN;1
+SEK_ConsumerConfidence;20181219;08:00;Consumer Confidence (MoM);Sweden;SEK;1
+EUR_GerProducerPriceIndex;20181219;07:00;Producer Price Index (YoY);Germany;EUR;1

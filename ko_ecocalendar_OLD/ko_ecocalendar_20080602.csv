@@ -1,0 +1,16 @@
+USD_ISMManufacturingPMI;20080602;14:00;ISM Manufacturing PMI;United States;USD;2
+USD_ConstructionSpending;20080602;14:00;Construction Spending (MoM);United States;USD;1
+EUR_EurCentralBankSpeech;20080602;13:30;ECB President Trichet speech;European Monetary Union;EUR;1
+GBP_MarkitManufacturingPMI;20080602;08:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+GBP_ConsumerCredit;20080602;08:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20080602;08:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_M4SterlingLending;20080602;08:30;M4 Sterling Lending;United Kingdom;GBP;1
+GBP_M4MoneySupply;20080602;08:30;M4 Money Supply (MoM);United Kingdom;GBP;0
+EUR_EurMarkitManufacturingPMI;20080602;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;1
+EUR_GerMarkitManufacturingPMI;20080602;07:55;Markit Manufacturing PMI;Germany;EUR;2
+CHF_SVMEPurchasingManagers'Index;20080602;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+AUD_RBACommodityIndexSDR;20080602;07:05;RBA Commodity Index SDR (YoY);Australia;AUD;1
+CHF_GrossDomesticProduct;20080602;05:45;Gross Domestic Product s.a. (QoQ);Switzerland;CHF;1
+JPY_LaborCashEarnings;20080602;01:30;Labor Cash Earnings (YoY);Japan;JPY;1
+AUD_CompanyGrossOperatingProfits;20080602;01:30;Company Gross Operating Profits (QoQ);Australia;AUD;1
+AUD_RetailSales;20080602;01:30;Retail Sales s.a. (MoM);Australia;AUD;1

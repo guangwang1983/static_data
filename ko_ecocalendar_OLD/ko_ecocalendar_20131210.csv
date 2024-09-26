@@ -1,0 +1,51 @@
+JPY_DomesticCorporateGoodsPriceIndex;20131210;23:50;Domestic Corporate Goods Price Index (YoY);Japan;JPY;1
+JPY_MachineryOrders;20131210;23:50;Machinery Orders (MoM);Japan;JPY;1
+AUD_WestpacConsumerConfidenceIndex;20131210;23:30;Westpac Consumer Confidence Index;Australia;AUD;1
+AUD_WestpacConsumerConfidence;20131210;23:30;Westpac Consumer Confidence;Australia;AUD;2
+KRW_UnemploymentRate;20131210;23:00;Unemployment Rate;South Korea;KRW;1
+KRW_ImportPriceGrowth;20131210;21:00;Import Price Growth (YoY);South Korea;KRW;1
+KRW_ExportPriceGrowth;20131210;21:00;Export Price Growth (YoY);South Korea;KRW;1
+USD_Auction;20131210;18:00;3-Year Note Auction;United States;USD;1
+GBP_NIESRGDPEstimate;20131210;15:00;NIESR GDP Estimate (3M);United Kingdom;GBP;3
+USD_WholesaleInventories;20131210;15:00;Wholesale Inventories;United States;USD;1
+USD_JOLTSJobOpenings;20131210;14:00;JOLTS Job Openings;United States;USD;1
+USD_RedbookIndex;20131210;13:55;Redbook Index (YoY);United States;USD;1
+USD_NFIBBusinessOptimismIndex;20131210;12:30;NFIB Business Optimism Index;United States;USD;1
+EUR_EurCentralBankSpeech;20131210;12:00;ECB President Draghi speech;European Monetary Union;EUR;2
+EUR_PorGlobalTradeBalance;20131210;11:00;Global Trade Balance;Portugal;EUR;1
+ZAR_ManufacturingProductionIndex;20131210;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+EUR_GreIndustrialProduction;20131210;10:00;Industrial Production (YoY);Greece;EUR;1
+EUR_ItaGrossDomesticProduct;20131210;10:00;Gross Domestic Product (QoQ);Italy;EUR;1
+EUR_SpaAuction;20131210;09:49;12-Month Letras Auction;Spain;EUR;1
+GBP_ManufacturingProduction;20131210;09:30;Manufacturing Production (MoM);United Kingdom;GBP;1
+GBP_IndustrialProduction;20131210;09:30;Industrial Production (YoY);United Kingdom;GBP;2
+GBP_GoodsTradeBalance;20131210;09:30;Goods Trade Balance;United Kingdom;GBP;2
+GBP_TradeBalancenonEU;20131210;09:30;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20131210;09:30;Total Trade Balance;United Kingdom;GBP;2
+NOK_CoreInflation;20131210;09:00;Core Inflation (YoY);Norway;NOK;1
+NOK_ProducerPriceIndex;20131210;09:00;Producer Price Index (YoY);Norway;NOK;1
+NOK_ConsumerPriceIndex;20131210;09:00;Consumer Price Index (YoY);Norway;NOK;1
+EUR_ItaIndustrialOutput;20131210;09:00;Industrial Output w.d.a (YoY);Italy;EUR;1
+SEK_IndustrialProduction;20131210;08:30;Industrial Production (YoY);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20131210;08:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+EUR_NetManufacturingOutput;20131210;08:30;Manufacturing Output (MoM);Netherlands, The;EUR;1
+RON_IndustrialProduction;20131210;08:00;Industrial Production (MoM);Romania;RON;1
+EUR_SloIndustrialOutput;20131210;08:00;Industrial Output (YoY);Slovakia;EUR;1
+RON_TradeBalance;20131210;08:00;Trade Balance;Romania;RON;1
+DKK_ConsumerPriceIndex;20131210;08:00;Consumer Price Index (YoY);Denmark;DKK;1
+DKK_Inflation;20131210;08:00;Inflation (HICP) (YoY);Denmark;DKK;1
+TRY_GrossDomesticProduct;20131210;08:00;Quarterly Gross Domestic Product;Turkey;TRY;1
+CZK_ForeignTradeBalance;20131210;08:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+EUR_FraIndustrialOutput;20131210;07:45;Industrial Output (MoM);France;EUR;1
+EUR_FinIndustrialOutput;20131210;07:00;Industrial Output (MoM);Finland;EUR;1
+JPY_MachineToolOrders;20131210;06:00;Machine Tool Orders (YoY);Japan;JPY;2
+CNY_RetailSales;20131210;05:30;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20131210;05:30;Industrial Production (YoY);China;CNY;2
+CNY_FixedAssetInvestment;20131210;05:30;Fixed Asset Investment (YTD) (YoY);China;CNY;2
+JPY_ConsumerConfidenceIndex;20131210;05:00;Consumer Confidence Index;Japan;JPY;2
+AUD_InvestmentLendingforHomes;20131210;00:30;Investment Lending for Homes;Australia;AUD;1
+AUD_HomeLoans;20131210;00:30;Home Loans;Australia;AUD;2
+AUD_NationalAustraliaBankBusinessConfidence;20131210;00:30;National Australia Bank Business Confidence;Australia;AUD;2
+AUD_NationalAustraliaBankBusinessConditions;20131210;00:30;National Australia Bank Business Conditions;Australia;AUD;1
+GBP_RICSHousingPriceBalance;20131210;00:01;RICS Housing Price Balance;United Kingdom;GBP;1
+EUR_EurEcoFinMeeting;20131210;00:00;EcoFin Meeting;European Monetary Union;EUR;2

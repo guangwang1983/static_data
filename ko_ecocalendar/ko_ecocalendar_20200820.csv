@@ -1,0 +1,29 @@
+CNY_PBoCInterestRateDecision;20200820;01:30;PBoC Interest Rate Decision;China;CNY;3
+CHF_TradeBalance;20200820;06:00;Trade Balance;Switzerland;CHF;1
+CHF_Exports;20200820;06:00;Exports (MoM);Switzerland;CHF;1
+CHF_Imports;20200820;06:00;Imports (MoM);Switzerland;CHF;1
+EUR_GerProducerPriceIndex;20200820;06:01;Producer Price Index (MoM);Germany;EUR;2
+CHF_IndustrialProduction;20200820;06:30;Industrial Production (YoY);Switzerland;CHF;2
+SEK_UnemploymentRate;20200820;07:30;Unemployment Rate;Sweden;SEK;1
+PLN_IndustrialOutput;20200820;08:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20200820;08:00;Producer Price Index (YoY);Poland;PLN;1
+NOK_NorgesBankInterestRateDecision;20200820;08:00;Norges Bank Interest Rate Decision;Norway;NOK;1
+EUR_EurConstructionOutput;20200820;09:00;Construction Output  s.a (MoM);European Monetary Union;EUR;1
+TRY_CBRTInterestRateDecision;20200820;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+EUR_EurECBMonetaryPolicyMeetingAccounts;20200820;11:30;ECB Monetary Policy Meeting Accounts;European Monetary Union;EUR;2
+USD_JoblessClaims;20200820;12:30;Continuing Jobless Claims;United States;USD;2
+CAD_ADPEmploymentChange;20200820;12:30;ADP Employment Change;Canada;CAD;1
+USD_PhiladelphiaFedManufacturingSurvey;20200820;12:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+RUB_UnemploymentRate;20200820;13:00;Unemployment Rate;Russia;RUB;1
+RUB_CentralBankReserves;20200820;14:15;Central Bank Reserves $;Russia;RUB;1
+USD_EIANaturalGasStorageChange;20200820;14:30;EIA Natural Gas Storage Change;United States;USD;1
+CAD_CentralBankSpeech;20200820;16:00;BoC Beaudry speech;Canada;CAD;2
+USD_Auction;20200820;17:00;30-year TIPS Auction;United States;USD;1
+KRW_ProducerPriceIndex;20200820;21:00;Producer Price Index Growth (MoM);South Korea;KRW;1
+AUD_S&PGlobalCompositePMI;20200820;23:00;S&P Global Composite PMI;Australia;AUD;1
+AUD_S&PGlobalManufacturingPMI;20200820;23:00;S&P Global Manufacturing PMI;Australia;AUD;2
+AUD_S&PGlobalServicesPMI;20200820;23:00;S&P Global Services PMI;Australia;AUD;2
+GBP_GfKConsumerConfidence;20200820;23:01;GfK Consumer Confidence;United Kingdom;GBP;2
+JPY_NationalCPIexFoodEnergy;20200820;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20200820;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20200820;23:30;National Consumer Price Index (YoY);Japan;JPY;2

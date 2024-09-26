@@ -1,0 +1,27 @@
+BRL_InterestRateDecision;20130118;20:00;Interest Rate Decision;Brazil;BRL;1
+ARS_MonthlyEconActivity;20130118;19:00;Monthly Econ Activity (MoM);Argentina;ARS;1
+COP_Industrialouput;20130118;18:00;Industrial ouput (YoY);Colombia;COP;1
+USD_AmericanPetroleumInstituteMonthlyReport;20130118;15:00;American Petroleum Institute Monthly Report ;United States;USD;1
+MXN_CentralBankInterestRate;20130118;15:00;Central Bank Interest Rate;Mexico;MXN;1
+USD_MichiganConsumerSentimentIndex;20130118;14:55;Michigan Consumer Sentiment Index;United States;USD;3
+EUR_BelConsumerConfidenceIndex;20130118;14:00;Consumer Confidence Index;Belgium;EUR;1
+CAD_ManufacturingShipments;20130118;13:30;Manufacturing Shipments (MoM);Canada;CAD;1
+RUB_BudgetFulfilment;20130118;13:27;Budget Fulfilment;Russia;RUB;1
+PLN_IndustrialOutput;20130118;13:00;Industrial Output (YoY);Poland;PLN;1
+PLN_CurrentAccount;20130118;13:00;Current Account;Poland;PLN;1
+PLN_ProducerPriceIndex;20130118;13:00;Producer Price Index (YoY);Poland;PLN;1
+PLN_CorporateSectorWages;20130118;13:00;Corporate Sector Wages;Poland;PLN;1
+INR_FXReservesUSD;20130118;11:30;FX Reserves, USD;India;INR;1
+GBP_RetailSales;20130118;09:30;Retail Sales (YoY);United Kingdom;GBP;2
+EUR_ItaIndustrialSales;20130118;09:00;Industrial Sales n.s.a. (YoY);Italy;EUR;1
+EUR_ItaIndustrialOrders;20130118;09:00;Industrial Orders n.s.a (YoY);Italy;EUR;1
+CZK_CurrentAccount;20130118;09:00;Current Account (MoM);Czech Republic;CZK;1
+HUF_GrossWages;20130118;08:00;Gross Wages (YoY);Hungary;HUF;1
+JPY_IndustrialProduction;20130118;04:30;Industrial Production (MoM);Japan;JPY;1
+JPY_CapacityUtilization;20130118;04:30;Capacity Utilization;Japan;JPY;1
+CNY_RetailSales;20130118;02:00;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20130118;02:00;Industrial Production (YoY);China;CNY;2
+CNY_NBSPressConference;20130118;02:00;NBS Press Conference;China;CNY;2
+CNY_FixedAssetInvestment;20130118;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;2
+CNY_GrossDomesticProduct;20130118;02:00;Gross Domestic Product (QoQ);China;CNY;3
+CNY_HousePriceIndex;20130118;01:30;House Price Index ;China;CNY;1

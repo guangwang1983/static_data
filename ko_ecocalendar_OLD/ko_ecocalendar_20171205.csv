@@ -1,0 +1,48 @@
+USD_APIWeeklyCrudeOilStock;20171205;21:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_Auction;20171205;16:30;52-Week Bill Auction;United States;USD;1
+USD_ISMNonManufacturingPMI;20171205;15:00;ISM Non-Manufacturing PMI;United States;USD;2
+USD_MarkitServicesPMI;20171205;14:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20171205;14:45;Markit PMI Composite;United States;USD;2
+NZD_GDTPriceIndex;20171205;14:43;GDT Price Index;New Zealand;NZD;1
+EUR_EurEcoFinMeeting;20171205;14:00;EcoFin Meeting;European Monetary Union;EUR;2
+USD_RedbookIndex;20171205;13:55;Redbook Index (MoM);United States;USD;1
+USD_TradeBalance;20171205;13:30;Trade Balance;United States;USD;2
+CAD_Imports;20171205;13:30;Imports;Canada;CAD;1
+CAD_Exports;20171205;13:30;Exports;Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20171205;13:30;International Merchandise Trade;Canada;CAD;2
+PLN_NBPBaserate;20171205;12:00;NBP Base rate;Poland;PLN;1
+CLP_IMACEC;20171205;11:30;IMACEC;Chile;CLP;1
+BRL_IndustrialOutput;20171205;11:00;Industrial Output (YoY);Brazil;BRL;1
+EUR_SpaAuction;20171205;10:37;6-Month Letras Auction;Spain;EUR;1
+EUR_EurEUFinanceMinistersMeeting;20171205;10:00;EU Finance Ministers Meeting;European Monetary Union;EUR;2
+EUR_EurRetailSales;20171205;10:00;Retail Sales (MoM);European Monetary Union;EUR;1
+GBP_FPCStatement;20171205;09:30;FPC Statement;United Kingdom;GBP;1
+ZAR_GrossDomesticProduct;20171205;09:30;Gross Domestic Product (YoY);South Africa;ZAR;1
+GBP_MarkitServicesPMI;20171205;09:30;Markit Services PMI;United Kingdom;GBP;1
+EUR_EurMarkitPMIComposite;20171205;09:00;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20171205;09:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_GerMarkitPMIComposite;20171205;08:55;Markit PMI Composite;Germany;EUR;2
+EUR_GerMarkitServicesPMI;20171205;08:55;Markit Services PMI;Germany;EUR;2
+EUR_FraMarkitPMIComposite;20171205;08:50;Markit PMI Composite;France;EUR;1
+EUR_FraMarkitServicesPMI;20171205;08:50;Markit Services PMI;France;EUR;1
+EUR_ItaMarkitServicesPMI;20171205;08:45;Markit Services PMI;Italy;EUR;1
+SEK_IndustrialProduction;20171205;08:30;Industrial Production (YoY);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20171205;08:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+EUR_SpaMarkitServicesPMI;20171205;08:15;Markit Services PMI;Spain;EUR;2
+EUR_SpaIndustrialOutputCalAdjusted;20171205;08:00;Industrial Output Cal Adjusted (YoY);Spain;EUR;1
+HUF_RetailSales;20171205;08:00;Retail Sales (YoY);Hungary;HUF;1
+HUF_GrossDomesticProduct;20171205;08:00;Gross Domestic Product (YoY);Hungary;HUF;1
+EUR_SloGrossDomesticProduct;20171205;08:00;Gross Domestic Product Qtr Final (YoY);Slovakia;EUR;1
+RON_GrossDomesticProduct;20171205;07:00;Gross Domestic Product;Romania;RON;1
+RUB_PurchasingManagerIndexServices;20171205;06:00;Purchasing Manager Index Services;Russia;RUB;1
+EUR_IrePurchasingManagerIndexServices;20171205;06:00;Purchasing Manager Index Services;Ireland;EUR;1
+AUD_RBARateStatement;20171205;03:30;RBA Rate Statement;Australia;AUD;3
+AUD_RBAInterestRateDecision;20171205;03:30;RBA Interest Rate Decision;Australia;AUD;3
+CNY_CaixinServicesPMI;20171205;01:45;Caixin Services PMI;China;CNY;2
+HKD_NikkeiManufacturingPMI;20171205;00:30;Nikkei Manufacturing PMI;Hong Kong SAR;HKD;1
+AUD_CurrentAccount;20171205;00:30;Current Account Balance;Australia;AUD;1
+JPY_MarkitServicesPMI;20171205;00:30;Markit Services PMI;Japan;JPY;1
+AUD_RetailSales;20171205;00:30;Retail Sales s.a. (MoM);Australia;AUD;2
+NZD_CentralBankSpeech;20171205;00:15;RBNZ Governor Spencer speech;New Zealand;NZD;2
+GBP_RetailSales;20171205;00:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+NZD_ANZCommodityPrice;20171205;00:00;ANZ Commodity Price;New Zealand;NZD;1

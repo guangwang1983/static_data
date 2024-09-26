@@ -1,0 +1,46 @@
+CLP_BCCHInterestRate;20130314;22:00;BCCH Interest Rate;Chile;CLP;1
+NZD_BusinessNZPMI;20130314;21:30;Business NZ PMI;New Zealand;NZD;2
+USD_BankStressTestInfo;20130314;20:30;Bank Stress Test Info;United States;USD;3
+USD_Auction;20130314;17:00;30-Year Bond Auction;United States;USD;1
+USD_EIANaturalGasStorageChange;20130314;14:30;EIA Natural Gas Storage Change;United States;USD;1
+PLN_ConsumerPriceIndex;20130314;13:00;Consumer Price Index (MoM);Poland;PLN;1
+USD_CentralBankSpeech;20130314;13:00;Fed Raskin speech;United States;USD;1
+PLN_CurrentAccount;20130314;13:00;Current Account;Poland;PLN;1
+PLN_M3MoneySupply;20130314;13:00;M3 Money Supply (YoY);Poland;PLN;1
+NOK_NorgesBankInterestRateDecision;20130314;13:00;Norges Bank Interest Rate Decision;Norway;NOK;1
+RUB_CentralBankReserves;20130314;12:42;Central Bank Reserves $;Russia;RUB;1
+USD_CurrentAccount;20130314;12:30;Current Account;United States;USD;1
+USD_ProducerPriceIndex;20130314;12:30;Producer Price Index (MoM);United States;USD;1
+USD_JoblessClaims;20130314;12:30;Initial Jobless Claims;United States;USD;2
+CAD_CapacityUtilization;20130314;12:30;Capacity Utilization;Canada;CAD;1
+CAD_NewHousingPriceIndex;20130314;12:30;New Housing Price Index (YoY);Canada;CAD;1
+BRL_RetailSales;20130314;12:00;Retail Sales (MoM);Brazil;BRL;1
+EUR_IreHICP;20130314;11:00;HICP (YoY);Ireland;EUR;1
+EUR_IreConsumerPriceIndex;20130314;11:00;Consumer Price Index (YoY);Ireland;EUR;1
+ZAR_ManufacturingProductionIndex;20130314;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+EUR_SpaAuction;20130314;10:10;30-y Bond Auction;Spain;EUR;2
+EUR_GreUnemploymentRate;20130314;10:00;Unemployment Rate (QoQ);Greece;EUR;1
+EUR_EurEmploymentChange;20130314;10:00;Employment Change (QoQ);European Monetary Union;EUR;2
+EUR_EurECBMonthlyReport;20130314;09:00;ECB Monthly Report;European Monetary Union;EUR;2
+CZK_CurrentAccount;20130314;09:00;Current Account (MoM);Czech Republic;CZK;1
+CHF_SNBInterestRateDecision;20130314;08:30;SNB Interest Rate Decision;Switzerland;CHF;3
+CHF_SNBPressConference;20130314;08:30;SNB Press Conference;Switzerland;CHF;3
+EUR_NetRetailSales;20130314;08:30;Retail Sales (YoY);Netherlands, The;EUR;1
+HUF_IndustrialOutput;20130314;08:00;Industrial Output (YoY);Hungary;HUF;1
+CZK_RetailSales;20130314;08:00;Retail Sales (YoY);Czech Republic;CZK;1
+EUR_SpaRetailSales;20130314;08:00;Retail Sales (YoY);Spain;EUR;1
+RUB_BudgetFulfilment;20130314;07:35;Budget Fulfilment;Russia;RUB;1
+EUR_FinConsumerPriceIndex;20130314;07:00;Consumer Price Index (YoY);Finland;EUR;1
+AUD_CentralBankSpeech;20130314;07:00;RBA Kent speech;Australia;AUD;2
+INR_WPIInflation;20130314;06:30;WPI Inflation;India;INR;1
+KRW_BoKInterestRateDecision;20130314;04:39;BoK Interest Rate Decision;South Korea;KRW;1
+JPY_IndustrialProduction;20130314;04:30;Industrial Production (MoM);Japan;JPY;1
+JPY_CapacityUtilization;20130314;04:30;Capacity Utilization;Japan;JPY;1
+AUD_PartTimeEmployment;20130314;00:30;Part-Time Employment;Australia;AUD;2
+AUD_FulltimeEmployment;20130314;00:30;Fulltime Employment;Australia;AUD;2
+AUD_EmploymentChange;20130314;00:30;Employment Change s.a.;Australia;AUD;3
+AUD_UnemploymentRate;20130314;00:30;Unemployment Rate s.a.;Australia;AUD;3
+NZD_CentralBankSpeech;20130314;00:05;RBNZ Governor Wheeler Speech;New Zealand;NZD;2
+GBP_BoEQuarterlyBulletin;20130314;00:01;BoE Quarterly Bulletin;United Kingdom;GBP;1
+EUR_EurEuropeanCouncilMeeting;20130314;00:00;European Council Meeting;European Monetary Union;EUR;2
+AUD_ConsumerInflationExpectations;20130314;00:00;Consumer Inflation Expectations;Australia;AUD;1

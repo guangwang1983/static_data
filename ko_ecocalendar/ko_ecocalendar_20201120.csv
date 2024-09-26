@@ -1,0 +1,34 @@
+EUR_EurG20Meeting;20201120;00:00;G20 Meeting;European Monetary Union;EUR;2
+GBP_GfKConsumerConfidence;20201120;00:01;GfK Consumer Confidence;United Kingdom;GBP;2
+AUD_RetailSales;20201120;00:30;Retail Sales s.a. (MoM);Australia;AUD;3
+JPY_JibunBankManufacturingPMI;20201120;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+CNY_PBoCInterestRateDecision;20201120;01:30;PBoC Interest Rate Decision;China;CNY;3
+NZD_CreditCardSpending;20201120;02:00;Credit Card Spending (YoY);New Zealand;NZD;1
+BRL_ZumbidosPalmares;20201120;03:00;Zumbi dos Palmares ;Brazil;BRL;0
+GBP_RetailSales;20201120;07:00;Retail Sales (YoY);United Kingdom;GBP;2
+TRY_ConsumerConfidence;20201120;07:00;Consumer Confidence;Turkey;TRY;1
+DKK_ConsumerConfidence;20201120;07:00;Consumer Confidence;Denmark;DKK;1
+EUR_GerProducerPriceIndex;20201120;07:00;Producer Price Index (MoM);Germany;EUR;2
+GBP_PublicSectorNetBorrowing;20201120;07:00;Public Sector Net Borrowing;United Kingdom;GBP;1
+SEK_CapacityUtilization;20201120;08:30;Capacity Utilization;Sweden;SEK;1
+EUR_EurCentralBankSpeech;20201120;08:35;ECB President Lagarde speech;European Monetary Union;EUR;3
+PLN_ProducerPriceIndex;20201120;09:00;Producer Price Index (YoY);Poland;PLN;1
+EUR_ItaIndustrialOrders;20201120;09:00;Industrial Orders n.s.a (YoY);Italy;EUR;1
+EUR_ItaIndustrialSales;20201120;09:00;Industrial Sales n.s.a. (YoY);Italy;EUR;1
+PLN_IndustrialOutput;20201120;09:00;Industrial Output (YoY);Poland;PLN;1
+INR_BankLoanGrowth;20201120;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20201120;11:30;FX Reserves, USD;India;INR;1
+EUR_GerCentralBankSpeech;20201120;13:00;German Buba President Weidmann speech;Germany;EUR;2
+USD_CentralBankSpeech;20201120;13:30;Fed Kaplan speech;United States;USD;2
+CAD_NewHousingPriceIndex;20201120;13:30;New Housing Price Index (YoY);Canada;CAD;1
+CAD_RetailSales;20201120;13:30;Retail Sales (MoM);Canada;CAD;3
+RUB_UnemploymentRate;20201120;14:00;Unemployment Rate;Russia;RUB;1
+EUR_EurConsumerConfidence;20201120;15:00;Consumer Confidence;European Monetary Union;EUR;2
+USD_BakerHughesUSOilRigCount;20201120;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20201120;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20201120;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+JPY_CFTCJPYNCNetPositions;20201120;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCS&P500NCNetPositions;20201120;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20201120;20:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20201120;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20201120;20:30;CFTC Gold NC Net Positions;United States;USD;1

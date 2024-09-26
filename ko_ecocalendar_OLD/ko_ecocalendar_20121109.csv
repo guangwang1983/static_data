@@ -1,0 +1,47 @@
+USD_BarackObamaPressConference;20121109;18:00;Barack Obama Press Conference;United States;USD;2
+USD_WholesaleInventories;20121109;15:00;Wholesale Inventories;United States;USD;1
+USD_MichiganConsumerSentimentIndex;20121109;14:55;Michigan Consumer Sentiment Index;United States;USD;2
+USD_ImportPriceIndex;20121109;13:30;Import Price Index (MoM);United States;USD;1
+USD_ExportPriceIndex;20121109;13:30;Export Price Index (YoY);United States;USD;1
+INR_FXReservesUSD;20121109;11:30;FX Reserves, USD;India;INR;1
+EUR_PorGlobalTradeBalance;20121109;11:00;Global Trade Balance;Portugal;EUR;1
+EUR_GreIndustrialProduction;20121109;10:00;Industrial Production (YoY);Greece;EUR;1
+EUR_GreConsumerPriceIndex;20121109;10:00;Consumer Price Index (YoY);Greece;EUR;1
+GBP_GoodsTradeBalance;20121109;09:30;Goods Trade Balance;United Kingdom;GBP;2
+GBP_TotalTradeBalance;20121109;09:30;Total Trade Balance;United Kingdom;GBP;2
+GBP_TradeBalancenonEU;20121109;09:30;Trade Balance non-EU;United Kingdom;GBP;1
+NOK_ConsumerPriceIndex;20121109;09:00;Consumer Price Index (YoY);Norway;NOK;1
+NOK_CoreInflation;20121109;09:00;Core Inflation (MoM);Norway;NOK;1
+EUR_ItaIndustrialOutput;20121109;09:00;Industrial Output w.d.a (YoY);Italy;EUR;1
+NOK_ProducerPriceIndex;20121109;09:00;Producer Price Index (YoY);Norway;NOK;1
+SEK_IndustrialProduction;20121109;08:30;Industrial Production (MoM);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20121109;08:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+EUR_SloForeignTradeBalance;20121109;08:00;Foreign Trade Balance;Slovakia;EUR;1
+CZK_ConsumerPriceIndex;20121109;08:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+EUR_SloIndustrialOutput;20121109;08:00;Industrial Output (YoY);Slovakia;EUR;1
+HUF_IndustrialOutput;20121109;08:00;Industrial Output (YoY);Hungary;HUF;1
+RON_TradeBalance;20121109;08:00;Trade Balance;Romania;RON;1
+RON_IndustrialProduction;20121109;08:00;Industrial Production (MoM);Romania;RON;1
+DKK_TradeBalance;20121109;08:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20121109;08:00;Current Account;Denmark;DKK;1
+EUR_AusTradeBalance;20121109;08:00;Trade Balance;Austria;EUR;1
+EUR_FraIndustrialOutput;20121109;07:45;Industrial Output (MoM);France;EUR;1
+EUR_FraIndividualInvestment;20121109;07:45;Individual Investment (Current Year);France;EUR;1
+EUR_FraBudget;20121109;07:45;Budget;France;EUR;1
+ARS_PrimaryBudgetBalance;20121109;07:09;Primary Budget Balance (MoM);Argentina;ARS;1
+EUR_FinIndustrialOutput;20121109;07:00;Industrial Output (MoM);Finland;EUR;1
+EUR_GerConsumerPriceIndex;20121109;07:00;Consumer Price Index (MoM);Germany;EUR;2
+EUR_GerHarmonizedIndexofConsumerPrices;20121109;07:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+CNY_RetailSales;20121109;05:30;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20121109;05:30;Industrial Production (YoY);China;CNY;2
+CNY_FixedAssetInvestment;20121109;05:30;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+JPY_ConsumerConfidenceIndex;20121109;05:00;Consumer Confidence Index;Japan;JPY;2
+KRW_ProducerPriceIndex;20121109;03:00;Producer Price Index Growth (YoY);South Korea;KRW;1
+CNY_ConsumerPriceIndex;20121109;01:30;Consumer Price Index (YoY);China;CNY;3
+CNY_ProducerPriceIndex;20121109;01:30;Producer Price Index (YoY);China;CNY;2
+KRW_BoKInterestRateDecision;20121109;01:00;BoK Interest Rate Decision;South Korea;KRW;1
+USD_CentralBankSpeech;20121109;01:00;Fed Bullard speech;United States;USD;1
+AUD_RBAMonetaryPolicyStatement;20121109;00:30;RBA Monetary Policy Statement;Australia;AUD;3
+RUB_ForeignTrade;20121109;00:00;Foreign Trade;Russia;RUB;1
+RUB_BudgetFulfilment;20121109;00:00;Budget Fulfilment;Russia;RUB;1
+PEN_Interestratedecision;20121109;00:00;Interest rate decision;Peru;PEN;1

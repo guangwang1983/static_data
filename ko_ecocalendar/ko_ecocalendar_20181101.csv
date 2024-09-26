@@ -1,0 +1,58 @@
+HUF_AllSaints'Day;20181101;00:00;All Saints' Day;Hungary;HUF;0
+PLN_AllSaints'Day;20181101;00:00;All Saints' Day;Poland;PLN;0
+EUR_ItaAllSaints'Day;20181101;00:00;All Saints' Day;Italy;EUR;0
+KRW_TradeBalance;20181101;00:00;Trade Balance;South Korea;KRW;1
+CLP_AllSaints'Day;20181101;00:00;All Saints' Day;Chile;CLP;0
+EUR_FraAllSaints'Day;20181101;00:00;All Saints' Day;France;EUR;0
+AUD_ImportPriceIndex;20181101;00:30;Import Price Index (QoQ);Australia;AUD;1
+AUD_ExportPriceIndex;20181101;00:30;Export Price Index (QoQ);Australia;AUD;1
+KRW_S&PGlobalManufacturingPMI;20181101;00:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+JPY_JibunBankManufacturingPMI;20181101;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+AUD_TradeBalance;20181101;00:30;Trade Balance (MoM);Australia;AUD;2
+AUD_Imports;20181101;00:30;Imports (MoM);Australia;AUD;2
+AUD_Exports;20181101;00:30;Exports (MoM);Australia;AUD;2
+CNY_CaixinManufacturingPMI;20181101;01:45;Caixin Manufacturing PMI;China;CNY;2
+JPY_Auction;20181101;03:35;10-y Bond Auction;Japan;JPY;1
+IDR_CoreInflation;20181101;04:00;Core Inflation (YoY);Indonesia;IDR;1
+IDR_Inflation;20181101;04:00;Inflation (YoY);Indonesia;IDR;1
+JPY_VehicleSales;20181101;05:00;Vehicle Sales (YoY);Japan;JPY;1
+AUD_RBACommodityIndexSDR;20181101;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+RUB_S&PGlobalManufacturingPMI;20181101;06:00;S&P Global Manufacturing PMI;Russia;RUB;1
+CHF_SECOConsumerClimate;20181101;06:45;SECO Consumer Climate (3m);Switzerland;CHF;2
+GBP_NationwideHousingPrices;20181101;07:00;Nationwide Housing Prices s.a (MoM);United Kingdom;GBP;1
+SEK_PurchasingManagersIndexManufacturing;20181101;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+CHF_ConsumerPriceIndex;20181101;08:15;Consumer Price Index (YoY);Switzerland;CHF;2
+CHF_SVMEPurchasingManagers'Index;20181101;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_S&PGlobalPMI;20181101;08:30;S&P Global PMI;Czech Republic;CZK;1
+GBP_S&PGlobalCIPSManufacturingPMI;20181101;09:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+USD_ChallengerJobCuts;20181101;11:30;Challenger Job Cuts;United States;USD;1
+GBP_BoEInterestRateDecision;20181101;12:00;BoE Interest Rate Decision;United Kingdom;GBP;3
+GBP_BoEAssetPurchaseFacility;20181101;12:00;BoE Asset Purchase Facility;United Kingdom;GBP;3
+ZAR_TotalNewVehicleSales;20181101;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+GBP_MonetaryPolicySummary;20181101;12:00;Monetary Policy Summary;United Kingdom;GBP;3
+GBP_BankofEnglandMonetaryPolicyReport;20181101;12:00;Bank of England Monetary Policy Report;United Kingdom;GBP;3
+GBP_BoEMPCVoteRateUnchanged;20181101;12:00;BoE MPC Vote Rate Unchanged;United Kingdom;GBP;3
+GBP_BoEMPCVoteRateCut;20181101;12:00;BoE MPC Vote Rate Cut;United Kingdom;GBP;3
+GBP_BoEMPCVoteRateHike;20181101;12:00;BoE MPC Vote Rate Hike;United Kingdom;GBP;3
+GBP_BankofEnglandMinutes;20181101;12:00;Bank of England Minutes;United Kingdom;GBP;3
+BRL_IndustrialOutput;20181101;12:00;Industrial Output (YoY);Brazil;BRL;1
+CZK_CNBInterestRateDecision;20181101;12:00;CNB Interest Rate Decision;Czech Republic;CZK;1
+GBP_CentralBankSpeech;20181101;12:30;BoE Governor Carney speech;United Kingdom;GBP;3
+USD_JoblessClaims;20181101;12:30;Continuing Jobless Claims;United States;USD;2
+USD_UnitLaborCosts;20181101;12:30;Unit Labor Costs;United States;USD;2
+USD_NonfarmProductivity;20181101;12:30;Nonfarm Productivity;United States;USD;2
+BRL_S&PGlobalManufacturingPMI;20181101;13:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+RUB_CentralBankReserves;20181101;13:00;Central Bank Reserves $;Russia;RUB;1
+CZK_BudgetBalance;20181101;13:00;Budget Balance;Czech Republic;CZK;1
+CAD_S&PGlobalManufacturingPMI;20181101;13:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20181101;13:45;S&P Global Manufacturing PMI;United States;USD;1
+USD_ISMManufacturingPMI;20181101;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20181101;14:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ConstructionSpending;20181101;14:00;Construction Spending (MoM);United States;USD;1
+USD_EIANaturalGasStorageChange;20181101;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_ISMManufacturingNewOrdersIndex;20181101;15:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ISMManufacturingEmploymentIndex;20181101;15:00;ISM Manufacturing Employment Index;United States;USD;2
+BRL_TradeBalance;20181101;18:00;Trade Balance;Brazil;BRL;1
+USD_TotalVehicleSales;20181101;19:30;Total Vehicle Sales;United States;USD;1
+NZD_ANZ–RoyMorganConsumerConfidence;20181101;21:00;ANZ – Roy Morgan Consumer Confidence;New Zealand;NZD;2
+JPY_MonetaryBase;20181101;23:50;Monetary Base (YoY);Japan;JPY;1

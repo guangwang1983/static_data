@@ -1,0 +1,39 @@
+JPY_CorporateServicePrice;20140325;23:50;Corporate Service Price (YoY);Japan;JPY;1
+USD_CentralBankSpeech;20140325;23:00;Philadelphia Fed Plosser speech;United States;USD;1
+AUD_CentralBankSpeech;20140325;22:30;OUTDATED - RBA Deputy Governor Lowe Speech;Australia;AUD;2
+USD_Auction;20140325;17:00;2-Year Note Auction;United States;USD;1
+EUR_GerCentralBankSpeech;20140325;16:30;German Buba President Weidmann speech;Germany;EUR;2
+EUR_EurCentralBankSpeech;20140325;16:00;ECB President Draghi speech;European Monetary Union;EUR;3
+USD_ConsumerConfidence;20140325;14:00;Consumer Confidence;United States;USD;2
+USD_NewHomeSales;20140325;14:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20140325;14:00;New Home Sales Change (MoM);United States;USD;1
+USD_RichmondFedManufacturingIndex;20140325;14:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20140325;13:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;1
+HUF_MNBInterestRateDecision;20140325;13:00;MNB Interest Rate Decision;Hungary;HUF;1
+USD_HousingPriceIndex;20140325;13:00;Housing Price Index (MoM);United States;USD;1
+USD_RedbookIndex;20140325;12:55;Redbook Index (MoM);United States;USD;1
+TRY_ManufacturingConfidence;20140325;12:30;Manufacturing Confidence;Turkey;TRY;1
+TRY_CapacityUtilization;20140325;12:30;Capacity Utilization;Turkey;TRY;1
+EUR_SloCurrentAccount;20140325;12:30;Current Account Balance EUR;Slovakia;EUR;1
+GBP_CBIDistributiveTradesSurveyRealized;20140325;11:00;CBI Distributive Trades Survey - Realized (MoM);United Kingdom;GBP;1
+GBP_BBAMortgageApprovals;20140325;09:30;BBA Mortgage Approvals;United Kingdom;GBP;2
+GBP_RetailPriceIndex;20140325;09:30;Retail Price Index (MoM);United Kingdom;GBP;1
+GBP_DCLGHousePriceIndex;20140325;09:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ProducerPriceIndex;20140325;09:30;Producer Price Index - Input (YoY) n.s.a;United Kingdom;GBP;1
+GBP_PPICoreOutput;20140325;09:30;PPI Core Output (YoY) n.s.a ;United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20140325;09:30;Core Consumer Price Index (YoY);United Kingdom;GBP;3
+EUR_ItaTradeBalancenonEU;20140325;09:00;Trade Balance non-EU;Italy;EUR;1
+PLN_RetailSales;20140325;09:00;Retail Sales (YoY);Poland;PLN;1
+TRY_ForeignArrivals;20140325;09:00;Foreign Arrivals;Turkey;TRY;1
+EUR_GerIFOCurrentAssessment;20140325;09:00;IFO - Current Assessment;Germany;EUR;2
+EUR_GerIFOExpectations;20140325;09:00;IFO - Expectations;Germany;EUR;2
+EUR_GerIFOBusinessClimate;20140325;09:00;IFO - Business Climate;Germany;EUR;2
+EUR_NetBusinessConfidence;20140325;08:30;Business Confidence;Netherlands, The;EUR;1
+SEK_ProducerPriceIndex;20140325;08:30;Producer Price Index (MoM);Sweden;SEK;1
+EUR_SpaProducerPriceIndex;20140325;08:00;Producer Price Index (YoY);Spain;EUR;1
+PLN_Unemployment;20140325;08:00;Unemployment (MoM);Poland;PLN;1
+EUR_AusIndustrialProduction;20140325;08:00;Industrial Production (YoY);Austria;EUR;1
+EUR_FraBusinessClimate;20140325;07:45;Business Climate;France;EUR;1
+EUR_NetConsumerSpendingVolume;20140325;07:30;Consumer Spending Volume;Netherlands, The;EUR;1
+EUR_FinUnemploymentRate;20140325;07:00;Unemployment Rate;Finland;EUR;1
+EUR_GreIndependenceDay;20140325;00:00;Independence Day ;Greece;EUR;0

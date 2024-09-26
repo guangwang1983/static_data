@@ -1,0 +1,42 @@
+JPY_LaborCashEarnings;20160405;00:00;Labor Cash Earnings (YoY);Japan;JPY;1
+JPY_JibunBankServicesPMI;20160405;00:35;Jibun Bank Services PMI;Japan;JPY;1
+NZD_ANZCommodityPrice;20160405;01:00;ANZ Commodity Price;New Zealand;NZD;1
+AUD_Imports;20160405;01:30;Imports (MoM);Australia;AUD;2
+AUD_Exports;20160405;01:30;Exports (MoM);Australia;AUD;2
+AUD_TradeBalance;20160405;01:30;Trade Balance (MoM);Australia;AUD;2
+AUD_RBAInterestRateDecision;20160405;04:30;RBA Interest Rate Decision;Australia;AUD;3
+AUD_RBARateStatement;20160405;04:30;RBA Rate Statement;Australia;AUD;3
+INR_CashReserveRatio;20160405;05:30;Cash Reserve Ratio;India;INR;1
+INR_ReverseRepoRate;20160405;05:30;Reverse Repo Rate;India;INR;1
+INR_RBIInterestRateDecision;20160405;05:30;RBI Interest Rate Decision (Repo Rate);India;INR;1
+EUR_GerFactoryOrders;20160405;06:00;Factory Orders n.s.a. (YoY);Germany;EUR;1
+HUF_RetailSales;20160405;07:00;Retail Sales (YoY);Hungary;HUF;1
+EUR_ItaHCOBServicesPMI;20160405;07:45;HCOB Services PMI;Italy;EUR;1
+EUR_FraHCOBCompositePMI;20160405;07:50;HCOB Composite PMI;France;EUR;1
+EUR_FraHCOBServicesPMI;20160405;07:50;HCOB Services PMI;France;EUR;1
+EUR_GerHCOBCompositePMI;20160405;07:55;HCOB Composite PMI;Germany;EUR;1
+EUR_GerHCOBServicesPMI;20160405;07:55;HCOB Services PMI;Germany;EUR;1
+EUR_EurHCOBServicesPMI;20160405;08:00;HCOB Services PMI;European Monetary Union;EUR;2
+EUR_EurHCOBCompositePMI;20160405;08:00;HCOB Composite PMI;European Monetary Union;EUR;2
+SEK_IndustrialProductionValue;20160405;08:30;Industrial Production Value (MoM);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20160405;08:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+GBP_S&PGlobalCIPSServicesPMI;20160405;08:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;1
+EUR_EurRetailSales;20160405;09:00;Retail Sales (MoM);European Monetary Union;EUR;1
+USD_GoodsandServicesTradeBalance;20160405;12:30;Goods and Services Trade Balance;United States;USD;2
+CAD_Imports;20160405;12:30;Imports;Canada;CAD;1
+CAD_Exports;20160405;12:30;Exports;Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20160405;12:30;International Merchandise Trade;Canada;CAD;1
+USD_RedbookIndex;20160405;12:55;Redbook Index (YoY);United States;USD;1
+RUB_ConsumerPriceIndex;20160405;13:00;Consumer Price Index (MoM);Russia;RUB;1
+BRL_FipeIPCInflation;20160405;13:10;Fipe IPC Inflation;Brazil;BRL;1
+RUB_S&PGlobalServicesPMI;20160405;13:30;S&P Global Services PMI;Russia;RUB;1
+CLP_IMACEC;20160405;13:30;IMACEC;Chile;CLP;1
+USD_S&PGlobalServicesPMI;20160405;13:45;S&P Global Services PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20160405;13:45;S&P Global Composite PMI;United States;USD;2
+USD_JOLTSJobOpenings;20160405;14:00;JOLTS Job Openings;United States;USD;1
+USD_ISMServicesPMI;20160405;14:00;ISM Services PMI;United States;USD;2
+USD_IBDTIPPEconomicOptimism;20160405;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+NZD_GDTPriceIndex;20160405;14:52;GDT Price Index;New Zealand;NZD;1
+USD_Auction;20160405;15:30;4-Week Bill Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20160405;20:30;API Weekly Crude Oil Stock;United States;USD;1
+GBP_BRCShopPriceIndex;20160405;23:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1

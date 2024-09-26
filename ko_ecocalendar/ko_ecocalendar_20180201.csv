@@ -1,0 +1,54 @@
+KRW_TradeBalance;20180201;00:00;Trade Balance;South Korea;KRW;1
+AUD_ImportPriceIndex;20180201;00:30;Import Price Index (QoQ);Australia;AUD;1
+AUD_ExportPriceIndex;20180201;00:30;Export Price Index (QoQ);Australia;AUD;1
+KRW_S&PGlobalManufacturingPMI;20180201;00:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+AUD_BuildingPermits;20180201;00:30;Building Permits (YoY);Australia;AUD;1
+JPY_JibunBankManufacturingPMI;20180201;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+CNY_CaixinManufacturingPMI;20180201;01:45;Caixin Manufacturing PMI;China;CNY;2
+JPY_Auction;20180201;03:45;10-y Bond Auction;Japan;JPY;1
+IDR_CoreInflation;20180201;04:00;Core Inflation (YoY);Indonesia;IDR;1
+IDR_Inflation;20180201;04:00;Inflation (YoY);Indonesia;IDR;1
+AUD_RBACommodityIndexSDR;20180201;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+RUB_S&PGlobalManufacturingPMI;20180201;06:00;S&P Global Manufacturing PMI;Russia;RUB;1
+CHF_SECOConsumerClimate;20180201;06:45;SECO Consumer Climate (3m);Switzerland;CHF;2
+GBP_NationwideHousingPrices;20180201;07:00;Nationwide Housing Prices s.a (MoM);United Kingdom;GBP;1
+SEK_PurchasingManagersIndexManufacturing;20180201;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;2
+HUF_PurchasingManagerIndex;20180201;08:00;Purchasing Manager Index;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20180201;08:00;Purchasing Manager Index;Poland;PLN;2
+CHF_RetailSales;20180201;08:15;Real Retail Sales (YoY);Switzerland;CHF;2
+CHF_SVMEPurchasingManagers'Index;20180201;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_S&PGlobalPMI;20180201;08:30;S&P Global PMI;Czech Republic;CZK;1
+EUR_ItaHCOBManufacturingPMI;20180201;08:45;HCOB Manufacturing PMI;Italy;EUR;1
+EUR_FraHCOBManufacturingPMI;20180201;08:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerHCOBManufacturingPMI;20180201;08:55;HCOB Manufacturing PMI;Germany;EUR;2
+TRY_Exports;20180201;09:00;Exports;Turkey;TRY;1
+EUR_EurHCOBManufacturingPMI;20180201;09:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+GBP_S&PGlobalCIPSManufacturingPMI;20180201;09:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+EUR_FraAuction;20180201;10:00;10-y Bond Auction;France;EUR;1
+BRL_IndustrialOutput;20180201;11:00;Industrial Output (YoY);Brazil;BRL;1
+BRL_S&PGlobalManufacturingPMI;20180201;12:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+CZK_CNBInterestRateDecision;20180201;12:00;CNB Interest Rate Decision;Czech Republic;CZK;1
+USD_ChallengerJobCuts;20180201;12:30;Challenger Job Cuts;United States;USD;1
+ZAR_TotalNewVehicleSales;20180201;13:00;Total New Vehicle Sales;South Africa;ZAR;1
+RUB_CentralBankReserves;20180201;13:00;Central Bank Reserves $;Russia;RUB;1
+CZK_BudgetBalance;20180201;13:00;Budget Balance;Czech Republic;CZK;1
+USD_JoblessClaims;20180201;13:30;Continuing Jobless Claims;United States;USD;2
+USD_UnitLaborCosts;20180201;13:30;Unit Labor Costs;United States;USD;2
+USD_NonfarmProductivity;20180201;13:30;Nonfarm Productivity;United States;USD;2
+CAD_S&PGlobalManufacturingPMI;20180201;14:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20180201;14:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_ISMManufacturingNewOrdersIndex;20180201;15:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ISMManufacturingPMI;20180201;15:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20180201;15:00;ISM Manufacturing Prices Paid;United States;USD;3
+USD_ISMManufacturingEmploymentIndex;20180201;15:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ConstructionSpending;20180201;15:00;Construction Spending (MoM);United States;USD;2
+INR_FederalFiscalDeficitINR;20180201;15:00;Federal Fiscal Deficit, INR;India;INR;1
+USD_EIANaturalGasStorageChange;20180201;15:30;EIA Natural Gas Storage Change;United States;USD;1
+BRL_TradeBalance;20180201;17:00;Trade Balance;Brazil;BRL;1
+USD_TotalVehicleSales;20180201;20:30;Total Vehicle Sales;United States;USD;1
+NZD_ANZ–RoyMorganConsumerConfidence;20180201;21:00;ANZ – Roy Morgan Consumer Confidence;New Zealand;NZD;2
+CLP_BCCHInterestRate;20180201;21:00;BCCH Interest Rate;Chile;CLP;1
+KRW_FXReserves;20180201;21:00;FX Reserves;South Korea;KRW;1
+NZD_BuildingPermits;20180201;21:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+NZD_VisitorArrivals;20180201;21:45;Visitor Arrivals (YoY);New Zealand;NZD;1
+JPY_MonetaryBase;20180201;23:50;Monetary Base (YoY);Japan;JPY;1

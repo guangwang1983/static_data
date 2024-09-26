@@ -1,0 +1,43 @@
+JPY_MerchandiseTradeBalanceTotal;20140917;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Imports;20140917;23:50;Imports (YoY);Japan;JPY;1
+JPY_Exports;20140917;23:50;Exports (YoY);Japan;JPY;1
+JPY_AdjustedMerchandiseTradeBalance;20140917;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;2
+NZD_GrossDomesticProduct;20140917;22:45;Gross Domestic Product (QoQ);New Zealand;NZD;2
+USD_FedMonetaryPolicyStatementandPressConference;20140917;18:30;Fed Monetary Policy Statement and Press Conference;United States;USD;3
+USD_FedPaceofMBSPurchaseProgram;20140917;18:00;Fed Pace of MBS Purchase Program;United States;USD;3
+USD_FOMCEconomicProjections;20140917;18:00;FOMC Economic Projections;United States;USD;2
+USD_FedPaceofTreasuryPurchaseProgram;20140917;18:00;Fed Pace of Treasury Purchase Program;United States;USD;3
+USD_FedMonetaryPolicyStatement;20140917;18:00;Fed Monetary Policy Statement;United States;USD;3
+USD_FedInterestRateDecision;20140917;18:00;Fed Interest Rate Decision;United States;USD;3
+USD_EIACrudeOilStocksChange;20140917;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_NAHBHousingMarketIndex;20140917;14:00;NAHB Housing Market Index;United States;USD;2
+USD_CurrentAccount;20140917;12:30;Current Account;United States;USD;1
+USD_ConsumerPriceIndex;20140917;12:30;Consumer Price Index n.s.a (MoM);United States;USD;1
+RUB_UnemploymentRate;20140917;12:01;Unemployment Rate;Russia;RUB;1
+RUB_ProducerPriceIndex;20140917;12:00;Producer Price Index (MoM);Russia;RUB;1
+PLN_IndustrialOutput;20140917;12:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20140917;12:00;Producer Price Index (YoY);Poland;PLN;1
+USD_MBAMortgageApplications;20140917;11:00;MBA Mortgage Applications;United States;USD;2
+ZAR_RetailSales;20140917;11:00;Retail Sales (YoY);South Africa;ZAR;1
+INR_M3MoneySupply;20140917;10:30;M3 Money Supply;India;INR;1
+EUR_GerAuction;20140917;09:36;2-year Notes Auction;Germany;EUR;1
+CHF_ZEWSurveyExpectations;20140917;09:00;ZEW Survey - Expectations;Switzerland;CHF;2
+EUR_EurConsumerPriceIndex;20140917;09:00;Consumer Price Index (YoY);European Monetary Union;EUR;3
+EUR_EurConstructionOutput;20140917;09:00;Construction Output  s.a (MoM);European Monetary Union;EUR;1
+EUR_SpaTradeBalance;20140917;09:00;Trade Balance;Spain;EUR;1
+GBP_BoEMPCVoteHike;20140917;08:30;BoE MPC Vote Hike;United Kingdom;GBP;3
+GBP_BoEMPCVoteCut;20140917;08:30;BoE MPC Vote Cut;United Kingdom;GBP;3
+GBP_BoEMPCVoteUnchanged;20140917;08:30;BoE MPC Vote Unchanged;United Kingdom;GBP;3
+GBP_BankofEnglandMinutes;20140917;08:30;Bank of England Minutes;United Kingdom;GBP;3
+GBP_AverageEarningsExcludingBonus;20140917;08:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_AverageEarningsIncludingBonus;20140917;08:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountRate;20140917;08:30;Claimant Count Rate;United Kingdom;GBP;2
+GBP_ClaimantCountChange;20140917;08:30;Claimant Count Change;United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20140917;08:30;ILO Unemployment Rate (3M);United Kingdom;GBP;2
+EUR_ItaTradeBalanceEU;20140917;08:00;Trade Balance EU;Italy;EUR;1
+EUR_ItaGlobalTradeBalance;20140917;08:00;Global Trade Balance;Italy;EUR;1
+ZAR_ConsumerPriceIndex;20140917;08:00;Consumer Price Index (MoM);South Africa;ZAR;1
+EUR_AusHICP;20140917;07:00;HICP (YoY);Austria;EUR;1
+EUR_SloEUNormInflation;20140917;07:00;EU Norm Inflation (MoM);Slovakia;EUR;1
+CNY_MNIBusinessSentimentIndicator;20140917;01:45;MNI Business Sentiment Indicator;China;CNY;1
+AUD_WestpacLeadingIndex;20140917;00:30;Westpac Leading Index (MoM);Australia;AUD;1

@@ -1,0 +1,13 @@
+GBP_BoxingDay;20201228;00:00;Boxing Day;United Kingdom;GBP;0
+NOK_RetailSales;20201228;07:00;Retail Sales ;Norway;NOK;1
+ZAR_TradeBalance;20201228;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+USD_DallasFedManufacturingBusinessIndex;20201228;15:30;Dallas Fed Manufacturing Business Index;United States;USD;1
+USD_Auction;20201228;18:00;5-Year Note Auction;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20201228;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20201228;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+GBP_CFTCGBPNCNetPositions;20201228;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20201228;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20201228;20:30;CFTC Oil NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20201228;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCS&P500NCNetPositions;20201228;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+KRW_ConsumerSentimentIndex;20201228;21:00;Consumer Sentiment Index;South Korea;KRW;1

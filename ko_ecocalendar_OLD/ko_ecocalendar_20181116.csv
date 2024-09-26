@@ -1,0 +1,33 @@
+USD_TotalNetTICFlows;20181116;21:00;Total Net TIC Flows;United States;USD;1
+USD_NetLongTermTICFlows;20181116;21:00;Net Long-Term TIC Flows;United States;USD;1
+USD_CFTCGoldNCNetPositions;20181116;20:30;CFTC Gold NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20181116;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCUSDNCNetPositions;20181116;20:30;CFTC USD NC Net Positions;United States;USD;1
+AUD_CFTCAUDNCNetPositions;20181116;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCOilNCNetPositions;20181116;20:30;CFTC Oil NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20181116;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+GBP_CFTCGBPNCNetPositions;20181116;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_BakerHughesUSOilRigCount;20181116;18:00;Baker Hughes US Oil Rig Count;United States;USD;2
+USD_KansasFedManufacturingActivity;20181116;16:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_IndustrialProduction;20181116;14:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20181116;14:15;Capacity Utilization;United States;USD;2
+CAD_ManufacturingShipments;20181116;13:30;Manufacturing Shipments (MoM);Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20181116;13:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20181116;13:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+RUB_IndustrialOutput;20181116;13:00;Industrial Output;Russia;RUB;1
+EUR_GerCentralBankSpeech;20181116;13:00;German Buba President Weidmann speech;Germany;EUR;2
+INR_FXReservesUSD;20181116;11:30;FX Reserves, USD;India;INR;1
+EUR_ItaConsumerPriceIndex;20181116;11:00;Consumer Price Index (YoY);Italy;EUR;1
+EUR_ItaTradeBalanceEU;20181116;10:00;Trade Balance EU;Italy;EUR;1
+EUR_ItaGlobalTradeBalance;20181116;10:00;Global Trade Balance;Italy;EUR;1
+EUR_EurConsumerPriceIndex;20181116;10:00;Consumer Price Index - Core (MoM);European Monetary Union;EUR;2
+EUR_ItaIndustrialOrders;20181116;09:00;Industrial Orders n.s.a (YoY);Italy;EUR;1
+EUR_ItaIndustrialSales;20181116;09:00;Industrial Sales s.a. (MoM);Italy;EUR;1
+HKD_GrossDomesticProduct;20181116;08:30;Gross Domestic Product (QoQ);Hong Kong SAR;HKD;1
+HKD_Unemploymentrate;20181116;08:30;Unemployment rate;Hong Kong SAR;HKD;1
+EUR_EurCentralBankSpeech;20181116;08:30;ECB President Draghi speech;European Monetary Union;EUR;3
+CZK_ProducerPriceIndex;20181116;08:00;Producer Price Index (YoY);Czech Republic;CZK;1
+EUR_AusHICP;20181116;08:00;HICP (YoY);Austria;EUR;1
+EUR_SloEUNormInflation;20181116;08:00;EU Norm Inflation (YoY);Slovakia;EUR;1
+TRY_IndustrialProduction;20181116;07:00;Industrial Production (YoY);Turkey;TRY;1
+EUR_GerWholesalePriceIndex;20181116;07:00;Wholesale Price Index (MoM);Germany;EUR;1

@@ -1,0 +1,49 @@
+JPY_BankLending;20180307;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_GrossDomesticProduct;20180307;23:50;Gross Domestic Product Deflator (YoY);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20180307;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20180307;23:50;Foreign Bond Investment;Japan;JPY;2
+JPY_CurrentAccount;20180307;23:50;Current Account n.s.a.;Japan;JPY;1
+JPY_TradeBalanceBOPBasis;20180307;23:50;Trade Balance - BOP Basis;Japan;JPY;1
+NZD_ManufacturingSales;20180307;21:45;Manufacturing Sales;New Zealand;NZD;1
+USD_ConsumerCreditChange;20180307;20:00;Consumer Credit Change;United States;USD;2
+USD_FedBeigeBook;20180307;19:00;Fed Beige Book;United States;USD;2
+USD_EIACrudeOilStocksChange;20180307;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+CAD_BoCRateStatement;20180307;15:00;BoC Rate Statement;Canada;CAD;3
+CAD_BoCInterestRateDecision;20180307;15:00;BoC Interest Rate Decision;Canada;CAD;3
+TRY_TreasuryCashBalance;20180307;14:30;Treasury Cash Balance;Turkey;TRY;1
+CAD_LaborProductivity;20180307;13:30;Labor Productivity (QoQ);Canada;CAD;1
+USD_TradeBalance;20180307;13:30;Trade Balance;United States;USD;2
+USD_NonfarmProductivity;20180307;13:30;Nonfarm Productivity;United States;USD;2
+USD_UnitLaborCosts;20180307;13:30;Unit Labor Costs;United States;USD;2
+CAD_Imports;20180307;13:30;Imports;Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20180307;13:30;International Merchandise Trade;Canada;CAD;2
+CAD_Exports;20180307;13:30;Exports;Canada;CAD;1
+USD_CentralBankSpeech;20180307;13:20;Fed Dudley speech;United States;USD;2
+USD_ADPEmploymentChange;20180307;13:15;ADP Employment Change;United States;USD;2
+PLN_CentralBankFXReserves;20180307;13:00;Central Bank FX Reserves;Poland;PLN;1
+USD_MBAMortgageApplications;20180307;12:00;MBA Mortgage Applications;United States;USD;1
+PLN_NBPBaserate;20180307;12:00;NBP Base rate;Poland;PLN;1
+CLP_TradeBalance;20180307;11:31;Trade Balance;Chile;CLP;1
+TRY_CBRTInterestRateDecision;20180307;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+EUR_EurGrossDomesticProduct;20180307;10:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+HUF_BudgetBalance;20180307;10:00;Budget Balance;Hungary;HUF;1
+ZAR_BusinessConfidenceIndex;20180307;09:30;Business Confidence Index;South Africa;ZAR;1
+SGD_ForeignReserves;20180307;09:00;Foreign Reserves (MoM);Singapore;SGD;1
+CZK_FXReserves;20180307;09:00;FX Reserves;Czech Republic;CZK;1
+GBP_HalifaxHousePrices;20180307;08:30;Halifax House Prices (3m/YoY);United Kingdom;GBP;1
+CNY_ForeignExchangeReserves;20180307;08:07;Foreign Exchange Reserves (MoM);China;CNY;1
+HUF_IndustrialOutput;20180307;08:00;Industrial Output (YoY);Hungary;HUF;1
+CHF_ForeignCurrencyReserves;20180307;08:00;Foreign Currency Reserves;Switzerland;CHF;1
+EUR_SloGrossDomesticProduct;20180307;08:00;Gross Domestic Product Qtr Final (YoY);Slovakia;EUR;1
+EUR_FraTradeBalanceEUR;20180307;07:45;Trade Balance EUR;France;EUR;1
+EUR_FraImportsEUR;20180307;07:45;Imports, EUR;France;EUR;1
+EUR_FraExportsEUR;20180307;07:45;Exports, EUR;France;EUR;1
+EUR_FraCurrentAccount;20180307;07:45;Current Account;France;EUR;1
+RON_GrossDomesticProduct;20180307;07:00;Gross Domestic Product;Romania;RON;1
+NOK_CurrentAccount;20180307;07:00;Current Account;Norway;NOK;1
+DKK_IndustrialProduction;20180307;07:00;Industrial Production (MoM);Denmark;DKK;1
+ZAR_Net$Gold&ForexReserve;20180307;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+ZAR_Gross$Gold&ForexReserve;20180307;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+JPY_LeadingEconomicIndex;20180307;05:00;Leading Economic Index;Japan;JPY;2
+JPY_CoincidentIndex;20180307;05:00;Coincident Index;Japan;JPY;1
+AUD_GrossDomesticProduct;20180307;00:30;Gross Domestic Product (QoQ);Australia;AUD;3

@@ -1,0 +1,2 @@
+Consider tracking OS performance of a model and quarentine it if it has been loosing over 6 months, until it is in plus OS not IS!
+You could have a model OS library that the Slotmanager could access.

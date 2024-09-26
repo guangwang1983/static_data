@@ -1,0 +1,11 @@
+CAD_ConsumerPriceIndex;20090123;12:00;BoC Consumer Price Index Core (MoM);Canada;CAD;2
+GBP_RetailSales;20090123;09:30;Retail Sales (MoM);United Kingdom;GBP;2
+GBP_GrossDomesticProduct;20090123;09:30;Gross Domestic Product (QoQ);United Kingdom;GBP;2
+GBP_IndexofServices;20090123;09:30;Index of Services (3M/3M);United Kingdom;GBP;1
+EUR_EurMarkitServicesPMI;20090123;09:00;Markit Services PMI;European Monetary Union;EUR;1
+EUR_EurMarkitManufacturingPMI;20090123;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;1
+EUR_GerMarkitServicesPMI;20090123;08:30;Markit Services PMI;Germany;EUR;1
+EUR_GerMarkitManufacturingPMI;20090123;08:30;Markit Manufacturing PMI;Germany;EUR;1
+JPY_BoJMonthlyEconomicSurvey;20090123;05:00;BoJ Monthly Economic Survey;Japan;JPY;2
+AUD_ExportPriceIndex;20090123;01:30;Export Price Index (QoQ);Australia;AUD;1
+AUD_ImportPriceIndex;20090123;01:30;Import Price Index (QoQ);Australia;AUD;1

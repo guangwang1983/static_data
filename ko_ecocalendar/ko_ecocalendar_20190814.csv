@@ -1,0 +1,37 @@
+TRY_SacrificeFeast;20190814;00:00;Sacrifice Feast;Turkey;TRY;0
+AUD_WestpacConsumerConfidence;20190814;00:30;Westpac Consumer Confidence;Australia;AUD;2
+NZD_ANZMonthlyInflationGauge;20190814;01:00;ANZ Monthly Inflation Gauge (YoY);New Zealand;NZD;1
+AUD_WagePriceIndex;20190814;01:30;Wage Price Index (YoY);Australia;AUD;1
+CNY_RetailSales;20190814;02:00;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20190814;02:00;Industrial Production (YoY);China;CNY;2
+CNY_NBSPressConference;20190814;02:00;NBS Press Conference;China;CNY;2
+CNY_FixedAssetInvestment;20190814;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+EUR_FraILOUnemployment;20190814;05:30;ILO Unemployment;France;EUR;1
+RON_IndustrialProduction;20190814;06:00;Industrial Production (MoM);Romania;RON;1
+RON_GrossDomesticProduct;20190814;06:00;Gross Domestic Product;Romania;RON;1
+EUR_GerGrossDomesticProduct;20190814;06:00;Gross Domestic Product w.d.a (YoY);Germany;EUR;2
+INR_WPIInflation;20190814;06:30;WPI Inflation;India;INR;1
+EUR_FraConsumerPriceIndex;20190814;06:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraInflationextobacco;20190814;06:45;Inflation ex-tobacco (MoM);France;EUR;1
+CZK_GrossDomesticProduct;20190814;07:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+HUF_GrossDomesticProduct;20190814;07:00;Gross Domestic Product (YoY);Hungary;HUF;1
+SEK_ConsumerPriceIndex;20190814;07:30;Consumer Price Index (MoM);Sweden;SEK;1
+PLN_GrossDomesticProduct;20190814;08:00;Gross Domestic Product Qtr (YoY);Poland;PLN;1
+GBP_RetailPriceIndex;20190814;08:30;Retail Price Index (YoY);United Kingdom;GBP;2
+GBP_DCLGHousePriceIndex;20190814;08:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ProducerPriceIndex;20190814;08:30;Producer Price Index - Output (YoY) n.s.a;United Kingdom;GBP;1
+GBP_PPICoreOutput;20190814;08:30;PPI Core Output (MoM) n.s.a;United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20190814;08:30;Core Consumer Price Index (YoY);United Kingdom;GBP;2
+EUR_EurGrossDomesticProduct;20190814;09:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+EUR_EurIndustrialProduction;20190814;09:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;1
+EUR_EurEmploymentChange;20190814;09:00;Employment Change (QoQ);European Monetary Union;EUR;1
+USD_MBAMortgageApplications;20190814;11:00;MBA Mortgage Applications;United States;USD;1
+ZAR_RetailSales;20190814;11:00;Retail Sales (YoY);South Africa;ZAR;1
+INR_M3MoneySupply;20190814;11:30;M3 Money Supply;India;INR;1
+USD_ExportPriceIndex;20190814;12:30;Export Price Index (YoY);United States;USD;1
+USD_ImportPriceIndex;20190814;12:30;Import Price Index (MoM);United States;USD;1
+USD_EIACrudeOilStocksChange;20190814;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+COP_RetailSales;20190814;15:00;Retail Sales (YoY);Colombia;COP;1
+COP_TradeBalance;20190814;15:00;Trade Balance;Colombia;COP;1
+COP_Industrialoutput;20190814;15:00;Industrial output (YoY);Colombia;COP;1
+AUD_CentralBankSpeech;20190814;23:00;RBA Debelle speech;Australia;AUD;2

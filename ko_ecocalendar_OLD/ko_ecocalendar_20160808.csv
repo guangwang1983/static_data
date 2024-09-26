@@ -1,0 +1,33 @@
+JPY_MoneySupplyM2+CD;20160808;23:50;Money Supply M2+CD (YoY);Japan;JPY;1
+GBP_RetailSales;20160808;23:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+NZD_RetailSales;20160808;22:45;Electronic Card Retail Sales (YoY);New Zealand;NZD;2
+USD_Auction;20160808;15:30;6-Month Bill Auction;United States;USD;1
+USD_LaborMarketConditionsIndex;20160808;14:00;Labor Market Conditions Index;United States;USD;2
+CAD_BuildingPermits;20160808;12:30;Building Permits (MoM);Canada;CAD;1
+CLP_TradeBalance;20160808;12:30;Trade Balance;Chile;CLP;1
+CLP_ConsumerPriceIndex;20160808;12:00;Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+ZAR_BusinessConfidenceIndex;20160808;09:30;Business Confidence Index;South Africa;ZAR;1
+SGD_ForeignReserves;20160808;09:00;Foreign Reserves (MoM);Singapore;SGD;1
+EUR_GreConsumerPriceIndex;20160808;09:00;Consumer Price Index (YoY);Greece;EUR;1
+HUF_BudgetBalance;20160808;09:00;Budget Balance;Hungary;HUF;1
+EUR_EurSentixInvestorConfidence;20160808;08:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+CZK_FXReserves;20160808;08:00;FX Reserves;Czech Republic;CZK;1
+CHF_ConsumerPriceIndex;20160808;07:15;Consumer Price Index (YoY);Switzerland;CHF;2
+CZK_UnemploymentRate;20160808;07:00;Unemployment Rate;Czech Republic;CZK;1
+TRY_IndustrialProduction;20160808;07:00;Industrial Production (YoY);Turkey;TRY;1
+CZK_IndustrialProduction;20160808;07:00;Industrial Production (YoY);Czech Republic;CZK;1
+DKK_IndustrialProduction;20160808;07:00;Industrial Production (MoM);Denmark;DKK;1
+CZK_Constructionoutput;20160808;07:00;Construction output (YoY);Czech Republic;CZK;1
+CZK_ForeignTradeBalance;20160808;07:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+EUR_GerIndustrialProduction;20160808;06:00;Industrial Production s.a. (MoM);Germany;EUR;1
+EUR_FinTradeBalance;20160808;06:00;Trade Balance;Finland;EUR;1
+ZAR_Net$Gold&ForexReserve;20160808;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+ZAR_Gross$Gold&ForexReserve;20160808;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+JPY_EcoWatchersSurvey:Current;20160808;05:00;Eco Watchers Survey: Current;Japan;JPY;2
+JPY_EcoWatchersSurvey:Outlook;20160808;05:00;Eco Watchers Survey: Outlook;Japan;JPY;2
+EUR_NetManufacturingOutput;20160808;04:30;Manufacturing Output (MoM);Netherlands, The;EUR;1
+CNY_Exports;20160808;03:34;Exports (YoY);China;CNY;2
+CNY_TradeBalanceUSD;20160808;03:34;Trade Balance USD;China;CNY;2
+CNY_Imports;20160808;03:34;Imports (YoY);China;CNY;2
+CNY_TradeBalanceCNY;20160808;03:03;Trade Balance CNY;China;CNY;2
+AUD_ANZJobAdvertisements;20160808;01:30;ANZ Job Advertisements;Australia;AUD;1

@@ -1,0 +1,16 @@
+NZD_BusinessNZPMI;20100714;22:30;Business NZ PMI;New Zealand;NZD;1
+USD_FOMCMinutes;20100714;18:00;FOMC Minutes;United States;USD;3
+USD_EIACrudeOilStocksChange;20100714;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_BusinessInventories;20100714;14:00;Business Inventories;United States;USD;1
+USD_RetailSales;20100714;12:30;Retail Sales ex Autos (MoM);United States;USD;2
+USD_ImportPriceIndex;20100714;12:30;Import Price Index (MoM);United States;USD;1
+USD_MBAMortgageApplications;20100714;11:00;MBA Mortgage Applications;United States;USD;1
+EUR_EurConsumerPriceIndex;20100714;09:00;Consumer Price Index (YoY);European Monetary Union;EUR;2
+EUR_EurIndustrialProduction;20100714;09:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;2
+GBP_AverageEarningsExcludingBonus;20100714;08:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_AverageEarningsIncludingBonus;20100714;08:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountChange;20100714;08:30;Claimant Count Change;United Kingdom;GBP;3
+GBP_ClaimantCountRate;20100714;08:30;Claimant Count Rate;United Kingdom;GBP;3
+GBP_ILOUnemploymentRate;20100714;08:30;ILO Unemployment Rate (3M);United Kingdom;GBP;2
+JPY_BoJMonetaryPolicyMeetingMinutes;20100714;04:00;BoJ Monetary Policy Meeting Minutes;Japan;JPY;3
+AUD_WestpacConsumerConfidence;20100714;00:30;Westpac Consumer Confidence;Australia;AUD;2

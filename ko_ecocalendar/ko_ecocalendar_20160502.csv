@@ -1,0 +1,36 @@
+GBP_EarlyMay;20160502;00:00;Early May;United Kingdom;GBP;0
+RON_OrthodoxEasterMonday;20160502;00:00;Orthodox Easter Monday;Romania;RON;0
+AUD_TDSecuritiesInflation;20160502;01:00;TD Securities Inflation (MoM);Australia;AUD;2
+KRW_S&PGlobalManufacturingPMI;20160502;01:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+AUD_NationalAustraliaBankBusinessConfidence;20160502;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20160502;01:30;National Australia Bank Business Conditions;Australia;AUD;1
+JPY_JibunBankManufacturingPMI;20160502;02:00;Jibun Bank Manufacturing PMI;Japan;JPY;1
+IDR_Inflation;20160502;04:00;Inflation (MoM);Indonesia;IDR;1
+IDR_CoreInflation;20160502;04:00;Core Inflation (YoY);Indonesia;IDR;1
+JPY_VehicleSales;20160502;05:00;Vehicle Sales (YoY);Japan;JPY;1
+AUD_RBACommodityIndexSDR;20160502;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+SEK_PurchasingManagersIndexManufacturing;20160502;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;2
+HUF_PurchasingManagerIndex;20160502;07:00;Purchasing Manager Index;Hungary;HUF;1
+CZK_S&PGlobalPMI;20160502;07:00;S&P Global PMI;Czech Republic;CZK;1
+PLN_PurchasingManagerIndex;20160502;07:00;Purchasing Manager Index;Poland;PLN;2
+CHF_RetailSales;20160502;07:15;Real Retail Sales (YoY);Switzerland;CHF;2
+CHF_SVMEPurchasingManagers'Index;20160502;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+EUR_ItaHCOBManufacturingPMI;20160502;07:45;HCOB Manufacturing PMI;Italy;EUR;1
+EUR_FraHCOBManufacturingPMI;20160502;07:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerHCOBManufacturingPMI;20160502;07:55;HCOB Manufacturing PMI;Germany;EUR;2
+EUR_EurHCOBManufacturingPMI;20160502;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+INR_InfrastructureOutput;20160502;09:30;Infrastructure Output (YoY);India;INR;1
+EUR_GerCentralBankSpeech;20160502;09:30;German Buba President Weidmann speech;Germany;EUR;2
+CZK_BudgetBalance;20160502;12:00;Budget Balance;Czech Republic;CZK;1
+BRL_S&PGlobalManufacturingPMI;20160502;13:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+CAD_S&PGlobalManufacturingPMI;20160502;13:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20160502;13:45;S&P Global Manufacturing PMI;United States;USD;2
+EUR_EurCentralBankSpeech;20160502;14:00;ECB President Draghi speech;European Monetary Union;EUR;3
+USD_ISMManufacturingPMI;20160502;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20160502;14:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ConstructionSpending;20160502;14:00;Construction Spending (MoM);United States;USD;2
+USD_Auction;20160502;15:30;3-Month Bill Auction;United States;USD;1
+CHF_CentralBankSpeech;20160502;16:30;SNB Chairman Jordan speech;Switzerland;CHF;2
+BRL_TradeBalance;20160502;18:00;Trade Balance;Brazil;BRL;1
+USD_LoanOfficerSurvey;20160502;19:00;Loan Officer Survey;United States;USD;1
+USD_CentralBankSpeech;20160502;21:30;Fed Williams speech;United States;USD;1

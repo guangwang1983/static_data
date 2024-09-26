@@ -1,0 +1,43 @@
+AUD_ANZJobAdvertisements;20190108;00:30;ANZ Job Advertisements;Australia;AUD;1
+AUD_Exports;20190108;00:30;Exports (MoM);Australia;AUD;2
+AUD_Imports;20190108;00:30;Imports (MoM);Australia;AUD;2
+AUD_TradeBalance;20190108;00:30;Trade Balance (MoM);Australia;AUD;2
+JPY_Auction;20190108;03:35;10-y Bond Auction;Japan;JPY;1
+JPY_ConsumerConfidenceIndex;20190108;05:00;Consumer Confidence Index;Japan;JPY;1
+ZAR_Gross$Gold&ForexReserve;20190108;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+ZAR_Net$Gold&ForexReserve;20190108;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+CHF_UnemploymentRate;20190108;06:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+EUR_GerIndustrialProduction;20190108;07:00;Industrial Production s.a. (MoM);Germany;EUR;1
+NOK_ManufacturingOutput;20190108;07:00;Manufacturing Output;Norway;NOK;1
+CHF_RetailSales;20190108;07:30;Real Retail Sales (YoY);Switzerland;CHF;2
+EUR_FraExportsEUR;20190108;07:45;Exports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20190108;07:45;Trade Balance EUR;France;EUR;1
+EUR_FraImportsEUR;20190108;07:45;Imports, EUR;France;EUR;1
+EUR_FraCurrentAccount;20190108;07:45;Current Account;France;EUR;1
+HUF_IndustrialOutput;20190108;08:00;Industrial Output (YoY);Hungary;HUF;1
+CZK_IndustrialProduction;20190108;08:00;Industrial Production (YoY);Czech Republic;CZK;1
+CZK_Constructionoutput;20190108;08:00;Construction output (YoY);Czech Republic;CZK;1
+GBP_HalifaxHousePrices;20190108;08:30;Halifax House Prices (YoY/3m);United Kingdom;GBP;1
+CZK_FXReserves;20190108;09:00;FX Reserves;Czech Republic;CZK;1
+EUR_EurBusinessClimate;20190108;10:00;Business Climate;European Monetary Union;EUR;2
+EUR_EurEconomicSentimentIndicator;20190108;10:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+EUR_EurConsumerConfidence;20190108;10:00;Consumer Confidence;European Monetary Union;EUR;1
+EUR_EurServicesSentiment;20190108;10:00;Services Sentiment;European Monetary Union;EUR;1
+EUR_EurIndustrialConfidence;20190108;10:00;Industrial Confidence;European Monetary Union;EUR;1
+GBP_Auction;20190108;10:45;10-y Bond Auction;United Kingdom;GBP;1
+USD_NFIBBusinessOptimismIndex;20190108;11:00;NFIB Business Optimism Index;United States;USD;1
+BRL_IndustrialOutput;20190108;11:00;Industrial Output (MoM);Brazil;BRL;1
+CLP_ConsumerPriceIndex;20190108;11:00;Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+ZAR_TotalNewVehicleSales;20190108;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+RON_Interestratedecision;20190108;12:00;Interest rate decision;Romania;RON;1
+CAD_Imports;20190108;13:30;Imports;Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20190108;13:30;International Merchandise Trade;Canada;CAD;2
+CAD_Exports;20190108;13:30;Exports;Canada;CAD;1
+USD_RedbookIndex;20190108;13:55;Redbook Index (YoY);United States;USD;1
+TRY_TreasuryCashBalance;20190108;14:30;Treasury Cash Balance;Turkey;TRY;1
+USD_JOLTSJobOpenings;20190108;15:00;JOLTS Job Openings;United States;USD;1
+USD_Auction;20190108;18:00;3-Year Note Auction;United States;USD;1
+USD_ConsumerCreditChange;20190108;20:00;Consumer Credit Change;United States;USD;2
+AUD_AiGPerformanceofServicesIndex;20190108;21:30;AiG Performance of Services Index;Australia;AUD;1
+USD_APIWeeklyCrudeOilStock;20190108;21:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_UnemploymentRate;20190108;23:00;Unemployment Rate;South Korea;KRW;1

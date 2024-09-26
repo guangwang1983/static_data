@@ -1,0 +1,54 @@
+JPY_JibunBankServicesPMI;20240523;00:30;Jibun Bank Services PMI;Japan;JPY;1
+JPY_JibunBankManufacturingPMI;20240523;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+KRW_BoKInterestRateDecision;20240523;01:00;BoK Interest Rate Decision;South Korea;KRW;2
+AUD_ConsumerInflationExpectations;20240523;01:00;Consumer Inflation Expectations;Australia;AUD;2
+INR_HSBCCompositePMI;20240523;05:00;HSBC Composite PMI;India;INR;2
+INR_HSBCServicesPMI;20240523;05:00;HSBC Services PMI;India;INR;2
+INR_HSBCManufacturingPMI;20240523;05:00;HSBC Manufacturing PMI;India;INR;2
+DKK_ConsumerConfidence;20240523;06:00;Consumer Confidence;Denmark;DKK;1
+HUF_GrossWages;20240523;06:30;Gross Wages (YoY);Hungary;HUF;1
+TRY_ConsumerConfidence;20240523;07:00;Consumer Confidence;Turkey;TRY;1
+EUR_EurEurogroupMeeting;20240523;07:00;Eurogroup Meeting;Eurozone;EUR;2
+EUR_FraHCOBManufacturingPMIPreliminar;20240523;07:15;HCOB Manufacturing PMI;France;EUR;2
+EUR_FraHCOBCompositePMI;20240523;07:15;HCOB Composite PMI;France;EUR;2
+EUR_FraHCOBServicesPMI;20240523;07:15;HCOB Services PMI;France;EUR;2
+EUR_GerHCOBCompositePMI;20240523;07:30;HCOB Composite PMI;Germany;EUR;3
+EUR_GerHCOBServicesPMI;20240523;07:30;HCOB Services PMI;Germany;EUR;3
+EUR_GerHCOBManufacturingPMIPreliminar;20240523;07:30;HCOB Manufacturing PMI;Germany;EUR;3
+PLN_RetailSales;20240523;08:00;Retail Sales (YoY);Poland;PLN;1
+EUR_EurHCOBCompositePMI;20240523;08:00;HCOB Composite PMI;Eurozone;EUR;3
+EUR_EurHCOBManufacturingPMIPreliminar;20240523;08:00;HCOB Manufacturing PMI;Eurozone;EUR;3
+EUR_EurHCOBServicesPMI;20240523;08:00;HCOB Services PMI;Eurozone;EUR;3
+GBP_S&PGlobalCIPSManufacturingPMIPreliminar;20240523;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;3
+GBP_S&PGlobalCIPSServicesPMI;20240523;08:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;3
+GBP_S&PGlobalCIPSCompositePMI;20240523;08:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;3
+EUR_EurNegotiatedWageRates;20240523;09:00;Negotiated Wage Rates (QoQ);Eurozone;EUR;1
+TRY_CBRTInterestRateDecision;20240523;11:00;CBRT Interest Rate Decision;Turkey;TRY;2
+MXN_GrossDomesticProduct;20240523;12:00;Gross Domestic Product (QoQ);Mexico;MXN;1
+MXN_1sthalfmonthInflation;20240523;12:00;1st half-month Inflation;Mexico;MXN;1
+MXN_1sthalfmonthCoreInflation;20240523;12:00;1st half-month Core Inflation;Mexico;MXN;1
+USD_ChicagoFedNationalActivityIndex;20240523;12:30;Chicago Fed National Activity Index ;United States;USD;1
+USD_JoblessClaims;20240523;12:30;Initial Jobless Claims;United States;USD;2
+CAD_EmploymentInsuranceBeneficiariesChange;20240523;12:30;Employment Insurance Beneficiaries Change (MoM);Canada;CAD;1
+CAD_NewHousingPriceIndex;20240523;12:30;New Housing Price Index (MoM);Canada;CAD;1
+RUB_CentralBankReserves;20240523;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_S&PGlobalManufacturingPMI;20240523;13:45;S&P Global Manufacturing PMI;United States;USD;3
+USD_S&PGlobalCompositePMI;20240523;13:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20240523;13:45;S&P Global Services PMI;United States;USD;3
+USD_NewHomeSales;20240523;14:00;New Home Sales (MoM);United States;USD;1
+USD_NewHomeSalesChange;20240523;14:00;New Home Sales Change (MoM);United States;USD;2
+EUR_EurConsumerConfidence;20240523;14:00;Consumer Confidence;Eurozone;EUR;2
+USD_EIANaturalGasStorageChange;20240523;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_KansasFedManufacturingActivity;20240523;15:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_Auction;20240523;17:00;10-year TIPS Auction;United States;USD;1
+USD_CentralBankSpeech;20240523;19:00;Fed Bostic speech;United States;USD;2
+CLP_BCCHInterestRate;20240523;21:00;BCCH Interest Rate;Chile;CLP;1
+NZD_ANZ–RoyMorganConsumerConfidence;20240523;22:00;ANZ – Roy Morgan Consumer Confidence;New Zealand;NZD;2
+NZD_CentralBankSpeech;20240523;22:25;RBNZ Governor Orr speech;New Zealand;NZD;3
+NZD_TradeBalanceNZD;20240523;22:45;Trade Balance NZD (MoM);New Zealand;NZD;1
+NZD_Exports;20240523;22:45;Exports;New Zealand;NZD;2
+NZD_Imports;20240523;22:45;Imports;New Zealand;NZD;2
+GBP_GfKConsumerConfidence;20240523;23:01;GfK Consumer Confidence;United Kingdom;GBP;2
+JPY_ConsumerPriceIndex;20240523;23:30;National Consumer Price Index (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20240523;23:30;National CPI ex Fresh Food (YoY);Japan;JPY;2
+JPY_NationalCPIexFoodEnergy;20240523;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2

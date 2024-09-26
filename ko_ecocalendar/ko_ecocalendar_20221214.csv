@@ -1,0 +1,39 @@
+JPY_IndustrialProduction;20221214;04:30;Industrial Production (YoY);Japan;JPY;2
+JPY_CapacityUtilization;20221214;04:30;Capacity Utilization;Japan;JPY;1
+INR_WPIInflation;20221214;06:30;WPI Inflation;India;INR;1
+RON_IndustrialProduction;20221214;07:00;Industrial Production (MoM);Romania;RON;1
+GBP_RetailPriceIndex;20221214;07:00;Retail Price Index (YoY);United Kingdom;GBP;2
+SEK_ConsumerPriceIndex;20221214;07:00;Consumer Price Index (YoY);Sweden;SEK;1
+GBP_ConsumerPriceIndex;20221214;07:00;Consumer Price Index (MoM);United Kingdom;GBP;2
+CHF_ProducerandImportPrices;20221214;07:30;Producer and Import Prices (MoM);Switzerland;CHF;1
+HUF_IndustrialOutput;20221214;08:00;Industrial Output (YoY);Hungary;HUF;1
+ZAR_ConsumerPriceIndex;20221214;08:00;Consumer Price Index (MoM);South Africa;ZAR;1
+CZK_CurrentAccount;20221214;09:00;Current Account (MoM);Czech Republic;CZK;1
+GBP_DCLGHousePriceIndex;20221214;09:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+ILS_M1MoneySupply;20221214;10:00;M1 Money Supply (MoM);Israel;ILS;1
+EUR_EurIndustrialProduction;20221214;10:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;1
+ZAR_RetailSales;20221214;11:00;Retail Sales (YoY);South Africa;ZAR;1
+USD_MBAMortgageApplications;20221214;12:00;MBA Mortgage Applications;United States;USD;1
+PLN_CurrentAccount;20221214;13:00;Current Account;Poland;PLN;1
+CAD_ManufacturingSales;20221214;13:30;Manufacturing Sales (MoM);Canada;CAD;1
+USD_ImportPriceIndex;20221214;13:30;Import Price Index (MoM);United States;USD;1
+USD_ExportPriceIndex;20221214;13:30;Export Price Index (YoY);United States;USD;1
+USD_EIACrudeOilStocksChange;20221214;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_InterestRateProjections3rdyear;20221214;19:00;Interest Rate Projections - 3rd year;United States;USD;3
+USD_FOMCEconomicProjections;20221214;19:00;FOMC Economic Projections;United States;USD;3
+USD_InterestRateProjections1styear;20221214;19:00;Interest Rate Projections - 1st year;United States;USD;3
+USD_InterestRateProjectionsLonger;20221214;19:00;Interest Rate Projections - Longer;United States;USD;3
+USD_FedMonetaryPolicyStatement;20221214;19:00;Fed Monetary Policy Statement;United States;USD;3
+USD_InterestRateProjections2ndyear;20221214;19:00;Interest Rate Projections - 2nd year;United States;USD;3
+USD_InterestRateProjectionsCurrent;20221214;19:00;Interest Rate Projections - Current;United States;USD;3
+USD_FedInterestRateDecision;20221214;19:00;Fed Interest Rate Decision;United States;USD;3
+USD_FOMCPressConference;20221214;19:30;FOMC Press Conference;United States;USD;3
+KRW_ImportPriceGrowth;20221214;21:00;Import Price Growth (YoY);South Korea;KRW;1
+KRW_ExportPriceGrowth;20221214;21:00;Export Price Growth (YoY);South Korea;KRW;1
+NZD_GrossDomesticProduct;20221214;21:45;Gross Domestic Product (QoQ);New Zealand;NZD;3
+JPY_AdjustedMerchandiseTradeBalance;20221214;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_MerchandiseTradeBalanceTotal;20221214;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Imports;20221214;23:50;Imports (YoY);Japan;JPY;2
+JPY_Exports;20221214;23:50;Exports (YoY);Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20221214;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20221214;23:50;Foreign Bond Investment;Japan;JPY;1

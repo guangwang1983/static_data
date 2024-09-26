@@ -1,0 +1,20 @@
+AUD_CentralBankSpeech;20200922;00:30;RBA Debelle speech;Australia;AUD;2
+DKK_ConsumerConfidence;20200922;06:00;Consumer Confidence;Denmark;DKK;1
+TRY_ConsumerConfidence;20200922;07:00;Consumer Confidence;Turkey;TRY;1
+SEK_RiksbankInterestRateDecision;20200922;07:30;Riksbank Interest Rate Decision;Sweden;SEK;1
+GBP_CentralBankSpeech;20200922;07:30;BoE Governor Bailey speech;United Kingdom;GBP;3
+GBP_CBIIndustrialTrendsSurvey–Orders;20200922;10:00;CBI Industrial Trends Survey – Orders (MoM);United Kingdom;GBP;2
+EUR_EurCentralBankSpeech;20200922;12:00;ECB Panetta speech;European Monetary Union;EUR;2
+HUF_MNBInterestRateDecision;20200922;12:00;MNB Interest Rate Decision;Hungary;HUF;1
+PLN_M3MoneySupply;20200922;12:00;M3 Money Supply (YoY);Poland;PLN;1
+USD_RedbookIndex;20200922;12:55;Redbook Index (YoY);United States;USD;1
+USD_ExistingHomeSales;20200922;14:00;Existing Home Sales (MoM);United States;USD;2
+USD_ExistingHomeSalesChange;20200922;14:00;Existing Home Sales Change (MoM);United States;USD;1
+EUR_EurConsumerConfidence;20200922;14:00;Consumer Confidence;European Monetary Union;EUR;2
+USD_RichmondFedManufacturingIndex;20200922;14:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_FedChairPowelltestifies;20200922;14:30;Fed Chair Powell testifies;United States;USD;3
+USD_Auction;20200922;17:00;2-Year Note Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20200922;20:30;API Weekly Crude Oil Stock;United States;USD;1
+AUD_S&PGlobalServicesPMI;20200922;23:00;S&P Global Services PMI;Australia;AUD;2
+AUD_S&PGlobalManufacturingPMI;20200922;23:00;S&P Global Manufacturing PMI;Australia;AUD;2
+AUD_S&PGlobalCompositePMI;20200922;23:00;S&P Global Composite PMI;Australia;AUD;1

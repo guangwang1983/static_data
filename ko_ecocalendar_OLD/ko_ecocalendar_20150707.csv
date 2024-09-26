@@ -1,0 +1,45 @@
+JPY_BankLending;20150707;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_CurrentAccount;20150707;23:50;Current Account n.s.a.;Japan;JPY;1
+JPY_TradeBalanceBOPBasis;20150707;23:50;Trade Balance - BOP Basis;Japan;JPY;1
+GBP_BRCShopPriceIndex;20150707;23:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1
+USD_APIWeeklyCrudeOilStock;20150707;21:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_Auction;20150707;17:00;3-Year Note Auction;United States;USD;1
+EUR_EurEULeadersSpecialSummit;20150707;16:00;EU Leaders Special Summit;European Monetary Union;EUR;3
+TRY_TreasuryCashBalance;20150707;14:30;Treasury Cash Balance;Turkey;TRY;1
+HUF_BudgetBalance;20150707;14:30;Budget Balance;Hungary;HUF;1
+USD_JOLTSJobOpenings;20150707;14:00;JOLTS Job Openings;United States;USD;1
+GBP_NIESRGDPEstimate;20150707;14:00;NIESR GDP Estimate (3M);United Kingdom;GBP;3
+USD_IBDTIPPEconomicOptimism;20150707;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+MXN_ConsumerConfidence;20150707;13:00;Consumer Confidence;Mexico;MXN;1
+USD_RedbookIndex;20150707;12:55;Redbook Index (MoM);United States;USD;1
+USD_TradeBalance;20150707;12:30;Trade Balance;United States;USD;2
+CAD_Exports;20150707;12:30;Exports;Canada;CAD;1
+CAD_Imports;20150707;12:30;Imports;Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20150707;12:30;International Merchandise Trade;Canada;CAD;1
+CLP_TradeBalance;20150707;12:30;Trade Balance;Chile;CLP;1
+PLN_CentralBankFXReserves;20150707;12:00;Central Bank FX Reserves;Poland;PLN;1
+EUR_EurEurogroupMeeting;20150707;11:00;Eurogroup Meeting;European Monetary Union;EUR;2
+GBP_Auction;20150707;09:53;30-y Bond Auction;United Kingdom;GBP;1
+ZAR_BusinessConfidenceIndex;20150707;09:30;Business Confidence Index;South Africa;ZAR;1
+SGD_ForeignReserves;20150707;09:00;Foreign Reserves (MoM);Singapore;SGD;1
+GBP_ManufacturingProduction;20150707;08:30;Manufacturing Production (MoM);United Kingdom;GBP;1
+GBP_IndustrialProduction;20150707;08:30;Industrial Production (YoY);United Kingdom;GBP;1
+NOK_ManufacturingOutput;20150707;08:00;Manufacturing Output;Norway;NOK;1
+HUF_IndustrialOutput;20150707;07:00;Industrial Output (YoY);Hungary;HUF;1
+EUR_AusWholesalePrices;20150707;07:00;Wholesale Prices n.s.a (MoM);Austria;EUR;1
+CZK_RetailSales;20150707;07:00;Retail Sales (YoY);Czech Republic;CZK;1
+CZK_IndustrialProduction;20150707;07:00;Industrial Production (YoY);Czech Republic;CZK;1
+RON_GrossDomesticProduct;20150707;07:00;Gross Domestic Product;Romania;RON;1
+CHF_ForeignCurrencyReserves;20150707;07:00;Foreign Currency Reserves;Switzerland;CHF;1
+DKK_IndustrialProduction;20150707;07:00;Industrial Production (MoM);Denmark;DKK;1
+CZK_Constructionoutput;20150707;07:00;Construction output (YoY);Czech Republic;CZK;1
+EUR_FraImportsEUR;20150707;06:45;Imports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20150707;06:45;Trade Balance EUR;France;EUR;1
+EUR_FraExportsEUR;20150707;06:45;Exports, EUR;France;EUR;1
+EUR_FraBudget;20150707;06:45;Budget;France;EUR;1
+EUR_GerIndustrialProduction;20150707;06:00;Industrial Production s.a. (MoM);Germany;EUR;2
+ZAR_Net$Gold&ForexReserve;20150707;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+ZAR_Gross$Gold&ForexReserve;20150707;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+CHF_UnemploymentRate;20150707;05:45;Unemployment Rate s.a (MoM);Switzerland;CHF;3
+AUD_RBARateStatement;20150707;04:30;RBA Rate Statement;Australia;AUD;3
+AUD_RBAInterestRateDecision;20150707;04:30;RBA Interest Rate Decision;Australia;AUD;3

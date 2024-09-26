@@ -1,0 +1,27 @@
+KRW_CurrentAccount;20121127;23:00;Current Account Balance;South Korea;KRW;1
+USD_CentralBankSpeech;20121127;23:00;Fed Evans speech;United States;USD;1
+USD_Auction;20121127;18:00;2-Year Note Auction;United States;USD;1
+USD_ConsumerConfidence;20121127;15:00;Consumer Confidence;United States;USD;2
+USD_HousingPriceIndex;20121127;15:00;Housing Price Index (MoM);United States;USD;2
+USD_RichmondFedManufacturingIndex;20121127;15:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20121127;14:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;1
+USD_RedbookIndex;20121127;13:55;Redbook Index (MoM);United States;USD;1
+USD_DurableGoodsOrders;20121127;13:30;Durable Goods Orders ex Transportation;United States;USD;3
+HUF_MNBInterestRateDecision;20121127;13:00;MNB Interest Rate Decision;Hungary;HUF;1
+EUR_SpaAuction;20121127;09:52;6-Month Letras Auction;Spain;EUR;1
+GBP_GrossDomesticProduct;20121127;09:30;Gross Domestic Product (YoY);United Kingdom;GBP;3
+GBP_TotalBusinessInvestment;20121127;09:30;Total Business Investment (QoQ);United Kingdom;GBP;1
+ZAR_GrossDomesticProduct;20121127;09:30;Gross Domestic Product (YoY);South Africa;ZAR;1
+GBP_IndexofServices;20121127;09:30;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_MarkCarneywillbecomethenewBankofEnglandGovernor;20121127;09:00;Mark Carney will become the new Bank of England Governor;United Kingdom;GBP;1
+GBP_InflationReportHearings;20121127;09:00;Inflation Report Hearings;United Kingdom;GBP;3
+EUR_ItaWageInflation;20121127;09:00;Wage Inflation (YoY);Italy;EUR;1
+SEK_ProducerPriceIndex;20121127;08:30;Producer Price Index (MoM);Sweden;SEK;1
+SEK_TradeBalance;20121127;08:30;Trade Balance (MoM);Sweden;SEK;1
+SEK_ConsumerConfidence;20121127;08:15;Consumer Confidence (MoM);Sweden;SEK;1
+EUR_FraConsumerConfidence;20121127;07:45;Consumer Confidence;France;EUR;1
+EUR_GerImportPriceIndex;20121127;07:00;Import Price Index (YoY);Germany;EUR;1
+CHF_UBSConsumptionIndicator;20121127;07:00;UBS Consumption Indicator;Switzerland;CHF;2
+EUR_FinConsumerConfidence;20121127;07:00;Consumer Confidence;Finland;EUR;1
+EUR_FinIndustrialConfidence;20121127;07:00;Industrial Confidence;Finland;EUR;1
+NZD_RBNZInflationExpectations;20121127;02:00;RBNZ Inflation Expectations (QoQ);New Zealand;NZD;1

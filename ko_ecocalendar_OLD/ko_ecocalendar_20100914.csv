@@ -1,0 +1,19 @@
+USD_BusinessInventories;20100914;14:00;Business Inventories;United States;USD;2
+USD_IBDTIPPEconomicOptimism;20100914;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+CAD_NewMotorVehicleSales;20100914;12:30;New Motor Vehicle Sales (MoM);Canada;CAD;1
+USD_RetailSales;20100914;12:30;Retail Sales ex Autos (MoM);United States;USD;2
+CAD_LaborProductivity;20100914;12:30;Labor Productivity (QoQ);Canada;CAD;1
+CAD_CapacityUtilization;20100914;12:30;Capacity Utilization;Canada;CAD;1
+EUR_EurIndustrialProduction;20100914;09:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;1
+EUR_EurZEWSurveyEconomicSentiment;20100914;09:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurveyEconomicSentiment;20100914;09:00;ZEW Survey - Economic Sentiment;Germany;EUR;2
+EUR_GerZEWSurveyCurrentSituation;20100914;09:00;ZEW Survey - Current Situation;Germany;EUR;2
+GBP_RetailPriceIndex;20100914;08:30;Retail Price Index (MoM);United Kingdom;GBP;2
+GBP_DCLGHousePriceIndex;20100914;08:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20100914;08:30;Core Consumer Price Index (YoY);United Kingdom;GBP;1
+EUR_GerWholesalePriceIndex;20100914;06:00;Wholesale Price Index (MoM);Germany;EUR;1
+JPY_IndustrialProduction;20100914;04:30;Industrial Production (MoM);Japan;JPY;1
+JPY_CapacityUtilization;20100914;04:30;Capacity Utilization;Japan;JPY;2
+JPY_TokyoCondominiumSales;20100914;04:00;Tokyo Condominium Sales (YoY);Japan;JPY;1
+AUD_NationalAustraliaBankBusinessConfidence;20100914;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20100914;01:30;National Australia Bank Business Conditions;Australia;AUD;1

@@ -1,0 +1,20 @@
+IDR_BankIndonesiaRate;20170822;04:00;Bank Indonesia Rate;Indonesia;IDR;1
+CHF_TradeBalance;20170822;06:00;Trade Balance;Switzerland;CHF;1
+CHF_Exports;20170822;06:00;Exports (MoM);Switzerland;CHF;1
+CHF_Imports;20170822;06:00;Imports (MoM);Switzerland;CHF;1
+HUF_GrossWages;20170822;07:00;Gross Wages (YoY);Hungary;HUF;1
+DKK_RetailSales;20170822;07:00;Retail Sales (YoY);Denmark;DKK;1
+SEK_CapacityUtilization;20170822;07:30;Capacity Utilization;Sweden;SEK;1
+GBP_PublicSectorNetBorrowing;20170822;08:30;Public Sector Net Borrowing;United Kingdom;GBP;2
+EUR_EurZEWSurvey–EconomicSentiment;20170822;09:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;1
+EUR_GerZEWSurvey–CurrentSituation;20170822;09:00;ZEW Survey – Current Situation;Germany;EUR;2
+EUR_GerZEWSurvey–EconomicSentiment;20170822;09:00;ZEW Survey – Economic Sentiment;Germany;EUR;2
+GBP_CBIIndustrialTrendsSurvey–Orders;20170822;10:00;CBI Industrial Trends Survey – Orders (MoM);United Kingdom;GBP;1
+HUF_MNBInterestRateDecision;20170822;12:30;MNB Interest Rate Decision;Hungary;HUF;1
+CAD_RetailSales;20170822;12:30;Retail Sales ex Autos (MoM);Canada;CAD;1
+USD_RedbookIndex;20170822;12:55;Redbook Index (YoY);United States;USD;1
+MXN_GrossDomesticProduct;20170822;13:00;Gross Domestic Product (YoY);Mexico;MXN;1
+USD_HousingPriceIndex;20170822;13:00;Housing Price Index (MoM);United States;USD;2
+USD_RichmondFedManufacturingIndex;20170822;14:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_Auction;20170822;15:30;4-Week Bill Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20170822;20:30;API Weekly Crude Oil Stock;United States;USD;1

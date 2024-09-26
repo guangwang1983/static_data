@@ -1,0 +1,28 @@
+AUD_ConsumerInflationExpectations;20190411;01:00;Consumer Inflation Expectations;Australia;AUD;2
+CNY_ConsumerPriceIndex;20190411;01:30;Consumer Price Index (YoY);China;CNY;3
+CNY_ProducerPriceIndex;20190411;01:30;Producer Price Index (YoY);China;CNY;2
+AUD_CentralBankSpeech;20190411;02:30;RBA Debelle speech;Australia;AUD;2
+KRW_MoneySupplyGrowth;20190411;03:00;Money Supply Growth;South Korea;KRW;1
+EUR_GerConsumerPriceIndex;20190411;06:00;Consumer Price Index (YoY);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20190411;06:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+EUR_FraConsumerPriceIndex;20190411;06:45;Consumer Price Index (EU norm) (YoY);France;EUR;1
+EUR_FraInflationextobacco;20190411;06:45;Inflation ex-tobacco (MoM);France;EUR;1
+TRY_CurrentAccount;20190411;07:00;Current Account Balance;Turkey;TRY;1
+SEK_ConsumerPriceIndex;20190411;07:30;Consumer Price Index (YoY);Sweden;SEK;1
+ZAR_ManufacturingProductionIndex;20190411;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+USD_ProducerPriceIndex;20190411;12:30;Producer Price Index (MoM);United States;USD;1
+USD_JoblessClaims;20190411;12:30;Continuing Jobless Claims;United States;USD;1
+CAD_NewHousingPriceIndex;20190411;12:30;New Housing Price Index (YoY);Canada;CAD;1
+RUB_ForeignTrade;20190411;13:00;Foreign Trade;Russia;RUB;1
+RUB_CentralBankReserves;20190411;13:00;Central Bank Reserves $;Russia;RUB;1
+MXN_IndustrialOutput;20190411;13:00;Industrial Output (YoY);Mexico;MXN;1
+USD_EIANaturalGasStorageChange;20190411;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20190411;17:00;30-Year Bond Auction;United States;USD;1
+CAD_CentralBankSpeech;20190411;17:00;BoC Wilkins speech;Canada;CAD;2
+USD_CentralBankSpeech;20190411;20:00;Fed Bowman speech;United States;USD;2
+KRW_ImportPriceGrowth;20190411;21:00;Import Price Growth (YoY);South Korea;KRW;1
+KRW_ExportPriceGrowth;20190411;21:00;Export Price Growth (YoY);South Korea;KRW;1
+NZD_REINZHousePriceIndex;20190411;21:00;REINZ House Price Index (MoM);New Zealand;NZD;2
+NZD_BusinessNZPMI;20190411;22:30;Business NZ PMI;New Zealand;NZD;2
+NZD_VisitorArrivals;20190411;22:45;Visitor Arrivals (YoY);New Zealand;NZD;1
+NZD_RetailSales;20190411;22:45;Electronic Card Retail Sales  (MoM);New Zealand;NZD;1

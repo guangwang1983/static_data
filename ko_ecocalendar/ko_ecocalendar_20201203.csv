@@ -1,0 +1,37 @@
+NZD_ANZCommodityPrice;20201203;00:00;ANZ Commodity Price;New Zealand;NZD;1
+AUD_HomeLoans;20201203;00:30;Home Loans;Australia;AUD;1
+AUD_InvestmentLendingforHomes;20201203;00:30;Investment Lending for Homes;Australia;AUD;1
+JPY_JibunBankServicesPMI;20201203;00:30;Jibun Bank Services PMI;Japan;JPY;1
+AUD_TradeBalance;20201203;00:30;Trade Balance (MoM);Australia;AUD;3
+AUD_Imports;20201203;00:30;Imports (MoM);Australia;AUD;2
+AUD_Exports;20201203;00:30;Exports (MoM);Australia;AUD;2
+JPY_CentralBankSpeech;20201203;01:30;BoJ Suzuki speech;Japan;JPY;2
+CNY_CaixinServicesPMI;20201203;01:45;Caixin Services PMI;China;CNY;2
+RUB_S&PGlobalServicesPMI;20201203;06:00;S&P Global Services PMI;Russia;RUB;1
+TRY_ProducerPriceIndex;20201203;07:00;Producer Price Index (MoM);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20201203;07:00;Consumer Price Index (YoY);Turkey;TRY;1
+HUF_RetailSales;20201203;08:00;Retail Sales (YoY);Hungary;HUF;1
+EUR_ItaHCOBServicesPMI;20201203;08:45;HCOB Services PMI;Italy;EUR;2
+EUR_FraHCOBServicesPMI;20201203;08:50;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20201203;08:50;HCOB Composite PMI;France;EUR;1
+EUR_GerHCOBServicesPMI;20201203;08:55;HCOB Services PMI;Germany;EUR;1
+EUR_GerHCOBCompositePMI;20201203;08:55;HCOB Composite PMI;Germany;EUR;2
+EUR_EurHCOBServicesPMI;20201203;09:00;HCOB Services PMI;European Monetary Union;EUR;1
+EUR_EurHCOBCompositePMI;20201203;09:00;HCOB Composite PMI;European Monetary Union;EUR;2
+GBP_S&PGlobalCIPSCompositePMI;20201203;09:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSServicesPMI;20201203;09:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;1
+EUR_EurRetailSales;20201203;10:00;Retail Sales (MoM);European Monetary Union;EUR;2
+EUR_FraAuction;20201203;11:00;10-y Bond Auction;France;EUR;1
+BRL_GrossDomesticProduct;20201203;12:00;Gross Domestic Product (YoY);Brazil;BRL;1
+USD_ChallengerJobCuts;20201203;12:30;Challenger Job Cuts;United States;USD;1
+RUB_CentralBankReserves;20201203;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_JoblessClaims;20201203;13:30;Continuing Jobless Claims;United States;USD;2
+USD_S&PGlobalServicesPMI;20201203;14:45;S&P Global Services PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20201203;14:45;S&P Global Composite PMI;United States;USD;2
+USD_ISMServicesEmploymentIndex;20201203;15:00;ISM Services Employment Index;United States;USD;2
+USD_ISMServicesPricesPaid;20201203;15:00;ISM Services Prices Paid;United States;USD;2
+USD_ISMServicesPMI;20201203;15:00;ISM Services PMI;United States;USD;3
+USD_ISMServicesNewOrdersIndex;20201203;15:00;ISM Services New Orders Index;United States;USD;2
+USD_EIANaturalGasStorageChange;20201203;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20201203;16:30;4-Week Bill Auction;United States;USD;1
+KRW_CurrentAccount;20201203;23:00;Current Account Balance;South Korea;KRW;1

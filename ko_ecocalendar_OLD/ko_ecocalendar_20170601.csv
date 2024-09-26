@@ -1,0 +1,59 @@
+JPY_MonetaryBase;20170601;23:50;Monetary Base (YoY);Japan;JPY;1
+EUR_IreConsumerConfidence;20170601;23:01;Consumer Confidence;Ireland;EUR;1
+KRW_GrossDomesticProduct;20170601;23:00;Gross Domestic Product Growth (YoY);South Korea;KRW;1
+USD_TotalVehicleSales;20170601;22:02;Total Vehicle Sales;United States;USD;1
+USD_EIACrudeOilStocksChange;20170601;15:00;EIA Crude Oil Stocks Change;United States;USD;1
+USD_EIANaturalGasStorageChange;20170601;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_ISMManufacturingPMI;20170601;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMPricesPaid;20170601;14:00;ISM Prices Paid;United States;USD;3
+USD_ConstructionSpending;20170601;14:00;Construction Spending (MoM);United States;USD;2
+USD_MarkitManufacturingPMI;20170601;13:45;Markit Manufacturing PMI;United States;USD;2
+CAD_MarkitManufacturingPMI;20170601;13:30;Markit Manufacturing PMI;Canada;CAD;2
+ZAR_TotalNewVehicleSales;20170601;13:00;Total New Vehicle Sales;South Africa;ZAR;1
+BRL_HSBCPMIManufacturing;20170601;13:00;HSBC PMI Manufacturing;Brazil;BRL;1
+RUB_CentralBankReserves;20170601;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_JoblessClaims;20170601;12:30;Initial Jobless Claims;United States;USD;2
+USD_ADPEmploymentChange;20170601;12:15;ADP Employment Change;United States;USD;2
+BRL_GrossDomesticProduct;20170601;12:00;Gross Domestic Product (YoY);Brazil;BRL;1
+CZK_BudgetBalance;20170601;12:00;Budget Balance;Czech Republic;CZK;1
+USD_ChallengerJobCuts;20170601;11:30;Challenger Job Cuts;United States;USD;1
+ZAR_UnemploymentRate;20170601;10:30;Unemployment Rate (%);South Africa;ZAR;1
+ZAR_UnemploymentTotal;20170601;10:30;Unemployment Total ;South Africa;ZAR;1
+GBP_Auction;20170601;10:25;10-y Bond Auction;United Kingdom;GBP;1
+TRY_Exports;20170601;09:48;Exports;Turkey;TRY;1
+EUR_SpaAuction;20170601;09:35;3-y Bond Auction;Spain;EUR;1
+EUR_FraAuction;20170601;09:32;10-y Bond Auction;France;EUR;1
+HKD_RetailSales;20170601;08:38;Retail Sales;Hong Kong SAR;HKD;1
+GBP_MarkitManufacturingPMI;20170601;08:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+EUR_ItaGrossDomesticProduct;20170601;08:00;Gross Domestic Product (YoY);Italy;EUR;2
+EUR_GreMarkitManufacturingPMI;20170601;08:00;Markit Manufacturing PMI;Greece;EUR;1
+EUR_EurMarkitManufacturingPMI;20170601;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_GerMarkitManufacturingPMI;20170601;07:55;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20170601;07:50;Markit Manufacturing PMI;France;EUR;1
+EUR_ItaMarkitManufacturingPMI;20170601;07:45;Markit Manufacturing PMI;Italy;EUR;1
+EUR_AusUnemployment;20170601;07:32;Unemployment;Austria;EUR;1
+EUR_AusUnemploymentRate;20170601;07:32;Unemployment Rate;Austria;EUR;1
+CHF_SVMEPurchasingManagers'Index;20170601;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_MarkitPMI;20170601;07:30;Markit PMI;Czech Republic;CZK;1
+EUR_SpaMarkitManufacturingPMI;20170601;07:15;Markit Manufacturing PMI;Spain;EUR;1
+CHF_RetailSales;20170601;07:15;Real Retail Sales (YoY);Switzerland;CHF;2
+HUF_PurchasingManagerIndex;20170601;07:00;Purchasing Manager Index;Hungary;HUF;1
+HUF_TradeBalance;20170601;07:00;Trade Balance;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20170601;07:00;Purchasing Manager Index;Poland;PLN;2
+AUD_RBACommodityIndexSDR;20170601;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+SEK_PurchasingManagersIndexManufacturing;20170601;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;2
+GBP_NationwideHousingPrices;20170601;06:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;1
+RUB_HSBCManufacturingPMI;20170601;06:00;HSBC Manufacturing PMI	;Russia;RUB;1
+EUR_FinGrossDomesticProduct;20170601;06:00;Gross Domestic Product Qtr Prelim (YoY);Finland;EUR;1
+CHF_GrossDomesticProduct;20170601;05:45;Gross Domestic Product (YoY);Switzerland;CHF;2
+JPY_VehicleSales;20170601;05:00;Vehicle Sales (YoY);Japan;JPY;1
+PEN_Inflation;20170601;05:00;Inflation;Peru;PEN;1
+EUR_IrePurchasingManagerIndexManufacturing;20170601;05:00;Purchasing Manager Index Manufacturing;Ireland;EUR;1
+CNY_CaixinManufacturingPMI;20170601;01:45;Caixin Manufacturing PMI;China;CNY;2
+AUD_RetailSales;20170601;01:30;Retail Sales s.a. (MoM);Australia;AUD;2
+AUD_PrivateCapitalExpenditure;20170601;01:30;Private Capital Expenditure;Australia;AUD;1
+KRW_NikkeiMarkitManufacturingPMI;20170601;00:30;Nikkei Markit Manufacturing PMI;South Korea;KRW;1
+JPY_NikkeiManufacturingPMI;20170601;00:30;Nikkei Manufacturing PMI;Japan;JPY;1
+USD_CentralBankSpeech;20170601;00:10;Fed Williams speech;United States;USD;1
+IDR_PancasilaDay;20170601;00:00;Pancasila Day;Indonesia;IDR;0
+KRW_TradeBalance;20170601;00:00;Trade Balance;South Korea;KRW;1

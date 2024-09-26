@@ -1,0 +1,23 @@
+USD_IMFMeeting;20220422;00:00;IMF Meeting;United States;USD;2
+JPY_JibunBankServicesPMI;20220422;00:30;Jibun Bank Services PMI;Japan;JPY;1
+JPY_JibunBankManufacturingPMI;20220422;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+GBP_RetailSales;20220422;06:00;Retail Sales (YoY);United Kingdom;GBP;2
+PLN_RetailSales;20220422;08:00;Retail Sales (YoY);Poland;PLN;1
+EUR_EurCurrentAccount;20220422;08:00;Current Account s.a;European Monetary Union;EUR;1
+EUR_EurS&PGlobalCompositePMI;20220422;08:00;S&P Global Composite PMI;European Monetary Union;EUR;3
+EUR_EurS&PGlobalServicesPMI;20220422;08:00;S&P Global Services PMI;European Monetary Union;EUR;2
+EUR_EurS&PGlobalManufacturingPMI;20220422;08:00;S&P Global Manufacturing PMI;European Monetary Union;EUR;2
+GBP_S&PGlobalCIPSManufacturingPMI;20220422;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSServicesPMI;20220422;08:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;3
+MXN_1sthalfmonthInflation;20220422;11:00;1st half-month Inflation;Mexico;MXN;1
+MXN_1sthalfmonthCoreInflation;20220422;11:00;1st half-month Core Inflation;Mexico;MXN;1
+CAD_IndustrialProductPrice;20220422;12:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_RawMaterialPriceIndex;20220422;12:30;Raw Material Price Index;Canada;CAD;1
+CAD_RetailSales;20220422;12:30;Retail Sales ex Autos (MoM);Canada;CAD;2
+EUR_EurCentralBankSpeech;20220422;13:00;ECB President Lagarde speech;European Monetary Union;EUR;3
+USD_S&PGlobalManufacturingPMI;20220422;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20220422;13:45;S&P Global Services PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20220422;13:45;S&P Global Composite PMI;United States;USD;2
+GBP_CentralBankSpeech;20220422;14:30;BoE Governor Bailey speech;United Kingdom;GBP;3
+USD_BakerHughesUSOilRigCount;20220422;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+TRY_NationalSovereigntyandChildrenDay;20220422;21:00;National Sovereignty and Children Day ;Turkey;TRY;0

@@ -1,0 +1,35 @@
+COP_ConsumerPriceIndex;20200206;00:00;Consumer Price Index (MoM);Colombia;COP;1
+AUD_NationalAustraliaBankBusinessConfidence;20200206;00:30;National Australia Bank Business Confidence (QoQ);Australia;AUD;2
+AUD_RetailSales;20200206;00:30;Retail Sales (QoQ);Australia;AUD;2
+AUD_TradeBalance;20200206;00:30;Trade Balance (MoM);Australia;AUD;2
+AUD_Imports;20200206;00:30;Imports (MoM);Australia;AUD;2
+AUD_Exports;20200206;00:30;Exports (MoM);Australia;AUD;2
+JPY_CentralBankSpeech;20200206;01:30;BoJ Masai speech;Japan;JPY;2
+INR_ReverseRepoRate;20200206;06:15;Reverse Repo Rate;India;INR;1
+INR_RBIInterestRateDecision;20200206;06:15;RBI Interest Rate Decision (Repo Rate);India;INR;1
+EUR_GerFactoryOrders;20200206;07:00;Factory Orders n.s.a. (YoY);Germany;EUR;1
+EUR_FraIndividualInvestment;20200206;07:45;Individual Investment (Current Year);France;EUR;1
+HUF_IndustrialOutput;20200206;08:00;Industrial Output (YoY);Hungary;HUF;1
+CZK_IndustrialProduction;20200206;08:00;Industrial Production (YoY);Czech Republic;CZK;1
+CZK_Constructionoutput;20200206;08:00;Construction output (YoY);Czech Republic;CZK;1
+CZK_ForeignTradeBalance;20200206;08:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+EUR_EurCentralBankSpeech;20200206;08:15;ECB De Guindos speech;European Monetary Union;EUR;2
+EUR_EurEconomicBulletin;20200206;09:00;Economic Bulletin;European Monetary Union;EUR;2
+ZAR_BusinessConfidenceIndex;20200206;09:30;Business Confidence Index;South Africa;ZAR;1
+EUR_FraAuction;20200206;09:50;10-y Bond Auction;France;EUR;1
+ILS_FXReserves;20200206;12:00;FX Reserves;Israel;ILS;1
+USD_ChallengerJobCuts;20200206;12:30;Challenger Job Cuts;United States;USD;1
+RUB_ConsumerPriceIndex;20200206;13:00;Consumer Price Index (MoM);Russia;RUB;1
+RUB_CentralBankReserves;20200206;13:00;Central Bank Reserves $;Russia;RUB;1
+CZK_CNBInterestRateDecision;20200206;13:00;CNB Interest Rate Decision;Czech Republic;CZK;1
+USD_JoblessClaims;20200206;13:30;Initial Jobless Claims;United States;USD;2
+USD_UnitLaborCosts;20200206;13:30;Unit Labor Costs;United States;USD;2
+USD_NonfarmProductivity;20200206;13:30;Nonfarm Productivity;United States;USD;2
+USD_CentralBankSpeech;20200206;14:15;Fed Kaplan speech;United States;USD;2
+USD_EIANaturalGasStorageChange;20200206;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20200206;16:30;4-Week Bill Auction;United States;USD;1
+AUD_AiGPerformanceofServicesIndex;20200206;21:30;AiG Performance of Services Index;Australia;AUD;1
+AUD_CentralBankSpeech;20200206;22:30;RBA Governor Lowe speech;Australia;AUD;3
+JPY_LaborCashEarnings;20200206;23:30;Labor Cash Earnings (YoY);Japan;JPY;1
+JPY_OverallHouseholdSpending;20200206;23:30;Overall Household Spending (YoY);Japan;JPY;2
+JPY_JPForeignReserves;20200206;23:50;JP Foreign Reserves;Japan;JPY;1

@@ -1,0 +1,20 @@
+AUD_RetailSales;20210510;01:30;Retail Sales (QoQ);Australia;AUD;2
+AUD_NationalAustraliaBankBusinessConditions;20210510;01:30;National Australia Bank Business Conditions;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConfidence;20210510;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+NOK_ConsumerPriceIndex;20210510;06:00;Consumer Price Index (MoM);Norway;NOK;1
+NOK_CoreInflation;20210510;06:00;Core Inflation (MoM);Norway;NOK;1
+RON_TradeBalance;20210510;06:00;Trade Balance;Romania;RON;1
+DKK_Inflation;20210510;06:00;Inflation (HICP) (YoY);Denmark;DKK;1
+DKK_ConsumerPriceIndex;20210510;06:00;Consumer Price Index (YoY);Denmark;DKK;1
+DKK_TradeBalance;20210510;06:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20210510;06:00;Current Account;Denmark;DKK;1
+NOK_ProducerPriceIndex;20210510;06:00;Producer Price Index (YoY);Norway;NOK;1
+TRY_UnemploymentRate;20210510;07:00;Unemployment Rate;Turkey;TRY;1
+GBP_HalifaxHousePrices;20210510;07:30;Halifax House Prices (YoY/3m);United Kingdom;GBP;1
+EUR_EurSentixInvestorConfidence;20210510;08:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+HUF_BudgetBalance;20210510;09:00;Budget Balance;Hungary;HUF;1
+USD_Auction;20210510;15:30;3-Month Bill Auction;United States;USD;1
+NZD_RetailSales;20210510;22:45;Electronic Card Retail Sales  (MoM);New Zealand;NZD;1
+GBP_RetailSales;20210510;23:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+JPY_OverallHouseholdSpending;20210510;23:30;Overall Household Spending (YoY);Japan;JPY;2
+JPY_BoJSummaryofOpinions;20210510;23:50;BoJ Summary of Opinions;Japan;JPY;1

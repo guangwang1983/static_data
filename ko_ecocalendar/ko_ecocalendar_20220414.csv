@@ -1,0 +1,45 @@
+AUD_ConsumerInflationExpectations;20220414;01:00;Consumer Inflation Expectations;Australia;AUD;2
+KRW_BoKInterestRateDecision;20220414;01:00;BoK Interest Rate Decision;South Korea;KRW;1
+AUD_PartTimeEmployment;20220414;01:30;Part-Time Employment;Australia;AUD;1
+AUD_FullTimeEmployment;20220414;01:30;Full-Time Employment;Australia;AUD;2
+AUD_EmploymentChange;20220414;01:30;Employment Change s.a.;Australia;AUD;3
+AUD_ParticipationRate;20220414;01:30;Participation Rate;Australia;AUD;1
+AUD_UnemploymentRate;20220414;01:30;Unemployment Rate s.a.;Australia;AUD;3
+COP_MaundyThursday;20220414;05:00;Maundy Thursday;Colombia;COP;0
+ILS_M1MoneySupply;20220414;06:00;M1 Money Supply (MoM);Israel;ILS;1
+MXN_MaundyThursday;20220414;06:00;Maundy Thursday ;Mexico;MXN;0
+SEK_ConsumerPriceIndex;20220414;06:00;Consumer Price Index (YoY);Sweden;SEK;1
+CHF_ProducerandImportPrices;20220414;06:30;Producer and Import Prices (MoM);Switzerland;CHF;1
+CNY_FDIForeignDirectInvestment;20220414;07:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+GBP_BoECreditConditionsSurvey;20220414;08:30;BoE Credit Conditions Survey;United Kingdom;GBP;1
+ILS_GrossDomesticProduct;20220414;10:00;Gross Domestic Product (QoQ);Israel;ILS;1
+TRY_CBRTInterestRateDecision;20220414;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+EUR_EurECBRateOnMainRefinancingOperations;20220414;11:45;ECB Rate On Main Refinancing Operations;European Monetary Union;EUR;3
+EUR_EurECBRateOnDepositFacility;20220414;11:45;ECB Rate On Deposit Facility;European Monetary Union;EUR;3
+EUR_EurECBMonetaryPolicyDecisionStatement;20220414;11:45;ECB Monetary Policy Decision Statement;European Monetary Union;EUR;3
+NZD_GoodFriday;20220414;12:00;Good Friday;New Zealand;NZD;0
+USD_RetailSales;20220414;12:30;Retail Sales ex Autos (MoM);United States;USD;2
+USD_JoblessClaims;20220414;12:30;Initial Jobless Claims;United States;USD;2
+CAD_ManufacturingSales;20220414;12:30;Manufacturing Sales (MoM);Canada;CAD;1
+USD_ImportPriceIndex;20220414;12:30;Import Price Index (MoM);United States;USD;1
+USD_ExportPriceIndex;20220414;12:30;Export Price Index (YoY);United States;USD;1
+EUR_EurECBPressConference;20220414;12:30;ECB Press Conference;European Monetary Union;EUR;3
+CAD_WholesaleSales;20220414;12:30;Wholesale Sales (MoM);Canada;CAD;1
+RUB_CentralBankReserves;20220414;13:00;Central Bank Reserves $;Russia;RUB;1
+AUD_GoodFriday;20220414;14:00;Good Friday;Australia;AUD;0
+USD_UoM5yearConsumerInflationExpectation;20220414;14:00;UoM 5-year Consumer Inflation Expectation;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20220414;14:00;Michigan Consumer Sentiment Index;United States;USD;3
+USD_BusinessInventories;20220414;14:00;Business Inventories;United States;USD;1
+USD_EIANaturalGasStorageChange;20220414;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20220414;15:30;4-Week Bill Auction;United States;USD;1
+IDR_GoodFriday;20220414;17:00;Good Friday;Indonesia;IDR;0
+USD_BakerHughesUSOilRigCount;20220414;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+INR_GoodFriday;20220414;18:30;Good Friday ;India;INR;0
+EUR_GerGoodFriday;20220414;22:00;Good Friday;Germany;EUR;0
+CHF_GoodFriday;20220414;22:00;Good Friday;Switzerland;CHF;0
+NOK_GoodFriday;20220414;22:00;Good Friday;Norway;NOK;0
+DKK_GoodFriday;20220414;22:00;Good Friday ;Denmark;DKK;0
+SEK_GoodFriday;20220414;22:00;Good Friday;Sweden;SEK;0
+ZAR_GoodFriday;20220414;22:00;Good Friday;South Africa;ZAR;0
+EUR_EurGoodFridayBankHoliday;20220414;23:00;Good Friday Bank Holiday;European Monetary Union;EUR;0
+GBP_GoodFriday;20220414;23:00;Good Friday;United Kingdom;GBP;0

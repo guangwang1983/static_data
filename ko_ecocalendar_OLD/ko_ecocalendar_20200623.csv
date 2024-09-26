@@ -1,0 +1,33 @@
+JPY_CorporateServicePriceIndex;20200623;23:50;Corporate Service Price Index (YoY);Japan;JPY;1
+JPY_BoJSummaryofOpinions;20200623;23:50;BoJ Summary of Opinions;Japan;JPY;1
+USD_APIWeeklyCrudeOilStock;20200623;20:30;API Weekly Crude Oil Stock;United States;USD;1
+ARS_GrossDomesticProduct;20200623;19:00;Gross Domestic Product (YoY)	;Argentina;ARS;1
+ARS_UnemploymentRate;20200623;19:00;Unemployment Rate (QoQ)	;Argentina;ARS;1
+USD_Auction;20200623;17:00;2-Year Note Auction;United States;USD;1
+USD_NewHomeSales;20200623;14:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20200623;14:00;New Home Sales Change (MoM);United States;USD;1
+USD_RichmondFedManufacturingIndex;20200623;14:00;Richmond Fed Manufacturing Index;United States;USD;2
+USD_MarkitManufacturingPMI;20200623;13:45;Markit Manufacturing PMI;United States;USD;2
+USD_MarkitPMIComposite;20200623;13:45;Markit PMI Composite;United States;USD;2
+USD_MarkitServicesPMI;20200623;13:45;Markit Services PMI;United States;USD;2
+PLN_M3MoneySupply;20200623;13:00;M3 Money Supply (YoY);Poland;PLN;1
+EUR_SloCurrentAccount;20200623;13:00;Current Account Balance EUR;Slovakia;EUR;1
+USD_RedbookIndex;20200623;12:55;Redbook Index (YoY);United States;USD;1
+MXN_JoblessRate;20200623;12:00;Jobless Rate;Mexico;MXN;1
+HUF_MNBInterestRateDecision;20200623;12:00;MNB Interest Rate Decision;Hungary;HUF;1
+GBP_Auction;20200623;09:40;10-y Bond Auction;United Kingdom;GBP;1
+ZAR_UnemploymentTotal;20200623;09:30;Unemployment Total ;South Africa;ZAR;1
+ZAR_UnemploymentRate;20200623;09:30;Unemployment Rate (%);South Africa;ZAR;1
+GBP_MarkitManufacturingPMI;20200623;08:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+GBP_MarkitServicesPMI;20200623;08:30;Markit Services PMI;United Kingdom;GBP;3
+EUR_EurMarkitManufacturingPMI;20200623;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20200623;08:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_EurMarkitPMIComposite;20200623;08:00;Markit PMI Composite;European Monetary Union;EUR;3
+EUR_GerMarkitPMIComposite;20200623;07:30;Markit PMI Composite;Germany;EUR;3
+EUR_GerMarkitServicesPMI;20200623;07:30;Markit Services PMI;Germany;EUR;2
+EUR_GerMarkitManufacturingPMI;20200623;07:30;Markit Manufacturing PMI;Germany;EUR;3
+EUR_FraMarkitPMIComposite;20200623;07:15;Markit PMI Composite;France;EUR;2
+EUR_FraMarkitServicesPMI;20200623;07:15;Markit Services PMI;France;EUR;2
+EUR_FraMarkitManufacturingPMI;20200623;07:15;Markit Manufacturing PMI;France;EUR;2
+SGD_ConsumerPriceIndex;20200623;05:00;Consumer Price Index (YoY);Singapore;SGD;1
+JPY_JibunBankManufacturingPMI;20200623;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1

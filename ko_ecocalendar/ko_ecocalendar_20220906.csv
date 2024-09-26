@@ -1,0 +1,22 @@
+COP_ConsumerPriceIndex;20220906;00:00;Consumer Price Index (MoM);Colombia;COP;1
+AUD_CurrentAccount;20220906;01:30;Current Account Balance;Australia;AUD;1
+AUD_RBAInterestRateDecision;20220906;04:30;RBA Interest Rate Decision;Australia;AUD;3
+AUD_RBARateStatement;20220906;04:30;RBA Rate Statement;Australia;AUD;3
+EUR_GerFactoryOrders;20220906;06:00;Factory Orders n.s.a. (YoY);Germany;EUR;1
+CZK_IndustrialProduction;20220906;07:00;Industrial Production (YoY);Czech Republic;CZK;1
+CZK_Constructionoutput;20220906;07:00;Construction output (YoY);Czech Republic;CZK;1
+CZK_ForeignTradeBalance;20220906;07:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+GBP_S&PGlobalConstructionPMI;20220906;08:30;S&P Global Construction PMI;United Kingdom;GBP;1
+ZAR_GrossDomesticProduct;20220906;09:30;Gross Domestic Product (YoY);South Africa;ZAR;1
+USD_S&PGlobalServicesPMI;20220906;13:45;S&P Global Services PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20220906;13:45;S&P Global Composite PMI;United States;USD;2
+USD_ISMServicesEmploymentIndex;20220906;14:00;ISM Services Employment Index;United States;USD;2
+USD_ISMServicesPricesPaid;20220906;14:00;ISM Services Prices Paid;United States;USD;2
+USD_ISMServicesNewOrdersIndex;20220906;14:00;ISM Services New Orders Index;United States;USD;2
+USD_ISMServicesPMI;20220906;14:00;ISM Services PMI;United States;USD;3
+NZD_GDTPriceIndex;20220906;14:00;GDT Price Index;New Zealand;NZD;1
+USD_Auction;20220906;15:30;52-Week Bill Auction;United States;USD;1
+CLP_BCCHInterestRate;20220906;22:00;BCCH Interest Rate;Chile;CLP;1
+AUD_AiGPerformanceofServicesIndex;20220906;22:30;AiG Performance of Services Index;Australia;AUD;1
+KRW_CurrentAccount;20220906;23:00;Current Account Balance;South Korea;KRW;1
+JPY_JPForeignReserves;20220906;23:50;JP Foreign Reserves;Japan;JPY;1

@@ -1,0 +1,30 @@
+JPY_ProducerPriceIndex;20200212;23:50;Producer Price Index (MoM);Japan;JPY;1
+NZD_CentralBankSpeech;20200212;19:10;RBNZ Governor Orr speech;New Zealand;NZD;2
+USD_MonthlyBudgetStatement;20200212;19:00;Monthly Budget Statement;United States;USD;2
+USD_Auction;20200212;18:00;10-Year Note Auction;United States;USD;1
+GBP_AutumnForecastStatement;20200212;15:30;Autumn Forecast Statement;United Kingdom;GBP;2
+USD_EIACrudeOilStocksChange;20200212;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_FedChairPowelltestifies;20200212;15:00;Fed Chair Powell testifies;United States;USD;3
+USD_CentralBankSpeech;20200212;13:30;Fed Harker speech;United States;USD;2
+USD_MBAMortgageApplications;20200212;12:00;MBA Mortgage Applications;United States;USD;1
+BRL_RetailSales;20200212;12:00;Retail Sales (MoM);Brazil;BRL;1
+INR_CumulativeIndustrialOutput;20200212;12:00;Cumulative Industrial Output;India;INR;1
+INR_ManufacturingOutput;20200212;12:00;Manufacturing Output;India;INR;1
+INR_IndustrialOutput;20200212;12:00;Industrial Output;India;INR;1
+INR_M3MoneySupply;20200212;11:30;M3 Money Supply;India;INR;1
+ILS_Exports;20200212;11:00;Exports;Israel;ILS;1
+ILS_Imports;20200212;11:00;Imports;Israel;ILS;1
+ILS_TradeBalance;20200212;11:00;Trade Balance;Israel;ILS;1
+EUR_PorConsumerPriceIndex;20200212;11:00;Consumer Price Index (YoY);Portugal;EUR;1
+ZAR_RetailSales;20200212;11:00;Retail Sales (YoY);South Africa;ZAR;1
+EUR_GerAuction;20200212;10:30;10-y Bond Auction;Germany;EUR;2
+EUR_EurIndustrialProduction;20200212;10:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;1
+SEK_RiksbankInterestRateDecision;20200212;08:30;Riksbank Interest Rate Decision;Sweden;SEK;1
+HUF_IndustrialOutput;20200212;08:00;Industrial Output (YoY);Hungary;HUF;1
+RON_IndustrialProduction;20200212;07:00;Industrial Production (MoM);Romania;RON;2
+EUR_NetConsumerPriceIndex;20200212;05:30;Consumer Price Index n.s.a (YoY);Netherlands, The;EUR;1
+SGD_RetailSales;20200212;05:00;Retail Sales (MoM);Singapore;SGD;1
+NZD_RBNZPressConference;20200212;02:00;RBNZ Press Conference;New Zealand;NZD;3
+NZD_RBNZRateStatement;20200212;01:00;RBNZ Rate Statement;New Zealand;NZD;3
+NZD_RBNZInterestRateDecision;20200212;01:00;RBNZ Interest Rate Decision;New Zealand;NZD;3
+NZD_MonetaryPolicyStatement;20200212;01:00;Monetary Policy Statement ;New Zealand;NZD;3

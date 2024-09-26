@@ -1,0 +1,29 @@
+GBP_RetailSales;20150113;00:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;1
+CNY_Exports;20150113;02:00;Exports (YoY);China;CNY;1
+CNY_TradeBalanceUSD;20150113;02:00;Trade Balance USD;China;CNY;2
+CNY_Imports;20150113;02:00;Imports (YoY);China;CNY;1
+JPY_EcoWatchersSurvey:Outlook;20150113;05:00;Eco Watchers Survey: Outlook;Japan;JPY;2
+JPY_EcoWatchersSurvey:Current;20150113;05:00;Eco Watchers Survey: Current;Japan;JPY;2
+EUR_GerWholesalePriceIndex;20150113;07:00;Wholesale Price Index (MoM);Germany;EUR;1
+RON_ConsumerPriceIndex;20150113;08:00;Consumer Price Index;Romania;RON;1
+TRY_CurrentAccount;20150113;08:00;Current Account Balance;Turkey;TRY;1
+SEK_ConsumerPriceIndex;20150113;08:30;Consumer Price Index (MoM);Sweden;SEK;1
+EUR_ItaIndustrialOutput;20150113;09:00;Industrial Output s.a. (MoM);Italy;EUR;1
+CZK_CurrentAccount;20150113;09:00;Current Account (MoM);Czech Republic;CZK;1
+GBP_RetailPriceIndex;20150113;09:30;Retail Price Index (MoM);United Kingdom;GBP;1
+GBP_DCLGHousePriceIndex;20150113;09:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ProducerPriceIndex;20150113;09:30;Producer Price Index - Output (YoY) n.s.a;United Kingdom;GBP;2
+GBP_PPICoreOutput;20150113;09:30;PPI Core Output (MoM) n.s.a;United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20150113;09:30;Consumer Price Index (YoY);United Kingdom;GBP;3
+EUR_ItaAuction;20150113;11:00;3-y Bond Auction;Italy;EUR;1
+PLN_CurrentAccount;20150113;13:00;Current Account;Poland;PLN;1
+USD_RedbookIndex;20150113;13:55;Redbook Index (YoY);United States;USD;1
+USD_NFIBBusinessOptimismIndex;20150113;14:00;NFIB Business Optimism Index;United States;USD;1
+USD_JOLTSJobOpenings;20150113;15:00;JOLTS Job Openings;United States;USD;1
+USD_IBDTIPPEconomicOptimism;20150113;15:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+USD_Auction;20150113;18:00;10-Year Note Auction;United States;USD;1
+USD_MonthlyBudgetStatement;20150113;19:00;Monthly Budget Statement;United States;USD;1
+NZD_RetailSales;20150113;21:45;Electronic Card Retail Sales  (MoM);New Zealand;NZD;1
+USD_CentralBankSpeech;20150113;22:00;Fed Minneapolis Kocherlakota speech;United States;USD;1
+KRW_UnemploymentRate;20150113;23:00;Unemployment Rate;South Korea;KRW;1
+JPY_MoneySupplyM2+CD;20150113;23:50;Money Supply M2+CD (YoY);Japan;JPY;1

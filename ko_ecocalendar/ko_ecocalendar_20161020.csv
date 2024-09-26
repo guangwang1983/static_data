@@ -1,0 +1,29 @@
+AUD_NationalAustraliaBankBusinessConfidence;20161020;00:30;National Australia Bank Business Confidence (QoQ);Australia;AUD;2
+AUD_RBAForeignExchangeTransaction;20161020;00:30;RBA Foreign Exchange Transaction;Australia;AUD;1
+AUD_FullTimeEmployment;20161020;00:30;Full-Time Employment;Australia;AUD;2
+AUD_PartTimeEmployment;20161020;00:30;Part-Time Employment;Australia;AUD;1
+AUD_EmploymentChange;20161020;00:30;Employment Change s.a.;Australia;AUD;3
+AUD_ParticipationRate;20161020;00:30;Participation Rate;Australia;AUD;2
+AUD_UnemploymentRate;20161020;00:30;Unemployment Rate s.a.;Australia;AUD;3
+CHF_Imports;20161020;06:00;Imports (MoM);Switzerland;CHF;1
+CHF_Exports;20161020;06:00;Exports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20161020;06:00;Trade Balance;Switzerland;CHF;1
+EUR_GerProducerPriceIndex;20161020;06:00;Producer Price Index (MoM);Germany;EUR;2
+DKK_RetailSales;20161020;07:00;Retail Sales (YoY);Denmark;DKK;1
+IDR_BankIndonesiaRate;20161020;07:00;Bank Indonesia Rate;Indonesia;IDR;1
+SEK_UnemploymentRate;20161020;07:30;Unemployment Rate;Sweden;SEK;1
+EUR_EurCurrentAccount;20161020;08:00;Current Account n.s.a;European Monetary Union;EUR;1
+GBP_RetailSales;20161020;08:30;Retail Sales ex-Fuel (MoM);United Kingdom;GBP;2
+RUB_CentralBankReserves;20161020;11:00;Central Bank Reserves $;Russia;RUB;1
+TRY_CBRTInterestRateDecision;20161020;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+EUR_EurECBRateOnDepositFacility;20161020;11:45;ECB Rate On Deposit Facility;European Monetary Union;EUR;3
+EUR_EurECBRateOnMainRefinancingOperations;20161020;11:45;ECB Rate On Main Refinancing Operations;European Monetary Union;EUR;3
+EUR_EurEUleaderssummit;20161020;12:00;EU leaders summit;European Monetary Union;EUR;2
+USD_JoblessClaims;20161020;12:30;Initial Jobless Claims;United States;USD;2
+EUR_EurECBPressConference;20161020;12:30;ECB Press Conference;European Monetary Union;EUR;3
+USD_PhiladelphiaFedManufacturingSurvey;20161020;12:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+USD_ExistingHomeSales;20161020;14:00;Existing Home Sales (MoM);United States;USD;1
+USD_ExistingHomeSalesChange;20161020;14:00;Existing Home Sales Change (MoM);United States;USD;1
+USD_EIANaturalGasStorageChange;20161020;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_CentralBankSpeech;20161020;20:45;Fed Dudley speech;United States;USD;2
+NZD_VisitorArrivals;20161020;21:45;Visitor Arrivals (YoY);New Zealand;NZD;1

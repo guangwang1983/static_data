@@ -1,0 +1,22 @@
+USD_MichiganConsumerSentimentIndex;20080229;15:00;Michigan Consumer Sentiment Index;United States;USD;1
+USD_ChicagoPurchasingManagers'Index;20080229;14:45;Chicago Purchasing Managers' Index;United States;USD;1
+USD_PersonalIncome;20080229;13:30;Personal Income (MoM);United States;USD;2
+USD_CorePersonalConsumptionExpenditurePriceIndex;20080229;13:30;Core Personal Consumption Expenditure - Price Index (MoM);United States;USD;3
+USD_PersonalConsumptionExpendituresPriceIndex;20080229;13:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;3
+CHF_KOFLeadingIndicator;20080229;10:30;KOF Leading Indicator;Switzerland;CHF;1
+GBP_GfKConsumerConfidence;20080229;10:30;GfK Consumer Confidence;United Kingdom;GBP;2
+EUR_EurUnemploymentRate;20080229;10:00;Unemployment Rate;European Monetary Union;EUR;1
+EUR_EurConsumerPriceIndex;20080229;10:00;Consumer Price Index (YoY);European Monetary Union;EUR;2
+EUR_EurEconomicSentimentIndicator;20080229;10:00;Economic Sentiment Indicator;European Monetary Union;EUR;0
+EUR_EurConsumerConfidence;20080229;10:00;Consumer Confidence;European Monetary Union;EUR;1
+GBP_NetLendingtoIndividuals;20080229;09:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20080229;09:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20080229;09:30;Mortgage Approvals;United Kingdom;GBP;2
+GBP_M4SterlingLending;20080229;09:30;M4 Sterling Lending;United Kingdom;GBP;1
+GBP_M4MoneySupply;20080229;09:30;M4 Money Supply (MoM);United Kingdom;GBP;1
+EUR_GerConsumerPriceIndex;20080229;07:30;Consumer Price Index (YoY);Germany;EUR;2
+GBP_NationwideHousingPrices;20080229;07:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;2
+EUR_GerRetailSales;20080229;07:00;Retail Sales (YoY);Germany;EUR;2
+JPY_AnnualizedHousingStarts;20080229;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_HousingStarts;20080229;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_ConstructionOrders;20080229;05:00;Construction Orders (YoY);Japan;JPY;1

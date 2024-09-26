@@ -1,0 +1,38 @@
+JPY_CorporateServicePrice;20131024;23:50;Corporate Service Price (YoY);Japan;JPY;1
+JPY_TokyoCPIexFreshFood;20131024;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;1
+JPY_ConsumerPriceIndex;20131024;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;1
+JPY_TokyoCPIexFoodEnergy;20131024;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;1
+JPY_NationalCPIexFoodEnergy;20131024;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20131024;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+EUR_AusIndustrialProduction;20131024;22:00;Industrial Production (YoY);Austria;EUR;1
+GBP_CentralBankSpeech;20131024;16:45;BoE Governor Carney speech;United Kingdom;GBP;3
+EUR_EurEuropeanCouncilMeeting;20131024;15:00;European Council Meeting;European Monetary Union;EUR;2
+USD_KansasFedManufacturingActivity;20131024;15:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_EIANaturalGasStorageChange;20131024;14:30;EIA Natural Gas Storage Change;United States;USD;1
+RUB_CentralBankReserves;20131024;13:00;Central Bank Reserves $;Russia;RUB;1
+MXN_1sthalfmonthCoreInflation;20131024;13:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20131024;13:00;1st half-month Inflation;Mexico;MXN;1
+USD_MarkitManufacturingPMI;20131024;12:58;Markit Manufacturing PMI;United States;USD;2
+USD_TradeBalance;20131024;12:30;Trade Balance;United States;USD;2
+USD_JoblessClaims;20131024;12:30;Initial Jobless Claims;United States;USD;2
+NOK_NorgesBankInterestRateDecision;20131024;12:00;Norges Bank Interest Rate Decision;Norway;NOK;1
+BRL_UnemploymentRate;20131024;11:00;Unemployment Rate;Brazil;BRL;1
+GBP_CBIIndustrialTrendsSurveyOrders;20131024;10:00;CBI Industrial Trends Survey - Orders (MoM);United Kingdom;GBP;1
+EUR_ItaWageInflation;20131024;09:00;Wage Inflation (YoY);Italy;EUR;1
+EUR_ItaConsumerConfidence;20131024;08:00;Consumer Confidence;Italy;EUR;1
+EUR_EurMarkitPMIComposite;20131024;07:58;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitManufacturingPMI;20131024;07:58;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20131024;07:58;Markit Services PMI;European Monetary Union;EUR;2
+SEK_ProducerPriceIndex;20131024;07:30;Producer Price Index (YoY);Sweden;SEK;1
+SEK_RiksbankInterestRateDecision;20131024;07:30;Riksbank Interest Rate Decision;Sweden;SEK;1
+EUR_GerMarkitManufacturingPMI;20131024;07:28;Markit Manufacturing PMI;Germany;EUR;2
+EUR_GerMarkitServicesPMI;20131024;07:28;Markit Services PMI;Germany;EUR;2
+EUR_SpaUnemploymentSurvey;20131024;07:00;Unemployment Survey;Spain;EUR;1
+EUR_FraMarkitManufacturingPMI;20131024;06:58;Markit Manufacturing PMI;France;EUR;1
+EUR_FraMarkitServicesPMI;20131024;06:58;Markit Services PMI;France;EUR;1
+EUR_FinProducerPriceIndex;20131024;06:00;Producer Price Index (YoY);Finland;EUR;1
+EUR_FinImportPrices;20131024;06:00;Import Prices (YoY);Finland;EUR;1
+EUR_FinExportPrices;20131024;06:00;Export Prices (YoY);Finland;EUR;1
+AUD_RBAAnnualReport;20131024;05:00;RBA Annual Report;Australia;AUD;1
+AUD_CentralBankSpeech;20131024;03:00;OUTDATED - RBA Deputy Governor Lowe Speech;Australia;AUD;2
+CNY_CaixinManufacturingPMI;20131024;01:45;Caixin Manufacturing PMI;China;CNY;2

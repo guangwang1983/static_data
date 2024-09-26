@@ -1,0 +1,28 @@
+JPY_JPForeignReserves;20140806;23:50;JP Foreign Reserves;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20140806;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20140806;23:50;Foreign Bond Investment;Japan;JPY;2
+AUD_AiGPerformanceofConstructionIndex;20140806;23:30;AiG Performance of Construction Index;Australia;AUD;1
+USD_EIACrudeOilStocksChange;20140806;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+GBP_NIESRGDPEstimate;20140806;14:00;NIESR GDP Estimate (3M);United Kingdom;GBP;2
+USD_TradeBalance;20140806;12:30;Trade Balance;United States;USD;2
+CAD_Exports;20140806;12:30;Exports;Canada;CAD;1
+CAD_Imports;20140806;12:30;Imports;Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20140806;12:30;International Merchandise Trade;Canada;CAD;1
+USD_MBAMortgageApplications;20140806;11:00;MBA Mortgage Applications;United States;USD;1
+EUR_ItaGrossDomesticProduct;20140806;09:00;Gross Domestic Product (QoQ);Italy;EUR;1
+EUR_GreConsumerPriceIndex;20140806;09:00;Consumer Price Index (YoY);Greece;EUR;1
+EUR_AusWholesalePrices;20140806;08:30;Wholesale Prices n.s.a (YoY);Austria;EUR;1
+GBP_ManufacturingProduction;20140806;08:30;Manufacturing Production (MoM);United Kingdom;GBP;1
+GBP_IndustrialProduction;20140806;08:30;Industrial Production (YoY);United Kingdom;GBP;2
+EUR_ItaIndustrialOutput;20140806;08:00;Industrial Output w.d.a (YoY);Italy;EUR;1
+CHF_ConsumerPriceIndex;20140806;07:15;Consumer Price Index (YoY);Switzerland;CHF;2
+HUF_IndustrialOutput;20140806;07:00;Industrial Output (YoY);Hungary;HUF;1
+CZK_IndustrialProduction;20140806;07:00;Industrial Production (YoY);Czech Republic;CZK;1
+GBP_HalifaxHousePrices;20140806;07:00;Halifax House Prices (3m/YoY);United Kingdom;GBP;1
+CZK_Constructionoutput;20140806;07:00;Construction output (YoY);Czech Republic;CZK;1
+CZK_ForeignTradeBalance;20140806;07:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+EUR_GerFactoryOrders;20140806;06:00;Factory Orders s.a. (MoM);Germany;EUR;2
+JPY_CoincidentIndex;20140806;05:00;Coincident Index;Japan;JPY;2
+JPY_LeadingEconomicIndex;20140806;05:00;Leading Economic Index;Japan;JPY;2
+EUR_IrePurchasingManagerIndexServices;20140806;05:00;Purchasing Manager Index Services;Ireland;EUR;1
+COP_ConsumerPriceIndex;20140806;01:00;Consumer Price Index (YoY);Colombia;COP;1

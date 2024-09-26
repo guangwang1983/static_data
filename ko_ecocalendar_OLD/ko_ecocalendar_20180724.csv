@@ -1,0 +1,37 @@
+NZD_Imports;20180724;22:45;Imports;New Zealand;NZD;2
+NZD_TradeBalance;20180724;22:45;Trade Balance (YoY);New Zealand;NZD;2
+NZD_Exports;20180724;22:45;Exports;New Zealand;NZD;2
+CLP_BCCHInterestRate;20180724;22:00;BCCH Interest Rate;Chile;CLP;1
+KRW_ConsumerSentimentIndex;20180724;21:00;Consumer Sentiment Index;South Korea;KRW;1
+USD_APIWeeklyCrudeOilStock;20180724;20:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_Auction;20180724;15:30;4-Week Bill Auction;United States;USD;1
+MXN_1sthalfmonthInflation;20180724;14:00;1st half-month Inflation;Mexico;MXN;1
+MXN_1sthalfmonthCoreInflation;20180724;14:00;1st half-month Core Inflation;Mexico;MXN;1
+USD_RichmondFedManufacturingIndex;20180724;14:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_MarkitManufacturingPMI;20180724;13:45;Markit Manufacturing PMI;United States;USD;1
+USD_MarkitServicesPMI;20180724;13:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20180724;13:45;Markit PMI Composite;United States;USD;2
+USD_HousingPriceIndex;20180724;13:00;Housing Price Index (MoM);United States;USD;2
+USD_RedbookIndex;20180724;12:55;Redbook Index (YoY);United States;USD;1
+HUF_MNBInterestRateDecision;20180724;12:00;MNB Interest Rate Decision;Hungary;HUF;1
+TRY_CBRTInterestRateDecision;20180724;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+GBP_CBIIndustrialTrendsSurveyOrders;20180724;10:00;CBI Industrial Trends Survey - Orders (MoM);United Kingdom;GBP;1
+EUR_ItaTradeBalancenonEU;20180724;08:00;Trade Balance non-EU;Italy;EUR;1
+PLN_Unemployment;20180724;08:00;Unemployment (MoM);Poland;PLN;1
+EUR_EurMarkitManufacturingPMI;20180724;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitPMIComposite;20180724;08:00;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20180724;08:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_GerMarkitPMIComposite;20180724;07:30;Markit PMI Composite;Germany;EUR;2
+EUR_GerMarkitServicesPMI;20180724;07:30;Markit Services PMI;Germany;EUR;2
+EUR_GerMarkitManufacturingPMI;20180724;07:30;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitServicesPMI;20180724;07:00;Markit Services PMI;France;EUR;1
+EUR_FraMarkitPMIComposite;20180724;07:00;Markit PMI Composite;France;EUR;1
+EUR_FraMarkitManufacturingPMI;20180724;07:00;Markit Manufacturing PMI;France;EUR;1
+EUR_FraBusinessClimate;20180724;06:45;Business Climate;France;EUR;1
+EUR_FinProducerPriceIndex;20180724;06:00;Producer Price Index (YoY);Finland;EUR;1
+EUR_FinUnemploymentRate;20180724;06:00;Unemployment Rate;Finland;EUR;1
+EUR_FinImportPrices;20180724;06:00;Import Prices (YoY);Finland;EUR;1
+EUR_FinExportPrices;20180724;06:00;Export Prices (YoY);Finland;EUR;1
+JPY_CoincidentIndex;20180724;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20180724;05:00;Leading Economic Index;Japan;JPY;2
+JPY_NikkeiManufacturingPMI;20180724;00:30;Nikkei Manufacturing PMI;Japan;JPY;1

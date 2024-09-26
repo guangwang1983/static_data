@@ -1,0 +1,30 @@
+AUD_NationalAustraliaBankBusinessConfidence;20160412;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20160412;01:30;National Australia Bank Business Conditions;Australia;AUD;1
+RON_IndustrialProduction;20160412;06:00;Industrial Production (MoM);Romania;RON;2
+EUR_GerWholesalePriceIndex;20160412;06:00;Wholesale Price Index (YoY);Germany;EUR;2
+EUR_GerHarmonizedIndexofConsumerPrices;20160412;06:00;Harmonized Index of Consumer Prices (MoM);Germany;EUR;2
+EUR_GerConsumerPriceIndex;20160412;06:00;Consumer Price Index (MoM);Germany;EUR;2
+JPY_MachineToolOrders;20160412;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+SEK_ConsumerPriceIndex;20160412;07:30;Consumer Price Index (MoM);Sweden;SEK;1
+GBP_RetailPriceIndex;20160412;08:30;Retail Price Index (YoY);United Kingdom;GBP;1
+GBP_DCLGHousePriceIndex;20160412;08:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ProducerPriceIndex;20160412;08:30;Producer Price Index - Output (YoY) n.s.a;United Kingdom;GBP;2
+GBP_PPICoreOutput;20160412;08:30;PPI Core Output (MoM) n.s.a;United Kingdom;GBP;2
+GBP_ConsumerPriceIndex;20160412;08:30;Consumer Price Index (MoM);United Kingdom;GBP;2
+USD_NFIBBusinessOptimismIndex;20160412;10:00;NFIB Business Optimism Index;United States;USD;1
+PLN_NetInflation;20160412;12:00;Net Inflation;Poland;PLN;1
+BRL_RetailSales;20160412;12:00;Retail Sales (MoM);Brazil;BRL;1
+INR_ManufacturingOutput;20160412;12:00;Manufacturing Output;India;INR;1
+INR_CumulativeIndustrialOutput;20160412;12:00;Cumulative Industrial Output;India;INR;1
+INR_IndustrialOutput;20160412;12:00;Industrial Output;India;INR;1
+USD_ImportPriceIndex;20160412;12:30;Import Price Index (MoM);United States;USD;2
+USD_ExportPriceIndex;20160412;12:30;Export Price Index (YoY);United States;USD;2
+USD_RedbookIndex;20160412;12:55;Redbook Index (MoM);United States;USD;1
+USD_Auction;20160412;17:00;3-Year Note Auction;United States;USD;1
+USD_MonthlyBudgetStatement;20160412;18:00;Monthly Budget Statement;United States;USD;2
+USD_APIWeeklyCrudeOilStock;20160412;20:30;API Weekly Crude Oil Stock;United States;USD;1
+CLP_BCCHInterestRate;20160412;22:00;BCCH Interest Rate;Chile;CLP;1
+USD_CentralBankSpeech;20160412;22:00;Fed Lacker speech;United States;USD;1
+NZD_FoodPriceIndex;20160412;22:45;Food Price Index (MoM);New Zealand;NZD;1
+JPY_ProducerPriceIndex;20160412;23:50;Producer Price Index (MoM);Japan;JPY;1
+JPY_MoneySupplyM2+CD;20160412;23:50;Money Supply M2+CD (YoY);Japan;JPY;1

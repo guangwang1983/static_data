@@ -1,0 +1,23 @@
+AUD_AiGPerformanceofMfgIndex;20100531;23:30;AiG Performance of Mfg Index;Australia;AUD;1
+CAD_RawMaterialPriceIndex;20100531;12:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20100531;12:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_GrossDomesticProduct;20100531;12:30;Gross Domestic Product Annualized (QoQ);Canada;CAD;3
+EUR_EurConsumerPriceIndex;20100531;09:00;Consumer Price Index (YoY);European Monetary Union;EUR;2
+EUR_EurConsumerConfidence;20100531;09:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurIndustrialConfidence;20100531;09:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_EurEconomicSentimentIndicator;20100531;09:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+EUR_EurM3MoneySupply;20100531;08:00;M3 Money Supply (YoY);European Monetary Union;EUR;1
+EUR_EurCentralBankSpeech;20100531;08:00;ECB President Trichet speech;European Monetary Union;EUR;2
+JPY_HousingStarts;20100531;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_AnnualizedHousingStarts;20100531;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_ConstructionOrders;20100531;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_VehicleProduction;20100531;04:00;Vehicle Production (YoY);Japan;JPY;1
+NZD_ANZBusinessConfidence;20100531;03:00;ANZ Business Confidence;New Zealand;NZD;2
+AUD_CurrentAccount;20100531;01:30;Current Account Balance;Australia;AUD;1
+JPY_LaborCashEarnings;20100531;01:30;Labor Cash Earnings (YoY);Japan;JPY;1
+AUD_PrivateSectorCredit;20100531;01:30;Private Sector Credit (YoY);Australia;AUD;2
+AUD_CompanyGrossOperatingProfits;20100531;01:30;Company Gross Operating Profits (QoQ);Australia;AUD;1
+AUD_HIANewHomeSales;20100531;01:27;HIA New Home Sales (MoM);Australia;AUD;1
+AUD_TDSecuritiesInflation;20100531;00:30;TD Securities Inflation (MoM);Australia;AUD;1
+GBP_SpringBankHoliday;20100531;00:00;Spring Bank Holiday;United Kingdom;GBP;0
+USD_MemorialDay;20100531;00:00;Memorial Day;United States;USD;0

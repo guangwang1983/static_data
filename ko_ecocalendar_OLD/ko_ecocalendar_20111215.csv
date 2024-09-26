@@ -1,0 +1,50 @@
+RUB_ProducerPriceIndex;20111215;23:42;Producer Price Index (YoY);Russia;RUB;1
+KRW_ImportPriceGrowth;20111215;21:00;Import Price Growth (YoY);South Korea;KRW;1
+USD_PhiladelphiaFedManufacturingSurvey;20111215;15:00;Philadelphia Fed Manufacturing Survey;United States;USD;1
+USD_IndustrialProduction;20111215;14:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20111215;14:15;Capacity Utilization;United States;USD;1
+USD_NetLongTermTICFlows;20111215;14:00;Net Long-Term TIC Flows;United States;USD;2
+USD_TotalNetTICFlows;20111215;14:00;Total Net TIC Flows;United States;USD;1
+USD_CurrentAccount;20111215;13:30;Current Account;United States;USD;2
+USD_NYEmpireStateManufacturingIndex;20111215;13:30;NY Empire State Manufacturing Index;United States;USD;1
+USD_ProducerPriceIndex;20111215;13:30;Producer Price Index (MoM);United States;USD;1
+USD_JoblessClaims;20111215;13:30;Initial Jobless Claims;United States;USD;1
+CAD_CapacityUtilization;20111215;13:30;Capacity Utilization;Canada;CAD;1
+GBP_CBIIndustrialTrendsSurveyOrders;20111215;11:00;CBI Industrial Trends Survey - Orders (MoM);United Kingdom;GBP;1
+EUR_GreUnemploymentRate;20111215;10:00;Unemployment Rate (QoQ);Greece;EUR;1
+EUR_EurConsumerPriceIndex;20111215;10:00;Consumer Price Index (YoY);European Monetary Union;EUR;3
+EUR_EurEmploymentChange;20111215;10:00;Employment Change (YoY);European Monetary Union;EUR;2
+RUB_CentralBankReserves;20111215;09:41;Central Bank Reserves $;Russia;RUB;1
+ZAR_ProducerPriceIndex;20111215;09:30;Producer Price Index (MoM);South Africa;ZAR;1
+GBP_RetailSales;20111215;09:30;Retail Sales (YoY);United Kingdom;GBP;2
+EUR_SpaAuction;20111215;09:30;10-y Obligaciones Auction;Spain;EUR;1
+NOK_TradeBalance;20111215;09:00;Trade Balance;Norway;NOK;1
+TRY_BudgetBalance;20111215;09:00;Budget Balance;Turkey;TRY;1
+EUR_ItaConsumerPriceIndex;20111215;09:00;Consumer Price Index (EU Norm) (MoM);Italy;EUR;1
+EUR_EurECBMonthlyReport;20111215;09:00;ECB Monthly Report;European Monetary Union;EUR;3
+EUR_AusHICP;20111215;09:00;HICP (MoM);Austria;EUR;1
+EUR_EurMarkitManufacturingPMI;20111215;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20111215;09:00;Markit Services PMI;European Monetary Union;EUR;2
+CHF_SNBInterestRateDecision;20111215;08:30;SNB Interest Rate Decision;Switzerland;CHF;3
+GBP_ConsumerInflationExpectations;20111215;08:30;Consumer Inflation Expectations;United Kingdom;GBP;3
+EUR_NetUnemploymentRate;20111215;08:30;Unemployment Rate s.a (3M);Netherlands, The;EUR;1
+SEK_UnemploymentRate;20111215;08:30;Unemployment Rate;Sweden;SEK;1
+EUR_GerMarkitServicesPMI;20111215;08:30;Markit Services PMI;Germany;EUR;2
+EUR_GerMarkitManufacturingPMI;20111215;08:30;Markit Manufacturing PMI;Germany;EUR;2
+EUR_NetRetailSales;20111215;08:30;Retail Sales (YoY);Netherlands, The;EUR;1
+CHF_IndustrialProduction;20111215;08:15;Industrial Production (QoQ);Switzerland;CHF;2
+CZK_ExportPrices;20111215;08:00;Export Prices (YoY);Czech Republic;CZK;1
+TRY_3mthquarterlyjoblessaverage;20111215;08:00;3mth quarterly jobless average;Turkey;TRY;1
+HUF_IndustrialOutput;20111215;08:00;Industrial Output (YoY);Hungary;HUF;1
+CZK_ProducerPriceIndex;20111215;08:00;Producer Price Index (YoY);Czech Republic;CZK;1
+EUR_FraMarkitManufacturingPMI;20111215;08:00;Markit Manufacturing PMI;France;EUR;1
+EUR_FraMarkitServicesPMI;20111215;08:00;Markit Services PMI;France;EUR;1
+EUR_FinCurrentAccount;20111215;08:00;Current Account;Finland;EUR;1
+CZK_ImportPrices;20111215;08:00;Import Prices (YoY);Czech Republic;CZK;1
+EUR_SloEUNormInflation;20111215;08:00;EU Norm Inflation (MoM);Slovakia;EUR;1
+CHF_SNBPressConference;20111215;07:30;SNB Press Conference;Switzerland;CHF;3
+KRW_TradeBalance;20111215;03:00;Trade Balance;South Korea;KRW;1
+CNY_CaixinManufacturingPMI;20111215;02:30;Caixin Manufacturing PMI;China;CNY;2
+CNY_FDIForeignDirectInvestment;20111215;01:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;0
+AUD_NewMotorVehicleSales;20111215;00:30;New Motor Vehicle Sales (MoM);Australia;AUD;1
+AUD_ConsumerInflationExpectations;20111215;00:00;Consumer Inflation Expectations;Australia;AUD;1

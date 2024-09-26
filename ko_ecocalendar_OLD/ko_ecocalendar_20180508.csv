@@ -1,0 +1,39 @@
+JPY_JPForeignReserves;20180508;23:50;JP Foreign Reserves;Japan;JPY;1
+GBP_RetailSales;20180508;23:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+NZD_RetailSales;20180508;22:45;Electronic Card Retail Sales  (MoM);New Zealand;NZD;1
+USD_APIWeeklyCrudeOilStock;20180508;20:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_CentralBankSpeech;20180508;18:00;President Trump speech;United States;USD;3
+USD_Auction;20180508;17:00;3-Year Note Auction;United States;USD;1
+TRY_TreasuryCashBalance;20180508;14:30;Treasury Cash Balance;Turkey;TRY;1
+USD_IBDTIPPEconomicOptimism;20180508;14:27;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+USD_JOLTSJobOpenings;20180508;14:00;JOLTS Job Openings;United States;USD;1
+USD_RedbookIndex;20180508;12:55;Redbook Index (YoY);United States;USD;1
+CAD_HousingStarts;20180508;12:15;Housing Starts s.a (YoY);Canada;CAD;2
+CLP_ConsumerPriceIndex;20180508;11:00;Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+USD_NFIBBusinessOptimismIndex;20180508;10:00;NFIB Business Optimism Index;United States;USD;1
+AUD_BudgetRelease;20180508;09:30;Budget Release;Australia;AUD;3
+EUR_SpaAuction;20180508;09:12;6-Month Letras Auction;Spain;EUR;1
+HUF_BudgetBalance;20180508;09:00;Budget Balance;Hungary;HUF;1
+GBP_HalifaxHousePrices;20180508;07:30;Halifax House Prices (3m/YoY);United Kingdom;GBP;1
+HUF_IndustrialOutput;20180508;07:00;Industrial Output (YoY);Hungary;HUF;1
+EUR_GerIndustrialProduction;20180508;06:00;Industrial Production s.a. (MoM);Germany;EUR;1
+EUR_FinTradeBalance;20180508;06:00;Trade Balance;Finland;EUR;1
+NOK_ManufacturingOutput;20180508;06:00;Manufacturing Output;Norway;NOK;1
+EUR_GerCurrentAccount;20180508;06:00;Current Account n.s.a.;Germany;EUR;1
+EUR_GerExports;20180508;06:00;Exports (MoM);Germany;EUR;1
+EUR_GerTradeBalance;20180508;06:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerImports;20180508;06:00;Imports (MoM);Germany;EUR;1
+ZAR_Net$Gold&ForexReserve;20180508;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+ZAR_Gross$Gold&ForexReserve;20180508;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+CHF_UnemploymentRate;20180508;05:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+EUR_NetConsumerPriceIndex;20180508;04:30;Consumer Price Index n.s.a (YoY);Netherlands, The;EUR;1
+CNY_ForeignExchangeReserves;20180508;04:06;Foreign Exchange Reserves (MoM);China;CNY;1
+CNY_Exports;20180508;03:20;Exports (YoY);China;CNY;2
+CNY_Imports;20180508;03:19;Imports (YoY) CNY;China;CNY;2
+CNY_TradeBalanceUSD;20180508;03:19;Trade Balance USD;China;CNY;2
+CNY_TradeBalanceCNY;20180508;03:19;Trade Balance CNY;China;CNY;2
+NZD_RBNZInflationExpectations;20180508;03:00;RBNZ Inflation Expectations (QoQ);New Zealand;NZD;2
+AUD_RetailSales;20180508;01:30;Retail Sales s.a. (MoM);Australia;AUD;2
+EUR_FraVictoryinEuropeDay;20180508;00:00;Victory in Europe Day;France;EUR;0
+EUR_SloDayofvictoryoverfascism;20180508;00:00;Day of victory over fascism ;Slovakia;EUR;0
+CZK_LiberationDay;20180508;00:00;Liberation Day ;Czech Republic;CZK;0

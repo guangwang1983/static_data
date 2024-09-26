@@ -1,0 +1,28 @@
+AUD_RBAInterestRateDecision;20210202;03:30;RBA Interest Rate Decision;Australia;AUD;3
+AUD_RBARateStatement;20210202;03:30;RBA Rate Statement;Australia;AUD;3
+JPY_Auction;20210202;03:35;10-y Bond Auction;Japan;JPY;1
+GBP_NationwideHousingPrices;20210202;07:00;Nationwide Housing Prices s.a (MoM);United Kingdom;GBP;1
+EUR_FraConsumerPriceIndex;20210202;07:45;Consumer Price Index (EU norm) (YoY);France;EUR;1
+TRY_Exports;20210202;08:00;Exports;Turkey;TRY;1
+CZK_GrossDomesticProduct;20210202;08:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+HUF_ProducerPriceIndex;20210202;08:00;Producer Price Index (YoY);Hungary;HUF;1
+EUR_ItaGrossDomesticProduct;20210202;09:00;Gross Domestic Product (YoY);Italy;EUR;2
+EUR_EurGrossDomesticProduct;20210202;10:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+USD_OPECMeeting;20210202;10:00;OPEC Meeting;United States;USD;2
+BRL_IndustrialOutput;20210202;12:00;Industrial Output (MoM);Brazil;BRL;1
+USD_RedbookIndex;20210202;13:55;Redbook Index (YoY);United States;USD;1
+NZD_GDTPriceIndex;20210202;14:40;GDT Price Index;New Zealand;NZD;1
+USD_ISMNYBusinessConditionsIndex;20210202;14:45;ISM-NY Business Conditions Index;United States;USD;1
+USD_IBDTIPPEconomicOptimism;20210202;15:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+DKK_CurrencyReserves;20210202;16:00;Currency Reserves;Denmark;DKK;1
+USD_CentralBankSpeech;20210202;18:00;Fed Williams speech;United States;USD;2
+USD_TotalVehicleSales;20210202;20:30;Total Vehicle Sales;United States;USD;1
+KRW_FXReserves;20210202;21:00;FX Reserves;South Korea;KRW;1
+AUD_AiGPerformanceofConstructionIndex;20210202;21:30;AiG Performance of Construction Index;Australia;AUD;2
+USD_APIWeeklyCrudeOilStock;20210202;21:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_UnemploymentRate;20210202;21:45;Unemployment Rate;New Zealand;NZD;3
+NZD_EmploymentChange;20210202;21:45;Employment Change;New Zealand;NZD;3
+NZD_ParticipationRate;20210202;21:45;Participation Rate;New Zealand;NZD;2
+NZD_LabourCostIndex;20210202;21:45;Labour Cost Index (QoQ);New Zealand;NZD;2
+AUD_S&PGlobalCompositePMI;20210202;22:00;S&P Global Composite PMI;Australia;AUD;1
+AUD_S&PGlobalServicesPMI;20210202;22:00;S&P Global Services PMI;Australia;AUD;2

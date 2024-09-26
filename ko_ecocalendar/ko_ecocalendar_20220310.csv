@@ -1,0 +1,29 @@
+AUD_ConsumerInflationExpectations;20220310;00:00;Consumer Inflation Expectations;Australia;AUD;2
+GBP_RICSHousingPriceBalance;20220310;00:01;RICS Housing Price Balance;United Kingdom;GBP;1
+IDR_RetailSales;20220310;04:00;Retail Sales (YoY);Indonesia;IDR;1
+NOK_CoreInflation;20220310;07:00;Core Inflation (MoM);Norway;NOK;1
+NOK_ConsumerPriceIndex;20220310;07:00;Consumer Price Index (MoM);Norway;NOK;1
+TRY_UnemploymentRate;20220310;07:00;Unemployment Rate;Turkey;TRY;1
+DKK_Inflation;20220310;07:00;Inflation (HICP) (YoY);Denmark;DKK;1
+DKK_ConsumerPriceIndex;20220310;07:00;Consumer Price Index (YoY);Denmark;DKK;1
+NOK_ProducerPriceIndex;20220310;07:00;Producer Price Index (YoY);Norway;NOK;1
+CZK_ConsumerPriceIndex;20220310;08:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+EUR_ItaProducerPriceIndex;20220310;09:00;Producer Price Index (MoM);Italy;EUR;1
+ILS_GrossDomesticProduct;20220310;11:00;Gross Domestic Product (QoQ);Israel;ILS;1
+ZAR_ManufacturingProductionIndex;20220310;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+BRL_RetailSales;20220310;12:00;Retail Sales (MoM);Brazil;BRL;1
+EUR_EurECBRateOnDepositFacility;20220310;12:45;ECB Rate On Deposit Facility;European Monetary Union;EUR;3
+EUR_EurECBRateOnMainRefinancingOperations;20220310;12:45;ECB Rate On Main Refinancing Operations;European Monetary Union;EUR;3
+EUR_EurECBMonetaryPolicyDecisionStatement;20220310;12:45;ECB Monetary Policy Decision Statement;European Monetary Union;EUR;3
+USD_JoblessClaims;20220310;13:30;Initial Jobless Claims 4-week average;United States;USD;2
+USD_ConsumerPriceIndex;20220310;13:30;Consumer Price Index Core s.a;United States;USD;2
+EUR_EurECBPressConference;20220310;13:30;ECB Press Conference;European Monetary Union;EUR;3
+USD_EIANaturalGasStorageChange;20220310;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20220310;18:00;30-Year Bond Auction;United States;USD;1
+USD_MonthlyBudgetStatement;20220310;19:00;Monthly Budget Statement;United States;USD;2
+NZD_BusinessNZPMI;20220310;21:30;Business NZ PMI;New Zealand;NZD;2
+NZD_FoodPriceIndex;20220310;21:45;Food Price Index (MoM);New Zealand;NZD;1
+AUD_CentralBankSpeech;20220310;21:45;RBA Governor Lowe speech;Australia;AUD;3
+KRW_CurrentAccount;20220310;23:00;Current Account Balance;South Korea;KRW;1
+JPY_OverallHouseholdSpending;20220310;23:30;Overall Household Spending (YoY);Japan;JPY;2
+JPY_BSILargeManufacturingConditionsIndex;20220310;23:50;BSI Large Manufacturing Conditions Index (QoQ);Japan;JPY;1

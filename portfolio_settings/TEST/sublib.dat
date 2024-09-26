@@ -1,0 +1,3 @@
+/apps/kapomega/analysis/TESTLIBRARY/SLSL_FI_10LOT /apps/kapomega/analysis/TESTLIBRARY/SLSL_FI_10LOT FX10sw500dw100_20m.csv modelconfigs_FI0800_2200.csv
+/apps/kapomega/analysis/TESTLIBRARY/SL3L_FX_10LOT /apps/kapomega/analysis/TESTLIBRARY/SL3L_FX_10LOT FX10sw500dw100_20m.csv modelconfigs_FX0800_2200.csv 
+/apps/kapomega/analysis/TESTLIBRARY/SLSL_IDX_5LOT /apps/kapomega/analysis/TESTLIBRARY/SLSL_IDX_5LOT FX10sw500dw100_20m.csv modelconfigs_IDX0800_2200.csv

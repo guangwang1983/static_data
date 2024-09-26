@@ -1,0 +1,36 @@
+AUD_WestpacConsumerConfidenceIndex;20141014;23:30;Westpac Consumer Confidence Index;Australia;AUD;1
+AUD_WestpacConsumerConfidence;20141014;23:30;Westpac Consumer Confidence;Australia;AUD;1
+KRW_ImportPriceGrowth;20141014;21:00;Import Price Growth (YoY);South Korea;KRW;1
+KRW_ExportPriceGrowth;20141014;21:00;Export Price Growth (YoY);South Korea;KRW;1
+USD_Auction;20141014;15:30;3-Month Bill Auction;United States;USD;1
+EUR_EurEcoFinMeeting;20141014;13:00;EcoFin Meeting;European Monetary Union;EUR;2
+USD_RedbookIndex;20141014;12:55;Redbook Index (MoM);United States;USD;1
+PLN_CurrentAccount;20141014;12:00;Current Account;Poland;PLN;1
+PLN_M3MoneySupply;20141014;12:00;M3 Money Supply (YoY);Poland;PLN;1
+USD_NFIBBusinessOptimismIndex;20141014;11:30;NFIB Business Optimism Index;United States;USD;1
+EUR_SpaAuction;20141014;09:03;6-Month Letras Auction;Spain;EUR;1
+EUR_EurIndustrialProduction;20141014;09:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;2
+EUR_GerZEWSurveyEconomicSentiment;20141014;09:00;ZEW Survey - Economic Sentiment;Germany;EUR;3
+EUR_EurZEWSurveyEconomicSentiment;20141014;09:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurveyCurrentSituation;20141014;09:00;ZEW Survey - Current Situation;Germany;EUR;2
+GBP_RetailPriceIndex;20141014;08:30;Retail Price Index (MoM);United Kingdom;GBP;1
+GBP_DCLGHousePriceIndex;20141014;08:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ProducerPriceIndex;20141014;08:30;Producer Price Index - Input (YoY) n.s.a;United Kingdom;GBP;1
+GBP_PPICoreOutput;20141014;08:30;PPI Core Output (YoY) n.s.a ;United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20141014;08:30;Core Consumer Price Index (YoY);United Kingdom;GBP;3
+EUR_ItaConsumerPriceIndex;20141014;08:00;Consumer Price Index (YoY);Italy;EUR;1
+CZK_CurrentAccount;20141014;08:00;Current Account (MoM);Czech Republic;CZK;1
+SEK_ConsumerPriceIndex;20141014;07:30;Consumer Price Index (YoY);Sweden;SEK;1
+INR_TradeDeficitGovernment;20141014;07:30;Trade Deficit Government;India;INR;1
+CHF_ProducerandImportPrices;20141014;07:15;Producer and Import Prices (MoM);Switzerland;CHF;1
+EUR_SpaHICP;20141014;07:00;HICP (YoY);Spain;EUR;1
+EUR_SpaConsumerPriceIndex;20141014;07:00;Consumer Price Index (MoM);Spain;EUR;1
+EUR_FraConsumerPriceIndex;20141014;06:45;Consumer Price Index (EU norm) (YoY);France;EUR;1
+EUR_FraCurrentAccount;20141014;06:45;Current Account;France;EUR;1
+EUR_FraInflationextobacco;20141014;06:45;Inflation ex-tobacco (MoM);France;EUR;2
+INR_WPIInflation;20141014;06:30;WPI Inflation;India;INR;1
+EUR_FinConsumerPriceIndex;20141014;06:00;Consumer Price Index (YoY);Finland;EUR;1
+KRW_MoneySupplyGrowth;20141014;03:00;Money Supply Growth;South Korea;KRW;1
+AUD_NationalAustraliaBankBusinessConfidence;20141014;00:30;National Australia Bank Business Confidence;Australia;AUD;2
+AUD_NationalAustraliaBankBusinessConditions;20141014;00:30;National Australia Bank Business Conditions;Australia;AUD;1
+SGD_GrossDomesticProduct;20141014;00:00;Gross Domestic Product (YoY);Singapore;SGD;1

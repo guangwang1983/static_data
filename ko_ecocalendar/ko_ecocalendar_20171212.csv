@@ -1,0 +1,37 @@
+MXN_DayoftheVirginofGuadalupe;20171212;00:00;Day of the Virgin of Guadalupe ;Mexico;MXN;0
+AUD_HousePriceIndex;20171212;00:30;House Price Index (QoQ);Australia;AUD;2
+AUD_NationalAustraliaBankBusinessConfidence;20171212;00:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20171212;00:30;National Australia Bank Business Conditions;Australia;AUD;1
+JPY_TertiaryIndustryIndex;20171212;04:30;Tertiary Industry Index (MoM);Japan;JPY;2
+EUR_FraNonfarmPayrolls;20171212;06:30;Nonfarm Payrolls (QoQ);France;EUR;1
+RON_ConsumerPriceIndex;20171212;07:00;Consumer Price Index;Romania;RON;1
+SEK_ConsumerPriceIndex;20171212;08:30;Consumer Price Index (MoM);Sweden;SEK;1
+GBP_RetailPriceIndex;20171212;09:30;Retail Price Index (YoY);United Kingdom;GBP;1
+GBP_DCLGHousePriceIndex;20171212;09:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ProducerPriceIndex;20171212;09:30;Producer Price Index - Output (YoY) n.s.a;United Kingdom;GBP;2
+GBP_PPICoreOutput;20171212;09:30;PPI Core Output (MoM) n.s.a;United Kingdom;GBP;2
+GBP_ConsumerPriceIndex;20171212;09:30;Consumer Price Index (YoY);United Kingdom;GBP;3
+EUR_EurZEWSurvey–EconomicSentiment;20171212;10:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;1
+EUR_GerZEWSurvey–CurrentSituation;20171212;10:00;ZEW Survey – Current Situation;Germany;EUR;2
+EUR_GerZEWSurvey–EconomicSentiment;20171212;10:00;ZEW Survey – Economic Sentiment;Germany;EUR;2
+USD_NFIBBusinessOptimismIndex;20171212;11:00;NFIB Business Optimism Index;United States;USD;1
+ZAR_ManufacturingProductionIndex;20171212;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+INR_ManufacturingOutput;20171212;11:30;Manufacturing Output;India;INR;1
+INR_IndustrialOutput;20171212;11:30;Industrial Output;India;INR;1
+INR_CumulativeIndustrialOutput;20171212;11:30;Cumulative Industrial Output;India;INR;1
+PLN_NetInflation;20171212;13:00;Net Inflation;Poland;PLN;1
+RUB_ForeignTrade;20171212;13:00;Foreign Trade;Russia;RUB;1
+MXN_IndustrialOutput;20171212;13:00;Industrial Output (MoM);Mexico;MXN;1
+RUB_GrossDomesticProduct;20171212;13:00;Gross Domestic Product Quarterly (YoY);Russia;RUB;1
+USD_ProducerPriceIndex;20171212;13:30;Producer Price Index ex Food & Energy (MoM);United States;USD;1
+USD_RedbookIndex;20171212;13:55;Redbook Index (YoY);United States;USD;1
+USD_Auction;20171212;18:00;30-Year Bond Auction;United States;USD;1
+EUR_EurCentralBankSpeech;20171212;19:00;ECB President Draghi speech;European Monetary Union;EUR;3
+USD_MonthlyBudgetStatement;20171212;19:00;Monthly Budget Statement;United States;USD;2
+NZD_REINZHousePriceIndex;20171212;20:00;REINZ House Price Index (MoM);New Zealand;NZD;2
+USD_APIWeeklyCrudeOilStock;20171212;21:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_FoodPriceIndex;20171212;21:45;Food Price Index (MoM);New Zealand;NZD;1
+AUD_CentralBankSpeech;20171212;22:15;RBA Governor Lowe speech;Australia;AUD;3
+KRW_UnemploymentRate;20171212;23:00;Unemployment Rate;South Korea;KRW;1
+AUD_WestpacConsumerConfidence;20171212;23:30;Westpac Consumer Confidence;Australia;AUD;2
+JPY_MachineryOrders;20171212;23:50;Machinery Orders (YoY);Japan;JPY;1

@@ -1,0 +1,33 @@
+ARS_GrossDomesticProduct;20120615;19:00;Gross Domestic Product (QoQ);Argentina;ARS;1
+ARS_MonthlyEconActivity;20120615;19:00;Monthly Econ Activity (MoM);Argentina;ARS;1
+PEN_GrossDomesticProduct;20120615;14:00;Gross Domestic Product;Peru;PEN;1
+USD_MichiganConsumerSentimentIndex;20120615;13:55;Michigan Consumer Sentiment Index;United States;USD;2
+USD_IndustrialProduction;20120615;13:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20120615;13:15;Capacity Utilization;United States;USD;1
+USD_NetLongTermTICFlows;20120615;13:00;Net Long-Term TIC Flows;United States;USD;2
+USD_TotalNetTICFlows;20120615;13:00;Total Net TIC Flows;United States;USD;1
+USD_NYEmpireStateManufacturingIndex;20120615;12:30;NY Empire State Manufacturing Index;United States;USD;1
+CAD_ManufacturingShipments;20120615;12:30;Manufacturing Shipments (MoM);Canada;CAD;1
+PLN_CurrentAccount;20120615;12:00;Current Account;Poland;PLN;1
+INR_BankLoanGrowth;20120615;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20120615;11:30;FX Reserves, USD;India;INR;1
+EUR_EurTradeBalance;20120615;09:00;Trade Balance n.s.a.;European Monetary Union;EUR;1
+EUR_EurEmploymentChange;20120615;09:00;Employment Change (QoQ);European Monetary Union;EUR;1
+GBP_GoodsTradeBalance;20120615;08:30;Goods Trade Balance;United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20120615;08:30;Trade Balance non-EU;United Kingdom;GBP;1
+NOK_TradeBalance;20120615;08:00;Trade Balance;Norway;NOK;1
+EUR_ItaTradeBalanceEU;20120615;08:00;Trade Balance EU;Italy;EUR;1
+EUR_ItaGlobalTradeBalance;20120615;08:00;Global Trade Balance;Italy;EUR;1
+TRY_BudgetBalance;20120615;08:00;Budget Balance;Turkey;TRY;1
+CZK_CurrentAccount;20120615;08:00;Current Account (MoM);Czech Republic;CZK;1
+TRY_3mthquarterlyjoblessaverage;20120615;07:00;3mth quarterly jobless average;Turkey;TRY;1
+HUF_IndustrialOutput;20120615;07:00;Industrial Output (YoY);Hungary;HUF;1
+CZK_ProducerPriceIndex;20120615;07:00;Producer Price Index (YoY);Czech Republic;CZK;1
+EUR_FinCurrentAccount;20120615;07:00;Current Account;Finland;EUR;1
+EUR_EurCentralBankSpeech;20120615;06:50;ECB President Draghi speech;European Monetary Union;EUR;3
+SGD_RetailSales;20120615;05:00;Retail Sales (YoY);Singapore;SGD;1
+JPY_BoJInterestRateDecision;20120615;03:00;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_BoJMonetaryPolicyStatement;20120615;03:00;BoJ Monetary Policy Statement ;Japan;JPY;2
+KRW_TradeBalance;20120615;03:00;Trade Balance;South Korea;KRW;1
+CNY_FDIForeignDirectInvestment;20120615;01:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;1
+RUB_BudgetFulfilment;20120615;00:00;Budget Fulfilment;Russia;RUB;1

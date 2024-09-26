@@ -1,0 +1,35 @@
+KRW_ConsumerPriceIndex;20191230;23:00;Consumer Price Index Growth (MoM);South Korea;KRW;1
+SEK_NewYearsEve;20191230;22:00;New Years Eve;Sweden;SEK;0
+KRW_BOKManufacturingBSI;20191230;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+MXN_FiscalBalancepesos;20191230;21:00;Fiscal Balance, pesos;Mexico;MXN;1
+AUD_CFTCAUDNCNetPositions;20191230;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20191230;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+USD_CFTCUSDNCNetPositions;20191230;20:30;CFTC USD NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20191230;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20191230;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20191230;20:30;CFTC Oil NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20191230;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_Auction;20191230;16:30;52-Week Bill Auction;United States;USD;1
+USD_DallasFedManufacturingBusinessIndex;20191230;15:30;Dallas Fed Manufacturing Business Index;United States;USD;1
+USD_PendingHomeSales;20191230;15:00;Pending Home Sales (YoY);United States;USD;1
+USD_ChicagoPurchasingManagers'Index;20191230;14:45;Chicago Purchasing Managers' Index;United States;USD;2
+AUD_NewYearholiday;20191230;14:00;New Year holiday;Australia;AUD;0
+USD_WholesaleInventories;20191230;13:30;Wholesale Inventories;United States;USD;1
+USD_GoodsTradeBalance;20191230;13:30;Goods Trade Balance;United States;USD;1
+BRL_PrimaryBudgetSurplus;20191230;12:30;Primary Budget Surplus;Brazil;BRL;1
+EUR_ItaAuction;20191230;10:40;5-y Bond Auction;Italy;EUR;1
+EUR_GreProducerPriceIndex;20191230;10:00;Producer Price Index (YoY);Greece;EUR;1
+GBP_BBAMortgageApprovals;20191230;09:30;BBA Mortgage Approvals;United Kingdom;GBP;1
+EUR_SpaCurrentAccount;20191230;09:00;Current Account Balance;Spain;EUR;1
+SEK_TradeBalance;20191230;08:30;Trade Balance (MoM);Sweden;SEK;1
+CHF_KOFLeadingIndicator;20191230;08:00;KOF Leading Indicator;Switzerland;CHF;2
+EUR_SpaGrossDomesticProduct;20191230;08:00;Gross Domestic Product (YoY);Spain;EUR;1
+EUR_SpaConsumerPriceIndex;20191230;08:00;Consumer Price Index (YoY);Spain;EUR;1
+EUR_SpaHICP;20191230;08:00;HICP (YoY);Spain;EUR;1
+EUR_AusProducerPriceIndex;20191230;08:00;Producer Price Index (MoM);Austria;EUR;1
+TRY_ForeignArrivals;20191230;07:00;Foreign Arrivals;Turkey;TRY;1
+EUR_GerRetailSales;20191230;07:00;Retail Sales (MoM);Germany;EUR;2
+TRY_EconomicConfidenceIndex;20191230;07:00;Economic Confidence Index;Turkey;TRY;1
+NOK_RetailSales;20191230;07:00;Retail Sales ;Norway;NOK;1
+RUB_HSBCManufacturingPMI;20191230;06:00;HSBC Manufacturing PMI	;Russia;RUB;1
+EUR_IreConsumerConfidence;20191230;00:01;Consumer Confidence;Ireland;EUR;1

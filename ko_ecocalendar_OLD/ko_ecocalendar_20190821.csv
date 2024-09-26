@@ -1,0 +1,25 @@
+JPY_ForeignInvestmentinJapanStocks;20190821;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20190821;23:50;Foreign Bond Investment;Japan;JPY;2
+AUD_CommonwealthBankCompositePMI;20190821;22:00;Commonwealth Bank Composite PMI;Australia;AUD;1
+AUD_CommonwealthBankServicesPMI;20190821;22:00;Commonwealth Bank Services PMI;Australia;AUD;1
+AUD_CommonwealthBankManufacturingPMI;20190821;22:00;Commonwealth Bank Manufacturing PMI;Australia;AUD;2
+ARS_TradeBalance;20190821;19:00;Trade Balance (MoM);Argentina;ARS;1
+USD_FOMCMinutes;20190821;18:00;FOMC Minutes;United States;USD;3
+USD_EIACrudeOilStocksChange;20190821;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_ExistingHomeSales;20190821;14:00;Existing Home Sales (MoM);United States;USD;2
+USD_ExistingHomeSalesChange;20190821;14:00;Existing Home Sales Change (MoM);United States;USD;1
+EUR_BelConsumerConfidenceIndex;20190821;13:00;Consumer Confidence Index;Belgium;EUR;1
+MXN_RetailSales;20190821;13:00;Retail Sales (YoY);Mexico;MXN;1
+CAD_ConsumerPriceIndex;20190821;12:30;Consumer Price Index (YoY);Canada;CAD;2
+USD_MBAMortgageApplications;20190821;11:00;MBA Mortgage Applications;United States;USD;1
+EUR_PorCurrentAccount;20190821;10:00;Current Account Balance;Portugal;EUR;1
+EUR_GerAuction;20190821;09:40;30-y Bond Auction;Germany;EUR;1
+GBP_PublicSectorNetBorrowing;20190821;08:30;Public Sector Net Borrowing;United Kingdom;GBP;2
+PLN_IndustrialOutput;20190821;08:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20190821;08:00;Producer Price Index (YoY);Poland;PLN;1
+ZAR_ConsumerPriceIndex;20190821;08:00;Consumer Price Index (YoY);South Africa;ZAR;1
+NOK_LabourForceSurvey;20190821;06:00;Labour Force Survey;Norway;NOK;1
+EUR_NetConsumerSpendingVolume;20190821;04:30;Consumer Spending Volume;Netherlands, The;EUR;1
+EUR_NetConsumerConfidenceAdj;20190821;04:30;Consumer Confidence Adj;Netherlands, The;EUR;1
+NZD_CreditCardSpending;20190821;03:00;Credit Card Spending (YoY);New Zealand;NZD;1
+AUD_WestpacLeadingIndex;20190821;00:30;Westpac Leading Index (MoM);Australia;AUD;2

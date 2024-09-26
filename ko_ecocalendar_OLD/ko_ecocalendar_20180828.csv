@@ -1,0 +1,20 @@
+GBP_BRCShopPriceIndex;20180828;23:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1
+USD_APIWeeklyCrudeOilStock;20180828;20:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_Auction;20180828;17:00;5-Year Note Auction;United States;USD;1
+USD_ConsumerConfidence;20180828;14:00;Consumer Confidence;United States;USD;2
+USD_RichmondFedManufacturingIndex;20180828;14:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20180828;13:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;2
+MXN_JoblessRate;20180828;13:00;Jobless Rate s.a;Mexico;MXN;1
+USD_RedbookIndex;20180828;12:55;Redbook Index (YoY);United States;USD;1
+USD_WholesaleInventories;20180828;12:30;Wholesale Inventories;United States;USD;1
+USD_GoodsTradeBalance;20180828;12:30;Goods Trade Balance;United States;USD;1
+EUR_IreRetailSales;20180828;10:00;Retail Sales (MoM);Ireland;EUR;1
+EUR_ItaProducerPriceIndex;20180828;09:07;Producer Price Index (YoY);Italy;EUR;1
+EUR_ItaBusinessConfidence;20180828;08:00;Business Confidence;Italy;EUR;1
+EUR_ItaConsumerConfidence;20180828;08:00;Consumer Confidence;Italy;EUR;1
+EUR_EurPrivateLoans;20180828;08:00;Private Loans (YoY);European Monetary Union;EUR;1
+EUR_EurM3MoneySupply;20180828;08:00;M3 Money Supply (YoY);European Monetary Union;EUR;1
+SEK_RetailSales;20180828;07:30;Retail Sales (MoM);Sweden;SEK;1
+SEK_TradeBalance;20180828;07:30;Trade Balance (MoM);Sweden;SEK;1
+CHF_EmploymentLevel;20180828;07:15;Employment Level (QoQ);Switzerland;CHF;1
+EUR_FraConsumerConfidence;20180828;06:45;Consumer Confidence;France;EUR;1

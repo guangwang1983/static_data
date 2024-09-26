@@ -1,0 +1,64 @@
+CNY_NonManufacturingPMI;20190430;01:00;Non-Manufacturing PMI;China;CNY;2
+CNY_NBSManufacturingPMI;20190430;01:00;NBS Manufacturing PMI;China;CNY;2
+NZD_ANZActivityOutlook;20190430;01:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20190430;01:00;ANZ Business Confidence;New Zealand;NZD;1
+AUD_PrivateSectorCredit;20190430;01:30;Private Sector Credit (MoM);Australia;AUD;1
+CNY_CaixinManufacturingPMI;20190430;01:45;Caixin Manufacturing PMI;China;CNY;3
+EUR_FraGrossDomesticProduct;20190430;05:30;Gross Domestic Product (QoQ);France;EUR;1
+EUR_GerImportPriceIndex;20190430;06:00;Import Price Index (MoM);Germany;EUR;1
+EUR_GerGfkConsumerConfidenceSurvey;20190430;06:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+RUB_S&PGlobalManufacturingPMI;20190430;06:00;S&P Global Manufacturing PMI;Russia;RUB;1
+NOK_LabourForceSurvey;20190430;06:00;Labour Force Survey;Norway;NOK;1
+NOK_RetailSales;20190430;06:00;Retail Sales ;Norway;NOK;1
+ZAR_M3MoneySupply;20190430;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+ZAR_PrivateSectorCredit;20190430;06:00;Private Sector Credit;South Africa;ZAR;1
+EUR_FraProducerPrices;20190430;06:45;Producer Prices (MoM);France;EUR;1
+EUR_FraConsumerSpending;20190430;06:45;Consumer Spending (MoM);France;EUR;1
+EUR_FraBudgetBalance;20190430;06:45;Budget Balance;France;EUR;1
+EUR_FraConsumerPriceIndex;20190430;06:48;Consumer Price Index (EU norm) (MoM);France;EUR;1
+HUF_GrossWages;20190430;07:00;Gross Wages (YoY);Hungary;HUF;1
+CHF_KOFLeadingIndicator;20190430;07:00;KOF Leading Indicator;Switzerland;CHF;2
+TRY_TradeBalance;20190430;07:00;Trade Balance;Turkey;TRY;1
+HUF_ProducerPriceIndex;20190430;07:00;Producer Price Index (YoY);Hungary;HUF;1
+GBP_CentralBankSpeech;20190430;07:40;BoE Ramsden speech;United Kingdom;GBP;2
+EUR_GerUnemploymentRate;20190430;07:55;Unemployment Rate s.a.;Germany;EUR;2
+EUR_GerUnemploymentChange;20190430;07:55;Unemployment Change;Germany;EUR;2
+PLN_ConsumerPriceIndex;20190430;08:00;Consumer Price Index (YoY);Poland;PLN;1
+EUR_ItaUnemployment;20190430;08:00;Unemployment;Italy;EUR;1
+TRY_ForeignArrivals;20190430;08:30;Foreign Arrivals;Turkey;TRY;1
+EUR_EurGrossDomesticProduct;20190430;09:00;Gross Domestic Product s.a. (QoQ);European Monetary Union;EUR;3
+EUR_EurUnemploymentRate;20190430;09:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_ItaConsumerPriceIndex;20190430;09:00;Consumer Price Index (MoM);Italy;EUR;1
+EUR_ItaAuction;20190430;09:45;10-y Bond Auction;Italy;EUR;1
+EUR_ItaGrossDomesticProduct;20190430;10:00;Gross Domestic Product (YoY);Italy;EUR;1
+ILS_UnemploymentRate;20190430;10:00;Unemployment Rate;Israel;ILS;1
+INR_InfrastructureOutput;20190430;11:45;Infrastructure Output (YoY);India;INR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20190430;12:00;Harmonized Index of Consumer Prices (MoM);Germany;EUR;1
+EUR_GerConsumerPriceIndex;20190430;12:00;Consumer Price Index (MoM);Germany;EUR;1
+HUF_MNBInterestRateDecision;20190430;12:00;MNB Interest Rate Decision;Hungary;HUF;1
+ZAR_TradeBalance;20190430;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+BRL_UnemploymentRate;20190430;12:02;Unemployment Rate;Brazil;BRL;1
+CAD_IndustrialProductPrice;20190430;12:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_RawMaterialPriceIndex;20190430;12:30;Raw Material Price Index;Canada;CAD;1
+USD_EmploymentCostIndex;20190430;12:30;Employment Cost Index;United States;USD;1
+CAD_GrossDomesticProduct;20190430;12:30;Gross Domestic Product (MoM);Canada;CAD;2
+USD_RedbookIndex;20190430;12:55;Redbook Index (YoY);United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20190430;13:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;2
+CLP_IndustrialProduction;20190430;13:00;Industrial Production (YoY);Chile;CLP;1
+BRL_NominalBudgetBalance;20190430;13:30;Nominal Budget Balance;Brazil;BRL;1
+BRL_PrimaryBudgetSurplus;20190430;13:30;Primary Budget Surplus;Brazil;BRL;1
+CLP_Unemploymentrate;20190430;13:52;Unemployment rate;Chile;CLP;1
+USD_ChicagoPurchasingManagers'Index;20190430;13:55;Chicago Purchasing Managers' Index;United States;USD;2
+USD_ConsumerConfidence;20190430;14:00;Consumer Confidence;United States;USD;2
+USD_PendingHomeSales;20190430;14:00;Pending Home Sales (MoM);United States;USD;2
+CAD_CentralBankSpeech;20190430;15:00;BoC Governor Poloz speech;Canada;CAD;3
+COP_NationalJoblessRate;20190430;15:00;National Jobless Rate;Colombia;COP;1
+CNY_LabourDay;20190430;16:00;Labour Day;China;CNY;0
+USD_APIWeeklyCrudeOilStock;20190430;20:30;API Weekly Crude Oil Stock;United States;USD;1
+AUD_AiGPerformanceofMfgIndex;20190430;22:30;AiG Performance of Mfg Index;Australia;AUD;2
+NZD_EmploymentChange;20190430;22:45;Employment Change;New Zealand;NZD;3
+NZD_UnemploymentRate;20190430;22:45;Unemployment Rate;New Zealand;NZD;3
+NZD_ParticipationRate;20190430;22:45;Participation Rate;New Zealand;NZD;2
+NZD_LabourCostIndex;20190430;22:45;Labour Cost Index (QoQ);New Zealand;NZD;2
+AUD_S&PGlobalManufacturingPMI;20190430;23:00;S&P Global Manufacturing PMI;Australia;AUD;2
+GBP_BRCShopPriceIndex;20190430;23:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1

@@ -1,0 +1,51 @@
+JPY_TankanLargeManufacturingOutlook;20140331;23:50;Tankan Large Manufacturing Outlook;Japan;JPY;2
+JPY_TankanLargeAllIndustryCapex;20140331;23:50;Tankan Large All Industry Capex;Japan;JPY;2
+JPY_TankanLargeManufacturingIndex;20140331;23:50;Tankan Large Manufacturing Index;Japan;JPY;2
+JPY_TankanNonManufacturingOutlook;20140331;23:50;Tankan Non - Manufacturing Outlook;Japan;JPY;2
+JPY_TankanNonManufacturingIndex;20140331;23:50;Tankan Non - Manufacturing Index;Japan;JPY;2
+KRW_ConsumerPriceIndex;20140331;23:00;Consumer Price Index Growth (MoM);South Korea;KRW;1
+AUD_RPDataRismarkHousePriceIndex;20140331;23:00;RPData/Rismark House Price Index;Australia;AUD;1
+AUD_AiGPerformanceofMfgIndex;20140331;22:30;AiG Performance of Mfg Index;Australia;AUD;2
+GBP_CentralBankSpeech;20140331;17:15;BoE Governor Carney speech;United Kingdom;GBP;3
+COP_NationalJoblessRate;20140331;17:00;National Jobless Rate;Colombia;COP;1
+USD_Auction;20140331;15:30;6-Month Bill Auction;United States;USD;1
+USD_DallasFedManufacturingBusinessIndex;20140331;14:30;Dallas Fed Manufacturing Business Index;United States;USD;2
+USD_CentralBankSpeech;20140331;13:55;Fed Chair Yellen speech;United States;USD;3
+USD_ChicagoPurchasingManagers'Index;20140331;13:45;Chicago Purchasing Managers' Index;United States;USD;2
+CAD_GrossDomesticProduct;20140331;12:30;Gross Domestic Product (MoM);Canada;CAD;2
+ZAR_TradeBalance;20140331;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+CLP_IndustrialProduction;20140331;12:00;Industrial Production (YoY);Chile;CLP;1
+CLP_Unemploymentrate;20140331;11:00;Unemployment rate;Chile;CLP;1
+INR_FederalFiscalDeficitINR;20140331;10:30;Federal Fiscal Deficit, INR;India;INR;1
+EUR_SpaCurrentAccount;20140331;09:23;Current Account Balance;Spain;EUR;1
+EUR_EurConsumerPriceIndex;20140331;09:00;Consumer Price Index (YoY);European Monetary Union;EUR;3
+EUR_ItaConsumerPriceIndex;20140331;09:00;Consumer Price Index (EU Norm) (MoM);Italy;EUR;1
+GBP_NetLendingtoIndividuals;20140331;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;2
+HKD_RetailSales;20140331;08:30;Retail Sales;Hong Kong SAR;HKD;1
+GBP_ConsumerCredit;20140331;08:30;Consumer Credit;United Kingdom;GBP;2
+GBP_MortgageApprovals;20140331;08:30;Mortgage Approvals;United Kingdom;GBP;2
+GBP_M4MoneySupply;20140331;08:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+CZK_M2MoneySupply;20140331;08:00;M2 Money Supply (YoY);Czech Republic;CZK;1
+NOK_RetailSales;20140331;08:00;Retail Sales ;Norway;NOK;1
+NOK_CreditIndicator;20140331;08:00;Credit Indicator;Norway;NOK;1
+EUR_NetGrossDomesticProduct;20140331;07:30;Gross Domestic Product n.s.a (YoY);Netherlands, The;EUR;1
+CHF_KOFLeadingIndicator;20140331;07:00;KOF Leading Indicator;Switzerland;CHF;2
+TRY_TradeBalance;20140331;07:00;Trade Balance;Turkey;TRY;1
+TRY_GrossDomesticProduct;20140331;07:00;Quarterly Gross Domestic Product;Turkey;TRY;1
+DKK_GrossDomesticProduct;20140331;07:00;Gross Domestic Product - Revised (YoY);Denmark;DKK;1
+HUF_ProducerPriceIndex;20140331;07:00;Producer Price Index (YoY);Hungary;HUF;1
+EUR_FraGrossDomesticProduct;20140331;06:45;Gross Domestic Product (YoY);France;EUR;2
+HUF_CurrentAccount;20140331;06:30;Current Account Balance (QoQ);Hungary;HUF;1
+INR_InfrastructureOutput;20140331;06:30;Infrastructure Output (YoY);India;INR;1
+EUR_GerRetailSales;20140331;06:00;Retail Sales (YoY);Germany;EUR;2
+ZAR_PrivateSectorCredit;20140331;06:00;Private Sector Credit;South Africa;ZAR;1
+ZAR_M3MoneySupply;20140331;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+JPY_HousingStarts;20140331;05:00;Housing Starts (YoY);Japan;JPY;2
+JPY_AnnualizedHousingStarts;20140331;05:00;Annualized Housing Starts;Japan;JPY;2
+JPY_ConstructionOrders;20140331;05:00;Construction Orders (YoY);Japan;JPY;1
+NZD_M3MoneySupply;20140331;02:00;M3 Money Supply (YoY);New Zealand;NZD;1
+AUD_PrivateSectorCredit;20140331;00:30;Private Sector Credit (YoY);Australia;AUD;1
+AUD_HIANewHomeSales;20140331;00:00;HIA New Home Sales (MoM);Australia;AUD;2
+IDR_HariRayaNyepi;20140331;00:00;Hari Raya Nyepi;Indonesia;IDR;0
+NZD_ANZActivityOutlook;20140331;00:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20140331;00:00;ANZ Business Confidence;New Zealand;NZD;2

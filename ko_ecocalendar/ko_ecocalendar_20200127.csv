@@ -1,0 +1,16 @@
+TRY_ManufacturingConfidence;20200127;07:00;Manufacturing Confidence;Turkey;TRY;1
+TRY_CapacityUtilization;20200127;07:00;Capacity Utilization;Turkey;TRY;1
+DKK_RetailSales;20200127;07:00;Retail Sales (YoY);Denmark;DKK;1
+EUR_GerIFO–BusinessClimate;20200127;09:00;IFO – Business Climate;Germany;EUR;2
+EUR_GerIFO–CurrentAssessment;20200127;09:00;IFO – Current Assessment;Germany;EUR;2
+EUR_GerIFO–Expectations;20200127;09:00;IFO – Expectations;Germany;EUR;2
+PLN_Unemployment;20200127;09:00;Unemployment (MoM);Poland;PLN;1
+GBP_BBAMortgageApprovals;20200127;09:30;BBA Mortgage Approvals;United Kingdom;GBP;1
+MXN_RetailSales;20200127;12:00;Retail Sales (YoY);Mexico;MXN;1
+BRL_CurrentAccount;20200127;12:31;Current Account;Brazil;BRL;1
+USD_NewHomeSales;20200127;15:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20200127;15:00;New Home Sales Change (MoM);United States;USD;1
+USD_DallasFedManufacturingBusinessIndex;20200127;15:30;Dallas Fed Manufacturing Business Index;United States;USD;1
+EUR_EurCentralBankSpeech;20200127;17:00;ECB Mersch speech;European Monetary Union;EUR;2
+USD_Auction;20200127;18:00;5-Year Note Auction;United States;USD;1
+JPY_CorporateServicePriceIndex;20200127;23:50;Corporate Service Price Index (YoY);Japan;JPY;1

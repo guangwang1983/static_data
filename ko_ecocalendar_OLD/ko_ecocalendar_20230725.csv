@@ -1,0 +1,18 @@
+SEK_ProducerPriceIndex;20230725;06:00;Producer Price Index (MoM);Sweden;SEK;1
+HUF_GrossWages;20230725;06:30;Gross Wages (YoY);Hungary;HUF;1
+TRY_ManufacturingConfidence;20230725;07:00;Manufacturing Confidence;Turkey;TRY;1
+TRY_CapacityUtilization;20230725;07:00;Capacity Utilization;Turkey;TRY;1
+IDR_BankIndonesiaRate;20230725;07:00;Bank Indonesia Rate;Indonesia;IDR;1
+PLN_Unemployment;20230725;08:00;Unemployment (MoM);Poland;PLN;1
+EUR_EurECBBankLendingSurvey;20230725;08:00;ECB Bank Lending Survey;European Monetary Union;EUR;3
+BRL_MidmonthInflation;20230725;12:00;Mid-month Inflation;Brazil;BRL;1
+HUF_MNBInterestRateDecision;20230725;12:00;MNB Interest Rate Decision;Hungary;HUF;1
+USD_RedbookIndex;20230725;12:55;Redbook Index (YoY);United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20230725;13:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;1
+USD_HousingPriceIndex;20230725;13:00;Housing Price Index (MoM);United States;USD;2
+USD_ConsumerConfidence;20230725;14:00;Consumer Confidence;United States;USD;2
+USD_RichmondFedManufacturingIndex;20230725;14:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_Auction;20230725;17:00;5-Year Note Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20230725;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_ConsumerSentimentIndex;20230725;21:00;Consumer Sentiment Index;South Korea;KRW;1
+JPY_CorporateServicePriceIndex;20230725;23:50;Corporate Service Price Index (YoY);Japan;JPY;1

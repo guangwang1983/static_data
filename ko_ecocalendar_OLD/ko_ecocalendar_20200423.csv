@@ -1,0 +1,47 @@
+JPY_CorporateServicePriceIndex;20200423;23:50;Corporate Service Price Index (YoY);Japan;JPY;1
+JPY_NationalCPIexFoodEnergy;20200423;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20200423;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20200423;23:30;National Consumer Price Index (YoY);Japan;JPY;2
+GBP_GfKConsumerConfidence;20200423;23:01;GfK Consumer Confidence;United Kingdom;GBP;2
+USD_Auction;20200423;15:30;4-Week Bill Auction;United States;USD;1
+USD_KansasFedManufacturingActivity;20200423;15:00;Kansas Fed Manufacturing Activity;United States;USD;2
+USD_EIANaturalGasStorageChange;20200423;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_NewHomeSales;20200423;14:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20200423;14:00;New Home Sales Change (MoM);United States;USD;1
+USD_MarkitManufacturingPMI;20200423;13:45;Markit Manufacturing PMI;United States;USD;2
+USD_MarkitPMIComposite;20200423;13:45;Markit PMI Composite;United States;USD;2
+USD_MarkitServicesPMI;20200423;13:45;Markit Services PMI;United States;USD;2
+RUB_CentralBankReserves;20200423;13:00;Central Bank Reserves $;Russia;RUB;1
+RUB_ProducerPriceIndex;20200423;13:00;Producer Price Index (MoM);Russia;RUB;1
+PLN_M3MoneySupply;20200423;13:00;M3 Money Supply (YoY);Poland;PLN;1
+USD_JoblessClaims;20200423;12:30;Initial Jobless Claims;United States;USD;3
+MXN_RetailSales;20200423;11:00;Retail Sales (MoM);Mexico;MXN;1
+MXN_1sthalfmonthCoreInflation;20200423;11:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20200423;11:00;1st half-month Inflation;Mexico;MXN;1
+GBP_CBIIndustrialTrendsSurveyOrders;20200423;10:00;CBI Industrial Trends Survey - Orders (MoM);United Kingdom;GBP;1
+CHF_ZEWSurveyExpectations;20200423;09:00;ZEW Survey - Expectations;Switzerland;CHF;2
+GBP_MarkitManufacturingPMI;20200423;08:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+HKD_ConsumerPriceIndex;20200423;08:30;Consumer Price Index;Hong Kong SAR;HKD;1
+GBP_MarkitServicesPMI;20200423;08:30;Markit Services PMI;United Kingdom;GBP;3
+EUR_ItaTradeBalancenonEU;20200423;08:00;Trade Balance non-EU;Italy;EUR;1
+EUR_EurMarkitPMIComposite;20200423;08:00;Markit PMI Composite;European Monetary Union;EUR;3
+EUR_EurMarkitManufacturingPMI;20200423;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20200423;08:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_GerMarkitPMIComposite;20200423;07:30;Markit PMI Composite;Germany;EUR;3
+EUR_GerMarkitServicesPMI;20200423;07:30;Markit Services PMI;Germany;EUR;2
+EUR_GerMarkitManufacturingPMI;20200423;07:30;Markit Manufacturing PMI;Germany;EUR;3
+EUR_FraMarkitManufacturingPMI;20200423;07:15;Markit Manufacturing PMI;France;EUR;2
+EUR_FraMarkitServicesPMI;20200423;07:15;Markit Services PMI;France;EUR;2
+EUR_FraMarkitPMIComposite;20200423;07:15;Markit PMI Composite;France;EUR;2
+EUR_FraBusinessClimate;20200423;06:45;Business Climate;France;EUR;1
+EUR_GerGfkConsumerConfidenceSurvey;20200423;06:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+NOK_LabourForceSurvey;20200423;06:00;Labour Force Survey;Norway;NOK;1
+GBP_PublicSectorNetBorrowing;20200423;06:00;Public Sector Net Borrowing;United Kingdom;GBP;2
+SGD_ConsumerPriceIndex;20200423;05:00;Consumer Price Index (YoY);Singapore;SGD;1
+JPY_LeadingEconomicIndex;20200423;05:00;Leading Economic Index;Japan;JPY;2
+JPY_CoincidentIndex;20200423;05:00;Coincident Index;Japan;JPY;1
+EUR_FinUnemploymentRate;20200423;05:00;Unemployment Rate;Finland;EUR;1
+NZD_CreditCardSpending;20200423;03:00;Credit Card Spending (YoY);New Zealand;NZD;1
+JPY_JibunBankManufacturingPMI;20200423;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+EUR_EurEuropeanCouncilMeeting;20200423;00:00;European Council Meeting;European Monetary Union;EUR;2
+ISK_FirstDayofSummer;20200423;00:00;First Day of Summer ;Iceland;ISK;0

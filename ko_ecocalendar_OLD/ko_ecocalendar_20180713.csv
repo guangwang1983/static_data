@@ -1,0 +1,39 @@
+USD_CFTCGoldNCNetPositions;20180713;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCUSDNCNetPositions;20180713;19:30;CFTC USD NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20180713;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+AUD_CFTCAUDNCNetPositions;20180713;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCOilNCNetPositions;20180713;19:30;CFTC Oil NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20180713;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+GBP_CFTCGBPNCNetPositions;20180713;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_BakerHughesUSOilRigCount;20180713;17:00;Baker Hughes US Oil Rig Count;United States;USD;2
+USD_CentralBankSpeech;20180713;16:30;Fed Bostic speech;United States;USD;2
+INR_TradeDeficitGovernment;20180713;15:00;Trade Deficit Government;India;INR;1
+COP_RetailSales;20180713;15:00;Retail Sales (YoY);Colombia;COP;1
+USD_FedMonetaryPolicyReport;20180713;15:00;Fed Monetary Policy Report;United States;USD;2
+COP_Industrialouput;20180713;15:00;Industrial ouput (YoY);Colombia;COP;1
+USD_MichiganConsumerSentimentIndex;20180713;14:00;Michigan Consumer Sentiment Index;United States;USD;2
+USD_ExportPriceIndex;20180713;12:30;Export Price Index (YoY);United States;USD;1
+USD_ImportPriceIndex;20180713;12:30;Import Price Index (MoM);United States;USD;1
+INR_FXReservesUSD;20180713;11:30;FX Reserves, USD;India;INR;1
+GBP_CentralBankSpeech;20180713;11:00;BoE Cunliffe speech;United Kingdom;GBP;2
+CHF_ProducerandImportPrices;20180713;07:15;Producer and Import Prices (MoM);Switzerland;CHF;1
+EUR_SpaHICP;20180713;07:00;HICP (YoY);Spain;EUR;1
+EUR_SloHeadlineInflation;20180713;07:00;Headline Inflation (YoY);Slovakia;EUR;1
+EUR_SloCoreInflation;20180713;07:00;Core Inflation (YoY);Slovakia;EUR;1
+EUR_SpaConsumerPriceIndex;20180713;07:00;Consumer Price Index (MoM);Spain;EUR;1
+NOK_TradeBalance;20180713;06:00;Trade Balance;Norway;NOK;1
+EUR_FinGrossDomesticProduct;20180713;06:00;Gross Domestic Product (YoY);Finland;EUR;1
+EUR_FinCurrentAccount;20180713;06:00;Current Account;Finland;EUR;1
+EUR_GerWholesalePriceIndex;20180713;06:00;Wholesale Price Index (MoM);Germany;EUR;1
+EUR_FinConsumerPriceIndex;20180713;06:00;Consumer Price Index (YoY);Finland;EUR;1
+JPY_IndustrialProduction;20180713;04:30;Industrial Production (YoY);Japan;JPY;1
+EUR_NetRetailSales;20180713;04:30;Retail Sales (YoY);Netherlands, The;EUR;1
+JPY_CapacityUtilization;20180713;04:30;Capacity Utilization;Japan;JPY;1
+CNY_TradeBalanceCNY;20180713;03:10;Trade Balance CNY;China;CNY;2
+CNY_Exports;20180713;03:08;Exports (YoY);China;CNY;2
+CNY_Imports;20180713;03:08;Imports (YoY);China;CNY;2
+CNY_TradeBalanceUSD;20180713;03:06;Trade Balance USD;China;CNY;2
+CNY_FDIForeignDirectInvestment;20180713;02:15;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+EUR_EurEcoFinMeeting;20180713;00:00;EcoFin Meeting;European Monetary Union;EUR;2
+KRW_TradeBalance;20180713;00:00;Trade Balance;South Korea;KRW;1
+SGD_GrossDomesticProduct;20180713;00:00;Gross Domestic Product (QoQ);Singapore;SGD;1

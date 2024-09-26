@@ -1,0 +1,19 @@
+JPY_TertiaryIndustryIndex;20100615;23:50;Tertiary Industry Index (MoM);Japan;JPY;1
+USD_NAHBHousingMarketIndex;20100615;14:00;NAHB Housing Market Index;United States;USD;1
+USD_TotalNetTICFlows;20100615;13:00;Total Net TIC Flows;United States;USD;1
+USD_NetLongTermTICFlows;20100615;13:00;Net Long-Term TIC Flows;United States;USD;2
+USD_NYEmpireStateManufacturingIndex;20100615;12:30;NY Empire State Manufacturing Index;United States;USD;2
+CAD_LaborProductivity;20100615;12:30;Labor Productivity (QoQ);Canada;CAD;1
+CAD_ManufacturingShipments;20100615;12:30;Manufacturing Shipments (MoM);Canada;CAD;2
+USD_ImportPriceIndex;20100615;12:30;Import Price Index (MoM);United States;USD;2
+EUR_EurTradeBalance;20100615;09:00;Trade Balance n.s.a.;European Monetary Union;EUR;1
+EUR_EurZEWSurveyEconomicSentiment;20100615;09:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurveyEconomicSentiment;20100615;09:00;ZEW Survey - Economic Sentiment;Germany;EUR;3
+EUR_GerZEWSurveyCurrentSituation;20100615;09:00;ZEW Survey - Current Situation;Germany;EUR;2
+EUR_EurEmploymentChange;20100615;09:00;Employment Change (YoY);European Monetary Union;EUR;1
+GBP_RetailPriceIndex;20100615;08:30;Retail Price Index (MoM);United Kingdom;GBP;1
+GBP_DCLGHousePriceIndex;20100615;08:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20100615;08:30;Core Consumer Price Index (YoY);United Kingdom;GBP;3
+JPY_BoJInterestRateDecision;20100615;04:05;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_TokyoCondominiumSales;20100615;04:00;Tokyo Condominium Sales (YoY);Japan;JPY;1
+AUD_RBAMeetingMinutes;20100615;01:30;RBA Meeting Minutes;Australia;AUD;3

@@ -1,0 +1,27 @@
+AUD_ConsumerInflationExpectations;20211111;00:00;Consumer Inflation Expectations;Australia;AUD;2
+GBP_RICSHousingPriceBalance;20211111;00:01;RICS Housing Price Balance;United Kingdom;GBP;1
+AUD_PartTimeEmployment;20211111;00:30;Part-Time Employment;Australia;AUD;1
+AUD_FulltimeEmployment;20211111;00:30;Fulltime Employment;Australia;AUD;2
+AUD_EmploymentChange;20211111;00:30;Employment Change s.a.;Australia;AUD;3
+AUD_ParticipationRate;20211111;00:30;Participation Rate;Australia;AUD;1
+AUD_UnemploymentRate;20211111;00:30;Unemployment Rate s.a.;Australia;AUD;3
+USD_VeteransDay;20211111;05:00;Veterans Day;United States;USD;0
+CAD_RemembranceDay;20211111;05:00;Remembrance Day;Canada;CAD;0
+TRY_CurrentAccount;20211111;07:00;Current Account Balance;Turkey;TRY;1
+GBP_GrossDomesticProduct;20211111;07:00;Gross Domestic Product (QoQ);United Kingdom;GBP;3
+GBP_ManufacturingProduction;20211111;07:00;Manufacturing Production (YoY);United Kingdom;GBP;2
+GBP_IndustrialProduction;20211111;07:00;Industrial Production (MoM);United Kingdom;GBP;2
+GBP_TotalBusinessInvestment;20211111;07:00;Total Business Investment (YoY);United Kingdom;GBP;1
+GBP_IndexofServices;20211111;07:00;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20211111;07:00;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20211111;07:00;Goods Trade Balance;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20211111;07:00;Total Trade Balance;United Kingdom;GBP;1
+EUR_EurEconomicBulletin;20211111;09:00;Economic Bulletin;European Monetary Union;EUR;2
+ZAR_ManufacturingProductionIndex;20211111;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+MXN_IndustrialOutput;20211111;12:00;Industrial Output (YoY);Mexico;MXN;1
+GBP_NIESRGDPEstimate;20211111;12:00;NIESR GDP Estimate (3M);United Kingdom;GBP;2
+RUB_CentralBankReserves;20211111;13:00;Central Bank Reserves $;Russia;RUB;1
+EUR_EurCentralBankSpeech;20211111;16:00;ECB Schnabel speech;European Monetary Union;EUR;2
+CHF_CentralBankSpeech;20211111;17:30;SNB Maechler speech;Switzerland;CHF;2
+MXN_CentralBankInterestRate;20211111;19:00;Central Bank Interest Rate;Mexico;MXN;1
+NZD_BusinessNZPMI;20211111;21:30;Business NZ PMI;New Zealand;NZD;2

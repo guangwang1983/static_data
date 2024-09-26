@@ -1,0 +1,44 @@
+EUR_EurEurogroupMeeting;20210521;00:00;Eurogroup Meeting;European Monetary Union;EUR;2
+JPY_JibunBankManufacturingPMI;20210521;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+AUD_RetailSales;20210521;01:30;Retail Sales s.a. (MoM);Australia;AUD;3
+NZD_CreditCardSpending;20210521;03:00;Credit Card Spending (YoY);New Zealand;NZD;1
+CLP_NavyDay;20210521;04:00;Navy Day ;Chile;CLP;0
+GBP_RetailSales;20210521;06:00;Retail Sales ex-Fuel (YoY);United Kingdom;GBP;2
+DKK_ConsumerConfidence;20210521;06:00;Consumer Confidence;Denmark;DKK;1
+CHF_IndustrialProduction;20210521;06:30;Industrial Production (YoY);Switzerland;CHF;2
+TRY_ConsumerConfidence;20210521;07:00;Consumer Confidence;Turkey;TRY;1
+EUR_FraHCOBCompositePMI;20210521;07:15;HCOB Composite PMI;France;EUR;2
+EUR_FraHCOBServicesPMI;20210521;07:15;HCOB Services PMI;France;EUR;2
+EUR_FraHCOBManufacturingPMI;20210521;07:15;HCOB Manufacturing PMI;France;EUR;2
+EUR_GerHCOBCompositePMI;20210521;07:30;HCOB Composite PMI;Germany;EUR;3
+EUR_GerHCOBServicesPMI;20210521;07:30;HCOB Services PMI;Germany;EUR;2
+EUR_GerHCOBManufacturingPMI;20210521;07:30;HCOB Manufacturing PMI;Germany;EUR;3
+SEK_CapacityUtilization;20210521;07:30;Capacity Utilization;Sweden;SEK;1
+PLN_ProducerPriceIndex;20210521;08:00;Producer Price Index (YoY);Poland;PLN;1
+EUR_ItaIndustrialSales;20210521;08:00;Industrial Sales n.s.a. (YoY);Italy;EUR;1
+EUR_EurHCOBServicesPMI;20210521;08:00;HCOB Services PMI;European Monetary Union;EUR;2
+EUR_EurHCOBManufacturingPMI;20210521;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurHCOBCompositePMI;20210521;08:00;HCOB Composite PMI;European Monetary Union;EUR;3
+GBP_S&PGlobalCIPSCompositePMI;20210521;08:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSServicesPMI;20210521;08:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;3
+GBP_S&PGlobalCIPSManufacturingPMI;20210521;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+EUR_GerGermanBubaMonthlyReport;20210521;10:00;German Buba Monthly Report;Germany;EUR;1
+EUR_EurCentralBankSpeech;20210521;11:00;ECB President Lagarde speech;European Monetary Union;EUR;3
+MXN_RetailSales;20210521;11:00;Retail Sales (MoM);Mexico;MXN;1
+INR_BankLoanGrowth;20210521;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20210521;11:30;FX Reserves, USD;India;INR;1
+CAD_RetailSales;20210521;12:30;Retail Sales (MoM);Canada;CAD;3
+USD_S&PGlobalServicesPMI;20210521;13:45;S&P Global Services PMI;United States;USD;2
+USD_S&PGlobalManufacturingPMI;20210521;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20210521;13:45;S&P Global Composite PMI;United States;USD;2
+USD_ExistingHomeSales;20210521;14:00;Existing Home Sales (MoM);United States;USD;1
+USD_ExistingHomeSalesChange;20210521;14:00;Existing Home Sales Change (MoM);United States;USD;1
+EUR_EurConsumerConfidence;20210521;14:00;Consumer Confidence;European Monetary Union;EUR;2
+USD_BakerHughesUSOilRigCount;20210521;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20210521;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20210521;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+JPY_CFTCJPYNCNetPositions;20210521;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCOilNCNetPositions;20210521;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20210521;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20210521;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20210521;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1

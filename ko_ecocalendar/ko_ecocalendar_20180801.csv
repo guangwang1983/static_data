@@ -1,0 +1,47 @@
+CHF_NationalHoliday;20180801;00:00;National Holiday;Switzerland;CHF;0
+KRW_S&PGlobalManufacturingPMI;20180801;00:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+JPY_JibunBankManufacturingPMI;20180801;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+CNY_CaixinManufacturingPMI;20180801;01:45;Caixin Manufacturing PMI;China;CNY;2
+KRW_TradeBalance;20180801;02:00;Trade Balance;South Korea;KRW;1
+IDR_Inflation;20180801;04:00;Inflation (MoM);Indonesia;IDR;1
+IDR_CoreInflation;20180801;04:00;Core Inflation (YoY);Indonesia;IDR;1
+JPY_VehicleSales;20180801;05:00;Vehicle Sales (YoY);Japan;JPY;1
+GBP_NationwideHousingPrices;20180801;06:00;Nationwide Housing Prices s.a (MoM);United Kingdom;GBP;1
+RUB_S&PGlobalManufacturingPMI;20180801;06:00;S&P Global Manufacturing PMI;Russia;RUB;1
+AUD_RBACommodityIndexSDR;20180801;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+SEK_PurchasingManagersIndexManufacturing;20180801;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+EUR_EurNonMonetaryPolicyECBMeeting;20180801;07:00;Non-Monetary Policy ECB Meeting;European Monetary Union;EUR;2
+HUF_PurchasingManagerIndex;20180801;07:00;Purchasing Manager Index;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20180801;07:00;Purchasing Manager Index;Poland;PLN;2
+CZK_S&PGlobalPMI;20180801;07:30;S&P Global PMI;Czech Republic;CZK;1
+EUR_ItaHCOBManufacturingPMI;20180801;07:45;HCOB Manufacturing PMI;Italy;EUR;1
+EUR_FraHCOBManufacturingPMI;20180801;07:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerHCOBManufacturingPMI;20180801;07:55;HCOB Manufacturing PMI;Germany;EUR;2
+EUR_EurHCOBManufacturingPMI;20180801;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+GBP_S&PGlobalCIPSManufacturingPMI;20180801;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+TRY_Exports;20180801;09:00;Exports;Turkey;TRY;1
+INR_ReverseRepoRate;20180801;09:00;Reverse Repo Rate;India;INR;1
+INR_RBIInterestRateDecision;20180801;09:00;RBI Interest Rate Decision (Repo Rate);India;INR;1
+EUR_GerAuction;20180801;09:43;10-y Bond Auction;Germany;EUR;2
+USD_MBAMortgageApplications;20180801;11:00;MBA Mortgage Applications;United States;USD;1
+INR_M3MoneySupply;20180801;11:30;M3 Money Supply;India;INR;1
+ZAR_TotalNewVehicleSales;20180801;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+CZK_BudgetBalance;20180801;12:00;Budget Balance;Czech Republic;CZK;1
+USD_ADPEmploymentChange;20180801;12:15;ADP Employment Change;United States;USD;2
+BRL_S&PGlobalManufacturingPMI;20180801;13:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+CAD_S&PGlobalManufacturingPMI;20180801;13:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20180801;13:45;S&P Global Manufacturing PMI;United States;USD;1
+USD_ISMManufacturingPMI;20180801;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20180801;14:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ISMManufacturingEmploymentIndex;20180801;14:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ISMManufacturingNewOrdersIndex;20180801;14:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ConstructionSpending;20180801;14:00;Construction Spending (MoM);United States;USD;1
+USD_EIACrudeOilStocksChange;20180801;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+BRL_InterestRateDecision;20180801;17:00;Interest Rate Decision;Brazil;BRL;1
+USD_FedMonetaryPolicyStatement;20180801;18:00;Fed Monetary Policy Statement;United States;USD;3
+USD_FedInterestRateDecision;20180801;18:00;Fed Interest Rate Decision;United States;USD;3
+BRL_TradeBalance;20180801;19:00;Trade Balance;Brazil;BRL;1
+USD_TotalVehicleSales;20180801;19:30;Total Vehicle Sales;United States;USD;1
+JPY_MonetaryBase;20180801;23:50;Monetary Base (YoY);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20180801;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20180801;23:50;Foreign Bond Investment;Japan;JPY;1

@@ -1,0 +1,33 @@
+JPY_BankLending;20141110;23:50;Bank Lending (YoY);Japan;JPY;2
+JPY_CurrentAccount;20141110;23:50;Current Account n.s.a.;Japan;JPY;1
+JPY_TradeBalanceBOPBasis;20141110;23:50;Trade Balance - BOP Basis;Japan;JPY;2
+USD_CentralBankSpeech;20141110;22:10;Fed Rosengren speech;United States;USD;1
+NZD_RetailSales;20141110;21:45;Electronic Card Retail Sales  (MoM);New Zealand;NZD;1
+USD_Auction;20141110;18:00;3-Year Note Auction;United States;USD;1
+USD_LaborMarketConditionsIndex;20141110;15:00;Labor Market Conditions Index;United States;USD;2
+CAD_HousingStarts;20141110;13:15;Housing Starts s.a (YoY);Canada;CAD;2
+EUR_PorGlobalTradeBalance;20141110;12:05;Global Trade Balance;Portugal;EUR;1
+EUR_GreIndustrialProduction;20141110;10:00;Industrial Production (YoY);Greece;EUR;1
+EUR_GreConsumerPriceIndex;20141110;10:00;Consumer Price Index (YoY);Greece;EUR;1
+EUR_EurSentixInvestorConfidence;20141110;09:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+NOK_ConsumerPriceIndex;20141110;09:00;Consumer Price Index (YoY);Norway;NOK;1
+NOK_CoreInflation;20141110;09:00;Core Inflation (MoM);Norway;NOK;1
+EUR_ItaIndustrialOutput;20141110;09:00;Industrial Output w.d.a (YoY);Italy;EUR;1
+NOK_ProducerPriceIndex;20141110;09:00;Producer Price Index (YoY);Norway;NOK;1
+EUR_SloForeignTradeBalance;20141110;08:00;Foreign Trade Balance;Slovakia;EUR;1
+CZK_ConsumerPriceIndex;20141110;08:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+EUR_SloIndustrialOutput;20141110;08:00;Industrial Output (YoY);Slovakia;EUR;1
+CZK_UnemploymentRate;20141110;08:00;Unemployment Rate;Czech Republic;CZK;1
+RON_TradeBalance;20141110;08:00;Trade Balance;Romania;RON;1
+DKK_ConsumerPriceIndex;20141110;08:00;Consumer Price Index (YoY);Denmark;DKK;1
+DKK_Inflation;20141110;08:00;Inflation (HICP) (YoY);Denmark;DKK;1
+RON_IndustrialProduction;20141110;08:00;Industrial Production (MoM);Romania;RON;1
+TRY_IndustrialProduction;20141110;08:00;Industrial Production (YoY);Turkey;TRY;1
+DKK_TradeBalance;20141110;08:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20141110;08:00;Current Account;Denmark;DKK;1
+DKK_IndustrialProduction;20141110;08:00;Industrial Production (MoM);Denmark;DKK;1
+EUR_FinIndustrialOutput;20141110;07:00;Industrial Output (MoM);Finland;EUR;1
+CNY_ConsumerPriceIndex;20141110;01:30;Consumer Price Index (YoY);China;CNY;3
+CNY_ProducerPriceIndex;20141110;01:30;Producer Price Index (YoY);China;CNY;2
+AUD_InvestmentLendingforHomes;20141110;00:30;Investment Lending for Homes;Australia;AUD;1
+AUD_HomeLoans;20141110;00:30;Home Loans;Australia;AUD;2

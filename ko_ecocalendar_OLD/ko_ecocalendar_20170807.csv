@@ -1,0 +1,39 @@
+JPY_BankLending;20170807;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_CurrentAccount;20170807;23:50;Current Account n.s.a.;Japan;JPY;1
+JPY_TradeBalanceBOPBasis;20170807;23:50;Trade Balance - BOP Basis;Japan;JPY;1
+GBP_RetailSales;20170807;23:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+USD_ConsumerCreditChange;20170807;19:00;Consumer Credit Change;United States;USD;2
+USD_CentralBankSpeech;20170807;15:45;Fed Bullard speech;United States;USD;1
+USD_Auction;20170807;15:30;6-Month Bill Auction;United States;USD;1
+TRY_TreasuryCashBalance;20170807;14:30;Treasury Cash Balance;Turkey;TRY;1
+CLP_IMACEC;20170807;12:30;IMACEC;Chile;CLP;1
+PLN_CentralBankFXReserves;20170807;12:00;Central Bank FX Reserves;Poland;PLN;1
+CLP_TradeBalance;20170807;11:30;Trade Balance;Chile;CLP;1
+CNY_ForeignExchangeReserves;20170807;09:29;Foreign Exchange Reserves (MoM);China;CNY;1
+SGD_ForeignReserves;20170807;09:00;Foreign Reserves (MoM);Singapore;SGD;1
+HUF_BudgetBalance;20170807;09:00;Budget Balance;Hungary;HUF;1
+EUR_EurSentixInvestorConfidence;20170807;08:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+GBP_HalifaxHousePrices;20170807;07:30;Halifax House Prices (3m/YoY);United Kingdom;GBP;1
+ZAR_UnemploymentRate;20170807;07:30;Unemployment Rate (%);South Africa;ZAR;1
+ZAR_UnemploymentTotal;20170807;07:30;Unemployment Total ;South Africa;ZAR;1
+CHF_ConsumerPriceIndex;20170807;07:15;Consumer Price Index (YoY);Switzerland;CHF;2
+EUR_AusWholesalePrices;20170807;07:00;Wholesale Prices n.s.a (MoM);Austria;EUR;1
+CZK_IndustrialProduction;20170807;07:00;Industrial Production (YoY);Czech Republic;CZK;1
+CHF_ForeignCurrencyReserves;20170807;07:00;Foreign Currency Reserves;Switzerland;CHF;1
+DKK_IndustrialProduction;20170807;07:00;Industrial Production (MoM);Denmark;DKK;1
+CZK_Constructionoutput;20170807;07:00;Construction output (YoY);Czech Republic;CZK;1
+CZK_ForeignTradeBalance;20170807;07:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+EUR_GerIndustrialProduction;20170807;06:00;Industrial Production s.a. (MoM);Germany;EUR;1
+USD_OPECMeeting;20170807;06:00;OPEC Meeting;United States;USD;2
+EUR_FinTradeBalance;20170807;06:00;Trade Balance;Finland;EUR;1
+NOK_ManufacturingOutput;20170807;06:00;Manufacturing Output;Norway;NOK;1
+ZAR_Net$Gold&ForexReserve;20170807;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+ZAR_Gross$Gold&ForexReserve;20170807;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+JPY_CoincidentIndex;20170807;05:00;Coincident Index;Japan;JPY;2
+JPY_LeadingEconomicIndex;20170807;05:00;Leading Economic Index;Japan;JPY;2
+NZD_RBNZInflationExpectations;20170807;03:00;RBNZ Inflation Expectations (QoQ);New Zealand;NZD;2
+AUD_ANZJobAdvertisements;20170807;01:30;ANZ Job Advertisements;Australia;AUD;1
+CAD_AugustCivicHoliday;20170807;00:00;August Civic Holiday;Canada;CAD;0
+ISK_CommerceDay;20170807;00:00;Commerce Day ;Iceland;ISK;0
+EUR_IreAugustHoliday;20170807;00:00;August Holiday ;Ireland;EUR;0
+COP_BattleofBoyacaholiday;20170807;00:00;Battle of Boyaca holiday;Colombia;COP;0

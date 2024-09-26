@@ -1,0 +1,39 @@
+JPY_CentralBankSpeech;20170502;00:20;BoJ Governor Kuroda speech;Japan;JPY;3
+JPY_JibunBankServicesPMI;20170502;00:30;Jibun Bank Services PMI;Japan;JPY;1
+KRW_S&PGlobalManufacturingPMI;20170502;00:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+CNY_CaixinManufacturingPMI;20170502;01:45;Caixin Manufacturing PMI;China;CNY;2
+IDR_Inflation;20170502;04:00;Inflation (MoM);Indonesia;IDR;1
+IDR_CoreInflation;20170502;04:00;Core Inflation (YoY);Indonesia;IDR;1
+AUD_RBAInterestRateDecision;20170502;04:30;RBA Interest Rate Decision;Australia;AUD;3
+AUD_RBARateStatement;20170502;04:30;RBA Rate Statement;Australia;AUD;3
+NOK_CreditIndicator;20170502;06:00;Credit Indicator;Norway;NOK;1
+SEK_PurchasingManagersIndexManufacturing;20170502;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;2
+HUF_PurchasingManagerIndex;20170502;07:00;Purchasing Manager Index;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20170502;07:00;Purchasing Manager Index;Poland;PLN;2
+CHF_SVMEPurchasingManagers'Index;20170502;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_S&PGlobalPMI;20170502;07:30;S&P Global PMI;Czech Republic;CZK;1
+EUR_ItaHCOBManufacturingPMI;20170502;07:45;HCOB Manufacturing PMI;Italy;EUR;1
+EUR_FraHCOBManufacturingPMI;20170502;07:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerHCOBManufacturingPMI;20170502;07:55;HCOB Manufacturing PMI;Germany;EUR;2
+EUR_ItaUnemployment;20170502;08:00;Unemployment;Italy;EUR;1
+EUR_EurHCOBManufacturingPMI;20170502;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+GBP_S&PGlobalCIPSManufacturingPMI;20170502;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+EUR_EurUnemploymentRate;20170502;09:00;Unemployment Rate;European Monetary Union;EUR;2
+CZK_BudgetBalance;20170502;12:00;Budget Balance;Czech Republic;CZK;1
+USD_RedbookIndex;20170502;12:55;Redbook Index (YoY);United States;USD;1
+ZAR_TotalNewVehicleSales;20170502;13:00;Total New Vehicle Sales;South Africa;ZAR;1
+BRL_S&PGlobalManufacturingPMI;20170502;13:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+USD_ISMNYBusinessConditionsIndex;20170502;13:45;ISM-NY Business Conditions Index;United States;USD;1
+DKK_CurrencyReserves;20170502;14:00;Currency Reserves;Denmark;DKK;1
+NZD_GDTPriceIndex;20170502;14:40;GDT Price Index;New Zealand;NZD;2
+USD_Auction;20170502;15:30;4-Week Bill Auction;United States;USD;1
+BRL_TradeBalance;20170502;17:00;Trade Balance;Brazil;BRL;1
+USD_TotalVehicleSales;20170502;19:30;Total Vehicle Sales;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20170502;20:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_EmploymentChange;20170502;22:45;Employment Change;New Zealand;NZD;2
+NZD_UnemploymentRate;20170502;22:45;Unemployment Rate;New Zealand;NZD;2
+NZD_ParticipationRate;20170502;22:45;Participation Rate;New Zealand;NZD;2
+NZD_LabourCostIndex;20170502;22:45;Labour Cost Index (QoQ);New Zealand;NZD;1
+KRW_FXReserves;20170502;23:00;FX Reserves;South Korea;KRW;1
+GBP_BRCShopPriceIndex;20170502;23:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1
+AUD_AiGPerformanceofServicesIndex;20170502;23:30;AiG Performance of Services Index;Australia;AUD;1

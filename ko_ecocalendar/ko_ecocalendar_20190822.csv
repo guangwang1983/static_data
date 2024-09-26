@@ -1,0 +1,38 @@
+USD_JacksonHoleSymposium;20190822;00:00;Jackson Hole Symposium;United States;USD;3
+JPY_JibunBankManufacturingPMI;20190822;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+JPY_AllIndustryActivityIndex;20190822;04:30;All Industry Activity Index (MoM);Japan;JPY;2
+DKK_ConsumerConfidence;20190822;06:00;Consumer Confidence;Denmark;DKK;1
+CHF_IndustrialProduction;20190822;06:30;Industrial Production (YoY);Switzerland;CHF;2
+TRY_ConsumerConfidence;20190822;07:00;Consumer Confidence;Turkey;TRY;1
+EUR_FraHCOBManufacturingPMI;20190822;07:15;HCOB Manufacturing PMI;France;EUR;1
+EUR_FraHCOBServicesPMI;20190822;07:15;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20190822;07:15;HCOB Composite PMI;France;EUR;2
+IDR_BankIndonesiaRate;20190822;07:28;Bank Indonesia Rate;Indonesia;IDR;1
+SEK_UnemploymentRate;20190822;07:30;Unemployment Rate;Sweden;SEK;1
+EUR_GerHCOBManufacturingPMI;20190822;07:30;HCOB Manufacturing PMI;Germany;EUR;3
+EUR_GerHCOBServicesPMI;20190822;07:30;HCOB Services PMI;Germany;EUR;2
+EUR_GerHCOBCompositePMI;20190822;07:30;HCOB Composite PMI;Germany;EUR;3
+PLN_RetailSales;20190822;08:00;Retail Sales (YoY);Poland;PLN;1
+EUR_EurHCOBCompositePMI;20190822;08:00;HCOB Composite PMI;European Monetary Union;EUR;3
+EUR_EurHCOBServicesPMI;20190822;08:00;HCOB Services PMI;European Monetary Union;EUR;2
+EUR_EurHCOBManufacturingPMI;20190822;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+GBP_CBIDistributiveTradesSurvey–Realized;20190822;10:00;CBI Distributive Trades Survey – Realized (MoM);United Kingdom;GBP;1
+EUR_EurECBMonetaryPolicyMeetingAccounts;20190822;11:30;ECB Monetary Policy Meeting Accounts;European Monetary Union;EUR;3
+MXN_1sthalfmonthCoreInflation;20190822;12:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20190822;12:00;1st half-month Inflation;Mexico;MXN;1
+USD_JoblessClaims;20190822;12:30;Initial Jobless Claims;United States;USD;2
+CAD_WholesaleSales;20190822;12:30;Wholesale Sales (MoM);Canada;CAD;1
+BRL_MidmonthInflation;20190822;12:41;Mid-month Inflation;Brazil;BRL;1
+RUB_CentralBankReserves;20190822;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_S&PGlobalCompositePMI;20190822;13:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20190822;13:45;S&P Global Services PMI;United States;USD;2
+USD_S&PGlobalManufacturingPMI;20190822;13:45;S&P Global Manufacturing PMI;United States;USD;2
+EUR_EurConsumerConfidence;20190822;14:00;Consumer Confidence;European Monetary Union;EUR;1
+USD_EIANaturalGasStorageChange;20190822;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_KansasFedManufacturingActivity;20190822;15:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_Auction;20190822;17:00;30-year TIPS Auction;United States;USD;1
+USD_CentralBankSpeech;20190822;19:10;Fed Kaplan speech;United States;USD;2
+NZD_RetailSales;20190822;22:45;Retail Sales ex Autos (QoQ);New Zealand;NZD;1
+JPY_ConsumerPriceIndex;20190822;23:30;National Consumer Price Index (YoY);Japan;JPY;2
+JPY_NationalCPIexFoodEnergy;20190822;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20190822;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2

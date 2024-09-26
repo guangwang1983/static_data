@@ -1,0 +1,23 @@
+AUD_WestpacLeadingIndex;20210526;00:30;Westpac Leading Index (MoM);Australia;AUD;2
+AUD_ConstructionWorkDone;20210526;01:30;Construction Work Done;Australia;AUD;1
+NZD_RBNZRateStatement;20210526;02:00;RBNZ Rate Statement;New Zealand;NZD;3
+NZD_RBNZInterestRateDecision;20210526;02:00;RBNZ Interest Rate Decision;New Zealand;NZD;3
+NZD_MonetaryPolicyStatement;20210526;02:00;Monetary Policy Statement ;New Zealand;NZD;3
+NZD_RBNZPressConference;20210526;03:00;RBNZ Press Conference;New Zealand;NZD;3
+JPY_LeadingEconomicIndex;20210526;05:00;Leading Economic Index;Japan;JPY;2
+JPY_CoincidentIndex;20210526;05:00;Coincident Index;Japan;JPY;1
+DKK_RetailSales;20210526;06:00;Retail Sales (YoY);Denmark;DKK;1
+EUR_FraConsumerConfidence;20210526;06:45;Consumer Confidence;France;EUR;1
+EUR_FraBusinessClimateinManufacturing;20210526;06:45;Business Climate in Manufacturing;France;EUR;1
+SEK_UnemploymentRate;20210526;07:30;Unemployment Rate;Sweden;SEK;1
+CHF_ZEWSurvey–Expectations;20210526;08:00;ZEW Survey – Expectations;Switzerland;CHF;2
+PLN_Unemployment;20210526;08:00;Unemployment (MoM);Poland;PLN;1
+MXN_GrossDomesticProduct;20210526;11:00;Gross Domestic Product (QoQ);Mexico;MXN;1
+USD_MBAMortgageApplications;20210526;11:00;MBA Mortgage Applications;United States;USD;1
+BRL_CurrentAccount;20210526;12:30;Current Account;Brazil;BRL;1
+USD_EIACrudeOilStocksChange;20210526;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_Auction;20210526;17:00;5-Year Note Auction;United States;USD;1
+CAD_CentralBankSpeech;20210526;17:00;BoC Lane speech;Canada;CAD;2
+USD_CentralBankSpeech;20210526;19:00;Fed Quarles speech;United States;USD;2
+JPY_ForeignInvestmentinJapanStocks;20210526;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20210526;23:50;Foreign Bond Investment;Japan;JPY;1

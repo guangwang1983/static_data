@@ -1,0 +1,24 @@
+NZD_Exports;20190723;22:45;Exports;New Zealand;NZD;2
+NZD_TradeBalance;20190723;22:45;Trade Balance (YoY);New Zealand;NZD;2
+NZD_Imports;20190723;22:45;Imports;New Zealand;NZD;2
+USD_APIWeeklyCrudeOilStock;20190723;20:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_Auction;20190723;17:00;2-Year Note Auction;United States;USD;1
+USD_ExistingHomeSales;20190723;14:00;Existing Home Sales (MoM);United States;USD;2
+USD_ExistingHomeSalesChange;20190723;14:00;Existing Home Sales Change (MoM);United States;USD;1
+EUR_EurConsumerConfidence;20190723;14:00;Consumer Confidence;European Monetary Union;EUR;1
+USD_RichmondFedManufacturingIndex;20190723;14:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_HousingPriceIndex;20190723;13:00;Housing Price Index (MoM);United States;USD;2
+USD_RedbookIndex;20190723;12:55;Redbook Index (YoY);United States;USD;1
+EUR_SloCurrentAccount;20190723;12:30;Current Account Balance EUR;Slovakia;EUR;1
+GBP_CentralBankSpeech;20190723;12:15;BoE Haldane speech;United Kingdom;GBP;2
+HUF_MNBInterestRateDecision;20190723;12:00;MNB Interest Rate Decision;Hungary;HUF;1
+BRL_MidmonthInflation;20190723;12:00;Mid-month Inflation;Brazil;BRL;1
+GBP_ToryLeadershipContestResultsAnnouncement;20190723;10:45;Tory Leadership Contest Results Announcement;United Kingdom;GBP;3
+GBP_CBIIndustrialTrendsSurveyOrders;20190723;10:00;CBI Industrial Trends Survey - Orders (MoM);United Kingdom;GBP;1
+GBP_FPCMeetingMinutes;20190723;08:30;FPC Meeting Minutes;United Kingdom;GBP;3
+EUR_EurECBBankLendingSurvey;20190723;08:00;ECB Bank Lending Survey;European Monetary Union;EUR;3
+PLN_Unemployment;20190723;08:00;Unemployment (MoM);Poland;PLN;1
+TRY_ConsumerConfidence;20190723;07:00;Consumer Confidence;Turkey;TRY;1
+DKK_ConsumerConfidence;20190723;06:00;Consumer Confidence;Denmark;DKK;1
+SGD_ConsumerPriceIndex;20190723;05:00;Consumer Price Index (YoY);Singapore;SGD;1
+EUR_FinUnemploymentRate;20190723;05:00;Unemployment Rate;Finland;EUR;1

@@ -1,0 +1,35 @@
+AUD_ConsumerInflationExpectations;20200416;01:00;Consumer Inflation Expectations;Australia;AUD;2
+AUD_PartTimeEmployment;20200416;01:30;Part-Time Employment;Australia;AUD;1
+AUD_FullTimeEmployment;20200416;01:30;Full-Time Employment;Australia;AUD;2
+AUD_EmploymentChange;20200416;01:30;Employment Change s.a.;Australia;AUD;3
+AUD_ParticipationRate;20200416;01:30;Participation Rate;Australia;AUD;1
+AUD_UnemploymentRate;20200416;01:30;Unemployment Rate s.a.;Australia;AUD;3
+CNY_HousePriceIndex;20200416;01:30;House Price Index ;China;CNY;1
+KRW_TradeBalance;20200416;02:00;Trade Balance;South Korea;KRW;1
+NZD_ANZMonthlyInflationGauge;20200416;02:00;ANZ Monthly Inflation Gauge (MoM);New Zealand;NZD;1
+NOK_TradeBalance;20200416;06:00;Trade Balance;Norway;NOK;1
+EUR_GerWholesalePriceIndex;20200416;06:00;Wholesale Price Index (YoY);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20200416;06:00;Harmonized Index of Consumer Prices (MoM);Germany;EUR;1
+EUR_GerConsumerPriceIndex;20200416;06:00;Consumer Price Index (MoM);Germany;EUR;1
+CHF_ProducerandImportPrices;20200416;06:30;Producer and Import Prices (MoM);Switzerland;CHF;1
+GBP_BoECreditConditionsSurvey;20200416;08:30;BoE Credit Conditions Survey;United Kingdom;GBP;2
+EUR_EurIndustrialProduction;20200416;09:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;1
+GBP_Auction;20200416;10:40;30-y Bond Auction;United Kingdom;GBP;1
+PLN_NetInflation;20200416;12:00;Net Inflation;Poland;PLN;1
+USD_BuildingPermits;20200416;12:30;Building Permits (MoM);United States;USD;2
+USD_HousingStarts;20200416;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermitsChange;20200416;12:30;Building Permits Change;United States;USD;1
+USD_HousingStartsChange;20200416;12:30;Housing Starts Change;United States;USD;1
+USD_JoblessClaims;20200416;12:30;Initial Jobless Claims 4-week average;United States;USD;2
+CAD_ManufacturingSales;20200416;12:30;Manufacturing Sales (MoM);Canada;CAD;1
+CAD_ADPEmploymentChange;20200416;12:30;ADP Employment Change;Canada;CAD;1
+CAD_EmploymentInsuranceBeneficiariesChange;20200416;12:30;Employment Insurance Beneficiaries Change (MoM);Canada;CAD;1
+USD_PhiladelphiaFedManufacturingSurvey;20200416;12:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+RUB_CentralBankReserves;20200416;13:00;Central Bank Reserves $;Russia;RUB;1
+GBP_CentralBankSpeech;20200416;13:30;BoE Tenreyro speech;United Kingdom;GBP;2
+USD_EIANaturalGasStorageChange;20200416;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20200416;15:30;4-Week Bill Auction;United States;USD;1
+USD_CentralBankSpeech;20200416;19:00;Fed Williams speech;United States;USD;2
+CAD_CentralBankSpeech;20200416;20:00;BoC Governor Poloz speech;Canada;CAD;3
+RON_OrthodoxGoodFriday;20200416;21:00;Orthodox Good Friday;Romania;RON;0
+KRW_UnemploymentRate;20200416;23:00;Unemployment Rate;South Korea;KRW;1

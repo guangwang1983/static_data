@@ -1,0 +1,46 @@
+NZD_ANZActivityOutlook;20200730;01:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20200730;01:00;ANZ Business Confidence;New Zealand;NZD;1
+AUD_ImportPriceIndex;20200730;01:30;Import Price Index (QoQ);Australia;AUD;1
+AUD_ExportPriceIndex;20200730;01:30;Export Price Index (QoQ);Australia;AUD;1
+AUD_BuildingPermits;20200730;01:30;Building Permits (YoY);Australia;AUD;1
+DKK_IndustrialOutlook;20200730;06:00;Industrial Outlook;Denmark;DKK;1
+DKK_UnemploymentRate;20200730;06:00;Unemployment Rate;Denmark;DKK;1
+EUR_FraProducerPrices;20200730;06:45;Producer Prices (MoM);France;EUR;1
+CHF_KOFLeadingIndicator;20200730;07:00;KOF Leading Indicator;Switzerland;CHF;2
+TRY_EconomicConfidenceIndex;20200730;07:00;Economic Confidence Index;Turkey;TRY;1
+EUR_GerUnemploymentRate;20200730;07:55;Unemployment Rate s.a.;Germany;EUR;2
+EUR_GerUnemploymentChange;20200730;07:55;Unemployment Change;Germany;EUR;2
+EUR_ItaUnemployment;20200730;08:00;Unemployment;Italy;EUR;1
+EUR_GerGrossDomesticProduct;20200730;08:00;Gross Domestic Product w.d.a (YoY);Germany;EUR;2
+EUR_EurEconomicBulletin;20200730;08:00;Economic Bulletin;European Monetary Union;EUR;2
+EUR_EurUnemploymentRate;20200730;09:00;Unemployment Rate;European Monetary Union;EUR;2
+MXN_FiscalBalancepesos;20200730;09:00;Fiscal Balance, pesos;Mexico;MXN;1
+EUR_EurBusinessClimate;20200730;09:00;Business Climate;European Monetary Union;EUR;2
+EUR_EurEconomicSentimentIndicator;20200730;09:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+EUR_EurIndustrialConfidence;20200730;09:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_EurConsumerConfidence;20200730;09:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurServicesSentiment;20200730;09:00;Services Sentiment;European Monetary Union;EUR;1
+ZAR_ProducerPriceIndex;20200730;09:30;Producer Price Index (YoY);South Africa;ZAR;1
+EUR_ItaAuction;20200730;09:30;10-y Bond Auction;Italy;EUR;1
+ILS_UnemploymentRate;20200730;10:00;Unemployment Rate;Israel;ILS;1
+BRL_InflationIndexIGPM;20200730;11:00;Inflation Index/IGP-M;Brazil;BRL;1
+INR_M3MoneySupply;20200730;11:30;M3 Money Supply;India;INR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20200730;12:00;Harmonized Index of Consumer Prices (MoM);Germany;EUR;1
+EUR_GerConsumerPriceIndex;20200730;12:00;Consumer Price Index (MoM);Germany;EUR;1
+USD_JoblessClaims;20200730;12:30;Continuing Jobless Claims;United States;USD;2
+USD_GrossDomesticProduct;20200730;12:30;Gross Domestic Product Annualized;United States;USD;3
+USD_PersonalConsumptionExpendituresPrices;20200730;12:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+USD_CorePersonalConsumptionExpenditures;20200730;12:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+RUB_CentralBankReserves;20200730;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_EIANaturalGasStorageChange;20200730;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20200730;15:30;4-Week Bill Auction;United States;USD;1
+COP_NationalJoblessRate;20200730;16:00;National Jobless Rate;Colombia;COP;1
+IDR_EidAlAdha;20200730;17:00;Eid Al Adha;Indonesia;IDR;0
+TRY_SacrificeFeast;20200730;21:00;Sacrifice Feast;Turkey;TRY;0
+NZD_ANZ–RoyMorganConsumerConfidence;20200730;22:00;ANZ – Roy Morgan Consumer Confidence;New Zealand;NZD;2
+KRW_ServiceSectorOutput;20200730;23:00;Service Sector Output;South Korea;KRW;1
+KRW_IndustrialOutput;20200730;23:00;Industrial Output (YoY);South Korea;KRW;1
+KRW_IndustrialOutputGrowth;20200730;23:00;Industrial Output Growth;South Korea;KRW;1
+JPY_JobsApplicantsRatio;20200730;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+JPY_UnemploymentRate;20200730;23:30;Unemployment Rate;Japan;JPY;2
+JPY_IndustrialProduction;20200730;23:50;Industrial Production (MoM);Japan;JPY;1

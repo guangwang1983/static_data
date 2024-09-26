@@ -1,0 +1,21 @@
+AUD_HomeLoans;20170711;01:30;Home Loans;Australia;AUD;2
+AUD_InvestmentLendingforHomes;20170711;01:30;Investment Lending for Homes;Australia;AUD;2
+AUD_NationalAustraliaBankBusinessConditions;20170711;01:30;National Australia Bank Business Conditions;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConfidence;20170711;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+RON_ConsumerPriceIndex;20170711;06:00;Consumer Price Index;Romania;RON;1
+JPY_MachineToolOrders;20170711;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+HUF_ConsumerPriceIndex;20170711;07:00;Consumer Price Index (YoY);Hungary;HUF;1
+EUR_ItaIndustrialOutput;20170711;08:00;Industrial Output w.d.a (YoY);Italy;EUR;1
+USD_NFIBBusinessOptimismIndex;20170711;10:00;NFIB Business Optimism Index;United States;USD;1
+ZAR_ManufacturingProductionIndex;20170711;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+GBP_CentralBankSpeech;20170711;11:30;BoE Haldane speech;United Kingdom;GBP;1
+CAD_HousingStarts;20170711;12:15;Housing Starts s.a (YoY);Canada;CAD;2
+USD_RedbookIndex;20170711;12:55;Redbook Index (YoY);United States;USD;1
+USD_JOLTSJobOpenings;20170711;14:00;JOLTS Job Openings;United States;USD;1
+EUR_EurCentralBankSpeech;20170711;14:00;ECB Cœuré speech;European Monetary Union;EUR;1
+USD_WholesaleInventories;20170711;14:00;Wholesale Inventories;United States;USD;1
+USD_Auction;20170711;17:00;3-Year Note Auction;United States;USD;1
+USD_CentralBankSpeech;20170711;17:20;Fed Kashkari speech;United States;USD;2
+USD_APIWeeklyCrudeOilStock;20170711;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_UnemploymentRate;20170711;23:00;Unemployment Rate;South Korea;KRW;1
+JPY_ProducerPriceIndex;20170711;23:50;Producer Price Index (YoY);Japan;JPY;1

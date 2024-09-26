@@ -1,0 +1,38 @@
+AUD_BuildingPermits;20230530;01:30;Building Permits (YoY);Australia;AUD;1
+DKK_RetailSales;20230530;06:00;Retail Sales (YoY);Denmark;DKK;1
+SEK_GrossDomesticProduct;20230530;06:00;Gross Domestic Product (QoQ);Sweden;SEK;1
+ZAR_PrivateSectorCredit;20230530;06:00;Private Sector Credit;South Africa;ZAR;1
+ZAR_M3MoneySupply;20230530;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+SEK_TradeBalance;20230530;06:00;Trade Balance (MoM);Sweden;SEK;1
+CHF_KOFLeadingIndicator;20230530;07:00;KOF Leading Indicator;Switzerland;CHF;2
+CHF_GrossDomesticProduct;20230530;07:00;Gross Domestic Product (YoY);Switzerland;CHF;2
+TRY_TradeBalance;20230530;07:00;Trade Balance;Turkey;TRY;1
+SEK_ConsumerConfidence;20230530;07:00;Consumer Confidence (MoM);Sweden;SEK;1
+CZK_GrossDomesticProduct;20230530;07:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+EUR_ItaProducerPriceIndex;20230530;08:00;Producer Price Index (MoM);Italy;EUR;1
+EUR_EurPrivateLoans;20230530;08:00;Private Loans (YoY);European Monetary Union;EUR;1
+EUR_EurM3MoneySupply;20230530;08:00;M3 Money Supply (3m);European Monetary Union;EUR;1
+EUR_EurIndustrialConfidence;20230530;09:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_EurBusinessClimate;20230530;09:00;Business Climate;European Monetary Union;EUR;2
+EUR_EurEconomicSentimentIndicator;20230530;09:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+EUR_EurConsumerConfidence;20230530;09:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurServicesSentiment;20230530;09:00;Services Sentiment;European Monetary Union;EUR;1
+EUR_ItaIndustrialSales;20230530;09:00;Industrial Sales s.a. (MoM);Italy;EUR;1
+EUR_ItaAuction;20230530;09:30;10-y Bond Auction;Italy;EUR;1
+BRL_InflationIndexIGPM;20230530;11:00;Inflation Index/IGP-M;Brazil;BRL;1
+CAD_CurrentAccount;20230530;12:30;Current Account;Canada;CAD;2
+USD_S&PCaseShillerHomePriceIndices;20230530;13:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;2
+CLP_Unemploymentrate;20230530;13:00;Unemployment rate;Chile;CLP;1
+USD_HousingPriceIndex;20230530;13:00;Housing Price Index (MoM);United States;USD;2
+USD_ConsumerConfidence;20230530;14:00;Consumer Confidence;United States;USD;2
+USD_DallasFedManufacturingBusinessIndex;20230530;14:30;Dallas Fed Manufacturing Business Index;United States;USD;1
+USD_Auction;20230530;15:30;3-Month Bill Auction;United States;USD;1
+USD_CentralBankSpeech;20230530;17:00;Fed Barkin speech;United States;USD;2
+MXN_FiscalBalancepesos;20230530;21:00;Fiscal Balance, pesos;Mexico;MXN;1
+KRW_IndustrialOutputGrowth;20230530;23:00;Industrial Output Growth;South Korea;KRW;1
+KRW_IndustrialOutput;20230530;23:00;Industrial Output (YoY);South Korea;KRW;1
+KRW_ServiceSectorOutput;20230530;23:00;Service Sector Output;South Korea;KRW;1
+AUD_CentralBankSpeech;20230530;23:00;RBA Governor Lowe speech;Australia;AUD;3
+JPY_IndustrialProduction;20230530;23:50;Industrial Production (YoY);Japan;JPY;2
+JPY_LargeRetailerSales;20230530;23:50;Large Retailer Sales;Japan;JPY;2
+JPY_RetailTrade;20230530;23:50;Retail Trade s.a (MoM);Japan;JPY;2

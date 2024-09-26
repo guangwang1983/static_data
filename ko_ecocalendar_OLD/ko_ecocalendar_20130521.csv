@@ -1,0 +1,26 @@
+JPY_MerchandiseTradeBalanceTotal;20130521;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Imports;20130521;23:50;Imports (YoY);Japan;JPY;1
+JPY_AdjustedMerchandiseTradeBalance;20130521;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_Exports;20130521;23:50;Exports (YoY);Japan;JPY;1
+CAD_CentralBankSpeech;20130521;16:45;BoC Governor Carney speech;Canada;CAD;2
+USD_Auction;20130521;15:30;4-Week Bill Auction;United States;USD;1
+USD_CentralBankSpeech;20130521;15:30;Fed Bullard speech;United States;USD;1
+USD_RedbookIndex;20130521;12:55;Redbook Index (MoM);United States;USD;1
+PLN_IndustrialOutput;20130521;12:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20130521;12:00;Producer Price Index (YoY);Poland;PLN;1
+RUB_ProducerPriceIndex;20130521;12:00;Producer Price Index (MoM);Russia;RUB;1
+EUR_SpaAuction;20130521;09:00;9-Month Letras Auction;Spain;EUR;1
+GBP_RetailPriceIndex;20130521;08:30;Retail Price Index (MoM);United Kingdom;GBP;1
+GBP_DCLGHousePriceIndex;20130521;08:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+HKD_ConsumerPriceIndex;20130521;08:30;Consumer Price Index;Hong Kong SAR;HKD;1
+GBP_ProducerPriceIndex;20130521;08:30;Producer Price Index - Output (YoY) n.s.a;United Kingdom;GBP;2
+GBP_PPICoreOutput;20130521;08:30;PPI Core Output (MoM) n.s.a;United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20130521;08:30;Core Consumer Price Index (YoY);United Kingdom;GBP;3
+SEK_UnemploymentRate;20130521;07:30;Unemployment Rate;Sweden;SEK;1
+CHF_MonthlyStatisticalBulletin;20130521;07:00;Monthly Statistical Bulletin;Switzerland;CHF;2
+EUR_FinUnemploymentRate;20130521;06:00;Unemployment Rate;Finland;EUR;1
+EUR_GerProducerPriceIndex;20130521;06:00;Producer Price Index (MoM);Germany;EUR;2
+JPY_AllIndustryActivityIndex;20130521;04:30;All Industry Activity Index (MoM);Japan;JPY;2
+NZD_RBNZInflationExpectations;20130521;03:00;RBNZ Inflation Expectations (QoQ);New Zealand;NZD;2
+AUD_RBAMeetingMinutes;20130521;01:30;RBA Meeting Minutes;Australia;AUD;3
+CLP_NavyDay;20130521;00:00;Navy Day ;Chile;CLP;0

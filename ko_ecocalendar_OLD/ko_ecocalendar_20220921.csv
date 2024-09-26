@@ -1,0 +1,28 @@
+AUD_WestpacLeadingIndex;20220921;00:30;Westpac Leading Index (MoM);Australia;AUD;1
+AUD_CentralBankSpeech;20220921;02:00;RBA Bullock speech;Australia;AUD;2
+NZD_CreditCardSpending;20220921;03:00;Credit Card Spending (YoY);New Zealand;NZD;1
+GBP_PublicSectorNetBorrowing;20220921;06:00;Public Sector Net Borrowing;United Kingdom;GBP;1
+SEK_UnemploymentRate;20220921;06:00;Unemployment Rate;Sweden;SEK;1
+EUR_EurNonMonetaryPolicyECBMeeting;20220921;07:00;Non-Monetary Policy ECB Meeting;European Monetary Union;EUR;1
+EUR_EurCentralBankSpeech;20220921;07:00;ECB De Guindos speech;European Monetary Union;EUR;2
+PLN_RetailSales;20220921;08:00;Retail Sales (YoY);Poland;PLN;1
+ZAR_ConsumerPriceIndex;20220921;08:00;Consumer Price Index (YoY);South Africa;ZAR;1
+ILS_IndustrialProduction;20220921;10:00;Industrial Production (MoM);Israel;ILS;1
+USD_MBAMortgageApplications;20220921;11:00;MBA Mortgage Applications;United States;USD;1
+MXN_PrivateSpending;20220921;11:00;Private Spending (YoY);Mexico;MXN;1
+MXN_RetailSales;20220921;11:00;Retail Sales (MoM);Mexico;MXN;1
+INR_TradeDeficit–RBI;20220921;11:30;Trade Deficit – RBI;India;INR;1
+INR_M3MoneySupply;20220921;11:30;M3 Money Supply;India;INR;1
+USD_ExistingHomeSalesChange;20220921;14:00;Existing Home Sales Change (MoM);United States;USD;1
+USD_ExistingHomeSales;20220921;14:00;Existing Home Sales (MoM);United States;USD;1
+USD_EIACrudeOilStocksChange;20220921;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+RUB_ProducerPriceIndex;20220921;16:00;Producer Price Index (YoY);Russia;RUB;1
+USD_FOMCEconomicProjections;20220921;18:00;FOMC Economic Projections;United States;USD;3
+USD_FedMonetaryPolicyStatement;20220921;18:00;Fed Monetary Policy Statement;United States;USD;3
+USD_FedInterestRateDecision;20220921;18:00;Fed Interest Rate Decision;United States;USD;3
+USD_FOMCPressConference;20220921;18:30;FOMC Press Conference;United States;USD;3
+BRL_InterestRateDecision;20220921;21:00;Interest Rate Decision;Brazil;BRL;1
+NZD_WestpacConsumerSurvey;20220921;21:00;Westpac Consumer Survey;New Zealand;NZD;2
+NZD_TradeBalanceNZD;20220921;22:45;Trade Balance NZD (YoY);New Zealand;NZD;2
+NZD_Exports;20220921;22:45;Exports;New Zealand;NZD;2
+NZD_Imports;20220921;22:45;Imports;New Zealand;NZD;2

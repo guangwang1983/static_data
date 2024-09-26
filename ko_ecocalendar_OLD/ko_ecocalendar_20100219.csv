@@ -1,0 +1,13 @@
+USD_ConsumerPriceIndex;20100219;13:30;Consumer Price Index ex Food & Energy (MoM);United States;USD;1
+CAD_RetailSales;20100219;13:30;Retail Sales ex Autos (MoM);Canada;CAD;2
+CAD_LeadingIndicators;20100219;13:30;Leading Indicators (MoM);Canada;CAD;1
+GBP_RetailSales;20100219;09:30;Retail Sales (YoY);United Kingdom;GBP;1
+EUR_EurCurrentAccount;20100219;09:00;Current Account s.a;European Monetary Union;EUR;1
+EUR_EurMarkitManufacturingPMI;20100219;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20100219;09:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_GerMarkitServicesPMI;20100219;08:30;Markit Services PMI;Germany;EUR;2
+EUR_GerMarkitManufacturingPMI;20100219;08:30;Markit Manufacturing PMI;Germany;EUR;2
+EUR_GerProducerPriceIndex;20100219;07:00;Producer Price Index (YoY);Germany;EUR;2
+JPY_BoJMonthlyEconomicSurvey;20100219;05:00;BoJ Monthly Economic Survey;Japan;JPY;2
+JPY_AllIndustryActivityIndex;20100219;04:30;All Industry Activity Index (MoM);Japan;JPY;1
+AUD_RBAForeignExchangeTransaction;20100219;01:30;RBA Foreign Exchange Transaction;Australia;AUD;1

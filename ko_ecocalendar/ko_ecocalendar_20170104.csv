@@ -1,0 +1,31 @@
+RUB_Bankholiday;20170104;00:00;Bank holiday;Russia;RUB;0
+GBP_BRCShopPriceIndex;20170104;00:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1
+JPY_JibunBankManufacturingPMI;20170104;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+EUR_FraConsumerConfidence;20170104;07:45;Consumer Confidence;France;EUR;1
+DKK_IndustrialOutlook;20170104;08:00;Industrial Outlook;Denmark;DKK;1
+HUF_ProducerPriceIndex;20170104;08:00;Producer Price Index (YoY);Hungary;HUF;1
+EUR_ItaHCOBServicesPMI;20170104;08:45;HCOB Services PMI;Italy;EUR;1
+EUR_FraHCOBServicesPMI;20170104;08:50;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20170104;08:50;HCOB Composite PMI;France;EUR;1
+EUR_GerHCOBServicesPMI;20170104;08:55;HCOB Services PMI;Germany;EUR;1
+EUR_GerHCOBCompositePMI;20170104;08:55;HCOB Composite PMI;Germany;EUR;1
+EUR_EurHCOBServicesPMI;20170104;09:00;HCOB Services PMI;European Monetary Union;EUR;2
+EUR_EurHCOBCompositePMI;20170104;09:00;HCOB Composite PMI;European Monetary Union;EUR;2
+GBP_NetLendingtoIndividuals;20170104;09:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_S&PGlobalConstructionPMI;20170104;09:30;S&P Global Construction PMI;United Kingdom;GBP;2
+GBP_ConsumerCredit;20170104;09:30;Consumer Credit;United Kingdom;GBP;2
+GBP_MortgageApprovals;20170104;09:30;Mortgage Approvals;United Kingdom;GBP;2
+GBP_M4MoneySupply;20170104;09:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+BRL_FipeIPCInflation;20170104;09:40;Fipe IPC Inflation;Brazil;BRL;1
+EUR_EurHarmonizedIndexofConsumerPrices;20170104;10:00;Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20170104;10:00;Core Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_ItaConsumerPriceIndex;20170104;10:00;Consumer Price Index (YoY);Italy;EUR;1
+INR_M3MoneySupply;20170104;11:30;M3 Money Supply;India;INR;1
+USD_MBAMortgageApplications;20170104;12:00;MBA Mortgage Applications;United States;USD;1
+USD_RedbookIndex;20170104;13:55;Redbook Index (YoY);United States;USD;1
+USD_ISMNYBusinessConditionsIndex;20170104;14:45;ISM-NY Business Conditions Index;United States;USD;1
+USD_FOMCMinutes;20170104;19:00;FOMC Minutes;United States;USD;3
+USD_TotalVehicleSales;20170104;20:00;Total Vehicle Sales;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20170104;21:30;API Weekly Crude Oil Stock;United States;USD;1
+AUD_AiGPerformanceofServicesIndex;20170104;22:30;AiG Performance of Services Index;Australia;AUD;1
+JPY_MonetaryBase;20170104;23:50;Monetary Base (YoY);Japan;JPY;1

@@ -1,0 +1,30 @@
+RUB_NationalDay;20190612;00:00;National Day ;Russia;RUB;0
+AUD_WestpacConsumerConfidence;20190612;00:30;Westpac Consumer Confidence;Australia;AUD;2
+CNY_ConsumerPriceIndex;20190612;01:30;Consumer Price Index (MoM);China;CNY;2
+CNY_ProducerPriceIndex;20190612;01:30;Producer Price Index (YoY);China;CNY;2
+KRW_MoneySupplyGrowth;20190612;03:00;Money Supply Growth;South Korea;KRW;1
+EUR_FraNonfarmPayrolls;20190612;05:30;Nonfarm Payrolls (QoQ);France;EUR;1
+RON_ConsumerPriceIndex;20190612;07:00;Consumer Price Index;Romania;RON;1
+CNY_M2MoneySupply;20190612;08:00;M2 Money Supply (YoY);China;CNY;1
+CNY_NewLoans;20190612;08:00;New Loans;China;CNY;1
+AUD_CentralBankSpeech;20190612;09:00;RBA Ellis speech;Australia;AUD;2
+EUR_GerAuction;20190612;09:40;10-y Bond Auction;Germany;EUR;2
+ILS_Imports;20190612;10:00;Imports;Israel;ILS;1
+ILS_Exports;20190612;10:00;Exports;Israel;ILS;1
+ILS_TradeBalance;20190612;10:00;Trade Balance;Israel;ILS;1
+TRY_CBRTInterestRateDecision;20190612;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+USD_MBAMortgageApplications;20190612;11:00;MBA Mortgage Applications;United States;USD;1
+ZAR_RetailSales;20190612;11:00;Retail Sales (YoY);South Africa;ZAR;1
+BRL_RetailSales;20190612;12:00;Retail Sales (MoM);Brazil;BRL;1
+INR_ManufacturingOutput;20190612;12:00;Manufacturing Output;India;INR;1
+INR_IndustrialOutput;20190612;12:00;Industrial Output;India;INR;1
+USD_ConsumerPriceIndex;20190612;12:30;Consumer Price Index Core s.a;United States;USD;2
+USD_EIACrudeOilStocksChange;20190612;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+TRY_TreasuryCashBalance;20190612;14:30;Treasury Cash Balance;Turkey;TRY;1
+EUR_EurCentralBankSpeech;20190612;15:00;ECB Cœuré speech;European Monetary Union;EUR;2
+USD_Auction;20190612;17:00;10-Year Note Auction;United States;USD;1
+USD_MonthlyBudgetStatement;20190612;18:00;Monthly Budget Statement;United States;USD;2
+GBP_RICSHousingPriceBalance;20190612;23:01;RICS Housing Price Balance;United Kingdom;GBP;1
+JPY_BSILargeManufacturingConditionsIndex;20190612;23:50;BSI Large Manufacturing Conditions Index (QoQ);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20190612;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20190612;23:50;Foreign Bond Investment;Japan;JPY;1

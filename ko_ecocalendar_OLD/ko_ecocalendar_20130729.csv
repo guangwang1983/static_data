@@ -1,0 +1,28 @@
+JPY_IndustrialProduction;20130729;23:50;Industrial Production (MoM);Japan;JPY;1
+JPY_UnemploymentRate;20130729;23:30;Unemployment Rate;Japan;JPY;1
+JPY_JobsApplicantsRatio;20130729;23:30;Jobs / Applicants Ratio;Japan;JPY;1
+JPY_OverallHouseholdSpending;20130729;23:30;Overall Household Spending (YoY);Japan;JPY;2
+KRW_CurrentAccount;20130729;23:00;Current Account Balance;South Korea;KRW;1
+KRW_IndustrialOutputGrowth;20130729;23:00;Industrial Output Growth;South Korea;KRW;1
+KRW_IndustrialOutput;20130729;23:00;Industrial Output (YoY);South Korea;KRW;1
+KRW_ServiceSectorOutput;20130729;23:00;Service Sector Output;South Korea;KRW;1
+NZD_BuildingPermits;20130729;22:45;Building Permits s.a. (MoM);New Zealand;NZD;1
+USD_Auction;20130729;15:30;6-Month Bill Auction;United States;USD;1
+USD_LoanOfficerSurvey;20130729;15:00;Loan Officer Survey;United States;USD;1
+USD_DallasFedManufacturingBusinessIndex;20130729;14:30;Dallas Fed Manufacturing Business Index;United States;USD;2
+USD_PendingHomeSales;20130729;14:00;Pending Home Sales (YoY);United States;USD;2
+GBP_CBIDistributiveTradesSurveyRealized;20130729;10:00;CBI Distributive Trades Survey - Realized (MoM);United Kingdom;GBP;1
+SEK_RetailSales;20130729;09:30;Retail Sales (MoM);Sweden;SEK;1
+TRY_ConsumerConfidence;20130729;09:30;Consumer Confidence;Turkey;TRY;2
+EUR_ItaWageInflation;20130729;09:00;Wage Inflation (YoY);Italy;EUR;1
+EUR_GreProducerPriceIndex;20130729;09:00;Producer Price Index (YoY);Greece;EUR;1
+GBP_NetLendingtoIndividuals;20130729;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;2
+GBP_ConsumerCredit;20130729;08:30;Consumer Credit;United Kingdom;GBP;2
+GBP_MortgageApprovals;20130729;08:30;Mortgage Approvals;United Kingdom;GBP;2
+GBP_M4MoneySupply;20130729;08:30;M4 Money Supply (MoM);United Kingdom;GBP;1
+EUR_ItaBusinessConfidence;20130729;08:00;Business Confidence;Italy;EUR;1
+EUR_FinIndustrialConfidence;20130729;06:00;Industrial Confidence;Finland;EUR;1
+EUR_FinConsumerConfidence;20130729;06:00;Consumer Confidence;Finland;EUR;1
+ZAR_M3MoneySupply;20130729;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+ZAR_PrivateSectorCredit;20130729;06:00;Private Sector Credit;South Africa;ZAR;1
+JPY_CentralBankSpeech;20130729;00:00;BoJ Governor Kuroda speech;Japan;JPY;2

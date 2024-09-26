@@ -1,0 +1,27 @@
+CNY_HousePriceIndex;20210223;01:30;House Price Index ;China;CNY;1
+GBP_ILOUnemploymentRate;20210223;07:00;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_AverageEarningsIncludingBonus;20210223;07:00;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountChange;20210223;07:00;Claimant Count Change;United Kingdom;GBP;3
+GBP_AverageEarningsExcludingBonus;20210223;07:00;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ClaimantCountRate;20210223;07:00;Claimant Count Rate;United Kingdom;GBP;2
+CHF_ProducerandImportPrices;20210223;07:30;Producer and Import Prices (MoM);Switzerland;CHF;1
+CZK_ProducerPriceIndex;20210223;08:00;Producer Price Index (MoM);Czech Republic;CZK;1
+SEK_UnemploymentRate;20210223;08:30;Unemployment Rate;Sweden;SEK;1
+PLN_Unemployment;20210223;09:00;Unemployment (MoM);Poland;PLN;1
+EUR_ItaIndustrialSales;20210223;09:00;Industrial Sales s.a. (MoM);Italy;EUR;1
+EUR_ItaIndustrialOrders;20210223;09:00;Industrial Orders s.a (MoM);Italy;EUR;1
+ZAR_UnemploymentTotal;20210223;09:30;Unemployment Total ;South Africa;ZAR;1
+ZAR_UnemploymentRate;20210223;09:30;Unemployment Rate (%);South Africa;ZAR;1
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20210223;10:00;Core Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;2
+EUR_EurHarmonizedIndexofConsumerPrices;20210223;10:00;Harmonized Index of Consumer Prices (MoM);European Monetary Union;EUR;2
+HUF_MNBInterestRateDecision;20210223;13:00;MNB Interest Rate Decision;Hungary;HUF;1
+USD_RedbookIndex;20210223;13:55;Redbook Index (YoY);United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20210223;14:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;2
+USD_HousingPriceIndex;20210223;14:00;Housing Price Index (MoM);United States;USD;2
+USD_ConsumerConfidence;20210223;15:00;Consumer Confidence;United States;USD;2
+USD_FedChairPowelltestifies;20210223;15:00;Fed Chair Powell testifies;United States;USD;3
+USD_RichmondFedManufacturingIndex;20210223;15:00;Richmond Fed Manufacturing Index;United States;USD;1
+CAD_CentralBankSpeech;20210223;17:30;BoC Governor Macklem speech;Canada;CAD;3
+USD_Auction;20210223;18:00;2-Year Note Auction;United States;USD;1
+KRW_BOKManufacturingBSI;20210223;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+USD_APIWeeklyCrudeOilStock;20210223;21:30;API Weekly Crude Oil Stock;United States;USD;1

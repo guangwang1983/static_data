@@ -1,0 +1,46 @@
+AUD_CFTCAUDNCNetPositions;20191115;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20191115;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+USD_CFTCUSDNCNetPositions;20191115;20:30;CFTC USD NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20191115;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+GBP_CFTCGBPNCNetPositions;20191115;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20191115;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20191115;20:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_BakerHughesUSOilRigCount;20191115;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+EUR_GerCentralBankSpeech;20191115;17:00;German Buba President Weidmann speech;Germany;EUR;2
+COP_GrossDomesticProduct;20191115;16:00;Gross Domestic Product (YoY);Colombia;COP;1
+USD_BusinessInventories;20191115;15:00;Business Inventories;United States;USD;1
+USD_IndustrialProduction;20191115;14:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20191115;14:15;Capacity Utilization;United States;USD;1
+USD_NYEmpireStateManufacturingIndex;20191115;13:30;NY Empire State Manufacturing Index;United States;USD;1
+USD_RetailSales;20191115;13:30;Retail Sales ex Autos (MoM);United States;USD;2
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20191115;13:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20191115;13:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+USD_ExportPriceIndex;20191115;13:30;Export Price Index (YoY);United States;USD;1
+USD_ImportPriceIndex;20191115;13:30;Import Price Index (MoM);United States;USD;1
+CAD_CentralBankSpeech;20191115;13:30;BoC Lane Speech;Canada;CAD;2
+PLN_NetInflation;20191115;13:00;Net Inflation;Poland;PLN;1
+INR_FXReservesUSD;20191115;13:00;FX Reserves, USD;India;INR;1
+EUR_EurTradeBalance;20191115;10:00;Trade Balance n.s.a.;European Monetary Union;EUR;1
+EUR_EurConsumerPriceIndex;20191115;10:00;Consumer Price Index - Core (YoY);European Monetary Union;EUR;2
+EUR_ItaConsumerPriceIndex;20191115;10:00;Consumer Price Index (YoY);Italy;EUR;1
+EUR_ItaTradeBalanceEU;20191115;09:00;Trade Balance EU;Italy;EUR;1
+EUR_ItaGlobalTradeBalance;20191115;09:00;Global Trade Balance;Italy;EUR;1
+HKD_GrossDomesticProduct;20191115;08:30;Gross Domestic Product (QoQ);Hong Kong SAR;HKD;1
+TRY_BudgetBalance;20191115;08:00;Budget Balance;Turkey;TRY;1
+EUR_EurCentralBankSpeech;20191115;08:00;ECB Mersch speech;European Monetary Union;EUR;2
+EUR_AusHICP;20191115;08:00;HICP (YoY);Austria;EUR;1
+EUR_SloEUNormInflation;20191115;08:00;EU Norm Inflation (YoY);Slovakia;EUR;1
+NOK_TradeBalance;20191115;07:00;Trade Balance;Norway;NOK;1
+TRY_3mthquarterlyjoblessaverage;20191115;07:00;3mth quarterly jobless average;Turkey;TRY;1
+EUR_FinCurrentAccount;20191115;06:00;Current Account;Finland;EUR;1
+EUR_NetRetailSales;20191115;05:30;Retail Sales (YoY);Netherlands, The;EUR;1
+JPY_IndustrialProduction;20191115;04:30;Industrial Production (MoM);Japan;JPY;1
+JPY_CapacityUtilization;20191115;04:30;Capacity Utilization;Japan;JPY;1
+IDR_Exports;20191115;04:00;Exports;Indonesia;IDR;1
+IDR_TradeBalance;20191115;04:00;Trade Balance;Indonesia;IDR;1
+IDR_Imports;20191115;04:00;Imports;Indonesia;IDR;1
+BRL_RepublicDay;20191115;03:00;Republic Day;Brazil;BRL;0
+AUD_CentralBankSpeech;20191115;02:15;RBA Debelle speech;Australia;AUD;2
+KRW_TradeBalance;20191115;02:00;Trade Balance;South Korea;KRW;1
+CNY_HousePriceIndex;20191115;01:30;House Price Index ;China;CNY;1
+GBP_RightmoveHousePriceIndex;20191115;00:01;Rightmove House Price Index (MoM);United Kingdom;GBP;1

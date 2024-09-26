@@ -1,0 +1,21 @@
+COP_ConsumerPriceIndex;20210406;00:00;Consumer Price Index (MoM);Colombia;COP;1
+AUD_ANZJobAdvertisements;20210406;01:30;ANZ Job Advertisements;Australia;AUD;1
+CNY_CaixinServicesPMI;20210406;01:45;Caixin Services PMI;China;CNY;2
+AUD_RBARateStatement;20210406;04:30;RBA Rate Statement;Australia;AUD;3
+AUD_RBAInterestRateDecision;20210406;04:30;RBA Interest Rate Decision;Australia;AUD;3
+EUR_ItaUnemployment;20210406;08:00;Unemployment;Italy;EUR;2
+EUR_EurSentixInvestorConfidence;20210406;08:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+EUR_EurUnemploymentRate;20210406;09:00;Unemployment Rate;European Monetary Union;EUR;2
+DKK_ManufacturingPMI;20210406;09:00;Manufacturing PMI;Denmark;DKK;1
+MXN_ConsumerConfidence;20210406;12:00;Consumer Confidence;Mexico;MXN;1
+USD_RedbookIndex;20210406;12:55;Redbook Index (YoY);United States;USD;1
+USD_IBDTIPPEconomicOptimism;20210406;13:30;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+USD_JOLTSJobOpenings;20210406;14:00;JOLTS Job Openings;United States;USD;1
+NZD_GDTPriceIndex;20210406;15:30;GDT Price Index;New Zealand;NZD;1
+RUB_ConsumerPriceIndex;20210406;16:00;Consumer Price Index (MoM);Russia;RUB;1
+USD_APIWeeklyCrudeOilStock;20210406;20:30;API Weekly Crude Oil Stock;United States;USD;1
+AUD_AiGPerformanceofConstructionIndex;20210406;22:30;AiG Performance of Construction Index;Australia;AUD;2
+KRW_CurrentAccount;20210406;23:00;Current Account Balance;South Korea;KRW;1
+AUD_S&PGlobalServicesPMI;20210406;23:00;S&P Global Services PMI;Australia;AUD;2
+AUD_S&PGlobalCompositePMI;20210406;23:00;S&P Global Composite PMI;Australia;AUD;1
+JPY_JPForeignReserves;20210406;23:50;JP Foreign Reserves;Japan;JPY;1

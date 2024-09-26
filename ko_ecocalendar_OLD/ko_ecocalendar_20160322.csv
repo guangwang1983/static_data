@@ -1,0 +1,43 @@
+USD_APIWeeklyCrudeOilStock;20160322;20:30;API Weekly Crude Oil Stock;United States;USD;1
+CAD_AnnualBudgetRelease;20160322;20:00;Annual Budget Release;Canada;CAD;1
+USD_CentralBankSpeech;20160322;17:30;Fed Evans speech;United States;USD;1
+USD_Auction;20160322;15:30;4-Week Bill Auction;United States;USD;1
+USD_RichmondFedManufacturingIndex;20160322;14:00;Richmond Fed Manufacturing Index;United States;USD;1
+TRY_CapacityUtilization;20160322;13:55;Capacity Utilization;Turkey;TRY;1
+TRY_ManufacturingConfidence;20160322;13:55;Manufacturing Confidence;Turkey;TRY;1
+USD_MarkitManufacturingPMI;20160322;13:45;Markit Manufacturing PMI;United States;USD;2
+HUF_MNBInterestRateDecision;20160322;13:00;MNB Interest Rate Decision;Hungary;HUF;1
+USD_HousingPriceIndex;20160322;13:00;Housing Price Index (MoM);United States;USD;2
+USD_RedbookIndex;20160322;12:55;Redbook Index (MoM);United States;USD;1
+RUB_GrossDomesticProduct;20160322;12:00;Gross Domestic Product Monthly (YoY);Russia;RUB;1
+EUR_GreCurrentAccount;20160322;10:00;Current Account (YoY);Greece;EUR;1
+EUR_GerZEWSurveyEconomicSentiment;20160322;10:00;ZEW Survey - Economic Sentiment;Germany;EUR;2
+EUR_EurZEWSurveyEconomicSentiment;20160322;10:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurveyCurrentSituation;20160322;10:00;ZEW Survey - Current Situation;Germany;EUR;2
+GBP_RetailPriceIndex;20160322;09:30;Retail Price Index (MoM);United Kingdom;GBP;1
+GBP_DCLGHousePriceIndex;20160322;09:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ProducerPriceIndex;20160322;09:30;Producer Price Index - Output (YoY) n.s.a;United Kingdom;GBP;2
+GBP_PPICoreOutput;20160322;09:30;PPI Core Output (YoY) n.s.a ;United Kingdom;GBP;2
+GBP_ConsumerPriceIndex;20160322;09:30;Core Consumer Price Index (YoY);United Kingdom;GBP;3
+GBP_PublicSectorNetBorrowing;20160322;09:30;Public Sector Net Borrowing;United Kingdom;GBP;2
+EUR_GerIFOCurrentAssessment;20160322;09:00;IFO - Current Assessment;Germany;EUR;2
+EUR_GerIFOExpectations;20160322;09:00;IFO - Expectations;Germany;EUR;2
+EUR_GerIFOBusinessClimate;20160322;09:00;IFO - Business Climate;Germany;EUR;2
+EUR_EurMarkitPMIComposite;20160322;09:00;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitManufacturingPMI;20160322;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20160322;09:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_GerMarkitPMIComposite;20160322;08:30;Markit PMI Composite;Germany;EUR;2
+EUR_GerMarkitManufacturingPMI;20160322;08:30;Markit Manufacturing PMI;Germany;EUR;2
+EUR_GerMarkitServicesPMI;20160322;08:30;Markit Services PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20160322;08:00;Markit Manufacturing PMI;France;EUR;1
+EUR_FraMarkitPMIComposite;20160322;08:00;Markit PMI Composite;France;EUR;1
+EUR_FraMarkitServicesPMI;20160322;08:00;Markit Services PMI;France;EUR;1
+CHF_Exports;20160322;07:00;Exports (MoM);Switzerland;CHF;1
+CHF_Imports;20160322;07:00;Imports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20160322;07:00;Trade Balance;Switzerland;CHF;1
+DKK_RetailSales;20160322;07:00;Retail Sales (YoY);Denmark;DKK;1
+EUR_FinUnemploymentRate;20160322;06:00;Unemployment Rate;Finland;EUR;1
+AUD_CentralBankSpeech;20160322;05:15;RBA Governor Stevens speech;Australia;AUD;3
+JPY_AllIndustryActivityIndex;20160322;04:30;All Industry Activity Index (MoM);Japan;JPY;2
+JPY_NikkeiManufacturingPMI;20160322;02:00;Nikkei Manufacturing PMI;Japan;JPY;1
+AUD_HousePriceIndex;20160322;00:30;House Price Index (QoQ);Australia;AUD;2

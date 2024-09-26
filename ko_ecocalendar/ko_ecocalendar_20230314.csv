@@ -1,0 +1,26 @@
+AUD_NationalAustraliaBankBusinessConfidence;20230314;00:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20230314;00:30;National Australia Bank Business Conditions;Australia;AUD;1
+INR_WPIInflation;20230314;06:30;WPI Inflation;India;INR;1
+RON_IndustrialProduction;20230314;07:00;Industrial Production (MoM);Romania;RON;1
+GBP_ClaimantCountChange;20230314;07:00;Claimant Count Change;United Kingdom;GBP;3
+GBP_ClaimantCountRate;20230314;07:00;Claimant Count Rate;United Kingdom;GBP;2
+GBP_AverageEarningsExcludingBonus;20230314;07:00;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20230314;07:00;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_AverageEarningsIncludingBonus;20230314;07:00;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+EUR_EurEcoFinMeeting;20230314;07:00;EcoFin Meeting;European Monetary Union;EUR;2
+HUF_IndustrialOutput;20230314;07:30;Industrial Output (YoY);Hungary;HUF;1
+CHF_ProducerandImportPrices;20230314;07:30;Producer and Import Prices (YoY);Switzerland;CHF;1
+CZK_RetailSales;20230314;08:00;Retail Sales (YoY);Czech Republic;CZK;1
+EUR_ItaIndustrialOutput;20230314;09:00;Industrial Output w.d.a (YoY);Italy;EUR;1
+USD_NFIBBusinessOptimismIndex;20230314;10:00;NFIB Business Optimism Index;United States;USD;1
+GBP_Auction;20230314;10:00;10-y Bond Auction;United Kingdom;GBP;1
+ZAR_ManufacturingProductionIndex;20230314;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+CAD_ManufacturingSales;20230314;12:30;Manufacturing Sales (MoM);Canada;CAD;1
+USD_ConsumerPriceIndex;20230314;12:30;Consumer Price Index Core s.a;United States;USD;2
+USD_RedbookIndex;20230314;12:55;Redbook Index (YoY);United States;USD;1
+USD_APIWeeklyCrudeOilStock;20230314;20:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_CentralBankSpeech;20230314;21:20;Fed Bowman speech;United States;USD;2
+NZD_CurrentAccount;20230314;21:45;Current Account (QoQ);New Zealand;NZD;1
+KRW_UnemploymentRate;20230314;23:00;Unemployment Rate;South Korea;KRW;1
+HUF_NationalDay;20230314;23:00;National Day ;Hungary;HUF;0
+JPY_BoJMonetaryPolicyMeetingMinutes;20230314;23:50;BoJ Monetary Policy Meeting Minutes;Japan;JPY;3

@@ -1,0 +1,26 @@
+AUD_WestpacConsumerConfidence;20240709;00:30;Westpac Consumer Confidence;Australia;AUD;2
+AUD_NationalAustraliaBankBusinessConditions;20240709;01:30;National Australia Bank Business Conditions;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConfidence;20240709;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+IDR_RetailSales;20240709;04:00;Retail Sales (YoY);Indonesia;IDR;1
+DKK_TradeBalance;20240709;06:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20240709;06:00;Current Account;Denmark;DKK;1
+JPY_MachineToolOrders;20240709;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+HUF_ConsumerPriceIndex;20240709;06:30;Core Consumer Price Index (YoY);Hungary;HUF;1
+CZK_UnemploymentRate;20240709;07:00;Unemployment Rate;Czech Republic;CZK;1
+EUR_EurEurogroupMeeting;20240709;07:00;Eurogroup Meeting;Eurozone;EUR;2
+CZK_FXReserves;20240709;08:00;FX Reserves;Czech Republic;CZK;1
+EUR_EurCentralBankSpeech;20240709;09:00;ECB Cipollone speech;Eurozone;EUR;2
+USD_NFIBBusinessOptimismIndex;20240709;10:00;NFIB Business Optimism Index;United States;USD;1
+MXN_HeadlineInflation;20240709;12:00;Headline Inflation;Mexico;MXN;2
+MXN_12MonthInflation;20240709;12:00;12-Month Inflation;Mexico;MXN;1
+MXN_CoreInflation;20240709;12:00;Core Inflation;Mexico;MXN;1
+MXN_ConsumerConfidence;20240709;12:00;Consumer Confidence;Mexico;MXN;1
+USD_RedbookIndex;20240709;12:55;Redbook Index (YoY);United States;USD;1
+USD_FedChairPowelltestifies;20240709;14:00;Fed Chair Powell testifies;United States;USD;3
+USD_RealClearMarketsTIPPEconomicOptimism;20240709;14:00;RealClearMarkets/TIPP Economic Optimism (MoM);United States;USD;1
+USD_Auction;20240709;17:00;3-Year Note Auction;United States;USD;1
+USD_CentralBankSpeech;20240709;17:30;Fed Bowman speech;United States;USD;2
+USD_APIWeeklyCrudeOilStock;20240709;20:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_VisitorArrivals;20240709;22:45;Visitor Arrivals (YoY);New Zealand;NZD;1
+KRW_UnemploymentRate;20240709;23:00;Unemployment Rate;South Korea;KRW;1
+JPY_ProducerPriceIndex;20240709;23:50;Producer Price Index (MoM);Japan;JPY;1

@@ -1,0 +1,48 @@
+JPY_MoneySupplyM2+CD;20151208;23:50;Money Supply M2+CD (YoY);Japan;JPY;1
+JPY_MachineryOrders;20151208;23:50;Machinery Orders (MoM);Japan;JPY;1
+AUD_WestpacConsumerConfidenceIndex;20151208;23:30;Westpac Consumer Confidence Index;Australia;AUD;1
+AUD_WestpacConsumerConfidence;20151208;23:30;Westpac Consumer Confidence;Australia;AUD;2
+USD_APIWeeklyCrudeOilStock;20151208;21:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_Auction;20151208;18:00;3-Year Note Auction;United States;USD;1
+CAD_CentralBankSpeech;20151208;17:50;BoC Governor Poloz speech;Canada;CAD;3
+USD_JOLTSJobOpenings;20151208;15:00;JOLTS Job Openings;United States;USD;1
+GBP_NIESRGDPEstimate;20151208;15:00;NIESR GDP Estimate (3M);United Kingdom;GBP;3
+USD_IBDTIPPEconomicOptimism;20151208;15:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+USD_RedbookIndex;20151208;13:55;Redbook Index (MoM);United States;USD;1
+CAD_BuildingPermits;20151208;13:30;Building Permits (MoM);Canada;CAD;1
+CAD_HousingStarts;20151208;13:15;Housing Starts s.a (YoY);Canada;CAD;2
+USD_NFIBBusinessOptimismIndex;20151208;11:00;NFIB Business Optimism Index;United States;USD;1
+ZAR_ManufacturingProductionIndex;20151208;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+GBP_Auction;20151208;10:30;30-y Bond Auction;United Kingdom;GBP;1
+EUR_EurGrossDomesticProduct;20151208;10:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+GBP_ManufacturingProduction;20151208;09:30;Manufacturing Production (MoM);United Kingdom;GBP;1
+GBP_IndustrialProduction;20151208;09:30;Industrial Production (YoY);United Kingdom;GBP;1
+ISK_GrossDomesticProduct;20151208;09:00;Gross Domestic Product (QoQ);Iceland;ISK;1
+CZK_FXReserves;20151208;09:00;FX Reserves;Czech Republic;CZK;1
+HUF_IndustrialOutput;20151208;08:00;Industrial Output (YoY);Hungary;HUF;1
+CZK_UnemploymentRate;20151208;08:00;Unemployment Rate;Czech Republic;CZK;1
+TRY_IndustrialProduction;20151208;08:00;Industrial Production (YoY);Turkey;TRY;1
+HUF_ConsumerPriceIndex;20151208;08:00;Consumer Price Index (YoY);Hungary;HUF;1
+GBP_HalifaxHousePrices;20151208;08:00;Halifax House Prices (3m/YoY);United Kingdom;GBP;1
+EUR_FraImportsEUR;20151208;07:45;Imports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20151208;07:45;Trade Balance EUR;France;EUR;1
+EUR_FraExportsEUR;20151208;07:45;Exports, EUR;France;EUR;1
+EUR_FraBudget;20151208;07:45;Budget;France;EUR;1
+EUR_FinTradeBalance;20151208;07:00;Trade Balance;Finland;EUR;1
+JPY_EcoWatchersSurvey:Outlook;20151208;05:00;Eco Watchers Survey: Outlook;Japan;JPY;2
+JPY_EcoWatchersSurvey:Current;20151208;05:00;Eco Watchers Survey: Current;Japan;JPY;2
+CNY_Imports;20151208;02:00;Imports (YoY);China;CNY;2
+CNY_TradeBalanceCNY;20151208;02:00;Trade Balance CNY;China;CNY;2
+CNY_Exports;20151208;02:00;Exports (YoY);China;CNY;2
+CNY_TradeBalanceUSD;20151208;02:00;Trade Balance USD;China;CNY;2
+AUD_NationalAustraliaBankBusinessConfidence;20151208;00:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20151208;00:30;National Australia Bank Business Conditions;Australia;AUD;1
+GBP_RetailSales;20151208;00:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+EUR_ItaImmaculateConceptionDay;20151208;00:00;Immaculate Conception Day;Italy;EUR;0
+ARS_ImmaculateConception;20151208;00:00;Immaculate Conception;Argentina;ARS;0
+COP_ImmaculateConception;20151208;00:00;Immaculate Conception;Colombia;COP;0
+EUR_PorImmaculateConceptionDay;20151208;00:00;Immaculate Conception Day;Portugal;EUR;0
+CLP_ImmaculateConception;20151208;00:00;Immaculate Conception;Chile;CLP;0
+PEN_ImmaculateConceptionDay;20151208;00:00;Immaculate Conception Day;Peru;PEN;0
+EUR_AusImmaculateConception;20151208;00:00;Immaculate Conception ;Austria;EUR;0
+EUR_SpaImmaculateConception;20151208;00:00;Immaculate Conception;Spain;EUR;0

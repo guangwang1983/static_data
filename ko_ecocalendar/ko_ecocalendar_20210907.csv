@@ -1,0 +1,36 @@
+BRL_IndependenceDay;20210907;03:00;Independence Day;Brazil;BRL;0
+CNY_TradeBalanceUSD;20210907;03:04;Trade Balance USD;China;CNY;2
+CNY_TradeBalanceCNY;20210907;03:06;Trade Balance CNY;China;CNY;1
+CNY_Exports;20210907;03:06;Exports (YoY) CNY;China;CNY;1
+CNY_Imports;20210907;03:06;Imports (YoY) CNY;China;CNY;1
+AUD_RBAInterestRateDecision;20210907;04:30;RBA Interest Rate Decision;Australia;AUD;3
+AUD_RBARateStatement;20210907;04:30;RBA Rate Statement;Australia;AUD;3
+JPY_LeadingEconomicIndex;20210907;05:00;Leading Economic Index;Japan;JPY;2
+JPY_CoincidentIndex;20210907;05:00;Coincident Index;Japan;JPY;1
+CHF_UnemploymentRate;20210907;05:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+EUR_GerIndustrialProduction;20210907;06:00;Industrial Production s.a. (MoM);Germany;EUR;2
+RON_GrossDomesticProduct;20210907;06:00;Gross Domestic Product;Romania;RON;1
+DKK_IndustrialProduction;20210907;06:00;Industrial Production (MoM);Denmark;DKK;1
+NOK_ManufacturingOutput;20210907;06:00;Manufacturing Output;Norway;NOK;1
+GBP_HalifaxHousePrices;20210907;06:00;Halifax House Prices (YoY/3m);United Kingdom;GBP;1
+ZAR_Gross$Gold&ForexReserve;20210907;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+ZAR_Net$Gold&ForexReserve;20210907;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+HUF_IndustrialOutput;20210907;07:00;Industrial Output (YoY);Hungary;HUF;1
+CZK_RetailSales;20210907;07:00;Retail Sales (YoY);Czech Republic;CZK;1
+CHF_ForeignCurrencyReserves;20210907;07:00;Foreign Currency Reserves;Switzerland;CHF;1
+CNY_ForeignExchangeReserves;20210907;08:00;Foreign Exchange Reserves (MoM);China;CNY;1
+EUR_EurGrossDomesticProduct;20210907;09:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+EUR_GerZEWSurvey–EconomicSentiment;20210907;09:00;ZEW Survey – Economic Sentiment;Germany;EUR;2
+EUR_EurZEWSurvey–EconomicSentiment;20210907;09:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurvey–CurrentSituation;20210907;09:00;ZEW Survey – Current Situation;Germany;EUR;2
+EUR_EurEmploymentChange;20210907;09:00;Employment Change (YoY);European Monetary Union;EUR;1
+ZAR_GrossDomesticProduct;20210907;09:30;Gross Domestic Product (YoY);South Africa;ZAR;1
+CLP_TradeBalance;20210907;11:30;Trade Balance;Chile;CLP;1
+PLN_CentralBankFXReserves;20210907;12:00;Central Bank FX Reserves;Poland;PLN;1
+TRY_TreasuryCashBalance;20210907;14:30;Treasury Cash Balance;Turkey;TRY;1
+NZD_GDTPriceIndex;20210907;14:30;GDT Price Index;New Zealand;NZD;1
+USD_Auction;20210907;17:00;3-Year Note Auction;United States;USD;1
+JPY_BankLending;20210907;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_GrossDomesticProduct;20210907;23:50;Gross Domestic Product Deflator (YoY);Japan;JPY;1
+JPY_TradeBalanceBOPBasis;20210907;23:50;Trade Balance - BOP Basis;Japan;JPY;1
+JPY_CurrentAccount;20210907;23:50;Current Account n.s.a.;Japan;JPY;2

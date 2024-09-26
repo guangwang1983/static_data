@@ -1,0 +1,47 @@
+KRW_TradeBalance;20230201;00:00;Trade Balance;South Korea;KRW;1
+GBP_BRCShopPriceIndex;20230201;00:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1
+KRW_S&PGlobalManufacturingPMI;20230201;00:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+JPY_JibunBankManufacturingPMI;20230201;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+CNY_CaixinManufacturingPMI;20230201;01:45;Caixin Manufacturing PMI;China;CNY;2
+IDR_Inflation;20230201;04:00;Inflation (YoY);Indonesia;IDR;1
+IDR_CoreInflation;20230201;04:00;Core Inflation (YoY);Indonesia;IDR;1
+AUD_RBACommodityIndexSDR;20230201;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+RUB_S&PGlobalManufacturingPMI;20230201;06:00;S&P Global Manufacturing PMI;Russia;RUB;1
+GBP_NationwideHousingPrices;20230201;07:00;Nationwide Housing Prices s.a (MoM);United Kingdom;GBP;1
+HUF_TradeBalance;20230201;07:30;Trade Balance;Hungary;HUF;1
+SEK_PurchasingManagersIndexManufacturing;20230201;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+PLN_PurchasingManagerIndex;20230201;08:00;Purchasing Manager Index;Poland;PLN;2
+HUF_PurchasingManagerIndex;20230201;08:00;Purchasing Manager Index;Hungary;HUF;1
+CZK_S&PGlobalPMI;20230201;08:30;S&P Global PMI;Czech Republic;CZK;1
+CHF_SVMEPurchasingManagers'Index;20230201;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+EUR_EurS&PGlobalManufacturingPMI;20230201;09:00;S&P Global Manufacturing PMI;European Monetary Union;EUR;1
+GBP_S&PGlobalCIPSManufacturingPMI;20230201;09:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+DKK_ManufacturingPMI;20230201;10:00;Manufacturing PMI;Denmark;DKK;1
+EUR_EurUnemploymentRate;20230201;10:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20230201;10:00;Core Harmonized Index of Consumer Prices (MoM);European Monetary Union;EUR;2
+EUR_EurHarmonizedIndexofConsumerPrices;20230201;10:00;Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+CLP_IMACEC;20230201;11:30;IMACEC;Chile;CLP;1
+USD_MBAMortgageApplications;20230201;12:00;MBA Mortgage Applications;United States;USD;1
+ZAR_TotalNewVehicleSales;20230201;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+BRL_S&PGlobalManufacturingPMI;20230201;13:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+CZK_BudgetBalance;20230201;13:00;Budget Balance;Czech Republic;CZK;1
+USD_ADPEmploymentChange;20230201;13:15;ADP Employment Change;United States;USD;3
+CAD_S&PGlobalManufacturingPMI;20230201;14:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20230201;14:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_JOLTSJobOpenings;20230201;15:00;JOLTS Job Openings;United States;USD;1
+USD_ISMManufacturingEmploymentIndex;20230201;15:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ISMManufacturingPricesPaid;20230201;15:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ISMManufacturingPMI;20230201;15:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingNewOrdersIndex;20230201;15:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ConstructionSpending;20230201;15:00;Construction Spending (MoM);United States;USD;1
+USD_EIACrudeOilStocksChange;20230201;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+RUB_IndustrialOutput;20230201;16:00;Industrial Output;Russia;RUB;1
+USD_FedMonetaryPolicyStatement;20230201;19:00;Fed Monetary Policy Statement;United States;USD;3
+USD_FedInterestRateDecision;20230201;19:00;Fed Interest Rate Decision;United States;USD;3
+USD_FOMCPressConference;20230201;19:30;FOMC Press Conference;United States;USD;3
+USD_TotalVehicleSales;20230201;20:30;Total Vehicle Sales;United States;USD;1
+BRL_InterestRateDecision;20230201;21:00;Interest Rate Decision;Brazil;BRL;1
+NZD_BuildingPermits;20230201;21:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+JPY_MonetaryBase;20230201;23:50;Monetary Base (YoY);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20230201;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20230201;23:50;Foreign Bond Investment;Japan;JPY;1

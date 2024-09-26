@@ -1,0 +1,25 @@
+AUD_ConsumerInflationExpectations;20210211;00:00;Consumer Inflation Expectations;Australia;AUD;2
+GBP_RICSHousingPriceBalance;20210211;00:01;RICS Housing Price Balance;United Kingdom;GBP;1
+EUR_GerWholesalePriceIndex;20210211;07:00;Wholesale Price Index (YoY);Germany;EUR;1
+EUR_EurCentralBankSpeech;20210211;08:00;ECB De Guindos speech;European Monetary Union;EUR;2
+EUR_EurEuropeanCommissionreleasesEconomicGrowthForecasts;20210211;09:00;European Commission releases Economic Growth Forecasts;European Monetary Union;EUR;2
+ILS_TradeBalance;20210211;11:00;Trade Balance;Israel;ILS;1
+ILS_Imports;20210211;11:00;Imports;Israel;ILS;1
+ILS_Exports;20210211;11:00;Exports;Israel;ILS;1
+ZAR_ManufacturingProductionIndex;20210211;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+INR_M3MoneySupply;20210211;11:25;M3 Money Supply;India;INR;1
+MXN_IndustrialOutput;20210211;12:00;Industrial Output (MoM);Mexico;MXN;1
+RUB_ForeignTrade;20210211;13:00;Foreign Trade;Russia;RUB;1
+RUB_CentralBankReserves;20210211;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_JoblessClaims;20210211;13:30;Initial Jobless Claims;United States;USD;2
+KRW_KoreanNewYear;20210211;15:00;Korean New Year ;South Korea;KRW;0
+COP_TradeBalance;20210211;15:00;Trade Balance;Colombia;COP;1
+USD_EIANaturalGasStorageChange;20210211;15:30;EIA Natural Gas Storage Change;United States;USD;1
+CNY_ChineseNewYearEve;20210211;16:00;Chinese New Year Eve ;China;CNY;0
+IDR_ChineseNewYear;20210211;17:00;Chinese New Year;Indonesia;IDR;0
+USD_Auction;20210211;18:01;30-Year Bond Auction;United States;USD;1
+MXN_CentralBankInterestRate;20210211;19:00;Central Bank Interest Rate;Mexico;MXN;1
+NZD_BusinessNZPMI;20210211;21:30;Business NZ PMI;New Zealand;NZD;2
+NZD_FoodPriceIndex;20210211;21:45;Food Price Index (MoM);New Zealand;NZD;1
+JPY_ForeignInvestmentinJapanStocks;20210211;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20210211;23:50;Foreign Bond Investment;Japan;JPY;1

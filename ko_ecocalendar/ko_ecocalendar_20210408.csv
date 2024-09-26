@@ -1,0 +1,37 @@
+USD_IMFMeeting;20210408;00:00;IMF Meeting;United States;USD;2
+NZD_ANZActivityOutlook;20210408;01:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20210408;01:00;ANZ Business Confidence;New Zealand;NZD;1
+JPY_ConsumerConfidenceIndex;20210408;05:00;Consumer Confidence Index;Japan;JPY;1
+JPY_EcoWatchersSurvey:Outlook;20210408;06:00;Eco Watchers Survey: Outlook;Japan;JPY;1
+JPY_EcoWatchersSurvey:Current;20210408;06:00;Eco Watchers Survey: Current;Japan;JPY;1
+RON_GrossDomesticProduct;20210408;06:00;Gross Domestic Product;Romania;RON;1
+NOK_ManufacturingOutput;20210408;06:00;Manufacturing Output;Norway;NOK;1
+EUR_GerFactoryOrders;20210408;06:00;Factory Orders n.s.a. (YoY);Germany;EUR;1
+EUR_FraExportsEUR;20210408;06:45;Exports, EUR;France;EUR;1
+EUR_FraImportsEUR;20210408;06:45;Imports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20210408;06:45;Trade Balance EUR;France;EUR;1
+EUR_FraCurrentAccount;20210408;06:45;Current Account;France;EUR;1
+CZK_IndustrialProduction;20210408;07:00;Industrial Production (YoY);Czech Republic;CZK;1
+CHF_ForeignCurrencyReserves;20210408;07:00;Foreign Currency Reserves;Switzerland;CHF;1
+CZK_Constructionoutput;20210408;07:00;Construction output (YoY);Czech Republic;CZK;1
+HUF_TradeBalance;20210408;07:00;Trade Balance;Hungary;HUF;1
+CZK_ForeignTradeBalance;20210408;07:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+HUF_IndustrialOutput;20210408;07:00;Industrial Output (YoY);Hungary;HUF;1
+SEK_IndustrialProductionValue;20210408;07:30;Industrial Production Value (MoM);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20210408;07:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+GBP_S&PGlobalConstructionPMI;20210408;08:30;S&P Global Construction PMI;United Kingdom;GBP;1
+EUR_FraAuction;20210408;08:50;10-y Bond Auction;France;EUR;1
+EUR_EurProducerPriceIndex;20210408;09:00;Producer Price Index (YoY);European Monetary Union;EUR;1
+GBP_Auction;20210408;09:30;10-y Bond Auction;United Kingdom;GBP;1
+MXN_12MonthInflation;20210408;11:00;12-Month Inflation;Mexico;MXN;1
+MXN_CoreInflation;20210408;11:00;Core Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20210408;11:00;Headline Inflation;Mexico;MXN;1
+ZAR_ManufacturingProductionIndex;20210408;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+EUR_EurECBMonetaryPolicyMeetingAccounts;20210408;11:30;ECB Monetary Policy Meeting Accounts;European Monetary Union;EUR;2
+CLP_ConsumerPriceIndex;20210408;12:00;Core Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+USD_JoblessClaims;20210408;12:30;Initial Jobless Claims;United States;USD;2
+RUB_CentralBankReserves;20210408;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_EIANaturalGasStorageChange;20210408;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20210408;15:30;4-Week Bill Auction;United States;USD;1
+USD_CentralBankSpeech;20210408;18:00;Fed Kashkari speech;United States;USD;2
+AUD_AiGPerformanceofServicesIndex;20210408;22:30;AiG Performance of Services Index;Australia;AUD;1

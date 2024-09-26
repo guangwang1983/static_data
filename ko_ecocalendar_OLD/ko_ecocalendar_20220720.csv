@@ -1,0 +1,34 @@
+AUD_WestpacLeadingIndex;20220720;00:30;Westpac Leading Index (MoM);Australia;AUD;1
+CNY_PBoCInterestRateDecision;20220720;01:30;PBoC Interest Rate Decision;China;CNY;3
+AUD_HIANewHomeSales;20220720;04:00;HIA New Home Sales (MoM);Australia;AUD;2
+DKK_ConsumerConfidence;20220720;06:00;Consumer Confidence;Denmark;DKK;1
+GBP_RetailPriceIndex;20220720;06:00;Retail Price Index (YoY);United Kingdom;GBP;2
+GBP_PPICoreOutput;20220720;06:00;PPI Core Output (YoY) n.s.a ;United Kingdom;GBP;2
+GBP_ProducerPriceIndex;20220720;06:00;Producer Price Index - Input (MoM) n.s.a;United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20220720;06:00;Core Consumer Price Index (YoY);United Kingdom;GBP;2
+CNY_FDIForeignDirectInvestment;20220720;07:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+TRY_ConsumerConfidence;20220720;07:00;Consumer Confidence;Turkey;TRY;1
+CZK_ProducerPriceIndex;20220720;07:00;Producer Price Index (MoM);Czech Republic;CZK;1
+PLN_IndustrialOutput;20220720;08:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20220720;08:00;Producer Price Index (YoY);Poland;PLN;1
+PLN_CorporateSectorWages;20220720;08:00;Corporate Sector Wages;Poland;PLN;1
+ZAR_ConsumerPriceIndex;20220720;08:00;Consumer Price Index (YoY);South Africa;ZAR;1
+EUR_EurCurrentAccount;20220720;08:00;Current Account n.s.a;European Monetary Union;EUR;1
+GBP_DCLGHousePriceIndex;20220720;08:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+USD_MBAMortgageApplications;20220720;11:00;MBA Mortgage Applications;United States;USD;1
+CAD_IndustrialProductPrice;20220720;12:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_RawMaterialPriceIndex;20220720;12:30;Raw Material Price Index;Canada;CAD;1
+CAD_ConsumerPriceIndex;20220720;12:30;BoC Consumer Price Index Core (YoY);Canada;CAD;3
+USD_ExistingHomeSales;20220720;14:00;Existing Home Sales (MoM);United States;USD;1
+USD_ExistingHomeSalesChange;20220720;14:00;Existing Home Sales Change (MoM);United States;USD;1
+EUR_EurConsumerConfidence;20220720;14:00;Consumer Confidence;European Monetary Union;EUR;2
+USD_EIACrudeOilStocksChange;20220720;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+RUB_ProducerPriceIndex;20220720;16:00;Producer Price Index (YoY);Russia;RUB;1
+USD_Auction;20220720;17:00;20-Year Bond Auction;United States;USD;1
+NZD_TradeBalanceNZD;20220720;22:45;Trade Balance NZD (MoM);New Zealand;NZD;1
+NZD_Exports;20220720;22:45;Exports;New Zealand;NZD;2
+NZD_Imports;20220720;22:45;Imports;New Zealand;NZD;2
+JPY_AdjustedMerchandiseTradeBalance;20220720;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_Exports;20220720;23:50;Exports (YoY);Japan;JPY;2
+JPY_Imports;20220720;23:50;Imports (YoY);Japan;JPY;2
+JPY_MerchandiseTradeBalanceTotal;20220720;23:50;Merchandise Trade Balance Total;Japan;JPY;2

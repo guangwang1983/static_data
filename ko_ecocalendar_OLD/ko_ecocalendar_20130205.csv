@@ -1,0 +1,39 @@
+USD_BarackObamaPressConference;20130205;18:20;Barack Obama Press Conference;United States;USD;2
+USD_Auction;20130205;16:30;52-Week Bill Auction;United States;USD;1
+USD_ISMNonManufacturingPMI;20130205;15:00;ISM Non-Manufacturing PMI;United States;USD;2
+USD_IBDTIPPEconomicOptimism;20130205;15:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+USD_RedbookIndex;20130205;13:55;Redbook Index (YoY);United States;USD;1
+CLP_IMACEC;20130205;13:30;IMACEC;Chile;CLP;1
+USD_CentralBankSpeech;20130205;13:30;Fed Duke speech;United States;USD;1
+JPY_CentralBankSpeech;20130205;13:00;BoJ Governor Shirakawa speech;Japan;JPY;2
+CHF_CentralBankSpeech;20130205;12:30;SNB Zurbrugg speech;Switzerland;CHF;1
+RUB_ConsumerPriceIndex;20130205;12:00;Consumer Price Index (MoM);Russia;RUB;1
+BRL_InflationIndexIGPM;20130205;10:00;Inflation Index/IGP-M;Brazil;BRL;1
+EUR_ItaConsumerPriceIndex;20130205;10:00;Consumer Price Index (YoY);Italy;EUR;1
+EUR_EurRetailSales;20130205;10:00;Retail Sales (YoY);European Monetary Union;EUR;3
+ZAR_UnemploymentRate;20130205;09:30;Unemployment Rate (%);South Africa;ZAR;1
+ZAR_UnemploymentTotal;20130205;09:30;Unemployment Total ;South Africa;ZAR;1
+GBP_MarkitServicesPMI;20130205;09:28;Markit Services PMI;United Kingdom;GBP;2
+EUR_EurMarkitPMIComposite;20130205;08:58;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20130205;08:58;Markit Services PMI;European Monetary Union;EUR;2
+EUR_GerMarkitServicesPMI;20130205;08:53;Markit Services PMI;Germany;EUR;2
+EUR_FraMarkitServicesPMI;20130205;08:48;Markit Services PMI;France;EUR;1
+EUR_ItaMarkitServicesPMI;20130205;08:43;Markit Services PMI;Italy;EUR;1
+EUR_SpaMarkitServicesPMI;20130205;08:13;Markit Services PMI;Spain;EUR;1
+CZK_RetailSales;20130205;08:00;Retail Sales (YoY);Czech Republic;CZK;1
+CHF_Imports;20130205;07:00;Imports (MoM);Switzerland;CHF;1
+CHF_Exports;20130205;07:00;Exports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20130205;07:00;Trade Balance;Switzerland;CHF;2
+EUR_FinGrossDomesticProduct;20130205;07:00;Gross Domestic Product (YoY);Finland;EUR;1
+RON_Interestratedecision;20130205;07:00;Interest rate decision;Romania;RON;1
+EUR_IrePurchasingManagerIndexServices;20130205;06:58;Purchasing Manager Index Services;Ireland;EUR;1
+RUB_PurchasingManagerIndexServices;20130205;05:00;Purchasing Manager Index Services;Russia;RUB;1
+AUD_RBARateStatement;20130205;03:30;RBA Rate Statement;Australia;AUD;2
+AUD_RBAInterestRateDecision;20130205;03:30;RBA Interest Rate Decision;Australia;AUD;3
+CNY_CaixinServicesPMI;20130205;01:45;Caixin Services PMI;China;CNY;2
+HKD_NikkeiManufacturingPMI;20130205;01:30;Nikkei Manufacturing PMI;Hong Kong SAR;HKD;1
+AUD_HousePriceIndex;20130205;00:30;House Price Index (QoQ);Australia;AUD;2
+AUD_TradeBalance;20130205;00:30;Trade Balance;Australia;AUD;2
+AUD_Imports;20130205;00:30;Imports;Australia;AUD;1
+AUD_Exports;20130205;00:30;Exports;Australia;AUD;1
+GBP_RetailSales;20130205;00:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;1

@@ -1,0 +1,44 @@
+AUD_AiGPerformanceofMfgIndex;20170731;23:30;AiG Performance of Mfg Index;Australia;AUD;2
+KRW_ConsumerPriceIndex;20170731;23:00;Consumer Price Index Growth (MoM);South Korea;KRW;1
+ARS_IndustrialOutput;20170731;19:00;Industrial Output n.s.a (YoY);Argentina;ARS;1
+USD_Auction;20170731;15:30;6-Month Bill Auction;United States;USD;1
+USD_LoanOfficerSurvey;20170731;15:00;Loan Officer Survey;United States;USD;1
+COP_NationalJoblessRate;20170731;15:00;National Jobless Rate;Colombia;COP;1
+USD_DallasFedManufacturingBusinessIndex;20170731;14:30;Dallas Fed Manufacturing Business Index;United States;USD;2
+USD_PendingHomeSales;20170731;14:00;Pending Home Sales (YoY);United States;USD;2
+USD_ChicagoPurchasingManagers'Index;20170731;13:45;Chicago Purchasing Managers' Index;United States;USD;2
+EUR_BelGrossDomesticProduct;20170731;13:00;Gross Domestic Product (QoQ);Belgium;EUR;1
+CLP_Unemploymentrate;20170731;13:00;Unemployment rate;Chile;CLP;1
+CAD_RawMaterialPriceIndex;20170731;12:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20170731;12:30;Industrial Product Price (MoM);Canada;CAD;1
+PLN_ConsumerPriceIndex;20170731;12:00;Consumer Price Index (MoM);Poland;PLN;1
+ZAR_TradeBalance;20170731;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+EUR_ItaProducerPriceIndex;20170731;11:59;Producer Price Index (YoY);Italy;EUR;1
+INR_InfrastructureOutput;20170731;11:32;Infrastructure Output (YoY);India;INR;1
+INR_FederalFiscalDeficitINR;20170731;10:00;Federal Fiscal Deficit, INR;India;INR;1
+EUR_EurUnemploymentRate;20170731;09:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_EurConsumerPriceIndex;20170731;09:00;Consumer Price Index (YoY);European Monetary Union;EUR;3
+EUR_ItaConsumerPriceIndex;20170731;09:00;Consumer Price Index (YoY);Italy;EUR;1
+EUR_GreRetailSales;20170731;09:00;Retail Sales (YoY);Greece;EUR;1
+GBP_NetLendingtoIndividuals;20170731;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20170731;08:30;Consumer Credit;United Kingdom;GBP;2
+GBP_MortgageApprovals;20170731;08:30;Mortgage Approvals;United Kingdom;GBP;2
+GBP_M4MoneySupply;20170731;08:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+EUR_ItaUnemployment;20170731;08:00;Unemployment;Italy;EUR;2
+EUR_SpaCurrentAccount;20170731;08:00;Current Account Balance;Spain;EUR;1
+TRY_TradeBalance;20170731;07:00;Trade Balance;Turkey;TRY;1
+HUF_ProducerPriceIndex;20170731;07:00;Producer Price Index (YoY);Hungary;HUF;1
+EUR_GerRetailSales;20170731;06:00;Retail Sales (YoY);Germany;EUR;1
+ZAR_PrivateSectorCredit;20170731;06:00;Private Sector Credit;South Africa;ZAR;1
+ZAR_M3MoneySupply;20170731;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+JPY_AnnualizedHousingStarts;20170731;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_HousingStarts;20170731;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_ConstructionOrders;20170731;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_VehicleProduction;20170731;04:00;Vehicle Production (YoY);Japan;JPY;1
+AUD_PrivateSectorCredit;20170731;01:30;Private Sector Credit (YoY);Australia;AUD;1
+AUD_HIANewHomeSales;20170731;01:00;HIA New Home Sales (MoM);Australia;AUD;2
+CNY_NBSManufacturingPMI;20170731;01:00;NBS Manufacturing PMI;China;CNY;2
+CNY_NonManufacturingPMI;20170731;01:00;Non-Manufacturing PMI;China;CNY;2
+AUD_TDSecuritiesInflation;20170731;01:00;TD Securities Inflation (MoM);Australia;AUD;2
+NZD_ANZActivityOutlook;20170731;01:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20170731;01:00;ANZ Business Confidence;New Zealand;NZD;1

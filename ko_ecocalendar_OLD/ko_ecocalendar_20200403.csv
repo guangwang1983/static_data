@@ -1,0 +1,52 @@
+KRW_FXReserves;20200403;21:00;FX Reserves;South Korea;KRW;1
+AUD_CFTCAUDNCNetPositions;20200403;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20200403;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+USD_CFTCUSDNCNetPositions;20200403;19:30;CFTC USD NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20200403;19:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20200403;19:30;CFTC Gold NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20200403;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20200403;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_BakerHughesUSOilRigCount;20200403;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+HKD_ChingMingfestival;20200403;16:00;Ching Ming festival;Hong Kong SAR;HKD;0
+CNY_TombSweepingDay;20200403;16:00;Tomb Sweeping Day;China;CNY;0
+CNY_LabourDay;20200403;16:00;Labour Day;China;CNY;0
+CNY_ChingMingFestival;20200403;16:00;Ching Ming Festival;China;CNY;0
+USD_ISMNonManufacturingEmploymentIndex;20200403;14:00;ISM Non-Manufacturing Employment Index;United States;USD;3
+USD_ISMNonManufacturingPricesPaid;20200403;14:00;ISM Non-Manufacturing Prices Paid;United States;USD;2
+USD_ISMNonManufacturingNewOrdersIndex;20200403;14:00;ISM Non-Manufacturing New Orders Index;United States;USD;2
+USD_ISMNonManufacturingPMI;20200403;14:00;ISM Non-Manufacturing PMI;United States;USD;3
+USD_MarkitPMIComposite;20200403;13:45;Markit PMI Composite;United States;USD;2
+USD_MarkitServicesPMI;20200403;13:45;Markit Services PMI;United States;USD;2
+SGD_PurchasingManagersIndex;20200403;13:00;Purchasing Managers Index;Singapore;SGD;1
+USD_AverageHourlyEarnings;20200403;12:30;Average Hourly Earnings (YoY);United States;USD;3
+USD_AverageWeeklyHours;20200403;12:30;Average Weekly Hours;United States;USD;1
+USD_NonfarmPayrolls;20200403;12:30;Nonfarm Payrolls;United States;USD;3
+USD_LaborForceParticipationRate;20200403;12:30;Labor Force Participation Rate;United States;USD;2
+USD_U6UnderemploymentRate;20200403;12:30;U6 Underemployment Rate;United States;USD;2
+USD_UnemploymentRate;20200403;12:30;Unemployment Rate;United States;USD;3
+MXN_ConsumerConfidence;20200403;12:00;Consumer Confidence s.a;Mexico;MXN;1
+INR_FXReservesUSD;20200403;11:30;FX Reserves, USD;India;INR;1
+EUR_EurRetailSales;20200403;09:00;Retail Sales (MoM);European Monetary Union;EUR;1
+GBP_MarkitServicesPMI;20200403;08:30;Markit Services PMI;United Kingdom;GBP;2
+EUR_ItaPublicDeficitGDP;20200403;08:00;Public Deficit/GDP;Italy;EUR;1
+NOK_RegisteredUnemployment;20200403;08:00;Registered Unemployment n.s.a;Norway;NOK;1
+EUR_EurMarkitServicesPMI;20200403;08:00;Markit Services PMI;European Monetary Union;EUR;1
+EUR_EurMarkitPMIComposite;20200403;08:00;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_GerMarkitServicesPMI;20200403;07:55;Markit Services PMI;Germany;EUR;1
+EUR_GerMarkitPMIComposite;20200403;07:55;Markit PMI Composite;Germany;EUR;2
+EUR_FraMarkitPMIComposite;20200403;07:50;Markit PMI Composite;France;EUR;1
+EUR_FraMarkitServicesPMI;20200403;07:50;Markit Services PMI;France;EUR;1
+EUR_ItaMarkitServicesPMI;20200403;07:45;Markit Services PMI;Italy;EUR;1
+EUR_SpaMarkitServicesPMI;20200403;07:15;Markit Services PMI;Spain;EUR;1
+TRY_ProducerPriceIndex;20200403;07:00;Producer Price Index (YoY);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20200403;07:00;Consumer Price Index (YoY);Turkey;TRY;1
+EUR_SpaIndustrialOutputCalAdjusted;20200403;07:00;Industrial Output Cal Adjusted (YoY);Spain;EUR;1
+HUF_RetailSales;20200403;07:00;Retail Sales (YoY);Hungary;HUF;1
+EUR_FraBudget;20200403;06:45;Budget;France;EUR;1
+RUB_PurchasingManagerIndexServices;20200403;06:00;Purchasing Manager Index Services;Russia;RUB;1
+SGD_RetailSales;20200403;05:00;Retail Sales (MoM);Singapore;SGD;1
+CNY_CaixinServicesPMI;20200403;01:45;Caixin Services PMI;China;CNY;2
+HKD_NikkeiManufacturingPMI;20200403;00:30;Nikkei Manufacturing PMI;Hong Kong SAR;HKD;1
+JPY_JibunBankServicesPMI;20200403;00:30;Jibun Bank Services PMI;Japan;JPY;1
+AUD_RetailSales;20200403;00:30;Retail Sales s.a. (MoM);Australia;AUD;2
+EUR_IrePurchasingManagerIndexServices;20200403;00:01;Purchasing Manager Index Services;Ireland;EUR;1

@@ -1,0 +1,20 @@
+RUB_Bankholiday;20160105;00:00;Bank holiday;Russia;RUB;0
+COP_ConsumerPriceIndex;20160105;01:00;Consumer Price Index (YoY);Colombia;COP;1
+HUF_UnemploymentRate;20160105;08:00;Unemployment Rate (3M);Hungary;HUF;1
+EUR_GerUnemploymentChange;20160105;08:55;Unemployment Change;Germany;EUR;2
+EUR_GerUnemploymentRate;20160105;08:55;Unemployment Rate s.a.;Germany;EUR;2
+GBP_S&PGlobalConstructionPMI;20160105;09:30;S&P Global Construction PMI;United Kingdom;GBP;2
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20160105;10:00;Core Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_EurHarmonizedIndexofConsumerPrices;20160105;10:00;Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_ItaConsumerPriceIndex;20160105;10:00;Consumer Price Index (YoY);Italy;EUR;1
+GBP_Auction;20160105;10:00;10-y Bond Auction;United Kingdom;GBP;1
+NZD_GDTPriceIndex;20160105;12:00;GDT Price Index;New Zealand;NZD;1
+CAD_IndustrialProductPrice;20160105;13:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_RawMaterialPriceIndex;20160105;13:30;Raw Material Price Index;Canada;CAD;1
+USD_RedbookIndex;20160105;13:55;Redbook Index (YoY);United States;USD;1
+USD_ISMNYBusinessConditionsIndex;20160105;14:45;ISM-NY Business Conditions Index;United States;USD;1
+USD_Auction;20160105;16:30;52-Week Bill Auction;United States;USD;1
+USD_TotalVehicleSales;20160105;20:01;Total Vehicle Sales;United States;USD;1
+KRW_FXReserves;20160105;21:00;FX Reserves;South Korea;KRW;1
+USD_APIWeeklyCrudeOilStock;20160105;21:30;API Weekly Crude Oil Stock;United States;USD;1
+AUD_AiGPerformanceofServicesIndex;20160105;22:30;AiG Performance of Services Index;Australia;AUD;1

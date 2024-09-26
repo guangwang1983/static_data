@@ -1,0 +1,28 @@
+AUD_WestpacLeadingIndex;20240619;01:00;Westpac Leading Index (MoM);Australia;AUD;1
+IDR_Imports;20240619;04:00;Imports;Indonesia;IDR;1
+IDR_Exports;20240619;04:00;Exports;Indonesia;IDR;1
+IDR_TradeBalance;20240619;04:00;Trade Balance;Indonesia;IDR;1
+USD_Juneteenth;20240619;05:00;Juneteenth;United States;USD;0
+GBP_RetailPriceIndex;20240619;06:00;Retail Price Index (YoY);United Kingdom;GBP;2
+GBP_PPICoreOutput;20240619;06:00;PPI Core Output (YoY) n.s.a ;United Kingdom;GBP;2
+GBP_ProducerPriceIndex;20240619;06:00;Producer Price Index - Input (MoM) n.s.a;United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20240619;06:00;Consumer Price Index (MoM);United Kingdom;GBP;3
+SEK_UnemploymentRate;20240619;06:00;Unemployment Rate;Sweden;SEK;1
+EUR_EurNonMonetaryPolicyECBMeeting;20240619;07:00;Non-Monetary Policy ECB Meeting;Eurozone;EUR;2
+ZAR_ConsumerPriceIndex;20240619;08:00;Consumer Price Index (MoM);South Africa;ZAR;1
+EUR_EurCurrentAccount;20240619;08:00;Current Account s.a;Eurozone;EUR;1
+GBP_DCLGHousePriceIndex;20240619;08:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+CNY_FDIForeignDirectInvestment;20240619;09:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;1
+EUR_EurConstructionOutput;20240619;09:00;Construction Output w.d.a (YoY);Eurozone;EUR;1
+EUR_GerAuction;20240619;09:30;30-y Bond Auction;Germany;EUR;1
+EUR_GerGermanBubaMonthlyReport;20240619;10:00;German Buba Monthly Report;Germany;EUR;2
+USD_MBAMortgageApplications;20240619;11:00;MBA Mortgage Applications;United States;USD;1
+ZAR_RetailSales;20240619;11:00;Retail Sales (YoY);South Africa;ZAR;1
+USD_NAHBHousingMarketIndex;20240619;14:00;NAHB Housing Market Index;United States;USD;1
+RUB_ProducerPriceIndex;20240619;16:00;Producer Price Index (YoY);Russia;RUB;1
+CAD_BoCSummaryofDeliberations;20240619;17:30;BoC Summary of Deliberations;Canada;CAD;2
+BRL_InterestRateDecision;20240619;21:00;Interest Rate Decision;Brazil;BRL;1
+NZD_WestpacConsumerSurvey;20240619;21:00;Westpac Consumer Survey;New Zealand;NZD;2
+NZD_GrossDomesticProduct;20240619;22:45;Gross Domestic Product (YoY);New Zealand;NZD;3
+JPY_ForeignInvestmentinJapanStocks;20240619;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20240619;23:50;Foreign Bond Investment;Japan;JPY;1

@@ -1,0 +1,38 @@
+AUD_CFTCAUDNCNetPositions;20190621;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20190621;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+JPY_CFTCJPYNCNetPositions;20190621;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCOilNCNetPositions;20190621;19:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20190621;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20190621;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCUSDNCNetPositions;20190621;19:30;CFTC USD NC Net Positions;United States;USD;1
+USD_BakerHughesUSOilRigCount;20190621;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_ExistingHomeSales;20190621;14:00;Existing Home Sales (MoM);United States;USD;2
+USD_ExistingHomeSalesChange;20190621;14:00;Existing Home Sales Change (MoM);United States;USD;1
+USD_MarkitManufacturingPMI;20190621;13:45;Markit Manufacturing PMI;United States;USD;2
+USD_MarkitServicesPMI;20190621;13:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20190621;13:45;Markit PMI Composite;United States;USD;2
+MXN_PrivateSpending;20190621;13:00;Private Spending (YoY);Mexico;MXN;1
+CAD_RetailSales;20190621;12:30;Retail Sales ex Autos (MoM);Canada;CAD;2
+GBP_BoEQuarterlyBulletin;20190621;12:00;BoE Quarterly Bulletin;United Kingdom;GBP;1
+INR_BankLoanGrowth;20190621;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20190621;11:30;FX Reserves, USD;India;INR;1
+USD_CentralBankSpeech;20190621;10:30;Fed Clarida speech;United States;USD;2
+HKD_ConsumerPriceIndex;20190621;08:30;Consumer Price Index;Hong Kong SAR;HKD;1
+GBP_PublicSectorNetBorrowing;20190621;08:30;Public Sector Net Borrowing;United Kingdom;GBP;2
+PLN_IndustrialOutput;20190621;08:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20190621;08:00;Producer Price Index (YoY);Poland;PLN;1
+CZK_ForeignDebt;20190621;08:00;Foreign Debt;Czech Republic;CZK;1
+EUR_EurMarkitServicesPMI;20190621;08:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_EurMarkitManufacturingPMI;20190621;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurMarkitPMIComposite;20190621;08:00;Markit PMI Composite;European Monetary Union;EUR;3
+EUR_GerMarkitPMIComposite;20190621;07:30;Markit PMI Composite;Germany;EUR;2
+EUR_GerMarkitManufacturingPMI;20190621;07:30;Markit Manufacturing PMI;Germany;EUR;3
+EUR_GerMarkitServicesPMI;20190621;07:30;Markit Services PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20190621;07:15;Markit Manufacturing PMI;France;EUR;1
+EUR_FraMarkitPMIComposite;20190621;07:15;Markit PMI Composite;France;EUR;1
+EUR_FraMarkitServicesPMI;20190621;07:15;Markit Services PMI;France;EUR;1
+HUF_CurrentAccount;20190621;06:30;Current Account Balance (QoQ);Hungary;HUF;1
+DKK_UnemploymentRate;20190621;06:00;Unemployment Rate;Denmark;DKK;1
+JPY_NikkeiManufacturingPMI;20190621;00:30;Nikkei Manufacturing PMI;Japan;JPY;1
+SEK_Midsummer´sEve;20190621;00:00;Midsummer´s Eve;Sweden;SEK;0
+EUR_FinMidsummer’sEve;20190621;00:00;Midsummer’s Eve;Finland;EUR;0

@@ -1,0 +1,38 @@
+AUD_CompanyGrossOperatingProfits;20211129;00:30;Company Gross Operating Profits (QoQ);Australia;AUD;1
+TRY_TradeBalance;20211129;07:00;Trade Balance;Turkey;TRY;1
+TRY_EconomicConfidenceIndex;20211129;07:00;Economic Confidence Index;Turkey;TRY;1
+DKK_IndustrialOutlook;20211129;07:00;Industrial Outlook;Denmark;DKK;1
+EUR_EurCentralBankSpeech;20211129;08:00;ECB President Lagarde speech;European Monetary Union;EUR;3
+JPY_CentralBankSpeech;20211129;08:30;BoJ Governor Kuroda speech;Japan;JPY;3
+SEK_GrossDomesticProduct;20211129;08:30;Gross Domestic Product (QoQ);Sweden;SEK;1
+SEK_TradeBalance;20211129;08:30;Trade Balance (MoM);Sweden;SEK;1
+GBP_NetLendingtoIndividuals;20211129;09:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20211129;09:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20211129;09:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_M4MoneySupply;20211129;09:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+EUR_EurServicesSentiment;20211129;10:00;Services Sentiment;European Monetary Union;EUR;1
+EUR_EurIndustrialConfidence;20211129;10:00;Industrial Confidence;European Monetary Union;EUR;2
+EUR_EurEconomicSentimentIndicator;20211129;10:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+EUR_EurBusinessClimate;20211129;10:00;Business Climate;European Monetary Union;EUR;2
+EUR_EurConsumerConfidence;20211129;10:00;Consumer Confidence;European Monetary Union;EUR;2
+MXN_JoblessRate;20211129;12:00;Jobless Rate;Mexico;MXN;1
+CAD_IndustrialProductPrice;20211129;13:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_RawMaterialPriceIndex;20211129;13:30;Raw Material Price Index;Canada;CAD;1
+CAD_CurrentAccount;20211129;13:30;Current Account;Canada;CAD;2
+USD_PendingHomeSales;20211129;15:00;Pending Home Sales (YoY);United States;USD;1
+USD_DallasFedManufacturingBusinessIndex;20211129;15:30;Dallas Fed Manufacturing Business Index;United States;USD;1
+USD_Auction;20211129;16:30;6-Month Bill Auction;United States;USD;1
+CAD_CentralBankSpeech;20211129;19:00;BoC Governor Macklem speech;Canada;CAD;3
+USD_CFTCGoldNCNetPositions;20211129;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20211129;20:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20211129;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20211129;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20211129;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20211129;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20211129;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+RON_StAndrewDay;20211129;22:00;St. Andrew Day;Romania;RON;0
+USD_CentralBankSpeech;20211129;22:05;Fed Bowman speech;United States;USD;2
+AUD_CentralBankSpeech;20211129;22:05;RBA Debelle speech;Australia;AUD;2
+JPY_UnemploymentRate;20211129;23:30;Unemployment Rate;Japan;JPY;2
+JPY_JobsApplicantsRatio;20211129;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+JPY_IndustrialProduction;20211129;23:50;Industrial Production (YoY);Japan;JPY;2

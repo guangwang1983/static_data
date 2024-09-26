@@ -1,0 +1,39 @@
+MXN_ConsumerConfidence;20120106;14:00;Consumer Confidence s.a;Mexico;MXN;1
+USD_AverageHourlyEarnings;20120106;13:30;Average Hourly Earnings (MoM);United States;USD;2
+USD_NonfarmPayrolls;20120106;13:30;Nonfarm Payrolls;United States;USD;3
+USD_UnemploymentRate;20120106;13:30;Unemployment Rate;United States;USD;3
+USD_AverageWeeklyHours;20120106;13:30;Average Weekly Hours;United States;USD;1
+CAD_NetChangeinEmployment;20120106;12:00;Net Change in Employment;Canada;CAD;3
+CAD_UnemploymentRate;20120106;12:00;Unemployment Rate;Canada;CAD;3
+INR_FXReservesUSD;20120106;11:30;FX Reserves, USD;India;INR;1
+BRL_IPCAInflation;20120106;11:00;IPCA Inflation;Brazil;BRL;1
+CLP_ConsumerPriceIndex;20120106;11:00;Core Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+EUR_GerFactoryOrders;20120106;11:00;Factory Orders s.a. (MoM);Germany;EUR;2
+EUR_PorBusinessConfidence;20120106;10:00;Business Confidence;Portugal;EUR;1
+EUR_PorConsumerConfidence;20120106;10:00;Consumer Confidence;Portugal;EUR;1
+EUR_EurUnemploymentRate;20120106;10:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_EurConsumerConfidence;20120106;10:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurEconomicSentimentIndicator;20120106;10:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+EUR_EurIndustrialConfidence;20120106;10:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_EurRetailSales;20120106;10:00;Retail Sales (MoM);European Monetary Union;EUR;2
+ISK_TradeBalance;20120106;09:00;Trade Balance;Iceland;ISK;1
+NOK_RetailSales;20120106;09:00;Retail Sales ;Norway;NOK;1
+CZK_FXReserves;20120106;09:00;FX Reserves;Czech Republic;CZK;1
+CHF_ConsumerPriceIndex;20120106;08:15;Consumer Price Index (YoY);Switzerland;CHF;2
+HUF_IndustrialOutput;20120106;08:00;Industrial Output (YoY);Hungary;HUF;1
+DKK_IndustrialOutlook;20120106;08:00;Industrial Outlook;Denmark;DKK;1
+CZK_IndustrialProduction;20120106;08:00;Industrial Production (YoY);Czech Republic;CZK;1
+HUF_ProducerPriceIndex;20120106;08:00;Producer Price Index (YoY);Hungary;HUF;1
+GBP_HalifaxHousePrices;20120106;08:00;Halifax House Prices (3m/YoY);United Kingdom;GBP;1
+CZK_Constructionoutput;20120106;08:00;Construction output (YoY);Czech Republic;CZK;1
+CZK_ForeignTradeBalance;20120106;08:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+CHF_ForeignCurrencyReserves;20120106;07:00;Foreign Currency Reserves;Switzerland;CHF;1
+COP_ConsumerPriceIndex;20120106;01:00;Consumer Price Index (YoY);Colombia;COP;1
+RUB_Bankholiday;20120106;00:00;Bank holiday;Russia;RUB;0
+EUR_GreEpiphany;20120106;00:00;Epiphany;Greece;EUR;0
+ARS_Epiphany;20120106;00:00;Epiphany;Argentina;ARS;0
+EUR_ItaEpiphany;20120106;00:00;Epiphany;Italy;EUR;0
+EUR_FinEpiphany;20120106;00:00;Epiphany;Finland;EUR;0
+EUR_AusEpiphany;20120106;00:00;Epiphany;Austria;EUR;0
+SEK_Epiphany;20120106;00:00;Epiphany;Sweden;SEK;0
+PLN_Epiphany;20120106;00:00;Epiphany;Poland;PLN;0

@@ -1,0 +1,29 @@
+GBP_FPCStatement;20171128;07:00;FPC Statement;United Kingdom;GBP;1
+GBP_BankStressTestResults;20171128;07:00;Bank Stress Test Results;United Kingdom;GBP;3
+EUR_GerImportPriceIndex;20171128;07:00;Import Price Index (MoM);Germany;EUR;1
+TRY_EconomicConfidenceIndex;20171128;07:00;Economic Confidence Index;Turkey;TRY;1
+GBP_FinancialStabilityReport;20171128;07:00;Financial Stability Report;United Kingdom;GBP;2
+GBP_CentralBankSpeech;20171128;07:30;BoE Governor Carney speech;United Kingdom;GBP;3
+EUR_FraConsumerConfidence;20171128;07:45;Consumer Confidence;France;EUR;1
+SEK_RetailSales;20171128;08:30;Retail Sales (YoY);Sweden;SEK;1
+SEK_TradeBalance;20171128;08:30;Trade Balance (MoM);Sweden;SEK;1
+EUR_EurM3MoneySupply;20171128;09:00;M3 Money Supply (YoY);European Monetary Union;EUR;1
+EUR_EurPrivateLoans;20171128;09:00;Private Loans (YoY);European Monetary Union;EUR;1
+EUR_GerGfkConsumerConfidenceSurvey;20171128;12:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+CAD_IndustrialProductPrice;20171128;13:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_RawMaterialPriceIndex;20171128;13:30;Raw Material Price Index;Canada;CAD;1
+USD_WholesaleInventories;20171128;13:30;Wholesale Inventories;United States;USD;1
+USD_GoodsTradeBalance;20171128;13:30;Goods Trade Balance;United States;USD;1
+USD_RedbookIndex;20171128;13:55;Redbook Index (YoY);United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20171128;14:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;2
+MXN_JoblessRate;20171128;14:00;Jobless Rate;Mexico;MXN;1
+USD_HousingPriceIndex;20171128;14:00;Housing Price Index (MoM);United States;USD;2
+USD_RichmondFedManufacturingIndex;20171128;15:00;Richmond Fed Manufacturing Index;United States;USD;1
+CAD_FinancialSystemReview;20171128;15:30;Financial System Review;Canada;CAD;1
+CAD_CentralBankSpeech;20171128;16:30;BoC Governor Poloz speech;Canada;CAD;3
+USD_Auction;20171128;18:00;7-Year Note Auction;United States;USD;1
+NZD_RBNZFinancialStabilityReport;20171128;20:00;RBNZ Financial Stability Report;New Zealand;NZD;2
+USD_CentralBankSpeech;20171128;20:45;Treasury Sec Mnuchin speech;United States;USD;3
+USD_APIWeeklyCrudeOilStock;20171128;21:30;API Weekly Crude Oil Stock;United States;USD;1
+JPY_LargeRetailerSales;20171128;23:50;Large Retailer Sales;Japan;JPY;2
+JPY_RetailTrade;20171128;23:50;Retail Trade s.a (MoM);Japan;JPY;2

@@ -1,0 +1,23 @@
+CHF_TradeBalance;20161122;07:00;Trade Balance;Switzerland;CHF;1
+CHF_Exports;20161122;07:00;Exports (MoM);Switzerland;CHF;1
+CHF_Imports;20161122;07:00;Imports (MoM);Switzerland;CHF;1
+AUD_CentralBankSpeech;20161122;07:45;RBA Kent speech;Australia;AUD;2
+HUF_GrossWages;20161122;08:00;Gross Wages (YoY);Hungary;HUF;1
+TRY_ConsumerConfidence;20161122;08:00;Consumer Confidence;Turkey;TRY;1
+DKK_ConsumerConfidence;20161122;08:00;Consumer Confidence;Denmark;DKK;1
+DKK_RetailSales;20161122;08:00;Retail Sales (YoY);Denmark;DKK;1
+ZAR_UnemploymentTotal;20161122;08:30;Unemployment Total ;South Africa;ZAR;1
+ZAR_UnemploymentRate;20161122;08:30;Unemployment Rate (%);South Africa;ZAR;1
+GBP_PublicSectorNetBorrowing;20161122;09:30;Public Sector Net Borrowing;United Kingdom;GBP;2
+GBP_Auction;20161122;10:30;10-y Bond Auction;United Kingdom;GBP;1
+GBP_CBIIndustrialTrendsSurvey–Orders;20161122;11:00;CBI Industrial Trends Survey – Orders (MoM);United Kingdom;GBP;1
+BRL_CurrentAccount;20161122;12:30;Current Account;Brazil;BRL;1
+HUF_MNBInterestRateDecision;20161122;13:00;MNB Interest Rate Decision;Hungary;HUF;0
+CAD_RetailSales;20161122;13:30;Retail Sales ex Autos (MoM);Canada;CAD;1
+USD_RedbookIndex;20161122;13:55;Redbook Index (YoY);United States;USD;1
+USD_ExistingHomeSales;20161122;15:00;Existing Home Sales (MoM);United States;USD;1
+USD_ExistingHomeSalesChange;20161122;15:00;Existing Home Sales Change (MoM);United States;USD;1
+EUR_EurConsumerConfidence;20161122;15:00;Consumer Confidence;European Monetary Union;EUR;1
+USD_RichmondFedManufacturingIndex;20161122;15:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_Auction;20161122;18:00;5-Year Note Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20161122;21:30;API Weekly Crude Oil Stock;United States;USD;1

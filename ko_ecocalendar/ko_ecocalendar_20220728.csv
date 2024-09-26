@@ -1,0 +1,50 @@
+NZD_ANZActivityOutlook;20220728;01:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20220728;01:00;ANZ Business Confidence;New Zealand;NZD;1
+AUD_ImportPriceIndex;20220728;01:30;Import Price Index (QoQ);Australia;AUD;1
+AUD_ExportPriceIndex;20220728;01:30;Export Price Index (QoQ);Australia;AUD;1
+AUD_RetailSales;20220728;01:30;Retail Sales s.a. (MoM);Australia;AUD;3
+SEK_RetailSales;20220728;06:00;Retail Sales (MoM);Sweden;SEK;1
+DKK_IndustrialOutlook;20220728;06:00;Industrial Outlook;Denmark;DKK;1
+DKK_RetailSales;20220728;06:00;Retail Sales (YoY);Denmark;DKK;1
+NOK_LabourForceSurvey;20220728;06:00;Labour Force Survey;Norway;NOK;1
+EUR_FraProducerPrices;20220728;06:45;Producer Prices (MoM);France;EUR;1
+HUF_UnemploymentRate;20220728;07:00;Unemployment Rate (3M);Hungary;HUF;1
+SEK_ConsumerConfidence;20220728;07:00;Consumer Confidence (MoM);Sweden;SEK;1
+TRY_EconomicConfidenceIndex;20220728;07:00;Economic Confidence Index;Turkey;TRY;1
+EUR_ItaIndustrialSales;20220728;08:00;Industrial Sales n.s.a. (YoY);Italy;EUR;1
+EUR_ItaTradeBalancenonEU;20220728;09:00;Trade Balance non-EU;Italy;EUR;1
+EUR_EurIndustrialConfidence;20220728;09:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_EurBusinessClimate;20220728;09:00;Business Climate;European Monetary Union;EUR;2
+EUR_EurEconomicSentimentIndicator;20220728;09:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+EUR_EurConsumerConfidence;20220728;09:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurServicesSentiment;20220728;09:00;Services Sentiment;European Monetary Union;EUR;1
+ZAR_ProducerPriceIndex;20220728;09:30;Producer Price Index (YoY);South Africa;ZAR;1
+EUR_ItaAuction;20220728;09:30;10-y Bond Auction;Italy;EUR;1
+MXN_JoblessRate;20220728;11:00;Jobless Rate;Mexico;MXN;1
+BRL_InflationIndexIGPM;20220728;11:00;Inflation Index/IGP-M;Brazil;BRL;1
+TRY_CBRTQuarterlyInflationReport;20220728;11:00;CBRT Quarterly Inflation Report;Turkey;TRY;1
+INR_M3MoneySupply;20220728;11:30;M3 Money Supply;India;INR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20220728;12:00;Harmonized Index of Consumer Prices (MoM);Germany;EUR;1
+EUR_GerConsumerPriceIndex;20220728;12:00;Consumer Price Index (MoM);Germany;EUR;1
+USD_JoblessClaims;20220728;12:30;Continuing Jobless Claims;United States;USD;1
+USD_GrossDomesticProduct;20220728;12:30;Gross Domestic Product Annualized;United States;USD;3
+USD_PersonalConsumptionExpendituresPrices;20220728;12:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+USD_CorePersonalConsumptionExpenditures;20220728;12:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+CLP_Unemploymentrate;20220728;13:00;Unemployment rate;Chile;CLP;1
+RUB_CentralBankReserves;20220728;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_EIANaturalGasStorageChange;20220728;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_KansasFedManufacturingActivity;20220728;15:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_Auction;20220728;17:00;7-Year Note Auction;United States;USD;1
+NZD_ANZ–RoyMorganConsumerConfidence;20220728;22:00;ANZ – Roy Morgan Consumer Confidence;New Zealand;NZD;2
+KRW_IndustrialOutput;20220728;23:00;Industrial Output (YoY);South Korea;KRW;1
+KRW_ServiceSectorOutput;20220728;23:00;Service Sector Output;South Korea;KRW;1
+KRW_IndustrialOutputGrowth;20220728;23:00;Industrial Output Growth;South Korea;KRW;1
+JPY_ConsumerPriceIndex;20220728;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;2
+JPY_TokyoCPIexFreshFood;20220728;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;2
+JPY_TokyoCPIexFoodEnergy;20220728;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_UnemploymentRate;20220728;23:30;Unemployment Rate;Japan;JPY;2
+JPY_JobsApplicantsRatio;20220728;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+JPY_BoJSummaryofOpinions;20220728;23:50;BoJ Summary of Opinions;Japan;JPY;1
+JPY_IndustrialProduction;20220728;23:50;Industrial Production (MoM);Japan;JPY;2
+JPY_RetailTrade;20220728;23:50;Retail Trade (YoY);Japan;JPY;2
+JPY_LargeRetailerSales;20220728;23:50;Large Retailer Sales;Japan;JPY;2

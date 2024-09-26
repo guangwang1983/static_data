@@ -1,0 +1,44 @@
+USD_JacksonHoleSymposium;20180823;00:00;Jackson Hole Symposium;United States;USD;3
+JPY_JibunBankManufacturingPMI;20180823;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+JPY_LeadingEconomicIndex;20180823;05:00;Leading Economic Index;Japan;JPY;2
+JPY_CoincidentIndex;20180823;05:00;Coincident Index;Japan;JPY;1
+DKK_ConsumerConfidence;20180823;06:00;Consumer Confidence;Denmark;DKK;1
+NOK_GrossDomesticProduct;20180823;06:00;Gross Domestic Product Growth Mainland;Norway;NOK;1
+EUR_FraIndividualInvestment;20180823;06:45;Individual Investment (Current Year);France;EUR;1
+EUR_FraBusinessClimateinManufacturing;20180823;06:45;Business Climate in Manufacturing;France;EUR;1
+CHF_IndustrialProduction;20180823;07:15;Industrial Production (YoY);Switzerland;CHF;2
+EUR_FraHCOBCompositePMI;20180823;07:15;HCOB Composite PMI;France;EUR;1
+EUR_FraHCOBServicesPMI;20180823;07:15;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBManufacturingPMI;20180823;07:15;HCOB Manufacturing PMI;France;EUR;1
+SEK_UnemploymentRate;20180823;07:30;Unemployment Rate;Sweden;SEK;1
+EUR_GerHCOBManufacturingPMI;20180823;07:30;HCOB Manufacturing PMI;Germany;EUR;3
+EUR_GerHCOBServicesPMI;20180823;07:30;HCOB Services PMI;Germany;EUR;2
+EUR_GerHCOBCompositePMI;20180823;07:30;HCOB Composite PMI;Germany;EUR;2
+EUR_GerCentralBankSpeech;20180823;07:30;German Buba President Weidmann speech;Germany;EUR;2
+EUR_EurHCOBServicesPMI;20180823;08:00;HCOB Services PMI;European Monetary Union;EUR;2
+EUR_EurHCOBManufacturingPMI;20180823;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurHCOBCompositePMI;20180823;08:00;HCOB Composite PMI;European Monetary Union;EUR;2
+GBP_CBIDistributiveTradesSurvey–Realized;20180823;10:00;CBI Distributive Trades Survey – Realized (MoM);United Kingdom;GBP;1
+EUR_EurECBMonetaryPolicyMeetingAccounts;20180823;11:30;ECB Monetary Policy Meeting Accounts;European Monetary Union;EUR;3
+PLN_M3MoneySupply;20180823;12:00;M3 Money Supply (YoY);Poland;PLN;1
+BRL_MidmonthInflation;20180823;12:00;Mid-month Inflation;Brazil;BRL;1
+USD_JoblessClaims;20180823;12:30;Continuing Jobless Claims;United States;USD;2
+RUB_CentralBankReserves;20180823;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_HousingPriceIndex;20180823;13:00;Housing Price Index (MoM);United States;USD;2
+MXN_1sthalfmonthCoreInflation;20180823;13:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20180823;13:00;1st half-month Inflation;Mexico;MXN;1
+USD_S&PGlobalServicesPMI;20180823;13:45;S&P Global Services PMI;United States;USD;2
+USD_S&PGlobalManufacturingPMI;20180823;13:45;S&P Global Manufacturing PMI;United States;USD;1
+USD_S&PGlobalCompositePMI;20180823;13:45;S&P Global Composite PMI;United States;USD;2
+USD_NewHomeSalesChange;20180823;14:00;New Home Sales Change (MoM);United States;USD;1
+USD_NewHomeSales;20180823;14:00;New Home Sales (MoM);United States;USD;2
+EUR_EurConsumerConfidence;20180823;14:00;Consumer Confidence;European Monetary Union;EUR;1
+USD_EIANaturalGasStorageChange;20180823;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_KansasFedManufacturingActivity;20180823;15:00;Kansas Fed Manufacturing Activity;United States;USD;1
+NZD_TradeBalanceNZD;20180823;22:45;Trade Balance NZD (YoY);New Zealand;NZD;2
+NZD_Exports;20180823;22:45;Exports;New Zealand;NZD;2
+NZD_Imports;20180823;22:45;Imports;New Zealand;NZD;2
+JPY_NationalCPIexFreshFood;20180823;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_NationalCPIexFoodEnergy;20180823;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20180823;23:30;National Consumer Price Index (YoY);Japan;JPY;2
+JPY_CorporateServicePriceIndex;20180823;23:50;Corporate Service Price Index (YoY);Japan;JPY;1

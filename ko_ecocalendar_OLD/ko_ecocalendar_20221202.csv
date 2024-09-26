@@ -1,0 +1,33 @@
+AUD_InvestmentLendingforHomes;20221202;00:30;Investment Lending for Homes;Australia;AUD;1
+AUD_HomeLoans;20221202;00:30;Home Loans;Australia;AUD;1
+JPY_CentralBankSpeech;20221202;01:30;BoJ Governor Kuroda speech;Japan;JPY;3
+AUD_CentralBankSpeech;20221202;02:00;RBA Governor Lowe speech;Australia;AUD;3
+EUR_EurCentralBankSpeech;20221202;02:40;ECB President Lagarde speech;European Monetary Union;EUR;3
+BRL_FipeIPCInflation;20221202;08:00;Fipe IPC Inflation;Brazil;BRL;1
+CZK_GrossDomesticProduct;20221202;08:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+NOK_RegisteredUnemployment;20221202;09:00;Registered Unemployment n.s.a;Norway;NOK;1
+EUR_EurProducerPriceIndex;20221202;10:00;Producer Price Index (MoM);European Monetary Union;EUR;1
+INR_BankLoanGrowth;20221202;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20221202;11:30;FX Reserves, USD;India;INR;1
+BRL_IndustrialOutput;20221202;12:00;Industrial Output (MoM);Brazil;BRL;1
+USD_NonfarmPayrolls;20221202;13:30;Nonfarm Payrolls;United States;USD;3
+USD_AverageHourlyEarnings;20221202;13:30;Average Hourly Earnings (YoY);United States;USD;2
+USD_AverageWeeklyHours;20221202;13:30;Average Weekly Hours;United States;USD;1
+USD_LaborForceParticipationRate;20221202;13:30;Labor Force Participation Rate;United States;USD;2
+USD_U6UnderemploymentRate;20221202;13:30;U6 Underemployment Rate;United States;USD;2
+USD_UnemploymentRate;20221202;13:30;Unemployment Rate;United States;USD;2
+CAD_NetChangeinEmployment;20221202;13:30;Net Change in Employment;Canada;CAD;3
+CAD_AverageHourlyWages;20221202;13:30;Average Hourly Wages (YoY);Canada;CAD;2
+CAD_UnemploymentRate;20221202;13:30;Unemployment Rate;Canada;CAD;3
+CAD_ParticipationRate;20221202;13:30;Participation Rate;Canada;CAD;2
+USD_CentralBankSpeech;20221202;15:15;Fed Evans speech;United States;USD;2
+DKK_CurrencyReserves;20221202;16:00;Currency Reserves;Denmark;DKK;1
+USD_BakerHughesUSOilRigCount;20221202;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20221202;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20221202;20:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20221202;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_TotalVehicleSales;20221202;20:30;Total Vehicle Sales;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20221202;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20221202;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20221202;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20221202;20:30;CFTC AUD NC Net Positions;Australia;AUD;1

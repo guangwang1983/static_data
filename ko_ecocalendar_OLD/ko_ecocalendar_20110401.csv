@@ -1,0 +1,29 @@
+USD_TotalVehicleSales;20110401;21:00;Total Vehicle Sales;United States;USD;1
+RUB_GrossDomesticProduct;20110401;14:00;Gross Domestic Product Quarterly (YoY);Russia;RUB;1
+USD_ISMManufacturingPMI;20110401;14:00;ISM Manufacturing PMI;United States;USD;2
+USD_ISMPricesPaid;20110401;14:00;ISM Prices Paid;United States;USD;1
+USD_ConstructionSpending;20110401;14:00;Construction Spending (MoM);United States;USD;2
+USD_CentralBankSpeech;20110401;13:00;Fed Dudley speech;United States;USD;1
+USD_NonfarmPayrolls;20110401;12:30;Nonfarm Payrolls;United States;USD;3
+USD_AverageHourlyEarnings;20110401;12:30;Average Hourly Earnings (MoM);United States;USD;2
+USD_UnemploymentRate;20110401;12:30;Unemployment Rate;United States;USD;3
+USD_AverageWeeklyHours;20110401;12:30;Average Weekly Hours;United States;USD;1
+BRL_IndustrialOutput;20110401;12:00;Industrial Output (YoY);Brazil;BRL;1
+CZK_BudgetBalance;20110401;12:00;Budget Balance;Czech Republic;CZK;1
+HUF_PurchasingManagerIndex;20110401;09:00;Purchasing Manager Index;Hungary;HUF;1
+EUR_ItaPublicDeficitGDP;20110401;09:00;Public Deficit/GDP;Italy;EUR;1
+EUR_EurUnemploymentRate;20110401;09:00;Unemployment Rate;European Monetary Union;EUR;2
+ZAR_PurchasingManagerIndex;20110401;09:00;Purchasing Manager Index;South Africa;ZAR;1
+GBP_MarkitManufacturingPMI;20110401;08:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+NOK_RegisteredUnemployment;20110401;08:00;Registered Unemployment s.a;Norway;NOK;1
+EUR_EurMarkitManufacturingPMI;20110401;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_GerMarkitManufacturingPMI;20110401;07:55;Markit Manufacturing PMI;Germany;EUR;2
+DKK_RetailSales;20110401;07:30;Retail Sales (YoY);Denmark;DKK;1
+CHF_SVMEPurchasingManagers'Index;20110401;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;2
+CZK_MarkitPMI;20110401;07:30;Markit PMI;Czech Republic;CZK;1
+CHF_RetailSales;20110401;07:15;Real Retail Sales (YoY);Switzerland;CHF;2
+PLN_PurchasingManagerIndex;20110401;07:00;Purchasing Manager Index;Poland;PLN;1
+AUD_RBACommodityIndexSDR;20110401;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+RUB_HSBCManufacturingPMI;20110401;05:00;HSBC Manufacturing PMI	;Russia;RUB;1
+CNY_CaixinManufacturingPMI;20110401;02:30;Caixin Manufacturing PMI;China;CNY;1
+CNY_NBSManufacturingPMI;20110401;01:00;NBS Manufacturing PMI;China;CNY;2

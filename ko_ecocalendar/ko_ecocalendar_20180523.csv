@@ -1,0 +1,46 @@
+AUD_WestpacLeadingIndex;20180523;00:30;Westpac Leading Index (MoM);Australia;AUD;2
+JPY_JibunBankManufacturingPMI;20180523;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+AUD_ConstructionWorkDone;20180523;01:30;Construction Work Done;Australia;AUD;1
+JPY_AllIndustryActivityIndex;20180523;04:30;All Industry Activity Index (MoM);Japan;JPY;2
+EUR_FraILOUnemployment;20180523;05:30;ILO Unemployment;France;EUR;1
+DKK_ConsumerConfidence;20180523;06:00;Consumer Confidence;Denmark;DKK;1
+HUF_GrossWages;20180523;07:00;Gross Wages (YoY);Hungary;HUF;1
+TRY_ConsumerConfidence;20180523;07:00;Consumer Confidence;Turkey;TRY;1
+EUR_FraHCOBManufacturingPMI;20180523;07:00;HCOB Manufacturing PMI;France;EUR;1
+EUR_FraHCOBServicesPMI;20180523;07:00;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20180523;07:00;HCOB Composite PMI;France;EUR;1
+EUR_GerHCOBCompositePMI;20180523;07:30;HCOB Composite PMI;Germany;EUR;2
+EUR_GerHCOBManufacturingPMI;20180523;07:30;HCOB Manufacturing PMI;Germany;EUR;3
+EUR_GerHCOBServicesPMI;20180523;07:30;HCOB Services PMI;Germany;EUR;2
+PLN_RetailSales;20180523;08:00;Retail Sales (YoY);Poland;PLN;1
+AUD_CentralBankSpeech;20180523;08:00;RBA Governor Lowe speech;Australia;AUD;3
+ZAR_ConsumerPriceIndex;20180523;08:00;Consumer Price Index (YoY);South Africa;ZAR;1
+EUR_EurHCOBCompositePMI;20180523;08:00;HCOB Composite PMI;European Monetary Union;EUR;2
+EUR_EurHCOBManufacturingPMI;20180523;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurHCOBServicesPMI;20180523;08:00;HCOB Services PMI;European Monetary Union;EUR;2
+GBP_RetailPriceIndex;20180523;08:30;Retail Price Index (YoY);United Kingdom;GBP;2
+GBP_DCLGHousePriceIndex;20180523;08:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ProducerPriceIndex;20180523;08:30;Producer Price Index - Output (YoY) n.s.a;United Kingdom;GBP;1
+GBP_PPICoreOutput;20180523;08:30;PPI Core Output (MoM) n.s.a;United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20180523;08:30;Consumer Price Index (YoY);United Kingdom;GBP;3
+GBP_CBIDistributiveTradesSurvey–Realized;20180523;10:00;CBI Distributive Trades Survey – Realized (MoM);United Kingdom;GBP;1
+TRY_CBRTInterestRateDecision;20180523;11:00;CBRT Interest Rate Decision;Turkey;TRY;1
+USD_MBAMortgageApplications;20180523;11:00;MBA Mortgage Applications;United States;USD;1
+INR_M3MoneySupply;20180523;11:30;M3 Money Supply;India;INR;1
+BRL_MidmonthInflation;20180523;12:00;Mid-month Inflation;Brazil;BRL;1
+MXN_GrossDomesticProduct;20180523;13:00;Gross Domestic Product (QoQ);Mexico;MXN;1
+USD_S&PGlobalManufacturingPMI;20180523;13:45;S&P Global Manufacturing PMI;United States;USD;1
+USD_S&PGlobalCompositePMI;20180523;13:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20180523;13:45;S&P Global Services PMI;United States;USD;2
+USD_NewHomeSales;20180523;14:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20180523;14:00;New Home Sales Change (MoM);United States;USD;1
+EUR_EurConsumerConfidence;20180523;14:00;Consumer Confidence;European Monetary Union;EUR;1
+USD_EIACrudeOilStocksChange;20180523;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_Auction;20180523;17:00;5-Year Note Auction;United States;USD;1
+USD_FOMCMinutes;20180523;18:00;FOMC Minutes;United States;USD;3
+USD_CentralBankSpeech;20180523;18:15;Fed Kashkari speech;United States;USD;2
+NZD_Exports;20180523;22:45;Exports;New Zealand;NZD;2
+NZD_Imports;20180523;22:45;Imports;New Zealand;NZD;2
+NZD_TradeBalanceNZD;20180523;22:45;Trade Balance NZD (YoY);New Zealand;NZD;2
+JPY_ForeignInvestmentinJapanStocks;20180523;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20180523;23:50;Foreign Bond Investment;Japan;JPY;1

@@ -1,0 +1,25 @@
+AUD_ConsumerInflationExpectations;20210311;00:00;Consumer Inflation Expectations;Australia;AUD;2
+GBP_RICSHousingPriceBalance;20210311;00:01;RICS Housing Price Balance;United Kingdom;GBP;1
+RON_ConsumerPriceIndex;20210311;07:00;Consumer Price Index;Romania;RON;1
+DKK_TradeBalance;20210311;07:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20210311;07:00;Current Account;Denmark;DKK;1
+TRY_CurrentAccount;20210311;07:00;Current Account Balance;Turkey;TRY;1
+CHF_SECOEconomicForecasts;20210311;08:00;SECO Economic Forecasts;Switzerland;CHF;1
+HUF_TradeBalance;20210311;08:00;Trade Balance;Hungary;HUF;1
+ILS_TradeBalance;20210311;11:00;Trade Balance;Israel;ILS;1
+ILS_Exports;20210311;11:00;Exports;Israel;ILS;1
+ILS_Imports;20210311;11:00;Imports;Israel;ILS;1
+ZAR_ManufacturingProductionIndex;20210311;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+BRL_IPCAInflation;20210311;12:00;IPCA Inflation;Brazil;BRL;1
+EUR_EurECBRateOnDepositFacility;20210311;12:45;ECB Rate On Deposit Facility;European Monetary Union;EUR;3
+EUR_EurECBRateOnMainRefinancingOperations;20210311;12:45;ECB Rate On Main Refinancing Operations;European Monetary Union;EUR;3
+RUB_CentralBankReserves;20210311;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_CentralBankSpeech;20210311;13:00;President Biden speech;United States;USD;2
+USD_JoblessClaims;20210311;13:30;Continuing Jobless Claims;United States;USD;2
+EUR_EurECBPressConference;20210311;13:30;ECB Press Conference;European Monetary Union;EUR;3
+USD_JOLTSJobOpenings;20210311;15:00;JOLTS Job Openings;United States;USD;1
+USD_EIANaturalGasStorageChange;20210311;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20210311;18:00;30-Year Bond Auction;United States;USD;1
+CAD_CentralBankSpeech;20210311;18:30;BoC Schembri speech;Canada;CAD;2
+NZD_BusinessNZPMI;20210311;21:30;Business NZ PMI;New Zealand;NZD;2
+JPY_BSILargeManufacturingConditionsIndex;20210311;23:50;BSI Large Manufacturing Conditions Index (QoQ);Japan;JPY;1

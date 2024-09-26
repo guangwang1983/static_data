@@ -1,0 +1,52 @@
+KRW_TradeBalance;20200701;00:00;Trade Balance;South Korea;KRW;1
+KRW_S&PGlobalManufacturingPMI;20200701;00:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+JPY_JibunBankManufacturingPMI;20200701;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+AUD_BuildingPermits;20200701;01:30;Building Permits (YoY);Australia;AUD;1
+CNY_CaixinManufacturingPMI;20200701;01:45;Caixin Manufacturing PMI;China;CNY;3
+IDR_Inflation;20200701;04:00;Inflation (MoM);Indonesia;IDR;1
+IDR_CoreInflation;20200701;04:00;Core Inflation (YoY);Indonesia;IDR;1
+JPY_ConsumerConfidenceIndex;20200701;05:00;Consumer Confidence Index;Japan;JPY;1
+CAD_CanadaDay;20200701;05:00;Canada Day;Canada;CAD;0
+GBP_NationwideHousingPrices;20200701;06:00;Nationwide Housing Prices s.a (MoM);United Kingdom;GBP;1
+RUB_S&PGlobalManufacturingPMI;20200701;06:00;S&P Global Manufacturing PMI;Russia;RUB;1
+EUR_GerRetailSales;20200701;06:00;Retail Sales (MoM);Germany;EUR;2
+AUD_RBACommodityIndexSDR;20200701;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+SEK_PurchasingManagersIndexManufacturing;20200701;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+HUF_PurchasingManagerIndex;20200701;07:00;Purchasing Manager Index;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20200701;07:00;Purchasing Manager Index;Poland;PLN;2
+CHF_SVMEPurchasingManagers'Index;20200701;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_S&PGlobalPMI;20200701;07:30;S&P Global PMI;Czech Republic;CZK;1
+SEK_RiksbankInterestRateDecision;20200701;07:30;Riksbank Interest Rate Decision;Sweden;SEK;1
+EUR_EurCentralBankSpeech;20200701;07:45;ECB Panetta speech;European Monetary Union;EUR;2
+EUR_ItaHCOBManufacturingPMI;20200701;07:45;HCOB Manufacturing PMI;Italy;EUR;1
+EUR_FraHCOBManufacturingPMI;20200701;07:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerUnemploymentChange;20200701;07:55;Unemployment Change;Germany;EUR;3
+EUR_GerUnemploymentRate;20200701;07:55;Unemployment Rate s.a.;Germany;EUR;3
+EUR_GerHCOBManufacturingPMI;20200701;07:55;HCOB Manufacturing PMI;Germany;EUR;2
+EUR_EurHCOBManufacturingPMI;20200701;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;1
+GBP_S&PGlobalCIPSManufacturingPMI;20200701;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+DKK_ManufacturingPMI;20200701;09:00;Manufacturing PMI;Denmark;DKK;1
+GBP_Auction;20200701;09:45;30-y Bond Auction;United Kingdom;GBP;1
+BRL_TradeBalance;20200701;10:00;Trade Balance;Brazil;BRL;1
+CLP_IMACEC;20200701;10:30;IMACEC;Chile;CLP;1
+GBP_CentralBankSpeech;20200701;11:00;BoE Haskel speech;United Kingdom;GBP;2
+USD_MBAMortgageApplications;20200701;11:00;MBA Mortgage Applications;United States;USD;1
+INR_M3MoneySupply;20200701;11:30;M3 Money Supply;India;INR;1
+USD_ChallengerJobCuts;20200701;11:30;Challenger Job Cuts;United States;USD;1
+ZAR_TotalNewVehicleSales;20200701;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+CZK_BudgetBalance;20200701;12:00;Budget Balance;Czech Republic;CZK;1
+USD_ADPEmploymentChange;20200701;12:15;ADP Employment Change;United States;USD;3
+BRL_S&PGlobalManufacturingPMI;20200701;13:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+USD_S&PGlobalManufacturingPMI;20200701;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_ISMManufacturingEmploymentIndex;20200701;14:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ISMManufacturingNewOrdersIndex;20200701;14:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ISMManufacturingPMI;20200701;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20200701;14:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ConstructionSpending;20200701;14:00;Construction Spending (MoM);United States;USD;1
+USD_EIACrudeOilStocksChange;20200701;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_FOMCMinutes;20200701;18:00;FOMC Minutes;United States;USD;3
+USD_TotalVehicleSales;20200701;19:30;Total Vehicle Sales;United States;USD;1
+KRW_ConsumerPriceIndex;20200701;23:00;Consumer Price Index Growth (YoY);South Korea;KRW;1
+JPY_MonetaryBase;20200701;23:50;Monetary Base (YoY);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20200701;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20200701;23:50;Foreign Bond Investment;Japan;JPY;1

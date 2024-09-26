@@ -1,0 +1,40 @@
+COP_Interestrate;20201127;20:00;Interest rate;Colombia;COP;1
+BRL_UnemploymentRate;20201127;12:00;Unemployment Rate;Brazil;BRL;1
+CLP_Unemploymentrate;20201127;12:00;Unemployment rate;Chile;CLP;1
+INR_FXReservesUSD;20201127;11:30;FX Reserves, USD;India;INR;1
+MXN_TradeBalancesa;20201127;11:00;Trade Balance s/a, $;Mexico;MXN;1
+MXN_TradeBalance;20201127;11:00;Trade Balance, $;Mexico;MXN;1
+EUR_IreRetailSales;20201127;11:00;Retail Sales (YoY);Ireland;EUR;1
+BRL_InflationIndexIGPM;20201127;11:00;Inflation Index/IGP-M;Brazil;BRL;1
+EUR_EurCentralBankSpeech;20201127;10:00;ECB Schnabel speech;European Monetary Union;EUR;2
+EUR_ItaProducerPriceIndex;20201127;10:00;Producer Price Index (MoM);Italy;EUR;1
+EUR_EurServicesSentiment;20201127;10:00;Services Sentiment;European Monetary Union;EUR;1
+EUR_EurConsumerConfidence;20201127;10:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurIndustrialConfidence;20201127;10:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_EurBusinessClimate;20201127;10:00;Business Climate;European Monetary Union;EUR;2
+EUR_EurEconomicSentimentIndicator;20201127;10:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+EUR_PorConsumerConfidence;20201127;09:30;Consumer Confidence;Portugal;EUR;1
+EUR_PorBusinessConfidence;20201127;09:30;Business Confidence;Portugal;EUR;1
+EUR_BelConsumerPriceIndex;20201127;09:30;Consumer Price Index (YoY);Belgium;EUR;1
+EUR_ItaBusinessConfidence;20201127;09:00;Business Confidence;Italy;EUR;1
+EUR_ItaConsumerConfidence;20201127;09:00;Consumer Confidence;Italy;EUR;1
+ISK_ConsumerPriceIndex;20201127;09:00;Consumer Price Index (MoM);Iceland;ISK;1
+NOK_RegisteredUnemployment;20201127;09:00;Registered Unemployment n.s.a;Norway;NOK;1
+SEK_RetailSales;20201127;08:30;Retail Sales (YoY);Sweden;SEK;1
+SEK_GrossDomesticProduct;20201127;08:30;Gross Domestic Product (YoY);Sweden;SEK;1
+SEK_TradeBalance;20201127;08:30;Trade Balance (MoM);Sweden;SEK;1
+EUR_GerCentralBankSpeech;20201127;08:10;German Buba President Weidmann speech;Germany;EUR;2
+HUF_UnemploymentRate;20201127;08:00;Unemployment Rate (3M);Hungary;HUF;1
+EUR_SpaRetailSales;20201127;08:00;Retail Sales (YoY);Spain;EUR;1
+EUR_FraProducerPrices;20201127;07:45;Producer Prices (MoM);France;EUR;1
+EUR_FraConsumerPriceIndex;20201127;07:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraConsumerSpending;20201127;07:45;Consumer Spending (MoM);France;EUR;1
+EUR_FraGrossDomesticProduct;20201127;07:45;Gross Domestic Product (QoQ);France;EUR;1
+EUR_GerImportPriceIndex;20201127;07:00;Import Price Index (MoM);Germany;EUR;1
+DKK_IndustrialOutlook;20201127;07:00;Industrial Outlook;Denmark;DKK;1
+GBP_NationwideHousingPrices;20201127;07:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;1
+TRY_EconomicConfidenceIndex;20201127;07:00;Economic Confidence Index;Turkey;TRY;1
+NOK_RetailSales;20201127;07:00;Retail Sales ;Norway;NOK;1
+EUR_FinConsumerConfidence;20201127;06:00;Consumer Confidence;Finland;EUR;1
+EUR_FinIndustrialConfidence;20201127;06:00;Industrial Confidence;Finland;EUR;1
+EUR_FinGrossDomesticProduct;20201127;06:00;Gross Domestic Product Qtr Prelim (YoY);Finland;EUR;1

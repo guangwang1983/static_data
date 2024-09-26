@@ -1,0 +1,32 @@
+JPY_JibunBankManufacturingPMI;20200106;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+CNY_CaixinServicesPMI;20200106;01:45;Caixin Services PMI;China;CNY;2
+COP_Epiphany;20200106;05:00;Epiphany;Colombia;COP;0
+EUR_GerRetailSales;20200106;07:00;Retail Sales (YoY);Germany;EUR;1
+HUF_GrossWages;20200106;08:00;Gross Wages (YoY);Hungary;HUF;1
+HUF_ProducerPriceIndex;20200106;08:00;Producer Price Index (YoY);Hungary;HUF;1
+EUR_ItaHCOBServicesPMI;20200106;08:45;HCOB Services PMI;Italy;EUR;1
+EUR_FraHCOBServicesPMI;20200106;08:50;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20200106;08:50;HCOB Composite PMI;France;EUR;1
+EUR_GerHCOBCompositePMI;20200106;08:55;HCOB Composite PMI;Germany;EUR;2
+EUR_GerHCOBServicesPMI;20200106;08:55;HCOB Services PMI;Germany;EUR;1
+EUR_EurHCOBServicesPMI;20200106;09:00;HCOB Services PMI;European Monetary Union;EUR;1
+EUR_EurHCOBCompositePMI;20200106;09:00;HCOB Composite PMI;European Monetary Union;EUR;2
+EUR_EurSentixInvestorConfidence;20200106;09:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+GBP_S&PGlobalCIPSServicesPMI;20200106;09:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSCompositePMI;20200106;09:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;2
+EUR_EurProducerPriceIndex;20200106;10:00;Producer Price Index (YoY);European Monetary Union;EUR;1
+ILS_BudgetBalanceILS;20200106;11:00;Budget Balance - ILS;Israel;ILS;1
+CAD_IndustrialProductPrice;20200106;13:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_RawMaterialPriceIndex;20200106;13:30;Raw Material Price Index;Canada;CAD;1
+USD_S&PGlobalCompositePMI;20200106;14:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20200106;14:45;S&P Global Services PMI;United States;USD;2
+USD_Auction;20200106;16:30;6-Month Bill Auction;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20200106;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20200106;20:30;CFTC Oil NC Net Positions;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20200106;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20200106;20:30;CFTC Gold NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20200106;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20200106;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20200106;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+KRW_CurrentAccount;20200106;23:00;Current Account Balance;South Korea;KRW;1
+JPY_MonetaryBase;20200106;23:50;Monetary Base (YoY);Japan;JPY;1

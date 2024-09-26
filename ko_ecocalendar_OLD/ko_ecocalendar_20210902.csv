@@ -1,0 +1,38 @@
+AUD_CommonwealthBankServicesPMI;20210902;23:00;Commonwealth Bank Services PMI;Australia;AUD;2
+AUD_CommonwealthBankCompositePMI;20210902;23:00;Commonwealth Bank Composite PMI;Australia;AUD;1
+AUD_AiGPerformanceofConstructionIndex;20210902;22:30;AiG Performance of Construction Index;Australia;AUD;2
+KRW_FXReserves;20210902;21:00;FX Reserves;South Korea;KRW;1
+USD_Auction;20210902;15:30;4-Week Bill Auction;United States;USD;1
+DKK_CurrencyReserves;20210902;15:00;Currency Reserves;Denmark;DKK;1
+USD_EIANaturalGasStorageChange;20210902;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_FactoryOrders;20210902;14:00;Factory Orders (MoM);United States;USD;2
+RUB_CentralBankReserves;20210902;13:00;Central Bank Reserves $;Russia;RUB;1
+SGD_PurchasingManagersIndex;20210902;13:00;Purchasing Managers Index;Singapore;SGD;1
+USD_GoodsandServicesTradeBalance;20210902;12:30;Goods and Services Trade Balance;United States;USD;2
+USD_JoblessClaims;20210902;12:30;Continuing Jobless Claims;United States;USD;1
+USD_UnitLaborCosts;20210902;12:30;Unit Labor Costs;United States;USD;2
+USD_NonfarmProductivity;20210902;12:30;Nonfarm Productivity;United States;USD;2
+CAD_BuildingPermits;20210902;12:30;Building Permits (MoM);Canada;CAD;1
+USD_GoodsTradeBalance;20210902;12:30;Goods Trade Balance;United States;USD;1
+CAD_InternationalMerchandiseTrade;20210902;12:30;International Merchandise Trade;Canada;CAD;2
+CAD_Exports;20210902;12:30;Exports;Canada;CAD;1
+CAD_Imports;20210902;12:30;Imports;Canada;CAD;1
+BRL_IndustrialOutput;20210902;12:00;Industrial Output (YoY);Brazil;BRL;1
+USD_ChallengerJobCuts;20210902;11:30;Challenger Job Cuts;United States;USD;1
+MXN_ConsumerConfidence;20210902;11:00;Consumer Confidence s.a;Mexico;MXN;1
+EUR_FraAuction;20210902;10:00;10-y Bond Auction;France;EUR;1
+EUR_EurProducerPriceIndex;20210902;09:00;Producer Price Index (YoY);European Monetary Union;EUR;1
+EUR_SpaAuction;20210902;08:40;10-y Obligaciones Auction;Spain;EUR;1
+BRL_FipeIPCInflation;20210902;08:00;Fipe IPC Inflation;Brazil;BRL;1
+CHF_GrossDomesticProduct;20210902;07:00;Gross Domestic Product (YoY);Switzerland;CHF;2
+EUR_AusGrossDomesticProduct;20210902;07:00;Gross Domestic Product (QoQ);Austria;EUR;1
+HUF_ProducerPriceIndex;20210902;07:00;Producer Price Index (YoY);Hungary;HUF;1
+EUR_SpaUnemploymentChange;20210902;07:00;Unemployment Change;Spain;EUR;1
+CHF_RetailSales;20210902;06:30;Real Retail Sales (YoY);Switzerland;CHF;2
+CHF_ConsumerPriceIndex;20210902;06:30;Consumer Price Index (YoY);Switzerland;CHF;1
+JPY_Auction;20210902;03:35;10-y Bond Auction;Japan;JPY;1
+AUD_HomeLoans;20210902;01:30;Home Loans;Australia;AUD;1
+AUD_InvestmentLendingforHomes;20210902;01:30;Investment Lending for Homes;Australia;AUD;1
+AUD_TradeBalance;20210902;01:30;Trade Balance (MoM);Australia;AUD;3
+AUD_Imports;20210902;01:30;Imports (MoM);Australia;AUD;2
+AUD_Exports;20210902;01:30;Exports (MoM);Australia;AUD;2

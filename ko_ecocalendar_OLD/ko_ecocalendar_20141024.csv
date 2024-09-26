@@ -1,0 +1,18 @@
+USD_NewHomeSales;20141024;14:00;New Home Sales (MoM);United States;USD;1
+USD_NewHomeSalesChange;20141024;14:00;New Home Sales Change (MoM);United States;USD;2
+EUR_BelLeadingIndicator;20141024;13:00;Leading Indicator;Belgium;EUR;1
+BRL_CurrentAccount;20141024;12:30;Current Account;Brazil;BRL;1
+INR_FXReservesUSD;20141024;11:30;FX Reserves, USD;India;INR;1
+EUR_ItaConsumerConfidence;20141024;10:00;Consumer Confidence;Italy;EUR;1
+EUR_ItaWageInflation;20141024;09:00;Wage Inflation (YoY);Italy;EUR;1
+GBP_GrossDomesticProduct;20141024;08:30;Gross Domestic Product (YoY);United Kingdom;GBP;3
+GBP_IndexofServices;20141024;08:30;Index of Services (3M/3M);United Kingdom;GBP;1
+EUR_SpaProducerPriceIndex;20141024;08:00;Producer Price Index (YoY);Spain;EUR;1
+EUR_ItaRetailSales;20141024;08:00;Retail Sales n.s.a (YoY);Italy;EUR;1
+EUR_AusIndustrialProduction;20141024;07:00;Industrial Production (YoY);Austria;EUR;1
+EUR_GerGfkConsumerConfidenceSurvey;20141024;06:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+EUR_FinProducerPriceIndex;20141024;06:00;Producer Price Index (YoY);Finland;EUR;1
+EUR_FinImportPrices;20141024;06:00;Import Prices (YoY);Finland;EUR;1
+EUR_FinExportPrices;20141024;06:00;Export Prices (YoY);Finland;EUR;1
+SGD_IndustrialProduction;20141024;05:00;Industrial Production (YoY);Singapore;SGD;1
+CNY_HousePriceIndex;20141024;01:30;House Price Index ;China;CNY;1

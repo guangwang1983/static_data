@@ -1,0 +1,59 @@
+AUD_HIANewHomeSales;20150630;01:00;HIA New Home Sales (MoM);Australia;AUD;2
+NZD_ANZActivityOutlook;20150630;01:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20150630;01:00;ANZ Business Confidence;New Zealand;NZD;1
+JPY_LaborCashEarnings;20150630;01:30;Labor Cash Earnings (YoY);Japan;JPY;1
+AUD_PrivateSectorCredit;20150630;01:30;Private Sector Credit (YoY);Australia;AUD;2
+NZD_M3MoneySupply;20150630;03:00;M3 Money Supply (YoY);New Zealand;NZD;1
+JPY_VehicleProduction;20150630;04:00;Vehicle Production (YoY);Japan;JPY;1
+JPY_AnnualizedHousingStarts;20150630;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_ConstructionOrders;20150630;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_HousingStarts;20150630;05:00;Housing Starts (YoY);Japan;JPY;1
+EUR_GerRetailSales;20150630;06:00;Retail Sales (YoY);Germany;EUR;2
+ZAR_M3MoneySupply;20150630;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+ZAR_PrivateSectorCredit;20150630;06:00;Private Sector Credit;South Africa;ZAR;1
+EUR_FraProducerPrices;20150630;06:45;Producer Prices (MoM);France;EUR;1
+EUR_FraConsumerSpending;20150630;06:45;Consumer Spending (MoM);France;EUR;1
+CHF_KOFLeadingIndicator;20150630;07:00;KOF Leading Indicator;Switzerland;CHF;2
+TRY_TradeBalance;20150630;07:00;Trade Balance;Turkey;TRY;1
+DKK_GrossDomesticProduct;20150630;07:00;Gross Domestic Product (YoY);Denmark;DKK;1
+HUF_ProducerPriceIndex;20150630;07:00;Producer Price Index (YoY);Hungary;HUF;1
+CZK_GrossDomesticProduct;20150630;07:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+EUR_GerUnemploymentChange;20150630;07:55;Unemployment Change;Germany;EUR;3
+EUR_GerUnemploymentRate;20150630;07:55;Unemployment Rate s.a.;Germany;EUR;3
+CZK_M2MoneySupply;20150630;08:00;M2 Money Supply (YoY);Czech Republic;CZK;1
+EUR_ItaUnemployment;20150630;08:00;Unemployment;Italy;EUR;2
+NOK_CreditIndicator;20150630;08:00;Credit Indicator;Norway;NOK;1
+GBP_GrossDomesticProduct;20150630;08:30;Gross Domestic Product (YoY);United Kingdom;GBP;2
+GBP_TotalBusinessInvestment;20150630;08:30;Total Business Investment (QoQ);United Kingdom;GBP;1
+GBP_IndexofServices;20150630;08:30;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_CurrentAccount;20150630;08:30;Current Account;United Kingdom;GBP;1
+AUD_CentralBankSpeech;20150630;08:40;RBA Governor Stevens speech;Australia;AUD;3
+EUR_EurUnemploymentRate;20150630;09:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_EurHarmonizedIndexofConsumerPrices;20150630;09:00;Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20150630;09:00;Core Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_ItaConsumerPriceIndex;20150630;09:00;Consumer Price Index (YoY);Italy;EUR;1
+EUR_ItaAuction;20150630;09:55;10-y Bond Auction;Italy;EUR;1
+EUR_ItaProducerPriceIndex;20150630;10:00;Producer Price Index (YoY);Italy;EUR;1
+DKK_UnemploymentRate;20150630;10:23;Unemployment Rate;Denmark;DKK;1
+CLP_Unemploymentrate;20150630;12:00;Unemployment rate;Chile;CLP;1
+ZAR_TradeBalance;20150630;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+CLP_IndustrialProduction;20150630;12:00;Industrial Production (YoY);Chile;CLP;1
+INR_InfrastructureOutput;20150630;12:26;Infrastructure Output (YoY);India;INR;1
+CAD_GrossDomesticProduct;20150630;12:30;Gross Domestic Product (MoM);Canada;CAD;2
+USD_RedbookIndex;20150630;12:55;Redbook Index (YoY);United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20150630;13:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;2
+BRL_NominalBudgetBalance;20150630;13:30;Nominal Budget Balance;Brazil;BRL;1
+BRL_PrimaryBudgetSurplus;20150630;13:30;Primary Budget Surplus;Brazil;BRL;1
+USD_ChicagoPurchasingManagers'Index;20150630;13:45;Chicago Purchasing Managers' Index;United States;USD;2
+USD_ConsumerConfidence;20150630;14:00;Consumer Confidence;United States;USD;2
+USD_Auction;20150630;15:30;4-Week Bill Auction;United States;USD;1
+INR_FederalFiscalDeficitINR;20150630;15:30;Federal Fiscal Deficit, INR;India;INR;1
+COP_NationalJoblessRate;20150630;17:00;National Jobless Rate;Colombia;COP;1
+MXN_FiscalBalancepesos;20150630;19:30;Fiscal Balance, pesos;Mexico;MXN;1
+KRW_ConsumerPriceIndex;20150630;23:00;Consumer Price Index Growth (YoY);South Korea;KRW;1
+AUD_AiGPerformanceofMfgIndex;20150630;23:30;AiG Performance of Mfg Index;Australia;AUD;2
+JPY_TankanNonManufacturingIndex;20150630;23:50;Tankan Non - Manufacturing Index;Japan;JPY;2
+JPY_TankanLargeAllIndustryCapex;20150630;23:50;Tankan Large All Industry Capex;Japan;JPY;2
+JPY_TankanLargeManufacturingOutlook;20150630;23:50;Tankan Large Manufacturing Outlook;Japan;JPY;2
+JPY_TankanLargeManufacturingIndex;20150630;23:50;Tankan Large Manufacturing Index;Japan;JPY;2
+JPY_TankanNonManufacturingOutlook;20150630;23:50;Tankan Non - Manufacturing Outlook;Japan;JPY;2

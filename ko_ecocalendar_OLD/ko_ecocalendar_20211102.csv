@@ -1,0 +1,41 @@
+AUD_CommonwealthBankServicesPMI;20211102;22:00;Commonwealth Bank Services PMI;Australia;AUD;2
+AUD_CommonwealthBankCompositePMI;20211102;22:00;Commonwealth Bank Composite PMI;Australia;AUD;1
+NZD_ParticipationRate;20211102;21:45;Participation Rate;New Zealand;NZD;2
+NZD_UnemploymentRate;20211102;21:45;Unemployment Rate;New Zealand;NZD;3
+NZD_EmploymentChange;20211102;21:45;Employment Change;New Zealand;NZD;3
+NZD_LabourCostIndex;20211102;21:45;Labour Cost Index (YoY);New Zealand;NZD;1
+KRW_FXReserves;20211102;21:00;FX Reserves;South Korea;KRW;1
+USD_TotalVehicleSales;20211102;20:30;Total Vehicle Sales;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20211102;20:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_RBNZFinancialStabilityReport;20211102;20:00;RBNZ Financial Stability Report;New Zealand;NZD;2
+DKK_CurrencyReserves;20211102;16:00;Currency Reserves;Denmark;DKK;1
+USD_Auction;20211102;15:30;52-Week Bill Auction;United States;USD;1
+JPY_CultureDay;20211102;15:00;Culture Day;Japan;JPY;0
+USD_IBDTIPPEconomicOptimism;20211102;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+NZD_GDTPriceIndex;20211102;14:00;GDT Price Index;New Zealand;NZD;1
+USD_ISMNYBusinessConditionsIndex;20211102;13:45;ISM-NY Business Conditions Index;United States;USD;1
+CLP_Unemploymentrate;20211102;13:00;Unemployment rate;Chile;CLP;1
+SGD_PurchasingManagersIndex;20211102;13:00;Purchasing Managers Index;Singapore;SGD;1
+USD_RedbookIndex;20211102;12:55;Redbook Index (YoY);United States;USD;1
+CAD_BuildingPermits;20211102;12:30;Building Permits (MoM);Canada;CAD;1
+CLP_IMACEC;20211102;10:30;IMACEC;Chile;CLP;1
+EUR_EurMarkitManufacturingPMI;20211102;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;1
+EUR_GerMarkitManufacturingPMI;20211102;08:55;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20211102;08:50;Markit Manufacturing PMI;France;EUR;1
+EUR_ItaMarkitManufacturingPMI;20211102;08:45;Markit Manufacturing PMI;Italy;EUR;2
+HKD_RetailSales;20211102;08:30;Retail Sales;Hong Kong SAR;HKD;1
+EUR_SpaMarkitManufacturingPMI;20211102;08:15;Markit Manufacturing PMI;Spain;EUR;2
+EUR_AusUnemployment;20211102;08:00;Unemployment;Austria;EUR;1
+EUR_AusUnemploymentRate;20211102;08:00;Unemployment Rate;Austria;EUR;1
+HUF_ProducerPriceIndex;20211102;08:00;Producer Price Index (YoY);Hungary;HUF;1
+HUF_TradeBalance;20211102;08:00;Trade Balance;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20211102;08:00;Purchasing Manager Index;Poland;PLN;2
+CHF_RetailSales;20211102;07:30;Real Retail Sales (YoY);Switzerland;CHF;2
+CHF_ConsumerPriceIndex;20211102;07:30;Consumer Price Index (YoY);Switzerland;CHF;1
+MXN_DayoftheDead;20211102;06:00;Day of the Dead ;Mexico;MXN;0
+AUD_CentralBankSpeech;20211102;05:50;RBA Debelle speech;Australia;AUD;2
+AUD_RBAInterestRateDecision;20211102;03:30;RBA Interest Rate Decision;Australia;AUD;3
+AUD_RBARateStatement;20211102;03:30;RBA Rate Statement;Australia;AUD;3
+BRL_AllSoulsDay;20211102;03:00;All Souls Day;Brazil;BRL;0
+AUD_BuildingPermits;20211102;00:30;Building Permits (YoY);Australia;AUD;1
+AUD_TDSecuritiesInflation;20211102;00:00;TD Securities Inflation (MoM);Australia;AUD;2

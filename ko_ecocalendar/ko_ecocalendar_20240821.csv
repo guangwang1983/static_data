@@ -1,0 +1,24 @@
+AUD_WestpacLeadingIndex;20240821;01:00;Westpac Leading Index (MoM);Australia;AUD;1
+NZD_CreditCardSpending;20240821;03:00;Credit Card Spending (YoY);New Zealand;NZD;1
+GBP_PublicSectorNetBorrowing;20240821;06:00;Public Sector Net Borrowing;United Kingdom;GBP;1
+IDR_BankIndonesiaRate;20240821;07:30;Bank Indonesia Rate;Indonesia;IDR;1
+PLN_IndustrialOutput;20240821;08:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20240821;08:00;Producer Price Index (YoY);Poland;PLN;1
+PLN_CorporateSectorWages;20240821;08:00;Corporate Sector Wages;Poland;PLN;1
+ZAR_ConsumerPriceIndex;20240821;08:00;Consumer Price Index (YoY);South Africa;ZAR;1
+EUR_GerAuction;20240821;09:40;10-y Bond Auction;Germany;EUR;1
+ILS_IndustrialProduction;20240821;10:00;Industrial Production (MoM);Israel;ILS;1
+USD_MBAMortgageApplications;20240821;11:00;MBA Mortgage Applications;United States;USD;1
+INR_M3MoneySupply;20240821;11:30;M3 Money Supply;India;INR;1
+CAD_RawMaterialPriceIndex;20240821;12:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20240821;12:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_NewHousingPriceIndex;20240821;12:30;New Housing Price Index (YoY);Canada;CAD;1
+USD_EIACrudeOilStocksChange;20240821;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+RUB_ProducerPriceIndex;20240821;16:00;Producer Price Index (YoY);Russia;RUB;1
+USD_Auction;20240821;17:00;20-Year Bond Auction;United States;USD;1
+USD_FOMCMinutes;20240821;18:00;FOMC Minutes;United States;USD;3
+AUD_JudoBankServicesPMI;20240821;23:00;Judo Bank Services PMI;Australia;AUD;2
+AUD_JudoBankManufacturingPMI;20240821;23:00;Judo Bank Manufacturing PMI;Australia;AUD;2
+AUD_JudoBankCompositePMI;20240821;23:00;Judo Bank Composite PMI;Australia;AUD;2
+JPY_ForeignBondInvestment;20240821;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20240821;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1

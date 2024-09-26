@@ -1,0 +1,27 @@
+AUD_WestpacLeadingIndex;20171121;23:30;Westpac Leading Index (MoM);Australia;AUD;1
+NZD_VisitorArrivals;20171121;21:45;Visitor Arrivals (YoY);New Zealand;NZD;1
+USD_APIWeeklyCrudeOilStock;20171121;21:35;API Weekly Crude Oil Stock;United States;USD;1
+USD_CentralBankSpeech;20171121;18:00;FOMC Member Powell speech (don't use);United States;USD;2
+USD_Auction;20171121;16:30;4-Week Bill Auction;United States;USD;1
+USD_ExistingHomeSales;20171121;15:00;Existing Home Sales (MoM);United States;USD;1
+USD_ExistingHomeSalesChange;20171121;15:00;Existing Home Sales Change (MoM);United States;USD;1
+EUR_EurCentralBankSpeech;20171121;15:00;ECB Cœuré speech;European Monetary Union;EUR;2
+NZD_GDTPriceIndex;20171121;14:17;GDT Price Index;New Zealand;NZD;1
+EUR_BelConsumerConfidenceIndex;20171121;14:00;Consumer Confidence Index;Belgium;EUR;1
+USD_RedbookIndex;20171121;13:55;Redbook Index (MoM);United States;USD;1
+USD_ChicagoFedNationalActivityIndex;20171121;13:30;Chicago Fed National Activity Index ;United States;USD;2
+CAD_WholesaleSales;20171121;13:30;Wholesale Sales (MoM);Canada;CAD;1
+HUF_MNBInterestRateDecision;20171121;13:00;MNB Interest Rate Decision;Hungary;HUF;1
+EUR_PorCurrentAccount;20171121;11:23;Current Account Balance;Portugal;EUR;1
+GBP_CBIIndustrialTrendsSurveyOrders;20171121;11:00;CBI Industrial Trends Survey - Orders (MoM);United Kingdom;GBP;1
+EUR_SpaAuction;20171121;10:55;3-Month Letras Auction;Spain;EUR;1
+GBP_InflationReportHearings;20171121;10:00;Inflation Report Hearings;United Kingdom;GBP;2
+GBP_PublicSectorNetBorrowing;20171121;09:30;Public Sector Net Borrowing;United Kingdom;GBP;2
+AUD_CentralBankSpeech;20171121;09:05;RBA Governor Lowe speech;Australia;AUD;3
+HKD_ConsumerPriceIndex;20171121;08:30;Consumer Price Index;Hong Kong SAR;HKD;1
+CHF_Exports;20171121;07:00;Exports (MoM);Switzerland;CHF;1
+CHF_Imports;20171121;07:00;Imports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20171121;07:00;Trade Balance;Switzerland;CHF;1
+EUR_FinUnemploymentRate;20171121;07:00;Unemployment Rate;Finland;EUR;1
+JPY_AllIndustryActivityIndex;20171121;04:30;All Industry Activity Index (MoM);Japan;JPY;2
+AUD_RBAMeetingMinutes;20171121;00:30;RBA Meeting Minutes;Australia;AUD;3

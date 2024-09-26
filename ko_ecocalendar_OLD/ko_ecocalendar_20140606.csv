@@ -1,0 +1,55 @@
+USD_ConsumerCreditChange;20140606;19:00;Consumer Credit Change;United States;USD;2
+TRY_TreasuryCashBalance;20140606;14:30;Treasury Cash Balance;Turkey;TRY;1
+MXN_CentralBankInterestRate;20140606;14:00;Central Bank Interest Rate;Mexico;MXN;1
+CAD_LaborProductivity;20140606;12:30;Labor Productivity (QoQ);Canada;CAD;1
+USD_AverageHourlyEarnings;20140606;12:30;Average Hourly Earnings (MoM);United States;USD;2
+USD_NonfarmPayrolls;20140606;12:30;Nonfarm Payrolls;United States;USD;3
+USD_UnemploymentRate;20140606;12:30;Unemployment Rate;United States;USD;3
+USD_LaborForceParticipationRate;20140606;12:30;Labor Force Participation Rate;United States;USD;2
+USD_AverageWeeklyHours;20140606;12:30;Average Weekly Hours;United States;USD;1
+CAD_ParticipationRate;20140606;12:30;Participation Rate;Canada;CAD;2
+CAD_NetChangeinEmployment;20140606;12:30;Net Change in Employment;Canada;CAD;3
+CAD_UnemploymentRate;20140606;12:30;Unemployment Rate;Canada;CAD;3
+BRL_IPCAInflation;20140606;12:00;IPCA Inflation;Brazil;BRL;1
+PLN_CentralBankFXReserves;20140606;12:00;Central Bank FX Reserves;Poland;PLN;1
+CLP_ConsumerPriceIndex;20140606;12:00;Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+INR_FXReservesUSD;20140606;11:30;FX Reserves, USD;India;INR;1
+ISK_GrossDomesticProduct;20140606;09:00;Gross Domestic Product (QoQ);Iceland;ISK;1
+EUR_GreGrossDomesticProduct;20140606;09:00;Gross Domestic Product s.a (YoY);Greece;EUR;1
+GBP_ConsumerInflationExpectations;20140606;08:30;Consumer Inflation Expectations;United Kingdom;GBP;2
+GBP_GoodsTradeBalance;20140606;08:30;Goods Trade Balance;United Kingdom;GBP;2
+GBP_TradeBalancenonEU;20140606;08:30;Trade Balance non-EU;United Kingdom;GBP;2
+GBP_TotalTradeBalance;20140606;08:30;Total Trade Balance;United Kingdom;GBP;2
+NOK_ManufacturingOutput;20140606;08:00;Manufacturing Output;Norway;NOK;1
+CZK_FXReserves;20140606;08:00;FX Reserves;Czech Republic;CZK;1
+EUR_NetManufacturingOutput;20140606;07:30;Manufacturing Output (MoM);Netherlands, The;EUR;1
+CHF_IndustrialProduction;20140606;07:15;Industrial Production (QoQ);Switzerland;CHF;2
+CHF_ConsumerPriceIndex;20140606;07:15;Consumer Price Index (YoY);Switzerland;CHF;3
+EUR_AusWholesalePrices;20140606;07:00;Wholesale Prices n.s.a (MoM);Austria;EUR;1
+EUR_AusGrossDomesticProduct;20140606;07:00;Gross Domestic Product (QoQ);Austria;EUR;1
+CZK_IndustrialProduction;20140606;07:00;Industrial Production (YoY);Czech Republic;CZK;1
+CHF_ForeignCurrencyReserves;20140606;07:00;Foreign Currency Reserves;Switzerland;CHF;2
+EUR_SpaIndustrialOutputCalAdjusted;20140606;07:00;Industrial Output Cal Adjusted (YoY);Spain;EUR;1
+DKK_TradeBalance;20140606;07:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20140606;07:00;Current Account;Denmark;DKK;1
+EUR_AusTradeBalance;20140606;07:00;Trade Balance;Austria;EUR;1
+CZK_Constructionoutput;20140606;07:00;Construction output (YoY);Czech Republic;CZK;1
+HUF_TradeBalance;20140606;07:00;Trade Balance;Hungary;HUF;1
+CZK_ForeignTradeBalance;20140606;07:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+EUR_FraImportsEUR;20140606;06:45;Imports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20140606;06:45;Trade Balance EUR;France;EUR;1
+EUR_FraExportsEUR;20140606;06:45;Exports, EUR;France;EUR;1
+EUR_FraBudget;20140606;06:45;Budget;France;EUR;1
+EUR_GerIndustrialProduction;20140606;06:00;Industrial Production s.a. (MoM);Germany;EUR;2
+EUR_GerCurrentAccount;20140606;06:00;Current Account n.s.a.;Germany;EUR;1
+EUR_GerExports;20140606;06:00;Exports (MoM);Germany;EUR;2
+EUR_GerTradeBalance;20140606;06:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerImports;20140606;06:00;Imports (MoM);Germany;EUR;2
+ZAR_Net$Gold&ForexReserve;20140606;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+ZAR_Gross$Gold&ForexReserve;20140606;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+JPY_CoincidentIndex;20140606;05:00;Coincident Index;Japan;JPY;2
+JPY_LeadingEconomicIndex;20140606;05:00;Leading Economic Index;Japan;JPY;2
+COP_ConsumerPriceIndex;20140606;01:00;Consumer Price Index (YoY);Colombia;COP;1
+KRW_MemorialDay;20140606;00:00;Memorial Day ;South Korea;KRW;0
+SEK_NationalDay;20140606;00:00;National Day;Sweden;SEK;0
+RON_OrthodoxWhitMonday;20140606;00:00;Orthodox Whit Monday;Romania;RON;0

@@ -1,0 +1,21 @@
+CNY_RetailSales;20150120;02:00;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20150120;02:00;Industrial Production (YoY);China;CNY;2
+CNY_NBSPressConference;20150120;02:00;NBS Press Conference;China;CNY;2
+CNY_FixedAssetInvestment;20150120;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+CNY_GrossDomesticProduct;20150120;02:00;Gross Domestic Product (YoY);China;CNY;3
+EUR_GerProducerPriceIndex;20150120;07:00;Producer Price Index (MoM);Germany;EUR;1
+EUR_ItaGlobalTradeBalance;20150120;09:00;Global Trade Balance;Italy;EUR;1
+EUR_ItaTradeBalanceEU;20150120;09:00;Trade Balance EU;Italy;EUR;1
+EUR_GerZEWSurvey–CurrentSituation;20150120;10:00;ZEW Survey – Current Situation;Germany;EUR;2
+EUR_EurZEWSurvey–EconomicSentiment;20150120;10:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurvey–EconomicSentiment;20150120;10:00;ZEW Survey – Economic Sentiment;Germany;EUR;3
+TRY_CBRTInterestRateDecision;20150120;12:00;CBRT Interest Rate Decision;Turkey;TRY;1
+PLN_CorporateSectorWages;20150120;13:00;Corporate Sector Wages;Poland;PLN;1
+CAD_ManufacturingSales;20150120;13:30;Manufacturing Sales (MoM);Canada;CAD;1
+USD_CentralBankSpeech;20150120;15:00;FOMC Member Powell speech (don't use);United States;USD;1
+USD_NAHBHousingMarketIndex;20150120;15:00;NAHB Housing Market Index;United States;USD;2
+NZD_GDTPriceIndex;20150120;15:00;GDT Price Index;New Zealand;NZD;1
+USD_Auction;20150120;16:30;3-Month Bill Auction;United States;USD;1
+NZD_ConsumerPriceIndex;20150120;21:45;Consumer Price Index (QoQ);New Zealand;NZD;2
+AUD_WestpacConsumerConfidenceIndex;20150120;23:30;Westpac Consumer Confidence Index;Australia;AUD;1
+AUD_WestpacConsumerConfidence;20150120;23:30;Westpac Consumer Confidence;Australia;AUD;1

@@ -1,0 +1,28 @@
+AUD_WestpacLeadingIndex;20230719;01:00;Westpac Leading Index (MoM);Australia;AUD;1
+GBP_RetailPriceIndex;20230719;06:00;Retail Price Index (MoM);United Kingdom;GBP;2
+GBP_PPICoreOutput;20230719;06:00;PPI Core Output (YoY) n.s.a ;United Kingdom;GBP;2
+GBP_ProducerPriceIndex;20230719;06:00;Producer Price Index - Input (MoM) n.s.a;United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20230719;06:00;Consumer Price Index (YoY);United Kingdom;GBP;3
+CNY_FDIForeignDirectInvestment;20230719;07:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;1
+CZK_ProducerPriceIndex;20230719;07:00;Producer Price Index (MoM);Czech Republic;CZK;1
+ZAR_ConsumerPriceIndex;20230719;08:00;Consumer Price Index (MoM);South Africa;ZAR;1
+GBP_DCLGHousePriceIndex;20230719;08:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+EUR_EurHarmonizedIndexofConsumerPrices;20230719;09:00;Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;1
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20230719;09:00;Core Harmonized Index of Consumer Prices (MoM);European Monetary Union;EUR;2
+EUR_EurConstructionOutput;20230719;09:00;Construction Output w.d.a (YoY);European Monetary Union;EUR;1
+EUR_GerAuction;20230719;09:30;30-y Bond Auction;Germany;EUR;1
+USD_MBAMortgageApplications;20230719;11:00;MBA Mortgage Applications;United States;USD;1
+ZAR_RetailSales;20230719;11:00;Retail Sales (YoY);South Africa;ZAR;1
+USD_HousingStartsChange;20230719;12:30;Housing Starts Change;United States;USD;1
+USD_BuildingPermitsChange;20230719;12:30;Building Permits Change;United States;USD;1
+USD_HousingStarts;20230719;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20230719;12:30;Building Permits (MoM);United States;USD;2
+USD_EIACrudeOilStocksChange;20230719;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+COP_TradeBalance;20230719;15:00;Trade Balance;Colombia;COP;1
+GBP_CentralBankSpeech;20230719;16:00;BoE Ramsden speech;United Kingdom;GBP;2
+RUB_ProducerPriceIndex;20230719;16:00;Producer Price Index (MoM);Russia;RUB;1
+USD_Auction;20230719;17:00;20-Year Bond Auction;United States;USD;1
+JPY_Imports;20230719;23:50;Imports (YoY);Japan;JPY;2
+JPY_Exports;20230719;23:50;Exports (YoY);Japan;JPY;2
+JPY_MerchandiseTradeBalanceTotal;20230719;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20230719;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1

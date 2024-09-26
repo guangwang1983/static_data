@@ -1,0 +1,29 @@
+USD_Auction;20131223;18:00;4-Week Bill Auction;United States;USD;1
+EUR_BelConsumerPriceIndex;20131223;15:13;Consumer Price Index (YoY);Belgium;EUR;1
+USD_MichiganConsumerSentimentIndex;20131223;14:55;Michigan Consumer Sentiment Index;United States;USD;2
+EUR_BelLeadingIndicator;20131223;14:00;Leading Indicator;Belgium;EUR;1
+MXN_1sthalfmonthCoreInflation;20131223;14:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20131223;14:00;1st half-month Inflation;Mexico;MXN;1
+USD_ChicagoFedNationalActivityIndex;20131223;13:30;Chicago Fed National Activity Index ;United States;USD;2
+USD_PersonalConsumptionExpendituresPriceIndex;20131223;13:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;1
+USD_PersonalSpending;20131223;13:30;Personal Spending;United States;USD;2
+USD_CorePersonalConsumptionExpenditurePriceIndex;20131223;13:30;Core Personal Consumption Expenditure - Price Index (MoM);United States;USD;2
+USD_PersonalIncome;20131223;13:30;Personal Income (MoM);United States;USD;2
+CAD_GrossDomesticProduct;20131223;13:30;Gross Domestic Product (MoM);Canada;CAD;2
+EUR_ItaConsumerConfidence;20131223;09:00;Consumer Confidence;Italy;EUR;1
+PLN_Unemployment;20131223;09:00;Unemployment (MoM);Poland;PLN;1
+PLN_RetailSales;20131223;09:00;Retail Sales (YoY);Poland;PLN;1
+NOK_LabourForceSurvey;20131223;09:00;Labour Force Survey;Norway;NOK;1
+HKD_ConsumerPriceIndex;20131223;08:30;Consumer Price Index;Hong Kong SAR;HKD;1
+EUR_SpaProducerPriceIndex;20131223;08:00;Producer Price Index (YoY);Spain;EUR;1
+EUR_AusIndustrialProduction;20131223;08:00;Industrial Production (YoY);Austria;EUR;1
+HUF_CurrentAccount;20131223;07:30;Current Account Balance (QoQ);Hungary;HUF;1
+EUR_GerImportPriceIndex;20131223;07:00;Import Price Index (MoM);Germany;EUR;1
+EUR_FinProducerPriceIndex;20131223;07:00;Producer Price Index (YoY);Finland;EUR;1
+CHF_MonthlyStatisticalBulletin;20131223;07:00;Monthly Statistical Bulletin;Switzerland;CHF;2
+CHF_UBSConsumptionIndicator;20131223;07:00;UBS Consumption Indicator;Switzerland;CHF;2
+EUR_FinImportPrices;20131223;07:00;Import Prices (YoY);Finland;EUR;1
+EUR_FinExportPrices;20131223;07:00;Export Prices (YoY);Finland;EUR;1
+SGD_ConsumerPriceIndex;20131223;05:00;Consumer Price Index (YoY);Singapore;SGD;1
+NZD_M3MoneySupply;20131223;02:00;M3 Money Supply (YoY);New Zealand;NZD;1
+JPY_TheEmperorBirthday;20131223;00:00;The Emperor Birthday;Japan;JPY;0

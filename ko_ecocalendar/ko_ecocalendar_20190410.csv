@@ -1,0 +1,42 @@
+AUD_WestpacConsumerConfidence;20190410;00:30;Westpac Consumer Confidence;Australia;AUD;2
+NZD_ANZMonthlyInflationGauge;20190410;01:00;ANZ Monthly Inflation Gauge (YoY);New Zealand;NZD;1
+AUD_CentralBankSpeech;20190410;02:30;RBA Debelle speech;Australia;AUD;2
+NOK_ConsumerPriceIndex;20190410;06:00;Consumer Price Index (MoM);Norway;NOK;1
+NOK_CoreInflation;20190410;06:00;Core Inflation (MoM);Norway;NOK;1
+DKK_Inflation;20190410;06:00;Inflation (HICP) (YoY);Denmark;DKK;1
+DKK_ConsumerPriceIndex;20190410;06:00;Consumer Price Index (YoY);Denmark;DKK;1
+RON_ConsumerPriceIndex;20190410;06:00;Consumer Price Index;Romania;RON;1
+JPY_MachineToolOrders;20190410;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+NOK_ProducerPriceIndex;20190410;06:00;Producer Price Index (YoY);Norway;NOK;1
+JPY_CentralBankSpeech;20190410;06:15;BoJ Governor Kuroda speech;Japan;JPY;3
+EUR_FraIndustrialOutput;20190410;06:45;Industrial Output (MoM);France;EUR;1
+CZK_ConsumerPriceIndex;20190410;07:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+EUR_ItaIndustrialOutput;20190410;08:00;Industrial Output w.d.a (YoY);Italy;EUR;1
+GBP_IndustrialProduction;20190410;08:30;Industrial Production (YoY);United Kingdom;GBP;1
+GBP_ManufacturingProduction;20190410;08:30;Manufacturing Production (MoM);United Kingdom;GBP;2
+GBP_IndexofServices;20190410;08:30;Index of Services (3M/3M);United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20190410;08:30;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20190410;08:30;Total Trade Balance;United Kingdom;GBP;1
+GBP_GoodsTradeBalance;20190410;08:30;Goods Trade Balance;United Kingdom;GBP;1
+GBP_GrossDomesticProduct;20190410;08:30;Gross Domestic Product (MoM);United Kingdom;GBP;2
+ZAR_BusinessConfidenceIndex;20190410;09:30;Business Confidence Index;South Africa;ZAR;1
+USD_MBAMortgageApplications;20190410;11:00;MBA Mortgage Applications;United States;USD;1
+EUR_EurECBRateOnMainRefinancingOperations;20190410;11:45;ECB Rate On Main Refinancing Operations;European Monetary Union;EUR;3
+EUR_EurECBRateOnDepositFacility;20190410;11:45;ECB Rate On Deposit Facility;European Monetary Union;EUR;3
+INR_M3MoneySupply;20190410;12:00;M3 Money Supply;India;INR;1
+BRL_IPCAInflation;20190410;12:00;IPCA Inflation;Brazil;BRL;1
+USD_ConsumerPriceIndex;20190410;12:30;Consumer Price Index ex Food & Energy (MoM);United States;USD;3
+EUR_EurECBPressConference;20190410;12:30;ECB Press Conference;European Monetary Union;EUR;3
+GBP_NIESRGDPEstimate;20190410;13:00;NIESR GDP Estimate (3M);United Kingdom;GBP;1
+USD_EIACrudeOilStocksChange;20190410;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_CentralBankSpeech;20190410;15:50;Fed Quarles speech;United States;USD;2
+GBP_EuropeanCouncilSummitonBrexit;20190410;16:00;European Council Summit on Brexit;United Kingdom;GBP;3
+USD_Auction;20190410;17:00;10-Year Note Auction;United States;USD;1
+EUR_EurCentralBankSpeech;20190410;18:00;ECB Cœuré speech;European Monetary Union;EUR;2
+USD_MonthlyBudgetStatement;20190410;18:00;Monthly Budget Statement;United States;USD;2
+USD_FOMCMinutes;20190410;18:00;FOMC Minutes;United States;USD;3
+NZD_FoodPriceIndex;20190410;22:45;Food Price Index (MoM);New Zealand;NZD;1
+GBP_RICSHousingPriceBalance;20190410;23:01;RICS Housing Price Balance;United Kingdom;GBP;1
+JPY_MoneySupplyM2+CD;20190410;23:50;Money Supply M2+CD (YoY);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20190410;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20190410;23:50;Foreign Bond Investment;Japan;JPY;1

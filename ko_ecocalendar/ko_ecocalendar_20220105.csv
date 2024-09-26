@@ -1,0 +1,30 @@
+AUD_ANZJobAdvertisements;20220105;00:30;ANZ Job Advertisements;Australia;AUD;1
+JPY_Auction;20220105;03:35;10-y Bond Auction;Japan;JPY;1
+JPY_ConsumerConfidenceIndex;20220105;05:00;Consumer Confidence Index;Japan;JPY;1
+DKK_IndustrialOutlook;20220105;07:00;Industrial Outlook;Denmark;DKK;1
+EUR_FraConsumerConfidence;20220105;07:45;Consumer Confidence;France;EUR;1
+HUF_UnemploymentRate;20220105;08:00;Unemployment Rate (3M);Hungary;HUF;1
+EUR_ItaHCOBServicesPMI;20220105;08:45;HCOB Services PMI;Italy;EUR;2
+EUR_FraHCOBServicesPMI;20220105;08:50;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20220105;08:50;HCOB Composite PMI;France;EUR;1
+EUR_GerHCOBServicesPMI;20220105;08:55;HCOB Services PMI;Germany;EUR;1
+EUR_GerHCOBCompositePMI;20220105;08:55;HCOB Composite PMI;Germany;EUR;2
+EUR_EurHCOBServicesPMI;20220105;09:00;HCOB Services PMI;European Monetary Union;EUR;1
+EUR_EurHCOBCompositePMI;20220105;09:00;HCOB Composite PMI;European Monetary Union;EUR;2
+EUR_ItaConsumerPriceIndex;20220105;10:00;Consumer Price Index (EU Norm) (YoY);Italy;EUR;1
+EUR_GerAuction;20220105;10:30;10-y Bond Auction;Germany;EUR;2
+MXN_ConsumerConfidence;20220105;12:00;Consumer Confidence s.a;Mexico;MXN;1
+PLN_CentralBankFXReserves;20220105;13:00;Central Bank FX Reserves;Poland;PLN;1
+USD_MBAMortgageApplications;20220105;13:00;MBA Mortgage Applications;United States;USD;1
+USD_ADPEmploymentChange;20220105;13:15;ADP Employment Change;United States;USD;3
+CAD_BuildingPermits;20220105;13:30;Building Permits (MoM);Canada;CAD;1
+CAD_NewHousingPriceIndex;20220105;13:30;New Housing Price Index (YoY);Canada;CAD;1
+USD_S&PGlobalCompositePMI;20220105;14:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20220105;14:45;S&P Global Services PMI;United States;USD;2
+USD_EIACrudeOilStocksChange;20220105;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_FOMCMinutes;20220105;19:00;FOMC Minutes;United States;USD;3
+EUR_ItaEpiphany;20220105;22:00;Epiphany;Italy;EUR;0
+SEK_Epiphany;20220105;22:00;Epiphany;Sweden;SEK;0
+AUD_S&PGlobalServicesPMI;20220105;22:00;S&P Global Services PMI;Australia;AUD;2
+AUD_S&PGlobalCompositePMI;20220105;22:00;S&P Global Composite PMI;Australia;AUD;1
+PLN_Epiphany;20220105;23:00;Epiphany;Poland;PLN;0

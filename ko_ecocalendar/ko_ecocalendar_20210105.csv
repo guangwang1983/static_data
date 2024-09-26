@@ -1,0 +1,31 @@
+AUD_ANZJobAdvertisements;20210105;00:30;ANZ Job Advertisements;Australia;AUD;1
+EUR_GerRetailSales;20210105;07:00;Retail Sales (MoM);Germany;EUR;2
+CHF_ConsumerPriceIndex;20210105;07:30;Consumer Price Index (YoY);Switzerland;CHF;2
+TRY_Exports;20210105;08:00;Exports;Turkey;TRY;1
+HUF_UnemploymentRate;20210105;08:00;Unemployment Rate (3M);Hungary;HUF;1
+EUR_GerUnemploymentRate;20210105;08:55;Unemployment Rate s.a.;Germany;EUR;2
+EUR_GerUnemploymentChange;20210105;08:55;Unemployment Change;Germany;EUR;2
+EUR_EurPrivateLoans;20210105;09:00;Private Loans (YoY);European Monetary Union;EUR;1
+EUR_EurM3MoneySupply;20210105;09:00;M3 Money Supply (3m);European Monetary Union;EUR;1
+USD_OPECMeeting;20210105;10:00;OPEC Meeting;United States;USD;2
+CAD_RawMaterialPriceIndex;20210105;13:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20210105;13:30;Industrial Product Price (MoM);Canada;CAD;1
+USD_RedbookIndex;20210105;13:55;Redbook Index (YoY);United States;USD;1
+USD_ISMNYBusinessConditionsIndex;20210105;14:45;ISM-NY Business Conditions Index;United States;USD;1
+NZD_GDTPriceIndex;20210105;14:55;GDT Price Index;New Zealand;NZD;1
+CZK_BudgetBalance;20210105;15:00;Budget Balance;Czech Republic;CZK;1
+USD_ISMManufacturingEmploymentIndex;20210105;15:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ISMManufacturingNewOrdersIndex;20210105;15:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ISMManufacturingPMI;20210105;15:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20210105;15:00;ISM Manufacturing Prices Paid;United States;USD;2
+DKK_CurrencyReserves;20210105;16:00;Currency Reserves;Denmark;DKK;1
+GBP_CentralBankSpeech;20210105;17:00;UK Prime Minister Boris Johnson speech;United Kingdom;GBP;2
+USD_TotalVehicleSales;20210105;20:30;Total Vehicle Sales;United States;USD;1
+USD_CentralBankSpeech;20210105;20:45;Fed Williams speech;United States;USD;2
+KRW_FXReserves;20210105;21:00;FX Reserves;South Korea;KRW;1
+USD_APIWeeklyCrudeOilStock;20210105;21:30;API Weekly Crude Oil Stock;United States;USD;1
+EUR_ItaEpiphany;20210105;22:00;Epiphany;Italy;EUR;0
+SEK_Epiphany;20210105;22:00;Epiphany;Sweden;SEK;0
+AUD_S&PGlobalCompositePMI;20210105;22:00;S&P Global Composite PMI;Australia;AUD;1
+AUD_S&PGlobalServicesPMI;20210105;22:00;S&P Global Services PMI;Australia;AUD;2
+PLN_Epiphany;20210105;23:00;Epiphany;Poland;PLN;0

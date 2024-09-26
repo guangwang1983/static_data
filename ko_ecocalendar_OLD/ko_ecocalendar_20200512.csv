@@ -1,0 +1,32 @@
+JPY_BankLending;20200512;23:50;Bank Lending (YoY);Japan;JPY;1
+JPY_CurrentAccount;20200512;23:50;Current Account n.s.a.;Japan;JPY;1
+JPY_TradeBalanceBOPBasis;20200512;23:50;Trade Balance - BOP Basis;Japan;JPY;1
+GBP_RetailSales;20200512;23:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+KRW_UnemploymentRate;20200512;23:00;Unemployment Rate;South Korea;KRW;1
+NZD_FoodPriceIndex;20200512;22:45;Food Price Index (MoM);New Zealand;NZD;1
+USD_CentralBankSpeech;20200512;21:00;Fed Mester speech;United States;USD;2
+USD_APIWeeklyCrudeOilStock;20200512;20:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_MonthlyBudgetStatement;20200512;18:00;Monthly Budget Statement;United States;USD;2
+USD_Auction;20200512;17:00;10-Year Note Auction;United States;USD;1
+USD_USDAWASDEReport;20200512;16:00;USDA WASDE Report;United States;USD;1
+USD_RedbookIndex;20200512;12:55;Redbook Index (YoY);United States;USD;1
+RUB_BudgetFulfilment;20200512;12:30;Budget Fulfilment;Russia;RUB;1
+USD_ConsumerPriceIndex;20200512;12:30;Consumer Price Index Core s.a;United States;USD;2
+INR_CumulativeIndustrialOutput;20200512;12:00;Cumulative Industrial Output;India;INR;1
+INR_IndustrialOutput;20200512;12:00;Industrial Output;India;INR;1
+INR_ManufacturingOutput;20200512;12:00;Manufacturing Output;India;INR;1
+MXN_IndustrialOutput;20200512;11:00;Industrial Output (MoM);Mexico;MXN;1
+ZAR_ManufacturingProductionIndex;20200512;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+USD_NFIBBusinessOptimismIndex;20200512;10:00;NFIB Business Optimism Index;United States;USD;1
+EUR_SpaAuction;20200512;08:40;3-Month Letras Auction;Spain;EUR;1
+AUD_BudgetRelease;20200512;08:30;Budget Release;Australia;AUD;3
+CNY_FDIForeignDirectInvestment;20200512;08:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+JPY_LeadingEconomicIndex;20200512;05:00;Leading Economic Index;Japan;JPY;2
+JPY_CoincidentIndex;20200512;05:00;Coincident Index;Japan;JPY;1
+EUR_NetConsumerPriceIndex;20200512;04:30;Consumer Price Index n.s.a (YoY);Netherlands, The;EUR;1
+JPY_Auction;20200512;03:35;10-y Bond Auction;Japan;JPY;1
+IDR_RetailSales;20200512;03:00;Retail Sales (YoY);Indonesia;IDR;1
+AUD_NationalAustraliaBankBusinessConfidence;20200512;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20200512;01:30;National Australia Bank Business Conditions;Australia;AUD;1
+CNY_ConsumerPriceIndex;20200512;01:30;Consumer Price Index (YoY);China;CNY;3
+CNY_ProducerPriceIndex;20200512;01:30;Producer Price Index (YoY);China;CNY;2

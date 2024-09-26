@@ -1,0 +1,34 @@
+AUD_Imports;20230706;01:30;Imports (MoM);Australia;AUD;2
+AUD_Exports;20230706;01:30;Exports (MoM);Australia;AUD;2
+AUD_TradeBalance;20230706;01:30;Trade Balance (MoM);Australia;AUD;3
+EUR_GerFactoryOrders;20230706;06:00;Factory Orders s.a. (MoM);Germany;EUR;2
+HUF_IndustrialOutput;20230706;06:30;Industrial Output (YoY);Hungary;HUF;1
+HUF_RetailSales;20230706;06:30;Retail Sales (YoY);Hungary;HUF;1
+GBP_S&PGlobalConstructionPMI;20230706;08:30;S&P Global Construction PMI;United Kingdom;GBP;1
+EUR_FraAuction;20230706;08:50;10-y Bond Auction;France;EUR;1
+EUR_EurRetailSales;20230706;09:00;Retail Sales (YoY);European Monetary Union;EUR;3
+ILS_FXReserves;20230706;11:00;FX Reserves;Israel;ILS;1
+USD_MBAMortgageApplications;20230706;11:00;MBA Mortgage Applications;United States;USD;1
+USD_ChallengerJobCuts;20230706;11:30;Challenger Job Cuts;United States;USD;2
+USD_ADPEmploymentChange;20230706;12:15;ADP Employment Change;United States;USD;3
+USD_GoodsandServicesTradeBalance;20230706;12:30;Goods and Services Trade Balance;United States;USD;1
+USD_JoblessClaims;20230706;12:30;Continuing Jobless Claims;United States;USD;1
+USD_GoodsTradeBalance;20230706;12:30;Goods Trade Balance;United States;USD;1
+CAD_InternationalMerchandiseTrade;20230706;12:30;International Merchandise Trade;Canada;CAD;1
+CAD_Exports;20230706;12:30;Exports;Canada;CAD;1
+CAD_Imports;20230706;12:30;Imports;Canada;CAD;1
+USD_CentralBankSpeech;20230706;12:45;Fed Logan speech;United States;USD;2
+PLN_NBPBaserate;20230706;13:00;NBP Base rate;Poland;PLN;1
+USD_S&PGlobalServicesPMI;20230706;13:45;S&P Global Services PMI;United States;USD;1
+USD_S&PGlobalCompositePMI;20230706;13:45;S&P Global Composite PMI;United States;USD;2
+USD_JOLTSJobOpenings;20230706;14:00;JOLTS Job Openings;United States;USD;2
+USD_ISMServicesPricesPaid;20230706;14:00;ISM Services Prices Paid;United States;USD;2
+USD_ISMServicesPMI;20230706;14:00;ISM Services PMI;United States;USD;3
+USD_ISMServicesEmploymentIndex;20230706;14:00;ISM Services Employment Index;United States;USD;2
+USD_ISMServicesNewOrdersIndex;20230706;14:00;ISM Services New Orders Index;United States;USD;2
+USD_EIACrudeOilStocksChange;20230706;15:00;EIA Crude Oil Stocks Change;United States;USD;1
+USD_Auction;20230706;15:30;4-Week Bill Auction;United States;USD;1
+KRW_CurrentAccount;20230706;23:00;Current Account Balance;South Korea;KRW;1
+JPY_LaborCashEarnings;20230706;23:30;Labor Cash Earnings (YoY);Japan;JPY;2
+JPY_OverallHouseholdSpending;20230706;23:30;Overall Household Spending (YoY);Japan;JPY;1
+JPY_JPForeignReserves;20230706;23:50;JP Foreign Reserves;Japan;JPY;1

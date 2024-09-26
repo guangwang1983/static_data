@@ -1,0 +1,11 @@
+NZD_TradeBalance;20090106;21:45;Trade Balance (MoM);New Zealand;NZD;2
+USD_FOMCMinutes;20090106;19:00;FOMC Minutes;United States;USD;3
+USD_ISMNonManufacturingPMI;20090106;15:00;ISM Non-Manufacturing PMI;United States;USD;1
+USD_PendingHomeSales;20090106;15:00;Pending Home Sales (MoM);United States;USD;2
+USD_FactoryOrders;20090106;15:00;Factory Orders (MoM);United States;USD;2
+CAD_IndustrialProductPrice;20090106;13:30;Industrial Product Price (MoM);Canada;CAD;2
+EUR_EurConsumerPriceIndex;20090106;10:00;Consumer Price Index (YoY);European Monetary Union;EUR;2
+GBP_MarkitServicesPMI;20090106;09:30;Markit Services PMI;United Kingdom;GBP;1
+EUR_EurMarkitServicesPMI;20090106;09:00;Markit Services PMI;European Monetary Union;EUR;0
+EUR_GerMarkitServicesPMI;20090106;08:55;Markit Services PMI;Germany;EUR;1
+GBP_NationwideHousingPrices;20090106;07:05;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;2

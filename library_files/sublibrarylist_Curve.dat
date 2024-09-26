@@ -1,0 +1,5 @@
+sublibname,usefx,wnorm,signaltype,volawindowtype
+slsl_eustirscurve_whitendrift,none,none,SV,ENGINE
+slsl_fixedincomecurve1_whitendrift,none,none,SV,ENGINE
+slsl_ukstirscurve_whitendrift,none,none,SV,ENGINE
+slsl_usstirscurve_whitendrift,none,none,SV,ENGINE

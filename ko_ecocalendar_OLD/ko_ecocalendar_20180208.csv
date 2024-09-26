@@ -1,0 +1,51 @@
+JPY_MoneySupplyM2+CD;20180208;23:50;Money Supply M2+CD (YoY);Japan;JPY;1
+PEN_Interestratedecision;20180208;22:00;Interest rate decision;Peru;PEN;1
+MXN_CentralBankInterestRate;20180208;19:00;Central Bank Interest Rate;Mexico;MXN;1
+USD_Auction;20180208;18:00;30-Year Bond Auction;United States;USD;1
+CAD_CentralBankSpeech;20180208;17:45;BoC Wilkins speech;Canada;CAD;2
+USD_EIANaturalGasStorageChange;20180208;15:30;EIA Natural Gas Storage Change;United States;USD;1
+MXN_12MonthInflation;20180208;14:00;12-Month Inflation;Mexico;MXN;1
+MXN_CoreInflation;20180208;14:00;Core Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20180208;14:00;Headline Inflation;Mexico;MXN;1
+USD_JoblessClaims;20180208;13:30;Initial Jobless Claims;United States;USD;2
+CAD_NewHousingPriceIndex;20180208;13:30;New Housing Price Index (YoY);Canada;CAD;1
+CAD_HousingStarts;20180208;13:15;Housing Starts s.a (YoY);Canada;CAD;2
+RUB_CentralBankReserves;20180208;13:00;Central Bank Reserves $;Russia;RUB;1
+GBP_CentralBankSpeech;20180208;12:30;BoE Governor Carney speech;United Kingdom;GBP;3
+GBP_BoEAssetPurchaseFacility;20180208;12:00;BoE Asset Purchase Facility;United Kingdom;GBP;3
+GBP_BoEInterestRateDecision;20180208;12:00;BoE Interest Rate Decision;United Kingdom;GBP;3
+GBP_MonetaryPolicySummary;20180208;12:00;Monetary Policy Summary;United Kingdom;GBP;3
+GBP_BankofEnglandQuarterlyInflationReport;20180208;12:00;Bank of England Quarterly Inflation Report;United Kingdom;GBP;2
+GBP_BoEMPCVoteCut;20180208;12:00;BoE MPC Vote Cut;United Kingdom;GBP;3
+GBP_BankofEnglandMinutes;20180208;12:00;Bank of England Minutes;United Kingdom;GBP;3
+GBP_BoEMPCVoteUnchanged;20180208;12:00;BoE MPC Vote Unchanged;United Kingdom;GBP;3
+GBP_BoEMPCVoteHike;20180208;12:00;BoE MPC Vote Hike;United Kingdom;GBP;3
+BRL_IPCAInflation;20180208;11:00;IPCA Inflation;Brazil;BRL;1
+ZAR_ManufacturingProductionIndex;20180208;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+CLP_ConsumerPriceIndex;20180208;11:00;Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+EUR_GreUnemploymentRate;20180208;10:00;Unemployment Rate (MoM);Greece;EUR;1
+HUF_BudgetBalance;20180208;10:00;Budget Balance;Hungary;HUF;1
+USD_CentralBankSpeech;20180208;09:50;Fed Kaplan speech;United States;USD;2
+AUD_CentralBankSpeech;20180208;09:00;RBA Governor Lowe speech;Australia;AUD;3
+EUR_EurEconomicBulletin;20180208;09:00;Economic Bulletin;European Monetary Union;EUR;2
+EUR_GerCentralBankSpeech;20180208;08:45;German Buba President Weidmann speech;Germany;EUR;2
+EUR_SloForeignTradeBalance;20180208;08:00;Foreign Trade Balance;Slovakia;EUR;1
+CZK_UnemploymentRate;20180208;08:00;Unemployment Rate;Czech Republic;CZK;1
+EUR_SpaIndustrialOutputCalAdjusted;20180208;08:00;Industrial Output Cal Adjusted (YoY);Spain;EUR;1
+DKK_CurrentAccount;20180208;08:00;Current Account;Denmark;DKK;1
+TRY_IndustrialProduction;20180208;07:00;Industrial Production (YoY);Turkey;TRY;1
+DKK_TradeBalance;20180208;07:00;Trade Balance;Denmark;DKK;1
+EUR_GerCurrentAccount;20180208;07:00;Current Account n.s.a.;Germany;EUR;2
+EUR_GerExports;20180208;07:00;Exports (MoM);Germany;EUR;2
+EUR_GerTradeBalance;20180208;07:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerImports;20180208;07:00;Imports (MoM);Germany;EUR;2
+EUR_NetConsumerPriceIndex;20180208;05:30;Consumer Price Index n.s.a (YoY);Netherlands, The;EUR;1
+JPY_EcoWatchersSurvey:Outlook;20180208;05:00;Eco Watchers Survey: Outlook;Japan;JPY;2
+JPY_EcoWatchersSurvey:Current;20180208;05:00;Eco Watchers Survey: Current;Japan;JPY;2
+CNY_Imports;20180208;02:00;Imports (YoY) CNY;China;CNY;2
+CNY_Exports;20180208;02:00;Exports (YoY) CNY;China;CNY;2
+CNY_TradeBalanceCNY;20180208;02:00;Trade Balance CNY;China;CNY;2
+CNY_TradeBalanceUSD;20180208;02:00;Trade Balance USD;China;CNY;2
+AUD_NationalAustraliaBankBusinessConfidence;20180208;00:30;National Australia Bank Business Confidence (QoQ);Australia;AUD;2
+GBP_RICSHousingPriceBalance;20180208;00:01;RICS Housing Price Balance;United Kingdom;GBP;2
+NZD_CentralBankSpeech;20180208;00:00;RBNZ Governor Spencer speech;New Zealand;NZD;3

@@ -1,0 +1,32 @@
+NZD_ANZCommodityPrice;20200604;01:00;ANZ Commodity Price;New Zealand;NZD;1
+AUD_RetailSales;20200604;01:30;Retail Sales s.a. (MoM);Australia;AUD;2
+AUD_TradeBalance;20200604;01:30;Trade Balance (MoM);Australia;AUD;2
+AUD_Imports;20200604;01:30;Imports (MoM);Australia;AUD;2
+AUD_Exports;20200604;01:30;Exports (MoM);Australia;AUD;2
+CHF_ConsumerPriceIndex;20200604;06:30;Consumer Price Index (YoY);Switzerland;CHF;2
+HUF_RetailSales;20200604;07:00;Retail Sales (YoY);Hungary;HUF;1
+SEK_IndustrialProductionValue;20200604;07:30;Industrial Production Value (YoY);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20200604;07:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+GBP_S&PGlobalConstructionPMI;20200604;08:30;S&P Global Construction PMI;United Kingdom;GBP;1
+EUR_FraAuction;20200604;08:50;10-y Bond Auction;France;EUR;1
+EUR_EurRetailSales;20200604;09:00;Retail Sales (MoM);European Monetary Union;EUR;1
+USD_ChallengerJobCuts;20200604;11:30;Challenger Job Cuts;United States;USD;1
+EUR_EurECBRateOnDepositFacility;20200604;11:45;ECB Rate On Deposit Facility;European Monetary Union;EUR;3
+EUR_EurECBRateOnMainRefinancingOperations;20200604;11:45;ECB Rate On Main Refinancing Operations;European Monetary Union;EUR;3
+USD_GoodsandServicesTradeBalance;20200604;12:30;Goods and Services Trade Balance;United States;USD;2
+USD_JoblessClaims;20200604;12:30;Continuing Jobless Claims;United States;USD;1
+USD_UnitLaborCosts;20200604;12:30;Unit Labor Costs;United States;USD;2
+USD_NonfarmProductivity;20200604;12:30;Nonfarm Productivity;United States;USD;2
+EUR_EurECBPressConference;20200604;12:30;ECB Press Conference;European Monetary Union;EUR;3
+CAD_Imports;20200604;12:30;Imports;Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20200604;12:30;International Merchandise Trade;Canada;CAD;2
+CAD_Exports;20200604;12:30;Exports;Canada;CAD;1
+RUB_CentralBankReserves;20200604;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_EIANaturalGasStorageChange;20200604;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20200604;15:30;4-Week Bill Auction;United States;USD;1
+CAD_CentralBankSpeech;20200604;18:00;BoC Gravelle speech;Canada;CAD;2
+DKK_ConstitutionDay;20200604;22:00;Constitution Day ;Denmark;DKK;0
+AUD_AiGPerformanceofServicesIndex;20200604;22:30;AiG Performance of Services Index;Australia;AUD;1
+GBP_GfKConsumerConfidence;20200604;23:01;GfK Consumer Confidence;United Kingdom;GBP;2
+JPY_OverallHouseholdSpending;20200604;23:30;Overall Household Spending (YoY);Japan;JPY;2
+JPY_JPForeignReserves;20200604;23:50;JP Foreign Reserves;Japan;JPY;1

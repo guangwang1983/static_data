@@ -1,0 +1,61 @@
+KRW_TradeBalance;20240301;00:00;Trade Balance;South Korea;KRW;1
+NZD_CentralBankSpeech;20240301;00:00;RBNZ Governor Orr speech;New Zealand;NZD;3
+IDR_S&PGlobalManufacturingPMI;20240301;00:30;S&P Global Manufacturing PMI;Indonesia;IDR;1
+JPY_JibunBankManufacturingPMI;20240301;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+CNY_NBSNonManufacturingPMI;20240301;01:00;NBS Non-Manufacturing PMI;China;CNY;3
+CNY_NBSManufacturingPMI;20240301;01:00;NBS Manufacturing PMI;China;CNY;3
+CNY_CaixinManufacturingPMI;20240301;01:45;Caixin Manufacturing PMI;China;CNY;3
+IDR_Inflation;20240301;04:00;Inflation (MoM);Indonesia;IDR;1
+IDR_CoreInflation;20240301;04:00;Core Inflation (YoY);Indonesia;IDR;1
+INR_HSBCManufacturingPMI;20240301;05:00;HSBC Manufacturing PMI;India;INR;2
+JPY_ConsumerConfidenceIndex;20240301;05:00;Consumer Confidence Index;Japan;JPY;1
+AUD_RBACommodityIndexSDR;20240301;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+RUB_S&PGlobalManufacturingPMI;20240301;06:00;S&P Global Manufacturing PMI;Russia;RUB;1
+GBP_NationwideHousingPrices;20240301;07:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;1
+HUF_TradeBalance;20240301;07:30;Trade Balance;Hungary;HUF;1
+CHF_RetailSales;20240301;07:30;Real Retail Sales (YoY);Switzerland;CHF;2
+SEK_PurchasingManagersIndexManufacturing;20240301;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+PLN_PurchasingManagerIndex;20240301;08:00;Purchasing Manager Index;Poland;PLN;1
+HUF_PurchasingManagerIndex;20240301;08:00;Purchasing Manager Index;Hungary;HUF;1
+CZK_GrossDomesticProduct;20240301;08:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+CZK_S&PGlobalPMI;20240301;08:30;S&P Global PMI;Czech Republic;CZK;1
+CHF_SVMEPurchasingManagers'Index;20240301;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+EUR_ItaHCOBManufacturingPMI;20240301;08:45;HCOB Manufacturing PMI;Italy;EUR;2
+EUR_FraHCOBManufacturingPMI;20240301;08:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerHCOBManufacturingPMI;20240301;08:55;HCOB Manufacturing PMI;Germany;EUR;2
+EUR_ItaUnemployment;20240301;09:00;Unemployment;Italy;EUR;1
+EUR_EurHCOBManufacturingPMI;20240301;09:00;HCOB Manufacturing PMI;Eurozone;EUR;1
+NOK_RegisteredUnemployment;20240301;09:00;Registered Unemployment s.a;Norway;NOK;1
+GBP_S&PGlobalCIPSManufacturingPMI;20240301;09:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;1
+EUR_ItaConsumerPriceIndex;20240301;10:00;Consumer Price Index (EU Norm) (YoY);Italy;EUR;2
+EUR_EurUnemploymentRate;20240301;10:00;Unemployment Rate;Eurozone;EUR;2
+EUR_EurHarmonizedIndexofConsumerPrices;20240301;10:00;Harmonized Index of Consumer Prices (MoM);Eurozone;EUR;3
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20240301;10:00;Core Harmonized Index of Consumer Prices (YoY);Eurozone;EUR;3
+CLP_IMACEC;20240301;11:30;IMACEC;Chile;CLP;1
+INR_FXReservesUSD;20240301;11:30;FX Reserves, USD;India;INR;1
+BRL_GrossDomesticProduct;20240301;12:00;Gross Domestic Product (QoQ);Brazil;BRL;1
+ZAR_TotalNewVehicleSales;20240301;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+BRL_S&PGlobalManufacturingPMI;20240301;13:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+CZK_BudgetBalance;20240301;13:00;Budget Balance;Czech Republic;CZK;1
+GBP_CentralBankSpeech;20240301;14:00;BoE Pill speech;United Kingdom;GBP;2
+CAD_S&PGlobalManufacturingPMI;20240301;14:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20240301;14:45;S&P Global Manufacturing PMI;United States;USD;1
+USD_UoM5yearConsumerInflationExpectation;20240301;15:00;UoM 5-year Consumer Inflation Expectation;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20240301;15:00;Michigan Consumer Sentiment Index;United States;USD;2
+USD_ISMManufacturingEmploymentIndex;20240301;15:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ISMManufacturingPricesPaid;20240301;15:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ISMManufacturingPMI;20240301;15:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingNewOrdersIndex;20240301;15:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ConstructionSpending;20240301;15:00;Construction Spending (MoM);United States;USD;1
+USD_FedMonetaryPolicyReport;20240301;16:00;Fed Monetary Policy Report;United States;USD;2
+USD_BakerHughesUSOilRigCount;20240301;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_CFTCS&P500NCNetPositions;20240301;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+USD_CFTCGoldNCNetPositions;20240301;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20240301;20:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CentralBankSpeech;20240301;20:30;Fed Kugler speech;United States;USD;2
+USD_TotalVehicleSales;20240301;20:30;Total Vehicle Sales;United States;USD;1
+GBP_CFTCGBPNCNetPositions;20240301;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+JPY_CFTCJPYNCNetPositions;20240301;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+EUR_EurCFTCEURNCNetPositions;20240301;20:30;CFTC EUR NC Net Positions;Eurozone;EUR;1
+AUD_CFTCAUDNCNetPositions;20240301;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+MXN_FiscalBalancepesos;20240301;21:00;Fiscal Balance, pesos;Mexico;MXN;1

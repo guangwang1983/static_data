@@ -1,0 +1,33 @@
+JPY_LargeRetailers'Sales;20120726;23:50;Large Retailers' Sales;Japan;JPY;2
+JPY_RetailTrade;20120726;23:50;Retail Trade (YoY);Japan;JPY;2
+JPY_TokyoCPIexFreshFood;20120726;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;1
+JPY_ConsumerPriceIndex;20120726;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;1
+JPY_TokyoCPIexFoodEnergy;20120726;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;1
+JPY_NationalCPIexFoodEnergy;20120726;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20120726;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+KRW_CurrentAccount;20120726;23:00;Current Account Balance;South Korea;KRW;1
+USD_KansasFedManufacturingActivity;20120726;15:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_EIANaturalGasStorageChange;20120726;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_PendingHomeSales;20120726;14:00;Pending Home Sales (MoM);United States;USD;1
+USD_CentralBankSpeech;20120726;14:00;Treasury Geithner speech;United States;USD;2
+MXN_TradeBalance;20120726;13:00;Trade Balance, $;Mexico;MXN;1
+MXN_TradeBalancesa;20120726;13:00;Trade Balance s/a, $;Mexico;MXN;1
+USD_JoblessClaims;20120726;12:30;Initial Jobless Claims;United States;USD;1
+USD_DurableGoodsOrders;20120726;12:30;Durable Goods Orders ex Transportation;United States;USD;2
+PLN_Unemployment;20120726;12:00;Unemployment (MoM);Poland;PLN;1
+ZAR_ProducerPriceIndex;20120726;09:30;Producer Price Index (MoM);South Africa;ZAR;1
+EUR_EurCentralBankSpeech;20120726;09:30;ECB President Draghi speech;European Monetary Union;EUR;3
+PHP_BSPInterestratedecision;20120726;08:30;BSP Interest rate decision;Philippines;PHP;0
+PLN_RetailSales;20120726;08:00;Retail Sales (YoY);Poland;PLN;1
+EUR_ItaRetailSales;20120726;08:00;Retail Sales n.s.a (YoY);Italy;EUR;1
+EUR_ItaWageInflation;20120726;08:00;Wage Inflation (MoM);Italy;EUR;1
+EUR_EurM3MoneySupply;20120726;08:00;M3 Money Supply (YoY);European Monetary Union;EUR;1
+EUR_EurPrivateLoans;20120726;08:00;Private Loans (YoY);European Monetary Union;EUR;1
+SEK_UnemploymentRate;20120726;07:30;Unemployment Rate;Sweden;SEK;1
+SEK_ProducerPriceIndex;20120726;07:30;Producer Price Index (YoY);Sweden;SEK;1
+SEK_TradeBalance;20120726;07:30;Trade Balance (MoM);Sweden;SEK;1
+SEK_ConsumerConfidence;20120726;07:15;Consumer Confidence (MoM);Sweden;SEK;1
+EUR_GerImportPriceIndex;20120726;06:00;Import Price Index (MoM);Germany;EUR;1
+EUR_GerGfkConsumerConfidenceSurvey;20120726;06:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+SGD_IndustrialProduction;20120726;05:00;Industrial Production (YoY);Singapore;SGD;1
+JPY_CentralBankSpeech;20120726;00:10;BoJ Governor Shirakawa speech;Japan;JPY;1

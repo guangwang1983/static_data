@@ -1,0 +1,51 @@
+EUR_EurEUleaderssummit;20220531;00:00;EU leaders summit;European Monetary Union;EUR;2
+CNY_NBSManufacturingPMI;20220531;01:00;NBS Manufacturing PMI;China;CNY;3
+CNY_NonManufacturingPMI;20220531;01:00;Non-Manufacturing PMI;China;CNY;3
+NZD_ANZActivityOutlook;20220531;01:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20220531;01:00;ANZ Business Confidence;New Zealand;NZD;1
+AUD_CurrentAccount;20220531;01:30;Current Account Balance;Australia;AUD;1
+AUD_PrivateSectorCredit;20220531;01:30;Private Sector Credit (YoY);Australia;AUD;1
+AUD_CompanyGrossOperatingProfits;20220531;01:30;Company Gross Operating Profits (QoQ);Australia;AUD;1
+AUD_BuildingPermits;20220531;01:30;Building Permits (YoY);Australia;AUD;1
+JPY_ConstructionOrders;20220531;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_HousingStarts;20220531;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_AnnualizedHousingStarts;20220531;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_ConsumerConfidenceIndex;20220531;05:00;Consumer Confidence Index;Japan;JPY;1
+DKK_UnemploymentRate;20220531;06:00;Unemployment Rate;Denmark;DKK;1
+DKK_GrossDomesticProduct;20220531;06:00;Gross Domestic Product (YoY);Denmark;DKK;1
+ZAR_PrivateSectorCredit;20220531;06:00;Private Sector Credit;South Africa;ZAR;1
+ZAR_M3MoneySupply;20220531;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+CHF_Exports;20220531;06:00;Exports (MoM);Switzerland;CHF;1
+CHF_Imports;20220531;06:00;Imports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20220531;06:00;Trade Balance;Switzerland;CHF;1
+NOK_CreditIndicator;20220531;06:00;Credit Indicator;Norway;NOK;1
+CHF_RetailSales;20220531;06:30;Real Retail Sales (YoY);Switzerland;CHF;2
+TRY_TradeBalance;20220531;07:00;Trade Balance;Turkey;TRY;1
+TRY_GrossDomesticProduct;20220531;07:00;Quarterly Gross Domestic Product;Turkey;TRY;1
+HUF_ProducerPriceIndex;20220531;07:00;Producer Price Index (YoY);Hungary;HUF;1
+CZK_GrossDomesticProduct;20220531;07:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+CHF_GrossDomesticProduct;20220531;07:00;Gross Domestic Product s.a. (QoQ);Switzerland;CHF;3
+GBP_NetLendingtoIndividuals;20220531;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20220531;08:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20220531;08:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_M4MoneySupply;20220531;08:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+EUR_EurHICPXFEAT;20220531;09:00;HICP-X F,E,A,T (YoY);European Monetary Union;EUR;3
+EUR_EurHICP;20220531;09:00;HICP (YoY);European Monetary Union;EUR;3
+ZAR_UnemploymentRate;20220531;09:30;Unemployment Rate (%);South Africa;ZAR;1
+ZAR_UnemploymentTotal;20220531;09:30;Unemployment Total ;South Africa;ZAR;1
+ILS_IndustrialProduction;20220531;10:00;Industrial Production (MoM);Israel;ILS;1
+MXN_JoblessRate;20220531;11:00;Jobless Rate;Mexico;MXN;1
+ZAR_TradeBalance;20220531;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+HUF_MNBInterestRateDecision;20220531;12:00;MNB Interest Rate Decision;Hungary;HUF;1
+CAD_GrossDomesticProduct;20220531;12:30;Gross Domestic Product Annualized (QoQ);Canada;CAD;3
+USD_RedbookIndex;20220531;12:55;Redbook Index (YoY);United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20220531;13:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;2
+USD_HousingPriceIndex;20220531;13:00;Housing Price Index (MoM);United States;USD;2
+USD_ChicagoPurchasingManagers'Index;20220531;13:45;Chicago Purchasing Managers' Index;United States;USD;2
+USD_ConsumerConfidence;20220531;14:00;Consumer Confidence;United States;USD;2
+USD_DallasFedManufacturingBusinessIndex;20220531;14:30;Dallas Fed Manufacturing Business Index;United States;USD;1
+USD_Auction;20220531;15:30;3-Month Bill Auction;United States;USD;1
+AUD_AiGPerformanceofMfgIndex;20220531;22:30;AiG Performance of Mfg Index;Australia;AUD;2
+AUD_S&PGlobalManufacturingPMI;20220531;23:00;S&P Global Manufacturing PMI;Australia;AUD;1
+GBP_BRCShopPriceIndex;20220531;23:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1
+JPY_CapitalSpending;20220531;23:50;Capital Spending;Japan;JPY;1

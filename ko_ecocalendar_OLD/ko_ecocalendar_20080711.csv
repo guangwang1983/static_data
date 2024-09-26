@@ -1,0 +1,11 @@
+USD_MonthlyBudgetStatement;20080711;18:00;Monthly Budget Statement;United States;USD;1
+USD_MichiganConsumerSentimentIndex;20080711;14:00;Michigan Consumer Sentiment Index;United States;USD;1
+USD_TradeBalance;20080711;12:30;Trade Balance;United States;USD;3
+USD_ImportPriceIndex;20080711;12:30;Import Price Index (MoM);United States;USD;2
+CAD_DONOTINCLUDENewHousingPriceIndex;20080711;12:30;DO NOT INCLUDE - New Housing Price Index (YoY);Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20080711;12:30;International Merchandise Trade;Canada;CAD;2
+CAD_UnemploymentRate;20080711;11:00;Unemployment Rate;Canada;CAD;2
+CAD_NetChangeinEmployment;20080711;11:00;Net Change in Employment;Canada;CAD;2
+JPY_ConsumerConfidenceIndex;20080711;05:00;Consumer Confidence Index;Japan;JPY;1
+JPY_IndustrialProduction;20080711;04:30;Industrial Production (MoM);Japan;JPY;1
+JPY_CapacityUtilization;20080711;04:30;Capacity Utilization;Japan;JPY;1

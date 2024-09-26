@@ -1,0 +1,9 @@
+USD_BusinessInventories;20100813;14:00;Business Inventories;United States;USD;1
+USD_MichiganConsumerSentimentIndex;20100813;13:55;Michigan Consumer Sentiment Index;United States;USD;2
+CAD_NewMotorVehicleSales;20100813;12:30;New Motor Vehicle Sales (MoM);Canada;CAD;1
+USD_RetailSales;20100813;12:30;Retail Sales ex Autos (MoM);United States;USD;3
+USD_ConsumerPriceIndex;20100813;12:30;Consumer Price Index ex Food & Energy (MoM);United States;USD;2
+EUR_EurTradeBalance;20100813;09:00;Trade Balance n.s.a.;European Monetary Union;EUR;1
+EUR_EurGrossDomesticProduct;20100813;09:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+CHF_ProducerandImportPrices;20100813;07:15;Producer and Import Prices (MoM);Switzerland;CHF;1
+EUR_GerGrossDomesticProduct;20100813;06:00;Gross Domestic Product (QoQ);Germany;EUR;2

@@ -1,0 +1,50 @@
+AUD_CFTCAUDNCNetPositions;20200214;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20200214;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+JPY_CFTCJPYNCNetPositions;20200214;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+GBP_CFTCGBPNCNetPositions;20200214;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20200214;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20200214;20:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_CFTCUSDNCNetPositions;20200214;20:30;CFTC USD NC Net Positions;United States;USD;1
+USD_BakerHughesUSOilRigCount;20200214;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+COP_GrossDomesticProduct;20200214;16:00;Gross Domestic Product (YoY);Colombia;COP;1
+USD_MichiganConsumerSentimentIndex;20200214;15:00;Michigan Consumer Sentiment Index;United States;USD;3
+USD_BusinessInventories;20200214;15:00;Business Inventories;United States;USD;1
+USD_IndustrialProduction;20200214;14:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20200214;14:15;Capacity Utilization;United States;USD;1
+USD_RetailSales;20200214;13:30;Retail Sales ex Autos (MoM);United States;USD;2
+USD_ExportPriceIndex;20200214;13:30;Export Price Index (YoY);United States;USD;1
+USD_ImportPriceIndex;20200214;13:30;Import Price Index (MoM);United States;USD;1
+INR_BankLoanGrowth;20200214;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20200214;11:30;FX Reserves, USD;India;INR;1
+ILS_ConsumerPriceIndex;20200214;11:00;Consumer Price Index (YoY);Israel;ILS;1
+EUR_EurTradeBalance;20200214;10:00;Trade Balance s.a.;European Monetary Union;EUR;1
+EUR_EurGrossDomesticProduct;20200214;10:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+JPY_CentralBankSpeech;20200214;10:00;BoJ Amamiya speech;Japan;JPY;1
+EUR_GreConsumerPriceIndex;20200214;10:00;Consumer Price Index - Harmonized (YoY);Greece;EUR;1
+EUR_EurEmploymentChange;20200214;10:00;Employment Change (QoQ);European Monetary Union;EUR;1
+EUR_PorGrossDomesticProduct;20200214;09:30;Gross Domestic Product (YoY);Portugal;EUR;1
+PLN_ConsumerPriceIndex;20200214;09:00;Consumer Price Index (YoY);Poland;PLN;1
+EUR_ItaTradeBalanceEU;20200214;09:00;Trade Balance EU;Italy;EUR;1
+EUR_ItaGlobalTradeBalance;20200214;09:00;Global Trade Balance;Italy;EUR;1
+CZK_ConsumerPriceIndex;20200214;08:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+EUR_SloHeadlineInflation;20200214;08:00;Headline Inflation (YoY);Slovakia;EUR;1
+EUR_SloCoreInflation;20200214;08:00;Core Inflation (YoY);Slovakia;EUR;1
+EUR_SpaHICP;20200214;08:00;HICP (YoY);Spain;EUR;1
+EUR_SpaConsumerPriceIndex;20200214;08:00;Consumer Price Index (MoM);Spain;EUR;1
+CZK_GrossDomesticProduct;20200214;08:00;Gross Domestic Product (YoY) 	;Czech Republic;CZK;1
+HUF_GrossDomesticProduct;20200214;08:00;Gross Domestic Product (YoY);Hungary;HUF;1
+EUR_SloGrossDomesticProduct;20200214;08:00;Gross Domestic Product Prelim (YoY);Slovakia;EUR;1
+CHF_ProducerandImportPrices;20200214;07:30;Producer and Import Prices (YoY);Switzerland;CHF;1
+DKK_GrossDomesticProduct;20200214;07:00;Gross Domestic Product (QoQ);Denmark;DKK;1
+RON_GrossDomesticProduct;20200214;07:00;Gross Domestic Product;Romania;RON;1
+TRY_CurrentAccount;20200214;07:00;Current Account Balance;Turkey;TRY;1
+EUR_GerGrossDomesticProduct;20200214;07:00;Gross Domestic Product w.d.a (YoY);Germany;EUR;2
+INR_WPIInflation;20200214;06:30;WPI Inflation;India;INR;1
+EUR_FinGrossDomesticProduct;20200214;06:00;Gross Domestic Product (YoY);Finland;EUR;1
+JPY_TertiaryIndustryIndex;20200214;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+KRW_MoneySupplyGrowth;20200214;03:00;Money Supply Growth;South Korea;KRW;1
+CNY_RetailSales;20200214;02:00;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20200214;02:00;Industrial Production (YoY);China;CNY;2
+CNY_NBSPressConference;20200214;02:00;NBS Press Conference;China;CNY;2
+CNY_FixedAssetInvestment;20200214;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+KRW_TradeBalance;20200214;02:00;Trade Balance;South Korea;KRW;1

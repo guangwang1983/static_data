@@ -1,0 +1,27 @@
+RUB_DayofUnity;20181105;00:00;Day of Unity ;Russia;RUB;0
+COP_AllSaints'Day;20181105;00:00;All Saints' Day (Observed);Colombia;COP;0
+NZD_ANZCommodityPrice;20181105;00:00;ANZ Commodity Price;New Zealand;NZD;1
+AUD_TDSecuritiesInflation;20181105;00:00;TD Securities Inflation (MoM);Australia;AUD;2
+JPY_JibunBankServicesPMI;20181105;00:30;Jibun Bank Services PMI;Japan;JPY;1
+AUD_ANZJobAdvertisements;20181105;00:30;ANZ Job Advertisements;Australia;AUD;1
+JPY_CentralBankSpeech;20181105;01:00;BoJ Governor Kuroda speech;Japan;JPY;3
+CNY_CaixinServicesPMI;20181105;01:45;Caixin Services PMI;China;CNY;2
+IDR_GrossDomesticProduct;20181105;04:00;Gross Domestic Product (YoY);Indonesia;IDR;1
+TRY_ProducerPriceIndex;20181105;07:00;Producer Price Index (MoM);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20181105;07:00;Consumer Price Index (MoM);Turkey;TRY;1
+BRL_FipeIPCInflation;20181105;07:00;Fipe IPC Inflation;Brazil;BRL;1
+CZK_RetailSales;20181105;08:00;Retail Sales (YoY);Czech Republic;CZK;1
+HUF_PurchasingManagerIndex;20181105;08:00;Purchasing Manager Index;Hungary;HUF;1
+EUR_EurSentixInvestorConfidence;20181105;09:30;Sentix Investor Confidence;European Monetary Union;EUR;1
+GBP_S&PGlobalCIPSServicesPMI;20181105;09:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;2
+CLP_IMACEC;20181105;11:30;IMACEC;Chile;CLP;1
+CAD_CentralBankSpeech;20181105;13:10;BoC Governor Poloz speech;Canada;CAD;3
+USD_S&PGlobalCompositePMI;20181105;14:45;S&P Global Composite PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20181105;14:45;S&P Global Services PMI;United States;USD;2
+USD_ISMServicesEmploymentIndex;20181105;15:00;ISM Services Employment Index;United States;USD;2
+USD_ISMServicesPricesPaid;20181105;15:00;ISM Services Prices Paid;United States;USD;2
+USD_ISMServicesPMI;20181105;15:00;ISM Services PMI;United States;USD;2
+USD_ISMServicesNewOrdersIndex;20181105;15:00;ISM Services New Orders Index;United States;USD;2
+USD_Auction;20181105;18:00;3-Year Note Auction;United States;USD;1
+KRW_CurrentAccount;20181105;23:00;Current Account Balance;South Korea;KRW;1
+JPY_OverallHouseholdSpending;20181105;23:30;Overall Household Spending (YoY);Japan;JPY;2

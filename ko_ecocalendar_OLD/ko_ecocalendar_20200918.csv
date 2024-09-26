@@ -1,0 +1,24 @@
+AUD_CFTCAUDNCNetPositions;20200918;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20200918;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+USD_CFTCS&P500NCNetPositions;20200918;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20200918;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+GBP_CFTCGBPNCNetPositions;20200918;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20200918;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20200918;19:30;CFTC Oil NC Net Positions;United States;USD;1
+USD_BakerHughesUSOilRigCount;20200918;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_MichiganConsumerSentimentIndex;20200918;14:00;Michigan Consumer Sentiment Index;United States;USD;3
+RUB_UnemploymentRate;20200918;13:00;Unemployment Rate;Russia;RUB;1
+USD_CurrentAccount;20200918;12:30;Current Account;United States;USD;1
+CAD_WholesaleSales;20200918;12:30;Wholesale Sales (MoM);Canada;CAD;1
+CAD_RetailSales;20200918;12:30;Retail Sales ex Autos (MoM);Canada;CAD;2
+INR_FXReservesUSD;20200918;11:30;FX Reserves, USD;India;INR;1
+RUB_Interestratedecision;20200918;10:30;Interest rate decision;Russia;RUB;2
+EUR_EurCurrentAccount;20200918;08:00;Current Account s.a;European Monetary Union;EUR;1
+PLN_IndustrialOutput;20200918;08:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20200918;08:00;Producer Price Index (YoY);Poland;PLN;1
+EUR_ItaIndustrialSales;20200918;08:00;Industrial Sales n.s.a. (YoY);Italy;EUR;1
+EUR_ItaIndustrialOrders;20200918;08:00;Industrial Orders n.s.a (YoY);Italy;EUR;1
+EUR_SloUnemploymentRate;20200918;07:00;Unemployment Rate;Slovakia;EUR;1
+GBP_RetailSales;20200918;06:00;Retail Sales ex-Fuel (YoY);United Kingdom;GBP;2
+EUR_GerProducerPriceIndex;20200918;06:00;Producer Price Index (YoY);Germany;EUR;1
+CLP_IndependenceDayofChile;20200918;04:00;Independence Day of Chile;Chile;CLP;0

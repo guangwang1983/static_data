@@ -1,0 +1,58 @@
+JPY_MonetaryBase;20140602;23:50;Monetary Base (YoY);Japan;JPY;1
+KRW_ConsumerPriceIndex;20140602;23:00;Consumer Price Index Growth (MoM);South Korea;KRW;1
+NZD_TermsofTradeIndex;20140602;22:45;Terms of Trade Index;New Zealand;NZD;1
+INR_CashReserveRatio;20140602;18:30;Cash Reserve Ratio;India;INR;1
+INR_ReverseRepoRate;20140602;18:30;Reverse Repo Rate;India;INR;1
+INR_RBIInterestRateDecision;20140602;18:30;RBI Interest Rate Decision (Repo Rate);India;INR;1
+BRL_TradeBalance;20140602;18:00;Trade Balance;Brazil;BRL;1
+USD_Auction;20140602;15:30;3-Month Bill Auction;United States;USD;1
+USD_ISMManufacturingPMI;20140602;14:00;ISM Manufacturing PMI;United States;USD;2
+USD_ISMPricesPaid;20140602;14:00;ISM Prices Paid;United States;USD;1
+USD_ConstructionSpending;20140602;14:00;Construction Spending (MoM);United States;USD;1
+USD_MarkitManufacturingPMI;20140602;13:45;Markit Manufacturing PMI;United States;USD;2
+CAD_MarkitManufacturingPMI;20140602;13:30;Markit Manufacturing PMI;Canada;CAD;2
+BRL_HSBCPMIManufacturing;20140602;13:00;HSBC PMI Manufacturing;Brazil;BRL;1
+USD_CentralBankSpeech;20140602;12:40;Treasury Sec Lew speech;United States;USD;2
+EUR_GerConsumerPriceIndex;20140602;12:00;Consumer Price Index (MoM);Germany;EUR;2
+EUR_GerHarmonizedIndexofConsumerPrices;20140602;12:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+CZK_BudgetBalance;20140602;12:00;Budget Balance;Czech Republic;CZK;1
+ZAR_TotalNewVehicleSales;20140602;11:00;Total New Vehicle Sales;South Africa;ZAR;1
+EUR_AusUnemployment;20140602;10:00;Unemployment;Austria;EUR;1
+EUR_AusUnemploymentRate;20140602;10:00;Unemployment Rate;Austria;EUR;1
+GBP_NetLendingtoIndividuals;20140602;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;2
+GBP_MarkitManufacturingPMI;20140602;08:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+GBP_ConsumerCredit;20140602;08:30;Consumer Credit;United Kingdom;GBP;2
+GBP_MortgageApprovals;20140602;08:30;Mortgage Approvals;United Kingdom;GBP;2
+GBP_M4MoneySupply;20140602;08:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+NOK_CreditIndicator;20140602;08:00;Credit Indicator;Norway;NOK;1
+EUR_EurMarkitManufacturingPMI;20140602;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;2
+EUR_GreMarkitManufacturingPMI;20140602;07:58;Markit Manufacturing PMI;Greece;EUR;1
+EUR_GerMarkitManufacturingPMI;20140602;07:55;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20140602;07:50;Markit Manufacturing PMI;France;EUR;2
+EUR_ItaMarkitManufacturingPMI;20140602;07:45;Markit Manufacturing PMI;Italy;EUR;2
+CHF_SVMEPurchasingManagers'Index;20140602;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;2
+CZK_MarkitPMI;20140602;07:30;Markit PMI;Czech Republic;CZK;1
+EUR_SpaMarkitManufacturingPMI;20140602;07:13;Markit Manufacturing PMI;Spain;EUR;1
+DKK_UnemploymentRate;20140602;07:00;Unemployment Rate;Denmark;DKK;1
+HUF_PurchasingManagerIndex;20140602;07:00;Purchasing Manager Index;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20140602;07:00;Purchasing Manager Index;Poland;PLN;1
+AUD_RBACommodityIndexSDR;20140602;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+SEK_PurchasingManagersIndexManufacturing;20140602;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+RUB_HSBCManufacturingPMI;20140602;06:02;HSBC Manufacturing PMI	;Russia;RUB;1
+JPY_VehicleSales;20140602;05:00;Vehicle Sales (YoY);Japan;JPY;1
+IDR_TradeBalance;20140602;04:00;Trade Balance;Indonesia;IDR;1
+IDR_Exports;20140602;04:00;Exports;Indonesia;IDR;1
+IDR_Imports;20140602;04:00;Imports;Indonesia;IDR;1
+IDR_Inflation;20140602;04:00;Inflation (YoY);Indonesia;IDR;1
+IDR_CoreInflation;20140602;04:00;Core Inflation (YoY);Indonesia;IDR;1
+JPY_NikkeiManufacturingPMI;20140602;01:35;Nikkei Manufacturing PMI;Japan;JPY;2
+AUD_CompanyGrossOperatingProfits;20140602;01:30;Company Gross Operating Profits (QoQ);Australia;AUD;1
+AUD_BuildingPermits;20140602;01:30;Building Permits (MoM);Australia;AUD;1
+AUD_TDSecuritiesInflation;20140602;00:30;TD Securities Inflation (MoM);Australia;AUD;1
+EUR_ItaRepublicDay;20140602;00:00;Republic Day;Italy;EUR;0
+COP_AscensionDay;20140602;00:00;Ascension Day;Colombia;COP;0
+NZD_QueenBirthday;20140602;00:00;Queen Birthday;New Zealand;NZD;0
+HKD_TuenNgFestival;20140602;00:00;Tuen Ng Festival;Hong Kong SAR;HKD;0
+EUR_IreJuneHoliday;20140602;00:00;June Holiday ;Ireland;EUR;0
+KRW_NikkeiMarkitManufacturingPMI;20140602;00:00;Nikkei Markit Manufacturing PMI;South Korea;KRW;1
+CNY_DragonBoatFestival;20140602;00:00;Dragon Boat Festival ;China;CNY;0

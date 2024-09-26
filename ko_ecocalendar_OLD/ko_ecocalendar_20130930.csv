@@ -1,0 +1,61 @@
+JPY_TankanLargeManufacturingOutlook;20130930;23:50;Tankan Large Manufacturing Outlook;Japan;JPY;1
+JPY_TankanLargeAllIndustryCapex;20130930;23:50;Tankan Large All Industry Capex;Japan;JPY;1
+JPY_TankanNonManufacturingOutlook;20130930;23:50;Tankan Non - Manufacturing Outlook;Japan;JPY;1
+JPY_TankanLargeManufacturingIndex;20130930;23:50;Tankan Large Manufacturing Index;Japan;JPY;1
+JPY_TankanNonManufacturingIndex;20130930;23:50;Tankan Non - Manufacturing Index;Japan;JPY;1
+JPY_UnemploymentRate;20130930;23:30;Unemployment Rate;Japan;JPY;2
+AUD_AiGPerformanceofMfgIndex;20130930;23:30;AiG Performance of Mfg Index;Australia;AUD;2
+JPY_OverallHouseholdSpending;20130930;23:30;Overall Household Spending (YoY);Japan;JPY;2
+KRW_ConsumerPriceIndex;20130930;23:00;Consumer Price Index Growth (MoM);South Korea;KRW;1
+USD_BarackObamaPressConference;20130930;20:45;Barack Obama Press Conference;United States;USD;3
+MXN_FiscalBalancepesos;20130930;19:30;Fiscal Balance, pesos;Mexico;MXN;1
+BRL_NominalBudgetBalance;20130930;17:30;Nominal Budget Balance;Brazil;BRL;1
+BRL_PrimaryBudgetSurplus;20130930;17:30;Primary Budget Surplus;Brazil;BRL;1
+COP_NationalJoblessRate;20130930;17:00;National Jobless Rate;Colombia;COP;1
+USD_Auction;20130930;15:30;6-Month Bill Auction;United States;USD;1
+USD_DallasFedManufacturingBusinessIndex;20130930;14:30;Dallas Fed Manufacturing Business Index;United States;USD;1
+USD_ChicagoPurchasingManagers'Index;20130930;13:45;Chicago Purchasing Managers' Index;United States;USD;2
+CLP_Unemploymentrate;20130930;13:00;Unemployment rate;Chile;CLP;1
+CAD_RawMaterialPriceIndex;20130930;12:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20130930;12:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_GrossDomesticProduct;20130930;12:30;Gross Domestic Product (MoM);Canada;CAD;2
+EUR_SloCurrentAccount;20130930;12:30;Current Account Balance EUR;Slovakia;EUR;1
+ZAR_TradeBalance;20130930;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+CLP_IndustrialProduction;20130930;12:00;Industrial Production (YoY);Chile;CLP;1
+INR_TradeDeficitRBI;20130930;11:30;Trade Deficit - RBI;India;INR;1
+INR_BalancePayment;20130930;11:30;Balance Payment $;India;INR;1
+INR_CurrentAccount;20130930;11:30;Current Account Balance $;India;INR;1
+INR_FederalFiscalDeficitINR;20130930;11:30;Federal Fiscal Deficit, INR;India;INR;1
+EUR_IreConsumerConfidence;20130930;11:00;Consumer Confidence;Ireland;EUR;1
+NOK_RetailSales;20130930;10:00;Retail Sales ;Norway;NOK;1
+EUR_EurConsumerPriceIndex;20130930;09:00;Consumer Price Index (YoY);European Monetary Union;EUR;2
+EUR_ItaConsumerPriceIndex;20130930;09:00;Consumer Price Index (YoY);Italy;EUR;1
+DKK_GrossDomesticProduct;20130930;09:00;Gross Domestic Product (QoQ);Denmark;DKK;1
+EUR_GreRetailSales;20130930;09:00;Retail Sales (YoY);Greece;EUR;1
+GBP_ConsumerCredit;20130930;08:30;Consumer Credit;United Kingdom;GBP;2
+GBP_NetLendingtoIndividuals;20130930;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_MortgageApprovals;20130930;08:30;Mortgage Approvals;United Kingdom;GBP;2
+GBP_M4MoneySupply;20130930;08:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+EUR_SpaCurrentAccount;20130930;08:29;Current Account Balance;Spain;EUR;1
+EUR_ItaProducerPriceIndex;20130930;08:00;Producer Price Index (MoM);Italy;EUR;1
+CZK_M2MoneySupply;20130930;08:00;M2 Money Supply (YoY);Czech Republic;CZK;1
+CZK_ForeignDebt;20130930;08:00;Foreign Debt;Czech Republic;CZK;1
+NOK_CreditIndicator;20130930;08:00;Credit Indicator;Norway;NOK;1
+EUR_AusProducerPriceIndex;20130930;08:00;Producer Price Index (MoM);Austria;EUR;1
+TRY_TradeBalance;20130930;07:00;Trade Balance;Turkey;TRY;1
+RON_Interestratedecision;20130930;07:00;Interest rate decision;Romania;RON;1
+HUF_ProducerPriceIndex;20130930;07:00;Producer Price Index (YoY);Hungary;HUF;1
+EUR_FraProducerPrices;20130930;06:45;Producer Prices (MoM);France;EUR;1
+EUR_GerRetailSales;20130930;06:00;Retail Sales (YoY);Germany;EUR;2
+ZAR_PrivateSectorCredit;20130930;06:00;Private Sector Credit;South Africa;ZAR;1
+ZAR_M3MoneySupply;20130930;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+JPY_HousingStarts;20130930;05:00;Housing Starts (YoY);Japan;JPY;2
+JPY_AnnualizedHousingStarts;20130930;05:00;Annualized Housing Starts;Japan;JPY;2
+JPY_ConstructionOrders;20130930;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_VehicleProduction;20130930;04:00;Vehicle Production (YoY);Japan;JPY;1
+NZD_M3MoneySupply;20130930;02:00;M3 Money Supply (YoY);New Zealand;NZD;1
+CNY_CaixinManufacturingPMI;20130930;01:45;Caixin Manufacturing PMI;China;CNY;2
+AUD_PrivateSectorCredit;20130930;01:30;Private Sector Credit (YoY);Australia;AUD;1
+NZD_ANZActivityOutlook;20130930;01:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20130930;01:00;ANZ Business Confidence;New Zealand;NZD;2
+AUD_TDSecuritiesInflation;20130930;00:30;TD Securities Inflation (MoM);Australia;AUD;1

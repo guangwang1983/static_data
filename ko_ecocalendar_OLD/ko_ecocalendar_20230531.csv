@@ -1,0 +1,46 @@
+NZD_ANZActivityOutlook;20230531;01:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20230531;01:00;ANZ Business Confidence;New Zealand;NZD;1
+CNY_NonManufacturingPMI;20230531;01:30;Non-Manufacturing PMI;China;CNY;3
+CNY_NBSManufacturingPMI;20230531;01:30;NBS Manufacturing PMI;China;CNY;3
+AUD_PrivateSectorCredit;20230531;01:30;Private Sector Credit (MoM);Australia;AUD;1
+AUD_ConstructionWorkDone;20230531;01:30;Construction Work Done;Australia;AUD;1
+AUD_ConsumerPriceIndex;20230531;01:30;Monthly Consumer Price Index (YoY);Australia;AUD;3
+JPY_ConstructionOrders;20230531;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_HousingStarts;20230531;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_AnnualizedHousingStarts;20230531;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_ConsumerConfidenceIndex;20230531;05:00;Consumer Confidence Index;Japan;JPY;1
+DKK_UnemploymentRate;20230531;06:00;Unemployment Rate;Denmark;DKK;1
+DKK_GrossDomesticProduct;20230531;06:00;Gross Domestic Product (YoY);Denmark;DKK;1
+HUF_ProducerPriceIndex;20230531;06:30;Producer Price Index (YoY);Hungary;HUF;1
+CHF_RetailSales;20230531;06:30;Real Retail Sales (YoY);Switzerland;CHF;2
+TRY_GrossDomesticProduct;20230531;07:00;Quarterly Gross Domestic Product;Turkey;TRY;1
+PLN_GrossDomesticProduct;20230531;08:00;Gross Domestic Product Qtr (YoY);Poland;PLN;1
+EUR_EurEUFinancialStabilityReview;20230531;08:00;EU Financial Stability Review;European Monetary Union;EUR;2
+CHF_ZEWSurvey–Expectations;20230531;08:00;ZEW Survey – Expectations;Switzerland;CHF;2
+INR_FederalFiscalDeficitINR;20230531;10:00;Federal Fiscal Deficit, INR;India;INR;1
+USD_MBAMortgageApplications;20230531;11:00;MBA Mortgage Applications;United States;USD;1
+BRL_PrimaryBudgetSurplus;20230531;11:30;Primary Budget Surplus;Brazil;BRL;1
+BRL_NominalBudgetBalance;20230531;11:30;Nominal Budget Balance;Brazil;BRL;1
+INR_M3MoneySupply;20230531;11:30;M3 Money Supply;India;INR;1
+BRL_UnemploymentRate;20230531;12:00;Unemployment Rate;Brazil;BRL;1
+ZAR_TradeBalance;20230531;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+INR_InfrastructureOutput;20230531;12:00;Infrastructure Output (YoY);India;INR;1
+INR_GrossDomesticProduct;20230531;12:00;Gross Domestic Product Quarterly (YoY);India;INR;1
+EUR_EurCentralBankSpeech;20230531;12:30;ECB President Lagarde speech;European Monetary Union;EUR;3
+CAD_GrossDomesticProduct;20230531;12:30;Gross Domestic Product Annualized;Canada;CAD;3
+USD_RedbookIndex;20230531;12:55;Redbook Index (YoY);United States;USD;1
+CLP_IndustrialProduction;20230531;13:00;Industrial Production (YoY);Chile;CLP;1
+GBP_CentralBankSpeech;20230531;13:15;BoE Mann speech;United Kingdom;GBP;2
+USD_ChicagoPurchasingManagers'Index;20230531;13:45;Chicago Purchasing Managers' Index;United States;USD;2
+USD_JOLTSJobOpenings;20230531;14:00;JOLTS Job Openings;United States;USD;1
+COP_NationalJoblessRate;20230531;15:00;National Jobless Rate;Colombia;COP;1
+RUB_UnemploymentRate;20230531;16:00;Unemployment Rate;Russia;RUB;1
+RUB_IndustrialOutput;20230531;16:00;Industrial Output;Russia;RUB;1
+IDR_PancasilaDay;20230531;17:00;Pancasila Day;Indonesia;IDR;0
+USD_CentralBankSpeech;20230531;17:30;Fed Jefferson speech;United States;USD;2
+USD_FedBeigeBook;20230531;18:00;Fed Beige Book;United States;USD;2
+USD_APIWeeklyCrudeOilStock;20230531;20:30;API Weekly Crude Oil Stock;United States;USD;1
+AUD_S&PGlobalManufacturingPMI;20230531;23:00;S&P Global Manufacturing PMI;Australia;AUD;1
+JPY_CapitalSpending;20230531;23:50;Capital Spending;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20230531;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20230531;23:50;Foreign Bond Investment;Japan;JPY;1

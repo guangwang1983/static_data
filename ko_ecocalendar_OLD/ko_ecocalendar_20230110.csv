@@ -1,0 +1,31 @@
+GBP_RetailSales;20230110;00:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+IDR_RetailSales;20230110;04:00;Retail Sales (YoY);Indonesia;IDR;1
+CNY_M2MoneySupply;20230110;07:00;M2 Money Supply (YoY);China;CNY;1
+CNY_NewLoans;20230110;07:00;New Loans;China;CNY;1
+CNY_FDIForeignDirectInvestment;20230110;07:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+DKK_ConsumerPriceIndex;20230110;07:00;Consumer Price Index (YoY);Denmark;DKK;1
+DKK_Inflation;20230110;07:00;Inflation (HICP) (YoY);Denmark;DKK;1
+NOK_ConsumerPriceIndex;20230110;07:00;Consumer Price Index (YoY);Norway;NOK;1
+NOK_CoreInflation;20230110;07:00;Core Inflation (MoM);Norway;NOK;1
+NOK_ProducerPriceIndex;20230110;07:00;Producer Price Index (YoY);Norway;NOK;1
+SEK_IndustrialProductionValue;20230110;07:00;Industrial Production Value (MoM);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20230110;07:00;New Orders Manufacturing (YoY);Sweden;SEK;1
+HUF_BudgetBalance;20230110;10:00;Budget Balance;Hungary;HUF;1
+JPY_CentralBankSpeech;20230110;10:10;BoJ Governor Kuroda speech;Japan;JPY;3
+EUR_EurCentralBankSpeech;20230110;10:10;ECB Schnabel speech;European Monetary Union;EUR;2
+CAD_CentralBankSpeech;20230110;10:10;BoC Governor Macklem speech;Canada;CAD;3
+GBP_Auction;20230110;10:30;10-y Bond Auction;United Kingdom;GBP;1
+USD_NFIBBusinessOptimismIndex;20230110;11:00;NFIB Business Optimism Index;United States;USD;1
+ZAR_ManufacturingProductionIndex;20230110;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+BRL_IPCAInflation;20230110;12:00;IPCA Inflation;Brazil;BRL;1
+ZAR_TotalNewVehicleSales;20230110;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+RON_Interestratedecision;20230110;13:00;Interest rate decision;Romania;RON;1
+USD_RedbookIndex;20230110;13:55;Redbook Index (YoY);United States;USD;1
+USD_CentralBankSpeech;20230110;14:00;Fed Chair Powell speech;United States;USD;3
+USD_WholesaleInventories;20230110;15:00;Wholesale Inventories;United States;USD;1
+USD_IBDTIPPEconomicOptimism;20230110;15:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+USD_Auction;20230110;18:00;3-Year Note Auction;United States;USD;1
+NZD_ANZ–RoyMorganConsumerConfidence;20230110;21:00;ANZ – Roy Morgan Consumer Confidence;New Zealand;NZD;2
+USD_APIWeeklyCrudeOilStock;20230110;21:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_UnemploymentRate;20230110;23:00;Unemployment Rate;South Korea;KRW;1
+JPY_JPForeignReserves;20230110;23:50;JP Foreign Reserves;Japan;JPY;1

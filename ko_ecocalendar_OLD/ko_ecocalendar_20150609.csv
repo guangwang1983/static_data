@@ -1,0 +1,37 @@
+JPY_DomesticCorporateGoodsPriceIndex;20150609;23:50;Domestic Corporate Goods Price Index (YoY);Japan;JPY;1
+JPY_MachineryOrders;20150609;23:50;Machinery Orders (MoM);Japan;JPY;1
+KRW_UnemploymentRate;20150609;23:00;Unemployment Rate;South Korea;KRW;1
+NZD_RetailSales;20150609;22:45;Electronic Card Retail Sales  (MoM);New Zealand;NZD;2
+USD_Auction;20150609;17:00;3-Year Note Auction;United States;USD;1
+USD_JOLTSJobOpenings;20150609;14:00;JOLTS Job Openings;United States;USD;1
+USD_WholesaleInventories;20150609;14:00;Wholesale Inventories;United States;USD;1
+MXN_12MonthInflation;20150609;13:00;12-Month Inflation;Mexico;MXN;1
+MXN_CoreInflation;20150609;13:00;Core Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20150609;13:00;Headline Inflation;Mexico;MXN;1
+USD_RedbookIndex;20150609;12:55;Redbook Index (MoM);United States;USD;1
+USD_NFIBBusinessOptimismIndex;20150609;11:00;NFIB Business Optimism Index;United States;USD;1
+EUR_PorGlobalTradeBalance;20150609;10:56;Global Trade Balance;Portugal;EUR;1
+EUR_EurGrossDomesticProduct;20150609;09:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+EUR_GreIndustrialProduction;20150609;09:00;Industrial Production (YoY);Greece;EUR;1
+EUR_NetManufacturingOutput;20150609;08:30;Manufacturing Output (MoM);Netherlands, The;EUR;1
+GBP_GoodsTradeBalance;20150609;08:30;Goods Trade Balance;United Kingdom;GBP;1
+GBP_TradeBalancenonEU;20150609;08:30;Trade Balance non-EU;United Kingdom;GBP;1
+GBP_TotalTradeBalance;20150609;08:30;Total Trade Balance;United Kingdom;GBP;1
+CHF_ConsumerPriceIndex;20150609;07:15;Consumer Price Index (YoY);Switzerland;CHF;2
+EUR_SloForeignTradeBalance;20150609;07:00;Foreign Trade Balance;Slovakia;EUR;1
+CZK_ConsumerPriceIndex;20150609;07:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+DKK_TradeBalance;20150609;07:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20150609;07:00;Current Account;Denmark;DKK;1
+HUF_ConsumerPriceIndex;20150609;07:00;Consumer Price Index (YoY);Hungary;HUF;1
+EUR_AusTradeBalance;20150609;07:00;Trade Balance;Austria;EUR;1
+EUR_FraBudget;20150609;06:45;Budget;France;EUR;1
+JPY_MachineToolOrders;20150609;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+CHF_UnemploymentRate;20150609;05:45;Unemployment Rate s.a (MoM);Switzerland;CHF;3
+JPY_ConsumerConfidenceIndex;20150609;05:00;Consumer Confidence Index;Japan;JPY;1
+AUD_InvestmentLendingforHomes;20150609;01:30;Investment Lending for Homes;Australia;AUD;2
+AUD_HomeLoans;20150609;01:30;Home Loans;Australia;AUD;2
+AUD_ANZJobAdvertisements;20150609;01:30;ANZ Job Advertisements;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConfidence;20150609;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConditions;20150609;01:30;National Australia Bank Business Conditions;Australia;AUD;1
+CNY_ConsumerPriceIndex;20150609;01:30;Consumer Price Index (YoY);China;CNY;2
+CNY_ProducerPriceIndex;20150609;01:30;Producer Price Index (YoY);China;CNY;2

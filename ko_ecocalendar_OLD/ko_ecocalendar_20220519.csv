@@ -1,0 +1,31 @@
+AUD_UnemploymentRate;20220519;01:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_ParticipationRate;20220519;01:30;Participation Rate;Australia;AUD;1
+AUD_EmploymentChange;20220519;01:30;Employment Change s.a.;Australia;AUD;3
+AUD_PartTimeEmployment;20220519;01:30;Part-Time Employment;Australia;AUD;1
+AUD_FullTimeEmployment;20220519;01:30;Full-Time Employment;Australia;AUD;2
+NZD_BudgetRelease;20220519;02:00;Budget Release;New Zealand;NZD;3
+SEK_CapacityUtilization;20220519;06:00;Capacity Utilization;Sweden;SEK;1
+EUR_EurCurrentAccount;20220519;08:00;Current Account n.s.a;European Monetary Union;EUR;1
+EUR_EurConstructionOutput;20220519;09:00;Construction Output w.d.a (YoY);European Monetary Union;EUR;1
+EUR_EurECBMonetaryPolicyMeetingAccounts;20220519;11:30;ECB Monetary Policy Meeting Accounts;European Monetary Union;EUR;2
+USD_JoblessClaims;20220519;12:30;Continuing Jobless Claims;United States;USD;1
+USD_PhiladelphiaFedManufacturingSurvey;20220519;12:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+EUR_EurCentralBankSpeech;20220519;12:30;ECB De Guindos speech;European Monetary Union;EUR;2
+CAD_RawMaterialPriceIndex;20220519;12:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20220519;12:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_EmploymentInsuranceBeneficiariesChange;20220519;12:30;Employment Insurance Beneficiaries Change (MoM);Canada;CAD;1
+CAD_NewHousingPriceIndex;20220519;12:30;New Housing Price Index (MoM);Canada;CAD;1
+ZAR_SARBInterestRateDecision;20220519;13:00;SARB Interest Rate Decision;South Africa;ZAR;1
+RUB_CentralBankReserves;20220519;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_ExistingHomeSales;20220519;14:00;Existing Home Sales (MoM);United States;USD;1
+USD_ExistingHomeSalesChange;20220519;14:00;Existing Home Sales Change (MoM);United States;USD;1
+USD_EIANaturalGasStorageChange;20220519;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20220519;15:30;4-Week Bill Auction;United States;USD;1
+USD_CentralBankSpeech;20220519;20:00;Fed Kashkari speech;United States;USD;2
+NZD_TradeBalanceNZD;20220519;22:45;Trade Balance NZD (MoM);New Zealand;NZD;1
+NZD_Imports;20220519;22:45;Imports;New Zealand;NZD;2
+NZD_Exports;20220519;22:45;Exports;New Zealand;NZD;2
+GBP_GfKConsumerConfidence;20220519;23:01;GfK Consumer Confidence;United Kingdom;GBP;2
+JPY_ConsumerPriceIndex;20220519;23:30;National Consumer Price Index (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20220519;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_NationalCPIexFoodEnergy;20220519;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2

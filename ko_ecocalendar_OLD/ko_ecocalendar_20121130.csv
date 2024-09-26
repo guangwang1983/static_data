@@ -1,0 +1,45 @@
+MXN_FiscalBalancepesos;20121130;20:30;Fiscal Balance, pesos;Mexico;MXN;1
+PLN_GrossDomesticProduct;20121130;15:00;Gross Domestic Product Qtr (YoY);Poland;PLN;1
+MXN_CentralBankInterestRate;20121130;15:00;Central Bank Interest Rate;Mexico;MXN;1
+USD_ChicagoPurchasingManagers'Index;20121130;14:45;Chicago Purchasing Managers' Index;United States;USD;1
+CLP_Unemploymentrate;20121130;14:00;Unemployment rate;Chile;CLP;1
+USD_PersonalConsumptionExpendituresPriceIndex;20121130;13:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;1
+USD_CorePersonalConsumptionExpenditurePriceIndex;20121130;13:30;Core Personal Consumption Expenditure - Price Index (MoM);United States;USD;2
+USD_PersonalSpending;20121130;13:30;Personal Spending;United States;USD;2
+USD_PersonalIncome;20121130;13:30;Personal Income (MoM);United States;USD;2
+CAD_GrossDomesticProduct;20121130;13:30;Gross Domestic Product Annualized (QoQ);Canada;CAD;2
+BRL_NominalBudgetBalance;20121130;12:30;Nominal Budget Balance;Brazil;BRL;1
+BRL_PrimaryBudgetSurplus;20121130;12:30;Primary Budget Surplus;Brazil;BRL;1
+ZAR_TradeBalance;20121130;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+INR_BankLoanGrowth;20121130;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20121130;11:30;FX Reserves, USD;India;INR;1
+EUR_ItaProducerPriceIndex;20121130;11:00;Producer Price Index (MoM);Italy;EUR;1
+BRL_GrossDomesticProduct;20121130;11:00;Gross Domestic Product (QoQ);Brazil;BRL;1
+EUR_GerBundestagvoteonGreekAid;20121130;10:30;Bundestag vote on Greek Aid;Germany;EUR;3
+EUR_EurUnemploymentRate;20121130;10:00;Unemployment Rate;European Monetary Union;EUR;3
+EUR_EurConsumerPriceIndex;20121130;10:00;Consumer Price Index (YoY);European Monetary Union;EUR;2
+EUR_ItaConsumerPriceIndex;20121130;10:00;Consumer Price Index (YoY);Italy;EUR;1
+EUR_GreRetailSales;20121130;10:00;Retail Sales (YoY);Greece;EUR;1
+CZK_M2MoneySupply;20121130;09:00;M2 Money Supply (YoY);Czech Republic;CZK;1
+EUR_ItaUnemployment;20121130;09:00;Unemployment;Italy;EUR;1
+NOK_RetailSales;20121130;09:00;Retail Sales ;Norway;NOK;1
+NOK_RegisteredUnemployment;20121130;09:00;Registered Unemployment n.s.a;Norway;NOK;1
+EUR_AusProducerPriceIndex;20121130;09:00;Producer Price Index (MoM);Austria;EUR;1
+CHF_KOFLeadingIndicator;20121130;08:00;KOF Leading Indicator;Switzerland;CHF;2
+EUR_SpaHICP;20121130;08:00;HICP (YoY);Spain;EUR;1
+TRY_TradeBalance;20121130;08:00;Trade Balance;Turkey;TRY;1
+EUR_EurCentralBankSpeech;20121130;08:00;ECB President Draghi speech;European Monetary Union;EUR;3
+DKK_GrossDomesticProduct;20121130;08:00;Gross Domestic Product - Revised (YoY);Denmark;DKK;1
+HUF_ProducerPriceIndex;20121130;08:00;Producer Price Index (YoY);Hungary;HUF;1
+EUR_SpaCurrentAccount;20121130;08:00;Current Account Balance;Spain;EUR;1
+EUR_FraProducerPrices;20121130;07:45;Producer Prices (MoM);France;EUR;1
+EUR_FraConsumerSpending;20121130;07:45;Consumer Spending (MoM);France;EUR;1
+EUR_GerRetailSales;20121130;07:00;Retail Sales (YoY);Germany;EUR;2
+INR_GrossDomesticProduct;20121130;05:30;Gross Domestic Product Quarterly (YoY);India;INR;1
+JPY_ConstructionOrders;20121130;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_HousingStarts;20121130;05:00;Housing Starts (YoY);Japan;JPY;2
+JPY_AnnualizedHousingStarts;20121130;05:00;Annualized Housing Starts;Japan;JPY;2
+JPY_VehicleProduction;20121130;04:00;Vehicle Production (YoY);Japan;JPY;1
+NZD_M3MoneySupply;20121130;02:00;M3 Money Supply (YoY);New Zealand;NZD;1
+AUD_PrivateSectorCredit;20121130;00:30;Private Sector Credit (YoY);Australia;AUD;1
+GBP_GfKConsumerConfidence;20121130;00:01;GfK Consumer Confidence;United Kingdom;GBP;2

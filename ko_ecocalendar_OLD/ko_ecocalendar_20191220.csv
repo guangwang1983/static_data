@@ -1,0 +1,63 @@
+GBP_CFTCGBPNCNetPositions;20191220;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20191220;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20191220;20:30;CFTC Oil NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20191220;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCUSDNCNetPositions;20191220;20:30;CFTC USD NC Net Positions;United States;USD;1
+AUD_CFTCAUDNCNetPositions;20191220;20:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20191220;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+COP_Interestrate;20191220;20:00;Interest rate;Colombia;COP;1
+USD_BakerHughesUSOilRigCount;20191220;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+USD_KansasFedManufacturingActivity;20191220;16:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_PersonalConsumptionExpendituresPriceIndex;20191220;15:00;Personal Consumption Expenditures - Price Index (MoM);United States;USD;1
+USD_PersonalSpending;20191220;15:00;Personal Spending;United States;USD;2
+USD_CorePersonalConsumptionExpenditurePriceIndex;20191220;15:00;Core Personal Consumption Expenditure - Price Index (YoY);United States;USD;2
+USD_PersonalIncome;20191220;15:00;Personal Income (MoM);United States;USD;2
+USD_MichiganConsumerSentimentIndex;20191220;15:00;Michigan Consumer Sentiment Index;United States;USD;2
+EUR_EurConsumerConfidence;20191220;15:00;Consumer Confidence;European Monetary Union;EUR;1
+USD_GrossDomesticProduct;20191220;13:30;Gross Domestic Product Price Index;United States;USD;2
+CAD_NewHousingPriceIndex;20191220;13:30;New Housing Price Index (YoY);Canada;CAD;1
+USD_PersonalConsumptionExpendituresPrices;20191220;13:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+USD_CorePersonalConsumptionExpenditures;20191220;13:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+CAD_RetailSales;20191220;13:30;Retail Sales ex Autos (MoM);Canada;CAD;2
+PLN_M3MoneySupply;20191220;13:00;M3 Money Supply (YoY);Poland;PLN;1
+BRL_CurrentAccount;20191220;12:30;Current Account;Brazil;BRL;1
+GBP_BoEQuarterlyBulletin;20191220;12:00;BoE Quarterly Bulletin;United Kingdom;GBP;1
+MXN_RetailSales;20191220;12:00;Retail Sales (YoY);Mexico;MXN;1
+BRL_MidmonthInflation;20191220;12:00;Mid-month Inflation;Brazil;BRL;1
+INR_BankLoanGrowth;20191220;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20191220;11:30;FX Reserves, USD;India;INR;1
+EUR_ItaTradeBalancenonEU;20191220;11:00;Trade Balance non-EU;Italy;EUR;1
+GBP_CentralBankSpeech;20191220;11:00;BoE Haskel speech;United Kingdom;GBP;2
+EUR_ItaProducerPriceIndex;20191220;10:00;Producer Price Index (YoY);Italy;EUR;1
+EUR_GreUnemploymentRate;20191220;10:00;Unemployment Rate (QoQ);Greece;EUR;1
+GBP_GrossDomesticProduct;20191220;09:30;Gross Domestic Product (YoY);United Kingdom;GBP;2
+GBP_TotalBusinessInvestment;20191220;09:30;Total Business Investment (QoQ);United Kingdom;GBP;1
+EUR_SloUnemploymentRate;20191220;09:30;Unemployment Rate;Slovakia;EUR;1
+EUR_GreCurrentAccount;20191220;09:30;Current Account (YoY);Greece;EUR;1
+GBP_CurrentAccount;20191220;09:30;Current Account;United Kingdom;GBP;1
+GBP_PublicSectorNetBorrowing;20191220;09:30;Public Sector Net Borrowing;United Kingdom;GBP;2
+EUR_ItaBusinessConfidence;20191220;09:00;Business Confidence;Italy;EUR;1
+EUR_ItaConsumerConfidence;20191220;09:00;Consumer Confidence;Italy;EUR;1
+EUR_EurCurrentAccount;20191220;09:00;Current Account n.s.a;European Monetary Union;EUR;1
+PLN_RetailSales;20191220;09:00;Retail Sales (YoY);Poland;PLN;1
+CZK_ForeignDebt;20191220;09:00;Foreign Debt;Czech Republic;CZK;1
+NOK_RegisteredUnemployment;20191220;09:00;Registered Unemployment n.s.a;Norway;NOK;1
+SEK_RetailSales;20191220;08:30;Retail Sales (MoM);Sweden;SEK;1
+HKD_ConsumerPriceIndex;20191220;08:30;Consumer Price Index;Hong Kong SAR;HKD;1
+SEK_ProducerPriceIndex;20191220;08:30;Producer Price Index (MoM);Sweden;SEK;1
+EUR_SloCurrentAccount;20191220;08:00;Current Account Balance EUR;Slovakia;EUR;1
+EUR_FraProducerPrices;20191220;07:45;Producer Prices (MoM);France;EUR;1
+EUR_FraConsumerSpending;20191220;07:45;Consumer Spending (MoM);France;EUR;1
+HUF_CurrentAccount;20191220;07:30;Current Account Balance (QoQ);Hungary;HUF;1
+TRY_ConsumerConfidence;20191220;07:00;Consumer Confidence;Turkey;TRY;1
+DKK_ConsumerConfidence;20191220;07:00;Consumer Confidence;Denmark;DKK;1
+EUR_GerGfkConsumerConfidenceSurvey;20191220;07:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+DKK_RetailSales;20191220;07:00;Retail Sales (YoY);Denmark;DKK;1
+DKK_GrossDomesticProduct;20191220;07:00;Gross Domestic Product (QoQ);Denmark;DKK;1
+EUR_FinUnemploymentRate;20191220;06:00;Unemployment Rate;Finland;EUR;1
+EUR_NetConsumerSpendingVolume;20191220;05:30;Consumer Spending Volume;Netherlands, The;EUR;1
+EUR_NetConsumerConfidenceAdj;20191220;05:30;Consumer Confidence Adj;Netherlands, The;EUR;1
+NZD_CreditCardSpending;20191220;02:00;Credit Card Spending (YoY);New Zealand;NZD;1
+CNY_PBoCInterestRateDecision;20191220;01:30;PBoC Interest Rate Decision;China;CNY;3
+GBP_GfKConsumerConfidence;20191220;00:01;GfK Consumer Confidence;United Kingdom;GBP;2
+AUD_HIANewHomeSales;20191220;00:00;HIA New Home Sales (MoM);Australia;AUD;2

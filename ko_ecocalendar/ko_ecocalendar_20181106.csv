@@ -1,0 +1,38 @@
+GBP_RetailSales;20181106;00:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;2
+AUD_RBARateStatement;20181106;03:30;RBA Rate Statement;Australia;AUD;3
+AUD_RBAInterestRateDecision;20181106;03:30;RBA Interest Rate Decision;Australia;AUD;3
+USD_USMidtermElections;20181106;05:00;US Midterm Elections;United States;USD;2
+RUB_S&PGlobalServicesPMI;20181106;06:00;S&P Global Services PMI;Russia;RUB;1
+EUR_GerFactoryOrders;20181106;07:00;Factory Orders n.s.a. (YoY);Germany;EUR;1
+CZK_IndustrialProduction;20181106;08:00;Industrial Production (YoY);Czech Republic;CZK;1
+CZK_Constructionoutput;20181106;08:00;Construction output (YoY);Czech Republic;CZK;1
+CZK_ForeignTradeBalance;20181106;08:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+SEK_IndustrialProductionValue;20181106;08:30;Industrial Production Value (YoY);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20181106;08:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+EUR_ItaHCOBServicesPMI;20181106;08:45;HCOB Services PMI;Italy;EUR;1
+EUR_FraHCOBCompositePMI;20181106;08:50;HCOB Composite PMI;France;EUR;1
+EUR_FraHCOBServicesPMI;20181106;08:50;HCOB Services PMI;France;EUR;1
+EUR_GerHCOBCompositePMI;20181106;08:55;HCOB Composite PMI;Germany;EUR;2
+EUR_GerHCOBServicesPMI;20181106;08:55;HCOB Services PMI;Germany;EUR;2
+IDR_RetailSales;20181106;09:00;Retail Sales (YoY);Indonesia;IDR;1
+EUR_EurHCOBCompositePMI;20181106;09:00;HCOB Composite PMI;European Monetary Union;EUR;2
+EUR_EurHCOBServicesPMI;20181106;09:00;HCOB Services PMI;European Monetary Union;EUR;2
+EUR_EurProducerPriceIndex;20181106;10:00;Producer Price Index (YoY);European Monetary Union;EUR;1
+GBP_Auction;20181106;10:55;10-y Bond Auction;United Kingdom;GBP;1
+RON_Interestratedecision;20181106;11:30;Interest rate decision;Romania;RON;1
+EUR_EurCentralBankSpeech;20181106;12:00;ECB Lautenschläger speech;European Monetary Union;EUR;2
+RUB_ConsumerPriceIndex;20181106;13:00;Consumer Price Index (MoM);Russia;RUB;1
+CAD_BuildingPermits;20181106;13:30;Building Permits (MoM);Canada;CAD;1
+USD_RedbookIndex;20181106;13:55;Redbook Index (YoY);United States;USD;1
+MXN_ConsumerConfidence;20181106;14:00;Consumer Confidence;Mexico;MXN;1
+USD_JOLTSJobOpenings;20181106;15:00;JOLTS Job Openings;United States;USD;1
+USD_IBDTIPPEconomicOptimism;20181106;15:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+NZD_GDTPriceIndex;20181106;15:26;GDT Price Index;New Zealand;NZD;2
+USD_Auction;20181106;18:00;10-Year Note Auction;United States;USD;1
+AUD_AiGPerformanceofConstructionIndex;20181106;21:30;AiG Performance of Construction Index;Australia;AUD;2
+USD_APIWeeklyCrudeOilStock;20181106;21:30;API Weekly Crude Oil Stock;United States;USD;1
+NZD_ParticipationRate;20181106;21:45;Participation Rate;New Zealand;NZD;2
+NZD_EmploymentChange;20181106;21:45;Employment Change;New Zealand;NZD;3
+NZD_UnemploymentRate;20181106;21:45;Unemployment Rate;New Zealand;NZD;3
+NZD_LabourCostIndex;20181106;21:45;Labour Cost Index (YoY);New Zealand;NZD;1
+JPY_JPForeignReserves;20181106;23:50;JP Foreign Reserves;Japan;JPY;1

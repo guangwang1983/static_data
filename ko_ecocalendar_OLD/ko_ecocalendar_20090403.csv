@@ -1,0 +1,12 @@
+USD_CentralBankSpeech;20090403;16:00;Former Fed Chair Bernanke speech;United States;USD;2
+USD_ISMNonManufacturingPMI;20090403;14:00;ISM Non-Manufacturing PMI;United States;USD;1
+USD_UnemploymentRate;20090403;12:30;Unemployment Rate;United States;USD;3
+USD_AverageHourlyEarnings;20090403;12:30;Average Hourly Earnings (MoM);United States;USD;3
+USD_NonfarmPayrolls;20090403;12:30;Nonfarm Payrolls;United States;USD;3
+USD_AverageWeeklyHours;20090403;12:30;Average Weekly Hours;United States;USD;3
+GBP_MarkitServicesPMI;20090403;08:30;Markit Services PMI;United Kingdom;GBP;1
+DKK_DanmarksNationalbankinterestratechange;20090403;08:00;Danmarks Nationalbank interest rate change;Denmark;DKK;0
+GBP_HalifaxHousePrices;20090403;08:00;Halifax House Prices (3m/YoY);United Kingdom;GBP;1
+EUR_EurMarkitServicesPMI;20090403;08:00;Markit Services PMI;European Monetary Union;EUR;1
+EUR_GerMarkitServicesPMI;20090403;07:55;Markit Services PMI;Germany;EUR;1
+CHF_ConsumerPriceIndex;20090403;07:15;Consumer Price Index (MoM);Switzerland;CHF;2

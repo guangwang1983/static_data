@@ -1,0 +1,24 @@
+AUD_HomeLoans;20170515;01:30;Home Loans;Australia;AUD;2
+AUD_InvestmentLendingforHomes;20170515;01:30;Investment Lending for Homes;Australia;AUD;2
+CNY_RetailSales;20170515;02:00;Retail Sales (YoY);China;CNY;2
+CNY_IndustrialProduction;20170515;02:00;Industrial Production (YoY);China;CNY;2
+CNY_FixedAssetInvestment;20170515;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+IDR_Exports;20170515;04:00;Exports;Indonesia;IDR;1
+IDR_TradeBalance;20170515;04:00;Trade Balance;Indonesia;IDR;1
+IDR_Imports;20170515;04:00;Imports;Indonesia;IDR;1
+NOK_TradeBalance;20170515;06:00;Trade Balance;Norway;NOK;1
+JPY_MachineToolOrders;20170515;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+TRY_UnemploymentRate;20170515;07:00;Unemployment Rate;Turkey;TRY;1
+CHF_ProducerandImportPrices;20170515;07:15;Producer and Import Prices (MoM);Switzerland;CHF;1
+SEK_CapacityUtilization;20170515;07:30;Capacity Utilization;Sweden;SEK;1
+TRY_BudgetBalance;20170515;08:00;Budget Balance;Turkey;TRY;1
+EUR_ItaConsumerPriceIndex;20170515;08:00;Consumer Price Index (EU Norm) (MoM);Italy;EUR;1
+CZK_CurrentAccount;20170515;08:00;Current Account (MoM);Czech Republic;CZK;1
+PLN_NetInflation;20170515;12:00;Net Inflation;Poland;PLN;1
+PLN_CurrentAccount;20170515;12:00;Current Account;Poland;PLN;1
+USD_NYEmpireStateManufacturingIndex;20170515;12:30;NY Empire State Manufacturing Index;United States;USD;1
+USD_NAHBHousingMarketIndex;20170515;14:00;NAHB Housing Market Index;United States;USD;2
+GBP_CentralBankSpeech;20170515;14:00;UK Prime Minister Theresa May speech;United Kingdom;GBP;3
+USD_Auction;20170515;15:30;3-Month Bill Auction;United States;USD;1
+USD_NetLongTermTICFlows;20170515;20:00;Net Long-Term TIC Flows;United States;USD;1
+USD_TotalNetTICFlows;20170515;20:00;Total Net TIC Flows;United States;USD;1

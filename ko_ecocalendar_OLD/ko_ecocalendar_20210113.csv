@@ -1,0 +1,33 @@
+JPY_ProducerPriceIndex;20210113;23:50;Producer Price Index (YoY);Japan;JPY;1
+JPY_MachineryOrders;20210113;23:50;Machinery Orders (MoM);Japan;JPY;1
+NZD_BuildingPermits;20210113;21:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+KRW_ImportPriceGrowth;20210113;21:00;Import Price Growth (YoY);South Korea;KRW;1
+KRW_ExportPriceGrowth;20210113;21:00;Export Price Growth (YoY);South Korea;KRW;1
+USD_CentralBankSpeech;20210113;20:00;Fed Clarida speech;United States;USD;2
+USD_MonthlyBudgetStatement;20210113;19:00;Monthly Budget Statement;United States;USD;2
+USD_FedBeigeBook;20210113;19:00;Fed Beige Book;United States;USD;2
+USD_Auction;20210113;18:00;30-Year Bond Auction;United States;USD;1
+USD_EIACrudeOilStocksChange;20210113;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_ConsumerPriceIndex;20210113;13:30;Consumer Price Index n.s.a (MoM);United States;USD;1
+USD_MBAMortgageApplications;20210113;12:00;MBA Mortgage Applications;United States;USD;1
+INR_M3MoneySupply;20210113;11:30;M3 Money Supply;India;INR;1
+ILS_Exports;20210113;11:00;Exports;Israel;ILS;1
+ILS_Imports;20210113;11:00;Imports;Israel;ILS;1
+ILS_TradeBalance;20210113;11:00;Trade Balance;Israel;ILS;1
+EUR_PorConsumerPriceIndex;20210113;11:00;Consumer Price Index (YoY);Portugal;EUR;1
+ZAR_RetailSales;20210113;11:00;Retail Sales (YoY);South Africa;ZAR;1
+EUR_EurIndustrialProduction;20210113;10:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;1
+EUR_EurCentralBankSpeech;20210113;09:00;ECB President Lagarde speech;European Monetary Union;EUR;3
+EUR_ItaIndustrialOutput;20210113;09:00;Industrial Output s.a. (MoM);Italy;EUR;1
+PLN_NBPBaserate;20210113;09:00;NBP Base rate;Poland;PLN;1
+CZK_CurrentAccount;20210113;09:00;Current Account (MoM);Czech Republic;CZK;1
+CZK_ConsumerPriceIndex;20210113;08:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+HUF_IndustrialOutput;20210113;08:00;Industrial Output (YoY);Hungary;HUF;1
+CZK_RetailSales;20210113;08:00;Retail Sales (YoY);Czech Republic;CZK;1
+RON_IndustrialProduction;20210113;07:00;Industrial Production (MoM);Romania;RON;1
+TRY_IndustrialProduction;20210113;07:00;Industrial Production (YoY);Turkey;TRY;1
+EUR_GerWholesalePriceIndex;20210113;07:00;Wholesale Price Index (MoM);Germany;EUR;1
+CNY_FDIForeignDirectInvestment;20210113;07:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+JPY_MachineToolOrders;20210113;06:00;Machine Tool Orders (YoY);Japan;JPY;1
+KRW_MoneySupplyGrowth;20210113;03:00;Money Supply Growth;South Korea;KRW;1
+NZD_ANZCommodityPrice;20210113;00:00;ANZ Commodity Price;New Zealand;NZD;1

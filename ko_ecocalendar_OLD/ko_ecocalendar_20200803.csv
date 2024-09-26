@@ -1,0 +1,53 @@
+JPY_JPForeignReserves;20200803;23:50;JP Foreign Reserves;Japan;JPY;1
+JPY_MonetaryBase;20200803;23:50;Monetary Base (YoY);Japan;JPY;1
+JPY_TokyoCPIexFreshFood;20200803;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;2
+JPY_TokyoCPIexFoodEnergy;20200803;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20200803;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;2
+KRW_ConsumerPriceIndex;20200803;23:00;Consumer Price Index Growth (YoY);South Korea;KRW;1
+ARS_TaxRevenue;20200803;20:00;Tax Revenue (MoM);Argentina;ARS;1
+USD_TotalVehicleSales;20200803;19:30;Total Vehicle Sales;United States;USD;1
+USD_LoanOfficerSurvey;20200803;18:00;Loan Officer Survey;United States;USD;1
+USD_Auction;20200803;15:30;6-Month Bill Auction;United States;USD;1
+USD_ISMManufacturingPMI;20200803;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20200803;14:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ISMManufacturingEmploymentIndex;20200803;14:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ISMManufacturingNewOrdersIndex;20200803;14:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ConstructionSpending;20200803;14:00;Construction Spending (MoM);United States;USD;1
+USD_MarkitManufacturingPMI;20200803;13:45;Markit Manufacturing PMI;United States;USD;2
+BRL_HSBCPMIManufacturing;20200803;13:00;HSBC PMI Manufacturing;Brazil;BRL;1
+SGD_PurchasingManagersIndex;20200803;13:00;Purchasing Managers Index;Singapore;SGD;1
+ZAR_TotalNewVehicleSales;20200803;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+RON_Interestratedecision;20200803;12:00;Interest rate decision;Romania;RON;1
+CZK_BudgetBalance;20200803;12:00;Budget Balance;Czech Republic;CZK;1
+CLP_IMACEC;20200803;10:30;IMACEC;Chile;CLP;1
+ILS_BudgetBalanceILS;20200803;10:00;Budget Balance - ILS;Israel;ILS;1
+BRL_TradeBalance;20200803;10:00;Trade Balance;Brazil;BRL;1
+ZAR_BusinessConfidenceIndex;20200803;09:30;Business Confidence Index;South Africa;ZAR;1
+DKK_ManufacturingPMI;20200803;09:00;Manufacturing PMI;Denmark;DKK;1
+GBP_MarkitManufacturingPMI;20200803;08:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+EUR_GreMarkitManufacturingPMI;20200803;08:00;Markit Manufacturing PMI;Greece;EUR;1
+EUR_EurMarkitManufacturingPMI;20200803;08:00;Markit Manufacturing PMI;European Monetary Union;EUR;1
+EUR_GerMarkitManufacturingPMI;20200803;07:55;Markit Manufacturing PMI;Germany;EUR;2
+EUR_FraMarkitManufacturingPMI;20200803;07:50;Markit Manufacturing PMI;France;EUR;1
+EUR_ItaMarkitManufacturingPMI;20200803;07:45;Markit Manufacturing PMI;Italy;EUR;2
+CHF_SVMEPurchasingManagers'Index;20200803;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_MarkitPMI;20200803;07:30;Markit PMI;Czech Republic;CZK;1
+EUR_SpaMarkitManufacturingPMI;20200803;07:15;Markit Manufacturing PMI;Spain;EUR;2
+EUR_AusUnemploymentRate;20200803;07:00;Unemployment Rate;Austria;EUR;1
+EUR_AusUnemployment;20200803;07:00;Unemployment;Austria;EUR;1
+HUF_PurchasingManagerIndex;20200803;07:00;Purchasing Manager Index;Hungary;HUF;1
+EUR_SpaUnemploymentChange;20200803;07:00;Unemployment Change;Spain;EUR;1
+EUR_NetMarkitManufacturingPMI;20200803;07:00;Markit Manufacturing PMI;Netherlands, The;EUR;1
+PLN_PurchasingManagerIndex;20200803;07:00;Purchasing Manager Index;Poland;PLN;2
+SEK_PurchasingManagersIndexManufacturing;20200803;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+CHF_ConsumerPriceIndex;20200803;06:30;Consumer Price Index (YoY);Switzerland;CHF;2
+RUB_HSBCManufacturingPMI;20200803;06:00;HSBC Manufacturing PMI	;Russia;RUB;1
+CAD_AugustCivicHoliday;20200803;05:00;August Civic Holiday;Canada;CAD;0
+IDR_Inflation;20200803;04:00;Inflation (MoM);Indonesia;IDR;1
+IDR_CoreInflation;20200803;04:00;Core Inflation (YoY);Indonesia;IDR;1
+CNY_CaixinManufacturingPMI;20200803;01:45;Caixin Manufacturing PMI;China;CNY;2
+AUD_ANZJobAdvertisements;20200803;01:00;ANZ Job Advertisements;Australia;AUD;1
+AUD_TDSecuritiesInflation;20200803;01:00;TD Securities Inflation (MoM);Australia;AUD;2
+KRW_NikkeiMarkitManufacturingPMI;20200803;00:30;Nikkei Markit Manufacturing PMI;South Korea;KRW;1
+JPY_JibunBankManufacturingPMI;20200803;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+ISK_CommerceDay;20200803;00:00;Commerce Day ;Iceland;ISK;0

@@ -1,0 +1,28 @@
+COP_ConsumerPriceIndex;20190806;00:00;Consumer Price Index (MoM);Colombia;COP;1
+AUD_ANZJobAdvertisements;20190806;01:30;ANZ Job Advertisements;Australia;AUD;1
+AUD_TradeBalance;20190806;01:30;Trade Balance (MoM);Australia;AUD;2
+AUD_Imports;20190806;01:30;Imports (MoM);Australia;AUD;2
+AUD_Exports;20190806;01:30;Exports (MoM);Australia;AUD;2
+NZD_RBNZInflationExpectations;20190806;03:00;RBNZ Inflation Expectations (QoQ);New Zealand;NZD;2
+AUD_RBARateStatement;20190806;04:30;RBA Rate Statement;Australia;AUD;3
+AUD_RBAInterestRateDecision;20190806;04:30;RBA Interest Rate Decision;Australia;AUD;3
+JPY_LeadingEconomicIndex;20190806;05:00;Leading Economic Index;Japan;JPY;2
+JPY_CoincidentIndex;20190806;05:00;Coincident Index;Japan;JPY;1
+EUR_GerFactoryOrders;20190806;06:00;Factory Orders n.s.a. (YoY);Germany;EUR;1
+CZK_IndustrialProduction;20190806;07:00;Industrial Production (YoY);Czech Republic;CZK;1
+CZK_Constructionoutput;20190806;07:00;Construction output (YoY);Czech Republic;CZK;1
+CZK_ForeignTradeBalance;20190806;07:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+SEK_IndustrialProductionValue;20190806;07:30;Industrial Production Value (YoY);Sweden;SEK;1
+SEK_NewOrdersManufacturing;20190806;07:30;New Orders Manufacturing (YoY);Sweden;SEK;1
+ILS_BudgetBalanceILS;20190806;10:00;Budget Balance - ILS;Israel;ILS;1
+USD_RedbookIndex;20190806;12:55;Redbook Index (YoY);United States;USD;1
+RUB_ConsumerPriceIndex;20190806;13:00;Consumer Price Index (MoM);Russia;RUB;1
+USD_JOLTSJobOpenings;20190806;14:00;JOLTS Job Openings;United States;USD;1
+USD_IBDTIPPEconomicOptimism;20190806;15:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+NZD_GDTPriceIndex;20190806;15:15;GDT Price Index;New Zealand;NZD;2
+USD_CentralBankSpeech;20190806;16:00;Fed Bullard speech;United States;USD;2
+USD_Auction;20190806;17:00;3-Year Note Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20190806;20:30;API Weekly Crude Oil Stock;United States;USD;1
+AUD_AiGPerformanceofConstructionIndex;20190806;22:30;AiG Performance of Construction Index;Australia;AUD;2
+JPY_JPForeignReserves;20190806;23:50;JP Foreign Reserves;Japan;JPY;1
+JPY_BoJSummaryofOpinions;20190806;23:50;BoJ Summary of Opinions;Japan;JPY;1

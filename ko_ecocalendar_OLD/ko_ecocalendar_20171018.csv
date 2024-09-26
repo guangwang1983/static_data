@@ -1,0 +1,33 @@
+JPY_MerchandiseTradeBalanceTotal;20171018;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Imports;20171018;23:50;Imports (YoY);Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20171018;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;2
+JPY_Exports;20171018;23:50;Exports (YoY);Japan;JPY;2
+JPY_ForeignBondInvestment;20171018;23:50;Foreign Bond Investment;Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20171018;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+USD_FedBeigeBook;20171018;18:00;Fed Beige Book;United States;USD;2
+COP_TradeBalance;20171018;15:00;Trade Balance;Colombia;COP;1
+USD_EIACrudeOilStocksChange;20171018;14:30;EIA Crude Oil Stocks Change;United States;USD;2
+EUR_EurCentralBankSpeech;20171018;14:15;ECB Cœuré speech;European Monetary Union;EUR;2
+RUB_UnemploymentRate;20171018;13:00;Unemployment Rate;Russia;RUB;1
+RUB_ProducerPriceIndex;20171018;13:00;Producer Price Index (MoM);Russia;RUB;1
+USD_HousingStarts;20171018;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermitsChange;20171018;12:30;Building Permits Change;United States;USD;2
+USD_HousingStartsChange;20171018;12:30;Housing Starts Change;United States;USD;2
+USD_BuildingPermits;20171018;12:30;Building Permits (MoM);United States;USD;2
+CAD_ManufacturingShipments;20171018;12:30;Manufacturing Shipments (MoM);Canada;CAD;1
+USD_CentralBankSpeech;20171018;12:00;Fed Kaplan speech;United States;USD;1
+PLN_RetailSales;20171018;12:00;Retail Sales (YoY);Poland;PLN;1
+PLN_IndustrialOutput;20171018;12:00;Industrial Output (YoY);Poland;PLN;1
+PLN_ProducerPriceIndex;20171018;12:00;Producer Price Index (YoY);Poland;PLN;1
+USD_MBAMortgageApplications;20171018;11:00;MBA Mortgage Applications;United States;USD;1
+ZAR_RetailSales;20171018;11:00;Retail Sales (YoY);South Africa;ZAR;1
+EUR_GerAuction;20171018;09:44;30-y Bond Auction;Germany;EUR;1
+EUR_EurConstructionOutput;20171018;09:00;Construction Output  s.a (MoM);European Monetary Union;EUR;1
+GBP_AverageEarningsExcludingBonus;20171018;08:30;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;1
+GBP_AverageEarningsIncludingBonus;20171018;08:30;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;3
+GBP_ClaimantCountChange;20171018;08:30;Claimant Count Change;United Kingdom;GBP;2
+GBP_ClaimantCountRate;20171018;08:30;Claimant Count Rate;United Kingdom;GBP;1
+GBP_ILOUnemploymentRate;20171018;08:30;ILO Unemployment Rate (3M);United Kingdom;GBP;2
+ZAR_ConsumerPriceIndex;20171018;08:00;Consumer Price Index (MoM);South Africa;ZAR;1
+KRW_MoneySupplyGrowth;20171018;03:00;Money Supply Growth;South Korea;KRW;1
+SGD_Deepavali;20171018;00:00;Deepavali;Singapore;SGD;0

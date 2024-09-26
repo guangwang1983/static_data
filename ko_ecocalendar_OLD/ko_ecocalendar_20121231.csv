@@ -1,0 +1,16 @@
+USD_DallasFedManufacturingBusinessIndex;20121231;15:30;Dallas Fed Manufacturing Business Index;United States;USD;1
+ZAR_TradeBalance;20121231;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+INR_TradeDeficitRBI;20121231;11:30;Trade Deficit - RBI;India;INR;1
+INR_BalancePayment;20121231;11:30;Balance Payment $;India;INR;1
+INR_CurrentAccount;20121231;11:30;Current Account Balance $;India;INR;1
+EUR_GreRetailSales;20121231;10:00;Retail Sales (YoY);Greece;EUR;1
+CZK_M2MoneySupply;20121231;09:00;M2 Money Supply (YoY);Czech Republic;CZK;1
+CZK_ForeignDebt;20121231;09:00;Foreign Debt;Czech Republic;CZK;1
+INR_FederalFiscalDeficitINR;20121231;08:30;Federal Fiscal Deficit, INR;India;INR;1
+ZAR_PrivateSectorCredit;20121231;06:00;Private Sector Credit;South Africa;ZAR;1
+ZAR_M3MoneySupply;20121231;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+CNY_CaixinManufacturingPMI;20121231;01:45;Caixin Manufacturing PMI;China;CNY;2
+AUD_PrivateSectorCredit;20121231;00:30;Private Sector Credit (YoY);Australia;AUD;2
+RUB_Publicholiday;20121231;00:00;Public holiday;Russia;RUB;0
+EUR_GerNewYearEve;20121231;00:00;New Year Eve;Germany;EUR;0
+JPY_BankHoliday;20121231;00:00;Bank Holiday;Japan;JPY;0

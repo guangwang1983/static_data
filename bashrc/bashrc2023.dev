@@ -1,0 +1,119 @@
+# .bashrc
+# User specific aliases and functions
+#Source global definitions
+if [ -f /etc/bashrc ]; then
+    . /etc/bashrc
+fi
+export GOOGLE_APPLICATION_CREDENTIALS="/home/levelup/.google_api.json"
+if [ -d /dat/matterhorn ]
+then
+    cd /dat/matterhorn/env27
+    pipenv shell
+    ln -sf /dat/matterhorn/env27/.venv/bin/python /dat/matterhorn/env27/bin/python
+    cd -
+else
+    echo "/dat/matterhorn not found.  skipping pipenv commands in .bashrc"
+fi
+
+#Enable History appending instead of overwriting
+shopt -s histappend
+#User Specific aliases and func
+umask 0007
+alias ..='cd ..'
+alias l="ls -l"
+LOCATION2=' \033[01;34m\] $(pwd) \n\$ '
+PS1="\`pwd\` \$ "
+#TERM=xterm-color
+#export TERM=xterm-color
+#export GREP_OPTIONS='--color=auto' GREP_COLOR='1;32'
+#export CLICOLOR=1
+#export LSCOLORS=ExFxCxDxBxegedabagacad
+#PS1='\e[33;1m\u@\h: \e[31m\W\e[0m\$ '
+
+git_branch () { git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/\1/'; }
+HOST='\033[02;36m\]\h'; HOST=' '$HOST
+HOST='\033[02;36m\]\h'; HOST=' '$HOST
+TIME='\033[01;31m\]\t \033[01;32m\]'
+LOCATION=' \033[01;34m\]`pwd | sed "s#\(/[^/]\{1,\}/[^/]\{1,\}/[^/]\{1,\}/\).*\(/[^/]\{1,\}/[^/]\{1,\}\)/\{0,1\}#\1_\2#g"`'
+BRANCH=' \033[00;33m\]$(git_branch)\[\033[00m\]\n\$ '
+#ls --color=al > /dev/null 2>&1 && alias ls='ls -F --color=al' || alias ls='ls -G'
+
+export STATICDATAPATH=/dat/matterhorn/data/static_data
+export TZ=/usr/share/zoneinfo/Europe/Zurich
+export MOSEKLM_LICENSE_FILE=/dat/matterhorn/mosek/syml-mosek.lic
+#export MOSEKLM_LICENSE_FILE=/dat/matterhorn/mosek/LIF-1434.lic
+
+export LD_LIBRARY_PATH=/usr/local/boost/1.75.0/lib:/usr/lib64/:$LD_LIBRARY_PATH
+export OLD_PATH=/sbin:/usr/sbin:/bin:/usr/bin:/usr/local/bin
+export PYTHONPATH=/dat/matterhorn/bin/scripts/python:/dat/matterhorn/bin/scripts/python/ko_condor:/dat/matterhorn/bin/scripts/python/kocParse:/dat/matterhorn/bin/scripts/python/Directional:/dat/matterhorn/bin/scripts/python/fxstreet:/server/zodiac/lib64
+export PATH=/server/zodiac/bin:/dat/matterhorn/bin/scripts/bash:/dat/matterhorn/bin/scripts/bash/gccontrol:/dat/matterhorn/bin/TradeEngine:/dat/matterhorn/bin/tools:$PYTHONPATH:$OLD_PATH
+
+export TRADEENGINEPATH=/dat/matterhorn/bin/TradeEngine
+export TOOLSPATH=/dat/matterhorn/bin/tools
+export SCRIPTPATH=/dat/matterhorn/bin/scripts
+export HDF5GRIDDATAPATH=/dat/matterhorn/data/
+
+export HDF5TICKDATAREADPATH=/dat/matterhorn/data/tickdata/hdf5
+export HDF5SECONDDATAREADPATH=/dat/matterhorn/data/seconddata/hdf5
+export HDF5MINUTEDATAREADPATH=/dat/matterhorn/data/minutedata/hdf5
+export HDF5_5MINUTE_CET_DATAREADPATH=/dat/matterhorn/data/5mindata_cet/hdf5
+export HDF5_MINUTE_CET_DATAREADPATH=/dat/matterhorn/data/mindata_cet/hdf5
+
+export HDF530MINDATAREADPATH=/dat/matterhorn/data/30mindata/hdf5
+
+export HDF5TICKDATAWRITEPATH=/dat/matterhorn/data/tickdata/hdf5
+export HDF5SECONDDATAWRITEPATH=/dat/matterhorn/data/seconddata/hdf5
+export HDF5MINUTEDATAWRITEPATH=/dat/matterhorn/data/minutedata/hdf5
+export HDF5_5MINUTE_CET_DATAWRITEPATH=/dat/matterhorn/data/5mindata_cet/hdf5
+export HDF5_MINUTE_CET_DATAWRITEPATH=/dat/matterhorn/data/mindata_cet/hdf5
+
+export HDF530MINDATAWRITEPATH=/dat/matterhorn/data/30mindata/hdf5
+
+export HDF5PRODUCTSTATSREADPATH=/dat/matterhorn/data/productstats
+export HDF5PRODUCTSTATSWRITEPATH=/dat/matterhorn/data/productstats
+
+export TEMP=/dat/matterhorn/temp/
+
+export PRODUCTIONPATH=/dat/matterhorn/production
+export HDF5RESULTLIBRARYPATH=/export/scratch/production/library
+
+#Production
+export PRODUCTIONPORTFOLIOPATH=/dat/matterhorn/production/portfolios/productionportfolio
+export PRODUCTIONPORTFOLIOFXPATH=/dat/matterhorn/production/portfolios/productionportfolio_FX
+export PRODUCTIONPORTFOLIOINITPATH=/dat/matterhorn/production/portfolios/productionportfolio_INIT
+export PRODUCTIONPORTFOLIOCADPATH=/dat/matterhorn/production/portfolios/productionportfolio_CAD
+export PRODUCTIONPORTFOLIOCURVEPATH=/dat/matterhorn/production/portfolios/productionportfolio_CURVE
+export PRODUCTIONPORTFOLIOSLRLPATH=/dat/matterhorn/production/portfolios/productionportfolio_SLRL
+export PRODUCTIONPORTFOLIODYNAMICPATH=/dat/matterhorn/production/portfolios/productionportfolio_DYNAMIC
+export INCUBATORPATH=/dat/matterhorn/production/portfolios/incubator
+
+export PRODUCTIONSTAGINGPATH=/dat/matterhorn/production/portfolios/productionportfolio/staging
+export PRODUCTIONRELEASEPATH=/dat/matterhorn/production/portfolios/productionportfolio/release
+
+export RICEXCHANGEMAPPING=/dat/globaldata/iso/futures/RIC_EXCHNAGE_Map
+export RICPRODUCTMAPPING=/dat/globaldata/iso/futures/dly_futures_map.txt
+
+export LD_PRELOAD=/usr/lib64/libtcmalloc.so
+
+if [ -d /dat/matterhorn ]
+then
+    source /dat/matterhorn/env27/bin/activate
+else
+    echo "skipping pipenv activation in .bashrc"
+fi
+DEVTOOLS_SHA=$(git ls-remote wqgitlab@gitlab.worldquant.com:WQCore/DevTools.git 2>/dev/null | head -1 | cut -c1-8)
+
+DEVTOOLS_SHA=2e75d04b
+
+DEVTOOLS_DIR=~/wq-devtools/devtools-${DEVTOOLS_SHA}
+#if [ ! -d "$DEVTOOLS_DIR" ]; then
+#    >&2 echo "!!! WQ Dev Tools out of date. Please run updateWQDev.sh !!!"
+#else
+#    source $DEVTOOLS_DIR/bash_profile
+#fi
+
+if [[ -f $HOME/.$(hostname).bashrc ]]; then 
+    source $HOME/.$(hostname).bashrc
+fi
+
+export OMP_NUM_THREADS=3

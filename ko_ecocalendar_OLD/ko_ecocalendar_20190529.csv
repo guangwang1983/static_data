@@ -1,0 +1,39 @@
+JPY_ForeignInvestmentinJapanStocks;20190529;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20190529;23:50;Foreign Bond Investment;Japan;JPY;1
+NZD_BuildingPermits;20190529;22:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+USD_APIWeeklyCrudeOilStock;20190529;21:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_Auction;20190529;17:00;2-Year Note Auction;United States;USD;1
+CAD_BoCRateStatement;20190529;14:00;BoC Rate Statement;Canada;CAD;3
+CAD_BoCInterestRateDecision;20190529;14:00;BoC Interest Rate Decision;Canada;CAD;3
+USD_RichmondFedManufacturingIndex;20190529;14:00;Richmond Fed Manufacturing Index;United States;USD;1
+EUR_BelGrossDomesticProduct;20190529;13:00;Gross Domestic Product (QoQ);Belgium;EUR;1
+USD_RedbookIndex;20190529;12:55;Redbook Index (YoY);United States;USD;1
+USD_MBAMortgageApplications;20190529;11:00;MBA Mortgage Applications;United States;USD;1
+EUR_IreRetailSales;20190529;10:00;Retail Sales (YoY);Ireland;EUR;1
+CHF_ZEWSurveyExpectations;20190529;08:00;ZEW Survey - Expectations;Switzerland;CHF;2
+EUR_ItaBusinessConfidence;20190529;08:00;Business Confidence;Italy;EUR;1
+EUR_ItaConsumerConfidence;20190529;08:00;Consumer Confidence;Italy;EUR;1
+EUR_GerUnemploymentRate;20190529;07:55;Unemployment Rate s.a.;Germany;EUR;2
+EUR_GerUnemploymentChange;20190529;07:55;Unemployment Change;Germany;EUR;2
+EUR_EurCentralBankSpeech;20190529;07:30;ECB Mersch speech;European Monetary Union;EUR;2
+SEK_GrossDomesticProduct;20190529;07:30;Gross Domestic Product (YoY);Sweden;SEK;1
+CHF_KOFLeadingIndicator;20190529;07:00;KOF Leading Indicator;Switzerland;CHF;2
+HUF_UnemploymentRate;20190529;07:00;Unemployment Rate (3M);Hungary;HUF;1
+EUR_AusGrossDomesticProduct;20190529;07:00;Gross Domestic Product (QoQ);Austria;EUR;1
+EUR_AusProducerPriceIndex;20190529;07:00;Producer Price Index (MoM);Austria;EUR;1
+EUR_GerCentralBankSpeech;20190529;07:00;German Buba President Weidmann speech;Germany;EUR;2
+EUR_FraProducerPrices;20190529;06:45;Producer Prices (MoM);France;EUR;1
+EUR_FraConsumerPriceIndex;20190529;06:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraConsumerSpending;20190529;06:45;Consumer Spending (MoM);France;EUR;1
+EUR_FraGrossDomesticProduct;20190529;06:45;Gross Domestic Product (QoQ);France;EUR;1
+DKK_IndustrialOutlook;20190529;06:00;Industrial Outlook;Denmark;DKK;1
+DKK_UnemploymentRate;20190529;06:00;Unemployment Rate;Denmark;DKK;1
+DKK_GrossDomesticProduct;20190529;06:00;Gross Domestic Product (QoQ);Denmark;DKK;1
+NOK_RetailSales;20190529;06:00;Retail Sales ;Norway;NOK;1
+NOK_CreditIndicator;20190529;06:00;Credit Indicator;Norway;NOK;1
+EUR_FinGrossDomesticProduct;20190529;05:00;Gross Domestic Product (QoQ);Finland;EUR;1
+NZD_CentralBankSpeech;20190529;01:10;RBNZ Governor Orr speech;New Zealand;NZD;3
+AUD_HIANewHomeSales;20190529;01:00;HIA New Home Sales (MoM);Australia;AUD;2
+NZD_ANZActivityOutlook;20190529;01:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20190529;01:00;ANZ Business Confidence;New Zealand;NZD;1
+JPY_CentralBankSpeech;20190529;00:00;BoJ Governor Kuroda speech;Japan;JPY;3

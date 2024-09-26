@@ -1,0 +1,58 @@
+CNY_NonManufacturingPMI;20190731;01:00;Non-Manufacturing PMI;China;CNY;2
+CNY_NBSManufacturingPMI;20190731;01:00;NBS Manufacturing PMI;China;CNY;2
+NZD_ANZActivityOutlook;20190731;01:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20190731;01:00;ANZ Business Confidence;New Zealand;NZD;1
+AUD_PrivateSectorCredit;20190731;01:30;Private Sector Credit (MoM);Australia;AUD;1
+AUD_ConsumerPriceIndex;20190731;01:30;Consumer Price Index (YoY);Australia;AUD;2
+AUD_RBATrimmedMeanCPI;20190731;01:30;RBA Trimmed Mean CPI (QoQ);Australia;AUD;3
+JPY_VehicleProduction;20190731;04:00;Vehicle Production (YoY);Japan;JPY;1
+JPY_AnnualizedHousingStarts;20190731;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_HousingStarts;20190731;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_ConstructionOrders;20190731;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_ConsumerConfidenceIndex;20190731;05:00;Consumer Confidence Index;Japan;JPY;1
+DKK_UnemploymentRate;20190731;06:00;Unemployment Rate;Denmark;DKK;1
+GBP_NationwideHousingPrices;20190731;06:00;Nationwide Housing Prices s.a (MoM);United Kingdom;GBP;1
+EUR_GerRetailSales;20190731;06:00;Retail Sales (YoY);Germany;EUR;1
+EUR_FraConsumerPriceIndex;20190731;06:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+TRY_TradeBalance;20190731;07:00;Trade Balance;Turkey;TRY;1
+TRY_ForeignArrivals;20190731;07:00;Foreign Arrivals;Turkey;TRY;1
+HUF_ProducerPriceIndex;20190731;07:00;Producer Price Index (YoY);Hungary;HUF;1
+EUR_GerUnemploymentRate;20190731;07:55;Unemployment Rate s.a.;Germany;EUR;2
+EUR_GerUnemploymentChange;20190731;07:55;Unemployment Change;Germany;EUR;2
+PLN_ConsumerPriceIndex;20190731;08:00;Consumer Price Index (YoY);Poland;PLN;1
+EUR_ItaUnemployment;20190731;08:00;Unemployment;Italy;EUR;1
+EUR_EurGrossDomesticProduct;20190731;09:00;Gross Domestic Product s.a. (QoQ);European Monetary Union;EUR;3
+EUR_EurUnemploymentRate;20190731;09:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_EurHarmonizedIndexofConsumerPrices;20190731;09:00;Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20190731;09:00;Core Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;3
+EUR_ItaConsumerPriceIndex;20190731;09:00;Consumer Price Index (YoY);Italy;EUR;1
+EUR_GerAuction;20190731;09:30;10-y Bond Auction;Germany;EUR;2
+EUR_ItaGrossDomesticProduct;20190731;10:00;Gross Domestic Product (QoQ);Italy;EUR;2
+ILS_UnemploymentRate;20190731;10:00;Unemployment Rate;Israel;ILS;1
+INR_FederalFiscalDeficitINR;20190731;10:00;Federal Fiscal Deficit, INR;India;INR;1
+CLP_Unemploymentrate;20190731;11:00;Unemployment rate;Chile;CLP;1
+USD_MBAMortgageApplications;20190731;11:00;MBA Mortgage Applications;United States;USD;1
+INR_M3MoneySupply;20190731;11:30;M3 Money Supply;India;INR;1
+BRL_UnemploymentRate;20190731;12:00;Unemployment Rate;Brazil;BRL;1
+INR_InfrastructureOutput;20190731;12:00;Infrastructure Output (YoY);India;INR;1
+ZAR_TradeBalance;20190731;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+USD_ADPEmploymentChange;20190731;12:15;ADP Employment Change;United States;USD;2
+CAD_IndustrialProductPrice;20190731;12:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_RawMaterialPriceIndex;20190731;12:30;Raw Material Price Index;Canada;CAD;1
+USD_EmploymentCostIndex;20190731;12:30;Employment Cost Index;United States;USD;1
+CAD_GrossDomesticProduct;20190731;12:30;Gross Domestic Product (MoM);Canada;CAD;2
+CLP_IndustrialProduction;20190731;13:00;Industrial Production (YoY);Chile;CLP;1
+USD_ChicagoPurchasingManagers'Index;20190731;13:48;Chicago Purchasing Managers' Index;United States;USD;2
+USD_EIACrudeOilStocksChange;20190731;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+COP_NationalJoblessRate;20190731;15:00;National Jobless Rate;Colombia;COP;1
+BRL_InterestRateDecision;20190731;17:00;Interest Rate Decision;Brazil;BRL;1
+USD_FedMonetaryPolicyStatement;20190731;18:00;Fed Monetary Policy Statement;United States;USD;3
+USD_FedInterestRateDecision;20190731;18:00;Fed Interest Rate Decision;United States;USD;3
+USD_FOMCPressConference;20190731;18:30;FOMC Press Conference;United States;USD;3
+MXN_FiscalBalancepesos;20190731;22:00;Fiscal Balance, pesos;Mexico;MXN;1
+AUD_AiGPerformanceofMfgIndex;20190731;22:30;AiG Performance of Mfg Index;Australia;AUD;2
+NZD_TotalFilledJobs;20190731;22:45;Total Filled Jobs;New Zealand;NZD;2
+KRW_ConsumerPriceIndex;20190731;23:00;Consumer Price Index Growth (MoM);South Korea;KRW;1
+AUD_S&PGlobalManufacturingPMI;20190731;23:00;S&P Global Manufacturing PMI;Australia;AUD;2
+JPY_ForeignInvestmentinJapanStocks;20190731;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20190731;23:50;Foreign Bond Investment;Japan;JPY;1

@@ -1,0 +1,20 @@
+CLP_PublicHoliday;20210917;04:00;Public Holiday ;Chile;CLP;0
+GBP_RetailSales;20210917;06:00;Retail Sales (MoM);United Kingdom;GBP;2
+EUR_EurCurrentAccount;20210917;08:00;Current Account n.s.a;European Monetary Union;EUR;1
+PLN_CorporateSectorWages;20210917;08:00;Corporate Sector Wages;Poland;PLN;1
+GBP_ConsumerInflationExpectations;20210917;08:30;Consumer Inflation Expectations;United Kingdom;GBP;1
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20210917;09:00;Core Harmonized Index of Consumer Prices (MoM);European Monetary Union;EUR;2
+EUR_EurHarmonizedIndexofConsumerPrices;20210917;09:00;Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;1
+EUR_EurConstructionOutput;20210917;09:00;Construction Output w.d.a (YoY);European Monetary Union;EUR;1
+INR_FXReservesUSD;20210917;13:30;FX Reserves, USD;India;INR;1
+USD_UoM5yearConsumerInflationExpectation;20210917;14:00;UoM 5-year Consumer Inflation Expectation;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20210917;14:00;Michigan Consumer Sentiment Index;United States;USD;3
+COP_TradeBalance;20210917;15:00;Trade Balance;Colombia;COP;1
+USD_BakerHughesUSOilRigCount;20210917;17:00;Baker Hughes US Oil Rig Count;United States;USD;1
+AUD_CFTCAUDNCNetPositions;20210917;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+EUR_EurCFTCEURNCNetPositions;20210917;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+GBP_CFTCGBPNCNetPositions;20210917;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20210917;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20210917;19:30;CFTC Oil NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20210917;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCS&P500NCNetPositions;20210917;19:30;CFTC S&P 500 NC Net Positions;United States;USD;1

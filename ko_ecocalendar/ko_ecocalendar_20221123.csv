@@ -1,0 +1,43 @@
+NZD_RBNZRateStatement;20221123;01:00;RBNZ Rate Statement;New Zealand;NZD;3
+NZD_RBNZInterestRateDecision;20221123;01:00;RBNZ Interest Rate Decision;New Zealand;NZD;3
+NZD_MonetaryPolicyStatement;20221123;01:00;Monetary Policy Statement ;New Zealand;NZD;3
+NZD_RBNZPressConference;20221123;02:00;RBNZ Press Conference;New Zealand;NZD;3
+NOK_CreditIndicator;20221123;07:00;Credit Indicator;Norway;NOK;1
+ZAR_ConsumerPriceIndex;20221123;08:00;Consumer Price Index (YoY);South Africa;ZAR;1
+EUR_FraHCOBManufacturingPMIPreliminar;20221123;08:15;HCOB Manufacturing PMI;France;EUR;2
+EUR_FraHCOBServicesPMI;20221123;08:15;HCOB Services PMI;France;EUR;2
+EUR_FraHCOBCompositePMI;20221123;08:15;HCOB Composite PMI;France;EUR;2
+EUR_GerHCOBCompositePMI;20221123;08:30;HCOB Composite PMI;Germany;EUR;3
+EUR_GerHCOBManufacturingPMIPreliminar;20221123;08:30;HCOB Manufacturing PMI;Germany;EUR;3
+EUR_GerHCOBServicesPMI;20221123;08:30;HCOB Services PMI;Germany;EUR;2
+EUR_EurCentralBankSpeech;20221123;08:30;ECB De Guindos speech;European Monetary Union;EUR;2
+PLN_RetailSales;20221123;09:00;Retail Sales (YoY);Poland;PLN;1
+EUR_EurHCOBCompositePMI;20221123;09:00;HCOB Composite PMI;European Monetary Union;EUR;3
+EUR_EurHCOBManufacturingPMIPreliminar;20221123;09:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurHCOBServicesPMI;20221123;09:00;HCOB Services PMI;European Monetary Union;EUR;2
+GBP_S&PGlobalCIPSManufacturingPMIPreliminar;20221123;09:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSServicesPMI;20221123;09:30;S&P Global/CIPS Services PMI;United Kingdom;GBP;3
+GBP_S&PGlobalCIPSCompositePMI;20221123;09:30;S&P Global/CIPS Composite PMI;United Kingdom;GBP;2
+EUR_GerAuction;20221123;10:30;30-y Bond Auction;Germany;EUR;1
+EUR_GerGermanBubaMonthlyReport;20221123;11:00;German Buba Monthly Report;Germany;EUR;1
+USD_MBAMortgageApplications;20221123;12:00;MBA Mortgage Applications;United States;USD;1
+USD_JoblessClaims;20221123;13:30;Continuing Jobless Claims;United States;USD;1
+USD_NondefenseCapitalGoodsOrdersexAircraft;20221123;13:30;Nondefense Capital Goods Orders ex Aircraft;United States;USD;3
+USD_DurableGoodsOrders;20221123;13:30;Durable Goods Orders;United States;USD;3
+USD_S&PGlobalServicesPMI;20221123;14:45;S&P Global Services PMI;United States;USD;2
+USD_S&PGlobalManufacturingPMI;20221123;14:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20221123;14:45;S&P Global Composite PMI;United States;USD;2
+USD_UoM5yearConsumerInflationExpectation;20221123;15:00;UoM 5-year Consumer Inflation Expectation;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20221123;15:00;Michigan Consumer Sentiment Index;United States;USD;2
+USD_NewHomeSales;20221123;15:00;New Home Sales (MoM);United States;USD;2
+USD_NewHomeSalesChange;20221123;15:00;New Home Sales Change (MoM);United States;USD;1
+USD_EIACrudeOilStocksChange;20221123;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+RUB_ProducerPriceIndex;20221123;16:00;Producer Price Index (YoY);Russia;RUB;1
+RUB_IndustrialOutput;20221123;16:00;Industrial Output;Russia;RUB;1
+USD_Auction;20221123;16:30;4-Week Bill Auction;United States;USD;1
+USD_EIANaturalGasStorageChange;20221123;17:00;EIA Natural Gas Storage Change;United States;USD;1
+USD_BakerHughesUSOilRigCount;20221123;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+GBP_CentralBankSpeech;20221123;19:00;BoE Pill speech;United Kingdom;GBP;2
+USD_FOMCMinutes;20221123;19:00;FOMC Minutes;United States;USD;3
+KRW_ProducerPriceIndex;20221123;21:00;Producer Price Index Growth (MoM);South Korea;KRW;1
+CAD_CentralBankSpeech;20221123;21:30;BoC Rogers speech;Canada;CAD;2

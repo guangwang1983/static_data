@@ -1,0 +1,36 @@
+KRW_TradeBalance;20211101;00:00;Trade Balance;South Korea;KRW;1
+AUD_HomeLoans;20211101;00:30;Home Loans;Australia;AUD;1
+AUD_InvestmentLendingforHomes;20211101;00:30;Investment Lending for Homes;Australia;AUD;1
+AUD_ANZJobAdvertisements;20211101;00:30;ANZ Job Advertisements;Australia;AUD;1
+KRW_S&PGlobalManufacturingPMI;20211101;00:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+JPY_JibunBankManufacturingPMI;20211101;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+CNY_CaixinManufacturingPMI;20211101;01:45;Caixin Manufacturing PMI;China;CNY;2
+CLP_AllSaints'Day;20211101;03:00;All Saints' Day;Chile;CLP;0
+BRL_AllSaints'Day;20211101;03:00;All Saints' Day;Brazil;BRL;0
+JPY_Auction;20211101;03:35;10-y Bond Auction;Japan;JPY;1
+IDR_CoreInflation;20211101;04:00;Core Inflation (YoY);Indonesia;IDR;1
+IDR_Inflation;20211101;04:00;Inflation (YoY);Indonesia;IDR;1
+COP_AllSaints'Day;20211101;05:00;All Saints' Day;Colombia;COP;0
+AUD_RBACommodityIndexSDR;20211101;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+RUB_S&PGlobalManufacturingPMI;20211101;06:00;S&P Global Manufacturing PMI;Russia;RUB;1
+EUR_GerRetailSales;20211101;07:00;Retail Sales (MoM);Germany;EUR;2
+SEK_PurchasingManagersIndexManufacturing;20211101;07:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;1
+CHF_SVMEPurchasingManagers'Index;20211101;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_S&PGlobalPMI;20211101;08:30;S&P Global PMI;Czech Republic;CZK;1
+GBP_S&PGlobalCIPSManufacturingPMI;20211101;09:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+DKK_ManufacturingPMI;20211101;10:00;Manufacturing PMI;Denmark;DKK;1
+TRY_Exports;20211101;11:59;Exports;Turkey;TRY;1
+BRL_S&PGlobalManufacturingPMI;20211101;13:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+CZK_BudgetBalance;20211101;13:00;Budget Balance;Czech Republic;CZK;1
+CAD_S&PGlobalManufacturingPMI;20211101;13:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20211101;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_ISMManufacturingNewOrdersIndex;20211101;14:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ISMManufacturingPMI;20211101;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20211101;14:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ISMManufacturingEmploymentIndex;20211101;14:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ConstructionSpending;20211101;14:00;Construction Spending (MoM);United States;USD;1
+USD_Auction;20211101;15:30;3-Month Bill Auction;United States;USD;1
+NZD_BuildingPermits;20211101;21:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+KRW_ConsumerPriceIndex;20211101;23:00;Consumer Price Index Growth (YoY);South Korea;KRW;1
+JPY_MonetaryBase;20211101;23:50;Monetary Base (YoY);Japan;JPY;1
+JPY_BoJMonetaryPolicyMeetingMinutes;20211101;23:50;BoJ Monetary Policy Meeting Minutes;Japan;JPY;3

@@ -1,0 +1,49 @@
+KRW_TradeBalance;20160601;00:00;Trade Balance;South Korea;KRW;1
+CNY_NonManufacturingPMI;20160601;01:00;Non-Manufacturing PMI;China;CNY;2
+CNY_NBSManufacturingPMI;20160601;01:00;NBS Manufacturing PMI;China;CNY;2
+AUD_GrossDomesticProduct;20160601;01:30;Gross Domestic Product (YoY);Australia;AUD;2
+KRW_S&PGlobalManufacturingPMI;20160601;01:30;S&P Global Manufacturing PMI;South Korea;KRW;1
+CNY_CaixinManufacturingPMI;20160601;01:45;Caixin Manufacturing PMI;China;CNY;2
+JPY_JibunBankManufacturingPMI;20160601;02:00;Jibun Bank Manufacturing PMI;Japan;JPY;1
+IDR_Inflation;20160601;04:00;Inflation (MoM);Indonesia;IDR;1
+IDR_CoreInflation;20160601;04:00;Core Inflation (YoY);Indonesia;IDR;1
+CHF_GrossDomesticProduct;20160601;05:45;Gross Domestic Product s.a. (QoQ);Switzerland;CHF;2
+GBP_NationwideHousingPrices;20160601;06:00;Nationwide Housing Prices s.a (MoM);United Kingdom;GBP;1
+AUD_RBACommodityIndexSDR;20160601;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+SEK_PurchasingManagersIndexManufacturing;20160601;06:30;Purchasing Managers Index Manufacturing (MoM);Sweden;SEK;2
+HUF_PurchasingManagerIndex;20160601;07:00;Purchasing Manager Index;Hungary;HUF;1
+PLN_PurchasingManagerIndex;20160601;07:00;Purchasing Manager Index;Poland;PLN;2
+CHF_RetailSales;20160601;07:15;Real Retail Sales (YoY);Switzerland;CHF;2
+CHF_SVMEPurchasingManagers'Index;20160601;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+CZK_S&PGlobalPMI;20160601;07:30;S&P Global PMI;Czech Republic;CZK;1
+EUR_ItaHCOBManufacturingPMI;20160601;07:45;HCOB Manufacturing PMI;Italy;EUR;1
+EUR_FraHCOBManufacturingPMI;20160601;07:50;HCOB Manufacturing PMI;France;EUR;1
+EUR_GerHCOBManufacturingPMI;20160601;07:55;HCOB Manufacturing PMI;Germany;EUR;2
+TRY_Exports;20160601;08:00;Exports;Turkey;TRY;1
+NOK_CurrentAccount;20160601;08:00;Current Account;Norway;NOK;1
+EUR_EurHCOBManufacturingPMI;20160601;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+RUB_S&PGlobalManufacturingPMI;20160601;08:02;S&P Global Manufacturing PMI;Russia;RUB;1
+GBP_NetLendingtoIndividuals;20160601;08:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20160601;08:30;Consumer Credit;United Kingdom;GBP;2
+GBP_MortgageApprovals;20160601;08:30;Mortgage Approvals;United Kingdom;GBP;2
+GBP_S&PGlobalCIPSManufacturingPMI;20160601;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+GBP_M4MoneySupply;20160601;08:30;M4 Money Supply (MoM);United Kingdom;GBP;1
+USD_MBAMortgageApplications;20160601;11:00;MBA Mortgage Applications;United States;USD;1
+ZAR_TotalNewVehicleSales;20160601;12:00;Total New Vehicle Sales;South Africa;ZAR;1
+BRL_GrossDomesticProduct;20160601;12:00;Gross Domestic Product (YoY);Brazil;BRL;1
+USD_RedbookIndex;20160601;12:55;Redbook Index (YoY);United States;USD;1
+BRL_S&PGlobalManufacturingPMI;20160601;13:00;S&P Global Manufacturing PMI;Brazil;BRL;1
+CAD_S&PGlobalManufacturingPMI;20160601;13:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20160601;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_ISMManufacturingPMI;20160601;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20160601;14:00;ISM Manufacturing Prices Paid;United States;USD;3
+USD_ConstructionSpending;20160601;14:00;Construction Spending (MoM);United States;USD;2
+NZD_GDTPriceIndex;20160601;15:06;GDT Price Index;New Zealand;NZD;1
+BRL_TradeBalance;20160601;18:00;Trade Balance;Brazil;BRL;1
+USD_FedBeigeBook;20160601;18:00;Fed Beige Book;United States;USD;2
+USD_TotalVehicleSales;20160601;20:21;Total Vehicle Sales;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20160601;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_GrossDomesticProduct;20160601;23:00;Gross Domestic Product Growth (QoQ) ;South Korea;KRW;1
+JPY_MonetaryBase;20160601;23:50;Monetary Base (YoY);Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20160601;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20160601;23:50;Foreign Bond Investment;Japan;JPY;2

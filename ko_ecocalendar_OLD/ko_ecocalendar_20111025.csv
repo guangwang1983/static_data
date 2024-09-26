@@ -1,0 +1,29 @@
+JPY_CorporateServicePrice;20111025;23:50;Corporate Service Price (YoY);Japan;JPY;1
+ARS_IndustrialOutput;20111025;19:00;Industrial Output n.s.a (YoY);Argentina;ARS;1
+USD_ConsumerConfidence;20111025;14:00;Consumer Confidence;United States;USD;2
+USD_HousingPriceIndex;20111025;14:00;Housing Price Index (MoM);United States;USD;2
+USD_RichmondFedManufacturingIndex;20111025;14:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20111025;13:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;1
+MXN_TradeBalance;20111025;13:00;Trade Balance, $;Mexico;MXN;1
+MXN_TradeBalancesa;20111025;13:00;Trade Balance s/a, $;Mexico;MXN;1
+CAD_BoCInterestRateDecision;20111025;13:00;BoC Interest Rate Decision;Canada;CAD;3
+EUR_BelLeadingIndicator;20111025;13:00;Leading Indicator;Belgium;EUR;1
+BRL_CurrentAccount;20111025;12:30;Current Account;Brazil;BRL;1
+CAD_RetailSales;20111025;12:30;Retail Sales ex Autos (MoM);Canada;CAD;1
+PLN_Unemployment;20111025;12:00;Unemployment (MoM);Poland;PLN;1
+HUF_MNBInterestRateDecision;20111025;12:00;MNB Interest Rate Decision;Hungary;HUF;1
+EUR_ItaConsumerConfidence;20111025;09:00;Consumer Confidence;Italy;EUR;1
+GBP_CentralBankSpeech;20111025;08:45;BoE Governor King speech;United Kingdom;GBP;2
+GBP_BBAMortgageApprovals;20111025;08:30;BBA Mortgage Approvals;United Kingdom;GBP;2
+GBP_CurrentAccount;20111025;08:30;Current Account;United Kingdom;GBP;2
+PLN_RetailSales;20111025;08:00;Retail Sales (YoY);Poland;PLN;1
+EUR_ItaRetailSales;20111025;08:00;Retail Sales n.s.a (YoY);Italy;EUR;0
+TRY_ForeignArrivals;20111025;08:00;Foreign Arrivals;Turkey;TRY;1
+SEK_ProducerPriceIndex;20111025;07:30;Producer Price Index (MoM);Sweden;SEK;1
+EUR_FraConsumerConfidence;20111025;06:45;Consumer Confidence;France;EUR;1
+INR_CashReserveRatio;20111025;06:30;Cash Reserve Ratio;India;INR;1
+INR_ReverseRepoRate;20111025;06:30;Reverse Repo Rate;India;INR;1
+INR_RBIInterestRateDecision;20111025;06:30;RBI Interest Rate Decision (Repo Rate);India;INR;1
+EUR_GerGfkConsumerConfidenceSurvey;20111025;06:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+EUR_FinUnemploymentRate;20111025;06:00;Unemployment Rate;Finland;EUR;1
+CHF_UBSConsumptionIndicator;20111025;06:00;UBS Consumption Indicator;Switzerland;CHF;2

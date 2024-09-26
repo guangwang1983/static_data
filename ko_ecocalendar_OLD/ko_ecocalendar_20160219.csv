@@ -1,0 +1,31 @@
+COP_TradeBalance;20160219;22:00;Trade Balance;Colombia;COP;1
+COP_Interestrate;20160219;19:30;Interest rate;Colombia;COP;1
+JPY_CFTCJPYNCNetPositions;20160219;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+AUD_CFTCAUDNCNetPositions;20160219;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+USD_CFTCGoldNCNetPositions;20160219;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCUSDNCNetPositions;20160219;19:30;CFTC USD NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20160219;19:30;CFTC Oil NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20160219;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+GBP_CFTCGBPNCNetPositions;20160219;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_BakerHughesUSOilRigCount;20160219;18:00;Baker Hughes US Oil Rig Count;United States;USD;2
+EUR_EurConsumerConfidence;20160219;15:00;Consumer Confidence;European Monetary Union;EUR;1
+EUR_BelConsumerConfidenceIndex;20160219;14:00;Consumer Confidence Index;Belgium;EUR;1
+USD_ConsumerPriceIndex;20160219;13:30;Consumer Price Index n.s.a (MoM);United States;USD;1
+CAD_RetailSales;20160219;13:30;Retail Sales ex Autos (MoM);Canada;CAD;1
+CAD_ConsumerPriceIndex;20160219;13:30;Consumer Price Index (MoM);Canada;CAD;2
+USD_CentralBankSpeech;20160219;13:00;Fed Mester speech;United States;USD;1
+EUR_EurEuropeanCouncilMeeting;20160219;12:00;European Council Meeting;European Monetary Union;EUR;2
+INR_BankLoanGrowth;20160219;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20160219;11:30;FX Reserves, USD;India;INR;1
+EUR_GreCurrentAccount;20160219;10:00;Current Account (YoY);Greece;EUR;1
+GBP_RetailSales;20160219;09:30;Retail Sales (YoY);United Kingdom;GBP;1
+GBP_PublicSectorNetBorrowing;20160219;09:30;Public Sector Net Borrowing;United Kingdom;GBP;2
+SEK_UnemploymentRate;20160219;08:30;Unemployment Rate;Sweden;SEK;1
+HUF_GrossWages;20160219;08:00;Gross Wages (YoY);Hungary;HUF;1
+TRY_ConsumerConfidence;20160219;08:00;Consumer Confidence;Turkey;TRY;1
+DKK_ConsumerConfidence;20160219;08:00;Consumer Confidence;Denmark;DKK;1
+EUR_GerProducerPriceIndex;20160219;07:00;Producer Price Index (YoY);Germany;EUR;2
+EUR_FinConsumerPriceIndex;20160219;07:00;Consumer Price Index (YoY);Finland;EUR;1
+EUR_NetConsumerConfidenceAdj;20160219;05:30;Consumer Confidence Adj;Netherlands, The;EUR;1
+EUR_NetConsumerSpendingVolume;20160219;05:30;Consumer Spending Volume;Netherlands, The;EUR;1
+JPY_AllIndustryActivityIndex;20160219;04:30;All Industry Activity Index (MoM);Japan;JPY;2

@@ -1,0 +1,23 @@
+JPY_MerchandiseTradeBalanceTotal;20170419;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Imports;20170419;23:50;Imports (YoY);Japan;JPY;2
+JPY_Exports;20170419;23:50;Exports (YoY);Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20170419;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;2
+JPY_ForeignBondInvestment;20170419;23:50;Foreign Bond Investment;Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20170419;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+NZD_ConsumerPriceIndex;20170419;22:45;Consumer Price Index (QoQ);New Zealand;NZD;3
+USD_FedBeigeBook;20170419;18:00;Fed Beige Book;United States;USD;2
+USD_EIACrudeOilStocksChange;20170419;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+RUB_UnemploymentRate;20170419;13:00;Unemployment Rate;Russia;RUB;1
+RUB_ProducerPriceIndex;20170419;13:00;Producer Price Index (MoM);Russia;RUB;1
+PLN_CorporateSectorWages;20170419;12:00;Corporate Sector Wages;Poland;PLN;1
+USD_MBAMortgageApplications;20170419;11:00;MBA Mortgage Applications;United States;USD;1
+EUR_GerAuction;20170419;09:57;30-y Bond Auction;Germany;EUR;1
+EUR_EurTradeBalance;20170419;09:00;Trade Balance n.s.a.;European Monetary Union;EUR;2
+EUR_EurConsumerPriceIndex;20170419;09:00;Consumer Price Index (YoY);European Monetary Union;EUR;2
+EUR_ItaTradeBalanceEU;20170419;08:00;Trade Balance EU;Italy;EUR;1
+EUR_ItaGlobalTradeBalance;20170419;08:00;Global Trade Balance;Italy;EUR;1
+ZAR_ConsumerPriceIndex;20170419;08:00;Consumer Price Index (YoY);South Africa;ZAR;1
+EUR_AusHICP;20170419;07:00;HICP (YoY);Austria;EUR;1
+EUR_SloEUNormInflation;20170419;07:00;EU Norm Inflation (MoM);Slovakia;EUR;1
+AUD_NewMotorVehicleSales;20170419;01:30;New Motor Vehicle Sales (MoM);Australia;AUD;1
+AUD_WestpacLeadingIndex;20170419;00:30;Westpac Leading Index (MoM);Australia;AUD;1

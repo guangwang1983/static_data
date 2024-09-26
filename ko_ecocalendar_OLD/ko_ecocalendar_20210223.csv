@@ -1,0 +1,32 @@
+USD_APIWeeklyCrudeOilStock;20210223;21:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_BOKManufacturingBSI;20210223;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+CAD_CentralBankSpeech;20210223;17:30;BoC Governor Macklem speech;Canada;CAD;3
+USD_Auction;20210223;16:30;52-Week Bill Auction;United States;USD;1
+USD_ConsumerConfidence;20210223;15:00;Consumer Confidence;United States;USD;2
+USD_RichmondFedManufacturingIndex;20210223;15:00;Richmond Fed Manufacturing Index;United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20210223;14:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;2
+USD_HousingPriceIndex;20210223;14:00;Housing Price Index (MoM);United States;USD;2
+USD_RedbookIndex;20210223;13:55;Redbook Index (YoY);United States;USD;1
+HUF_MNBInterestRateDecision;20210223;13:00;MNB Interest Rate Decision;Hungary;HUF;1
+EUR_SloCurrentAccount;20210223;13:00;Current Account Balance EUR;Slovakia;EUR;1
+MXN_1sthalfmonthCoreInflation;20210223;12:00;1st half-month Core Inflation;Mexico;MXN;1
+MXN_1sthalfmonthInflation;20210223;12:00;1st half-month Inflation;Mexico;MXN;1
+EUR_EurConsumerPriceIndex;20210223;10:00;Consumer Price Index (MoM);European Monetary Union;EUR;2
+ZAR_UnemploymentTotal;20210223;09:30;Unemployment Total ;South Africa;ZAR;1
+ZAR_UnemploymentRate;20210223;09:30;Unemployment Rate (%);South Africa;ZAR;1
+PLN_Unemployment;20210223;09:00;Unemployment (MoM);Poland;PLN;1
+EUR_ItaIndustrialSales;20210223;09:00;Industrial Sales s.a. (MoM);Italy;EUR;1
+EUR_ItaIndustrialOrders;20210223;09:00;Industrial Orders s.a (MoM);Italy;EUR;1
+SEK_UnemploymentRate;20210223;08:30;Unemployment Rate;Sweden;SEK;1
+CZK_ProducerPriceIndex;20210223;08:00;Producer Price Index (YoY);Czech Republic;CZK;1
+EUR_AusHICP;20210223;08:00;HICP (MoM);Austria;EUR;1
+EUR_SloEUNormInflation;20210223;08:00;EU Norm Inflation (MoM);Slovakia;EUR;1
+CHF_ProducerandImportPrices;20210223;07:30;Producer and Import Prices (YoY);Switzerland;CHF;1
+GBP_ClaimantCountRate;20210223;07:00;Claimant Count Rate;United Kingdom;GBP;2
+GBP_ClaimantCountChange;20210223;07:00;Claimant Count Change;United Kingdom;GBP;3
+GBP_AverageEarningsIncludingBonus;20210223;07:00;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20210223;07:00;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_AverageEarningsExcludingBonus;20210223;07:00;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+EUR_FinGrossDomesticProduct;20210223;06:00;Gross Domestic Product Qtr Prelim (YoY);Finland;EUR;1
+SGD_ConsumerPriceIndex;20210223;05:00;Consumer Price Index (YoY);Singapore;SGD;1
+CNY_HousePriceIndex;20210223;01:30;House Price Index ;China;CNY;1

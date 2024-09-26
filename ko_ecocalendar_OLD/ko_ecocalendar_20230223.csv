@@ -1,0 +1,29 @@
+AUD_PrivateCapitalExpenditure;20230223;00:30;Private Capital Expenditure;Australia;AUD;1
+KRW_BoKInterestRateDecision;20230223;01:00;BoK Interest Rate Decision;South Korea;KRW;1
+AUD_CentralBankSpeech;20230223;05:15;RBA Bullock speech;Australia;AUD;2
+NOK_CreditIndicator;20230223;07:00;Credit Indicator;Norway;NOK;1
+HUF_GrossWages;20230223;07:30;Gross Wages (YoY);Hungary;HUF;1
+PLN_Unemployment;20230223;09:00;Unemployment (MoM);Poland;PLN;1
+ZAR_ProducerPriceIndex;20230223;09:30;Producer Price Index (MoM);South Africa;ZAR;1
+EUR_EurHarmonizedIndexofConsumerPrices;20230223;10:00;Harmonized Index of Consumer Prices (MoM);European Monetary Union;EUR;2
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20230223;10:00;Core Harmonized Index of Consumer Prices (MoM);European Monetary Union;EUR;2
+GBP_CentralBankSpeech;20230223;10:45;BoE Cunliffe speech;United Kingdom;GBP;2
+TRY_CBRTInterestRateDecision;20230223;11:00;CBRT Interest Rate Decision;Turkey;TRY;3
+MXN_1sthalfmonthInflation;20230223;12:00;1st half-month Inflation;Mexico;MXN;1
+MXN_1sthalfmonthCoreInflation;20230223;12:00;1st half-month Core Inflation;Mexico;MXN;1
+RUB_CentralBankReserves;20230223;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_ChicagoFedNationalActivityIndex;20230223;13:30;Chicago Fed National Activity Index ;United States;USD;2
+USD_JoblessClaims;20230223;13:30;Initial Jobless Claims;United States;USD;2
+USD_GrossDomesticProduct;20230223;13:30;Gross Domestic Product Annualized;United States;USD;3
+USD_PersonalConsumptionExpendituresPrices;20230223;13:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+USD_CorePersonalConsumptionExpenditures;20230223;13:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+USD_EIANaturalGasStorageChange;20230223;15:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_EIACrudeOilStocksChange;20230223;16:00;EIA Crude Oil Stocks Change;United States;USD;1
+USD_KansasFedManufacturingActivity;20230223;16:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_Auction;20230223;18:00;7-Year Note Auction;United States;USD;1
+RUB_Bridgeholiday;20230223;21:00;Bridge holiday;Russia;RUB;0
+JPY_NationalCPIexFoodEnergy;20230223;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20230223;23:30;National Consumer Price Index (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20230223;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_ForeignBondInvestment;20230223;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20230223;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1

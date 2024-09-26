@@ -1,0 +1,42 @@
+RUB_VictoryDay;20190509;00:00;Victory Day ;Russia;RUB;0
+NZD_ANZMonthlyInflationGauge;20190509;01:00;ANZ Monthly Inflation Gauge (MoM);New Zealand;NZD;1
+CNY_ProducerPriceIndex;20190509;01:30;Producer Price Index (YoY);China;CNY;2
+CNY_ConsumerPriceIndex;20190509;01:30;Consumer Price Index (MoM);China;CNY;2
+CNY_M2MoneySupply;20190509;02:00;M2 Money Supply (YoY);China;CNY;1
+CNY_NewLoans;20190509;02:00;New Loans;China;CNY;1
+KRW_MoneySupplyGrowth;20190509;03:00;Money Supply Growth;South Korea;KRW;1
+JPY_ConsumerConfidenceIndex;20190509;05:05;Consumer Confidence Index;Japan;JPY;1
+DKK_TradeBalance;20190509;06:00;Trade Balance;Denmark;DKK;1
+DKK_CurrentAccount;20190509;06:00;Current Account;Denmark;DKK;1
+ZAR_Gross$Gold&ForexReserve;20190509;06:00;Gross $Gold & Forex Reserve ;South Africa;ZAR;1
+ZAR_Net$Gold&ForexReserve;20190509;06:00;Net $Gold & Forex Reserve;South Africa;ZAR;1
+CZK_IndustrialProduction;20190509;07:00;Industrial Production (YoY);Czech Republic;CZK;1
+HUF_ConsumerPriceIndex;20190509;07:00;Core Consumer Price Index (YoY);Hungary;HUF;1
+CZK_Constructionoutput;20190509;07:00;Construction output (YoY);Czech Republic;CZK;1
+HUF_TradeBalance;20190509;07:00;Trade Balance;Hungary;HUF;1
+CZK_ForeignTradeBalance;20190509;07:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+NOK_NorgesBankInterestRateDecision;20190509;08:00;Norges Bank Interest Rate Decision;Norway;NOK;1
+HUF_BudgetBalance;20190509;09:00;Budget Balance;Hungary;HUF;1
+ZAR_ManufacturingProductionIndex;20190509;11:00;Manufacturing Production Index (YoY);South Africa;ZAR;1
+BRL_RetailSales;20190509;12:00;Retail Sales (MoM);Brazil;BRL;1
+USD_ProducerPriceIndex;20190509;12:30;Producer Price Index (MoM);United States;USD;1
+USD_GoodsandServicesTradeBalance;20190509;12:30;Goods and Services Trade Balance;United States;USD;2
+USD_JoblessClaims;20190509;12:30;Initial Jobless Claims;United States;USD;2
+CAD_Imports;20190509;12:30;Imports;Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20190509;12:30;International Merchandise Trade;Canada;CAD;2
+CAD_Exports;20190509;12:30;Exports;Canada;CAD;1
+CAD_NewHousingPriceIndex;20190509;12:30;New Housing Price Index (MoM);Canada;CAD;1
+MXN_CoreInflation;20190509;13:00;Core Inflation;Mexico;MXN;1
+MXN_HeadlineInflation;20190509;13:00;Headline Inflation;Mexico;MXN;1
+MXN_12MonthInflation;20190509;13:00;12-Month Inflation;Mexico;MXN;1
+USD_WholesaleInventories;20190509;14:00;Wholesale Inventories;United States;USD;1
+USD_EIANaturalGasStorageChange;20190509;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_Auction;20190509;17:04;30-Year Bond Auction;United States;USD;1
+USD_CentralBankSpeech;20190509;17:15;Fed Evans speech;United States;USD;1
+CLP_BCCHInterestRate;20190509;21:00;BCCH Interest Rate;Chile;CLP;1
+NZD_RetailSales;20190509;22:45;Electronic Card Retail Sales  (MoM);New Zealand;NZD;1
+JPY_LaborCashEarnings;20190509;23:30;Labor Cash Earnings (YoY);Japan;JPY;1
+JPY_OverallHouseholdSpending;20190509;23:30;Overall Household Spending (YoY);Japan;JPY;2
+JPY_BoJSummaryofOpinions;20190509;23:50;BoJ Summary of Opinions;Japan;JPY;1
+JPY_ForeignBondInvestment;20190509;23:50;Foreign Bond Investment;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20190509;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1

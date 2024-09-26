@@ -1,0 +1,40 @@
+JPY_ForeignBondInvestment;20160203;23:50;Foreign Bond Investment;Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20160203;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+NZD_CentralBankSpeech;20160203;22:30;RBNZ McDermott speech;New Zealand;NZD;2
+USD_EIACrudeOilStocksChange;20160203;15:30;EIA Crude Oil Stocks Change;United States;USD;2
+USD_ISMNonManufacturingPMI;20160203;15:00;ISM Non-Manufacturing PMI;United States;USD;2
+USD_MarkitServicesPMI;20160203;14:45;Markit Services PMI;United States;USD;2
+USD_MarkitPMIComposite;20160203;14:45;Markit PMI Composite;United States;USD;2
+BRL_FipeIPCInflation;20160203;13:40;Fipe IPC Inflation;Brazil;BRL;1
+USD_ADPEmploymentChange;20160203;13:15;ADP Employment Change;United States;USD;2
+INR_M3MoneySupply;20160203;12:00;M3 Money Supply;India;INR;1
+USD_MBAMortgageApplications;20160203;12:00;MBA Mortgage Applications;United States;USD;1
+PLN_NBPBaserate;20160203;11:40;NBP Base rate;Poland;PLN;1
+EUR_ItaConsumerPriceIndex;20160203;10:00;Consumer Price Index (YoY);Italy;EUR;1
+EUR_EurRetailSales;20160203;10:00;Retail Sales (MoM);European Monetary Union;EUR;1
+GBP_MarkitServicesPMI;20160203;09:30;Markit Services PMI;United Kingdom;GBP;2
+NOK_LabourForceSurvey;20160203;09:00;Labour Force Survey;Norway;NOK;1
+EUR_EurMarkitPMIComposite;20160203;09:00;Markit PMI Composite;European Monetary Union;EUR;2
+EUR_EurMarkitServicesPMI;20160203;09:00;Markit Services PMI;European Monetary Union;EUR;2
+EUR_GerMarkitPMIComposite;20160203;08:55;Markit PMI Composite;Germany;EUR;1
+EUR_GerMarkitServicesPMI;20160203;08:55;Markit Services PMI;Germany;EUR;1
+EUR_FraMarkitPMIComposite;20160203;08:50;Markit PMI Composite;France;EUR;1
+EUR_FraMarkitServicesPMI;20160203;08:50;Markit Services PMI;France;EUR;1
+EUR_ItaMarkitServicesPMI;20160203;08:45;Markit Services PMI;Italy;EUR;1
+EUR_SpaMarkitServicesPMI;20160203;08:15;Markit Services PMI;Spain;EUR;1
+TRY_ProducerPriceIndex;20160203;08:00;Producer Price Index (YoY);Turkey;TRY;1
+TRY_ConsumerPriceIndex;20160203;08:00;Consumer Price Index (MoM);Turkey;TRY;1
+EUR_EurNonMonetaryPolicyECBMeeting;20160203;08:00;Non-Monetary Policy ECB Meeting;European Monetary Union;EUR;3
+EUR_IrePurchasingManagerIndexServices;20160203;08:00;Purchasing Manager Index Services;Ireland;EUR;1
+HUF_RetailSales;20160203;08:00;Retail Sales (YoY);Hungary;HUF;1
+RUB_PurchasingManagerIndexServices;20160203;06:00;Purchasing Manager Index Services;Russia;RUB;1
+JPY_ConsumerConfidenceIndex;20160203;05:00;Consumer Confidence Index;Japan;JPY;1
+HKD_NikkeiManufacturingPMI;20160203;02:30;Nikkei Manufacturing PMI;Hong Kong SAR;HKD;1
+JPY_CentralBankSpeech;20160203;02:30;BoJ Governor Kuroda speech;Japan;JPY;3
+CNY_CaixinServicesPMI;20160203;01:45;Caixin Services PMI;China;CNY;2
+JPY_MarkitServicesPMI;20160203;00:35;Markit Services PMI;Japan;JPY;1
+AUD_BuildingPermits;20160203;00:30;Building Permits (MoM);Australia;AUD;1
+AUD_Imports;20160203;00:30;Imports;Australia;AUD;2
+AUD_TradeBalance;20160203;00:30;Trade Balance;Australia;AUD;2
+AUD_Exports;20160203;00:30;Exports;Australia;AUD;2
+GBP_BRCShopPriceIndex;20160203;00:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1

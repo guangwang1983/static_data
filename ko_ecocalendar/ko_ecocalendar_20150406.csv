@@ -1,0 +1,28 @@
+NZD_EasterMonday;20150406;00:00;Easter Monday;New Zealand;NZD;0
+SEK_EasterMonday;20150406;00:00;Easter Monday;Sweden;SEK;0
+ZAR_FamilyDay;20150406;00:00;Family Day;South Africa;ZAR;0
+CZK_EasterMonday;20150406;00:00;Easter Monday ;Czech Republic;CZK;0
+HUF_EasterMonday;20150406;00:00;Easter Monday ;Hungary;HUF;0
+CHF_EasterMonday;20150406;00:00;Easter Monday;Switzerland;CHF;0
+GBP_EasterMonday;20150406;00:00;Easter Monday;United Kingdom;GBP;0
+DKK_EasterMonday;20150406;00:00;Easter Monday ;Denmark;DKK;0
+EUR_GerEasterMonday;20150406;00:00;Easter Monday;Germany;EUR;0
+NOK_EasterMonday;20150406;00:00;Easter Monday;Norway;NOK;0
+EUR_FraEasterMonday;20150406;00:00;Easter Monday;France;EUR;0
+PLN_EasterMonday;20150406;00:00;Easter Monday ;Poland;PLN;0
+AUD_EasterMonday;20150406;00:00;Easter Monday;Australia;AUD;0
+EUR_ItaEasterMonday;20150406;00:00;Easter Monday;Italy;EUR;0
+JPY_CoincidentIndex;20150406;05:00;Coincident Index;Japan;JPY;2
+JPY_LeadingEconomicIndex;20150406;05:00;Leading Economic Index;Japan;JPY;2
+CLP_IMACEC;20150406;11:30;IMACEC;Chile;CLP;1
+RUB_ConsumerPriceIndex;20150406;12:00;Consumer Price Index (MoM);Russia;RUB;1
+USD_CentralBankSpeech;20150406;12:30;Fed Dudley speech;United States;USD;2
+USD_S&PGlobalServicesPMI;20150406;13:45;S&P Global Services PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20150406;13:45;S&P Global Composite PMI;United States;USD;2
+USD_LaborMarketConditionsIndex;20150406;14:00;Labor Market Conditions Index;United States;USD;2
+USD_ISMServicesPMI;20150406;14:00;ISM Services PMI;United States;USD;3
+CAD_IveyPurchasingManagersIndex;20150406;14:00;Ivey Purchasing Managers Index s.a;Canada;CAD;2
+USD_Auction;20150406;15:30;3-Month Bill Auction;United States;USD;1
+CAD_BankofCanadaBusinessOutlookSurvey;20150406;15:30;Bank of Canada Business Outlook Survey;Canada;CAD;2
+AUD_AiGPerformanceofServicesIndex;20150406;23:30;AiG Performance of Services Index;Australia;AUD;2
+JPY_JPForeignReserves;20150406;23:50;JP Foreign Reserves;Japan;JPY;1

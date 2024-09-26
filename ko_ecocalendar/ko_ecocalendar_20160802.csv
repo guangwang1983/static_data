@@ -1,0 +1,33 @@
+AUD_BuildingPermits;20160802;01:30;Building Permits (YoY);Australia;AUD;1
+AUD_TradeBalance;20160802;01:30;Trade Balance (MoM);Australia;AUD;2
+AUD_Imports;20160802;01:30;Imports (MoM);Australia;AUD;2
+AUD_Exports;20160802;01:30;Exports (MoM);Australia;AUD;2
+NZD_RBNZInflationExpectations;20160802;03:00;RBNZ Inflation Expectations (QoQ);New Zealand;NZD;2
+AUD_RBARateStatement;20160802;04:30;RBA Rate Statement;Australia;AUD;3
+AUD_RBAInterestRateDecision;20160802;04:30;RBA Interest Rate Decision;Australia;AUD;3
+JPY_ConsumerConfidenceIndex;20160802;05:00;Consumer Confidence Index;Japan;JPY;1
+AUD_RBACommodityIndexSDR;20160802;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+HUF_TradeBalance;20160802;07:00;Trade Balance;Hungary;HUF;1
+CHF_RetailSales;20160802;07:15;Real Retail Sales (YoY);Switzerland;CHF;2
+CHF_SVMEPurchasingManagers'Index;20160802;07:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+GBP_S&PGlobalConstructionPMI;20160802;08:30;S&P Global Construction PMI;United Kingdom;GBP;2
+EUR_EurProducerPriceIndex;20160802;09:00;Producer Price Index (YoY);European Monetary Union;EUR;2
+ZAR_TotalNewVehicleSales;20160802;10:56;Total New Vehicle Sales;South Africa;ZAR;1
+BRL_IndustrialOutput;20160802;12:00;Industrial Output (MoM);Brazil;BRL;1
+USD_PersonalConsumptionExpendituresPriceIndex;20160802;12:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;2
+USD_PersonalIncome;20160802;12:30;Personal Income (MoM);United States;USD;2
+USD_CorePersonalConsumptionExpendituresPriceIndex;20160802;12:30;Core Personal Consumption Expenditures - Price Index (MoM);United States;USD;2
+USD_PersonalSpending;20160802;12:30;Personal Spending;United States;USD;2
+USD_RedbookIndex;20160802;12:55;Redbook Index (YoY);United States;USD;1
+CAD_S&PGlobalManufacturingPMI;20160802;13:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_ISMNYBusinessConditionsIndex;20160802;13:45;ISM-NY Business Conditions Index;United States;USD;1
+DKK_CurrencyReserves;20160802;14:00;Currency Reserves;Denmark;DKK;1
+NZD_GDTPriceIndex;20160802;15:29;GDT Price Index;New Zealand;NZD;1
+USD_Auction;20160802;15:30;4-Week Bill Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20160802;20:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_TotalVehicleSales;20160802;20:58;Total Vehicle Sales;United States;USD;1
+KRW_FXReserves;20160802;21:00;FX Reserves;South Korea;KRW;1
+NZD_LabourCostIndex;20160802;22:45;Labour Cost Index (QoQ);New Zealand;NZD;1
+GBP_BRCShopPriceIndex;20160802;23:01;BRC Shop Price Index (YoY);United Kingdom;GBP;1
+AUD_AiGPerformanceofServicesIndex;20160802;23:30;AiG Performance of Services Index;Australia;AUD;1
+JPY_BoJMonetaryPolicyMeetingMinutes;20160802;23:50;BoJ Monetary Policy Meeting Minutes;Japan;JPY;2

@@ -1,0 +1,23 @@
+JPY_IndustrialProduction;20090129;23:50;Industrial Production (MoM);Japan;JPY;1
+JPY_TokyoCPIexFoodEnergy;20090129;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_TokyoCPIexFreshFood;20090129;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;2
+JPY_ConsumerPriceIndex;20090129;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20090129;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_NationalCPIexFoodEnergy;20090129;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_UnemploymentRate;20090129;23:30;Unemployment Rate;Japan;JPY;2
+JPY_OverallHouseholdSpending;20090129;23:30;Overall Household Spending (YoY);Japan;JPY;1
+JPY_NikkeiManufacturingPMI;20090129;23:15;Nikkei Manufacturing PMI;Japan;JPY;1
+NZD_BuildingPermits;20090129;21:00;Building Permits s.a. (MoM);New Zealand;NZD;1
+USD_NewHomeSalesChange;20090129;15:00;New Home Sales Change (MoM);United States;USD;2
+USD_NewHomeSales;20090129;15:00;New Home Sales (MoM);United States;USD;2
+CAD_IndustrialProductPrice;20090129;13:30;Industrial Product Price (MoM);Canada;CAD;0
+USD_JoblessClaims;20090129;13:30;Initial Jobless Claims;United States;USD;1
+USD_DurableGoodsOrders;20090129;13:30;Durable Goods Orders ex Transportation;United States;USD;2
+EUR_EurEconomicSentimentIndicator;20090129;10:00;Economic Sentiment Indicator;European Monetary Union;EUR;1
+EUR_EurIndustrialConfidence;20090129;10:00;Industrial Confidence;European Monetary Union;EUR;1
+EUR_EurConsumerConfidence;20090129;10:00;Consumer Confidence;European Monetary Union;EUR;2
+EUR_EurM3MoneySupply;20090129;09:00;M3 Money Supply (YoY);European Monetary Union;EUR;1
+EUR_GerUnemploymentRate;20090129;08:55;Unemployment Rate s.a.;Germany;EUR;2
+EUR_GerUnemploymentChange;20090129;08:55;Unemployment Change;Germany;EUR;1
+GBP_NationwideHousingPrices;20090129;07:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;2
+NZD_M3MoneySupply;20090129;02:00;M3 Money Supply (YoY);New Zealand;NZD;1

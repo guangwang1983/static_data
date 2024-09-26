@@ -1,0 +1,66 @@
+SHELL=/bin/bash
+#45 23 CET / 45 17 ET 
+45 21 * * 1-5 source /home/levelup/.bashrc ; addnewdynamicdate.sh
+
+#01 01 CET / 01 19 ET
+01 23 * * 1,2,3,4,7 source /home/levelup/.bashrc ; launchCronJob.py --command dailyRollAndExpiryUpdate.sh --subject "Daily Roll and Expiry Update" --sender "dailyCron@matterhorn"
+
+#01 01 CET / 01 19 ET
+01 23 * * 1,2,3,4,7 source /home/levelup/.bashrc ; dailyTickSizeUpdate.sh
+
+#01 01 CET / 01 19 ET
+01 23 * * 1,2,3,4,7 source /home/levelup/.bashrc ; dailyEcoCalendarUpdate.sh
+
+#30 01 CET / 30 19 ET
+30 23 * * 1,2,3,4,7 source /home/levelup/.bashrc ; launchCronJob.py --command daily_referenceportfolio_release.sh  --subject "STATIC Daily Reference Portfolio Release" --sender "dailyCron@matterhorn"
+
+#30 01 CET / 30 19 ET
+30 23 * * 1,2,3,4,7 source /home/levelup/.bashrc ; launchCronJob.py --command daily_referenceportfolio_release_slrl.sh  --subject "DYNAMIC Daily Reference Portfolio Release" --sender "dailyCron@matterhorn"
+
+#35 05 CET / 05 00 ET
+35 03 * * 2,3,4,5,6 source /home/levelup/.bashrc ; dailyMorningRelease.sh
+
+#30 06 CET / 05 00 ET
+30 04 * * 1 source /home/levelup/.bashrc ; dailyMondayMorningRelease.sh
+
+#00 10 CET / 00 04 ET
+00 08 * * 2-6 source /home/levelup/.bashrc ; dailyReconciliation.sh productionportfolio
+#00 10 CET / 00 04 ET
+00 08 * * 2-6 source /home/levelup/.bashrc ; dailyReconciliation.sh productionportfolio_DYNAMIC
+
+#06 11 CET / 06 05 ET #BC cad only
+#06 09 * * 1-5 source /home/levelup/.bashrc ; dailyPaperTrade.sh MULTIPORTFOLIO_ACCUM_OOS_AllSegmentsSegAOverWeight_20210827_20mAUM
+
+#26 11 CET / 26 05 ET #BC includes 6S 6J
+#26 09 * * 1-5 source /home/levelup/.bashrc ; dailyPaperTrade.sh MULTIPORTFOLIO_ACCUM_OOS_Static_Curve_5AUM_Balanced_tfb20
+
+#06 11 CET / 06 05 ET
+#06 09 * * 1-5 source /home/levelup/.bashrc ; dailyPaperTrade.sh MULTIPORTFOLIO_ACCUM_OOS_StaticCADHedged_4mAUM_20210827
+
+#47 11 CET / 47 05 ET
+#47 09 * * 2-6 source /home/levelup/.bashrc ; daily_portfoliosim_productionportfolios.sh
+
+#00 12 CET / 00 06 ET
+00 10 * * 1-6 source /home/levelup/.bashrc ; checkMorningReleaseFinished.sh
+
+#00 16 CET / 00 10 ET
+00 12 * * 1-7 source /home/levelup/.bashrc ; dailyProductRollCheck.py
+
+#35 18 CET / 35 12 ET
+35 16 * * 1-5 source /home/levelup/.bashrc ; launchCronJob.py --command showLivePnL.py --subject "All Portfolios: UK Close PnL" --sender "dailyCron@matterhorn"
+
+#35 21 CET / 35 15 ET
+35 19 * * 1-5 source /home/levelup/.bashrc ; launchCronJob.py --command showLivePnL.py --subject "All Portfolios: EOD PnL" --sender "dailyCron@matterhorn"
+
+#00 22 CET / 00 16 ET
+#00 20 * * 1-5 source /home/levelup/.bashrc ; dailyStaticDataCommit.sh
+
+#00 19 CET Saturday
+00 17 * * 6 source /home/levelup/.bashrc ; weekly_libraries_update_slrl.sh
+#30 00 CET Sunday
+30 22 * * 6 source /home/levelup/.bashrc ; weekly_portfolios_update_slrl.sh
+
+#00 10 CET Sunday
+00 08 * * 7 source /home/levelup/.bashrc ; weekly_libraries_update.sh
+#00 16 CET Sunday
+00 14 * * 7 source /home/levelup/.bashrc ; weekly_portfolios_update.sh

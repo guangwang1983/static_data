@@ -1,0 +1,13 @@
+USD_ISMManufacturingPMI;20080303;15:00;ISM Manufacturing PMI;United States;USD;3
+USD_ConstructionSpending;20080303;15:00;Construction Spending (MoM);United States;USD;1
+CAD_GrossDomesticProduct;20080303;13:30;Gross Domestic Product Annualized (QoQ);Canada;CAD;1
+CAD_IndustrialProductPrice;20080303;12:30;Industrial Product Price (MoM);Canada;CAD;2
+EUR_EurConsumerPriceIndex;20080303;10:00;Consumer Price Index (YoY);European Monetary Union;EUR;2
+GBP_MarkitManufacturingPMI;20080303;09:30;Markit Manufacturing PMI;United Kingdom;GBP;2
+EUR_EurMarkitManufacturingPMI;20080303;09:00;Markit Manufacturing PMI;European Monetary Union;EUR;1
+EUR_GerMarkitManufacturingPMI;20080303;08:55;Markit Manufacturing PMI;Germany;EUR;2
+CHF_SVMEPurchasingManagers'Index;20080303;08:30;SVME - Purchasing Managers' Index;Switzerland;CHF;1
+AUD_RBACommodityIndexSDR;20080303;05:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+JPY_LaborCashEarnings;20080303;01:30;Labor Cash Earnings (YoY);Japan;JPY;1
+AUD_CompanyGrossOperatingProfits;20080303;00:30;Company Gross Operating Profits (QoQ);Australia;AUD;1
+AUD_BuildingPermits;20080303;00:30;Building Permits (MoM);Australia;AUD;0

@@ -1,0 +1,65 @@
+JPY_UnemploymentRate;20191031;23:30;Unemployment Rate;Japan;JPY;2
+JPY_JobsApplicantsRatio;20191031;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+KRW_ConsumerPriceIndex;20191031;23:00;Consumer Price Index Growth (MoM);South Korea;KRW;1
+AUD_CommonwealthBankManufacturingPMI;20191031;22:00;Commonwealth Bank Manufacturing PMI;Australia;AUD;2
+AUD_AiGPerformanceofMfgIndex;20191031;21:30;AiG Performance of Mfg Index;Australia;AUD;2
+COP_Interestrate;20191031;21:00;Interest rate;Colombia;COP;1
+USD_Auction;20191031;15:30;4-Week Bill Auction;United States;USD;1
+CHF_CentralBankSpeech;20191031;15:30;SNB Chairman Jordan speech;Switzerland;CHF;3
+USD_EIANaturalGasStorageChange;20191031;14:30;EIA Natural Gas Storage Change;United States;USD;1
+RUB_CentralBankReserves;20191031;14:00;Central Bank Reserves $;Russia;RUB;1
+USD_ChicagoPurchasingManagers'Index;20191031;13:45;Chicago Purchasing Managers' Index;United States;USD;2
+BRL_PrimaryBudgetSurplus;20191031;13:30;Primary Budget Surplus;Brazil;BRL;1
+BRL_NominalBudgetBalance;20191031;13:30;Nominal Budget Balance;Brazil;BRL;1
+EUR_PorConsumerPriceIndex;20191031;13:00;Consumer Price Index (MoM);Portugal;EUR;1
+USD_PersonalConsumptionExpendituresPriceIndex;20191031;12:30;Personal Consumption Expenditures - Price Index (MoM);United States;USD;1
+USD_PersonalSpending;20191031;12:30;Personal Spending;United States;USD;2
+USD_CorePersonalConsumptionExpenditurePriceIndex;20191031;12:30;Core Personal Consumption Expenditure - Price Index (YoY);United States;USD;2
+USD_PersonalIncome;20191031;12:30;Personal Income (MoM);United States;USD;2
+CAD_RawMaterialPriceIndex;20191031;12:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20191031;12:30;Industrial Product Price (MoM);Canada;CAD;1
+USD_JoblessClaims;20191031;12:30;Continuing Jobless Claims;United States;USD;2
+USD_EmploymentCostIndex;20191031;12:30;Employment Cost Index;United States;USD;1
+CAD_GrossDomesticProduct;20191031;12:30;Gross Domestic Product (MoM);Canada;CAD;2
+ZAR_TradeBalance;20191031;12:00;Trade Balance (in Rands);South Africa;ZAR;1
+USD_ChallengerJobCuts;20191031;11:30;Challenger Job Cuts;United States;USD;1
+EUR_ItaGrossDomesticProduct;20191031;11:00;Gross Domestic Product (YoY);Italy;EUR;2
+INR_FederalFiscalDeficitINR;20191031;11:00;Federal Fiscal Deficit, INR;India;INR;1
+EUR_EurGrossDomesticProduct;20191031;10:00;Gross Domestic Product s.a. (YoY);European Monetary Union;EUR;3
+EUR_EurUnemploymentRate;20191031;10:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_EurConsumerPriceIndex;20191031;10:00;Consumer Price Index (YoY);European Monetary Union;EUR;3
+EUR_ItaConsumerPriceIndex;20191031;10:00;Consumer Price Index (YoY);Italy;EUR;1
+EUR_GreRetailSales;20191031;10:00;Retail Sales (YoY);Greece;EUR;1
+ZAR_ProducerPriceIndex;20191031;09:30;Producer Price Index (MoM);South Africa;ZAR;1
+PLN_ConsumerPriceIndex;20191031;09:00;Consumer Price Index (MoM);Poland;PLN;1
+EUR_ItaUnemployment;20191031;09:00;Unemployment;Italy;EUR;1
+EUR_SpaCurrentAccount;20191031;09:00;Current Account Balance;Spain;EUR;1
+HUF_ProducerPriceIndex;20191031;08:00;Producer Price Index (YoY);Hungary;HUF;1
+EUR_SpaGrossDomesticProduct;20191031;08:00;Gross Domestic Product - Estimated (QoQ);Spain;EUR;1
+HUF_TradeBalance;20191031;08:00;Trade Balance;Hungary;HUF;1
+EUR_EurCentralBankSpeech;20191031;08:00;ECB De Guindos speech;European Monetary Union;EUR;2
+EUR_FraConsumerPriceIndex;20191031;07:45;Consumer Price Index (EU norm) (YoY);France;EUR;1
+TRY_TradeBalance;20191031;07:00;Trade Balance;Turkey;TRY;1
+DKK_UnemploymentRate;20191031;07:00;Unemployment Rate;Denmark;DKK;1
+TRY_ForeignArrivals;20191031;07:00;Foreign Arrivals;Turkey;TRY;1
+EUR_GerRetailSales;20191031;07:00;Retail Sales (MoM);Germany;EUR;2
+NOK_CreditIndicator;20191031;07:00;Credit Indicator;Norway;NOK;1
+JPY_BoJPressConference;20191031;06:00;BoJ Press Conference;Japan;JPY;3
+JPY_AnnualizedHousingStarts;20191031;05:00;Annualized Housing Starts;Japan;JPY;1
+JPY_ConstructionOrders;20191031;05:00;Construction Orders (YoY);Japan;JPY;1
+JPY_HousingStarts;20191031;05:00;Housing Starts (YoY);Japan;JPY;1
+JPY_ConsumerConfidenceIndex;20191031;05:00;Consumer Confidence Index;Japan;JPY;1
+JPY_VehicleProduction;20191031;04:00;Vehicle Production (YoY);Japan;JPY;1
+JPY_BoJInterestRateDecision;20191031;03:00;BoJ Interest Rate Decision;Japan;JPY;3
+JPY_BoJMonetaryPolicyStatement;20191031;03:00;BoJ Monetary Policy Statement ;Japan;JPY;3
+JPY_BoJOutlookReport;20191031;03:00;BoJ Outlook Report;Japan;JPY;2
+CNY_NonManufacturingPMI;20191031;01:00;Non-Manufacturing PMI;China;CNY;2
+CNY_NBSManufacturingPMI;20191031;01:00;NBS Manufacturing PMI;China;CNY;2
+AUD_PrivateSectorCredit;20191031;00:30;Private Sector Credit (MoM);Australia;AUD;1
+AUD_ExportPriceIndex;20191031;00:30;Export Price Index (QoQ);Australia;AUD;1
+AUD_ImportPriceIndex;20191031;00:30;Import Price Index (QoQ);Australia;AUD;1
+AUD_BuildingPermits;20191031;00:30;Building Permits (YoY);Australia;AUD;1
+GBP_GfKConsumerConfidence;20191031;00:01;GfK Consumer Confidence;United Kingdom;GBP;2
+EUR_IreOctoberHoliday;20191031;00:00;October Holiday (Halloween) ;Ireland;EUR;0
+NZD_ANZActivityOutlook;20191031;00:00;ANZ Activity Outlook;New Zealand;NZD;1
+NZD_ANZBusinessConfidence;20191031;00:00;ANZ Business Confidence;New Zealand;NZD;1

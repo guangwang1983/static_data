@@ -1,0 +1,27 @@
+AUD_WestpacConsumerConfidence;20240521;00:30;Westpac Consumer Confidence;Australia;AUD;2
+AUD_RBAMeetingMinutes;20240521;01:30;RBA Meeting Minutes;Australia;AUD;3
+NZD_CreditCardSpending;20240521;03:00;Credit Card Spending (YoY);New Zealand;NZD;1
+CLP_NavyDay;20240521;04:00;Navy Day ;Chile;CLP;0
+EUR_GerProducerPriceIndex;20240521;06:00;Producer Price Index (YoY);Germany;EUR;2
+DKK_GrossDomesticProduct;20240521;06:00;Gross Domestic Product (YoY);Denmark;DKK;1
+SEK_CapacityUtilization;20240521;06:00;Capacity Utilization;Sweden;SEK;1
+EUR_EurEurogroupMeeting;20240521;07:00;Eurogroup Meeting;Eurozone;EUR;1
+EUR_EurCurrentAccount;20240521;08:00;Current Account n.s.a;Eurozone;EUR;1
+EUR_EurTradeBalance;20240521;09:00;Trade Balance n.s.a.;Eurozone;EUR;1
+EUR_EurConstructionOutput;20240521;09:00;Construction Output  s.a (MoM);Eurozone;EUR;1
+EUR_GerAuction;20240521;09:30;5-y Note Auction;Germany;EUR;1
+HUF_MNBInterestRateDecision;20240521;12:00;MNB Interest Rate Decision;Hungary;HUF;1
+CAD_ConsumerPriceIndex;20240521;12:30;BoC Consumer Price Index Core (YoY);Canada;CAD;3
+USD_RedbookIndex;20240521;12:55;Redbook Index (YoY);United States;USD;1
+COP_TradeBalance;20240521;15:00;Trade Balance;Colombia;COP;1
+NZD_GDTPriceIndex;20240521;15:00;GDT Price Index;New Zealand;NZD;1
+GBP_CentralBankSpeech;20240521;17:00;BoE Governor Bailey speech;United Kingdom;GBP;3
+USD_APIWeeklyCrudeOilStock;20240521;20:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_BOKManufacturingBSI;20240521;21:00;BOK Manufacturing BSI;South Korea;KRW;1
+KRW_ProducerPriceIndex;20240521;21:00;Producer Price Index Growth (YoY);South Korea;KRW;1
+USD_CentralBankSpeech;20240521;23:00;Fed Collins speech;United States;USD;2
+JPY_AdjustedMerchandiseTradeBalance;20240521;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_MerchandiseTradeBalanceTotal;20240521;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_Imports;20240521;23:50;Imports (YoY);Japan;JPY;2
+JPY_Exports;20240521;23:50;Exports (YoY);Japan;JPY;2
+JPY_MachineryOrders;20240521;23:50;Machinery Orders (YoY);Japan;JPY;1

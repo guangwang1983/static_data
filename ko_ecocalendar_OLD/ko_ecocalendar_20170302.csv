@@ -1,0 +1,45 @@
+JPY_TokyoCPIexFreshFood;20170302;23:30;Tokyo CPI ex Fresh Food (YoY);Japan;JPY;1
+JPY_TokyoCPIexFoodEnergy;20170302;23:30;Tokyo CPI ex Food, Energy (YoY);Japan;JPY;1
+JPY_ConsumerPriceIndex;20170302;23:30;Tokyo Consumer Price Index (YoY);Japan;JPY;1
+JPY_NationalCPIexFoodEnergy;20170302;23:30;National CPI ex Food, Energy (YoY);Japan;JPY;2
+JPY_NationalCPIexFreshFood;20170302;23:30;National CPI ex-Fresh Food (YoY);Japan;JPY;2
+JPY_UnemploymentRate;20170302;23:30;Unemployment Rate;Japan;JPY;2
+JPY_JobsApplicantsRatio;20170302;23:30;Jobs / Applicants Ratio;Japan;JPY;2
+JPY_OverallHouseholdSpending;20170302;23:30;Overall Household Spending (YoY);Japan;JPY;2
+KRW_CurrentAccount;20170302;23:00;Current Account Balance;South Korea;KRW;1
+KRW_ConsumerPriceIndex;20170302;23:00;Consumer Price Index Growth (MoM);South Korea;KRW;1
+AUD_AiGPerformanceofServicesIndex;20170302;22:30;AiG Performance of Services Index;Australia;AUD;1
+MXN_FiscalBalancepesos;20170302;20:00;Fiscal Balance, pesos;Mexico;MXN;1
+CAD_CentralBankSpeech;20170302;18:00;BoC Lane Speech;Canada;CAD;2
+BRL_TradeBalance;20170302;17:00;Trade Balance;Brazil;BRL;1
+USD_EIANaturalGasStorageChange;20170302;15:30;EIA Natural Gas Storage Change;United States;USD;1
+DKK_CurrencyReserves;20170302;15:00;Currency Reserves;Denmark;DKK;1
+USD_ISMNYBusinessConditionsIndex;20170302;14:45;ISM-NY Business Conditions Index;United States;USD;1
+CAD_GrossDomesticProduct;20170302;13:30;Gross Domestic Product Annualized (QoQ);Canada;CAD;2
+USD_JoblessClaims;20170302;13:30;Initial Jobless Claims;United States;USD;2
+BRL_HSBCPMIManufacturing;20170302;13:00;HSBC PMI Manufacturing;Brazil;BRL;1
+RUB_CentralBankReserves;20170302;13:00;Central Bank Reserves $;Russia;RUB;1
+SGD_PurchasingManagersIndex;20170302;13:00;Purchasing Managers Index;Singapore;SGD;1
+EUR_FraAuction;20170302;10:12;10-y Bond Auction;France;EUR;1
+EUR_SpaAuction;20170302;10:00;5-y Bond Auction;Spain;EUR;1
+EUR_EurUnemploymentRate;20170302;10:00;Unemployment Rate;European Monetary Union;EUR;2
+EUR_EurConsumerPriceIndex;20170302;10:00;Consumer Price Index (YoY);European Monetary Union;EUR;2
+EUR_EurProducerPriceIndex;20170302;10:00;Producer Price Index (MoM);European Monetary Union;EUR;1
+GBP_MarkitConstructionPMI;20170302;09:30;Markit Construction PMI;United Kingdom;GBP;2
+EUR_ItaUnemployment;20170302;09:00;Unemployment;Italy;EUR;2
+HKD_RetailSales;20170302;08:30;Retail Sales;Hong Kong SAR;HKD;1
+SEK_CurrentAccount;20170302;08:30;Current Account (QoQ);Sweden;SEK;1
+CHF_RetailSales;20170302;08:15;Real Retail Sales (YoY);Switzerland;CHF;2
+EUR_SpaGrossDomesticProduct;20170302;08:00;Gross Domestic Product (QoQ);Spain;EUR;1
+EUR_SpaUnemploymentChange;20170302;08:00;Unemployment Change;Spain;EUR;1
+EUR_AusProducerPriceIndex;20170302;08:00;Producer Price Index (MoM);Austria;EUR;1
+EUR_GerImportPriceIndex;20170302;07:00;Import Price Index (MoM);Germany;EUR;1
+NOK_RetailSales;20170302;07:00;Retail Sales ;Norway;NOK;1
+CHF_GrossDomesticProduct;20170302;06:45;Gross Domestic Product (YoY);Switzerland;CHF;2
+EUR_AusUnemployment;20170302;01:00;Unemployment;Austria;EUR;1
+EUR_AusUnemploymentRate;20170302;01:00;Unemployment Rate;Austria;EUR;1
+KRW_NikkeiMarkitManufacturingPMI;20170302;00:30;Nikkei Markit Manufacturing PMI;South Korea;KRW;1
+AUD_BuildingPermits;20170302;00:30;Building Permits (MoM);Australia;AUD;1
+AUD_Imports;20170302;00:30;Imports;Australia;AUD;2
+AUD_TradeBalance;20170302;00:30;Trade Balance;Australia;AUD;2
+AUD_Exports;20170302;00:30;Exports;Australia;AUD;2

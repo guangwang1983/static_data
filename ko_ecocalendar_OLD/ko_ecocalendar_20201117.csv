@@ -1,0 +1,36 @@
+JPY_Exports;20201117;23:50;Exports (YoY);Japan;JPY;2
+JPY_Imports;20201117;23:50;Imports (YoY);Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20201117;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_MerchandiseTradeBalanceTotal;20201117;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+AUD_WestpacLeadingIndex;20201117;23:30;Westpac Leading Index (MoM);Australia;AUD;2
+AUD_CentralBankSpeech;20201117;22:00;RBA Governor Lowe speech;Australia;AUD;3
+NZD_ProducerPriceIndex;20201117;21:45;Producer Price Index - Input (QoQ);New Zealand;NZD;1
+USD_APIWeeklyCrudeOilStock;20201117;21:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_TotalNetTICFlows;20201117;21:00;Total Net TIC Flows;United States;USD;1
+USD_NetLongTermTICFlows;20201117;21:00;Net Long-Term TIC Flows;United States;USD;1
+USD_CentralBankSpeech;20201117;19:00;Fed Williams speech;United States;USD;2
+CAD_CentralBankSpeech;20201117;19:00;BoC Governor Macklem speech;Canada;CAD;3
+GBP_CentralBankSpeech;20201117;17:00;BoE Ramsden speech;United Kingdom;GBP;2
+NZD_GDTPriceIndex;20201117;15:20;GDT Price Index;New Zealand;NZD;2
+USD_BusinessInventories;20201117;15:00;Business Inventories;United States;USD;1
+USD_NAHBHousingMarketIndex;20201117;15:00;NAHB Housing Market Index;United States;USD;1
+USD_IndustrialProduction;20201117;14:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20201117;14:15;Capacity Utilization;United States;USD;1
+RUB_IndustrialOutput;20201117;14:00;Industrial Output;Russia;RUB;1
+USD_RedbookIndex;20201117;13:55;Redbook Index (YoY);United States;USD;1
+USD_RetailSales;20201117;13:30;Retail Sales (MoM);United States;USD;3
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20201117;13:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20201117;13:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+USD_ExportPriceIndex;20201117;13:30;Export Price Index (YoY);United States;USD;1
+USD_ImportPriceIndex;20201117;13:30;Import Price Index (MoM);United States;USD;1
+CAD_WholesaleSales;20201117;13:30;Wholesale Sales (MoM);Canada;CAD;1
+CAD_HousingStarts;20201117;13:15;Housing Starts s.a (YoY);Canada;CAD;1
+HUF_MNBInterestRateDecision;20201117;13:00;MNB Interest Rate Decision;Hungary;HUF;1
+GBP_Auction;20201117;10:30;30-y Bond Auction;United Kingdom;GBP;1
+EUR_EurConstructionOutput;20201117;10:00;Construction Output  s.a (MoM);European Monetary Union;EUR;1
+EUR_SpaAuction;20201117;09:40;9-Month Letras Auction;Spain;EUR;1
+EUR_ItaTradeBalanceEU;20201117;09:00;Trade Balance EU;Italy;EUR;1
+EUR_ItaGlobalTradeBalance;20201117;09:00;Global Trade Balance;Italy;EUR;1
+HKD_Unemploymentrate;20201117;08:30;Unemployment rate;Hong Kong SAR;HKD;1
+NOK_GrossDomesticProduct;20201117;07:00;Gross Domestic Product Growth Mainland;Norway;NOK;1
+AUD_RBAMeetingMinutes;20201117;00:30;RBA Meeting Minutes;Australia;AUD;3

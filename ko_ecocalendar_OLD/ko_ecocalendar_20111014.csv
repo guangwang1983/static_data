@@ -1,0 +1,25 @@
+ARS_ConsumerPriceIndex;20111014;19:00;Consumer Price Index (MoM);Argentina;ARS;1
+USD_MonthlyBudgetStatement;20111014;18:00;Monthly Budget Statement;United States;USD;2
+MXN_CentralBankInterestRate;20111014;14:00;Central Bank Interest Rate;Mexico;MXN;1
+USD_BusinessInventories;20111014;14:00;Business Inventories;United States;USD;1
+USD_MichiganConsumerSentimentIndex;20111014;13:55;Michigan Consumer Sentiment Index;United States;USD;3
+USD_RetailSales;20111014;12:30;Retail Sales ex Autos (MoM);United States;USD;2
+CAD_ManufacturingShipments;20111014;12:30;Manufacturing Shipments (MoM);Canada;CAD;1
+USD_ExportPriceIndex;20111014;12:30;Export Price Index (MoM);United States;USD;1
+USD_ImportPriceIndex;20111014;12:30;Import Price Index (MoM);United States;USD;1
+PLN_M3MoneySupply;20111014;12:00;M3 Money Supply (YoY);Poland;PLN;1
+INR_FXReservesUSD;20111014;11:30;FX Reserves, USD;India;INR;1
+EUR_EurTradeBalance;20111014;09:00;Trade Balance n.s.a.;European Monetary Union;EUR;1
+EUR_EurConsumerPriceIndex;20111014;09:00;Consumer Price Index (YoY);European Monetary Union;EUR;3
+EUR_ItaGlobalTradeBalance;20111014;08:00;Global Trade Balance;Italy;EUR;1
+EUR_AusHICP;20111014;08:00;HICP (YoY);Austria;EUR;1
+HUF_IndustrialOutput;20111014;07:00;Industrial Output (YoY);Hungary;HUF;1
+EUR_FinCurrentAccount;20111014;07:00;Current Account;Finland;EUR;1
+EUR_SloEUNormInflation;20111014;07:00;EU Norm Inflation (MoM);Slovakia;EUR;1
+INR_WPIInflation;20111014;06:30;WPI Inflation;India;INR;1
+EUR_FinConsumerPriceIndex;20111014;06:00;Consumer Price Index (YoY);Finland;EUR;1
+CNY_M2MoneySupply;20111014;02:00;M2 Money Supply (YoY);China;CNY;1
+CNY_ForeignExchangeReserves;20111014;02:00;Foreign Exchange Reserves (QoQ);China;CNY;2
+CNY_ConsumerPriceIndex;20111014;02:00;Consumer Price Index (YoY);China;CNY;3
+CNY_ProducerPriceIndex;20111014;02:00;Producer Price Index (YoY);China;CNY;2
+EUR_EurG20Meeting;20111014;00:00;G20 Meeting;European Monetary Union;EUR;2

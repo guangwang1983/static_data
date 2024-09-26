@@ -1,0 +1,22 @@
+CAD_VictoriaDay;20160523;00:00;Victoria Day;Canada;CAD;0
+JPY_CentralBankSpeech;20160523;01:30;BoJ Nakaso speech;Japan;JPY;1
+JPY_JibunBankManufacturingPMI;20160523;02:00;Jibun Bank Manufacturing PMI;Japan;JPY;2
+JPY_AllIndustryActivityIndex;20160523;04:30;All Industry Activity Index (MoM);Japan;JPY;2
+JPY_CoincidentIndex;20160523;05:00;Coincident Index;Japan;JPY;2
+JPY_LeadingEconomicIndex;20160523;05:00;Leading Economic Index;Japan;JPY;2
+TRY_ConsumerConfidence;20160523;07:00;Consumer Confidence;Turkey;TRY;1
+DKK_ConsumerConfidence;20160523;07:00;Consumer Confidence;Denmark;DKK;1
+EUR_FraHCOBManufacturingPMI;20160523;07:00;HCOB Manufacturing PMI;France;EUR;1
+EUR_FraHCOBServicesPMI;20160523;07:00;HCOB Services PMI;France;EUR;1
+EUR_FraHCOBCompositePMI;20160523;07:00;HCOB Composite PMI;France;EUR;1
+EUR_GerHCOBCompositePMI;20160523;07:30;HCOB Composite PMI;Germany;EUR;1
+EUR_GerHCOBManufacturingPMI;20160523;07:30;HCOB Manufacturing PMI;Germany;EUR;2
+EUR_GerHCOBServicesPMI;20160523;07:30;HCOB Services PMI;Germany;EUR;1
+EUR_EurHCOBServicesPMI;20160523;08:00;HCOB Services PMI;European Monetary Union;EUR;2
+EUR_EurHCOBManufacturingPMI;20160523;08:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurHCOBCompositePMI;20160523;08:00;HCOB Composite PMI;European Monetary Union;EUR;2
+RUB_UnemploymentRate;20160523;13:00;Unemployment Rate;Russia;RUB;1
+USD_S&PGlobalManufacturingPMI;20160523;13:45;S&P Global Manufacturing PMI;United States;USD;2
+EUR_EurConsumerConfidence;20160523;14:00;Consumer Confidence;European Monetary Union;EUR;1
+USD_Auction;20160523;15:30;3-Month Bill Auction;United States;USD;1
+USD_CentralBankSpeech;20160523;22:30;Fed Harker speech;United States;USD;1

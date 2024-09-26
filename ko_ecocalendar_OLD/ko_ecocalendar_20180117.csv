@@ -1,0 +1,29 @@
+JPY_ForeignBondInvestment;20180117;23:50;Foreign Bond Investment;Japan;JPY;2
+JPY_ForeignInvestmentinJapanStocks;20180117;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+USD_APIWeeklyCrudeOilStock;20180117;21:30;API Weekly Crude Oil Stock;United States;USD;1
+USD_TotalNetTICFlows;20180117;21:00;Total Net TIC Flows;United States;USD;1
+USD_NetLongTermTICFlows;20180117;21:00;Net Long-Term TIC Flows;United States;USD;1
+USD_CentralBankSpeech;20180117;20:15;Fed Kaplan speech;United States;USD;2
+USD_FedBeigeBook;20180117;19:00;Fed Beige Book;United States;USD;2
+CAD_BoCPressConference;20180117;16:15;BoC Press Conference;Canada;CAD;3
+CAD_BankofCanadaMonetaryPolicyReport;20180117;15:00;Bank of Canada Monetary Policy Report;Canada;CAD;3
+CAD_BoCInterestRateDecision;20180117;15:00;BoC Interest Rate Decision;Canada;CAD;3
+CAD_BoCRateStatement;20180117;15:00;BoC Rate Statement;Canada;CAD;3
+USD_NAHBHousingMarketIndex;20180117;15:00;NAHB Housing Market Index;United States;USD;2
+USD_IndustrialProduction;20180117;14:15;Industrial Production (MoM);United States;USD;2
+USD_CapacityUtilization;20180117;14:15;Capacity Utilization;United States;USD;2
+USD_RedbookIndex;20180117;13:55;Redbook Index (YoY);United States;USD;1
+RUB_ForeignTrade;20180117;13:00;Foreign Trade;Russia;RUB;1
+PLN_CorporateSectorWages;20180117;13:00;Corporate Sector Wages;Poland;PLN;1
+USD_MBAMortgageApplications;20180117;12:00;MBA Mortgage Applications;United States;USD;1
+GBP_CentralBankSpeech;20180117;11:45;BoE Saunders speech;United Kingdom;GBP;2
+INR_M3MoneySupply;20180117;11:30;M3 Money Supply;India;INR;1
+ZAR_RetailSales;20180117;11:00;Retail Sales (YoY);South Africa;ZAR;1
+EUR_GerAuction;20180117;10:30;30-y Bond Auction;Germany;EUR;1
+EUR_EurConsumerPriceIndex;20180117;10:00;Consumer Price Index - Core (MoM);European Monetary Union;EUR;2
+EUR_AusHICP;20180117;08:00;HICP (YoY);Austria;EUR;1
+EUR_SloEUNormInflation;20180117;08:00;EU Norm Inflation (YoY);Slovakia;EUR;1
+CNY_FDIForeignDirectInvestment;20180117;02:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+AUD_HomeLoans;20180117;00:30;Home Loans;Australia;AUD;2
+AUD_InvestmentLendingforHomes;20180117;00:30;Investment Lending for Homes;Australia;AUD;2
+NZD_ANZCommodityPrice;20180117;00:00;ANZ Commodity Price;New Zealand;NZD;1

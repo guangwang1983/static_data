@@ -1,0 +1,30 @@
+ARS_ConsumerPriceIndex;20150911;19:00;Consumer Price Index (MoM);Argentina;ARS;1
+USD_BakerHughesUSOilRigCount;20150911;19:00;Baker Hughes US Oil Rig Count;United States;USD;2
+USD_MonthlyBudgetStatement;20150911;18:00;Monthly Budget Statement;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20150911;14:00;Michigan Consumer Sentiment Index;United States;USD;1
+MXN_IndustrialOutput;20150911;13:00;Industrial Output (YoY);Mexico;MXN;1
+USD_ProducerPriceIndex;20150911;12:30;Producer Price Index ex Food & Energy (YoY);United States;USD;1
+EUR_EurEcoFinMeeting;20150911;12:00;EcoFin Meeting;European Monetary Union;EUR;2
+INR_IndustrialOutput;20150911;12:00;Industrial Output;India;INR;1
+INR_ManufacturingOutput;20150911;12:00;Manufacturing Output;India;INR;1
+INR_CumulativeIndustrialOutput;20150911;12:00;Cumulative Industrial Output;India;INR;1
+INR_TradeDeficitRBI;20150911;11:30;Trade Deficit - RBI;India;INR;1
+INR_BalancePayment;20150911;11:30;Balance Payment $;India;INR;1
+INR_CurrentAccount;20150911;11:30;Current Account Balance $;India;INR;1
+INR_FXReservesUSD;20150911;11:30;FX Reserves, USD;India;INR;1
+RUB_Interestratedecision;20150911;11:00;Interest rate decision;Russia;RUB;2
+CNY_NewLoans;20150911;09:28;New Loans;China;CNY;3
+CNY_M2MoneySupply;20150911;09:28;M2 Money Supply (YoY);China;CNY;1
+ISK_GrossDomesticProduct;20150911;09:00;Gross Domestic Product (QoQ);Iceland;ISK;1
+GBP_ConsumerInflationExpectations;20150911;08:30;Consumer Inflation Expectations;United Kingdom;GBP;3
+EUR_ItaIndustrialOutput;20150911;08:00;Industrial Output w.d.a (YoY);Italy;EUR;1
+SEK_UnemploymentRate;20150911;07:30;Unemployment Rate;Sweden;SEK;1
+SEK_GrossDomesticProduct;20150911;07:30;Gross Domestic Product (QoQ);Sweden;SEK;1
+EUR_SpaHICP;20150911;07:00;HICP (YoY);Spain;EUR;1
+RON_IndustrialProduction;20150911;07:00;Industrial Production (MoM);Romania;RON;2
+EUR_SpaConsumerPriceIndex;20150911;07:00;Consumer Price Index (MoM);Spain;EUR;1
+EUR_FraCurrentAccount;20150911;06:45;Current Account;France;EUR;1
+EUR_GerWholesalePriceIndex;20150911;06:00;Wholesale Price Index (MoM);Germany;EUR;1
+EUR_GerConsumerPriceIndex;20150911;06:00;Consumer Price Index (MoM);Germany;EUR;2
+EUR_GerHarmonizedIndexofConsumerPrices;20150911;06:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;2
+KRW_BoKInterestRateDecision;20150911;00:58;BoK Interest Rate Decision;South Korea;KRW;1

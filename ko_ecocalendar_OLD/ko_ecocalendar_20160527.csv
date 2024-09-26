@@ -1,0 +1,30 @@
+COP_Interestrate;20160527;22:00;Interest rate;Colombia;COP;1
+AUD_CFTCAUDNCNetPositions;20160527;19:30;CFTC AUD NC Net Positions;Australia;AUD;1
+JPY_CFTCJPYNCNetPositions;20160527;19:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCGoldNCNetPositions;20160527;19:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCUSDNCNetPositions;20160527;19:30;CFTC USD NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20160527;19:30;CFTC Oil NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20160527;19:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+GBP_CFTCGBPNCNetPositions;20160527;19:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CentralBankSpeech;20160527;17:15;Fed Chair Yellen speech;United States;USD;2
+USD_BakerHughesUSOilRigCount;20160527;17:00;Baker Hughes US Oil Rig Count;United States;USD;2
+USD_MichiganConsumerSentimentIndex;20160527;14:00;Michigan Consumer Sentiment Index;United States;USD;1
+MXN_JoblessRate;20160527;13:00;Jobless Rate s.a;Mexico;MXN;1
+USD_GrossDomesticProduct;20160527;12:30;Gross Domestic Product Annualized;United States;USD;2
+USD_CorePersonalConsumptionExpenditures;20160527;12:30;Core Personal Consumption Expenditures (QoQ);United States;USD;2
+USD_PersonalConsumptionExpendituresPrices;20160527;12:30;Personal Consumption Expenditures Prices (QoQ);United States;USD;2
+INR_BankLoanGrowth;20160527;11:30;Bank Loan Growth;India;INR;1
+INR_FXReservesUSD;20160527;11:30;FX Reserves, USD;India;INR;1
+EUR_IreRetailSales;20160527;10:00;Retail Sales (MoM);Ireland;EUR;1
+ISK_ConsumerPriceIndex;20160527;09:00;Consumer Price Index (YoY);Iceland;ISK;1
+EUR_ItaBusinessConfidence;20160527;08:00;Business Confidence;Italy;EUR;1
+EUR_ItaConsumerConfidence;20160527;08:00;Consumer Confidence;Italy;EUR;1
+TRY_ForeignArrivals;20160527;08:00;Foreign Arrivals;Turkey;TRY;1
+SEK_RetailSales;20160527;07:30;Retail Sales (YoY);Sweden;SEK;1
+CHF_EmploymentLevel;20160527;07:15;Employment Level (QoQ);Switzerland;CHF;1
+TRY_Economicconfidenceindex;20160527;07:00;Economic confidence index;Turkey;TRY;1
+EUR_SpaRetailSales;20160527;07:00;Retail Sales (YoY);Spain;EUR;1
+EUR_FraConsumerConfidence;20160527;06:45;Consumer Confidence;France;EUR;1
+EUR_FinIndustrialConfidence;20160527;06:00;Industrial Confidence;Finland;EUR;1
+EUR_FinConsumerConfidence;20160527;06:00;Consumer Confidence;Finland;EUR;1
+EUR_EurG7Meeting;20160527;00:00;G7 Meeting;European Monetary Union;EUR;3

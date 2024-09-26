@@ -1,0 +1,35 @@
+AUD_WestpacLeadingIndex;20150217;23:30;Westpac Leading Index (MoM);Australia;AUD;1
+COP_RetailSales;20150217;22:00;Retail Sales (YoY);Colombia;COP;1
+COP_Industrialouput;20150217;22:00;Industrial ouput (YoY);Colombia;COP;1
+USD_CentralBankSpeech;20150217;17:45;Philadelphia Fed Plosser speech;United States;USD;1
+CHF_CentralBankSpeech;20150217;17:15;SNB Chairman Jordan speech;Switzerland;CHF;3
+USD_Auction;20150217;16:30;6-Month Bill Auction;United States;USD;1
+USD_NAHBHousingMarketIndex;20150217;15:00;NAHB Housing Market Index;United States;USD;2
+NZD_GDTPriceIndex;20150217;14:55;GDT Price Index;New Zealand;NZD;1
+USD_NYEmpireStateManufacturingIndex;20150217;13:30;NY Empire State Manufacturing Index;United States;USD;1
+CAD_CanadianPortfolioInvestmentinForeignSecurities;20150217;13:30;Canadian Portfolio Investment in Foreign Securities;Canada;CAD;1
+CAD_ForeignPortfolioInvestmentinCanadianSecurities;20150217;13:30;Foreign Portfolio Investment in Canadian Securities;Canada;CAD;1
+PLN_CorporateSectorWages;20150217;13:00;Corporate Sector Wages;Poland;PLN;1
+EUR_EurEcoFinMeeting;20150217;11:00;EcoFin Meeting;European Monetary Union;EUR;2
+IDR_BankIndonesiaRate;20150217;10:05;Bank Indonesia Rate;Indonesia;IDR;1
+EUR_GerZEWSurveyEconomicSentiment;20150217;10:00;ZEW Survey - Economic Sentiment;Germany;EUR;3
+EUR_EurZEWSurveyEconomicSentiment;20150217;10:00;ZEW Survey - Economic Sentiment;European Monetary Union;EUR;2
+EUR_GerZEWSurveyCurrentSituation;20150217;10:00;ZEW Survey - Current Situation;Germany;EUR;2
+EUR_GreConsumerPriceIndex;20150217;10:00;Consumer Price Index (YoY);Greece;EUR;1
+EUR_SpaAuction;20150217;09:55;12-Month Letras Auction;Spain;EUR;1
+GBP_RetailPriceIndex;20150217;09:30;Retail Price Index (MoM);United Kingdom;GBP;1
+GBP_DCLGHousePriceIndex;20150217;09:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+GBP_ProducerPriceIndex;20150217;09:30;Producer Price Index - Output (YoY) n.s.a;United Kingdom;GBP;2
+GBP_PPICoreOutput;20150217;09:30;PPI Core Output (MoM) n.s.a;United Kingdom;GBP;1
+GBP_ConsumerPriceIndex;20150217;09:30;Core Consumer Price Index (YoY);United Kingdom;GBP;3
+EUR_ItaTradeBalanceEU;20150217;09:00;Trade Balance EU;Italy;EUR;1
+EUR_ItaGlobalTradeBalance;20150217;09:00;Global Trade Balance;Italy;EUR;1
+HKD_Unemploymentrate;20150217;08:30;Unemployment rate;Hong Kong SAR;HKD;1
+SEK_ConsumerPriceIndex;20150217;08:30;Consumer Price Index (YoY);Sweden;SEK;1
+CNY_MNIBusinessSentimentIndicator;20150217;01:45;MNI Business Sentiment Indicator;China;CNY;1
+CNY_HousePriceIndex;20150217;01:30;House Price Index ;China;CNY;2
+KRW_BoKInterestRateDecision;20150217;01:00;BoK Interest Rate Decision;South Korea;KRW;1
+AUD_RBAMeetingMinutes;20150217;00:30;RBA Meeting Minutes;Australia;AUD;2
+BRL_Carnival;20150217;00:00;Carnival;Brazil;BRL;0
+ARS_Carnival;20150217;00:00;Carnival;Argentina;ARS;0
+SGD_GrossDomesticProduct;20150217;00:00;Gross Domestic Product (QoQ);Singapore;SGD;1

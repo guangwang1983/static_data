@@ -1,0 +1,33 @@
+NZD_ANZCommodityPrice;20220112;00:00;ANZ Commodity Price;New Zealand;NZD;1
+JPY_CentralBankSpeech;20220112;01:00;BoJ Governor Kuroda speech;Japan;JPY;3
+CNY_ConsumerPriceIndex;20220112;01:30;Consumer Price Index (MoM);China;CNY;2
+CNY_ProducerPriceIndex;20220112;01:30;Producer Price Index (YoY);China;CNY;2
+KRW_MoneySupplyGrowth;20220112;03:00;Money Supply Growth;South Korea;KRW;1
+JPY_EcoWatchersSurvey:Outlook;20220112;05:00;Eco Watchers Survey: Outlook;Japan;JPY;1
+JPY_EcoWatchersSurvey:Current;20220112;05:00;Eco Watchers Survey: Current;Japan;JPY;1
+EUR_GerWholesalePriceIndex;20220112;07:00;Wholesale Price Index (MoM);Germany;EUR;1
+RON_GrossDomesticProduct;20220112;07:00;Gross Domestic Product;Romania;RON;1
+RON_IndustrialProduction;20220112;07:00;Industrial Production (MoM);Romania;RON;1
+CNY_M2MoneySupply;20220112;08:00;M2 Money Supply (YoY);China;CNY;1
+CZK_ConsumerPriceIndex;20220112;08:00;Consumer Price Index (YoY);Czech Republic;CZK;1
+HUF_IndustrialOutput;20220112;08:00;Industrial Output (YoY);Hungary;HUF;1
+CNY_NewLoans;20220112;08:00;New Loans;China;CNY;1
+EUR_EurIndustrialProduction;20220112;10:00;Industrial Production w.d.a. (YoY);European Monetary Union;EUR;1
+EUR_GerAuction;20220112;10:30;30-y Bond Auction;Germany;EUR;1
+USD_MBAMortgageApplications;20220112;12:00;MBA Mortgage Applications;United States;USD;1
+INR_IndustrialOutput;20220112;12:00;Industrial Output;India;INR;1
+INR_CumulativeIndustrialOutput;20220112;12:00;Cumulative Industrial Output;India;INR;1
+INR_ManufacturingOutput;20220112;12:00;Manufacturing Output;India;INR;1
+INR_ConsumerPriceIndex;20220112;12:00;Consumer Price Index (YoY);India;INR;1
+USD_ConsumerPriceIndex;20220112;13:30;Consumer Price Index Core s.a;United States;USD;2
+USD_EIACrudeOilStocksChange;20220112;15:30;EIA Crude Oil Stocks Change;United States;USD;1
+RUB_ConsumerPriceIndex;20220112;16:00;Consumer Price Index (MoM);Russia;RUB;1
+USD_USDAWASDEReport;20220112;17:00;USDA WASDE Report;United States;USD;1
+USD_GrainStockReport;20220112;17:00;Grain Stock Report;United States;USD;1
+USD_Auction;20220112;18:00;10-Year Note Auction;United States;USD;1
+USD_MonthlyBudgetStatement;20220112;19:00;Monthly Budget Statement;United States;USD;2
+USD_FedBeigeBook;20220112;19:00;Fed Beige Book;United States;USD;2
+KRW_ExportPriceGrowth;20220112;21:00;Export Price Growth (YoY);South Korea;KRW;1
+KRW_ImportPriceGrowth;20220112;21:00;Import Price Growth (YoY);South Korea;KRW;1
+NZD_BuildingPermits;20220112;21:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+JPY_MoneySupplyM2+CD;20220112;23:50;Money Supply M2+CD (YoY);Japan;JPY;1

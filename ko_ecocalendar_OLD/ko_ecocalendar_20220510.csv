@@ -1,0 +1,30 @@
+AUD_NationalAustraliaBankBusinessConditions;20220510;01:30;National Australia Bank Business Conditions;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConfidence;20220510;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+JPY_Auction;20220510;03:35;10-y Bond Auction;Japan;JPY;1
+DKK_ConsumerPriceIndex;20220510;06:00;Consumer Price Index (YoY);Denmark;DKK;1
+DKK_Inflation;20220510;06:00;Inflation (HICP) (YoY);Denmark;DKK;1
+RON_TradeBalance;20220510;06:00;Trade Balance;Romania;RON;1
+NOK_ConsumerPriceIndex;20220510;06:00;Consumer Price Index (YoY);Norway;NOK;1
+NOK_CoreInflation;20220510;06:00;Core Inflation (MoM);Norway;NOK;1
+NOK_ProducerPriceIndex;20220510;06:00;Producer Price Index (YoY);Norway;NOK;1
+CNY_M2MoneySupply;20220510;07:00;M2 Money Supply (YoY);China;CNY;1
+CNY_NewLoans;20220510;07:00;New Loans;China;CNY;1
+CNY_FDIForeignDirectInvestment;20220510;07:00;FDI - Foreign Direct Investment (YTD) (YoY);China;CNY;2
+TRY_UnemploymentRate;20220510;07:00;Unemployment Rate;Turkey;TRY;1
+HUF_ConsumerPriceIndex;20220510;07:00;Consumer Price Index (YoY);Hungary;HUF;1
+CZK_ConsumerPriceIndex;20220510;07:00;Consumer Price Index (MoM);Czech Republic;CZK;1
+CZK_RetailSales;20220510;07:00;Retail Sales (YoY);Czech Republic;CZK;1
+EUR_EurZEWSurvey–EconomicSentiment;20220510;09:00;ZEW Survey – Economic Sentiment;European Monetary Union;EUR;2
+ZAR_BusinessConfidenceIndex;20220510;09:30;Business Confidence Index;South Africa;ZAR;1
+ZAR_UnemploymentRate;20220510;09:30;Unemployment Rate (%);South Africa;ZAR;1
+ZAR_UnemploymentTotal;20220510;09:30;Unemployment Total ;South Africa;ZAR;1
+USD_NFIBBusinessOptimismIndex;20220510;10:00;NFIB Business Optimism Index;United States;USD;1
+ILS_BudgetBalanceILS;20220510;10:00;Budget Balance - ILS;Israel;ILS;1
+RON_Interestratedecision;20220510;12:00;Interest rate decision;Romania;RON;1
+USD_RedbookIndex;20220510;12:55;Redbook Index (YoY);United States;USD;1
+USD_IBDTIPPEconomicOptimism;20220510;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+USD_Auction;20220510;17:00;3-Year Note Auction;United States;USD;1
+EUR_EurCentralBankSpeech;20220510;17:20;ECB De Guindos speech;European Monetary Union;EUR;2
+USD_CentralBankSpeech;20220510;19:00;Fed Mester speech;United States;USD;2
+USD_APIWeeklyCrudeOilStock;20220510;20:30;API Weekly Crude Oil Stock;United States;USD;1
+JPY_JPForeignReserves;20220510;23:50;JP Foreign Reserves;Japan;JPY;1

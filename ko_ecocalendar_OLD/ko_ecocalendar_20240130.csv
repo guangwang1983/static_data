@@ -1,0 +1,45 @@
+AUD_RetailSales;20240130;00:30;Retail Sales s.a. (MoM);Australia;AUD;3
+ZAR_PrivateSectorCredit;20240130;06:00;Private Sector Credit;South Africa;ZAR;1
+ZAR_M3MoneySupply;20240130;06:00;M3 Money Supply (YoY);South Africa;ZAR;1
+EUR_FraConsumerSpending;20240130;06:30;Consumer Spending (MoM);France;EUR;1
+EUR_FraGrossDomesticProduct;20240130;06:30;Gross Domestic Product (QoQ);France;EUR;2
+TRY_EconomicConfidenceIndex;20240130;07:00;Economic Confidence Index;Turkey;TRY;1
+GBP_NationwideHousingPrices;20240130;07:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;1
+CHF_TradeBalance;20240130;07:00;Trade Balance;Switzerland;CHF;1
+CHF_Imports;20240130;07:00;Imports (MoM);Switzerland;CHF;1
+CHF_Exports;20240130;07:00;Exports (MoM);Switzerland;CHF;1
+CHF_KOFLeadingIndicator;20240130;08:00;KOF Leading Indicator;Switzerland;CHF;1
+SEK_ConsumerConfidence;20240130;08:00;Consumer Confidence (MoM);Sweden;SEK;1
+EUR_GerGrossDomesticProduct;20240130;09:00;Gross Domestic Product (YoY);Germany;EUR;3
+EUR_ItaGrossDomesticProduct;20240130;09:00;Gross Domestic Product (YoY);Italy;EUR;2
+EUR_EurCentralBankSpeech;20240130;09:00;ECB Lane speech;Eurozone;EUR;2
+GBP_NetLendingtoIndividuals;20240130;09:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+GBP_ConsumerCredit;20240130;09:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20240130;09:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_M4MoneySupply;20240130;09:30;M4 Money Supply (YoY);United Kingdom;GBP;1
+EUR_ItaProducerPriceIndex;20240130;10:00;Producer Price Index (YoY);Italy;EUR;1
+EUR_EurGrossDomesticProduct;20240130;10:00;Gross Domestic Product s.a. (QoQ);Eurozone;EUR;3
+EUR_EurIndustrialConfidence;20240130;10:00;Industrial Confidence;Eurozone;EUR;1
+EUR_EurEconomicSentimentIndicator;20240130;10:00;Economic Sentiment Indicator;Eurozone;EUR;2
+EUR_EurBusinessClimate;20240130;10:00;Business Climate;Eurozone;EUR;2
+EUR_EurServicesSentiment;20240130;10:00;Services Sentiment;Eurozone;EUR;1
+EUR_EurConsumerConfidence;20240130;10:00;Consumer Confidence;Eurozone;EUR;2
+EUR_ItaAuction;20240130;10:30;10-y Bond Auction;Italy;EUR;1
+BRL_InflationIndexIGPM;20240130;11:00;Inflation Index/IGP-M;Brazil;BRL;1
+CLP_Unemploymentrate;20240130;13:00;Unemployment rate;Chile;CLP;1
+HUF_MNBInterestRateDecision;20240130;13:00;MNB Interest Rate Decision;Hungary;HUF;1
+USD_RedbookIndex;20240130;13:55;Redbook Index (YoY);United States;USD;1
+USD_S&PCaseShillerHomePriceIndices;20240130;14:00;S&P/Case-Shiller Home Price Indices (YoY);United States;USD;1
+USD_HousingPriceIndex;20240130;14:00;Housing Price Index (MoM);United States;USD;2
+USD_JOLTSJobOpenings;20240130;15:00;JOLTS Job Openings;United States;USD;2
+USD_ConsumerConfidence;20240130;15:00;Consumer Confidence;United States;USD;2
+EUR_GerCentralBankSpeech;20240130;15:30;German Buba President Nagel speech;Germany;EUR;2
+MXN_FiscalBalancepesos;20240130;21:00;Fiscal Balance, pesos;Mexico;MXN;1
+USD_APIWeeklyCrudeOilStock;20240130;21:30;API Weekly Crude Oil Stock;United States;USD;1
+KRW_IndustrialOutputGrowth;20240130;23:00;Industrial Output Growth;South Korea;KRW;1
+KRW_IndustrialOutput;20240130;23:00;Industrial Output (YoY);South Korea;KRW;1
+KRW_ServiceSectorOutput;20240130;23:00;Service Sector Output;South Korea;KRW;1
+JPY_BoJSummaryofOpinions;20240130;23:50;BoJ Summary of Opinions;Japan;JPY;1
+JPY_IndustrialProduction;20240130;23:50;Industrial Production (MoM);Japan;JPY;1
+JPY_RetailTrade;20240130;23:50;Retail Trade (YoY);Japan;JPY;2
+JPY_LargeRetailerSales;20240130;23:50;Large Retailer Sales;Japan;JPY;2

@@ -1,0 +1,17 @@
+USD_HousingPriceIndex;20110421;14:00;Housing Price Index (MoM);United States;USD;2
+USD_PhiladelphiaFedManufacturingSurvey;20110421;14:00;Philadelphia Fed Manufacturing Survey;United States;USD;2
+USD_JoblessClaims;20110421;12:30;Continuing Jobless Claims;United States;USD;1
+CAD_RetailSales;20110421;12:30;Retail Sales ex Autos (MoM);Canada;CAD;2
+EUR_PorCurrentAccount;20110421;10:00;Current Account Balance;Portugal;EUR;1
+GBP_RetailSales;20110421;08:30;Retail Sales (YoY);United Kingdom;GBP;1
+GBP_MortgageApprovals;20110421;08:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_PublicSectorNetBorrowing;20110421;08:30;Public Sector Net Borrowing;United Kingdom;GBP;2
+EUR_GerIFOCurrentAssessment;20110421;08:00;IFO - Current Assessment;Germany;EUR;2
+EUR_GerIFOBusinessClimate;20110421;08:00;IFO - Business Climate;Germany;EUR;2
+EUR_GerIFOExpectations;20110421;08:00;IFO - Expectations;Germany;EUR;2
+EUR_NetUnemploymentRate;20110421;07:30;Unemployment Rate s.a (3M);Netherlands, The;EUR;1
+JPY_CoincidentIndex;20110421;05:00;Coincident Index;Japan;JPY;1
+JPY_LeadingEconomicIndex;20110421;05:00;Leading Economic Index;Japan;JPY;1
+AUD_RBAForeignExchangeTransaction;20110421;01:30;RBA Foreign Exchange Transaction;Australia;AUD;1
+AUD_ProducerPriceIndex;20110421;01:30;Producer Price Index (YoY);Australia;AUD;2
+RUB_CentralBankReserves;20110421;00:00;Central Bank Reserves $;Russia;RUB;1

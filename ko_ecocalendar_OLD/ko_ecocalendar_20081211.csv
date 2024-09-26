@@ -1,0 +1,16 @@
+NZD_RetailSales;20081211;21:45;Retail Sales ex Autos (QoQ);New Zealand;NZD;2
+USD_TradeBalance;20081211;13:30;Trade Balance;United States;USD;3
+USD_JoblessClaims;20081211;13:30;Initial Jobless Claims;United States;USD;2
+USD_ImportPriceIndex;20081211;13:30;Import Price Index (MoM);United States;USD;2
+CAD_DONOTINCLUDENewHousingPriceIndex;20081211;13:30;DO NOT INCLUDE - New Housing Price Index (YoY);Canada;CAD;1
+CAD_InternationalMerchandiseTrade;20081211;13:30;International Merchandise Trade;Canada;CAD;2
+GBP_CBIIndustrialTrendsSurveyOrders;20081211;11:00;CBI Industrial Trends Survey - Orders (MoM);United Kingdom;GBP;1
+ZAR_SARBInterestRateDecision;20081211;10:30;SARB Interest Rate Decision;South Africa;ZAR;0
+EUR_EurECBMonthlyReport;20081211;09:00;ECB Monthly Report;European Monetary Union;EUR;2
+CHF_SNBInterestRateDecision;20081211;08:30;SNB Interest Rate Decision;Switzerland;CHF;3
+TWD_CBC;20081211;08:30;CBC (Taiwan) Interest Rate Decision;Taiwan;TWD;0
+EUR_EurCentralBankSpeech;20081211;08:05;ECB President Trichet speech;European Monetary Union;EUR;2
+KRW_BoKInterestRateDecision;20081211;06:00;BoK Interest Rate Decision;South Korea;KRW;1
+AUD_UnemploymentRate;20081211;00:30;Unemployment Rate s.a.;Australia;AUD;2
+AUD_EmploymentChange;20081211;00:30;Employment Change s.a.;Australia;AUD;2
+AUD_ConsumerInflationExpectations;20081211;00:00;Consumer Inflation Expectations;Australia;AUD;1

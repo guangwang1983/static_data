@@ -1,0 +1,32 @@
+JPY_CurrentAccount;20121008;23:50;Current Account n.s.a.;Japan;JPY;1
+JPY_TradeBalanceBOPBasis;20121008;23:50;Trade Balance - BOP Basis;Japan;JPY;2
+GBP_RICSHousingPriceBalance;20121008;23:01;RICS Housing Price Balance;United Kingdom;GBP;2
+GBP_RetailSales;20121008;23:01;BRC Like-For-Like Retail Sales (YoY);United Kingdom;GBP;1
+NZD_RetailSales;20121008;21:45;Electronic Card Retail Sales  (MoM);New Zealand;NZD;1
+NZD_NZIERBusinessConfidence;20121008;21:00;NZIER Business Confidence (QoQ);New Zealand;NZD;2
+NZD_REINZHousePriceIndex;20121008;21:00;REINZ House Price Index (MoM);New Zealand;NZD;1
+EUR_EurEcoFinMeeting;20121008;15:00;EcoFin Meeting;European Monetary Union;EUR;2
+HUF_BudgetBalance;20121008;15:00;Budget Balance;Hungary;HUF;1
+TRY_TreasuryCashBalance;20121008;14:30;Treasury Cash Balance;Turkey;TRY;1
+CLP_TradeBalance;20121008;12:30;Trade Balance;Chile;CLP;1
+EUR_GerIndustrialProduction;20121008;10:00;Industrial Production s.a. (MoM);Germany;EUR;1
+SGD_ForeignReserves;20121008;09:00;Foreign Reserves (MoM);Singapore;SGD;1
+EUR_EurSentixInvestorConfidence;20121008;08:30;Sentix Investor Confidence;European Monetary Union;EUR;2
+CHF_ConsumerPriceIndex;20121008;07:15;Consumer Price Index (MoM);Switzerland;CHF;2
+CZK_UnemploymentRate;20121008;07:00;Unemployment Rate;Czech Republic;CZK;1
+CZK_IndustrialProduction;20121008;07:00;Industrial Production (YoY);Czech Republic;CZK;1
+CZK_Constructionoutput;20121008;07:00;Construction output (YoY);Czech Republic;CZK;1
+CZK_ForeignTradeBalance;20121008;07:00;Foreign Trade Balance (MoM);Czech Republic;CZK;1
+EUR_FinTradeBalance;20121008;06:00;Trade Balance;Finland;EUR;1
+EUR_GerCurrentAccount;20121008;06:00;Current Account n.s.a.;Germany;EUR;1
+EUR_GerTradeBalance;20121008;06:00;Trade Balance s.a.;Germany;EUR;2
+EUR_GerExports;20121008;06:00;Exports (MoM);Germany;EUR;1
+EUR_GerImports;20121008;06:00;Imports (MoM);Germany;EUR;1
+CHF_UnemploymentRate;20121008;05:45;Unemployment Rate s.a (MoM);Switzerland;CHF;2
+CNY_CaixinServicesPMI;20121008;02:30;Caixin Services PMI;China;CNY;2
+HKD_NikkeiManufacturingPMI;20121008;01:30;Nikkei Manufacturing PMI;Hong Kong SAR;HKD;1
+AUD_ANZJobAdvertisements;20121008;00:30;ANZ Job Advertisements;Australia;AUD;1
+USD_ColumbusDay;20121008;00:00;Columbus Day;United States;USD;0
+PEN_AngamosBattle;20121008;00:00;Angamos Battle;Peru;PEN;0
+CAD_ThanksgivingDay;20121008;00:00;Thanksgiving Day;Canada;CAD;0
+JPY_HealthSportsDay;20121008;00:00;Health-Sports Day;Japan;JPY;0

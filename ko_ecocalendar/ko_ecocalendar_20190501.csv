@@ -1,0 +1,45 @@
+ZAR_WorkersDay;20190501;00:00;Workers Day;South Africa;ZAR;0
+EUR_GerLabourDay;20190501;00:00;Labour Day;Germany;EUR;0
+EUR_FraLabourDay;20190501;00:00;Labour Day ;France;EUR;0
+HUF_Labourday;20190501;00:00;Labour day;Hungary;HUF;0
+CZK_LabourDay;20190501;00:00;Labour Day;Czech Republic;CZK;0
+NOK_LabourDay;20190501;00:00;Labour Day;Norway;NOK;0
+PLN_LabourDay;20190501;00:00;Labour Day ;Poland;PLN;0
+RUB_LabourDay;20190501;00:00;Labour Day;Russia;RUB;0
+CHF_LabourDay;20190501;00:00;Labour Day;Switzerland;CHF;0
+EUR_ItaLabourDay;20190501;00:00;Labour Day ;Italy;EUR;0
+KRW_LabourDay;20190501;00:00;Labour Day ;South Korea;KRW;0
+SEK_LabourDay;20190501;00:00;Labour Day;Sweden;SEK;0
+COP_LabourDay;20190501;00:00;Labour Day;Colombia;COP;0
+RON_LaborDay;20190501;00:00;Labor Day;Romania;RON;0
+BRL_LabourDay;20190501;00:00;Labour Day;Brazil;BRL;0
+CLP_LabourDay;20190501;00:00;Labour Day;Chile;CLP;0
+KRW_TradeBalance;20190501;00:00;Trade Balance;South Korea;KRW;1
+TRY_LabourDay;20190501;00:00;Labour Day;Turkey;TRY;0
+MXN_LabourDay;20190501;00:00;Labour Day ;Mexico;MXN;0
+GBP_NationwideHousingPrices;20190501;06:00;Nationwide Housing Prices n.s.a (YoY);United Kingdom;GBP;1
+AUD_RBACommodityIndexSDR;20190501;06:30;RBA Commodity Index SDR (YoY);Australia;AUD;1
+GBP_ConsumerCredit;20190501;08:30;Consumer Credit;United Kingdom;GBP;1
+GBP_MortgageApprovals;20190501;08:30;Mortgage Approvals;United Kingdom;GBP;1
+GBP_S&PGlobalCIPSManufacturingPMI;20190501;08:30;S&P Global/CIPS Manufacturing PMI;United Kingdom;GBP;2
+GBP_M4MoneySupply;20190501;08:30;M4 Money Supply (MoM);United Kingdom;GBP;1
+EUR_EurCentralBankSpeech;20190501;08:30;ECB De Guindos speech;European Monetary Union;EUR;2
+DKK_ManufacturingPMI;20190501;09:00;Manufacturing PMI;Denmark;DKK;1
+GBP_NetLendingtoIndividuals;20190501;09:30;Net Lending to Individuals (MoM);United Kingdom;GBP;1
+USD_MBAMortgageApplications;20190501;11:00;MBA Mortgage Applications;United States;USD;1
+USD_ADPEmploymentChange;20190501;12:15;ADP Employment Change;United States;USD;2
+CAD_S&PGlobalManufacturingPMI;20190501;13:30;S&P Global Manufacturing PMI;Canada;CAD;2
+USD_S&PGlobalManufacturingPMI;20190501;13:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_ISMManufacturingPMI;20190501;14:00;ISM Manufacturing PMI;United States;USD;3
+USD_ISMManufacturingPricesPaid;20190501;14:00;ISM Manufacturing Prices Paid;United States;USD;2
+USD_ISMManufacturingNewOrdersIndex;20190501;14:00;ISM Manufacturing New Orders Index;United States;USD;2
+USD_ISMManufacturingEmploymentIndex;20190501;14:00;ISM Manufacturing Employment Index;United States;USD;2
+USD_ConstructionSpending;20190501;14:00;Construction Spending (MoM);United States;USD;1
+USD_EIACrudeOilStocksChange;20190501;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+USD_FedMonetaryPolicyStatement;20190501;18:00;Fed Monetary Policy Statement;United States;USD;3
+USD_FedInterestRateDecision;20190501;18:00;Fed Interest Rate Decision;United States;USD;3
+USD_FOMCPressConference;20190501;18:30;FOMC Press Conference;United States;USD;3
+MXN_FiscalBalancepesos;20190501;20:00;Fiscal Balance, pesos;Mexico;MXN;1
+CAD_CentralBankSpeech;20190501;20:15;BoC Governor Poloz speech;Canada;CAD;3
+NZD_BuildingPermits;20190501;22:45;Building Permits s.a. (MoM);New Zealand;NZD;2
+KRW_ConsumerPriceIndex;20190501;23:00;Consumer Price Index Growth (MoM);South Korea;KRW;1

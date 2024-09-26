@@ -1,0 +1,25 @@
+CNY_HousePriceIndex;20161118;01:30;House Price Index ;China;CNY;1
+NZD_ProducerPriceIndex;20161118;03:04;Producer Price Index - Output (QoQ);New Zealand;NZD;1
+NZD_RetailSales;20161118;03:04;Retail Sales ex Autos (QoQ);New Zealand;NZD;2
+EUR_GerProducerPriceIndex;20161118;07:00;Producer Price Index (YoY);Germany;EUR;2
+EUR_EurCentralBankSpeech;20161118;08:15;ECB President Draghi speech;European Monetary Union;EUR;3
+EUR_EurCurrentAccount;20161118;09:00;Current Account s.a;European Monetary Union;EUR;1
+GBP_CentralBankSpeech;20161118;09:10;BoE Broadbent speech;United Kingdom;GBP;1
+EUR_GerCentralBankSpeech;20161118;10:30;German Buba President Weidmann speech;Germany;EUR;2
+CLP_GrossDomesticProduct;20161118;11:30;Gross Domestic Product (YoY);Chile;CLP;1
+INR_FXReservesUSD;20161118;11:30;FX Reserves, USD;India;INR;1
+RUB_UnemploymentRate;20161118;13:00;Unemployment Rate;Russia;RUB;1
+PLN_CorporateSectorWages;20161118;13:00;Corporate Sector Wages;Poland;PLN;1
+RUB_ProducerPriceIndex;20161118;13:11;Producer Price Index (MoM);Russia;RUB;1
+CAD_ConsumerPriceIndex;20161118;13:30;Consumer Price Index (YoY);Canada;CAD;1
+USD_CentralBankSpeech;20161118;14:30;Fed Dudley speech;United States;USD;1
+USD_KansasFedManufacturingActivity;20161118;16:00;Kansas Fed Manufacturing Activity;United States;USD;1
+USD_BakerHughesUSOilRigCount;20161118;18:00;Baker Hughes US Oil Rig Count;United States;USD;1
+COP_TradeBalance;20161118;20:00;Trade Balance;Colombia;COP;1
+GBP_CFTCGBPNCNetPositions;20161118;20:30;CFTC GBP NC Net Positions;United Kingdom;GBP;1
+USD_CFTCGoldNCNetPositions;20161118;20:30;CFTC Gold NC Net Positions;United States;USD;1
+USD_CFTCOilNCNetPositions;20161118;20:30;CFTC Oil NC Net Positions;United States;USD;1
+JPY_CFTCJPYNCNetPositions;20161118;20:30;CFTC JPY NC Net Positions;Japan;JPY;1
+USD_CFTCS&P500NCNetPositions;20161118;20:30;CFTC S&P 500 NC Net Positions;United States;USD;1
+EUR_EurCFTCEURNCNetPositions;20161118;20:30;CFTC EUR NC Net Positions;European Monetary Union;EUR;1
+AUD_CFTCAUDNCNetPositions;20161118;20:30;CFTC AUD NC Net Positions;Australia;AUD;1

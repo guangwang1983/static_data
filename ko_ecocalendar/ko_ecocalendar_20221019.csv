@@ -1,0 +1,33 @@
+GBP_RetailPriceIndex;20221019;06:00;Retail Price Index (YoY);United Kingdom;GBP;2
+GBP_ProducerPriceIndex;20221019;06:00;Producer Price Index - Output (MoM) n.s.a;United Kingdom;GBP;1
+GBP_PPICoreOutput;20221019;06:00;PPI Core Output (MoM) n.s.a;United Kingdom;GBP;2
+GBP_ConsumerPriceIndex;20221019;06:00;Consumer Price Index (YoY);United Kingdom;GBP;3
+ZAR_ConsumerPriceIndex;20221019;08:00;Consumer Price Index (YoY);South Africa;ZAR;1
+GBP_DCLGHousePriceIndex;20221019;08:30;DCLG House Price Index (YoY);United Kingdom;GBP;1
+EUR_EurHarmonizedIndexofConsumerPrices;20221019;09:00;Harmonized Index of Consumer Prices (MoM);European Monetary Union;EUR;2
+EUR_EurCoreHarmonizedIndexofConsumerPrices;20221019;09:00;Core Harmonized Index of Consumer Prices (YoY);European Monetary Union;EUR;2
+EUR_EurConstructionOutput;20221019;09:00;Construction Output w.d.a (YoY);European Monetary Union;EUR;1
+ILS_GrossDomesticProduct;20221019;10:00;Gross Domestic Product (QoQ);Israel;ILS;1
+GBP_Auction;20221019;10:30;10-y Bond Auction;United Kingdom;GBP;1
+USD_MBAMortgageApplications;20221019;11:00;MBA Mortgage Applications;United States;USD;1
+ZAR_RetailSales;20221019;11:00;Retail Sales (YoY);South Africa;ZAR;1
+USD_BuildingPermitsChange;20221019;12:30;Building Permits Change;United States;USD;1
+USD_HousingStartsChange;20221019;12:30;Housing Starts Change;United States;USD;1
+USD_HousingStarts;20221019;12:30;Housing Starts (MoM);United States;USD;2
+USD_BuildingPermits;20221019;12:30;Building Permits (MoM);United States;USD;2
+CAD_RawMaterialPriceIndex;20221019;12:30;Raw Material Price Index;Canada;CAD;1
+CAD_IndustrialProductPrice;20221019;12:30;Industrial Product Price (MoM);Canada;CAD;1
+CAD_ConsumerPriceIndex;20221019;12:30;BoC Consumer Price Index Core (MoM);Canada;CAD;2
+USD_EIACrudeOilStocksChange;20221019;14:30;EIA Crude Oil Stocks Change;United States;USD;1
+GBP_CentralBankSpeech;20221019;15:00;BoE Mann speech;United Kingdom;GBP;2
+COP_TradeBalance;20221019;15:00;Trade Balance;Colombia;COP;1
+RUB_ProducerPriceIndex;20221019;16:00;Producer Price Index (MoM);Russia;RUB;1
+USD_Auction;20221019;17:00;20-Year Bond Auction;United States;USD;1
+USD_FedBeigeBook;20221019;18:00;Fed Beige Book;United States;USD;2
+USD_CentralBankSpeech;20221019;22:30;Fed Bullard speech;United States;USD;2
+JPY_Imports;20221019;23:50;Imports (YoY);Japan;JPY;2
+JPY_Exports;20221019;23:50;Exports (YoY);Japan;JPY;2
+JPY_MerchandiseTradeBalanceTotal;20221019;23:50;Merchandise Trade Balance Total;Japan;JPY;2
+JPY_AdjustedMerchandiseTradeBalance;20221019;23:50;Adjusted Merchandise Trade Balance;Japan;JPY;1
+JPY_ForeignInvestmentinJapanStocks;20221019;23:50;Foreign Investment in Japan Stocks;Japan;JPY;1
+JPY_ForeignBondInvestment;20221019;23:50;Foreign Bond Investment;Japan;JPY;1

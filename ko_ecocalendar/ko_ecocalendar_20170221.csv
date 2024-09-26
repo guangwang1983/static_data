@@ -1,0 +1,29 @@
+AUD_RBAMeetingMinutes;20170221;00:30;RBA Meeting Minutes;Australia;AUD;3
+JPY_JibunBankManufacturingPMI;20170221;00:30;Jibun Bank Manufacturing PMI;Japan;JPY;1
+JPY_AllIndustryActivityIndex;20170221;04:30;All Industry Activity Index (MoM);Japan;JPY;2
+CHF_Exports;20170221;07:00;Exports (MoM);Switzerland;CHF;1
+CHF_Imports;20170221;07:00;Imports (MoM);Switzerland;CHF;1
+CHF_TradeBalance;20170221;07:00;Trade Balance;Switzerland;CHF;1
+EUR_FraConsumerPriceIndex;20170221;07:45;Consumer Price Index (EU norm) (MoM);France;EUR;1
+EUR_FraInflationextobacco;20170221;07:45;Inflation ex-tobacco (MoM);France;EUR;1
+EUR_FraHCOBCompositePMI;20170221;08:00;HCOB Composite PMI;France;EUR;1
+EUR_FraHCOBManufacturingPMI;20170221;08:00;HCOB Manufacturing PMI;France;EUR;1
+EUR_FraHCOBServicesPMI;20170221;08:00;HCOB Services PMI;France;EUR;1
+EUR_GerHCOBCompositePMI;20170221;08:30;HCOB Composite PMI;Germany;EUR;2
+EUR_GerHCOBManufacturingPMI;20170221;08:30;HCOB Manufacturing PMI;Germany;EUR;2
+EUR_GerHCOBServicesPMI;20170221;08:30;HCOB Services PMI;Germany;EUR;2
+EUR_EurHCOBServicesPMI;20170221;09:00;HCOB Services PMI;European Monetary Union;EUR;2
+EUR_EurHCOBManufacturingPMI;20170221;09:00;HCOB Manufacturing PMI;European Monetary Union;EUR;2
+EUR_EurHCOBCompositePMI;20170221;09:00;HCOB Composite PMI;European Monetary Union;EUR;2
+GBP_PublicSectorNetBorrowing;20170221;09:30;Public Sector Net Borrowing;United Kingdom;GBP;2
+GBP_CentralBankSpeech;20170221;10:00;BoE Governor Carney speech;United Kingdom;GBP;3
+GBP_BoEMonetaryPolicyReportHearings;20170221;10:00;BoE Monetary Policy Report Hearings;United Kingdom;GBP;3
+EUR_EurEcoFinMeeting;20170221;10:00;EcoFin Meeting;European Monetary Union;EUR;2
+NZD_GDTPriceIndex;20170221;14:01;GDT Price Index;New Zealand;NZD;1
+USD_S&PGlobalManufacturingPMI;20170221;14:45;S&P Global Manufacturing PMI;United States;USD;2
+USD_S&PGlobalServicesPMI;20170221;14:45;S&P Global Services PMI;United States;USD;2
+USD_S&PGlobalCompositePMI;20170221;14:45;S&P Global Composite PMI;United States;USD;2
+USD_Auction;20170221;18:00;2-Year Note Auction;United States;USD;1
+USD_CentralBankSpeech;20170221;20:30;Fed Williams speech;United States;USD;1
+AUD_CentralBankSpeech;20170221;21:30;RBA Governor Lowe speech;Australia;AUD;3
+AUD_WestpacLeadingIndex;20170221;23:30;Westpac Leading Index (MoM);Australia;AUD;1

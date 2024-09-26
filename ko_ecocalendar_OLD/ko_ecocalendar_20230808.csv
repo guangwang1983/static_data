@@ -1,0 +1,39 @@
+AUD_WestpacConsumerConfidence;20230808;00:30;Westpac Consumer Confidence;Australia;AUD;2
+AUD_NationalAustraliaBankBusinessConditions;20230808;01:30;National Australia Bank Business Conditions;Australia;AUD;1
+AUD_NationalAustraliaBankBusinessConfidence;20230808;01:30;National Australia Bank Business Confidence;Australia;AUD;1
+CNY_Exports;20230808;03:00;Exports (YoY);China;CNY;2
+CNY_Imports;20230808;03:00;Imports (YoY) CNY;China;CNY;2
+CNY_TradeBalanceUSD;20230808;03:00;Trade Balance USD;China;CNY;2
+CNY_TradeBalanceCNY;20230808;03:00;Trade Balance CNY;China;CNY;2
+JPY_EcoWatchersSurvey:Outlook;20230808;05:00;Eco Watchers Survey: Outlook;Japan;JPY;1
+JPY_EcoWatchersSurvey:Current;20230808;05:00;Eco Watchers Survey: Current;Japan;JPY;1
+EUR_GerConsumerPriceIndex;20230808;06:00;Consumer Price Index (MoM);Germany;EUR;1
+EUR_GerHarmonizedIndexofConsumerPrices;20230808;06:00;Harmonized Index of Consumer Prices (YoY);Germany;EUR;3
+HUF_ConsumerPriceIndex;20230808;06:30;Consumer Price Index (YoY);Hungary;HUF;1
+HUF_TradeBalance;20230808;06:30;Trade Balance;Hungary;HUF;1
+EUR_FraExportsEUR;20230808;06:45;Exports, EUR;France;EUR;1
+EUR_FraTradeBalanceEUR;20230808;06:45;Trade Balance EUR;France;EUR;1
+EUR_FraImportsEUR;20230808;06:45;Imports, EUR;France;EUR;1
+EUR_FraCurrentAccount;20230808;06:45;Current Account;France;EUR;1
+CZK_UnemploymentRate;20230808;07:00;Unemployment Rate;Czech Republic;CZK;1
+CZK_FXReserves;20230808;08:00;FX Reserves;Czech Republic;CZK;1
+HUF_BudgetBalance;20230808;09:00;Budget Balance;Hungary;HUF;1
+USD_NFIBBusinessOptimismIndex;20230808;10:00;NFIB Business Optimism Index;United States;USD;1
+ILS_BudgetBalanceILS;20230808;10:00;Budget Balance - ILS;Israel;ILS;1
+ILS_FXReserves;20230808;11:00;FX Reserves;Israel;ILS;1
+CLP_ConsumerPriceIndex;20230808;12:00;Consumer Price Index (Inflation) (MoM);Chile;CLP;1
+USD_GoodsandServicesTradeBalance;20230808;12:30;Goods and Services Trade Balance;United States;USD;1
+USD_GoodsTradeBalance;20230808;12:30;Goods Trade Balance;United States;USD;1
+CAD_InternationalMerchandiseTrade;20230808;12:30;International Merchandise Trade;Canada;CAD;1
+CAD_Exports;20230808;12:30;Exports;Canada;CAD;1
+CAD_Imports;20230808;12:30;Imports;Canada;CAD;1
+USD_RedbookIndex;20230808;12:55;Redbook Index (YoY);United States;USD;1
+USD_WholesaleInventories;20230808;14:00;Wholesale Inventories;United States;USD;1
+USD_IBDTIPPEconomicOptimism;20230808;14:00;IBD/TIPP Economic Optimism (MoM);United States;USD;1
+USD_Auction;20230808;17:00;3-Year Note Auction;United States;USD;1
+USD_APIWeeklyCrudeOilStock;20230808;20:30;API Weekly Crude Oil Stock;United States;USD;1
+ZAR_NationalWomen’sDay;20230808;22:00;National Women’s Day;South Africa;ZAR;0
+NZD_RetailSales;20230808;22:45;Electronic Card Retail Sales  (MoM);New Zealand;NZD;1
+KRW_UnemploymentRate;20230808;23:00;Unemployment Rate;South Korea;KRW;1
+COP_ConsumerPriceIndex;20230808;23:00;Consumer Price Index (YoY);Colombia;COP;1
+JPY_MoneySupplyM2+CD;20230808;23:50;Money Supply M2+CD (YoY);Japan;JPY;1

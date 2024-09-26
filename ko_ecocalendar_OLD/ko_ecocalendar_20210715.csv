@@ -1,0 +1,48 @@
+NZD_ConsumerPriceIndex;20210715;22:45;Consumer Price Index (YoY);New Zealand;NZD;3
+NZD_BusinessNZPMI;20210715;22:30;Business NZ PMI;New Zealand;NZD;2
+ARS_ConsumerPriceIndex;20210715;19:00;Consumer Price Index (MoM);Argentina;ARS;1
+USD_Auction;20210715;15:30;4-Week Bill Auction;United States;USD;1
+ILS_ConsumerPriceIndex;20210715;15:30;Consumer Price Index (YoY);Israel;ILS;1
+COP_RetailSales;20210715;15:00;Retail Sales (YoY);Colombia;COP;1
+COP_Industrialoutput;20210715;15:00;Industrial output (YoY);Colombia;COP;1
+USD_EIANaturalGasStorageChange;20210715;14:30;EIA Natural Gas Storage Change;United States;USD;1
+USD_NAHBHousingMarketIndex;20210715;14:00;NAHB Housing Market Index;United States;USD;1
+USD_FedChairPowelltestifies;20210715;13:30;Fed Chair Powell testifies;United States;USD;3
+USD_IndustrialProduction;20210715;13:15;Industrial Production (MoM);United States;USD;1
+USD_CapacityUtilization;20210715;13:15;Capacity Utilization;United States;USD;1
+RUB_CentralBankReserves;20210715;13:00;Central Bank Reserves $;Russia;RUB;1
+USD_NYEmpireStateManufacturingIndex;20210715;12:30;NY Empire State Manufacturing Index;United States;USD;1
+USD_JoblessClaims;20210715;12:30;Continuing Jobless Claims;United States;USD;1
+CAD_ADPEmploymentChange;20210715;12:30;ADP Employment Change;Canada;CAD;1
+USD_ImportPriceIndex;20210715;12:30;Import Price Index (YoY);United States;USD;1
+USD_ExportPriceIndex;20210715;12:30;Export Price Index (YoY);United States;USD;1
+USD_PhiladelphiaFedManufacturingSurvey;20210715;12:30;Philadelphia Fed Manufacturing Survey;United States;USD;2
+INR_TradeDeficitGovernment;20210715;11:30;Trade Deficit Government;India;INR;1
+EUR_SpaAuction;20210715;08:40;10-y Obligaciones Auction;Spain;EUR;1
+GBP_BoECreditConditionsSurvey;20210715;08:30;BoE Credit Conditions Survey;United Kingdom;GBP;1
+PLN_ConsumerPriceIndex;20210715;08:00;Consumer Price Index (YoY);Poland;PLN;1
+EUR_ItaConsumerPriceIndex;20210715;08:00;Consumer Price Index (MoM);Italy;EUR;1
+GBP_AverageEarningsExcludingBonus;20210715;06:00;Average Earnings Excluding Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_AverageEarningsIncludingBonus;20210715;06:00;Average Earnings Including Bonus (3Mo/Yr);United Kingdom;GBP;2
+GBP_ILOUnemploymentRate;20210715;06:00;ILO Unemployment Rate (3M);United Kingdom;GBP;3
+GBP_ClaimantCountChange;20210715;06:00;Claimant Count Change;United Kingdom;GBP;3
+GBP_ClaimantCountRate;20210715;06:00;Claimant Count Rate;United Kingdom;GBP;2
+EUR_FinGrossDomesticProduct;20210715;05:00;Gross Domestic Product (YoY);Finland;EUR;1
+JPY_TertiaryIndustryIndex;20210715;04:30;Tertiary Industry Index (MoM);Japan;JPY;1
+IDR_TradeBalance;20210715;04:00;Trade Balance;Indonesia;IDR;1
+IDR_Exports;20210715;04:00;Exports;Indonesia;IDR;1
+IDR_Imports;20210715;04:00;Imports;Indonesia;IDR;1
+CNY_RetailSales;20210715;02:00;Retail Sales (YoY);China;CNY;3
+CNY_IndustrialProduction;20210715;02:00;Industrial Production (YoY);China;CNY;2
+CNY_NBSPressConference;20210715;02:00;NBS Press Conference;China;CNY;2
+CNY_FixedAssetInvestment;20210715;02:00;Fixed Asset Investment (YTD) (YoY);China;CNY;1
+KRW_TradeBalance;20210715;02:00;Trade Balance;South Korea;KRW;1
+CNY_GrossDomesticProduct;20210715;02:00;Gross Domestic Product (QoQ);China;CNY;3
+CNY_HousePriceIndex;20210715;01:30;House Price Index ;China;CNY;1
+AUD_EmploymentChange;20210715;01:30;Employment Change s.a.;Australia;AUD;3
+AUD_FulltimeEmployment;20210715;01:30;Fulltime Employment;Australia;AUD;2
+AUD_PartTimeEmployment;20210715;01:30;Part-Time Employment;Australia;AUD;1
+AUD_UnemploymentRate;20210715;01:30;Unemployment Rate s.a.;Australia;AUD;3
+AUD_ParticipationRate;20210715;01:30;Participation Rate;Australia;AUD;1
+AUD_ConsumerInflationExpectations;20210715;01:00;Consumer Inflation Expectations;Australia;AUD;2
+KRW_BoKInterestRateDecision;20210715;01:00;BoK Interest Rate Decision;South Korea;KRW;1

@@ -1,0 +1,22 @@
+USD_CentralBankSpeech;20150527;00:10;Fed Lacker speech;United States;USD;1
+AUD_WestpacLeadingIndex;20150527;00:30;Westpac Leading Index (MoM);Australia;AUD;1
+AUD_CentralBankSpeech;20150527;00:45;OUTDATED - RBA Deputy Governor Lowe Speech;Australia;AUD;2
+AUD_ConstructionWorkDone;20150527;01:30;Construction Work Done;Australia;AUD;1
+EUR_GerGfkConsumerConfidenceSurvey;20150527;06:00;Gfk Consumer Confidence Survey;Germany;EUR;2
+CHF_UBSConsumptionIndicator;20150527;06:00;UBS Consumption Indicator;Switzerland;CHF;2
+EUR_FraConsumerConfidence;20150527;06:45;Consumer Confidence;France;EUR;1
+SEK_ConsumerConfidence;20150527;07:00;Consumer Confidence (MoM);Sweden;SEK;1
+SEK_TradeBalance;20150527;07:30;Trade Balance (MoM);Sweden;SEK;1
+TRY_ForeignArrivals;20150527;08:00;Foreign Arrivals;Turkey;TRY;1
+EUR_GerAuction;20150527;09:44;30-y Bond Auction;Germany;EUR;1
+EUR_EurG7Meeting;20150527;11:00;G7 Meeting;European Monetary Union;EUR;3
+USD_MBAMortgageApplications;20150527;11:00;MBA Mortgage Applications;United States;USD;1
+INR_M3MoneySupply;20150527;11:30;M3 Money Supply;India;INR;1
+USD_RedbookIndex;20150527;12:55;Redbook Index (YoY);United States;USD;1
+CAD_BoCRateStatement;20150527;14:00;BoC Rate Statement;Canada;CAD;3
+CAD_BoCInterestRateDecision;20150527;14:00;BoC Interest Rate Decision;Canada;CAD;3
+USD_Auction;20150527;17:00;5-Year Note Auction;United States;USD;1
+JPY_ForeignInvestmentinJapanStocks;20150527;23:50;Foreign Investment in Japan Stocks;Japan;JPY;2
+JPY_ForeignBondInvestment;20150527;23:50;Foreign Bond Investment;Japan;JPY;2
+JPY_RetailTrade;20150527;23:50;Retail Trade s.a (MoM);Japan;JPY;2
+JPY_LargeRetailerSales;20150527;23:50;Large Retailer Sales;Japan;JPY;2
